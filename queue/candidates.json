@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T22:50:07+00:00",
+ "generated_at": "2026-10-30T22:56:42+00:00",
  "clusters": [
   {
    "id": "cbfc1aa8043",
@@ -1044,44 +1044,44 @@
    ]
   },
   {
-   "id": "c871b81f930",
+   "id": "ccae34a5218",
    "kind": "news",
    "score": 6.0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-   "sources": [
-    {
-     "source": "Ars Technica",
-     "trust": 2,
-     "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
-     "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-     "lang": "en",
-     "extra": {},
-     "id": "871b81f930c7e6ad",
-     "published": "2026-10-30T16:53+00:00",
-     "text": "The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans.\nIn a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals\" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun.\n“If you steal American identities, if you steal taxpayer dollars, if you exploit programs meant to help students build a future—we will find you,” McDonald said. “Whether you are in Nebraska, New Jersey, Virginia, or Nairobi, we will pursue you.”"
-    }
-   ]
-  },
-  {
-   "id": "c8125d8691c",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Amazon cuts Apple AirTag 2 to $23 with 21% off",
+   "title_hint": "Google’s working on a Pixel upgrade for handling calls on your commute",
    "sources": [
     {
      "source": "Android Authority",
      "trust": 2,
-     "url": "https://androidauthority.com/apple-airtag-2-deal-3730238",
-     "title": "Amazon cuts Apple AirTag 2 to $23 with 21% off",
+     "url": "https://androidauthority.com/transit-mode-take-a-message-3730206",
+     "title": "Google’s working on a Pixel upgrade for handling calls on your commute",
      "lang": "en",
      "extra": {},
-     "id": "8125d8691c31cefe",
-     "published": "2026-10-30T16:55+00:00",
-     "text": "Misplaced keys, bags, and luggage can waste a lot of time, and that’s exactly where the Apple AirTag 2 comes in. There’s also a nice deal on Amazon right now, dropping this tracker to $23.\nSee the deal at Amazon"
+     "id": "cae34a5218705ac3",
+     "published": "2026-10-30T16:57+00:00",
+     "text": "Google’s always cooking up new features for its Pixel phones, but with so much new stuff arriving all the time, not everything’s always going to be super-tightly integrated, right out of the gate. But now it looks like Google could finally be getting around to connecting two recent Pixel additions, as we spot work towards bringing what looks like some special Take a Message support to Transit mode.\nYou’re reading an Authority Insights story. Authority Insights brings you all the latest exclusive reports, app teardowns, leaks, and in-depth tech coverage from the Android Authority team that you won’t find anywhere else."
+    }
+   ]
+  },
+  {
+   "id": "c46d8d781be",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+   "sources": [
+    {
+     "source": "The Hacker News",
+     "trust": 2,
+     "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+     "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+     "lang": "en",
+     "extra": {},
+     "id": "46d8d781bead54a3",
+     "published": "2026-10-30T16:58+00:00",
+     "text": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.\nThe activity has been attributed by CrowdStrike to a China-based \"targeted intrusion adversary\" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in"
     }
    ]
   },
@@ -1382,8 +1382,8 @@
       "market": "crypto",
       "day": "2026-10-30"
      },
-     "published": "2026-10-30T22:49+00:00",
-     "text": "Bitcoin: $76,887 (-2.5% 24h)\nEthereum: $2,235 (-1.6% 24h)\nSolana: $95.73 (-1.3% 24h)\nToncoin: $1.17 (-0.4% 24h)"
+     "published": "2026-10-30T22:56+00:00",
+     "text": "Bitcoin: $76,881 (-2.5% 24h)\nEthereum: $2,235 (-1.6% 24h)\nSolana: $95.74 (-1.1% 24h)\nToncoin: $1.17 (-0.2% 24h)"
     }
    ]
   }
