@@ -185,7 +185,8 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
     key = tokens(cluster.get("title_hint", "")) | tokens(lines[0]) | entities(lines[0])
     urls = {canon_url(s["url"]) for s in cluster["sources"]}
     for h in history:
-        if now - h.get("published_ts", 0) > DEDUPE_DAYS * 86400 or h.get("id") == post["id"]:
+        if (now - h.get("published_ts", 0) > DEDUPE_DAYS * 86400 or h.get("id") == post["id"]
+                or h.get("id") in (post.get("replaces") or [])):  # a corrected re-issue of an older post
             continue
         if h.get("cluster_id") == post["cluster_id"] and ptype != "market":
             err.append(f"dedupe: cluster already posted ({h['id']})")

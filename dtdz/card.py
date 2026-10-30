@@ -266,5 +266,8 @@ def _market_rows(text: str) -> list[tuple[str, str]]:
         ln = SYMBOLS.sub("", EMOJI.sub("", ln)).strip()
         if "%" in ln and ":" in ln and re.search(r"\d", ln):
             label, value = ln.split(":", 1)
-            rows.append((label.strip(), value.strip()))
+            value = re.sub(r"([\d.,]+)\s*دولار", r"$\1", value)
+            value = re.sub(r"،?\s*بتراجع\s*([\d.]+)%", r" (-\1%)", value)
+            value = re.sub(r"،?\s*بارتفاع\s*([\d.]+)%", r" (+\1%)", value).strip()   # LTR: "$76,881 (-2.5%)"
+            rows.append((label.strip(), value))
     return rows
