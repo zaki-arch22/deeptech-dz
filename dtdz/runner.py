@@ -62,8 +62,19 @@ def git_ready() -> bool:
     return git("ls-remote", "-q", "origin", "HEAD", check=False).returncode == 0
 
 
+CODE_PATHS = ("dtdz/", "requirements.txt", "assets/")
+
+
 def git_pull() -> None:
+    """Pull; if the code itself changed, exit so Docker restarts the bot on the new code."""
+    before = git("rev-parse", "HEAD", check=False).stdout.strip()
     git("pull", "--rebase", "--autostash", "-q", check=False)
+    after = git("rev-parse", "HEAD", check=False).stdout.strip()
+    if before and after and before != after:
+        changed = git("diff", "--name-only", before, after, check=False).stdout.split()
+        if any(f.startswith(CODE_PATHS) for f in changed):
+            log.warning("code updated (%s..%s) — restarting", before[:7], after[:7])
+            os._exit(3)  # restart: unless-stopped brings the container back
 
 
 def git_push(paths: list[str], message: str) -> None:

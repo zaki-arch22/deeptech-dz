@@ -47,7 +47,7 @@ def test_headline_and_bidi():
 
 
 def test_caption_limit():
-    long = GOOD.replace("رأينا:", "رأينا: " + "كلام " * 200)
+    long = GOOD.replace("الأرقام جميلة", "الأرقام جميلة " + "كلام " * 200)
     errs = check_post(post(long), cluster(), load_banned(ROOT / "banned_phrases.txt"), [], T0)
     assert any("Telegram caption" in e for e in errs)
 
@@ -84,7 +84,7 @@ def test_failing_post_is_rejected_and_logged(tmp_path):
 
 def test_one_post_per_tick_and_cluster_from_store(tmp_path):
     second = post(id="b", slot="2026-10-31T08:31:00+01:00", cluster_id="cy",
-                  text=GOOD.replace("Nimbus Labs تقول", "شركة Nimbus Labs تؤكد"))
+                  text=GOOD.replace("Nimbus Labs تقول", "Nimbus Labs تؤكد"))
     root = setup_root(tmp_path, [post(), second])
     c2 = cluster() | {"id": "cy", "title_hint": "Zeta",
                       "sources": [s | {"url": s["url"] + "-other"} for s in cluster()["sources"]]}

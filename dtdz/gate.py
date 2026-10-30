@@ -15,7 +15,10 @@ from .text import (EMOJI, LATIN_WORD, URL, canon_url, entities, host, jaccard, n
 
 SIGNATURE = "◆ Deeptech DZ"
 TYPES = {"news", "free", "tool", "market", "odd"}
-WORDS = {"news": (40, 180), "odd": (40, 180), "free": (30, 150), "tool": (40, 180), "market": (20, 140)}
+WORDS = {"news": (35, 120), "odd": (35, 120), "free": (25, 100), "tool": (30, 120), "market": (20, 140)}
+MAX_LATIN_WORDS = 6               # Latin words outside links: Arabic first, names in Arabic
+MAX_SENTENCE_WORDS = 25
+HEADLINE_WORDS = (3, 8)
 MAX_PARA_LINES = {"market": 9, "tool": 6}
 MAX_EMOJI, MAX_EMOJI_FIRST = 3, 1
 MAX_CHARS = 1024                 # Telegram photo caption limit
@@ -74,6 +77,7 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
     lines = text.split("\n")
     body_lines = [l for l in lines if l.strip() and l.strip() != SIGNATURE and not l.strip().startswith("#")]
     body = "\n".join(body_lines)
+    facts_text = body + "\n" + post.get("headline", "")
     norm = norm_ar(text).lower()
     src_text = "\n".join(s["title"] + "\n" + s["text"] + "\n" + s["url"] for s in cluster["sources"])
     src_norm = norm_ar(src_text).lower()
@@ -99,6 +103,25 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
         err.append("format: max one emoji in the first line")
     if lines[0].strip() == "" or lines[0].lstrip().startswith("#"):
         err.append("format: the first line must carry the news")
+    # Arabic first: Telegram sets each paragraph's direction from its first strong letter
+    for ln in body_lines:
+        first = next((ch for ch in ln if ch.isalpha()), "")
+        if first and not ("\u0600" <= first <= "\u06FF") and not ln.strip().startswith("🔗"):
+            err.append(f"format: line starts with a non-Arabic word — rewrite: «{ln.strip()[:40]}»")
+    latin = LATIN_WORD.findall(URL.sub(" ", body))
+    if len(latin) > MAX_LATIN_WORDS and ptype != "market":
+        err.append(f"style: {len(latin)} English words (max {MAX_LATIN_WORDS}); write known names in Arabic")
+    for sent in re.split(r"[.!؟?\n]+", URL.sub(" ", body)):
+        if len(sent.split()) > MAX_SENTENCE_WORDS:
+            err.append(f"style: sentence of {len(sent.split())} words (max {MAX_SENTENCE_WORDS})")
+            break
+    if "headline" in post:
+        hw = post["headline"].split()
+        if not HEADLINE_WORDS[0] <= len(hw) <= HEADLINE_WORDS[1]:
+            err.append(f"format: headline must be {HEADLINE_WORDS[0]}-{HEADLINE_WORDS[1]} words")
+        first = next((ch for ch in post["headline"] if ch.isalpha()), "")
+        if first and not ("\u0600" <= first <= "\u06FF"):
+            err.append("format: headline must start with an Arabic word")
     if len(text) > MAX_CHARS:
         err.append(f"format: {len(text)} characters (max {MAX_CHARS}, Telegram caption limit)")
     n_words = len(re.findall(r"\S+", URL.sub("", body)))
@@ -113,7 +136,7 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
 
     # facts: every number and every Latin name must exist in the sources
     src_nums = numbers(src_text)
-    body_no_urls = URL.sub(" ", body)
+    body_no_urls = URL.sub(" ", facts_text)
     for m in re.finditer(r"\d+(?:[.,٫٬]\d+)*", norm_ar(body_no_urls)):
         n = numbers(m.group())
         if n <= src_nums:

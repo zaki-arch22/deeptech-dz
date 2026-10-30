@@ -91,7 +91,7 @@ def render(post: dict, out: str | Path) -> Path:
     d.text((PAD, PAD + 2), _date(post["slot"]), font=date_f, fill=MUTED, direction="rtl", language="ar")
 
     # headline (auto-fit) — market cards keep it shorter to leave room for figures
-    title = _isolate(headline(post["text"]))
+    title = _isolate(post.get("headline") or headline(post["text"]))
     data = _market_rows(post["text"]) if ptype == "market" else []
     width = W - 2 * PAD - 20
     # prefer 3 comfortable lines, accept 4 at smaller sizes; market cards keep 2

@@ -33,11 +33,11 @@ def cluster(sensitive=False, sites=2, kind="news", texts=(SRC_A, SRC_B)):
 
 
 GOOD = (
-    "Nimbus Labs تقول إن شريحتها الجديدة تستهلك طاقة أقل بنسبة 40%.\n\n"
+    "شركة Nimbus Labs تقول إن شريحتها الجديدة تستهلك طاقة أقل بنسبة 40%.\n\n"
     "الشريحة اسمها Orbit 3، وأول الهواتف التي تحملها تصل في مارس 2027 بسعر يبدأ من $499.\n\n"
     "الجديد بالنسبة إليك: ترجمة فورية بالعربية داخل الهاتف دون اتصال بالإنترنت، "
     "وهذا يعني محادثات أسرع وخصوصية أكبر.\n\n"
-    "رأينا: الأرقام جميلة على الورق، والاختبار الحقيقي في يد المستخدم.\n\n"
+    "الأرقام جميلة على الورق، والحكم الحقيقي عند التجربة.\n\n"
     "#هواتف\n" + SIGNATURE
 )
 
@@ -63,7 +63,7 @@ def test_good_post_passes():
 
 
 @pytest.mark.parametrize("mutate,expect", [
-    (lambda t: t.replace("رأينا:", "في عالم التقنية، رأينا:"), "banned phrase"),
+    (lambda t: t.replace("الأرقام جميلة", "في عالم التقنية، الأرقام جميلة"), "banned phrase"),
     (lambda t: t.replace("سعر يبدأ", "سارع، سعر يبدأ"), "banned phrase"),
     (lambda t: t.replace("40%", "60%"), "number 60"),
     (lambda t: t.replace("Orbit 3،", "Orbit 3 وشريحة Quasar،"), "name 'Quasar'"),
@@ -71,8 +71,8 @@ def test_good_post_passes():
     (lambda t: t.replace("#هواتف", "#هواتف #تقنية"), "one hashtag"),
     (lambda t: "🔥 🚀 " + t, "first line"),
     (lambda t: t + "!!", "banned phrase"),
-    (lambda t: t.replace("رأينا:", "حمّل من t.me/somechannel رأينا:"), "not allowed"),
-    (lambda t: t.replace("رأينا:", "التفاصيل على randomblog.net رأينا:"), "neither a source"),
+    (lambda t: t.replace("الأرقام جميلة", "حمّل من t.me/somechannel الأرقام جميلة"), "not allowed"),
+    (lambda t: t.replace("الأرقام جميلة", "التفاصيل على randomblog.net الأرقام جميلة"), "neither a source"),
 ])
 def test_bad_posts_fail(mutate, expect):
     errs = check_post(post(mutate(GOOD)), cluster(), BANNED, [], NOW)
@@ -82,7 +82,7 @@ def test_bad_posts_fail(mutate, expect):
 def test_verbatim_copy_fails():
     ar_src = "أعلنت الشركة اليوم عن شريحة جديدة تستهلك طاقة أقل وتدعم الترجمة الفورية داخل الهاتف بالكامل"
     c = cluster(texts=(SRC_A + " " + ar_src, SRC_B))
-    text = GOOD.replace("رأينا:", ar_src + ".\n\nرأينا:")
+    text = GOOD.replace("الأرقام جميلة", ar_src + ".\n\nالأرقام جميلة")
     assert any("verbatim" in e for e in check_post(post(text), c, BANNED, [], NOW))
 
 
@@ -195,3 +195,13 @@ def test_export_end_to_end(tmp_path):
     assert stats["news"] == 2
     hack = next(c for c in data["clusters"] if "breach" in c["title_hint"])
     assert hack["sensitive"] is True and hack["distinct_sites"] == 1
+
+
+def test_arabic_first_and_headline():
+    bad = GOOD.replace("شركة Nimbus Labs تقول", "Nimbus Labs تقول")
+    assert any("non-Arabic" in e for e in check_post(post(bad), cluster(), BANNED, [], NOW))
+    assert check_post(post(headline="شريحة توفر 40% من البطارية"), cluster(), BANNED, [], NOW) == []
+    errs = check_post(post(headline="Orbit 3 chip"), cluster(), BANNED, [], NOW)
+    assert any("headline must start" in e for e in errs)
+    assert any("number 60" in e for e in check_post(post(headline="شريحة توفر 60% من البطارية"),
+                                                    cluster(), BANNED, [], NOW))

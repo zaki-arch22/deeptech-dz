@@ -18,20 +18,26 @@ Daily mix across the 8 slots: 4 news, 1–2 free, 1 tool, 1 market (always the 1
 
 1. `git pull`. Read `STYLE.md` and `banned_phrases.txt` in full. Read `queue/candidates.json`.
    If `generated_at` is older than 3 hours, write nothing and stop (the PC is off).
-2. Pick one cluster per slot. Prefer high `score`, Arabic-reader relevance, and variety
-   (no two posts about the same company in one run). Skip clusters with `sensitive: true`
+2. Pick one cluster per slot using STYLE.md section 1 (selection), not `score` alone.
+   Relevance to an Arab/Algerian reader beats everything: apps they use daily, money, free
+   things, real danger to regular users, genuinely surprising facts. Skip developer-niche news,
+   US-only deals and minor updates — an empty slot is better than a boring post.
+   Variety: no two posts about the same company or topic in one run. Skip clusters with `sensitive: true`
    and `distinct_sites < 2`. For `kind: free` sources with `needs_official_link`, open the
    offer and find the official store page; if you cannot, skip it.
-3. Write each post in Arabic (فصحى) following STYLE.md. Write it from the facts, in your own
+3. Write each post in Arabic (فصحى) following STYLE.md: every line starts with an Arabic word,
+   known companies and apps written in Arabic (جوجل، واتساب، بينانس…), amounts as "6.3 مليار دولار",
+   35–90 words, short direct sentences, no templates like "رأينا:". Write it from the facts, in your own
    words and your own structure; never translate or paraphrase a source sentence by sentence.
    Use only facts present in the cluster's `sources[].text`. Every number and every Latin
    name must appear there. Copy market figures exactly as written in the snapshot.
 4. Save `queue/posts/<YYYY-MM-DD>-<HHMM>.json` (run time) as a JSON array:
    ```json
    [{"id": "2026-10-31-0830", "slot": "2026-10-31T08:30:00+01:00", "type": "news",
-     "cluster_id": "c1a2b3c4d5", "text": "…\n\n#تصنيف\n◆ Deeptech DZ"}]
+     "cluster_id": "c1a2b3c4d5", "headline": "3 إلى 8 كلمات للصورة",
+     "text": "…\n\n#تصنيف\n◆ Deeptech DZ"}]
    ```
-   `type` ∈ news, free, tool, market, odd. `id` = slot date and time.
+   `type` ∈ news, free, tool, market, odd. `id` = slot date and time. `headline` is required.
 5. Run `python -m dtdz check queue/posts/<file>.json`. Fix every failing post and re-run.
    After 3 failed attempts on one post, replace it with another cluster or drop the slot.
 6. Commit only the posts file: `git add queue/posts && git commit -m "posts <date> <run>" && git push`.
