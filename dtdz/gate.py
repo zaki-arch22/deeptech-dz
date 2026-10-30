@@ -147,7 +147,7 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
         err.append("link: a free-offer post needs the official link")
 
     # no copying: no run of SHINGLE words shared with any source
-    if _shingles(text) & _shingles(src_text):
+    if _shingles(URL.sub(" ", text)) & _shingles(URL.sub(" ", src_text)):  # links are expected to match
         err.append(f"style: {SHINGLE}+ words copied verbatim from a source — rewrite")
 
     # 7-day dedupe
