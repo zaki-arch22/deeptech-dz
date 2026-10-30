@@ -163,6 +163,12 @@ def _visual(img: Image.Image, post: dict, accent: str) -> Image.Image:
     cx, cy = VIS_W // 2 + 20, H // 2
     accent_rgb = _hex(accent)
     brands = specs
+    photo = None
+    if post.get("photo", {}).get("wiki"):
+        from .brands import product_photo
+        photo = product_photo(post["photo"]["wiki"])
+    if photo is not None:
+        return _photo_panel(img, photo, specs)
     if specs:
         glow_rgb = _hex(brand_color(specs[0]["slug"])) if specs[0].get("slug") else accent_rgb
         if _lum(glow_rgb) < 0.08 or _lum(glow_rgb) > 0.9:
@@ -187,6 +193,33 @@ def _visual(img: Image.Image, post: dict, accent: str) -> Image.Image:
     img = _glow(img, (cx, cy), 240, accent_rgb, 0.35)
     base = img.convert("RGBA")
     base.alpha_composite(_topic_badge(topic, accent_rgb, 300), (cx - 150, cy - 150))
+    return base.convert("RGB")
+
+
+def _photo_panel(img: Image.Image, photo: Image.Image, specs: list[dict]) -> Image.Image:
+    """Left panel filled with the product photo, fading into the card; logos pinned bottom-left."""
+    pw = VIS_W + 60
+    scale = max(pw / photo.width, H / photo.height)
+    ph = photo.resize((int(photo.width * scale) + 1, int(photo.height * scale) + 1), Image.LANCZOS)
+    left, top = (ph.width - pw) // 2, (ph.height - H) // 2
+    ph = ph.crop((left, top, left + pw, top + H))
+    # fade: opaque on the left, transparent toward the text column; slight darkening for contrast
+    mask = Image.new("L", (pw, H))
+    md = ImageDraw.Draw(mask)
+    for x in range(pw):
+        a = 235 if x < pw * 0.55 else int(235 * (1 - (x - pw * 0.55) / (pw * 0.45)))
+        md.line((x, 0, x, H), fill=max(0, a))
+    dark = Image.new("RGB", ph.size, (11, 15, 20))
+    ph = Image.blend(ph, dark, 0.18)
+    base = img.convert("RGBA")
+    base.paste(ph, (0, 0), mask)
+    x = 40
+    for spec in specs[:2]:
+        t = _tile(spec, 120)
+        base.alpha_composite(t, (x, H - 120 - 44))
+        x += 136
+    d = ImageDraw.Draw(base)
+    _rtl(d, pw - 40, H - 40, "صورة: ويكيبيديا", _font("Regular", 18), (200, 208, 216))
     return base.convert("RGB")
 
 

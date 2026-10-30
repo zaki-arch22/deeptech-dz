@@ -328,3 +328,34 @@ def logo_specs(post: dict, text: str) -> list[dict]:
         specs.append({"key": slug, "label": brand_label(slug), "domain": DOMAINS.get(slug),
                       "wiki": brand_label(slug), "slug": slug})
     return specs[:MAX_BRANDS]
+
+
+# ---------- product photos (optional, creative touch) ----------
+PHOTO_CACHE = ASSETS.parent / "data" / "photos"
+
+
+def product_photo(wiki_title: str):
+    """Lead image of an English Wikipedia article (products, devices, vehicles, places — never people).
+    Wikipedia/Wikimedia lead images are freely licensed; the card credits the source."""
+    from PIL import Image
+    key = re.sub(r"[^a-z0-9]+", "-", wiki_title.lower()).strip("-")
+    PHOTO_CACHE.mkdir(parents=True, exist_ok=True)
+    cached = PHOTO_CACHE / f"{key}.jpg"
+    if cached.exists():
+        return Image.open(cached).convert("RGB")
+    try:
+        import httpx
+        r = httpx.get("https://en.wikipedia.org/w/api.php", timeout=8, headers={"User-Agent": "DeeptechDZ/1.0"},
+                      params={"action": "query", "titles": wiki_title, "prop": "pageimages", "piprop": "thumbnail",
+                              "pithumbsize": 1200, "format": "json", "redirects": 1})
+        for page in r.json()["query"]["pages"].values():
+            src = (page.get("thumbnail") or {}).get("source")
+            if src and not src.lower().endswith(".svg.png"):     # skip logos/diagrams, want a photo
+                im = _fetch(src)
+                if im is not None and min(im.size) >= 300:
+                    im = im.convert("RGB")
+                    im.save(cached, quality=90)
+                    return im
+    except Exception:  # noqa: BLE001
+        return None
+    return None

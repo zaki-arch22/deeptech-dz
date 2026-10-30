@@ -37,6 +37,7 @@ algeria:
 discovery:
   - {name: Hacker News,      url: "https://hnrss.org/frontpage?points=200",              trust: 1}
   - {name: Show HN,          url: "https://hnrss.org/show?points=100",                   trust: 1}
+  - {name: GitHub Trending, url: "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml", trust: 1, verify: true}
   - {name: Product Hunt,     url: https://www.producthunt.com/feed,                    trust: 1, verify: true}
 
 opportunities:

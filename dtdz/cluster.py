@@ -103,12 +103,14 @@ def export(db_path: str | Path, out: str | Path, history_path: str | Path | None
     market = _market_cluster(store, now)
     if market:
         payload["clusters"].append(market)
+    library = _library_clusters(Path(db_path).resolve().parent.parent / "library.yaml", history_path, now)
+    payload["clusters"] += library
     for c in payload["clusters"]:  # the publisher still finds a cluster after it leaves the top list
         store.put(f"cluster:{c['id']}", c)
     Path(out).parent.mkdir(parents=True, exist_ok=True)
     Path(out).write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
     return {"items": len(items), "clusters": len(payload["clusters"]), "news": len(news), "free": len(free),
-            "market": bool(market)}
+            "market": bool(market), "library": len(library)}
 
 
 def _cluster_json(c: Cluster, now: float) -> dict:
@@ -157,3 +159,36 @@ def _used_urls(history_path: str | Path, now: float, days: int = 7) -> set[str]:
         if now - h.get("published_ts", now) <= days * 86400:
             used.update(h.get("source_urls", []))
     return used
+
+
+LIBRARY_COOLDOWN_DAYS = 60
+LIBRARY_EXPORT = 10
+
+
+def _library_clusters(path: Path, history_path, now: float) -> list[dict]:
+    """Evergreen opportunities (free courses, tools, security checks) not posted in the last 60 days.
+    Rotates daily so the writer sees different items."""
+    if not path.exists():
+        return []
+    import yaml
+    items = yaml.safe_load(path.read_text(encoding="utf-8")) or []
+    recent = set()
+    if history_path and Path(history_path).exists():
+        for line in Path(history_path).read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                h = json.loads(line)
+                if now - h.get("published_ts", 0) < LIBRARY_COOLDOWN_DAYS * 86400:
+                    recent.add(h.get("cluster_id"))
+    fresh = [it for it in items if f"lib-{it['id']}" not in recent]
+    day = int(now // 86400)
+    fresh = fresh[day % max(1, len(fresh)):] + fresh[:day % max(1, len(fresh))]
+    out = []
+    for it in fresh[:LIBRARY_EXPORT]:
+        out.append({
+            "id": f"lib-{it['id']}", "kind": "library", "library_kind": it["kind"], "score": 0,
+            "sensitive": False, "distinct_sites": 1, "title_hint": it["title"], "logos": it.get("logos", []),
+            "sources": [{"id": it["id"], "source": "library", "trust": 3, "url": it["url"], "title": it["title"],
+                         "lang": "en", "extra": {}, "published": "",
+                         "text": it["facts"] + " Official site: " + it["url"]}],
+        })
+    return out

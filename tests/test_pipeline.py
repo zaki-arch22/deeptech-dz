@@ -37,7 +37,8 @@ GOOD = (
     "الشريحة اسمها Orbit 3، وأول الهواتف التي تحملها تصل في مارس 2027 بسعر يبدأ من $499.\n\n"
     "الجديد بالنسبة إليك: ترجمة فورية بالعربية داخل الهاتف دون اتصال بالإنترنت، "
     "وهذا يعني محادثات أسرع وخصوصية أكبر.\n\n"
-    "الأرقام جميلة على الورق، والحكم الحقيقي عند التجربة.\n\n"
+    "الأرقام جميلة على الورق، والحكم الحقيقي عند التجربة. "
+    "الشركة تصنع رقاقات الهواتف منذ سنوات، وهذه أول شريحة لها تعد بهذا التوفير في استهلاك البطارية.\n\n"
     "#هواتف\n" + SIGNATURE
 )
 
@@ -108,7 +109,8 @@ def test_free_post_needs_official_link():
     c["sources"][0]["url"] = "https://store.epicgames.com/p/starfall-tactics"
     text = ("🎁 لعبة Starfall Tactics مجانية على Epic Games Store.\n\n"
             "سعرها المعتاد $24.99، وتبقى لك للأبد إذا أضفتها إلى مكتبتك قبل 16:00 بتوقيت UTC يوم 6 نوفمبر.\n\n"
-            "تحتاج فقط حساباً مجانياً في المتجر.\n\n"
+            "تحتاج فقط حساباً مجانياً في المتجر. اللعبة استراتيجية تكتيكية تدور في الفضاء، "
+            "وتناسب من يحب التخطيط الهادئ أكثر من الحركة السريعة.\n\n"
             "🔗 store.epicgames.com/p/starfall-tactics\n" + SIGNATURE)
     p = post(text, type="free")
     assert check_post(p, c, BANNED, [], NOW) == []
@@ -200,10 +202,10 @@ def test_export_end_to_end(tmp_path):
 def test_arabic_first_and_headline():
     bad = GOOD.replace("شركة Nimbus Labs تقول", "Nimbus Labs تقول")
     assert any("non-Arabic" in e for e in check_post(post(bad), cluster(), BANNED, [], NOW))
-    assert check_post(post(headline="شريحة توفر 40% من البطارية"), cluster(), BANNED, [], NOW) == []
-    errs = check_post(post(headline="Orbit 3 chip"), cluster(), BANNED, [], NOW)
+    assert check_post(post(headline="شريحة جديدة توفر 40% من البطارية"), cluster(), BANNED, [], NOW) == []
+    errs = check_post(post(headline="Orbit 3 chip saves battery"), cluster(), BANNED, [], NOW)
     assert any("headline must start" in e for e in errs)
-    assert any("number 60" in e for e in check_post(post(headline="شريحة توفر 60% من البطارية"),
+    assert any("number 60" in e for e in check_post(post(headline="شريحة جديدة توفر 60% من البطارية"),
                                                     cluster(), BANNED, [], NOW))
 
 
@@ -211,3 +213,16 @@ def test_every_post_needs_a_logo():
     errs = check_post(post(logos=[]), cluster(), BANNED, [], NOW)
     assert any("no brand logo" in e for e in errs)
     assert any("domain" in e for e in check_post(post(logos=[{"name": "X"}]), cluster(), BANNED, [], NOW))
+
+
+def test_library_export_and_mix(tmp_path):
+    from dtdz.cluster import _library_clusters
+    lib = _library_clusters(ROOT / "library.yaml", None, NOW)
+    assert lib and all(c["id"].startswith("lib-") and c["logos"] for c in lib)
+    cands = tmp_path / "c.json"
+    cands.write_text(json.dumps({"generated_at": "", "clusters": [cluster()]}), encoding="utf-8")
+    posts = tmp_path / "p.json"
+    batch = [post(id=f"n{i}", slot=f"2026-10-31T0{8 + i}:30:00+01:00", cluster_id="cx") for i in range(3)]
+    posts.write_text(json.dumps(batch, ensure_ascii=False), encoding="utf-8")
+    res = check_file(posts, cands, ROOT / "banned_phrases.txt", tmp_path / "none.jsonl", NOW)
+    assert any("mix:" in e for e in res["n2"])

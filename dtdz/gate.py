@@ -15,10 +15,10 @@ from .text import (EMOJI, LATIN_WORD, URL, canon_url, entities, host, jaccard, n
 
 SIGNATURE = "◆ Deeptech DZ"
 TYPES = {"news", "free", "tool", "market", "odd"}
-WORDS = {"news": (35, 120), "odd": (35, 120), "free": (25, 100), "tool": (30, 120), "market": (20, 140)}
-MAX_LATIN_WORDS = 6               # Latin words outside links: Arabic first, names in Arabic
-MAX_SENTENCE_WORDS = 25
-HEADLINE_WORDS = (3, 8)
+WORDS = {"news": (60, 160), "odd": (50, 160), "free": (45, 150), "tool": (55, 170), "market": (25, 140)}
+MAX_LATIN_WORDS = 8               # Latin words outside links: Arabic first, names in Arabic
+MAX_SENTENCE_WORDS = 28
+HEADLINE_WORDS = (4, 10)
 MAX_PARA_LINES = {"market": 9, "tool": 6}
 MAX_EMOJI, MAX_EMOJI_FIRST = 3, 1
 MAX_CHARS = 1024                 # Telegram photo caption limit
@@ -181,6 +181,15 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
     if _shingles(URL.sub(" ", text)) & _shingles(URL.sub(" ", src_text)):  # links are expected to match
         err.append(f"style: {SHINGLE}+ words copied verbatim from a source — rewrite")
 
+    # library items: once per 60 days
+    if str(post["cluster_id"]).startswith("lib-"):
+        for h in history:
+            if (h.get("cluster_id") == post["cluster_id"] and h.get("id") != post["id"]
+                    and now - h.get("published_ts", 0) < 60 * 86400):
+                err.append(f"dedupe: library item already posted ({h['id']})")
+    if post.get("photo") is not None and not post["photo"].get("wiki"):
+        err.append("visual: 'photo' needs an English Wikipedia title in 'wiki'")
+
     # 7-day dedupe
     key = tokens(cluster.get("title_hint", "")) | tokens(lines[0]) | entities(lines[0])
     urls = {canon_url(s["url"]) for s in cluster["sources"]}
@@ -235,6 +244,10 @@ def check_file(posts_path: str | Path, candidates_path: str | Path, banned_path:
         if not errs:
             slot_ts = _slot_ts(p["slot"]) or (now or time.time())
             history.append(history_entry(p, clusters[p["cluster_id"]], slot_ts))
+    if len(posts) >= 3 and all(p.get("type") == "news" for p in posts):
+        last = posts[-1].get("id", "?")
+        results[last] = results.get(last, []) + [
+            "mix: a run of 3+ posts needs at least one non-news post (free, tool, market or odd)"]
     return results
 
 

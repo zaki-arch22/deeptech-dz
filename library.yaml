@@ -1,0 +1,202 @@
+# Deeptech DZ — مكتبة الفرص الدائمة
+# Evergreen resources that are genuinely free and official. Exported to candidates as clusters
+# "lib-<id>" so the writer always has valuable non-news material. Each item is posted at most
+# once every 60 days. Before writing about an item, the writer opens `url` to confirm it is still
+# free and unchanged; if not, skip it. Facts below are deliberately minimal and stable.
+# kind: course | tool | security | ai | books
+
+- id: cs50x
+  kind: course
+  title: CS50x — Harvard's introduction to computer science
+  url: https://cs50.harvard.edu/x
+  facts: Harvard University's CS50x course is free online. It teaches programming from zero with C, Python, SQL and web development. Students who complete the problem sets and final project can get a free CS50 certificate from the course itself.
+  logos: [{name: Harvard, domain: harvard.edu, wiki: Harvard University}]
+
+- id: github-student-pack
+  kind: tool
+  title: GitHub Student Developer Pack
+  url: https://education.github.com/pack
+  facts: GitHub Student Developer Pack gives verified students free access to many paid developer tools and services. Students apply with proof of enrollment such as a school email or student card.
+  logos: [{name: GitHub, domain: github.com, wiki: GitHub}]
+
+- id: google-ai-studio
+  kind: ai
+  title: Google AI Studio
+  url: https://aistudio.google.com
+  facts: Google AI Studio is a free web tool from Google to try and build with Gemini models directly in the browser, with a Google account.
+  logos: [{name: Gemini, domain: gemini.google.com, wiki: "Gemini (chatbot)"}]
+
+- id: notebooklm
+  kind: ai
+  title: Google NotebookLM
+  url: https://notebooklm.google.com
+  facts: NotebookLM is a free Google tool where you upload your own documents, PDFs or notes, then ask questions about them, get summaries, and generate audio overviews based only on your sources.
+  logos: [{name: NotebookLM, domain: notebooklm.google.com, wiki: NotebookLM}]
+
+- id: freecodecamp
+  kind: course
+  title: freeCodeCamp certifications
+  url: https://www.freecodecamp.org/learn
+  facts: freeCodeCamp is a non-profit that offers free interactive programming courses and free certifications in web development, Python, data analysis and more.
+  logos: [{name: freeCodeCamp, domain: freecodecamp.org, wiki: FreeCodeCamp}]
+
+- id: microsoft-learn
+  kind: course
+  title: Microsoft Learn
+  url: https://learn.microsoft.com/training
+  facts: Microsoft Learn offers free self-paced training paths on Azure, AI, Microsoft 365, Power BI and programming, with free practice assessments for Microsoft certifications.
+  logos: [{name: Microsoft, domain: microsoft.com, wiki: Microsoft}]
+
+- id: elements-of-ai
+  kind: course
+  title: Elements of AI
+  url: https://www.elementsofai.com
+  facts: Elements of AI is a free online course created by the University of Helsinki and MinnaLearn. It explains artificial intelligence for non-programmers and gives a certificate on completion.
+  logos: [{name: Elements of AI, domain: elementsofai.com, wiki: Elements of AI}]
+
+- id: kaggle-learn
+  kind: course
+  title: Kaggle Learn
+  url: https://www.kaggle.com/learn
+  facts: Kaggle Learn offers free short hands-on courses in Python, machine learning, SQL, data visualization and more, with certificates of completion. Code runs in the browser, nothing to install.
+  logos: [{name: Kaggle, domain: kaggle.com, wiki: Kaggle}]
+
+- id: huggingface-learn
+  kind: course
+  title: Hugging Face courses
+  url: https://huggingface.co/learn
+  facts: Hugging Face offers free courses on large language models, AI agents, computer vision and more, built around its open-source libraries.
+  logos: [{slug: huggingface, name: Hugging Face, domain: huggingface.co, wiki: Hugging Face}]
+
+- id: mit-ocw
+  kind: course
+  title: MIT OpenCourseWare
+  url: https://ocw.mit.edu
+  facts: MIT OpenCourseWare publishes materials from thousands of real MIT courses for free, including lecture videos, notes, problem sets and exams.
+  logos: [{name: MIT, domain: mit.edu, wiki: Massachusetts Institute of Technology}]
+
+- id: edraak
+  kind: course
+  title: Edraak — Arabic online courses
+  url: https://www.edraak.org
+  facts: Edraak is an Arabic massive open online course platform, an initiative of the Queen Rania Foundation, offering courses in Arabic.
+  logos: [{name: Edraak, domain: edraak.org, wiki: Edraak}]
+
+- id: coursera-audit
+  kind: course
+  title: Audit Coursera courses for free
+  url: https://www.coursera.org
+  facts: Many Coursera courses from universities and companies can be audited for free, which gives access to the course videos and readings. The paid option adds graded assignments and a certificate. Financial aid can be requested on eligible courses.
+  logos: [{slug: coursera, name: Coursera, domain: coursera.org, wiki: Coursera}]
+
+- id: haveibeenpwned
+  kind: security
+  title: Have I Been Pwned
+  url: https://haveibeenpwned.com
+  facts: Have I Been Pwned is a free website where you enter your email address to see whether it appeared in known data breaches, and which services leaked it.
+  logos: [{name: Have I Been Pwned, domain: haveibeenpwned.com, wiki: "Have I Been Pwned?"}]
+
+- id: google-password-checkup
+  kind: security
+  title: Google Password Checkup
+  url: https://passwords.google.com
+  facts: Google Password Manager includes Password Checkup, which tells you if any of your saved passwords were exposed in a data breach, reused, or weak.
+  logos: [{slug: google, name: Google, domain: google.com, wiki: Google}]
+
+- id: virustotal
+  kind: security
+  title: VirusTotal
+  url: https://www.virustotal.com
+  facts: VirusTotal is a free service owned by Google that scans a file or a link with dozens of antivirus engines at once, useful before opening a suspicious file or APK.
+  logos: [{name: VirusTotal, domain: virustotal.com, wiki: VirusTotal}]
+
+- id: bitwarden
+  kind: security
+  title: Bitwarden password manager
+  url: https://bitwarden.com
+  facts: Bitwarden is an open-source password manager with a free plan that stores unlimited passwords and syncs across unlimited devices.
+  logos: [{name: Bitwarden, domain: bitwarden.com, wiki: Bitwarden}]
+
+- id: photopea
+  kind: tool
+  title: Photopea
+  url: https://www.photopea.com
+  facts: Photopea is a free online image editor that runs in the browser and opens PSD files, with layers and tools similar to Photoshop.
+  logos: [{name: Photopea, domain: photopea.com, wiki: Photopea}]
+
+- id: davinci-resolve
+  kind: tool
+  title: DaVinci Resolve (free version)
+  url: https://www.blackmagicdesign.com/products/davinciresolve
+  facts: DaVinci Resolve from Blackmagic Design has a free version for professional video editing, color correction and audio, used in film and television.
+  logos: [{name: DaVinci Resolve, domain: blackmagicdesign.com, wiki: DaVinci Resolve}]
+
+- id: blender
+  kind: tool
+  title: Blender
+  url: https://www.blender.org
+  facts: Blender is a free and open-source 3D software for modeling, animation, rendering and video editing, used by studios and independent artists.
+  logos: [{name: Blender, domain: blender.org, wiki: "Blender (software)"}]
+
+- id: obs-studio
+  kind: tool
+  title: OBS Studio
+  url: https://obsproject.com
+  facts: OBS Studio is free open-source software for screen recording and live streaming on Windows, macOS and Linux.
+  logos: [{name: OBS Studio, domain: obsproject.com, wiki: OBS Studio}]
+
+- id: libreoffice
+  kind: tool
+  title: LibreOffice
+  url: https://www.libreoffice.org
+  facts: LibreOffice is a free open-source office suite with a word processor, spreadsheets and presentations that opens Microsoft Office files.
+  logos: [{name: LibreOffice, domain: libreoffice.org, wiki: LibreOffice}]
+
+- id: ollama
+  kind: ai
+  title: Ollama — run AI models on your own computer
+  url: https://ollama.com
+  facts: Ollama is a free tool to download and run open AI language models locally on your own computer, without sending your data to the internet once the model is downloaded.
+  logos: [{name: Ollama, domain: ollama.com, wiki: Ollama}]
+
+- id: excalidraw
+  kind: tool
+  title: Excalidraw
+  url: https://excalidraw.com
+  facts: Excalidraw is a free online whiteboard for hand-drawn style diagrams and sketches, with live collaboration by sharing a link.
+  logos: [{name: Excalidraw, domain: excalidraw.com, wiki: Excalidraw}]
+
+- id: open-library
+  kind: books
+  title: Open Library
+  url: https://openlibrary.org
+  facts: Open Library, a project of the Internet Archive, lets you search millions of books and borrow digital copies of many of them for free.
+  logos: [{name: Internet Archive, domain: archive.org, wiki: Internet Archive}]
+
+- id: project-gutenberg
+  kind: books
+  title: Project Gutenberg
+  url: https://www.gutenberg.org
+  facts: Project Gutenberg offers over 70,000 free ebooks, mostly classics in the public domain, to download or read online.
+  logos: [{name: Project Gutenberg, domain: gutenberg.org, wiki: Project Gutenberg}]
+
+- id: google-fonts
+  kind: tool
+  title: Google Fonts
+  url: https://fonts.google.com
+  facts: Google Fonts is a free library of open-licensed fonts, including many Arabic fonts, usable in designs, websites and commercial projects.
+  logos: [{slug: google, name: Google, domain: google.com, wiki: Google}]
+
+- id: canva-education
+  kind: tool
+  title: Canva for Education
+  url: https://www.canva.com/education
+  facts: Canva for Education gives eligible primary and secondary school teachers and their students free access to Canva's premium features.
+  logos: [{slug: canva, name: Canva, domain: canva.com, wiki: Canva}]
+
+- id: jetbrains-students
+  kind: tool
+  title: JetBrains free student licenses
+  url: https://www.jetbrains.com/community/education
+  facts: JetBrains offers free educational licenses for its professional programming tools, such as IntelliJ IDEA and PyCharm, to students and teachers.
+  logos: [{name: JetBrains, domain: jetbrains.com, wiki: JetBrains}]
