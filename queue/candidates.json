@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T23:08:20+00:00",
+ "generated_at": "2026-10-30T23:29:43+00:00",
  "clusters": [
   {
    "id": "cbfc1aa8043",
@@ -821,34 +821,34 @@
    ]
   },
   {
-   "id": "c345cc9797a",
+   "id": "c89c17d9031",
    "kind": "news",
    "score": 6.0,
    "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+   "distinct_sites": 1,
+   "title_hint": "9to5Mac Daily: October 29, 2026 – New MacBook Pro with PROLED XDR Display",
    "sources": [
     {
-     "source": "TechCrunch",
+     "source": "9to5Mac",
      "trust": 2,
-     "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk",
-     "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+     "url": "https://9to5mac.com/2026/10/29/daily-october-29-2026",
+     "title": "9to5Mac Daily: October 29, 2026 – New MacBook Pro with PROLED XDR Display",
      "lang": "en",
      "extra": {},
-     "id": "345cc9797a9d6c5a",
-     "published": "2026-10-30T07:01+00:00",
-     "text": "Waymo will begin testing autonomous Toyota bZ4X vehicles in Japan next year as part of a broader partnership with the automaker to provide electric vehicles for robotaxi operations in international markets, including the U.K.\nUnder the partnership announced Friday, Toyota will manufacture the 2027 bZ4X vehicles and integrate Waymo’s self-driving system at its Takaoka factory in Japan. (The electric vehicle is now known as the bZ in the North American market.)\nThe autonomous bZ4X vehicles will initially be tested in Japan, where Waymo intends to eventually operate a robotaxi service. But the intent is to deploy these vehicles in other right-hand driving countries such as the U.K. Waymo has been testing its autonomous Jaguar I-Pace vehicles in London for months and plans to launch a robotaxi service there once it receives the necessary permits.\nThe announcement comes 18 months after Toyota and Waymo signed a preliminary agreement to explore the development and deployment of an autonomous vehicle platform. At the time, the agreement fell into the “let’s see what happens” category, with language vague enough to leave plenty of room for interpretation.\nFor now, the partnership looks more like a conventional vehicle supplier deal that helps Waymo fill specific regional needs while adding a new model to its robotaxi portfolio.\nBut the partnership could go beyond robotaxis. The companies said they will continue to look at bringing Waymo’s autonomous technology to personally owned Toyota vehicles.\nToyota and Waymo also announced plans to look at other future “initiatives” that would use “insights from Waymo’s real-world operations” to improve safety for other road users. What that might mean is unclear, although Hiroki Nakajima, executive vice president of Toyota and a board member, provided some clues.\n“This collaboration will help scale that technology and bring it to customers in Japan and beyond through Waymo’s ride-hailing service, and in parallel, Toyota will continue to explore how integrating vehicles with traffic infrastructure can make those roads safer still,” he said in a statement."
+     "id": "89c17d9031f87f21",
+     "published": "2026-10-30T00:58+00:00",
+     "text": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\nNew episodes of 9to5Mac Daily are recorded every weekday. Subscribe to our podcast in Apple Podcast or your favorite podcast player to guarantee new episodes are delivered as soon as they’re available.\nStories discussed in this episode:\n- iPhone Duo could capture nearly 30% of foldable market in 2027, per report\n- The education price of the MacBook Neo just jumped again\n- Apple announces all-new MacBook Pro with PROLED XDR display, its first touchscreen Mac\n- MacBook Pro with PROLED XDR vs MacBook Pro: Here’s every difference\n- Apple reveals pricing for Mac Studio with 512GB of RAM\nListen & Subscribe:\nSubscribe to support Chance directly with 9to5Mac Daily Plus and unlock:\n- Ad-free versions of every episode\n- Bonus content\nDrop us a line at happyhour@9to5mac.com. You can also rate us in Apple Podcasts or recommend us in Overcast to help more people discover the show.\nComments"
     },
     {
-     "source": "Engadget",
+     "source": "9to5Mac",
      "trust": 2,
-     "url": "https://engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan",
-     "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
+     "url": "https://9to5mac.com/2026/10/30/daily-october-30-2026",
+     "title": "9to5Mac Daily: October 30, 2026 – New HomePod features, more",
      "lang": "en",
      "extra": {},
-     "id": "d80a50e8c118e8fd",
-     "published": "2026-10-30T10:23+00:00",
-     "text": "Waymo and Toyota will soon start testing their robotaxis in Japan\nThe companies plan to deploy their autonomous bZ4X vehicles to other right-hand drive markets like the UK.\nIn April 2025, Toyota and Waymo entered a preliminary agreement to work together on robotaxis. Now, the companies have announced that they will start testing an autonomous fleet of Toyota bZ4X electric vehicles in Japan sometime in 2027. After Japan, they're planning to deploy the vehicles to the UK and other right-hand drive markets in the years that follow.\nThe bZ4X is Toyota's first modern mass-market electric vehicle based on the e-TNGA platform it developed with Subaru. Toyota will be manufacturing the bZ4X units it's deploying and testing with Waymo at its Takaoka plant in Toyota City, Aichi Prefecture. That's also where the automaker is assembling the vehicles and equipping them with Waymo's autonomous vehicle hardware.\n\"By pairing Toyota's global manufacturing and vehicle development expertise with Waymo's fully autonomous technology, the companies will accelerate scaling safety-validated Level 4 autonomous vehicles globally,\" they said in a statement.\nThe autonomous bZ4X fleet will join Waymo's other vehicles in the country. It started testing its Jaguar I-PACE self-driving taxis in 2025 and had drivers from Tokyo taxi company Nihon Kotsu Co. drive the cars around the Japanese capital to train the company's software. Next year, Waymo will launch a fully autonomous ride-hailing service in Tokyo as a result of those efforts, though it's unclear when it will add the bZ4X vehicles to its commercial fleet."
+     "id": "ba056b7aa501a214",
+     "published": "2026-10-30T23:25+00:00",
+     "text": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\nNew episodes of 9to5Mac Daily are recorded every weekday. Subscribe to our podcast in Apple Podcast or your favorite podcast player to guarantee new episodes are delivered as soon as they’re available.\nStories discussed in this episode:\n- Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more\n- Reddit will soon require an account for most content\n- HomePod 27.2 is available now with four new features\n- HomePod 27.2 hands-on: default wireless speaker for Mac, Sound Glow and more [Video]\nListen & Subscribe:\nSubscribe to support Chance directly with 9to5Mac Daily Plus and unlock:\n- Ad-free versions of every episode\n- Bonus content\nDrop us a line at happyhour@9to5mac.com. You can also rate us in Apple Podcasts or recommend us in Overcast to help more people discover the show.\nComments"
     }
    ]
   },
@@ -1012,100 +1012,65 @@
    ]
   },
   {
-   "id": "c9ccdb37f5f",
+   "id": "cabf1986abc",
    "kind": "news",
    "score": 6.0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Bose’s new Lifestyle Ultra Speaker falls to a record low",
-   "sources": [
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/bose-lifestyle-ultra-speaker-deal-3730185",
-     "title": "Bose’s new Lifestyle Ultra Speaker falls to a record low",
-     "lang": "en",
-     "extra": {},
-     "id": "9ccdb37f5f0950a4",
-     "published": "2026-10-30T16:14+00:00",
-     "text": "Good sound can make a living room feel a lot more inviting, especially when you want one speaker that handles music on its own but can also grow into a bigger setup later. That’s what makes this deal worth a look, because the Bose New Lifestyle Ultra Speaker is down to $279 on Amazon right now."
-    },
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/bose-lifestyle-ultra-soundbar-deal-3730250",
-     "title": "Bose Lifestyle Ultra Soundbar gets a rare $200 Amazon discount",
-     "lang": "en",
-     "extra": {},
-     "id": "cfba0c1de20b9deb",
-     "published": "2026-10-30T17:22+00:00",
-     "text": "Bose’s new flagship soundbar just dropped back under the $900 mark on Amazon, and that’s a rare sight. The Bose New Lifestyle Ultra Soundbar is down to $899, which is $200 off its $1,099 recommended retail price, for an 18% discount relative to the RRP."
-    }
-   ]
-  },
-  {
-   "id": "c8d46b0636f",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Rivian’s autonomy gamble faces its first real test",
+   "title_hint": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
    "sources": [
     {
      "source": "The Verge",
      "trust": 2,
-     "url": "https://theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-     "title": "Rivian’s autonomy gamble faces its first real test",
+     "url": "https://theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+     "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
      "lang": "en",
      "extra": {},
-     "id": "8d46b0636fe4b698",
-     "published": "2026-10-30T17:16+00:00",
-     "text": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company’s still-unproven autonomous vehicle ambitions.\nRivian’s autonomy gamble faces its first real test\nRJ Scaringe spent nearly half of Rivian’s earnings call hyping self-driving tech. But taking on Tesla’s FSD with custom chips and pricey lidar is an enormous gamble while the mass-market R2 is still scaling up.\nRJ Scaringe spent nearly half of Rivian’s earnings call hyping self-driving tech. But taking on Tesla’s FSD with custom chips and pricey lidar is an enormous gamble while the mass-market R2 is still scaling up.\nBut the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature — first to its own employees for testing and validation in 2026, and later to customers in 2027. Following that, Rivian says it will launch its first robotaxi vehicles in partnership with Uber in 2028. In short, the next two years will determine whether Rivian will succeed or fail in its high-stakes quest to become a full-stack autonomy player.\n“We believe autonomy is a primary product differentiator, market share driver, and long-term value creator,” Derek Mulvey, VP for finance, said during the call.\nSuccess is not guaranteed. Tesla has a huge head start with its Full Self-Driving (Supervised) in over 1.7 million active customer cars. But trying to match Tesla’s driver-assist features — while simultaneously designing its own silicon chips, buying pricey sensors, and paying for massive AI computing power — is a huge financial gamble, especially while Rivian is still struggling to build and sell its mass-market R2 vehicles at scale. (The R2 recently became Rivian’s best-selling vehicle by volume, so progress continues.)\n“We believe autonomy is a primary product differentiator, market share driver, and long-term value creator.”\n— Derek MulveyBut it’s unclear whether Rivian sees the R2 as its make-or-break vehicle or if solving autonomy will be the true decider. That leaves the company in the middle of a difficult balancing act: launching an ambitious, mass-market electric vehicle while simultaneously reinventing itself as a full-stack autonomous driving powerhouse.\nOf course, the feature itself needs to work for Rivian to succeed. During the call, Scaringe revealed that he has been using the new point-to-point driving system in his own commute to the office every day, calling it “a wonderful” experience. He continued:\nSo, our view is that that is going to become a big driver of demand. And I think it’s unclear how quickly the whole — you know, the whole US market and the whole automotive market — starts to shift to really wanting this, and this being a major purchase criterion. But certainly, we’re at the front end of an inflection point where it’s more and more people exposed to what this could do… We do think it’s a really big driver, in the long term, for market share for us.\nBut Scaringe was cagey about other details. When asked about Rivian’s take rate for its Autonomy Plus package — in other words, what percentage of Rivian buyers who purchase or subscribe to the software out of the total customer base — the chief executive declined to share the exact number. “The take rate on Autonomy Plus has exceeded our expectations,” he said, “and we’re quite encouraged by it.”\nRivian’s execs are no doubt envious of Tesla’s take rates for FSD: Over 75 percent of new Tesla buyers in North America opted to get FSD in the third quarter of 2026, the company recently reported. Meanwhile, Rivian reported $605 million in revenue from software and subscription services in Q3 2026, a 45 percent increase year over year. And Rivian brought in $256 million in profit in software and services, up $102 million from last year, with a strong 42 percent profit margin.\nRivian will likely spend more money than it brings in as it keeps buying expensive computers and AI systems. On the call, the company pointed out that computer chips, memory, and electronics are getting pricier. It also warned that adding two processors and costly lidar sensors to some R2 models could eat into the profits it hoped to make by building the vehicle in large numbers.\nThe point-to-point system will face its own hurdles, including edge cases and the complexities of urban driving. A vehicle crash could damage Rivian’s brand and reputation, just as Tesla has experienced many times with FSD. And even though Rivian intends to roll out the feature to require active driver supervision, the company will likely face legal challenges when things inevitably go wrong.\nTo be sure, Rivian couldn’t afford to sit on the sidelines and concede the autonomous crown to Tesla and Waymo. Self-driving tech could help Rivian post big, software-company-style profits, but paying for expensive AI development while also trying to build the R2 at scale makes the next year or two its ri"
+     "id": "abf1986abc86fab7",
+     "published": "2026-10-30T17:38+00:00",
+     "text": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore “experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,” as spotted earlier by More Perfect Union.\nStarbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru\nThe coffee chain aims to ‘recognize’ customers as they arrive.\nThe coffee chain aims to ‘recognize’ customers as they arrive.\nIt sounds similar to the technology that Taco Bell is experimenting with, which could change the layout, content, and visuals on a digital menu board “on a car-by-car basis.” McDonald’s also recently showed off an AI-powered feature it’s piloting at a handful of drive-thrus, allowing its “ArchIQ” chatbot to identify repeat customers and let them order their “usual.”\nStarting in 2027, Starbucks will also begin testing background AI models at the drive-thru to help baristas “input orders more accurately and efficiently,” according to Niccol. The company also plans to integrate AI into the Starbucks app’s search and discovery features, and may allow “conversational and agentic” ordering in the future.\nStarbucks has already started allowing customers to place orders through ChatGPT, and also rolled out an AI-powered Green Dot Assist that employees can use to ask questions about things like recipes and service standards.\nIt’s still not clear how soon we can expect to see personalized digital menu boards at Starbucks, but Niccol says it’s still “early,” adding that “we’ll test, learn, and scale what works.”"
     }
    ]
   },
   {
-   "id": "c8449849330",
+   "id": "c09484dfee9",
    "kind": "news",
    "score": 6.0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Chrome’s working on two text-search upgrades that you’ll actually use",
+   "title_hint": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
    "sources": [
     {
-     "source": "Android Authority",
+     "source": "Ars Technica",
      "trust": 2,
-     "url": "https://androidauthority.com/chrome-find-in-page-match-case-navigation-buttons-3730210",
-     "title": "Chrome’s working on two text-search upgrades that you’ll actually use",
+     "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
+     "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
      "lang": "en",
      "extra": {},
-     "id": "8449849330b00802",
-     "published": "2026-10-30T17:23+00:00",
-     "text": "Google Chrome offers a trove of advanced tools, including the likes of Gemini integration, Safe Browsing, Tab Groups, Live Captions, and more, but it’s often the simplest tools that make the biggest difference in everyday browsing. Chrome’s Find in Page is one such tool, and it looks like it’s only going to get better.\nThe tool, which lets you find specific words or phrases on a webpage, could soon get two new features that make finding and navigating search results a lot easier."
+     "id": "09484dfee9e7507c",
+     "published": "2026-10-30T17:38+00:00",
+     "text": "In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely beneficiary of the AI era: magnetic tape.\nFujifilm attributes the surge in archiving demand to the spread of generative AI, which the company remarked is producing \"exponential growth\" in data needs worldwide. The 5x increase in production capacity will be measured against fiscal year 2025 production levels.\nThe investment in Fujifilm's Kanagawa Factory, Odawara site will make it \"the largest investment Fujifilm has made to date in dedicated LTO tape facilities.\" The project will run from fiscal years 2026 through 2028 to fund manufacturing expansion and additional personnel, primarily to produce the latest-generation \"FUJIFILM LTO Ultrium10\" tape."
     }
    ]
   },
   {
-   "id": "c7267dc2632",
-   "kind": "free",
-   "score": 6.5,
+   "id": "c87872a7584",
+   "kind": "news",
+   "score": 6.0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Free on Epic: Sorry We're Closed",
+   "title_hint": "Apple TV has three shows with finales next week, here’s what’s ending",
    "sources": [
     {
-     "source": "Epic Free Games",
-     "trust": 3,
-     "url": "https://store.epicgames.com/p/sorry-were-closed-724c86",
-     "title": "Free on Epic: Sorry We're Closed",
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/30/apple-tv-has-three-shows-with-finales-next-week-heres-whats-ending",
+     "title": "Apple TV has three shows with finales next week, here’s what’s ending",
      "lang": "en",
-     "extra": {
-      "ends": 1793894400.0,
-      "official_url": "https://store.epicgames.com/p/sorry-were-closed-724c86"
-     },
-     "id": "7267dc2632f0b3c4",
-     "published": "2026-10-29T15:00+00:00",
-     "text": "Sorry We're Closed is free on Epic Games Store until 2026-11-05 16:00 UTC. Regular price: $24.99. Seller: Akupara Games. Sorry We're Closed is a story-driven survival horror game about demons, angels and what happens when both sides collide. A mix of fixed-camera exploration and arcade-style shooting where Michelle must use her Third Eye to see between worlds, uncover secrets and solve puzzles."
+     "extra": {},
+     "id": "87872a7584685816",
+     "published": "2026-10-30T17:43+00:00",
+     "text": "Apple TV just premiered Nocturne, a new crime thriller that’s earning a lot of praise. But the streamer also has three series all scheduled to wrap up next week. Here’s what’s ending.\nBrothers, Small Prophets, and Knife Edge all air season finales next week\nIt’s rare for Apple to cycle out the majority of its weekly lineup in a single week. More often, the streamer’s schedule sees shows ending and starting in more staggered fashion.\nBut next week is an exception, with three shows all wrapping up within days of each other:\n- Brothers, the Matthew McConaughey-Woody Harrelson comedy airs its finale November 4\n- Small Prophets, the very highly acclaimed British comedy also ends November 4\n- Knife Edge: Chasing Michelin Stars, the food-centric docuseries wraps November 6\nThe fate of all three shows is currently an open question, though hopefully we get at least one renewal announcement next week.\nSmall Prophets seems especially likely to continue on. Its perfect 100% Rotten Tomatoes score no doubt helps, with critics saying it may be “the finest show to hit Apple this year.”\nAdditionally, the BBC production was technically already renewed for season 2 last month—but not by Apple. It’s one of the only Apple TV series that’s licensed from a third party. While it’s assumed that Apple negotiated the rights to future seasons, that hasn’t yet been confirmed.\nIf you’re looking for new series to watch on Apple, the crime thriller Nocturne sounds like a winner, with Stephen Graham (“Adolescence”) playing a serial killer who evokes Anthony Hopkins’ iconic Hannibal Lecter.\nFor lighter fare, the heartfelt comedy Stick returns next week starring Owen Wilson and Rhea Seehorn (“Pluribus”).\nYou can find a full rundown here of everything new Apple TV has coming in November.\nApple TV is available for $14.99 per month, or you can get it discounted through the Apple One bundle.\nBest iPhone accessories\n- AirPods Pro 3 (now only $199, down from $249)\n- MagSafe Car Mount for iPhone\n- 10-year AirTag battery case\n- 100W USB-C fast charging power adapter\n- HomeKit Garage Door Opener\nComments"
     }
    ]
   },
@@ -1382,8 +1347,301 @@
       "market": "crypto",
       "day": "2026-10-30"
      },
-     "published": "2026-10-30T23:07+00:00",
-     "text": "Bitcoin: $76,893 (-2.3% 24h)\nEthereum: $2,237 (-1.2% 24h)\nSolana: $95.87 (-0.6% 24h)\nToncoin: $1.17 (+0.2% 24h)"
+     "published": "2026-10-30T23:28+00:00",
+     "text": "Bitcoin: $77,030 (-2.0% 24h)\nEthereum: $2,240 (-1.0% 24h)\nSolana: $95.86 (-0.6% 24h)\nToncoin: $1.17 (+0.2% 24h)"
+    }
+   ]
+  },
+  {
+   "id": "lib-huggingface-learn",
+   "kind": "library",
+   "library_kind": "course",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Hugging Face courses",
+   "logos": [
+    {
+     "slug": "huggingface",
+     "name": "Hugging Face",
+     "domain": "huggingface.co",
+     "wiki": "Hugging Face"
+    }
+   ],
+   "sources": [
+    {
+     "id": "huggingface-learn",
+     "source": "library",
+     "trust": 3,
+     "url": "https://huggingface.co/learn",
+     "title": "Hugging Face courses",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Hugging Face offers free courses on large language models, AI agents, computer vision and more, built around its open-source libraries. Official site: https://huggingface.co/learn"
+    }
+   ]
+  },
+  {
+   "id": "lib-mit-ocw",
+   "kind": "library",
+   "library_kind": "course",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "MIT OpenCourseWare",
+   "logos": [
+    {
+     "name": "MIT",
+     "domain": "mit.edu",
+     "wiki": "Massachusetts Institute of Technology"
+    }
+   ],
+   "sources": [
+    {
+     "id": "mit-ocw",
+     "source": "library",
+     "trust": 3,
+     "url": "https://ocw.mit.edu",
+     "title": "MIT OpenCourseWare",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "MIT OpenCourseWare publishes materials from thousands of real MIT courses for free, including lecture videos, notes, problem sets and exams. Official site: https://ocw.mit.edu"
+    }
+   ]
+  },
+  {
+   "id": "lib-edraak",
+   "kind": "library",
+   "library_kind": "course",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Edraak — Arabic online courses",
+   "logos": [
+    {
+     "name": "Edraak",
+     "domain": "edraak.org",
+     "wiki": "Edraak"
+    }
+   ],
+   "sources": [
+    {
+     "id": "edraak",
+     "source": "library",
+     "trust": 3,
+     "url": "https://www.edraak.org",
+     "title": "Edraak — Arabic online courses",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Edraak is an Arabic massive open online course platform, an initiative of the Queen Rania Foundation, offering courses in Arabic. Official site: https://www.edraak.org"
+    }
+   ]
+  },
+  {
+   "id": "lib-coursera-audit",
+   "kind": "library",
+   "library_kind": "course",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Audit Coursera courses for free",
+   "logos": [
+    {
+     "slug": "coursera",
+     "name": "Coursera",
+     "domain": "coursera.org",
+     "wiki": "Coursera"
+    }
+   ],
+   "sources": [
+    {
+     "id": "coursera-audit",
+     "source": "library",
+     "trust": 3,
+     "url": "https://www.coursera.org",
+     "title": "Audit Coursera courses for free",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Many Coursera courses from universities and companies can be audited for free, which gives access to the course videos and readings. The paid option adds graded assignments and a certificate. Financial aid can be requested on eligible courses. Official site: https://www.coursera.org"
+    }
+   ]
+  },
+  {
+   "id": "lib-haveibeenpwned",
+   "kind": "library",
+   "library_kind": "security",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Have I Been Pwned",
+   "logos": [
+    {
+     "name": "Have I Been Pwned",
+     "domain": "haveibeenpwned.com",
+     "wiki": "Have I Been Pwned?"
+    }
+   ],
+   "sources": [
+    {
+     "id": "haveibeenpwned",
+     "source": "library",
+     "trust": 3,
+     "url": "https://haveibeenpwned.com",
+     "title": "Have I Been Pwned",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Have I Been Pwned is a free website where you enter your email address to see whether it appeared in known data breaches, and which services leaked it. Official site: https://haveibeenpwned.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-google-password-checkup",
+   "kind": "library",
+   "library_kind": "security",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Google Password Checkup",
+   "logos": [
+    {
+     "slug": "google",
+     "name": "Google",
+     "domain": "google.com",
+     "wiki": "Google"
+    }
+   ],
+   "sources": [
+    {
+     "id": "google-password-checkup",
+     "source": "library",
+     "trust": 3,
+     "url": "https://passwords.google.com",
+     "title": "Google Password Checkup",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Google Password Manager includes Password Checkup, which tells you if any of your saved passwords were exposed in a data breach, reused, or weak. Official site: https://passwords.google.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-virustotal",
+   "kind": "library",
+   "library_kind": "security",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "VirusTotal",
+   "logos": [
+    {
+     "name": "VirusTotal",
+     "domain": "virustotal.com",
+     "wiki": "VirusTotal"
+    }
+   ],
+   "sources": [
+    {
+     "id": "virustotal",
+     "source": "library",
+     "trust": 3,
+     "url": "https://www.virustotal.com",
+     "title": "VirusTotal",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "VirusTotal is a free service owned by Google that scans a file or a link with dozens of antivirus engines at once, useful before opening a suspicious file or APK. Official site: https://www.virustotal.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-bitwarden",
+   "kind": "library",
+   "library_kind": "security",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Bitwarden password manager",
+   "logos": [
+    {
+     "name": "Bitwarden",
+     "domain": "bitwarden.com",
+     "wiki": "Bitwarden"
+    }
+   ],
+   "sources": [
+    {
+     "id": "bitwarden",
+     "source": "library",
+     "trust": 3,
+     "url": "https://bitwarden.com",
+     "title": "Bitwarden password manager",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Bitwarden is an open-source password manager with a free plan that stores unlimited passwords and syncs across unlimited devices. Official site: https://bitwarden.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-photopea",
+   "kind": "library",
+   "library_kind": "tool",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Photopea",
+   "logos": [
+    {
+     "name": "Photopea",
+     "domain": "photopea.com",
+     "wiki": "Photopea"
+    }
+   ],
+   "sources": [
+    {
+     "id": "photopea",
+     "source": "library",
+     "trust": 3,
+     "url": "https://www.photopea.com",
+     "title": "Photopea",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Photopea is a free online image editor that runs in the browser and opens PSD files, with layers and tools similar to Photoshop. Official site: https://www.photopea.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-davinci-resolve",
+   "kind": "library",
+   "library_kind": "tool",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "DaVinci Resolve (free version)",
+   "logos": [
+    {
+     "name": "DaVinci Resolve",
+     "domain": "blackmagicdesign.com",
+     "wiki": "DaVinci Resolve"
+    }
+   ],
+   "sources": [
+    {
+     "id": "davinci-resolve",
+     "source": "library",
+     "trust": 3,
+     "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+     "title": "DaVinci Resolve (free version)",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "DaVinci Resolve from Blackmagic Design has a free version for professional video editing, color correction and audio, used in film and television. Official site: https://www.blackmagicdesign.com/products/davinciresolve"
     }
    ]
   }
