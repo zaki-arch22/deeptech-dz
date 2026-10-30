@@ -1,0 +1,8 @@
+# Deeptech DZ — الإعدادات. انسخ هذا الملف إلى settings.txt واملأه. لا تشارك settings.txt مع أحد.
+# توكن البوت من @BotFather
+BOT_TOKEN=
+# اسم القناة مع @ ، مثل @DeeptechDZ (البوت مشرف فيها)
+CHANNEL=
+# معرّفك الرقمي: أرسل /id للبوت بعد تشغيله، ثم ضعه هنا وأعد التشغيل
+ADMIN_ID=
+COLLECT_EVERY_MIN=30

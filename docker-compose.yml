@@ -1,0 +1,8 @@
+services:
+  deeptech:
+    build: .
+    container_name: deeptech-dz
+    restart: unless-stopped
+    env_file: settings.txt
+    volumes:
+      - ./:/app

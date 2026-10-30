@@ -1,0 +1,54 @@
+# Deeptech DZ — مصادر اكتشاف المواضيع
+# trust: 3 = رسمي/أولي، 2 = إعلام تقني موثوق، 1 = مجمّع/اكتشاف فقط (لا يكفي وحده لخبر حساس)
+# verify: true = يُعطَّل تلقائياً بعد 3 إخفاقات متتالية. parser: rss افتراضياً (epic, gamerpower, coingecko, stooq).
+
+news_en:
+  - {name: The Verge,        url: https://www.theverge.com/rss/index.xml,              trust: 2}
+  - {name: TechCrunch,       url: https://techcrunch.com/feed/,                        trust: 2}
+  - {name: Ars Technica,     url: https://feeds.arstechnica.com/arstechnica/index,     trust: 2}
+  - {name: Engadget,         url: https://www.engadget.com/rss.xml,                    trust: 2}
+  - {name: Wired,            url: https://www.wired.com/feed/rss,                      trust: 2}
+  - {name: 9to5Google,       url: https://9to5google.com/feed/,                        trust: 2}
+  - {name: 9to5Mac,          url: https://9to5mac.com/feed/,                           trust: 2}
+  - {name: Android Authority, url: https://www.androidauthority.com/feed/,             trust: 2}
+  - {name: CNBC Tech,        url: https://www.cnbc.com/id/19854910/device/rss/rss.html, trust: 2}
+
+security:
+  - {name: BleepingComputer, url: https://www.bleepingcomputer.com/feed/,              trust: 2}
+  - {name: The Hacker News,  url: https://feeds.feedburner.com/TheHackersNews,         trust: 2}
+
+official:
+  - {name: Google Blog,      url: https://blog.google/rss/,                            trust: 3}
+  - {name: OpenAI News,      url: https://openai.com/news/rss.xml,                     trust: 3, verify: true}
+  - {name: Apple Newsroom,   url: https://www.apple.com/newsroom/rss-feed.rss,         trust: 3}
+  - {name: NVIDIA Blog,      url: https://blogs.nvidia.com/feed/,                      trust: 3}
+  - {name: Microsoft Blog,   url: https://blogs.microsoft.com/feed/,                   trust: 3}
+  - {name: GitHub Blog,      url: https://github.blog/feed/,                           trust: 3}
+
+news_ar:
+  - {name: AITNews,          url: https://aitnews.com/feed/,                           trust: 2, verify: true}
+  - {name: عالم التقنية,      url: https://www.tech-wd.com/wd/feed/,                    trust: 2, verify: true}
+  - {name: عرب هاردوير,       url: https://arabhardware.net/feed,                       trust: 2, verify: true}
+
+algeria:
+  - {name: TSA Algérie,      url: https://www.tsa-algerie.com/feed/,                   trust: 2, verify: true}
+  - {name: APS,              url: https://www.aps.dz/,                                 trust: 3, enabled: false, note: "لا RSS مؤكد — يُفعَّل لاحقاً بقارئ صفحات"}
+
+discovery:
+  - {name: Hacker News,      url: "https://hnrss.org/frontpage?points=200",              trust: 1}
+  - {name: Show HN,          url: "https://hnrss.org/show?points=100",                   trust: 1}
+  - {name: Product Hunt,     url: https://www.producthunt.com/feed,                    trust: 1, verify: true}
+
+opportunities:
+  - {name: Epic Free Games,  url: https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions, parser: epic, trust: 3}
+  - {name: GamerPower,       url: https://www.gamerpower.com/api/giveaways,            parser: gamerpower, trust: 1, note: "يُتحقق من الرابط الرسمي لكل عرض قبل النشر"}
+  - {name: freeCodeCamp,     url: https://www.freecodecamp.org/news/rss/,              trust: 2}
+  - {name: Class Central,    url: https://www.classcentral.com/report/feed/,           trust: 2, verify: true}
+
+markets:
+  - {name: CoinGecko,        url: "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,the-open-network&vs_currencies=usd&include_24hr_change=true", parser: coingecko, trust: 3}
+  - {name: Stooq,            url: "https://stooq.com/q/l/?s=aapl.us,msft.us,nvda.us,googl.us,tsla.us,meta.us&f=sd2t2ohlcv&h&e=csv", parser: stooq, trust: 3, verify: true}
+
+# المرحلة 5 (بعد إنشاء الحساب الثاني): قنوات تيليجرام عامة — لاكتشاف المواضيع فقط،
+# لا يُنقل نصها ولا ملفاتها. الخبر يُكتب من المصادر أعلاه.
+telegram_discovery: []
