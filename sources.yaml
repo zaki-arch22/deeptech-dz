@@ -53,3 +53,18 @@ markets:
 # المرحلة 5 (بعد إنشاء الحساب الثاني): قنوات تيليجرام عامة — لاكتشاف المواضيع فقط،
 # لا يُنقل نصها ولا ملفاتها. الخبر يُكتب من المصادر أعلاه.
 telegram_discovery: []
+
+sports:
+  - {name: BBC Sport Football, url: https://feeds.bbci.co.uk/sport/football/rss.xml, trust: 2, verify: true}
+  - {name: ESPN Soccer,        url: https://www.espn.com/espn/rss/soccer/news,         trust: 2, verify: true}
+  - {name: BBC Sport,          url: https://feeds.bbci.co.uk/sport/rss.xml,            trust: 2, verify: true}
+
+entertainment:
+  - {name: Variety,            url: https://variety.com/feed/,                         trust: 2, verify: true}
+  - {name: Deadline,           url: https://deadline.com/feed/,                        trust: 2, verify: true}
+
+science:
+  - {name: ScienceDaily Tech,  url: https://www.sciencedaily.com/rss/top/technology.xml, trust: 2, verify: true}
+  - {name: New Atlas,          url: https://newatlas.com/index.rss,                    trust: 2, verify: true}
+  - {name: Space.com,          url: https://www.space.com/feeds/all,                   trust: 2, verify: true}
+  - {name: NASA,               url: https://www.nasa.gov/news-release/feed/,           trust: 3, verify: true}

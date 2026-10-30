@@ -15,9 +15,11 @@ PAD = 88
 INK, GRID, LINE = "#0B0F14", "#131A23", "#1E2833"
 TEXT, MUTED, BRAND = "#F2F5F8", "#8A97A6", "#22D3EE"
 ACCENT = {"news": BRAND, "free": "#4ADE80", "market": "#FBBF24", "tool": "#A78BFA", "odd": "#F472B6",
-          "app": "#FB923C", "site": "#38BDF8", "breaking": "#F87171"}
+          "app": "#FB923C", "site": "#38BDF8", "breaking": "#F87171", "sport": "#34D399", "film": "#E879F9",
+          "discovery": "#60A5FA"}
 LABEL = {"news": "أخبار", "free": "فرصة مجانية", "market": "السوق", "tool": "أداة", "odd": "غريب لكنه حقيقي",
-         "app": "تطبيق اليوم", "site": "موقع اليوم", "breaking": "عاجل"}
+         "app": "تطبيق اليوم", "site": "موقع اليوم", "breaking": "عاجل", "sport": "رياضة",
+         "film": "ماذا نشاهد؟", "discovery": "اكتشاف"}
 MONTHS = ["يناير", "فبراير", "مارس", "أبريل", "ماي", "جوان", "جويلية", "أوت", "سبتمبر", "أكتوبر",
           "نوفمبر", "ديسمبر"]  # Algerian month names
 

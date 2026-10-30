@@ -116,6 +116,20 @@ BRANDS: dict[str, tuple[str, list[str], str | None]] = {
     "brave": ("Brave", ["brave browser", "متصفح بريف"], None),
     "opera": ("Opera", ["opera browser", "متصفح أوبرا"], None),
     "waze": ("Waze", ["waze", "ويز"], None),
+    "hbomax": ("HBO Max", ["hbo max", "hbo", "إتش بي أو"], "#991EEB"),
+    "shahid": ("Shahid", ["shahid", "شاهد في آي بي", "منصة شاهد"], "#00C389"),
+    "disneyplus": ("Disney+", ["disney+", "ديزني بلس"], "#113CCF"),
+    "primevideo": ("Prime Video", ["prime video", "برايم فيديو"], "#1A98FF"),
+    "osn": ("OSN+", ["osn+", "osn"], "#E4007C"),
+    "bein": ("beIN SPORTS", ["bein", "بي إن سبورت", "بي ان سبورت"], "#5C2D91"),
+    "realmadrid": ("Real Madrid", ["real madrid", "ريال مدريد"], "#FEBE10"),
+    "fcbarcelona": ("FC Barcelona", ["barcelona", "برشلونة"], "#A50044"),
+    "fifa": ("FIFA", ["fifa", "فيفا"], "#326295"),
+    "caf": ("CAF", ["الاتحاد الأفريقي لكرة القدم", "كاف"], "#00843D"),
+    "faf": ("FAF", ["المنتخب الجزائري", "الخضر", "الاتحادية الجزائرية لكرة القدم"], "#006233"),
+    "premierleague": ("Premier League", ["premier league", "الدوري الإنجليزي"], "#3D195B"),
+    "uefa": ("UEFA", ["uefa", "دوري أبطال أوروبا", "الاتحاد الأوروبي لكرة القدم"], "#00004B"),
+    "nasa": ("NASA", ["nasa", "ناسا"], "#E03C31"),
 }
 
 # topic: Arabic/English keywords (normalized forms are matched)
@@ -163,10 +177,14 @@ DOMAINS = {
     "freecodecamp": "freecodecamp.org", "linux": "kernel.org", "ubuntu": "ubuntu.com", "sony": "sony.com",
     "lenovo": "lenovo.com", "asus": "asus.com", "cloudflare": "cloudflare.com", "docker": "docker.com",
     "cursor": "cursor.com", "duckduckgo": "duckduckgo.com", "brave": "brave.com", "opera": "opera.com",
-    "waze": "waze.com",
+    "waze": "waze.com", "hbomax": "hbomax.com", "shahid": "shahid.mbc.net", "disneyplus": "disneyplus.com",
+    "primevideo": "primevideo.com", "osn": "osnplus.com", "bein": "beinsports.com", "realmadrid": "realmadrid.com",
+    "fcbarcelona": "fcbarcelona.com", "fifa": "fifa.com", "caf": "cafonline.com", "faf": "faf.dz",
+    "premierleague": "premierleague.com", "uefa": "uefa.com", "nasa": "nasa.gov",
 }
 
-TYPE_TOPIC = {"free": "free", "market": "money", "tool": "tool", "odd": "odd"}
+TYPE_TOPIC = {"free": "free", "market": "money", "tool": "tool", "odd": "odd", "film": "video",
+              "sport": "games", "discovery": "space", "app": "apps", "site": "internet"}
 MAX_BRANDS = 2
 
 _meta: dict | None = None

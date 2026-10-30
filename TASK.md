@@ -27,6 +27,19 @@ Between them, mix through the day:
   library items course/books.
 - tools and AI tools (`tool`): library ai/tool items or a useful new tool from Show HN / Product Hunt.
 - protection tips (`tool` with a library security item) and odd-but-true stories (`odd`).
+- **sport** (`type: sport`): big matches, results and transfers that interest Algerian/Arab fans
+  (Algeria national team, Algerian players abroad, El Clásico, Champions League, AFCON). Facts from
+  the sports sources only. Logos: the clubs/competition (`logos` with official domains).
+- **ماذا نشاهد؟** (`type: film`): a new film/series worth watching, or a themed list of 3–5 good
+  titles, from the entertainment sources. Say where to watch it legally (Netflix, Shahid, OSN+,
+  Prime Video, HBO Max…) — never pirate sites, IPTV apps or "codes". Logo: the platform.
+- **اكتشاف** (`type: discovery`): a striking device, invention, scientific or space discovery from
+  the science/tech sources, explained simply: what it is, why it is impressive, a concrete comparison
+  ("enough to download 20,000 films in one second"), and when it may reach people.
+- **software giveaways**: a paid program free for a limited time on its official developer site
+  (e.g. vovsoft.com giveaways) — `free` post with the original price, the end date and the official link.
+- **outage alerts**: when a major app (WhatsApp, Telegram, Instagram…) is down and at least two sources
+  report it, post a short `breaking` news with what is affected.
 Every run of 3+ posts needs one non-news post (the gate enforces it). Check the last 24 h of
 `queue/history.jsonl` so the day stays varied and nothing repeats.
 
@@ -38,8 +51,12 @@ Every run of 3+ posts needs one non-news post (the gate enforces it). Check the 
   `{"wiki": "<English Wikipedia article of the product/object/place>"}`, or
   `{"url": "<image url>"}` only from upload.wikimedia.org or the brand's official newsroom/site.
   Never photos of people. Never screenshots or photos taken from news sites or other channels.
+- Good ideas seen on big Arabic channels and adopted here: "عاجل" for real outages and major news,
+  concrete comparisons that make numbers tangible, themed film lists, free software giveaways,
+  a short English summary is NOT used (we stay Arabic).
 - Do NOT copy what weak channels do: unverified rumours presented as fact ("insiders say", "it is
-  reported"), politics unrelated to tech, referral/affiliate links, cracked apps.
+  reported"), politics unrelated to tech, referral/affiliate links, cracked or "premium unlocked" apps,
+  pirate streaming apps or IPTV codes, film posters or player photos copied from news sites.
 
 Library items (`kind: library`): before writing, open the item's official `url` (WebFetch) and confirm
 it is still free and as described; if not, skip it. Copy the cluster's `logos` into the post. Write it

@@ -14,12 +14,13 @@ from .text import (EMOJI, LATIN_WORD, URL, canon_url, entities, host, jaccard, n
                    same_site, tokens)
 
 SIGNATURE = "◆ Deeptech DZ"
-TYPES = {"news", "free", "tool", "market", "odd", "app", "site"}
-WORDS = {"news": (60, 160), "odd": (50, 160), "free": (45, 150), "tool": (55, 170), "market": (25, 140), "app": (60, 170), "site": (55, 160)}
+TYPES = {"news", "free", "tool", "market", "odd", "app", "site", "sport", "film", "discovery"}
+WORDS = {"news": (60, 160), "odd": (50, 160), "free": (45, 150), "tool": (55, 170), "market": (25, 140), "app": (60, 170), "site": (55, 160), "sport": (45, 150),
+         "film": (60, 190), "discovery": (60, 160)}
 MAX_LATIN_WORDS = 8               # Latin words outside links: Arabic first, names in Arabic
 MAX_SENTENCE_WORDS = 28
 HEADLINE_WORDS = (4, 10)
-MAX_PARA_LINES = {"market": 9, "tool": 6, "app": 6, "site": 6, "news": 5}
+MAX_PARA_LINES = {"market": 9, "tool": 6, "app": 6, "site": 6, "news": 5, "film": 8, "sport": 6}
 MAX_EMOJI, MAX_EMOJI_FIRST = 3, 1
 MAX_CHARS = 1024                 # Telegram photo caption limit
 SHINGLE = 8                      # words in a row shared with a source = copying
@@ -30,9 +31,12 @@ OFFICIAL_LINK_SITES = {
     "store.epicgames.com", "store.steampowered.com", "gog.com", "play.google.com", "apps.apple.com",
     "microsoft.com", "github.com", "edx.org", "coursera.org", "freecodecamp.org", "harvard.edu",
     "google.com", "youtube.com", "openai.com", "apple.com", "ubisoft.com", "ea.com", "amazon.com",
-    "primegaming.com", "humblebundle.com", "itch.io",
+    "primegaming.com", "humblebundle.com", "itch.io", "netflix.com", "shahid.mbc.net", "osnplus.com",
+    "primevideo.com", "disneyplus.com", "max.com", "youtube.com", "vovsoft.com", "giveawayoftheday.com",
+    "sharewareonsale.com",
 }
-BLOCKED_LINK_SITES = {"gamerpower.com", "t.me", "telegram.me", "mediafire.com", "mega.nz", "market.local"}
+BLOCKED_LINK_SITES = {"gamerpower.com", "t.me", "telegram.me", "mediafire.com", "mega.nz", "market.local",
+                      "primetv", "egybest", "mycima", "cimaclub", "shahid4u", "apkpure.com", "apkmirror.com"}
 LATIN_OK = {"deeptech", "dz", "https", "http", "www", "com", "usd"}
 
 
