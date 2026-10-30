@@ -14,8 +14,10 @@ W, H = 1280, 720
 PAD = 88
 INK, GRID, LINE = "#0B0F14", "#131A23", "#1E2833"
 TEXT, MUTED, BRAND = "#F2F5F8", "#8A97A6", "#22D3EE"
-ACCENT = {"news": BRAND, "free": "#4ADE80", "market": "#FBBF24", "tool": "#A78BFA", "odd": "#F472B6"}
-LABEL = {"news": "أخبار", "free": "فرصة مجانية", "market": "السوق", "tool": "أداة", "odd": "غريب لكنه حقيقي"}
+ACCENT = {"news": BRAND, "free": "#4ADE80", "market": "#FBBF24", "tool": "#A78BFA", "odd": "#F472B6",
+          "app": "#FB923C", "site": "#38BDF8", "breaking": "#F87171"}
+LABEL = {"news": "أخبار", "free": "فرصة مجانية", "market": "السوق", "tool": "أداة", "odd": "غريب لكنه حقيقي",
+         "app": "تطبيق اليوم", "site": "موقع اليوم", "breaking": "عاجل"}
 MONTHS = ["يناير", "فبراير", "مارس", "أبريل", "ماي", "جوان", "جويلية", "أوت", "سبتمبر", "أكتوبر",
           "نوفمبر", "ديسمبر"]  # Algerian month names
 
@@ -164,11 +166,12 @@ def _visual(img: Image.Image, post: dict, accent: str) -> Image.Image:
     accent_rgb = _hex(accent)
     brands = specs
     photo = None
-    if post.get("photo", {}).get("wiki"):
-        from .brands import product_photo
-        photo = product_photo(post["photo"]["wiki"])
+    if post.get("photo"):
+        from .brands import photo_for
+        photo = photo_for(post["photo"])
     if photo is not None:
-        return _photo_panel(img, photo, specs)
+        credit = post["photo"].get("credit") or ("صورة: ويكيبيديا" if post["photo"].get("wiki") else "صورة: المصدر الرسمي")
+        return _photo_panel(img, photo, specs, credit)
     if specs:
         glow_rgb = _hex(brand_color(specs[0]["slug"])) if specs[0].get("slug") else accent_rgb
         if _lum(glow_rgb) < 0.08 or _lum(glow_rgb) > 0.9:
@@ -196,7 +199,7 @@ def _visual(img: Image.Image, post: dict, accent: str) -> Image.Image:
     return base.convert("RGB")
 
 
-def _photo_panel(img: Image.Image, photo: Image.Image, specs: list[dict]) -> Image.Image:
+def _photo_panel(img: Image.Image, photo: Image.Image, specs: list[dict], credit: str = "صورة: ويكيبيديا") -> Image.Image:
     """Left panel filled with the product photo, fading into the card; logos pinned bottom-left."""
     pw = VIS_W + 60
     scale = max(pw / photo.width, H / photo.height)
@@ -219,13 +222,13 @@ def _photo_panel(img: Image.Image, photo: Image.Image, specs: list[dict]) -> Ima
         base.alpha_composite(t, (x, H - 120 - 44))
         x += 136
     d = ImageDraw.Draw(base)
-    _rtl(d, pw - 40, H - 40, "صورة: ويكيبيديا", _font("Regular", 18), (200, 208, 216))
+    _rtl(d, pw - 40, H - 40, credit, _font("Regular", 18), (200, 208, 216))
     return base.convert("RGB")
 
 
 def render(post: dict, out: str | Path) -> Path:
     ptype = post["type"]
-    accent = ACCENT.get(ptype, BRAND)
+    accent = ACCENT.get("breaking" if post.get("breaking") else ptype, BRAND)
     img = Image.new("RGB", (W, H), INK)
     d = ImageDraw.Draw(img)
     for x in range(PAD // 2, W, 32):
@@ -237,14 +240,14 @@ def render(post: dict, out: str | Path) -> Path:
 
     right = W - PAD
     chip_f = _font("SemiBold", 28)
-    label = LABEL.get(ptype, "")
+    label = LABEL["breaking"] if post.get("breaking") else LABEL.get(ptype, "")
     lw = _len(chip_f, label)
     d.rounded_rectangle((right - lw - 40, PAD - 6, right, PAD + 50), radius=28, outline=accent, width=2)
     _rtl(d, right - 20, PAD - 2, label, chip_f, accent)
     date_f = _font("Regular", 26)
     _rtl(d, right - lw - 64, PAD + 2, _date(post["slot"]), date_f, MUTED)
 
-    title = _isolate(post.get("headline") or headline(post["text"]))
+    title = _isolate((post.get("headline") or headline(post["text"])).replace("**", ""))
     data = _market_rows(post["text"]) if ptype == "market" else []
     width = right - TEXT_L
     plans = [(2, (52, 48, 44, 40))] if data else [(3, (64, 58, 54, 50)), (4, (50, 46, 42, 38))]

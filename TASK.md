@@ -5,22 +5,41 @@ The PC refreshes `queue/candidates.json` every 30 minutes and publishes whatever
 
 ## Runs and slots (Africa/Algiers)
 
-| Run | Writes slots |
-|---|---|
-| ~07:40 | 08:30, 10:30, 12:30 |
-| ~12:40 | 14:30, 16:30, 18:30 |
-| ~18:40 | 20:30, 22:00 |
+Slots are every half hour from **07:30 to 00:30** (:00 and :30). The task runs every hour at :40 and
+writes the slots between this run and the next one (06:40 run → 07:30; 07:40 run → 08:00, 08:30; …;
+23:40 run → 00:00, 00:30). Slots already in `queue/posts/` are not rewritten.
 
-Daily mix across the 8 slots — the channel is NOT a news feed, it is news + real value:
-- 3 news (the most important or surprising of the day)
-- 2 opportunities (`free`): free games (Epic/Steam/GOG), free courses or certificates, free official
-  offers — from `kind: free` clusters or `kind: library` items of library_kind course/tool/books
-- 1 tool or AI tool (`tool`): a `library` item (ai/tool) or a useful new tool from Show HN / Product Hunt,
-  explained step by step: what it does, who it helps, how to start
-- 1 market (`market`, always 12:30)
-- 1 protection tip or odd story: a `library` security item (`tool`) or a genuinely strange news (`odd`)
-Every run must contain at least one non-news post (the gate enforces it). Read the last 24 h of
-`queue/history.jsonl` to see what today already has.
+**Quality over quantity:** a slot is filled only if there is something genuinely worth posting. An
+empty slot is always better than a weak, minor or boring post. Never pad.
+
+## Daily plan (about 25–35 posts on a good day)
+
+The channel is news + real value, not a news feed. Fixed daily rendez-vous:
+- **12:00 تطبيق اليوم** (`type: app`): a `library` item with library_kind app. Present it in an
+  exciting, practical way: the problem it solves, 3 standout features, who it is for, free or not,
+  then the download link (`store` link, or official site).
+- **19:00 موقع اليوم** (`type: site`): a `library` item with library_kind site, same approach, with link.
+- **12:30 and 21:00 السوق** (`type: market`).
+Between them, mix through the day:
+- news (≈half of posts): the important or surprising; use `"breaking": true` only for truly major,
+  confirmed breaking news (shows a red عاجل label).
+- opportunities (`free`): free games (Epic/Steam/GOG), free courses/certificates, free official offers,
+  library items course/books.
+- tools and AI tools (`tool`): library ai/tool items or a useful new tool from Show HN / Product Hunt.
+- protection tips (`tool` with a library security item) and odd-but-true stories (`odd`).
+Every run of 3+ posts needs one non-news post (the gate enforces it). Check the last 24 h of
+`queue/history.jsonl` so the day stays varied and nothing repeats.
+
+## Presentation (learned from successful Arabic tech channels)
+- **Bold** the key fact or number with `**…**` (one to three bolds per post, not whole paragraphs).
+- Figures and lists as short bullet lines starting with `•`.
+- A strong first line; for app/site posts, open with the problem or the "wow" result.
+- Real visuals: brand logos always; add `"photo"` when a real photo makes the post more striking —
+  `{"wiki": "<English Wikipedia article of the product/object/place>"}`, or
+  `{"url": "<image url>"}` only from upload.wikimedia.org or the brand's official newsroom/site.
+  Never photos of people. Never screenshots or photos taken from news sites or other channels.
+- Do NOT copy what weak channels do: unverified rumours presented as fact ("insiders say", "it is
+  reported"), politics unrelated to tech, referral/affiliate links, cracked apps.
 
 Library items (`kind: library`): before writing, open the item's official `url` (WebFetch) and confirm
 it is still free and as described; if not, skip it. Copy the cluster's `logos` into the post. Write it
@@ -47,10 +66,11 @@ as a practical guide: what it is, why it is valuable, 2–3 steps to start, the 
 4. Save `queue/posts/<YYYY-MM-DD>-<HHMM>.json` (run time) as a JSON array:
    ```json
    [{"id": "2026-10-31-0830", "slot": "2026-10-31T08:30:00+01:00", "type": "news",
-     "cluster_id": "c1a2b3c4d5", "headline": "3 إلى 8 كلمات للصورة",
+     "cluster_id": "c1a2b3c4d5", "headline": "4 إلى 10 كلمات واضحة للصورة",
      "text": "…\n\n#تصنيف\n◆ Deeptech DZ"}]
    ```
-   `type` ∈ news, free, tool, market, odd. `id` = slot date and time. `headline` is required.
+   `type` ∈ news, free, tool, market, odd, app, site. `id` = slot date and time. `headline` is required.
+   Before writing, list `queue/posts/` and skip slots that already have a post.
    EVERY card must show at least one real brand logo (the gate rejects posts without one).
    Brands in dtdz/brands.py are detected from the text automatically and their official logo is
    fetched from their site. If the story's main company/app/coin is not in that list (or detection
@@ -59,10 +79,7 @@ as a practical guide: what it is, why it is valuable, 2–3 steps to start, the 
    brand's official site, `wiki` = its English Wikipedia title). For a story about a country,
    operator or institution, use its official site (e.g. "djezzy.dz", "mobilis.dz").
    Optional `"topic": "security"` (a file name in assets/topics) for the small badge.
-   Creative touch when it fits (a car, a phone, a console, a rocket, a game): add
-   `"photo": {"wiki": "Toyota bZ4X"}` — the English Wikipedia article of the PRODUCT or OBJECT; its lead
-   photo fills the card with the logos on top. Never use a photo of a person. Skip when no clear
-   product article exists.
+   Real photo when it makes the post more striking (see Presentation above).
    Preview: `python -m dtdz render queue/posts/<file>.json --outbox /tmp/cards`.
 5. Run `python -m dtdz check queue/posts/<file>.json`. Fix every failing post and re-run.
    After 3 failed attempts on one post, replace it with another cluster or drop the slot.

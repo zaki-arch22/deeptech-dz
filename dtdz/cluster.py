@@ -181,14 +181,21 @@ def _library_clusters(path: Path, history_path, now: float) -> list[dict]:
                     recent.add(h.get("cluster_id"))
     fresh = [it for it in items if f"lib-{it['id']}" not in recent]
     day = int(now // 86400)
-    fresh = fresh[day % max(1, len(fresh)):] + fresh[:day % max(1, len(fresh))]
+    by_kind: dict[str, list] = {}
+    for it in fresh:
+        by_kind.setdefault(it["kind"], []).append(it)
+    picked = []
+    for kind, lst in sorted(by_kind.items()):
+        k = day % len(lst)
+        picked += (lst[k:] + lst[:k])[:3]          # up to 3 per kind, rotating daily
     out = []
-    for it in fresh[:LIBRARY_EXPORT]:
+    for it in picked:
+        links = it["url"] + (" Download: " + it["store"] if it.get("store") else "")
         out.append({
             "id": f"lib-{it['id']}", "kind": "library", "library_kind": it["kind"], "score": 0,
             "sensitive": False, "distinct_sites": 1, "title_hint": it["title"], "logos": it.get("logos", []),
             "sources": [{"id": it["id"], "source": "library", "trust": 3, "url": it["url"], "title": it["title"],
                          "lang": "en", "extra": {}, "published": "",
-                         "text": it["facts"] + " Official site: " + it["url"]}],
+                         "text": it["facts"] + " Official link: " + links}],
         })
     return out

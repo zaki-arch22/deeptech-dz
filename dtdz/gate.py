@@ -14,12 +14,12 @@ from .text import (EMOJI, LATIN_WORD, URL, canon_url, entities, host, jaccard, n
                    same_site, tokens)
 
 SIGNATURE = "◆ Deeptech DZ"
-TYPES = {"news", "free", "tool", "market", "odd"}
-WORDS = {"news": (60, 160), "odd": (50, 160), "free": (45, 150), "tool": (55, 170), "market": (25, 140)}
+TYPES = {"news", "free", "tool", "market", "odd", "app", "site"}
+WORDS = {"news": (60, 160), "odd": (50, 160), "free": (45, 150), "tool": (55, 170), "market": (25, 140), "app": (60, 170), "site": (55, 160)}
 MAX_LATIN_WORDS = 8               # Latin words outside links: Arabic first, names in Arabic
 MAX_SENTENCE_WORDS = 28
 HEADLINE_WORDS = (4, 10)
-MAX_PARA_LINES = {"market": 9, "tool": 6}
+MAX_PARA_LINES = {"market": 9, "tool": 6, "app": 6, "site": 6, "news": 5}
 MAX_EMOJI, MAX_EMOJI_FIRST = 3, 1
 MAX_CHARS = 1024                 # Telegram photo caption limit
 SHINGLE = 8                      # words in a row shared with a source = copying
@@ -59,6 +59,8 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
     now = now or time.time()
     err: list[str] = []
     text = (post.get("text") or "").strip()
+    bold_unbalanced = text.count("**") % 2 == 1
+    text = text.replace("**", "")          # **bold** markers are formatting only
     ptype = post.get("type")
 
     # schema
@@ -89,6 +91,8 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
             err.append(f"style: banned phrase «{raw}»")
 
     # shape
+    if bold_unbalanced:
+        err.append("format: unbalanced ** bold markers")
     if lines[-1].strip() != SIGNATURE:
         err.append(f"format: last line must be exactly '{SIGNATURE}'")
     tags = re.findall(r"#[\w_]+", text)
@@ -174,7 +178,7 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
             err.append(f"link: {h} is not allowed (use the official page)")
         elif not any(same_site(h, a) for a in src_hosts | OFFICIAL_LINK_SITES):
             err.append(f"link: {h} is neither a source nor an official site")
-    if ptype == "free" and not links:
+    if ptype in ("free", "app", "site") and not links:
         err.append("link: a free-offer post needs the official link")
 
     # no copying: no run of SHINGLE words shared with any source
@@ -187,8 +191,15 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
             if (h.get("cluster_id") == post["cluster_id"] and h.get("id") != post["id"]
                     and now - h.get("published_ts", 0) < 60 * 86400):
                 err.append(f"dedupe: library item already posted ({h['id']})")
-    if post.get("photo") is not None and not post["photo"].get("wiki"):
-        err.append("visual: 'photo' needs an English Wikipedia title in 'wiki'")
+    ph = post.get("photo")
+    if ph is not None:
+        if not (ph.get("wiki") or ph.get("url")):
+            err.append("visual: 'photo' needs 'wiki' (English Wikipedia title) or 'url'")
+        if ph.get("url"):
+            ph_host = host(ph["url"])
+            official = {host(s["url"]) for s in cluster["sources"] if s.get("trust", 0) >= 3}
+            if not (same_site(ph_host, "wikimedia.org") or any(same_site(ph_host, o) for o in official | OFFICIAL_LINK_SITES)):
+                err.append(f"visual: photo host {ph_host} must be Wikimedia or the brand's official site")
 
     # 7-day dedupe
     key = tokens(cluster.get("title_hint", "")) | tokens(lines[0]) | entities(lines[0])

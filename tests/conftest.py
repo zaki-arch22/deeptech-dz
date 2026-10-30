@@ -14,3 +14,4 @@ def offline_logos(tmp_path, monkeypatch):
     monkeypatch.setattr(b, "_wiki_logo", lambda title: None)
     monkeypatch.setattr(b, "LOGO_CACHE", tmp_path / "logos")
     monkeypatch.setattr(b, "product_photo", lambda title: None)
+    monkeypatch.setattr(b, "PHOTO_CACHE", tmp_path / "photos")

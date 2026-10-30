@@ -30,10 +30,11 @@ class Bot:
     def send_message(self, chat_id, text: str, **kw):
         return self.call("sendMessage", chat_id=chat_id, text=text, disable_web_page_preview="true", **kw)
 
-    def send_photo(self, chat_id, photo: Path, caption: str):
+    def send_photo(self, chat_id, photo: Path, caption: str, html: bool = False):
+        extra = {"parse_mode": "HTML"} if html else {}
         with open(photo, "rb") as fh:
             return self.call("sendPhoto", files={"photo": (photo.name, fh, "image/png")},
-                             chat_id=chat_id, caption=caption)
+                             chat_id=chat_id, caption=caption, **extra)
 
     def updates(self, offset: int | None, timeout: int = 25) -> list[dict]:
         params = {"timeout": timeout, "allowed_updates": '["message"]'}
@@ -49,5 +50,12 @@ class TelegramSender:
         self.bot, self.channel = bot, channel
 
     def send(self, post: dict, image: Path) -> str:
-        msg = self.bot.send_photo(self.channel, image, post["text"])
+        msg = self.bot.send_photo(self.channel, image, to_html(post["text"]), html=True)
         return str(msg["message_id"])
+
+
+def to_html(text: str) -> str:
+    """Post text -> Telegram HTML: escape everything, then **bold** -> <b>bold</b>."""
+    import html
+    import re
+    return re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", html.escape(text, quote=False), flags=re.S)

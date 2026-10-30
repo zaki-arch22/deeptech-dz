@@ -334,6 +334,24 @@ def logo_specs(post: dict, text: str) -> list[dict]:
 PHOTO_CACHE = ASSETS.parent / "data" / "photos"
 
 
+def photo_for(spec: dict):
+    """spec = {"wiki": title} or {"url": direct image url (Wikimedia or an official newsroom)}."""
+    if spec.get("url"):
+        from PIL import Image
+        key = re.sub(r"[^a-z0-9]+", "-", spec["url"].lower())[-80:].strip("-")
+        PHOTO_CACHE.mkdir(parents=True, exist_ok=True)
+        cached = PHOTO_CACHE / f"{key}.jpg"
+        if cached.exists():
+            return Image.open(cached).convert("RGB")
+        im = _fetch(spec["url"])
+        if im is not None and min(im.size) >= 300:
+            im = im.convert("RGB")
+            im.save(cached, quality=90)
+            return im
+        return None
+    return product_photo(spec["wiki"]) if spec.get("wiki") else None
+
+
 def product_photo(wiki_title: str):
     """Lead image of an English Wikipedia article (products, devices, vehicles, places — never people).
     Wikipedia/Wikimedia lead images are freely licensed; the card credits the source."""

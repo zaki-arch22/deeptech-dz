@@ -200,3 +200,209 @@
   url: https://www.jetbrains.com/community/education
   facts: JetBrains offers free educational licenses for its professional programming tools, such as IntelliJ IDEA and PyCharm, to students and teachers.
   logos: [{name: JetBrains, domain: jetbrains.com, wiki: JetBrains}]
+
+# ---------- تطبيق اليوم (kind: app) — store link + official site ----------
+- id: app-localsend
+  kind: app
+  title: LocalSend
+  url: https://localsend.org
+  store: https://play.google.com/store/apps/details?id=org.localsend.localsend_app
+  facts: LocalSend is a free, open-source app to send files and photos between nearby devices over the local Wi-Fi network, without internet and without an account. It works on Android, iOS, Windows, macOS and Linux.
+  logos: [{name: LocalSend, domain: localsend.org, wiki: LocalSend}]
+
+- id: app-snapseed
+  kind: app
+  title: Snapseed
+  url: https://play.google.com/store/apps/details?id=com.niksoftware.snapseed
+  facts: Snapseed is a free professional photo editor made by Google, with tools like selective adjustments, healing to remove objects, curves and filters. No ads and no paid features.
+  logos: [{name: Snapseed, domain: snapseed.online, wiki: Snapseed}]
+
+- id: app-adobe-scan
+  kind: app
+  title: Adobe Scan
+  url: https://play.google.com/store/apps/details?id=com.adobe.scan.android
+  facts: Adobe Scan is a free app from Adobe that turns phone photos of documents, receipts and notes into clean PDF files, with automatic edge detection and text recognition.
+  logos: [{slug: adobe, name: Adobe, domain: adobe.com, wiki: Adobe Inc.}]
+
+- id: app-photomath
+  kind: app
+  title: Photomath
+  url: https://play.google.com/store/apps/details?id=com.microblink.photomath
+  facts: Photomath, owned by Google, solves math problems from a photo of the exercise, including handwritten ones, and shows step-by-step solutions. Basic solutions are free; some detailed explanations need the paid Plus plan.
+  logos: [{name: Photomath, domain: photomath.com, wiki: Photomath}]
+
+- id: app-vlc
+  kind: app
+  title: VLC for Android
+  url: https://play.google.com/store/apps/details?id=org.videolan.vlc
+  facts: VLC is a free, open-source media player from the non-profit VideoLAN. It plays almost every video and audio format without extra codecs, supports subtitles, and has no ads.
+  logos: [{name: VLC, domain: videolan.org, wiki: VLC media player}]
+
+- id: app-anki
+  kind: app
+  title: AnkiDroid
+  url: https://play.google.com/store/apps/details?id=com.ichi2.anki
+  facts: AnkiDroid is the free, open-source Android version of Anki, a flashcard app that uses spaced repetition to show each card right before you are about to forget it. Widely used by medical students and language learners.
+  logos: [{name: Anki, domain: apps.ankiweb.net, wiki: Anki (software)}]
+
+- id: app-protonvpn
+  kind: app
+  title: Proton VPN
+  url: https://play.google.com/store/apps/details?id=ch.protonvpn.android
+  facts: Proton VPN has a free plan with no data limit and no ads, from Proton, the Swiss company behind Proton Mail. The free plan offers fewer servers and speeds than the paid plans.
+  logos: [{name: Proton VPN, domain: protonvpn.com, wiki: Proton VPN}]
+
+- id: app-brave
+  kind: app
+  title: Brave Browser
+  url: https://play.google.com/store/apps/details?id=com.brave.browser
+  facts: Brave is a free web browser that blocks ads and trackers by default, including many video ads, which makes pages load faster and use less mobile data.
+  logos: [{slug: brave, name: Brave, domain: brave.com, wiki: Brave (web browser)}]
+
+- id: app-signal
+  kind: app
+  title: Signal
+  url: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms
+  facts: Signal is a free messaging app run by a non-profit foundation. Messages and calls are end-to-end encrypted by default, and it collects almost no data about users.
+  logos: [{slug: signal, name: Signal, domain: signal.org, wiki: Signal (software)}]
+
+- id: app-obsidian
+  kind: app
+  title: Obsidian
+  url: https://play.google.com/store/apps/details?id=md.obsidian
+  facts: Obsidian is a free note-taking app that stores notes as plain Markdown files on your own device and lets you link notes together like a personal wiki.
+  logos: [{name: Obsidian, domain: obsidian.md, wiki: Obsidian (software)}]
+
+- id: app-google-translate-offline
+  kind: app
+  title: Google Translate offline
+  url: https://play.google.com/store/apps/details?id=com.google.android.apps.translate
+  facts: Google Translate can download languages, including Arabic, French and English, to translate text without an internet connection, and can translate text from the camera.
+  logos: [{slug: google, name: Google Translate, domain: translate.google.com, wiki: Google Translate}]
+
+- id: app-aegis
+  kind: app
+  title: Aegis Authenticator
+  url: https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis
+  facts: Aegis is a free, open-source Android app for two-factor authentication codes. It stores codes in an encrypted vault and supports encrypted backups, so you do not lose access if you change phones.
+  logos: [{name: Aegis, domain: getaegis.app, wiki: Aegis Authenticator}]
+
+- id: app-google-lens
+  kind: app
+  title: Google Lens
+  url: https://play.google.com/store/apps/details?id=com.google.ar.lens
+  facts: Google Lens uses the phone camera to translate text in real time, copy text from paper, identify plants and products, and help solve homework, for free.
+  logos: [{slug: google, name: Google Lens, domain: lens.google, wiki: Google Lens}]
+
+- id: app-perplexity
+  kind: app
+  title: Perplexity
+  url: https://play.google.com/store/apps/details?id=ai.perplexity.app.android
+  facts: Perplexity is an AI search app that answers questions in full sentences and lists the web sources it used, so you can check them. It has a free plan.
+  logos: [{slug: perplexity, name: Perplexity, domain: perplexity.ai, wiki: Perplexity AI}]
+
+# ---------- موقع اليوم (kind: site) ----------
+- id: site-ilovepdf
+  kind: site
+  title: iLovePDF
+  url: https://www.ilovepdf.com
+  facts: iLovePDF is a website with free tools to merge, split, compress and convert PDF files to and from Word, Excel, PowerPoint and images, directly in the browser.
+  logos: [{name: iLovePDF, domain: ilovepdf.com, wiki: iLovePDF}]
+
+- id: site-squoosh
+  kind: site
+  title: Squoosh
+  url: https://squoosh.app
+  facts: Squoosh is a free, open-source image compressor made by Google. It shrinks image file size in the browser, shows a before-and-after comparison, and the images are not uploaded to a server.
+  logos: [{name: Squoosh, domain: squoosh.app, wiki: Squoosh}]
+
+- id: site-removebg
+  kind: site
+  title: remove.bg
+  url: https://www.remove.bg
+  facts: remove.bg removes the background from a photo automatically in a few seconds. The free version gives a preview-resolution image; full resolution is paid.
+  logos: [{name: remove.bg, domain: remove.bg, wiki: Remove.bg}]
+
+- id: site-pexels
+  kind: site
+  title: Pexels
+  url: https://www.pexels.com
+  facts: Pexels offers free high-quality stock photos and videos that can be used for free, including in commercial projects, without asking permission.
+  logos: [{name: Pexels, domain: pexels.com, wiki: Pexels}]
+
+- id: site-deepl
+  kind: site
+  title: DeepL Translator
+  url: https://www.deepl.com/translator
+  facts: DeepL is an online translator known for natural-sounding translations. It supports Arabic, French and English and can translate whole documents; the free version has usage limits.
+  logos: [{name: DeepL, domain: deepl.com, wiki: DeepL Translator}]
+
+- id: site-desmos
+  kind: site
+  title: Desmos
+  url: https://www.desmos.com/calculator
+  facts: Desmos is a free online graphing calculator. You type a function and see its graph instantly, with sliders to change parameters; useful for math students and teachers.
+  logos: [{name: Desmos, domain: desmos.com, wiki: Desmos}]
+
+- id: site-wolframalpha
+  kind: site
+  title: Wolfram|Alpha
+  url: https://www.wolframalpha.com
+  facts: Wolfram|Alpha is a computational knowledge engine that solves math, physics and chemistry questions, converts units and answers factual questions with computed results. The basic version is free.
+  logos: [{name: Wolfram Alpha, domain: wolframalpha.com, wiki: Wolfram Alpha}]
+
+- id: site-diagrams
+  kind: site
+  title: draw.io (diagrams.net)
+  url: https://app.diagrams.net
+  facts: draw.io is a free online diagram editor for flowcharts, network diagrams and UML, which can save files to your computer or Google Drive, without an account.
+  logos: [{name: draw.io, domain: drawio.com, wiki: Diagrams.net}]
+
+- id: site-overleaf
+  kind: site
+  title: Overleaf
+  url: https://www.overleaf.com
+  facts: Overleaf is an online LaTeX editor used to write scientific reports, theses and research papers, with ready templates and a free plan.
+  logos: [{name: Overleaf, domain: overleaf.com, wiki: Overleaf}]
+
+- id: site-zotero
+  kind: site
+  title: Zotero
+  url: https://www.zotero.org
+  facts: Zotero is a free, open-source tool to collect, organize and cite research sources, and to generate bibliographies automatically in many citation styles.
+  logos: [{name: Zotero, domain: zotero.org, wiki: Zotero}]
+
+- id: site-wayback
+  kind: site
+  title: Wayback Machine
+  url: https://web.archive.org
+  facts: The Wayback Machine from the Internet Archive stores copies of web pages over time, so you can see old versions of a site or recover a page that was deleted.
+  logos: [{name: Internet Archive, domain: archive.org, wiki: Wayback Machine}]
+
+- id: site-downdetector
+  kind: site
+  title: Downdetector
+  url: https://downdetector.com
+  facts: Downdetector shows in real time whether a service such as WhatsApp, YouTube or Instagram is down for many users, based on reports, so you know if the problem is on your side or not.
+  logos: [{name: Downdetector, domain: downdetector.com, wiki: Downdetector}]
+
+- id: site-monkeytype
+  kind: site
+  title: Monkeytype
+  url: https://monkeytype.com
+  facts: Monkeytype is a free, open-source typing test website to measure and improve typing speed and accuracy, with many languages and modes.
+  logos: [{name: Monkeytype, domain: monkeytype.com, wiki: Monkeytype}]
+
+- id: site-coolors
+  kind: site
+  title: Coolors
+  url: https://coolors.co
+  facts: Coolors generates matching color palettes with one key press, and lets you lock colors you like and export palettes for design projects. The basic generator is free.
+  logos: [{name: Coolors, domain: coolors.co, wiki: Coolors}]
+
+- id: site-arts-culture
+  kind: site
+  title: Google Arts & Culture
+  url: https://artsandculture.google.com
+  facts: Google Arts & Culture is a free platform from Google with high-resolution artworks and virtual tours of museums and historic sites from around the world.
+  logos: [{slug: google, name: Google Arts & Culture, domain: artsandculture.google.com, wiki: Google Arts & Culture}]
