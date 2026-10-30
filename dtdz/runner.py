@@ -50,6 +50,14 @@ def git(*args: str, check: bool = True) -> subprocess.CompletedProcess:
                           timeout=120)
 
 
+def ensure_ssh_remote() -> None:
+    """The deploy key works over SSH only: turn an https origin into its SSH form."""
+    url = git("remote", "get-url", "origin", check=False).stdout.strip()
+    if url.startswith("https://github.com/"):
+        repo = url.removeprefix("https://github.com/").removesuffix(".git")
+        git("remote", "set-url", "origin", f"git@github.com:{repo}.git")
+
+
 def git_ready() -> bool:
     return git("ls-remote", "-q", "origin", "HEAD", check=False).returncode == 0
 
@@ -218,6 +226,7 @@ class Runner:
 
     async def run(self) -> None:
         ensure_ssh_key()
+        ensure_ssh_remote()
         await self.check_sync()
         await asyncio.gather(self.collect_loop(), self.publish_loop(), self.admin_loop())
 
