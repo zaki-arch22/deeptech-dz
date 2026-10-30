@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T22:56:42+00:00",
+ "generated_at": "2026-10-30T23:06:04+00:00",
  "clusters": [
   {
    "id": "cbfc1aa8043",
@@ -116,27 +116,6 @@
      "id": "303a9d0d793d13d8",
      "published": "2026-10-30T15:27+00:00",
      "text": "The Week 1 early Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold at up to $350 off. Those deals join $100 off all Pixel Watch 5 models, the latest Google Pixel Buds Pro 2 at over 25% off – including the new Olive set sitting at its best price ever on Amazon, and return Amazon lows on just about all of Google’s latest Pixelsnap cases. All of that and more awaits below.\nmore…"
-    }
-   ]
-  },
-  {
-   "id": "cc350724d47",
-   "kind": "news",
-   "score": 8.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-   "sources": [
-    {
-     "source": "Google Blog",
-     "trust": 3,
-     "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response",
-     "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-     "lang": "en",
-     "extra": {},
-     "id": "c350724d4712c977",
-     "published": "2026-10-30T17:00+00:00",
-     "text": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit."
     }
    ]
   },
@@ -330,6 +309,27 @@
      "id": "a717f1ed62c2029d",
      "published": "2026-10-30T16:00+00:00",
      "text": "Run a quick Google Security Checkup and protect your email with three quick and easy steps."
+    }
+   ]
+  },
+  {
+   "id": "cc350724d47",
+   "kind": "news",
+   "score": 7.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+   "sources": [
+    {
+     "source": "Google Blog",
+     "trust": 3,
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response",
+     "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+     "lang": "en",
+     "extra": {},
+     "id": "c350724d4712c977",
+     "published": "2026-10-30T17:00+00:00",
+     "text": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit."
     }
    ]
   },
@@ -1044,44 +1044,44 @@
    ]
   },
   {
-   "id": "ccae34a5218",
+   "id": "c8d46b0636f",
    "kind": "news",
    "score": 6.0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Google’s working on a Pixel upgrade for handling calls on your commute",
+   "title_hint": "Rivian’s autonomy gamble faces its first real test",
    "sources": [
     {
-     "source": "Android Authority",
+     "source": "The Verge",
      "trust": 2,
-     "url": "https://androidauthority.com/transit-mode-take-a-message-3730206",
-     "title": "Google’s working on a Pixel upgrade for handling calls on your commute",
+     "url": "https://theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+     "title": "Rivian’s autonomy gamble faces its first real test",
      "lang": "en",
      "extra": {},
-     "id": "cae34a5218705ac3",
-     "published": "2026-10-30T16:57+00:00",
-     "text": "Google’s always cooking up new features for its Pixel phones, but with so much new stuff arriving all the time, not everything’s always going to be super-tightly integrated, right out of the gate. But now it looks like Google could finally be getting around to connecting two recent Pixel additions, as we spot work towards bringing what looks like some special Take a Message support to Transit mode.\nYou’re reading an Authority Insights story. Authority Insights brings you all the latest exclusive reports, app teardowns, leaks, and in-depth tech coverage from the Android Authority team that you won’t find anywhere else."
+     "id": "8d46b0636fe4b698",
+     "published": "2026-10-30T17:16+00:00",
+     "text": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company’s still-unproven autonomous vehicle ambitions.\nRivian’s autonomy gamble faces its first real test\nRJ Scaringe spent nearly half of Rivian’s earnings call hyping self-driving tech. But taking on Tesla’s FSD with custom chips and pricey lidar is an enormous gamble while the mass-market R2 is still scaling up.\nRJ Scaringe spent nearly half of Rivian’s earnings call hyping self-driving tech. But taking on Tesla’s FSD with custom chips and pricey lidar is an enormous gamble while the mass-market R2 is still scaling up.\nBut the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature — first to its own employees for testing and validation in 2026, and later to customers in 2027. Following that, Rivian says it will launch its first robotaxi vehicles in partnership with Uber in 2028. In short, the next two years will determine whether Rivian will succeed or fail in its high-stakes quest to become a full-stack autonomy player.\n“We believe autonomy is a primary product differentiator, market share driver, and long-term value creator,” Derek Mulvey, VP for finance, said during the call.\nSuccess is not guaranteed. Tesla has a huge head start with its Full Self-Driving (Supervised) in over 1.7 million active customer cars. But trying to match Tesla’s driver-assist features — while simultaneously designing its own silicon chips, buying pricey sensors, and paying for massive AI computing power — is a huge financial gamble, especially while Rivian is still struggling to build and sell its mass-market R2 vehicles at scale. (The R2 recently became Rivian’s best-selling vehicle by volume, so progress continues.)\n“We believe autonomy is a primary product differentiator, market share driver, and long-term value creator.”\n— Derek MulveyBut it’s unclear whether Rivian sees the R2 as its make-or-break vehicle or if solving autonomy will be the true decider. That leaves the company in the middle of a difficult balancing act: launching an ambitious, mass-market electric vehicle while simultaneously reinventing itself as a full-stack autonomous driving powerhouse.\nOf course, the feature itself needs to work for Rivian to succeed. During the call, Scaringe revealed that he has been using the new point-to-point driving system in his own commute to the office every day, calling it “a wonderful” experience. He continued:\nSo, our view is that that is going to become a big driver of demand. And I think it’s unclear how quickly the whole — you know, the whole US market and the whole automotive market — starts to shift to really wanting this, and this being a major purchase criterion. But certainly, we’re at the front end of an inflection point where it’s more and more people exposed to what this could do… We do think it’s a really big driver, in the long term, for market share for us.\nBut Scaringe was cagey about other details. When asked about Rivian’s take rate for its Autonomy Plus package — in other words, what percentage of Rivian buyers who purchase or subscribe to the software out of the total customer base — the chief executive declined to share the exact number. “The take rate on Autonomy Plus has exceeded our expectations,” he said, “and we’re quite encouraged by it.”\nRivian’s execs are no doubt envious of Tesla’s take rates for FSD: Over 75 percent of new Tesla buyers in North America opted to get FSD in the third quarter of 2026, the company recently reported. Meanwhile, Rivian reported $605 million in revenue from software and subscription services in Q3 2026, a 45 percent increase year over year. And Rivian brought in $256 million in profit in software and services, up $102 million from last year, with a strong 42 percent profit margin.\nRivian will likely spend more money than it brings in as it keeps buying expensive computers and AI systems. On the call, the company pointed out that computer chips, memory, and electronics are getting pricier. It also warned that adding two processors and costly lidar sensors to some R2 models could eat into the profits it hoped to make by building the vehicle in large numbers.\nThe point-to-point system will face its own hurdles, including edge cases and the complexities of urban driving. A vehicle crash could damage Rivian’s brand and reputation, just as Tesla has experienced many times with FSD. And even though Rivian intends to roll out the feature to require active driver supervision, the company will likely face legal challenges when things inevitably go wrong.\nTo be sure, Rivian couldn’t afford to sit on the sidelines and concede the autonomous crown to Tesla and Waymo. Self-driving tech could help Rivian post big, software-company-style profits, but paying for expensive AI development while also trying to build the R2 at scale makes the next year or two its ri"
     }
    ]
   },
   {
-   "id": "c46d8d781be",
+   "id": "c8449849330",
    "kind": "news",
    "score": 6.0,
-   "sensitive": true,
+   "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+   "title_hint": "Chrome’s working on two text-search upgrades that you’ll actually use",
    "sources": [
     {
-     "source": "The Hacker News",
+     "source": "Android Authority",
      "trust": 2,
-     "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-     "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+     "url": "https://androidauthority.com/chrome-find-in-page-match-case-navigation-buttons-3730210",
+     "title": "Chrome’s working on two text-search upgrades that you’ll actually use",
      "lang": "en",
      "extra": {},
-     "id": "46d8d781bead54a3",
-     "published": "2026-10-30T16:58+00:00",
-     "text": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.\nThe activity has been attributed by CrowdStrike to a China-based \"targeted intrusion adversary\" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in"
+     "id": "8449849330b00802",
+     "published": "2026-10-30T17:23+00:00",
+     "text": "Google Chrome offers a trove of advanced tools, including the likes of Gemini integration, Safe Browsing, Tab Groups, Live Captions, and more, but it’s often the simplest tools that make the biggest difference in everyday browsing. Chrome’s Find in Page is one such tool, and it looks like it’s only going to get better.\nThe tool, which lets you find specific words or phrases on a webpage, could soon get two new features that make finding and navigating search results a lot easier."
     }
    ]
   },
@@ -1375,15 +1375,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-10-30/22",
+     "url": "https://market.local/crypto/2026-10-30/23",
      "title": "Market snapshot crypto 2026-10-30",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-10-30"
      },
-     "published": "2026-10-30T22:56+00:00",
-     "text": "Bitcoin: $76,881 (-2.5% 24h)\nEthereum: $2,235 (-1.6% 24h)\nSolana: $95.74 (-1.1% 24h)\nToncoin: $1.17 (-0.2% 24h)"
+     "published": "2026-10-30T23:05+00:00",
+     "text": "Bitcoin: $76,878 (-2.3% 24h)\nEthereum: $2,236 (-1.1% 24h)\nSolana: $95.83 (-0.6% 24h)\nToncoin: $1.17 (+0.5% 24h)"
     }
    ]
   }
