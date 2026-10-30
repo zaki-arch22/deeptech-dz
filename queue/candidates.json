@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T23:29:43+00:00",
+ "generated_at": "2026-10-30T23:43:51+00:00",
  "clusters": [
   {
    "id": "cbfc1aa8043",
@@ -526,27 +526,6 @@
    ]
   },
   {
-   "id": "c653882b3da",
-   "kind": "news",
-   "score": 6.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "How to use Gemini to update your resume",
-   "sources": [
-    {
-     "source": "Google Blog",
-     "trust": 3,
-     "url": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini",
-     "title": "How to use Gemini to update your resume",
-     "lang": "en",
-     "extra": {},
-     "id": "653882b3da5b8f0b",
-     "published": "2026-10-29T11:33+00:00",
-     "text": "Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details."
-    }
-   ]
-  },
-  {
    "id": "c948f28b894",
    "kind": "news",
    "score": 6.5,
@@ -1012,65 +991,86 @@
    ]
   },
   {
-   "id": "cabf1986abc",
+   "id": "cbfebb924a8",
    "kind": "news",
    "score": 6.0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+   "title_hint": "Save $60 on Eufy’s dual-lens SoloCam S340 security camera",
    "sources": [
     {
-     "source": "The Verge",
+     "source": "Android Authority",
      "trust": 2,
-     "url": "https://theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-     "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+     "url": "https://androidauthority.com/eufy-solocam-s340-deal-3730260",
+     "title": "Save $60 on Eufy’s dual-lens SoloCam S340 security camera",
      "lang": "en",
      "extra": {},
-     "id": "abf1986abc86fab7",
-     "published": "2026-10-30T17:38+00:00",
-     "text": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore “experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,” as spotted earlier by More Perfect Union.\nStarbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru\nThe coffee chain aims to ‘recognize’ customers as they arrive.\nThe coffee chain aims to ‘recognize’ customers as they arrive.\nIt sounds similar to the technology that Taco Bell is experimenting with, which could change the layout, content, and visuals on a digital menu board “on a car-by-car basis.” McDonald’s also recently showed off an AI-powered feature it’s piloting at a handful of drive-thrus, allowing its “ArchIQ” chatbot to identify repeat customers and let them order their “usual.”\nStarting in 2027, Starbucks will also begin testing background AI models at the drive-thru to help baristas “input orders more accurately and efficiently,” according to Niccol. The company also plans to integrate AI into the Starbucks app’s search and discovery features, and may allow “conversational and agentic” ordering in the future.\nStarbucks has already started allowing customers to place orders through ChatGPT, and also rolled out an AI-powered Green Dot Assist that employees can use to ask questions about things like recipes and service standards.\nIt’s still not clear how soon we can expect to see personalized digital menu boards at Starbucks, but Niccol says it’s still “early,” adding that “we’ll test, learn, and scale what works.”"
+     "id": "bfebb924a88c7e1a",
+     "published": "2026-10-30T17:45+00:00",
+     "text": "The Eufy Security SoloCam S340 is built for people who want a better view of what’s happening outside their home, and it’s on sale right now on Amazon. This wire-free outdoor security camera packs more than the usual basics, with a dual-lens setup that combines a 3K wide-angle view with a telephoto lens for closer detail."
     }
    ]
   },
   {
-   "id": "c09484dfee9",
+   "id": "ca457451f7b",
    "kind": "news",
    "score": 6.0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "title_hint": "Zest’s new AI agent finds restaurants and books reservations over text",
    "sources": [
     {
-     "source": "Ars Technica",
+     "source": "TechCrunch",
      "trust": 2,
-     "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
-     "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+     "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+     "title": "Zest’s new AI agent finds restaurants and books reservations over text",
      "lang": "en",
      "extra": {},
-     "id": "09484dfee9e7507c",
-     "published": "2026-10-30T17:38+00:00",
-     "text": "In an announcement released Thursday, Fujifilm said it will invest roughly 10 billion yen (about $63 million) to increase its production capacity fivefold for an unlikely beneficiary of the AI era: magnetic tape.\nFujifilm attributes the surge in archiving demand to the spread of generative AI, which the company remarked is producing \"exponential growth\" in data needs worldwide. The 5x increase in production capacity will be measured against fiscal year 2025 production levels.\nThe investment in Fujifilm's Kanagawa Factory, Odawara site will make it \"the largest investment Fujifilm has made to date in dedicated LTO tape facilities.\" The project will run from fiscal years 2026 through 2028 to fund manufacturing expansion and additional personnel, primarily to produce the latest-generation \"FUJIFILM LTO Ultrium10\" tape."
+     "id": "a457451f7b0ab496",
+     "published": "2026-10-30T17:47+00:00",
+     "text": "Zest, the restaurant discovery app that launched earlier this year, is already thinking about a future where mobile apps are no longer the primary interface. On Thursday, the startup introduced a new feature: a personal AI-powered “restaurant concierge” that lives in your text messages, similar to other popular AI agents like Instinct or Poke.\nThe launch reflects a broader shift in how startups are thinking about AI, as conversational AI agents take on tasks that had previously required users to launch stand-alone mobile apps. For Zest, that means bringing its restaurant recommendations into texts, then allowing users to immediately take the next step of booking a table.\n“The agent is the product now,” explains Zest founder and CEO Mario Gomez-Hall. “You text it, and it answers from your own history and your friends’. It doesn’t need weeks of conversation to learn you because it starts from where you’ve actually been,” he said.\nOriginally founded in November 2024, with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures, the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests. With this data on hand, Zest can make tailored suggestions of what places you might like to try next, whether that’s in your own city or suggestions of places to try when you’re traveling.\nThe credit card data used by Zest’s app is imported via the financial services company Plaid, which is used by banks and other fintech and budgeting apps. Zest says it focuses only on those transactions in the food and drink categories when making its personalized map and lists.\nThe startup’s latest idea is to tackle the same problem — where should I go to eat? — from a new angle. It will now make its suggestions from inside a text message thread and can turn to AI to do things like check availability and make the reservation for you through connected services like OpenTable, Resy, and SevenRooms.\nTo work, users will text the Zest concierge at (212) 470-6067. What’s even better is that Zest can be dropped into a group chat, where it can blend everyone’s tastes to find places the whole group will love. Here, it can also settle indecision with an in-thread voting feature and then can book a table for the group without leaving the conversation.\nUsers can ask Zest for recommendations based on a number of factors, like cuisine, craving, occasion, dietary restrictions, or neighborhood, and can ask questions about the restaurants, like how busy the place may be, or whether it offers Wi-Fi, and more. Plus, you can ask Zest to send you the menu to help you make a decision.\nIn TechCrunch’s tests, the AI worked fairly well, offering a list of suggestions for new places matched to our tastes that also fit particular conditions, like time of day, party size, location, and other factors. While finding an open table is something other apps have offered for years, there’s a convenience factor in being able to just text back and forth about the various options and have it tell you the available booking times.\nThe company began testing the concierge last month, but decided to hold the launch until it could add the booking capabilities; over time, the startup is considering moving Zest beyond restaurants to offer recommendations for businesses, shopping, and more.\nBy shifting to texts, Zest hopes the company can scale beyond its initial thousands of users and generate revenue.\n“Booking and ordering are the first revenue lines. Zest books your table through OpenTable or Resy today, with food ordering coming, and there are transactions there to participate in,” said Gomez-Hall. “The reason that gets interesting is that Zest learns your taste faster than a general assistant does, because it starts from where you’ve actually been instead of asking you questions. That’s worth something well beyond dinner,” he added."
     }
    ]
   },
   {
-   "id": "c87872a7584",
+   "id": "c6b8c1db360",
    "kind": "news",
    "score": 6.0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Apple TV has three shows with finales next week, here’s what’s ending",
+   "title_hint": "Friday’s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more",
+   "sources": [
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5toys.com/2026/10/30/todays-highlight-google-play-deals-40",
+     "title": "Friday’s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more",
+     "lang": "en",
+     "extra": {},
+     "id": "6b8c1db36003e282",
+     "published": "2026-10-30T17:58+00:00",
+     "text": "Friday’s best Google Play app and game deals are ready, including Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, RPG Silver Nornir, Witchcraft!, Lovecraft’s Untold Stories, Angelo and Deemon (Full), and more. The Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold, as well as Pixel Watch 5 hitting all-time lows at $100 off, and Pixel Buds Pro 2 at over 25% off, but your app deals await below.\nmore…"
+    }
+   ]
+  },
+  {
+   "id": "cc31b8c374a",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum",
    "sources": [
     {
      "source": "9to5Mac",
      "trust": 2,
-     "url": "https://9to5mac.com/2026/10/30/apple-tv-has-three-shows-with-finales-next-week-heres-whats-ending",
-     "title": "Apple TV has three shows with finales next week, here’s what’s ending",
+     "url": "https://9to5mac.com/2026/10/30/switchbot-k11-pro",
+     "title": "HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum",
      "lang": "en",
      "extra": {},
-     "id": "87872a7584685816",
-     "published": "2026-10-30T17:43+00:00",
-     "text": "Apple TV just premiered Nocturne, a new crime thriller that’s earning a lot of praise. But the streamer also has three series all scheduled to wrap up next week. Here’s what’s ending.\nBrothers, Small Prophets, and Knife Edge all air season finales next week\nIt’s rare for Apple to cycle out the majority of its weekly lineup in a single week. More often, the streamer’s schedule sees shows ending and starting in more staggered fashion.\nBut next week is an exception, with three shows all wrapping up within days of each other:\n- Brothers, the Matthew McConaughey-Woody Harrelson comedy airs its finale November 4\n- Small Prophets, the very highly acclaimed British comedy also ends November 4\n- Knife Edge: Chasing Michelin Stars, the food-centric docuseries wraps November 6\nThe fate of all three shows is currently an open question, though hopefully we get at least one renewal announcement next week.\nSmall Prophets seems especially likely to continue on. Its perfect 100% Rotten Tomatoes score no doubt helps, with critics saying it may be “the finest show to hit Apple this year.”\nAdditionally, the BBC production was technically already renewed for season 2 last month—but not by Apple. It’s one of the only Apple TV series that’s licensed from a third party. While it’s assumed that Apple negotiated the rights to future seasons, that hasn’t yet been confirmed.\nIf you’re looking for new series to watch on Apple, the crime thriller Nocturne sounds like a winner, with Stephen Graham (“Adolescence”) playing a serial killer who evokes Anthony Hopkins’ iconic Hannibal Lecter.\nFor lighter fare, the heartfelt comedy Stick returns next week starring Owen Wilson and Rhea Seehorn (“Pluribus”).\nYou can find a full rundown here of everything new Apple TV has coming in November.\nApple TV is available for $14.99 per month, or you can get it discounted through the Apple One bundle.\nBest iPhone accessories\n- AirPods Pro 3 (now only $199, down from $249)\n- MagSafe Car Mount for iPhone\n- 10-year AirTag battery case\n- 100W USB-C fast charging power adapter\n- HomeKit Garage Door Opener\nComments"
+     "id": "c31b8c374ad78318",
+     "published": "2026-10-30T18:00+00:00",
+     "text": "The robot vacuums designed for large open floor plans often have big batteries but take up a ton of space. The SwitchBot K11+ Pro goes the other direction: a tiny vacuum, a small dock, and Matter support so it works with Apple Home.\nHomeKit Weekly is a series focused on smart home accessories, automation tips and tricks, and everything to do with Apple’s smart home framework.\nThe SwitchBot K11+ Pro is 9.76 inches across and 3.62 inches tall, and weighs about 5 pounds. That size is the whole point. It can work its way between chair legs, get closer to corners and walls, and slide under beds, couches, and cabinets that larger robots bump into and give up on. If you have a couch that sits lower to the ground, you know what this means\nNavigation for the SwitchBot K11+ Pro is done by LiDAR for mapping and route planning, plus a close-range sensor for spotting furniture legs and following wall edges. It stores up to five maps, so you can carry it upstairs and it’ll know where it is, too. Inside the SwitchBot app, you get room and zone cleaning, schedules, no-go zones, and virtual walls. I use the SwitchBot app almost daily and really like it a lot. It’s super easy to use and navigate.\nA dock that isn’t as big as a trash can\nTo me, the small dock is more critical than a small vacuum. Self-emptying docks are great until you realize most of them are the size of a small trash can. The Switch K11+ Pro’s station is around 9.4 by 7.1 inches. It also has a wood-patterned lid, so it looks less like an appliance sitting in your living room or laundry room. Inside the dock is a disposable dust bag that should last up to 3 months, depending on usage.\nSwitchBot rates the K11+ Pro at up to 12,000Pa of suction, which is double the original K11+. I’ve got the original K11+, and while it’s great, it’s better suited to a bedroom than to a main living area. One thing to keep in mind: that’s a peak number from Max mode. Day-to-day, the Quiet, Standard, and Strong modes run much lower, and the robot automatically bumps up to Max when it hits carpet. On the other end of the power spectrum, Quiet Mode runs at about 45dB, which makes it a lot more realistic to run while you’re working from home or after the kids are in bed. My wife prefers quiet mode at all times, where I want more power at all times. With my other SwitchBot vacuums, the difference between Max and Quiet mode is that the latter can run while watching TV, whereas the former cannot.\nFor pet owners, it uses an all-rubber main brush and a two-arm side brush, both designed to keep hair from wrapping around them. If you’ve ever had to sit on the floor with scissors cutting dog or cat hair out of a roller, you’ll appreciate this feature.\nHow it works with Apple Home\nThe K11+ Pro supports Matter over Wi-Fi, so it pairs directly with Apple Home, and you can start a cleaning with Siri. SwitchBot lists Apple Home support for section cleaning, so you’re not stuck with an all-or-nothing on/off switch. Once it’s in Apple Home, it’s also available to your automations. Start cleaning when everyone leaves the house, and finish it before anyone gets back, etc. One thing to keep in mind is that the mapping and advanced functionality are managed in the SwitchBot app. So you’ll need to do a lot of your initial setup in it, but then you can rely on Apple Home day-to-day.\nWrap up\nBig robots are built for big houses, but smaller homes will fit perfectly with it. The K11+ Pro is small enough to reach under the furniture, the dock is small enough to hide, and Matter means it works well with Apple Home. We have a larger unit in the main part of my house, but I am considering swapping to this one simply for its smaller footprint and manageable power. If you vacuum while no one is at home, you won’t mind that it has to recharge and empty itself a few times.\nThe SwitchBot K11+ Pro is available now in Black and White on Amazon and SwitchBot’s website.\nComments"
     }
    ]
   },
@@ -1347,126 +1347,329 @@
       "market": "crypto",
       "day": "2026-10-30"
      },
-     "published": "2026-10-30T23:28+00:00",
-     "text": "Bitcoin: $77,030 (-2.0% 24h)\nEthereum: $2,240 (-1.0% 24h)\nSolana: $95.86 (-0.6% 24h)\nToncoin: $1.17 (+0.2% 24h)"
+     "published": "2026-10-30T23:43+00:00",
+     "text": "Bitcoin: $77,219 (-1.4% 24h)\nEthereum: $2,243 (-0.6% 24h)\nSolana: $96.14 (+0.1% 24h)\nToncoin: $1.17 (+0.7% 24h)"
     }
    ]
   },
   {
-   "id": "lib-huggingface-learn",
+   "id": "lib-ollama",
+   "kind": "library",
+   "library_kind": "ai",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Ollama — run AI models on your own computer",
+   "logos": [
+    {
+     "name": "Ollama",
+     "domain": "ollama.com",
+     "wiki": "Ollama"
+    }
+   ],
+   "sources": [
+    {
+     "id": "ollama",
+     "source": "library",
+     "trust": 3,
+     "url": "https://ollama.com",
+     "title": "Ollama — run AI models on your own computer",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Ollama is a free tool to download and run open AI language models locally on your own computer, without sending your data to the internet once the model is downloaded. Official link: https://ollama.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-google-ai-studio",
+   "kind": "library",
+   "library_kind": "ai",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Google AI Studio",
+   "logos": [
+    {
+     "name": "Gemini",
+     "domain": "gemini.google.com",
+     "wiki": "Gemini (chatbot)"
+    }
+   ],
+   "sources": [
+    {
+     "id": "google-ai-studio",
+     "source": "library",
+     "trust": 3,
+     "url": "https://aistudio.google.com",
+     "title": "Google AI Studio",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Google AI Studio is a free web tool from Google to try and build with Gemini models directly in the browser, with a Google account. Official link: https://aistudio.google.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-notebooklm",
+   "kind": "library",
+   "library_kind": "ai",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Google NotebookLM",
+   "logos": [
+    {
+     "name": "NotebookLM",
+     "domain": "notebooklm.google.com",
+     "wiki": "NotebookLM"
+    }
+   ],
+   "sources": [
+    {
+     "id": "notebooklm",
+     "source": "library",
+     "trust": 3,
+     "url": "https://notebooklm.google.com",
+     "title": "Google NotebookLM",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "NotebookLM is a free Google tool where you upload your own documents, PDFs or notes, then ask questions about them, get summaries, and generate audio overviews based only on your sources. Official link: https://notebooklm.google.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-app-signal",
+   "kind": "library",
+   "library_kind": "app",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Signal",
+   "logos": [
+    {
+     "slug": "signal",
+     "name": "Signal",
+     "domain": "signal.org",
+     "wiki": "Signal (software)"
+    }
+   ],
+   "sources": [
+    {
+     "id": "app-signal",
+     "source": "library",
+     "trust": 3,
+     "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
+     "title": "Signal",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Signal is a free messaging app run by a non-profit foundation. Messages and calls are end-to-end encrypted by default, and it collects almost no data about users. Official link: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
+    }
+   ]
+  },
+  {
+   "id": "lib-app-obsidian",
+   "kind": "library",
+   "library_kind": "app",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Obsidian",
+   "logos": [
+    {
+     "name": "Obsidian",
+     "domain": "obsidian.md",
+     "wiki": "Obsidian (software)"
+    }
+   ],
+   "sources": [
+    {
+     "id": "app-obsidian",
+     "source": "library",
+     "trust": 3,
+     "url": "https://play.google.com/store/apps/details?id=md.obsidian",
+     "title": "Obsidian",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Obsidian is a free note-taking app that stores notes as plain Markdown files on your own device and lets you link notes together like a personal wiki. Official link: https://play.google.com/store/apps/details?id=md.obsidian"
+    }
+   ]
+  },
+  {
+   "id": "lib-app-google-translate-offline",
+   "kind": "library",
+   "library_kind": "app",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Google Translate offline",
+   "logos": [
+    {
+     "slug": "google",
+     "name": "Google Translate",
+     "domain": "translate.google.com",
+     "wiki": "Google Translate"
+    }
+   ],
+   "sources": [
+    {
+     "id": "app-google-translate-offline",
+     "source": "library",
+     "trust": 3,
+     "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
+     "title": "Google Translate offline",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Google Translate can download languages, including Arabic, French and English, to translate text without an internet connection, and can translate text from the camera. Official link: https://play.google.com/store/apps/details?id=com.google.android.apps.translate"
+    }
+   ]
+  },
+  {
+   "id": "lib-open-library",
+   "kind": "library",
+   "library_kind": "books",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Open Library",
+   "logos": [
+    {
+     "name": "Internet Archive",
+     "domain": "archive.org",
+     "wiki": "Internet Archive"
+    }
+   ],
+   "sources": [
+    {
+     "id": "open-library",
+     "source": "library",
+     "trust": 3,
+     "url": "https://openlibrary.org",
+     "title": "Open Library",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Open Library, a project of the Internet Archive, lets you search millions of books and borrow digital copies of many of them for free. Official link: https://openlibrary.org"
+    }
+   ]
+  },
+  {
+   "id": "lib-project-gutenberg",
+   "kind": "library",
+   "library_kind": "books",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Project Gutenberg",
+   "logos": [
+    {
+     "name": "Project Gutenberg",
+     "domain": "gutenberg.org",
+     "wiki": "Project Gutenberg"
+    }
+   ],
+   "sources": [
+    {
+     "id": "project-gutenberg",
+     "source": "library",
+     "trust": 3,
+     "url": "https://www.gutenberg.org",
+     "title": "Project Gutenberg",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Project Gutenberg offers over 70,000 free ebooks, mostly classics in the public domain, to download or read online. Official link: https://www.gutenberg.org"
+    }
+   ]
+  },
+  {
+   "id": "lib-microsoft-learn",
    "kind": "library",
    "library_kind": "course",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Hugging Face courses",
+   "title_hint": "Microsoft Learn",
    "logos": [
     {
-     "slug": "huggingface",
-     "name": "Hugging Face",
-     "domain": "huggingface.co",
-     "wiki": "Hugging Face"
+     "name": "Microsoft",
+     "domain": "microsoft.com",
+     "wiki": "Microsoft"
     }
    ],
    "sources": [
     {
-     "id": "huggingface-learn",
+     "id": "microsoft-learn",
      "source": "library",
      "trust": 3,
-     "url": "https://huggingface.co/learn",
-     "title": "Hugging Face courses",
+     "url": "https://learn.microsoft.com/training",
+     "title": "Microsoft Learn",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Hugging Face offers free courses on large language models, AI agents, computer vision and more, built around its open-source libraries. Official site: https://huggingface.co/learn"
+     "text": "Microsoft Learn offers free self-paced training paths on Azure, AI, Microsoft 365, Power BI and programming, with free practice assessments for Microsoft certifications. Official link: https://learn.microsoft.com/training"
     }
    ]
   },
   {
-   "id": "lib-mit-ocw",
+   "id": "lib-elements-of-ai",
    "kind": "library",
    "library_kind": "course",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "MIT OpenCourseWare",
+   "title_hint": "Elements of AI",
    "logos": [
     {
-     "name": "MIT",
-     "domain": "mit.edu",
-     "wiki": "Massachusetts Institute of Technology"
+     "name": "Elements of AI",
+     "domain": "elementsofai.com",
+     "wiki": "Elements of AI"
     }
    ],
    "sources": [
     {
-     "id": "mit-ocw",
+     "id": "elements-of-ai",
      "source": "library",
      "trust": 3,
-     "url": "https://ocw.mit.edu",
-     "title": "MIT OpenCourseWare",
+     "url": "https://www.elementsofai.com",
+     "title": "Elements of AI",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "MIT OpenCourseWare publishes materials from thousands of real MIT courses for free, including lecture videos, notes, problem sets and exams. Official site: https://ocw.mit.edu"
+     "text": "Elements of AI is a free online course created by the University of Helsinki and MinnaLearn. It explains artificial intelligence for non-programmers and gives a certificate on completion. Official link: https://www.elementsofai.com"
     }
    ]
   },
   {
-   "id": "lib-edraak",
+   "id": "lib-kaggle-learn",
    "kind": "library",
    "library_kind": "course",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Edraak — Arabic online courses",
+   "title_hint": "Kaggle Learn",
    "logos": [
     {
-     "name": "Edraak",
-     "domain": "edraak.org",
-     "wiki": "Edraak"
+     "name": "Kaggle",
+     "domain": "kaggle.com",
+     "wiki": "Kaggle"
     }
    ],
    "sources": [
     {
-     "id": "edraak",
+     "id": "kaggle-learn",
      "source": "library",
      "trust": 3,
-     "url": "https://www.edraak.org",
-     "title": "Edraak — Arabic online courses",
+     "url": "https://www.kaggle.com/learn",
+     "title": "Kaggle Learn",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Edraak is an Arabic massive open online course platform, an initiative of the Queen Rania Foundation, offering courses in Arabic. Official site: https://www.edraak.org"
-    }
-   ]
-  },
-  {
-   "id": "lib-coursera-audit",
-   "kind": "library",
-   "library_kind": "course",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Audit Coursera courses for free",
-   "logos": [
-    {
-     "slug": "coursera",
-     "name": "Coursera",
-     "domain": "coursera.org",
-     "wiki": "Coursera"
-    }
-   ],
-   "sources": [
-    {
-     "id": "coursera-audit",
-     "source": "library",
-     "trust": 3,
-     "url": "https://www.coursera.org",
-     "title": "Audit Coursera courses for free",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Many Coursera courses from universities and companies can be audited for free, which gives access to the course videos and readings. The paid option adds graded assignments and a certificate. Financial aid can be requested on eligible courses. Official site: https://www.coursera.org"
+     "text": "Kaggle Learn offers free short hands-on courses in Python, machine learning, SQL, data visualization and more, with certificates of completion. Code runs in the browser, nothing to install. Official link: https://www.kaggle.com/learn"
     }
    ]
   },
@@ -1495,7 +1698,7 @@
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Have I Been Pwned is a free website where you enter your email address to see whether it appeared in known data breaches, and which services leaked it. Official site: https://haveibeenpwned.com"
+     "text": "Have I Been Pwned is a free website where you enter your email address to see whether it appeared in known data breaches, and which services leaked it. Official link: https://haveibeenpwned.com"
     }
    ]
   },
@@ -1525,7 +1728,7 @@
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Google Password Manager includes Password Checkup, which tells you if any of your saved passwords were exposed in a data breach, reused, or weak. Official site: https://passwords.google.com"
+     "text": "Google Password Manager includes Password Checkup, which tells you if any of your saved passwords were exposed in a data breach, reused, or weak. Official link: https://passwords.google.com"
     }
    ]
   },
@@ -1554,94 +1757,183 @@
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "VirusTotal is a free service owned by Google that scans a file or a link with dozens of antivirus engines at once, useful before opening a suspicious file or APK. Official site: https://www.virustotal.com"
+     "text": "VirusTotal is a free service owned by Google that scans a file or a link with dozens of antivirus engines at once, useful before opening a suspicious file or APK. Official link: https://www.virustotal.com"
     }
    ]
   },
   {
-   "id": "lib-bitwarden",
+   "id": "lib-site-downdetector",
    "kind": "library",
-   "library_kind": "security",
+   "library_kind": "site",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Bitwarden password manager",
+   "title_hint": "Downdetector",
    "logos": [
     {
-     "name": "Bitwarden",
-     "domain": "bitwarden.com",
-     "wiki": "Bitwarden"
+     "name": "Downdetector",
+     "domain": "downdetector.com",
+     "wiki": "Downdetector"
     }
    ],
    "sources": [
     {
-     "id": "bitwarden",
+     "id": "site-downdetector",
      "source": "library",
      "trust": 3,
-     "url": "https://bitwarden.com",
-     "title": "Bitwarden password manager",
+     "url": "https://downdetector.com",
+     "title": "Downdetector",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Bitwarden is an open-source password manager with a free plan that stores unlimited passwords and syncs across unlimited devices. Official site: https://bitwarden.com"
+     "text": "Downdetector shows in real time whether a service such as WhatsApp, YouTube or Instagram is down for many users, based on reports, so you know if the problem is on your side or not. Official link: https://downdetector.com"
     }
    ]
   },
   {
-   "id": "lib-photopea",
+   "id": "lib-site-monkeytype",
+   "kind": "library",
+   "library_kind": "site",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Monkeytype",
+   "logos": [
+    {
+     "name": "Monkeytype",
+     "domain": "monkeytype.com",
+     "wiki": "Monkeytype"
+    }
+   ],
+   "sources": [
+    {
+     "id": "site-monkeytype",
+     "source": "library",
+     "trust": 3,
+     "url": "https://monkeytype.com",
+     "title": "Monkeytype",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Monkeytype is a free, open-source typing test website to measure and improve typing speed and accuracy, with many languages and modes. Official link: https://monkeytype.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-site-coolors",
+   "kind": "library",
+   "library_kind": "site",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Coolors",
+   "logos": [
+    {
+     "name": "Coolors",
+     "domain": "coolors.co",
+     "wiki": "Coolors"
+    }
+   ],
+   "sources": [
+    {
+     "id": "site-coolors",
+     "source": "library",
+     "trust": 3,
+     "url": "https://coolors.co",
+     "title": "Coolors",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Coolors generates matching color palettes with one key press, and lets you lock colors you like and export palettes for design projects. The basic generator is free. Official link: https://coolors.co"
+    }
+   ]
+  },
+  {
+   "id": "lib-excalidraw",
    "kind": "library",
    "library_kind": "tool",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Photopea",
+   "title_hint": "Excalidraw",
    "logos": [
     {
-     "name": "Photopea",
-     "domain": "photopea.com",
-     "wiki": "Photopea"
+     "name": "Excalidraw",
+     "domain": "excalidraw.com",
+     "wiki": "Excalidraw"
     }
    ],
    "sources": [
     {
-     "id": "photopea",
+     "id": "excalidraw",
      "source": "library",
      "trust": 3,
-     "url": "https://www.photopea.com",
-     "title": "Photopea",
+     "url": "https://excalidraw.com",
+     "title": "Excalidraw",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Photopea is a free online image editor that runs in the browser and opens PSD files, with layers and tools similar to Photoshop. Official site: https://www.photopea.com"
+     "text": "Excalidraw is a free online whiteboard for hand-drawn style diagrams and sketches, with live collaboration by sharing a link. Official link: https://excalidraw.com"
     }
    ]
   },
   {
-   "id": "lib-davinci-resolve",
+   "id": "lib-google-fonts",
    "kind": "library",
    "library_kind": "tool",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "DaVinci Resolve (free version)",
+   "title_hint": "Google Fonts",
    "logos": [
     {
-     "name": "DaVinci Resolve",
-     "domain": "blackmagicdesign.com",
-     "wiki": "DaVinci Resolve"
+     "slug": "google",
+     "name": "Google",
+     "domain": "google.com",
+     "wiki": "Google"
     }
    ],
    "sources": [
     {
-     "id": "davinci-resolve",
+     "id": "google-fonts",
      "source": "library",
      "trust": 3,
-     "url": "https://www.blackmagicdesign.com/products/davinciresolve",
-     "title": "DaVinci Resolve (free version)",
+     "url": "https://fonts.google.com",
+     "title": "Google Fonts",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "DaVinci Resolve from Blackmagic Design has a free version for professional video editing, color correction and audio, used in film and television. Official site: https://www.blackmagicdesign.com/products/davinciresolve"
+     "text": "Google Fonts is a free library of open-licensed fonts, including many Arabic fonts, usable in designs, websites and commercial projects. Official link: https://fonts.google.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-canva-education",
+   "kind": "library",
+   "library_kind": "tool",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Canva for Education",
+   "logos": [
+    {
+     "slug": "canva",
+     "name": "Canva",
+     "domain": "canva.com",
+     "wiki": "Canva"
+    }
+   ],
+   "sources": [
+    {
+     "id": "canva-education",
+     "source": "library",
+     "trust": 3,
+     "url": "https://www.canva.com/education",
+     "title": "Canva for Education",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Canva for Education gives eligible primary and secondary school teachers and their students free access to Canva's premium features. Official link: https://www.canva.com/education"
     }
    ]
   }
