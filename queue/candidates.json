@@ -1,6 +1,49 @@
 {
- "generated_at": "2026-10-30T23:43:51+00:00",
+ "generated_at": "2026-10-30T23:54:55+00:00",
  "clusters": [
+  {
+   "id": "cfee3176e76",
+   "kind": "news",
+   "score": 10.5,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Halloween Aboard the International Space Station",
+   "sources": [
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station",
+     "title": "Halloween Aboard the International Space Station",
+     "lang": "en",
+     "extra": {},
+     "id": "3b3081ea2ba60ce4",
+     "published": "2026-10-29T21:44+00:00",
+     "text": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the space station.\nTake a look at how the station crews have celebrated in years past.\nFollow the astronauts aboard the space station to see how they celebrate holidays in space.\nThe space station remains a vital scientific platform, providing the foundation needed to survive and thrive as humanity ventures into the unexplored territories of our universe.\nExplore stories, images, and research from more than 25 years of continuous human presence aboard the space station."
+    },
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
+     "title": "Astronauts deploy solar array on 100th US spacewalk by International Space Station crew members",
+     "lang": "en",
+     "extra": {},
+     "id": "fee3176e76c014ca",
+     "published": "2026-10-29T20:01+00:00",
+     "text": "NASA astronaut Anil Menon and Joshua Kutryk of the Canadian Space Agency deployed a new solar array on Thursday (Oct. 29) during a seven-hour spacewalk outside the International Space Station."
+    },
+    {
+     "source": "ScienceDaily Tech",
+     "trust": 2,
+     "url": "https://sciencedaily.com/releases/2026/10/261030002931.htm",
+     "title": "Astronauts just gave the International Space Station a powerful upgrade",
+     "lang": "en",
+     "extra": {},
+     "id": "77ecd9797608dcc5",
+     "published": "2026-10-30T06:12+00:00",
+     "text": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical operations and its eventual controlled deorbit."
+    }
+   ]
+  },
   {
    "id": "cbfc1aa8043",
    "kind": "news",
@@ -77,6 +120,49 @@
    ]
   },
   {
+   "id": "c4defcf6082",
+   "kind": "news",
+   "score": 9.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+   "sources": [
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head",
+     "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+     "lang": "en",
+     "extra": {},
+     "id": "d75c5054dee6e0e0",
+     "published": "2026-10-30T15:56+00:00",
+     "text": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback erodes the surrounding gas and dust, denser material within the feline-shaped pillar resists erosion, at least for now.\nImage credit: NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI)"
+    },
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026",
+     "title": "The universe in the eye of a telescope | Space photo of the day for Oct. 29, 2026",
+     "lang": "en",
+     "extra": {},
+     "id": "4defcf608291fb74",
+     "published": "2026-10-29T14:00+00:00",
+     "text": "The Swedish-ESO Submillimetre Telescope (SEST) keeps its eye on the cosmos decades after being decommissioned."
+    },
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026",
+     "title": "Ghostly Cat's Head Nebula haunts the cosmos | Space photo of the day for Oct. 30, 2026",
+     "lang": "en",
+     "extra": {},
+     "id": "8bcc7a8fcdbbefdd",
+     "published": "2026-10-30T14:00+00:00",
+     "text": "Just in time for Halloween, we have new, ghostly views of the Cat's Eye Nebula haunting the outer reaches of the cosmos."
+    }
+   ]
+  },
+  {
    "id": "c693f0e30e7",
    "kind": "news",
    "score": 9.0,
@@ -120,6 +206,27 @@
    ]
   },
   {
+   "id": "c0c780b44cd",
+   "kind": "news",
+   "score": 8.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "NASA Releases MAX POWER Key Events for Media, Participants",
+   "sources": [
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants",
+     "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+     "lang": "en",
+     "extra": {},
+     "id": "0c780b44cd0f2722",
+     "published": "2026-10-30T19:31+00:00",
+     "text": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.\nThrough multiple park experiences at MAX POWER, NASA and a variety of external collaborators will showcase the newest aircraft, autonomous vehicles, technologies, and more defining the future of air and space. NASA will display its quiet supersonic X-59 plane, and agency partners will showcase Moon rovers, spacecraft, and more. The expo also is a culmination of the agency’s recent Inspiration Tour, which included numerous flyovers to highlight NASA’s fleet of aircraft.\nA current schedule of events is available on the agency’s website.\nMAX POWER includes opportunities to meet leadership, astronauts, engineers, scientists, and other subject matter experts during the family-friendly public events with gates opening at 9 a.m. EST on Nov. 7 and Nov. 8.\nNASA also will share multiple news updates during the weekend, including hosting a news conference at 5 p.m. on Nov. 7, to provide its latest Moon Base update. Located near the lunar South Pole, the Moon Base is humanity’s first outpost for long-term lunar exploration.\nLive coverage of the news conference will stream on a variety of platforms online. Learn where to watch:\nhttps://www.nasa.gov/live\nJoin NASA for Key Events\nMedia credentialing for this event is closed. Media approved for this event must request interviews in advance. Space in the news conference is limited, and first come, first served. Media also may participate in the news conference virtually. To request call details or an interview, please contact Lauren Low in the NASA Headquarters newsroom at: lauren.e.low@nasa.gov.\nA short list of key NASA activities during MAX POWER are listed below. All times are listed in Eastern Standard Time, and are subject to change.\nFriday, Nov. 6:\n- 2 p.m., to 4 p.m.: Media one-on-one opportunities to preview weekend MAX POWER activities\n- Location: NASA Press Site\nSaturday, Nov. 7:\n- 10 a.m.: Nuclear NASA media gaggle\n- Location: UP.Summit Main Stage\n- Cynthia Simmons, director, Space Reactors Division\n- 11:30 a.m.: Opening air show remarks featuring NASA Deputy Administrator Matt Anderson\n- Location: Air Dot Show Main Stage\n- 11:58 a.m.: F-5 flyover in the Air Dot Show featuring NASA Administrator Jared Isaacman\n- 12:45 p.m.: Meet the Astronauts: NASA’s Artemis III Crew\n- Location: Air Dot Show Main Stage\n- Participants include:\n- NASA astronaut Randy Bresnik (mission commander)\n- ESA (European Space Agency) astronaut Luca Parmitano (pilot)\n- NASA astronaut Frank Rubio (mission specialist)\n- NASA astronaut Bob Hines, backup crew member\n- NASA will host a media gaggle with crew immediately following this event.\n- 1:31 p.m.: MiG-29 flyover featuring Isaacman\n- 2 p.m.: Learn about NASA’s Roman Space Telescope\n- Location: Kennedy Space Center Visitor Complex (Journey to Mars Theater)\n- Participant:\n- Remarks by Julie McEnery, senior project scientist, Nancy Grace Roman Space Telescope, NASA Goddard\n- 5 p.m. Moon Base News Conference\n- Location: Press Site AuditoriumParticipants:\n- NASA Administrator Jared IsaacmanCarlos García-Galán, manager, Moon Base ProgramNicky Fox, associate administrator for Science, NASA HeadquartersDayna Ise, acting director, Utility and Infrastructure Office, Moon Base Program\n- NASA subject matter experts will be available for one-on-one interviews following this announcement.\nSunday, Nov. 8\n- 9 a.m. NASA’s X-59 media gaggle\n- Location: UP.Summit Exhibit Area\n- Participants:\n- Laurie Grindle, director, NASA Aeronautics Division\n- Peter Coen, NASA Quesst mission manager, NASA Langley\n- Jim “Clue” Less, test pilot, X-59, NASA Armstrong\n- 10 a.m.: Student challenge announcement\n- Location: Kennedy Space Center Visitor Complex, Rocket Garden\n- Participants:\n- NASA Administrator Jared Isaacman\n- Carlos García-Galán, manager, Moon Base Program\n- NASA experts may be available for interviews at this location. Media interested in attending must contact Lauren Low by 5 p.m. on Thursday, Nov. 5, at: lauren.e.low@nasa.gov.\n- 11:58 a.m.: F-5 flyover in the Air Dot Show featuring Isaacman\n- 12:45 p.m.: United States Space Academy\n- Location: UP.Summit Main Stage\n- NASA Deputy Administrator Matt Anderson\n- 12:45 p.m.: Meet the Astronauts: NASA’s SpaceX Crew-12\n- Location: Air Dot Show Main Stage\n- Participants:\n- NASA astronaut Jessica Meir\n- NASA astronaut Jack Hathaway\n- 1:31 p.m.: MiG-29 flyover featuring Isaacman\nFor more information about MAX POWER, including the latest schedule of events and how to attend, visit the agency’s website:\nhttps://www.nasa.gov/maxpower\n-end-\nGeorge Alderman / Cheryl Warner\nHeadquarters, Washington\n202-358-1600\ngeorge.a.alderman@nasa.gov / cheryl.m.warner@nasa.gov"
+    }
+   ]
+  },
+  {
    "id": "c94bcdf7909",
    "kind": "news",
    "score": 8.5,
@@ -137,6 +244,49 @@
      "id": "94bcdf7909edc8a4",
      "published": "2026-10-30T20:15+00:00",
      "text": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today."
+    }
+   ]
+  },
+  {
+   "id": "c45fb00b30f",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
+   "sources": [
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
+     "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
+     "lang": "en",
+     "extra": {},
+     "id": "45fb00b30fc2177d",
+     "published": "2026-10-29T23:49+00:00",
+     "text": "Patrick Stewart, the distinguished British actor of stage and screen, passed away Wednesday (Oct. 28) in Los Angeles at the age of 86."
+    },
+    {
+     "source": "Ars Technica",
+     "trust": 2,
+     "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart",
+     "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+     "lang": "en",
+     "extra": {},
+     "id": "d419f95b8526c881",
+     "published": "2026-10-30T22:21+00:00",
+     "text": "Along with the rest of the world, we at Ars are mourning Sir Patrick Stewart—the beloved award-winning actor best known as Captain Jean-Luc Picard in Star Trek: The Next Generation and Professor Charles Xavier in the X-Men franchise—who died yesterday at the age of 86.\nA statement released by Stewart's representatives said:\nWe announce with great sorrow the passing of Sir Patrick Stewart yesterday at his home in Los Angeles, in the loving care of his beloved wife Sunny, following a brief and poignant journey with Alzheimer’s Disease and Lewy Body Dementia. He has been held in the warm embrace of family and friends, surrounded by live music, prayer, tears, laughter, and the kind of profound emotion that only he could inspire after a lifetime of devotion to us all. We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace.\nThrough the actor's X account, the family has requested that, in lieu of flowers, memorial contributions be made to the Johns Hopkins Alzheimer’s Disease Research Center Fund and the Alzheimer’s Foundation of America Caregiver Resources."
+    },
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
+     "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
+     "lang": "en",
+     "extra": {},
+     "id": "65de3918be350d79",
+     "published": "2026-10-30T23:26+00:00",
+     "text": "\"He wore his heart on his sleeve, which made him a man to rely on, to admire and, in my case, love.\""
     }
    ]
   },
@@ -205,6 +355,38 @@
    ]
   },
   {
+   "id": "c477614ff19",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+   "sources": [
+    {
+     "source": "BBC Sport Football",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
+     "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+     "lang": "en",
+     "extra": {},
+     "id": "477614ff19f4edd2",
+     "published": "2026-10-30T15:41+00:00",
+     "text": "- Published\nArsenal manager Mikel Arteta has told Max Dowman \"we are not in Disneyland\" and that he intends to hold the teenager to the same standards as other first-team players.\nDowman, 16, was sent off in the 85th minute of Arsenal's penalty shoot-out loss to Fleetwood Town in the Carabao Cup on Tuesday after reacting to a heavy challenge by Harrison Neal and will serve a three-match ban.\nA visibly annoyed Arteta spoke to Dowman as the teenager left the pitch, and on Friday spoke about the incident for the first time, saying he warned the attacker before the game about dealing with provocation.\n\"I haven't seen the reaction to my reaction, whether it is positive or negative. But you need to understand the context and the relationship that I have with him and what we discussed just before we went out,\" Arteta said of his words to Dowman.\n\"But, I don't know. You can have another reaction. If you see the reaction of my father and my mother with me some days you might say 'I don't like the reaction'. For me, it was the best reaction to be who I am.\"\nArteta revealed that he had spoken to Dowman on Thursday and said there were \"no issues at all\" between the pair. However, he added that he needs to be \"very straight\" with Dowman and clear of the standards expected.\nDowman was sent off for the England U19s earlier this month where he was also on the end of heavy challenges in a match with the United States.\nOf that red card, Arteta said: \"They are his age. They are 16 – the same. What is the reaction? That is the level and that is the reaction.\n\"And whether it is right or wrong, that is the reaction.\"\nArteta also spoke of the impact the red card had on the team, saying: \"And the reaction when I don't win, you want to know what my reaction is? I am [angry] big time.\n\"So, we need to be ready for that. This is the environment and this is the reality, otherwise we are in Disneyland. We are not in Disneyland, we are in the Premier League and this level.\n\"We look after him so much that you cannot imagine.\n\"But at the same time we are going to demand from him, like everybody else, because he needs to earn the right to play. Because the other boys, what are they going to tell me? You need to be fair.\"\nThe Gunners did appeal against the red card but the Football Association (FA) upheld the decision. Of that, Arteta said he was \"very disappointed\", adding \"we are lucky today that he (Dowman) hasn't had a broken foot.\""
+    },
+    {
+     "source": "ESPN Soccer",
+     "trust": 2,
+     "url": "https://espn.com/soccer/story/_/id/50328026/mikel-arteta-max-dowman-arsenal-red-card-liverpool-fleetwood",
+     "title": "Arteta on reaction to Dowman red card: 'We are not in Disneyland'",
+     "lang": "en",
+     "extra": {},
+     "id": "e67a48ea25d31209",
+     "published": "2026-10-30T23:33+00:00",
+     "text": "Mikel Arteta has said Arsenal are \"very disappointed\" after their appeal over Max Dowman's red card at Fleetwood Town was dismissed but warned the teenager must adapt to top-level football because \"otherwise we are in Disneyland.\"\nThe 16-year-old was sent off in Tuesday's Carabao Cup penalty shootout defeat after reacting to a strong challenge from Harrison Neal. Dowman will now serve a three-game suspension after the appeal was rejected by an independent panel.\nArteta was criticised in some quarters for his angry reaction to Dowman as he left the field. Speaking on Friday ahead of the weekend Premier League trip to Liverpool, Arteta suggested the pair had spoken about the possible provocation from the League Two side before the game.\n\"I haven't seen the reaction to my reaction [to Dowman], whether it is positive or negative,\" Arteta said.\nHe also went on to reference Dowman's second red card this month, having been sent off while playing for England's under-19s.\n\"But you need to understand the context, the relationship that I have with him and what we discussed just before we went out.\n\"I don't know. You can have a lot of reactions. If you see the reaction of my father and my mother with me, someday you will say, I don't like the reaction. For me, it was the best reaction ever to be able to be who I am. But you want to always see the best reaction and the beautiful one.\n\"You want to see the reaction of his teammates? When they have to play with ten, you want to see that?\n\"What do you expect? I don't know. And the England ones, they are his age, 16, the same. What is their reaction? That's the reaction. That's the level and that's the reaction. And whether it is right or wrong, that's the reaction.\n\"But the reaction when I don't win, you know what the reaction is? I'm p----- off, big time. So we need to be ready for that. This is the environment and this is the reality.\n\"Otherwise, we are in Disneyland. We are not in Disneyland. We are in the Premier League at this level and we look after him so much that you cannot imagine. But at the same time, we're going to demand him like anybody else because he needs to earn the right to play. Otherwise, the rest of the boys, what are they going to tell me? You need to be fair. Let's go.\"\nRegarding the appeal, Arteta said: \"Very disappointed, to be fair. Especially with the reckless tackles that he received, and then his reaction is minimal in relation to the action. Disappointed that it's not been overturned after looking at the action back, to be fair.\n\"It is what it is. We have put every argument on the table to make a case for it. Not only the action, obviously, that it's evident, and when you look it back in slow motion, the previous action and Max's action, it's clear that obviously we have a very different opinion.\n\"And on top of that, I think you have to read the context of the player, the age, and what happened previously.\"\nDowman has made just 18 senior appearances but broke a series of records in that time, including being the youngest player to win the Premier League, the youngest Premier League goalscorer and the youngest player in the Champions League.\nAll three earned him official Guinness World Records certificates earlier this month.\nArteta brought Dowman into the first team set-up last summer in Singapore, where he first featured against Newcastle.\n\"It was a very physical game and that's my fear and that's why I want to protect because if a player that weighs 95 kilos, 100 kilos, comes at 35 kilometres an hour to Max and hits a bone, I don't know what happens,\" he said.\n- Arsenal's Max Dowman handed three-game ban for red card after appeal rejected\n- Global power ranking: The top 20 soccer teams in the world, ranked!\n- Martin Ødegaard urges Arsenal to 'step up' after shock Fleetwood loss\n\"So when we talk about protecting him, but the week before you were asking me why he's not playing every week when he's done really well against Everton, so we really [need to put] as well some perspective in every context of the player that we have, which is tremendous and leave it there and let him grow and let's protect him, all of us.\n\"We discussed a week ago how many players in the history of the Premier League have done what Max is doing and there isn't one. So it's something new and, as it's new, we'll do things well, I will do things well, I will do things not so well.\n\"I will try to learn as quick as possible, protect him as much as possible, but at the same time it's at the level that we are in and we are here to win football matches and to perform at the highest level, that's it.\"\nArteta confirmed that Declan Rice, Riccardo Calafiori and Christos Tzolis have all returned to training but Noni Madueke is a doubt and Bukayo Saka could be sidelined until after next month's international break with a quad injury."
+    }
+   ]
+  },
+  {
    "id": "cb329cc4aaa",
    "kind": "news",
    "score": 8.0,
@@ -239,6 +421,38 @@
    ]
   },
   {
+   "id": "caa9dc6e494",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "‘The Further Mis-Adventures Of Cliff Booth’: Netflix Brad Pitt Pic Won’t Be Playing Top Chains Regal & Cinemark",
+   "sources": [
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/10/further-mis-adventures-of-cliff-booth-regal-cinemark-1237209962",
+     "title": "‘The Further Mis-Adventures Of Cliff Booth’: Netflix Brad Pitt Pic Won’t Be Playing Top Chains Regal & Cinemark",
+     "lang": "en",
+     "extra": {},
+     "id": "aa9dc6e4942fb708",
+     "published": "2026-10-30T21:19+00:00",
+     "text": "No surprise here, but the No. 2 and No. 3 exhibitors, Regal and Cinemark, won’t be playing Netflix’s Quentin Tarantino penned Once Upon a Time in Hollywood follow-up, The Further Mis-Adventures of Cliff Booth when it opens on Wednesday, Nov. 25. That’s because the movie, which is getting a two-week exclusive run in Imax, is […]"
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/film/news/regal-cinemark-netflix-cliff-booth-1236935538",
+     "title": "Netflix’s ‘Cliff Booth’ Won’t Play in Regal and Cinemark Imax Theaters",
+     "lang": "en",
+     "extra": {},
+     "id": "e09592ea62398482",
+     "published": "2026-10-30T21:50+00:00",
+     "text": "Netflix’s push to release more films on the big screen hasn’t come without a few hiccups. Most recently, theater chains including Regal Cinemas are declining to play the streaming platform’s “The Further Mis-Adventures of Cliff Booth” on their Imax screens. Cinemark also turned down the “Cliff Booth” booking, according to sources. “Cliff Booth,” which stars […]"
+    }
+   ]
+  },
+  {
    "id": "c1fff1698b1",
    "kind": "news",
    "score": 8.0,
@@ -267,6 +481,27 @@
      "id": "2f32373c7e0d39fa",
      "published": "2026-10-30T22:37+00:00",
      "text": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple Intelligence in China. Here are the details.\nA bit of context\nIn mid-July, Reuters reported that, following a lengthy back-and-forth with Chinese regulators and multiple delays, Apple Intelligence had finally cleared a major regulatory hurdle ahead of its long-awaited launch in the country.\nThen, a couple of weeks ago, Bloomberg reported that Apple was planning to launch Apple Intelligence in China in December as part of iOS 27.3, although without Siri AI and other newer features.\nThe following day, China’s state-backed media outlet The Paper reported that Tim Cook had confirmed regulatory approval for the platform, with a test version expected before the end of October.\nThen, just last Monday, Apple released iOS 27.2 and its counterparts, expanding Siri AI support to French, Japanese, Korean, Portuguese, and Spanish. On the same day, the company announced that four more languages, including Traditional Chinese, would be supported by the end of the year.\nHowever, while that announcement confirmed additional language support for Siri AI, it offered no updates on the rollout of Apple Intelligence in China, where Siri AI itself will remain unavailable for the time being.\nWhile Apple typically releases the first beta of its next software update shortly after the previous version becomes available, iOS 27.3 has yet to materialize.\nNow, as spotted by MacRumors, a press release published on Apple’s Chinese Newsroom website confirms that testing of Apple Intelligence in China will begin on November 4, as part of the next iOS developer beta.\nImportantly, Apple has only confirmed November 4 as the start of Apple Intelligence testing in China, not necessarily the release date of iOS 27.3 beta 1 itself.\nApple Intelligence coming to China\nIn the press release, Apple confirms that users in China will get an improved Siri experience, including Type to Siri and the ability to access Alibaba’s Qwen for certain requests, but not Siri AI itself.\nThe Qwen integration will also extend to Writing Tools and Visual Intelligence. According to Apple, users will be able to ask questions about photos and documents, including PDFs and presentations, as well as generate original content from scratch through Writing Tools. Users will be able to access Qwen by signing into their accounts or using Sign in with Apple.\nOther features included in the initial rollout are Live Translation in Messages, FaceTime, and Phone, Writing Tools, Genmoji, Clean Up in Photos, natural-language photo searches, priority notifications, notification summaries, and Smart Reply, among others.\nApple also noted that the initial rollout will be exclusive to the iPhone, with support for other platforms coming only after the necessary regulatory approvals have been obtained.\nThe features will be available on the iPhone 15 Pro and Pro Max, iPhone 16 and later, iPhone Air, and iPhone Duo, with both Siri and the device language required to be set to either English or Simplified Chinese.\nThe company also confirmed that the features will become publicly available in December, with the official release of iOS 27.3.\nTo check out Apple’s press release, follow this link.\nWorth checking out on Amazon\n- Apple HomeView\n- Apple TV 4K (2026)\n- Apple Watch Series 12 | Ultra 4\n- AirPods Pro 3 | AirPods 5\n- AirTag (2nd Generation) – 4 Pack\n- MacBook Neo\n- Logitech MX Master 4\nComments"
+    }
+   ]
+  },
+  {
+   "id": "c6f116f1e09",
+   "kind": "news",
+   "score": 7.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+   "sources": [
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope",
+     "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+     "lang": "en",
+     "extra": {},
+     "id": "6f116f1e09fd6959",
+     "published": "2026-10-30T14:51+00:00",
+     "text": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.\n“Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,” said NASA Administrator Jared Isaacman. “If there are innovative and cost-effective ways to extend the life of an asset already on orbit, we owe it to the American taxpayer and the scientific community to explore them. Extending Hubble’s life would mean more discoveries, more science, and more opportunities to expand our understanding of the universe.”\nThe Request for Information seeks commercial interest in: potentially conducting a mission to boost Hubble to a higher altitude to extend its science lifetime; servicing Hubble to enhance its capabilities; or performing a safe, controlled re-entry into Earth’s atmosphere or orbital disposal at the end of Hubble’s mission.\n“Hubble is a national icon that has fundamentally changed how humanity views our universe for more than 35 years,” said Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters in Washington. “Commercial industry has rapidly evolved in recent years to offer new capabilities for in-space satellite capture and servicing. Given the time we have until Hubble’s anticipated re-entry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.”\nThe Request for Information is available online and will remain open for responses until 3 p.m. EST, Monday, Nov. 30.\nLike all spacecraft in low Earth orbit, Hubble’s altitude is slowly decreasing over time because of atmospheric drag. Hubble does not have a propulsion system to maintain its own orbit, and analysis predicts Hubble is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As such, NASA anticipates that a mission would need to take place by 2032.\nThe Hubble Space Telescope has been operating for more than three decades and continues to make ground-breaking discoveries that shape our fundamental understanding of the universe. Hubble is a project of international cooperation between NASA and ESA (European Space Agency). NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope and mission operations. Lockheed Martin Space, based in Denver, also supports mission operations at Goddard. The Space Telescope Science Institute in Baltimore, which is operated by the Association of Universities for Research in Astronomy, conducts Hubble science operations for NASA.\nTo learn more about NASA’s Hubble Space Telescope, visit:\nMedia Contacts:\nAlise Fisher\nHeadquarters, Washington\n202-358-2546\nalise.m.fisher@nasa.gov\nClaire Andreoli\nGoddard Space Flight Center, Greenbelt, Md.\n202-286-1940\nclaire.andreoli@nasa.gov"
     }
    ]
   },
@@ -334,6 +569,38 @@
    ]
   },
   {
+   "id": "cca684b4ab3",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Virgin Galactic's new rocket plane revives its bid for a space airline",
+   "sources": [
+    {
+     "source": "New Atlas",
+     "trust": 2,
+     "url": "https://newatlas.com/aircraft/virgin-galactic-apeiron-delta-class-spaceship",
+     "title": "Virgin Galactic's new rocket plane revives its bid for a space airline",
+     "lang": "en",
+     "extra": {},
+     "id": "ca684b4ab32a5dac",
+     "published": "2026-10-29T18:06+00:00",
+     "text": "Virgin Galactic hasn't flown anyone to space since June 2024. On Wednesday it finally showed off the spaceship it hopes will change that. Called Apeiron, it is designed to carry six passengers to the edge of space twice a week, for more than 500 missions."
+    },
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/space-exploration/private-spaceflight/watch-virgin-galactics-new-delta-class-space-plane-take-to-the-skies-for-the-1st-time-video",
+     "title": "Watch Virgin Galactic's new 'Delta-class' space plane take to the skies for the 1st time (video)",
+     "lang": "en",
+     "extra": {},
+     "id": "493a6158f21fc8d2",
+     "published": "2026-10-30T12:00+00:00",
+     "text": "Virgin Galactic's first \"Delta-class\" space plane, the newly named Apeiron, lifted off for the first time on Thursday (Oct. 29) —beneath the wings of its carrier aircraft."
+    }
+   ]
+  },
+  {
    "id": "c5100bc6323",
    "kind": "news",
    "score": 7.0,
@@ -366,34 +633,34 @@
    ]
   },
   {
-   "id": "c4eafb481bf",
+   "id": "c86fc494720",
    "kind": "news",
    "score": 7.0,
    "sensitive": false,
    "distinct_sites": 2,
-   "title_hint": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+   "title_hint": "Calvert-Lewin set for new Leeds deal",
    "sources": [
     {
-     "source": "The Hacker News",
+     "source": "BBC Sport Football",
      "trust": 2,
-     "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-     "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+     "url": "https://bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss",
+     "title": "Calvert-Lewin set for new Leeds deal",
      "lang": "en",
      "extra": {},
-     "id": "4eafb481bfd904bc",
-     "published": "2026-10-30T12:21+00:00",
-     "text": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.\nTrezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to a new wallet with a new recovery phrase.\nTrezor said in a blog post"
+     "id": "86fc49472070a55d",
+     "published": "2026-10-30T10:26+00:00",
+     "text": "- Published\nEngland striker Dominic Calvert-Lewin is set to sign a new contract at Leeds United.\nThe 29-year-old, who has scored 20 goals in 49 appearances for the Whites since arriving on a free from Everton, currently has a deal until 2028 at Elland Road.\nThe news will come as a blow to Manchester United, who are looking at bringing in a forward in January after Benjamin Sesko was ruled out for an extended period as he tries to recover from a shin injury.\nThe Old Trafford side had been linked with Calvert-Lewin and a potential transfer in the January window.\nHe was recalled to the England squad by Thomas Tuchel in March and, though he missed out on selection for the World Cup, was picked for the most recent Nations League matches, winning his 14th cap on 6 October in the 3-0 victory over the Czech Republic."
     },
     {
-     "source": "BleepingComputer",
+     "source": "ESPN Soccer",
      "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet",
-     "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+     "url": "https://espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
+     "title": "Transfer rumors, news: Man United eye move for Leeds' Calvert-Lewin in January",
      "lang": "en",
      "extra": {},
-     "id": "36467ee64e05717f",
-     "published": "2026-10-30T15:58+00:00",
-     "text": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]"
+     "id": "0d1ee4dec4a81e00",
+     "published": "2026-10-30T12:50+00:00",
+     "text": "A potential move back to Liverpool for Real Madrid defender Trent Alexander-Arnold could be in the cards. Transfer Talk has the latest."
     }
    ]
   },
@@ -673,6 +940,59 @@
    ]
   },
   {
+   "id": "c2684ec7263",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+   "sources": [
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found",
+     "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+     "lang": "en",
+     "extra": {},
+     "id": "2684ec7263537b2f",
+     "published": "2026-10-29T18:18+00:00",
+     "text": "5 min read\nWhen a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one of the oldest Martian meteorites ever found. Named Teghaza 001 after the salt plain in Mali where it was discovered, the meteorite is one of roughly 435 from the Red Planet.\nIn a paper published Thursday in Science, researchers offered an initial characterization of Teghaza 001, providing a rare snapshot of Mars’ ancient crust and formation. What scientists learn from future studies could help answer many questions, including how water and rocks interacted on ancient Mars. A separate paper published in Science Advances in June detailed the meteorite’s water content, offering a look at how water shaped the early planet’s surface.\n“It was only after we started looking closely that we realized this meteorite is really unique,” said the paper’s lead author, Yang Liu of NASA’s Jet Propulsion Laboratory in Southern California. “One of the paper’s reviewers called it a Rosetta Stone for Mars.”\nWhat sets Teghaza 001 apart from other Martian meteorites is its texture and age as well as the uniqueness of its igneous, or volcanic, minerals. It is one of the three most ancient Martian meteorites found on Earth. While invaluable, the others provide more limited glimpses of Mars’ geological history. They include ALH84001, which is composed almost entirely of one mineral and is similar in age to Teghaza 001. The other meteorite, nicknamed “Black Beauty,” formed about 2.1 billion years ago and is composed of small, volcanic rock fragments.\nUnlike its ancient peers, Teghaza 001 has a mix of igneous minerals that tells a story about how the planet’s crust formed from cooling magma before it was eventually altered by subsurface water. The meteorite’s distinctive mineralogy matches what NASA’s Mars Reconnaissance Orbiter has observed in the planet’s cratered southern highlands. No one will ever know exactly where the meteorite originated on Mars, but the paper identifies several potential locations that match Teghaza 001’s mineralogy and chemistry.\n“This is really our first piece of Martian crust from a part of Mars we’ve never had a sample of before,” said the new paper’s second author, Lee Saper, who conducted the research while at JPL as a postdoctoral scholar. Lee now is a scientist at NASA’s Ames Research Center in Silicon Valley. “It records interactions of water and rock and maybe even an imprint of the Martian atmosphere as it was losing water.”\nAlthough the Mars meteorites found on Earth differ from one another, they share a common history, having been blasted off the Red Planet’s surface by an impact, followed by a trajectory that eventually placed them on Earth and into the hands of scientists. Meteorites are often found by collectors in deserts or snowy plains, where they stand out from the rest of the barren landscape. Scientists can verify a meteorite as Martian by matching its mineral and chemical components to data collected by NASA’s Mars missions, including the Viking landers as well as the Curiosity and Perseverance rovers.\nWhen Liu was first asked to look at Teghaza 001, she almost passed on the opportunity.\nResearchers at the University of New Mexico had already identified it as Martian based on its oxygen isotopes, which serve as geochemical fingerprints for different planetary bodies. In this case, the researchers matched the meteorite’s oxygen isotopes to those seen in other Martian meteorites. Teghaza 001 appeared to be a shergottite which is the most common class of meteorite from the Red Planet. As an expert in planetary samples, Liu has seen plenty of those, but she decided to take a peek, anyway.\nAt the very least, there were odd textures and unusual minerals she hadn’t seen before. Liu and her colleagues discovered zircon crystals in Teghaza 001, which record clues to a rock’s formation and can be used by geologists to precisely age-date a sample. Further analysis revealed when Teghaza 001 formed and when certain changes, like water alteration, occurred.\nCaltech coauthor Francois Tissot helped the researchers utilize a novel age-dating method pioneered by his team. Compared with bulk-analysis techniques, where a sample is entirely dissolved and analyzed, Tissot’s in-situ rubidium-strontium age-dating used a piece of Teghaza 001 that was smaller than a fingernail, analyzing single mineral grains on its surface. Besides its extreme precision and speed, the technique preserves rare samples like Martian meteorites for future studies.\n“Right now, we are one of very few labs in the world able to perform this kind of age-dating, and the first to date such an ancient Martian meteorite,” Tissot said. “Our hope is to pave the way for dating even more Martian meteorites, or samples returned from "
+    }
+   ]
+  },
+  {
+   "id": "c91a0ca9e14",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Slice of Martian Meteorite Teghaza 001",
+   "sources": [
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001",
+     "title": "Slice of Martian Meteorite Teghaza 001",
+     "lang": "en",
+     "extra": {},
+     "id": "91a0ca9e14d9f599",
+     "published": "2026-10-29T23:32+00:00",
+     "text": "This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments.\nFigure A is the same image with annotations showing minerals like iron-titanium oxides (brighter grains) and pyroxene (medium gray), both of which tell a story about the formation of Mars’ crust and mantle. Shocked plagioclase (darker gray) is created by extreme pressures during impacts, including the one that sent Teghaza 001 flying through space to Earth. The alteration represents fine grain carbonate, sulfate and clay minerals formed on Earth."
+    },
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001",
+     "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+     "lang": "en",
+     "extra": {},
+     "id": "d2ab622f74eeba5a",
+     "published": "2026-10-30T00:07+00:00",
+     "text": "This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of the Red Planet.\nThe base map of this image was produced with data from the Mars Orbiter Laser Altimeter instrument aboard NASA’s Mars Global Surveyor mission. Scientists used data from NASA’s Mars Reconnaissance Orbiter to identify areas of the map (noted with white circles) that have similar mineralogy and chemistry as Teghaza 001."
+    }
+   ]
+  },
+  {
    "id": "cd2282bcce1",
    "kind": "news",
    "score": 6.5,
@@ -690,6 +1010,48 @@
      "id": "d2282bcce1625c64",
      "published": "2026-10-30T00:00+00:00",
      "text": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    }
+   ]
+  },
+  {
+   "id": "caafd581c0e",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Vega Island Frozen in Fright",
+   "sources": [
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright",
+     "title": "Vega Island Frozen in Fright",
+     "lang": "en",
+     "extra": {},
+     "id": "aafd581c0e57288b",
+     "published": "2026-10-30T04:01+00:00",
+     "text": "Shrouded in ice in the lonely Weddell Sea, Vega Island is an eerie sight to behold. On this speck of land east of the Antarctic Peninsula, ice, rock outcrops, and glacial moraines combine to create the appearance of a smirking skull in profile looking toward Devil Island.\nThese images show Vega Island’s creepy countenance at the start of austral autumn (left) and in spring (right). They were acquired with the OLI (Operational Land Imager) on Landsat 9 on March 22, 2025, and October 10, 2026, respectively. (Clouds obscured the island in March 2026.) A nunatak jutting out of the ice has the appearance of an eye socket, a lateral moraine forms a mouth, and Bahía del Diablo (Devil’s Bay) Glacier constitutes a jawbone. In the March 2025 image, a layer of snow coats the ice, which is typical of the region’s wettest month. That contrasts with the October 2026 image, when snow is absent from large areas and darker ice surfaces are visible.\nAbove-average temperatures in winter 2026—particularly in June—were partly responsible for so much bare ice in October, said glaciologist Mauri Pelto of Nichols College. The ice exposed on Vega and nearby islands indicates limited new snow accumulation over the winter, further reduced by sublimation and wind scouring, he said. “The winter season was no treat for these glaciers.”\nThe melt season ahead may also be more trick than treat. Bare ice is darker than snow and absorbs more solar energy, meaning that melting is poised to speed up as the days grow longer and warmer. “Even a thin cover of new snow from a spring storm would be helpful in the short run,” Pelto said. “When entombed in snow and ice, the skull is preserved. But when exposed to melt, it weathers away, which will lead to a changing jawline and expanding eye socket.”\nThe first comprehensive mapping of Vega Island’s ice was aided by Landsat imagery. In a study published in 1982, scientists described the island’s four ice caps with protruding rocky cliffs and outlet glaciers. They leveraged early Landsat observations along with aerial photos and topographic maps to catalog 29 glaciers on Vega.\nOf those glaciers, Devil’s Bay Glacier has been closely monitored since the austral summer of 1998-1999, with researchers measuring an overall decline in its mass. Satellite images acquired in recent decades show ice loss from other glaciers on the island as well, with increased areas of exposed bedrock.\nLong before scientists began tracking its glaciers, Vega was a bright spot in a tale of terror born out of early exploration of the area. The Swedish Antarctic Expedition of 1901-1903 set out to study the geography, geology, climate, and wildlife on and around the eastern Antarctic Peninsula. The party became split into three groups during their explorations, isolated for a winter in different locations. Adding to the horror, they lost their ship to the pack ice. Cape Well-met, as it would come to be known, off the “forehead” of the Vega Island skull, was the site of a happy reunion of two of the groups in spring 1903. Soon thereafter, an Argentinean expedition rescued the survivors of the ordeal.\nNASA Earth Observatory images by Lauren Dauphin, using Landsat data from the U.S. Geological Survey. Story by Lindsey Doermann.\nStay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.\nIn summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding…\nThe expanse of glacial ice on Canada’s Baffin Island lost its snow cover quickly and early in summer 2026, revealing…\nOne narrowing icefall remains the linchpin for the Alpine glacier—and it may not be long for this world."
+    }
+   ]
+  },
+  {
+   "id": "c9a2c196f30",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+   "sources": [
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare",
+     "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+     "lang": "en",
+     "extra": {},
+     "id": "9a2c196f30036c40",
+     "published": "2026-10-30T04:05+00:00",
+     "text": "Explanation: Spooky shapes seem to haunt this dusty expanse, drifting through the night in the royal constellation Cepheus. Of course, the shapes are cosmic dust clouds visible in dimly reflected starlight. Far from your own neighborhood, they lurk above the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over 2 light-years across and brighter than most of the other ghostly apparitions, vdB 141 or Sh2-136 is also known as the Ghost Nebula. It lies at lower right in the starry field of view. Inside the Ghost Nebula are reddish telltale signs of dense cores collapsing in the early stages of star formation. With the eerie hue of interstellar dust reflecting bluish light from hot young stars of NGC 7023, the Iris Nebula stands out against the dark just left of center. In the broad telescopic frame, these fertile interstellar dust fields stretch almost six full moons across the sky.\nTomorrow’s picture: night on a spooky planet"
     }
    ]
   },
@@ -736,341 +1098,23 @@
    ]
   },
   {
-   "id": "c4c55e492d8",
+   "id": "c432aad2ad7",
    "kind": "news",
-   "score": 6.0,
+   "score": 6.5,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+   "title_hint": "November’s Night Sky Notes: Light-Day Away",
    "sources": [
     {
-     "source": "Wired",
-     "trust": 2,
-     "url": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
-     "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away",
+     "title": "November’s Night Sky Notes: Light-Day Away",
      "lang": "en",
      "extra": {},
-     "id": "4c55e492d8973144",
-     "published": "2026-10-29T18:39+00:00",
-     "text": "Earlier this year, sources tell WIRED, a contractor caused a security incident at the Department of Defense by connecting a secure centralized system used by multiple intelligence agencies to their personal account for Claude Code, Anthropic’s AI coding agent. It appears that the agent used by the contractor, who is employed by the global consulting firm Accenture, then sent information about the DOD system, including login credentials, to a high-risk, third-party website.\nThe centralized system contains controlled unclassified information (CUI), which is considered sensitive and not to be released to the public without review. CUI can include information about critical infrastructure, nuclear submarine propulsion, and vulnerabilities to chemical and biological terrorism. Additionally, security experts say, access to the system could allow for the exploitation of even more sensitive ones.\n“It puts all the data that’s in there at risk,” says a source aware of the incident, who requested anonymity as they were not authorized to speak to the press. If the third-party software was compromised, “there could be somebody out there with the ability to log into a secure environment without anyone knowing. It’s 100 percent a national security threat and could cause irreparable harm.”\nA DOD spokesperson tells WIRED that “the Department does not comment on the status of its networks or systems.”\n“We take all concerns seriously. These allegations were thoroughly and independently investigated and found to be without merit. We fully complied with our legal and contractual obligations,” an Accenture spokesperson tells WIRED. When pressed, Accenture didn’t offer clarification on who conducted the investigation, or dispute that there had been what could be characterized as an incident.\nThe Accenture employee is alleged to have connected a secure production environment to their personal Claude account so as to allow an AI agent to write and deploy code. Claude is currently barred from being used by DOD staff. (Anthropic directed WIRED to the company’s usage policy, which instructs users not to use its products to “interfere with the operation of military bases and related infrastructure” or to “bypass security controls such as authentication systems, end point protection, or monitoring tools without authorization.”)\nThe Accenture employee’s AI agent ran on the DOD network for two months before it was identified and the vulnerability could be patched. Sources indicate that despite the security risks posed by the AI coding agent, Accenture employees did not treat the incident as severe or urgent. DOD employees and federal contractors are required to report any cybersecurity incident within 72 hours of its discovery, but sources indicate Accenture did not initially report the breach to the government at all.\n“We are in a conflict with Iran right now,” says the employee, noting that Iran has attempted to hack several federal agencies and parts of US infrastructure. “It’s the worst time to be having this kind of cavalier attitude.”\n| Got a Tip? |\n|---|\n| Are you a current or former government employee who wants to talk about what's happening? We'd like to hear from you. Using a nonwork phone or computer, contact the reporters securely on Signal at velliott88.18. |\nAccenture currently has more than $3.5 billion in contracts with the federal government, nearly $605 million of which are with the DOD. The company also contracts with other federal agencies, such as the Department of Education, the General Services Administration, and the Department of Energy, among others. Earlier this month, the Federal Bureau of Investigation found that an Accenture contractor failed to patch a vulnerability that led to the hacking group ShinyHunters getting access to the details of thousands of the Bureau’s employees. The FBI removed that contractor in early October.\nMatt Triner, founder of Hunter Strategy, a Washington, DC-based IT consulting company, says that the issue exemplifies the conflicting demands government contractors face more broadly. “Organizations are often punished for reporting incidents like this, even though it’s the right and legal thing to do,” says Triner. In many cases, he says, a company could lose government contracts by admitting they’ve had a security breach, though he says that an incident like the one described is “absolutely one that would need to be reported.”\nTriner also notes that the increasing pressure on contractors to deliver projects faster and at a lower price point is at odds with prioritizing safety and security. “Unfortunately, everyone is operating in a system where there are competing rules and incentives, and that existed before AI, but now it’s the same problem on speed,” says Triner.\nThe coding environment accessed by the Accenture contractor is run on the Non-classified Internet Protocol Router Network (NIPRNet), a DOD network used for unclassified information. While it does connect to the internet—c"
-    },
-    {
-     "source": "Wired",
-     "trust": 2,
-     "url": "https://wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon",
-     "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-     "lang": "en",
-     "extra": {},
-     "id": "9fcf1feb8ef62474",
-     "published": "2026-10-30T21:19+00:00",
-     "text": "This week on Uncanny Valley, Brian Barrett, Leah Feiger, and Zoë Schiffer dive into our scoop on how a defense contractor connected Claude Code to a secure Department of Defense system. We also discuss the green, yellow, and red flags we see in Anthropic’s IPO filing—and why it’s a test not just for the AI industry, but for the entire US economy—and how volunteers nationwide are preparing for ICE agents potentially showing up at polling sites in the midterms.\nArticles mentioned in this episode:\n- A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System\n- The Anthropic S-1 Filing Is Also an AI Doomsday Primer\n- What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock\n- Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls\nYou can follow Brian Barrett on Bluesky at @brbarrett, Zoë Schiffer on Bluesky at @zoeschiffer, and Leah Feiger on Bluesky at @leahfeiger. Write to us at [email protected].\nHow to Listen\nYou can always listen to this week's podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here's how:\nIf you're on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts and search for “uncanny valley.” We’re on Spotify too.\nTranscript\nNote: This is an automated transcript, which may contain errors.\nBrian Barrett: Welcome to the WIRED's Uncanny Valley. I'm Brian Barrett, executive editor.\nZoë Schiffer: I'm Zoë Schiffer, contributing editor.\nLeah Feiger: And I'm Leah Feiger, director of politics and science.\nZoë Schiffer: This week, Anthropic has officially filed to go public. There is a lot going on in the hundreds of pages that the company submitted as part of its S-1 filing, from staggering earnings and losses, to warnings of AI's existential threat. Obviously, we're talking about Anthropic here. We'll discuss our key takeaways and why this IPO is kind of high stakes, not just for the AI industry, but honestly the entire US economy.\nLeah Feiger: We're also bringing you a scoop about how a defense contractor plugged Anthropic's Claude into a secure Department of Defense system, in what's really one of the most outlandish uses of AI in the government we've seen so far.\nBrian Barrett: And the midterms are right around the corner, just a few days away. Massive groups of volunteers all over the country are already getting ready to protect their communities from the potential that ICE officers show up at the polls. We'll get into how grassroots efforts like these are a reflection of a deeply uncertain election cycle.\nZoë Schiffer: So on Monday, we learned that Anthropic finally pulled the trigger and publicly filed for its IPO. This has been highly anticipated for a bunch of reasons. Anthropic is expected to raise more money in its IPO than any company in history, and it would be the first major US company focused solely on building AI software to go public. To give you a sense of the scale that we're talking about, the company's valuation went from $183 billion a little over a year ago to $965 billion in its most recent round, and some expect that it could be worth close to $2 trillion once it starts trading. So the filing basically gives us the first real look inside Anthropic's business because it's a private company right now. It doesn't have to report a bunch of stuff. And the numbers are pretty extreme in both directions, billions of dollars in revenue and even more billions in losses, and hundreds of billions that the company has already committed to compute. Because there's a ton to unpack in this paperwork, I thought it would be fun to divide it into green flags, yellow flags, and red flags that we saw from the filing. What do you guys think?\nBrian Barrett: Yes.\nLeah Feiger: I'm astounded by how much money is at play here. This is, yes.\nBrian Barrett: What flag, Leah? What flag is that?\nLeah Feiger: I don't know.\nZoë Schiffer: For the sake of the economy, it's green.\nBrian Barrett: Great. Green flag.\nLeah Feiger: For the sake of the economy, it's green. This is so much money, guys. Sue me, but the only thing I can think of right now is that article that WIRED ran a couple of months ago about how people were selling their homes in the Bay Area with the promise of Anthropic stock post-IPO. And I remember at the time I was like, \"How close are we to this?\" And Zoe said, \"Oh, they're going to make so much money.\"\nBrian Barrett: Is it fair to say, Zoë, I feel like having the financials out there, yes, they're losing money hand over fist, but the financials I think are better than people were expecting maybe. At least, it feels like they put a lot of concerns to rest, not all of them, but this is a real business. This is a business that is growing. It's doing all the things you would want a business to do.\nZoë Schiffer: Yes, I think absolutely. So its revenue hit $16.3 billion in the first half of 2026, and it's grown mor"
-    }
-   ]
-  },
-  {
-   "id": "cc7a9965907",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-   "sources": [
-    {
-     "source": "BleepingComputer",
-     "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft",
-     "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-     "lang": "en",
-     "extra": {},
-     "id": "c7a99659074ab27a",
-     "published": "2026-10-29T19:23+00:00",
-     "text": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]"
-    },
-    {
-     "source": "9to5Mac",
-     "trust": 2,
-     "url": "https://9to5mac.com/2026/10/29/apple-cuts-app-store-commission-in-taiwan-following-regulatory-discussions",
-     "title": "Apple cuts App Store commission in Taiwan following regulatory discussions [U]",
-     "lang": "en",
-     "extra": {},
-     "id": "3d686f6a2d4d8d00",
-     "published": "2026-10-29T20:24+00:00",
-     "text": "Apple today announced that it is lowering its standard App Store commission in Taiwan, following discussions with the country’s Fair Trade Commission. Here are the details."
-    }
-   ]
-  },
-  {
-   "id": "c89c17d9031",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "9to5Mac Daily: October 29, 2026 – New MacBook Pro with PROLED XDR Display",
-   "sources": [
-    {
-     "source": "9to5Mac",
-     "trust": 2,
-     "url": "https://9to5mac.com/2026/10/29/daily-october-29-2026",
-     "title": "9to5Mac Daily: October 29, 2026 – New MacBook Pro with PROLED XDR Display",
-     "lang": "en",
-     "extra": {},
-     "id": "89c17d9031f87f21",
-     "published": "2026-10-30T00:58+00:00",
-     "text": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\nNew episodes of 9to5Mac Daily are recorded every weekday. Subscribe to our podcast in Apple Podcast or your favorite podcast player to guarantee new episodes are delivered as soon as they’re available.\nStories discussed in this episode:\n- iPhone Duo could capture nearly 30% of foldable market in 2027, per report\n- The education price of the MacBook Neo just jumped again\n- Apple announces all-new MacBook Pro with PROLED XDR display, its first touchscreen Mac\n- MacBook Pro with PROLED XDR vs MacBook Pro: Here’s every difference\n- Apple reveals pricing for Mac Studio with 512GB of RAM\nListen & Subscribe:\nSubscribe to support Chance directly with 9to5Mac Daily Plus and unlock:\n- Ad-free versions of every episode\n- Bonus content\nDrop us a line at happyhour@9to5mac.com. You can also rate us in Apple Podcasts or recommend us in Overcast to help more people discover the show.\nComments"
-    },
-    {
-     "source": "9to5Mac",
-     "trust": 2,
-     "url": "https://9to5mac.com/2026/10/30/daily-october-30-2026",
-     "title": "9to5Mac Daily: October 30, 2026 – New HomePod features, more",
-     "lang": "en",
-     "extra": {},
-     "id": "ba056b7aa501a214",
-     "published": "2026-10-30T23:25+00:00",
-     "text": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\nNew episodes of 9to5Mac Daily are recorded every weekday. Subscribe to our podcast in Apple Podcast or your favorite podcast player to guarantee new episodes are delivered as soon as they’re available.\nStories discussed in this episode:\n- Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more\n- Reddit will soon require an account for most content\n- HomePod 27.2 is available now with four new features\n- HomePod 27.2 hands-on: default wireless speaker for Mac, Sound Glow and more [Video]\nListen & Subscribe:\nSubscribe to support Chance directly with 9to5Mac Daily Plus and unlock:\n- Ad-free versions of every episode\n- Bonus content\nDrop us a line at happyhour@9to5mac.com. You can also rate us in Apple Podcasts or recommend us in Overcast to help more people discover the show.\nComments"
-    }
-   ]
-  },
-  {
-   "id": "c6d2a0802c4",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-   "sources": [
-    {
-     "source": "The Hacker News",
-     "trust": 2,
-     "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-     "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-     "lang": "en",
-     "extra": {},
-     "id": "6d2a0802c49f854e",
-     "published": "2026-10-30T07:45+00:00",
-     "text": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component.\nThe vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13.\n\"This module enables you to sell goods and services to customers through an included shopping cart"
-    },
-    {
-     "source": "BleepingComputer",
-     "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks",
-     "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-     "lang": "en",
-     "extra": {},
-     "id": "bcc6fcc83b0a17ea",
-     "published": "2026-10-30T10:16+00:00",
-     "text": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]"
-    }
-   ]
-  },
-  {
-   "id": "c1e56290d9c",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "ملخص الأسبوع | مضاعفة باقة الإنترنت الأساسية و iPad mini OLED والمزيد",
-   "sources": [
-    {
-     "source": "عرب هاردوير",
-     "trust": 2,
-     "url": "https://arabhardware.net/post-55063",
-     "title": "ملخص الأسبوع | مضاعفة باقة الإنترنت الأساسية و iPad mini OLED والمزيد",
-     "lang": "ar",
-     "extra": {},
-     "id": "1e56290d9c0b758d",
-     "published": "2026-10-30T11:48+00:00",
-     "text": "The post ملخص الأسبوع | مضاعفة باقة الإنترنت الأساسية و iPad mini OLED والمزيد appeared first on عرب هاردوير."
-    }
-   ]
-  },
-  {
-   "id": "cb0bff9b79e",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "الفيلم المستوحى من لعبة Bloodborne يحصل على كاتب ومخرج بالفعل",
-   "sources": [
-    {
-     "source": "عرب هاردوير",
-     "trust": 2,
-     "url": "https://arabhardware.net/post-55066",
-     "title": "الفيلم المستوحى من لعبة Bloodborne يحصل على كاتب ومخرج بالفعل",
-     "lang": "ar",
-     "extra": {},
-     "id": "b0bff9b79e08c905",
-     "published": "2026-10-30T11:50+00:00",
-     "text": "The post الفيلم المستوحى من لعبة Bloodborne يحصل على كاتب ومخرج بالفعل appeared first on عرب هاردوير."
-    }
-   ]
-  },
-  {
-   "id": "cf2a0d6c55c",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "إشاعة| لعبة The Elder Scrolls 6 تحصل على عرض جديد ضخم الشهر القادم",
-   "sources": [
-    {
-     "source": "عرب هاردوير",
-     "trust": 2,
-     "url": "https://arabhardware.net/post-55067",
-     "title": "إشاعة| لعبة The Elder Scrolls 6 تحصل على عرض جديد ضخم الشهر القادم",
-     "lang": "ar",
-     "extra": {},
-     "id": "f2a0d6c55c93bb13",
-     "published": "2026-10-30T12:26+00:00",
-     "text": "The post إشاعة| لعبة The Elder Scrolls 6 تحصل على عرض جديد ضخم الشهر القادم appeared first on عرب هاردوير."
-    }
-   ]
-  },
-  {
-   "id": "c9454cfa86e",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Bose QuietComfort Ultra Earbuds 2nd Gen drop $70 on Amazon",
-   "sources": [
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/quietcomfort-ultra-earbuds-2nd-gen-deal-3730204",
-     "title": "Bose QuietComfort Ultra Earbuds 2nd Gen drop $70 on Amazon",
-     "lang": "en",
-     "extra": {},
-     "id": "9454cfa86e0153eb",
-     "published": "2026-10-30T15:43+00:00",
-     "text": "Bose’s QuietComfort Ultra Earbuds (2nd Gen) are built for people who care most about blocking out noise and getting a secure, comfortable fit, and there’s a solid deal on them right now. This premium true-wireless pair puts the focus on active noise cancellation, everyday comfort, and useful extras that make them easy to live with."
-    },
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/quietcomfort-ultra-headphones-gen-2-deal-3730292",
-     "title": "Bose’s new QuietComfort Ultra Headphones hit Prime Day low again",
-     "lang": "en",
-     "extra": {},
-     "id": "db7cac80c143d10e",
-     "published": "2026-10-30T19:24+00:00",
-     "text": "Bose’s QuietComfort Ultra Headphones (2nd Gen) are back down to $369 on Amazon, which saves you $80 off the $449 recommended retail price. That’s an 18% discount relative to the RRP, and it’s worth a look right now because this is a return to the Prime Day price, which is an all-time low."
-    }
-   ]
-  },
-  {
-   "id": "cf65a934222",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Save $350 on the Pixel 11 Pro XL gets in record-low deal",
-   "sources": [
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/pixel-11-pro-xl-record-low-deal-3730216",
-     "title": "Save $350 on the Pixel 11 Pro XL gets in record-low deal",
-     "lang": "en",
-     "extra": {},
-     "id": "f65a9342222e4e89",
-     "published": "2026-10-30T16:00+00:00",
-     "text": "The Google Pixel 11 Pro XL just dropped to a record-low $949 on Amazon, down from its $1,299 recommended retail price. That’s a $350 discount, or 27% off RRP, and it’s a strong time to grab Google’s top big-screen phone for a lot less.\nThis is the flagship Pixel for people who want the full package. The Pixel 11 Pro XL has a 6.8-inch high-resolution OLED display, Google’s new Tensor G6 chip, and a big focus on camera upgrades. Google also built it around stronger durability and on-device Gemini-powered AI features, so it’s aimed at buyers who want premium hardware with smart tools built in."
-    },
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/pixel-11-deal-3730263",
-     "title": "Pixel 11 hits record-low price with $200 discount",
-     "lang": "en",
-     "extra": {},
-     "id": "175e602a063ae942",
-     "published": "2026-10-30T17:53+00:00",
-     "text": "Great phone cameras and clean Android software matter most when you want a handset that just feels good to use every day. The Google Pixel 11 fits that kind of buyer well, and there’s a strong deal on Amazon right now that makes it a lot more tempting."
-    }
-   ]
-  },
-  {
-   "id": "cbfebb924a8",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Save $60 on Eufy’s dual-lens SoloCam S340 security camera",
-   "sources": [
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/eufy-solocam-s340-deal-3730260",
-     "title": "Save $60 on Eufy’s dual-lens SoloCam S340 security camera",
-     "lang": "en",
-     "extra": {},
-     "id": "bfebb924a88c7e1a",
-     "published": "2026-10-30T17:45+00:00",
-     "text": "The Eufy Security SoloCam S340 is built for people who want a better view of what’s happening outside their home, and it’s on sale right now on Amazon. This wire-free outdoor security camera packs more than the usual basics, with a dual-lens setup that combines a 3K wide-angle view with a telephoto lens for closer detail."
-    }
-   ]
-  },
-  {
-   "id": "ca457451f7b",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Zest’s new AI agent finds restaurants and books reservations over text",
-   "sources": [
-    {
-     "source": "TechCrunch",
-     "trust": 2,
-     "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
-     "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-     "lang": "en",
-     "extra": {},
-     "id": "a457451f7b0ab496",
-     "published": "2026-10-30T17:47+00:00",
-     "text": "Zest, the restaurant discovery app that launched earlier this year, is already thinking about a future where mobile apps are no longer the primary interface. On Thursday, the startup introduced a new feature: a personal AI-powered “restaurant concierge” that lives in your text messages, similar to other popular AI agents like Instinct or Poke.\nThe launch reflects a broader shift in how startups are thinking about AI, as conversational AI agents take on tasks that had previously required users to launch stand-alone mobile apps. For Zest, that means bringing its restaurant recommendations into texts, then allowing users to immediately take the next step of booking a table.\n“The agent is the product now,” explains Zest founder and CEO Mario Gomez-Hall. “You text it, and it answers from your own history and your friends’. It doesn’t need weeks of conversation to learn you because it starts from where you’ve actually been,” he said.\nOriginally founded in November 2024, with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures, the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests. With this data on hand, Zest can make tailored suggestions of what places you might like to try next, whether that’s in your own city or suggestions of places to try when you’re traveling.\nThe credit card data used by Zest’s app is imported via the financial services company Plaid, which is used by banks and other fintech and budgeting apps. Zest says it focuses only on those transactions in the food and drink categories when making its personalized map and lists.\nThe startup’s latest idea is to tackle the same problem — where should I go to eat? — from a new angle. It will now make its suggestions from inside a text message thread and can turn to AI to do things like check availability and make the reservation for you through connected services like OpenTable, Resy, and SevenRooms.\nTo work, users will text the Zest concierge at (212) 470-6067. What’s even better is that Zest can be dropped into a group chat, where it can blend everyone’s tastes to find places the whole group will love. Here, it can also settle indecision with an in-thread voting feature and then can book a table for the group without leaving the conversation.\nUsers can ask Zest for recommendations based on a number of factors, like cuisine, craving, occasion, dietary restrictions, or neighborhood, and can ask questions about the restaurants, like how busy the place may be, or whether it offers Wi-Fi, and more. Plus, you can ask Zest to send you the menu to help you make a decision.\nIn TechCrunch’s tests, the AI worked fairly well, offering a list of suggestions for new places matched to our tastes that also fit particular conditions, like time of day, party size, location, and other factors. While finding an open table is something other apps have offered for years, there’s a convenience factor in being able to just text back and forth about the various options and have it tell you the available booking times.\nThe company began testing the concierge last month, but decided to hold the launch until it could add the booking capabilities; over time, the startup is considering moving Zest beyond restaurants to offer recommendations for businesses, shopping, and more.\nBy shifting to texts, Zest hopes the company can scale beyond its initial thousands of users and generate revenue.\n“Booking and ordering are the first revenue lines. Zest books your table through OpenTable or Resy today, with food ordering coming, and there are transactions there to participate in,” said Gomez-Hall. “The reason that gets interesting is that Zest learns your taste faster than a general assistant does, because it starts from where you’ve actually been instead of asking you questions. That’s worth something well beyond dinner,” he added."
-    }
-   ]
-  },
-  {
-   "id": "c6b8c1db360",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Friday’s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more",
-   "sources": [
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5toys.com/2026/10/30/todays-highlight-google-play-deals-40",
-     "title": "Friday’s Android app deals and freebies: Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, more",
-     "lang": "en",
-     "extra": {},
-     "id": "6b8c1db36003e282",
-     "published": "2026-10-30T17:58+00:00",
-     "text": "Friday’s best Google Play app and game deals are ready, including Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, RPG Silver Nornir, Witchcraft!, Lovecraft’s Untold Stories, Angelo and Deemon (Full), and more. The Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold, as well as Pixel Watch 5 hitting all-time lows at $100 off, and Pixel Buds Pro 2 at over 25% off, but your app deals await below.\nmore…"
-    }
-   ]
-  },
-  {
-   "id": "cc31b8c374a",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum",
-   "sources": [
-    {
-     "source": "9to5Mac",
-     "trust": 2,
-     "url": "https://9to5mac.com/2026/10/30/switchbot-k11-pro",
-     "title": "HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum",
-     "lang": "en",
-     "extra": {},
-     "id": "c31b8c374ad78318",
-     "published": "2026-10-30T18:00+00:00",
-     "text": "The robot vacuums designed for large open floor plans often have big batteries but take up a ton of space. The SwitchBot K11+ Pro goes the other direction: a tiny vacuum, a small dock, and Matter support so it works with Apple Home.\nHomeKit Weekly is a series focused on smart home accessories, automation tips and tricks, and everything to do with Apple’s smart home framework.\nThe SwitchBot K11+ Pro is 9.76 inches across and 3.62 inches tall, and weighs about 5 pounds. That size is the whole point. It can work its way between chair legs, get closer to corners and walls, and slide under beds, couches, and cabinets that larger robots bump into and give up on. If you have a couch that sits lower to the ground, you know what this means\nNavigation for the SwitchBot K11+ Pro is done by LiDAR for mapping and route planning, plus a close-range sensor for spotting furniture legs and following wall edges. It stores up to five maps, so you can carry it upstairs and it’ll know where it is, too. Inside the SwitchBot app, you get room and zone cleaning, schedules, no-go zones, and virtual walls. I use the SwitchBot app almost daily and really like it a lot. It’s super easy to use and navigate.\nA dock that isn’t as big as a trash can\nTo me, the small dock is more critical than a small vacuum. Self-emptying docks are great until you realize most of them are the size of a small trash can. The Switch K11+ Pro’s station is around 9.4 by 7.1 inches. It also has a wood-patterned lid, so it looks less like an appliance sitting in your living room or laundry room. Inside the dock is a disposable dust bag that should last up to 3 months, depending on usage.\nSwitchBot rates the K11+ Pro at up to 12,000Pa of suction, which is double the original K11+. I’ve got the original K11+, and while it’s great, it’s better suited to a bedroom than to a main living area. One thing to keep in mind: that’s a peak number from Max mode. Day-to-day, the Quiet, Standard, and Strong modes run much lower, and the robot automatically bumps up to Max when it hits carpet. On the other end of the power spectrum, Quiet Mode runs at about 45dB, which makes it a lot more realistic to run while you’re working from home or after the kids are in bed. My wife prefers quiet mode at all times, where I want more power at all times. With my other SwitchBot vacuums, the difference between Max and Quiet mode is that the latter can run while watching TV, whereas the former cannot.\nFor pet owners, it uses an all-rubber main brush and a two-arm side brush, both designed to keep hair from wrapping around them. If you’ve ever had to sit on the floor with scissors cutting dog or cat hair out of a roller, you’ll appreciate this feature.\nHow it works with Apple Home\nThe K11+ Pro supports Matter over Wi-Fi, so it pairs directly with Apple Home, and you can start a cleaning with Siri. SwitchBot lists Apple Home support for section cleaning, so you’re not stuck with an all-or-nothing on/off switch. Once it’s in Apple Home, it’s also available to your automations. Start cleaning when everyone leaves the house, and finish it before anyone gets back, etc. One thing to keep in mind is that the mapping and advanced functionality are managed in the SwitchBot app. So you’ll need to do a lot of your initial setup in it, but then you can rely on Apple Home day-to-day.\nWrap up\nBig robots are built for big houses, but smaller homes will fit perfectly with it. The K11+ Pro is small enough to reach under the furniture, the dock is small enough to hide, and Matter means it works well with Apple Home. We have a larger unit in the main part of my house, but I am considering swapping to this one simply for its smaller footprint and manageable power. If you vacuum while no one is at home, you won’t mind that it has to recharge and empty itself a few times.\nThe SwitchBot K11+ Pro is available now in Black and White on Amazon and SwitchBot’s website.\nComments"
+     "id": "432aad2ad7fdcc29",
+     "published": "2026-10-30T10:00+00:00",
+     "text": "2 min read\nIn 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. By the 1980s, the two probes went their separate ways at Saturn. As Voyager 2 continued toward Uranus and Neptune, Voyager 1 grabbed one more portrait of the solar system (excluding Mercury and Mars), including a final image of the pale blue dot we call home.\n“Hello from the children of planet Earth.”\nEvery good road trip needs some music to match. In this case, each craft carries the Golden Record, a 12-inch phonograph record with spoken greetings in 55 languages, 27 musical tracks, 116 images, and other sounds from Earth. Each record is protected by an outer cover featuring etchings showing our Sun’s location relative to 14 pulsars, along with instructions on how to play it. The design used various metals to protect the information encoded from space radiation: the record used copper and gold plating, and the cover used aluminum. The cover was electroplated with an ultra-pure sample of the isotope uranium-238. Uranium-238 has a half-life of 4.468 billion years.\nDid you know that a light-minute is a measure of distance, not time? In August 2012 and November 2018, Voyager 1 and 2 crossed the heliopause, the boundary where the Sun’s solar wind meets the interstellar medium. Using NASA’s Deep Space Network, Earth communicates with both spacecraft and tracks each on its journey. At the time of this article, the Canberra antenna tracked Voyager 1 at 25.80 billion km, or just over 16 billion miles.\nOn November 18, 2026, 49 years after its launch, Voyager 1 will cross the one-light-day mark, 16.1 billion miles from the Sun. You may have heard the term light-year in your favorite sci-fi movie or show, or when stargazing and referring to an object outside of our solar system. This video best demonstrates the different distances between the inner solar system, outer solar system, and beyond, using light measurements. Additionally, track each Voyager spacecraft here.\nYou can get a real understanding of what a gravity assist might be like with our Gravity Assist activity and learn what it’s like to measure a “light minute” with our Measuring a Kid Minute activity guide!"
     }
    ]
   },
@@ -1347,8 +1391,8 @@
       "market": "crypto",
       "day": "2026-10-30"
      },
-     "published": "2026-10-30T23:43+00:00",
-     "text": "Bitcoin: $77,219 (-1.4% 24h)\nEthereum: $2,243 (-0.6% 24h)\nSolana: $96.14 (+0.1% 24h)\nToncoin: $1.17 (+0.7% 24h)"
+     "published": "2026-10-30T23:53+00:00",
+     "text": "Bitcoin: $77,234 (-0.8% 24h)\nEthereum: $2,242 (-0.4% 24h)\nSolana: $96.28 (+0.7% 24h)\nToncoin: $1.18 (+1.3% 24h)"
     }
    ]
   },
@@ -1640,7 +1684,7 @@
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Elements of AI is a free online course created by the University of Helsinki and MinnaLearn. It explains artificial intelligence for non-programmers and gives a certificate on completion. Official link: https://www.elementsofai.com"
+     "text": "Elements of AI is a free online course created by the University of Helsinki and MinnaLearn. It explains artificial intelligence for non-programmers; more than 2 million people from over 170 countries have signed up. Official link: https://www.elementsofai.com"
     }
    ]
   },
