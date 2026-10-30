@@ -51,7 +51,7 @@
   kind: course
   title: Elements of AI
   url: https://www.elementsofai.com
-  facts: Elements of AI is a free online course created by the University of Helsinki and MinnaLearn. It explains artificial intelligence for non-programmers and gives a certificate on completion.
+  facts: Elements of AI is a free online course created by the University of Helsinki and MinnaLearn. It explains artificial intelligence for non-programmers; more than 2 million people from over 170 countries have signed up.
   logos: [{name: Elements of AI, domain: elementsofai.com, wiki: Elements of AI}]
 
 - id: kaggle-learn
