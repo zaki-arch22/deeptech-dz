@@ -1,6 +1,49 @@
 {
- "generated_at": "2026-10-30T22:14:22+00:00",
+ "generated_at": "2026-10-30T22:45:32+00:00",
  "clusters": [
+  {
+   "id": "cbfc1aa8043",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Google Pixel Watch 5 falls to $299.99, its lowest price since launch",
+   "sources": [
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/pixel-watch-5-deal-amazon-3730201",
+     "title": "Google Pixel Watch 5 falls to $299.99, its lowest price since launch",
+     "lang": "en",
+     "extra": {},
+     "id": "bfc1aa804325a7a5",
+     "published": "2026-10-30T15:35+00:00",
+     "text": "The Google Pixel Watch 5 just dropped to $299.99 on Amazon, and that’s a strong deal for Google’s latest compact smartwatch. It’s $100 off the $399.99 recommended retail price, which works out to a 25% discount relative to RRP, and it’s the lowest price since launch."
+    },
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/google-store-pixel-11-early-deals",
+     "title": "Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early",
+     "lang": "en",
+     "extra": {},
+     "id": "73fe99855808ae81",
+     "published": "2026-10-30T16:57+00:00",
+     "text": "Like other retailers, the US Google Store is already starting Black Friday-level discounts on the Pixel 11 series and Pixel Watch 5 at the end of October."
+    },
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet",
+     "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet (2026)",
+     "lang": "en",
+     "extra": {},
+     "id": "06d917e94b0c9e1d",
+     "published": "2026-10-30T22:15+00:00",
+     "text": "If you’ve been waiting for a good deal on Google’s latest smartwatch before you commit, you're in luck. The Google Pixel Watch 5 (the 41-mm model with Wi-Fi) is currently $300, down from $400, marking its lowest price yet. (The larger 45-mm model is also discounted, from $430 to $330.)\nThis early Black Friday sale means you don’t have to wait until the late-November holiday to score the worthwhile discount—and we recommend you don't. Amazon, Best Buy, and the Google Store are all offering the 25 percent off deal, but I don't know for how much longer. In other words, now is a great time to score this smartwatch for less.\nA Record-Low Price\nThe Pixel Watch 5 is one of the best smartwatches available for Android users. It’s a refinement of an already brilliant wearable, with double the RAM and storage, plus an upgraded Qualcomm Snapdragon W5 Gen 2 processor that makes this edition 20 percent faster than its predecessor. The domed display is gorgeous, comfortable, and easy to read during workouts, and it provides meaningful upgrades for health and fitness tracking.\nBeyond being able to track weights and reps, the new Strength Training experience includes a workout builder, audio cues, and rest times. You can build a custom routine in the Google Health app and have the watch guide you through each exercise, and incorporate Gemini AI by asking it to generate a workout based on a photo of your gym equipment. Speaking of Gemini, the Pixel Watch 5 supports certain offline tasks, such as starting a workout, which is nice if you like to leave your watch at home while you exercise.\nGoogle’s new Health Guardian tools include features for monitoring insulin resistance trends, blood pressure trends, breathing emergencies (available only in select countries), and sleep breathing quality. The watch also retains useful features like ECG, skin temperature tracking, and loss-of-pulse detection. It comes with upgraded sleep tracking, too, with Google claiming 15 percent greater accuracy than the Pixel Watch 4.\nGoogle estimates up to 40 hours of battery life, but mine only got to around 36 hours in testing before conking out. Fast charging is the real standout, though; just 15 minutes on the charger delivers up to 15 hours of use. If you’re like me and only remember to charge your watch 20 minutes before leaving the house, this is a lifesaver.\nAt its original $400 price, the Pixel Watch 5 is a pricey recommendation, especially since many of its software upgrades will also make their way to the previous generation. But at $300, it’s cheaper than the latest Apple Watch Series 12 and other high-end smartwatches. This is the lowest price I’ve seen for the Pixel Watch 5, so if you’ve been eyeing it, there’s little reason to wait for Black Friday.\nPower up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that's too important to ignore. Subscribe Today.\nComments\nBack to top"
+    }
+   ]
+  },
   {
    "id": "cbf30529fb5",
    "kind": "news",
@@ -30,94 +73,6 @@
      "id": "b2be8f31aa4a2ae3",
      "published": "2026-10-30T12:30+00:00",
      "text": "Viture Phantom Beast features a unique design, comes in a special metal-and-leather scabbard carrying case, and includes three exclusive Phantom Blade Zero collectibles."
-    }
-   ]
-  },
-  {
-   "id": "cb5fbb5f965",
-   "kind": "news",
-   "score": 9.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Binance probes potential $5.8 billion crypto-theft hack",
-   "sources": [
-    {
-     "source": "BleepingComputer",
-     "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack",
-     "title": "Binance probes potential $5.8 billion crypto-theft hack",
-     "lang": "en",
-     "extra": {},
-     "id": "b5fbb5f965505469",
-     "published": "2026-10-29T22:45+00:00",
-     "text": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]"
-    },
-    {
-     "source": "Engadget",
-     "trust": 2,
-     "url": "https://engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft",
-     "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
-     "lang": "en",
-     "extra": {},
-     "id": "be5c105eb1a39295",
-     "published": "2026-10-30T08:24+00:00",
-     "text": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack."
-    },
-    {
-     "source": "Ars Technica",
-     "trust": 2,
-     "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist",
-     "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-     "lang": "en",
-     "extra": {},
-     "id": "b68c1c2345536ac2",
-     "published": "2026-10-30T13:46+00:00",
-     "text": "Binance has suspended all withdrawals after the world’s largest cryptocurrency exchange fell victim to what appears to be the biggest heist in history.\nThe exchange put the “estimated total impact” of the hack at about $6.3 billion and said around $3 billion of affected assets, mainly stablecoins that act as cash for the crypto market, had been frozen.\nBut analysts at Elliptic said the attacker had changed about $3.3 billion into digital assets that could not be frozen and was working to cash those out as traditional currency."
-    }
-   ]
-  },
-  {
-   "id": "cbf5aaab635",
-   "kind": "news",
-   "score": 9.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-   "sources": [
-    {
-     "source": "The Hacker News",
-     "trust": 2,
-     "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-     "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-     "lang": "en",
-     "extra": {},
-     "id": "ad2cc061f5526d02",
-     "published": "2026-10-30T08:55+00:00",
-     "text": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems.\nThe malicious update, version 2.1.313, was distributed under the extension's legitimate publisher identity, prompting Cursor to temporarily shut"
-    },
-    {
-     "source": "BleepingComputer",
-     "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors",
-     "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-     "lang": "en",
-     "extra": {},
-     "id": "40ab6c049676090d",
-     "published": "2026-10-30T14:36+00:00",
-     "text": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]"
-    },
-    {
-     "source": "Hacker News",
-     "trust": 1,
-     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise",
-     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-     "lang": "en",
-     "extra": {
-      "comments": "https://news.ycombinator.com/item?id=50300683"
-     },
-     "id": "bf5aaab63512aa24",
-     "published": "2026-10-30T07:09+00:00",
-     "text": "https://cursor.com/blog/claude-code-extension-security-notic...\nComments URL: https://news.ycombinator.com/item?id=50300683\nPoints: 640\n# Comments: 422"
     }
    ]
   },
@@ -207,81 +162,6 @@
    ]
   },
   {
-   "id": "cdf03156466",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-   "sources": [
-    {
-     "source": "BleepingComputer",
-     "trust": 2,
-     "url": "https://bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut",
-     "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-     "lang": "en",
-     "extra": {},
-     "id": "df03156466339363",
-     "published": "2026-10-29T23:35+00:00",
-     "text": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]"
-    },
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/openai-doubles-chatgpt-usage-limits-3730213",
-     "title": "OpenAI caves to backlash and reverses course on reducing ChatGPT usage limits",
-     "lang": "en",
-     "extra": {},
-     "id": "9d82a482e52234b4",
-     "published": "2026-10-30T17:38+00:00",
-     "text": "Your voice matters; don’t let anyone convince you otherwise. A perfect example of this is a recent dispute between OpenAI and its users over usage limits. Due to backlash, the company is now reversing course. It also provided some news on dots limits.\nThibault Sottiaux, a software engineer and product executive at OpenAI, announced on X that OpenAI will double usage limits for all ChatGPT Pro $100, $200, and $500 plans and Business Premium. This primarily affects ChatGPT Work and Codex, which share usage limits under eligible subscriptions. According to Sottiaux, the change is scheduled to go into effect immediately."
-    }
-   ]
-  },
-  {
-   "id": "cc79b2a9a1d",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday",
-   "sources": [
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5google.com/2026/10/30/the-pixel-11-11-pro-and-fold-just-hit-an-all-time-low-price-weeks-ahead-of-black-friday",
-     "title": "The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday",
-     "lang": "en",
-     "extra": {},
-     "id": "c79b2a9a1d0e146b",
-     "published": "2026-10-30T13:20+00:00",
-     "text": "Google is running a huge Pixel 11 sale across a number of retailers, including the Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold."
-    },
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5google.com/2026/10/30/pixel-watch-5-hit-an-all-time-low-price-on-amazon",
-     "title": "Pixel Watch 5 matches all-time low price on Amazon",
-     "lang": "en",
-     "extra": {},
-     "id": "b2cc912cf9de6c82",
-     "published": "2026-10-30T14:52+00:00",
-     "text": "Black Friday is still weeks away, but holiday tech discounts are already arriving early. Joining the recent price drops across Google’s flagship hardware lineup, the Google Pixel Watch 5 has once again hit its lowest price ever on Amazon."
-    },
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/google-pixel-11-pro-fold-deal-3730223",
-     "title": "Google Pixel 11 Pro Fold gets a $250 Amazon price drop",
-     "lang": "en",
-     "extra": {},
-     "id": "acec34543e0e7cd7",
-     "published": "2026-10-30T16:24+00:00",
-     "text": "Amazon just knocked $250 off the Google Pixel 11 Pro Fold, dropping it from its $1,899 recommended retail price to $1,649. That’s a 13% discount relative to the RRP, and it’s the lowest price we’ve seen since launch, so this is a good time to grab Google’s premium foldable for less."
-    }
-   ]
-  },
-  {
    "id": "ce9e7beb52b",
    "kind": "news",
    "score": 8.0,
@@ -346,38 +226,6 @@
    ]
   },
   {
-   "id": "cbfc1aa8043",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Google Pixel Watch 5 falls to $299.99, its lowest price since launch",
-   "sources": [
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/pixel-watch-5-deal-amazon-3730201",
-     "title": "Google Pixel Watch 5 falls to $299.99, its lowest price since launch",
-     "lang": "en",
-     "extra": {},
-     "id": "bfc1aa804325a7a5",
-     "published": "2026-10-30T15:35+00:00",
-     "text": "The Google Pixel Watch 5 just dropped to $299.99 on Amazon, and that’s a strong deal for Google’s latest compact smartwatch. It’s $100 off the $399.99 recommended retail price, which works out to a 25% discount relative to RRP, and it’s the lowest price since launch."
-    },
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5google.com/2026/10/30/google-store-pixel-11-early-deals",
-     "title": "Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early",
-     "lang": "en",
-     "extra": {},
-     "id": "73fe99855808ae81",
-     "published": "2026-10-30T16:57+00:00",
-     "text": "Like other retailers, the US Google Store is already starting Black Friday-level discounts on the Pixel 11 series and Pixel Watch 5 at the end of October."
-    }
-   ]
-  },
-  {
    "id": "cb329cc4aaa",
    "kind": "news",
    "score": 8.0,
@@ -408,6 +256,38 @@
      "id": "b329cc4aaa4c441b",
      "published": "2026-10-30T17:27+00:00",
      "text": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f\nComments URL: https://news.ycombinator.com/item?id=50307219\nPoints: 205\n# Comments: 151"
+    }
+   ]
+  },
+  {
+   "id": "c1fff1698b1",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "sources": [
+    {
+     "source": "The Verge",
+     "trust": 2,
+     "url": "https://theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+     "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+     "lang": "en",
+     "extra": {},
+     "id": "1fff1698b18b4437",
+     "published": "2026-10-30T22:32+00:00",
+     "text": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that’s set to launch on November 4th, with a full iOS 27.3 release scheduled for December.\nApple Intelligence is finally coming to China with iOS 27.3\nApple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market.\nApple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market.\nThis launch doesn’t bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Qwen chatbot in some experiences, which sounds similar to iOS’s integration with OpenAI’s ChatGPT that launched in 2024.\nApple Intelligence was approved in China in July, which signalled that the launch of the AI tools was getting near. Apple trained its own LLM specifically for China, Reuters reported in August."
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china",
+     "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
+     "lang": "en",
+     "extra": {},
+     "id": "2f32373c7e0d39fa",
+     "published": "2026-10-30T22:37+00:00",
+     "text": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple Intelligence in China. Here are the details.\nA bit of context\nIn mid-July, Reuters reported that, following a lengthy back-and-forth with Chinese regulators and multiple delays, Apple Intelligence had finally cleared a major regulatory hurdle ahead of its long-awaited launch in the country.\nThen, a couple of weeks ago, Bloomberg reported that Apple was planning to launch Apple Intelligence in China in December as part of iOS 27.3, although without Siri AI and other newer features.\nThe following day, China’s state-backed media outlet The Paper reported that Tim Cook had confirmed regulatory approval for the platform, with a test version expected before the end of October.\nThen, just last Monday, Apple released iOS 27.2 and its counterparts, expanding Siri AI support to French, Japanese, Korean, Portuguese, and Spanish. On the same day, the company announced that four more languages, including Traditional Chinese, would be supported by the end of the year.\nHowever, while that announcement confirmed additional language support for Siri AI, it offered no updates on the rollout of Apple Intelligence in China, where Siri AI itself will remain unavailable for the time being.\nWhile Apple typically releases the first beta of its next software update shortly after the previous version becomes available, iOS 27.3 has yet to materialize.\nNow, as spotted by MacRumors, a press release published on Apple’s Chinese Newsroom website confirms that testing of Apple Intelligence in China will begin on November 4, as part of the next iOS developer beta.\nImportantly, Apple has only confirmed November 4 as the start of Apple Intelligence testing in China, not necessarily the release date of iOS 27.3 beta 1 itself.\nApple Intelligence coming to China\nIn the press release, Apple confirms that users in China will get an improved Siri experience, including Type to Siri and the ability to access Alibaba’s Qwen for certain requests, but not Siri AI itself.\nThe Qwen integration will also extend to Writing Tools and Visual Intelligence. According to Apple, users will be able to ask questions about photos and documents, including PDFs and presentations, as well as generate original content from scratch through Writing Tools. Users will be able to access Qwen by signing into their accounts or using Sign in with Apple.\nOther features included in the initial rollout are Live Translation in Messages, FaceTime, and Phone, Writing Tools, Genmoji, Clean Up in Photos, natural-language photo searches, priority notifications, notification summaries, and Smart Reply, among others.\nApple also noted that the initial rollout will be exclusive to the iPhone, with support for other platforms coming only after the necessary regulatory approvals have been obtained.\nThe features will be available on the iPhone 15 Pro and Pro Max, iPhone 16 and later, iPhone Air, and iPhone Duo, with both Siri and the device language required to be set to either English or Simplified Chinese.\nThe company also confirmed that the features will become publicly available in December, with the official release of iOS 27.3.\nTo check out Apple’s press release, follow this link.\nWorth checking out on Amazon\n- Apple HomeView\n- Apple TV 4K (2026)\n- Apple Watch Series 12 | Ultra 4\n- AirPods Pro 3 | AirPods 5\n- AirTag (2nd Generation) – 4 Pack\n- MacBook Neo\n- Logitech MX Master 4\nComments"
     }
    ]
   },
@@ -454,38 +334,6 @@
    ]
   },
   {
-   "id": "c345cc9797a",
-   "kind": "news",
-   "score": 7.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-   "sources": [
-    {
-     "source": "TechCrunch",
-     "trust": 2,
-     "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk",
-     "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-     "lang": "en",
-     "extra": {},
-     "id": "345cc9797a9d6c5a",
-     "published": "2026-10-30T07:01+00:00",
-     "text": "Waymo will begin testing autonomous Toyota bZ4X vehicles in Japan next year as part of a broader partnership with the automaker to provide electric vehicles for robotaxi operations in international markets, including the U.K.\nUnder the partnership announced Friday, Toyota will manufacture the 2027 bZ4X vehicles and integrate Waymo’s self-driving system at its Takaoka factory in Japan. (The electric vehicle is now known as the bZ in the North American market.)\nThe autonomous bZ4X vehicles will initially be tested in Japan, where Waymo intends to eventually operate a robotaxi service. But the intent is to deploy these vehicles in other right-hand driving countries such as the U.K. Waymo has been testing its autonomous Jaguar I-Pace vehicles in London for months and plans to launch a robotaxi service there once it receives the necessary permits.\nThe announcement comes 18 months after Toyota and Waymo signed a preliminary agreement to explore the development and deployment of an autonomous vehicle platform. At the time, the agreement fell into the “let’s see what happens” category, with language vague enough to leave plenty of room for interpretation.\nFor now, the partnership looks more like a conventional vehicle supplier deal that helps Waymo fill specific regional needs while adding a new model to its robotaxi portfolio.\nBut the partnership could go beyond robotaxis. The companies said they will continue to look at bringing Waymo’s autonomous technology to personally owned Toyota vehicles.\nToyota and Waymo also announced plans to look at other future “initiatives” that would use “insights from Waymo’s real-world operations” to improve safety for other road users. What that might mean is unclear, although Hiroki Nakajima, executive vice president of Toyota and a board member, provided some clues.\n“This collaboration will help scale that technology and bring it to customers in Japan and beyond through Waymo’s ride-hailing service, and in parallel, Toyota will continue to explore how integrating vehicles with traffic infrastructure can make those roads safer still,” he said in a statement."
-    },
-    {
-     "source": "Engadget",
-     "trust": 2,
-     "url": "https://engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan",
-     "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
-     "lang": "en",
-     "extra": {},
-     "id": "d80a50e8c118e8fd",
-     "published": "2026-10-30T10:23+00:00",
-     "text": "Waymo and Toyota will soon start testing their robotaxis in Japan\nThe companies plan to deploy their autonomous bZ4X vehicles to other right-hand drive markets like the UK.\nIn April 2025, Toyota and Waymo entered a preliminary agreement to work together on robotaxis. Now, the companies have announced that they will start testing an autonomous fleet of Toyota bZ4X electric vehicles in Japan sometime in 2027. After Japan, they're planning to deploy the vehicles to the UK and other right-hand drive markets in the years that follow.\nThe bZ4X is Toyota's first modern mass-market electric vehicle based on the e-TNGA platform it developed with Subaru. Toyota will be manufacturing the bZ4X units it's deploying and testing with Waymo at its Takaoka plant in Toyota City, Aichi Prefecture. That's also where the automaker is assembling the vehicles and equipping them with Waymo's autonomous vehicle hardware.\n\"By pairing Toyota's global manufacturing and vehicle development expertise with Waymo's fully autonomous technology, the companies will accelerate scaling safety-validated Level 4 autonomous vehicles globally,\" they said in a statement.\nThe autonomous bZ4X fleet will join Waymo's other vehicles in the country. It started testing its Jaguar I-PACE self-driving taxis in 2025 and had drivers from Tokyo taxi company Nihon Kotsu Co. drive the cars around the Japanese capital to train the company's software. Next year, Waymo will launch a fully autonomous ride-hailing service in Tokyo as a result of those efforts, though it's unclear when it will add the bZ4X vehicles to its commercial fleet."
-    }
-   ]
-  },
-  {
    "id": "c5100bc6323",
    "kind": "news",
    "score": 7.0,
@@ -514,38 +362,6 @@
      "id": "f916a3f37639074e",
      "published": "2026-10-30T13:00+00:00",
      "text": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]"
-    }
-   ]
-  },
-  {
-   "id": "c6d2a0802c4",
-   "kind": "news",
-   "score": 7.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-   "sources": [
-    {
-     "source": "The Hacker News",
-     "trust": 2,
-     "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-     "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-     "lang": "en",
-     "extra": {},
-     "id": "6d2a0802c49f854e",
-     "published": "2026-10-30T07:45+00:00",
-     "text": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component.\nThe vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13.\n\"This module enables you to sell goods and services to customers through an included shopping cart"
-    },
-    {
-     "source": "BleepingComputer",
-     "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks",
-     "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
-     "lang": "en",
-     "extra": {},
-     "id": "bcc6fcc83b0a17ea",
-     "published": "2026-10-30T10:16+00:00",
-     "text": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]"
     }
    ]
   },
@@ -610,6 +426,49 @@
      "id": "cd5c6bb30fa1ddac",
      "published": "2026-10-30T14:20+00:00",
      "text": "Nothing Phone 3a, 3a Pro, 4a, and 4a Pro owners are in for a treat with the Nothing OS 5.0 update, now rolling out to all four phone models globally."
+    }
+   ]
+  },
+  {
+   "id": "cc79b2a9a1d",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday",
+   "sources": [
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/the-pixel-11-11-pro-and-fold-just-hit-an-all-time-low-price-weeks-ahead-of-black-friday",
+     "title": "The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday",
+     "lang": "en",
+     "extra": {},
+     "id": "c79b2a9a1d0e146b",
+     "published": "2026-10-30T13:20+00:00",
+     "text": "Google is running a huge Pixel 11 sale across a number of retailers, including the Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold."
+    },
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/pixel-watch-5-hit-an-all-time-low-price-on-amazon",
+     "title": "Pixel Watch 5 matches all-time low price on Amazon",
+     "lang": "en",
+     "extra": {},
+     "id": "b2cc912cf9de6c82",
+     "published": "2026-10-30T14:52+00:00",
+     "text": "Black Friday is still weeks away, but holiday tech discounts are already arriving early. Joining the recent price drops across Google’s flagship hardware lineup, the Google Pixel Watch 5 has once again hit its lowest price ever on Amazon."
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/google-pixel-11-pro-fold-deal-3730223",
+     "title": "Google Pixel 11 Pro Fold gets a $250 Amazon price drop",
+     "lang": "en",
+     "extra": {},
+     "id": "acec34543e0e7cd7",
+     "published": "2026-10-30T16:24+00:00",
+     "text": "Amazon just knocked $250 off the Google Pixel 11 Pro Fold, dropping it from its $1,899 recommended retail price to $1,649. That’s a 13% discount relative to the RRP, and it’s the lowest price we’ve seen since launch, so this is a good time to grab Google’s premium foldable for less."
     }
    ]
   },
@@ -962,34 +821,66 @@
    ]
   },
   {
-   "id": "cb46b63ebd2",
+   "id": "c345cc9797a",
    "kind": "news",
    "score": 6.0,
    "sensitive": false,
    "distinct_sites": 2,
-   "title_hint": "Reddit will soon be a ‘logged-in-only’ website, forcing you to have an account",
+   "title_hint": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
    "sources": [
     {
-     "source": "9to5Google",
+     "source": "TechCrunch",
      "trust": 2,
-     "url": "https://9to5google.com/2026/10/29/reddit-will-soon-be-a-logged-in-only-website",
-     "title": "Reddit will soon be a ‘logged-in-only’ website, forcing you to have an account",
+     "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk",
+     "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
      "lang": "en",
      "extra": {},
-     "id": "b46b63ebd2e5ff1f",
-     "published": "2026-10-29T20:35+00:00",
-     "text": "Reddit is shifting to a “logged-in-only experience,” the company confirmed during its latest earnings call."
+     "id": "345cc9797a9d6c5a",
+     "published": "2026-10-30T07:01+00:00",
+     "text": "Waymo will begin testing autonomous Toyota bZ4X vehicles in Japan next year as part of a broader partnership with the automaker to provide electric vehicles for robotaxi operations in international markets, including the U.K.\nUnder the partnership announced Friday, Toyota will manufacture the 2027 bZ4X vehicles and integrate Waymo’s self-driving system at its Takaoka factory in Japan. (The electric vehicle is now known as the bZ in the North American market.)\nThe autonomous bZ4X vehicles will initially be tested in Japan, where Waymo intends to eventually operate a robotaxi service. But the intent is to deploy these vehicles in other right-hand driving countries such as the U.K. Waymo has been testing its autonomous Jaguar I-Pace vehicles in London for months and plans to launch a robotaxi service there once it receives the necessary permits.\nThe announcement comes 18 months after Toyota and Waymo signed a preliminary agreement to explore the development and deployment of an autonomous vehicle platform. At the time, the agreement fell into the “let’s see what happens” category, with language vague enough to leave plenty of room for interpretation.\nFor now, the partnership looks more like a conventional vehicle supplier deal that helps Waymo fill specific regional needs while adding a new model to its robotaxi portfolio.\nBut the partnership could go beyond robotaxis. The companies said they will continue to look at bringing Waymo’s autonomous technology to personally owned Toyota vehicles.\nToyota and Waymo also announced plans to look at other future “initiatives” that would use “insights from Waymo’s real-world operations” to improve safety for other road users. What that might mean is unclear, although Hiroki Nakajima, executive vice president of Toyota and a board member, provided some clues.\n“This collaboration will help scale that technology and bring it to customers in Japan and beyond through Waymo’s ride-hailing service, and in parallel, Toyota will continue to explore how integrating vehicles with traffic infrastructure can make those roads safer still,” he said in a statement."
     },
     {
-     "source": "9to5Mac",
+     "source": "Engadget",
      "trust": 2,
-     "url": "https://9to5mac.com/2026/10/29/reddit-will-soon-require-an-account-for-most-content",
-     "title": "Reddit will soon require an account for most content",
+     "url": "https://engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan",
+     "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
      "lang": "en",
      "extra": {},
-     "id": "cb52e54932ff309d",
-     "published": "2026-10-29T20:49+00:00",
-     "text": "Earlier today Reddit announced that it’s rolling out social media-style ‘For You’ feeds, but that wasn’t the only big news today. Reddit also now says that it’s going to start requiring a logged-in account for accessing most of its content."
+     "id": "d80a50e8c118e8fd",
+     "published": "2026-10-30T10:23+00:00",
+     "text": "Waymo and Toyota will soon start testing their robotaxis in Japan\nThe companies plan to deploy their autonomous bZ4X vehicles to other right-hand drive markets like the UK.\nIn April 2025, Toyota and Waymo entered a preliminary agreement to work together on robotaxis. Now, the companies have announced that they will start testing an autonomous fleet of Toyota bZ4X electric vehicles in Japan sometime in 2027. After Japan, they're planning to deploy the vehicles to the UK and other right-hand drive markets in the years that follow.\nThe bZ4X is Toyota's first modern mass-market electric vehicle based on the e-TNGA platform it developed with Subaru. Toyota will be manufacturing the bZ4X units it's deploying and testing with Waymo at its Takaoka plant in Toyota City, Aichi Prefecture. That's also where the automaker is assembling the vehicles and equipping them with Waymo's autonomous vehicle hardware.\n\"By pairing Toyota's global manufacturing and vehicle development expertise with Waymo's fully autonomous technology, the companies will accelerate scaling safety-validated Level 4 autonomous vehicles globally,\" they said in a statement.\nThe autonomous bZ4X fleet will join Waymo's other vehicles in the country. It started testing its Jaguar I-PACE self-driving taxis in 2025 and had drivers from Tokyo taxi company Nihon Kotsu Co. drive the cars around the Japanese capital to train the company's software. Next year, Waymo will launch a fully autonomous ride-hailing service in Tokyo as a result of those efforts, though it's unclear when it will add the bZ4X vehicles to its commercial fleet."
+    }
+   ]
+  },
+  {
+   "id": "c6d2a0802c4",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+   "sources": [
+    {
+     "source": "The Hacker News",
+     "trust": 2,
+     "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+     "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+     "lang": "en",
+     "extra": {},
+     "id": "6d2a0802c49f854e",
+     "published": "2026-10-30T07:45+00:00",
+     "text": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component.\nThe vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13.\n\"This module enables you to sell goods and services to customers through an included shopping cart"
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks",
+     "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+     "lang": "en",
+     "extra": {},
+     "id": "bcc6fcc83b0a17ea",
+     "published": "2026-10-30T10:16+00:00",
+     "text": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]"
     }
    ]
   },
@@ -1117,6 +1008,80 @@
      "id": "175e602a063ae942",
      "published": "2026-10-30T17:53+00:00",
      "text": "Great phone cameras and clean Android software matter most when you want a handset that just feels good to use every day. The Google Pixel 11 fits that kind of buyer well, and there’s a strong deal on Amazon right now that makes it a lot more tempting."
+    }
+   ]
+  },
+  {
+   "id": "c9ccdb37f5f",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Bose’s new Lifestyle Ultra Speaker falls to a record low",
+   "sources": [
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/bose-lifestyle-ultra-speaker-deal-3730185",
+     "title": "Bose’s new Lifestyle Ultra Speaker falls to a record low",
+     "lang": "en",
+     "extra": {},
+     "id": "9ccdb37f5f0950a4",
+     "published": "2026-10-30T16:14+00:00",
+     "text": "Good sound can make a living room feel a lot more inviting, especially when you want one speaker that handles music on its own but can also grow into a bigger setup later. That’s what makes this deal worth a look, because the Bose New Lifestyle Ultra Speaker is down to $279 on Amazon right now."
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/bose-lifestyle-ultra-soundbar-deal-3730250",
+     "title": "Bose Lifestyle Ultra Soundbar gets a rare $200 Amazon discount",
+     "lang": "en",
+     "extra": {},
+     "id": "cfba0c1de20b9deb",
+     "published": "2026-10-30T17:22+00:00",
+     "text": "Bose’s new flagship soundbar just dropped back under the $900 mark on Amazon, and that’s a rare sight. The Bose New Lifestyle Ultra Soundbar is down to $899, which is $200 off its $1,099 recommended retail price, for an 18% discount relative to the RRP."
+    }
+   ]
+  },
+  {
+   "id": "c871b81f930",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "sources": [
+    {
+     "source": "Ars Technica",
+     "trust": 2,
+     "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
+     "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+     "lang": "en",
+     "extra": {},
+     "id": "871b81f930c7e6ad",
+     "published": "2026-10-30T16:53+00:00",
+     "text": "The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans.\nIn a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals\" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun.\n“If you steal American identities, if you steal taxpayer dollars, if you exploit programs meant to help students build a future—we will find you,” McDonald said. “Whether you are in Nebraska, New Jersey, Virginia, or Nairobi, we will pursue you.”"
+    }
+   ]
+  },
+  {
+   "id": "c8125d8691c",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Amazon cuts Apple AirTag 2 to $23 with 21% off",
+   "sources": [
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/apple-airtag-2-deal-3730238",
+     "title": "Amazon cuts Apple AirTag 2 to $23 with 21% off",
+     "lang": "en",
+     "extra": {},
+     "id": "8125d8691c31cefe",
+     "published": "2026-10-30T16:55+00:00",
+     "text": "Misplaced keys, bags, and luggage can waste a lot of time, and that’s exactly where the Apple AirTag 2 comes in. There’s also a nice deal on Amazon right now, dropping this tracker to $23.\nSee the deal at Amazon"
     }
    ]
   },
@@ -1375,30 +1340,6 @@
    ]
   },
   {
-   "id": "cfedac2c9dc",
-   "kind": "free",
-   "score": 3.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Galaxy Kart (Mobile) Giveaway",
-   "sources": [
-    {
-     "source": "GamerPower",
-     "trust": 1,
-     "url": "https://gamerpower.com/galaxy-kart-mobile-giveaway",
-     "title": "Galaxy Kart (Mobile) Giveaway",
-     "lang": "en",
-     "extra": {
-      "ends": "2026-11-05 23:59:00",
-      "needs_official_link": true
-     },
-     "id": "fedac2c9dc39a5f8",
-     "published": "2026-10-29T10:28+00:00",
-     "text": "Galaxy Kart (Mobile) Giveaway. Worth: $4.99. Platforms: Android, iOS. Ends: 2026-11-05 23:59:00. Galaxy Kart (Mobile version) is free until November 5 on the Epic Games Store App for iPhone, iPad, and Android.\r\n\r\nNote: May not be available in all regions. How to get it: 1. Click the button using your phone to visit the Epic Games Store mobile page.\r\n2. Install the Epic Games Store App on your Android or iOS device.\r\n3. Open the App, scroll down to the \"Free Games\" section and click on the giveaway banner.\r\n4. Install the game and have fun!"
-    }
-   ]
-  },
-  {
    "id": "cbd47b5d109",
    "kind": "free",
    "score": 3.0,
@@ -1441,8 +1382,8 @@
       "market": "crypto",
       "day": "2026-10-30"
      },
-     "published": "2026-10-30T22:13+00:00",
-     "text": "Bitcoin: $76,775 (-2.6% 24h)\nEthereum: $2,239 (-1.2% 24h)\nSolana: $95.46 (-2.0% 24h)\nToncoin: $1.17 (-0.9% 24h)"
+     "published": "2026-10-30T22:44+00:00",
+     "text": "Bitcoin: $76,889 (-2.6% 24h)\nEthereum: $2,236 (-1.7% 24h)\nSolana: $95.76 (-1.6% 24h)\nToncoin: $1.17 (-0.6% 24h)"
     }
    ]
   }
