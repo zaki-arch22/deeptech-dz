@@ -3,3 +3,4 @@ settings.txt
 __pycache__/
 .pytest_cache/
 *.pyc
+_to_delete/

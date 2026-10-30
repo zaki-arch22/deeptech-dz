@@ -231,8 +231,21 @@ class Runner:
         await asyncio.gather(self.collect_loop(), self.publish_loop(), self.admin_loop())
 
 
+def load_settings(path: Path = ROOT / "settings.txt") -> None:
+    """Re-read settings.txt on every start, so a plain container restart applies edits."""
+    if not path.exists():
+        return
+    for line in path.read_text(encoding="utf-8-sig").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            k, v = line.split("=", 1)
+            if v.strip():
+                os.environ[k.strip()] = v.strip()
+
+
 def main() -> None:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
+    load_settings()
     asyncio.run(Runner().run())
 
 
