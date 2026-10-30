@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T22:05:55+00:00",
+ "generated_at": "2026-10-30T22:14:22+00:00",
  "clusters": [
   {
    "id": "cbf30529fb5",
@@ -1121,11 +1121,11 @@
    ]
   },
   {
-   "id": "ca24c068438",
+   "id": "c7267dc2632",
    "kind": "free",
-   "score": 8.5,
+   "score": 6.5,
    "sensitive": false,
-   "distinct_sites": 2,
+   "distinct_sites": 1,
    "title_hint": "Free on Epic: Sorry We're Closed",
    "sources": [
     {
@@ -1141,20 +1141,6 @@
      "id": "7267dc2632f0b3c4",
      "published": "2026-10-29T15:00+00:00",
      "text": "Sorry We're Closed is free on Epic Games Store until 2026-11-05 16:00 UTC. Regular price: $24.99. Seller: Akupara Games. Sorry We're Closed is a story-driven survival horror game about demons, angels and what happens when both sides collide. A mix of fixed-camera exploration and arcade-style shooting where Michelle must use her Third Eye to see between worlds, uncover secrets and solve puzzles."
-    },
-    {
-     "source": "GamerPower",
-     "trust": 1,
-     "url": "https://gamerpower.com/sorry-we-re-closed-epic-games-giveaway",
-     "title": "Sorry We're Closed (Epic Games) Giveaway",
-     "lang": "en",
-     "extra": {
-      "ends": "2026-11-05 23:59:00",
-      "needs_official_link": true
-     },
-     "id": "a24c068438561c5a",
-     "published": "2026-10-29T10:09+00:00",
-     "text": "Sorry We're Closed (Epic Games) Giveaway. Worth: $24.99. Platforms: PC, Epic Games Store. Ends: 2026-11-05 23:59:00. Score Sorry We're Closed for free on Epic Games Store! Sorry We're Closed is a single-player survival game with arcade-style combat, puzzles and multiple endings. Check it out! How to get it: 1. Click the button to visit the giveaway page.\r\n2. Login into your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     }
    ]
   },
@@ -1455,8 +1441,8 @@
       "market": "crypto",
       "day": "2026-10-30"
      },
-     "published": "2026-10-30T22:05+00:00",
-     "text": "Bitcoin: $76,672 (-2.7% 24h)\nEthereum: $2,241 (-0.8% 24h)\nSolana: $95.50 (-1.7% 24h)\nToncoin: $1.17 (-0.9% 24h)"
+     "published": "2026-10-30T22:13+00:00",
+     "text": "Bitcoin: $76,775 (-2.6% 24h)\nEthereum: $2,239 (-1.2% 24h)\nSolana: $95.46 (-2.0% 24h)\nToncoin: $1.17 (-0.9% 24h)"
     }
    ]
   }
