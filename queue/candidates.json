@@ -1,0 +1,1464 @@
+{
+ "generated_at": "2026-10-30T22:02:06+00:00",
+ "clusters": [
+  {
+   "id": "cbf30529fb5",
+   "kind": "news",
+   "score": 9.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+   "sources": [
+    {
+     "source": "NVIDIA Blog",
+     "trust": 3,
+     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero",
+     "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+     "lang": "en",
+     "extra": {},
+     "id": "bf30529fb59df439",
+     "published": "2026-10-29T13:00+00:00",
+     "text": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.\nSomething wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud.\nThere’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, Nov. 4 at 3 p.m. PST, with a launch-week access reward coming for GeForce NOW members.\nThis week’s lineup also includes nine games streaming from the GeForce NOW library, alongside new mod support for Cyberpunk 2077 and The Witcher 3: Wild Hunt — Remastered. That means more options to play, with no downloads or installs to haunt gamers’ devices.\nThere’s another sweet update for gamers in India: The option to sign up for four-month Performance and Ultimate memberships is launching tomorrow. Visit the GeForce NOW website for more information.\nFramed for his master’s murder and gravely wounded, a warrior named Soul has 66 days to uncover a conspiracy threatening the martial world in S-GAME’s Phantom Blade Zero. Powered by Unreal Engine 5, the game combines wuxia storytelling with cinematic action.\nMaster more than 30 primary weapons and over 20 Phantom Edges, chaining evasions, deflections and counterattacks into fluid combat. Traditional Chinese martial arts meet mechanical prosthetics, industrial ruins and rock music in a distinctive kungfupunk world.\nUltimate members can wield GeForce RTX 5080-class performance in the cloud across PCs, Macs, handhelds, mobile devices, browsers, compatible TVs and more. GeForce NOW handles the game’s downloads and storage, leaving more time for the next clash. Soul’s clock is ticking, but the download bar doesn’t have to. Cut to the chase and hop into the game today.\nGet ready for Blizzard Entertainment’s World of Warcraft: Forever, arriving Wednesday, Nov. 4, at 3 p.m. PT, on GeForce NOW. Explore an iconic world reimagined with new and expanded zones, new gameplay enhancements, upgraded graphics and more.\nA new reward will give eligible GeForce NOW members access to join beginning at launch and ending Wednesday, Nov. 11, at 11:59 p.m. PT. The reward is available across all GeForce NOW membership tiers for new WoW users who don’t already have a subscription, while supplies last, on a first-come, first-served basis.\nOnce available, members can sign in to their GeForce NOW account and head to the Account Portal to redeem. Mark the calendar and gather the party — launch week is approaching.\nFamiliar favorites have a few new tricks, too: Mod.io support is now available directly in game for Cyberpunk 2077 and The Witcher 3: Wild Hunt – Remastered, bringing more ways to make Night City and the Continent feel different.\nAnd the treats keep coming with the following games joining the GeForce NOW library this week:\nDates listed above reflect when games are released on their respective stores. GeForce NOW availability may vary, as games are onboarded after they’re released and added throughout the week. Keep an eye on GeForce NOW channels and GFN Thursdays for availability updates to announced titles.\nSettle in for a scary-good gaming session: Grab a day pass to experience Performance or Ultimate cloud gaming. Gamers can then apply the cost applicable toward a first monthly membership upgrade.\nWhat’s haunting the gaming playlist this weekend? Let us know on X or in the comments below."
+    },
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/the-official-phantom-blade-zero-smart-glasses-from-viture-are-here",
+     "title": "The official Phantom Blade Zero smart glasses from Viture are here",
+     "lang": "en",
+     "extra": {},
+     "id": "b2be8f31aa4a2ae3",
+     "published": "2026-10-30T12:30+00:00",
+     "text": "Viture Phantom Beast features a unique design, comes in a special metal-and-leather scabbard carrying case, and includes three exclusive Phantom Blade Zero collectibles."
+    }
+   ]
+  },
+  {
+   "id": "cb5fbb5f965",
+   "kind": "news",
+   "score": 9.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance probes potential $5.8 billion crypto-theft hack",
+   "sources": [
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack",
+     "title": "Binance probes potential $5.8 billion crypto-theft hack",
+     "lang": "en",
+     "extra": {},
+     "id": "b5fbb5f965505469",
+     "published": "2026-10-29T22:45+00:00",
+     "text": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]"
+    },
+    {
+     "source": "Engadget",
+     "trust": 2,
+     "url": "https://engadget.com/2301941/binance-hacked-for-estimated-6-3-billion-in-record-crypto-theft",
+     "title": "Binance hacked for an estimated $6.3 billion in record crypto theft",
+     "lang": "en",
+     "extra": {},
+     "id": "be5c105eb1a39295",
+     "published": "2026-10-30T08:24+00:00",
+     "text": "Cryptocurrency exchange Binance has been hit with a record $6.3 billion hack."
+    },
+    {
+     "source": "Ars Technica",
+     "trust": 2,
+     "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist",
+     "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+     "lang": "en",
+     "extra": {},
+     "id": "b68c1c2345536ac2",
+     "published": "2026-10-30T13:46+00:00",
+     "text": "Binance has suspended all withdrawals after the world’s largest cryptocurrency exchange fell victim to what appears to be the biggest heist in history.\nThe exchange put the “estimated total impact” of the hack at about $6.3 billion and said around $3 billion of affected assets, mainly stablecoins that act as cash for the crypto market, had been frozen.\nBut analysts at Elliptic said the attacker had changed about $3.3 billion into digital assets that could not be frozen and was working to cash those out as traditional currency."
+    }
+   ]
+  },
+  {
+   "id": "cbf5aaab635",
+   "kind": "news",
+   "score": 9.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+   "sources": [
+    {
+     "source": "The Hacker News",
+     "trust": 2,
+     "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+     "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+     "lang": "en",
+     "extra": {},
+     "id": "ad2cc061f5526d02",
+     "published": "2026-10-30T08:55+00:00",
+     "text": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems.\nThe malicious update, version 2.1.313, was distributed under the extension's legitimate publisher identity, prompting Cursor to temporarily shut"
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors",
+     "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+     "lang": "en",
+     "extra": {},
+     "id": "40ab6c049676090d",
+     "published": "2026-10-30T14:36+00:00",
+     "text": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]"
+    },
+    {
+     "source": "Hacker News",
+     "trust": 1,
+     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise",
+     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+     "lang": "en",
+     "extra": {
+      "comments": "https://news.ycombinator.com/item?id=50300683"
+     },
+     "id": "bf5aaab63512aa24",
+     "published": "2026-10-30T07:09+00:00",
+     "text": "https://cursor.com/blog/claude-code-extension-security-notic...\nComments URL: https://news.ycombinator.com/item?id=50300683\nPoints: 640\n# Comments: 422"
+    }
+   ]
+  },
+  {
+   "id": "c693f0e30e7",
+   "kind": "news",
+   "score": 9.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Mattress Deals: Save Over $600 Before Black Friday 2026",
+   "sources": [
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/best-early-bfcm-mattress-deals-10-30-2026",
+     "title": "Mattress Deals: Save Over $600 Before Black Friday 2026",
+     "lang": "en",
+     "extra": {},
+     "id": "693f0e30e7b44f71",
+     "published": "2026-10-30T13:34+00:00",
+     "text": "Mattress sales come and go so often that it’s hard to determine what’s an actual deal. The times of year when we see the most legit mattress deals are Black Friday, Cyber Monday, Memorial Day, and Labor Day. And this year is no different. We’re already seeing our favorite WIRED-tested bedding and mattress brands offering discounts leading up to Black Friday and Cyber Monday this year.\nI’ll be on the lookout for more deals on our favorite WIRED-tested mattresses and accessories as we approach the major sales event, so be sure to check back often for fresh discounts that I’ve found on these often-pricey purchases. (Note that all mattress prices below are for queen sizes.)\nWant more deals? We have even more discounts on WIRED-tested tech here.\nPlus, read our related shopping guides to ensure you’re making the most of Black Friday sales, including how to avoid scams and sketchy wares on Amazon, Amazon Prime perks you might not know about, and Black Friday shopping tips.\nDeals on Mattresses\nThis Helix mattress has been our top pick for years and remains one of the most popular bed-in-a-box options for good reason. Its plush pillowtop and medium-firm feel make it comfortable for nearly any sleeper, whether they sleep on their side, back, or stomach.\nWe love Helix in general, and right now the brand has 20 percent off sitewide when you use the Helix promo code BF20. It also offers special discounts, including 25 percent off Luxe mattresses with promo code LUXE25 and 30 percent off Elite mattresses with code ELITE30. (All listed Helix promo codes are valid through November 29.)\nWe really love this organic mattress. When we tested the Luxe model above, we found it offered a lovely balance of plush comfort and pressure relief, with just enough bounce to make it a great choice for back sleepers seeking a little extra support. But all of Birch's models are made from natural materials like wool, latex, and cotton, without any polyurethane-based foams.\nBirch's Black Friday sale runs through November 29, with 25 percent off sitewide when you use the Birch promo code BF25.\nThe firm Bear Elite Hybrid has long been one of our top picks for back pain. Both reviewers who tested it agree that you love it more the longer you sleep on it. Bear mattresses also keep you cool, with phase-change material that absorbs body heat and copper-infused memory foam that wicks it away.\nBear Mattress has an Early Access Black Friday Sale through November 2, with 35 percent off sitewide with promo code EARLYACCESS.\nThis was former WIRED reviewer (and sleep expert) Julia Forbes’ all-time favorite mattress. She appreciated that its extra springiness provided added support and firmness, making it ideal for side sleepers.\nNolah Mattress’ early Black Friday sale runs through November 2, with 35 percent off sitewide; no promo code needed.\nWe on the WIRED Reviews team love hybrid mattresses because they bring together the best of both worlds—memory foam and the support of inner coils. The Sapira Chill is the best hybrid mattress we've tested to date, bringing relief to our tester's back pain while absorbing excess heat through the temperature-regulating cover.\nLeesa Sleep’s Black Friday Early Access Sale runs through November 17 and offers 25 percent off mattresses, with no promo code needed.\nDeals on Sleep Accessories We Love\nPower up with unlimited access to WIRED. Get best-in-class reporting and exclusive subscriber content that’s too important to ignore. Subscribe Today."
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/30/deals-black-friday-doorbusters-airtag-2-homeview-ultra-4",
+     "title": "Deals: Week 1 early Black Friday Doorbusters, AirTag 2 $17 ea, HomeView, Apple Watch Ultra 4, more",
+     "lang": "en",
+     "extra": {},
+     "id": "def445fa286c3bf8",
+     "published": "2026-10-30T15:13+00:00",
+     "text": "Joining pre-orders on the new new OLED iPad mini, M6 MacBook Pro, M6 iMac, and the MacBook Pro with PROLED XDR Display, the early week1 Black Friday Doorbusters start today! While the Apple TV 4K pre-order discount is still live, we are now tracking AirTag 2 back down at just $17.50 each alongside the ongoing $50 price drop on AirPods Pro 3. Amazon has also brought back the early preorder deal on Apple’s HomeView, as well as all-time low pricing on Black Titanium Apple Watch Ultra 4 at nearly $100 off. and loads more M5 MacBook Air models at $200 off. Be sure to dive into the now live Best Buy Week 1 Black Friday Doorbusters and scope out everything else down below.\nAmazon’s 2026 Apple TV 4K pre-order discount is now live again\nNew M6 MacBook Pro, OLED iPad mini, and more now available for pre-order:\n- 14-inch M6 MacBook Pro 16GB/1TB $1,999\n- 14-inch M6 MacBook Pro 24GB/1TB $2,199\n- 14-inch M6 MacBook Pro 32GB/1TB $2,399\n- 14-inch M5 Pro MacBook Pro with PROLED XDR Display $2,899\n- 16-inch M5 Pro MacBook Pro with PROLED XDR Display $3,399\nAmazon’s AirPods Pro 3 deal is back at over 20% off\n- AirPods Pro 3 $199 (Reg. $249)\n- AirPods Max 2 $449 (Reg. $549)\nApple’s AirTag 2 drops back to lowest price ever from just $17 each\nThe Week 1 early Black Friday Doorbuster deals are now live and Amazon is now offering all-time lows on Apple’s AirTag 2. You’ll still find the single AirTag 2 listing down at the $23 all-time low, but it is also offering the 4-pack back at its lowest price ever – that’s just over $17 for each AirTag 2.\nAmazon is now offering the 4-pack of Apple’s AirTag 2 down at $69.99 shipped. Regularly $99, this is nearly 30% off to deliver each AirTag 2 at just shy of $17.50 each.\nYou’re looking at a match of the lowest price we have ever tracked at Amazon on the 4-pack and the lowest per-Tag price we have seen from a major retailer online since release earlier this year.\nWhile the overall value isn’t quite as notable, Amazon is also still offering the single AirTag 2 listing down at the $23 Prime shipped all-time low. Shipping is free for Prime members or in orders over $35.\n- AirTag 2 $23 (Reg. $29) – New all-time low\n- AirTag 2 4-pack $70 (Reg. $99) – Matching all-time low\nNew Black Apple Watch Ultra 4 just dropped back to all-time low at nearly $100 off\nAlongside the Apple TV 4K pre-order discount, the return of all-time low pricing on AirTag 2 at $17.50 each, and AirPods Pro 3 at $50 off, Amazon is now offering nearly $100 off the brand new black Apple Watch Ultra 4 – this price is on par with the official Black Friday deals we tracked on the Ultra 3 last year.\nWhile not all models are marked back down to the lowest we have tracked, Amazon is now offering the the Black Titanium Apple Watch Ultra 4 with Apple’s new Burgundy Trail Loop down at $699.99 shipped.\nThis model, much like last generation, carries a $799 list price and is now just shy of $100 off the list to match the lowest price we have tracked since release in September.\nAmazon’s Apple HomeView pre-order deal is back with faster delivery times\nAlongside the ongoing pre-order deal on Apple TV 4K, Amazon has just brought back the early discount on Apple’s new HomeView and quicker delivery windows for some areas of the country.\nAfter all models jumped back up to full price over a week ago, Amazon is now once again offering the Space Gray HomeView down at $289.99 shipped.\nClearly not a massive deal, but if you are still looking to secure one before the November 13 launch date, you might as well keep some coffee money in your pocket.\nApple’s 13 and 15-inch M5 MacBook Air drop back to best prices in months at $200 off\nAlongside all-time low pricing on AirTag 2 from $17.50 each, and pre-orders on the new M6 MacBook Pro and touchscreen MacBook Pro PROLED XDR, Amazon is bringing back fall Prime Day pricing on a number of M5 MacBook Air configurations starting today as the Week 1 early Black Friday Doorbusters go live. While we were already tracking the $200 price drops on various 13-inch models, those deals are continuing today and are joined by the same Prime Day discounts on some 15-inch models as well.\nM5 MacBook Air Week 1 early Black Friday Doorbuster deals\n- 13-inch M5 MacBook Air 16GB/512GB $1,099 (Reg. $1,299) – Matching Prime Day\n- 13-inch M5 MacBook Air 16GB/1TB $1,399 (Reg. $1,599) – Matching Prime Day\n- 13-inch M5 MacBook Air 24GB/1TB $1,599 (Reg. $1,799) – Matching Prime Day\n- 15-inch M5 MacBook Air 16GB/512GB $1,339 (Reg. $1,499)\n- 15-inch M5 MacBook Air 16GB/1TB $1,599 (Reg. $1,799) – Matching Prime Day\n- 15-inch M5 MacBook Air 24GB/1TB $1,799 (Reg. $1,999) – Matching Prime Day\nLatest Bose Lifestyle Ultra Home Speaker with AirPlay and Google Cast hits all-time low at $70 off\nBose updated its home speaker lineup with the all-new Lifestyle gear this year and we are now tracking one of the first deals on the AirPlay and Google Cast Lifestyle Ultra Home Speaker today at $70 off.\nThe official Bose Amazon storefront is now offering its n"
+    },
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/deals-black-friday-doorbusters-pixel-11-pixel-watch-5",
+     "title": "Deals: Week 1 early Black Friday Doorbusters, Pixel 11 series up to $350 off, Pixel Watch 5 $100 off, more (All-time lows)",
+     "lang": "en",
+     "extra": {},
+     "id": "303a9d0d793d13d8",
+     "published": "2026-10-30T15:27+00:00",
+     "text": "The Week 1 early Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold at up to $350 off. Those deals join $100 off all Pixel Watch 5 models, the latest Google Pixel Buds Pro 2 at over 25% off – including the new Olive set sitting at its best price ever on Amazon, and return Amazon lows on just about all of Google’s latest Pixelsnap cases. All of that and more awaits below.\nmore…"
+    }
+   ]
+  },
+  {
+   "id": "cc350724d47",
+   "kind": "news",
+   "score": 8.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+   "sources": [
+    {
+     "source": "Google Blog",
+     "trust": 3,
+     "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response",
+     "title": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+     "lang": "en",
+     "extra": {},
+     "id": "c350724d4712c977",
+     "published": "2026-10-30T17:00+00:00",
+     "text": "This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit."
+    }
+   ]
+  },
+  {
+   "id": "c94bcdf7909",
+   "kind": "news",
+   "score": 8.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Google Fitbit Edge: On shelves now",
+   "sources": [
+    {
+     "source": "Google Blog",
+     "trust": 3,
+     "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now",
+     "title": "Google Fitbit Edge: On shelves now",
+     "lang": "en",
+     "extra": {},
+     "id": "94bcdf7909edc8a4",
+     "published": "2026-10-30T20:15+00:00",
+     "text": "Shop the new Google Fitbit Edge featuring a bright, large display and physical side buttons for easy control. Upgrade your fitness tracker today."
+    }
+   ]
+  },
+  {
+   "id": "cdf03156466",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+   "sources": [
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut",
+     "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+     "lang": "en",
+     "extra": {},
+     "id": "df03156466339363",
+     "published": "2026-10-29T23:35+00:00",
+     "text": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]"
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/openai-doubles-chatgpt-usage-limits-3730213",
+     "title": "OpenAI caves to backlash and reverses course on reducing ChatGPT usage limits",
+     "lang": "en",
+     "extra": {},
+     "id": "9d82a482e52234b4",
+     "published": "2026-10-30T17:38+00:00",
+     "text": "Your voice matters; don’t let anyone convince you otherwise. A perfect example of this is a recent dispute between OpenAI and its users over usage limits. Due to backlash, the company is now reversing course. It also provided some news on dots limits.\nThibault Sottiaux, a software engineer and product executive at OpenAI, announced on X that OpenAI will double usage limits for all ChatGPT Pro $100, $200, and $500 plans and Business Premium. This primarily affects ChatGPT Work and Codex, which share usage limits under eligible subscriptions. According to Sottiaux, the change is scheduled to go into effect immediately."
+    }
+   ]
+  },
+  {
+   "id": "cc79b2a9a1d",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday",
+   "sources": [
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/the-pixel-11-11-pro-and-fold-just-hit-an-all-time-low-price-weeks-ahead-of-black-friday",
+     "title": "The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday",
+     "lang": "en",
+     "extra": {},
+     "id": "c79b2a9a1d0e146b",
+     "published": "2026-10-30T13:20+00:00",
+     "text": "Google is running a huge Pixel 11 sale across a number of retailers, including the Google Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold."
+    },
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/pixel-watch-5-hit-an-all-time-low-price-on-amazon",
+     "title": "Pixel Watch 5 matches all-time low price on Amazon",
+     "lang": "en",
+     "extra": {},
+     "id": "b2cc912cf9de6c82",
+     "published": "2026-10-30T14:52+00:00",
+     "text": "Black Friday is still weeks away, but holiday tech discounts are already arriving early. Joining the recent price drops across Google’s flagship hardware lineup, the Google Pixel Watch 5 has once again hit its lowest price ever on Amazon."
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/google-pixel-11-pro-fold-deal-3730223",
+     "title": "Google Pixel 11 Pro Fold gets a $250 Amazon price drop",
+     "lang": "en",
+     "extra": {},
+     "id": "acec34543e0e7cd7",
+     "published": "2026-10-30T16:24+00:00",
+     "text": "Amazon just knocked $250 off the Google Pixel 11 Pro Fold, dropping it from its $1,899 recommended retail price to $1,649. That’s a 13% discount relative to the RRP, and it’s the lowest price we’ve seen since launch, so this is a good time to grab Google’s premium foldable for less."
+    }
+   ]
+  },
+  {
+   "id": "ce9e7beb52b",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+   "sources": [
+    {
+     "source": "TechCrunch",
+     "trust": 2,
+     "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+     "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+     "lang": "en",
+     "extra": {},
+     "id": "e9e7beb52b83e198",
+     "published": "2026-10-30T13:54+00:00",
+     "text": "There’s a big uproar about AI agents taking over commerce and orders, but that might not be the case just yet. Delivery company DoorDash revealed during its third-quarter earnings call that it has only seen “several hundred” orders from third-party agents like Muse, Instinct, Fo, and others. For comparison, the company said in its 2025 report it completes an average of 3 million deliveries daily.\n“I would say that this [using agents to order] is something that is still a very dynamic area. And my take on all things technology is you never want to fight gravity. But at the same time, you don’t want to be delusional,” DoorDash CEO Tony Xu said in an answer to an analyst’s questions about the topic. “What I mean by that is if you look at where AI agents are today, we’re seeing maybe several hundred orders in total from some of these third-party agents,” he said.\nXu mentioned that users are still predominantly placing orders through DoorDash’s app. However, the company wants to learn more about agentic use cases and develop a healthy relationship with third-party agent makers. He added that, in the future, there could be an opportunity for it to advertise within these agents.\nDoorDash has its own agents, including a text-to-order agent it launched in September, a CLI agent introduced in July, and a chatbot called Ask DoorDash it launched in June, which allows users to place orders through prompts and photos. The company also released an MCP to enable ordering from other chatbots for corporate ordering.\nThe space of agent-based ordering is evolving, as websites are still deciding whether to allow them to access their content or not. Amazon has been blocking such personal agents, but Walmart has laid out a red carpet for them in order to snag some business from its competitors."
+    },
+    {
+     "source": "Ars Technica",
+     "trust": 2,
+     "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far",
+     "title": "Basically no one is using AI agents for their DoorDash orders",
+     "lang": "en",
+     "extra": {},
+     "id": "8f65b6637c02d384",
+     "published": "2026-10-30T19:30+00:00",
+     "text": "As AI tools and agents have continued their march across all aspects of digital life, many companies are trying to use LLMs to improve the experience of purchasing goods and services on the Internet. Thus far, though, a vanishingly small number of people seem to be taking advantage of those capabilities, at least when it comes to using the popular food delivery app DoorDash with an outside AI agent.\nIn a third-quarter earnings call Thursday, DoorDash co-founder and CEO Tony Xu responded to an analyst question by noting that \"AI agents are generating several hundred orders [on DoorDash] across the time that they've been up and running.\" In a marked understatement, Xu called this a \"very low use case\" for a company that handled just shy of 1 billion orders total in the third quarter of 2026 alone.\nSpeaking generally, Xu said he sees the potential for AI agents to be genuinely helpful for \"long consideration purchases\" and major decisions where agents would be \"doing work on your behalf proactively in the background.\" However, Xu added, \"when it comes to a task that's as simple as ordering food, we tend to see that come directly to DoorDash.\""
+    }
+   ]
+  },
+  {
+   "id": "cb19c5c6086",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Google says Android Auto video apps are still ‘coming soon’ as deadline nears",
+   "sources": [
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/google-android-auto-video-apps-deadline",
+     "title": "Google says Android Auto video apps are still ‘coming soon’ as deadline nears",
+     "lang": "en",
+     "extra": {},
+     "id": "b19c5c60860fbe8c",
+     "published": "2026-10-30T14:30+00:00",
+     "text": "In a brief update at its latest dev conference, Google says that video and browser apps for Android Auto are still “coming soon,” with the company’s self-imposed deadline approaching quickly."
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/android-auto-unknownauto-tool-3730284",
+     "title": "Android Auto can run sideloaded apps for free with this new tool",
+     "lang": "en",
+     "extra": {},
+     "id": "19beb1fd9ae643dd",
+     "published": "2026-10-30T19:59+00:00",
+     "text": "Android Auto can run a large variety of apps, but not every app. The platform refuses to run apps that have been sideloaded. If there was ever an app you wished could run on Android Auto but doesn’t, there may be a solution.\nOne user, who goes by u/mannumaster on Reddit, says they wanted to build their own app and use it on Android Auto. When they ran into roadblocks, they created a new tool called UnknownAuto. This tool is free, open-sourced, and can work offline. The creator describes it as an alternative to the proprietary AA Enabler."
+    }
+   ]
+  },
+  {
+   "id": "cbfc1aa8043",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Google Pixel Watch 5 falls to $299.99, its lowest price since launch",
+   "sources": [
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/pixel-watch-5-deal-amazon-3730201",
+     "title": "Google Pixel Watch 5 falls to $299.99, its lowest price since launch",
+     "lang": "en",
+     "extra": {},
+     "id": "bfc1aa804325a7a5",
+     "published": "2026-10-30T15:35+00:00",
+     "text": "The Google Pixel Watch 5 just dropped to $299.99 on Amazon, and that’s a strong deal for Google’s latest compact smartwatch. It’s $100 off the $399.99 recommended retail price, which works out to a 25% discount relative to RRP, and it’s the lowest price since launch."
+    },
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/google-store-pixel-11-early-deals",
+     "title": "Deep Google Store discounts on Pixel 11, Pixel Watch 5 start early",
+     "lang": "en",
+     "extra": {},
+     "id": "73fe99855808ae81",
+     "published": "2026-10-30T16:57+00:00",
+     "text": "Like other retailers, the US Google Store is already starting Black Friday-level discounts on the Pixel 11 series and Pixel Watch 5 at the end of October."
+    }
+   ]
+  },
+  {
+   "id": "cb329cc4aaa",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+   "sources": [
+    {
+     "source": "TechCrunch",
+     "trust": 2,
+     "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+     "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
+     "lang": "en",
+     "extra": {},
+     "id": "1ad66cf690a946d3",
+     "published": "2026-10-30T21:52+00:00",
+     "text": "Anthropic is expected to receive a high “junk” rating from credit rating agencies following its initial public offering, according to a report from the Financial Times.\nThe FT says the investment giant Blackstone, the investment giant and anchor investor in a recent $63 billion deal to finance Anthropic’s chips, told investors in the deal that it expects the AI lab to receive a “high” junk rating after its IPO. Previously, the FT notes, Blackstone had said the opposite: that the Claude-maker would receive an investment-grade rating (indicating low risk for lenders) before 2027 rolls around.\nNow, Blackstone expects double B range rating, the top tier of speculative “junk” grade, according to the reporting.\nTechCrunch reached out to Anthropic and Blackstone but both declined to comment.\nBlackstone’s forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business. The lab has been on a spending spree, wracking up large compute power deals throughout the past 12 months, which has worried investors.\nAnthropic officially filed to go public earlier this week, kicking off a wave of speculation about how the massive IPO would impact the broader AI industry."
+    },
+    {
+     "source": "Hacker News",
+     "trust": 1,
+     "url": "https://ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+     "lang": "en",
+     "extra": {
+      "comments": "https://news.ycombinator.com/item?id=50307219"
+     },
+     "id": "b329cc4aaa4c441b",
+     "published": "2026-10-30T17:27+00:00",
+     "text": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f\nComments URL: https://news.ycombinator.com/item?id=50307219\nPoints: 205\n# Comments: 151"
+    }
+   ]
+  },
+  {
+   "id": "c691aeb39c4",
+   "kind": "news",
+   "score": 7.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+   "sources": [
+    {
+     "source": "NVIDIA Blog",
+     "trust": 3,
+     "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+     "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+     "lang": "en",
+     "extra": {},
+     "id": "691aeb39c4445330",
+     "published": "2026-10-30T15:00+00:00",
+     "text": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents built by aliens.\nSome scientists have suggested that extraterrestrial civilizations, if they exist, could be billions of years older than humanity. Such civilizations might have developed technologies far beyond humanity’s, including forms of AI.\nBreakthrough Listen and the SETI Institute are bringing agentic AI into the daily search for extraterrestrial intelligence. At the Allen Telescope Array in Northern California, agents can now steer the instrument, enhance and correct incoming data, and apply AI models to the incoming stream — all from a single natural language request. The NVIDIA Holoscan platform processes the massive streams of sensor data, giving agents live data to act on.\nThe result is a faster, more adaptable search for potential signals from extraterrestrial life and technologies.\n“As our new agentic observatories reach out into the universe, what they find may have much more in common with themselves than with the humans who created them,” said Andrew Siemion, Bernard M. Oliver chair for SETI at the SETI Institute and principal investigator of Breakthrough Listen. “But this isn’t something to fear. Rather, it’s a breakthrough in translation.”\nRadio telescopes generate enormous volumes of data, creating a challenge for scientists who need to identify potentially interesting signals as observations unfold.\nAt the Allen Telescope Array, DAQIRI, a Holoscan platform library, enables the telescope to pull terabits per second of sensor data straight into GPU memory so observations are processed in flight rather than filling hard drives. CyberEther, a signal-processing framework developed at the SETI Institute, does the math using NVIDIA CUDA-X libraries including cuFFT and cuBLAS.\nNexus, a web-based observatory orchestrator, acts as the agent harness. It gives agents a single source of truth for instrument state, compute resources and pipelines and lets researchers monitor packet loss, read live spectrograms and rewrite signal-processing blocks — all by prompting in natural language. The system can handle 2.4 terabits per second on NVIDIA RTX PRO 6000 Blackwell GPUs, with inference running on premises, next to the instrument.\nPut together, the system enables an agent to steer a telescope’s antennae, calibrate and focus the instrument for a clean signal, catch and fix data errors and plot the result. Agents compress what would take humans weeks or years into hours.\nThe pipeline has already proven itself, achieving the first real-time AI detection of a pulsar — a rapidly spinning stellar remnant that pulses like a cosmic lighthouse — in the Crab Nebula.\nNext, the team is evaluating open models including NVIDIA Nemotron for cases where data locality and turnaround matter most and for observatories that may someday run offline on the far side of the moon.\nLearn more about NVIDIA AI for science."
+    }
+   ]
+  },
+  {
+   "id": "ca717f1ed62",
+   "kind": "news",
+   "score": 7.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "See who has access to your Gmail inbox in 2 minutes.",
+   "sources": [
+    {
+     "source": "Google Blog",
+     "trust": 3,
+     "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup",
+     "title": "See who has access to your Gmail inbox in 2 minutes.",
+     "lang": "en",
+     "extra": {},
+     "id": "a717f1ed62c2029d",
+     "published": "2026-10-30T16:00+00:00",
+     "text": "Run a quick Google Security Checkup and protect your email with three quick and easy steps."
+    }
+   ]
+  },
+  {
+   "id": "c345cc9797a",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+   "sources": [
+    {
+     "source": "TechCrunch",
+     "trust": 2,
+     "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk",
+     "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
+     "lang": "en",
+     "extra": {},
+     "id": "345cc9797a9d6c5a",
+     "published": "2026-10-30T07:01+00:00",
+     "text": "Waymo will begin testing autonomous Toyota bZ4X vehicles in Japan next year as part of a broader partnership with the automaker to provide electric vehicles for robotaxi operations in international markets, including the U.K.\nUnder the partnership announced Friday, Toyota will manufacture the 2027 bZ4X vehicles and integrate Waymo’s self-driving system at its Takaoka factory in Japan. (The electric vehicle is now known as the bZ in the North American market.)\nThe autonomous bZ4X vehicles will initially be tested in Japan, where Waymo intends to eventually operate a robotaxi service. But the intent is to deploy these vehicles in other right-hand driving countries such as the U.K. Waymo has been testing its autonomous Jaguar I-Pace vehicles in London for months and plans to launch a robotaxi service there once it receives the necessary permits.\nThe announcement comes 18 months after Toyota and Waymo signed a preliminary agreement to explore the development and deployment of an autonomous vehicle platform. At the time, the agreement fell into the “let’s see what happens” category, with language vague enough to leave plenty of room for interpretation.\nFor now, the partnership looks more like a conventional vehicle supplier deal that helps Waymo fill specific regional needs while adding a new model to its robotaxi portfolio.\nBut the partnership could go beyond robotaxis. The companies said they will continue to look at bringing Waymo’s autonomous technology to personally owned Toyota vehicles.\nToyota and Waymo also announced plans to look at other future “initiatives” that would use “insights from Waymo’s real-world operations” to improve safety for other road users. What that might mean is unclear, although Hiroki Nakajima, executive vice president of Toyota and a board member, provided some clues.\n“This collaboration will help scale that technology and bring it to customers in Japan and beyond through Waymo’s ride-hailing service, and in parallel, Toyota will continue to explore how integrating vehicles with traffic infrastructure can make those roads safer still,” he said in a statement."
+    },
+    {
+     "source": "Engadget",
+     "trust": 2,
+     "url": "https://engadget.com/2301972/waymo-toyota-soon-start-testing-bz4x-robotaxis-japan",
+     "title": "Waymo and Toyota will soon start testing their robotaxis in Japan",
+     "lang": "en",
+     "extra": {},
+     "id": "d80a50e8c118e8fd",
+     "published": "2026-10-30T10:23+00:00",
+     "text": "Waymo and Toyota will soon start testing their robotaxis in Japan\nThe companies plan to deploy their autonomous bZ4X vehicles to other right-hand drive markets like the UK.\nIn April 2025, Toyota and Waymo entered a preliminary agreement to work together on robotaxis. Now, the companies have announced that they will start testing an autonomous fleet of Toyota bZ4X electric vehicles in Japan sometime in 2027. After Japan, they're planning to deploy the vehicles to the UK and other right-hand drive markets in the years that follow.\nThe bZ4X is Toyota's first modern mass-market electric vehicle based on the e-TNGA platform it developed with Subaru. Toyota will be manufacturing the bZ4X units it's deploying and testing with Waymo at its Takaoka plant in Toyota City, Aichi Prefecture. That's also where the automaker is assembling the vehicles and equipping them with Waymo's autonomous vehicle hardware.\n\"By pairing Toyota's global manufacturing and vehicle development expertise with Waymo's fully autonomous technology, the companies will accelerate scaling safety-validated Level 4 autonomous vehicles globally,\" they said in a statement.\nThe autonomous bZ4X fleet will join Waymo's other vehicles in the country. It started testing its Jaguar I-PACE self-driving taxis in 2025 and had drivers from Tokyo taxi company Nihon Kotsu Co. drive the cars around the Japanese capital to train the company's software. Next year, Waymo will launch a fully autonomous ride-hailing service in Tokyo as a result of those efforts, though it's unclear when it will add the bZ4X vehicles to its commercial fleet."
+    }
+   ]
+  },
+  {
+   "id": "c5100bc6323",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+   "sources": [
+    {
+     "source": "The Hacker News",
+     "trust": 2,
+     "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+     "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+     "lang": "en",
+     "extra": {},
+     "id": "5100bc6323f06f1c",
+     "published": "2026-10-30T07:27+00:00",
+     "text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.\nThe vulnerabilities are listed below -\nCVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise"
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks",
+     "title": "CISA says max severity GitLab flaw now exploited in the wild",
+     "lang": "en",
+     "extra": {},
+     "id": "f916a3f37639074e",
+     "published": "2026-10-30T13:00+00:00",
+     "text": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]"
+    }
+   ]
+  },
+  {
+   "id": "c6d2a0802c4",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+   "sources": [
+    {
+     "source": "The Hacker News",
+     "trust": 2,
+     "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+     "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+     "lang": "en",
+     "extra": {},
+     "id": "6d2a0802c49f854e",
+     "published": "2026-10-30T07:45+00:00",
+     "text": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component.\nThe vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13.\n\"This module enables you to sell goods and services to customers through an included shopping cart"
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks",
+     "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+     "lang": "en",
+     "extra": {},
+     "id": "bcc6fcc83b0a17ea",
+     "published": "2026-10-30T10:16+00:00",
+     "text": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]"
+    }
+   ]
+  },
+  {
+   "id": "c4eafb481bf",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+   "sources": [
+    {
+     "source": "The Hacker News",
+     "trust": 2,
+     "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+     "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+     "lang": "en",
+     "extra": {},
+     "id": "4eafb481bfd904bc",
+     "published": "2026-10-30T12:21+00:00",
+     "text": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.\nTrezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to a new wallet with a new recovery phrase.\nTrezor said in a blog post"
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet",
+     "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+     "lang": "en",
+     "extra": {},
+     "id": "36467ee64e05717f",
+     "published": "2026-10-30T15:58+00:00",
+     "text": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]"
+    }
+   ]
+  },
+  {
+   "id": "ce28e380021",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "One UI 9 with Android 17 is rolling out to these two popular Galaxy phones in the US",
+   "sources": [
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/samsung-galaxy-a16-a35-one-ui-9-us-3730018",
+     "title": "One UI 9 with Android 17 is rolling out to these two popular Galaxy phones in the US",
+     "lang": "en",
+     "extra": {},
+     "id": "e28e3800214cdc6a",
+     "published": "2026-10-30T12:46+00:00",
+     "text": "Samsung began rolling out the Android 17-based One UI 9 update to some of its flagships several weeks ago. Since then, we’ve seen the manufacturer gradually bring some older devices into the fold, including devices from its popular budget and midrange smartphone lineup. Now, two Samsung A-series devices in the US are joining the party.\nUS customers of the Galaxy A16 and the mid-tier Galaxy A35 can now download and install the much-anticipated One UI 9 update, according to SamMobile. The Galaxy A35 update arrives with the firmware version A356USQUCEZJ2, while the Galaxy A16 receives A166USQUAEZJ5."
+    },
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/nothing-os-5-0-android-17-is-now-rolling-out-to-nothing-4a-and-3a-series-phones",
+     "title": "Nothing OS 5.0 (Android 17) is now rolling out to Nothing 4a and 3a series phones",
+     "lang": "en",
+     "extra": {},
+     "id": "cd5c6bb30fa1ddac",
+     "published": "2026-10-30T14:20+00:00",
+     "text": "Nothing Phone 3a, 3a Pro, 4a, and 4a Pro owners are in for a treat with the Nothing OS 5.0 update, now rolling out to all four phone models globally."
+    }
+   ]
+  },
+  {
+   "id": "c38a7314b14",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+   "sources": [
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job",
+     "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+     "lang": "en",
+     "extra": {},
+     "id": "38a7314b146af41c",
+     "published": "2026-10-30T15:00+00:00",
+     "text": "The brief ceremony introducing the new Macbook Pro this week was as low-key as the presenter, Apple’s new CEO John Ternus. He stepped onto the low stage at a Los Angeles event space with zero fanfare, said hi, and queued up a video showing the first touchscreen Mac. Then he released the modest crowd of journalists and creators to get hands-on with the new laptop and roam between eye-popping demos of music producers, filmmakers, photographers, and fashion designers using the laptop. Ternus, who at 51 is on the younger side of Apple’s top management, has been CEO for less than two months. But this launch and a series of other recent announcements have made one thing clear. With this new guy—if a 25-year Apple veteran could be considered new—it’s all about the products. Perhaps fittingly, the biggest noise of the presentation came when Ternus revealed that the new device restores the illumination to the Apple logo. Maybe that’s a symbol that in the age of AI, Apple is beaming out the message that hardware still rules.\nA few minutes after the presentation, I sat down with Ternus, for the second time in two days. Steve Jobs used to grant me an audience after his famous keynotes, too. Ternus isn’t Jobs, of course, nor is he supposed to be. But who is he?\nI first met Ternus in 2015, when I spent a day with him at Apple’s Input Design Lab, a testing facility in Cupertino. He’d risen to VP for Mac, iPad, Ecosystem, and Audio Engineering, and he struck me as affable and knowledgeable. (He spent four years right out of college at a virtual reality company, but he’s been at Apple ever since.) The peg to my story at the time was how this unknown manager conducted a Javert-like investigation to fix the weird sound a redesigned mouse made when sliding on a table.\nThat attention to detail was a legacy of Jobs’ perfectionism, which Tim Cook sustained as the next CEO. In the decade when Ternus overlapped with Jobs, he says he had only “a handful of interactions” with the founder. “But I've always felt like sort of a student of Steve's teachings,” Ternus said. “And then being able to work very closely with Tim, I’ve been very lucky.”\nTernus has so far been defined by his product prowess. “John innately has a great sense for great products, and that’s what Apple is,” says Greg Joswiak, Apple’s SVP of worldwide marketing and a 40-year company veteran. “You can’t teach that.” In one sense Ternus’ ascension is similar to that of Microsoft’s Satya Nadella, another lifer promoted to the top post. But Nadella was called upon to fix a broken organization, while Apple has been on a multi-decade run. Ternus is explicit that he will be an engine of continuity. That word is key to his selection, and above all explains why Tim Cook and the rest of Apple’s board was so comfortable with the choice.\nThe extent to which Ternus is a deep Apple insider became clear when I probed him on his views on being a corporate leader. I asked him which non-Apple CEOs he admires, and he was stumped. “I haven't really thought about that,” he said. I asked whether any business books had an impact on him. “Not really,” he said. “Of course I’ve read books, but there's so much to be learned from the people I get to work with.” Indeed, every time I tried to pin down Ternus on what mark he wants to make at Apple, he deflected the question and told me how he will continue Apple’s commitment to internal collaboration.\nTernus’ key collaborator is probably Johny Srouji, the architect of the company’s custom silicon, an initiative that’s driven many of the company’s innovations in the past decade. Srouri says that their relationship will be even closer, as Apple has merged its hardware engineering and technology organizations with Srouji at the top, reporting to Ternus. “John is going to be a great CEO,” he said. “He's a product guy at heart, but Apple's secret weapon is the DNA, the culture, which is not going to change. Remember, John has been here for 25 years. It’s not like he's going to come and everything's going to be different.”\nBeing Apple’s CEO encompasses much more than products—there’s a $100 billion business in services, a huge infrastructure, and the general mishegoss of running a giant corporation. I asked Ternus what it’s like to take on a massively expanded portfolio. “One of the amazing privileges of this job is getting to learn so many new things,” he said. “I have been and will continue to learn and go deeper into different areas. But, you know, I do love product. I'm super passionate about it.”\nLike it or not, the CEO of a $4 trillion company has to be involved in policy and politics. It has been widely reported that as executive chair, Cook will still conduct some of Apple’s high-level policy duties, including the equivalent of stuffing gold-plated binkies in the presidential mouth. Ternus implies that the reality is more nuanced. “Tim is available to help wherever I ask him, and it's great to have him in that role,” he said. “He obviously has a "
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/30/john-ternus-defines-his-focus-as-apple-ceo-with-one-word",
+     "title": "John Ternus used one word to describe his focus as Apple CEO",
+     "lang": "en",
+     "extra": {},
+     "id": "7fa3a529dc4851d8",
+     "published": "2026-10-30T15:58+00:00",
+     "text": "Apple has launched a wave of major new products since John Ternus took over as CEO, and a new interview with Ternus reveals how this aligns very much with his primary focus.\nJohn Ternus names ‘product’ as the chief thing he’s passionate about and focused on\nFollowing Apple’s unveil of the MacBook Pro with PROLED XDR earlier this week, CEO John Ternus sat down for an interview with Steven Levy at WIRED.\nMuch of the ground covered is familiar territory, with Ternus repeating things he’s said before.\nBut a standout focus that Ternus emphasizes, echoed by quotes from some of his top executives, is his deep passion for one thing: product.\nI asked Ternus what it’s like to take on a massively expanded portfolio. “One of the amazing privileges of this job is getting to learn so many new things,” he said. “I have been and will continue to learn and go deeper into different areas. But, you know, I do love product. I’m super passionate about it.”\nTop comment by Chris\nI like John, and I like engineer CEOs, and I hope he has a successful tenure. But so far I'd say his focus has been:\n\"Less Product for More Money\"\nThis emphasis on product is ever-present in Ternus’s answers to other questions. For example:\n- On Apple’s AI approach: “I would hope people recognize that the work we do is building incredible products that make their lives better. We’re absolutely going to leverage AI to do that.”\n- On AI agents potentially replacing current computing methods, and more work happening autonomously: “That could make life really easy, I suppose, but the creation of products is a deeply human and personal thing, something that we love to do.”\n- On whether he favors AI regulation: “Our focus is on making sure that our products are secure and safe, and protecting the users’ information.”\nLevy also shares quotes from two key Apple executives as well. Johny Srouji says, “John is going to be a great CEO. He’s a product guy at heart.” And here’s Greg Joswiak: “John innately has a great sense for great products, and that’s what Apple is.”\nIf Apple’s huge wave of product launches since Ternus took over as CEO wasn’t evidence enough, the messaging from this new interview is clear: Ternus is focused on product.\nWhat are your takeaways from the latest John Ternus quotes? Let us know in the comments.\nBest iPhone accessories\n- AirPods Pro 3 (now only $199, down from $249)\n- MagSafe Car Mount for iPhone\n- 10-year AirTag battery case\n- 100W USB-C fast charging power adapter\n- HomeKit Garage Door Opener\nComments"
+    }
+   ]
+  },
+  {
+   "id": "c437ea53b07",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "واتساب تسلّط الضوء على 4 مزايا مهمة للدردشات الجماعية.. تعرف عليها",
+   "sources": [
+    {
+     "source": "AITNews",
+     "trust": 2,
+     "url": "https://aitnews.com/2026/10/30/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%aa%d8%b3%d9%84%d9%91%d8%b7-%d8%a7%d9%84%d8%b6%d9%88%d8%a1-%d8%b9%d9%84%d9%89-4-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%85%d9%87%d9%85%d8%a9-%d9%84%d9%84%d8%af%d8%b1",
+     "title": "واتساب تسلّط الضوء على 4 مزايا مهمة للدردشات الجماعية.. تعرف عليها",
+     "lang": "ar",
+     "extra": {},
+     "id": "437ea53b07220e9c",
+     "published": "2026-10-30T18:44+00:00",
+     "text": "ألقت منصة المراسلة الفورية واتساب الضوء على أربعة تحديثات جديدة للدردشات الجماعية، تستهدف تسهيل متابعة المحادثات وتنظيم الرسائل المهمة، خاصةً في المجموعات النشطة التي تشهد تدفقًا كبيرًا من الرسائل. وأوضحت واتساب، عبر مدونتها الرسمية، أن التحديثات الجديدة تمنح المستخدمين أدوات إضافية لمتابعة النقاشات والاطلاع على الرسائل التي تستدعي اهتمامهم، حتى بعد مضي وقت على الابتعاد …"
+    }
+   ]
+  },
+  {
+   "id": "c653882b3da",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "How to use Gemini to update your resume",
+   "sources": [
+    {
+     "source": "Google Blog",
+     "trust": 3,
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini",
+     "title": "How to use Gemini to update your resume",
+     "lang": "en",
+     "extra": {},
+     "id": "653882b3da5b8f0b",
+     "published": "2026-10-29T11:33+00:00",
+     "text": "Turn raw notes into high-impact, ATS-friendly resume bullets using Gemini. Follow these four steps to polish your professional profile. Get the details."
+    }
+   ]
+  },
+  {
+   "id": "c948f28b894",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Equipping healthcare professionals with practical AI skills",
+   "sources": [
+    {
+     "source": "Google Blog",
+     "trust": 3,
+     "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate",
+     "title": "Equipping healthcare professionals with practical AI skills",
+     "lang": "en",
+     "extra": {},
+     "id": "948f28b89431d9b7",
+     "published": "2026-10-29T13:00+00:00",
+     "text": "Built by clinicians at Google, the new Google AI for Healthcare Professionals Certificate helps healthcare professionals prioritize patients."
+    }
+   ]
+  },
+  {
+   "id": "c173efb6f20",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+   "sources": [
+    {
+     "source": "Google Blog",
+     "trust": 3,
+     "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon",
+     "title": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+     "lang": "en",
+     "extra": {},
+     "id": "173efb6f209b5e2c",
+     "published": "2026-10-29T16:00+00:00",
+     "text": "Students at the Google Colorado Impact Hackathon built AI tools like SolarSnap to modernize the energy grid. See the winning innovations here."
+    }
+   ]
+  },
+  {
+   "id": "c0b04c88929",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+   "sources": [
+    {
+     "source": "Google Blog",
+     "trust": 3,
+     "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks",
+     "title": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+     "lang": "en",
+     "extra": {},
+     "id": "0b04c8892989c151",
+     "published": "2026-10-29T16:00+00:00",
+     "text": "Add textbooks from OpenStax and S Chand to Google Gemini Notebook. Generate custom study guides and quizzes now. See the available catalog."
+    }
+   ]
+  },
+  {
+   "id": "ccbc9800311",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Celebrate Halloween with these tricks in Google Photos.",
+   "sources": [
+    {
+     "source": "Google Blog",
+     "trust": 3,
+     "url": "https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026",
+     "title": "Celebrate Halloween with these tricks in Google Photos.",
+     "lang": "en",
+     "extra": {},
+     "id": "cbc980031181c0c3",
+     "published": "2026-10-29T16:00+00:00",
+     "text": "Use Ask Photos to find past costumes and edit spooky backgrounds in Google Photos. Try these festive tricks to perfect your Halloween snaps today."
+    }
+   ]
+  },
+  {
+   "id": "c1112027d59",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "sources": [
+    {
+     "source": "NVIDIA Blog",
+     "trust": 3,
+     "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+     "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+     "lang": "en",
+     "extra": {},
+     "id": "1112027d5901b6f1",
+     "published": "2026-10-29T16:00+00:00",
+     "text": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs.\nDevelopers direct AI agents through natural-language instructions, review results and guide changes. Omniverse libraries provide GPU-accelerated physics, rendering and sensor simulation capabilities.\nExplore the projects below to see frontier AI models such as GPT-6 Astra at work, and check back for new examples from NVIDIA teams and developers across the ecosystem.\nPlanning warehouse automation requires a model of the building itself, but shelving and machinery can obscure its structure in site scans. Omniverse brings together real-to-sim tools and agent skills to help developers turn real-world captures into editable starting environments for physical AI simulation.\nDavid Wehr, from NVIDIA’s simulation technology team, built on that work using Astra to develop a workflow for digitally reconstructing a building without its contents. The goal is an editable, simulation-ready building model where developers can add or reposition shelving and machinery to evaluate warehouse layouts and automation plans before making physical changes.\nWehr guided Astra to interpret panoramic photos, create building geometry and align it with point-cloud measurements. OpenUSD stores the models, while Omniverse’s ovrtx library renders results for inspection.\nExplore NVIDIA Omniverse agent skills to help agents build with Omniverse libraries.\nBefore changing how industrial equipment operates, engineers need a way to explore the consequences. Pradeep Kaushik, a member of the NVIDIA Omniverse developer relations team, directed Astra to build a what-if analysis application around a simulated gas turbine and generator.\nThe application lets users adjust conditions such as load, ambient temperature and fuel composition, then compare power, efficiency, fuel consumption and equipment response. Six test procedures explore scenarios including load changes, a stuck fuel valve and an exhaust-sensor error.\nThe prototype gives engineers an interactive way to investigate how operating changes and faults could affect equipment behavior, supporting decisions about which scenarios warrant further testing.\nAstra used tools like Cantera for thermochemistry and SciPy for equipment dynamics. The application maps solver results to rotor animation and color-coded temperature, pressure and flow-velocity indicators in a 3D turbine. NVIDIA Omniverse libraries update the scene (ovstage), render it with RTX (ovrtx) and stream the view to the browser (ovstream). Engineers can rotate and zoom the cutaway, switch between indicators, and pause or scrub through a simulated response alongside charts and virtual instruments.\nWith SimReady Central Library, announced at GTC Berlin, developers can access more than 2,000 simulation-ready USD assets from equipment manufacturers and asset providers for robotics simulations and AI factory digital twins workflows.\nPaul Kind, a member of NVIDIA’s Omniverse documentation team, pointed an AI agent to the library and guided scene assembly through conversation. His kitchen scene included 180 placements drawn from 63 unique library assets, alongside 18 custom geometry pieces. Kind reviewed renders produced with Isaac Sim and guided further adjustments.\nFor robotics and factory workflows, developers can select SimReady assets with the simulation properties embedded to fit their required task then test in an assembled environment.\nFind assets in SimReady Central Library, and learn how to contribute.\nA warehouse simulation needs to keep running smoothly as more robot arms, conveyors and boxes fill the scene.\nWhen it slows down, developers need to identify what’s holding it back. Bhavik Sanganee, principal engineer at NVIDIA, used Astra with NVIDIA Omniverse libraries to build a warehouse simulation, increase its complexity and investigate slowdowns.\nPerformance first fell below the target when the scene doubled in size. Running physics calculations, image rendering and video preparation concurrently restored performance and enabled further scaling.\nWith 80 conveyors, 40 arms and 800 boxes, the simulation sustained 30 frames per second at full HD resolution during a two-minute test. The arms completed 640 successful box placements.\nDoubling the scene again reduced performance. Testing traced the slowdown to the physics and robot-control pipeline, giving Sanganee a specific area to improve.\nStart building with NVIDIA Omniverse libraries.\nIn electronics assembly, a robot may need to position a flexible cable around components before plugging it into a port. The cable bends as the robot moves it, and the connector must line up precisely to fit.\nOyindamola Omotuyi, robotics technical"
+    }
+   ]
+  },
+  {
+   "id": "cc8e557921c",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+   "sources": [
+    {
+     "source": "Google Blog",
+     "trust": 3,
+     "url": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly",
+     "title": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+     "lang": "en",
+     "extra": {},
+     "id": "c8e557921c2349ed",
+     "published": "2026-10-29T16:15+00:00",
+     "text": "Generate, edit, and preview PDFs or Docs directly in Gemini. Use the new full-screen editor to refine your files today. See what's new in Gemini."
+    }
+   ]
+  },
+  {
+   "id": "c7bf0065ceb",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "An updated Model Spec for more capable and beneficial AI",
+   "sources": [
+    {
+     "source": "OpenAI News",
+     "trust": 3,
+     "url": "https://openai.com/index/updated-model-spec",
+     "title": "An updated Model Spec for more capable and beneficial AI",
+     "lang": "en",
+     "extra": {},
+     "id": "7bf0065ceb1646f5",
+     "published": "2026-10-29T17:00+00:00",
+     "text": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+    }
+   ]
+  },
+  {
+   "id": "cd2282bcce1",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Fair use benefits everyone",
+   "sources": [
+    {
+     "source": "OpenAI News",
+     "trust": 3,
+     "url": "https://openai.com/index/fair-use-benefits-everyone",
+     "title": "Fair use benefits everyone",
+     "lang": "en",
+     "extra": {},
+     "id": "d2282bcce1625c64",
+     "published": "2026-10-30T00:00+00:00",
+     "text": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    }
+   ]
+  },
+  {
+   "id": "cc7606af40d",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Community safety report and new protections for teens",
+   "sources": [
+    {
+     "source": "OpenAI News",
+     "trust": 3,
+     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+     "title": "Community safety report and new protections for teens",
+     "lang": "en",
+     "extra": {},
+     "id": "c7606af40dbb903f",
+     "published": "2026-10-30T09:00+00:00",
+     "text": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+    }
+   ]
+  },
+  {
+   "id": "c25cc4c9bb2",
+   "kind": "news",
+   "score": 6.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Making it easier for websites to express AI training preferences",
+   "sources": [
+    {
+     "source": "OpenAI News",
+     "trust": 3,
+     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+     "title": "Making it easier for websites to express AI training preferences",
+     "lang": "en",
+     "extra": {},
+     "id": "25cc4c9bb2e3e7e5",
+     "published": "2026-10-30T09:30+00:00",
+     "text": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+    }
+   ]
+  },
+  {
+   "id": "c4c55e492d8",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+   "sources": [
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
+     "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+     "lang": "en",
+     "extra": {},
+     "id": "4c55e492d8973144",
+     "published": "2026-10-29T18:39+00:00",
+     "text": "Earlier this year, sources tell WIRED, a contractor caused a security incident at the Department of Defense by connecting a secure centralized system used by multiple intelligence agencies to their personal account for Claude Code, Anthropic’s AI coding agent. It appears that the agent used by the contractor, who is employed by the global consulting firm Accenture, then sent information about the DOD system, including login credentials, to a high-risk, third-party website.\nThe centralized system contains controlled unclassified information (CUI), which is considered sensitive and not to be released to the public without review. CUI can include information about critical infrastructure, nuclear submarine propulsion, and vulnerabilities to chemical and biological terrorism. Additionally, security experts say, access to the system could allow for the exploitation of even more sensitive ones.\n“It puts all the data that’s in there at risk,” says a source aware of the incident, who requested anonymity as they were not authorized to speak to the press. If the third-party software was compromised, “there could be somebody out there with the ability to log into a secure environment without anyone knowing. It’s 100 percent a national security threat and could cause irreparable harm.”\nA DOD spokesperson tells WIRED that “the Department does not comment on the status of its networks or systems.”\n“We take all concerns seriously. These allegations were thoroughly and independently investigated and found to be without merit. We fully complied with our legal and contractual obligations,” an Accenture spokesperson tells WIRED. When pressed, Accenture didn’t offer clarification on who conducted the investigation, or dispute that there had been what could be characterized as an incident.\nThe Accenture employee is alleged to have connected a secure production environment to their personal Claude account so as to allow an AI agent to write and deploy code. Claude is currently barred from being used by DOD staff. (Anthropic directed WIRED to the company’s usage policy, which instructs users not to use its products to “interfere with the operation of military bases and related infrastructure” or to “bypass security controls such as authentication systems, end point protection, or monitoring tools without authorization.”)\nThe Accenture employee’s AI agent ran on the DOD network for two months before it was identified and the vulnerability could be patched. Sources indicate that despite the security risks posed by the AI coding agent, Accenture employees did not treat the incident as severe or urgent. DOD employees and federal contractors are required to report any cybersecurity incident within 72 hours of its discovery, but sources indicate Accenture did not initially report the breach to the government at all.\n“We are in a conflict with Iran right now,” says the employee, noting that Iran has attempted to hack several federal agencies and parts of US infrastructure. “It’s the worst time to be having this kind of cavalier attitude.”\n| Got a Tip? |\n|---|\n| Are you a current or former government employee who wants to talk about what's happening? We'd like to hear from you. Using a nonwork phone or computer, contact the reporters securely on Signal at velliott88.18. |\nAccenture currently has more than $3.5 billion in contracts with the federal government, nearly $605 million of which are with the DOD. The company also contracts with other federal agencies, such as the Department of Education, the General Services Administration, and the Department of Energy, among others. Earlier this month, the Federal Bureau of Investigation found that an Accenture contractor failed to patch a vulnerability that led to the hacking group ShinyHunters getting access to the details of thousands of the Bureau’s employees. The FBI removed that contractor in early October.\nMatt Triner, founder of Hunter Strategy, a Washington, DC-based IT consulting company, says that the issue exemplifies the conflicting demands government contractors face more broadly. “Organizations are often punished for reporting incidents like this, even though it’s the right and legal thing to do,” says Triner. In many cases, he says, a company could lose government contracts by admitting they’ve had a security breach, though he says that an incident like the one described is “absolutely one that would need to be reported.”\nTriner also notes that the increasing pressure on contractors to deliver projects faster and at a lower price point is at odds with prioritizing safety and security. “Unfortunately, everyone is operating in a system where there are competing rules and incentives, and that existed before AI, but now it’s the same problem on speed,” says Triner.\nThe coding environment accessed by the Accenture contractor is run on the Non-classified Internet Protocol Router Network (NIPRNet), a DOD network used for unclassified information. While it does connect to the internet—c"
+    },
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon",
+     "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+     "lang": "en",
+     "extra": {},
+     "id": "9fcf1feb8ef62474",
+     "published": "2026-10-30T21:19+00:00",
+     "text": "This week on Uncanny Valley, Brian Barrett, Leah Feiger, and Zoë Schiffer dive into our scoop on how a defense contractor connected Claude Code to a secure Department of Defense system. We also discuss the green, yellow, and red flags we see in Anthropic’s IPO filing—and why it’s a test not just for the AI industry, but for the entire US economy—and how volunteers nationwide are preparing for ICE agents potentially showing up at polling sites in the midterms.\nArticles mentioned in this episode:\n- A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System\n- The Anthropic S-1 Filing Is Also an AI Doomsday Primer\n- What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock\n- Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls\nYou can follow Brian Barrett on Bluesky at @brbarrett, Zoë Schiffer on Bluesky at @zoeschiffer, and Leah Feiger on Bluesky at @leahfeiger. Write to us at [email protected].\nHow to Listen\nYou can always listen to this week's podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here's how:\nIf you're on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts and search for “uncanny valley.” We’re on Spotify too.\nTranscript\nNote: This is an automated transcript, which may contain errors.\nBrian Barrett: Welcome to the WIRED's Uncanny Valley. I'm Brian Barrett, executive editor.\nZoë Schiffer: I'm Zoë Schiffer, contributing editor.\nLeah Feiger: And I'm Leah Feiger, director of politics and science.\nZoë Schiffer: This week, Anthropic has officially filed to go public. There is a lot going on in the hundreds of pages that the company submitted as part of its S-1 filing, from staggering earnings and losses, to warnings of AI's existential threat. Obviously, we're talking about Anthropic here. We'll discuss our key takeaways and why this IPO is kind of high stakes, not just for the AI industry, but honestly the entire US economy.\nLeah Feiger: We're also bringing you a scoop about how a defense contractor plugged Anthropic's Claude into a secure Department of Defense system, in what's really one of the most outlandish uses of AI in the government we've seen so far.\nBrian Barrett: And the midterms are right around the corner, just a few days away. Massive groups of volunteers all over the country are already getting ready to protect their communities from the potential that ICE officers show up at the polls. We'll get into how grassroots efforts like these are a reflection of a deeply uncertain election cycle.\nZoë Schiffer: So on Monday, we learned that Anthropic finally pulled the trigger and publicly filed for its IPO. This has been highly anticipated for a bunch of reasons. Anthropic is expected to raise more money in its IPO than any company in history, and it would be the first major US company focused solely on building AI software to go public. To give you a sense of the scale that we're talking about, the company's valuation went from $183 billion a little over a year ago to $965 billion in its most recent round, and some expect that it could be worth close to $2 trillion once it starts trading. So the filing basically gives us the first real look inside Anthropic's business because it's a private company right now. It doesn't have to report a bunch of stuff. And the numbers are pretty extreme in both directions, billions of dollars in revenue and even more billions in losses, and hundreds of billions that the company has already committed to compute. Because there's a ton to unpack in this paperwork, I thought it would be fun to divide it into green flags, yellow flags, and red flags that we saw from the filing. What do you guys think?\nBrian Barrett: Yes.\nLeah Feiger: I'm astounded by how much money is at play here. This is, yes.\nBrian Barrett: What flag, Leah? What flag is that?\nLeah Feiger: I don't know.\nZoë Schiffer: For the sake of the economy, it's green.\nBrian Barrett: Great. Green flag.\nLeah Feiger: For the sake of the economy, it's green. This is so much money, guys. Sue me, but the only thing I can think of right now is that article that WIRED ran a couple of months ago about how people were selling their homes in the Bay Area with the promise of Anthropic stock post-IPO. And I remember at the time I was like, \"How close are we to this?\" And Zoe said, \"Oh, they're going to make so much money.\"\nBrian Barrett: Is it fair to say, Zoë, I feel like having the financials out there, yes, they're losing money hand over fist, but the financials I think are better than people were expecting maybe. At least, it feels like they put a lot of concerns to rest, not all of them, but this is a real business. This is a business that is growing. It's doing all the things you would want a business to do.\nZoë Schiffer: Yes, I think absolutely. So its revenue hit $16.3 billion in the first half of 2026, and it's grown mor"
+    }
+   ]
+  },
+  {
+   "id": "cc7a9965907",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+   "sources": [
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft",
+     "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+     "lang": "en",
+     "extra": {},
+     "id": "c7a99659074ab27a",
+     "published": "2026-10-29T19:23+00:00",
+     "text": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]"
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/29/apple-cuts-app-store-commission-in-taiwan-following-regulatory-discussions",
+     "title": "Apple cuts App Store commission in Taiwan following regulatory discussions [U]",
+     "lang": "en",
+     "extra": {},
+     "id": "3d686f6a2d4d8d00",
+     "published": "2026-10-29T20:24+00:00",
+     "text": "Apple today announced that it is lowering its standard App Store commission in Taiwan, following discussions with the country’s Fair Trade Commission. Here are the details."
+    }
+   ]
+  },
+  {
+   "id": "cb46b63ebd2",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Reddit will soon be a ‘logged-in-only’ website, forcing you to have an account",
+   "sources": [
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/29/reddit-will-soon-be-a-logged-in-only-website",
+     "title": "Reddit will soon be a ‘logged-in-only’ website, forcing you to have an account",
+     "lang": "en",
+     "extra": {},
+     "id": "b46b63ebd2e5ff1f",
+     "published": "2026-10-29T20:35+00:00",
+     "text": "Reddit is shifting to a “logged-in-only experience,” the company confirmed during its latest earnings call."
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/29/reddit-will-soon-require-an-account-for-most-content",
+     "title": "Reddit will soon require an account for most content",
+     "lang": "en",
+     "extra": {},
+     "id": "cb52e54932ff309d",
+     "published": "2026-10-29T20:49+00:00",
+     "text": "Earlier today Reddit announced that it’s rolling out social media-style ‘For You’ feeds, but that wasn’t the only big news today. Reddit also now says that it’s going to start requiring a logged-in account for accessing most of its content."
+    }
+   ]
+  },
+  {
+   "id": "c1e56290d9c",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "ملخص الأسبوع | مضاعفة باقة الإنترنت الأساسية و iPad mini OLED والمزيد",
+   "sources": [
+    {
+     "source": "عرب هاردوير",
+     "trust": 2,
+     "url": "https://arabhardware.net/post-55063",
+     "title": "ملخص الأسبوع | مضاعفة باقة الإنترنت الأساسية و iPad mini OLED والمزيد",
+     "lang": "ar",
+     "extra": {},
+     "id": "1e56290d9c0b758d",
+     "published": "2026-10-30T11:48+00:00",
+     "text": "The post ملخص الأسبوع | مضاعفة باقة الإنترنت الأساسية و iPad mini OLED والمزيد appeared first on عرب هاردوير."
+    }
+   ]
+  },
+  {
+   "id": "cb0bff9b79e",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "الفيلم المستوحى من لعبة Bloodborne يحصل على كاتب ومخرج بالفعل",
+   "sources": [
+    {
+     "source": "عرب هاردوير",
+     "trust": 2,
+     "url": "https://arabhardware.net/post-55066",
+     "title": "الفيلم المستوحى من لعبة Bloodborne يحصل على كاتب ومخرج بالفعل",
+     "lang": "ar",
+     "extra": {},
+     "id": "b0bff9b79e08c905",
+     "published": "2026-10-30T11:50+00:00",
+     "text": "The post الفيلم المستوحى من لعبة Bloodborne يحصل على كاتب ومخرج بالفعل appeared first on عرب هاردوير."
+    }
+   ]
+  },
+  {
+   "id": "cf2a0d6c55c",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "إشاعة| لعبة The Elder Scrolls 6 تحصل على عرض جديد ضخم الشهر القادم",
+   "sources": [
+    {
+     "source": "عرب هاردوير",
+     "trust": 2,
+     "url": "https://arabhardware.net/post-55067",
+     "title": "إشاعة| لعبة The Elder Scrolls 6 تحصل على عرض جديد ضخم الشهر القادم",
+     "lang": "ar",
+     "extra": {},
+     "id": "f2a0d6c55c93bb13",
+     "published": "2026-10-30T12:26+00:00",
+     "text": "The post إشاعة| لعبة The Elder Scrolls 6 تحصل على عرض جديد ضخم الشهر القادم appeared first on عرب هاردوير."
+    }
+   ]
+  },
+  {
+   "id": "c9454cfa86e",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Bose QuietComfort Ultra Earbuds 2nd Gen drop $70 on Amazon",
+   "sources": [
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/quietcomfort-ultra-earbuds-2nd-gen-deal-3730204",
+     "title": "Bose QuietComfort Ultra Earbuds 2nd Gen drop $70 on Amazon",
+     "lang": "en",
+     "extra": {},
+     "id": "9454cfa86e0153eb",
+     "published": "2026-10-30T15:43+00:00",
+     "text": "Bose’s QuietComfort Ultra Earbuds (2nd Gen) are built for people who care most about blocking out noise and getting a secure, comfortable fit, and there’s a solid deal on them right now. This premium true-wireless pair puts the focus on active noise cancellation, everyday comfort, and useful extras that make them easy to live with."
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/quietcomfort-ultra-headphones-gen-2-deal-3730292",
+     "title": "Bose’s new QuietComfort Ultra Headphones hit Prime Day low again",
+     "lang": "en",
+     "extra": {},
+     "id": "db7cac80c143d10e",
+     "published": "2026-10-30T19:24+00:00",
+     "text": "Bose’s QuietComfort Ultra Headphones (2nd Gen) are back down to $369 on Amazon, which saves you $80 off the $449 recommended retail price. That’s an 18% discount relative to the RRP, and it’s worth a look right now because this is a return to the Prime Day price, which is an all-time low."
+    }
+   ]
+  },
+  {
+   "id": "cf65a934222",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Save $350 on the Pixel 11 Pro XL gets in record-low deal",
+   "sources": [
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/pixel-11-pro-xl-record-low-deal-3730216",
+     "title": "Save $350 on the Pixel 11 Pro XL gets in record-low deal",
+     "lang": "en",
+     "extra": {},
+     "id": "f65a9342222e4e89",
+     "published": "2026-10-30T16:00+00:00",
+     "text": "The Google Pixel 11 Pro XL just dropped to a record-low $949 on Amazon, down from its $1,299 recommended retail price. That’s a $350 discount, or 27% off RRP, and it’s a strong time to grab Google’s top big-screen phone for a lot less.\nThis is the flagship Pixel for people who want the full package. The Pixel 11 Pro XL has a 6.8-inch high-resolution OLED display, Google’s new Tensor G6 chip, and a big focus on camera upgrades. Google also built it around stronger durability and on-device Gemini-powered AI features, so it’s aimed at buyers who want premium hardware with smart tools built in."
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/pixel-11-deal-3730263",
+     "title": "Pixel 11 hits record-low price with $200 discount",
+     "lang": "en",
+     "extra": {},
+     "id": "175e602a063ae942",
+     "published": "2026-10-30T17:53+00:00",
+     "text": "Great phone cameras and clean Android software matter most when you want a handset that just feels good to use every day. The Google Pixel 11 fits that kind of buyer well, and there’s a strong deal on Amazon right now that makes it a lot more tempting."
+    }
+   ]
+  },
+  {
+   "id": "ca24c068438",
+   "kind": "free",
+   "score": 8.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Free on Epic: Sorry We're Closed",
+   "sources": [
+    {
+     "source": "Epic Free Games",
+     "trust": 3,
+     "url": "https://store.epicgames.com/p/sorry-were-closed-724c86",
+     "title": "Free on Epic: Sorry We're Closed",
+     "lang": "en",
+     "extra": {
+      "ends": 1793894400.0,
+      "official_url": "https://store.epicgames.com/p/sorry-were-closed-724c86"
+     },
+     "id": "7267dc2632f0b3c4",
+     "published": "2026-10-29T15:00+00:00",
+     "text": "Sorry We're Closed is free on Epic Games Store until 2026-11-05 16:00 UTC. Regular price: $24.99. Seller: Akupara Games. Sorry We're Closed is a story-driven survival horror game about demons, angels and what happens when both sides collide. A mix of fixed-camera exploration and arcade-style shooting where Michelle must use her Third Eye to see between worlds, uncover secrets and solve puzzles."
+    },
+    {
+     "source": "GamerPower",
+     "trust": 1,
+     "url": "https://gamerpower.com/sorry-we-re-closed-epic-games-giveaway",
+     "title": "Sorry We're Closed (Epic Games) Giveaway",
+     "lang": "en",
+     "extra": {
+      "ends": "2026-11-05 23:59:00",
+      "needs_official_link": true
+     },
+     "id": "a24c068438561c5a",
+     "published": "2026-10-29T10:09+00:00",
+     "text": "Sorry We're Closed (Epic Games) Giveaway. Worth: $24.99. Platforms: PC, Epic Games Store. Ends: 2026-11-05 23:59:00. Score Sorry We're Closed for free on Epic Games Store! Sorry We're Closed is a single-player survival game with arcade-style combat, puzzles and multiple endings. Check it out! How to get it: 1. Click the button to visit the giveaway page.\r\n2. Login into your Epic Games Store account.\r\n3. Click the button to add the game to your library"
+    }
+   ]
+  },
+  {
+   "id": "c0b4eb98dfa",
+   "kind": "free",
+   "score": 5.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
+   "sources": [
+    {
+     "source": "freeCodeCamp",
+     "trust": 2,
+     "url": "https://freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide",
+     "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
+     "lang": "en",
+     "extra": {},
+     "id": "0b4eb98dfa25a44a",
+     "published": "2026-10-30T13:57+00:00",
+     "text": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation.\nWhen an invoice arrives, an automated rules engine checks it against static thresholds. It checks whether the dollar amount falls within normal limits, whether the vendor is on an approved vendor list, and whether the submitting IP address looks familiar. If the individual attributes look plausible, the payment clears.\nThe problem with this approach is structural. Sophisticated fraud schemes like money mule rings, circular invoicing loops, and vendor collision rarely produce transactions that alert individual thresholds. A shell company invoicing $4,800 to stay under a $5,000 dual sign-off threshold looks completely fine in isolation. But when 25 seemingly independent vendors all route disbursements to the same bank account, the coordinated pattern starts to become clear.\nYou won't find the warning in the attributes of an isolated transaction. It lives in the topology of the payment network.\nIn a relational database, tracing these multi-entity relationships requires recursive cell joins across tables of vendors, invoices, payments, and bank accounts. But as tables grow into millions of rows, deep path traversals quickly degrade query performance. Graph databases solve this by storing relationships as first-class, index-free adjacency pointers, turning multi-hop traversals into constant-time lookups.\nIn this tutorial, you'll explore the architecture of an end-to-end relational fraud detection pipeline built on Neo4j. You'll see how to model financial entities as a graph, precompute derived edges to optimize query latency, and write parameterized Cypher queries to uncover five core procurement fraud schemes.\nThe complete reference implementation is available in the fraud-detection-knowledge-graphs repository.\nIn accounts payable pipelines, risk checks typically operate on isolated records:\n# Transaction-level view — nothing suspicious\ntransactions = [\n{\"vendor\": \"Alpha Corp\", \"amount\": 5200.00, \"date\": \"2025-08-01\"},\n{\"vendor\": \"Beta LLC\", \"amount\": 4800.00, \"date\": \"2025-08-02\"},\n{\"vendor\": \"Gamma Inc\", \"amount\": 5100.00, \"date\": \"2025-08-03\"},\n]\n# All amounts within normal range ($1K–$15K). All vendors valid.\n# Dates are sequential. Nothing triggers any rule.\nWhen you map those same records to an interconnected graph, the hidden structure becomes clear right away:\n# Graph view — all three vendors pay to the same account\nconnections = {\n\"ACC-MULE-001\": [\"Alpha Corp\", \"Beta LLC\", \"Gamma Inc\"],\n\"ACC-0042\": [\"Delta Corp\", \"Epsilon LLC\"],\n\"ACC-0099\": [\"Zeta GmbH\"],\n}\n# ACC-MULE-001 receives from 25+ vendors. That's a money mule ring.\n# The convergence is the red flag.\nThe underlying data hasn't changed. But when you evaluate transactions within an entity graph, the coordinated funnel stands out.\nIn a relational database, connecting these dots requires multiple joins across separate table. In a knowledge graph, the connections are stored directly as edges connecting nodes, which allows you to query them in a single traversal.\n| Pattern | What It Is | What Traditional Tools Don't Catch |\n|---|---|---|\n| Duplicate Invoices | Same invoice and vendor, near-identical amount, close dates | Exact match misses slight variations |\n| Circular Rings | Vendors invoicing each other in a closed loop | Each invoice looks legitimate alone |\n| Money Mule Rings | Many vendors funneling to one controlled account | No single payment is anomalous |\n| Vendor Collusion | Independent-looking vendors sharing underlying attributes | No cluster detection across entities |\n| Payment Anomalies | Invoice approved by someone outside their department's authority | Role-based checks pass, context checks don't exist |\nA knowledge graph doesn't replace rules engines or ML models. But it does fill the gap they can't reach: relationships.\nTo follow along with this tutorial, you'll need:\nBefore running fraud queries, you need to structure your data into a cohesive property graph. The reference dataset models six entity types commonly found in financial systems:\n| Entity | Key Properties | Role |\n|---|---|---|\n| Vendor | tax_id, name, country, city | Who issues invoices |\n| Invoice | invoice_id, amount, date, category | What was billed |\n| Payment | payment_id, amount, date | What was paid |\n| BankAccount | account_id, routing_number, bank_name | Where money went |\n| Employee | employee_id, name, department | Who approved |\n| Organization | org_id, name, departments | Structural hierarchy |\nThe base relationships form a bipartite payment network:\n(Employee)-[:APPROVED]->(Payment)-[:LINKED_TO]->(Invoice)-[:ISSUED_BY]->(Vendor)\n|\nv\n(Payment)-[:PAID_TO]->(BankAccount)\nReal-world financial datasets are difficult to access because of privacy and regulatory restrictions. Using synthetic data allows you to inject known fraud patterns and systematically verify that your detection queries find them.\nThe dataset generator creates approximately 500 entities with fiv"
+    }
+   ]
+  },
+  {
+   "id": "c0c488961fc",
+   "kind": "free",
+   "score": 4.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Hexologic (Steam) Giveaway",
+   "sources": [
+    {
+     "source": "GamerPower",
+     "trust": 1,
+     "url": "https://gamerpower.com/hexologic-steam-giveaway",
+     "title": "Hexologic (Steam) Giveaway",
+     "lang": "en",
+     "extra": {
+      "ends": "2026-10-31 23:59:00",
+      "needs_official_link": true
+     },
+     "id": "0c488961fc520626",
+     "published": "2026-10-29T12:04+00:00",
+     "text": "Hexologic (Steam) Giveaway. Worth: $4.99. Platforms: PC, Steam. Ends: 2026-10-31 23:59:00. Fall in love in with Sudoku again! Grab Hexologic for free via Steam! Hexologic is a Sudoku-like puzzle game with nice visuals and relaxing music. Don´t miss it! How to get it: 1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!"
+    },
+    {
+     "source": "GamerPower",
+     "trust": 1,
+     "url": "https://gamerpower.com/asleep-act-1-steam-giveaway",
+     "title": "Asleep: Act 1 (Steam) Giveaway",
+     "lang": "en",
+     "extra": {
+      "ends": "2026-11-02 23:59:00",
+      "needs_official_link": true
+     },
+     "id": "dbefd84aae4b5a27",
+     "published": "2026-10-30T12:06+00:00",
+     "text": "Asleep: Act 1 (Steam) Giveaway. Worth: $9.99. Platforms: PC, Steam. Ends: 2026-11-02 23:59:00. Claim Asleep: Act 1 for free via Steam until 2 Nov! Asleep is a 2d adventure game with dark atmosphere and challenging puzzles. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!"
+    }
+   ]
+  },
+  {
+   "id": "cfb6fb5f0aa",
+   "kind": "free",
+   "score": 4.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
+   "sources": [
+    {
+     "source": "freeCodeCamp",
+     "trust": 2,
+     "url": "https://freecodecamp.org/news/cloud-service-models-explained-iaas-vs-paas-vs-saas",
+     "title": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
+     "lang": "en",
+     "extra": {},
+     "id": "fb6fb5f0aa340f2c",
+     "published": "2026-10-29T15:39+00:00",
+     "text": "You likely use cloud services every day. When you check Gmail, join a Zoom meeting, or message your team on Slack, you use cloud-hosted software.\nBut you don't manage the servers it runs on or maintain the underlying infrastructure. You simply sign in and get to work. This is called Software as a Service (SaaS), and many people use it for years without knowing the term.\nSaaS is just one of three major cloud service models. The other two, Infrastructure as a Service (IaaS) and Platform as a Service (PaaS), give you different levels of control over the infrastructure and software you build. Understanding how these models differ will help you make sense of cloud engineering concepts and choose the right approach for your projects.\nIn this article, we'll break down IaaS, PaaS, and SaaS, explain what you manage and what the cloud provider handles in each model, and learn how to choose between them for a real project.\nBy the end of this article, you'll be able to:\nYou don't need any cloud experience to follow this article. If you know what a computer, a server, and the internet are, you have everything you need.\nIf you're new to the cloud, read my article What is the Cloud and Cloud Computing? first. It explains what the cloud is and how it differs from running your own hardware, and this article builds on that foundation.\nCloud computing is a model that lets you use computing resources, such as servers, storage, and networking, on demand over the internet. YOu pay only for what you use.\nThese resources sit in data centres that are owned and run by cloud service providers, or CSPs for short. The best-known CSPs are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud.\nThis is just a short recap to make sure you understand the key concepts. My article above covers it in full if you want or need more info.\nBefore the cloud, most organisations ran their systems on-premises. On-premises means the hardware sits in a building the organisation owns or rents. This could be a server room in their office, with its own staff looking after it.\nIn this setup, you're responsible for everything. This includes buying servers, setting up the network, installing and updating software, and keeping the room powered and cool.\nFor example, if a small business wanted to launch an online shop, it would need to buy a server, install the software, and pay someone to keep it running. If the shop grew faster than expected, it would need to buy more hardware.\nThe cloud moves some of that work to the provider. The physical servers still exist, but someone else owns and maintains them, and you rent what you need.\nWhat differs from one cloud service to the next is how much of the work the provider takes on for you. The cloud service models describe this, and there are three main ones:\nSo a cloud service model describes how the work is split between you, the customer, and the provider, that is which parts of the system you manage and which parts the provider manages for you.\nThe shared responsibility model defines which parts of a cloud system the provider manages and which parts you, as the customer, manage. To understand it, you first need to see the parts that make up a running application.\nA computing stack is the set of layers that work together to run an application. Each layer depends on the ones beneath it. From the bottom up, we have:\nAWS describes the split as security “of” the cloud and security “in” the cloud. The provider manages the security of the cloud. This covers the data centres, physical hardware, physical network, and the virtualisation layer.\nBut security in the cloud is the customer's job. It covers what you put into the cloud and how you configure it. This includes your data, your users and their permissions, and the settings of the services you use.\nInfrastructure as a Service is a cloud model where the provider gives you the basic building blocks of computing. This includes virtual servers, storage, and networking.\nWith IaaS, you request a virtual machine from the provider. You choose how many CPUs and how much memory it has, which operating system it runs, and which network it connects to. Within minutes, the VM is running, and you can connect to it.\nFrom that point, the server is yours to manage. You install your software, apply operating system updates, configure the firewall, and keep your application running.\nBefore IaaS, getting a new server meant ordering hardware and waiting weeks for installation. With IaaS, the same server is ready in minutes, and you can delete it when you no longer need it.\nJust remember: IaaS removes the hardware burden, but it doesn't remove the server burden.\nWith IaaS, you usually pay for each hour or second a server is running, plus the storage you keep and outbound data transfer.\nEach of these gives you virtual machines. They work alongside other IaaS building blocks, such as virtual disks (Amazon EBS), storage for files and backups (Amazon S3), and private networks (Amazon VPC"
+    }
+   ]
+  },
+  {
+   "id": "c2672bc4978",
+   "kind": "free",
+   "score": 4.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
+   "sources": [
+    {
+     "source": "freeCodeCamp",
+     "trust": 2,
+     "url": "https://freecodecamp.org/news/python-in-marketing-a-practical-book",
+     "title": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
+     "lang": "en",
+     "extra": {},
+     "id": "2672bc4978ba5fd3",
+     "published": "2026-10-29T15:42+00:00",
+     "text": "Marketing has always involved wrangling lots of data. Before digital marketing, businesses had to track sales, customer purchases, coupon redemptions, store traffic, and survey responses to understand what their customers wanted.\nAnd while digital marketing didn't invent marketing analytics, it dramatically increased the amount of information out there.\nToday, almost every interaction can produce data. A person might see an advertisement, click it, visit a website, read an article, subscribe to an email list, open several emails, add a product to a shopping cart, leave the website, return through a search engine, and eventually make a purchase. And every one of those interactions can potentially become a data point.\nFor a marketer, this creates an incredible opportunity. It also creates a problem: having more data doesn't automatically result in better decisions.\nA company can have hundreds of thousands of customer records and still not know which customers are most valuable. A marketing team can have dozens of dashboards and still struggle to answer a simple question such as, \"Which campaign should we invest more money into?\"\nThis is where programming becomes useful. Python gives marketers a way to work with data programmatically. Instead of manually opening spreadsheets, copying formulas, filtering rows, and creating the same report every week, you can build reusable processes that perform those tasks automatically.\nMore importantly, Python allows you to go beyond simple reporting. You can use it to investigate customer behavior, discover patterns, perform statistical analysis, create predictive models, automate workflows, and build systems that continuously transform raw marketing data into useful information.\nThat doesn't mean every marketer needs to become a software engineer. It just means that programming can become another tool in a marketer's toolbox and this tutorial explains how.\nYou don't need to be an experienced programmer or marketer to use this book, but a few basics will make the examples easier to follow.\nYou can follow the book using sample data. You don't need access to a company's private customer data or paid marketing APIs. If you use real data, make sure you have permission to access it and avoid exposing personal or confidential information.\nThis book focuses on three major ideas:\nYou'll begin with Python fundamentals and gradually move into more advanced applications.\nBy the end, you'll build a marketing intelligence system that combines many of these concepts into one project.\nThere's an important difference between learning Python and learning to use Python.\nLearning Python means understanding syntax, data types, functions, loops, libraries, and other programming concepts. Using Python means taking those concepts and applying them to an actual problem.\nThis book focuses heavily on the second approach.\nYou'll still learn Python fundamentals, but the examples will consistently connect those fundamentals to marketing.\nInstead of simply writing:\nx = 10\ny = 20\nprint(x + y)\nwe'll work with things like:\ncampaign_budget = 10000\ncampaign_spend = 7350\nremaining_budget = campaign_budget - campaign_spend\nprint(remaining_budget)\nThe programming concept is the same, but the context is different.\nThat context is what makes the skill useful.\nPython doesn't know what a campaign is or what a customer is. And it doesn't know whether an advertisement is successful. Python simply processes the instructions you give it.\nThat means your first job is learning how to communicate with the computer.\nFortunately, you don't need to learn everything about Python before you can start working with marketing data. But you do need a practical foundation.\nProgramming can initially seem intimidating because computers are extremely literal.\nIf you tell a person: \"Calculate how much money we have left from the campaign budget,\" they can probably figure out what you mean.\nA computer needs explicit instructions. You need to tell it which values to use and which operation to perform.\nFor example:\nbudget = 10000\nspent = 7350\nremaining = budget - spent\nprint(remaining)\nThe output is:\n2650\nThe computer didn't need to understand marketing. It simply followed the instructions.\nThis is the basic relationship between you and a programming language.\nYou provide instructions, and Python translates those instructions into operations the computer can perform.\nOne of the most important programming skills is learning to break a large problem into smaller steps.\nImagine a marketing manager asks: \"Can you tell me which campaigns are performing poorly?\"\nThat sounds simple, but it actually contains several smaller questions.\nWhat does \"poorly\" mean?\nIs it:\nYou'll need to know what data you need, where that data is stored, how you should clean it, how to calculate the relevant metrics, and what threshold should determine whether a campaign is considered weak.\nOnce you break the problem apart, the programming becomes much easier.\nFor exam"
+    }
+   ]
+  },
+  {
+   "id": "c5e0e031f3d",
+   "kind": "free",
+   "score": 4.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
+   "sources": [
+    {
+     "source": "freeCodeCamp",
+     "trust": 2,
+     "url": "https://freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course",
+     "title": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
+     "lang": "en",
+     "extra": {},
+     "id": "5e0e031f3da3648d",
+     "published": "2026-10-29T20:48+00:00",
+     "text": "The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface.\nWe just published a MCP Security Fundamentals Course on the freeCodeCamp.org YouTube channel.\nThis course walks you through the mechanics of agent exploitation and how to defend against them.\nTraditional application security assumes deterministic code and predictable human or machine interactions. AI agents, however, introduce non-deterministic decision-makers right into your application logic. When an agent acts on untrusted data, classic bugs like command injection, privilege escalation, and token leakage execute at machine speed.\nThroughout the course, Dan frames these challenges around Simon Willison’s \"Lethal Trifecta\" framework, which is the dangerous convergence of three distinct capabilities:\nWhen an agent holds all three capabilities simultaneously, it becomes structurally vulnerable to prompt-driven exploitation. You will learn how to break this trifecta through architectural boundaries rather than relying on brittle prompt filters.\nWatch the full course for free on the freeCodeCamp.org YouTube channel and start hardening your AI agent integrations today (2-hour watch)."
+    }
+   ]
+  },
+  {
+   "id": "c12f114faf5",
+   "kind": "free",
+   "score": 4.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Build with Gemini 4 Argon – Fast-Track API Crash Course",
+   "sources": [
+    {
+     "source": "freeCodeCamp",
+     "trust": 2,
+     "url": "https://freecodecamp.org/news/build-with-gemini-4-argon-fast-track-api-crash-course",
+     "title": "Build with Gemini 4 Argon – Fast-Track API Crash Course",
+     "lang": "en",
+     "extra": {},
+     "id": "12f114faf53e0011",
+     "published": "2026-10-29T20:52+00:00",
+     "text": "Google just released Gemini 4 Argon which is its most capable model designed specifically for complex reasoning, advanced coding, math, and science.\nTo help you get building right away, we just published the Gemini 4 Argon API Crash Course on the freeCodeCamp.org YouTube channel. In just 10 minutes, you’ll walk through writing clean JavaScript to connect to the model, steer its reasoning, and build real applications.\nHere are the key concepts you will learn:\n- Configurable Thinking Levels\nLearn how to tune the model’s internal reasoning between low, medium, and high so you only pay for the computational depth your specific task requires.\n- Multi-Turn State with\nprevious_interaction_id\nMaintain context across back-and-forth prompts without manually passing full chat histories back into every API request.\n- Asynchronous Background Execution\nOffload heavy workloads directly to Google’s infrastructure without encountering client timeouts.\n- Insider DeepMind Insights\nHear directly from Google DeepMind Developer Experience engineer Jack Weatherspoon on how Argon handles autonomous tool use, complex 3D asset generation, and nuanced creative writing.\nCheck out the full crash course on the freeCodeCamp.org YouTube channel to set up your environment and make your first API call (10-minutes)."
+    }
+   ]
+  },
+  {
+   "id": "c92606ab96d",
+   "kind": "free",
+   "score": 4.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "High-Speed Decision Pipelines: Jev and Prefill-Only Inference from Scratch",
+   "sources": [
+    {
+     "source": "freeCodeCamp",
+     "trust": 2,
+     "url": "https://freecodecamp.org/news/high-speed-decision-pipelines-jev-and-prefill-only-inference-from-scratch",
+     "title": "High-Speed Decision Pipelines: Jev and Prefill-Only Inference from Scratch",
+     "lang": "en",
+     "extra": {},
+     "id": "92606ab96d647cfd",
+     "published": "2026-10-29T20:55+00:00",
+     "text": "Autoregressive token generation is notoriously slow and memory-intensive, especially when you only need a model to make a structured classification or routing decision rather than write out paragraphs of text.\nTo help engineers bypass autoregressive bottlenecks, freeCodeCamp just released the Jev Course: Prefill-Only Inference and Decision Models from Scratch.\nThis in-depth PyTorch guide walks you through building blazing-fast, decision-oriented architectures that process inputs entirely within the initial prefill stage.\nYou can watch the full Jev Course: Prefill-Only Inference and Decision Models from Scratch video on YouTube to start optimizing your custom language model inference workflows (2-hour watch)."
+    }
+   ]
+  },
+  {
+   "id": "c78e1d1c863",
+   "kind": "free",
+   "score": 4.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
+   "sources": [
+    {
+     "source": "freeCodeCamp",
+     "trust": 2,
+     "url": "https://freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course",
+     "title": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
+     "lang": "en",
+     "extra": {},
+     "id": "78e1d1c863cbb4af",
+     "published": "2026-10-29T21:00+00:00",
+     "text": "Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure.\nTo help developers and aspiring security analysts learn the fundamentals of offensive security legally and safely, we just released How Ethical Hackers Actually Break Into Systems on the freeCodeCamp.org YouTube channel.\nTaught by cybersecurity instructor Declan Middleton, this 2.5 hour crash course walks through terminal navigation, target reconnaissance, vulnerability assessment, web exploitation, and automation scripting against a dedicated Capture The Flag (CTF) virtual machine.\nCore Skills Covered\n- Linux and Terminal Operations\nMaster command line navigation, permission modeling, user management, and process execution inside Parrot OS.\n- Network Reconnaissance with Nmap\nScan target IPs to identify active hosts, open ports, running services, and specific software versions using stealth and decoy flags.\n- Web Content Discovery and Fuzzing\nEnumerate hidden directories, files, and endpoints using tools such as Dirsearch, FFuF, WhatWeb, and Nikto.\n- Request Analysis and Exploitation with Burp Suite\nIntercept, inspect, and modify HTTP requests to audit authentication workflows and execute file upload attacks with webshells.\n- Automated Security Tooling in Bash and Python\nWrite custom reconnaissance scripts to automate socket connections, banner grabbing, and HTTP header parsing without manual overhead.\nWatch the full tutorial on the freeCodeCamp.org YouTube channel to set up your isolated lab and practice ethical hacking techniques from scratch (3-hour watch)."
+    }
+   ]
+  },
+  {
+   "id": "c837e278444",
+   "kind": "free",
+   "score": 4.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
+   "sources": [
+    {
+     "source": "freeCodeCamp",
+     "trust": 2,
+     "url": "https://freecodecamp.org/news/ai-search-visibility",
+     "title": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
+     "lang": "en",
+     "extra": {},
+     "id": "837e27844404a642",
+     "published": "2026-10-29T21:53+00:00",
+     "text": "Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want, rank them, and give you a list of options.\nBut AI-powered search is changing that experience. If you ask ChatGPT, Gemini, Perplexity, or another AI system a question, you may not get a long list of links to check out. Instead, the system can interpret your question, gather information from different sources when applicable, and generate an answer directly.\nThis changes something important for websites and brands: what happens when there's no traditional ranking position to fight for?\nThis is where the idea of AI visibility comes in. Instead of asking only, \"Where does my website rank?\", businesses and publishers are increasingly asking a different question: \"Does the AI mention us when someone asks a relevant question?\"\nThat distinction may sound small, but it represents a major change in how information is discovered online. And it's what we'll explore here.\nIf you're trying to understand how a search engine and an answer engine really work, it comes down to how each handles information retrieval.\nTraditional search engines crawl the web, catalog pages in an index, run ranking algorithms against a user's keywords, and display candidate URLs ordered by perceived authority and link equity. The final decision of what to actually click on and read remains entirely in the hands of the person asking the question.\nAI search changes things up a bit. When a user enters a natural-language prompt, the AI model decomposes the underlying intent, identifies candidate information using Retrieval-Augmented Generation (an AI technique that improves the accuracy of LLM models) or its pre-trained parametric memory, reconciles conflicting viewpoints, and actively decides which resources or solutions to present.\nThe most critical takeaway is that ranking highly on Google doesn't guarantee an AI engine will mention you. In fact, an Ahrefs citation study analyzing thousands of prompts discovered that only about 12% of URLs cited by generative assistants like ChatGPT and Copilot actually ranked in Google's top 10 for the exact query.\nWhile Google’s own AI Overviews pull more frequently from conventional search results, standalone conversational engines construct independent answer graphs. AI visibility doesn't really care about claiming a specific URL slot. What matters more is whether your brand (and its resources) shows up as part of the machine’s direct answer.\nIf you strip away all the marketing language, AI visibility represents the probability and quality of your brand’s inclusion inside a synthesized response. Evaluating it requires breaking down three distinct dimensions:\nThis distinction matters because mentions and citations don't always happen together. An AI model can freely recommend your product because it understands your brand as a recognized entity, but cite a third-party tech review site as its primary factual reference. On the other hand, an engine might cite your documentation to clarify an API standard without ever suggesting your company as a vendor.\nIn order to appreciate how the AI chooses entities to include in its search results, we need to explore how modern retrieval engines work.\nCurrent systems don't use only matching algorithms. They also incorporate elements of semantic analysis (the process by which an AI or computer program interprets the real meaning and context of words), vector representations (a way of turning words, sentences, or data into lists of numbers so that computers can understand their meaning) and multi-source verification (the practice of cross-checking a claim or dataset across multiple independent and reliable origins to confirm its truth and accuracy).\nAfter the user provides the prompt, the system doesn't treat it as a set of words to be matched with an index. Using dense passage retrieval and Retrieval-Augmented Generation (RAG), the engine translates the request into a high-dimensional vector embedding of the real semantic context. The system then searches candidate passages on the internet, analyzing them through a variety of signals:\nCore Signal | What the Engine Evaluates | Why It Impacts the Response |\nSemantic Relevance | Meaning, context, and vector proximity | Resolves the user's underlying intent rather than verbatim text. |\nInformation Density | Presence of hard data, statistics, and verifiable claims | Models favor text rich in concrete facts over vague qualitative descriptions. |\nAttribution & Provenance | Citations and attributed external references | Transparent sourcing allows the model to ground its claims safely. |\nCross-Source Consensus | Corroboration across independent platforms | If independent review boards concur, models accept facts as the truth. |\nInformation Freshness | Recent timestamps and active updates | Ensures specs, pricing, and availability refl"
+    }
+   ]
+  },
+  {
+   "id": "c35ca5beb6f",
+   "kind": "free",
+   "score": 4.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "My Darkest Witch (IndieGala) Giveaway",
+   "sources": [
+    {
+     "source": "GamerPower",
+     "trust": 1,
+     "url": "https://gamerpower.com/my-darkest-witch-pc-giveaway",
+     "title": "My Darkest Witch (IndieGala) Giveaway",
+     "lang": "en",
+     "extra": {
+      "ends": "N/A",
+      "needs_official_link": true
+     },
+     "id": "35ca5beb6f0528b2",
+     "published": "2026-10-30T12:33+00:00",
+     "text": "My Darkest Witch (IndieGala) Giveaway. Worth: $4.99. Platforms: PC, DRM-Free. Ends: N/A. Score My Darkest Witch for free on IndieGala! My Darkest Witch is a 2d survival arena game with endless waves of enemies. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Login into your free IndieGala account.\r\n3. Scroll down and click the \"Add to Your Library\" button to add the game to your library.\r\n4. Go to \"My Library\" to find your game."
+    }
+   ]
+  },
+  {
+   "id": "cfedac2c9dc",
+   "kind": "free",
+   "score": 3.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Galaxy Kart (Mobile) Giveaway",
+   "sources": [
+    {
+     "source": "GamerPower",
+     "trust": 1,
+     "url": "https://gamerpower.com/galaxy-kart-mobile-giveaway",
+     "title": "Galaxy Kart (Mobile) Giveaway",
+     "lang": "en",
+     "extra": {
+      "ends": "2026-11-05 23:59:00",
+      "needs_official_link": true
+     },
+     "id": "fedac2c9dc39a5f8",
+     "published": "2026-10-29T10:28+00:00",
+     "text": "Galaxy Kart (Mobile) Giveaway. Worth: $4.99. Platforms: Android, iOS. Ends: 2026-11-05 23:59:00. Galaxy Kart (Mobile version) is free until November 5 on the Epic Games Store App for iPhone, iPad, and Android.\r\n\r\nNote: May not be available in all regions. How to get it: 1. Click the button using your phone to visit the Epic Games Store mobile page.\r\n2. Install the Epic Games Store App on your Android or iOS device.\r\n3. Open the App, scroll down to the \"Free Games\" section and click on the giveaway banner.\r\n4. Install the game and have fun!"
+    }
+   ]
+  },
+  {
+   "id": "cbd47b5d109",
+   "kind": "free",
+   "score": 3.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "A New Beginning: Final Cut (GOG) Giveaway",
+   "sources": [
+    {
+     "source": "GamerPower",
+     "trust": 1,
+     "url": "https://gamerpower.com/a-new-beginning-final-cut-gog-giveaway",
+     "title": "A New Beginning: Final Cut (GOG) Giveaway",
+     "lang": "en",
+     "extra": {
+      "ends": "2026-11-02 23:59:00",
+      "needs_official_link": true
+     },
+     "id": "bd47b5d1097b4d20",
+     "published": "2026-10-30T09:53+00:00",
+     "text": "A New Beginning: Final Cut (GOG) Giveaway. Worth: $9.99. Platforms: PC, GOG, DRM-Free. Ends: 2026-11-02 23:59:00. Score A New Beginning: Final Cut for free via GOG! A New Beginning - Final Cut is a cinematic adventure game with amazing graphics and great characters. Don´t miss it! How to get it: 1. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and login into your GOG account to unlock the game."
+    }
+   ]
+  },
+  {
+   "id": "market-2026-10-30",
+   "kind": "market",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Market 2026-10-30",
+   "sources": [
+    {
+     "id": "crypto",
+     "source": "CoinGecko",
+     "trust": 3,
+     "url": "https://market.local/crypto/2026-10-30/22",
+     "title": "Market snapshot crypto 2026-10-30",
+     "lang": "en",
+     "extra": {
+      "market": "crypto",
+      "day": "2026-10-30"
+     },
+     "published": "2026-10-30T22:01+00:00",
+     "text": "Bitcoin: $76,666 (-2.8% 24h)\nEthereum: $2,237 (-1.4% 24h)\nSolana: $95.36 (-2.1% 24h)\nToncoin: $1.17 (-1.1% 24h)"
+    }
+   ]
+  }
+ ]
+}
