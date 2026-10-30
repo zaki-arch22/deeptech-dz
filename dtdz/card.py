@@ -68,34 +68,132 @@ def _date(slot: str) -> str:
     return f"{d.day} {MONTHS[d.month - 1]} {d.year}"
 
 
+VIS_W = 500                      # left visual panel width
+TEXT_L = VIS_W + 40               # text column left edge
+
+
+def _hex(c: str) -> tuple[int, int, int]:
+    c = c.lstrip("#")
+    return tuple(int(c[i:i + 2], 16) for i in (0, 2, 4))
+
+
+def _lum(rgb) -> float:
+    r, g, b = (v / 255 for v in rgb)
+    return 0.2126 * r + 0.7152 * g + 0.0722 * b
+
+
+def _glow(img: Image.Image, center, radius: int, rgb, strength: float) -> Image.Image:
+    from PIL import ImageFilter
+    layer = Image.new("RGB", img.size, (0, 0, 0))
+    ImageDraw.Draw(layer).ellipse((center[0] - radius, center[1] - radius, center[0] + radius, center[1] + radius),
+                                  fill=tuple(int(v * strength) for v in rgb))
+    layer = layer.filter(ImageFilter.GaussianBlur(radius // 2))
+    from PIL import ImageChops
+    return ImageChops.add(img, layer)
+
+
+def _tile(slug: str, size: int) -> Image.Image:
+    """Rounded brand tile: brand colour background, white (or ink) logo / wordmark."""
+    from .brands import brand_color, brand_icon, brand_label
+    rgb = _hex(brand_color(slug))
+    lum = _lum(rgb)
+    bg = (26, 34, 44) if lum < 0.08 else rgb          # near-black brands get a dark slate tile
+    fg = (11, 15, 20) if _lum(bg) > 0.55 else (255, 255, 255)
+    tile = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    td = ImageDraw.Draw(tile)
+    td.rounded_rectangle((0, 0, size - 1, size - 1), radius=size // 5, fill=bg + (255,),
+                         outline=(255, 255, 255, 40) if bg == (26, 34, 44) else None, width=3)
+    icon = brand_icon(slug)
+    if icon:
+        g = Image.open(icon).convert("RGBA").resize((int(size * 0.56),) * 2, Image.LANCZOS)
+        colored = Image.new("RGBA", g.size, fg + (255,))
+        colored.putalpha(g.getchannel("A"))
+        tile.alpha_composite(colored, ((size - g.width) // 2, (size - g.height) // 2))
+    else:
+        label = brand_label(slug)
+        for fs in range(size // 3, 18, -4):
+            f = ImageFont.truetype(str(FONTS / "IBMPlexSansArabic-Bold.ttf"), fs)
+            bb = td.textbbox((0, 0), label, font=f)
+            if bb[2] - bb[0] <= size * 0.8:
+                break
+        td.text(((size - (bb[2] - bb[0])) / 2 - bb[0], (size - (bb[3] - bb[1])) / 2 - bb[1]), label, font=f, fill=fg)
+    return tile
+
+
+def _topic_badge(topic: str, accent_rgb, size: int) -> Image.Image:
+    from .brands import topic_icon
+    badge = Image.new("RGBA", (size, size), (0, 0, 0, 0))
+    bd = ImageDraw.Draw(badge)
+    bd.ellipse((0, 0, size - 1, size - 1), fill=(18, 26, 36, 255), outline=accent_rgb + (255,), width=6)
+    icon = topic_icon(topic)
+    if icon:
+        g = Image.open(icon).convert("RGBA").resize((int(size * 0.5),) * 2, Image.LANCZOS)
+        colored = Image.new("RGBA", g.size, accent_rgb + (255,))
+        colored.putalpha(g.getchannel("A"))
+        badge.alpha_composite(colored, ((size - g.width) // 2, (size - g.height) // 2))
+    return badge
+
+
+def _visual(img: Image.Image, post: dict, accent: str) -> Image.Image:
+    """Left panel: brand logos when the story is about a brand, otherwise a topic icon."""
+    from .brands import brand_color, detect_brands, detect_topic
+    text = (post.get("headline") or "") + "\n" + post["text"]
+    brands = post.get("brands") or detect_brands(text)
+    topic = post.get("topic") or detect_topic(text, post["type"])
+    cx, cy = VIS_W // 2 + 20, H // 2
+    accent_rgb = _hex(accent)
+    if brands:
+        glow_rgb = _hex(brand_color(brands[0]))
+        if _lum(glow_rgb) < 0.08:
+            glow_rgb = accent_rgb
+        img = _glow(img, (cx, cy), 260, glow_rgb, 0.45)
+        base = img.convert("RGBA")
+        if len(brands) == 1:
+            t = _tile(brands[0], 270)
+            base.alpha_composite(t, (cx - 135, cy - 135))
+        else:
+            a, b = _tile(brands[0], 190), _tile(brands[1], 190)
+            base.alpha_composite(a, (cx - 200, cy - 165))
+            base.alpha_composite(b, (cx + 10, cy - 25))
+            d = ImageDraw.Draw(base)
+            d.ellipse((cx - 22, cy - 42, cx + 22, cy + 2), fill=(11, 15, 20, 255), outline=(242, 245, 248, 255), width=3)
+            d.text((cx, cy - 20), "×", font=_font("Bold", 34), fill=TEXT, anchor="mm")
+        # small topic badge pinned to the corner of the logo group: tells *what* happened
+        if topic and post["type"] == "news":
+            badge = _topic_badge(topic, accent_rgb, 120)
+            base.alpha_composite(badge, (cx + 70, cy + 70) if len(brands) == 1 else (cx - 230, cy + 70))
+        return base.convert("RGB")
+    img = _glow(img, (cx, cy), 240, accent_rgb, 0.35)
+    base = img.convert("RGBA")
+    base.alpha_composite(_topic_badge(topic, accent_rgb, 300), (cx - 150, cy - 150))
+    return base.convert("RGB")
+
+
 def render(post: dict, out: str | Path) -> Path:
     ptype = post["type"]
     accent = ACCENT.get(ptype, BRAND)
     img = Image.new("RGB", (W, H), INK)
     d = ImageDraw.Draw(img)
-
-    # background: quiet dot grid + accent glow strip on the right edge
     for x in range(PAD // 2, W, 32):
         for y in range(PAD // 2, H, 32):
             d.point((x, y), fill=GRID)
+    img = _visual(img, post, accent)
+    d = ImageDraw.Draw(img)
     d.rectangle((W - 10, 0, W, H), fill=accent)
 
     right = W - PAD
-    # top row: category chip (right), date (left)
     chip_f = _font("SemiBold", 28)
     label = LABEL.get(ptype, "")
     lw = _len(chip_f, label)
     d.rounded_rectangle((right - lw - 40, PAD - 6, right, PAD + 50), radius=28, outline=accent, width=2)
     _rtl(d, right - 20, PAD - 2, label, chip_f, accent)
     date_f = _font("Regular", 26)
-    d.text((PAD, PAD + 2), _date(post["slot"]), font=date_f, fill=MUTED, direction="rtl", language="ar")
+    _rtl(d, right - lw - 64, PAD + 2, _date(post["slot"]), date_f, MUTED)
 
-    # headline (auto-fit) — market cards keep it shorter to leave room for figures
     title = _isolate(post.get("headline") or headline(post["text"]))
     data = _market_rows(post["text"]) if ptype == "market" else []
-    width = W - 2 * PAD - 20
-    # prefer 3 comfortable lines, accept 4 at smaller sizes; market cards keep 2
-    plans = [(2, (60, 54, 48, 44))] if data else [(3, (68, 62, 56, 52)), (4, (52, 48, 44, 40))]
+    width = right - TEXT_L
+    plans = [(2, (52, 48, 44, 40))] if data else [(3, (64, 58, 54, 50)), (4, (50, 46, 42, 38))]
     chosen = None
     for max_lines, sizes in plans:
         for size in sizes:
@@ -111,25 +209,24 @@ def render(post: dict, out: str | Path) -> Path:
         lines[-1] += "…"
         chosen = (f, size, lines)
     f, size, lines = chosen
-    lh = int(size * 1.45)
-    y = PAD + 110
+    lh = int(size * 1.5)
+    block = lh * len(lines)
+    y = (PAD + 70 + (H - PAD - 40)) // 2 - block // 2 if not data else PAD + 100
     for ln in lines:
         _rtl(d, right, y, ln, f, TEXT)
         y += lh
 
-    # market figures: label right (Arabic), value left (LTR) — a small table
     if data:
-        y += 28
-        row_f, val_f = _font("SemiBold", 34), _font("Bold", 34)
-        for label, value in data[:5]:
+        y += 20
+        row_f, val_f = _font("SemiBold", 30), _font("Bold", 30)
+        for label_, value in data[:5]:
             colour = "#4ADE80" if "+" in value else "#F87171" if re.search(r"[-−]\d", value) else TEXT
-            _rtl(d, right, y, label, row_f, MUTED)
-            d.text((PAD, y), value, font=val_f, fill=colour, direction="ltr")
-            d.line((PAD, y + 50, right, y + 50), fill=GRID, width=1)
-            y += 58
+            _rtl(d, right, y, label_, row_f, MUTED)
+            d.text((TEXT_L, y), value, font=val_f, fill=colour, direction="ltr")
+            d.line((TEXT_L, y + 46, right, y + 46), fill=LINE, width=1)
+            y += 52
 
-    # footer: brand mark
-    d.line((PAD, H - PAD - 24, right, H - PAD - 24), fill=LINE, width=2)
+    d.line((TEXT_L, H - PAD - 24, right, H - PAD - 24), fill=LINE, width=2)
     brand_f = _font("Bold", 30)
     bw = _len(brand_f, "Deeptech DZ")
     d.text((right - bw, H - PAD - 4), "Deeptech DZ", font=brand_f, fill=TEXT)

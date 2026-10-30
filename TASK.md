@@ -38,6 +38,10 @@ Daily mix across the 8 slots: 4 news, 1–2 free, 1 tool, 1 market (always the 1
      "text": "…\n\n#تصنيف\n◆ Deeptech DZ"}]
    ```
    `type` ∈ news, free, tool, market, odd. `id` = slot date and time. `headline` is required.
+   The card shows the logos of the brands in the story, detected automatically from the text.
+   Override only if detection would be wrong: `"brands": ["binance"]` (max 2 slugs from
+   dtdz/brands.py) and/or `"topic": "security"` (a file name in assets/topics). Render to check:
+   `python -m dtdz render queue/posts/<file>.json --outbox /tmp/cards`.
 5. Run `python -m dtdz check queue/posts/<file>.json`. Fix every failing post and re-run.
    After 3 failed attempts on one post, replace it with another cluster or drop the slot.
 6. Commit only the posts file: `git add queue/posts && git commit -m "posts <date> <run>" && git push`.

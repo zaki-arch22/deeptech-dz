@@ -99,3 +99,18 @@ def test_one_post_per_tick_and_cluster_from_store(tmp_path):
 def test_upcoming(tmp_path):
     root = setup_root(tmp_path, [post()])
     assert [p["id"] for p in upcoming(root, T0 - 3600)] == [post()["id"]]
+
+
+def test_brand_and_topic_detection():
+    from dtdz.brands import detect_brands, detect_topic
+    assert detect_brands("بينانس تتعرض لأكبر سرقة") == ["binance"]
+    assert detect_brands("حدود شات جي بي تي من أوبن إيه آي") == ["chatgpt"]   # product beats parent
+    assert detect_brands("تويوتا ووايمو تختبران") == ["toyota", "waymo"]
+    assert detect_brands("خبر عن الطقس") == []
+    assert detect_topic("ثغرة اختراق خطيرة", "news") == "security"
+    assert detect_topic("أي شيء", "free") == "free"
+
+
+def test_card_with_brands_renders(tmp_path):
+    p = post(headline="تويوتا ووايمو في اليابان") | {"brands": ["toyota", "waymo"]}
+    assert Image.open(render(p, tmp_path / "b.png")).size == (1280, 720)

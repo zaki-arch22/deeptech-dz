@@ -1,0 +1,406 @@
+{
+"binance": {
+"title": "Binance",
+"hex": "F0B90B"
+},
+"reddit": {
+"title": "Reddit",
+"hex": "FF4500"
+},
+"meta": {
+"title": "Meta",
+"hex": "0467DF"
+},
+"google": {
+"title": "Google",
+"hex": "4285F4"
+},
+"apple": {
+"title": "Apple",
+"hex": "000000"
+},
+"samsung": {
+"title": "Samsung",
+"hex": "1428A0"
+},
+"whatsapp": {
+"title": "WhatsApp",
+"hex": "25D366"
+},
+"telegram": {
+"title": "Telegram",
+"hex": "26A5E4"
+},
+"tiktok": {
+"title": "TikTok",
+"hex": "000000"
+},
+"youtube": {
+"title": "YouTube",
+"hex": "FF0000"
+},
+"instagram": {
+"title": "Instagram",
+"hex": "FF0069"
+},
+"facebook": {
+"title": "Facebook",
+"hex": "0866FF"
+},
+"x": {
+"title": "X",
+"hex": "000000"
+},
+"netflix": {
+"title": "Netflix",
+"hex": "E50914"
+},
+"nvidia": {
+"title": "NVIDIA",
+"hex": "76B900"
+},
+"tesla": {
+"title": "Tesla",
+"hex": "CC0000"
+},
+"bitcoin": {
+"title": "Bitcoin",
+"hex": "F7931A"
+},
+"ethereum": {
+"title": "Ethereum",
+"hex": "3C3C3D"
+},
+"android": {
+"title": "Android",
+"hex": "3DDC84"
+},
+"ios": {
+"title": "iOS",
+"hex": "000000"
+},
+"playstation": {
+"title": "PlayStation",
+"hex": "0070D1"
+},
+"steam": {
+"title": "Steam",
+"hex": "000000"
+},
+"epicgames": {
+"title": "Epic Games",
+"hex": "313131"
+},
+"toyota": {
+"title": "Toyota",
+"hex": "EB0A1E"
+},
+"anthropic": {
+"title": "Anthropic",
+"hex": "191919"
+},
+"claude": {
+"title": "Claude",
+"hex": "D97757"
+},
+"googlegemini": {
+"title": "Google Gemini",
+"hex": "8E75B2"
+},
+"perplexity": {
+"title": "Perplexity",
+"hex": "1FB8CD"
+},
+"spotify": {
+"title": "Spotify",
+"hex": "1ED760"
+},
+"snapchat": {
+"title": "Snapchat",
+"hex": "FFFC00"
+},
+"discord": {
+"title": "Discord",
+"hex": "5865F2"
+},
+"github": {
+"title": "GitHub",
+"hex": "181717"
+},
+"huawei": {
+"title": "Huawei",
+"hex": "FF0000"
+},
+"xiaomi": {
+"title": "Xiaomi",
+"hex": "FF6900"
+},
+"oneplus": {
+"title": "OnePlus",
+"hex": "F5010C"
+},
+"intel": {
+"title": "Intel",
+"hex": "0071C5"
+},
+"amd": {
+"title": "AMD",
+"hex": "ED1C24"
+},
+"qualcomm": {
+"title": "Qualcomm",
+"hex": "3253DC"
+},
+"linux": {
+"title": "Linux",
+"hex": "FCC624"
+},
+"ubuntu": {
+"title": "Ubuntu",
+"hex": "E95420"
+},
+"firefox": {
+"title": "Firefox",
+"hex": "FF7139"
+},
+"googlechrome": {
+"title": "Google Chrome",
+"hex": "4285F4"
+},
+"tether": {
+"title": "Tether",
+"hex": "50AF95"
+},
+"solana": {
+"title": "Solana",
+"hex": "9945FF"
+},
+"ton": {
+"title": "TON",
+"hex": "0098EA"
+},
+"coinbase": {
+"title": "Coinbase",
+"hex": "0052FF"
+},
+"okx": {
+"title": "OKX",
+"hex": "000000"
+},
+"visa": {
+"title": "Visa",
+"hex": "1A1F71"
+},
+"mastercard": {
+"title": "MasterCard",
+"hex": "EB001B"
+},
+"paypal": {
+"title": "PayPal",
+"hex": "002991"
+},
+"uber": {
+"title": "Uber",
+"hex": "000000"
+},
+"airbnb": {
+"title": "Airbnb",
+"hex": "FF5A5F"
+},
+"spacex": {
+"title": "SpaceX",
+"hex": "000000"
+},
+"ubisoft": {
+"title": "Ubisoft",
+"hex": "000000"
+},
+"ea": {
+"title": "EA",
+"hex": "000000"
+},
+"roblox": {
+"title": "Roblox",
+"hex": "000000"
+},
+"fortnite": {
+"title": "Fortnite",
+"hex": "000000"
+},
+"valve": {
+"title": "Valve",
+"hex": "F74843"
+},
+"gmail": {
+"title": "Gmail",
+"hex": "EA4335"
+},
+"googlemaps": {
+"title": "Google Maps",
+"hex": "4285F4"
+},
+"googleplay": {
+"title": "Google Play",
+"hex": "414141"
+},
+"appstore": {
+"title": "App Store",
+"hex": "0D96F6"
+},
+"icloud": {
+"title": "iCloud",
+"hex": "3693F3"
+},
+"threads": {
+"title": "Threads",
+"hex": "000000"
+},
+"twitch": {
+"title": "Twitch",
+"hex": "9146FF"
+},
+"kick": {
+"title": "Kick",
+"hex": "53FC19"
+},
+"aliexpress": {
+"title": "AliExpress",
+"hex": "FF4747"
+},
+"baidu": {
+"title": "Baidu",
+"hex": "2932E1"
+},
+"wechat": {
+"title": "WeChat",
+"hex": "07C160"
+},
+"bytedance": {
+"title": "ByteDance",
+"hex": "3C8CFF"
+},
+"arm": {
+"title": "Arm",
+"hex": "0091BD"
+},
+"asus": {
+"title": "ASUS",
+"hex": "000000"
+},
+"lenovo": {
+"title": "Lenovo",
+"hex": "E2231A"
+},
+"sony": {
+"title": "Sony",
+"hex": "FFFFFF"
+},
+"lg": {
+"title": "LG",
+"hex": "A50034"
+},
+"oppo": {
+"title": "OPPO",
+"hex": "2D683D"
+},
+"vivo": {
+"title": "vivo",
+"hex": "415FFF"
+},
+"motorola": {
+"title": "Motorola",
+"hex": "E1140A"
+},
+"nokia": {
+"title": "Nokia",
+"hex": "005AFF"
+},
+"vodafone": {
+"title": "Vodafone",
+"hex": "E60000"
+},
+"deepseek": {
+"title": "DeepSeek",
+"hex": "5786FE"
+},
+"mistralai": {
+"title": "Mistral AI",
+"hex": "FA520F"
+},
+"huggingface": {
+"title": "Hugging Face",
+"hex": "FFD21E"
+},
+"ollama": {
+"title": "Ollama",
+"hex": "000000"
+},
+"cursor": {
+"title": "Cursor",
+"hex": "000000"
+},
+"zoom": {
+"title": "Zoom",
+"hex": "0B5CFF"
+},
+"notion": {
+"title": "Notion",
+"hex": "000000"
+},
+"figma": {
+"title": "Figma",
+"hex": "F24E1E"
+},
+"docker": {
+"title": "Docker",
+"hex": "2496ED"
+},
+"cloudflare": {
+"title": "Cloudflare",
+"hex": "F38020"
+},
+"signal": {
+"title": "Signal",
+"hex": "3B45FD"
+},
+"viber": {
+"title": "Viber",
+"hex": "7360F2"
+},
+"duolingo": {
+"title": "Duolingo",
+"hex": "58CC02"
+},
+"coursera": {
+"title": "Coursera",
+"hex": "0056D2"
+},
+"udemy": {
+"title": "Udemy",
+"hex": "A435F0"
+},
+"khanacademy": {
+"title": "Khan Academy",
+"hex": "14BF96"
+},
+"freecodecamp": {
+"title": "freeCodeCamp",
+"hex": "0A0A23"
+},
+"opera": {
+"title": "Opera",
+"hex": "FF1B2D"
+},
+"brave": {
+"title": "Brave",
+"hex": "FB542B"
+},
+"duckduckgo": {
+"title": "DuckDuckGo",
+"hex": "DE5833"
+},
+"waze": {
+"title": "Waze",
+"hex": "33CCFF"
+}
+}
