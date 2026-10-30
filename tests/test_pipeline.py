@@ -44,7 +44,7 @@ GOOD = (
 
 def post(text=GOOD, **kw):
     return {"id": "2026-10-31-0830", "slot": "2026-10-31T08:30:00+01:00", "type": "news",
-            "cluster_id": "cx", "text": text, **kw}
+            "cluster_id": "cx", "text": text, "logos": [{"name": "Nimbus Labs", "domain": "site0.com"}], **kw}
 
 
 # ---------- text ----------
@@ -205,3 +205,9 @@ def test_arabic_first_and_headline():
     assert any("headline must start" in e for e in errs)
     assert any("number 60" in e for e in check_post(post(headline="شريحة توفر 60% من البطارية"),
                                                     cluster(), BANNED, [], NOW))
+
+
+def test_every_post_needs_a_logo():
+    errs = check_post(post(logos=[]), cluster(), BANNED, [], NOW)
+    assert any("no brand logo" in e for e in errs)
+    assert any("domain" in e for e in check_post(post(logos=[{"name": "X"}]), cluster(), BANNED, [], NOW))

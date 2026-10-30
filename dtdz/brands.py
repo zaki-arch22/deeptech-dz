@@ -135,6 +135,37 @@ TOPICS: dict[str, list[str]] = {
     "social": ["منصه", "تواصل اجتماعي", "متابعين"],
     "chip": ["معالج", "رقاقه", "شريحه", "رقائق"],
 }
+# official site per brand: used to fetch the real, full-colour logo on the PC (cached in data/logos)
+DOMAINS = {
+    "binance": "binance.com", "openai": "openai.com", "chatgpt": "chatgpt.com", "reddit": "reddit.com",
+    "meta": "meta.com", "google": "google.com", "googlegemini": "gemini.google.com", "apple": "apple.com",
+    "ios": "apple.com", "microsoft": "microsoft.com", "windows": "microsoft.com", "amazon": "amazon.com",
+    "samsung": "samsung.com", "whatsapp": "whatsapp.com", "telegram": "telegram.org", "tiktok": "tiktok.com",
+    "youtube": "youtube.com", "instagram": "instagram.com", "facebook": "facebook.com", "x": "x.com",
+    "threads": "threads.net", "netflix": "netflix.com", "nvidia": "nvidia.com", "tesla": "tesla.com",
+    "spacex": "spacex.com", "starlink": "starlink.com", "bitcoin": "bitcoin.org", "ethereum": "ethereum.org",
+    "tether": "tether.to", "solana": "solana.com", "ton": "ton.org", "coinbase": "coinbase.com",
+    "bybit": "bybit.com", "okx": "okx.com", "android": "android.com", "playstation": "playstation.com",
+    "xbox": "xbox.com", "nintendo": "nintendo.com", "steam": "store.steampowered.com",
+    "epicgames": "epicgames.com", "roblox": "roblox.com", "minecraft": "minecraft.net", "ubisoft": "ubisoft.com",
+    "toyota": "toyota.com", "waymo": "waymo.com", "uber": "uber.com", "anthropic": "anthropic.com",
+    "claude": "claude.ai", "perplexity": "perplexity.ai", "deepseek": "deepseek.com", "mistralai": "mistral.ai",
+    "huggingface": "huggingface.co", "spotify": "spotify.com", "snapchat": "snapchat.com",
+    "discord": "discord.com", "github": "github.com", "huawei": "huawei.com", "xiaomi": "mi.com",
+    "oneplus": "oneplus.com", "oppo": "oppo.com", "intel": "intel.com", "amd": "amd.com",
+    "qualcomm": "qualcomm.com", "googlechrome": "google.com/chrome", "firefox": "firefox.com",
+    "gmail": "mail.google.com", "googleplay": "play.google.com", "appstore": "apps.apple.com",
+    "paypal": "paypal.com", "visa": "visa.com", "mastercard": "mastercard.com", "aliexpress": "aliexpress.com",
+    "temu": "temu.com", "shein": "shein.com", "twitch": "twitch.tv", "kick": "kick.com", "zoom": "zoom.us",
+    "notion": "notion.so", "canva": "canva.com", "adobe": "adobe.com", "capcut": "capcut.com",
+    "signal": "signal.org", "truecaller": "truecaller.com", "duolingo": "duolingo.com",
+    "coursera": "coursera.org", "udemy": "udemy.com", "khanacademy": "khanacademy.org",
+    "freecodecamp": "freecodecamp.org", "linux": "kernel.org", "ubuntu": "ubuntu.com", "sony": "sony.com",
+    "lenovo": "lenovo.com", "asus": "asus.com", "cloudflare": "cloudflare.com", "docker": "docker.com",
+    "cursor": "cursor.com", "duckduckgo": "duckduckgo.com", "brave": "brave.com", "opera": "opera.com",
+    "waze": "waze.com",
+}
+
 TYPE_TOPIC = {"free": "free", "market": "money", "tool": "tool", "odd": "odd"}
 MAX_BRANDS = 2
 
@@ -212,3 +243,88 @@ def brand_label(slug: str) -> str:
 def topic_icon(topic: str) -> Path | None:
     p = ASSETS / "topics" / f"{topic}.png"
     return p if p.exists() else None
+
+
+# ---------- real logos ----------
+LOGO_CACHE = ASSETS.parent / "data" / "logos"
+GOOD_SIZE = 128
+
+
+def _fetch(url: str):
+    """Download an image; None on any failure. Kept tiny so a slow site never blocks publishing."""
+    try:
+        import io
+        import httpx
+        from PIL import Image
+        r = httpx.get(url, timeout=8, follow_redirects=True, headers={"User-Agent": "Mozilla/5.0 DeeptechDZ"})
+        if r.status_code != 200 or not r.headers.get("content-type", "").startswith("image"):
+            return None
+        return Image.open(io.BytesIO(r.content)).convert("RGBA")
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def _wiki_logo(title: str):
+    try:
+        import httpx
+        r = httpx.get("https://en.wikipedia.org/w/api.php", timeout=8, params={
+            "action": "query", "titles": title, "prop": "pageimages", "piprop": "thumbnail",
+            "pithumbsize": 400, "format": "json", "redirects": 1})
+        for page in r.json()["query"]["pages"].values():
+            src = (page.get("thumbnail") or {}).get("source")
+            if src:
+                return _fetch(src)
+    except Exception:  # noqa: BLE001
+        return None
+    return None
+
+
+def real_logo(key: str, domain: str | None, wiki: str | None = None):
+    """Best available original logo as RGBA, cached on disk. Order: big site icon, Wikipedia logo,
+    then a small site icon. Returns None when nothing could be fetched (offline)."""
+    from PIL import Image
+    LOGO_CACHE.mkdir(parents=True, exist_ok=True)
+    cached = LOGO_CACHE / f"{key}.png"
+    miss = LOGO_CACHE / f"{key}.miss"
+    if cached.exists():
+        return Image.open(cached).convert("RGBA")
+    if miss.exists() and miss.stat().st_mtime > __import__("time").time() - 86400:
+        return None
+    small = None
+    candidates = []
+    if domain:
+        candidates.append(lambda: _fetch(f"https://www.google.com/s2/favicons?domain={domain}&sz=256"))
+        candidates.append(lambda: _fetch(f"https://{domain.split('/')[0]}/apple-touch-icon.png"))
+    if wiki:
+        candidates.append(lambda: _wiki_logo(wiki))
+    for get in candidates:
+        im = get()
+        if im is None:
+            continue
+        if min(im.size) >= GOOD_SIZE:
+            im.save(cached)
+            return im
+        if small is None or min(im.size) > min(small.size):
+            small = im
+    if small is not None and min(small.size) >= 32:
+        small.save(cached)
+        return small
+    miss.touch()
+    return None
+
+
+def logo_specs(post: dict, text: str) -> list[dict]:
+    """What the card should show: explicit `logos` first, then `brands`, then detected brands."""
+    specs = []
+    for lg in post.get("logos") or []:
+        name = lg.get("name") or lg.get("domain", "")
+        specs.append({"key": re.sub(r"[^a-z0-9]+", "-", (lg.get("domain") or name).lower()).strip("-"),
+                      "label": name, "domain": lg.get("domain"), "wiki": lg.get("wiki"), "slug": lg.get("slug")})
+    for slug in post.get("brands") or detect_brands(text):
+        if len(specs) >= MAX_BRANDS:
+            break
+        if any(s.get("slug") == slug for s in specs):
+            continue
+        specs.append({"key": slug, "label": brand_label(slug), "domain": DOMAINS.get(slug),
+                      "wiki": brand_label(slug), "slug": slug})
+    return specs[:MAX_BRANDS]

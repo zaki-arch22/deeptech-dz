@@ -92,31 +92,51 @@ def _glow(img: Image.Image, center, radius: int, rgb, strength: float) -> Image.
     return ImageChops.add(img, layer)
 
 
-def _tile(slug: str, size: int) -> Image.Image:
-    """Rounded brand tile: brand colour background, white (or ink) logo / wordmark."""
-    from .brands import brand_color, brand_icon, brand_label
-    rgb = _hex(brand_color(slug))
-    lum = _lum(rgb)
-    bg = (26, 34, 44) if lum < 0.08 else rgb          # near-black brands get a dark slate tile
-    fg = (11, 15, 20) if _lum(bg) > 0.55 else (255, 255, 255)
+def _fit(im: Image.Image, box: int) -> Image.Image:
+    bb = im.getbbox()
+    if bb:
+        im = im.crop(bb)
+    scale = box / max(im.size)
+    return im.resize((max(1, int(im.width * scale)), max(1, int(im.height * scale))), Image.LANCZOS)
+
+
+def _tile(spec: dict, size: int) -> Image.Image:
+    """Logo tile. Prefers the brand's real full-colour logo on white; then its official glyph in brand
+    colour; a wordmark only if both are unavailable (offline and unknown brand)."""
+    from .brands import brand_color, brand_icon, real_logo
+    slug = spec.get("slug")
     tile = Image.new("RGBA", (size, size), (0, 0, 0, 0))
     td = ImageDraw.Draw(tile)
-    td.rounded_rectangle((0, 0, size - 1, size - 1), radius=size // 5, fill=bg + (255,),
-                         outline=(255, 255, 255, 40) if bg == (26, 34, 44) else None, width=3)
-    icon = brand_icon(slug)
-    if icon:
-        g = Image.open(icon).convert("RGBA").resize((int(size * 0.56),) * 2, Image.LANCZOS)
-        colored = Image.new("RGBA", g.size, fg + (255,))
+    real = real_logo(spec["key"], spec.get("domain"), spec.get("wiki"))
+    glyph = brand_icon(slug) if slug else None
+    rgb = _hex(brand_color(slug)) if slug else (34, 211, 238)
+
+    def white_tile():
+        td.rounded_rectangle((0, 0, size - 1, size - 1), radius=size // 5, fill=(255, 255, 255, 255))
+
+    if real is not None and (min(real.size) >= 128 or glyph is None):
+        white_tile()
+        lg = _fit(real, int(size * (0.66 if min(real.size) >= 128 else 0.5)))
+        tile.alpha_composite(lg, ((size - lg.width) // 2, (size - lg.height) // 2))
+        return tile
+    if glyph is not None:
+        light = _lum(rgb) > 0.85
+        bg = (17, 24, 32, 255) if light else (255, 255, 255, 255)
+        td.rounded_rectangle((0, 0, size - 1, size - 1), radius=size // 5, fill=bg)
+        g = _fit(Image.open(glyph).convert("RGBA"), int(size * 0.58))
+        colored = Image.new("RGBA", g.size, rgb + (255,))
         colored.putalpha(g.getchannel("A"))
         tile.alpha_composite(colored, ((size - g.width) // 2, (size - g.height) // 2))
-    else:
-        label = brand_label(slug)
-        for fs in range(size // 3, 18, -4):
-            f = ImageFont.truetype(str(FONTS / "IBMPlexSansArabic-Bold.ttf"), fs)
-            bb = td.textbbox((0, 0), label, font=f)
-            if bb[2] - bb[0] <= size * 0.8:
-                break
-        td.text(((size - (bb[2] - bb[0])) / 2 - bb[0], (size - (bb[3] - bb[1])) / 2 - bb[1]), label, font=f, fill=fg)
+        return tile
+    td.rounded_rectangle((0, 0, size - 1, size - 1), radius=size // 5, fill=rgb + (255,))
+    label = spec.get("label") or slug or "?"
+    fg = (11, 15, 20) if _lum(rgb) > 0.55 else (255, 255, 255)
+    for fs in range(size // 3, 18, -4):
+        f = ImageFont.truetype(str(FONTS / "IBMPlexSansArabic-Bold.ttf"), fs)
+        bb = td.textbbox((0, 0), label, font=f)
+        if bb[2] - bb[0] <= size * 0.8:
+            break
+    td.text(((size - (bb[2] - bb[0])) / 2 - bb[0], (size - (bb[3] - bb[1])) / 2 - bb[1]), label, font=f, fill=fg)
     return tile
 
 
@@ -136,23 +156,24 @@ def _topic_badge(topic: str, accent_rgb, size: int) -> Image.Image:
 
 def _visual(img: Image.Image, post: dict, accent: str) -> Image.Image:
     """Left panel: brand logos when the story is about a brand, otherwise a topic icon."""
-    from .brands import brand_color, detect_brands, detect_topic
+    from .brands import brand_color, detect_topic, logo_specs
     text = (post.get("headline") or "") + "\n" + post["text"]
-    brands = post.get("brands") or detect_brands(text)
+    specs = logo_specs(post, text)
     topic = post.get("topic") or detect_topic(text, post["type"])
     cx, cy = VIS_W // 2 + 20, H // 2
     accent_rgb = _hex(accent)
-    if brands:
-        glow_rgb = _hex(brand_color(brands[0]))
-        if _lum(glow_rgb) < 0.08:
+    brands = specs
+    if specs:
+        glow_rgb = _hex(brand_color(specs[0]["slug"])) if specs[0].get("slug") else accent_rgb
+        if _lum(glow_rgb) < 0.08 or _lum(glow_rgb) > 0.9:
             glow_rgb = accent_rgb
         img = _glow(img, (cx, cy), 260, glow_rgb, 0.45)
         base = img.convert("RGBA")
-        if len(brands) == 1:
-            t = _tile(brands[0], 270)
+        if len(specs) == 1:
+            t = _tile(specs[0], 270)
             base.alpha_composite(t, (cx - 135, cy - 135))
         else:
-            a, b = _tile(brands[0], 190), _tile(brands[1], 190)
+            a, b = _tile(specs[0], 190), _tile(specs[1], 190)
             base.alpha_composite(a, (cx - 200, cy - 165))
             base.alpha_composite(b, (cx + 10, cy - 25))
             d = ImageDraw.Draw(base)

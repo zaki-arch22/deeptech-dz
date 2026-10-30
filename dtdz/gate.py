@@ -122,6 +122,14 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
         first = next((ch for ch in post["headline"] if ch.isalpha()), "")
         if first and not ("\u0600" <= first <= "\u06FF"):
             err.append("format: headline must start with an Arabic word")
+    # every card must carry at least one real brand logo
+    from .brands import logo_specs
+    for lg in post.get("logos") or []:
+        if not lg.get("domain"):
+            err.append("visual: each entry in 'logos' needs the brand's official 'domain'")
+    if not logo_specs(post, post.get("headline", "") + "\n" + text):
+        err.append("visual: no brand logo — name the company/app/coin in the text, or add "
+                   '"logos": [{"name": "...", "domain": "official-site.com"}]')
     if len(text) > MAX_CHARS:
         err.append(f"format: {len(text)} characters (max {MAX_CHARS}, Telegram caption limit)")
     n_words = len(re.findall(r"\S+", URL.sub("", body)))

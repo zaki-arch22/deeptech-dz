@@ -1,0 +1,15 @@
+import sys
+from pathlib import Path
+
+import pytest
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+
+@pytest.fixture(autouse=True)
+def offline_logos(tmp_path, monkeypatch):
+    """Tests never touch the network: logo fetching returns nothing, cache goes to tmp."""
+    import dtdz.brands as b
+    monkeypatch.setattr(b, "_fetch", lambda url: None)
+    monkeypatch.setattr(b, "_wiki_logo", lambda title: None)
+    monkeypatch.setattr(b, "LOGO_CACHE", tmp_path / "logos")
