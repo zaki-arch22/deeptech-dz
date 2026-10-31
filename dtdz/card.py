@@ -276,12 +276,39 @@ def _hero(post: dict, photo: Image.Image, accent: str, specs: list[dict], credit
     return base.convert("RGB")
 
 
+MIN_PHOTO_W, MIN_PHOTO_H = 1200, 675      # only sharp, high-resolution photos go full-card
+
+
+def edit_photo(photo: Image.Image, spec: dict) -> Image.Image:
+    """Optional edits that make the photo tell the story:
+    crop  [x0, y0, x1, y1] as fractions — zoom on the subject
+    blur  [x0, y0, x1, y1] as fractions — e.g. show a map area being blurred
+    focus [x, y] — keep this point visible when the card crops the photo"""
+    from PIL import ImageFilter
+    im = photo.convert("RGB")
+    if spec.get("crop"):
+        x0, y0, x1, y1 = spec["crop"]
+        im = im.crop((int(x0 * im.width), int(y0 * im.height), int(x1 * im.width), int(y1 * im.height)))
+    if spec.get("blur"):
+        x0, y0, x1, y1 = spec["blur"]
+        box = (int(x0 * im.width), int(y0 * im.height), int(x1 * im.width), int(y1 * im.height))
+        region = im.crop(box).filter(ImageFilter.GaussianBlur(max(12, (box[2] - box[0]) // 18)))
+        im.paste(region, box)
+    return im
+
+
 def render(post: dict, out: str | Path) -> Path:
     if post.get("photo") and post.get("layout", "hero") == "hero":
         from .brands import logo_specs, photo_for
         photo = photo_for(post["photo"])
+        if photo is not None and (photo.width < MIN_PHOTO_W or photo.height < MIN_PHOTO_H):
+            import logging
+            logging.getLogger("dtdz.card").warning("photo too small (%sx%s) for %s — logo layout used",
+                                                  photo.width, photo.height, post.get("id"))
+            photo = None
         if photo is not None:
             ph = post["photo"]
+            photo = edit_photo(photo, ph)
             credit = ph.get("credit") or ("صورة: ويكيميديا كومنز" if ph.get("commons") else
                                           "صورة: ويكيبيديا" if ph.get("wiki") else "صورة: المصدر الرسمي")
             accent = ACCENT.get("breaking" if post.get("breaking") else post["type"], BRAND)

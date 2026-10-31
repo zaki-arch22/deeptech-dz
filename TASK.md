@@ -93,6 +93,23 @@ them if something better is happening; never post two of the same kind back to b
 - Figures and lists as short bullet lines starting with `•`.
 - A strong first line; for app/site posts, open with the problem or the "wow" result.
 - No hashtags at all (the gate rejects them).
+- **THE PHOTO IS THE MOST IMPORTANT PART OF THE POST.** On Telegram people decide in one second from
+  the image whether to read. Spend real effort on it:
+  - **Striking, not merely related.** Pick the image that shows the most dramatic moment or detail of
+    the story: the rocket at ignition, the cracked screen up close, the blurred military base on the
+    map, the hacker's warning screen, the giant data center hall — not a distant, flat, dull view.
+    Ask: "would this image stop my thumb while scrolling?" If not, keep searching.
+  - **Very high quality only:** at least 1600 px wide (1200×675 is the hard minimum — smaller photos
+    are refused and the card falls back to logos). Sharp, well lit, no watermark, no compression
+    artefacts, no text on it. Look at several candidates and choose the best one — never take the
+    first search result. `{"commons": "..."}` search is a last resort; prefer an exact image URL
+    you have opened and checked.
+  - **Make the image tell the story** with edits when useful:
+    `"photo": {"url": "...", "crop": [0.2, 0.1, 0.8, 0.7]}` zooms on the subject;
+    `"blur": [x0, y0, x1, y1]` blurs a region (fractions of the image).
+    Example (owner's feedback): "Apple Maps blurs NASA and Air Force bases" was illustrated with a far,
+    grey aerial view — weak. Better: a sharp public-domain satellite/aerial photo of Cape Canaveral
+    launch pads with a rocket, with `blur` applied over the base, so the reader SEES what Apple did.
 - **A real photo OF THE STORY ITSELF in almost every post** — not a look-alike or a generic
   illustration. Search the whole web (WebSearch / WebFetch) for the actual image:
   - the product, device, car, app screen, game, building, launch… exactly the one in the news;
