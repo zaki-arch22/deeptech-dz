@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T00:16:31+00:00",
+ "generated_at": "2026-10-31T00:47:05+00:00",
  "clusters": [
   {
    "id": "cfee3176e76",
@@ -42,6 +42,39 @@
      "id": "77ecd9797608dcc5",
      "published": "2026-10-30T06:12+00:00",
      "text": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical operations and its eventual controlled deorbit."
+    }
+   ]
+  },
+  {
+   "id": "c6f116f1e09",
+   "kind": "news",
+   "score": 10.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope",
+     "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+     "lang": "en",
+     "extra": {},
+     "id": "6f116f1e09fd6959",
+     "published": "2026-10-30T14:51+00:00",
+     "text": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.\n“Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,” said NASA Administrator Jared Isaacman. “If there are innovative and cost-effective ways to extend the life of an asset already on orbit, we owe it to the American taxpayer and the scientific community to explore them. Extending Hubble’s life would mean more discoveries, more science, and more opportunities to expand our understanding of the universe.”\nThe Request for Information seeks commercial interest in: potentially conducting a mission to boost Hubble to a higher altitude to extend its science lifetime; servicing Hubble to enhance its capabilities; or performing a safe, controlled re-entry into Earth’s atmosphere or orbital disposal at the end of Hubble’s mission.\n“Hubble is a national icon that has fundamentally changed how humanity views our universe for more than 35 years,” said Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters in Washington. “Commercial industry has rapidly evolved in recent years to offer new capabilities for in-space satellite capture and servicing. Given the time we have until Hubble’s anticipated re-entry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.”\nThe Request for Information is available online and will remain open for responses until 3 p.m. EST, Monday, Nov. 30.\nLike all spacecraft in low Earth orbit, Hubble’s altitude is slowly decreasing over time because of atmospheric drag. Hubble does not have a propulsion system to maintain its own orbit, and analysis predicts Hubble is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As such, NASA anticipates that a mission would need to take place by 2032.\nThe Hubble Space Telescope has been operating for more than three decades and continues to make ground-breaking discoveries that shape our fundamental understanding of the universe. Hubble is a project of international cooperation between NASA and ESA (European Space Agency). NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope and mission operations. Lockheed Martin Space, based in Denver, also supports mission operations at Goddard. The Space Telescope Science Institute in Baltimore, which is operated by the Association of Universities for Research in Astronomy, conducts Hubble science operations for NASA.\nTo learn more about NASA’s Hubble Space Telescope, visit:\nMedia Contacts:\nAlise Fisher\nHeadquarters, Washington\n202-358-2546\nalise.m.fisher@nasa.gov\nClaire Andreoli\nGoddard Space Flight Center, Greenbelt, Md.\n202-286-1940\nclaire.andreoli@nasa.gov"
+    },
+    {
+     "source": "Ars Technica",
+     "trust": 2,
+     "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know",
+     "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
+     "lang": "en",
+     "extra": {},
+     "id": "d84808b6057ac5b3",
+     "published": "2026-10-31T00:07+00:00",
+     "text": "The Hubble Space Telescope still shines in the eyes of astronomers after 36 years in orbit, but it is not as nimble as it once was. Left alone, the observatory will plunge back into the atmosphere in the early-to-mid-2030s, closing the book on one of the most famous scientific instruments of the century.\nNASA last raised the orbit of Hubble in 2002, when the Space Shuttle Columbia visited the observatory for a servicing mission. The final shuttle servicing flight in 2009 did not reboost the telescope's orbit, and with the retirement of the shuttle fleet two years later, Hubble has steadily lost altitude with no way to stave off eventual destruction.\nThe space agency released a Request For Information (RFI) on Thursday asking commercial companies for ideas on how to reboost, service, or a controlled disposal of Hubble. Responses are due November 30. Specifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance through, or guiding Hubble to a controlled reentry."
     }
    ]
   },
@@ -90,83 +123,6 @@
    ]
   },
   {
-   "id": "cbf30529fb5",
-   "kind": "news",
-   "score": 9.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NVIDIA Blog",
-     "trust": 3,
-     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero",
-     "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-     "lang": "en",
-     "extra": {},
-     "id": "bf30529fb59df439",
-     "published": "2026-10-29T13:00+00:00",
-     "text": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.\nSomething wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud.\nThere’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, Nov. 4 at 3 p.m. PST, with a launch-week access reward coming for GeForce NOW members.\nThis week’s lineup also includes nine games streaming from the GeForce NOW library, alongside new mod support for Cyberpunk 2077 and The Witcher 3: Wild Hunt — Remastered. That means more options to play, with no downloads or installs to haunt gamers’ devices.\nThere’s another sweet update for gamers in India: The option to sign up for four-month Performance and Ultimate memberships is launching tomorrow. Visit the GeForce NOW website for more information.\nFramed for his master’s murder and gravely wounded, a warrior named Soul has 66 days to uncover a conspiracy threatening the martial world in S-GAME’s Phantom Blade Zero. Powered by Unreal Engine 5, the game combines wuxia storytelling with cinematic action.\nMaster more than 30 primary weapons and over 20 Phantom Edges, chaining evasions, deflections and counterattacks into fluid combat. Traditional Chinese martial arts meet mechanical prosthetics, industrial ruins and rock music in a distinctive kungfupunk world.\nUltimate members can wield GeForce RTX 5080-class performance in the cloud across PCs, Macs, handhelds, mobile devices, browsers, compatible TVs and more. GeForce NOW handles the game’s downloads and storage, leaving more time for the next clash. Soul’s clock is ticking, but the download bar doesn’t have to. Cut to the chase and hop into the game today.\nGet ready for Blizzard Entertainment’s World of Warcraft: Forever, arriving Wednesday, Nov. 4, at 3 p.m. PT, on GeForce NOW. Explore an iconic world reimagined with new and expanded zones, new gameplay enhancements, upgraded graphics and more.\nA new reward will give eligible GeForce NOW members access to join beginning at launch and ending Wednesday, Nov. 11, at 11:59 p.m. PT. The reward is available across all GeForce NOW membership tiers for new WoW users who don’t already have a subscription, while supplies last, on a first-come, first-served basis.\nOnce available, members can sign in to their GeForce NOW account and head to the Account Portal to redeem. Mark the calendar and gather the party — launch week is approaching.\nFamiliar favorites have a few new tricks, too: Mod.io support is now available directly in game for Cyberpunk 2077 and The Witcher 3: Wild Hunt – Remastered, bringing more ways to make Night City and the Continent feel different.\nAnd the treats keep coming with the following games joining the GeForce NOW library this week:\nDates listed above reflect when games are released on their respective stores. GeForce NOW availability may vary, as games are onboarded after they’re released and added throughout the week. Keep an eye on GeForce NOW channels and GFN Thursdays for availability updates to announced titles.\nSettle in for a scary-good gaming session: Grab a day pass to experience Performance or Ultimate cloud gaming. Gamers can then apply the cost applicable toward a first monthly membership upgrade.\nWhat’s haunting the gaming playlist this weekend? Let us know on X or in the comments below."
-    },
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5google.com/2026/10/30/the-official-phantom-blade-zero-smart-glasses-from-viture-are-here",
-     "title": "The official Phantom Blade Zero smart glasses from Viture are here",
-     "lang": "en",
-     "extra": {},
-     "id": "b2be8f31aa4a2ae3",
-     "published": "2026-10-30T12:30+00:00",
-     "text": "Viture Phantom Beast features a unique design, comes in a special metal-and-leather scabbard carrying case, and includes three exclusive Phantom Blade Zero collectibles."
-    }
-   ]
-  },
-  {
-   "id": "c4defcf6082",
-   "kind": "news",
-   "score": 9.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NASA",
-     "trust": 3,
-     "url": "https://nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head",
-     "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-     "lang": "en",
-     "extra": {},
-     "id": "d75c5054dee6e0e0",
-     "published": "2026-10-30T15:56+00:00",
-     "text": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback erodes the surrounding gas and dust, denser material within the feline-shaped pillar resists erosion, at least for now.\nImage credit: NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI)"
-    },
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026",
-     "title": "The universe in the eye of a telescope | Space photo of the day for Oct. 29, 2026",
-     "lang": "en",
-     "extra": {},
-     "id": "4defcf608291fb74",
-     "published": "2026-10-29T14:00+00:00",
-     "text": "The Swedish-ESO Submillimetre Telescope (SEST) keeps its eye on the cosmos decades after being decommissioned."
-    },
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026",
-     "title": "Ghostly Cat's Head Nebula haunts the cosmos | Space photo of the day for Oct. 30, 2026",
-     "lang": "en",
-     "extra": {},
-     "id": "8bcc7a8fcdbbefdd",
-     "published": "2026-10-30T14:00+00:00",
-     "text": "Just in time for Halloween, we have new, ghostly views of the Cat's Eye Nebula haunting the outer reaches of the cosmos."
-    }
-   ]
-  },
-  {
    "id": "c693f0e30e7",
    "kind": "news",
    "score": 9.0,
@@ -207,6 +163,39 @@
      "id": "303a9d0d793d13d8",
      "published": "2026-10-30T15:27+00:00",
      "text": "The Week 1 early Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold at up to $350 off. Those deals join $100 off all Pixel Watch 5 models, the latest Google Pixel Buds Pro 2 at over 25% off – including the new Olive set sitting at its best price ever on Amazon, and return Amazon lows on just about all of Google’s latest Pixelsnap cases. All of that and more awaits below.\nmore…"
+    }
+   ]
+  },
+  {
+   "id": "cbf30529fb5",
+   "kind": "news",
+   "score": 8.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NVIDIA Blog",
+     "trust": 3,
+     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero",
+     "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+     "lang": "en",
+     "extra": {},
+     "id": "bf30529fb59df439",
+     "published": "2026-10-29T13:00+00:00",
+     "text": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.\nSomething wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud.\nThere’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, Nov. 4 at 3 p.m. PST, with a launch-week access reward coming for GeForce NOW members.\nThis week’s lineup also includes nine games streaming from the GeForce NOW library, alongside new mod support for Cyberpunk 2077 and The Witcher 3: Wild Hunt — Remastered. That means more options to play, with no downloads or installs to haunt gamers’ devices.\nThere’s another sweet update for gamers in India: The option to sign up for four-month Performance and Ultimate memberships is launching tomorrow. Visit the GeForce NOW website for more information.\nFramed for his master’s murder and gravely wounded, a warrior named Soul has 66 days to uncover a conspiracy threatening the martial world in S-GAME’s Phantom Blade Zero. Powered by Unreal Engine 5, the game combines wuxia storytelling with cinematic action.\nMaster more than 30 primary weapons and over 20 Phantom Edges, chaining evasions, deflections and counterattacks into fluid combat. Traditional Chinese martial arts meet mechanical prosthetics, industrial ruins and rock music in a distinctive kungfupunk world.\nUltimate members can wield GeForce RTX 5080-class performance in the cloud across PCs, Macs, handhelds, mobile devices, browsers, compatible TVs and more. GeForce NOW handles the game’s downloads and storage, leaving more time for the next clash. Soul’s clock is ticking, but the download bar doesn’t have to. Cut to the chase and hop into the game today.\nGet ready for Blizzard Entertainment’s World of Warcraft: Forever, arriving Wednesday, Nov. 4, at 3 p.m. PT, on GeForce NOW. Explore an iconic world reimagined with new and expanded zones, new gameplay enhancements, upgraded graphics and more.\nA new reward will give eligible GeForce NOW members access to join beginning at launch and ending Wednesday, Nov. 11, at 11:59 p.m. PT. The reward is available across all GeForce NOW membership tiers for new WoW users who don’t already have a subscription, while supplies last, on a first-come, first-served basis.\nOnce available, members can sign in to their GeForce NOW account and head to the Account Portal to redeem. Mark the calendar and gather the party — launch week is approaching.\nFamiliar favorites have a few new tricks, too: Mod.io support is now available directly in game for Cyberpunk 2077 and The Witcher 3: Wild Hunt – Remastered, bringing more ways to make Night City and the Continent feel different.\nAnd the treats keep coming with the following games joining the GeForce NOW library this week:\nDates listed above reflect when games are released on their respective stores. GeForce NOW availability may vary, as games are onboarded after they’re released and added throughout the week. Keep an eye on GeForce NOW channels and GFN Thursdays for availability updates to announced titles.\nSettle in for a scary-good gaming session: Grab a day pass to experience Performance or Ultimate cloud gaming. Gamers can then apply the cost applicable toward a first monthly membership upgrade.\nWhat’s haunting the gaming playlist this weekend? Let us know on X or in the comments below."
+    },
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/the-official-phantom-blade-zero-smart-glasses-from-viture-are-here",
+     "title": "The official Phantom Blade Zero smart glasses from Viture are here",
+     "lang": "en",
+     "extra": {},
+     "id": "b2be8f31aa4a2ae3",
+     "published": "2026-10-30T12:30+00:00",
+     "text": "Viture Phantom Beast features a unique design, comes in a special metal-and-leather scabbard carrying case, and includes three exclusive Phantom Blade Zero collectibles."
     }
    ]
   },
@@ -255,50 +244,6 @@
    ]
   },
   {
-   "id": "c45fb00b30f",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
-     "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
-     "lang": "en",
-     "extra": {},
-     "id": "45fb00b30fc2177d",
-     "published": "2026-10-29T23:49+00:00",
-     "text": "Patrick Stewart, the distinguished British actor of stage and screen, passed away Wednesday (Oct. 28) in Los Angeles at the age of 86."
-    },
-    {
-     "source": "Ars Technica",
-     "trust": 2,
-     "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart",
-     "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-     "lang": "en",
-     "extra": {},
-     "id": "d419f95b8526c881",
-     "published": "2026-10-30T22:21+00:00",
-     "text": "Along with the rest of the world, we at Ars are mourning Sir Patrick Stewart—the beloved award-winning actor best known as Captain Jean-Luc Picard in Star Trek: The Next Generation and Professor Charles Xavier in the X-Men franchise—who died yesterday at the age of 86.\nA statement released by Stewart's representatives said:\nWe announce with great sorrow the passing of Sir Patrick Stewart yesterday at his home in Los Angeles, in the loving care of his beloved wife Sunny, following a brief and poignant journey with Alzheimer’s Disease and Lewy Body Dementia. He has been held in the warm embrace of family and friends, surrounded by live music, prayer, tears, laughter, and the kind of profound emotion that only he could inspire after a lifetime of devotion to us all. We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace.\nThrough the actor's X account, the family has requested that, in lieu of flowers, memorial contributions be made to the Johns Hopkins Alzheimer’s Disease Research Center Fund and the Alzheimer’s Foundation of America Caregiver Resources."
-    },
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes",
-     "title": "The world mourns the passing of 'Star Trek's' Patrick Stewart with a galaxy of tearful tributes",
-     "lang": "en",
-     "extra": {},
-     "id": "65de3918be350d79",
-     "published": "2026-10-30T23:26+00:00",
-     "text": "\"He wore his heart on his sleeve, which made him a man to rely on, to admire and, in my case, love.\""
-    }
-   ]
-  },
-  {
    "id": "cb19c5c6086",
    "kind": "news",
    "score": 8.0,
@@ -328,72 +273,6 @@
      "id": "19beb1fd9ae643dd",
      "published": "2026-10-30T19:59+00:00",
      "text": "Android Auto can run a large variety of apps, but not every app. The platform refuses to run apps that have been sideloaded. If there was ever an app you wished could run on Android Auto but doesn’t, there may be a solution.\nOne user, who goes by u/mannumaster on Reddit, says they wanted to build their own app and use it on Android Auto. When they ran into roadblocks, they created a new tool called UnknownAuto. This tool is free, open-sourced, and can work offline. The creator describes it as an alternative to the proprietary AA Enabler."
-    }
-   ]
-  },
-  {
-   "id": "c477614ff19",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Arteta warns Dowman 'we are not in Disneyland' after red card",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC Sport Football",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/football/articles/c875p940g5v2o?at_medium=RSS&at_campaign=rss",
-     "title": "Arteta warns Dowman 'we are not in Disneyland' after red card",
-     "lang": "en",
-     "extra": {},
-     "id": "477614ff19f4edd2",
-     "published": "2026-10-30T15:41+00:00",
-     "text": "- Published\nArsenal manager Mikel Arteta has told Max Dowman \"we are not in Disneyland\" and that he intends to hold the teenager to the same standards as other first-team players.\nDowman, 16, was sent off in the 85th minute of Arsenal's penalty shoot-out loss to Fleetwood Town in the Carabao Cup on Tuesday after reacting to a heavy challenge by Harrison Neal and will serve a three-match ban.\nA visibly annoyed Arteta spoke to Dowman as the teenager left the pitch, and on Friday spoke about the incident for the first time, saying he warned the attacker before the game about dealing with provocation.\n\"I haven't seen the reaction to my reaction, whether it is positive or negative. But you need to understand the context and the relationship that I have with him and what we discussed just before we went out,\" Arteta said of his words to Dowman.\n\"But, I don't know. You can have another reaction. If you see the reaction of my father and my mother with me some days you might say 'I don't like the reaction'. For me, it was the best reaction to be who I am.\"\nArteta revealed that he had spoken to Dowman on Thursday and said there were \"no issues at all\" between the pair. However, he added that he needs to be \"very straight\" with Dowman and clear of the standards expected.\nDowman was sent off for the England U19s earlier this month where he was also on the end of heavy challenges in a match with the United States.\nOf that red card, Arteta said: \"They are his age. They are 16 – the same. What is the reaction? That is the level and that is the reaction.\n\"And whether it is right or wrong, that is the reaction.\"\nArteta also spoke of the impact the red card had on the team, saying: \"And the reaction when I don't win, you want to know what my reaction is? I am [angry] big time.\n\"So, we need to be ready for that. This is the environment and this is the reality, otherwise we are in Disneyland. We are not in Disneyland, we are in the Premier League and this level.\n\"We look after him so much that you cannot imagine.\n\"But at the same time we are going to demand from him, like everybody else, because he needs to earn the right to play. Because the other boys, what are they going to tell me? You need to be fair.\"\nThe Gunners did appeal against the red card but the Football Association (FA) upheld the decision. Of that, Arteta said he was \"very disappointed\", adding \"we are lucky today that he (Dowman) hasn't had a broken foot.\""
-    },
-    {
-     "source": "ESPN Soccer",
-     "trust": 2,
-     "url": "https://espn.com/soccer/story/_/id/50328026/mikel-arteta-max-dowman-arsenal-red-card-liverpool-fleetwood",
-     "title": "Arteta on reaction to Dowman red card: 'We are not in Disneyland'",
-     "lang": "en",
-     "extra": {},
-     "id": "e67a48ea25d31209",
-     "published": "2026-10-30T23:33+00:00",
-     "text": "Mikel Arteta has said Arsenal are \"very disappointed\" after their appeal over Max Dowman's red card at Fleetwood Town was dismissed but warned the teenager must adapt to top-level football because \"otherwise we are in Disneyland.\"\nThe 16-year-old was sent off in Tuesday's Carabao Cup penalty shootout defeat after reacting to a strong challenge from Harrison Neal. Dowman will now serve a three-game suspension after the appeal was rejected by an independent panel.\nArteta was criticised in some quarters for his angry reaction to Dowman as he left the field. Speaking on Friday ahead of the weekend Premier League trip to Liverpool, Arteta suggested the pair had spoken about the possible provocation from the League Two side before the game.\n\"I haven't seen the reaction to my reaction [to Dowman], whether it is positive or negative,\" Arteta said.\nHe also went on to reference Dowman's second red card this month, having been sent off while playing for England's under-19s.\n\"But you need to understand the context, the relationship that I have with him and what we discussed just before we went out.\n\"I don't know. You can have a lot of reactions. If you see the reaction of my father and my mother with me, someday you will say, I don't like the reaction. For me, it was the best reaction ever to be able to be who I am. But you want to always see the best reaction and the beautiful one.\n\"You want to see the reaction of his teammates? When they have to play with ten, you want to see that?\n\"What do you expect? I don't know. And the England ones, they are his age, 16, the same. What is their reaction? That's the reaction. That's the level and that's the reaction. And whether it is right or wrong, that's the reaction.\n\"But the reaction when I don't win, you know what the reaction is? I'm p----- off, big time. So we need to be ready for that. This is the environment and this is the reality.\n\"Otherwise, we are in Disneyland. We are not in Disneyland. We are in the Premier League at this level and we look after him so much that you cannot imagine. But at the same time, we're going to demand him like anybody else because he needs to earn the right to play. Otherwise, the rest of the boys, what are they going to tell me? You need to be fair. Let's go.\"\nRegarding the appeal, Arteta said: \"Very disappointed, to be fair. Especially with the reckless tackles that he received, and then his reaction is minimal in relation to the action. Disappointed that it's not been overturned after looking at the action back, to be fair.\n\"It is what it is. We have put every argument on the table to make a case for it. Not only the action, obviously, that it's evident, and when you look it back in slow motion, the previous action and Max's action, it's clear that obviously we have a very different opinion.\n\"And on top of that, I think you have to read the context of the player, the age, and what happened previously.\"\nDowman has made just 18 senior appearances but broke a series of records in that time, including being the youngest player to win the Premier League, the youngest Premier League goalscorer and the youngest player in the Champions League.\nAll three earned him official Guinness World Records certificates earlier this month.\nArteta brought Dowman into the first team set-up last summer in Singapore, where he first featured against Newcastle.\n\"It was a very physical game and that's my fear and that's why I want to protect because if a player that weighs 95 kilos, 100 kilos, comes at 35 kilometres an hour to Max and hits a bone, I don't know what happens,\" he said.\n- Arsenal's Max Dowman handed three-game ban for red card after appeal rejected\n- Global power ranking: The top 20 soccer teams in the world, ranked!\n- Martin Ødegaard urges Arsenal to 'step up' after shock Fleetwood loss\n\"So when we talk about protecting him, but the week before you were asking me why he's not playing every week when he's done really well against Everton, so we really [need to put] as well some perspective in every context of the player that we have, which is tremendous and leave it there and let him grow and let's protect him, all of us.\n\"We discussed a week ago how many players in the history of the Premier League have done what Max is doing and there isn't one. So it's something new and, as it's new, we'll do things well, I will do things well, I will do things not so well.\n\"I will try to learn as quick as possible, protect him as much as possible, but at the same time it's at the level that we are in and we are here to win football matches and to perform at the highest level, that's it.\"\nArteta confirmed that Declan Rice, Riccardo Calafiori and Christos Tzolis have all returned to training but Noni Madueke is a doubt and Bukayo Saka could be sidelined until after next month's international break with a quad injury."
-    }
-   ]
-  },
-  {
-   "id": "caa9dc6e494",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "‘The Further Mis-Adventures Of Cliff Booth’: Netflix Brad Pitt Pic Won’t Be Playing Top Chains Regal & Cinemark",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/10/further-mis-adventures-of-cliff-booth-regal-cinemark-1237209962",
-     "title": "‘The Further Mis-Adventures Of Cliff Booth’: Netflix Brad Pitt Pic Won’t Be Playing Top Chains Regal & Cinemark",
-     "lang": "en",
-     "extra": {},
-     "id": "aa9dc6e4942fb708",
-     "published": "2026-10-30T21:19+00:00",
-     "text": "No surprise here, but the No. 2 and No. 3 exhibitors, Regal and Cinemark, won’t be playing Netflix’s Quentin Tarantino penned Once Upon a Time in Hollywood follow-up, The Further Mis-Adventures of Cliff Booth when it opens on Wednesday, Nov. 25. That’s because the movie, which is getting a two-week exclusive run in Imax, is […]"
-    },
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/film/news/regal-cinemark-netflix-cliff-booth-1236935538",
-     "title": "Netflix’s ‘Cliff Booth’ Won’t Play in Regal and Cinemark Imax Theaters",
-     "lang": "en",
-     "extra": {},
-     "id": "e09592ea62398482",
-     "published": "2026-10-30T21:50+00:00",
-     "text": "Netflix’s push to release more films on the big screen hasn’t come without a few hiccups. Most recently, theater chains including Regal Cinemas are declining to play the streaming platform’s “The Further Mis-Adventures of Cliff Booth” on their Imax screens. Cinemark also turned down the “Cliff Booth” booking, according to sources. “Cliff Booth,” which stars […]"
     }
    ]
   },
@@ -431,57 +310,35 @@
    ]
   },
   {
-   "id": "c1fff1698b1",
+   "id": "cdd350711b0",
    "kind": "news",
    "score": 8.0,
-   "sensitive": false,
+   "sensitive": true,
    "distinct_sites": 2,
-   "title_hint": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "title_hint": "Two Arrested in Murder of ‘SNL’ Writer’s Sister",
    "official_image": null,
    "sources": [
     {
-     "source": "The Verge",
+     "source": "Variety",
      "trust": 2,
-     "url": "https://theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-     "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+     "url": "https://variety.com/2026/tv/news/arrests-murder-christina-downer-jimmy-fowlie-1236935631",
+     "title": "Two Arrested in Murder of ‘SNL’ Writer’s Sister",
      "lang": "en",
      "extra": {},
-     "id": "1fff1698b18b4437",
-     "published": "2026-10-30T22:32+00:00",
-     "text": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that’s set to launch on November 4th, with a full iOS 27.3 release scheduled for December.\nApple Intelligence is finally coming to China with iOS 27.3\nApple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market.\nApple is launching an iOS 27.3 beta next week that will bring some of the initial Apple Intelligence features to the Chinese market.\nThis launch doesn’t bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Qwen chatbot in some experiences, which sounds similar to iOS’s integration with OpenAI’s ChatGPT that launched in 2024.\nApple Intelligence was approved in China in July, which signalled that the launch of the AI tools was getting near. Apple trained its own LLM specifically for China, Reuters reported in August."
+     "id": "dd350711b0e0e6da",
+     "published": "2026-10-30T23:32+00:00",
+     "text": "Two suspects have been arrested in connection with the murder of Christina Downer, “Saturday Night Live” writer Jimmy Fowlie’s sister, according to the Los Angeles Police Department. Delorean Bijon Brandon, 41, Downer’s boyfriend, and Kaylee Nicole Markowski, 34, were arrested Thursday in Highland Park and Tarzana, respectively. Detectives believe Brandon and Markowski were responsible for […]"
     },
     {
-     "source": "9to5Mac",
+     "source": "Deadline",
      "trust": 2,
-     "url": "https://9to5mac.com/2026/10/30/apple-confirms-ios-27-3-beta-is-coming-next-week-with-apple-intelligence-in-china",
-     "title": "Apple confirms iOS 27.3 beta is coming next week with Apple Intelligence in China",
+     "url": "https://deadline.com/2026/10/lapd-arrests-2-men-killing-snl-writer-jimmy-fowlie-sister-1237210269",
+     "title": "LAPD Arrests 2 Men In Connection With Killing Of ‘SNL’ Writer Jimmy Fowlie’s Sister",
      "lang": "en",
      "extra": {},
-     "id": "2f32373c7e0d39fa",
-     "published": "2026-10-30T22:37+00:00",
-     "text": "Apple today took the unusual step of confirming when its next iOS developer beta is expected to arrive, as part of an announcement detailing the upcoming launch of Apple Intelligence in China. Here are the details.\nA bit of context\nIn mid-July, Reuters reported that, following a lengthy back-and-forth with Chinese regulators and multiple delays, Apple Intelligence had finally cleared a major regulatory hurdle ahead of its long-awaited launch in the country.\nThen, a couple of weeks ago, Bloomberg reported that Apple was planning to launch Apple Intelligence in China in December as part of iOS 27.3, although without Siri AI and other newer features.\nThe following day, China’s state-backed media outlet The Paper reported that Tim Cook had confirmed regulatory approval for the platform, with a test version expected before the end of October.\nThen, just last Monday, Apple released iOS 27.2 and its counterparts, expanding Siri AI support to French, Japanese, Korean, Portuguese, and Spanish. On the same day, the company announced that four more languages, including Traditional Chinese, would be supported by the end of the year.\nHowever, while that announcement confirmed additional language support for Siri AI, it offered no updates on the rollout of Apple Intelligence in China, where Siri AI itself will remain unavailable for the time being.\nWhile Apple typically releases the first beta of its next software update shortly after the previous version becomes available, iOS 27.3 has yet to materialize.\nNow, as spotted by MacRumors, a press release published on Apple’s Chinese Newsroom website confirms that testing of Apple Intelligence in China will begin on November 4, as part of the next iOS developer beta.\nImportantly, Apple has only confirmed November 4 as the start of Apple Intelligence testing in China, not necessarily the release date of iOS 27.3 beta 1 itself.\nApple Intelligence coming to China\nIn the press release, Apple confirms that users in China will get an improved Siri experience, including Type to Siri and the ability to access Alibaba’s Qwen for certain requests, but not Siri AI itself.\nThe Qwen integration will also extend to Writing Tools and Visual Intelligence. According to Apple, users will be able to ask questions about photos and documents, including PDFs and presentations, as well as generate original content from scratch through Writing Tools. Users will be able to access Qwen by signing into their accounts or using Sign in with Apple.\nOther features included in the initial rollout are Live Translation in Messages, FaceTime, and Phone, Writing Tools, Genmoji, Clean Up in Photos, natural-language photo searches, priority notifications, notification summaries, and Smart Reply, among others.\nApple also noted that the initial rollout will be exclusive to the iPhone, with support for other platforms coming only after the necessary regulatory approvals have been obtained.\nThe features will be available on the iPhone 15 Pro and Pro Max, iPhone 16 and later, iPhone Air, and iPhone Duo, with both Siri and the device language required to be set to either English or Simplified Chinese.\nThe company also confirmed that the features will become publicly available in December, with the official release of iOS 27.3.\nTo check out Apple’s press release, follow this link.\nWorth checking out on Amazon\n- Apple HomeView\n- Apple TV 4K (2026)\n- Apple Watch Series 12 | Ultra 4\n- AirPods Pro 3 | AirPods 5\n- AirTag (2nd Generation) – 4 Pack\n- MacBook Neo\n- Logitech MX Master 4\nComments"
-    }
-   ]
-  },
-  {
-   "id": "c6f116f1e09",
-   "kind": "news",
-   "score": 7.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NASA",
-     "trust": 3,
-     "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope",
-     "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-     "lang": "en",
-     "extra": {},
-     "id": "6f116f1e09fd6959",
-     "published": "2026-10-30T14:51+00:00",
-     "text": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.\n“Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,” said NASA Administrator Jared Isaacman. “If there are innovative and cost-effective ways to extend the life of an asset already on orbit, we owe it to the American taxpayer and the scientific community to explore them. Extending Hubble’s life would mean more discoveries, more science, and more opportunities to expand our understanding of the universe.”\nThe Request for Information seeks commercial interest in: potentially conducting a mission to boost Hubble to a higher altitude to extend its science lifetime; servicing Hubble to enhance its capabilities; or performing a safe, controlled re-entry into Earth’s atmosphere or orbital disposal at the end of Hubble’s mission.\n“Hubble is a national icon that has fundamentally changed how humanity views our universe for more than 35 years,” said Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters in Washington. “Commercial industry has rapidly evolved in recent years to offer new capabilities for in-space satellite capture and servicing. Given the time we have until Hubble’s anticipated re-entry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.”\nThe Request for Information is available online and will remain open for responses until 3 p.m. EST, Monday, Nov. 30.\nLike all spacecraft in low Earth orbit, Hubble’s altitude is slowly decreasing over time because of atmospheric drag. Hubble does not have a propulsion system to maintain its own orbit, and analysis predicts Hubble is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As such, NASA anticipates that a mission would need to take place by 2032.\nThe Hubble Space Telescope has been operating for more than three decades and continues to make ground-breaking discoveries that shape our fundamental understanding of the universe. Hubble is a project of international cooperation between NASA and ESA (European Space Agency). NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope and mission operations. Lockheed Martin Space, based in Denver, also supports mission operations at Goddard. The Space Telescope Science Institute in Baltimore, which is operated by the Association of Universities for Research in Astronomy, conducts Hubble science operations for NASA.\nTo learn more about NASA’s Hubble Space Telescope, visit:\nMedia Contacts:\nAlise Fisher\nHeadquarters, Washington\n202-358-2546\nalise.m.fisher@nasa.gov\nClaire Andreoli\nGoddard Space Flight Center, Greenbelt, Md.\n202-286-1940\nclaire.andreoli@nasa.gov"
+     "id": "536880885cd096f2",
+     "published": "2026-10-31T00:29+00:00",
+     "text": "Nearly a year after she went missing, LAPD has arrested two men in connection to the death of Christina Downer, the late sister of Saturday Night Live writer Jimmy Fowlie.\nOn Thursday, officers took 41-year-old Delorean Bijon Brandon, who is believed to be Downer’s boyfriend, and Kaylee Markowski, 34, into custody for allegedly murdering and disposing of her body, before concealing their involvement.\nBrandon and Markowski are both being held at Metropolitan Detention Center, where they have been booked on suspicion of murder and are both being held on $2 million bail.\nAccording to LAPD, Brandon claimed Downer had moved out of their home several months before her disappearance, leaving behind all of her belongings, including her vehicle and dog.\nWatch on Deadline\nDowner’s family reported her missing on Dec. 18, 2025, following a welfare check requested by her ex-husband after he hadn’t heard from her in an extended period of time. Detectives with LAPD’s Robbery-Homicide Division took over the investigation when her cellphone was discovered washed ashore on a Santa Monica beach.\nLast December, Fowlie sought help from friends and followers as he searched Downer’s Koreatown neighborhood, noting they were “worried that she isn’t safe.” Fowlie announced in April that LAPD had informed the family that Downer was “no longer alive,” and were treating the case as a homicide."
     }
    ]
   },
@@ -724,28 +581,6 @@
      "id": "7fa3a529dc4851d8",
      "published": "2026-10-30T15:58+00:00",
      "text": "Apple has launched a wave of major new products since John Ternus took over as CEO, and a new interview with Ternus reveals how this aligns very much with his primary focus.\nJohn Ternus names ‘product’ as the chief thing he’s passionate about and focused on\nFollowing Apple’s unveil of the MacBook Pro with PROLED XDR earlier this week, CEO John Ternus sat down for an interview with Steven Levy at WIRED.\nMuch of the ground covered is familiar territory, with Ternus repeating things he’s said before.\nBut a standout focus that Ternus emphasizes, echoed by quotes from some of his top executives, is his deep passion for one thing: product.\nI asked Ternus what it’s like to take on a massively expanded portfolio. “One of the amazing privileges of this job is getting to learn so many new things,” he said. “I have been and will continue to learn and go deeper into different areas. But, you know, I do love product. I’m super passionate about it.”\nTop comment by Chris\nI like John, and I like engineer CEOs, and I hope he has a successful tenure. But so far I'd say his focus has been:\n\"Less Product for More Money\"\nThis emphasis on product is ever-present in Ternus’s answers to other questions. For example:\n- On Apple’s AI approach: “I would hope people recognize that the work we do is building incredible products that make their lives better. We’re absolutely going to leverage AI to do that.”\n- On AI agents potentially replacing current computing methods, and more work happening autonomously: “That could make life really easy, I suppose, but the creation of products is a deeply human and personal thing, something that we love to do.”\n- On whether he favors AI regulation: “Our focus is on making sure that our products are secure and safe, and protecting the users’ information.”\nLevy also shares quotes from two key Apple executives as well. Johny Srouji says, “John is going to be a great CEO. He’s a product guy at heart.” And here’s Greg Joswiak: “John innately has a great sense for great products, and that’s what Apple is.”\nIf Apple’s huge wave of product launches since Ternus took over as CEO wasn’t evidence enough, the messaging from this new interview is clear: Ternus is focused on product.\nWhat are your takeaways from the latest John Ternus quotes? Let us know in the comments.\nBest iPhone accessories\n- AirPods Pro 3 (now only $199, down from $249)\n- MagSafe Car Mount for iPhone\n- 10-year AirTag battery case\n- 100W USB-C fast charging power adapter\n- HomeKit Garage Door Opener\nComments"
-    }
-   ]
-  },
-  {
-   "id": "c437ea53b07",
-   "kind": "news",
-   "score": 7.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "واتساب تسلّط الضوء على 4 مزايا مهمة للدردشات الجماعية.. تعرف عليها",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "AITNews",
-     "trust": 2,
-     "url": "https://aitnews.com/2026/10/30/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%aa%d8%b3%d9%84%d9%91%d8%b7-%d8%a7%d9%84%d8%b6%d9%88%d8%a1-%d8%b9%d9%84%d9%89-4-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%85%d9%87%d9%85%d8%a9-%d9%84%d9%84%d8%af%d8%b1",
-     "title": "واتساب تسلّط الضوء على 4 مزايا مهمة للدردشات الجماعية.. تعرف عليها",
-     "lang": "ar",
-     "extra": {},
-     "id": "437ea53b07220e9c",
-     "published": "2026-10-30T18:44+00:00",
-     "text": "ألقت منصة المراسلة الفورية واتساب الضوء على أربعة تحديثات جديدة للدردشات الجماعية، تستهدف تسهيل متابعة المحادثات وتنظيم الرسائل المهمة، خاصةً في المجموعات النشطة التي تشهد تدفقًا كبيرًا من الرسائل. وأوضحت واتساب، عبر مدونتها الرسمية، أن التحديثات الجديدة تمنح المستخدمين أدوات إضافية لمتابعة النقاشات والاطلاع على الرسائل التي تستدعي اهتمامهم، حتى بعد مضي وقت على الابتعاد …"
     }
    ]
   },
@@ -1091,39 +926,6 @@
    ]
   },
   {
-   "id": "cca684b4ab3",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Virgin Galactic's new rocket plane revives its bid for a space airline",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "New Atlas",
-     "trust": 2,
-     "url": "https://newatlas.com/aircraft/virgin-galactic-apeiron-delta-class-spaceship",
-     "title": "Virgin Galactic's new rocket plane revives its bid for a space airline",
-     "lang": "en",
-     "extra": {},
-     "id": "ca684b4ab32a5dac",
-     "published": "2026-10-29T18:06+00:00",
-     "text": "Virgin Galactic hasn't flown anyone to space since June 2024. On Wednesday it finally showed off the spaceship it hopes will change that. Called Apeiron, it is designed to carry six passengers to the edge of space twice a week, for more than 500 missions."
-    },
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/space-exploration/private-spaceflight/watch-virgin-galactics-new-delta-class-space-plane-take-to-the-skies-for-the-1st-time-video",
-     "title": "Watch Virgin Galactic's new 'Delta-class' space plane take to the skies for the 1st time (video)",
-     "lang": "en",
-     "extra": {},
-     "id": "493a6158f21fc8d2",
-     "published": "2026-10-30T12:00+00:00",
-     "text": "Virgin Galactic's first \"Delta-class\" space plane, the newly named Apeiron, lifted off for the first time on Thursday (Oct. 29) —beneath the wings of its carrier aircraft."
-    }
-   ]
-  },
-  {
    "id": "c4c55e492d8",
    "kind": "news",
    "score": 6.0,
@@ -1153,6 +955,204 @@
      "id": "9fcf1feb8ef62474",
      "published": "2026-10-30T21:19+00:00",
      "text": "This week on Uncanny Valley, Brian Barrett, Leah Feiger, and Zoë Schiffer dive into our scoop on how a defense contractor connected Claude Code to a secure Department of Defense system. We also discuss the green, yellow, and red flags we see in Anthropic’s IPO filing—and why it’s a test not just for the AI industry, but for the entire US economy—and how volunteers nationwide are preparing for ICE agents potentially showing up at polling sites in the midterms.\nArticles mentioned in this episode:\n- A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System\n- The Anthropic S-1 Filing Is Also an AI Doomsday Primer\n- What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock\n- Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls\nYou can follow Brian Barrett on Bluesky at @brbarrett, Zoë Schiffer on Bluesky at @zoeschiffer, and Leah Feiger on Bluesky at @leahfeiger. Write to us at [email protected].\nHow to Listen\nYou can always listen to this week's podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here's how:\nIf you're on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts and search for “uncanny valley.” We’re on Spotify too.\nTranscript\nNote: This is an automated transcript, which may contain errors.\nBrian Barrett: Welcome to the WIRED's Uncanny Valley. I'm Brian Barrett, executive editor.\nZoë Schiffer: I'm Zoë Schiffer, contributing editor.\nLeah Feiger: And I'm Leah Feiger, director of politics and science.\nZoë Schiffer: This week, Anthropic has officially filed to go public. There is a lot going on in the hundreds of pages that the company submitted as part of its S-1 filing, from staggering earnings and losses, to warnings of AI's existential threat. Obviously, we're talking about Anthropic here. We'll discuss our key takeaways and why this IPO is kind of high stakes, not just for the AI industry, but honestly the entire US economy.\nLeah Feiger: We're also bringing you a scoop about how a defense contractor plugged Anthropic's Claude into a secure Department of Defense system, in what's really one of the most outlandish uses of AI in the government we've seen so far.\nBrian Barrett: And the midterms are right around the corner, just a few days away. Massive groups of volunteers all over the country are already getting ready to protect their communities from the potential that ICE officers show up at the polls. We'll get into how grassroots efforts like these are a reflection of a deeply uncertain election cycle.\nZoë Schiffer: So on Monday, we learned that Anthropic finally pulled the trigger and publicly filed for its IPO. This has been highly anticipated for a bunch of reasons. Anthropic is expected to raise more money in its IPO than any company in history, and it would be the first major US company focused solely on building AI software to go public. To give you a sense of the scale that we're talking about, the company's valuation went from $183 billion a little over a year ago to $965 billion in its most recent round, and some expect that it could be worth close to $2 trillion once it starts trading. So the filing basically gives us the first real look inside Anthropic's business because it's a private company right now. It doesn't have to report a bunch of stuff. And the numbers are pretty extreme in both directions, billions of dollars in revenue and even more billions in losses, and hundreds of billions that the company has already committed to compute. Because there's a ton to unpack in this paperwork, I thought it would be fun to divide it into green flags, yellow flags, and red flags that we saw from the filing. What do you guys think?\nBrian Barrett: Yes.\nLeah Feiger: I'm astounded by how much money is at play here. This is, yes.\nBrian Barrett: What flag, Leah? What flag is that?\nLeah Feiger: I don't know.\nZoë Schiffer: For the sake of the economy, it's green.\nBrian Barrett: Great. Green flag.\nLeah Feiger: For the sake of the economy, it's green. This is so much money, guys. Sue me, but the only thing I can think of right now is that article that WIRED ran a couple of months ago about how people were selling their homes in the Bay Area with the promise of Anthropic stock post-IPO. And I remember at the time I was like, \"How close are we to this?\" And Zoe said, \"Oh, they're going to make so much money.\"\nBrian Barrett: Is it fair to say, Zoë, I feel like having the financials out there, yes, they're losing money hand over fist, but the financials I think are better than people were expecting maybe. At least, it feels like they put a lot of concerns to rest, not all of them, but this is a real business. This is a business that is growing. It's doing all the things you would want a business to do.\nZoë Schiffer: Yes, I think absolutely. So its revenue hit $16.3 billion in the first half of 2026, and it's grown mor"
+    }
+   ]
+  },
+  {
+   "id": "cc7a9965907",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft",
+     "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+     "lang": "en",
+     "extra": {},
+     "id": "c7a99659074ab27a",
+     "published": "2026-10-29T19:23+00:00",
+     "text": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]"
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/29/apple-cuts-app-store-commission-in-taiwan-following-regulatory-discussions",
+     "title": "Apple cuts App Store commission in Taiwan following regulatory discussions [U]",
+     "lang": "en",
+     "extra": {},
+     "id": "3d686f6a2d4d8d00",
+     "published": "2026-10-29T20:24+00:00",
+     "text": "Apple today announced that it is lowering its standard App Store commission in Taiwan, following discussions with the country’s Fair Trade Commission. Here are the details."
+    }
+   ]
+  },
+  {
+   "id": "cb260762e34",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "What to Know About China’s Top-Secret Spaceplane",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/what-to-know-about-chinas-top-secret-spaceplane",
+     "title": "What to Know About China’s Top-Secret Spaceplane",
+     "lang": "en",
+     "extra": {},
+     "id": "b260762e3417985c",
+     "published": "2026-10-29T20:45+00:00",
+     "text": "A winged Chinese spacecraft bearing a strong resemblance to the US military’s X-37B spaceplane was photographed in orbit by a passing US-owned commercial satellite in 2024, and we finally have the image.\nThe Chinese spaceplane has delta wings, payload bay doors, a dark heat shield, and a rear-mounted service module with power-generating solar arrays. In other words, the design of the winged ship is, to a great degree, a copy of the X-37B spaceplane flown by the US Space Force.\nThe photo was taken by a commercial imaging satellite owned by a company called Vantor, known as Maxar in 2024. Vantor is one of several companies that provide reconnaissance imagery of locations around the world to the US military and US intelligence agencies. The same Earth-imaging satellites can point their telescopes at objects in space.\nLower-resolution views of a Chinese spaceplane showing the vehicle’s general shape were publicly available before the Defense Intelligence Agency assessment. A US Space Force official revealed Maxar’s observation at a 2024 conference in South Korea, but the Pentagon did not release the full-resolution image to the public until Monday, when it appeared in an unclassified DIA assessment of threats to the United States in space.\nCatch and Release\nThe DIA report doesn’t reveal much new about what the Chinese spaceplane does in orbit. China has launched four spaceplane missions since 2020, with durations of up to nine months. The fourth mission is in orbit today after launching in February. It is not publicly known whether China has one or more such spaceplanes in its inventory.\nThe Space Force has two X-37Bs flying in rotation, with the longest of their eight missions to date running two-and-a-half years from launch until landing. US officials have released photos of the X-37B vehicles, published information about their design and dimensions, and disclosed a handful of experiments they have carried into orbit. Most of the X-37B’s activities in space are classified.\nLike the X-37B, China’s spaceplane lifts off inside the payload shroud of a conventional rocket, then operates as a satellite once in orbit. The spaceplane flies like a miniature unpiloted version of NASA’s Space Shuttle and reenters the atmosphere for an autonomous land runway landing at the end of each mission. Ground teams then refurbish it for another flight.\nThe “enhanced maneuverability” of spaceplanes makes them “more suitable for certain missions than traditional satellites,” the DIA said in its report. So far, the Chinese spaceplane has only flown in low-Earth orbit (LEO) at an altitude of a few hundred miles. One of the Space Force’s X-37B flights soared to an altitude of more than 24,000 miles before using aerobraking to set up for reentry and landing.\nSpaceplanes like China’s and the X-37B can also deploy small satellites from their cargo bay. Most recently, China demonstrated an ability to catch an object in orbit, perhaps using a robotic arm. The vehicle now in space released a sub-satellite in June and recaptured it in July, then did the same thing again in August and September, according to an analysis of open source orbital tracking data by Jonathan McDowell, an astrophysicist who catalogs spaceflight activity.\nA Fleeting Glance\nThe official name of the Chinese spaceplane is even a mystery. It is often called Shenlong in Western publications, citing reports from the 2000s about China’s development of a robotic spaceplane. Chinese state media only refer to the vehicle as Chongfu Shiyong Shiyan Hangtian Qi, or CSSHQ, which means reusable experimental spacecraft, according to a fact sheet published by the Secure World Foundation.\nThe DIA did not disclose the exact circumstances of Maxar’s observation of the Chinese spaceplane, such as its timing, location, or distance, but Earth observations often use cameras to view other objects in space as their orbits intersect, an emerging field known as non-Earth imaging (NEI).\nNEI allows commercial operators and government analysts to inspect satellites. This is especially useful for gleaning information about classified or proprietary satellite designs, extending a new avenue for international and corporate espionage to the high frontier.\nThe capability exhibited by Maxar and other commercial companies in the NEI field is distinct from the recent actions of some military spacecraft, such as Russia’s Kosmos 2612, which deliberately maneuvered to approach a US-registered radar imaging satellite earlier this month. Commercial NEI observations come from chance encounters, often at extremely high speed.\nPew-Pew With DEWs\nThe DIA’s assessment of space threats includes an update on China’s pursuit of anti-satellite technology, or “counterspace” weapons. The intelligence agency reported the Chinese military likely considers directed-energy weapons (DEWs) “ideal counterspace systems” because they can be used to permanently or temporarily disable a satellite. One potential use for lasers in spac"
+    },
+    {
+     "source": "New Atlas",
+     "trust": 2,
+     "url": "https://newatlas.com/military/new-image-sheds-light-on-chinas-secret-spaceplane",
+     "title": "New image sheds light on China's secret spaceplane",
+     "lang": "en",
+     "extra": {},
+     "id": "b56097989dba6c75",
+     "published": "2026-10-30T04:32+00:00",
+     "text": "The veil of secrecy surrounding an orbital mystery has been lifted after the US Defense Intelligence Agency (DIA) released the clearest public view yet of China's secretive spaceplane. The photograph was taken on May 28, 2024, by a commercial Earth-imaging satellite from a distance of less than 56 miles (90 km).\nCategory: Military, Engineering\nTags: Spaceplane, China, Orbit"
+    }
+   ]
+  },
+  {
+   "id": "c89c17d9031",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "9to5Mac Daily: October 29, 2026 – New MacBook Pro with PROLED XDR Display",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/29/daily-october-29-2026",
+     "title": "9to5Mac Daily: October 29, 2026 – New MacBook Pro with PROLED XDR Display",
+     "lang": "en",
+     "extra": {},
+     "id": "89c17d9031f87f21",
+     "published": "2026-10-30T00:58+00:00",
+     "text": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\nNew episodes of 9to5Mac Daily are recorded every weekday. Subscribe to our podcast in Apple Podcast or your favorite podcast player to guarantee new episodes are delivered as soon as they’re available.\nStories discussed in this episode:\n- iPhone Duo could capture nearly 30% of foldable market in 2027, per report\n- The education price of the MacBook Neo just jumped again\n- Apple announces all-new MacBook Pro with PROLED XDR display, its first touchscreen Mac\n- MacBook Pro with PROLED XDR vs MacBook Pro: Here’s every difference\n- Apple reveals pricing for Mac Studio with 512GB of RAM\nListen & Subscribe:\nSubscribe to support Chance directly with 9to5Mac Daily Plus and unlock:\n- Ad-free versions of every episode\n- Bonus content\nDrop us a line at happyhour@9to5mac.com. You can also rate us in Apple Podcasts or recommend us in Overcast to help more people discover the show.\nComments"
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/30/daily-october-30-2026",
+     "title": "9to5Mac Daily: October 30, 2026 – New HomePod features, more",
+     "lang": "en",
+     "extra": {},
+     "id": "ba056b7aa501a214",
+     "published": "2026-10-30T23:25+00:00",
+     "text": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\nNew episodes of 9to5Mac Daily are recorded every weekday. Subscribe to our podcast in Apple Podcast or your favorite podcast player to guarantee new episodes are delivered as soon as they’re available.\nStories discussed in this episode:\n- Apple VP talks new iPad mini: OLED without ProMotion, Acoustic Display, more\n- Reddit will soon require an account for most content\n- HomePod 27.2 is available now with four new features\n- HomePod 27.2 hands-on: default wireless speaker for Mac, Sound Glow and more [Video]\nListen & Subscribe:\nSubscribe to support Chance directly with 9to5Mac Daily Plus and unlock:\n- Ad-free versions of every episode\n- Bonus content\nDrop us a line at happyhour@9to5mac.com. You can also rate us in Apple Podcasts or recommend us in Overcast to help more people discover the show.\nComments"
+    }
+   ]
+  },
+  {
+   "id": "c6d2a0802c4",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Hacker News",
+     "trust": 2,
+     "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+     "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+     "lang": "en",
+     "extra": {},
+     "id": "6d2a0802c49f854e",
+     "published": "2026-10-30T07:45+00:00",
+     "text": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component.\nThe vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13.\n\"This module enables you to sell goods and services to customers through an included shopping cart"
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks",
+     "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+     "lang": "en",
+     "extra": {},
+     "id": "bcc6fcc83b0a17ea",
+     "published": "2026-10-30T10:16+00:00",
+     "text": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]"
+    }
+   ]
+  },
+  {
+   "id": "c2a709f5953",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Gates Foundation AI Fellow Program 2027",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Opportunity Desk",
+     "trust": 1,
+     "url": "https://opportunitydesk.org/2026/10/30/gates-foundation-ai-fellow-program-2027",
+     "title": "Gates Foundation AI Fellow Program 2027",
+     "lang": "en",
+     "extra": {},
+     "id": "2a709f595361b72d",
+     "published": "2026-10-30T12:33+00:00",
+     "text": "Deadline: November 11, 2026\nApplications are open for the Gates Foundation AI Fellow Program 2027. The AI Fellows Program at the Gates Foundation is dedicated to accelerating the responsible and impactful use of AI in global health, development, and education.\nThe goal is to attract top-tier, mission-aligned AI talent to drive innovation in these areas. You will be joining the first Africa-based AI Fellows cohort where you work alongside the Africa team, their partners and government counterparts to bring AI tooling to clarify and make decisions that matter most. Each fellow will be assigned 1–2 high-priority projects that will help accelerate achieving the foundation’s mission.\nBenefits\n- Apply AI where it matters most: Work on problems core to the Foundation’s mission—health, development, and education so more people can live healthy, productive lives.\n- Drive outsized results in LMICs: Aim solutions at countries and communities the Foundation prioritize, where innovation can move the needle fastest.\n- Advance digital public goods: Contribute to safe, inclusive digital public infrastructure and health innovation efforts where AI can accelerate access and equity. Partner with Program Strategy Teams to deliver tangible prototypes, tools, and analyses.\n- Tap into a uniquely powerful network: Collaborate across multilaterals, NGOs, academia, and industry through the Foundation’s partnership model.\n- Stand on a global platform: Benefit from the credibility and reach of a foundation funding work in over 140 countries.\n- Lead from day one: Own high-priority projects with clear outcomes and partners.\n- Grow faster with expert mentorship: Learn from leaders across AI, health, development, and policy while building a portfolio of real-world impact.\nEligibility\n- Candidates must hold a bachelor’s or master’s degree (in Computer Science, Data Science, Engineering, Applied Math or relevant field).\n- At least 2 years of experience applying AI solutions, preferably in health or agricultural systems.\n- Strong foundation in modern AI/ML, including ML/AI modeling, model evaluation, and hands-on experience with LLMs, combined with software engineering and data skills needed to build end-to-end applied solutions. Evidence may come from applied coursework, research, internships, or early professional experience.\n- Demonstrated interest in applying AI to fields such as health systems, public financial management, supply chain and logistics, with enthusiasm and literacy to use modern AI tools safely and pragmatically (direct AI research experience not required). Candidates should be comfortable learning across adjacent technical areas – such as data engineering, time-series analysis, optimization, information retrieval, or decision-support systems – as project needs evolve.\n- Strong teamwork and adaptability, with experience working cross-functionally in complex environments.\n- Demonstrated ability to clearly articulate technical concepts and recommendations to both technical and non-technical audiences.\n- Deep motivation to apply AI responsibly for public good, with alignment to equitable development and global health impact.\n- Hands-on experience building prototypes with LLMs and other modern AI tools (e.g., using open-source tools or API-based platforms), with the judgment to connect AI components to the broader data and software systems needed for real-world use. Willingness to share findings openly and ability to teach and enable others, not just deliver technical outputs.\nApplication\nNote: This is a 12-month limited term employment position based in Abuja, Nigeria / Addis Ababa, Ethiopia / Johannesburg, South Africa / Nairobi, Kenya. Candidates must be able to legally work in the country where this position is located without visa sponsorship and relocation support will not be provided.\nFor mor information, visit AI Fellows Program."
+    },
+    {
+     "source": "Opportunities for Africans",
+     "trust": 1,
+     "url": "https://opportunitiesforafricans.com/the-gates-foundation-ai-fellows-program-2027-for-young-african-innovators",
+     "title": "The Gates Foundation AI Fellows Program 2027 for young African Innovators.",
+     "lang": "en",
+     "extra": {},
+     "id": "d28ff62ab938f270",
+     "published": "2026-10-30T16:39+00:00",
+     "text": "Application Deadline: November 11, 2027\nApplications are now open for the 2027 Gates Foundation AI Fellows Program. The AI Fellows Program at the Gates Foundation is dedicated to accelerating the responsible and impactful use of AI in global health, development, and education.\nYou will be joining the first Africa-based AI Fellows cohort where you work alongside our Africa team, our partners and government counterparts to bring AI tooling to clarify and make decisions that matter most. Each fellow will be assigned 1–2 high-priority projects that will help accelerate achieving the foundation’s mission.\nNote: This is a 12-month limited term employment position based in Abuja, Nigeria / Addis Ababa, Ethiopia / Johannesburg, South Africa / Nairobi, Kenya. Candidates must be able to legally work in the country where this position is located without visa sponsorship and relocation support will not be provided.\nSample project areas include:\n- Build decision-support tools across multiple African countries that unify disparate financing flow systems, conducts a periodic bottleneck diagnostics and supports informed decision-making.\n- Design and prototype a solution to reduce stockouts of essential medicines at district and facility level, targeting countries facing drawdown of US Government-funded logistics management capacity.\n- Strengthen health planning and supply chain systems by building an AI decision-support tool that ranks interventions against budget ceilings and traces prioritized interventions through procurement and cash release, developing a predictive analytics layer to forecast stock-out risk and flag redistribution opportunities before expiry\nYour Role\nThe AI Fellows Program at the Gates Foundation is designed to accelerate the responsible and impactful use of AI in global health, development, and education. Our goal is to attract top-tier, mission-aligned AI talent to drive innovation in these areas. Building on the success of our US and India-based cohorts, we are expanding our program to Africa. As a Gates AI Fellow, you will join a prestigious cohort applying AI for public good and gain career-defining experience, access to Gates’ powerful network, and exposure to senior leadership.\nThis role offers the unique opportunity to collaborate across multiple divisions within the Foundation—including Global Health (GH), Gender Equality (GE), Global Development (GD), and Global Growth & Opportunity (GGO)— to bridge the possibilities of frontier AI technology with the realities of deployment to create real, meaningful impact.\nOver the course of 12 months, each AI Fellow will be assigned to high-priority projects, embedded within our Africa team. Fellows may contribute to multiple AI-oriented projects over the course of the fellowship, including concurrently, and should be comfortable adapting their technical approach as project needs evolve.\nRequirements\n- Education: Candidates must hold a bachelor’s or master’s degree (in Computer Science, Data Science, Engineering, Applied Math or relevant field).\n- Experience: At least 2 years of experience applying AI solutions, preferably in health or agricultural systems.\n- AI Technology: Strong foundation in modern AI/ML, including ML/AI modeling, model evaluation, and hands-on experience with LLMs, combined with software engineering and data skills needed to build end-to-end applied solutions. Evidence may come from applied coursework, research, internships, or early professional experience.\n- AI Applications: Demonstrated interest in applying AI to fields such as health systems, public financial management, supply chain and logistics, with enthusiasm and literacy to use modern AI tools safely and pragmatically (direct AI research experience not required). Candidates should be comfortable learning across adjacent technical areas – such as data engineering, time-series analysis, optimization, information retrieval, or decision-support systems – as project needs evolve.\n- Collaborative Mindset: Strong teamwork and adaptability, with experience working cross-functionally in complex environments.\n- Communication Skills: Demonstrated ability to clearly articulate technical concepts and recommendations to both technical and non-technical audiences.\n- Mission-Driven Ethos: Deep motivation to apply AI responsibly for public good, with alignment to equitable development and global health impact.\n- Builder and Teacher Approach: Hands-on experience building prototypes with LLMs and other modern AI tools (e.g., using open-source tools or API-based platforms), with the judgment to connect AI components to the broader data and software systems needed for real-world use. Willingness to share findings openly and ability to teach and enable others, not just deliver technical outputs.\nBenefits\n- Apply AI where it matters most: Work on problems core to the Foundation’s mission—health, development, and education so more people can live healthy, productive lives.\n- Drive outsized result"
+    }
+   ]
+  },
+  {
+   "id": "c9454cfa86e",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Bose QuietComfort Ultra Earbuds 2nd Gen drop $70 on Amazon",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/quietcomfort-ultra-earbuds-2nd-gen-deal-3730204",
+     "title": "Bose QuietComfort Ultra Earbuds 2nd Gen drop $70 on Amazon",
+     "lang": "en",
+     "extra": {},
+     "id": "9454cfa86e0153eb",
+     "published": "2026-10-30T15:43+00:00",
+     "text": "Bose’s QuietComfort Ultra Earbuds (2nd Gen) are built for people who care most about blocking out noise and getting a secure, comfortable fit, and there’s a solid deal on them right now. This premium true-wireless pair puts the focus on active noise cancellation, everyday comfort, and useful extras that make them easy to live with."
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/quietcomfort-ultra-headphones-gen-2-deal-3730292",
+     "title": "Bose’s new QuietComfort Ultra Headphones hit Prime Day low again",
+     "lang": "en",
+     "extra": {},
+     "id": "db7cac80c143d10e",
+     "published": "2026-10-30T19:24+00:00",
+     "text": "Bose’s QuietComfort Ultra Headphones (2nd Gen) are back down to $369 on Amazon, which saves you $80 off the $449 recommended retail price. That’s an 18% discount relative to the RRP, and it’s worth a look right now because this is a return to the Prime Day price, which is an all-time low."
     }
    ]
   },
@@ -1333,56 +1333,6 @@
    ]
   },
   {
-   "id": "c35ca5beb6f",
-   "kind": "free",
-   "score": 4.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "My Darkest Witch (IndieGala) Giveaway",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "GamerPower",
-     "trust": 1,
-     "url": "https://gamerpower.com/my-darkest-witch-pc-giveaway",
-     "title": "My Darkest Witch (IndieGala) Giveaway",
-     "lang": "en",
-     "extra": {
-      "ends": "N/A",
-      "needs_official_link": true
-     },
-     "id": "35ca5beb6f0528b2",
-     "published": "2026-10-30T12:33+00:00",
-     "text": "My Darkest Witch (IndieGala) Giveaway. Worth: $4.99. Platforms: PC, DRM-Free. Ends: N/A. Score My Darkest Witch for free on IndieGala! My Darkest Witch is a 2d survival arena game with endless waves of enemies. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Login into your free IndieGala account.\r\n3. Scroll down and click the \"Add to Your Library\" button to add the game to your library.\r\n4. Go to \"My Library\" to find your game."
-    }
-   ]
-  },
-  {
-   "id": "cbd47b5d109",
-   "kind": "free",
-   "score": 3.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "A New Beginning: Final Cut (GOG) Giveaway",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "GamerPower",
-     "trust": 1,
-     "url": "https://gamerpower.com/a-new-beginning-final-cut-gog-giveaway",
-     "title": "A New Beginning: Final Cut (GOG) Giveaway",
-     "lang": "en",
-     "extra": {
-      "ends": "2026-11-02 23:59:00",
-      "needs_official_link": true
-     },
-     "id": "bd47b5d1097b4d20",
-     "published": "2026-10-30T09:53+00:00",
-     "text": "A New Beginning: Final Cut (GOG) Giveaway. Worth: $9.99. Platforms: PC, GOG, DRM-Free. Ends: 2026-11-02 23:59:00. Score A New Beginning: Final Cut for free via GOG! A New Beginning - Final Cut is a cinematic adventure game with amazing graphics and great characters. Don´t miss it! How to get it: 1. Click the \"Go to giveaway\" green button and you will be redirected to the GOG home page\r\n2. Scroll down until you find the game banner.\r\n3. Click the \"Get it Free\" button and login into your GOG account to unlock the game."
-    }
-   ]
-  },
-  {
    "id": "cdbefd84aae",
    "kind": "free",
    "score": 3.0,
@@ -1408,6 +1358,31 @@
    ]
   },
   {
+   "id": "c35ca5beb6f",
+   "kind": "free",
+   "score": 3.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "My Darkest Witch (IndieGala) Giveaway",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "GamerPower",
+     "trust": 1,
+     "url": "https://gamerpower.com/my-darkest-witch-pc-giveaway",
+     "title": "My Darkest Witch (IndieGala) Giveaway",
+     "lang": "en",
+     "extra": {
+      "ends": "N/A",
+      "needs_official_link": true
+     },
+     "id": "35ca5beb6f0528b2",
+     "published": "2026-10-30T12:33+00:00",
+     "text": "My Darkest Witch (IndieGala) Giveaway. Worth: $4.99. Platforms: PC, DRM-Free. Ends: N/A. Score My Darkest Witch for free on IndieGala! My Darkest Witch is a 2d survival arena game with endless waves of enemies. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Login into your free IndieGala account.\r\n3. Scroll down and click the \"Add to Your Library\" button to add the game to your library.\r\n4. Go to \"My Library\" to find your game."
+    }
+   ]
+  },
+  {
    "id": "market-2026-10-31",
    "kind": "market",
    "score": 0,
@@ -1426,8 +1401,8 @@
       "market": "crypto",
       "day": "2026-10-31"
      },
-     "published": "2026-10-31T00:16+00:00",
-     "text": "Bitcoin: $77,229 (-0.6% 24h)\nEthereum: $2,244 (+0.3% 24h)\nSolana: $96.25 (+1.3% 24h)\nToncoin: $1.17 (+1.2% 24h)"
+     "published": "2026-10-31T00:46+00:00",
+     "text": "Bitcoin: $77,281 (+0.4% 24h)\nEthereum: $2,247 (+1.8% 24h)\nSolana: $96.50 (+2.9% 24h)\nToncoin: $1.18 (+3.3% 24h)"
     }
    ]
   },
@@ -1519,35 +1494,6 @@
    ]
   },
   {
-   "id": "lib-app-obsidian",
-   "kind": "library",
-   "library_kind": "app",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Obsidian",
-   "logos": [
-    {
-     "name": "Obsidian",
-     "domain": "obsidian.md",
-     "wiki": "Obsidian (software)"
-    }
-   ],
-   "sources": [
-    {
-     "id": "app-obsidian",
-     "source": "library",
-     "trust": 3,
-     "url": "https://play.google.com/store/apps/details?id=md.obsidian",
-     "title": "Obsidian",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Obsidian is a free note-taking app that stores notes as plain Markdown files on your own device and lets you link notes together like a personal wiki. Official link: https://play.google.com/store/apps/details?id=md.obsidian"
-    }
-   ]
-  },
-  {
    "id": "lib-app-aegis",
    "kind": "library",
    "library_kind": "app",
@@ -1603,6 +1549,36 @@
      "extra": {},
      "published": "",
      "text": "Google Lens uses the phone camera to translate text in real time, copy text from paper, identify plants and products, and help solve homework, for free. Official link: https://play.google.com/store/apps/details?id=com.google.ar.lens"
+    }
+   ]
+  },
+  {
+   "id": "lib-app-perplexity",
+   "kind": "library",
+   "library_kind": "app",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Perplexity",
+   "logos": [
+    {
+     "slug": "perplexity",
+     "name": "Perplexity",
+     "domain": "perplexity.ai",
+     "wiki": "Perplexity AI"
+    }
+   ],
+   "sources": [
+    {
+     "id": "app-perplexity",
+     "source": "library",
+     "trust": 3,
+     "url": "https://play.google.com/store/apps/details?id=ai.perplexity.app.android",
+     "title": "Perplexity",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Perplexity is an AI search app that answers questions in full sentences and lists the web sources it used, so you can check them. It has a free plan. Official link: https://play.google.com/store/apps/details?id=ai.perplexity.app.android"
     }
    ]
   },
@@ -1753,6 +1729,35 @@
    ]
   },
   {
+   "id": "lib-bitwarden",
+   "kind": "library",
+   "library_kind": "security",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Bitwarden password manager",
+   "logos": [
+    {
+     "name": "Bitwarden",
+     "domain": "bitwarden.com",
+     "wiki": "Bitwarden"
+    }
+   ],
+   "sources": [
+    {
+     "id": "bitwarden",
+     "source": "library",
+     "trust": 3,
+     "url": "https://bitwarden.com",
+     "title": "Bitwarden password manager",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Bitwarden is an open-source password manager with a free plan that stores unlimited passwords and syncs across unlimited devices. Official link: https://bitwarden.com"
+    }
+   ]
+  },
+  {
    "id": "lib-google-password-checkup",
    "kind": "library",
    "library_kind": "security",
@@ -1779,64 +1784,6 @@
      "extra": {},
      "published": "",
      "text": "Google Password Manager includes Password Checkup, which tells you if any of your saved passwords were exposed in a data breach, reused, or weak. Official link: https://passwords.google.com"
-    }
-   ]
-  },
-  {
-   "id": "lib-virustotal",
-   "kind": "library",
-   "library_kind": "security",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "VirusTotal",
-   "logos": [
-    {
-     "name": "VirusTotal",
-     "domain": "virustotal.com",
-     "wiki": "VirusTotal"
-    }
-   ],
-   "sources": [
-    {
-     "id": "virustotal",
-     "source": "library",
-     "trust": 3,
-     "url": "https://www.virustotal.com",
-     "title": "VirusTotal",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "VirusTotal is a free service owned by Google that scans a file or a link with dozens of antivirus engines at once, useful before opening a suspicious file or APK. Official link: https://www.virustotal.com"
-    }
-   ]
-  },
-  {
-   "id": "lib-bitwarden",
-   "kind": "library",
-   "library_kind": "security",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Bitwarden password manager",
-   "logos": [
-    {
-     "name": "Bitwarden",
-     "domain": "bitwarden.com",
-     "wiki": "Bitwarden"
-    }
-   ],
-   "sources": [
-    {
-     "id": "bitwarden",
-     "source": "library",
-     "trust": 3,
-     "url": "https://bitwarden.com",
-     "title": "Bitwarden password manager",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Bitwarden is an open-source password manager with a free plan that stores unlimited passwords and syncs across unlimited devices. Official link: https://bitwarden.com"
     }
    ]
   },
