@@ -38,8 +38,19 @@ Between them, mix through the day:
   ("enough to download 20,000 films in one second"), and when it may reach people.
 - **software giveaways**: a paid program free for a limited time on its official developer site
   (e.g. vovsoft.com giveaways) — `free` post with the original price, the end date and the official link.
+- **study & travel opportunities** (`type: free`, or `news`): scholarships, fully funded programs,
+  university admissions, training programs, competitions, visa and immigration programs (e.g. DV
+  lottery dates, new visa rules) — from the study_abroad sources. Always open and link the OFFICIAL
+  page (university, embassy, government, program site) and state the deadline exactly; skip if you
+  cannot confirm it there. Never link aggregator sites.
+- **trending topics**: what the world and Algeria are searching (Google Trends sources) — pick the
+  ones linked to tech, science, internet culture, sport or entertainment, find real reporting on
+  them in the other clusters, and explain why everyone is talking about it. Debate is fine; partisan
+  politics and rumours are not.
 - **outage alerts**: when a major app (WhatsApp, Telegram, Instagram…) is down and at least two sources
   report it, post a short `breaking` news with what is affected.
+The rendez-vous are a minimum, not a limit: a second app or site the same day is fine when it is
+genuinely good — always prefer variety and avoid repeating the same kind back to back.
 Every run of 3+ posts needs one non-news post (the gate enforces it). Check the last 24 h of
 `queue/history.jsonl` so the day stays varied and nothing repeats.
 

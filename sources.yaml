@@ -68,3 +68,28 @@ science:
   - {name: New Atlas,          url: https://newatlas.com/index.rss,                    trust: 2, verify: true}
   - {name: Space.com,          url: https://www.space.com/feeds/all,                   trust: 2, verify: true}
   - {name: NASA,               url: https://www.nasa.gov/news-release/feed/,           trust: 3, verify: true}
+
+study:
+  - {name: Opportunity Desk,          url: https://opportunitydesk.org/feed/,             trust: 1, verify: true}
+  - {name: Opportunities for Africans, url: https://www.opportunitiesforafricans.com/feed/, trust: 1, verify: true}
+  - {name: Scholarship Positions,     url: https://scholarship-positions.com/feed/,       trust: 1, verify: true}
+  - {name: DAAD News,                 url: https://www.daad.de/en/rss/news/,              trust: 3, verify: true}
+
+visa:
+  - {name: Schengen News,             url: https://schengen.news/feed/,                   trust: 2, verify: true}
+  - {name: VisaGuide News,            url: https://visaguide.world/news/feed/,            trust: 2, verify: true}
+  - {name: CIC News (Canada),         url: https://www.cicnews.com/feed,                  trust: 2, verify: true}
+
+trends:
+  - {name: Google Trends DZ,          url: "https://trends.google.com/trending/rss?geo=DZ", trust: 1, verify: true}
+  - {name: Google Trends FR,          url: "https://trends.google.com/trending/rss?geo=FR", trust: 1, verify: true}
+  - {name: Google Trends US,          url: "https://trends.google.com/trending/rss?geo=US", trust: 1, verify: true}
+
+study_abroad:
+  - {name: Opportunity Desk,   url: https://opportunitydesk.org/feed/,                  trust: 1, verify: true, note: "writer must find the official page"}
+  - {name: Scholars4Dev,       url: https://www.scholars4dev.com/feed/,                 trust: 1, verify: true, note: "writer must find the official page"}
+  - {name: Opportunities For Africans, url: https://www.opportunitiesforafricans.com/feed/, trust: 1, verify: true}
+
+trends:
+  - {name: Google Trends DZ,   url: "https://trends.google.com/trending/rss?geo=DZ",    trust: 1, verify: true}
+  - {name: Google Trends US,   url: "https://trends.google.com/trending/rss?geo=US",    trust: 1, verify: true}
