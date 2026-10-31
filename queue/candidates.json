@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T20:18:41+00:00",
+ "generated_at": "2026-10-31T20:40:59+00:00",
  "clusters": [
   {
    "id": "c6f116f1e09",
@@ -310,41 +310,6 @@
    ]
   },
   {
-   "id": "c1d78de13bd",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Wired",
-     "trust": 2,
-     "url": "https://wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
-     "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-     "lang": "en",
-     "extra": {},
-     "id": "1d78de13bdeab01c",
-     "published": "2026-10-31T12:00+00:00",
-     "text": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts."
-    },
-    {
-     "source": "Hacker News",
-     "trust": 1,
-     "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
-     "title": "Malware uses LLMs to rank victims by how much they're worth",
-     "lang": "en",
-     "extra": {
-      "comments": "https://news.ycombinator.com/item?id=50316531"
-     },
-     "id": "5b0ac3b976a1c0a5",
-     "published": "2026-10-31T14:29+00:00",
-     "text": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/\nComments URL: https://news.ycombinator.com/item?id=50316531\nPoints: 202\n# Comments: 108"
-    }
-   ]
-  },
-  {
    "id": "ceb0d26f83b",
    "kind": "news",
    "score": 8.0,
@@ -422,46 +387,37 @@
    ]
   },
   {
-   "id": "c93389238e0",
+   "id": "c1d78de13bd",
    "kind": "news",
    "score": 7.0,
    "sensitive": false,
    "distinct_sites": 2,
-   "title_hint": "The American University of Cairo (AUC) Mastercard Foundation Scholars Program 2027 (Fully Funded)",
+   "title_hint": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
    "official_image": null,
    "sources": [
     {
-     "source": "Opportunities for Africans",
-     "trust": 1,
-     "url": "https://opportunitiesforafricans.com/the-american-university-of-cairo-auc-mastercard-foundation-scholars-program-2027",
-     "title": "The American University of Cairo (AUC) Mastercard Foundation Scholars Program 2027 (Fully Funded)",
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware",
+     "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
      "lang": "en",
      "extra": {},
-     "id": "93389238e0556810",
-     "published": "2026-10-30T16:50+00:00",
-     "text": "Application Deadline: May 6, 2027\nApplications are now open for the 2027 American University of Cairo (AUC) Mastercard Foundation Scholars Program. The Mastercard Foundation Scholars Program at American University of Cairo (AUC) provides full scholarships and comprehensive support to talented young people from across Africa, enabling them to pursue higher education while developing their leadership potential and capacity to create positive impact. As part of the Mastercard Foundation Scholars Program, Mastercard Foundation Scholars participate in leadership development activities, workshops, and fieldwork experiences that equip them to become agents of meaningful change in their communities, countries, and across the continent.\nEligibility\n- Currently residing in an African country and in possession of citizenship of at least one African country.\n- Be aged 35 or younger at the time of application.\n- New graduate degree-seeking students, satisfying AUC graduate admissions requirements. Transfers are not eligible for this fellowship.\n- Bachelor’s degree with a minimum overall grade point average (GPA) of 3.2 on a 4.0 scale or equivalent.\n- Showcase financial need.\nDuration\nAwarded for the total study period of the degree, based on full-time enrollment, subject to review every semester for satisfactory academic performance.\nAward Coverage\n- Tuition fees for nine credits per semester\n- Stipend during the fall and spring semesters\n- One laptop is provided\n- Student services and activities fees\n- Medical service and health insurance fees\n- Accommodation in University dorms/residence for those residing outside of Cairo\n- AUC bus subscription (or travel allowance)\n- May cover remedial English modules or intensive English courses\n- Roundtrip airfare provided for fellows not residing in Egypt\n- Some candidates may be eligible for additional funding to cover research, publication fees and conference attendance\n- Special software subscriptions or IT purchases for those with disabilities\nHow to Apply\nStep 1: Check how to apply and submit the AUC online application.\nStep 2: Submit the official Mastercard Foundation Scholars online application.\nFor More Information:"
+     "id": "1d78de13bdeab01c",
+     "published": "2026-10-31T12:00+00:00",
+     "text": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts."
     },
     {
-     "source": "Opportunity Desk",
+     "source": "Hacker News",
      "trust": 1,
-     "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-auc-2027",
-     "title": "Mastercard Foundation Scholars Program at American University of Cairo (AUC) Spring 2027",
+     "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer",
+     "title": "Malware uses LLMs to rank victims by how much they're worth",
      "lang": "en",
-     "extra": {},
-     "id": "6fc935dbc4f44dc6",
-     "published": "2026-10-31T12:38+00:00",
-     "text": "Deadline: November 2, 2026 Applications for the Mastercard Foundation Scholars Program at American University of Cairo (AUC) 2027 are now open. The Mastercard Foundation Scholars Program at American University of Cairo (AUC) provides full scholarships and comprehensive support to talented young people from across Africa, enabling them to pursue higher education while developing their leadership [...]"
-    },
-    {
-     "source": "Opportunity Desk",
-     "trust": 1,
-     "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027",
-     "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
-     "lang": "en",
-     "extra": {},
-     "id": "8e305520e15bb78b",
-     "published": "2026-10-31T14:24+00:00",
-     "text": "Deadline: December 14, 2026 Applications are open for the Mastercard Foundation Scholars Program at Sciences Po 2027. The Mastercard Foundation Scholars Program at Sciences Po is designed for students from the African continent who wish to pursue a two-year Master’s degree at Sciences Po. Across its various Master’s programmes, each Graduate School offers students a [...]"
+     "extra": {
+      "comments": "https://news.ycombinator.com/item?id=50316531"
+     },
+     "id": "5b0ac3b976a1c0a5",
+     "published": "2026-10-31T14:29+00:00",
+     "text": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/\nComments URL: https://news.ycombinator.com/item?id=50316531\nPoints: 202\n# Comments: 108"
     }
    ]
   },
@@ -994,6 +950,50 @@
    ]
   },
   {
+   "id": "c93389238e0",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "The American University of Cairo (AUC) Mastercard Foundation Scholars Program 2027 (Fully Funded)",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Opportunities for Africans",
+     "trust": 1,
+     "url": "https://opportunitiesforafricans.com/the-american-university-of-cairo-auc-mastercard-foundation-scholars-program-2027",
+     "title": "The American University of Cairo (AUC) Mastercard Foundation Scholars Program 2027 (Fully Funded)",
+     "lang": "en",
+     "extra": {},
+     "id": "93389238e0556810",
+     "published": "2026-10-30T16:50+00:00",
+     "text": "Application Deadline: May 6, 2027\nApplications are now open for the 2027 American University of Cairo (AUC) Mastercard Foundation Scholars Program. The Mastercard Foundation Scholars Program at American University of Cairo (AUC) provides full scholarships and comprehensive support to talented young people from across Africa, enabling them to pursue higher education while developing their leadership potential and capacity to create positive impact. As part of the Mastercard Foundation Scholars Program, Mastercard Foundation Scholars participate in leadership development activities, workshops, and fieldwork experiences that equip them to become agents of meaningful change in their communities, countries, and across the continent.\nEligibility\n- Currently residing in an African country and in possession of citizenship of at least one African country.\n- Be aged 35 or younger at the time of application.\n- New graduate degree-seeking students, satisfying AUC graduate admissions requirements. Transfers are not eligible for this fellowship.\n- Bachelor’s degree with a minimum overall grade point average (GPA) of 3.2 on a 4.0 scale or equivalent.\n- Showcase financial need.\nDuration\nAwarded for the total study period of the degree, based on full-time enrollment, subject to review every semester for satisfactory academic performance.\nAward Coverage\n- Tuition fees for nine credits per semester\n- Stipend during the fall and spring semesters\n- One laptop is provided\n- Student services and activities fees\n- Medical service and health insurance fees\n- Accommodation in University dorms/residence for those residing outside of Cairo\n- AUC bus subscription (or travel allowance)\n- May cover remedial English modules or intensive English courses\n- Roundtrip airfare provided for fellows not residing in Egypt\n- Some candidates may be eligible for additional funding to cover research, publication fees and conference attendance\n- Special software subscriptions or IT purchases for those with disabilities\nHow to Apply\nStep 1: Check how to apply and submit the AUC online application.\nStep 2: Submit the official Mastercard Foundation Scholars online application.\nFor More Information:"
+    },
+    {
+     "source": "Opportunity Desk",
+     "trust": 1,
+     "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-auc-2027",
+     "title": "Mastercard Foundation Scholars Program at American University of Cairo (AUC) Spring 2027",
+     "lang": "en",
+     "extra": {},
+     "id": "6fc935dbc4f44dc6",
+     "published": "2026-10-31T12:38+00:00",
+     "text": "Deadline: November 2, 2026 Applications for the Mastercard Foundation Scholars Program at American University of Cairo (AUC) 2027 are now open. The Mastercard Foundation Scholars Program at American University of Cairo (AUC) provides full scholarships and comprehensive support to talented young people from across Africa, enabling them to pursue higher education while developing their leadership [...]"
+    },
+    {
+     "source": "Opportunity Desk",
+     "trust": 1,
+     "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027",
+     "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
+     "lang": "en",
+     "extra": {},
+     "id": "8e305520e15bb78b",
+     "published": "2026-10-31T14:24+00:00",
+     "text": "Deadline: December 14, 2026 Applications are open for the Mastercard Foundation Scholars Program at Sciences Po 2027. The Mastercard Foundation Scholars Program at Sciences Po is designed for students from the African continent who wish to pursue a two-year Master’s degree at Sciences Po. Across its various Master’s programmes, each Graduate School offers students a [...]"
+    }
+   ]
+  },
+  {
    "id": "c6b8020d16c",
    "kind": "news",
    "score": 6.0,
@@ -1093,28 +1093,6 @@
    ]
   },
   {
-   "id": "c2429b7ff45",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "5 Samsung One UI features you won't get with other Android phones",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Engadget",
-     "trust": 2,
-     "url": "https://engadget.com/2299207/one-ui-features-not-on-other-androids",
-     "title": "5 Samsung One UI features you won't get with other Android phones",
-     "lang": "en",
-     "extra": {},
-     "id": "2429b7ff45a92dd5",
-     "published": "2026-10-31T14:30+00:00",
-     "text": "Samsung doesn't just make great phone and tablet hardware; its One UI is also a standout, offering many features you just can't get elsewhere."
-    }
-   ]
-  },
-  {
    "id": "c18a0df6020",
    "kind": "news",
    "score": 6.0,
@@ -1203,9 +1181,53 @@
    ]
   },
   {
+   "id": "c5df0a3cc05",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Vic Mensa can’t live without the Voice Memos app",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Verge",
+     "trust": 2,
+     "url": "https://theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+     "title": "Vic Mensa can’t live without the Voice Memos app",
+     "lang": "en",
+     "extra": {},
+     "id": "5df0a3cc056ab655",
+     "published": "2026-10-31T15:00+00:00",
+     "text": "Vic Mensa is one of those people who has done so many things that it’s hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single “Down On My Luck”? Maybe you didn’t even realize that Mensa was a rapper. Maybe you know him from his roles on The Chi or Bel-Air. Or perhaps you’re mostly aware of him through his activism, social media presence (peeling oranges and waxing poetic), or his podcast The Vic Mensa Show.\nVic Mensa can’t live without the Voice Memos app\nBetween his music, acting, podcast, activism, and businesses, Vic Mensa wears a lot of hats.\nVic Mensa can’t live without the Voice Memos app\nBetween his music, acting, podcast, activism, and businesses, Vic Mensa wears a lot of hats.\nPoint is, the man wears many hats. Part of the secret to being so prolific, it turns out, is Voice Memos. Just capture those ideas before they disappear.\nWhat is your most indispensable tool?\nVoice Memos. Everything starts there for me. Songs, essay ideas, orange tree thoughts, voice notes to myself at some wild hour, little things my son says that I do not want to lose. My phone is a million distractions in one rectangle, but Voice Memos is one of the few parts of it that still feels honest. Just press record before the thought disappears.\nWhich social media platform do you use the most?\nInstagram, for better or worse. That’s definitely where my voice has really found its legs. I started out peeling an orange and talking through whatever was on my mind, and it turned into this whole conversation with people about politics, history, music, grief, jokes, fatherhood, all of it. That response helped show me there was room for The Vic Mensa Show too. Instagram can be a circus, obviously, but it’s also a very valuable tool for connection.\nWhich tech trend do you wish would go away?\nWhat creation are you most proud of?\nProbably my upcoming album right now. It’s the first album that I’ve really taken myself completely seriously as a producer. The surrounding art, videos, design, clothing, and world I’m building around it is something that really excites me as well.\nWhat do you do when you need to focus?\nI either do my Shambhavi Mahamudra meditation that I learned from Sadhguru or the Wim Hof breathing method. Ideally, I’ll do the Wim Hof breathing method in the steam room and then the meditation.\nWhat do you think is worth splurging on?\nAnything that touches your life every day. A good mattress. Good headphones. Quality food. Clothes you will actually keep for years. Experiences with your child. I have wasted money on plenty of dumb shit, so I am trying to be better about buying things that either last or make a real memory.\nWhat would the tagline for your biopic be?\nLive from the contradiction.\nWhat is the last GIF or meme you used?\nMost Popular\n- Sam Altman says it’s better for RAM to be in a data center than on your desk\n- The Apple Pencil turned the Duo into my new favorite notebook\n- Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop\n- The HomeView and Echo Show 16 could be the family computers I’ve been asking for\n- Reddit will force everyone to log in"
+    }
+   ]
+  },
+  {
+   "id": "c0b4eb98dfa",
+   "kind": "free",
+   "score": 4.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "freeCodeCamp",
+     "trust": 2,
+     "url": "https://freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide",
+     "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
+     "lang": "en",
+     "extra": {},
+     "id": "0b4eb98dfa25a44a",
+     "published": "2026-10-30T13:57+00:00",
+     "text": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation.\nWhen an invoice arrives, an automated rules engine checks it against static thresholds. It checks whether the dollar amount falls within normal limits, whether the vendor is on an approved vendor list, and whether the submitting IP address looks familiar. If the individual attributes look plausible, the payment clears.\nThe problem with this approach is structural. Sophisticated fraud schemes like money mule rings, circular invoicing loops, and vendor collision rarely produce transactions that alert individual thresholds. A shell company invoicing $4,800 to stay under a $5,000 dual sign-off threshold looks completely fine in isolation. But when 25 seemingly independent vendors all route disbursements to the same bank account, the coordinated pattern starts to become clear.\nYou won't find the warning in the attributes of an isolated transaction. It lives in the topology of the payment network.\nIn a relational database, tracing these multi-entity relationships requires recursive cell joins across tables of vendors, invoices, payments, and bank accounts. But as tables grow into millions of rows, deep path traversals quickly degrade query performance. Graph databases solve this by storing relationships as first-class, index-free adjacency pointers, turning multi-hop traversals into constant-time lookups.\nIn this tutorial, you'll explore the architecture of an end-to-end relational fraud detection pipeline built on Neo4j. You'll see how to model financial entities as a graph, precompute derived edges to optimize query latency, and write parameterized Cypher queries to uncover five core procurement fraud schemes.\nThe complete reference implementation is available in the fraud-detection-knowledge-graphs repository.\nIn accounts payable pipelines, risk checks typically operate on isolated records:\n# Transaction-level view — nothing suspicious\ntransactions = [\n{\"vendor\": \"Alpha Corp\", \"amount\": 5200.00, \"date\": \"2025-08-01\"},\n{\"vendor\": \"Beta LLC\", \"amount\": 4800.00, \"date\": \"2025-08-02\"},\n{\"vendor\": \"Gamma Inc\", \"amount\": 5100.00, \"date\": \"2025-08-03\"},\n]\n# All amounts within normal range ($1K–$15K). All vendors valid.\n# Dates are sequential. Nothing triggers any rule.\nWhen you map those same records to an interconnected graph, the hidden structure becomes clear right away:\n# Graph view — all three vendors pay to the same account\nconnections = {\n\"ACC-MULE-001\": [\"Alpha Corp\", \"Beta LLC\", \"Gamma Inc\"],\n\"ACC-0042\": [\"Delta Corp\", \"Epsilon LLC\"],\n\"ACC-0099\": [\"Zeta GmbH\"],\n}\n# ACC-MULE-001 receives from 25+ vendors. That's a money mule ring.\n# The convergence is the red flag.\nThe underlying data hasn't changed. But when you evaluate transactions within an entity graph, the coordinated funnel stands out.\nIn a relational database, connecting these dots requires multiple joins across separate table. In a knowledge graph, the connections are stored directly as edges connecting nodes, which allows you to query them in a single traversal.\n| Pattern | What It Is | What Traditional Tools Don't Catch |\n|---|---|---|\n| Duplicate Invoices | Same invoice and vendor, near-identical amount, close dates | Exact match misses slight variations |\n| Circular Rings | Vendors invoicing each other in a closed loop | Each invoice looks legitimate alone |\n| Money Mule Rings | Many vendors funneling to one controlled account | No single payment is anomalous |\n| Vendor Collusion | Independent-looking vendors sharing underlying attributes | No cluster detection across entities |\n| Payment Anomalies | Invoice approved by someone outside their department's authority | Role-based checks pass, context checks don't exist |\nA knowledge graph doesn't replace rules engines or ML models. But it does fill the gap they can't reach: relationships.\nTo follow along with this tutorial, you'll need:\nBefore running fraud queries, you need to structure your data into a cohesive property graph. The reference dataset models six entity types commonly found in financial systems:\n| Entity | Key Properties | Role |\n|---|---|---|\n| Vendor | tax_id, name, country, city | Who issues invoices |\n| Invoice | invoice_id, amount, date, category | What was billed |\n| Payment | payment_id, amount, date | What was paid |\n| BankAccount | account_id, routing_number, bank_name | Where money went |\n| Employee | employee_id, name, department | Who approved |\n| Organization | org_id, name, departments | Structural hierarchy |\nThe base relationships form a bipartite payment network:\n(Employee)-[:APPROVED]->(Payment)-[:LINKED_TO]->(Invoice)-[:ISSUED_BY]->(Vendor)\n|\nv\n(Payment)-[:PAID_TO]->(BankAccount)\nReal-world financial datasets are difficult to access because of privacy and regulatory restrictions. Using synthetic data allows you to inject known fraud patterns and systematically verify that your detection queries find them.\nThe dataset generator creates approximately 500 entities with fiv"
+    }
+   ]
+  },
+  {
    "id": "c27c0451026",
    "kind": "free",
-   "score": 5.0,
+   "score": 4.0,
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Quiztopia: The Ultimate Trivia (Epic Games) Giveaway",
@@ -1238,28 +1260,6 @@
      "id": "c4abc4785ab67aff",
      "published": "2026-10-31T14:28+00:00",
      "text": "Gladiator: Blades of Fury (Epic Games) Giveaway. Worth: $9.99. Platforms: PC, Epic Games Store. Ends: 2026-11-08 23:59:00. Download Gladiator: Blades of Fury for free via Epic Games Store! Gladiator: Blades of Fury is a 3d melee fighting game set during the medieval period. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    }
-   ]
-  },
-  {
-   "id": "c0b4eb98dfa",
-   "kind": "free",
-   "score": 4.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "freeCodeCamp",
-     "trust": 2,
-     "url": "https://freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide",
-     "title": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
-     "lang": "en",
-     "extra": {},
-     "id": "0b4eb98dfa25a44a",
-     "published": "2026-10-30T13:57+00:00",
-     "text": "Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation.\nWhen an invoice arrives, an automated rules engine checks it against static thresholds. It checks whether the dollar amount falls within normal limits, whether the vendor is on an approved vendor list, and whether the submitting IP address looks familiar. If the individual attributes look plausible, the payment clears.\nThe problem with this approach is structural. Sophisticated fraud schemes like money mule rings, circular invoicing loops, and vendor collision rarely produce transactions that alert individual thresholds. A shell company invoicing $4,800 to stay under a $5,000 dual sign-off threshold looks completely fine in isolation. But when 25 seemingly independent vendors all route disbursements to the same bank account, the coordinated pattern starts to become clear.\nYou won't find the warning in the attributes of an isolated transaction. It lives in the topology of the payment network.\nIn a relational database, tracing these multi-entity relationships requires recursive cell joins across tables of vendors, invoices, payments, and bank accounts. But as tables grow into millions of rows, deep path traversals quickly degrade query performance. Graph databases solve this by storing relationships as first-class, index-free adjacency pointers, turning multi-hop traversals into constant-time lookups.\nIn this tutorial, you'll explore the architecture of an end-to-end relational fraud detection pipeline built on Neo4j. You'll see how to model financial entities as a graph, precompute derived edges to optimize query latency, and write parameterized Cypher queries to uncover five core procurement fraud schemes.\nThe complete reference implementation is available in the fraud-detection-knowledge-graphs repository.\nIn accounts payable pipelines, risk checks typically operate on isolated records:\n# Transaction-level view — nothing suspicious\ntransactions = [\n{\"vendor\": \"Alpha Corp\", \"amount\": 5200.00, \"date\": \"2025-08-01\"},\n{\"vendor\": \"Beta LLC\", \"amount\": 4800.00, \"date\": \"2025-08-02\"},\n{\"vendor\": \"Gamma Inc\", \"amount\": 5100.00, \"date\": \"2025-08-03\"},\n]\n# All amounts within normal range ($1K–$15K). All vendors valid.\n# Dates are sequential. Nothing triggers any rule.\nWhen you map those same records to an interconnected graph, the hidden structure becomes clear right away:\n# Graph view — all three vendors pay to the same account\nconnections = {\n\"ACC-MULE-001\": [\"Alpha Corp\", \"Beta LLC\", \"Gamma Inc\"],\n\"ACC-0042\": [\"Delta Corp\", \"Epsilon LLC\"],\n\"ACC-0099\": [\"Zeta GmbH\"],\n}\n# ACC-MULE-001 receives from 25+ vendors. That's a money mule ring.\n# The convergence is the red flag.\nThe underlying data hasn't changed. But when you evaluate transactions within an entity graph, the coordinated funnel stands out.\nIn a relational database, connecting these dots requires multiple joins across separate table. In a knowledge graph, the connections are stored directly as edges connecting nodes, which allows you to query them in a single traversal.\n| Pattern | What It Is | What Traditional Tools Don't Catch |\n|---|---|---|\n| Duplicate Invoices | Same invoice and vendor, near-identical amount, close dates | Exact match misses slight variations |\n| Circular Rings | Vendors invoicing each other in a closed loop | Each invoice looks legitimate alone |\n| Money Mule Rings | Many vendors funneling to one controlled account | No single payment is anomalous |\n| Vendor Collusion | Independent-looking vendors sharing underlying attributes | No cluster detection across entities |\n| Payment Anomalies | Invoice approved by someone outside their department's authority | Role-based checks pass, context checks don't exist |\nA knowledge graph doesn't replace rules engines or ML models. But it does fill the gap they can't reach: relationships.\nTo follow along with this tutorial, you'll need:\nBefore running fraud queries, you need to structure your data into a cohesive property graph. The reference dataset models six entity types commonly found in financial systems:\n| Entity | Key Properties | Role |\n|---|---|---|\n| Vendor | tax_id, name, country, city | Who issues invoices |\n| Invoice | invoice_id, amount, date, category | What was billed |\n| Payment | payment_id, amount, date | What was paid |\n| BankAccount | account_id, routing_number, bank_name | Where money went |\n| Employee | employee_id, name, department | Who approved |\n| Organization | org_id, name, departments | Structural hierarchy |\nThe base relationships form a bipartite payment network:\n(Employee)-[:APPROVED]->(Payment)-[:LINKED_TO]->(Invoice)-[:ISSUED_BY]->(Vendor)\n|\nv\n(Payment)-[:PAID_TO]->(BankAccount)\nReal-world financial datasets are difficult to access because of privacy and regulatory restrictions. Using synthetic data allows you to inject known fraud patterns and systematically verify that your detection queries find them.\nThe dataset generator creates approximately 500 entities with fiv"
     }
    ]
   },
@@ -1332,8 +1332,8 @@
       "market": "crypto",
       "day": "2026-10-31"
      },
-     "published": "2026-10-31T20:13+00:00",
-     "text": "Bitcoin: $77,532 (+0.8% 24h)\nEthereum: $2,255 (+0.8% 24h)\nSolana: $95.83 (+1.0% 24h)\nToncoin: $1.21 (+3.7% 24h)"
+     "published": "2026-10-31T20:40+00:00",
+     "text": "Bitcoin: $77,489 (+0.8% 24h)\nEthereum: $2,252 (+0.7% 24h)\nSolana: $95.58 (+0.7% 24h)\nToncoin: $1.21 (+3.3% 24h)"
     }
    ]
   },
