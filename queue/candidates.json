@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T00:47:05+00:00",
+ "generated_at": "2026-10-31T01:17:59+00:00",
  "clusters": [
   {
    "id": "cfee3176e76",
@@ -163,39 +163,6 @@
      "id": "303a9d0d793d13d8",
      "published": "2026-10-30T15:27+00:00",
      "text": "The Week 1 early Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold at up to $350 off. Those deals join $100 off all Pixel Watch 5 models, the latest Google Pixel Buds Pro 2 at over 25% off – including the new Olive set sitting at its best price ever on Amazon, and return Amazon lows on just about all of Google’s latest Pixelsnap cases. All of that and more awaits below.\nmore…"
-    }
-   ]
-  },
-  {
-   "id": "cbf30529fb5",
-   "kind": "news",
-   "score": 8.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NVIDIA Blog",
-     "trust": 3,
-     "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero",
-     "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
-     "lang": "en",
-     "extra": {},
-     "id": "bf30529fb59df439",
-     "published": "2026-10-29T13:00+00:00",
-     "text": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.\nSomething wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud.\nThere’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, Nov. 4 at 3 p.m. PST, with a launch-week access reward coming for GeForce NOW members.\nThis week’s lineup also includes nine games streaming from the GeForce NOW library, alongside new mod support for Cyberpunk 2077 and The Witcher 3: Wild Hunt — Remastered. That means more options to play, with no downloads or installs to haunt gamers’ devices.\nThere’s another sweet update for gamers in India: The option to sign up for four-month Performance and Ultimate memberships is launching tomorrow. Visit the GeForce NOW website for more information.\nFramed for his master’s murder and gravely wounded, a warrior named Soul has 66 days to uncover a conspiracy threatening the martial world in S-GAME’s Phantom Blade Zero. Powered by Unreal Engine 5, the game combines wuxia storytelling with cinematic action.\nMaster more than 30 primary weapons and over 20 Phantom Edges, chaining evasions, deflections and counterattacks into fluid combat. Traditional Chinese martial arts meet mechanical prosthetics, industrial ruins and rock music in a distinctive kungfupunk world.\nUltimate members can wield GeForce RTX 5080-class performance in the cloud across PCs, Macs, handhelds, mobile devices, browsers, compatible TVs and more. GeForce NOW handles the game’s downloads and storage, leaving more time for the next clash. Soul’s clock is ticking, but the download bar doesn’t have to. Cut to the chase and hop into the game today.\nGet ready for Blizzard Entertainment’s World of Warcraft: Forever, arriving Wednesday, Nov. 4, at 3 p.m. PT, on GeForce NOW. Explore an iconic world reimagined with new and expanded zones, new gameplay enhancements, upgraded graphics and more.\nA new reward will give eligible GeForce NOW members access to join beginning at launch and ending Wednesday, Nov. 11, at 11:59 p.m. PT. The reward is available across all GeForce NOW membership tiers for new WoW users who don’t already have a subscription, while supplies last, on a first-come, first-served basis.\nOnce available, members can sign in to their GeForce NOW account and head to the Account Portal to redeem. Mark the calendar and gather the party — launch week is approaching.\nFamiliar favorites have a few new tricks, too: Mod.io support is now available directly in game for Cyberpunk 2077 and The Witcher 3: Wild Hunt – Remastered, bringing more ways to make Night City and the Continent feel different.\nAnd the treats keep coming with the following games joining the GeForce NOW library this week:\nDates listed above reflect when games are released on their respective stores. GeForce NOW availability may vary, as games are onboarded after they’re released and added throughout the week. Keep an eye on GeForce NOW channels and GFN Thursdays for availability updates to announced titles.\nSettle in for a scary-good gaming session: Grab a day pass to experience Performance or Ultimate cloud gaming. Gamers can then apply the cost applicable toward a first monthly membership upgrade.\nWhat’s haunting the gaming playlist this weekend? Let us know on X or in the comments below."
-    },
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5google.com/2026/10/30/the-official-phantom-blade-zero-smart-glasses-from-viture-are-here",
-     "title": "The official Phantom Blade Zero smart glasses from Viture are here",
-     "lang": "en",
-     "extra": {},
-     "id": "b2be8f31aa4a2ae3",
-     "published": "2026-10-30T12:30+00:00",
-     "text": "Viture Phantom Beast features a unique design, comes in a special metal-and-leather scabbard carrying case, and includes three exclusive Phantom Blade Zero collectibles."
     }
    ]
   },
@@ -409,72 +376,6 @@
    ]
   },
   {
-   "id": "c5100bc6323",
-   "kind": "news",
-   "score": 7.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Hacker News",
-     "trust": 2,
-     "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-     "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-     "lang": "en",
-     "extra": {},
-     "id": "5100bc6323f06f1c",
-     "published": "2026-10-30T07:27+00:00",
-     "text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.\nThe vulnerabilities are listed below -\nCVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise"
-    },
-    {
-     "source": "BleepingComputer",
-     "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks",
-     "title": "CISA says max severity GitLab flaw now exploited in the wild",
-     "lang": "en",
-     "extra": {},
-     "id": "f916a3f37639074e",
-     "published": "2026-10-30T13:00+00:00",
-     "text": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]"
-    }
-   ]
-  },
-  {
-   "id": "c86fc494720",
-   "kind": "news",
-   "score": 7.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Calvert-Lewin set for new Leeds deal",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC Sport Football",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss",
-     "title": "Calvert-Lewin set for new Leeds deal",
-     "lang": "en",
-     "extra": {},
-     "id": "86fc49472070a55d",
-     "published": "2026-10-30T10:26+00:00",
-     "text": "- Published\nEngland striker Dominic Calvert-Lewin is set to sign a new contract at Leeds United.\nThe 29-year-old, who has scored 20 goals in 49 appearances for the Whites since arriving on a free from Everton, currently has a deal until 2028 at Elland Road.\nThe news will come as a blow to Manchester United, who are looking at bringing in a forward in January after Benjamin Sesko was ruled out for an extended period as he tries to recover from a shin injury.\nThe Old Trafford side had been linked with Calvert-Lewin and a potential transfer in the January window.\nHe was recalled to the England squad by Thomas Tuchel in March and, though he missed out on selection for the World Cup, was picked for the most recent Nations League matches, winning his 14th cap on 6 October in the 3-0 victory over the Czech Republic."
-    },
-    {
-     "source": "ESPN Soccer",
-     "trust": 2,
-     "url": "https://espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
-     "title": "Transfer rumors, news: Man United eye move for Leeds' Calvert-Lewin in January",
-     "lang": "en",
-     "extra": {},
-     "id": "0d1ee4dec4a81e00",
-     "published": "2026-10-30T12:50+00:00",
-     "text": "A potential move back to Liverpool for Real Madrid defender Trent Alexander-Arnold could be in the cards. Transfer Talk has the latest."
-    }
-   ]
-  },
-  {
    "id": "ce28e380021",
    "kind": "news",
    "score": 7.0,
@@ -581,28 +482,6 @@
      "id": "7fa3a529dc4851d8",
      "published": "2026-10-30T15:58+00:00",
      "text": "Apple has launched a wave of major new products since John Ternus took over as CEO, and a new interview with Ternus reveals how this aligns very much with his primary focus.\nJohn Ternus names ‘product’ as the chief thing he’s passionate about and focused on\nFollowing Apple’s unveil of the MacBook Pro with PROLED XDR earlier this week, CEO John Ternus sat down for an interview with Steven Levy at WIRED.\nMuch of the ground covered is familiar territory, with Ternus repeating things he’s said before.\nBut a standout focus that Ternus emphasizes, echoed by quotes from some of his top executives, is his deep passion for one thing: product.\nI asked Ternus what it’s like to take on a massively expanded portfolio. “One of the amazing privileges of this job is getting to learn so many new things,” he said. “I have been and will continue to learn and go deeper into different areas. But, you know, I do love product. I’m super passionate about it.”\nTop comment by Chris\nI like John, and I like engineer CEOs, and I hope he has a successful tenure. But so far I'd say his focus has been:\n\"Less Product for More Money\"\nThis emphasis on product is ever-present in Ternus’s answers to other questions. For example:\n- On Apple’s AI approach: “I would hope people recognize that the work we do is building incredible products that make their lives better. We’re absolutely going to leverage AI to do that.”\n- On AI agents potentially replacing current computing methods, and more work happening autonomously: “That could make life really easy, I suppose, but the creation of products is a deeply human and personal thing, something that we love to do.”\n- On whether he favors AI regulation: “Our focus is on making sure that our products are secure and safe, and protecting the users’ information.”\nLevy also shares quotes from two key Apple executives as well. Johny Srouji says, “John is going to be a great CEO. He’s a product guy at heart.” And here’s Greg Joswiak: “John innately has a great sense for great products, and that’s what Apple is.”\nIf Apple’s huge wave of product launches since Ternus took over as CEO wasn’t evidence enough, the messaging from this new interview is clear: Ternus is focused on product.\nWhat are your takeaways from the latest John Ternus quotes? Let us know in the comments.\nBest iPhone accessories\n- AirPods Pro 3 (now only $199, down from $249)\n- MagSafe Car Mount for iPhone\n- 10-year AirTag battery case\n- 100W USB-C fast charging power adapter\n- HomeKit Garage Door Opener\nComments"
-    }
-   ]
-  },
-  {
-   "id": "c948f28b894",
-   "kind": "news",
-   "score": 6.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Equipping healthcare professionals with practical AI skills",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Google Blog",
-     "trust": 3,
-     "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-for-healthcare-professionals-certificate",
-     "title": "Equipping healthcare professionals with practical AI skills",
-     "lang": "en",
-     "extra": {},
-     "id": "948f28b89431d9b7",
-     "published": "2026-10-29T13:00+00:00",
-     "text": "Built by clinicians at Google, the new Google AI for Healthcare Professionals Certificate helps healthcare professionals prioritize patients."
     }
    ]
   },
@@ -1058,6 +937,39 @@
    ]
   },
   {
+   "id": "c5100bc6323",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Hacker News",
+     "trust": 2,
+     "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+     "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+     "lang": "en",
+     "extra": {},
+     "id": "5100bc6323f06f1c",
+     "published": "2026-10-30T07:27+00:00",
+     "text": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation.\nThe vulnerabilities are listed below -\nCVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise"
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks",
+     "title": "CISA says max severity GitLab flaw now exploited in the wild",
+     "lang": "en",
+     "extra": {},
+     "id": "f916a3f37639074e",
+     "published": "2026-10-30T13:00+00:00",
+     "text": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]"
+    }
+   ]
+  },
+  {
    "id": "c6d2a0802c4",
    "kind": "news",
    "score": 6.0,
@@ -1087,6 +999,39 @@
      "id": "bcc6fcc83b0a17ea",
      "published": "2026-10-30T10:16+00:00",
      "text": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]"
+    }
+   ]
+  },
+  {
+   "id": "c86fc494720",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Calvert-Lewin set for new Leeds deal",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC Sport Football",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss",
+     "title": "Calvert-Lewin set for new Leeds deal",
+     "lang": "en",
+     "extra": {},
+     "id": "86fc49472070a55d",
+     "published": "2026-10-30T10:26+00:00",
+     "text": "- Published\nEngland striker Dominic Calvert-Lewin is set to sign a new contract at Leeds United.\nThe 29-year-old, who has scored 20 goals in 49 appearances for the Whites since arriving on a free from Everton, currently has a deal until 2028 at Elland Road.\nThe news will come as a blow to Manchester United, who are looking at bringing in a forward in January after Benjamin Sesko was ruled out for an extended period as he tries to recover from a shin injury.\nThe Old Trafford side had been linked with Calvert-Lewin and a potential transfer in the January window.\nHe was recalled to the England squad by Thomas Tuchel in March and, though he missed out on selection for the World Cup, was picked for the most recent Nations League matches, winning his 14th cap on 6 October in the 3-0 victory over the Czech Republic."
+    },
+    {
+     "source": "ESPN Soccer",
+     "trust": 2,
+     "url": "https://espn.com/soccer/story/_/id/50326251/transfer-rumors-news-manchester-united-leeds-united-striker-dominic-calvert-lewin-january",
+     "title": "Transfer rumors, news: Man United eye move for Leeds' Calvert-Lewin in January",
+     "lang": "en",
+     "extra": {},
+     "id": "0d1ee4dec4a81e00",
+     "published": "2026-10-30T12:50+00:00",
+     "text": "A potential move back to Liverpool for Real Madrid defender Trent Alexander-Arnold could be in the cards. Transfer Talk has the latest."
     }
    ]
   },
@@ -1153,6 +1098,61 @@
      "id": "db7cac80c143d10e",
      "published": "2026-10-30T19:24+00:00",
      "text": "Bose’s QuietComfort Ultra Headphones (2nd Gen) are back down to $369 on Amazon, which saves you $80 off the $449 recommended retail price. That’s an 18% discount relative to the RRP, and it’s worth a look right now because this is a return to the Prime Day price, which is an all-time low."
+    }
+   ]
+  },
+  {
+   "id": "c2dd1194741",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Are Man City fans right about a Premier League 'Red Cartel' that's out to get them?",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "ESPN Soccer",
+     "trust": 2,
+     "url": "https://espn.com/soccer/story/_/id/50321217/man-city-premier-league-red-cartel-allegation-liverpool-man-united-arsenal",
+     "title": "Are Man City fans right about a Premier League 'Red Cartel' that's out to get them?",
+     "lang": "en",
+     "extra": {},
+     "id": "2dd11947417441ba",
+     "published": "2026-10-30T18:07+00:00",
+     "text": "Liverpool vs. Arsenal is one of the Premier League's greatest fixtures and involves two of its most successful clubs. But when the sides meet at Anfield on Sunday, the chat in the boardroom might just be as compelling as the action on the pitch between two members of the so-called \"Red Cartel\" battling to crush Manchester City.\nThe two teams are the most recent Premier League champions, with Arsenal dethroning Liverpool last season to claim their first title since 2004. Together with Manchester United, the third member of this alleged group trying to undermine City, the trio have won 54 league titles and finished runners-up another 44 times, making them the dominant forces in English football history.\nYet all of them would have won more titles during the past decade but for the might of City. And as the eight-time Premier League champions continue to fight to overturn last month's verdict from an independent panel that the club was guilty of all charges related to serious breaches of the Premier League's financial rules over a nine-season period, anger is growing among City fans about the perceived part played by Liverpool, Arsenal and Man United -- all of whom play in red home kits, giving the group its name -- in their downfall.\nCity were found guilty of producing \"sham contracts\" and artificially inflating commercial revenue by over £830 million, with Premier League CEO Richard Masters saying the club \"systematically broke Premier League Rules for nearly a decade.\" Is the \"Red Cartel\" accusation -- whereby those big clubs have an allegiance designed to keep them in power and prevent other clubs from catching up -- merely paranoia and an attempt to deflect blame, or do City and their fans have a justified sense of persecution?\n- Why do Man City fans bring inflatable bananas to games?\n- Ogden: What's next for Man City?\n- All features, explainers on Man City's charges\nFor those City supporters who believe their club has been the victim of a \"Red Cartel\" of rivals colluding to bring their team down, a photograph taken by a diner at a New York restaurant co-owned by Robert de Niro is Exhibit A in their argument.\nIt was taken in October 2017, which predates the Premier League hitting City with 115 charges of breaking the league's financial rules in February 2023, but lands during the 2009-18 time frame covered by the investigation that led to City being found guilty on 114 counts last month. City supporters, and many who have worked for the club, have long maintained that an unholy alliance of rival teams has fought to destabilize City by pushing the Premier League and UEFA for tough financial regulations and their implementation. To them, a dinner at the Locanda Verde restaurant in Tribeca in 2017 is the smoking gun.\nAt the same table, United owners Joel and Avram Glazer and the club's then-executive vice-chairman Ed Woodward sat alongside Liverpool owner John W. Henry and Ivan Gazidis, Arsenal's chief executive at the time.\nThe meeting took place seven days before a Premier League vote on the distribution of future global broadcast revenue, with the Big Six -- United, Liverpool, Arsenal, City, Tottenham and Chelsea -- all wanting a greater share of the revenue, which they secured in a further vote in June 2018.\nThe absence of City, Chelsea and Spurs at that dinner meeting could be explained away by the fact that, at the time, the \"Red\" clubs were American-owned while City (Abu Dhabi), Chelsea (Russian), Spurs (British) were not. But sources told ESPN that the explanation has never been accepted by the City hierarchy, and when CEO Ferran Soriano rejected the independent commission's verdict last month and spoke of the \"Premier League's conspiracy theory,\" his comments were directed as much toward the boardrooms at Anfield, Old Trafford and the Emirates as the Premier League HQ.\nCity declined to comment when contacted by ESPN about the so-called \"cartel,\" but sources have said that ultimately, those at the highest level at the club have no doubts about the desire of their red-shirted rivals to create an environment in which it is more difficult for the club, owned by Sheikh Mansour bin Zayed al Nahyan, to succeed.\n\"From day one, United, Arsenal and Liverpool have been terrified of losing their ability to dominate everything from the Premier League to the transfer market,\" a source with links to City told ESPN. \"Chelsea was already a problem for them under Roman Abramovich, but Sheikh Mansour came along [in 2008] and changed everything again, and the red clubs have been in a battle against City ever since.\"\nA timeline of anti-City comments and criticisms from senior figures at United, Arsenal and Liverpool since 2009 certainly supports the theory that the club's most vocal and persistent detractors have been from the red corner.\nIn January 2009, then-Arsenal manager Arsene Wenger called for financial restrictions due to City providing \"unfair competition in a different financial world from the real economy.\" Tw"
+    },
+    {
+     "source": "ESPN Soccer",
+     "trust": 2,
+     "url": "https://espn.com/soccer/story/_/id/50290912/ranked-premier-league-teams-money-spent-per-point-man-city-cheating",
+     "title": "💰Ranked: What if every Premier League team spent like Man City?",
+     "lang": "en",
+     "extra": {},
+     "id": "83989cafdebb8ecf",
+     "published": "2026-10-30T23:33+00:00",
+     "text": "A few weeks ago, when the Premier League announced that Manchester City were guilty of 114 different violations that added up to them illegally spending an extra $1 billion, everyone realized that the Premier League isn't actually fair.\nHow do we look back on that decade of soccer? What does it mean for Pep Guardiola's legacy? Or Jurgen Klopp's? Or any of the hundreds of other people who were affected in some direct or indirect way?\nOne team cheated, and that team has won six of the past nine Premier League titles. Oh, and they're currently in first place this season. Sports require some version of arbitrary integrity for them to make sense -- we currently don't have that.\nPerhaps, more importantly, we don't even have the illusion of integrity right now.\nManchester City look like the best team in the league but we all expect some big punishment to be thrown at them any day now. But as I wrote about last week, the idea that the Premier League was fair before Manchester City were bought by Abu Dhabi United Group -- or that everyone else is still operating across an equal playing field -- was itself an illusion.\nLast season, Arsenal won the Premier League with an estimated payroll of about €219.3 million, while Brentford had the league's smallest estimated payroll at €62.9 million. Outside of Leicester City's magical run in 2015-16, the team that wins the Premier League is always one of the richest teams in the Premier League.\nSo, as we continue to grapple with the meaning of what we've watched over the past decade, I wanted to look back on everything we've seen in a slightly different way: Who got the most out of what they spent? If everyone had roughly the same resources, who would've dominated the Premier League and who would've sunk to the bottom of the standings?\nHow we created the rankings\nFor this list, I looked at the last 10 full Premier League seasons, and I chose the 20 teams that played the most matches. Then, I gathered spending data from FBref, which has estimated wage data for every club, and Transfermarkt, which is the best public source for transfer spending data.\nFrom there, I calculated the average total spending for every club in the seasons they competed in the Premier League. That total is just a combination of their average annual roster payroll and their average annual net transfer spending.\nFinally, I took the total spending for each team and divided it by the number of points won in the Premier League standings -- a win being worth three points, a draw worth two.\nThat gives us the final metric to sort this list: millions of Euros spent per point won.\nWe'll start with the most efficient teams topping the list -- the teams that could shoot up the table if they were allowed to spend more money -- and, we'll continue down until we find the most wasteful teams that spent the most for the points they got.\n1. Brentford: €1.2 million per point\nWe'll start with a graph that shows the relationship between average spend and points:\nAs you can see, there have been basically two Premier Leagues: one filled with teams that spend somewhere between €60 and €160 million on player costs, and then another with the teams that spend more than €200 million.\nBrentford are the absolute bottom for total spending, but they're ninth in points won. If you look at the trend line, you can see that we'd expect a team with Brentford's spending to win something like 41 points per season but they've won about 51 points per season -- a 24% increase on expectation.\nThat, my friends, is what a willingness to embrace a new approach can get you. Brentford are the Premier League's \"Moneyball\" club.\nThey're run by a professional sports bettor who established proof of concept when he first bought floundering FC Midtjylland in Denmark and turned them into a Champions League team. Then he took over his boyhood club and got them promoted to the Premier League, where they finished ninth last season and currently sit sixth.\nHow best to describe what makes Brentford such a great club? They understand risk better than anyone else in the world: with how they hire managers, how they make tactical decisions, and how they acquire new players and depart from old ones.\nThis chart sums it up:\nThey know that most shots aren't going in, so what do they do to move the odds in their favor? They take higher-quality shots than everyone else, and they concede lower quality shots than everyone else.\nLastly, this isn't a case -- at least, not yet -- of an owner using data to spend less money on his team. Per Deloitte's most recent accounting, Brentford put 75% of their revenue back into wages. The average among the Premier League's so-called Big Six? 56%.\nSo, this is what it all comes down to: If Brentford had been allowed to spend as much money as, say, Manchester City, they'd be Premier League champions by now.\n2. Bournemouth: €1.7 million per point\nBournemouth, too, are unafraid to do things differently.\nIn 2022-23, they fired manager Scott Park"
+    }
+   ]
+  },
+  {
+   "id": "c437ea53b07",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "واتساب تسلّط الضوء على 4 مزايا مهمة للدردشات الجماعية.. تعرف عليها",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "AITNews",
+     "trust": 2,
+     "url": "https://aitnews.com/2026/10/30/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-%d8%aa%d8%b3%d9%84%d9%91%d8%b7-%d8%a7%d9%84%d8%b6%d9%88%d8%a1-%d8%b9%d9%84%d9%89-4-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%85%d9%87%d9%85%d8%a9-%d9%84%d9%84%d8%af%d8%b1",
+     "title": "واتساب تسلّط الضوء على 4 مزايا مهمة للدردشات الجماعية.. تعرف عليها",
+     "lang": "ar",
+     "extra": {},
+     "id": "437ea53b07220e9c",
+     "published": "2026-10-30T18:44+00:00",
+     "text": "ألقت منصة المراسلة الفورية واتساب الضوء على أربعة تحديثات جديدة للدردشات الجماعية، تستهدف تسهيل متابعة المحادثات وتنظيم الرسائل المهمة، خاصةً في المجموعات النشطة التي تشهد تدفقًا كبيرًا من الرسائل. وأوضحت واتساب، عبر مدونتها الرسمية، أن التحديثات الجديدة تمنح المستخدمين أدوات إضافية لمتابعة النقاشات والاطلاع على الرسائل التي تستدعي اهتمامهم، حتى بعد مضي وقت على الابتعاد …"
     }
    ]
   },
@@ -1394,15 +1394,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-10-31/00",
+     "url": "https://market.local/crypto/2026-10-31/01",
      "title": "Market snapshot crypto 2026-10-31",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-10-31"
      },
-     "published": "2026-10-31T00:46+00:00",
-     "text": "Bitcoin: $77,281 (+0.4% 24h)\nEthereum: $2,247 (+1.8% 24h)\nSolana: $96.50 (+2.9% 24h)\nToncoin: $1.18 (+3.3% 24h)"
+     "published": "2026-10-31T01:17+00:00",
+     "text": "Bitcoin: $77,446 (+0.5% 24h)\nEthereum: $2,246 (+1.4% 24h)\nSolana: $96.72 (+2.6% 24h)\nToncoin: $1.18 (+2.5% 24h)"
     }
    ]
   },
