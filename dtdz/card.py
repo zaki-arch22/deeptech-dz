@@ -172,7 +172,9 @@ def _visual(img: Image.Image, post: dict, accent: str) -> Image.Image:
         from .brands import photo_for
         photo = photo_for(post["photo"])
     if photo is not None:
-        credit = post["photo"].get("credit") or ("صورة: ويكيبيديا" if post["photo"].get("wiki") else "صورة: المصدر الرسمي")
+        ph = post["photo"]
+        credit = ph.get("credit") or ("صورة: ويكيميديا كومنز" if ph.get("commons") else
+                                      "صورة: ويكيبيديا" if ph.get("wiki") else "صورة: المصدر الرسمي")
         return _photo_panel(img, photo, specs, credit)
     if specs:
         glow_rgb = _hex(brand_color(specs[0]["slug"])) if specs[0].get("slug") else accent_rgb

@@ -367,7 +367,38 @@ def photo_for(spec: dict):
             im.save(cached, quality=90)
             return im
         return None
+    if spec.get("commons"):
+        return commons_photo(spec["commons"])
     return product_photo(spec["wiki"]) if spec.get("wiki") else None
+
+
+def commons_photo(query: str):
+    """First good photo for a search on Wikimedia Commons (freely licensed media)."""
+    from PIL import Image
+    key = "c-" + re.sub(r"[^a-z0-9]+", "-", query.lower()).strip("-")
+    PHOTO_CACHE.mkdir(parents=True, exist_ok=True)
+    cached = PHOTO_CACHE / f"{key}.jpg"
+    if cached.exists():
+        return Image.open(cached).convert("RGB")
+    try:
+        import httpx
+        r = httpx.get("https://commons.wikimedia.org/w/api.php", timeout=10, headers={"User-Agent": "DeeptechDZ/1.0"},
+                      params={"action": "query", "generator": "search", "gsrsearch": f"filetype:bitmap {query}",
+                              "gsrnamespace": 6, "gsrlimit": 10, "prop": "imageinfo", "iiprop": "url|size|mime",
+                              "iiurlwidth": 1200, "format": "json"})
+        pages = sorted(r.json().get("query", {}).get("pages", {}).values(), key=lambda p: p.get("index", 99))
+        for page in pages:
+            info = (page.get("imageinfo") or [{}])[0]
+            if info.get("mime") not in ("image/jpeg", "image/png") or info.get("width", 0) < 800:
+                continue
+            im = _fetch(info.get("thumburl") or info["url"])
+            if im is not None and min(im.size) >= 300:
+                im = im.convert("RGB")
+                im.save(cached, quality=90)
+                return im
+    except Exception:  # noqa: BLE001
+        return None
+    return None
 
 
 def product_photo(wiki_title: str):

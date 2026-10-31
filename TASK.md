@@ -47,10 +47,20 @@ Every run of 3+ posts needs one non-news post (the gate enforces it). Check the 
 - **Bold** the key fact or number with `**…**` (one to three bolds per post, not whole paragraphs).
 - Figures and lists as short bullet lines starting with `•`.
 - A strong first line; for app/site posts, open with the problem or the "wow" result.
-- Real visuals: brand logos always; add `"photo"` when a real photo makes the post more striking —
-  `{"wiki": "<English Wikipedia article of the product/object/place>"}`, or
-  `{"url": "<image url>"}` only from upload.wikimedia.org or the brand's official newsroom/site.
-  Never photos of people. Never screenshots or photos taken from news sites or other channels.
+- No hashtags at all (the gate rejects them).
+- **Real photos in most posts** (brand logos always, plus a real photo whenever one fits — aim for
+  most news, discovery, app, sport and film posts):
+  - `"photo": {"commons": "<search words>"}` — Wikimedia Commons, freely licensed: cars, phones,
+    devices, consoles, rockets, satellites, data centers, stadiums, buildings, places, objects.
+    E.g. "Toyota bZ4X", "Samsung Galaxy S24", "Falcon 9 launch", "Camp Nou", "fiber optic cable".
+  - `"photo": {"url": "<cluster official_image>"}` — the press image of an official source
+    (company newsroom, NASA); copy it exactly from the cluster's `official_image`.
+  - `"photo": {"wiki": "<English article>"}` — lead photo of a product article.
+  - app posts: an official store screenshot (`play-lh.googleusercontent.com`) is allowed.
+  - NOT allowed: photos of people (players, CEOs, actors, teams), photos or screenshots taken
+    from news sites or newspapers, film posters/stills, other channels' images. For films use
+    the platform logo plus a Commons photo of a related object/place if any; for football use
+    club/competition logos plus a Commons photo of the stadium.
 - Good ideas seen on big Arabic channels and adopted here: "عاجل" for real outages and major news,
   concrete comparisons that make numbers tangible, themed film lists, free software giveaways,
   a short English summary is NOT used (we stay Arabic).

@@ -39,7 +39,7 @@ GOOD = (
     "وهذا يعني محادثات أسرع وخصوصية أكبر.\n\n"
     "الأرقام جميلة على الورق، والحكم الحقيقي عند التجربة. "
     "الشركة تصنع رقاقات الهواتف منذ سنوات، وهذه أول شريحة لها تعد بهذا التوفير في استهلاك البطارية.\n\n"
-    "#هواتف\n" + SIGNATURE
+    + SIGNATURE
 )
 
 
@@ -69,7 +69,7 @@ def test_good_post_passes():
     (lambda t: t.replace("40%", "60%"), "number 60"),
     (lambda t: t.replace("Orbit 3،", "Orbit 3 وشريحة Quasar،"), "name 'Quasar'"),
     (lambda t: t.replace(SIGNATURE, "Deeptech"), "last line"),
-    (lambda t: t.replace("#هواتف", "#هواتف #تقنية"), "one hashtag"),
+    (lambda t: t.replace(SIGNATURE, "#هواتف\n" + SIGNATURE), "no hashtags"),
     (lambda t: "🔥 🚀 " + t, "first line"),
     (lambda t: t + "!!", "banned phrase"),
     (lambda t: t.replace("الأرقام جميلة", "حمّل من t.me/somechannel الأرقام جميلة"), "not allowed"),

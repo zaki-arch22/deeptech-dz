@@ -99,11 +99,8 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
         err.append("format: unbalanced ** bold markers")
     if lines[-1].strip() != SIGNATURE:
         err.append(f"format: last line must be exactly '{SIGNATURE}'")
-    tags = re.findall(r"#[\w_]+", text)
-    if len(tags) > 1:
-        err.append("format: at most one hashtag")
-    if tags and not (len(lines) >= 2 and lines[-2].strip() == tags[0]):
-        err.append("format: the hashtag goes alone on the line before the signature")
+    if re.search(r"(?<![\w&])#[\w_]+", text):
+        err.append("format: no hashtags in posts")
     emo = EMOJI.findall(text)
     if len(emo) > MAX_EMOJI:
         err.append(f"format: {len(emo)} emoji (max {MAX_EMOJI})")
@@ -197,12 +194,15 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
                 err.append(f"dedupe: library item already posted ({h['id']})")
     ph = post.get("photo")
     if ph is not None:
-        if not (ph.get("wiki") or ph.get("url")):
-            err.append("visual: 'photo' needs 'wiki' (English Wikipedia title) or 'url'")
+        if not (ph.get("wiki") or ph.get("url") or ph.get("commons")):
+            err.append("visual: 'photo' needs 'commons' (search), 'wiki' (article title) or 'url'")
         if ph.get("url"):
             ph_host = host(ph["url"])
             official = {host(s["url"]) for s in cluster["sources"] if s.get("trust", 0) >= 3}
-            if not (same_site(ph_host, "wikimedia.org") or any(same_site(ph_host, o) for o in official | OFFICIAL_LINK_SITES)):
+            official_imgs = {i for s in cluster["sources"] for i in [(s.get("extra") or {}).get("image")] if i}
+            store_img = same_site(ph_host, "play-lh.googleusercontent.com") and ptype in ("app", "tool", "free")
+            if not (ph["url"] in official_imgs or store_img or same_site(ph_host, "wikimedia.org")
+                    or any(same_site(ph_host, o) for o in official | OFFICIAL_LINK_SITES)):
                 err.append(f"visual: photo host {ph_host} must be Wikimedia or the brand's official site")
 
     # 7-day dedupe

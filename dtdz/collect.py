@@ -84,6 +84,17 @@ def parse_rss(src: dict, body: bytes, now: float) -> list[Item]:
         if len(content) < MIN_TEXT:
             content = max(content, _clean(e.get("summary", "")), key=len)
         extra = {}
+        if src.get("trust", 0) >= 3:          # official sources: keep their own press image
+            img = None
+            for m in (e.get("media_content") or []) + (e.get("media_thumbnail") or []):
+                if m.get("url"):
+                    img = m["url"]; break
+            if not img:
+                for l in e.get("links") or []:
+                    if l.get("rel") == "enclosure" and str(l.get("type", "")).startswith("image"):
+                        img = l.get("href"); break
+            if img:
+                extra["image"] = img
         if "hnrss" in src["url"]:
             extra["comments"] = e.get("comments")
         items.append(Item(src["name"], src["grp"], src["trust"], canon_url(url), title,

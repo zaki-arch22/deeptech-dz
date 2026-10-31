@@ -121,6 +121,7 @@ def _cluster_json(c: Cluster, now: float) -> dict:
         "sensitive": c.sensitive,
         "distinct_sites": len(c.hosts),
         "title_hint": max(c.items, key=lambda i: i.trust).title,
+        "official_image": next((i.extra.get("image") for i in c.items if i.extra and i.extra.get("image")), None),
         "sources": [
             {**{k: v for k, v in item_dict(i).items() if k in ("id", "source", "trust", "url", "title", "lang", "extra")},
              "published": datetime.fromtimestamp(i.published, timezone.utc).isoformat(timespec="minutes"),
