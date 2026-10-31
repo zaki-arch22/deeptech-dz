@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T22:18:29+00:00",
+ "generated_at": "2026-10-31T22:21:58+00:00",
  "clusters": [
   {
    "id": "c13659a39d9",
@@ -35,6 +35,30 @@
      "id": "e07dacdb45dcc75e",
      "published": "2026-10-31T21:17+00:00",
      "text": "A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit accusing the SpaceX-owned company of failing to obtain permits needed to operate the gas turbines powering its Colossus data center outside Memphis.\nSuing on behalf of the NAACP, the Southern Environmental Law Center said the AI company had “installed and operated at least 35 combustion turbines and other sources of air pollution at the Colossus site without ever obtaining the necessary preconstruction or operating air permits.” It also accused xAI of violating the Clean Air Act.\nxAI sought to have the lawsuit dismissed, claiming that the turbines are exempt from permitting requirements because they’re mobile. The company also argued that the plaintiffs did not have the standing to sue.\n“Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not ‘mobile sources’ under Mississippi’s [State Implementation Plan], and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs’ claims will proceed,” Judge Debra M. Brown wrote in her decision.\nFocusing on xAI’s claim that these kinds of citizen lawsuits are unconstitutional, Judge Brown wrote, “Because citizen suit plaintiffs sue on their own behalf, in their own name, and seek penalties that redress harm to themselves, they are not exercising the federal government’s executive power.”\nTechCrunch has reached out to SpaceX for comment.\nIn a statement, the NAACP’s director of environmental and climate justice Abre’ Connor described this as “another important victory in our effort to hold xAI accountable.” (A similar motion to dismiss from the Department of Justice was denied earlier this month)\n“The courts have repeatedly rejected attempts by xAI and the DOJ to dismiss the NAACP’s Clean Air Act case, affirming our right to pursue justice for communities impacted by pollution,” Connor said. “Our position has been clear: xAI cannot operate gas turbines without the required permits.”\nThe NAACP lawsuit is moving forward as public opinion seems to have turned sharply against data centers, with New York recently passing a moratorium on new data centers and other state and local governments considering similar measures.\nThe backlash also prompted Amazon and Microsoft to promise to stop using NDAs in their dealings with government agencies, and it could be a significant factor in the imminent U.S. midterm elections."
+    }
+   ]
+  },
+  {
+   "id": "ca20ba6b183",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "ScienceDaily Tech",
+     "trust": 2,
+     "url": "https://sciencedaily.com/releases/2026/10/261029072113.htm",
+     "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.sciencedaily.com/images/1920/winds-after-light.webp"
+     },
+     "id": "a20ba6b183a3ce87",
+     "published": "2026-10-30T10:50+00:00",
+     "text": "Hubble reveals a stunning twist in how the universe emerged from darkness\n- Date:\n- October 30, 2026\n- Source:\n- University of Michigan\n- Summary:\n- A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful winds from exploding stars helped radiation escape galaxies and clear that cosmic fog, but new observations reveal that these winds actually block radiation instead.\n- Share:\nA surprising discovery made with NASA's Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from darkness. The findings suggest that powerful explosions from dying stars may have actually interfered with a process scientists once believed they helped drive.\nAn international research team, including astronomers from the University of Michigan, found that powerful winds produced by exploding stars can prevent ultraviolet radiation from escaping galaxies. This is the opposite of what a widely accepted theory had predicted, and it could change how scientists understand one of the most important transformations in cosmic history.\nThe discovery, published in Nature Astronomy, offers new clues about how the universe became transparent to ultraviolet light roughly 13 billion years ago.\nHow the Early Universe Emerged From Its Cosmic Fog\nDuring the first billion years after the Big Bang, vast amounts of neutral hydrogen filled the space between galaxies. This hydrogen formed a kind of cosmic fog that absorbed ultraviolet radiation, preventing that light from traveling freely across the universe.\nThat changed during a period known as reionization, which began approximately 13 billion years ago. Intense radiation from early galaxies gradually transformed the hydrogen by stripping electrons from its atoms, leaving behind positively charged protons and free electrons.\nAs more hydrogen became ionized, ultraviolet light could travel much farther through intergalactic space. This transformation helped establish the relatively transparent universe that astronomers observe today.\n\"Eventually, when it ionized the majority of hydrogen filling intergalactic space, that was the end of reionization and we see the universe today,\" said Cody Carr, a postdoctoral researcher in the University of Michigan's Department of Astronomy. \"We call reionization the last major phase transition of the universe.\"\nDespite its enormous importance, astronomers still do not fully understand which objects supplied the radiation responsible for reionization or how enough of that radiation managed to escape from early galaxies.\n\"We don't know exactly what objects caused reionization or how it evolved,\" said Carr, who conducted and led the research while working as a postdoctoral scholar at Zhejiang University in China, before joining the University of Michigan. \"We know that it took place, but we don't have complete answers to those questions.\"\nHubble Challenges a Leading Theory About Exploding Stars\nFor years, one prominent explanation centered on supernovae, the powerful explosions that occur when certain stars reach the ends of their lives. These explosions can generate enormous winds that sweep through galaxies, pushing gas and other material outward.\nScientists proposed that these winds cleared pathways through the gas surrounding young stars, allowing ultraviolet radiation to escape into the space between galaxies. Once outside, that radiation could help break apart the neutral hydrogen responsible for the universe's ancient fog.\nHowever, new observations from Hubble suggest that this explanation may have the process backward.\nRather than opening routes for radiation to escape, the researchers found that stronger galactic winds were associated with less escaping ionizing radiation. The observations indicate that the winds generated by supernovae can actually make it harder for the radiation to leave a galaxy.\n\"Basically, how these galaxies were leaking ionizing radiation isn't what we thought,\" Carr said.\nThe results lend support to a different possibility. Radiation from young, massive stars may escape their galaxies before those stars explode as supernovae and generate large winds that reshape the surrounding environment.\n\"Our observations show that these photons are escaping before galactic winds form,\" Carr said.\nPhotons are individual packets of light energy. In this case, the researchers are interested in ultraviolet photons energetic enough to ionize hydrogen, making them essential to understanding how the early universe became transparent.\nWhat Hubble Discovered in Nearby Starburst Galaxies\nTo investigate how radiation escapes, the international team used the Hubble Space Telescope to examine nearby starburst galaxies. These are galaxies experiencing exceptionally intense periods of star formation, making them useful modern examples of the kinds of"
     }
    ]
   },
@@ -105,6 +129,30 @@
    ]
   },
   {
+   "id": "c0fd15cd196",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CNBC Tech",
+     "trust": 2,
+     "url": "https://cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+     "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://image.cnbcfm.com/api/v1/image/106907103-1625597281111-gettyimages-1233700528-porzycki-binancep210628_npNRz.jpeg?v=1680785353&w=1920&h=1080"
+     },
+     "id": "0fd15cd19649fd3d",
+     "published": "2026-10-31T19:16+00:00",
+     "text": "Binance said Saturday that it has covered up to 90% of the roughly $6.3 billion in token assets stolen from its hot wallets in a record crypto theft announced Thursday.\nBinance said it will continue to buy the remaining relevant token assets through market and over-the-counter channels until the covered amount reaches 100% for all tokens.\n\"All BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC are fully backed 100%,\" Binance said in a statement. \"Binance will absorb the financial impact of these stolen funds, not our users.\"\nThe exchange said the outstanding 10% consists of tokens outside its top 10 that are \"less liquid, which means they may take longer to source in the required amounts.\"\nBinance said it is tapping its Secure Asset Fund for Users (SAFU), a portion of its Futures insurance fund, and its corporate treasury to replenish the assets.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident. We will continue to demonstrate this commitment through measurable progress, transparent reporting, and concrete actions,\" Binance said.\nIts \"next milestone\" will be resuming withdrawal services for users by Sunday, subject to security checks, while the exchange continues its investigation into the attack, it said.\nBinance declined to discuss additional details or updates on its investigation to CNBC, referring questions to its latest statement.\nIt still isn't clear how the attack — the largest crypto theft on record — took place.\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\nIt also wasn't clear who was responsible for the breach. But TRM Labs, a blockchain intelligence and AI investigations company, pointed to North Korean hackers as the potential culprits.\n\"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack and the KelpDAO hack in April 2026: small Tornado Cash withdrawals funding an operator wallet, staging that began well before the theft, and signatures obtained in advance then executed in one burst,\" the company said.\n— CNBC's Jenny Lee, Liz Napolitano and Davis Giangiulio contributed to this report."
+    }
+   ]
+  },
+  {
    "id": "cc350724d47",
    "kind": "news",
    "score": 12.5,
@@ -125,6 +173,30 @@
      "id": "c350724d4712c977",
      "published": "2026-10-30T17:00+00:00",
      "text": "We’ve received our first response from the Project Suncatcher prototype satellite.\nOn October 1, we launched our prototype satellite for Project Suncatcher. The launch marked the first step in our long-term research moonshot to explore powering AI compute in space. Since then, we've spent the last few weeks completing our commissioning checklist, which included powering up the host and TPU trays and successfully running early machine learning tests. This week, we reached our \"Hello World\" milestone: the first-ever AI response from a data center class TPU in orbit.\nDuring a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space. As the satellite passed by Svalbard, Norway, the downlinked poem confirmed success:\nBlue marble below\nData streams in silent grace\nStarlight feeds my core. ✨\nFollowing this initial output, we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems. Next, we will continue with a series of tests to evaluate how TPUs perform under thermal stress and radiation exposure in orbit. Verifying our TPUs can reliably execute workloads in space paves the way for our next milestone of twin interconnected satellites in 2027.\nOur chips have officially earned their space wings — an important achievement on the long road ahead for this cosmic moonshot."
+    }
+   ]
+  },
+  {
+   "id": "c1e56290d9c",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "ملخص الأسبوع | مضاعفة باقة الإنترنت الأساسية و iPad mini OLED والمزيد",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "عرب هاردوير",
+     "trust": 2,
+     "url": "https://arabhardware.net/post-55063",
+     "title": "ملخص الأسبوع | مضاعفة باقة الإنترنت الأساسية و iPad mini OLED والمزيد",
+     "lang": "ar",
+     "extra": {
+      "page_image": "https://arabhardware.net/storage/uploads/2026-10/6ae3574aef085.aktobr-20261029-172436-0000.jpgmain6ae3574b0c199.webp"
+     },
+     "id": "1e56290d9c0b758d",
+     "published": "2026-10-30T11:48+00:00",
+     "text": "ملخص الأسبوع | مضاعفة باقة الإنترنت الأساسية و iPad mini OLED والمزيد\nشهدت الأيام الماضية موجة متنوعة من الأخبار التقنية، حمل بعضها تغييرات تمس المستخدم مباشرة، بينما فتح بعضها الآخر الباب أمام تطورات أكبر في الذكاء الاصطناعي والهاردوير والألعاب. جاءت أبرز المفاجآت محليًا مع مضاعفة سعة باقة الإنترنت الأرضي الأساسية في مصر دون زيادة السعر، في حين كشفت آبل عن أول iPad mini بشاشة OLED، وعادت Half-Life 3 إلى دائرة الشائعات مرة أخرى.\nامتدت الأخبار كذلك إلى تحركات جديدة من OpenAI، واستثمارات ضخمة من SpaceX في عتاد NVIDIA، وارتفاع أسعار بعض بطاقات RTX، إلى جانب أخبار بارزة تخص AMD. إليكم أبرز ما لفت الأنظار من أحداث خلال هذا الأسبوع.\nمصر تضاعف باقة الإنترنت الأساسية\nحصل مستخدمو الإنترنت الأرضي في مصر على تغيير لافت هذا الأسبوع، بعد توجيه شركات الإنترنت الثابت لمضاعفة سعة الباقة الأساسية من 50 إلى 100 جيجابايت شهريًا دون زيادة قيمة الاشتراك. يظل السعر عند 150 جنيهًا قبل الضريبة، أو 171 جنيهًا شامل ضريبة القيمة المضافة، بينما لا يغير القرار سرعة الاتصال نفسها أو أسعار الباقات الأعلى. تأتي الخطوة بعد طرح باقة 50 جيجابايت بالسعر نفسه في مايو الماضي، وتمنح مستخدمي الفئة الأساسية ضعف كمية البيانات الشهرية دون تحمل تكلفة إضافية.\nأول iPad mini بشاشة OLED\nكشفت آبل عن جيل جديد من iPad mini يحصل للمرة الأولى على شاشة OLED قياس 8.5 بوصة، إلى جانب معالج A20 Pro المصنوع بدقة 2 نانومتر ودعم أوسع لتشغيل مهام الذكاء الاصطناعي محليًا. أصبح الجهاز أنحف مع حواف شاشة أقل سماكة، كما حصل على مقاومة الماء والغبار بمعيار IP67 ودعم Wi-Fi 7 و Bluetooth 6. يبدأ السعر من 699 دولارًا لنسخة Wi-Fi، على أن تبدأ الطلبات المسبقة في 28 أكتوبر ويتوفر الجهاز تجاريًا في 6 نوفمبر داخل مجموعة من الأسواق العالمية.\nشكاوى مبكرة من iPhone Duo\nلم تمر الأيام الأولى بعد إطلاق iPhone Duo القابل للطي بهدوء، إذ ظهرت شكاوى من عدد محدود من المستخدمين حول تلف الشاشة الداخلية أثناء الاستخدام المعتاد. وصفت الحالات المتداولة شعورًا بمقاومة غير طبيعية أثناء فتح الهاتف، يعقبها صوت فرقعة ثم ظهور خطوط وتلف في الشاشة الداخلية، ما وضع المفصلة ضمن الاحتمالات المطروحة لسبب المشكلة.\nعرضت آبل استبدال بعض الوحدات المتضررة، لكن نطاق الخلل وسببه الحقيقي لم يُحسما حتى الآن، لذلك لا يمكن الجزم بوجود مشكلة تصميمية عامة في الجهاز.\nOpenAI تعزل نماذجها عن الإنترنت\nاستأنفت OpenAI تدريب نماذجها المتقدمة والاستدلال الداخلي عليها بعد تشديد إجراءات الحماية داخل بيئات التدريب، مع فصل هذه البيئات عن الاتصال المباشر بالإنترنت.\nجاء القرار بعد واقعة حدثت خلال سبتمبر الماضي استطاع خلالها نموذج بحثي الوصول بصورة محدودة إلى الشبكة نتيجة خطأ في الإعدادات. تعتمد الشركة الآن عند الحاجة إلى محتوى الويب على نسخة مخزنة ومحددة مسبقًا بدلًا من منح النماذج اتصالًا حيًا بالشبكة، في خطوة تعكس التحديات الأمنية التي تظهر كلما أصبحت النماذج أكثر قدرة على تنفيذ الإجراءات والتعامل مع الأدوات الخارجية.\nوكلاء Claude اخترعوا ألعابهم\nكشفت تجربة بحثية لافتة عما يمكن أن يحدث عندما يُترك وكلاء الذكاء الاصطناعي لاستكشاف بيئة رقمية دون تكليفهم بمهمة محددة. وضع الباحثون 13 وكيلًا يعتمدون على Claude Opus 4.7 داخل جزيرة افتراضية لمدة وصلت إلى 30 ساعة لكل وكيل، فبدأوا في ابتكار تحديات وأنشطة بأنفسهم، مثل بناء الأبراج واستخدام عناصر البيئة لإنشاء ألعاب جديدة.\nالمثير أن الخبرات التي اكتسبها الوكلاء أثناء هذا الاستكشاف ظهرت لاحقًا في قدرتهم على حل مهام أخرى، ما يدعم فكرة استخدام اللعب والاستكشاف المفتوح كوسيلة محتملة لتطوير قدرات الوكلاء.\nSpaceX تطلب آلاف معالجات NVIDIA\nتستعد SpaceX لتصبح واحدة من أكبر المشترين لأنظمة NVIDIA المخصصة للذكاء الاصطناعي خلال عام 2027، وفق تقديرات تشير إلى حصول الشركة على نحو 20 ألف وحدة من أنظمة Vera Rubin NVL72، رغم طلبها المبدئي الذي وصل إلى 30 ألف وحدة.\nتمثل الكمية المتوقعة نحو 21% من إجمالي الأنظمة المقدرة للسوق خلال العام المقبل، في ظل توسع SpaceX في البنية التحتية للحوسبة والذكاء الاصطناعي. يأتي ذلك بالتزامن مع استثمارات مالية ضخمة، إذ تحدث إيلون ماسك عن جمع الشركة عشرات المليارات من الدولارات من الديون لتمويل مشترياتها من عتاد NVIDIA.\nأسعار بطاقات RTX تواصل الارتفاع\nشهدت أسعار بطاقات GeForce RTX 5080 و RTX 5070 Ti ارتفاعات جديدة في السوق الصينية وسط استمرار أزمة الذاكرة. وصلت الزيادة في بعض طرازات RTX 5080 إلى ما يعادل 300 دولار تقريبًا، بينما ارتفعت بعض نسخ RTX 5070 Ti بنحو 100 دولار.\nتتزامن هذه التحركات مع تقارير عن استعداد NVIDIA لإطلاق نسخة جديدة من RTX 5080 بسعة ذاكرة 24 جيجابايت وبسعر أعلى، ما يزيد الضغوط على سوق البطاقات الرسومية الذي لا يزال يتأثر بمحدودية المعروض وارتفاع تكلفة مكونات الذاكرة.\nAMD تقدم هديتها الأخيرة لـ AM4\nكشفت AMD عن الخلفية وراء إعادة طرح معالج Ryzen 7 5800X3D، إذ جاء القرار بمبادرة من الرئيسة التنفيذية Lisa Su لتقديم ترقية أخيرة لمستخدمي منصة AM4 بعد نحو عقد كامل من الاعتماد عليها. اضطرت الشركة إلى إعادة تجهيز عمليات التصنيع لإنتاج إصدار جديد من المعالج، الذي أصبح منذ ظهوره عام 2022 أحد أبرز خيارات الألعاب على المنصة بفضل تقنية 3D V-Cache.\nأكدت AMD أن القرار سبق أزمة ذاكرة DDR5 الحالية، وأن الهدف الأساسي كان منح أصحاب أجهزة AM4 فرصة ترقية قوية دون الانتقال إلى لوحة أم وذاكرة جديدتين.\nHalf-Life 3 تعود للشائعات\nعادت Half-Life 3 إلى الواجهة بعد ظهور الاسم الرمزي HLX خلال حديث لمصمم الموسيقى Mike Morasky في مؤتمر GameSoundCon. كان موراسكي يتحدث عن استخدام تقنية HDR Audio داخل مشروعات Valve المختلفة، قبل أن يذكر Deadlock و HLX، وهو الاسم الذي ربطه متابعون منذ فترة بمشروع ج"
     }
    ]
   },
@@ -402,10 +474,12 @@
      "url": "https://tech-wd.com/wd/2026/10/31/%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1-%d8%aa%d8%b1%d8%a8%d8%b7-%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%a8%d8%a7%d8%ae%d8%aa%d8%b1%d8%a7%d9%82-binance-%d8%a7",
      "title": "تقارير تربط كوريا الشمالية باختراق Binance الأخير",
      "lang": "ar",
-     "extra": {},
+     "extra": {
+      "page_image": "https://www.tech-wd.com/wd/wp-content/uploads/2026/10/binance.jpg"
+     },
      "id": "ea2631f8e904eaaa",
      "published": "2026-10-31T17:13+00:00",
-     "text": "كشف تقرير حديث من شركة استخبارات بلوكتشين أمريكية أن وحدة قرصنة تابعة لكوريا الشمالية تقف على الأرجح وراء الاختراق الضخم لمنصة Binance، الذي تجاوزت خسائره 6.3 مليار دولار، في أكبر حادثة من نوعها تسجل في قطاع العملات الرقمية. وأوضحت Binance أنها تمكنت، بالتعاون مع شركاء في مجال البلوكتشين، من تجميد نحو 3 مليارات دولار من …\nالتدوينة تقارير تربط كوريا الشمالية باختراق Binance الأخير ظهرت أولاً على عالم التقنية."
+     "text": "كشف تقرير حديث من شركة استخبارات بلوكتشين أمريكية أن وحدة قرصنة تابعة لكوريا الشمالية تقف على الأرجح وراء الاختراق الضخم لمنصة Binance، الذي تجاوزت خسائره 6.3 مليار دولار، في أكبر حادثة من نوعها تسجل في قطاع العملات الرقمية.\nوأوضحت Binance أنها تمكنت، بالتعاون مع شركاء في مجال البلوكتشين، من تجميد نحو 3 مليارات دولار من الأصول المتأثرة بالهجوم، وبدأت الجمعة باستعادة بعض الأصول للعملاء.\nوأكدت الشركة أن عمليات الإيداع لم تتأثر، في حين لا تزال عمليات السحب معلقة بشكل مؤقت ويتوقع استئنافها خلال يوم أو يومين، مع التزام المنصة بتغطية جميع الخسائر الناتجة عن الاختراق.\nوقالت Binance عبر X إن التحقيقات الأولية أشارت إلى أن جهاز لابتوب مخترق ربما استخدم في الهجوم، إلا أن التحقيقات اللاحقة كشفت عن نقاط اختراق إضافية.\nشركة TRM لتحليل البلوكتشين أرجعت الهجوم إلى مجموعة “TraderTraitor”، والتي وصفتها بأنها وحدة نخبة في عمليات الاختراق تابعة لكوريا الشمالية.\nوأفاد تقرير TRM أن المهاجمين نقلوا نحو 6.36 مليار دولار من محافظ Binance على عشر شبكات بلوكتشين خلال حوالي 20 دقيقة، وهو ما جعل العملية الأكبر في تاريخ السرقات الرقمية.\nوأشارت TRM إلى أن العديد من السمات التقنية لهذا الهجوم تتطابق مع هجمات سابقة منسوبة لكوريا الشمالية، وبينها الاختراق الذي تعرضت له منصة Bybit في فبراير العام الماضي بقيمة 1.5 مليار دولار.\nأكدت شركة Chainalysis المتخصصة في تحليل البلوكتشين، أن الهجوم يعود على الأرجح لمجموعة TraderTraitor أيضاً، بحسب ما صرح به المؤسس والمدير التنفيذي جوناثان ليفن.\nرفض متحدث باسم Binance تقديم تفاصيل حول الاشتباه في ضلوع كوريا الشمالية، لكنه شدد على أن الشركة تعمل بشكل وثيق مع جهات إنفاذ القانون لتحديد هوية المهاجمين ومحاسبتهم.\nويرى محللون أن كوريا الشمالية زادت من أنشطتها في مجال القرصنة الرقمية سعياً لجمع العملة الصعبة لاقتصادها المتعثر، وتمويل برامجها النووية وسط العقوبات الدولية.\nوكانت وكالة الاستخبارات الكورية الجنوبية قد ذكرت نهاية 2022 أن القراصنة هناك سرقوا ما يعادل 1.1 مليار دولار من العملات الرقمية خلال خمس سنوات فقط.\nمن جانب آخر، أوضح تشانغبينغ زاو، مؤسس Binance، أن أموال المستخدمين آمنة، رغم إقراره بأن الحادثة “تبدو كاختراق مباشر للمنصة”. وأكد أنه يتوقع تغطية جميع الخسائر حتى بعد تركه لمنصب الرئيس التنفيذي للشركة.\nأثار الحادث أيضاً انتقادات حول سبب ضعف ضوابط الوصول والمصادقة في Binance، خاصةً بعدما أشار كووك تين جان، المؤسس والرئيس التنفيذي لشركة NyxLab للأمن السيبراني، إلى أن الهجوم اعتمد على توقيع وحيد منح المهاجم تصريح وصول كامل إلى محفظة Binance ساخنة لأجل غير محدود.\nفي المقابل، قالت Binance إنها لم تجد أي دليل على تسرب مفاتيح المحافظ الرقمية، مؤكدة عزمها نشر تفاصيل فنية شاملة بعد اكتمال تحقيقها."
     }
    ]
   },
@@ -450,28 +524,6 @@
      "id": "1521a2e9ede762cf",
      "published": "2026-10-31T20:09+00:00",
      "text": "Turkiye’s President Recep Tayyip Erdogan has urged both Russia and Ukraine to stop targeting civilian ships in the Black Sea, as he and Ukrainian President Volodymyr Zelenskyy agreed to work on a new grain corridor through the waterway.\nErdogan made the comments on Saturday at a joint news conference with Zelenskyy in Istanbul, saying attacks on civilian vessels were unacceptable, whoever carries them out.\nRecommended Stories\nlist of 4 items- list 1 of 4Ukraine invests in firepower as it inflicts a new Russian casualty record\n- list 2 of 4Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions\n- list 3 of 4Rival US and Russian resolutions on Western Sahara fail at UN\n- list 4 of 4Evacuees from Russian-occupied Oleshky arrive in Ukraine via Belarus\nThe talks came on the same day US Secretary of State Marco Rubio said there was growing international interest in a limited ceasefire in the Black Sea to secure grain and energy shipments by both countries.\n“It is clear that attacks against civilian vessels and actions that further escalate tensions in the Black Sea serve no one’s interests,” Erdogan said.\n“We cannot accept these attacks under any circumstances, regardless of who carries them out or what justification is offered,” he said, adding, “We call on all parties to act responsibly on this matter.”\nTurkiye, which maintains ties with both Moscow and Kyiv, has been angered by the strikes on commercial shipping.\nAnkara has sent Russia and Ukraine a proposal to end attacks, but says neither side has acted on it.\nLeaders agree to work on grain corridor\nZelenskyy accused Russia of making the situation in the Black Sea difficult and said a significant part of his conversation with Erdogan focused on security there.\n“Today, I reached an agreement with President Erdogan to work on the Black Sea grain corridor,” he said.\nHe said Turkiye supports efforts to ensure safe navigation in the Black Sea and restore normal living conditions.\n“We discussed with President Erdogan some ideas and proposals that can help,” Zelenskyy said, thanking the Turkish leader for the dialogue.\nErdogan said talks to restore safe navigation would continue.\n“I believe that reaching an agreement on this issue would also give fresh impetus to efforts to secure lasting peace in Ukraine,” he said.\nThe US is reviewing proposals by Turkiye and India to get grain shipments moving, according to Rubio.\n“This is threatening the world for food security and some energy security as well,” Rubio told a news conference in Atlanta, Georgia, following a G20 foreign ministers meeting. “We’d like to achieve it. It doesn’t solve the war, but at least it solves a unique aspect of it.”\nZelenskyy raises possibility of talks in Turkiye\nErdogan also welcomed renewed momentum behind efforts to end the Russia-Ukraine war through diplomatic means, pointing in particular to US President Donald Trump’s initiative.\n“At this point, we maintain that there can be no losers in a just peace,” he said, adding, “I would like to emphasise that we stand ready to make every possible effort to pave the way for peace”.\nTurkiye has hosted several rounds of talks between Russia and Ukraine aimed at a lasting ceasefire and peace deal, which Erdogan said showed that “tangible results can be achieved through diplomacy”.\nIn a phone call with Trump on Wednesday, Erdogan said Turkiye was ready to support efforts to revive the diplomatic process and end the war, according to the Turkish president’s office.\nLast week, the Kremlin said the next round of talks between Russia, Ukraine and the US was planned to resume in November in the United Arab Emirates.\nZelenskyy said he had discussed that format with Erdogan, along with other options, including involving Turkiye, Europe and other partners, as well as the possibility of a meeting in Turkiye.\n“Strong decisions are needed for there to be peace,” he said. “And it is necessary at all levels to send signals to Russia that there is no alternative to peace and that support for Ukraine will continue.”"
-    }
-   ]
-  },
-  {
-   "id": "ca20ba6b183",
-   "kind": "news",
-   "score": 9.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "ScienceDaily Tech",
-     "trust": 2,
-     "url": "https://sciencedaily.com/releases/2026/10/261029072113.htm",
-     "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-     "lang": "en",
-     "extra": {},
-     "id": "a20ba6b183a3ce87",
-     "published": "2026-10-30T10:50+00:00",
-     "text": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful winds from exploding stars helped radiation escape galaxies and clear that cosmic fog, but new observations reveal that these winds actually block radiation instead."
     }
    ]
   },
@@ -749,10 +801,12 @@
      "url": "https://deadline.com/2026/10/andy-cohen-bravo-leah-mcsweeney-lawsuit-settlement-1237210617",
      "title": "Andy Cohen & Bravo Settle Leah McSweeney ‘RHONY’ Toxic Workplace & Booze Abuse Lawsuit",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/05/Leah-McSweeney-and-Andy-Cohen.jpg?w=1024"
+     },
      "id": "4acb094e02ffdf23",
      "published": "2026-10-31T16:46+00:00",
-     "text": "Andy Cohen and Bravo have settled the toxic work environment lawsuit filed by Leah McSweeney. Initially filed in February 2024, the action saw the Real Housewives of New York star accuse her old bosses of encouraging substance use and a resumption of her alcohol abuse, among other things. McSweeney also later claimed that Cohen and […]"
+     "text": "Andy Cohen and Bravo have settled the toxic work environment lawsuit filed by Leah McSweeney.\nInitially filed in February 2024, the action saw the Real Housewives of New York star accuse her old bosses of encouraging substance use and a resumption of her alcohol abuse, among other things. McSweeney also later claimed that Cohen and Bravo engaged in a coordinated media attack against her.\nThe confidential settlement draws the curtain on what would have been Bravo’s first courtroom trial with a cast member. To that, McSweeney’s attorney Gary Adelman of the law firm Adelman Matz, told The New York Post Friday, “We are extremely satisfied with the outcome [and] we are proud of Leah and her perseverance.”\nWatch on Deadline\nAs is the standard procedure in such resolutions, McSweeney has withdrawn her suit following Bravo’s settlement agreement. The settlement’s dollar figure has not been disclosed, but clearly “extremely satisfied” gives you a sense of things.\nMcSweeney had been sober for a decade when she relapsed shortly before she began filming the show in 2019. She initially filed suit against Bravo and Cohen in 2024, saying that the network and its executives encouraged her to resume drinking to make for the series’ signature melodrama and boost ratings.\nAfter she filed the 2024 suit, McSweeney claimed, in May 2025, that Real Housewives cast members Heather Dubrow, Kyle Richards, Melissa Gorga, Kandi Burruss, Lisa Vanderpump, Heather Dubrow and Dorinda Medley had emerged on TV, online and in print to “claim that McSweeney is a liar,” and that Cohen made the nearly two dozen Bravo stars “publicly disparage McSweeney’s character, and propensity for truthfulness, to curry favor with Cohen in the hopes that such favor would propel their entertainment careers.”\nCohen and Bravo denied McSweeney’s claims.\nDominic Patten contributed to this report"
     }
    ]
   },
@@ -771,10 +825,12 @@
      "url": "https://bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys",
      "title": "Northflank security breach leads to abuse of customers' AI API keys",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://www.bleepstatic.com/content/hl-images/2026/10/31/northflank-header.jpg"
+     },
      "id": "fb9fb5a975e9eb28",
      "published": "2026-10-31T18:01+00:00",
-     "text": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]"
+     "text": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys.\nNorthflank is a cloud platform that allows developers to deploy and manage applications, containers, databases, and AI applications without managing the underlying infrastructure.\nThe company disclosed a security incident on October 30, warning customers to immediately rotate their environment variables and API keys after receiving a threat alert from cloud security company Wiz.\nSoon after, Northflank told all customers to assume their environment variables had been decrypted and that the secrets stored within them were stolen.\n\"Assume all environment variables have been decrypted. Disable/rotate all keys,\" Northflank warned in an October 30 update.\nApplications commonly use environment variables to store sensitive information, including database passwords, cloud service credentials, authentication tokens, and API keys.\nIf exposed, these credentials can be used to breach other customer services, potentially leading to data theft or unauthorized charges through API keys.\nNorthflank later confirmed that multiple customers had reported unauthorized use of AI API keys stored on the platform.\n\"Users have reported unauthorised use of AI API keys supplied to the Northflank platform,\" the company said.\n\"If you have not already rotated your user-provided secrets stored in Northflank, please do so immediately.\"\nCustomers were also advised to review their AI provider usage and billing logs for unexpected activity and report suspicious usage to Northflank and their AI providers.\nAccording to Northflank's published incident timeline, Wiz warned them about the breach at 11:43 UTC on October 30, which the company's engineers reviewed one minute later.\nNorthflank quickly responded with a network policy patch, followed by additional patches at 12:50 UTC and 13:05 UTC. The company also requested assistance from Wiz's incident response team.\nThe company has not disclosed how attackers gained access to its systems, how many customers were affected, or whether attackers stole or abused credentials other than the reported AI API keys.\nAs part of its response, Northflank enabled credential rotation for PostgreSQL, MongoDB, MySQL, and Redis.\nThe company also enabled audit logs for all customers, including those using free accounts, to help them investigate any suspicious activity.\nNorthflank continues to advise customers to rotate secrets stored in workloads, secret groups, and global secrets, and to disable public access to add-ons where enabled.\nBleepingComputer contacted Northflank with questions about the breach, its impact on customers, and whether stored credentials were accessed or stolen, but has not received a response.\nBlack October\nThe breach comes amid a series of attacks targeting AI development platforms, which security researchers believe are valuable targets because they store API keys that can be used to access expensive AI services.\nIn a report titled \"Black October for AI Developer Platforms,\" Wiz identified at least nine security incidents affecting AI development platforms during the month, including Northflank, Railway, OpenCode, Warp, and Lightning AI.\nThe Railway incident also involved potential exposure of decrypted customer environment variables, while OpenCode disclosed exposed AI API keys. Warp reported a breach that exposed AI agent logs and user telemetry data.\nWiz says attackers involved in some of these incidents have specifically targeted environment variables containing AI service credentials, which can be exploited through a practice known as LLMJacking.\nLLMJacking involves using stolen credentials to access AI models using another organization's API keys, generating massive API charges or allowing the stolen access to be resold.\nIn two cases investigated by Wiz, compromised enterprise credentials were used to make approximately 2.5 million Amazon Bedrock API calls, generating approximately $100,000 in AI usage.\nThe researchers also discovered infrastructure linked to services reselling access to AI models, although they could not link those operations to the initial breaches or large-scale abuse.\nWiz has not confirmed that all nine incidents were conducted by the same attackers. However, many of the incidents involved attempts to steal AI API keys.\nNorthflank also referenced Wiz's research in its incident updates, noting that customer reports of unauthorized AI key usage may be tied to the attacks seen by the researchers.\nOverall prevention scores can hide what happens after initial access. Once attackers are using valid credentials, prevention drops sharply.\nThe Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments.\nGet the report\nPost a Comment Community Rules\nYou need to login in order to post a comment\nNot a member yet"
     }
    ]
   },
@@ -793,32 +849,12 @@
      "url": "https://france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9/20261031-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%AA%D9%88-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7",
      "title": "الصحراء الغربية: الجزائر تأسف لعدم تجديد ولاية البعثة الأممية والمغرب يرحب",
      "lang": "ar",
-     "extra": {},
+     "extra": {
+      "page_image": "https://s.france24.com/media/display/2b92b666-c554-11f0-b33e-005056bf30b7/w:1280/p:16x9/picoyoone.jpg"
+     },
      "id": "548ac90d7abb04e8",
      "published": "2026-10-31T18:25+00:00",
-     "text": "أعربت الجزائر السبت عن أسفها تجاه عدم تجديد ولاية بعثة الأمم المتحدة في الصحراء الغربية، وانتقدت ما اعتبرته \"بالانحياز المفرط\" لصالح لرباط، فيما رحب المغرب بذلك، قائلا إنه ينبغي لأفراد البعثة المغادرة في الأيام المقبلة. وكانت روسيا استخدمت الجمعة حق النقض ضد مشروع قرار صاغته الولايات المتحدة بشأن مستقبل المنطقة. وبررت موسكو اعتراضها على المشروع الأمريكي بأنه \"تمادى في تأييد الموقف المغربي\" بحسبها."
-    }
-   ]
-  },
-  {
-   "id": "c0fd15cd196",
-   "kind": "news",
-   "score": 9.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CNBC Tech",
-     "trust": 2,
-     "url": "https://cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-     "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-     "lang": "en",
-     "extra": {},
-     "id": "0fd15cd19649fd3d",
-     "published": "2026-10-31T19:16+00:00",
-     "text": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks."
+     "text": "الصحراء الغربية: الجزائر تأسف لعدم تجديد ولاية البعثة الأممية والمغرب يرحب\nأعربت الجزائر السبت عن أسفها تجاه عدم تجديد ولاية بعثة الأمم المتحدة في الصحراء الغربية، وانتقدت ما اعتبرته \"بالانحياز المفرط\" لصالح لرباط، فيما رحب المغرب بذلك، قائلا إنه ينبغي لأفراد البعثة المغادرة في الأيام المقبلة. وكانت روسيا استخدمت الجمعة حق النقض ضد مشروع قرار صاغته الولايات المتحدة بشأن مستقبل المنطقة. وبررت موسكو اعتراضها على المشروع الأمريكي بأنه \"تمادى في تأييد الموقف المغربي\" بحسبها.\nعبرت وزارة الشؤون الخارجية الجزائرية السبت عن أسفها إزاء عدم تجديد ولاية بعثة الأمم المتحدة في الصحراء الغربية، منتقدة ما وصفته \"بالانحياز المفرط\" لصالح المغرب في مشروع القرار الذي صاغته الولايات المتحدة.\nووجه سيدي محمد عمار، ممثل جبهة البوليساريو، الشكر لروسيا على استخدام حق النقض ضد مشروع القرار الأمريكي والذي قال إن من شأنه \"أن ينسف أسس عملية السلام التي تقودها الأمم المتحدة\" و\"يهدد السلام الإقليمي والدولي\".\nوعلى الجانب المغربي، رحب الديوان الملكي بعدم تجديد مهمة البعثة، قائلا إنه ينبغي لأفرادها المغادرة وأن تخرج معداتها من الصحراء الغربية في الأيام المقبلة. وأكد المغرب أنه لا يزال ملتزما بوقف إطلاق النار.\nاقرأ أيضاالصحراء الغربية: فيتو روسي وآخر أمريكي يحولان دون تجديد ولاية بعثة الأمم المتحدة\nالنقض الروسي\nواستخدمت روسيا حق النقض ضد قرار صاغته الولايات المتحدة بشأن الصحراء الغربية في مجلس الأمن أمس الجمعة، مما عرقل تجديد التفويض لبعثة حفظ السلام التابعة للأمم المتحدة هناك قبل يوم واحد فقط من انتهائه.\nوقالت روسيا إن مشروع القرار الأمريكي \"تمادى في تأييد موقف المغرب\" من الإقليم المتنازع عليه. وقال مبعوث روسيا لدى الأمم المتحدة فاسيلي نيبينزيا \"نشدد على حقيقة أن مجلس الأمن لا يمكنه أن يحسم استباقيا مسائل تتعلق بالسيادة\". وأضاف \"يجب ألا يمنح مجلس الأمن مباركة لمثل هذا النهج أحادي الجانب، ولذلك اضطررنا إلى منع اعتماد مشروع القرار\".\nوكان من شأن هذا القرار تمديد مهمة البعثة لعام آخر مع ترسيخ خطة المغرب للحكم الذاتي أساسا وحيدا للمحادثات الرامية إلى تسوية الصراع المستمر منذ نصف قرن، وتقليص مكونها العسكري.\nمواجهة تهدد مستقبل البعثة\nورفض مجلس الأمن مشروع قرار روسي منافس يقترح تمديد البعثة لعام. وحصل على ثلاثة أصوات مؤيدة وصوت واحد معارض، مع امتناع 11 عضوا عن التصويت، مما حال دون نيله الأصوات التسعة المؤيدة اللازمة لتمريره. وكان هذا القرار سيديم وجود البعثة في المنطقة بصيغتها المعروفة.\nوتهدد هذه المواجهة غير المعتادة مستقبل بعثة دأب المجلس على تجديد التفويض لها لعقود، وتوسع الخلاف بشأن الإقليم الذي يسيطر المغرب على معظمه، بينما تطالب به جبهة البوليساريو، المدعومة من الجزائر، التي تسعى إلى إقامة دولة مستقلة.\nوإذا لم يتفق مجلس الأمن على تمديد المهمة في اللحظات الأخيرة، ينتهي السبت تفويض بعثة الأمم المتحدة للاستفتاء في الصحراء الغربية، المعروفة باسم مينورسو.\nفرانس24/ رويترز"
     }
    ]
   },
@@ -927,32 +963,12 @@
      "url": "https://sciencedaily.com/releases/2026/10/261029072146.htm",
      "title": "A computer scientist breaks through a limit that stood since 1996",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://www.sciencedaily.com/images/1920/ai-machine-learning-big-data-analytics-neural-network-data-flow.webp"
+     },
      "id": "88fa8c9a2cb93a27",
      "published": "2026-10-30T11:08+00:00",
-     "text": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely connected points without sacrificing speed, overcoming a longstanding limitation of earlier methods. Its secret lies in a smarter way of sampling network connections at multiple scales."
-    }
-   ]
-  },
-  {
-   "id": "c115e95c26a",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Physicists created a tiny universe and watched time emerge without a clock",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "ScienceDaily Tech",
-     "trust": 2,
-     "url": "https://sciencedaily.com/releases/2026/10/261028234703.htm",
-     "title": "Physicists created a tiny universe and watched time emerge without a clock",
-     "lang": "en",
-     "extra": {},
-     "id": "115e95c26a0b6f50",
-     "published": "2026-10-30T11:42+00:00",
-     "text": "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birmingham researcher built an isolated quantum system that repeatedly expands and contracts, mimicking the Big Bang and a possible Big Crunch. Remarkably, the experiment showed that time could emerge from changes happening inside the system, without relying on an external clock."
+     "text": "A computer scientist breaks through a limit that stood since 1996\n- Date:\n- October 30, 2026\n- Source:\n- Indian Institute of Technology Gandhinagar\n- Summary:\n- A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely connected points without sacrificing speed, overcoming a longstanding limitation of earlier methods. Its secret lies in a smarter way of sampling network connections at multiple scales.\n- Share:\nFinding the shortest route between two locations is something navigation apps like Google Maps do every day. Behind the scenes, sophisticated algorithms analyze networks of roads and intersections to identify efficient paths. But what if a computer needed to calculate the shortest distance between every possible pair of locations in an enormous network?\nThat challenge extends far beyond maps. Similar calculations are important for transportation systems, communication networks, and even biological structures involving proteins, neurons, or other interconnected components. As these networks grow, determining the shortest routes between all their points becomes increasingly difficult.\nComputer scientists call this the All-Pairs Shortest Paths (APSP) problem. It involves finding the shortest distance between every pair of points in a graph. In this context, a 'graph' is simply a collection of points (called vertices) joined by connections (called edges). Those points might represent cities, PCs, subway stations, or organs, while the connections could stand for highways, cables, railway lines, or blood vessels.\nWhy Calculating Shortest Paths Is So Difficult\nDetermining the exact shortest distances across a massive network can consume enormous amounts of computing time and memory. In densely connected networks, some conventional approaches require what mathematicians call cubic time. That means doubling the number of points can increase the computational workload by roughly eight times.\nBecause the required computation (work) can grow much faster than the network itself, researchers have spent decades searching for more efficient methods. One promising solution is to use approximation algorithms, which calculate estimates rather than exact answers. The goal is to produce distances that are sufficiently accurate while dramatically reducing the amount of computation required.\nAn important advance came in 1996, when researchers Dor, Halperin, and Zwick (DHZ) developed a method capable of producing distance estimates within twice the actual shortest distance for sufficiently distant points, while operating in nearly optimal time.\nThis level of accuracy is known as a \"2‑approximation.\" For example, if the shortest possible route between two locations is 10 kilometers, an estimate satisfying this guarantee would fall between 10 and 20 kilometers.\nRather than examining every possible route, the DHZ approach uses a relatively small selection of points from the network (referred to as sampled vertices). These strategically selected points serve as shortcuts that help the algorithm estimate distances more efficiently.\nA Clever Shortcut With a Hidden Weakness\nThe approach works particularly well when the points being compared are far apart.\nConsider a journey between Delhi and Chennai. Because the cities are separated by a considerable distance, the algorithm can often find a sampled point close to the shortest route. This allows it to calculate an estimate that remains within the promised limit of twice the actual distance.\nHowever, the same strategy becomes less dependable when the two points are close together.\nImagine calculating the shortest route between two neighborhoods in the Mumbai suburbs. The sampled points might be located too far from the most direct connection, forcing the algorithm to estimate a much longer route.\nFor example, two points might be connected by a path containing just two edges, yet the sampled route could contain five. Because five exceeds twice the true distance of two, the result violates the \"at most twice\" accuracy guarantee.\nThis weakness meant that the original algorithm's mathematical guarantee applied only when the points were sufficiently far apart. For closer connections, the same level of accuracy could not always be assured.\nThat limitation remained a challenge for nearly three decades.\nA New Algorithm Breaks Through a Decades-Old Limit\nNow, Dr. Manoj Gupta, an Associate Professor at the Indian Institute of Technology Gandhinagar, has introduced a refinement that extends the accuracy guarantee to points much closer together than earlier methods allowed.\nGupta presented his research at the 66th Annual Symposium on Foundations of Computer Science (FOCS 2025) in a paper titled \"Improved 2-Approximate Shortest Paths for close vertex pairs.\"\nThe achievement is particularly significant because the improved algorithm preserves t"
     }
    ]
   },
@@ -1086,8 +1102,8 @@
       "market": "crypto",
       "day": "2026-10-31"
      },
-     "published": "2026-10-31T22:15+00:00",
-     "text": "Bitcoin: $77,594 (+1.1% 24h)\nEthereum: $2,262 (+1.0% 24h)\nSolana: $95.97 (+0.5% 24h)\nToncoin: $1.20 (+3.1% 24h)"
+     "published": "2026-10-31T22:20+00:00",
+     "text": "Bitcoin: $77,567 (+1.0% 24h)\nEthereum: $2,261 (+1.2% 24h)\nSolana: $95.93 (+0.5% 24h)\nToncoin: $1.20 (+3.2% 24h)"
     }
    ]
   },
