@@ -12,8 +12,12 @@ because it is "not Algerian".** Be generous and bold in what you choose; be stri
 ## 2. Each run (the task runs every hour)
 1. `git pull`, then `python -m dtdz plan` → today's posts per category, minimums, times already taken.
 2. Read `queue/candidates.json` (ranked by a wow score), the library items in it, and search the web
-   freely (WebSearch/WebFetch) — world press, TV news sites, official sites, Reddit, YouTube, X posts
-   quoted by media — for the hottest current stories and for categories the plan marks MISSING.
+   freely (WebSearch/WebFetch) — world press on every continent, TV news sites, scientific journals
+   and research (Nature, Science, arXiv, university newsrooms), official company and institution
+   sites, trusted non-official sites, Reddit, YouTube, X posts quoted by media — for the hottest
+   current stories and for categories the plan marks MISSING. The collector already reads ~400 feeds.
+   A research paper becomes a post only through its plain-language story: what was found, why it is
+   surprising, what it changes.
 3. Choose the posts for the next ~70 minutes (07:00–01:00 window) and **pick their times yourself**:
    2–4 per hour, ≥10 min apart, busier 12:00–14:00 and 19:00–23:00, irregular minutes (14:07, 14:26).
    Breaking news: slot = now + 5 min. Target 30–45 posts/day; more when news is hot.
