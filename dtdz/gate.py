@@ -137,6 +137,17 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
     if not logo_specs(post, post.get("headline", "") + "\n" + text):
         err.append("visual: no brand logo — name the company/app/coin in the text, or add "
                    '"logos": [{"name": "...", "domain": "official-site.com"}]')
+    # no "clever" closing remark: a short last paragraph must carry a fact, a link or practical advice
+    paras = [p_.strip() for p_ in re.split(r"\n\s*\n", text.replace(SIGNATURE, "")) if p_.strip()]
+    if len(paras) >= 2 and ptype not in ("market", "list"):
+        last = paras[-1]
+        advice = re.match(r"^(🔗|•|لا ت|احرص|فعّل|فعل|حمّل|حمل|افتح|ادخل|اضغط|غيّر|غير|تحقق|راجع|للحصول|للبدء|"
+                          r"للتفعيل|للتسجيل|سجّل|سجل|اشترك|انتبه|إن كان|إن كنت|إذا كان|إذا كنت|الرابط|المنصة|العرض|"
+                          r"الموعد|التسجيل|متاح|يعرض|تبث|تُعرض|المباراة)", last)
+        fact = re.search(r"\d", last) or URL.search(last) or LATIN_WORD.search(last)
+        if len(last.split()) <= 18 and not advice and not fact:
+            err.append("style: the last paragraph is a closing remark — end on a fact, a date, a link or "
+                       "practical advice (or merge it into the previous paragraph)")
     if len(text) > MAX_CHARS:
         err.append(f"format: {len(text)} characters (max {MAX_CHARS}, Telegram caption limit)")
     n_words = len(re.findall(r"\S+", URL.sub("", body)))

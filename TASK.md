@@ -75,6 +75,8 @@ Same story, written right:
   رصيدك قبل أن يطرق بابك", "العودة إلى الحرف اليدوية، ها نحن ذا"). AI-written fake wit is instantly
   recognisable and cheapens the channel. End on the last useful fact or the practical advice. Stop there.
   Humour is allowed only when it comes from the facts themselves, inside the post, never as a tag line.
+  Also banned: commentary endings like "أن يختارك ميسي بنفسه، فهذه جائزة لا تحتاج إلى كأس". The gate
+  rejects a short last paragraph that has no number, date, name, link or practical advice.
 - Several real photos when available: `"gallery": [{"commons": "..."}, ...]` (up to 3, sent as an album
   with the card first). Use the official press image of the source when the cluster has one.
 - Pace: post whenever something good lands; several posts in an hour is fine during big news.
