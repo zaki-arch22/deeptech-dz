@@ -17,8 +17,8 @@ SIGNATURE = "◆ Deeptech DZ"
 TYPES = {"list", "news", "free", "tool", "market", "odd", "app", "site", "sport", "film", "discovery", "study", "visa", "trend"}
 WORDS = {"list": (45, 220), "news": (35, 130), "odd": (35, 130), "free": (35, 140), "tool": (40, 160), "market": (25, 140), "app": (60, 170), "site": (55, 160), "sport": (35, 150),
          "film": (40, 190), "discovery": (40, 150), "study": (60, 180), "visa": (60, 180), "trend": (60, 170)}
-MAX_LATIN_WORDS = 8               # Latin words outside links: Arabic first, names in Arabic
-MAX_SENTENCE_WORDS = 28
+MAX_LATIN_WORDS = 4               # Latin words outside links: Arabic first, names in Arabic
+MAX_SENTENCE_WORDS = 22
 HEADLINE_WORDS = (4, 10)
 MAX_PARA_LINES = {"list": 14, "market": 9, "tool": 6, "app": 6, "site": 6, "news": 5, "film": 8, "sport": 6}
 MAX_EMOJI, MAX_EMOJI_FIRST = 4, 2
@@ -115,8 +115,9 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
         if first and not is_item and not ("\u0600" <= first <= "\u06FF") and not ln.strip().startswith("🔗"):
             err.append(f"format: line starts with a non-Arabic word — rewrite: «{ln.strip()[:40]}»")
     latin = LATIN_WORD.findall(URL.sub(" ", body))
-    if len(latin) > (25 if ptype == "list" else MAX_LATIN_WORDS) and ptype != "market":
-        err.append(f"style: {len(latin)} English words (max {MAX_LATIN_WORDS}); write known names in Arabic")
+    cap = 25 if ptype == "list" else MAX_LATIN_WORDS if ptype in ("news", "odd", "discovery", "breaking") else 8
+    if len(latin) > cap and ptype != "market":
+        err.append(f"style: {len(latin)} English words (max {cap}); drop technical names, write known names in Arabic")
     for sent in re.split(r"[.!؟?\n]+", URL.sub(" ", body)):
         if len(sent.split()) > MAX_SENTENCE_WORDS:
             err.append(f"style: sentence of {len(sent.split())} words (max {MAX_SENTENCE_WORDS})")

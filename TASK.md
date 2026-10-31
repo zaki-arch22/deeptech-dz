@@ -45,6 +45,26 @@ minor OS rollouts, event promotions, "how to" blog posts, local politics.
 If a promising story has too little text in the cluster, skip it now — the collector fetches the full
 article and it will come back richer in the next run.
 
+**Plain language — the reader is not an engineer (owner's rule):**
+Write for a 17-year-old who uses a phone but knows nothing about chips or models.
+- One idea per paragraph. Say what happened, then why it matters. Nothing else.
+- **No technical names the reader doesn't need**: drop model names, chip names, project code names,
+  version numbers, "data-center class", "uplink/downlink", "telemetry"… If a term is essential, keep
+  ONE and explain it in five words.
+- Prefer everyday words: "حاسوب في الفضاء" not "معالجات TPU من فئة مراكز البيانات".
+- No chains of clauses (… الذي … المزوّد … من النوع …). If a sentence needs a second read, split it.
+
+Example — what was published (too complicated):
+> قمرها الصناعي التجريبي في مشروع Suncatcher، المزوّد بمعالجات TPU من النوع المستعمل في مراكز البيانات،
+> أرسل أول إجابة ذكاء اصطناعي في التاريخ من المدار. المهندسون أرسلوا طلباً من محطة أرضية إلى نموذج
+> Gemma 4 على متن القمر…
+Same story, written right:
+> ⚡ **جوجل شغّلت ذكاءً اصطناعياً في الفضاء لأول مرة في التاريخ.**
+> وضعت حاسوباً قوياً للذكاء الاصطناعي داخل قمر صناعي، ثم أرسلت إليه سؤالاً من الأرض.
+> طلبت منه كتابة قصيدة قصيرة عن الفضاء، فكتبها وأرسلها إلى الأرض.
+> **لماذا هذا مهم؟** الذكاء الاصطناعي يستهلك كهرباء هائلة على الأرض، وفي الفضاء طاقة الشمس لا تنقطع.
+> جوجل تخطط لإطلاق قمرين آخرين في 2027.
+
 **How they write it (adopt):**
 - First line = the whole hook, in bold, starting with ⚡ or ❗ (or 🎁 for free, 🚨 for danger):
   `⚡ **مايكروسوفت تقترح تسريح 60 ألف موظف حول العالم.**`
