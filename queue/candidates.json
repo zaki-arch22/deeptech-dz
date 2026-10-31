@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T20:40:59+00:00",
+ "generated_at": "2026-10-31T21:11:21+00:00",
  "clusters": [
   {
    "id": "c6f116f1e09",
@@ -200,39 +200,6 @@
    ]
   },
   {
-   "id": "c5a1dea183c",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Verge",
-     "trust": 2,
-     "url": "https://theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-     "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-     "lang": "en",
-     "extra": {},
-     "id": "5a1dea183cd68699",
-     "published": "2026-10-30T20:48+00:00",
-     "text": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said:\n\"A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center.\nBut from a global allocation perspective, actually, it's quite terrible to have everybo …"
-    },
-    {
-     "source": "Engadget",
-     "trust": 2,
-     "url": "https://engadget.com/2303266/sam-altman-says-its-terrible-dram-computer",
-     "title": "Sam Altman is upset at you for hoarding RAM in your own computer",
-     "lang": "en",
-     "extra": {},
-     "id": "6d9c5a74cf173d7c",
-     "published": "2026-10-31T15:07+00:00",
-     "text": "Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use."
-    }
-   ]
-  },
-  {
    "id": "cf8bcfadd0f",
    "kind": "news",
    "score": 8.0,
@@ -277,35 +244,79 @@
    ]
   },
   {
-   "id": "c905235e2b7",
+   "id": "cd987c69f0e",
    "kind": "news",
    "score": 8.0,
    "sensitive": false,
    "distinct_sites": 2,
-   "title_hint": "Kane beat Mbappé to Ballon d'Or by one of smallest margins in history",
+   "title_hint": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
    "official_image": null,
    "sources": [
     {
-     "source": "ESPN Soccer",
+     "source": "BBC World",
      "trust": 2,
-     "url": "https://espn.com/soccer/story/_/id/50330001/2026-ballon-dor-results-men-full-women-votes-kane-mbappe",
-     "title": "Kane beat Mbappé to Ballon d'Or by one of smallest margins in history",
+     "url": "https://bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+     "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
      "lang": "en",
      "extra": {},
-     "id": "905235e2b7761754",
-     "published": "2026-10-30T23:33+00:00",
-     "text": "Harry Kane edged out Kylian Mbappé for the 2026 Men's Ballon d'Or by just 28 points, making it one of the closest votes in the award's history.\nBayern Munich striker Kane became the first English winner of the prize in 25 years on Monday as Bayern celebrated their first Ballon d'Or winner in 45 years, and the first for any player at a German club since 1996.\n- Yamal reacted like a 'champion' to Ballon d'Or setback, says Barça's Flick\n- Bayern honor Kane for Ballon d'Or win before German Cup rout\nThe England international scored 73 goals for club and country last season, when he was Europe's top scorer, and his six goals at the World Cup helped his country to a third-place finish.\nMbappé, meanwhile, struck 42 goals for Real Madrid last season before becoming the top scorer in World Cup history this summer with 22 goals for France, 10 of them scored at this year's edition.\nAnd the full voting breakdown published by French outlet L'Equipe on Friday, ahead of award organizers France Football's print version being released on Saturday, showed just how close the race was between the two strikers.\nKane garnered 40 first-place votes for a total of 1,055 points, compared to 23 first-place votes for runner-up Mbappé and a total of 1,027 points. That made it the fourth-closest vote in the award's 70-year history, according to L'Equipe, and the closest since Lionel Messi beat Virgil van Dijk by seven points in 2019.\nThe prize is decided by a jury of 100 international journalists. The points system awards 15 points for first place, 12 for second, 10 for third, then 8, 7, 5, 4, 3, 2, and 1 point for the rest of the top 10.\nThird-place Lamine Yamal was a further 146 points back of Mbappé, and took 13 first-place votes, after a standout year that saw the 19-year-old help Barcelona win the LaLiga title before playing a key part in Spain's World Cup triumph.\nThere was a split in the votes for the World Cup champions, with Lamal's teammate, Rodri, in fourth with 726 points and 10 first-place votes.\nThere was a more decisive outcome for the Women's Ballon d'Or award. Alexia Putellas (618 points) won the award for a third time by beating her former Barcelona teammate Ewa Pajor (532 points) by 86 points. Putellas, now playing for London City Lionesses, was selected first by 28 of the 50 judges.\nManchester City's Khadija Shaw was a distant third with 344 points.\nFull Men's Ballon d'Or Results:\n1. Harry Kane (England, Bayern Munich): 1,055 points.\n2. Kylian Mbappé (France, Real Madrid): 1,027 points\n3. Lamine Yamal (Spain, FC Barcelona): 881 points\n4. Rodri (Spain, Manchester City, Barcelona): 726 points\n5. Lionel Messi (Argentina, Inter Miami): 612 points.\n6. Khvitcha Kvaratskhelia (Georgia, Paris Saint-Germain): 541 points\n7. Ousmane Dembélé (France, Paris Saint-Germain): 418 points\n8. Erling Haaland (Norway, Manchester City): 378 points\n9. Michael Olise (France, Bayern Munich): 296 points\n10. Fabián Ruiz (Spain, Paris Saint-Germain): 201 points\n11. Jude Bellingham (England, Real Madrid): 107 points\n12. Pau Cubarsí (Spain, FC Barcelona): 101 points\n13. Achraf Hakimi (Morocco, Paris Saint-Germain): 65 points\n14. Vitinha (Portugal, Paris Saint-Germain): 59 points\n15. Declan Rice (England, Arsenal): 57 points\n16. Ferran Torres (Spain, FC Barcelona, Paris Saint-Germain since August 2026): 44 points.\n17. Vinícius Júnior (Brazil, Real Madrid): 26 points\n18. Marc Cucurella (Spain, Real Madrid): 16 points\n19. João Neves (Portugal, Paris Saint-Germain): 15 points\n20. Willian Pacho (Ecuador, Paris Saint-Germain): 12 points\n21. Gabriel (Brazil, Arsenal): 11 points\n22. Lautaro Martínez (Argentina, Inter Milan): 11 points\n23. Nuno Mendes (Portugal, Paris Saint-Germain): 8 points\n24. Luis Díaz (Colombia, Bayern Munich): 8 points\n25. Marquinhos (Brazil, Paris Saint-Germain): 7 points\n26. Dayot Upamecano (France, Bayern Munich): 5 points\n27. Bruno Fernandes (Portugal, Manchester United): 5 points\n28. Julián Quiñones (Mexico, Al-Qadsiah): 4 points\n29. Sadio Mané (Senegal, Al Nassr), William Saliba (France, Arsenal): 2 points\nThe Associated Press contributed to this report."
+     "id": "d987c69f0e1470bb",
+     "published": "2026-10-30T23:19+00:00",
+     "text": "How has the ceasefire in Russian-occupied Oleshky been unfolding?\nHundreds of residents of the Russian-occupied city of Oleshky were evacuated and driven to safety on Friday, following a humanitarian ceasefire brokered by US First Lady Melania Trump.\nResidents had a four-hour window to leave the city. Some people are understood to have stayed despite the lack of power and water in the area.\nThe BBC Ukraine correspondent Dan Johnson explains how the ceasefire is going and what could happen next."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+     "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+     "lang": "en",
+     "extra": {},
+     "id": "74a247144d06a87a",
+     "published": "2026-10-31T18:32+00:00",
+     "text": "Evacuees of Russian-occupied Oleshky reunited with families\nUkrainian residents who spent years trapped in the Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory. There were emotional scenes as they were reunited with loved ones. Their evacuation took place during a US-backed local ceasefire."
+    }
+   ]
+  },
+  {
+   "id": "c18a0df6020",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC Sport Football",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
+     "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+     "lang": "en",
+     "extra": {},
+     "id": "18a0df6020bfc968",
+     "published": "2026-10-31T14:35+00:00",
+     "text": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
+     "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
+     "lang": "en",
+     "extra": {},
+     "id": "b48920bdaccae964",
+     "published": "2026-10-31T15:09+00:00",
+     "text": "Goals from Morgan Rogers and Cole Palmer give Chelsea a 2-0 win over Manchester United in the Premier League."
     },
     {
      "source": "BBC Sport Football",
      "trust": 2,
-     "url": "https://bbc.co.uk/sport/football/articles/c6073yeg52xeo?at_medium=RSS&at_campaign=rss",
-     "title": "Kane beat Mbappe to Ballon d'Or by just 28 points",
+     "url": "https://bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
+     "title": "Carrick bemoans Man Utd defending in Chelsea loss",
      "lang": "en",
      "extra": {},
-     "id": "03c7230213b4eb73",
-     "published": "2026-10-31T15:21+00:00",
-     "text": "Voting figures show Harry Kane beat second-placed Kylian Mbappe to the men's Ballon d'Or by one of the tightest winning margins in the award's history."
+     "id": "167c5501c154221d",
+     "published": "2026-10-31T15:13+00:00",
+     "text": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat to Chelsea in the Premier League."
     }
    ]
   },
@@ -339,6 +350,138 @@
      "id": "f42532bc30f444f3",
      "published": "2026-10-31T18:18+00:00",
      "text": "All treat, no trick: HBO Max has released a surprise episode of It: Welcome to Derry for Halloween. “IT’s a surprise Halloween treat,” HBO Max posted on its Instagram page along with a brief clip of the episode (watch it below). “Catch this never-before-seen special exploring the origins of IT in Derry.” The episode, “A […]"
+    }
+   ]
+  },
+  {
+   "id": "c9ecac5e118",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Dakar Youth Olympics: Who gets to hold the flame?",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss",
+     "title": "Dakar Youth Olympics: Who gets to hold the flame?",
+     "lang": "en",
+     "extra": {},
+     "id": "9ecac5e118844aba",
+     "published": "2026-10-31T17:17+00:00",
+     "text": "Senegal makes history by becoming the first African country to host an Olympic event."
+    },
+    {
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/iplayer/episode/l00590gm?at_medium=RSS&at_campaign=rss",
+     "title": "Watch: Youth Olympics Opening Ceremony",
+     "lang": "en",
+     "extra": {},
+     "id": "c5d57b69ba1232c1",
+     "published": "2026-10-31T18:16+00:00",
+     "text": "Follow for live coverage of the Youth Olympics Opening Ceremony from Dakar, Senegal."
+    }
+   ]
+  },
+  {
+   "id": "cab4fd238d4",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC Sport Football",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
+     "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+     "lang": "en",
+     "extra": {},
+     "id": "ab4fd238d458a9ee",
+     "published": "2026-10-31T17:27+00:00",
+     "text": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge."
+    },
+    {
+     "source": "ESPN Soccer",
+     "trust": 2,
+     "url": "https://espn.com/soccer/story/_/id/50336265/man-united-michael-carrick-brushes-talk-premier-league-relegation-battle",
+     "title": "Carrick brushes off talk of Man Utd in relegation battle",
+     "lang": "en",
+     "extra": {},
+     "id": "c0131e5b8dac963a",
+     "published": "2026-10-31T21:00+00:00",
+     "text": "Manchester United manager Michael Carrick said there would no \"stigma' attached to them dropping into the Premier League relegation zone."
+    }
+   ]
+  },
+  {
+   "id": "c5a6c495d22",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Brighton shock Man City, closing gap on Premier League leader to two points",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss",
+     "title": "Brighton shock Man City, closing gap on Premier League leader to two points",
+     "lang": "en",
+     "extra": {},
+     "id": "5a6c495d2279a1df",
+     "published": "2026-10-31T17:32+00:00",
+     "text": "Yasin Ayari goal hands third-placed Brighton 1-0 win at Manchester City, with two points separating top three in EPL."
+    },
+    {
+     "source": "BBC Sport Football",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/football/articles/c6d7qwnz1jnjo?at_medium=RSS&at_campaign=rss",
+     "title": "Verbruggen spreads belief as impressive Brighton beat Man City",
+     "lang": "en",
+     "extra": {},
+     "id": "f939d392d5904b95",
+     "published": "2026-10-31T20:36+00:00",
+     "text": "- Published\nWhen the full-time whistle sounded at Etihad Stadium on Saturday afternoon, there was a striking contrast in the emotions of the players from Manchester City and Brighton.\nThree days after losing to City on penalties in the Carabao Cup fourth round, the Seagulls achieved a 1-0 victory in the Premier League rematch, bouncing back to underline why they must be taken seriously towards the top of the table this season.\nIt was no coincidence that most of the Brighton players made a beeline for the outstanding Bart Verbruggen.\nThe Netherlands goalkeeper made seven saves during a phenomenal afternoon's work to help Brighton not only secure three points but also earn a fifth clean sheet in six Premier League matches.\nVerbruggen's finest moment came during the second half when he produced a sprawling save down to his right to keep out a fierce effort from Matheus Nunes and deny City an equaliser.\nHead coach Fabian Hurzeler commended Verbruggen's display for \"spreading belief\" as Brighton became the first visiting side to keep a Premier League clean sheet at the Etihad since Tottenham in August 2025.\n\"It's important to have this mindset and to spread it around the environment we work in, and belief is key to winning these types of games,\" said Hurzeler.\n\"Coming here to City, against one of the best teams in the league, is always special. You have to be brilliant at the basics and everyone was contributing.\n\"From Tuesday, when we travelled [to Manchester], we wanted to have a good four days, enjoy it and finish strong. Everyone can enjoy this win today.\"\n'We celebrate and go again'\nThere could have very easily been a different outcome.\nThis was an afternoon when Manchester City accumulated an xG of 1.92, compared to 1.00 for Brighton, so there was no shortage of chances for the hosts.\nHome head coach Enzo Maresca will be all too aware that City will have to rediscover their finishing touch - and quickly - if they are to mark his debut campaign in charge with a first Premier League title since 2024.\nManchester City had 21 shots on target without scoring, their highest number without doing so in the Premier League since November 2024, when they managed 24 in a game and drew a blank.\nWhen Maresca sits down to pick apart his side's shortcomings, he will look rueful at chances from Iliman Ndiaye, Abdukodir Khusanov and Nunes in particular.\nBut to say Brighton's victory only came because of an off performance from City would be an extreme injustice to Hurzeler's side, who are quickly becoming one of the most well-rounded in the Premier League.\nIn addition to being the division's highest scorers - having found the back of the net 24 times in nine matches this season - Brighton have also kept the most clean sheets (six).\nOnly Premier League champions Arsenal - who have played one game less and travel to Anfield to face Liverpool on Sunday - have conceded fewer goals than Brighton's seven. Arsenal have shipped five, going into the Liverpool game.\nOne of the main reasons behind Brighton's solid rearguard has been the signing of Luka Vuskovic from Tottenham Hotspur.\nThe 19-year-old has been a transformative figure since arriving at Amex Stadium for a club record fee in July, starting all nine Premier League matches.\nThe Croatian has formed a rock-solid partnership with fellow centre-back Lewis Dunk and built an understanding with goalkeeper Verbruggen, all of whom played the full 90 minutes at the Etihad.\n\"It was a good game from all of us,\" said Verbruggen. \"I'm happy to help the team and make some important saves, but I wasn't the only one.\n\"I think there were four or five shots blocked in an amazing way as well. It was a joint effort from everyone. We celebrate and go again.\"\nBrighton not getting carried away by title talk\nThey couldn't, could they?\nThat's the question football supporters up and down the country are asking themselves as Brighton continue to soar up the Premier League table.\nThe Seagulls sit third, just two points behind Arsenal and Manchester City, and are making a strong case to become the Premier League's most unlikely title challengers since Leicester City, priced at 5,000-1 by bookmakers, achieved the unthinkable in May 2016.\nBrighton's steady rise since returning to the top flight in 2017 means any potential title triumph would come as less of a shock than the feat of Claudio Ranieri's fantastic Foxes.\nSaturday's victory over Manchester City followed a 3-0 win against Arsenal in September.\nThese are results that will only strengthen the belief that something special - whether a first Premier League title or Champions League qualification - could be achieved this season.\nAsked by Sky Sports whether his side could challenge for the title, Verbruggen was keen to keep expectations in check.\n\"We are on game nine, so not really,\" he said. \"We'll take it game by game and see what happens because we have loads of games.\n\"We are just focusing every day on what's ahead of us and the job we have. We wil"
+    }
+   ]
+  },
+  {
+   "id": "cc6c7c07937",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Coventry win leaves Man United on brink of Premier League relegation zone",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/10/31/coventry-beat-sunderland-man-united-on-verge-of-premier-league-drop-zone?traffic_source=rss",
+     "title": "Coventry win leaves Man United on brink of Premier League relegation zone",
+     "lang": "en",
+     "extra": {},
+     "id": "c6c7c07937ae3ffb",
+     "published": "2026-10-31T17:51+00:00",
+     "text": "Manchester United one place outside the EPL's bottom three as Coventry City climb with 3-1 win over Sunderland."
+    },
+    {
+     "source": "ESPN Soccer",
+     "trust": 2,
+     "url": "https://espn.com/soccer/story/_/id/50335264/man-united-implode-chelsea-in-premier-league-relegation-battle",
+     "title": "Man United implode at Chelsea, and, make no mistake, they are in a Premier League relegation battle",
+     "lang": "en",
+     "extra": {},
+     "id": "6268b40fe314b9e4",
+     "published": "2026-10-31T20:31+00:00",
+     "text": "Manchester United missed chances, saw Lisandro Martinez sent off and lost 2-0 to Chelsea. They will be battling against the drop, whoever the manager is."
     }
    ]
   },
@@ -387,6 +530,39 @@
    ]
   },
   {
+   "id": "c5a1dea183c",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Verge",
+     "trust": 2,
+     "url": "https://theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+     "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+     "lang": "en",
+     "extra": {},
+     "id": "5a1dea183cd68699",
+     "published": "2026-10-30T20:48+00:00",
+     "text": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said:\n\"A lot of people want local inference. And somehow, they assume that the problem is solved now because we are going to have open-source models, we're going to be able to run them on our computers, and so we're not going to need all the stuff in the data center.\nBut from a global allocation perspective, actually, it's quite terrible to have everybo …"
+    },
+    {
+     "source": "Engadget",
+     "trust": 2,
+     "url": "https://engadget.com/2303266/sam-altman-says-its-terrible-dram-computer",
+     "title": "Sam Altman is upset at you for hoarding RAM in your own computer",
+     "lang": "en",
+     "extra": {},
+     "id": "6d9c5a74cf173d7c",
+     "published": "2026-10-31T15:07+00:00",
+     "text": "Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use."
+    }
+   ]
+  },
+  {
    "id": "c1d78de13bd",
    "kind": "news",
    "score": 7.0,
@@ -418,6 +594,50 @@
      "id": "5b0ac3b976a1c0a5",
      "published": "2026-10-31T14:29+00:00",
      "text": "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/\nComments URL: https://news.ycombinator.com/item?id=50316531\nPoints: 202\n# Comments: 108"
+    }
+   ]
+  },
+  {
+   "id": "c4173b14fbb",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "سباق الكرة الذهبية: ميسي يضع الجزائري إبراهيم مازة ثالثا في فئة \"أفضل لاعب شاب\" خلف يامال وكوبارسي",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 Arabic",
+     "trust": 2,
+     "url": "https://france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261031-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D9%85%D9%8A%D8%B3%D9%8A-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D9%85%D8%A7%D8%B2%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8-%D8%B4%D8%A7%D8%A8",
+     "title": "سباق الكرة الذهبية: ميسي يضع الجزائري إبراهيم مازة ثالثا في فئة \"أفضل لاعب شاب\" خلف يامال وكوبارسي",
+     "lang": "ar",
+     "extra": {},
+     "id": "4173b14fbb83711f",
+     "published": "2026-10-31T15:24+00:00",
+     "text": "كشفت مجلة \"ليكيب\" الرياضية الفرنسية أن النجم الأرجنتيني ليونيل ميسي قد منح صوته لللاعب الدولي الجزائري إبراهيم مازة، المحترف بنادي ليفركوزن، في فئة \"أفضل لاعب شاب\" لمسابقة الكرة الذهبية، والتي فاز فيها الإسباني لامين يامال (برشلونة). وبفضل صوت \"البرغوث\"، حل مازة في المركز الثالث بهذه الفئة."
+    }
+   ]
+  },
+  {
+   "id": "cbcf71d6a21",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "فرنسا: اتحادان طلابيان يدعوان إلى إغلاق المدارس الثانوية والجامعات الثلاثاء والخميس",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 Arabic",
+     "trust": 2,
+     "url": "https://france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261031-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%D8%A7%D9%86-%D8%B7%D9%84%D8%A7%D8%A8%D9%8A%D8%A7%D9%86-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%88%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A7%D8%AA-%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D8%A7%D9%84%D8%AE%D9%85%D9%8A%D8%B3",
+     "title": "فرنسا: اتحادان طلابيان يدعوان إلى إغلاق المدارس الثانوية والجامعات الثلاثاء والخميس",
+     "lang": "ar",
+     "extra": {},
+     "id": "bcf71d6a212741b3",
+     "published": "2026-10-31T15:47+00:00",
+     "text": "من داخل مسيرة احتجاجية في باريس، دعا اتحادان طلابيان فرنسيان إلى إغلاق المدارس الثانوية والجامعات يومي الثلاثاء والخميس. وقال رياض راني، رئيس اتحاد طلاب فرنسا: \"نحن لا نطالب بالرفاهية... نطالب بظروف تضمن الكرامة\". وتشهد فرنسا، السبت، مظاهرات في جميع أنحاء البلاد في ظل مخاوف السلطات من حدوث انفلاتات أمنية على غرار ما حصل في مظاهرات 17 أكتوبر. واتخذت السلطات تدابير أمنية استثنائية ونشرت نحو 70 ألفا من عناصر الشرطة والدرك."
     }
    ]
   },
@@ -554,6 +774,28 @@
    ]
   },
   {
+   "id": "c72cf2c89f8",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "مباشر: الداخلية الفرنسية تعلن مشاركة 320 ألف شخص في الاحتجاجات والنقابات تتحدث عن نصف مليون متظاهر",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 Arabic",
+     "trust": 2,
+     "url": "https://france24.com/ar/%D9%81%D8%B1%D9%86%D8%B3%D8%A7/20261031-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D9%81%D9%8A-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D8%B9%D8%A8%D8%A6%D8%A9-70-%D8%A3%D9%84%D9%81-%D8%B1%D8%AC%D9%84-%D8%A3%D9%85%D9%86-%D9%88%D8%B3%D8%B7-%D8%AA%D8%AD%D8%B0%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D9%86-%D8%AE%D8%B7%D8%B1-%D9%83%D8%A8%D9%8A%D8%B1-%D8%AA%D8%B2%D8%A7%D9%85%D9%86%D8%A7-%D9%85%D8%B9-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%87%D8%A7%D9%84%D9%88%D9%88%D9%8A%D9%86",
+     "title": "مباشر: الداخلية الفرنسية تعلن مشاركة 320 ألف شخص في الاحتجاجات والنقابات تتحدث عن نصف مليون متظاهر",
+     "lang": "ar",
+     "extra": {},
+     "id": "72cf2c89f8d6a418",
+     "published": "2026-10-31T17:08+00:00",
+     "text": ""
+    }
+   ]
+  },
+  {
    "id": "cea2631f8e9",
    "kind": "news",
    "score": 7.0,
@@ -576,24 +818,46 @@
    ]
   },
   {
-   "id": "cc7606af40d",
+   "id": "c548ac90d7a",
    "kind": "news",
-   "score": 6.5,
-   "sensitive": false,
+   "score": 7.0,
+   "sensitive": true,
    "distinct_sites": 1,
-   "title_hint": "Community safety report and new protections for teens",
+   "title_hint": "الصحراء الغربية: الجزائر تأسف لعدم تجديد ولاية البعثة الأممية والمغرب يرحب",
    "official_image": null,
    "sources": [
     {
-     "source": "OpenAI News",
-     "trust": 3,
-     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-     "title": "Community safety report and new protections for teens",
-     "lang": "en",
+     "source": "France 24 Arabic",
+     "trust": 2,
+     "url": "https://france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9/20261031-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%AA%D9%88-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7",
+     "title": "الصحراء الغربية: الجزائر تأسف لعدم تجديد ولاية البعثة الأممية والمغرب يرحب",
+     "lang": "ar",
      "extra": {},
-     "id": "c7606af40dbb903f",
-     "published": "2026-10-30T09:00+00:00",
-     "text": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+     "id": "548ac90d7abb04e8",
+     "published": "2026-10-31T18:25+00:00",
+     "text": "أعربت الجزائر السبت عن أسفها تجاه عدم تجديد ولاية بعثة الأمم المتحدة في الصحراء الغربية، وانتقدت ما اعتبرته \"بالانحياز المفرط\" لصالح لرباط، فيما رحب المغرب بذلك، قائلا إنه ينبغي لأفراد البعثة المغادرة في الأيام المقبلة. وكانت روسيا استخدمت الجمعة حق النقض ضد مشروع قرار صاغته الولايات المتحدة بشأن مستقبل المنطقة. وبررت موسكو اعتراضها على المشروع الأمريكي بأنه \"تمادى في تأييد الموقف المغربي\" بحسبها."
+    }
+   ]
+  },
+  {
+   "id": "cba3dff720b",
+   "kind": "news",
+   "score": 7.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "المغرب: المحافظ السابق عبد الكريم حامدي يكسر صمت رجال السلطة ويروي \"مسار إنسان\" في \"ابن الفحم\"",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 Arabic",
+     "trust": 2,
+     "url": "https://france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9/20261031-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D8%B9%D8%A7%D9%85%D9%84-%D8%A5%D9%82%D9%84%D9%8A%D9%85-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%AD%D8%A7%D9%85%D8%AF%D9%8A-%D8%B3%D9%84%D8%B7%D8%A9-%D8%AC%D8%B1%D8%A7%D8%AF%D8%A9-%D8%A7%D8%A8%D9%86-%D8%A7%D9%84%D9%81%D8%AD%D9%85-%D8%B3%D9%8A%D8%B1%D8%A9-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9",
+     "title": "المغرب: المحافظ السابق عبد الكريم حامدي يكسر صمت رجال السلطة ويروي \"مسار إنسان\" في \"ابن الفحم\"",
+     "lang": "ar",
+     "extra": {},
+     "id": "ba3dff720b5f2e95",
+     "published": "2026-10-31T19:08+00:00",
+     "text": "صدر للمحافظ المغربي السابق (عامل إقليم) عبد الكريم حامدي سيرة ذاتية بعنوان \"ابن الفحم... من ابن عامل منجم إلى عامل عمالة\"، وهي سابقة في مشهد التأليف بالمغرب، حيث من النادر جدا أن يتحدث مسؤولون سابقون في السلطة عن تجاربهم الإنسانية والمهنية للعموم. ويستعرض حامدي بالكثير من الوضوح \"مسار إنسان\" غني بالعبر في سفر مع الكتابة التي شكلت عشقه الأول قبل دخول ميدان السلطة، ليعود إليه بشغف كبير، ويقول \"بصدق ما اختار قوله\"."
     }
    ]
   },
@@ -774,6 +1038,50 @@
    ]
   },
   {
+   "id": "c766cc0e2e7",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC Tech",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+     "lang": "en",
+     "extra": {},
+     "id": "766cc0e2e7310caa",
+     "published": "2026-10-30T09:33+00:00",
+     "text": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "7757066858a68b40",
+     "published": "2026-10-30T21:13+00:00",
+     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a \"complex\" hack, after $6.3bn (£4.7bn) was accessed in what is believed to be a record heist.\nThe firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers. It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.\nSeveral analytics firms have linked the hack, which eclipses a $1.5bn (£1.12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.\nThe US Secret Service said it was \"working around the clock\" \"to identify, freeze, trace, and recover\" stolen funds.\nAmerica's lead federal agency for investigating financial crimes added that it would \"identify the cyber criminals responsible and bring them to justice\", while Binance also said it was working with the FBI.\nWhile Binance said its US-facing exchange was unaffected, the US would still have jurisdiction to investigate the hack and help track down stolen funds - an effort which generally involves a global law enforcement effort.\nThe hack also involved some US-linked assets, such as stablecoins Tether and Circle – cryptocurrencies pegged to the dollar.\nBinance told its users \"your money is safe, and we're covering every loss\".\nIt had initially suspended all deposits and withdrawals - but then said in an update that \"deposits remain unaffected\".\nBinance's co-CEO Richard Teng said: \"This was not carried out by one person. Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach.\"\nTeng also describes how the hackers used \"a self-destruct mechanism that destroyed tooling and traces as they went, making it more difficult for us to trace and investigate\".\nInitially, the company had indicated the breach \"may have started with a compromised DevOps engineer's laptop\" but later statements have pointed to a broader breach.\nIn a later update, the firm said it had \"set aside\" more than $6.34B in company funds to cover the stolen assets and was \"actively buying\" a range of crypto tokens.\nThe Binance hack spooked cryptocurrency markets on Friday. The price of Bitcoin was down 5% to $76,800 in Friday afternoon trading in New York.\nCryptocurrency exchange Coinbase was down 12% as investors also reacted to earnings results in which the firm reported revenue slightly below expectations. Robinhood, a financial services company that trades in cryptocurrency, was down 7.8%.\nBinance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.\nThe company said in 2024 that it had more than $160bn in assets under its custody.\nA lot of the fear right now from Binance users - and the crypto industry at large - is whether or not Binance will actually be capable of covering this enormous financial loss.\nThe company has said repeatedly that customer funds will be covered and that the firm is strong enough to weather the storm.\nBut crypto history watchers have been pointing out online that this is exactly the kind of message that FTX CEO Sam Bankman-Fried gave before his crypto exchange collapsed in 2022, leading to huge losses for customers and the industry.\nSeveral experts have warned customers not to regard Binance's promise to cover losses as legally binding and said they may need to pursue litigation to recover them.\nDaniel Tunkel, of the London-based Edwin Coe law firm, said that would \"come down to what [customers] have been promised in their contracts\", and \"where Binance can be sued for non-performance, if it comes to it\".\nBinance has been subject of regulatory scrutiny around the world.\nMeanwhile, AI-powered investigations company TRM Labs said that several elements of the attack resembled earlier North Korean-linked incidents, including the Bybit hack.\nIn the last five years the crypto industry has been beset by enormous losses from hackers.\nIn nearly all cases investigators have blamed hackers from North Korea, pointing to the infamous Lazarus Group - also know as TraderTraitor. The names refer to clusters of cyber criminals accused of working directly for the regime.\nChainalysis, a crypto analytics firm, said it had \"high confidence\" that a North Korean is linked to the hack.\nNorth Korea is an impoverished country with very little industry and heavy international sanctions and experts say the regime uses cyber crime as a way to bring money in.\nNorth Korea has always denied this, but the wealth of evidence from cryptocurrency flow analysis and insider interviews from defectors is compelling.\nIt makes North Korea likely to be the only nation that uses hacking as a way to raise public funds."
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {},
+     "id": "0629994f454de1d9",
+     "published": "2026-10-31T16:32+00:00",
+     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nIt said it had replenished the assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nTwo major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group called The Lazarus Group, also known as TraderTraitor, as the likely culprits.\nThe Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange last year.\nNorth Korea has always denied involvement in these attacks.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
+    }
+   ]
+  },
+  {
    "id": "ce28e380021",
    "kind": "news",
    "score": 6.0,
@@ -851,354 +1159,35 @@
    ]
   },
   {
-   "id": "cb19c5c6086",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Google says Android Auto video apps are still ‘coming soon’ as deadline nears",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5google.com/2026/10/30/google-android-auto-video-apps-deadline",
-     "title": "Google says Android Auto video apps are still ‘coming soon’ as deadline nears",
-     "lang": "en",
-     "extra": {},
-     "id": "b19c5c60860fbe8c",
-     "published": "2026-10-30T14:30+00:00",
-     "text": "In a brief update at its latest dev conference, Google says that video and browser apps for Android Auto are still “coming soon,” with the company’s self-imposed deadline approaching quickly."
-    },
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/android-auto-unknownauto-tool-3730284",
-     "title": "Android Auto can run sideloaded apps for free with this new tool",
-     "lang": "en",
-     "extra": {},
-     "id": "19beb1fd9ae643dd",
-     "published": "2026-10-30T19:59+00:00",
-     "text": "Android Auto can run a large variety of apps, but not every app. The platform refuses to run apps that have been sideloaded. If there was ever an app you wished could run on Android Auto but doesn’t, there may be a solution.\nOne user, who goes by u/mannumaster on Reddit, says they wanted to build their own app and use it on Android Auto. When they ran into roadblocks, they created a new tool called UnknownAuto. This tool is free, open-sourced, and can work offline. The creator describes it as an alternative to the proprietary AA Enabler."
-    }
-   ]
-  },
-  {
-   "id": "caaefbf4509",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "The IREX Community Solutions Program 2027 for Community youth leaders (Fully Funded to the United States)",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Opportunities for Africans",
-     "trust": 1,
-     "url": "https://opportunitiesforafricans.com/irex-community-solutions-program-2027-for-community-youth-leaders",
-     "title": "The IREX Community Solutions Program 2027 for Community youth leaders (Fully Funded to the United States)",
-     "lang": "en",
-     "extra": {},
-     "id": "aaefbf450925d91d",
-     "published": "2026-10-30T14:55+00:00",
-     "text": "Application Deadline: 24 November 2026\nApplications are now open for the 2027 IREX Community Solutions Program. The Community Solutions Program (CSP) is a professional leadership development program for experienced, results-oriented community leaders working to advance locally driven regional economic growth and community prosperity. CSP equips participants with practical leadership and technical skills, professional connections, and hands-on experience to strengthen their ability to address economic development challenges in their communities. Participants complete an approximately three- to four-month U.S.-based exchange, including a 12-week practicum with a U.S. organization, and gain practical experience they can apply to their work at home. Following the U.S. exchange, participants return home to implement a community-based SCALE-Up Project that applies their CSP learning to advance local or regional economic development.\nProgram Details\nCommunity leaders will be selected to participate in the program that includes:\n- Three-month fellowship in the United States: Community Solutions participants complete a Three-month, hands-on professional practicum with a U.S. host organization. Participants work alongside U.S. professionals, strengthen their technical and leadership skills, and gain practical experience they can apply in their home communities. Practicum learning is complemented by regional field visits that expose participants to innovative U.S. models of economic development and collaboration among businesses, Chambers of Commerce, workforce and educational institutions, local government, and community organizations.\n- Innovation and Applied Skills Labs: Participants take part in Innovation and Applied Skills Labs, which provide practical, hands-on skill building to help them adapt and expand U.S. models of regional economic development. Participants develop leadership and management tools to turn regional economic growth ideas into action. The Labs also explore how emerging technologies, including SI, can strengthen key industries, support business growth, and create new opportunities for workers and communities.\n- SCALE-Up Projects: Throughout their U.S. experience, participants identify promising U.S. regional economic development models, tools, and partnership approaches and document their learning. Following the practicum, participants implement a nine-month SCALE-Up Project, adapting at least one U.S. model, tool, or partnership approach to advance regional economic growth in their home communities.\nEligibility Requirements\n- You are between the ages of 27 and 39 at the time of application.\n- You are a citizen of a country listed on the official application website.\n- You have at least five years of experience working on community issues and can demonstrate measurable benefits to local communities.\n- You are living and working in your country at the time of application and are not residing or working outside your country, including through an academic, training, or research program.\n- You meet the country-of-residence requirements described below\n- You have a high level of proficiency in spoken and written English at the time of application\n- Semi-finalists who do not already possess a valid TOEFL score of 520, or 213 on the computer-based test, or higher will be required to take an Institutional TOEFL or a comparable English-language proficiency assessment approved for CSP.\n- You are able to begin the CSP program in the United States in 2027 and participate in the approximately three- to four-month U.S.-based exchange. Current planning dates are Orientation August 2–5, practicum August 9–October 29, and End-of-Program Workshop November 1–4, 2027, subject to confirmation.\n- You are not a citizen or permanent resident of the U.S. and have not applied for U.S. permanent residency within the past three years.\n- You are eligible to receive a U.S. J-1 visa\n- Applicants who have participated in an exchange program sponsored by the U.S. Government must have fulfilled their two-year home residency requirement.\n- You are committed to returning to your home country for a minimum of two years after completing the program and implementing a community-based SCALE-Up Project.\n- You meet any additional eligibility criteria established published in the final application materials.\nEligible Countries by Region\n- Africa: Botswana, Cameroon, Ethiopia; Ghana; Guinea; Kenya; Liberia; Mozambique; Namibia; Rwanda; Uganda\n- Middle East and North Africa: Algeria, Egypt, Iraq, Jordan, Lebanon, Morocco, Oman, Tunisia\nBenefits\nThe program covers the cost of most expenses associated with:\n- J-1 visa support\n- Round-trip travel from participants’ home city to the U.S.\n- Monthly allowance to cover housing, meals, and other living expenses while in the U.S.\n- Accident and sickness health coverage\n- Accessibility accommodations, such as ADA accessible rooms for in-person training, software such as JAWS, and community assista"
-    },
-    {
-     "source": "Opportunity Desk",
-     "trust": 1,
-     "url": "https://opportunitydesk.org/2026/10/31/irex-community-solutions-program-2027",
-     "title": "IREX Community Solutions Program (CSP) 2026-2027 (Fully-funded)",
-     "lang": "en",
-     "extra": {},
-     "id": "8766f0a04592245d",
-     "published": "2026-10-31T13:19+00:00",
-     "text": "Deadline: November 24, 2026 Applications are open for the IREX Community Solutions Program (CSP) 2026-2027. The Community Solutions Program (CSP) is a professional leadership development program for experienced, results-oriented community leaders working to advance locally driven regional economic growth and community prosperity. CSP equips participants with practical leadership and technical skills, professional connections, and hands-on [...]"
-    }
-   ]
-  },
-  {
-   "id": "c38a7314b14",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Wired",
-     "trust": 2,
-     "url": "https://wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job",
-     "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
-     "lang": "en",
-     "extra": {},
-     "id": "38a7314b146af41c",
-     "published": "2026-10-30T15:00+00:00",
-     "text": "The brief ceremony introducing the new Macbook Pro this week was as low-key as the presenter, Apple’s new CEO John Ternus. He stepped onto the low stage at a Los Angeles event space with zero fanfare, said hi, and queued up a video showing the first touchscreen Mac. Then he released the modest crowd of journalists and creators to get hands-on with the new laptop and roam between eye-popping demos of music producers, filmmakers, photographers, and fashion designers using the laptop. Ternus, who at 51 is on the younger side of Apple’s top management, has been CEO for less than two months. But this launch and a series of other recent announcements have made one thing clear. With this new guy—if a 25-year Apple veteran could be considered new—it’s all about the products. Perhaps fittingly, the biggest noise of the presentation came when Ternus revealed that the new device restores the illumination to the Apple logo. Maybe that’s a symbol that in the age of AI, Apple is beaming out the message that hardware still rules.\nA few minutes after the presentation, I sat down with Ternus, for the second time in two days. Steve Jobs used to grant me an audience after his famous keynotes, too. Ternus isn’t Jobs, of course, nor is he supposed to be. But who is he?\nI first met Ternus in 2015, when I spent a day with him at Apple’s Input Design Lab, a testing facility in Cupertino. He’d risen to VP for Mac, iPad, Ecosystem, and Audio Engineering, and he struck me as affable and knowledgeable. (He spent four years right out of college at a virtual reality company, but he’s been at Apple ever since.) The peg to my story at the time was how this unknown manager conducted a Javert-like investigation to fix the weird sound a redesigned mouse made when sliding on a table.\nThat attention to detail was a legacy of Jobs’ perfectionism, which Tim Cook sustained as the next CEO. In the decade when Ternus overlapped with Jobs, he says he had only “a handful of interactions” with the founder. “But I've always felt like sort of a student of Steve's teachings,” Ternus said. “And then being able to work very closely with Tim, I’ve been very lucky.”\nTernus has so far been defined by his product prowess. “John innately has a great sense for great products, and that’s what Apple is,” says Greg Joswiak, Apple’s SVP of worldwide marketing and a 40-year company veteran. “You can’t teach that.” In one sense Ternus’ ascension is similar to that of Microsoft’s Satya Nadella, another lifer promoted to the top post. But Nadella was called upon to fix a broken organization, while Apple has been on a multi-decade run. Ternus is explicit that he will be an engine of continuity. That word is key to his selection, and above all explains why Tim Cook and the rest of Apple’s board was so comfortable with the choice.\nThe extent to which Ternus is a deep Apple insider became clear when I probed him on his views on being a corporate leader. I asked him which non-Apple CEOs he admires, and he was stumped. “I haven't really thought about that,” he said. I asked whether any business books had an impact on him. “Not really,” he said. “Of course I’ve read books, but there's so much to be learned from the people I get to work with.” Indeed, every time I tried to pin down Ternus on what mark he wants to make at Apple, he deflected the question and told me how he will continue Apple’s commitment to internal collaboration.\nTernus’ key collaborator is probably Johny Srouji, the architect of the company’s custom silicon, an initiative that’s driven many of the company’s innovations in the past decade. Srouri says that their relationship will be even closer, as Apple has merged its hardware engineering and technology organizations with Srouji at the top, reporting to Ternus. “John is going to be a great CEO,” he said. “He's a product guy at heart, but Apple's secret weapon is the DNA, the culture, which is not going to change. Remember, John has been here for 25 years. It’s not like he's going to come and everything's going to be different.”\nBeing Apple’s CEO encompasses much more than products—there’s a $100 billion business in services, a huge infrastructure, and the general mishegoss of running a giant corporation. I asked Ternus what it’s like to take on a massively expanded portfolio. “One of the amazing privileges of this job is getting to learn so many new things,” he said. “I have been and will continue to learn and go deeper into different areas. But, you know, I do love product. I'm super passionate about it.”\nLike it or not, the CEO of a $4 trillion company has to be involved in policy and politics. It has been widely reported that as executive chair, Cook will still conduct some of Apple’s high-level policy duties, including the equivalent of stuffing gold-plated binkies in the presidential mouth. Ternus implies that the reality is more nuanced. “Tim is available to help wherever I ask him, and it's great to have him in that role,” he said. “He obviously has a "
-    },
-    {
-     "source": "9to5Mac",
-     "trust": 2,
-     "url": "https://9to5mac.com/2026/10/30/john-ternus-defines-his-focus-as-apple-ceo-with-one-word",
-     "title": "John Ternus used one word to describe his focus as Apple CEO",
-     "lang": "en",
-     "extra": {},
-     "id": "7fa3a529dc4851d8",
-     "published": "2026-10-30T15:58+00:00",
-     "text": "Apple has launched a wave of major new products since John Ternus took over as CEO, and a new interview with Ternus reveals how this aligns very much with his primary focus.\nJohn Ternus names ‘product’ as the chief thing he’s passionate about and focused on\nFollowing Apple’s unveil of the MacBook Pro with PROLED XDR earlier this week, CEO John Ternus sat down for an interview with Steven Levy at WIRED.\nMuch of the ground covered is familiar territory, with Ternus repeating things he’s said before.\nBut a standout focus that Ternus emphasizes, echoed by quotes from some of his top executives, is his deep passion for one thing: product.\nI asked Ternus what it’s like to take on a massively expanded portfolio. “One of the amazing privileges of this job is getting to learn so many new things,” he said. “I have been and will continue to learn and go deeper into different areas. But, you know, I do love product. I’m super passionate about it.”\nTop comment by Chris\nI like John, and I like engineer CEOs, and I hope he has a successful tenure. But so far I'd say his focus has been:\n\"Less Product for More Money\"\nThis emphasis on product is ever-present in Ternus’s answers to other questions. For example:\n- On Apple’s AI approach: “I would hope people recognize that the work we do is building incredible products that make their lives better. We’re absolutely going to leverage AI to do that.”\n- On AI agents potentially replacing current computing methods, and more work happening autonomously: “That could make life really easy, I suppose, but the creation of products is a deeply human and personal thing, something that we love to do.”\n- On whether he favors AI regulation: “Our focus is on making sure that our products are secure and safe, and protecting the users’ information.”\nLevy also shares quotes from two key Apple executives as well. Johny Srouji says, “John is going to be a great CEO. He’s a product guy at heart.” And here’s Greg Joswiak: “John innately has a great sense for great products, and that’s what Apple is.”\nIf Apple’s huge wave of product launches since Ternus took over as CEO wasn’t evidence enough, the messaging from this new interview is clear: Ternus is focused on product.\nWhat are your takeaways from the latest John Ternus quotes? Let us know in the comments.\nBest iPhone accessories\n- AirPods Pro 3 (now only $199, down from $249)\n- MagSafe Car Mount for iPhone\n- 10-year AirTag battery case\n- 100W USB-C fast charging power adapter\n- HomeKit Garage Door Opener\nComments"
-    }
-   ]
-  },
-  {
-   "id": "c93389238e0",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "The American University of Cairo (AUC) Mastercard Foundation Scholars Program 2027 (Fully Funded)",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Opportunities for Africans",
-     "trust": 1,
-     "url": "https://opportunitiesforafricans.com/the-american-university-of-cairo-auc-mastercard-foundation-scholars-program-2027",
-     "title": "The American University of Cairo (AUC) Mastercard Foundation Scholars Program 2027 (Fully Funded)",
-     "lang": "en",
-     "extra": {},
-     "id": "93389238e0556810",
-     "published": "2026-10-30T16:50+00:00",
-     "text": "Application Deadline: May 6, 2027\nApplications are now open for the 2027 American University of Cairo (AUC) Mastercard Foundation Scholars Program. The Mastercard Foundation Scholars Program at American University of Cairo (AUC) provides full scholarships and comprehensive support to talented young people from across Africa, enabling them to pursue higher education while developing their leadership potential and capacity to create positive impact. As part of the Mastercard Foundation Scholars Program, Mastercard Foundation Scholars participate in leadership development activities, workshops, and fieldwork experiences that equip them to become agents of meaningful change in their communities, countries, and across the continent.\nEligibility\n- Currently residing in an African country and in possession of citizenship of at least one African country.\n- Be aged 35 or younger at the time of application.\n- New graduate degree-seeking students, satisfying AUC graduate admissions requirements. Transfers are not eligible for this fellowship.\n- Bachelor’s degree with a minimum overall grade point average (GPA) of 3.2 on a 4.0 scale or equivalent.\n- Showcase financial need.\nDuration\nAwarded for the total study period of the degree, based on full-time enrollment, subject to review every semester for satisfactory academic performance.\nAward Coverage\n- Tuition fees for nine credits per semester\n- Stipend during the fall and spring semesters\n- One laptop is provided\n- Student services and activities fees\n- Medical service and health insurance fees\n- Accommodation in University dorms/residence for those residing outside of Cairo\n- AUC bus subscription (or travel allowance)\n- May cover remedial English modules or intensive English courses\n- Roundtrip airfare provided for fellows not residing in Egypt\n- Some candidates may be eligible for additional funding to cover research, publication fees and conference attendance\n- Special software subscriptions or IT purchases for those with disabilities\nHow to Apply\nStep 1: Check how to apply and submit the AUC online application.\nStep 2: Submit the official Mastercard Foundation Scholars online application.\nFor More Information:"
-    },
-    {
-     "source": "Opportunity Desk",
-     "trust": 1,
-     "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-auc-2027",
-     "title": "Mastercard Foundation Scholars Program at American University of Cairo (AUC) Spring 2027",
-     "lang": "en",
-     "extra": {},
-     "id": "6fc935dbc4f44dc6",
-     "published": "2026-10-31T12:38+00:00",
-     "text": "Deadline: November 2, 2026 Applications for the Mastercard Foundation Scholars Program at American University of Cairo (AUC) 2027 are now open. The Mastercard Foundation Scholars Program at American University of Cairo (AUC) provides full scholarships and comprehensive support to talented young people from across Africa, enabling them to pursue higher education while developing their leadership [...]"
-    },
-    {
-     "source": "Opportunity Desk",
-     "trust": 1,
-     "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027",
-     "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
-     "lang": "en",
-     "extra": {},
-     "id": "8e305520e15bb78b",
-     "published": "2026-10-31T14:24+00:00",
-     "text": "Deadline: December 14, 2026 Applications are open for the Mastercard Foundation Scholars Program at Sciences Po 2027. The Mastercard Foundation Scholars Program at Sciences Po is designed for students from the African continent who wish to pursue a two-year Master’s degree at Sciences Po. Across its various Master’s programmes, each Graduate School offers students a [...]"
-    }
-   ]
-  },
-  {
-   "id": "c6b8020d16c",
+   "id": "cd5593fe631",
    "kind": "news",
    "score": 6.0,
    "sensitive": true,
    "distinct_sites": 2,
-   "title_hint": "Martin Scorsese Explains How Seth Rogen “Ruined” His ‘Cleopatra’ Film: “Kim Jong Un Doesn’t Have A Sense Of Humor”",
+   "title_hint": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
    "official_image": null,
    "sources": [
     {
-     "source": "Deadline",
+     "source": "TechCrunch",
      "trust": 2,
-     "url": "https://deadline.com/2026/10/martin-scorsese-seth-rogen-ruined-cleopatra-film-1237210059",
-     "title": "Martin Scorsese Explains How Seth Rogen “Ruined” His ‘Cleopatra’ Film: “Kim Jong Un Doesn’t Have A Sense Of Humor”",
+     "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach",
+     "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
      "lang": "en",
      "extra": {},
-     "id": "6b8020d16c9a85b2",
-     "published": "2026-10-30T22:32+00:00",
-     "text": "More than a decade after the Sony hack shook Hollywood, Martin Scorsese is still reeling from the fallout of the North Korean state-sponsored digital attack. The Oscar-winning director recalled how the wide-reaching hack, which was a response to Seth Rogen’s 2014 film The Interview, “ruined everything” for Scorsese’s planned Cleopatra feature, which would have starred […]"
+     "id": "d5593fe6310dc5ca",
+     "published": "2026-10-30T14:00+00:00",
+     "text": "Hackers working for the North Korean regime have been blamed for a record cryptocurrency heist following a cyberattack at crypto exchange Binance. The hackers stole at least $6.3 billion in crypto from the company’s wallets, though about half of that amount was frozen as the stolen crypto traveled across various blockchains, according to security researchers.\nThe breach is by far the largest known theft of crypto in history, though the incident has not been confirmed yet to be resolved, and the amount of crypto stolen may change.\nIn a post on X, Binance said its initial investigation showed that the hackers broke into the company’s network after targeting a “compromised” Binance engineer’s laptop, which “allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.”\nBinance said it has seen no evidence of a leak of its private keys, which would grant the hacker near-unfettered control over the company’s stores of crypto.\nThe crypto exchange — the world’s largest — said it has now suspended all deposits and withdrawals while its investigation into the breach continues. TechCrunch reported on Thursday that the exchange had paused withdrawals across some of its blockchains.\nBinance said “user funds are safe,” but did not immediately provide proof of this claim. The company said it will “publish an updated proof of reserves once the remediation is complete.”\nSpokesperson Andie Cooper said in a statement shared with TechCrunch on Friday that some $3 billion has been frozen by industry partners. The spokesperson said Binance has “begun recovering affected assets for users and continues to work with law enforcement, issuers, blockchain intelligence firms and industry partners to trace, freeze and recover additional funds.”\nIt’s unclear how the hack went down or under what circumstances the employee’s laptop was compromised, but it’s not uncommon for security incidents to stem from the use of compromised software on employee devices.\nSoftware is generally built from many components, including open source projects, which hackers regularly target, compromise and modify in order to steal data from devices that the affected software is installed on. Other times, malware bundled with regular-looking apps and games can allow hackers to steal usernames, passwords, and session tokens from infected computers, which may let them log in as if they were a legitimate employee.\nBinance will face questions about why the company’s security allowed a single employee’s laptop to access systems capable of controlling billions of dollars in funds.\nSpokespeople for Binance did not respond to an email with questions about the breach. TechCrunch has also asked the company who, if anyone, performed a security audit of Binance’s network and systems prior to the hack. Companies regularly ask third-party companies to stress-test their security to identify weaknesses that could be exploited by attackers, but it’s unclear if Binance sought such a review.\nSecurity researchers at TRM Labs, a blockchain intelligence and forensic company, attributed the breach to North Korean hackers, and called it the “largest hack in history.”\nResearchers describe the network of hackers, known in the cybersecurity industry as TraderTraitor, as a North Korean cell focused almost exclusively on stealing crypto from large companies and exchanges. This group was also blamed for the now-second-largest heist on record, a $1.4 billion theft from crypto exchange Bybit in 2025.\nAccording to TRM, the theft of Binance’s billions in crypto took about 20 minutes.\nBlockchain security firm Elliptic also attributed the Binance theft to North Korean hackers. Elliptic said some of the stolen funds ended up in the same wallet that was used in a previous cyberattack on crypto exchange Bitget earlier this year, in which hackers stole $351 million.\nThe U.S. government and its allies have long warned about the threat from North Korea, which remains cut off from the U.S. and the global financial system for its ongoing development of its nuclear weapons program. Researchers say the breakaway country’s sole motivations are to steal as much crypto as possible in order to continue developing its sanctioned weapons of mass destruction.\nUpdated with statement from Binance."
     },
     {
-     "source": "Variety",
+     "source": "BBC World",
      "trust": 2,
-     "url": "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596",
-     "title": "Martin Scorsese Says His ‘Cleopatra’ Movie With Angelina Jolie Was ‘Ruined’ by Seth Rogen and the Sony Hack: ‘It Was Gonna Be Really Wild’",
+     "url": "https://bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
      "lang": "en",
      "extra": {},
-     "id": "6493cee5470ca336",
-     "published": "2026-10-31T00:16+00:00",
-     "text": "Martin Scorsese‘s “Cleopatra” never came to fruition, and he says the Angelina Jolie-starrer was nixed because of Seth Rogen and the Sony hack.\nFor those who need a refresher, Sony emails were hacked in November 2014 by a group that hoped the Seth Rogen comedy “The Interview,” which was about a fictional assassination attempt of North Korean leader Kim Jong Un, would not be released by Sony.\nAccording to Scorsese, this caused some aftereffects in the industry, which he described in the first episode of the Tribeca original series “Crafty.”\n“We were gonna do Cleopatra at one point, and then they made fun of [Kim Jong Un], and he got mad and blew up everybody at Columbia,” Scorsese said. “Seth Rogen, right? And then he got mad, and [it] ruined Cleopatra.”\nThough Rogen wasn’t directly responsible for the project being canceled, the resulting hack exposed thousands of emails, including ones from producer Scott Rudin to Sony’s Amy Pascal calling Jolie “a minimally talented spoiled brat.”\n“We were gonna do it,” Scorsese also said. “Angelina Jolie. We were going. She was gonna be Cleopatra VII. It was gonna be really wild.”\nThe film was set to be written by screenwriter Eric Roth, who wrote Scorsese’s 2023 film “Killers of the Flower Moon.”\nWatch the episode of “Crafty” below."
-    }
-   ]
-  },
-  {
-   "id": "cdfd4da114d",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Leclerc sets pace in Friday practice at Mexico City Grand Prix",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC Sport",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/formula1/articles/cqde8p6j9ye7o?at_medium=RSS&at_campaign=rss",
-     "title": "Leclerc sets pace in Friday practice at Mexico City Grand Prix",
-     "lang": "en",
-     "extra": {},
-     "id": "dfd4da114d3a03e1",
-     "published": "2026-10-30T23:11+00:00",
-     "text": "Ferrari's Charles Leclerc goes fastest in Friday practice at the Mexico City Grand Prix."
-    },
-    {
-     "source": "BBC Sport",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/formula1/articles/crwydk35zlnvo?at_medium=RSS&at_campaign=rss",
-     "title": "Hirakawa replaces Ocon for Mexico City Grand Prix",
-     "lang": "en",
-     "extra": {},
-     "id": "25eec39f24d9e8cf",
-     "published": "2026-10-31T15:05+00:00",
-     "text": "Ryo Hirakawa will race for Haas at the Mexico City Grand Prix, replacing Esteban Ocon."
-    }
-   ]
-  },
-  {
-   "id": "cdd350711b0",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Two Arrested in Murder of ‘SNL’ Writer’s Sister",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/tv/news/arrests-murder-christina-downer-jimmy-fowlie-1236935631",
-     "title": "Two Arrested in Murder of ‘SNL’ Writer’s Sister",
-     "lang": "en",
-     "extra": {},
-     "id": "dd350711b0e0e6da",
-     "published": "2026-10-30T23:32+00:00",
-     "text": "Two suspects have been arrested in connection with the murder of Christina Downer, “Saturday Night Live” writer Jimmy Fowlie’s sister, according to the Los Angeles Police Department. Delorean Bijon Brandon, 41, Downer’s boyfriend, and Kaylee Nicole Markowski, 34, were arrested Thursday in Highland Park and Tarzana, respectively. Detectives believe Brandon and Markowski were responsible for […]"
-    },
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/10/lapd-arrests-2-men-killing-snl-writer-jimmy-fowlie-sister-1237210269",
-     "title": "LAPD Arrests 2 Men In Connection With Killing Of ‘SNL’ Writer Jimmy Fowlie’s Sister",
-     "lang": "en",
-     "extra": {},
-     "id": "536880885cd096f2",
-     "published": "2026-10-31T00:29+00:00",
-     "text": "Nearly a year after she went missing, LAPD has arrested two men in connection to the death of Christina Downer, the late sister of Saturday Night Live writer Jimmy Fowlie.\nOn Thursday, officers took 41-year-old Delorean Bijon Brandon, who is believed to be Downer’s boyfriend, and Kaylee Markowski, 34, into custody for allegedly murdering and disposing of her body, before concealing their involvement.\nBrandon and Markowski are both being held at Metropolitan Detention Center, where they have been booked on suspicion of murder and are both being held on $2 million bail.\nAccording to LAPD, Brandon claimed Downer had moved out of their home several months before her disappearance, leaving behind all of her belongings, including her vehicle and dog.\nWatch on Deadline\nDowner’s family reported her missing on Dec. 18, 2025, following a welfare check requested by her ex-husband after he hadn’t heard from her in an extended period of time. Detectives with LAPD’s Robbery-Homicide Division took over the investigation when her cellphone was discovered washed ashore on a Santa Monica beach.\nLast December, Fowlie sought help from friends and followers as he searched Downer’s Koreatown neighborhood, noting they were “worried that she isn’t safe.” Fowlie announced in April that LAPD had informed the family that Downer was “no longer alive,” and were treating the case as a homicide."
-    }
-   ]
-  },
-  {
-   "id": "c18a0df6020",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC Sport Football",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
-     "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
-     "lang": "en",
-     "extra": {},
-     "id": "18a0df6020bfc968",
-     "published": "2026-10-31T14:35+00:00",
-     "text": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off."
-    },
-    {
-     "source": "BBC Sport Football",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
-     "title": "Carrick bemoans Man Utd defending in Chelsea loss",
-     "lang": "en",
-     "extra": {},
-     "id": "167c5501c154221d",
-     "published": "2026-10-31T15:13+00:00",
-     "text": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat to Chelsea in the Premier League."
-    },
-    {
-     "source": "BBC Sport Football",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/football/articles/ckvg64xp1e1eo?at_medium=RSS&at_campaign=rss",
-     "title": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
-     "lang": "en",
-     "extra": {},
-     "id": "ab4fd238d458a9ee",
-     "published": "2026-10-31T17:27+00:00",
-     "text": "Manchester United defender Lisandro Martinez condemned for costly red card in 2-0 defeat to Chelsea at Stamford Bridge."
-    }
-   ]
-  },
-  {
-   "id": "c782404f18c",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Why SNES games are so expensive",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Engadget",
-     "trust": 2,
-     "url": "https://engadget.com/2301220/why-snes-games-so-expensive",
-     "title": "Why SNES games are so expensive",
-     "lang": "en",
-     "extra": {},
-     "id": "782404f18c0c4ce8",
-     "published": "2026-10-31T14:45+00:00",
-     "text": "Scarcity and increased interest in retro games makes for an expensive combo."
-    }
-   ]
-  },
-  {
-   "id": "c76e500da0f",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Verge",
-     "trust": 2,
-     "url": "https://theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-     "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-     "lang": "en",
-     "extra": {},
-     "id": "76e500da0f3bdcab",
-     "published": "2026-10-31T15:00+00:00",
-     "text": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s highest-end laptops available in 14- or 16-inch configurations, and even one of its 14-inch MacBook Pro laptops with the M6 chip. You can verify that it’s been added to your order in the “Complete your purchase” section of the checkout page.\nMy colleague Antonio G. Di Benedetto got a chance to check out the new laptop at Apple’s event, and came away impressed by the Tandem OLED panel’s brightness and contrast, but described the update as “kind of boring” given the relatively small changes to the system otherwise. There are some unique changes to macOS that help make the new touch experience smoother, like magnifying the traffic light-colored buttons on windows when you move your finger near them. The PROLED laptops are also a bit thinner and lighter than standard models, and the Apple logo on the back glows like on older versions."
-    }
-   ]
-  },
-  {
-   "id": "c5df0a3cc05",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Vic Mensa can’t live without the Voice Memos app",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Verge",
-     "trust": 2,
-     "url": "https://theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-     "title": "Vic Mensa can’t live without the Voice Memos app",
-     "lang": "en",
-     "extra": {},
-     "id": "5df0a3cc056ab655",
-     "published": "2026-10-31T15:00+00:00",
-     "text": "Vic Mensa is one of those people who has done so many things that it’s hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced single “Down On My Luck”? Maybe you didn’t even realize that Mensa was a rapper. Maybe you know him from his roles on The Chi or Bel-Air. Or perhaps you’re mostly aware of him through his activism, social media presence (peeling oranges and waxing poetic), or his podcast The Vic Mensa Show.\nVic Mensa can’t live without the Voice Memos app\nBetween his music, acting, podcast, activism, and businesses, Vic Mensa wears a lot of hats.\nVic Mensa can’t live without the Voice Memos app\nBetween his music, acting, podcast, activism, and businesses, Vic Mensa wears a lot of hats.\nPoint is, the man wears many hats. Part of the secret to being so prolific, it turns out, is Voice Memos. Just capture those ideas before they disappear.\nWhat is your most indispensable tool?\nVoice Memos. Everything starts there for me. Songs, essay ideas, orange tree thoughts, voice notes to myself at some wild hour, little things my son says that I do not want to lose. My phone is a million distractions in one rectangle, but Voice Memos is one of the few parts of it that still feels honest. Just press record before the thought disappears.\nWhich social media platform do you use the most?\nInstagram, for better or worse. That’s definitely where my voice has really found its legs. I started out peeling an orange and talking through whatever was on my mind, and it turned into this whole conversation with people about politics, history, music, grief, jokes, fatherhood, all of it. That response helped show me there was room for The Vic Mensa Show too. Instagram can be a circus, obviously, but it’s also a very valuable tool for connection.\nWhich tech trend do you wish would go away?\nWhat creation are you most proud of?\nProbably my upcoming album right now. It’s the first album that I’ve really taken myself completely seriously as a producer. The surrounding art, videos, design, clothing, and world I’m building around it is something that really excites me as well.\nWhat do you do when you need to focus?\nI either do my Shambhavi Mahamudra meditation that I learned from Sadhguru or the Wim Hof breathing method. Ideally, I’ll do the Wim Hof breathing method in the steam room and then the meditation.\nWhat do you think is worth splurging on?\nAnything that touches your life every day. A good mattress. Good headphones. Quality food. Clothes you will actually keep for years. Experiences with your child. I have wasted money on plenty of dumb shit, so I am trying to be better about buying things that either last or make a real memory.\nWhat would the tagline for your biopic be?\nLive from the contradiction.\nWhat is the last GIF or meme you used?\nMost Popular\n- Sam Altman says it’s better for RAM to be in a data center than on your desk\n- The Apple Pencil turned the Duo into my new favorite notebook\n- Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop\n- The HomeView and Echo Show 16 could be the family computers I’ve been asking for\n- Reddit will force everyone to log in"
+     "id": "5d418554a770d850",
+     "published": "2026-10-31T02:12+00:00",
+     "text": "- Published\nTwo major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange.\nThe Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis.\nThis incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.\nExperts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.\nThough not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview. The film involves a plot to assassinate Kim.\nThe resulting hack exposed thousands of embarrassing emails exchanged among the studio's top executives.\nLast year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange.\nIn the aftermath of that incident, the agency said TraderTraitor had moved to quickly launder and disperse the stolen assets, converting them to Bitcoin and other digital assets with a goal of eventually turning them into hard currency.\nThe FBI has broadly accused North Korea of \"illicit cybercrime and virtual asset theft activities\".\nThe nation has systematically developed its cyber operations, recruiting the most promising students from universities and channeling them into hacker groups overseen by North Korea's intelligence agency, according to reports.\nSome of the cyberwarfare conducted takes place just over the nation's border in China, according to analysis from tech groups.\nMuch of its hacking activity has centred on monetary gain.\nNorth Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022.\nIn this most recent heist, North Korean agents are accused of using a special authorisation to turn a Binance hot wallet, which is connected to the internet, into one that moved funds automatically to the attacker.\nTRM said it's likely the attacker gained access to Binance's hot wallet signing system as part of the scheme.\nBinance has not directly responded to the BBC's queries about the incident's potential links to the area.\nThe company had initially said it thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.\n\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said.\nSome 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.\nIf the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become – a sign that the tools of the hacking trade have grown sharper.\nExperts say the rise of artificial intelligence has also given threat actors new ways to carry out crime, through automation and other means.\nIn this case, it's plausible that AI was used to infiltrate Binance's systems.\nAs Chainalysis put it, the attacker used laundering patterns \"we have not seen before\"."
     }
    ]
   },
@@ -1325,15 +1314,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-10-31/20",
+     "url": "https://market.local/crypto/2026-10-31/21",
      "title": "Market snapshot crypto 2026-10-31",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-10-31"
      },
-     "published": "2026-10-31T20:40+00:00",
-     "text": "Bitcoin: $77,489 (+0.8% 24h)\nEthereum: $2,252 (+0.7% 24h)\nSolana: $95.58 (+0.7% 24h)\nToncoin: $1.21 (+3.3% 24h)"
+     "published": "2026-10-31T21:08+00:00",
+     "text": "Bitcoin: $77,391 (+0.7% 24h)\nEthereum: $2,251 (+0.7% 24h)\nSolana: $95.52 (+0.4% 24h)\nToncoin: $1.20 (+3.2% 24h)"
     }
    ]
   },
