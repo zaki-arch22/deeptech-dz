@@ -38,9 +38,12 @@ post must pass the **"would I forward this to a friend?"** test. Routine = death
 - First line = the whole hook, in bold, starting with ⚡ or ❗ (or 🎁 for free, 🚨 for danger):
   `⚡ **مايكروسوفت تقترح تسريح 60 ألف موظف حول العالم.**`
 - 35–110 words. Short paragraphs of 1–2 sentences. Bold 2–4 key phrases.
-- Numbers made tangible, and **the Algerian angle** whenever it exists ("AppleCare doesn't exist in
-  Algeria, so…", price in dinars when known, does it work here?).
-- A last line with personality is welcome: light irony or a punchline (one short sentence, not a moral).
+- Numbers made tangible, and **the Algerian angle** whenever it exists (availability in Algeria,
+  price in dinars when known, does it work here?) — stated as a plain fact, not as a joke.
+- **NO closing punchline, quip, pun or "clever" final line** (e.g. "هالوين هذا العام بلا أقنعة: اللص يعرف
+  رصيدك قبل أن يطرق بابك", "العودة إلى الحرف اليدوية، ها نحن ذا"). AI-written fake wit is instantly
+  recognisable and cheapens the channel. End on the last useful fact or the practical advice. Stop there.
+  Humour is allowed only when it comes from the facts themselves, inside the post, never as a tag line.
 - Several real photos when available: `"gallery": [{"commons": "..."}, ...]` (up to 3, sent as an album
   with the card first). Use the official press image of the source when the cluster has one.
 - Pace: post whenever something good lands; several posts in an hour is fine during big news.
