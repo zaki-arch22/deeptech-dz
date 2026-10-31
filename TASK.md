@@ -83,6 +83,8 @@ them if something better is happening; never post two of the same kind back to b
     their CDNs) or an official source of the cluster; for another official owner (a ministry, a
     university, a club) add it to `logos` with its domain, or set `"photo_owner": "domain"`.
   - Check the image loads and really shows the subject before using it (open it with WebFetch).
+  - Avoid images that already contain big text (video thumbnails, banners): the headline is printed
+    over the photo and the two texts clash. Prefer a clean photo of the object itself.
   - Cards carry no category label and no photo credit. Prefer official press images and public-domain
     Commons files (e.g. NASA, US government); avoid Commons files whose licence requires visible credit.
   - Not allowed: images owned by news outlets or photo agencies (Reuters, AP, Getty, AFP…), other
