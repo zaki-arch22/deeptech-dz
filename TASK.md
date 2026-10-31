@@ -94,7 +94,7 @@ as a practical guide: what it is, why it is valuable, 2–3 steps to start, the 
    ```json
    [{"id": "2026-10-31-0830", "slot": "2026-10-31T08:30:00+01:00", "type": "news",
      "cluster_id": "c1a2b3c4d5", "headline": "4 إلى 10 كلمات واضحة للصورة",
-     "text": "…\n\n#تصنيف\n◆ Deeptech DZ"}]
+     "text": "…\n\n◆ Deeptech DZ"}]
    ```
    `type` ∈ news, free, tool, market, odd, app, site. `id` = slot date and time. `headline` is required.
    Before writing, list `queue/posts/` and skip slots that already have a post.
