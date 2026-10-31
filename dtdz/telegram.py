@@ -36,6 +36,25 @@ class Bot:
             return self.call("sendPhoto", files={"photo": (photo.name, fh, "image/png")},
                              chat_id=chat_id, caption=caption, **extra)
 
+    def send_album(self, chat_id, photos: list[Path], caption: str, html: bool = True):
+        """Up to 10 photos in one post; the caption sits on the first photo."""
+        import json as _json
+        media, files, handles = [], {}, []
+        for i, p in enumerate(photos[:10]):
+            fh = open(p, "rb"); handles.append(fh)
+            files[f"p{i}"] = (p.name, fh, "image/jpeg" if p.suffix == ".jpg" else "image/png")
+            item = {"type": "photo", "media": f"attach://p{i}"}
+            if i == 0:
+                item["caption"] = caption
+                if html:
+                    item["parse_mode"] = "HTML"
+            media.append(item)
+        try:
+            return self.call("sendMediaGroup", files=files, chat_id=chat_id, media=_json.dumps(media))
+        finally:
+            for fh in handles:
+                fh.close()
+
     def updates(self, offset: int | None, timeout: int = 25) -> list[dict]:
         params = {"timeout": timeout, "allowed_updates": '["message"]'}
         if offset is not None:
@@ -50,8 +69,31 @@ class TelegramSender:
         self.bot, self.channel = bot, channel
 
     def send(self, post: dict, image: Path) -> str:
+        extra = gallery_files(post, image.parent)
+        if extra:
+            msgs = self.bot.send_album(self.channel, [image] + extra, to_html(post["text"]))
+            return str(msgs[0]["message_id"])
         msg = self.bot.send_photo(self.channel, image, to_html(post["text"]), html=True)
         return str(msg["message_id"])
+
+
+def gallery_files(post: dict, folder: Path) -> list[Path]:
+    """Extra real photos for an album post ("gallery": [photo specs], max 3). Missing ones are skipped."""
+    from .brands import photo_for
+    out = []
+    for i, spec in enumerate((post.get("gallery") or [])[:3]):
+        try:
+            im = photo_for(spec)
+        except Exception:  # noqa: BLE001
+            im = None
+        if im is None:
+            continue
+        im = im.convert("RGB")
+        im.thumbnail((1600, 1600))
+        f = folder / f"{post['id']}-g{i}.jpg"
+        im.save(f, quality=88)
+        out.append(f)
+    return out
 
 
 def to_html(text: str) -> str:

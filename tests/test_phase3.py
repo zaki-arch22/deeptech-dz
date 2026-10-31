@@ -114,3 +114,19 @@ def test_brand_and_topic_detection():
 def test_card_with_brands_renders(tmp_path):
     p = post(headline="تويوتا ووايمو في اليابان") | {"brands": ["toyota", "waymo"]}
     assert Image.open(render(p, tmp_path / "b.png")).size == (1280, 720)
+
+
+def test_album_send(tmp_path, monkeypatch):
+    import httpx
+    from dtdz import telegram as T
+    from PIL import Image as I
+    seen = {}
+
+    def handler(req):
+        seen["path"], seen["body"] = req.url.path, req.content
+        return httpx.Response(200, json={"ok": True, "result": [{"message_id": 9}, {"message_id": 10}]})
+    bot = T.Bot("1:A", httpx.Client(transport=httpx.MockTransport(handler)))
+    monkeypatch.setattr("dtdz.brands.photo_for", lambda spec: I.new("RGB", (800, 600), "red"))
+    card = tmp_path / "c.png"; I.new("RGB", (10, 10)).save(card)
+    mid = T.TelegramSender(bot, "@x").send({"id": "p1", "text": "**عاجل** نص", "gallery": [{"commons": "x"}]}, card)
+    assert mid == "9" and seen["path"].endswith("/sendMediaGroup") and b"<b>" in seen["body"]

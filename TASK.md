@@ -12,47 +12,45 @@ writes the slots between this run and the next one (06:40 run → 07:30; 07:40 r
 **Quality over quantity:** a slot is filled only if there is something genuinely worth posting. An
 empty slot is always better than a weak, minor or boring post. Never pad.
 
-## Daily plan (about 25–35 posts on a good day)
+## Editorial formula (v4 — learned from the biggest Algerian tech channel, 80K subscribers)
 
-The channel is news + real value, not a news feed. Fixed daily rendez-vous:
-- **12:00 تطبيق اليوم** (`type: app`): a `library` item with library_kind app. Present it in an
-  exciting, practical way: the problem it solves, 3 standout features, who it is for, free or not,
-  then the download link (`store` link, or official site).
-- **19:00 موقع اليوم** (`type: site`): a `library` item with library_kind site, same approach, with link.
-- **12:30 and 21:00 السوق** (`type: market`).
-Between them, mix through the day:
-- news (≈half of posts): the important or surprising; use `"breaking": true` only for truly major,
-  confirmed breaking news (shows a red عاجل label).
-- opportunities (`free`): free games (Epic/Steam/GOG), free courses/certificates, free official offers,
-  library items course/books.
-- tools and AI tools (`tool`): library ai/tool items or a useful new tool from Show HN / Product Hunt.
-- protection tips (`tool` with a library security item) and odd-but-true stories (`odd`).
-- **sport** (`type: sport`): big matches, results and transfers that interest Algerian/Arab fans
-  (Algeria national team, Algerian players abroad, El Clásico, Champions League, AFCON). Facts from
-  the sports sources only. Logos: the clubs/competition (`logos` with official domains).
-- **ماذا نشاهد؟** (`type: film`): a new film/series worth watching, or a themed list of 3–5 good
-  titles, from the entertainment sources. Say where to watch it legally (Netflix, Shahid, OSN+,
-  Prime Video, HBO Max…) — never pirate sites, IPTV apps or "codes". Logo: the platform.
-- **اكتشاف** (`type: discovery`): a striking device, invention, scientific or space discovery from
-  the science/tech sources, explained simply: what it is, why it is impressive, a concrete comparison
-  ("enough to download 20,000 films in one second"), and when it may reach people.
-- **software giveaways**: a paid program free for a limited time on its official developer site
-  (e.g. vovsoft.com giveaways) — `free` post with the original price, the end date and the official link.
-- **study & travel opportunities** (`type: free`, or `news`): scholarships, fully funded programs,
-  university admissions, training programs, competitions, visa and immigration programs (e.g. DV
-  lottery dates, new visa rules) — from the study_abroad sources. Always open and link the OFFICIAL
-  page (university, embassy, government, program site) and state the deadline exactly; skip if you
-  cannot confirm it there. Never link aggregator sites.
-- **trending topics**: what the world and Algeria are searching (Google Trends sources) — pick the
-  ones linked to tech, science, internet culture, sport or entertainment, find real reporting on
-  them in the other clusters, and explain why everyone is talking about it. Debate is fine; partisan
-  politics and rumours are not.
-- **outage alerts**: when a major app (WhatsApp, Telegram, Instagram…) is down and at least two sources
-  report it, post a short `breaking` news with what is affected.
-The rendez-vous are a minimum, not a limit: a second app or site the same day is fine when it is
-genuinely good — always prefer variety and avoid repeating the same kind back to back.
-Every run of 3+ posts needs one non-news post (the gate enforces it). Check the last 24 h of
-`queue/history.jsonl` so the day stays varied and nothing repeats.
+The audience follows a channel that makes them say "wow", laugh, or "I must share this". Every
+post must pass the **"would I forward this to a friend?"** test. Routine = death.
+
+**What they post (and we now post), in rough share of the day:**
+1. **Shock news about giants (≈35%)** — huge numbers and dramatic turns: mass layoffs, record hacks,
+   billion-dollar deals, a company admitting a defect, AI labs warning about their own models,
+   global market crashes ("3 trillion dollars lost in one day"), app outages worldwide.
+   Tech is the core, but **big world events everyone talks about** are allowed when confirmed by two
+   major outlets (BBC, Al Jazeera, France 24, WHO): health alerts, a historic first, a crisis that
+   shakes markets. Report facts with neutral wording — never "insiders say", never sides in politics.
+2. **Free value (≈25%)** — free official certificates (Google, Microsoft, SAP, Cisco…), paid software
+   free for a few days (official giveaway pages), free games, **curated lists** of free tools
+   (`type: list`: "5 free tools to clean your PC of hidden miners", numbered, each with its official link
+   and one-line benefit).
+3. **Wow science & devices (≈15%)** — records and inventions with a tangible comparison ("20,000 4K
+   films in one second"), space, robots, strange devices.
+4. **Entertainment & sport (≈15%)** — the series/film everyone will watch this week, El Clásico and
+   big matches (time, stadium, channel), Algerian players and the national team.
+5. **Apps & sites (≈10%)** — tested, useful, with the official link.
+
+**How they write it (adopt):**
+- First line = the whole hook, in bold, starting with ⚡ or ❗ (or 🎁 for free, 🚨 for danger):
+  `⚡ **مايكروسوفت تقترح تسريح 60 ألف موظف حول العالم.**`
+- 35–110 words. Short paragraphs of 1–2 sentences. Bold 2–4 key phrases.
+- Numbers made tangible, and **the Algerian angle** whenever it exists ("AppleCare doesn't exist in
+  Algeria, so…", price in dinars when known, does it work here?).
+- A last line with personality is welcome: light irony or a punchline (one short sentence, not a moral).
+- Several real photos when available: `"gallery": [{"commons": "..."}, ...]` (up to 3, sent as an album
+  with the card first). Use the official press image of the source when the cluster has one.
+- Pace: post whenever something good lands; several posts in an hour is fine during big news.
+
+**Not adopted (and the gate blocks it):** cracked "premium" APKs, pirate streaming apps and IPTV codes,
+shared Drive folders of copyrighted books, referral codes, copying their text or photos, English
+duplicates of the post, unverified rumours, photos of people.
+
+**Daily anchors (still useful, not rigid):** 12:00 app, 19:00 site, 12:30/21:00 market — skip any of
+them if something better is happening; never post two of the same kind back to back.
 
 ## Presentation (learned from successful Arabic tech channels)
 - **Bold** the key fact or number with `**…**` (one to three bolds per post, not whole paragraphs).

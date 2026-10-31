@@ -14,14 +14,14 @@ from .text import (EMOJI, LATIN_WORD, URL, canon_url, entities, host, jaccard, n
                    same_site, tokens)
 
 SIGNATURE = "◆ Deeptech DZ"
-TYPES = {"news", "free", "tool", "market", "odd", "app", "site", "sport", "film", "discovery", "study", "visa", "trend"}
-WORDS = {"news": (60, 160), "odd": (50, 160), "free": (45, 150), "tool": (55, 170), "market": (25, 140), "app": (60, 170), "site": (55, 160), "sport": (45, 150),
-         "film": (60, 190), "discovery": (60, 160), "study": (60, 180), "visa": (60, 180), "trend": (60, 170)}
+TYPES = {"list", "news", "free", "tool", "market", "odd", "app", "site", "sport", "film", "discovery", "study", "visa", "trend"}
+WORDS = {"list": (45, 220), "news": (35, 130), "odd": (35, 130), "free": (35, 140), "tool": (40, 160), "market": (25, 140), "app": (60, 170), "site": (55, 160), "sport": (35, 150),
+         "film": (40, 190), "discovery": (40, 150), "study": (60, 180), "visa": (60, 180), "trend": (60, 170)}
 MAX_LATIN_WORDS = 8               # Latin words outside links: Arabic first, names in Arabic
 MAX_SENTENCE_WORDS = 28
 HEADLINE_WORDS = (4, 10)
-MAX_PARA_LINES = {"market": 9, "tool": 6, "app": 6, "site": 6, "news": 5, "film": 8, "sport": 6}
-MAX_EMOJI, MAX_EMOJI_FIRST = 3, 1
+MAX_PARA_LINES = {"list": 14, "market": 9, "tool": 6, "app": 6, "site": 6, "news": 5, "film": 8, "sport": 6}
+MAX_EMOJI, MAX_EMOJI_FIRST = 4, 2
 MAX_CHARS = 1024                 # Telegram photo caption limit
 SHINGLE = 8                      # words in a row shared with a source = copying
 DEDUPE_DAYS, DEDUPE_SIM = 7, 0.5
@@ -111,10 +111,11 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
     # Arabic first: Telegram sets each paragraph's direction from its first strong letter
     for ln in body_lines:
         first = next((ch for ch in ln if ch.isalpha()), "")
-        if first and not ("\u0600" <= first <= "\u06FF") and not ln.strip().startswith("🔗"):
+        is_item = re.match(r"\s*(\d+[.)•-]|•)", ln) and ptype == "list"     # "1• KVRT - ..." list lines
+        if first and not is_item and not ("\u0600" <= first <= "\u06FF") and not ln.strip().startswith("🔗"):
             err.append(f"format: line starts with a non-Arabic word — rewrite: «{ln.strip()[:40]}»")
     latin = LATIN_WORD.findall(URL.sub(" ", body))
-    if len(latin) > MAX_LATIN_WORDS and ptype != "market":
+    if len(latin) > (25 if ptype == "list" else MAX_LATIN_WORDS) and ptype != "market":
         err.append(f"style: {len(latin)} English words (max {MAX_LATIN_WORDS}); write known names in Arabic")
     for sent in re.split(r"[.!؟?\n]+", URL.sub(" ", body)):
         if len(sent.split()) > MAX_SENTENCE_WORDS:
@@ -180,7 +181,7 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
             err.append(f"link: {h} is not allowed (use the official page)")
         elif not any(same_site(h, a) for a in src_hosts | OFFICIAL_LINK_SITES):
             err.append(f"link: {h} is neither a source nor an official site")
-    if ptype in ("free", "app", "site", "study") and not links:
+    if ptype in ("free", "app", "site", "study", "list") and not links:
         err.append("link: a free-offer post needs the official link")
 
     # no copying: no run of SHINGLE words shared with any source
@@ -193,6 +194,12 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
             if (h.get("cluster_id") == post["cluster_id"] and h.get("id") != post["id"]
                     and now - h.get("published_ts", 0) < 60 * 86400):
                 err.append(f"dedupe: library item already posted ({h['id']})")
+    for g in post.get("gallery") or []:
+        if g.get("url") and not (same_site(host(g["url"]), "wikimedia.org") or
+                                 g["url"] in {(s.get("extra") or {}).get("image") for s in cluster["sources"]}):
+            err.append("visual: gallery photos must be Wikimedia or the official source image")
+    if len(post.get("gallery") or []) > 3:
+        err.append("visual: max 3 gallery photos")
     ph = post.get("photo")
     if ph is not None:
         if not (ph.get("wiki") or ph.get("url") or ph.get("commons")):

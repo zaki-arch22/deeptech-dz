@@ -93,3 +93,11 @@ study_abroad:
 trends:
   - {name: Google Trends DZ,   url: "https://trends.google.com/trending/rss?geo=DZ",    trust: 1, verify: true}
   - {name: Google Trends US,   url: "https://trends.google.com/trending/rss?geo=US",    trust: 1, verify: true}
+
+world:
+  - {name: BBC World,          url: https://feeds.bbci.co.uk/news/world/rss.xml,       trust: 2, verify: true}
+  - {name: Al Jazeera,         url: https://www.aljazeera.com/xml/rss/all.xml,         trust: 2, verify: true}
+  - {name: France 24 Arabic,   url: https://www.france24.com/ar/rss,                   trust: 2, verify: true}
+  - {name: WHO News,           url: https://www.who.int/rss-feeds/news-english.xml,    trust: 3, verify: true}
+  - {name: CNBC Markets,       url: https://www.cnbc.com/id/10000664/device/rss/rss.html, trust: 2, verify: true}
+  - {name: BBC Tech,           url: https://feeds.bbci.co.uk/news/technology/rss.xml,  trust: 2, verify: true}

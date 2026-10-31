@@ -70,7 +70,7 @@ def test_good_post_passes():
     (lambda t: t.replace("Orbit 3،", "Orbit 3 وشريحة Quasar،"), "name 'Quasar'"),
     (lambda t: t.replace(SIGNATURE, "Deeptech"), "last line"),
     (lambda t: t.replace(SIGNATURE, "#هواتف\n" + SIGNATURE), "no hashtags"),
-    (lambda t: "🔥 🚀 " + t, "first line"),
+    (lambda t: "⚡ ❗ 🚀 " + t, "first line"),
     (lambda t: t + "!!", "banned phrase"),
     (lambda t: t.replace("الأرقام جميلة", "حمّل من t.me/somechannel الأرقام جميلة"), "not allowed"),
     (lambda t: t.replace("الأرقام جميلة", "التفاصيل على randomblog.net الأرقام جميلة"), "neither a source"),
