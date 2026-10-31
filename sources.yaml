@@ -101,3 +101,12 @@ world:
   - {name: WHO News,           url: https://www.who.int/rss-feeds/news-english.xml,    trust: 3, verify: true}
   - {name: CNBC Markets,       url: https://www.cnbc.com/id/10000664/device/rss/rss.html, trust: 2, verify: true}
   - {name: BBC Tech,           url: https://feeds.bbci.co.uk/news/technology/rss.xml,  trust: 2, verify: true}
+
+visa_immigration:
+  - {name: SchengenVisaInfo,   url: https://www.schengenvisainfo.com/news/feed/,       trust: 1, verify: true, note: "official page required"}
+  - {name: VisaGuide News,     url: https://visaguide.world/news/feed/,                trust: 1, verify: true, note: "official page required"}
+  - {name: Canada IRCC news,   url: "https://api.io.canada.ca/io-server/gc/news/en/v2?dept=departmentofcitizenshipandimmigration&type=newsreleases&sort=publishedDate&orderBy=desc&pick=50&format=atom", trust: 3, verify: true}
+
+courses:
+  - {name: Google Blog Learning, url: https://blog.google/outreach-initiatives/education/rss/, trust: 3, verify: true}
+  - {name: Microsoft Learn Blog, url: "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=MicrosoftLearnBlog", trust: 3, verify: true}

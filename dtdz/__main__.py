@@ -22,7 +22,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="dtdz")
-    ap.add_argument("cmd", choices=["collect", "export", "check", "health", "render", "publish", "queue"])
+    ap.add_argument("cmd", choices=["collect", "export", "check", "health", "render", "publish", "queue", "plan"])
     ap.add_argument("posts", nargs="?")
     ap.add_argument("--sources", default=ROOT / "sources.yaml")
     ap.add_argument("--db", default=ROOT / "data" / "dtdz.sqlite")
@@ -59,6 +59,9 @@ def main(argv: list[str] | None = None) -> int:
         from .publisher import upcoming
         for p in upcoming(ROOT):
             print(p["slot"], p["type"].ljust(6), p["first_line"][:70])
+    elif a.cmd == "plan":
+        from .plan import print_plan
+        print_plan(ROOT)
     elif a.cmd == "check":
         from .gate import check_file
         if not a.posts:

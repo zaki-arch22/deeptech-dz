@@ -16,7 +16,7 @@ INK, GRID, LINE = "#0B0F14", "#131A23", "#1E2833"
 TEXT, MUTED, BRAND = "#F2F5F8", "#8A97A6", "#22D3EE"
 ACCENT = {"news": BRAND, "free": "#4ADE80", "market": "#FBBF24", "tool": "#A78BFA", "odd": "#F472B6",
           "app": "#FB923C", "site": "#38BDF8", "breaking": "#F87171", "sport": "#34D399", "film": "#E879F9",
-          "discovery": "#60A5FA", "list": "#22D3EE", "study": "#FACC15", "visa": "#2DD4BF", "trend": "#FB7185"}
+          "discovery": "#60A5FA", "list": "#22D3EE", "course": "#FACC15", "study": "#FACC15", "visa": "#2DD4BF", "trend": "#FB7185"}
 LABEL = {"news": "أخبار", "free": "فرصة مجانية", "market": "السوق", "tool": "أداة", "odd": "غريب لكنه حقيقي",
          "app": "تطبيق اليوم", "site": "موقع اليوم", "breaking": "عاجل", "sport": "رياضة",
          "film": "ماذا نشاهد؟", "discovery": "اكتشاف", "list": "مختارات", "study": "منح ودراسة", "visa": "هجرة وتأشيرات",

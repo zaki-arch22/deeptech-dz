@@ -3,14 +3,27 @@
 Instructions for the scheduled Claude task. Each run writes the posts for the next few slots.
 The PC refreshes `queue/candidates.json` every 30 minutes and publishes whatever passes the gate.
 
-## Runs and slots (Africa/Algiers)
+## Runs, timing and volume (Africa/Algiers, +01:00)
 
-Slots are every half hour from **07:30 to 00:30** (:00 and :30). The task runs every hour at :40 and
-writes the slots between this run and the next one (06:40 run → 07:30; 07:40 run → 08:00, 08:30; …;
-23:40 run → 00:00, 00:30). Slots already in `queue/posts/` are not rewritten.
+There are **no fixed slots**. The task runs every hour; each run writes the posts to publish during
+the next ~70 minutes and **chooses their exact times itself** (`slot`, e.g. `2026-11-01T14:07:00+01:00`).
+- Publishing window 07:00 → 01:00. Aim for **30–45 posts a day**, more on busy news days.
+- Spread posts naturally: 2–4 per hour on average, at least 12 minutes apart, busier at peak times
+  (12:00–14:00 and 19:00–23:00), lighter early morning. Irregular minutes look human (14:07, 14:26…).
+- **Breaking news is published at once**: slot = now + 5 minutes, regardless of other posts.
+- Run `python -m dtdz plan` FIRST. It shows today's count per category, the daily minimum, and the
+  times already taken. **Every category must reach its minimum before the day ends**: breaking/major
+  events, tech news, discoveries & inventions & devices, apps, websites, tools/AI/security, free
+  subscriptions & games & software, courses & certificates, scholarships & study, immigration & visas,
+  financial markets, films & series, sport, trends. Write the categories marked MISSING first.
+- Quality still rules: a weak post is never written to fill a quota — if the news clusters have nothing
+  good for a category, use the library (apps, sites, courses, tools) or search the web for a real,
+  current item from an official source (new free course, scholarship call, visa programme, film
+  release on a legal platform) and use it.
+- Set `"category"` on each post (one of the plan's keys) so the plan counts it correctly.
 
-**Quality over quantity:** a slot is filled only if there is something genuinely worth posting. An
-empty slot is always better than a weak, minor or boring post. Never pad.
+**Write it right the first time.** `python -m dtdz check` is your checklist while writing: fix every
+point it raises before committing — never drop a post because of a style error, rewrite it.
 
 ## Editorial formula (v4 — learned from the biggest Algerian tech channel, 80K subscribers)
 
@@ -85,8 +98,7 @@ Same story, written right:
 shared Drive folders of copyrighted books, referral codes, copying their text or photos, English
 duplicates of the post, unverified rumours, photos of people.
 
-**Daily anchors (still useful, not rigid):** 12:00 app, 19:00 site, 12:30/21:00 market — skip any of
-them if something better is happening; never post two of the same kind back to back.
+Never post two of the same category back to back.
 
 ## Presentation (learned from successful Arabic tech channels)
 - **Bold** the key fact or number with `**…**` (one to three bolds per post, not whole paragraphs).

@@ -14,8 +14,8 @@ from .text import (EMOJI, LATIN_WORD, URL, canon_url, entities, host, jaccard, n
                    same_site, tokens)
 
 SIGNATURE = "◆ Deeptech DZ"
-TYPES = {"list", "news", "free", "tool", "market", "odd", "app", "site", "sport", "film", "discovery", "study", "visa", "trend"}
-WORDS = {"list": (45, 220), "news": (35, 130), "odd": (35, 130), "free": (35, 140), "tool": (40, 160), "market": (25, 140), "app": (60, 170), "site": (55, 160), "sport": (35, 150),
+TYPES = {"list", "course", "news", "free", "tool", "market", "odd", "app", "site", "sport", "film", "discovery", "study", "visa", "trend"}
+WORDS = {"list": (45, 220), "course": (40, 150), "news": (35, 130), "odd": (35, 130), "free": (35, 140), "tool": (40, 160), "market": (25, 140), "app": (60, 170), "site": (55, 160), "sport": (35, 150),
          "film": (40, 190), "discovery": (40, 150), "study": (60, 180), "visa": (60, 180), "trend": (60, 170)}
 MAX_LATIN_WORDS = 4               # Latin words outside links: Arabic first, names in Arabic
 MAX_SENTENCE_WORDS = 22
@@ -59,7 +59,19 @@ def _shingles(s: str) -> set[tuple]:
 
 
 def check_post(post: dict, cluster: dict | None, banned: list, history: list[dict],
-               now: float | None = None) -> list[str]:
+               now: float | None = None, strict: bool = True) -> list[str]:
+    """strict=True: full quality check, used by the writer while writing (fix, never drop).
+    strict=False: publish-time safety only (facts, links, duplicates, Telegram limits) — a post the
+    writer already checked is never thrown away at the last minute for a style detail."""
+    errs = _check_post(post, cluster, banned, history, now)
+    if strict:
+        return errs
+    keep = ("schema:", "fact:", "link:", "dedupe:")
+    return [e for e in errs if e.startswith(keep) or "Telegram caption" in e or "unbalanced" in e]
+
+
+def _check_post(post: dict, cluster: dict | None, banned: list, history: list[dict],
+                now: float | None = None) -> list[str]:
     now = now or time.time()
     err: list[str] = []
     text = (post.get("text") or "").strip()
@@ -193,7 +205,7 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
             err.append(f"link: {h} is not allowed (use the official page)")
         elif not any(same_site(h, a) for a in src_hosts | OFFICIAL_LINK_SITES):
             err.append(f"link: {h} is neither a source nor an official site")
-    if ptype in ("free", "app", "site", "study", "list") and not links:
+    if ptype in ("free", "app", "site", "study", "list", "course", "visa") and not links:
         err.append("link: a free-offer post needs the official link")
 
     # no copying: no run of SHINGLE words shared with any source
@@ -239,8 +251,9 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
             err.append(f"dedupe: same source already posted ({h['id']})")
         elif ptype != "market" and jaccard(key, set(h.get("key", []))) >= DEDUPE_SIM:
             err.append(f"dedupe: same topic as {h['id']} in the last {DEDUPE_DAYS} days")
-        elif ptype == "market" and h.get("type") == "market" and h.get("day") == post["slot"][:10]:
-            err.append("dedupe: one market post per day")
+        elif (ptype == "market" and h.get("type") == "market"
+              and abs(_slot_ts(post["slot"]) - h.get("published_ts", 0)) < 4 * 3600):
+            err.append("dedupe: market posts need 4 hours between them")
     return err
 
 
