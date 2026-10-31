@@ -1,39 +1,6 @@
 {
- "generated_at": "2026-10-31T21:12:18+00:00",
+ "generated_at": "2026-10-31T21:45:07+00:00",
  "clusters": [
-  {
-   "id": "c6f116f1e09",
-   "kind": "news",
-   "score": 8.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NASA",
-     "trust": 3,
-     "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope",
-     "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-     "lang": "en",
-     "extra": {},
-     "id": "6f116f1e09fd6959",
-     "published": "2026-10-30T14:51+00:00",
-     "text": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.\n“Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,” said NASA Administrator Jared Isaacman. “If there are innovative and cost-effective ways to extend the life of an asset already on orbit, we owe it to the American taxpayer and the scientific community to explore them. Extending Hubble’s life would mean more discoveries, more science, and more opportunities to expand our understanding of the universe.”\nThe Request for Information seeks commercial interest in: potentially conducting a mission to boost Hubble to a higher altitude to extend its science lifetime; servicing Hubble to enhance its capabilities; or performing a safe, controlled re-entry into Earth’s atmosphere or orbital disposal at the end of Hubble’s mission.\n“Hubble is a national icon that has fundamentally changed how humanity views our universe for more than 35 years,” said Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters in Washington. “Commercial industry has rapidly evolved in recent years to offer new capabilities for in-space satellite capture and servicing. Given the time we have until Hubble’s anticipated re-entry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.”\nThe Request for Information is available online and will remain open for responses until 3 p.m. EST, Monday, Nov. 30.\nLike all spacecraft in low Earth orbit, Hubble’s altitude is slowly decreasing over time because of atmospheric drag. Hubble does not have a propulsion system to maintain its own orbit, and analysis predicts Hubble is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As such, NASA anticipates that a mission would need to take place by 2032.\nThe Hubble Space Telescope has been operating for more than three decades and continues to make ground-breaking discoveries that shape our fundamental understanding of the universe. Hubble is a project of international cooperation between NASA and ESA (European Space Agency). NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope and mission operations. Lockheed Martin Space, based in Denver, also supports mission operations at Goddard. The Space Telescope Science Institute in Baltimore, which is operated by the Association of Universities for Research in Astronomy, conducts Hubble science operations for NASA.\nTo learn more about NASA’s Hubble Space Telescope, visit:\nMedia Contacts:\nAlise Fisher\nHeadquarters, Washington\n202-358-2546\nalise.m.fisher@nasa.gov\nClaire Andreoli\nGoddard Space Flight Center, Greenbelt, Md.\n202-286-1940\nclaire.andreoli@nasa.gov"
-    },
-    {
-     "source": "Ars Technica",
-     "trust": 2,
-     "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know",
-     "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
-     "lang": "en",
-     "extra": {},
-     "id": "d84808b6057ac5b3",
-     "published": "2026-10-31T00:07+00:00",
-     "text": "The Hubble Space Telescope still shines in the eyes of astronomers after 36 years in orbit, but it is not as nimble as it once was. Left alone, the observatory will plunge back into the atmosphere in the early-to-mid-2030s, closing the book on one of the most famous scientific instruments of the century.\nNASA last raised the orbit of Hubble in 2002, when the Space Shuttle Columbia visited the observatory for a servicing mission. The final shuttle servicing flight in 2009 did not reboost the telescope's orbit, and with the retirement of the shuttle fleet two years later, Hubble has steadily lost altitude with no way to stave off eventual destruction.\nThe space agency released a Request For Information (RFI) on Thursday asking commercial companies for ideas on how to reboost, service, or a controlled disposal of Hubble. Responses are due November 30. Specifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance through, or guiding Hubble to a controlled reentry."
-    }
-   ]
-  },
   {
    "id": "c86fc494720",
    "kind": "news",
@@ -277,50 +244,6 @@
    ]
   },
   {
-   "id": "c18a0df6020",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC Sport Football",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
-     "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
-     "lang": "en",
-     "extra": {},
-     "id": "18a0df6020bfc968",
-     "published": "2026-10-31T14:35+00:00",
-     "text": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
-     "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
-     "lang": "en",
-     "extra": {},
-     "id": "b48920bdaccae964",
-     "published": "2026-10-31T15:09+00:00",
-     "text": "Goals from Morgan Rogers and Cole Palmer give Chelsea a 2-0 win over Manchester United in the Premier League."
-    },
-    {
-     "source": "BBC Sport Football",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
-     "title": "Carrick bemoans Man Utd defending in Chelsea loss",
-     "lang": "en",
-     "extra": {},
-     "id": "167c5501c154221d",
-     "published": "2026-10-31T15:13+00:00",
-     "text": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat to Chelsea in the Premier League."
-    }
-   ]
-  },
-  {
    "id": "ceb0d26f83b",
    "kind": "news",
    "score": 8.0,
@@ -486,6 +409,41 @@
    ]
   },
   {
+   "id": "c13659a39d9",
+   "kind": "news",
+   "score": 8.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CNBC Tech",
+     "trust": 2,
+     "url": "https://cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+     "lang": "en",
+     "extra": {},
+     "id": "13659a39d99759cb",
+     "published": "2026-10-31T20:12+00:00",
+     "text": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years."
+    },
+    {
+     "source": "TechCrunch",
+     "trust": 2,
+     "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+     "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800"
+     },
+     "id": "e07dacdb45dcc75e",
+     "published": "2026-10-31T21:17+00:00",
+     "text": "A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit accusing the SpaceX-owned company of failing to obtain permits needed to operate the gas turbines powering its Colossus data center outside Memphis.\nSuing on behalf of the NAACP, the Southern Environmental Law Center said the AI company had “installed and operated at least 35 combustion turbines and other sources of air pollution at the Colossus site without ever obtaining the necessary preconstruction or operating air permits.” It also accused xAI of violating the Clean Air Act.\nxAI sought to have the lawsuit dismissed, claiming that the turbines are exempt from permitting requirements because they’re mobile. The company also argued that the plaintiffs did not have the standing to sue.\n“Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not ‘mobile sources’ under Mississippi’s [State Implementation Plan], and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs’ claims will proceed,” Judge Debra M. Brown wrote in her decision.\nFocusing on xAI’s claim that these kinds of citizen lawsuits are unconstitutional, Judge Brown wrote, “Because citizen suit plaintiffs sue on their own behalf, in their own name, and seek penalties that redress harm to themselves, they are not exercising the federal government’s executive power.”\nTechCrunch has reached out to SpaceX for comment.\nIn a statement, the NAACP’s director of environmental and climate justice Abre’ Connor described this as “another important victory in our effort to hold xAI accountable.” (A similar motion to dismiss from the Department of Justice was denied earlier this month)\n“The courts have repeatedly rejected attempts by xAI and the DOJ to dismiss the NAACP’s Clean Air Act case, affirming our right to pursue justice for communities impacted by pollution,” Connor said. “Our position has been clear: xAI cannot operate gas turbines without the required permits.”\nThe NAACP lawsuit is moving forward as public opinion seems to have turned sharply against data centers, with New York recently passing a moratorium on new data centers and other state and local governments considering similar measures.\nThe backlash also prompted Amazon and Microsoft to promise to stop using NDAs in their dealings with government agencies, and it could be a significant factor in the imminent U.S. midterm elections."
+    }
+   ]
+  },
+  {
    "id": "c9454cfa86e",
    "kind": "news",
    "score": 7.0,
@@ -598,24 +556,46 @@
    ]
   },
   {
-   "id": "c4173b14fbb",
+   "id": "c18a0df6020",
    "kind": "news",
    "score": 7.0,
    "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "سباق الكرة الذهبية: ميسي يضع الجزائري إبراهيم مازة ثالثا في فئة \"أفضل لاعب شاب\" خلف يامال وكوبارسي",
+   "distinct_sites": 2,
+   "title_hint": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
    "official_image": null,
    "sources": [
     {
-     "source": "France 24 Arabic",
+     "source": "BBC Sport Football",
      "trust": 2,
-     "url": "https://france24.com/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/20261031-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9-%D9%85%D9%8A%D8%B3%D9%8A-%D8%B5%D9%88%D8%AA-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D9%85%D8%A7%D8%B2%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8-%D8%B4%D8%A7%D8%A8",
-     "title": "سباق الكرة الذهبية: ميسي يضع الجزائري إبراهيم مازة ثالثا في فئة \"أفضل لاعب شاب\" خلف يامال وكوبارسي",
-     "lang": "ar",
+     "url": "https://bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss",
+     "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+     "lang": "en",
      "extra": {},
-     "id": "4173b14fbb83711f",
-     "published": "2026-10-31T15:24+00:00",
-     "text": "كشفت مجلة \"ليكيب\" الرياضية الفرنسية أن النجم الأرجنتيني ليونيل ميسي قد منح صوته لللاعب الدولي الجزائري إبراهيم مازة، المحترف بنادي ليفركوزن، في فئة \"أفضل لاعب شاب\" لمسابقة الكرة الذهبية، والتي فاز فيها الإسباني لامين يامال (برشلونة). وبفضل صوت \"البرغوث\"، حل مازة في المركز الثالث بهذه الفئة."
+     "id": "18a0df6020bfc968",
+     "published": "2026-10-31T14:35+00:00",
+     "text": "Player ratings as Morgan Rogers and Cole Palmer score second-half goals in Chelsea's home win over Manchester United, who have Lisandro Martinez sent off."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/10/31/chelsea-beat-man-united-as-martinez-sees-red-for-crazy-moment-in-thriller?traffic_source=rss",
+     "title": "Chelsea beat Man United as Martinez sent off to pile pressure on Carrick",
+     "lang": "en",
+     "extra": {},
+     "id": "b48920bdaccae964",
+     "published": "2026-10-31T15:09+00:00",
+     "text": "Goals from Morgan Rogers and Cole Palmer give Chelsea a 2-0 win over Manchester United in the Premier League."
+    },
+    {
+     "source": "BBC Sport Football",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/football/videos/cqrlywrdjdzyo?at_medium=RSS&at_campaign=rss",
+     "title": "Carrick bemoans Man Utd defending in Chelsea loss",
+     "lang": "en",
+     "extra": {},
+     "id": "167c5501c154221d",
+     "published": "2026-10-31T15:13+00:00",
+     "text": "Manchester United manager Michael Carrick takes issue with his side's defending, particularly for the first goal they conceded in their 2-0 defeat to Chelsea in the Premier League."
     }
    ]
   },
@@ -862,28 +842,6 @@
    ]
   },
   {
-   "id": "c25cc4c9bb2",
-   "kind": "news",
-   "score": 6.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Making it easier for websites to express AI training preferences",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "OpenAI News",
-     "trust": 3,
-     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-     "title": "Making it easier for websites to express AI training preferences",
-     "lang": "en",
-     "extra": {},
-     "id": "25cc4c9bb2e3e7e5",
-     "published": "2026-10-30T09:30+00:00",
-     "text": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
-    }
-   ]
-  },
-  {
    "id": "c432aad2ad7",
    "kind": "news",
    "score": 6.5,
@@ -1038,50 +996,6 @@
    ]
   },
   {
-   "id": "c766cc0e2e7",
-   "kind": "news",
-   "score": 6.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC Tech",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-     "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-     "lang": "en",
-     "extra": {},
-     "id": "766cc0e2e7310caa",
-     "published": "2026-10-30T09:33+00:00",
-     "text": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "lang": "en",
-     "extra": {},
-     "id": "7757066858a68b40",
-     "published": "2026-10-30T21:13+00:00",
-     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a \"complex\" hack, after $6.3bn (£4.7bn) was accessed in what is believed to be a record heist.\nThe firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers. It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.\nSeveral analytics firms have linked the hack, which eclipses a $1.5bn (£1.12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.\nThe US Secret Service said it was \"working around the clock\" \"to identify, freeze, trace, and recover\" stolen funds.\nAmerica's lead federal agency for investigating financial crimes added that it would \"identify the cyber criminals responsible and bring them to justice\", while Binance also said it was working with the FBI.\nWhile Binance said its US-facing exchange was unaffected, the US would still have jurisdiction to investigate the hack and help track down stolen funds - an effort which generally involves a global law enforcement effort.\nThe hack also involved some US-linked assets, such as stablecoins Tether and Circle – cryptocurrencies pegged to the dollar.\nBinance told its users \"your money is safe, and we're covering every loss\".\nIt had initially suspended all deposits and withdrawals - but then said in an update that \"deposits remain unaffected\".\nBinance's co-CEO Richard Teng said: \"This was not carried out by one person. Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach.\"\nTeng also describes how the hackers used \"a self-destruct mechanism that destroyed tooling and traces as they went, making it more difficult for us to trace and investigate\".\nInitially, the company had indicated the breach \"may have started with a compromised DevOps engineer's laptop\" but later statements have pointed to a broader breach.\nIn a later update, the firm said it had \"set aside\" more than $6.34B in company funds to cover the stolen assets and was \"actively buying\" a range of crypto tokens.\nThe Binance hack spooked cryptocurrency markets on Friday. The price of Bitcoin was down 5% to $76,800 in Friday afternoon trading in New York.\nCryptocurrency exchange Coinbase was down 12% as investors also reacted to earnings results in which the firm reported revenue slightly below expectations. Robinhood, a financial services company that trades in cryptocurrency, was down 7.8%.\nBinance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.\nThe company said in 2024 that it had more than $160bn in assets under its custody.\nA lot of the fear right now from Binance users - and the crypto industry at large - is whether or not Binance will actually be capable of covering this enormous financial loss.\nThe company has said repeatedly that customer funds will be covered and that the firm is strong enough to weather the storm.\nBut crypto history watchers have been pointing out online that this is exactly the kind of message that FTX CEO Sam Bankman-Fried gave before his crypto exchange collapsed in 2022, leading to huge losses for customers and the industry.\nSeveral experts have warned customers not to regard Binance's promise to cover losses as legally binding and said they may need to pursue litigation to recover them.\nDaniel Tunkel, of the London-based Edwin Coe law firm, said that would \"come down to what [customers] have been promised in their contracts\", and \"where Binance can be sued for non-performance, if it comes to it\".\nBinance has been subject of regulatory scrutiny around the world.\nMeanwhile, AI-powered investigations company TRM Labs said that several elements of the attack resembled earlier North Korean-linked incidents, including the Bybit hack.\nIn the last five years the crypto industry has been beset by enormous losses from hackers.\nIn nearly all cases investigators have blamed hackers from North Korea, pointing to the infamous Lazarus Group - also know as TraderTraitor. The names refer to clusters of cyber criminals accused of working directly for the regime.\nChainalysis, a crypto analytics firm, said it had \"high confidence\" that a North Korean is linked to the hack.\nNorth Korea is an impoverished country with very little industry and heavy international sanctions and experts say the regime uses cyber crime as a way to bring money in.\nNorth Korea has always denied this, but the wealth of evidence from cryptocurrency flow analysis and insider interviews from defectors is compelling.\nIt makes North Korea likely to be the only nation that uses hacking as a way to raise public funds."
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "lang": "en",
-     "extra": {},
-     "id": "0629994f454de1d9",
-     "published": "2026-10-31T16:32+00:00",
-     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nIt said it had replenished the assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nTwo major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group called The Lazarus Group, also known as TraderTraitor, as the likely culprits.\nThe Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange last year.\nNorth Korea has always denied involvement in these attacks.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
-    }
-   ]
-  },
-  {
    "id": "ce28e380021",
    "kind": "news",
    "score": 6.0,
@@ -1111,6 +1025,41 @@
      "id": "cd5c6bb30fa1ddac",
      "published": "2026-10-30T14:20+00:00",
      "text": "Nothing Phone 3a, 3a Pro, 4a, and 4a Pro owners are in for a treat with the Nothing OS 5.0 update, now rolling out to all four phone models globally."
+    }
+   ]
+  },
+  {
+   "id": "cf63058a65b",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "TechCrunch",
+     "trust": 2,
+     "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
+     "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+     "lang": "en",
+     "extra": {},
+     "id": "f63058a65b72ed2e",
+     "published": "2026-10-30T13:00+00:00",
+     "text": "A great founder event shouldn’t just leave you with ideas. It should give you connections, insights, and actionable advice to turn those ideas into growth.\nJust five days away, TechCrunch Founder Summit, presented by Fidelity Private Shares, is bringing founders together for hands-on learning and meaningful connections. Explore two breakout stages packed with practical advice, then dive into interactive roundtables where you can ask questions, exchange ideas, and get direct insights from people who understand the challenges of building and scaling a company.\nDon’t just take notes. Make connections, find answers, and leave with a clearer path forward. Register now to save up to $100 on your pass, plus get a second for free.\nGet to know the breakout stages\nBuild Stage\nGet tactical about building your company. The Build Stage focuses on what it takes to turn an idea into a growing business, with practical sessions on distribution, fundraising, emerging AI opportunities, and pitching. Visit the agenda to see the full session lineup.\n- The Next Startup Advantage: Distribution Beats Technology: Hear Hunter Worland, Principal at NEA, explain why distribution can matter more than the technology itself and how founders can build a competitive advantage.\n- Fundraising Trends: Get practical fundraising advice from Kristen Craft (Fidelity Private Shares), Jennifer Neundorfer (January Ventures), and Darren Ross (THE·TEAM) on what investors are looking for and how to prepare for your next raise.\n- The Next AI Opportunity: What Hasn’t Been Built Yet? Explore emerging opportunities in AI with Amulya Vishwanath, CEO and Managing Partner at Techable VC, and discover where the next wave of AI startups could take shape.\n- Your Pitch Has to Earn the Next Conversation: Learn from Dave Balter, Venture Partner at True Ventures, how to craft a compelling pitch that captures investor interest and earns that all-important next meeting.\nThese aren’t just conversations about startup success. They’re practical lessons you can take straight back to your company. Get tactical about building the company. You’ll hear perspectives on why distribution can matter as much as the technology itself, what investors are looking for as founders prepare to raise, how high-performing startup teams are built, and why the best pitch is often the one that earns another meeting. These are lessons designed to move from the stage back into your company.\nImpact Stage\nThe Impact Stage focuses on the decisions that help founders build sustainable, scalable businesses, from finding product-market fit and knowing when to accelerate growth to building enterprise relationships and identifying future category leaders.\nThrough candid conversations with experienced founders, investors, and industry leaders, you’ll get practical insights into scaling responsibly, navigating competitive markets, unlocking strategic partnerships, and positioning your company for long-term success. Explore the full agenda to see the rest of the lineup.\n- When to Scale and When to Hit the Brakes: Learn from Rudina Seseri, Founder and Managing Partner at Glasswing Ventures, how to make smart decisions after raising your first round, from hiring and product development to managing burn rate and knowing when to accelerate growth.\n- Finding Product-Market Fit Before You Scale: Get insights from Kurt Bennett, Partner at Bessemer Venture Partners, on how to validate customer demand, build an MVP that answers the right questions, identify meaningful growth signals, and avoid scaling before your startup is ready.\n- Enterprise Relationships: Hear from Kristen Craft of Fidelity Private Shares, Yossi Hayut of Wix Ventures, Evan Schnidman of Fidelity Investments, and Jennifer van Dijk of Boston Legacy FC on how startups can build strategic enterprise partnerships, unlock new markets, and accelerate growth.\n- The Boston Founder Playbook: Hear from Chase Garbarino, CEO and Co-founder of HqO, about building and scaling successful companies outside Silicon Valley, the advantages and challenges of growing a business in Boston, and why founders don’t need to relocate to build category-defining companies.\n- How To Spot the ‘King of the Hill’ Company: Hidden Signals That Define Category Winners: Learn from Tina Tosukhowong, Investment Director at TDK Ventures, how investors evaluate potential category leaders through economics, scalability, and commercial timing, with practical frameworks for assessing startup readiness and competitive positioning.\nRoundtables: Bring your questions\nRoundtables make the conversation smaller and more specific. Founders can dig into challenges, including entering difficult industries, building an events strategy without a dedicated team, reducing AI hallucinations, landing major enterprise customers before Series A, building entirely new categories, and using AI to help lean teams compete with much larger organizations.\nInstead of simply hearing how someone else approached a pr"
+    },
+    {
+     "source": "TechCrunch",
+     "trust": 2,
+     "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+     "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
+     },
+     "id": "5a4bff0c2db23b04",
+     "published": "2026-10-31T21:36+00:00",
+     "text": "Networking shouldn’t mean walking into a crowded room and hoping you happen to meet the right person. At TechCrunch Founder Summit, presented by Fidelity Private Shares, founders and VCs have several ways to make the connections they build beyond the sessions more intentional.\nOn November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup.\nMake game-changing connections, gain valuable insights, and get the advice you need to propel your idea and startup forward. Grab your pass now to save up to $100 and get a second pass free before doors open.\nNetworking intended to push the needle\nThe Founder Summit Networking Lounge, powered by Braindate, gives attendees the ability to schedule one-on-one and small-group conversations around specific topics.\n- That means you don’t have to leave networking entirely to chance.\n- Want to compare fundraising strategies?\n- Talk about a hiring challenge?\n- Find another founder trying to crack enterprise sales?\n- Meet someone building in Boston?\nBring a question, offer your own experience, and find people who want to have the same conversation.\nTurn sessions into conversations\nBraindate also gives attendees an opportunity to continue ideas that start elsewhere in the program.\nHear Kent Bennett discuss product-market fit, then connect with another founder wrestling with the same question.\nWatch founders put their pitches in front of investors, then compare notes with someone preparing for a raise.\nHear Chase Garbarino talk about building in Boston, then meet other founders doing exactly that.\nThe sessions can start the conversation. Networking gives you somewhere to take it next.\nConnect across the entire Founder Summit experience\nThe connections aren’t limited to one lounge. Roundtables create smaller, topic-driven conversations. Breakout sessions are where on-stage panels address questions from those in the room. The Expo Hall brings attendees and partners together throughout the day. The closing reception gives founders, investors, and operators time to continue conversations without rushing to another session.\nAnd the TechCrunch Founder Summit experience extends beyond the venue and event day with official Side Events happening throughout Boston all week long.\nSometimes the most useful thing you leave an event with isn’t another page of notes. It’s a person you didn’t know that morning.\n4 days until doors open and prices rise: Save on your pass now\nJust four days remain until TechCrunch Founder Summit arrives at Boston’s SoWa Power Station! Don’t miss out on ticket savings, a full day of impactful networking, and practical takeaways designed to propel your idea and startup forward. Register now to save up to $100 on your pass and get a second pass free."
     }
    ]
   },
@@ -1159,35 +1108,101 @@
    ]
   },
   {
-   "id": "cd5593fe631",
+   "id": "cb19c5c6086",
    "kind": "news",
    "score": 6.0,
-   "sensitive": true,
+   "sensitive": false,
    "distinct_sites": 2,
-   "title_hint": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+   "title_hint": "Google says Android Auto video apps are still ‘coming soon’ as deadline nears",
    "official_image": null,
    "sources": [
     {
-     "source": "TechCrunch",
+     "source": "9to5Google",
      "trust": 2,
-     "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach",
-     "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+     "url": "https://9to5google.com/2026/10/30/google-android-auto-video-apps-deadline",
+     "title": "Google says Android Auto video apps are still ‘coming soon’ as deadline nears",
      "lang": "en",
      "extra": {},
-     "id": "d5593fe6310dc5ca",
-     "published": "2026-10-30T14:00+00:00",
-     "text": "Hackers working for the North Korean regime have been blamed for a record cryptocurrency heist following a cyberattack at crypto exchange Binance. The hackers stole at least $6.3 billion in crypto from the company’s wallets, though about half of that amount was frozen as the stolen crypto traveled across various blockchains, according to security researchers.\nThe breach is by far the largest known theft of crypto in history, though the incident has not been confirmed yet to be resolved, and the amount of crypto stolen may change.\nIn a post on X, Binance said its initial investigation showed that the hackers broke into the company’s network after targeting a “compromised” Binance engineer’s laptop, which “allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.”\nBinance said it has seen no evidence of a leak of its private keys, which would grant the hacker near-unfettered control over the company’s stores of crypto.\nThe crypto exchange — the world’s largest — said it has now suspended all deposits and withdrawals while its investigation into the breach continues. TechCrunch reported on Thursday that the exchange had paused withdrawals across some of its blockchains.\nBinance said “user funds are safe,” but did not immediately provide proof of this claim. The company said it will “publish an updated proof of reserves once the remediation is complete.”\nSpokesperson Andie Cooper said in a statement shared with TechCrunch on Friday that some $3 billion has been frozen by industry partners. The spokesperson said Binance has “begun recovering affected assets for users and continues to work with law enforcement, issuers, blockchain intelligence firms and industry partners to trace, freeze and recover additional funds.”\nIt’s unclear how the hack went down or under what circumstances the employee’s laptop was compromised, but it’s not uncommon for security incidents to stem from the use of compromised software on employee devices.\nSoftware is generally built from many components, including open source projects, which hackers regularly target, compromise and modify in order to steal data from devices that the affected software is installed on. Other times, malware bundled with regular-looking apps and games can allow hackers to steal usernames, passwords, and session tokens from infected computers, which may let them log in as if they were a legitimate employee.\nBinance will face questions about why the company’s security allowed a single employee’s laptop to access systems capable of controlling billions of dollars in funds.\nSpokespeople for Binance did not respond to an email with questions about the breach. TechCrunch has also asked the company who, if anyone, performed a security audit of Binance’s network and systems prior to the hack. Companies regularly ask third-party companies to stress-test their security to identify weaknesses that could be exploited by attackers, but it’s unclear if Binance sought such a review.\nSecurity researchers at TRM Labs, a blockchain intelligence and forensic company, attributed the breach to North Korean hackers, and called it the “largest hack in history.”\nResearchers describe the network of hackers, known in the cybersecurity industry as TraderTraitor, as a North Korean cell focused almost exclusively on stealing crypto from large companies and exchanges. This group was also blamed for the now-second-largest heist on record, a $1.4 billion theft from crypto exchange Bybit in 2025.\nAccording to TRM, the theft of Binance’s billions in crypto took about 20 minutes.\nBlockchain security firm Elliptic also attributed the Binance theft to North Korean hackers. Elliptic said some of the stolen funds ended up in the same wallet that was used in a previous cyberattack on crypto exchange Bitget earlier this year, in which hackers stole $351 million.\nThe U.S. government and its allies have long warned about the threat from North Korea, which remains cut off from the U.S. and the global financial system for its ongoing development of its nuclear weapons program. Researchers say the breakaway country’s sole motivations are to steal as much crypto as possible in order to continue developing its sanctioned weapons of mass destruction.\nUpdated with statement from Binance."
+     "id": "b19c5c60860fbe8c",
+     "published": "2026-10-30T14:30+00:00",
+     "text": "In a brief update at its latest dev conference, Google says that video and browser apps for Android Auto are still “coming soon,” with the company’s self-imposed deadline approaching quickly."
     },
     {
-     "source": "BBC World",
+     "source": "Android Authority",
      "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+     "url": "https://androidauthority.com/android-auto-unknownauto-tool-3730284",
+     "title": "Android Auto can run sideloaded apps for free with this new tool",
      "lang": "en",
      "extra": {},
-     "id": "5d418554a770d850",
-     "published": "2026-10-31T02:12+00:00",
-     "text": "- Published\nTwo major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange.\nThe Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis.\nThis incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.\nExperts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.\nThough not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview. The film involves a plot to assassinate Kim.\nThe resulting hack exposed thousands of embarrassing emails exchanged among the studio's top executives.\nLast year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange.\nIn the aftermath of that incident, the agency said TraderTraitor had moved to quickly launder and disperse the stolen assets, converting them to Bitcoin and other digital assets with a goal of eventually turning them into hard currency.\nThe FBI has broadly accused North Korea of \"illicit cybercrime and virtual asset theft activities\".\nThe nation has systematically developed its cyber operations, recruiting the most promising students from universities and channeling them into hacker groups overseen by North Korea's intelligence agency, according to reports.\nSome of the cyberwarfare conducted takes place just over the nation's border in China, according to analysis from tech groups.\nMuch of its hacking activity has centred on monetary gain.\nNorth Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022.\nIn this most recent heist, North Korean agents are accused of using a special authorisation to turn a Binance hot wallet, which is connected to the internet, into one that moved funds automatically to the attacker.\nTRM said it's likely the attacker gained access to Binance's hot wallet signing system as part of the scheme.\nBinance has not directly responded to the BBC's queries about the incident's potential links to the area.\nThe company had initially said it thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.\n\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said.\nSome 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.\nIf the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become – a sign that the tools of the hacking trade have grown sharper.\nExperts say the rise of artificial intelligence has also given threat actors new ways to carry out crime, through automation and other means.\nIn this case, it's plausible that AI was used to infiltrate Binance's systems.\nAs Chainalysis put it, the attacker used laundering patterns \"we have not seen before\"."
+     "id": "19beb1fd9ae643dd",
+     "published": "2026-10-30T19:59+00:00",
+     "text": "Android Auto can run a large variety of apps, but not every app. The platform refuses to run apps that have been sideloaded. If there was ever an app you wished could run on Android Auto but doesn’t, there may be a solution.\nOne user, who goes by u/mannumaster on Reddit, says they wanted to build their own app and use it on Android Auto. When they ran into roadblocks, they created a new tool called UnknownAuto. This tool is free, open-sourced, and can work offline. The creator describes it as an alternative to the proprietary AA Enabler."
+    }
+   ]
+  },
+  {
+   "id": "caaefbf4509",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "The IREX Community Solutions Program 2027 for Community youth leaders (Fully Funded to the United States)",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Opportunities for Africans",
+     "trust": 1,
+     "url": "https://opportunitiesforafricans.com/irex-community-solutions-program-2027-for-community-youth-leaders",
+     "title": "The IREX Community Solutions Program 2027 for Community youth leaders (Fully Funded to the United States)",
+     "lang": "en",
+     "extra": {},
+     "id": "aaefbf450925d91d",
+     "published": "2026-10-30T14:55+00:00",
+     "text": "Application Deadline: 24 November 2026\nApplications are now open for the 2027 IREX Community Solutions Program. The Community Solutions Program (CSP) is a professional leadership development program for experienced, results-oriented community leaders working to advance locally driven regional economic growth and community prosperity. CSP equips participants with practical leadership and technical skills, professional connections, and hands-on experience to strengthen their ability to address economic development challenges in their communities. Participants complete an approximately three- to four-month U.S.-based exchange, including a 12-week practicum with a U.S. organization, and gain practical experience they can apply to their work at home. Following the U.S. exchange, participants return home to implement a community-based SCALE-Up Project that applies their CSP learning to advance local or regional economic development.\nProgram Details\nCommunity leaders will be selected to participate in the program that includes:\n- Three-month fellowship in the United States: Community Solutions participants complete a Three-month, hands-on professional practicum with a U.S. host organization. Participants work alongside U.S. professionals, strengthen their technical and leadership skills, and gain practical experience they can apply in their home communities. Practicum learning is complemented by regional field visits that expose participants to innovative U.S. models of economic development and collaboration among businesses, Chambers of Commerce, workforce and educational institutions, local government, and community organizations.\n- Innovation and Applied Skills Labs: Participants take part in Innovation and Applied Skills Labs, which provide practical, hands-on skill building to help them adapt and expand U.S. models of regional economic development. Participants develop leadership and management tools to turn regional economic growth ideas into action. The Labs also explore how emerging technologies, including SI, can strengthen key industries, support business growth, and create new opportunities for workers and communities.\n- SCALE-Up Projects: Throughout their U.S. experience, participants identify promising U.S. regional economic development models, tools, and partnership approaches and document their learning. Following the practicum, participants implement a nine-month SCALE-Up Project, adapting at least one U.S. model, tool, or partnership approach to advance regional economic growth in their home communities.\nEligibility Requirements\n- You are between the ages of 27 and 39 at the time of application.\n- You are a citizen of a country listed on the official application website.\n- You have at least five years of experience working on community issues and can demonstrate measurable benefits to local communities.\n- You are living and working in your country at the time of application and are not residing or working outside your country, including through an academic, training, or research program.\n- You meet the country-of-residence requirements described below\n- You have a high level of proficiency in spoken and written English at the time of application\n- Semi-finalists who do not already possess a valid TOEFL score of 520, or 213 on the computer-based test, or higher will be required to take an Institutional TOEFL or a comparable English-language proficiency assessment approved for CSP.\n- You are able to begin the CSP program in the United States in 2027 and participate in the approximately three- to four-month U.S.-based exchange. Current planning dates are Orientation August 2–5, practicum August 9–October 29, and End-of-Program Workshop November 1–4, 2027, subject to confirmation.\n- You are not a citizen or permanent resident of the U.S. and have not applied for U.S. permanent residency within the past three years.\n- You are eligible to receive a U.S. J-1 visa\n- Applicants who have participated in an exchange program sponsored by the U.S. Government must have fulfilled their two-year home residency requirement.\n- You are committed to returning to your home country for a minimum of two years after completing the program and implementing a community-based SCALE-Up Project.\n- You meet any additional eligibility criteria established published in the final application materials.\nEligible Countries by Region\n- Africa: Botswana, Cameroon, Ethiopia; Ghana; Guinea; Kenya; Liberia; Mozambique; Namibia; Rwanda; Uganda\n- Middle East and North Africa: Algeria, Egypt, Iraq, Jordan, Lebanon, Morocco, Oman, Tunisia\nBenefits\nThe program covers the cost of most expenses associated with:\n- J-1 visa support\n- Round-trip travel from participants’ home city to the U.S.\n- Monthly allowance to cover housing, meals, and other living expenses while in the U.S.\n- Accident and sickness health coverage\n- Accessibility accommodations, such as ADA accessible rooms for in-person training, software such as JAWS, and community assista"
+    },
+    {
+     "source": "Opportunity Desk",
+     "trust": 1,
+     "url": "https://opportunitydesk.org/2026/10/31/irex-community-solutions-program-2027",
+     "title": "IREX Community Solutions Program (CSP) 2026-2027 (Fully-funded)",
+     "lang": "en",
+     "extra": {},
+     "id": "8766f0a04592245d",
+     "published": "2026-10-31T13:19+00:00",
+     "text": "Deadline: November 24, 2026 Applications are open for the IREX Community Solutions Program (CSP) 2026-2027. The Community Solutions Program (CSP) is a professional leadership development program for experienced, results-oriented community leaders working to advance locally driven regional economic growth and community prosperity. CSP equips participants with practical leadership and technical skills, professional connections, and hands-on [...]"
+    }
+   ]
+  },
+  {
+   "id": "c38a7314b14",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job",
+     "title": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+     "lang": "en",
+     "extra": {},
+     "id": "38a7314b146af41c",
+     "published": "2026-10-30T15:00+00:00",
+     "text": "The brief ceremony introducing the new Macbook Pro this week was as low-key as the presenter, Apple’s new CEO John Ternus. He stepped onto the low stage at a Los Angeles event space with zero fanfare, said hi, and queued up a video showing the first touchscreen Mac. Then he released the modest crowd of journalists and creators to get hands-on with the new laptop and roam between eye-popping demos of music producers, filmmakers, photographers, and fashion designers using the laptop. Ternus, who at 51 is on the younger side of Apple’s top management, has been CEO for less than two months. But this launch and a series of other recent announcements have made one thing clear. With this new guy—if a 25-year Apple veteran could be considered new—it’s all about the products. Perhaps fittingly, the biggest noise of the presentation came when Ternus revealed that the new device restores the illumination to the Apple logo. Maybe that’s a symbol that in the age of AI, Apple is beaming out the message that hardware still rules.\nA few minutes after the presentation, I sat down with Ternus, for the second time in two days. Steve Jobs used to grant me an audience after his famous keynotes, too. Ternus isn’t Jobs, of course, nor is he supposed to be. But who is he?\nI first met Ternus in 2015, when I spent a day with him at Apple’s Input Design Lab, a testing facility in Cupertino. He’d risen to VP for Mac, iPad, Ecosystem, and Audio Engineering, and he struck me as affable and knowledgeable. (He spent four years right out of college at a virtual reality company, but he’s been at Apple ever since.) The peg to my story at the time was how this unknown manager conducted a Javert-like investigation to fix the weird sound a redesigned mouse made when sliding on a table.\nThat attention to detail was a legacy of Jobs’ perfectionism, which Tim Cook sustained as the next CEO. In the decade when Ternus overlapped with Jobs, he says he had only “a handful of interactions” with the founder. “But I've always felt like sort of a student of Steve's teachings,” Ternus said. “And then being able to work very closely with Tim, I’ve been very lucky.”\nTernus has so far been defined by his product prowess. “John innately has a great sense for great products, and that’s what Apple is,” says Greg Joswiak, Apple’s SVP of worldwide marketing and a 40-year company veteran. “You can’t teach that.” In one sense Ternus’ ascension is similar to that of Microsoft’s Satya Nadella, another lifer promoted to the top post. But Nadella was called upon to fix a broken organization, while Apple has been on a multi-decade run. Ternus is explicit that he will be an engine of continuity. That word is key to his selection, and above all explains why Tim Cook and the rest of Apple’s board was so comfortable with the choice.\nThe extent to which Ternus is a deep Apple insider became clear when I probed him on his views on being a corporate leader. I asked him which non-Apple CEOs he admires, and he was stumped. “I haven't really thought about that,” he said. I asked whether any business books had an impact on him. “Not really,” he said. “Of course I’ve read books, but there's so much to be learned from the people I get to work with.” Indeed, every time I tried to pin down Ternus on what mark he wants to make at Apple, he deflected the question and told me how he will continue Apple’s commitment to internal collaboration.\nTernus’ key collaborator is probably Johny Srouji, the architect of the company’s custom silicon, an initiative that’s driven many of the company’s innovations in the past decade. Srouri says that their relationship will be even closer, as Apple has merged its hardware engineering and technology organizations with Srouji at the top, reporting to Ternus. “John is going to be a great CEO,” he said. “He's a product guy at heart, but Apple's secret weapon is the DNA, the culture, which is not going to change. Remember, John has been here for 25 years. It’s not like he's going to come and everything's going to be different.”\nBeing Apple’s CEO encompasses much more than products—there’s a $100 billion business in services, a huge infrastructure, and the general mishegoss of running a giant corporation. I asked Ternus what it’s like to take on a massively expanded portfolio. “One of the amazing privileges of this job is getting to learn so many new things,” he said. “I have been and will continue to learn and go deeper into different areas. But, you know, I do love product. I'm super passionate about it.”\nLike it or not, the CEO of a $4 trillion company has to be involved in policy and politics. It has been widely reported that as executive chair, Cook will still conduct some of Apple’s high-level policy duties, including the equivalent of stuffing gold-plated binkies in the presidential mouth. Ternus implies that the reality is more nuanced. “Tim is available to help wherever I ask him, and it's great to have him in that role,” he said. “He obviously has a "
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/30/john-ternus-defines-his-focus-as-apple-ceo-with-one-word",
+     "title": "John Ternus used one word to describe his focus as Apple CEO",
+     "lang": "en",
+     "extra": {},
+     "id": "7fa3a529dc4851d8",
+     "published": "2026-10-30T15:58+00:00",
+     "text": "Apple has launched a wave of major new products since John Ternus took over as CEO, and a new interview with Ternus reveals how this aligns very much with his primary focus.\nJohn Ternus names ‘product’ as the chief thing he’s passionate about and focused on\nFollowing Apple’s unveil of the MacBook Pro with PROLED XDR earlier this week, CEO John Ternus sat down for an interview with Steven Levy at WIRED.\nMuch of the ground covered is familiar territory, with Ternus repeating things he’s said before.\nBut a standout focus that Ternus emphasizes, echoed by quotes from some of his top executives, is his deep passion for one thing: product.\nI asked Ternus what it’s like to take on a massively expanded portfolio. “One of the amazing privileges of this job is getting to learn so many new things,” he said. “I have been and will continue to learn and go deeper into different areas. But, you know, I do love product. I’m super passionate about it.”\nTop comment by Chris\nI like John, and I like engineer CEOs, and I hope he has a successful tenure. But so far I'd say his focus has been:\n\"Less Product for More Money\"\nThis emphasis on product is ever-present in Ternus’s answers to other questions. For example:\n- On Apple’s AI approach: “I would hope people recognize that the work we do is building incredible products that make their lives better. We’re absolutely going to leverage AI to do that.”\n- On AI agents potentially replacing current computing methods, and more work happening autonomously: “That could make life really easy, I suppose, but the creation of products is a deeply human and personal thing, something that we love to do.”\n- On whether he favors AI regulation: “Our focus is on making sure that our products are secure and safe, and protecting the users’ information.”\nLevy also shares quotes from two key Apple executives as well. Johny Srouji says, “John is going to be a great CEO. He’s a product guy at heart.” And here’s Greg Joswiak: “John innately has a great sense for great products, and that’s what Apple is.”\nIf Apple’s huge wave of product launches since Ternus took over as CEO wasn’t evidence enough, the messaging from this new interview is clear: Ternus is focused on product.\nWhat are your takeaways from the latest John Ternus quotes? Let us know in the comments.\nBest iPhone accessories\n- AirPods Pro 3 (now only $199, down from $249)\n- MagSafe Car Mount for iPhone\n- 10-year AirTag battery case\n- 100W USB-C fast charging power adapter\n- HomeKit Garage Door Opener\nComments"
     }
    ]
   },
@@ -1321,8 +1336,8 @@
       "market": "crypto",
       "day": "2026-10-31"
      },
-     "published": "2026-10-31T21:11+00:00",
-     "text": "Bitcoin: $77,391 (+1.0% 24h)\nEthereum: $2,252 (+0.7% 24h)\nSolana: $95.56 (+0.5% 24h)\nToncoin: $1.20 (+3.1% 24h)"
+     "published": "2026-10-31T21:43+00:00",
+     "text": "Bitcoin: $77,428 (+0.9% 24h)\nEthereum: $2,252 (+0.6% 24h)\nSolana: $95.76 (+0.4% 24h)\nToncoin: $1.21 (+3.7% 24h)"
     }
    ]
   },
