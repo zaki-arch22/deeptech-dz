@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T00:04:12+00:00",
+ "generated_at": "2026-10-31T00:14:33+00:00",
  "clusters": [
   {
    "id": "cfee3176e76",
@@ -1179,45 +1179,6 @@
    ]
   },
   {
-   "id": "c0c488961fc",
-   "kind": "free",
-   "score": 4.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Hexologic (Steam) Giveaway",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "GamerPower",
-     "trust": 1,
-     "url": "https://gamerpower.com/hexologic-steam-giveaway",
-     "title": "Hexologic (Steam) Giveaway",
-     "lang": "en",
-     "extra": {
-      "ends": "2026-10-31 23:59:00",
-      "needs_official_link": true
-     },
-     "id": "0c488961fc520626",
-     "published": "2026-10-29T12:04+00:00",
-     "text": "Hexologic (Steam) Giveaway. Worth: $4.99. Platforms: PC, Steam. Ends: 2026-10-31 23:59:00. Fall in love in with Sudoku again! Grab Hexologic for free via Steam! Hexologic is a Sudoku-like puzzle game with nice visuals and relaxing music. Don´t miss it! How to get it: 1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!"
-    },
-    {
-     "source": "GamerPower",
-     "trust": 1,
-     "url": "https://gamerpower.com/asleep-act-1-steam-giveaway",
-     "title": "Asleep: Act 1 (Steam) Giveaway",
-     "lang": "en",
-     "extra": {
-      "ends": "2026-11-02 23:59:00",
-      "needs_official_link": true
-     },
-     "id": "dbefd84aae4b5a27",
-     "published": "2026-10-30T12:06+00:00",
-     "text": "Asleep: Act 1 (Steam) Giveaway. Worth: $9.99. Platforms: PC, Steam. Ends: 2026-11-02 23:59:00. Claim Asleep: Act 1 for free via Steam until 2 Nov! Asleep is a 2d adventure game with dark atmosphere and challenging puzzles. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!"
-    }
-   ]
-  },
-  {
    "id": "cfb6fb5f0aa",
    "kind": "free",
    "score": 4.0,
@@ -1422,6 +1383,31 @@
    ]
   },
   {
+   "id": "cdbefd84aae",
+   "kind": "free",
+   "score": 3.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Asleep: Act 1 (Steam) Giveaway",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "GamerPower",
+     "trust": 1,
+     "url": "https://gamerpower.com/asleep-act-1-steam-giveaway",
+     "title": "Asleep: Act 1 (Steam) Giveaway",
+     "lang": "en",
+     "extra": {
+      "ends": "2026-11-02 23:59:00",
+      "needs_official_link": true
+     },
+     "id": "dbefd84aae4b5a27",
+     "published": "2026-10-30T12:06+00:00",
+     "text": "Asleep: Act 1 (Steam) Giveaway. Worth: $9.99. Platforms: PC, Steam. Ends: 2026-11-02 23:59:00. Claim Asleep: Act 1 for free via Steam until 2 Nov! Asleep is a 2d adventure game with dark atmosphere and challenging puzzles. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!"
+    }
+   ]
+  },
+  {
    "id": "market-2026-10-31",
    "kind": "market",
    "score": 0,
@@ -1440,8 +1426,8 @@
       "market": "crypto",
       "day": "2026-10-31"
      },
-     "published": "2026-10-31T00:03+00:00",
-     "text": "Bitcoin: $77,230 (-0.8% 24h)\nEthereum: $2,243 (-0.2% 24h)\nSolana: $96.29 (+1.0% 24h)\nToncoin: $1.17 (+1.5% 24h)"
+     "published": "2026-10-31T00:13+00:00",
+     "text": "Bitcoin: $77,237 (-0.7% 24h)\nEthereum: $2,244 (+0.2% 24h)\nSolana: $96.27 (+1.1% 24h)\nToncoin: $1.17 (+1.1% 24h)"
     }
    ]
   },
