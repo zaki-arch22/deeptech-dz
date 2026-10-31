@@ -107,7 +107,7 @@ as a practical guide: what it is, why it is valuable, 2–3 steps to start, the 
      "cluster_id": "c1a2b3c4d5", "headline": "4 إلى 10 كلمات واضحة للصورة",
      "text": "…\n\n◆ Deeptech DZ"}]
    ```
-   `type` ∈ news, free, tool, market, odd, app, site. `id` = slot date and time. `headline` is required.
+   `type` ∈ news, free, tool, market, odd, app, site, sport, film, discovery, study (منح ودراسة), visa (هجرة وتأشيرات), trend (ترند). `id` = slot date and time. `headline` is required.
    Before writing, list `queue/posts/` and skip slots that already have a post.
    EVERY card must show at least one real brand logo (the gate rejects posts without one).
    Brands in dtdz/brands.py are detected from the text automatically and their official logo is

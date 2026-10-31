@@ -14,9 +14,9 @@ from .text import (EMOJI, LATIN_WORD, URL, canon_url, entities, host, jaccard, n
                    same_site, tokens)
 
 SIGNATURE = "◆ Deeptech DZ"
-TYPES = {"news", "free", "tool", "market", "odd", "app", "site", "sport", "film", "discovery"}
+TYPES = {"news", "free", "tool", "market", "odd", "app", "site", "sport", "film", "discovery", "study", "visa", "trend"}
 WORDS = {"news": (60, 160), "odd": (50, 160), "free": (45, 150), "tool": (55, 170), "market": (25, 140), "app": (60, 170), "site": (55, 160), "sport": (45, 150),
-         "film": (60, 190), "discovery": (60, 160)}
+         "film": (60, 190), "discovery": (60, 160), "study": (60, 180), "visa": (60, 180), "trend": (60, 170)}
 MAX_LATIN_WORDS = 8               # Latin words outside links: Arabic first, names in Arabic
 MAX_SENTENCE_WORDS = 28
 HEADLINE_WORDS = (4, 10)
@@ -166,8 +166,9 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
         err.append(f"fact: name '{w}' is not in the sources")
 
     # sensitive stories need two independent sites
-    if cluster.get("sensitive") and (cluster["distinct_sites"] < 2 or
-                                     max(s["trust"] for s in cluster["sources"]) < 2):
+    top_trust = max(s["trust"] for s in cluster["sources"])
+    if (cluster.get("sensitive") or ptype in ("visa", "trend")) and top_trust < 3 and (
+            cluster["distinct_sites"] < 2 or top_trust < 2):
         err.append("fact: sensitive story needs 2 independent sources (trust>=2)")
 
     # links
@@ -179,7 +180,7 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
             err.append(f"link: {h} is not allowed (use the official page)")
         elif not any(same_site(h, a) for a in src_hosts | OFFICIAL_LINK_SITES):
             err.append(f"link: {h} is neither a source nor an official site")
-    if ptype in ("free", "app", "site") and not links:
+    if ptype in ("free", "app", "site", "study") and not links:
         err.append("link: a free-offer post needs the official link")
 
     # no copying: no run of SHINGLE words shared with any source
