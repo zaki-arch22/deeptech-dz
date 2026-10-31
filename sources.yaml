@@ -227,3 +227,235 @@ social:
   - {name: YouTube Samsung, url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ", trust: 3, verify: true}
   - {name: Steam News, url: "https://store.steampowered.com/feeds/news/", trust: 3, verify: true}
   - {name: Epic Newsroom, url: "https://www.epicgames.com/site/en-US/news/rss", trust: 3, verify: true}
+
+# ---- even broader base (1 Nov 00:40): science journals & research, world newspapers, official companies & institutions, trusted non-official sites ----
+science_journals:
+  - {name: "Nature News", url: "https://www.nature.com/nature.rss", trust: 3, verify: true}
+  - {name: "Nature Research Highlights", url: "https://www.nature.com/subjects/research-highlights.rss", trust: 3, verify: true}
+  - {name: "Science Magazine News", url: "https://www.science.org/rss/news_current.xml", trust: 3, verify: true}
+  - {name: "Science Advances", url: "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv", trust: 3, verify: true}
+  - {name: "Cell Press", url: "https://www.cell.com/cell/current.rss", trust: 3, verify: true}
+  - {name: "PNAS", url: "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas", trust: 3, verify: true}
+  - {name: "PLOS ONE", url: "https://journals.plos.org/plosone/feed/atom", trust: 3, verify: true}
+  - {name: "The Lancet", url: "https://www.thelancet.com/rssfeed/lancet_current.xml", trust: 3, verify: true}
+  - {name: "NEJM", url: "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss", trust: 3, verify: true}
+  - {name: "BMJ", url: "https://www.bmj.com/rss/recent.xml", trust: 3, verify: true}
+  - {name: "arXiv AI", url: "http://export.arxiv.org/rss/cs.AI", trust: 2, verify: true}
+  - {name: "arXiv Robotics", url: "http://export.arxiv.org/rss/cs.RO", trust: 2, verify: true}
+  - {name: "arXiv Astro", url: "http://export.arxiv.org/rss/astro-ph", trust: 2, verify: true}
+  - {name: "arXiv Quantum", url: "http://export.arxiv.org/rss/quant-ph", trust: 2, verify: true}
+  - {name: "EurekAlert Science", url: "https://www.eurekalert.org/rss/technology_engineering.xml", trust: 3, verify: true}
+  - {name: "EurekAlert Health", url: "https://www.eurekalert.org/rss/medicine_health.xml", trust: 3, verify: true}
+  - {name: "EurekAlert Space", url: "https://www.eurekalert.org/rss/space_planetary.xml", trust: 3, verify: true}
+  - {name: "Phys.org", url: "https://phys.org/rss-feed/", trust: 2, verify: true}
+  - {name: "Phys.org Tech", url: "https://techxplore.com/rss-feed/", trust: 2, verify: true}
+  - {name: "MedicalXpress", url: "https://medicalxpress.com/rss-feed/", trust: 2, verify: true}
+  - {name: "Quanta Magazine", url: "https://www.quantamagazine.org/feed/", trust: 2, verify: true}
+  - {name: "New Scientist", url: "https://www.newscientist.com/feed/home/", trust: 2, verify: true}
+  - {name: "Scientific American", url: "http://rss.sciam.com/ScientificAmerican-Global", trust: 2, verify: true}
+  - {name: "Smithsonian", url: "https://www.smithsonianmag.com/rss/latest_articles/", trust: 2, verify: true}
+  - {name: "National Geographic", url: "https://www.nationalgeographic.com/pages/topic/latest-stories/rss", trust: 2, verify: true}
+  - {name: "The Conversation", url: "https://theconversation.com/global/articles.atom", trust: 2, verify: true}
+  - {name: "Nautilus", url: "https://nautil.us/feed/", trust: 2, verify: true}
+  - {name: "Big Think", url: "https://bigthink.com/feed/", trust: 2, verify: true}
+  - {name: "ScienceAlert", url: "https://www.sciencealert.com/feed", trust: 2, verify: true}
+  - {name: "SciTechDaily", url: "https://scitechdaily.com/feed/", trust: 2, verify: true}
+  - {name: "Ars Science", url: "https://feeds.arstechnica.com/arstechnica/science", trust: 2, verify: true}
+  - {name: "ESA", url: "https://www.esa.int/rssfeed/Our_Activities", trust: 3, verify: true}
+  - {name: "CERN", url: "https://home.cern/api/news/news/feed.rss", trust: 3, verify: true}
+  - {name: "JPL", url: "https://www.jpl.nasa.gov/feeds/news", trust: 3, verify: true}
+  - {name: "SpaceNews", url: "https://spacenews.com/feed/", trust: 2, verify: true}
+  - {name: "Universe Today", url: "https://www.universetoday.com/feed/", trust: 2, verify: true}
+  - {name: "NASASpaceflight", url: "https://www.nasaspaceflight.com/feed/", trust: 2, verify: true}
+  - {name: "MIT News", url: "https://news.mit.edu/rss/feed", trust: 3, verify: true}
+  - {name: "Stanford News", url: "https://news.stanford.edu/feed/", trust: 3, verify: true}
+  - {name: "Harvard Gazette", url: "https://news.harvard.edu/gazette/feed/", trust: 3, verify: true}
+  - {name: "Caltech News", url: "https://www.caltech.edu/about/news/rss", trust: 3, verify: true}
+  - {name: "Oxford News", url: "https://www.ox.ac.uk/news-listing/rss", trust: 3, verify: true}
+  - {name: "Cambridge Research", url: "https://www.cam.ac.uk/research/news/rss", trust: 3, verify: true}
+  - {name: "ETH Zurich", url: "https://ethz.ch/en/news-and-events/eth-news/news.rss", trust: 3, verify: true}
+  - {name: "Max Planck", url: "https://www.mpg.de/en/rss", trust: 3, verify: true}
+  - {name: "KAUST", url: "https://www.kaust.edu.sa/en/news/rss", trust: 3, verify: true}
+  - {name: "WHO Outbreaks", url: "https://www.who.int/feeds/entity/csr/don/en/rss.xml", trust: 3, verify: true}
+  - {name: "NIH News", url: "https://www.nih.gov/news-releases/feed.xml", trust: 3, verify: true}
+  - {name: "NOAA", url: "https://www.noaa.gov/rss.xml", trust: 3, verify: true}
+  - {name: "USGS Earthquakes M4.5", url: "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.atom", trust: 3, verify: true}
+world_newspapers:
+  - {name: "Washington Post Tech", url: "https://feeds.washingtonpost.com/rss/business/technology", trust: 2, verify: true}
+  - {name: "Washington Post World", url: "https://feeds.washingtonpost.com/rss/world", trust: 2, verify: true}
+  - {name: "LA Times", url: "https://www.latimes.com/world-nation/rss2.0.xml", trust: 2, verify: true}
+  - {name: "NPR", url: "https://feeds.npr.org/1001/rss.xml", trust: 2, verify: true}
+  - {name: "NPR Tech", url: "https://feeds.npr.org/1019/rss.xml", trust: 2, verify: true}
+  - {name: "PBS NewsHour", url: "https://www.pbs.org/newshour/feeds/rss/headlines", trust: 2, verify: true}
+  - {name: "ABC News", url: "https://abcnews.go.com/abcnews/topstories", trust: 2, verify: true}
+  - {name: "CBS News", url: "https://www.cbsnews.com/latest/rss/main", trust: 2, verify: true}
+  - {name: "NBC News", url: "https://feeds.nbcnews.com/nbcnews/public/news", trust: 2, verify: true}
+  - {name: "USA Today Tech", url: "http://rssfeeds.usatoday.com/usatoday-TechTopStories", trust: 2, verify: true}
+  - {name: "Time", url: "https://time.com/feed/", trust: 2, verify: true}
+  - {name: "The Atlantic Tech", url: "https://www.theatlantic.com/feed/channel/technology/", trust: 2, verify: true}
+  - {name: "Newsweek", url: "https://www.newsweek.com/rss", trust: 2, verify: true}
+  - {name: "Politico Tech", url: "https://rss.politico.com/technology.xml", trust: 2, verify: true}
+  - {name: "The Independent", url: "https://www.independent.co.uk/rss", trust: 2, verify: true}
+  - {name: "The Telegraph Tech", url: "https://www.telegraph.co.uk/technology/rss.xml", trust: 2, verify: true}
+  - {name: "BBC Science", url: "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", trust: 2, verify: true}
+  - {name: "BBC Business", url: "https://feeds.bbci.co.uk/news/business/rss.xml", trust: 2, verify: true}
+  - {name: "The Economist Science", url: "https://www.economist.com/science-and-technology/rss.xml", trust: 2, verify: true}
+  - {name: "Euronews", url: "https://www.euronews.com/rss", trust: 2, verify: true}
+  - {name: "Euronews Next", url: "https://www.euronews.com/rss?level=vertical&name=next", trust: 2, verify: true}
+  - {name: "France 24 EN", url: "https://www.france24.com/en/rss", trust: 2, verify: true}
+  - {name: "Le Figaro Tech", url: "https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml", trust: 2, verify: true}
+  - {name: "Les Echos Tech", url: "https://syndication.lesechos.fr/rss/rss_tech_medias.xml", trust: 2, verify: true}
+  - {name: "Libération", url: "https://www.liberation.fr/arc/outboundfeeds/rss-all/collection/accueil-une/", trust: 2, verify: true}
+  - {name: "01net", url: "https://www.01net.com/actualites/feed/", trust: 2, verify: true}
+  - {name: "Numerama", url: "https://www.numerama.com/feed/", trust: 2, verify: true}
+  - {name: "Frandroid", url: "https://www.frandroid.com/feed", trust: 2, verify: true}
+  - {name: "Spiegel International", url: "https://www.spiegel.de/international/index.rss", trust: 2, verify: true}
+  - {name: "Heise EN", url: "https://www.heise.de/rss/heise-atom.xml", trust: 2, verify: true}
+  - {name: "El País EN", url: "https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada", trust: 2, verify: true}
+  - {name: "El País Tecnología", url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada", trust: 2, verify: true}
+  - {name: "ANSA EN", url: "https://www.ansa.it/english/news/english_nr_rss.xml", trust: 2, verify: true}
+  - {name: "Swissinfo", url: "https://www.swissinfo.ch/eng/rss", trust: 2, verify: true}
+  - {name: "Kyiv Independent", url: "https://kyivindependent.com/rss/", trust: 2, verify: true}
+  - {name: "Japan Times", url: "https://www.japantimes.co.jp/feed/", trust: 2, verify: true}
+  - {name: "NHK World", url: "https://www3.nhk.or.jp/rss/news/cat0.xml", trust: 2, verify: true}
+  - {name: "Nikkei Asia", url: "https://asia.nikkei.com/rss/feed/nar", trust: 2, verify: true}
+  - {name: "SCMP Tech", url: "https://www.scmp.com/rss/36/feed", trust: 2, verify: true}
+  - {name: "SCMP China", url: "https://www.scmp.com/rss/4/feed", trust: 2, verify: true}
+  - {name: "Korea Herald", url: "https://www.koreaherald.com/common/rss_xml.php?ct=102", trust: 2, verify: true}
+  - {name: "Straits Times", url: "https://www.straitstimes.com/news/world/rss.xml", trust: 2, verify: true}
+  - {name: "Times of India Tech", url: "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms", trust: 2, verify: true}
+  - {name: "The Hindu Sci-Tech", url: "https://www.thehindu.com/sci-tech/feeder/default.rss", trust: 2, verify: true}
+  - {name: "ABC Australia", url: "https://www.abc.net.au/news/feed/51120/rss.xml", trust: 2, verify: true}
+  - {name: "CBC", url: "https://www.cbc.ca/webfeed/rss/rss-topstories", trust: 2, verify: true}
+  - {name: "Globe and Mail Tech", url: "https://www.theglobeandmail.com/arc/outboundfeeds/rss/category/business/technology/", trust: 2, verify: true}
+  - {name: "Buenos Aires Times", url: "https://www.batimes.com.ar/feed", trust: 2, verify: true}
+  - {name: "Africanews", url: "https://www.africanews.com/feed/rss", trust: 2, verify: true}
+  - {name: "Morocco World News", url: "https://www.moroccoworldnews.com/feed/", trust: 2, verify: true}
+  - {name: "Ahram Online", url: "https://english.ahram.org.eg/rss/0.aspx", trust: 2, verify: true}
+  - {name: "Arab News", url: "https://www.arabnews.com/rss.xml", trust: 2, verify: true}
+  - {name: "Gulf News Tech", url: "https://gulfnews.com/rss/technology", trust: 2, verify: true}
+  - {name: "Khaleej Times", url: "https://www.khaleejtimes.com/rss", trust: 2, verify: true}
+  - {name: "Asharq Al-Awsat", url: "https://english.aawsat.com/feed", trust: 2, verify: true}
+  - {name: "TRT World", url: "https://www.trtworld.com/rss", trust: 2, verify: true}
+  - {name: "Anadolu", url: "https://www.aa.com.tr/en/rss/default?cat=guncel", trust: 2, verify: true}
+  - {name: "Al Jazeera Arabic", url: "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9", trust: 2, verify: true}
+  - {name: "Youm7 Tech", url: "https://www.youm7.com/rss/SectionRss?SectionID=328", trust: 2, verify: true}
+  - {name: "Masrawy Tech", url: "https://www.masrawy.com/rss/feed/25", trust: 2, verify: true}
+  - {name: "Hespress", url: "https://www.hespress.com/feed", trust: 2, verify: true}
+  - {name: "TSA Algérie FR", url: "https://www.tsa-algerie.com/feed/", trust: 2, verify: true}
+  - {name: "APS FR", url: "https://www.aps.dz/fr/?format=feed&type=rss", trust: 3, verify: true}
+  - {name: "El Watan", url: "https://elwatan-dz.com/feed", trust: 2, verify: true}
+  - {name: "Liberté Algérie", url: "https://www.liberte-algerie.com/rss", trust: 2, verify: true}
+  - {name: "Ennahar EN", url: "https://www.ennaharonline.com/en/feed/", trust: 2, verify: true}
+official_companies:
+  - {name: "Meta Newsroom", url: "https://about.fb.com/feed/", trust: 3, verify: true}
+  - {name: "Amazon News", url: "https://www.aboutamazon.com/rss/news.xml", trust: 3, verify: true}
+  - {name: "AWS News", url: "https://aws.amazon.com/blogs/aws/feed/", trust: 3, verify: true}
+  - {name: "Samsung Newsroom", url: "https://news.samsung.com/global/feed", trust: 3, verify: true}
+  - {name: "Intel Newsroom", url: "https://www.intel.com/content/www/us/en/newsroom/rss.xml", trust: 3, verify: true}
+  - {name: "AMD", url: "https://www.amd.com/en/newsroom/rss.xml", trust: 3, verify: true}
+  - {name: "Qualcomm", url: "https://www.qualcomm.com/news/rss", trust: 3, verify: true}
+  - {name: "IBM Newsroom", url: "https://newsroom.ibm.com/press-releases?pagetemplate=rss", trust: 3, verify: true}
+  - {name: "Anthropic News", url: "https://www.anthropic.com/news/rss.xml", trust: 3, verify: true}
+  - {name: "Google DeepMind", url: "https://deepmind.google/blog/rss.xml", trust: 3, verify: true}
+  - {name: "Google AI Blog", url: "https://blog.research.google/feeds/posts/default", trust: 3, verify: true}
+  - {name: "Google Security", url: "https://security.googleblog.com/feeds/posts/default", trust: 3, verify: true}
+  - {name: "Chrome Blog", url: "https://blog.chromium.org/feeds/posts/default", trust: 3, verify: true}
+  - {name: "Android Developers", url: "https://android-developers.googleblog.com/feeds/posts/default", trust: 3, verify: true}
+  - {name: "Microsoft Security", url: "https://www.microsoft.com/en-us/security/blog/feed/", trust: 3, verify: true}
+  - {name: "Windows Blog", url: "https://blogs.windows.com/feed/", trust: 3, verify: true}
+  - {name: "Xbox Wire", url: "https://news.xbox.com/en-us/feed/", trust: 3, verify: true}
+  - {name: "PlayStation Blog", url: "https://blog.playstation.com/feed/", trust: 3, verify: true}
+  - {name: "Nintendo News", url: "https://www.nintendo.com/whatsnew/feed/", trust: 3, verify: true}
+  - {name: "Hugging Face Blog", url: "https://huggingface.co/blog/feed.xml", trust: 3, verify: true}
+  - {name: "Mozilla Blog", url: "https://blog.mozilla.org/en/feed/", trust: 3, verify: true}
+  - {name: "Cloudflare Blog", url: "https://blog.cloudflare.com/rss/", trust: 3, verify: true}
+  - {name: "Spotify Newsroom", url: "https://newsroom.spotify.com/feed/", trust: 3, verify: true}
+  - {name: "Netflix Tudum", url: "https://www.netflix.com/tudum/rss", trust: 3, verify: true}
+  - {name: "WhatsApp Blog", url: "https://blog.whatsapp.com/rss", trust: 3, verify: true}
+  - {name: "Telegram Blog", url: "https://telegram.org/blog/rss", trust: 3, verify: true}
+  - {name: "TikTok Newsroom", url: "https://newsroom.tiktok.com/en-us/rss", trust: 3, verify: true}
+  - {name: "YouTube Blog", url: "https://blog.youtube/rss/", trust: 3, verify: true}
+  - {name: "Tesla", url: "https://www.tesla.com/blog/rss", trust: 3, verify: true}
+  - {name: "SpaceX Updates", url: "https://www.spacex.com/updates/rss.xml", trust: 3, verify: true}
+  - {name: "Boston Dynamics", url: "https://bostondynamics.com/feed/", trust: 3, verify: true}
+  - {name: "Huawei News", url: "https://www.huawei.com/en/rss-feeds/news/rss", trust: 3, verify: true}
+  - {name: "Xiaomi Global", url: "https://www.mi.com/global/discover/rss", trust: 3, verify: true}
+  - {name: "Sony", url: "https://www.sony.com/en/SonyInfo/News/Press/rss.xml", trust: 3, verify: true}
+  - {name: "Adobe Blog", url: "https://blog.adobe.com/en/feed.xml", trust: 3, verify: true}
+  - {name: "Canva Newsroom", url: "https://www.canva.com/newsroom/news/rss/", trust: 3, verify: true}
+  - {name: "Coursera Blog", url: "https://blog.coursera.org/feed/", trust: 3, verify: true}
+  - {name: "edX Blog", url: "https://www.edx.org/blog/rss", trust: 3, verify: true}
+  - {name: "Khan Academy Blog", url: "https://blog.khanacademy.org/feed/", trust: 3, verify: true}
+  - {name: "Duolingo Blog", url: "https://blog.duolingo.com/rss/", trust: 3, verify: true}
+institutions:
+  - {name: "UN News", url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", trust: 3, verify: true}
+  - {name: "UN News Arabic", url: "https://news.un.org/feed/subscribe/ar/news/all/rss.xml", trust: 3, verify: true}
+  - {name: "World Bank", url: "https://www.worldbank.org/en/news/all?format=rss", trust: 3, verify: true}
+  - {name: "IMF", url: "https://www.imf.org/en/News/RSS?language=eng", trust: 3, verify: true}
+  - {name: "ITU", url: "https://www.itu.int/en/mediacentre/Pages/rss.aspx", trust: 3, verify: true}
+  - {name: "UNESCO", url: "https://www.unesco.org/en/rss.xml", trust: 3, verify: true}
+  - {name: "European Commission", url: "https://ec.europa.eu/commission/presscorner/api/rss?language=en", trust: 3, verify: true}
+  - {name: "EU Digital", url: "https://digital-strategy.ec.europa.eu/en/rss.xml", trust: 3, verify: true}
+  - {name: "FTC", url: "https://www.ftc.gov/feeds/press-release.xml", trust: 3, verify: true}
+  - {name: "SEC", url: "https://www.sec.gov/news/pressreleases.rss", trust: 3, verify: true}
+  - {name: "Federal Reserve", url: "https://www.federalreserve.gov/feeds/press_all.xml", trust: 3, verify: true}
+  - {name: "ECB", url: "https://www.ecb.europa.eu/rss/press.html", trust: 3, verify: true}
+  - {name: "CISA", url: "https://www.cisa.gov/news.xml", trust: 3, verify: true}
+  - {name: "US State Dept Travel", url: "https://travel.state.gov/_res/rss/TAsTWs.xml", trust: 3, verify: true}
+  - {name: "UK Gov Visas", url: "https://www.gov.uk/search/news-and-communications.atom?topical_events%5B%5D=&keywords=visa", trust: 3, verify: true}
+  - {name: "Campus France", url: "https://www.campusfrance.org/en/rss.xml", trust: 3, verify: true}
+  - {name: "DAAD", url: "https://www.daad.de/en/rss/", trust: 3, verify: true}
+  - {name: "Erasmus+", url: "https://erasmus-plus.ec.europa.eu/rss.xml", trust: 3, verify: true}
+  - {name: "Chevening", url: "https://www.chevening.org/feed/", trust: 3, verify: true}
+  - {name: "Fulbright", url: "https://fulbrightprogram.org/feed/", trust: 3, verify: true}
+trusted_tech:
+  - {name: "Wired Science", url: "https://www.wired.com/feed/category/science/latest/rss", trust: 2, verify: true}
+  - {name: "The Register", url: "https://www.theregister.com/headlines.atom", trust: 2, verify: true}
+  - {name: "Krebs on Security", url: "https://krebsonsecurity.com/feed/", trust: 2, verify: true}
+  - {name: "Schneier", url: "https://www.schneier.com/feed/atom/", trust: 2, verify: true}
+  - {name: "Dark Reading", url: "https://www.darkreading.com/rss.xml", trust: 2, verify: true}
+  - {name: "SecurityWeek", url: "https://www.securityweek.com/feed/", trust: 2, verify: true}
+  - {name: "Rest of World", url: "https://restofworld.org/feed/latest/", trust: 2, verify: true}
+  - {name: "XDA", url: "https://www.xda-developers.com/feed/", trust: 2, verify: true}
+  - {name: "Android Police", url: "https://www.androidpolice.com/feed/", trust: 2, verify: true}
+  - {name: "Notebookcheck", url: "https://www.notebookcheck.net/News.152.100.html?type=rss", trust: 2, verify: true}
+  - {name: "TechSpot", url: "https://www.techspot.com/backend.xml", trust: 2, verify: true}
+  - {name: "Neowin", url: "https://www.neowin.net/news/rss/", trust: 2, verify: true}
+  - {name: "Windows Central", url: "https://www.windowscentral.com/rss.xml", trust: 2, verify: true}
+  - {name: "PCWorld", url: "https://www.pcworld.com/feed", trust: 2, verify: true}
+  - {name: "AppleInsider", url: "https://appleinsider.com/rss/news/", trust: 2, verify: true}
+  - {name: "Wccftech", url: "https://wccftech.com/feed/", trust: 2, verify: true}
+  - {name: "Kotaku", url: "https://kotaku.com/rss", trust: 2, verify: true}
+  - {name: "GameSpot", url: "https://www.gamespot.com/feeds/news/", trust: 2, verify: true}
+  - {name: "PC Gamer", url: "https://www.pcgamer.com/rss/", trust: 2, verify: true}
+  - {name: "InsideEVs", url: "https://insideevs.com/rss/news/all/", trust: 2, verify: true}
+  - {name: "CleanTechnica", url: "https://cleantechnica.com/feed/", trust: 2, verify: true}
+  - {name: "Teslarati", url: "https://www.teslarati.com/feed/", trust: 2, verify: true}
+  - {name: "The Robot Report", url: "https://www.therobotreport.com/feed/", trust: 2, verify: true}
+  - {name: "IEEE Spectrum", url: "https://spectrum.ieee.org/feeds/feed.rss", trust: 2, verify: true}
+  - {name: "Semafor Tech", url: "https://www.semafor.com/vertical/tech/rss.xml", trust: 2, verify: true}
+  - {name: "Product Hunt Top", url: "https://www.producthunt.com/feed?category=undefined", trust: 1, verify: true}
+  - {name: "AlternativeTo News", url: "https://alternativeto.net/news/feed/", trust: 2, verify: true}
+  - {name: "Lifehacker", url: "https://lifehacker.com/feed/rss", trust: 2, verify: true}
+  - {name: "Ghacks", url: "https://www.ghacks.net/feed/", trust: 2, verify: true}
+  - {name: "How-To Geek", url: "https://www.howtogeek.com/feed/", trust: 2, verify: true}
+  - {name: "MakeUseOf", url: "https://www.makeuseof.com/feed/", trust: 2, verify: true}
+  - {name: "Variety TV", url: "https://variety.com/v/tv/feed/", trust: 2, verify: true}
+  - {name: "IndieWire", url: "https://www.indiewire.com/feed/", trust: 2, verify: true}
+  - {name: "Rotten Tomatoes News", url: "https://editorial.rottentomatoes.com/feed/", trust: 2, verify: true}
+  - {name: "What's on Netflix", url: "https://www.whats-on-netflix.com/feed/", trust: 2, verify: true}
+  - {name: "ESPN FC", url: "https://www.espn.com/espn/rss/soccer/news", trust: 2, verify: true}
+  - {name: "The Athletic Football", url: "https://theathletic.com/football/rss/", trust: 2, verify: true}
+  - {name: "FIFA", url: "https://www.fifa.com/rss-feeds/news", trust: 3, verify: true}
+  - {name: "UEFA", url: "https://www.uefa.com/rssfeed/news/rss.xml", trust: 3, verify: true}
+  - {name: "CAF", url: "https://www.cafonline.com/rss", trust: 3, verify: true}
+  - {name: "Formula 1", url: "https://www.formula1.com/content/fom-website/en/latest/all.xml", trust: 3, verify: true}
+  - {name: "CoinGecko Blog", url: "https://blog.coingecko.com/rss/", trust: 2, verify: true}
+  - {name: "The Block", url: "https://www.theblock.co/rss.xml", trust: 2, verify: true}
+  - {name: "MarketWatch", url: "https://feeds.content.dowjones.io/public/rss/mw_topstories", trust: 2, verify: true}
+  - {name: "Yahoo Finance", url: "https://finance.yahoo.com/news/rssindex", trust: 2, verify: true}
+  - {name: "Investing.com", url: "https://www.investing.com/rss/news.rss", trust: 2, verify: true}
+  - {name: "Hacker News Front", url: "https://news.ycombinator.com/rss", trust: 1, verify: true}
+  - {name: "Slashdot", url: "https://rss.slashdot.org/Slashdot/slashdotMain", trust: 1, verify: true}
+  - {name: "Lobsters", url: "https://lobste.rs/rss", trust: 1, verify: true}
