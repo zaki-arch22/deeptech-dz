@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T23:54:55+00:00",
+ "generated_at": "2026-10-31T00:04:12+00:00",
  "clusters": [
   {
    "id": "cfee3176e76",
@@ -8,6 +8,7 @@
    "sensitive": false,
    "distinct_sites": 3,
    "title_hint": "Halloween Aboard the International Space Station",
+   "official_image": null,
    "sources": [
     {
      "source": "NASA",
@@ -51,6 +52,7 @@
    "sensitive": false,
    "distinct_sites": 3,
    "title_hint": "Google Pixel Watch 5 falls to $299.99, its lowest price since launch",
+   "official_image": null,
    "sources": [
     {
      "source": "Android Authority",
@@ -94,6 +96,7 @@
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
+   "official_image": null,
    "sources": [
     {
      "source": "NVIDIA Blog",
@@ -126,6 +129,7 @@
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+   "official_image": null,
    "sources": [
     {
      "source": "NASA",
@@ -169,6 +173,7 @@
    "sensitive": false,
    "distinct_sites": 3,
    "title_hint": "Mattress Deals: Save Over $600 Before Black Friday 2026",
+   "official_image": null,
    "sources": [
     {
      "source": "Wired",
@@ -212,6 +217,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "NASA Releases MAX POWER Key Events for Media, Participants",
+   "official_image": null,
    "sources": [
     {
      "source": "NASA",
@@ -233,6 +239,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Google Fitbit Edge: On shelves now",
+   "official_image": null,
    "sources": [
     {
      "source": "Google Blog",
@@ -254,6 +261,7 @@
    "sensitive": true,
    "distinct_sites": 2,
    "title_hint": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
+   "official_image": null,
    "sources": [
     {
      "source": "Space.com",
@@ -291,44 +299,13 @@
    ]
   },
   {
-   "id": "ce9e7beb52b",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-   "sources": [
-    {
-     "source": "TechCrunch",
-     "trust": 2,
-     "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
-     "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-     "lang": "en",
-     "extra": {},
-     "id": "e9e7beb52b83e198",
-     "published": "2026-10-30T13:54+00:00",
-     "text": "There’s a big uproar about AI agents taking over commerce and orders, but that might not be the case just yet. Delivery company DoorDash revealed during its third-quarter earnings call that it has only seen “several hundred” orders from third-party agents like Muse, Instinct, Fo, and others. For comparison, the company said in its 2025 report it completes an average of 3 million deliveries daily.\n“I would say that this [using agents to order] is something that is still a very dynamic area. And my take on all things technology is you never want to fight gravity. But at the same time, you don’t want to be delusional,” DoorDash CEO Tony Xu said in an answer to an analyst’s questions about the topic. “What I mean by that is if you look at where AI agents are today, we’re seeing maybe several hundred orders in total from some of these third-party agents,” he said.\nXu mentioned that users are still predominantly placing orders through DoorDash’s app. However, the company wants to learn more about agentic use cases and develop a healthy relationship with third-party agent makers. He added that, in the future, there could be an opportunity for it to advertise within these agents.\nDoorDash has its own agents, including a text-to-order agent it launched in September, a CLI agent introduced in July, and a chatbot called Ask DoorDash it launched in June, which allows users to place orders through prompts and photos. The company also released an MCP to enable ordering from other chatbots for corporate ordering.\nThe space of agent-based ordering is evolving, as websites are still deciding whether to allow them to access their content or not. Amazon has been blocking such personal agents, but Walmart has laid out a red carpet for them in order to snag some business from its competitors."
-    },
-    {
-     "source": "Ars Technica",
-     "trust": 2,
-     "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far",
-     "title": "Basically no one is using AI agents for their DoorDash orders",
-     "lang": "en",
-     "extra": {},
-     "id": "8f65b6637c02d384",
-     "published": "2026-10-30T19:30+00:00",
-     "text": "As AI tools and agents have continued their march across all aspects of digital life, many companies are trying to use LLMs to improve the experience of purchasing goods and services on the Internet. Thus far, though, a vanishingly small number of people seem to be taking advantage of those capabilities, at least when it comes to using the popular food delivery app DoorDash with an outside AI agent.\nIn a third-quarter earnings call Thursday, DoorDash co-founder and CEO Tony Xu responded to an analyst question by noting that \"AI agents are generating several hundred orders [on DoorDash] across the time that they've been up and running.\" In a marked understatement, Xu called this a \"very low use case\" for a company that handled just shy of 1 billion orders total in the third quarter of 2026 alone.\nSpeaking generally, Xu said he sees the potential for AI agents to be genuinely helpful for \"long consideration purchases\" and major decisions where agents would be \"doing work on your behalf proactively in the background.\" However, Xu added, \"when it comes to a task that's as simple as ordering food, we tend to see that come directly to DoorDash.\""
-    }
-   ]
-  },
-  {
    "id": "cb19c5c6086",
    "kind": "news",
    "score": 8.0,
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "Google says Android Auto video apps are still ‘coming soon’ as deadline nears",
+   "official_image": null,
    "sources": [
     {
      "source": "9to5Google",
@@ -361,6 +338,7 @@
    "sensitive": true,
    "distinct_sites": 2,
    "title_hint": "Arteta warns Dowman 'we are not in Disneyland' after red card",
+   "official_image": null,
    "sources": [
     {
      "source": "BBC Sport Football",
@@ -387,46 +365,13 @@
    ]
   },
   {
-   "id": "cb329cc4aaa",
-   "kind": "news",
-   "score": 8.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-   "sources": [
-    {
-     "source": "TechCrunch",
-     "trust": 2,
-     "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
-     "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says",
-     "lang": "en",
-     "extra": {},
-     "id": "1ad66cf690a946d3",
-     "published": "2026-10-30T21:52+00:00",
-     "text": "Anthropic is expected to receive a high “junk” rating from credit rating agencies following its initial public offering, according to a report from the Financial Times.\nThe FT says the investment giant Blackstone, the investment giant and anchor investor in a recent $63 billion deal to finance Anthropic’s chips, told investors in the deal that it expects the AI lab to receive a “high” junk rating after its IPO. Previously, the FT notes, Blackstone had said the opposite: that the Claude-maker would receive an investment-grade rating (indicating low risk for lenders) before 2027 rolls around.\nNow, Blackstone expects double B range rating, the top tier of speculative “junk” grade, according to the reporting.\nTechCrunch reached out to Anthropic and Blackstone but both declined to comment.\nBlackstone’s forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business. The lab has been on a spending spree, wracking up large compute power deals throughout the past 12 months, which has worried investors.\nAnthropic officially filed to go public earlier this week, kicking off a wave of speculation about how the massive IPO would impact the broader AI industry."
-    },
-    {
-     "source": "Hacker News",
-     "trust": 1,
-     "url": "https://ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-     "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-     "lang": "en",
-     "extra": {
-      "comments": "https://news.ycombinator.com/item?id=50307219"
-     },
-     "id": "b329cc4aaa4c441b",
-     "published": "2026-10-30T17:27+00:00",
-     "text": "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f\nComments URL: https://news.ycombinator.com/item?id=50307219\nPoints: 205\n# Comments: 151"
-    }
-   ]
-  },
-  {
    "id": "caa9dc6e494",
    "kind": "news",
    "score": 8.0,
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "‘The Further Mis-Adventures Of Cliff Booth’: Netflix Brad Pitt Pic Won’t Be Playing Top Chains Regal & Cinemark",
+   "official_image": null,
    "sources": [
     {
      "source": "Deadline",
@@ -459,6 +404,7 @@
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "official_image": null,
    "sources": [
     {
      "source": "The Verge",
@@ -491,6 +437,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+   "official_image": null,
    "sources": [
     {
      "source": "NASA",
@@ -512,6 +459,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+   "official_image": null,
    "sources": [
     {
      "source": "NVIDIA Blog",
@@ -533,6 +481,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "See who has access to your Gmail inbox in 2 minutes.",
+   "official_image": null,
    "sources": [
     {
      "source": "Google Blog",
@@ -554,6 +503,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+   "official_image": null,
    "sources": [
     {
      "source": "Google Blog",
@@ -569,44 +519,13 @@
    ]
   },
   {
-   "id": "cca684b4ab3",
-   "kind": "news",
-   "score": 7.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Virgin Galactic's new rocket plane revives its bid for a space airline",
-   "sources": [
-    {
-     "source": "New Atlas",
-     "trust": 2,
-     "url": "https://newatlas.com/aircraft/virgin-galactic-apeiron-delta-class-spaceship",
-     "title": "Virgin Galactic's new rocket plane revives its bid for a space airline",
-     "lang": "en",
-     "extra": {},
-     "id": "ca684b4ab32a5dac",
-     "published": "2026-10-29T18:06+00:00",
-     "text": "Virgin Galactic hasn't flown anyone to space since June 2024. On Wednesday it finally showed off the spaceship it hopes will change that. Called Apeiron, it is designed to carry six passengers to the edge of space twice a week, for more than 500 missions."
-    },
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/space-exploration/private-spaceflight/watch-virgin-galactics-new-delta-class-space-plane-take-to-the-skies-for-the-1st-time-video",
-     "title": "Watch Virgin Galactic's new 'Delta-class' space plane take to the skies for the 1st time (video)",
-     "lang": "en",
-     "extra": {},
-     "id": "493a6158f21fc8d2",
-     "published": "2026-10-30T12:00+00:00",
-     "text": "Virgin Galactic's first \"Delta-class\" space plane, the newly named Apeiron, lifted off for the first time on Thursday (Oct. 29) —beneath the wings of its carrier aircraft."
-    }
-   ]
-  },
-  {
    "id": "c5100bc6323",
    "kind": "news",
    "score": 7.0,
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+   "official_image": null,
    "sources": [
     {
      "source": "The Hacker News",
@@ -639,6 +558,7 @@
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "Calvert-Lewin set for new Leeds deal",
+   "official_image": null,
    "sources": [
     {
      "source": "BBC Sport Football",
@@ -671,6 +591,7 @@
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "One UI 9 with Android 17 is rolling out to these two popular Galaxy phones in the US",
+   "official_image": null,
    "sources": [
     {
      "source": "Android Authority",
@@ -703,6 +624,7 @@
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "The Pixel 11, 11 Pro, and Fold just hit an all-time low price weeks ahead of Black Friday",
+   "official_image": null,
    "sources": [
     {
      "source": "9to5Google",
@@ -746,6 +668,7 @@
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "I Spent 30 Minutes With Apple’s CEO. Now I Know Why John Ternus Got the Job",
+   "official_image": null,
    "sources": [
     {
      "source": "Wired",
@@ -778,6 +701,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "واتساب تسلّط الضوء على 4 مزايا مهمة للدردشات الجماعية.. تعرف عليها",
+   "official_image": null,
    "sources": [
     {
      "source": "AITNews",
@@ -799,6 +723,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Equipping healthcare professionals with practical AI skills",
+   "official_image": null,
    "sources": [
     {
      "source": "Google Blog",
@@ -820,6 +745,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+   "official_image": null,
    "sources": [
     {
      "source": "Google Blog",
@@ -841,6 +767,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+   "official_image": null,
    "sources": [
     {
      "source": "Google Blog",
@@ -862,6 +789,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Celebrate Halloween with these tricks in Google Photos.",
+   "official_image": null,
    "sources": [
     {
      "source": "Google Blog",
@@ -883,6 +811,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "official_image": null,
    "sources": [
     {
      "source": "NVIDIA Blog",
@@ -904,6 +833,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+   "official_image": null,
    "sources": [
     {
      "source": "Google Blog",
@@ -925,6 +855,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "An updated Model Spec for more capable and beneficial AI",
+   "official_image": null,
    "sources": [
     {
      "source": "OpenAI News",
@@ -946,6 +877,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+   "official_image": null,
    "sources": [
     {
      "source": "NASA",
@@ -967,6 +899,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Slice of Martian Meteorite Teghaza 001",
+   "official_image": null,
    "sources": [
     {
      "source": "NASA",
@@ -999,6 +932,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Fair use benefits everyone",
+   "official_image": null,
    "sources": [
     {
      "source": "OpenAI News",
@@ -1020,6 +954,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Vega Island Frozen in Fright",
+   "official_image": null,
    "sources": [
     {
      "source": "NASA",
@@ -1041,6 +976,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+   "official_image": null,
    "sources": [
     {
      "source": "NASA",
@@ -1062,6 +998,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Community safety report and new protections for teens",
+   "official_image": null,
    "sources": [
     {
      "source": "OpenAI News",
@@ -1083,6 +1020,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Making it easier for websites to express AI training preferences",
+   "official_image": null,
    "sources": [
     {
      "source": "OpenAI News",
@@ -1104,6 +1042,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "November’s Night Sky Notes: Light-Day Away",
+   "official_image": null,
    "sources": [
     {
      "source": "NASA",
@@ -1119,12 +1058,112 @@
    ]
   },
   {
+   "id": "cca684b4ab3",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Virgin Galactic's new rocket plane revives its bid for a space airline",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "New Atlas",
+     "trust": 2,
+     "url": "https://newatlas.com/aircraft/virgin-galactic-apeiron-delta-class-spaceship",
+     "title": "Virgin Galactic's new rocket plane revives its bid for a space airline",
+     "lang": "en",
+     "extra": {},
+     "id": "ca684b4ab32a5dac",
+     "published": "2026-10-29T18:06+00:00",
+     "text": "Virgin Galactic hasn't flown anyone to space since June 2024. On Wednesday it finally showed off the spaceship it hopes will change that. Called Apeiron, it is designed to carry six passengers to the edge of space twice a week, for more than 500 missions."
+    },
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/space-exploration/private-spaceflight/watch-virgin-galactics-new-delta-class-space-plane-take-to-the-skies-for-the-1st-time-video",
+     "title": "Watch Virgin Galactic's new 'Delta-class' space plane take to the skies for the 1st time (video)",
+     "lang": "en",
+     "extra": {},
+     "id": "493a6158f21fc8d2",
+     "published": "2026-10-30T12:00+00:00",
+     "text": "Virgin Galactic's first \"Delta-class\" space plane, the newly named Apeiron, lifted off for the first time on Thursday (Oct. 29) —beneath the wings of its carrier aircraft."
+    }
+   ]
+  },
+  {
+   "id": "c4c55e492d8",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system",
+     "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+     "lang": "en",
+     "extra": {},
+     "id": "4c55e492d8973144",
+     "published": "2026-10-29T18:39+00:00",
+     "text": "Earlier this year, sources tell WIRED, a contractor caused a security incident at the Department of Defense by connecting a secure centralized system used by multiple intelligence agencies to their personal account for Claude Code, Anthropic’s AI coding agent. It appears that the agent used by the contractor, who is employed by the global consulting firm Accenture, then sent information about the DOD system, including login credentials, to a high-risk, third-party website.\nThe centralized system contains controlled unclassified information (CUI), which is considered sensitive and not to be released to the public without review. CUI can include information about critical infrastructure, nuclear submarine propulsion, and vulnerabilities to chemical and biological terrorism. Additionally, security experts say, access to the system could allow for the exploitation of even more sensitive ones.\n“It puts all the data that’s in there at risk,” says a source aware of the incident, who requested anonymity as they were not authorized to speak to the press. If the third-party software was compromised, “there could be somebody out there with the ability to log into a secure environment without anyone knowing. It’s 100 percent a national security threat and could cause irreparable harm.”\nA DOD spokesperson tells WIRED that “the Department does not comment on the status of its networks or systems.”\n“We take all concerns seriously. These allegations were thoroughly and independently investigated and found to be without merit. We fully complied with our legal and contractual obligations,” an Accenture spokesperson tells WIRED. When pressed, Accenture didn’t offer clarification on who conducted the investigation, or dispute that there had been what could be characterized as an incident.\nThe Accenture employee is alleged to have connected a secure production environment to their personal Claude account so as to allow an AI agent to write and deploy code. Claude is currently barred from being used by DOD staff. (Anthropic directed WIRED to the company’s usage policy, which instructs users not to use its products to “interfere with the operation of military bases and related infrastructure” or to “bypass security controls such as authentication systems, end point protection, or monitoring tools without authorization.”)\nThe Accenture employee’s AI agent ran on the DOD network for two months before it was identified and the vulnerability could be patched. Sources indicate that despite the security risks posed by the AI coding agent, Accenture employees did not treat the incident as severe or urgent. DOD employees and federal contractors are required to report any cybersecurity incident within 72 hours of its discovery, but sources indicate Accenture did not initially report the breach to the government at all.\n“We are in a conflict with Iran right now,” says the employee, noting that Iran has attempted to hack several federal agencies and parts of US infrastructure. “It’s the worst time to be having this kind of cavalier attitude.”\n| Got a Tip? |\n|---|\n| Are you a current or former government employee who wants to talk about what's happening? We'd like to hear from you. Using a nonwork phone or computer, contact the reporters securely on Signal at velliott88.18. |\nAccenture currently has more than $3.5 billion in contracts with the federal government, nearly $605 million of which are with the DOD. The company also contracts with other federal agencies, such as the Department of Education, the General Services Administration, and the Department of Energy, among others. Earlier this month, the Federal Bureau of Investigation found that an Accenture contractor failed to patch a vulnerability that led to the hacking group ShinyHunters getting access to the details of thousands of the Bureau’s employees. The FBI removed that contractor in early October.\nMatt Triner, founder of Hunter Strategy, a Washington, DC-based IT consulting company, says that the issue exemplifies the conflicting demands government contractors face more broadly. “Organizations are often punished for reporting incidents like this, even though it’s the right and legal thing to do,” says Triner. In many cases, he says, a company could lose government contracts by admitting they’ve had a security breach, though he says that an incident like the one described is “absolutely one that would need to be reported.”\nTriner also notes that the increasing pressure on contractors to deliver projects faster and at a lower price point is at odds with prioritizing safety and security. “Unfortunately, everyone is operating in a system where there are competing rules and incentives, and that existed before AI, but now it’s the same problem on speed,” says Triner.\nThe coding environment accessed by the Accenture contractor is run on the Non-classified Internet Protocol Router Network (NIPRNet), a DOD network used for unclassified information. While it does connect to the internet—c"
+    },
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon",
+     "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+     "lang": "en",
+     "extra": {},
+     "id": "9fcf1feb8ef62474",
+     "published": "2026-10-30T21:19+00:00",
+     "text": "This week on Uncanny Valley, Brian Barrett, Leah Feiger, and Zoë Schiffer dive into our scoop on how a defense contractor connected Claude Code to a secure Department of Defense system. We also discuss the green, yellow, and red flags we see in Anthropic’s IPO filing—and why it’s a test not just for the AI industry, but for the entire US economy—and how volunteers nationwide are preparing for ICE agents potentially showing up at polling sites in the midterms.\nArticles mentioned in this episode:\n- A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System\n- The Anthropic S-1 Filing Is Also an AI Doomsday Primer\n- What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock\n- Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls\nYou can follow Brian Barrett on Bluesky at @brbarrett, Zoë Schiffer on Bluesky at @zoeschiffer, and Leah Feiger on Bluesky at @leahfeiger. Write to us at [email protected].\nHow to Listen\nYou can always listen to this week's podcast through the audio player on this page, but if you want to subscribe for free to get every episode, here's how:\nIf you're on an iPhone or iPad, open the app called Podcasts, or just tap this link. You can also download an app like Overcast or Pocket Casts and search for “uncanny valley.” We’re on Spotify too.\nTranscript\nNote: This is an automated transcript, which may contain errors.\nBrian Barrett: Welcome to the WIRED's Uncanny Valley. I'm Brian Barrett, executive editor.\nZoë Schiffer: I'm Zoë Schiffer, contributing editor.\nLeah Feiger: And I'm Leah Feiger, director of politics and science.\nZoë Schiffer: This week, Anthropic has officially filed to go public. There is a lot going on in the hundreds of pages that the company submitted as part of its S-1 filing, from staggering earnings and losses, to warnings of AI's existential threat. Obviously, we're talking about Anthropic here. We'll discuss our key takeaways and why this IPO is kind of high stakes, not just for the AI industry, but honestly the entire US economy.\nLeah Feiger: We're also bringing you a scoop about how a defense contractor plugged Anthropic's Claude into a secure Department of Defense system, in what's really one of the most outlandish uses of AI in the government we've seen so far.\nBrian Barrett: And the midterms are right around the corner, just a few days away. Massive groups of volunteers all over the country are already getting ready to protect their communities from the potential that ICE officers show up at the polls. We'll get into how grassroots efforts like these are a reflection of a deeply uncertain election cycle.\nZoë Schiffer: So on Monday, we learned that Anthropic finally pulled the trigger and publicly filed for its IPO. This has been highly anticipated for a bunch of reasons. Anthropic is expected to raise more money in its IPO than any company in history, and it would be the first major US company focused solely on building AI software to go public. To give you a sense of the scale that we're talking about, the company's valuation went from $183 billion a little over a year ago to $965 billion in its most recent round, and some expect that it could be worth close to $2 trillion once it starts trading. So the filing basically gives us the first real look inside Anthropic's business because it's a private company right now. It doesn't have to report a bunch of stuff. And the numbers are pretty extreme in both directions, billions of dollars in revenue and even more billions in losses, and hundreds of billions that the company has already committed to compute. Because there's a ton to unpack in this paperwork, I thought it would be fun to divide it into green flags, yellow flags, and red flags that we saw from the filing. What do you guys think?\nBrian Barrett: Yes.\nLeah Feiger: I'm astounded by how much money is at play here. This is, yes.\nBrian Barrett: What flag, Leah? What flag is that?\nLeah Feiger: I don't know.\nZoë Schiffer: For the sake of the economy, it's green.\nBrian Barrett: Great. Green flag.\nLeah Feiger: For the sake of the economy, it's green. This is so much money, guys. Sue me, but the only thing I can think of right now is that article that WIRED ran a couple of months ago about how people were selling their homes in the Bay Area with the promise of Anthropic stock post-IPO. And I remember at the time I was like, \"How close are we to this?\" And Zoe said, \"Oh, they're going to make so much money.\"\nBrian Barrett: Is it fair to say, Zoë, I feel like having the financials out there, yes, they're losing money hand over fist, but the financials I think are better than people were expecting maybe. At least, it feels like they put a lot of concerns to rest, not all of them, but this is a real business. This is a business that is growing. It's doing all the things you would want a business to do.\nZoë Schiffer: Yes, I think absolutely. So its revenue hit $16.3 billion in the first half of 2026, and it's grown mor"
+    }
+   ]
+  },
+  {
+   "id": "cc7a9965907",
+   "kind": "news",
+   "score": 6.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft",
+     "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+     "lang": "en",
+     "extra": {},
+     "id": "c7a99659074ab27a",
+     "published": "2026-10-29T19:23+00:00",
+     "text": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]"
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/29/apple-cuts-app-store-commission-in-taiwan-following-regulatory-discussions",
+     "title": "Apple cuts App Store commission in Taiwan following regulatory discussions [U]",
+     "lang": "en",
+     "extra": {},
+     "id": "3d686f6a2d4d8d00",
+     "published": "2026-10-29T20:24+00:00",
+     "text": "Apple today announced that it is lowering its standard App Store commission in Taiwan, following discussions with the country’s Fair Trade Commission. Here are the details."
+    }
+   ]
+  },
+  {
    "id": "c0b4eb98dfa",
    "kind": "free",
    "score": 5.0,
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "How to Detect Financial Fraud Patterns\nwith Knowledge Graphs: A Production\nGuide",
+   "official_image": null,
    "sources": [
     {
      "source": "freeCodeCamp",
@@ -1146,6 +1185,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Hexologic (Steam) Giveaway",
+   "official_image": null,
    "sources": [
     {
      "source": "GamerPower",
@@ -1184,6 +1224,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Cloud Service Models Explained: IaaS vs PaaS vs SaaS",
+   "official_image": null,
    "sources": [
     {
      "source": "freeCodeCamp",
@@ -1205,6 +1246,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]",
+   "official_image": null,
    "sources": [
     {
      "source": "freeCodeCamp",
@@ -1226,6 +1268,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course",
+   "official_image": null,
    "sources": [
     {
      "source": "freeCodeCamp",
@@ -1247,6 +1290,7 @@
    "sensitive": true,
    "distinct_sites": 1,
    "title_hint": "Build with Gemini 4 Argon – Fast-Track API Crash Course",
+   "official_image": null,
    "sources": [
     {
      "source": "freeCodeCamp",
@@ -1268,6 +1312,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "High-Speed Decision Pipelines: Jev and Prefill-Only Inference from Scratch",
+   "official_image": null,
    "sources": [
     {
      "source": "freeCodeCamp",
@@ -1289,6 +1334,7 @@
    "sensitive": true,
    "distinct_sites": 1,
    "title_hint": "Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course",
+   "official_image": null,
    "sources": [
     {
      "source": "freeCodeCamp",
@@ -1310,6 +1356,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "How AI-Powered Search Works: A Guide for Devs on AI Visibility",
+   "official_image": null,
    "sources": [
     {
      "source": "freeCodeCamp",
@@ -1331,6 +1378,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "My Darkest Witch (IndieGala) Giveaway",
+   "official_image": null,
    "sources": [
     {
      "source": "GamerPower",
@@ -1355,6 +1403,7 @@
    "sensitive": false,
    "distinct_sites": 1,
    "title_hint": "A New Beginning: Final Cut (GOG) Giveaway",
+   "official_image": null,
    "sources": [
     {
      "source": "GamerPower",
@@ -1373,55 +1422,26 @@
    ]
   },
   {
-   "id": "market-2026-10-30",
+   "id": "market-2026-10-31",
    "kind": "market",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Market 2026-10-30",
+   "title_hint": "Market 2026-10-31",
    "sources": [
     {
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-10-30/23",
-     "title": "Market snapshot crypto 2026-10-30",
+     "url": "https://market.local/crypto/2026-10-31/00",
+     "title": "Market snapshot crypto 2026-10-31",
      "lang": "en",
      "extra": {
       "market": "crypto",
-      "day": "2026-10-30"
+      "day": "2026-10-31"
      },
-     "published": "2026-10-30T23:53+00:00",
-     "text": "Bitcoin: $77,234 (-0.8% 24h)\nEthereum: $2,242 (-0.4% 24h)\nSolana: $96.28 (+0.7% 24h)\nToncoin: $1.18 (+1.3% 24h)"
-    }
-   ]
-  },
-  {
-   "id": "lib-ollama",
-   "kind": "library",
-   "library_kind": "ai",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Ollama — run AI models on your own computer",
-   "logos": [
-    {
-     "name": "Ollama",
-     "domain": "ollama.com",
-     "wiki": "Ollama"
-    }
-   ],
-   "sources": [
-    {
-     "id": "ollama",
-     "source": "library",
-     "trust": 3,
-     "url": "https://ollama.com",
-     "title": "Ollama — run AI models on your own computer",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Ollama is a free tool to download and run open AI language models locally on your own computer, without sending your data to the internet once the model is downloaded. Official link: https://ollama.com"
+     "published": "2026-10-31T00:03+00:00",
+     "text": "Bitcoin: $77,230 (-0.8% 24h)\nEthereum: $2,243 (-0.2% 24h)\nSolana: $96.29 (+1.0% 24h)\nToncoin: $1.17 (+1.5% 24h)"
     }
    ]
   },
@@ -1484,32 +1504,31 @@
    ]
   },
   {
-   "id": "lib-app-signal",
+   "id": "lib-ollama",
    "kind": "library",
-   "library_kind": "app",
+   "library_kind": "ai",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Signal",
+   "title_hint": "Ollama — run AI models on your own computer",
    "logos": [
     {
-     "slug": "signal",
-     "name": "Signal",
-     "domain": "signal.org",
-     "wiki": "Signal (software)"
+     "name": "Ollama",
+     "domain": "ollama.com",
+     "wiki": "Ollama"
     }
    ],
    "sources": [
     {
-     "id": "app-signal",
+     "id": "ollama",
      "source": "library",
      "trust": 3,
-     "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms",
-     "title": "Signal",
+     "url": "https://ollama.com",
+     "title": "Ollama — run AI models on your own computer",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Signal is a free messaging app run by a non-profit foundation. Messages and calls are end-to-end encrypted by default, and it collects almost no data about users. Official link: https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
+     "text": "Ollama is a free tool to download and run open AI language models locally on your own computer, without sending your data to the internet once the model is downloaded. Official link: https://ollama.com"
     }
    ]
   },
@@ -1543,61 +1562,61 @@
    ]
   },
   {
-   "id": "lib-app-google-translate-offline",
+   "id": "lib-app-aegis",
    "kind": "library",
    "library_kind": "app",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Google Translate offline",
+   "title_hint": "Aegis Authenticator",
    "logos": [
     {
-     "slug": "google",
-     "name": "Google Translate",
-     "domain": "translate.google.com",
-     "wiki": "Google Translate"
+     "name": "Aegis",
+     "domain": "getaegis.app",
+     "wiki": "Aegis Authenticator"
     }
    ],
    "sources": [
     {
-     "id": "app-google-translate-offline",
+     "id": "app-aegis",
      "source": "library",
      "trust": 3,
-     "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.translate",
-     "title": "Google Translate offline",
+     "url": "https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis",
+     "title": "Aegis Authenticator",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Google Translate can download languages, including Arabic, French and English, to translate text without an internet connection, and can translate text from the camera. Official link: https://play.google.com/store/apps/details?id=com.google.android.apps.translate"
+     "text": "Aegis is a free, open-source Android app for two-factor authentication codes. It stores codes in an encrypted vault and supports encrypted backups, so you do not lose access if you change phones. Official link: https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis"
     }
    ]
   },
   {
-   "id": "lib-open-library",
+   "id": "lib-app-google-lens",
    "kind": "library",
-   "library_kind": "books",
+   "library_kind": "app",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Open Library",
+   "title_hint": "Google Lens",
    "logos": [
     {
-     "name": "Internet Archive",
-     "domain": "archive.org",
-     "wiki": "Internet Archive"
+     "slug": "google",
+     "name": "Google Lens",
+     "domain": "lens.google",
+     "wiki": "Google Lens"
     }
    ],
    "sources": [
     {
-     "id": "open-library",
+     "id": "app-google-lens",
      "source": "library",
      "trust": 3,
-     "url": "https://openlibrary.org",
-     "title": "Open Library",
+     "url": "https://play.google.com/store/apps/details?id=com.google.ar.lens",
+     "title": "Google Lens",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Open Library, a project of the Internet Archive, lets you search millions of books and borrow digital copies of many of them for free. Official link: https://openlibrary.org"
+     "text": "Google Lens uses the phone camera to translate text in real time, copy text from paper, identify plants and products, and help solve homework, for free. Official link: https://play.google.com/store/apps/details?id=com.google.ar.lens"
     }
    ]
   },
@@ -1631,118 +1650,119 @@
    ]
   },
   {
-   "id": "lib-microsoft-learn",
+   "id": "lib-open-library",
+   "kind": "library",
+   "library_kind": "books",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Open Library",
+   "logos": [
+    {
+     "name": "Internet Archive",
+     "domain": "archive.org",
+     "wiki": "Internet Archive"
+    }
+   ],
+   "sources": [
+    {
+     "id": "open-library",
+     "source": "library",
+     "trust": 3,
+     "url": "https://openlibrary.org",
+     "title": "Open Library",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Open Library, a project of the Internet Archive, lets you search millions of books and borrow digital copies of many of them for free. Official link: https://openlibrary.org"
+    }
+   ]
+  },
+  {
+   "id": "lib-mit-ocw",
    "kind": "library",
    "library_kind": "course",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Microsoft Learn",
+   "title_hint": "MIT OpenCourseWare",
    "logos": [
     {
-     "name": "Microsoft",
-     "domain": "microsoft.com",
-     "wiki": "Microsoft"
+     "name": "MIT",
+     "domain": "mit.edu",
+     "wiki": "Massachusetts Institute of Technology"
     }
    ],
    "sources": [
     {
-     "id": "microsoft-learn",
+     "id": "mit-ocw",
      "source": "library",
      "trust": 3,
-     "url": "https://learn.microsoft.com/training",
-     "title": "Microsoft Learn",
+     "url": "https://ocw.mit.edu",
+     "title": "MIT OpenCourseWare",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Microsoft Learn offers free self-paced training paths on Azure, AI, Microsoft 365, Power BI and programming, with free practice assessments for Microsoft certifications. Official link: https://learn.microsoft.com/training"
+     "text": "MIT OpenCourseWare publishes materials from thousands of real MIT courses for free, including lecture videos, notes, problem sets and exams. Official link: https://ocw.mit.edu"
     }
    ]
   },
   {
-   "id": "lib-elements-of-ai",
+   "id": "lib-edraak",
    "kind": "library",
    "library_kind": "course",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Elements of AI",
+   "title_hint": "Edraak — Arabic online courses",
    "logos": [
     {
-     "name": "Elements of AI",
-     "domain": "elementsofai.com",
-     "wiki": "Elements of AI"
+     "name": "Edraak",
+     "domain": "edraak.org",
+     "wiki": "Edraak"
     }
    ],
    "sources": [
     {
-     "id": "elements-of-ai",
+     "id": "edraak",
      "source": "library",
      "trust": 3,
-     "url": "https://www.elementsofai.com",
-     "title": "Elements of AI",
+     "url": "https://www.edraak.org",
+     "title": "Edraak — Arabic online courses",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Elements of AI is a free online course created by the University of Helsinki and MinnaLearn. It explains artificial intelligence for non-programmers; more than 2 million people from over 170 countries have signed up. Official link: https://www.elementsofai.com"
+     "text": "Edraak is an Arabic massive open online course platform, an initiative of the Queen Rania Foundation, offering courses in Arabic. Official link: https://www.edraak.org"
     }
    ]
   },
   {
-   "id": "lib-kaggle-learn",
+   "id": "lib-coursera-audit",
    "kind": "library",
    "library_kind": "course",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Kaggle Learn",
+   "title_hint": "Audit Coursera courses for free",
    "logos": [
     {
-     "name": "Kaggle",
-     "domain": "kaggle.com",
-     "wiki": "Kaggle"
+     "slug": "coursera",
+     "name": "Coursera",
+     "domain": "coursera.org",
+     "wiki": "Coursera"
     }
    ],
    "sources": [
     {
-     "id": "kaggle-learn",
+     "id": "coursera-audit",
      "source": "library",
      "trust": 3,
-     "url": "https://www.kaggle.com/learn",
-     "title": "Kaggle Learn",
+     "url": "https://www.coursera.org",
+     "title": "Audit Coursera courses for free",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Kaggle Learn offers free short hands-on courses in Python, machine learning, SQL, data visualization and more, with certificates of completion. Code runs in the browser, nothing to install. Official link: https://www.kaggle.com/learn"
-    }
-   ]
-  },
-  {
-   "id": "lib-haveibeenpwned",
-   "kind": "library",
-   "library_kind": "security",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Have I Been Pwned",
-   "logos": [
-    {
-     "name": "Have I Been Pwned",
-     "domain": "haveibeenpwned.com",
-     "wiki": "Have I Been Pwned?"
-    }
-   ],
-   "sources": [
-    {
-     "id": "haveibeenpwned",
-     "source": "library",
-     "trust": 3,
-     "url": "https://haveibeenpwned.com",
-     "title": "Have I Been Pwned",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Have I Been Pwned is a free website where you enter your email address to see whether it appeared in known data breaches, and which services leaked it. Official link: https://haveibeenpwned.com"
+     "text": "Many Coursera courses from universities and companies can be audited for free, which gives access to the course videos and readings. The paid option adds graded assignments and a certificate. Financial aid can be requested on eligible courses. Official link: https://www.coursera.org"
     }
    ]
   },
@@ -1806,6 +1826,93 @@
    ]
   },
   {
+   "id": "lib-bitwarden",
+   "kind": "library",
+   "library_kind": "security",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Bitwarden password manager",
+   "logos": [
+    {
+     "name": "Bitwarden",
+     "domain": "bitwarden.com",
+     "wiki": "Bitwarden"
+    }
+   ],
+   "sources": [
+    {
+     "id": "bitwarden",
+     "source": "library",
+     "trust": 3,
+     "url": "https://bitwarden.com",
+     "title": "Bitwarden password manager",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Bitwarden is an open-source password manager with a free plan that stores unlimited passwords and syncs across unlimited devices. Official link: https://bitwarden.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-site-zotero",
+   "kind": "library",
+   "library_kind": "site",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Zotero",
+   "logos": [
+    {
+     "name": "Zotero",
+     "domain": "zotero.org",
+     "wiki": "Zotero"
+    }
+   ],
+   "sources": [
+    {
+     "id": "site-zotero",
+     "source": "library",
+     "trust": 3,
+     "url": "https://www.zotero.org",
+     "title": "Zotero",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Zotero is a free, open-source tool to collect, organize and cite research sources, and to generate bibliographies automatically in many citation styles. Official link: https://www.zotero.org"
+    }
+   ]
+  },
+  {
+   "id": "lib-site-wayback",
+   "kind": "library",
+   "library_kind": "site",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Wayback Machine",
+   "logos": [
+    {
+     "name": "Internet Archive",
+     "domain": "archive.org",
+     "wiki": "Wayback Machine"
+    }
+   ],
+   "sources": [
+    {
+     "id": "site-wayback",
+     "source": "library",
+     "trust": 3,
+     "url": "https://web.archive.org",
+     "title": "Wayback Machine",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "The Wayback Machine from the Internet Archive stores copies of web pages over time, so you can see old versions of a site or recover a page that was deleted. Official link: https://web.archive.org"
+    }
+   ]
+  },
+  {
    "id": "lib-site-downdetector",
    "kind": "library",
    "library_kind": "site",
@@ -1831,93 +1938,6 @@
      "extra": {},
      "published": "",
      "text": "Downdetector shows in real time whether a service such as WhatsApp, YouTube or Instagram is down for many users, based on reports, so you know if the problem is on your side or not. Official link: https://downdetector.com"
-    }
-   ]
-  },
-  {
-   "id": "lib-site-monkeytype",
-   "kind": "library",
-   "library_kind": "site",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Monkeytype",
-   "logos": [
-    {
-     "name": "Monkeytype",
-     "domain": "monkeytype.com",
-     "wiki": "Monkeytype"
-    }
-   ],
-   "sources": [
-    {
-     "id": "site-monkeytype",
-     "source": "library",
-     "trust": 3,
-     "url": "https://monkeytype.com",
-     "title": "Monkeytype",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Monkeytype is a free, open-source typing test website to measure and improve typing speed and accuracy, with many languages and modes. Official link: https://monkeytype.com"
-    }
-   ]
-  },
-  {
-   "id": "lib-site-coolors",
-   "kind": "library",
-   "library_kind": "site",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Coolors",
-   "logos": [
-    {
-     "name": "Coolors",
-     "domain": "coolors.co",
-     "wiki": "Coolors"
-    }
-   ],
-   "sources": [
-    {
-     "id": "site-coolors",
-     "source": "library",
-     "trust": 3,
-     "url": "https://coolors.co",
-     "title": "Coolors",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Coolors generates matching color palettes with one key press, and lets you lock colors you like and export palettes for design projects. The basic generator is free. Official link: https://coolors.co"
-    }
-   ]
-  },
-  {
-   "id": "lib-excalidraw",
-   "kind": "library",
-   "library_kind": "tool",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Excalidraw",
-   "logos": [
-    {
-     "name": "Excalidraw",
-     "domain": "excalidraw.com",
-     "wiki": "Excalidraw"
-    }
-   ],
-   "sources": [
-    {
-     "id": "excalidraw",
-     "source": "library",
-     "trust": 3,
-     "url": "https://excalidraw.com",
-     "title": "Excalidraw",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Excalidraw is a free online whiteboard for hand-drawn style diagrams and sketches, with live collaboration by sharing a link. Official link: https://excalidraw.com"
     }
    ]
   },
@@ -1978,6 +1998,35 @@
      "extra": {},
      "published": "",
      "text": "Canva for Education gives eligible primary and secondary school teachers and their students free access to Canva's premium features. Official link: https://www.canva.com/education"
+    }
+   ]
+  },
+  {
+   "id": "lib-jetbrains-students",
+   "kind": "library",
+   "library_kind": "tool",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "JetBrains free student licenses",
+   "logos": [
+    {
+     "name": "JetBrains",
+     "domain": "jetbrains.com",
+     "wiki": "JetBrains"
+    }
+   ],
+   "sources": [
+    {
+     "id": "jetbrains-students",
+     "source": "library",
+     "trust": 3,
+     "url": "https://www.jetbrains.com/community/education",
+     "title": "JetBrains free student licenses",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "JetBrains offers free educational licenses for its professional programming tools, such as IntelliJ IDEA and PyCharm, to students and teachers. Official link: https://www.jetbrains.com/community/education"
     }
    ]
   }
