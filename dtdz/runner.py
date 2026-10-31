@@ -27,6 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 SSH_KEY = DATA / "ssh" / "id_ed25519"
 TZ = ZoneInfo("Africa/Algiers")
+CLOUD_FLAG = ROOT / "cloud.enabled"     # present = GitHub Actions publishes; this PC bot stands down
 
 
 # ---------------- git ----------------
@@ -136,6 +137,10 @@ class Runner:
                     await self.check_sync()
                 if self.sync:
                     await asyncio.to_thread(git_pull)
+                if CLOUD_FLAG.exists():
+                    await self.stand_down()
+                    await asyncio.sleep(300)
+                    continue
                 stats = await collect(ROOT / "sources.yaml", DATA / "dtdz.sqlite")
                 exp = await asyncio.to_thread(export, DATA / "dtdz.sqlite", ROOT / "queue" / "candidates.json",
                                               ROOT / "queue" / "history.jsonl")
@@ -154,6 +159,10 @@ class Runner:
             try:
                 if self.sync:
                     await asyncio.to_thread(git_pull)
+                if CLOUD_FLAG.exists():
+                    await self.stand_down()
+                    await asyncio.sleep(300)
+                    continue
                 stats = await asyncio.to_thread(run_once, ROOT, self.sender)
                 if stats["sent"] or stats["rejected"] or stats["skipped"]:
                     if self.sync:
@@ -168,6 +177,12 @@ class Runner:
                 log.exception("publish loop: %s", exc)
             await asyncio.sleep(60)
 
+    async def stand_down(self) -> None:
+        if "cloud" not in self.warned:
+            self.warned.add("cloud")
+            log.warning("cloud.enabled found: publishing moved to GitHub Actions, this bot stands down")
+            await self.tell_admin("💻 بوت الحاسوب توقف عن النشر لأن النشر انتقل إلى السحابة. يمكنك إطفاء الحاسوب.")
+
     async def watchdog(self) -> None:
         now = datetime.now(TZ)
         key = now.strftime("%Y-%m-%d-%H")
@@ -179,6 +194,9 @@ class Runner:
     async def admin_loop(self) -> None:
         offset = None
         while True:
+            if CLOUD_FLAG.exists():               # the cloud answers commands now
+                await asyncio.sleep(300)
+                continue
             try:
                 updates = await asyncio.to_thread(self.poller.updates, offset)
             except Exception as exc:  # noqa: BLE001

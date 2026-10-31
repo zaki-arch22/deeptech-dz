@@ -1,0 +1,68 @@
+name: Deeptech DZ bot
+
+# Runs the whole bot in the cloud: collect sources, publish due posts, answer admin commands.
+# No computer needed. Public repository => GitHub Actions minutes are free.
+on:
+  schedule:
+    - cron: "*/5 * * * *"        # GitHub may delay scheduled runs by a few minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: deeptech-bot
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: Africa/Algiers
+      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      CHANNEL: ${{ vars.CHANNEL || '@DeeptechDZ' }}
+      ADMIN_ID: ${{ vars.ADMIN_ID || '5248230907' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: |
+          sudo apt-get install -y -qq libraqm0 libfribidi0 > /dev/null
+          pip install -q -r requirements.txt
+
+      - name: Restore bot state
+        uses: actions/cache/restore@v4
+        with:
+          path: data
+          key: bot-data-${{ github.run_id }}
+          restore-keys: bot-data-
+
+      - name: Tick
+        run: python -m dtdz.cloud
+
+      - name: Save bot state
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: data
+          key: bot-data-${{ github.run_id }}
+
+      - name: Commit queue
+        if: always()
+        run: |
+          git config user.name "Deeptech DZ bot"
+          git config user.email "bot@deeptech-dz.local"
+          git add queue cloud.enabled 2>/dev/null || true
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -q -m "cloud tick"
+          for i in 1 2 3; do
+            git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && exit 0
+            sleep 5
+          done
+          echo "push failed" && exit 1
