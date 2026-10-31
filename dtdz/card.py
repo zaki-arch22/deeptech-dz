@@ -227,7 +227,7 @@ def _photo_panel(img: Image.Image, photo: Image.Image, specs: list[dict], credit
         base.alpha_composite(t, (x, H - 120 - 44))
         x += 136
     d = ImageDraw.Draw(base)
-    _rtl(d, pw - 40, H - 40, credit, _font("Regular", 18), (200, 208, 216))
+
     return base.convert("RGB")
 
 
@@ -249,8 +249,8 @@ def _hero(post: dict, photo: Image.Image, accent: str, specs: list[dict], credit
     chip_f = _font("SemiBold", 28)
     label = LABEL["breaking"] if post.get("breaking") else LABEL.get(post["type"], "")
     lw = _len(chip_f, label)
-    d.rounded_rectangle((right - lw - 40, PAD - 40, right, PAD + 16), radius=28, fill=(11, 15, 20, 200), outline=accent, width=2)
-    _rtl(d, right - 20, PAD - 36, label, chip_f, accent)
+
+
     x = PAD - 40
     for spec in specs[:2]:
         t_ = _tile(spec, 96)
@@ -272,7 +272,7 @@ def _hero(post: dict, photo: Image.Image, accent: str, specs: list[dict], credit
     d.text((right - bw, H - PAD + 6), "Deeptech DZ", font=brand_f, fill=TEXT)
     cx, cy = right - bw - 22, H - PAD + 22
     d.polygon([(cx, cy - 9), (cx + 9, cy), (cx, cy + 9), (cx - 9, cy)], fill=BRAND)
-    d.text((PAD - 40, H - PAD + 10), credit, font=_font("Regular", 18), fill=(200, 208, 216), direction="rtl", language="ar")
+
     return base.convert("RGB")
 
 
@@ -305,10 +305,10 @@ def render(post: dict, out: str | Path) -> Path:
     chip_f = _font("SemiBold", 28)
     label = LABEL["breaking"] if post.get("breaking") else LABEL.get(ptype, "")
     lw = _len(chip_f, label)
-    d.rounded_rectangle((right - lw - 40, PAD - 6, right, PAD + 50), radius=28, outline=accent, width=2)
-    _rtl(d, right - 20, PAD - 2, label, chip_f, accent)
+
+
     date_f = _font("Regular", 26)
-    _rtl(d, right - lw - 64, PAD + 2, _date(post["slot"]), date_f, MUTED)
+    _rtl(d, right, PAD + 2, _date(post["slot"]), date_f, MUTED)
 
     title = _isolate((post.get("headline") or headline(post["text"])).replace("**", ""))
     data = _market_rows(post["text"]) if ptype == "market" else []
