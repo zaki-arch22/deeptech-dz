@@ -231,7 +231,65 @@ def _photo_panel(img: Image.Image, photo: Image.Image, specs: list[dict], credit
     return base.convert("RGB")
 
 
+def _hero(post: dict, photo: Image.Image, accent: str, specs: list[dict], credit: str) -> Image.Image:
+    """The news photo fills the whole card; headline over a dark gradient; logo top-left."""
+    scale = max(W / photo.width, H / photo.height)
+    ph = photo.convert("RGB").resize((int(photo.width * scale) + 1, int(photo.height * scale) + 1), Image.LANCZOS)
+    l, t = (ph.width - W) // 2, max(0, (ph.height - H) // 3)
+    img = ph.crop((l, t, l + W, t + H))
+    shade = Image.new("L", (W, H))
+    sd = ImageDraw.Draw(shade)
+    for y in range(H):                      # transparent top -> dark bottom
+        sd.line((0, y, W, y), fill=int(min(250, max(0, (y - H * 0.15)) / (H * 0.6) * 250)))
+    img = Image.composite(Image.new("RGB", (W, H), INK), img, shade)
+    base = img.convert("RGBA")
+    d = ImageDraw.Draw(base)
+    d.rectangle((W - 10, 0, W, H), fill=accent)
+    right = W - PAD
+    chip_f = _font("SemiBold", 28)
+    label = LABEL["breaking"] if post.get("breaking") else LABEL.get(post["type"], "")
+    lw = _len(chip_f, label)
+    d.rounded_rectangle((right - lw - 40, PAD - 40, right, PAD + 16), radius=28, fill=(11, 15, 20, 200), outline=accent, width=2)
+    _rtl(d, right - 20, PAD - 36, label, chip_f, accent)
+    x = PAD - 40
+    for spec in specs[:2]:
+        t_ = _tile(spec, 96)
+        base.alpha_composite(t_, (x, PAD - 48))
+        x += 108
+    title = _isolate((post.get("headline") or headline(post["text"])).replace("**", ""))
+    for size in (60, 54, 48, 44, 40):
+        f = _font("Bold", size)
+        lines = _wrap(title, f, W - 2 * PAD)
+        if len(lines) <= 3:
+            break
+    lh = int(size * 1.45)
+    y = H - PAD - 40 - lh * len(lines)
+    for ln in lines:
+        _rtl(d, right, y, ln, f, TEXT)
+        y += lh
+    brand_f = _font("Bold", 26)
+    bw = _len(brand_f, "Deeptech DZ")
+    d.text((right - bw, H - PAD + 6), "Deeptech DZ", font=brand_f, fill=TEXT)
+    cx, cy = right - bw - 22, H - PAD + 22
+    d.polygon([(cx, cy - 9), (cx + 9, cy), (cx, cy + 9), (cx - 9, cy)], fill=BRAND)
+    d.text((PAD - 40, H - PAD + 10), credit, font=_font("Regular", 18), fill=(200, 208, 216), direction="rtl", language="ar")
+    return base.convert("RGB")
+
+
 def render(post: dict, out: str | Path) -> Path:
+    if post.get("photo") and post.get("layout", "hero") == "hero":
+        from .brands import logo_specs, photo_for
+        photo = photo_for(post["photo"])
+        if photo is not None:
+            ph = post["photo"]
+            credit = ph.get("credit") or ("صورة: ويكيميديا كومنز" if ph.get("commons") else
+                                          "صورة: ويكيبيديا" if ph.get("wiki") else "صورة: المصدر الرسمي")
+            accent = ACCENT.get("breaking" if post.get("breaking") else post["type"], BRAND)
+            img = _hero(post, photo, accent, logo_specs(post, (post.get("headline") or "") + "\n" + post["text"]), credit)
+            out = Path(out)
+            out.parent.mkdir(parents=True, exist_ok=True)
+            img.save(out, "PNG", optimize=True)
+            return out
     ptype = post["type"]
     accent = ACCENT.get("breaking" if post.get("breaking") else ptype, BRAND)
     img = Image.new("RGB", (W, H), INK)

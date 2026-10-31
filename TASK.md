@@ -57,19 +57,21 @@ them if something better is happening; never post two of the same kind back to b
 - Figures and lists as short bullet lines starting with `•`.
 - A strong first line; for app/site posts, open with the problem or the "wow" result.
 - No hashtags at all (the gate rejects them).
-- **Real photos in most posts** (brand logos always, plus a real photo whenever one fits — aim for
-  most news, discovery, app, sport and film posts):
-  - `"photo": {"commons": "<search words>"}` — Wikimedia Commons, freely licensed: cars, phones,
-    devices, consoles, rockets, satellites, data centers, stadiums, buildings, places, objects.
-    E.g. "Toyota bZ4X", "Samsung Galaxy S24", "Falcon 9 launch", "Camp Nou", "fiber optic cable".
-  - `"photo": {"url": "<cluster official_image>"}` — the press image of an official source
-    (company newsroom, NASA); copy it exactly from the cluster's `official_image`.
-  - `"photo": {"wiki": "<English article>"}` — lead photo of a product article.
-  - app posts: an official store screenshot (`play-lh.googleusercontent.com`) is allowed.
-  - NOT allowed: photos of people (players, CEOs, actors, teams), photos or screenshots taken
-    from news sites or newspapers, film posters/stills, other channels' images. For films use
-    the platform logo plus a Commons photo of a related object/place if any; for football use
-    club/competition logos plus a Commons photo of the stadium.
+- **A real photo OF THE STORY ITSELF in almost every post** — not a look-alike or a generic
+  illustration. Search the whole web (WebSearch / WebFetch) for the actual image:
+  - the product, device, car, app screen, game, building, launch… exactly the one in the news;
+  - published by the organisation the story is about: its website, newsroom, press kit or CDN
+    (news.microsoft.com, apple.com/newsroom, samsungmobilepress.com, nasa.gov, store.steampowered.com,
+    the game/film/app's official site, an official store screenshot…), or freely licensed on Wikimedia.
+  - Put the direct image URL in `"photo": {"url": "https://…jpg"}` (the card becomes a full-photo
+    "hero" with the headline over it) and add up to 3 more in `"gallery"` for an album.
+  - The gate accepts an image host only if it belongs to a brand in the post (`brands`/`logos` domains,
+    their CDNs) or an official source of the cluster; for another official owner (a ministry, a
+    university, a club) add it to `logos` with its domain, or set `"photo_owner": "domain"`.
+  - Check the image loads and really shows the subject before using it (open it with WebFetch).
+  - Not allowed: images owned by news outlets or photo agencies (Reuters, AP, Getty, AFP…), other
+    channels' images, film posters you didn't find on the official site, photos of private people.
+    Public figures only from their organisation's official press material.
 - Good ideas seen on big Arabic channels and adopted here: "عاجل" for real outages and major news,
   concrete comparisons that make numbers tangible, themed film lists, free software giveaways,
   a short English summary is NOT used (we stay Arabic).

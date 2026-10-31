@@ -220,11 +220,15 @@ async def collect(sources_path: str | Path, db_path: str | Path, now: float | No
         batches = await asyncio.gather(*(one(s) for s in sources))
         new = [it for batch in batches for it in batch if not store.has(it.id) or it.extra.get("market")]
 
-        need_page = [it for it in new if len(it.text) < MIN_TEXT and it.grp not in ("markets", "opportunities")]
+        need_page = [it for it in new if (len(it.text) < MIN_TEXT or it.trust >= 3)
+                     and it.grp not in ("markets", "opportunities")]
         for it in need_page[:ARTICLE_FETCHES]:
             try:
                 html = (await _get(client, it.url)).decode("utf-8", "replace")
                 text = trafilatura.extract(html, favor_precision=True) or ""
+                meta = trafilatura.extract_metadata(html)
+                if meta is not None and getattr(meta, "image", None):
+                    it.extra["page_image"] = meta.image      # the article's lead image (for reference)
                 if len(text) > len(it.text):
                     it.text = text[:MAX_TEXT]
                     stats["articles"] += 1

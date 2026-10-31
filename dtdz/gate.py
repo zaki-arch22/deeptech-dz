@@ -194,24 +194,25 @@ def check_post(post: dict, cluster: dict | None, banned: list, history: list[dic
             if (h.get("cluster_id") == post["cluster_id"] and h.get("id") != post["id"]
                     and now - h.get("published_ts", 0) < 60 * 86400):
                 err.append(f"dedupe: library item already posted ({h['id']})")
-    for g in post.get("gallery") or []:
-        if g.get("url") and not (same_site(host(g["url"]), "wikimedia.org") or
-                                 g["url"] in {(s.get("extra") or {}).get("image") for s in cluster["sources"]}):
-            err.append("visual: gallery photos must be Wikimedia or the official source image")
+    # Real photos of the story itself, from anywhere on the web, as long as the image is published by
+    # the organisation the story is about (its site, newsroom, press kit, CDN) or is freely licensed.
+    ph = post.get("photo")
+    specs = ([ph] if ph else []) + list(post.get("gallery") or [])
     if len(post.get("gallery") or []) > 3:
         err.append("visual: max 3 gallery photos")
-    ph = post.get("photo")
-    if ph is not None:
-        if not (ph.get("wiki") or ph.get("url") or ph.get("commons")):
-            err.append("visual: 'photo' needs 'commons' (search), 'wiki' (article title) or 'url'")
-        if ph.get("url"):
-            ph_host = host(ph["url"])
-            official = {host(s["url"]) for s in cluster["sources"] if s.get("trust", 0) >= 3}
-            official_imgs = {i for s in cluster["sources"] for i in [(s.get("extra") or {}).get("image")] if i}
-            store_img = same_site(ph_host, "play-lh.googleusercontent.com") and ptype in ("app", "tool", "free")
-            if not (ph["url"] in official_imgs or store_img or same_site(ph_host, "wikimedia.org")
-                    or any(same_site(ph_host, o) for o in official | OFFICIAL_LINK_SITES)):
-                err.append(f"visual: photo host {ph_host} must be Wikimedia or the brand's official site")
+    allowed = photo_hosts(post, cluster)
+    for spec in specs:
+        if not (spec.get("wiki") or spec.get("url") or spec.get("commons")):
+            err.append("visual: a photo needs 'url', 'commons' or 'wiki'")
+        if spec.get("url"):
+            h = host(spec["url"])
+            ok = any(same_site(h, a) for a in allowed) or (
+                same_site(h, "play-lh.googleusercontent.com") and ptype in ("app", "tool", "free", "site"))
+            if not ok:
+                err.append(f"visual: photo host {h} is not the official site of a brand in this post — add the "
+                           "brand to 'logos' with its domain, or set 'photo_owner' to the official domain")
+            if spec.get("owner") and not any(same_site(h, a) for a in allowed):
+                err.append(f"visual: photo owner {spec['owner']} not allowed")
 
     # 7-day dedupe
     key = tokens(cluster.get("title_hint", "")) | tokens(lines[0]) | entities(lines[0])
@@ -279,3 +280,32 @@ def _slot_ts(slot: str) -> float | None:
         return datetime.fromisoformat(slot).timestamp()
     except ValueError:
         return None
+
+
+# CDNs that official organisations use to host their own press images
+OFFICIAL_CDNS = {
+    "apple.com": ["apple.com", "cdsassets.apple.com"], "google.com": ["googleusercontent.com", "gstatic.com", "blog.google"],
+    "microsoft.com": ["microsoft.com", "msft.net", "azureedge.net"], "meta.com": ["fbcdn.net", "meta.com", "fb.com"],
+    "samsung.com": ["samsung.com", "samsungmobilepress.com"], "nasa.gov": ["nasa.gov"], "openai.com": ["openai.com", "oaiusercontent.com"],
+    "netflix.com": ["netflix.com", "nflxext.com", "nflximg.net"], "tesla.com": ["tesla.com", "tesla.cn"],
+    "nvidia.com": ["nvidia.com", "nvidianews.nvidia.com"], "epicgames.com": ["epicgames.com", "unrealengine.com"],
+    "steampowered.com": ["steamstatic.com", "steampowered.com"],
+}
+
+
+def photo_hosts(post: dict, cluster: dict) -> set[str]:
+    from .brands import DOMAINS, detect_brands
+    hosts = {"wikimedia.org", "wikipedia.org"}
+    hosts |= {host(s["url"]) for s in cluster["sources"] if s.get("trust", 0) >= 3}
+    hosts |= {host(i) for s in cluster["sources"] if s.get("trust", 0) >= 3
+              for i in [(s.get("extra") or {}).get("image"), (s.get("extra") or {}).get("page_image")] if i}
+    doms = [lg.get("domain") for lg in post.get("logos") or [] if lg.get("domain")]
+    slugs = (post.get("brands") or []) + detect_brands(post.get("headline", "") + "\n" + post.get("text", ""), limit=4)
+    doms += [DOMAINS[s] for s in slugs if s in DOMAINS]
+    if post.get("photo_owner"):
+        doms.append(post["photo_owner"])
+    for d in doms:
+        base = d.split("/")[0].removeprefix("www.")
+        hosts.add(base)
+        hosts.update(OFFICIAL_CDNS.get(base, []))
+    return hosts
