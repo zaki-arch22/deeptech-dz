@@ -26,11 +26,11 @@ from .text import canon_url, is_arabic
 log = logging.getLogger("dtdz.collect")
 
 UA = "Mozilla/5.0 (compatible; DeeptechDZ/1.0; +https://t.me/)"
-MAX_AGE_H = 48
-PER_FEED = 25
+MAX_AGE_H = 36
+PER_FEED = 20
 MIN_TEXT = 700          # shorter feed content -> fetch the article page
 MAX_TEXT = 12000
-ARTICLE_FETCHES = 40    # per run, to stay polite
+ARTICLE_FETCHES = 60    # per run
 DISABLE_AFTER = 3       # consecutive failures before a verify:true source is disabled
 
 
@@ -201,7 +201,7 @@ async def collect(sources_path: str | Path, db_path: str | Path, now: float | No
     store = Store(db_path)
     sources = [s for s in load_sources(sources_path) if not store.disabled(s["name"])]
     stats = {"sources": len(sources), "new": 0, "failed": [], "disabled": [], "articles": 0}
-    sem = asyncio.Semaphore(8)
+    sem = asyncio.Semaphore(16)
     async with httpx.AsyncClient(headers={"User-Agent": UA}, timeout=20, follow_redirects=True) as client:
 
         async def one(src):

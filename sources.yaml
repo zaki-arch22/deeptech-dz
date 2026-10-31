@@ -110,3 +110,120 @@ visa_immigration:
 courses:
   - {name: Google Blog Learning, url: https://blog.google/outreach-initiatives/education/rss/, trust: 3, verify: true}
   - {name: Microsoft Learn Blog, url: "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=MicrosoftLearnBlog", trust: 3, verify: true}
+
+# ---- broad base (1 Nov): world press, TV news, aggregators, social ----
+google_news:
+  - {name: Google News Technology EN, url: "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-US&gl=US&ceid=US:en", trust: 1, verify: true}
+  - {name: Google News Science EN, url: "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=en-US&gl=US&ceid=US:en", trust: 1, verify: true}
+  - {name: Google News World EN, url: "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en", trust: 1, verify: true}
+  - {name: Google News Business EN, url: "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en", trust: 1, verify: true}
+  - {name: Google News Entertainment EN, url: "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-US&gl=US&ceid=US:en", trust: 1, verify: true}
+  - {name: Google News Sports EN, url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=en-US&gl=US&ceid=US:en", trust: 1, verify: true}
+  - {name: Google News Health EN, url: "https://news.google.com/rss/headlines/section/topic/HEALTH?hl=en-US&gl=US&ceid=US:en", trust: 1, verify: true}
+  - {name: Google News Technology AR, url: "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=ar&gl=DZ&ceid=DZ:ar", trust: 1, verify: true}
+  - {name: Google News World AR, url: "https://news.google.com/rss/headlines/section/topic/WORLD?hl=ar&gl=DZ&ceid=DZ:ar", trust: 1, verify: true}
+  - {name: Google News Business AR, url: "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=ar&gl=DZ&ceid=DZ:ar", trust: 1, verify: true}
+  - {name: Google News Sports AR, url: "https://news.google.com/rss/headlines/section/topic/SPORTS?hl=ar&gl=DZ&ceid=DZ:ar", trust: 1, verify: true}
+  - {name: Google News Entertainment AR, url: "https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=ar&gl=DZ&ceid=DZ:ar", trust: 1, verify: true}
+  - {name: Google News Science AR, url: "https://news.google.com/rss/headlines/section/topic/SCIENCE?hl=ar&gl=DZ&ceid=DZ:ar", trust: 1, verify: true}
+  - {name: Google News Technology FR, url: "https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=fr&gl=FR&ceid=FR:fr", trust: 1, verify: true}
+  - {name: Google News World FR, url: "https://news.google.com/rss/headlines/section/topic/WORLD?hl=fr&gl=FR&ceid=FR:fr", trust: 1, verify: true}
+  - {name: Google News Algeria, url: "https://news.google.com/rss/search?q=Algérie+OR+الجزائر&hl=ar&gl=DZ&ceid=DZ:ar", trust: 1, verify: true}
+world_press:
+  - {name: Reuters Tech, url: "https://www.reutersagency.com/feed/?best-topics=tech&post_type=best", trust: 2, verify: true}
+  - {name: Guardian Tech, url: "https://www.theguardian.com/technology/rss", trust: 2, verify: true}
+  - {name: Guardian World, url: "https://www.theguardian.com/world/rss", trust: 2, verify: true}
+  - {name: Guardian Science, url: "https://www.theguardian.com/science/rss", trust: 2, verify: true}
+  - {name: NYT Technology, url: "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml", trust: 2, verify: true}
+  - {name: NYT World, url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", trust: 2, verify: true}
+  - {name: NYT Science, url: "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml", trust: 2, verify: true}
+  - {name: CNN Tech, url: "http://rss.cnn.com/rss/edition_technology.rss", trust: 2, verify: true}
+  - {name: CNN World, url: "http://rss.cnn.com/rss/edition_world.rss", trust: 2, verify: true}
+  - {name: Sky News Tech, url: "https://feeds.skynews.com/feeds/rss/technology.xml", trust: 2, verify: true}
+  - {name: Sky News World, url: "https://feeds.skynews.com/feeds/rss/world.xml", trust: 2, verify: true}
+  - {name: DW English, url: "https://rss.dw.com/rdf/rss-en-all", trust: 2, verify: true}
+  - {name: Le Monde Pixels, url: "https://www.lemonde.fr/pixels/rss_full.xml", trust: 2, verify: true}
+  - {name: Le Monde International, url: "https://www.lemonde.fr/international/rss_full.xml", trust: 2, verify: true}
+  - {name: Bloomberg Tech, url: "https://feeds.bloomberg.com/technology/news.rss", trust: 2, verify: true}
+  - {name: Bloomberg Markets, url: "https://feeds.bloomberg.com/markets/news.rss", trust: 2, verify: true}
+  - {name: Financial Times Tech, url: "https://www.ft.com/technology?format=rss", trust: 2, verify: true}
+  - {name: WSJ Tech, url: "https://feeds.a.dj.com/rss/RSSWSJD.xml", trust: 2, verify: true}
+  - {name: Axios, url: "https://api.axios.com/feed/", trust: 2, verify: true}
+  - {name: Business Insider, url: "https://feeds.businessinsider.com/custom/all", trust: 2, verify: true}
+  - {name: Fortune, url: "https://fortune.com/feed/", trust: 2, verify: true}
+  - {name: Fast Company, url: "https://www.fastcompany.com/latest/rss", trust: 2, verify: true}
+  - {name: Gizmodo, url: "https://gizmodo.com/rss", trust: 2, verify: true}
+  - {name: Mashable, url: "https://mashable.com/feeds/rss/all", trust: 2, verify: true}
+  - {name: ZDNet, url: "https://www.zdnet.com/news/rss.xml", trust: 2, verify: true}
+  - {name: TechRadar, url: "https://www.techradar.com/rss", trust: 2, verify: true}
+  - {name: Tom's Hardware, url: "https://www.tomshardware.com/feeds/all", trust: 2, verify: true}
+  - {name: Digital Trends, url: "https://www.digitaltrends.com/feed/", trust: 2, verify: true}
+  - {name: The Next Web, url: "https://thenextweb.com/feed", trust: 2, verify: true}
+  - {name: VentureBeat, url: "https://venturebeat.com/feed/", trust: 2, verify: true}
+  - {name: MIT Tech Review, url: "https://www.technologyreview.com/feed/", trust: 2, verify: true}
+  - {name: Live Science, url: "https://www.livescience.com/feeds/all", trust: 2, verify: true}
+  - {name: Popular Science, url: "https://www.popsci.com/feed/", trust: 2, verify: true}
+  - {name: Interesting Engineering, url: "https://interestingengineering.com/feed", trust: 2, verify: true}
+  - {name: Electrek, url: "https://electrek.co/feed/", trust: 2, verify: true}
+  - {name: SamMobile, url: "https://www.sammobile.com/feed/", trust: 2, verify: true}
+  - {name: GSMArena, url: "https://www.gsmarena.com/rss-news-reviews.php3", trust: 2, verify: true}
+  - {name: MacRumors, url: "https://feeds.macrumors.com/MacRumors-All", trust: 2, verify: true}
+  - {name: IGN, url: "https://feeds.feedburner.com/ign/all", trust: 2, verify: true}
+  - {name: Polygon, url: "https://www.polygon.com/rss/index.xml", trust: 2, verify: true}
+  - {name: Eurogamer, url: "https://www.eurogamer.net/feed", trust: 2, verify: true}
+  - {name: Hollywood Reporter, url: "https://www.hollywoodreporter.com/feed/", trust: 2, verify: true}
+  - {name: Screen Rant, url: "https://screenrant.com/feed/", trust: 2, verify: true}
+  - {name: Collider, url: "https://collider.com/feed/", trust: 2, verify: true}
+  - {name: Sky Sports Football, url: "https://www.skysports.com/rss/12040", trust: 2, verify: true}
+  - {name: Goal, url: "https://www.goal.com/feeds/en/news", trust: 2, verify: true}
+  - {name: Marca EN, url: "https://e00-marca.uecdn.es/rss/en/index.xml", trust: 2, verify: true}
+  - {name: Cointelegraph, url: "https://cointelegraph.com/rss", trust: 2, verify: true}
+  - {name: CoinDesk, url: "https://www.coindesk.com/arc/outboundfeeds/rss/", trust: 2, verify: true}
+  - {name: Decrypt, url: "https://decrypt.co/feed", trust: 2, verify: true}
+arabic_press:
+  - {name: BBC Arabic, url: "https://feeds.bbci.co.uk/arabic/rss.xml", trust: 2, verify: true}
+  - {name: Sky News Arabia, url: "https://www.skynewsarabia.com/rss.xml", trust: 2, verify: true}
+  - {name: Al Arabiya, url: "https://www.alarabiya.net/feed/rss2/ar.xml", trust: 2, verify: true}
+  - {name: CNN Arabic, url: "https://arabic.cnn.com/api/v1/rss/rss.xml", trust: 2, verify: true}
+  - {name: Independent Arabia, url: "https://www.independentarabia.com/rss.xml", trust: 2, verify: true}
+  - {name: RT Arabic Tech, url: "https://arabic.rt.com/rss/technology/", trust: 2, verify: true}
+  - {name: Arabi21, url: "https://arabi21.com/rss", trust: 2, verify: true}
+  - {name: Echorouk, url: "https://www.echoroukonline.com/feed", trust: 2, verify: true}
+  - {name: Ennahar, url: "https://www.ennaharonline.com/feed/", trust: 2, verify: true}
+  - {name: El Khabar, url: "https://www.elkhabar.com/rss", trust: 2, verify: true}
+  - {name: Algerie360, url: "https://www.algerie360.com/feed/", trust: 2, verify: true}
+  - {name: Algérie Eco, url: "https://www.algerie-eco.com/feed/", trust: 2, verify: true}
+  - {name: Kooora, url: "https://www.kooora.com/rss.aspx", trust: 2, verify: true}
+  - {name: Arageek, url: "https://www.arageek.com/feed", trust: 2, verify: true}
+  - {name: Unlimit Tech, url: "https://www.unlimit-tech.com/feed/", trust: 2, verify: true}
+social:
+  - {name: Reddit technology, url: "https://www.reddit.com/r/technology/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit worldnews, url: "https://www.reddit.com/r/worldnews/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit Futurology, url: "https://www.reddit.com/r/Futurology/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit gadgets, url: "https://www.reddit.com/r/gadgets/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit space, url: "https://www.reddit.com/r/space/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit science, url: "https://www.reddit.com/r/science/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit interestingasfuck, url: "https://www.reddit.com/r/interestingasfuck/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit nextfuckinglevel, url: "https://www.reddit.com/r/nextfuckinglevel/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit movies, url: "https://www.reddit.com/r/movies/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit television, url: "https://www.reddit.com/r/television/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit soccer, url: "https://www.reddit.com/r/soccer/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit gaming, url: "https://www.reddit.com/r/gaming/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit Android, url: "https://www.reddit.com/r/Android/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit apple, url: "https://www.reddit.com/r/apple/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit OpenAI, url: "https://www.reddit.com/r/OpenAI/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit artificial, url: "https://www.reddit.com/r/artificial/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit cybersecurity, url: "https://www.reddit.com/r/cybersecurity/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit dataisbeautiful, url: "https://www.reddit.com/r/dataisbeautiful/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit todayilearned, url: "https://www.reddit.com/r/todayilearned/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit FREE, url: "https://www.reddit.com/r/FREE/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit freebies, url: "https://www.reddit.com/r/freebies/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit GameDeals, url: "https://www.reddit.com/r/GameDeals/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit eFreebies, url: "https://www.reddit.com/r/eFreebies/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Reddit learnprogramming, url: "https://www.reddit.com/r/learnprogramming/top/.rss?t=day", trust: 1, verify: true}
+  - {name: Hacker News Best, url: "https://hnrss.org/best", trust: 1}
+  - {name: YouTube Google, url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA", trust: 3, verify: true}
+  - {name: YouTube Apple, url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw", trust: 3, verify: true}
+  - {name: YouTube Samsung, url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCWwgaK7x0_FR1goeSRazfsQ", trust: 3, verify: true}
+  - {name: Steam News, url: "https://store.steampowered.com/feeds/news/", trust: 3, verify: true}
+  - {name: Epic Newsroom, url: "https://www.epicgames.com/site/en-US/news/rss", trust: 3, verify: true}

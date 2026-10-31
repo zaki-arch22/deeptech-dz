@@ -297,8 +297,49 @@ def edit_photo(photo: Image.Image, spec: dict) -> Image.Image:
     return im
 
 
+def _raw(photo: Image.Image, specs: list[dict]) -> Image.Image:
+    """The real photo at full quality, untouched: only a small brand logo and the channel mark."""
+    im = photo.convert("RGB")
+    if im.width > 1920:
+        im = im.resize((1920, int(im.height * 1920 / im.width)), Image.LANCZOS)
+    w, h = im.size
+    base = im.convert("RGBA")
+    size = max(64, w // 16)
+    x = size // 3
+    for spec in specs[:2]:
+        base.alpha_composite(_tile(spec, size), (x, size // 3))
+        x += size + size // 6
+    # channel mark bottom-right, on a soft dark pill
+    f = _font("Bold", max(20, w // 48))
+    label = "Deeptech DZ"
+    tw = f.getlength(label)
+    pad = max(10, w // 120)
+    x1, y1 = w - pad * 2, h - pad * 2
+    x0, y0 = x1 - tw - pad * 4, y1 - f.size - pad * 2
+    overlay = Image.new("RGBA", base.size, (0, 0, 0, 0))
+    od = ImageDraw.Draw(overlay)
+    od.rounded_rectangle((x0, y0, x1, y1), radius=(y1 - y0) // 2, fill=(11, 15, 20, 170))
+    od.text((x0 + pad * 2.6, y0 + pad * 0.6), label, font=f, fill=(242, 245, 248, 255))
+    cy = (y0 + y1) // 2
+    r = max(5, f.size // 4)
+    od.polygon([(x0 + pad * 1.3, cy - r), (x0 + pad * 1.3 + r, cy), (x0 + pad * 1.3, cy + r),
+                (x0 + pad * 1.3 - r, cy)], fill=BRAND)
+    base.alpha_composite(overlay)
+    return base.convert("RGB")
+
+
 def render(post: dict, out: str | Path) -> Path:
-    if post.get("photo") and post.get("layout", "hero") == "hero":
+    if post.get("photo") and post.get("layout", "raw") == "raw":
+        from .brands import logo_specs, photo_for
+        photo = photo_for(post["photo"])
+        if photo is not None and photo.width >= MIN_PHOTO_W and photo.height >= 500:
+            img = _raw(edit_photo(photo, post["photo"]),
+                       logo_specs(post, (post.get("headline") or "") + "\n" + post["text"]))
+            out = Path(out)
+            out.parent.mkdir(parents=True, exist_ok=True)
+            img.save(out, "PNG", optimize=True)
+            return out
+    if post.get("photo") and post.get("layout", "raw") in ("hero", "raw"):
         from .brands import logo_specs, photo_for
         photo = photo_for(post["photo"])
         if photo is not None and (photo.width < MIN_PHOTO_W or photo.height < MIN_PHOTO_H):

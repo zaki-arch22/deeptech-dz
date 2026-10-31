@@ -25,8 +25,8 @@ _SENS = [re.compile(p, re.I) for p in SENSITIVE]
 
 TITLE_SIM = 0.40
 ENTITY_SIM = 0.20      # token similarity needed when >=2 entities are shared
-EXPORT_CLUSTERS = 40
-SOURCE_TEXT = 5000     # chars per source sent to the writer
+EXPORT_CLUSTERS = 90
+SOURCE_TEXT = 3500     # chars per source sent to the writer
 
 
 @dataclass
@@ -77,11 +77,11 @@ _WOW = [
         r"el cl[aá]sico|champions league|algeria|algerian)\b|الجزائر|مجان"),
 ]
 _DULL = [
-    (-6, r"\b(deals?|discount|% off|save \$|lowest price|all-time low|black friday|coupon|mattress|"
+    (-2, r"\b(deals?|discount|% off|save \$|lowest price|all-time low|black friday|coupon|mattress|"
          r"earbuds drop|summit|webinar|register now|tickets?)\b"),
-    (-4, r"\b(player ratings|press conference|fit to face|injury update|set for new .* deal|"
+    (-2, r"\b(player ratings|press conference|fit to face|injury update|set for new .* deal|"
          r"night sky notes|apod|how to|tips|guide|explained|daily:|podcast|week in review)\b"),
-    (-3, r"\b(beta \d|rolling out to|minor update|firmware)\b"),
+    (-1, r"\b(beta \d|rolling out to|minor update|firmware)\b"),
 ]
 
 

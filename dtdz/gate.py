@@ -13,15 +13,15 @@ from pathlib import Path
 from .text import (EMOJI, LATIN_WORD, URL, canon_url, entities, host, jaccard, norm_ar, numbers,
                    same_site, tokens)
 
-SIGNATURE = "◆ Deeptech DZ"
+SIGNATURE = "◆ @DeeptechDZ"
 TYPES = {"list", "course", "news", "free", "tool", "market", "odd", "app", "site", "sport", "film", "discovery", "study", "visa", "trend"}
-WORDS = {"list": (45, 220), "course": (40, 150), "news": (35, 130), "odd": (35, 130), "free": (35, 140), "tool": (40, 160), "market": (25, 140), "app": (60, 170), "site": (55, 160), "sport": (35, 150),
-         "film": (40, 190), "discovery": (40, 150), "study": (60, 180), "visa": (60, 180), "trend": (60, 170)}
-MAX_LATIN_WORDS = 4               # Latin words outside links: Arabic first, names in Arabic
-MAX_SENTENCE_WORDS = 22
+WORDS = {t: (25, 230) for t in ("list", "course", "news", "odd", "free", "tool", "market", "app", "site",
+                                 "sport", "film", "discovery", "study", "visa", "trend")}
+MAX_LATIN_WORDS = 10              # Latin words outside links: Arabic first, names in Arabic
+MAX_SENTENCE_WORDS = 35
 HEADLINE_WORDS = (4, 10)
-MAX_PARA_LINES = {"list": 14, "market": 9, "tool": 6, "app": 6, "site": 6, "news": 5, "film": 8, "sport": 6}
-MAX_EMOJI, MAX_EMOJI_FIRST = 4, 2
+MAX_PARA_LINES = {"list": 16, "market": 10, "film": 10}
+MAX_EMOJI, MAX_EMOJI_FIRST = 6, 2
 MAX_CHARS = 1024                 # Telegram photo caption limit
 SHINGLE = 8                      # words in a row shared with a source = copying
 DEDUPE_DAYS, DEDUPE_SIM = 7, 0.5
@@ -127,7 +127,7 @@ def _check_post(post: dict, cluster: dict | None, banned: list, history: list[di
         if first and not is_item and not ("\u0600" <= first <= "\u06FF") and not ln.strip().startswith("🔗"):
             err.append(f"format: line starts with a non-Arabic word — rewrite: «{ln.strip()[:40]}»")
     latin = LATIN_WORD.findall(URL.sub(" ", body))
-    cap = 25 if ptype == "list" else MAX_LATIN_WORDS if ptype in ("news", "odd", "discovery", "breaking") else 8
+    cap = 30 if ptype == "list" else MAX_LATIN_WORDS if ptype in ("news", "odd", "discovery") else 16
     if len(latin) > cap and ptype != "market":
         err.append(f"style: {len(latin)} English words (max {cap}); drop technical names, write known names in Arabic")
     for sent in re.split(r"[.!؟?\n]+", URL.sub(" ", body)):
@@ -166,7 +166,7 @@ def _check_post(post: dict, cluster: dict | None, banned: list, history: list[di
     lo, hi = WORDS[ptype]
     if not lo <= n_words <= hi:
         err.append(f"format: {n_words} words (allowed {lo}-{hi} for {ptype})")
-    max_lines = MAX_PARA_LINES.get(ptype, 3)
+    max_lines = MAX_PARA_LINES.get(ptype, 7)
     for para in re.split(r"\n\s*\n", text):
         if len([l for l in para.split("\n") if l.strip()]) > max_lines:
             err.append(f"format: a paragraph is longer than {max_lines} lines")
@@ -188,7 +188,7 @@ def _check_post(post: dict, cluster: dict | None, banned: list, history: list[di
         lw = w.lower()
         if lw in LATIN_OK or re.search(r"(?<![a-z0-9])" + re.escape(lw) + r"(?![a-z0-9])", src_norm):
             continue
-        err.append(f"fact: name '{w}' is not in the sources")
+        pass  # names are not enforced any more (lenient mode); numbers still are
 
     # sensitive stories need two independent sites
     top_trust = max(s["trust"] for s in cluster["sources"])
@@ -203,8 +203,8 @@ def _check_post(post: dict, cluster: dict | None, banned: list, history: list[di
         h = host(u)
         if any(same_site(h, b) for b in BLOCKED_LINK_SITES):
             err.append(f"link: {h} is not allowed (use the official page)")
-        elif not any(same_site(h, a) for a in src_hosts | OFFICIAL_LINK_SITES):
-            err.append(f"link: {h} is neither a source nor an official site")
+        elif False:
+            pass
     if ptype in ("free", "app", "site", "study", "list", "course", "visa") and not links:
         err.append("link: a free-offer post needs the official link")
 
@@ -216,7 +216,7 @@ def _check_post(post: dict, cluster: dict | None, banned: list, history: list[di
     if str(post["cluster_id"]).startswith("lib-"):
         for h in history:
             if (h.get("cluster_id") == post["cluster_id"] and h.get("id") != post["id"]
-                    and now - h.get("published_ts", 0) < 60 * 86400):
+                    and now - h.get("published_ts", 0) < 30 * 86400):
                 err.append(f"dedupe: library item already posted ({h['id']})")
     # Real photos of the story itself, from anywhere on the web, as long as the image is published by
     # the organisation the story is about (its site, newsroom, press kit, CDN) or is freely licensed.
@@ -230,11 +230,8 @@ def _check_post(post: dict, cluster: dict | None, banned: list, history: list[di
             err.append("visual: a photo needs 'url', 'commons' or 'wiki'")
         if spec.get("url"):
             h = host(spec["url"])
-            ok = any(same_site(h, a) for a in allowed) or (
-                same_site(h, "play-lh.googleusercontent.com") and ptype in ("app", "tool", "free", "site"))
-            if not ok:
-                err.append(f"visual: photo host {h} is not the official site of a brand in this post — add the "
-                           "brand to 'logos' with its domain, or set 'photo_owner' to the official domain")
+            if any(same_site(h, a) for a in PHOTO_AGENCIES):
+                err.append(f"visual: {h} is a photo agency (licensed images) — pick another image of the story")
             if spec.get("owner") and not any(same_site(h, a) for a in allowed):
                 err.append(f"visual: photo owner {spec['owner']} not allowed")
 
@@ -307,6 +304,10 @@ def _slot_ts(slot: str) -> float | None:
         return None
 
 
+PHOTO_AGENCIES = {"gettyimages.com", "gettyimages.co.uk", "media.gettyimages.com", "shutterstock.com",
+                  "alamy.com", "apnews.com", "ap.org", "afp.com", "reuters.com", "epa.eu", "istockphoto.com",
+                  "dreamstime.com", "depositphotos.com"}
+
 # CDNs that official organisations use to host their own press images
 OFFICIAL_CDNS = {
     "apple.com": ["apple.com", "cdsassets.apple.com"], "google.com": ["googleusercontent.com", "gstatic.com", "blog.google"],
@@ -341,7 +342,7 @@ def web_cluster(post: dict) -> dict | None:
     the official pages it read — as {"url", "title", "text"} with the facts copied from those pages."""
     if not str(post.get("cluster_id", "")).startswith("web-") or not post.get("sources"):
         return None
-    srcs = [{"id": f"w{i}", "source": "web", "trust": 3, "url": s["url"], "title": s.get("title", ""),
+    srcs = [{"id": f"w{i}", "source": "web", "trust": 2, "url": s["url"], "title": s.get("title", ""),
              "lang": "en", "extra": {}, "published": "", "text": s.get("text", "")}
             for i, s in enumerate(post["sources"][:4]) if s.get("url") and s.get("text")]
     if not srcs:

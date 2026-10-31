@@ -66,8 +66,17 @@ def admin_commands(bot: Bot, store: Store, admin: int) -> None:
     r = R.Runner.__new__(R.Runner)          # reuse the command handler without starting loops
     r.admin, r.sync, r.last_collect = admin, True, (store.get("last_collect")[0] or 0)
     r.last_collect_stats = store.get("last_collect_stats")[0] or {}
+    from .admin import handle_update
     for u in updates:
         offset = u["update_id"] + 1
+        try:
+            extra = handle_update(bot, ROOT, admin, u, os.environ.get("CHANNEL", ""))
+        except Exception as exc:  # noqa: BLE001
+            extra = None
+            log.warning("admin update failed: %s", exc)
+        if extra:
+            tell(bot, admin, extra)
+            continue
         msg = u.get("message") or {}
         text, uid = (msg.get("text") or "").strip(), (msg.get("from") or {}).get("id")
         if text.startswith("/"):
@@ -127,6 +136,9 @@ def main() -> int:
                 time.sleep(20)
 
     admin_commands(bot, store, admin)
+    from .admin import maybe_daily_report, send_previews
+    send_previews(bot, ROOT, admin)
+    maybe_daily_report(bot, ROOT, admin, store)
     sync_pause_flag(to_repo=True)
     return 0
 

@@ -9,7 +9,7 @@ from __future__ import annotations
 import json
 import logging
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Protocol
 
@@ -79,8 +79,18 @@ def run_once(root: str | Path, sender: Sender, now: float | None = None) -> dict
         return stats
 
     done = _done_ids(hist_p, rej_p)
+    from .admin import load_overrides
+    ovr = load_overrides(root)
+    for pid in ovr["cancel"]:
+        if pid not in done:
+            _append(rej_p, {"id": pid, "at": now, "reason": ["cancelled by admin"]})
+            done.add(pid)
+    forced = set(ovr["now"])
     due = [p for p in load_queue(q / "posts") if p.get("id") not in done and p.get("slot")
-           and _ts(p["slot"]) <= now]
+           and (_ts(p["slot"]) <= now or p["id"] in forced)]
+    for p in due:
+        if p["id"] in forced:
+            p["slot"] = datetime.fromtimestamp(now, timezone.utc).isoformat()
     if not due:
         return stats
 

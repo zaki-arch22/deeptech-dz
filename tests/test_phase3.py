@@ -130,3 +130,14 @@ def test_album_send(tmp_path, monkeypatch):
     card = tmp_path / "c.png"; I.new("RGB", (10, 10)).save(card)
     mid = T.TelegramSender(bot, "@x").send({"id": "p1", "text": "**عاجل** نص", "gallery": [{"commons": "x"}]}, card)
     assert mid == "9" and seen["path"].endswith("/sendMediaGroup") and b"<b>" in seen["body"]
+
+
+def test_admin_cancel_and_now(tmp_path):
+    from dtdz.admin import load_overrides, save_overrides, daily_report
+    root = setup_root(tmp_path, [post(), post(id="later", slot="2026-10-31T09:30:00+01:00",
+                                              text=GOOD.replace("الأرقام جميلة", "الأرقام مهمة"))])
+    ovr = load_overrides(root); ovr["cancel"].append(post()["id"]); ovr["now"].append("later"); save_overrides(root, ovr)
+    s = run_once(root, DryRunSender(tmp_path / "o"), T0 + 30)
+    assert s["sent"] == [] or s["sent"] == ["later"]
+    assert "cancelled by admin" in (root / "queue" / "rejected.jsonl").read_text(encoding="utf-8")
+    assert "تقرير" in daily_report(root)

@@ -11,6 +11,7 @@ import asyncio
 import logging
 import os
 import subprocess
+import sys
 import time
 from datetime import datetime
 from pathlib import Path
@@ -74,6 +75,14 @@ def git_pull() -> None:
     if before and after and before != after:
         changed = git("diff", "--name-only", before, after, check=False).stdout.split()
         if any(f.startswith(CODE_PATHS) for f in changed):
+            # safety: only restart on code that passes the test suite; otherwise roll the code back
+            test = subprocess.run([sys.executable, "-m", "pytest", "-q", "-x", "tests"], cwd=ROOT,
+                                  capture_output=True, text=True, timeout=300)
+            if test.returncode != 0:
+                log.error("new code fails tests — keeping %s:\n%s", before[:7], test.stdout[-1500:])
+                git("checkout", before, "--", "dtdz", "requirements.txt", "assets", check=False)
+                (DATA / "BAD_UPDATE").write_text(after + "\n" + test.stdout[-1500:], encoding="utf-8")
+                return
             log.warning("code updated (%s..%s) — restarting", before[:7], after[:7])
             os._exit(3)  # restart: unless-stopped brings the container back
 
@@ -168,6 +177,16 @@ class Runner:
                     if self.sync:
                         await asyncio.to_thread(git_push, ["queue/history.jsonl", "queue/rejected.jsonl"],
                                                 "publish log")
+                from .admin import maybe_daily_report, send_previews
+                await asyncio.to_thread(send_previews, self.bot, ROOT, self.admin)
+                await asyncio.to_thread(maybe_daily_report, self.bot, ROOT, self.admin,
+                                        Store(DATA / "dtdz.sqlite"))
+                if self.sync:
+                    await asyncio.to_thread(git_push, ["queue/overrides.json"], "overrides")
+                bad = DATA / "BAD_UPDATE"
+                if bad.exists():
+                    await self.tell_admin("⚠️ تحديث جديد فشل في الاختبارات فلم يُطبَّق، والبوت يعمل بالنسخة السابقة.")
+                    bad.unlink()
                 for pid in stats["rejected"]:
                     await self.tell_admin(f"⛔ رفضت البوابة المنشور {pid}. الأسباب في queue/rejected.jsonl")
                 if stats["skipped"]:
@@ -205,6 +224,15 @@ class Runner:
                 continue
             for u in updates:
                 offset = u["update_id"] + 1
+                from .admin import handle_update
+                try:
+                    extra = await asyncio.to_thread(handle_update, self.bot, ROOT, self.admin, u, self.channel)
+                except Exception as exc:  # noqa: BLE001
+                    extra = None
+                    log.warning("admin update failed: %s", exc)
+                if extra:
+                    await asyncio.to_thread(self.bot.send_message, self.admin, extra)
+                    continue
                 msg = u.get("message") or {}
                 text, uid = (msg.get("text") or "").strip(), (msg.get("from") or {}).get("id")
                 if not text.startswith("/"):

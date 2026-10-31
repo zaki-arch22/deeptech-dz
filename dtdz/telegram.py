@@ -56,7 +56,7 @@ class Bot:
                 fh.close()
 
     def updates(self, offset: int | None, timeout: int = 25) -> list[dict]:
-        params = {"timeout": timeout, "allowed_updates": '["message"]'}
+        params = {"timeout": timeout, "allowed_updates": '["message", "callback_query"]'}
         if offset is not None:
             params["offset"] = offset
         return self.call("getUpdates", **params)
