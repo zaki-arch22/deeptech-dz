@@ -265,6 +265,8 @@ def topic_icon(topic: str) -> Path | None:
 
 # ---------- real logos ----------
 LOGO_CACHE = ASSETS.parent / "data" / "logos"
+# Wikimedia requires a descriptive User-Agent with contact info, otherwise images return 403
+UA = "DeeptechDZBot/1.0 (https://t.me/DeeptechDZ; Telegram tech channel) httpx"
 GOOD_SIZE = 128
 
 
@@ -274,7 +276,7 @@ def _fetch(url: str):
         import io
         import httpx
         from PIL import Image
-        r = httpx.get(url, timeout=8, follow_redirects=True, headers={"User-Agent": "Mozilla/5.0 DeeptechDZ"})
+        r = httpx.get(url, timeout=10, follow_redirects=True, headers={"User-Agent": UA})
         if r.status_code != 200 or not r.headers.get("content-type", "").startswith("image"):
             return None
         return Image.open(io.BytesIO(r.content)).convert("RGBA")
@@ -292,7 +294,9 @@ def _wiki_logo(title: str):
             src = (page.get("thumbnail") or {}).get("source")
             if src:
                 return _fetch(src)
-    except Exception:  # noqa: BLE001
+    except Exception as exc:  # noqa: BLE001
+        import logging
+        logging.getLogger("dtdz.photos").warning("photo lookup failed: %s", exc)
         return None
     return None
 
@@ -382,7 +386,7 @@ def commons_photo(query: str):
         return Image.open(cached).convert("RGB")
     try:
         import httpx
-        r = httpx.get("https://commons.wikimedia.org/w/api.php", timeout=10, headers={"User-Agent": "DeeptechDZ/1.0"},
+        r = httpx.get("https://commons.wikimedia.org/w/api.php", timeout=10, headers={"User-Agent": UA},
                       params={"action": "query", "generator": "search", "gsrsearch": f"filetype:bitmap {query}",
                               "gsrnamespace": 6, "gsrlimit": 10, "prop": "imageinfo", "iiprop": "url|size|mime",
                               "iiurlwidth": 1200, "format": "json"})
@@ -396,7 +400,9 @@ def commons_photo(query: str):
                 im = im.convert("RGB")
                 im.save(cached, quality=90)
                 return im
-    except Exception:  # noqa: BLE001
+    except Exception as exc:  # noqa: BLE001
+        import logging
+        logging.getLogger("dtdz.photos").warning("photo lookup failed: %s", exc)
         return None
     return None
 
@@ -412,7 +418,7 @@ def product_photo(wiki_title: str):
         return Image.open(cached).convert("RGB")
     try:
         import httpx
-        r = httpx.get("https://en.wikipedia.org/w/api.php", timeout=8, headers={"User-Agent": "DeeptechDZ/1.0"},
+        r = httpx.get("https://en.wikipedia.org/w/api.php", timeout=8, headers={"User-Agent": UA},
                       params={"action": "query", "titles": wiki_title, "prop": "pageimages", "piprop": "thumbnail",
                               "pithumbsize": 1200, "format": "json", "redirects": 1})
         for page in r.json()["query"]["pages"].values():
@@ -423,6 +429,8 @@ def product_photo(wiki_title: str):
                     im = im.convert("RGB")
                     im.save(cached, quality=90)
                     return im
-    except Exception:  # noqa: BLE001
+    except Exception as exc:  # noqa: BLE001
+        import logging
+        logging.getLogger("dtdz.photos").warning("photo lookup failed: %s", exc)
         return None
     return None
