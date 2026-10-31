@@ -97,7 +97,9 @@ def run_once(root: str | Path, sender: Sender, now: float | None = None) -> dict
             _append(rej_p, {"id": post["id"], "at": now, "reason": [f"skipped: {late_min:.0f} min late"]})
             stats["skipped"].append(post["id"])
             continue
-        cluster = clusters.get(post.get("cluster_id")) or store.get(f"cluster:{post.get('cluster_id')}")[0]
+        from .gate import web_cluster
+        cluster = (clusters.get(post.get("cluster_id")) or store.get(f"cluster:{post.get('cluster_id')}")[0]
+                   or web_cluster(post))
         errs = check_post(post, cluster, banned, history, now, strict=False)
         if errs:
             _append(rej_p, {"id": post["id"], "at": now, "reason": errs})

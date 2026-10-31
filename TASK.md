@@ -21,6 +21,10 @@ the next ~70 minutes and **chooses their exact times itself** (`slot`, e.g. `202
   current item from an official source (new free course, scholarship call, visa programme, film
   release on a legal platform) and use it.
 - Set `"category"` on each post (one of the plan's keys) so the plan counts it correctly.
+- Posts from your own web research (no matching cluster): use `"cluster_id": "web-<short-slug>"` and add
+  `"sources": [{"url": "<official page>", "title": "...", "text": "<the facts copied from that page>"}]`.
+  Only official pages (the university, embassy, ministry, programme, platform, publisher). The usual
+  fact check runs against this text.
 
 **Write it right the first time.** `python -m dtdz check` is your checklist while writing: fix every
 point it raises before committing — never drop a post because of a style error, rewrite it.

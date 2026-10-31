@@ -226,3 +226,12 @@ def test_library_export_and_mix(tmp_path):
     posts.write_text(json.dumps(batch, ensure_ascii=False), encoding="utf-8")
     res = check_file(posts, cands, ROOT / "banned_phrases.txt", tmp_path / "none.jsonl", NOW)
     assert any("mix:" in e for e in res["n2"])
+
+
+def test_web_sourced_post(tmp_path):
+    from dtdz.gate import web_cluster
+    p = post(cluster_id="web-orbit", sources=[{"url": "https://site0.com/orbit-3", "title": "Orbit 3",
+                                                "text": SRC_A}])
+    c = web_cluster(p)
+    assert c and c["sources"][0]["trust"] == 3
+    assert not [e for e in check_post(p, c, BANNED, [], NOW) if e.startswith("fact")]

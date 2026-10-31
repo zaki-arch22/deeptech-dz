@@ -285,14 +285,14 @@ def check_file(posts_path: str | Path, candidates_path: str | Path, banned_path:
     results, seen_ids = {}, set()
     for p in posts:
         pid = p.get("id", "?")
-        errs = check_post(p, clusters.get(p.get("cluster_id")), banned, history, now)
+        errs = check_post(p, clusters.get(p.get("cluster_id")) or web_cluster(p), banned, history, now)
         if pid in seen_ids:
             errs.append("schema: duplicate id in batch")
         seen_ids.add(pid)
         results[pid] = errs
         if not errs:
             slot_ts = _slot_ts(p["slot"]) or (now or time.time())
-            history.append(history_entry(p, clusters[p["cluster_id"]], slot_ts))
+            history.append(history_entry(p, clusters.get(p["cluster_id"]) or web_cluster(p), slot_ts))
     if len(posts) >= 3 and all(p.get("type") == "news" for p in posts):
         last = posts[-1].get("id", "?")
         results[last] = results.get(last, []) + [
@@ -334,3 +334,18 @@ def photo_hosts(post: dict, cluster: dict) -> set[str]:
         hosts.add(base)
         hosts.update(OFFICIAL_CDNS.get(base, []))
     return hosts
+
+
+def web_cluster(post: dict) -> dict | None:
+    """A post built from the writer's own web research (cluster_id "web-…"): it carries its sources —
+    the official pages it read — as {"url", "title", "text"} with the facts copied from those pages."""
+    if not str(post.get("cluster_id", "")).startswith("web-") or not post.get("sources"):
+        return None
+    srcs = [{"id": f"w{i}", "source": "web", "trust": 3, "url": s["url"], "title": s.get("title", ""),
+             "lang": "en", "extra": {}, "published": "", "text": s.get("text", "")}
+            for i, s in enumerate(post["sources"][:4]) if s.get("url") and s.get("text")]
+    if not srcs:
+        return None
+    return {"id": post["cluster_id"], "kind": "web", "score": 0, "sensitive": False,
+            "distinct_sites": len({host(s["url"]) for s in srcs}), "title_hint": post.get("headline", ""),
+            "sources": srcs}
