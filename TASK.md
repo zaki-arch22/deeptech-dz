@@ -34,6 +34,17 @@ post must pass the **"would I forward this to a friend?"** test. Routine = death
    big matches (time, stadium, channel), Algerian players and the national team.
 5. **Apps & sites (≈10%)** — tested, useful, with the official link.
 
+**Topic selection — the bar (owner's reference post):**
+"⚡ **أثبتت جوجل إمكانية تشغيل مراكز بيانات الذكاء الاصطناعي من الفضاء!**" — a giant doing something
+nobody did before, with a concrete detail (satellites with TPU chips, a request sent from Earth, the
+AI model answered from orbit) and what comes next. That is the level: **firsts, records, giants'
+bold moves, big money, big dangers, things people will repeat to others.**
+Clusters are now ranked by a wow score (`score`); start from the top, but your judgement decides.
+Never post: price drops and shopping deals, routine sports filler (ratings, injuries, minor transfers),
+minor OS rollouts, event promotions, "how to" blog posts, local politics.
+If a promising story has too little text in the cluster, skip it now — the collector fetches the full
+article and it will come back richer in the next run.
+
 **How they write it (adopt):**
 - First line = the whole hook, in bold, starting with ⚡ or ❗ (or 🎁 for free, 🚨 for danger):
   `⚡ **مايكروسوفت تقترح تسريح 60 ألف موظف حول العالم.**`

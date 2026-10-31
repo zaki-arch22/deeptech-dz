@@ -9,6 +9,7 @@ import asyncio
 import calendar
 import csv
 import io
+import json
 import logging
 import time
 from datetime import datetime, timezone
@@ -234,6 +235,30 @@ async def collect(sources_path: str | Path, db_path: str | Path, now: float | No
                     stats["articles"] += 1
             except Exception as exc:  # noqa: BLE001
                 log.info("article fetch failed %s: %s", it.url, exc)
+
+        # enrich: stories stored earlier with only a one-line summary get their full article text,
+        # so the writer has enough facts to explain them (top-wow first)
+        from .cluster import wow
+        thin = [it for it in store.recent(36, now) if len(it.text) < MIN_TEXT
+                and it.grp not in ("markets", "opportunities", "trends")
+                and not store.get(f"enriched:{it.id}")[0]]
+        thin.sort(key=lambda it: wow(it.title), reverse=True)
+        for it in thin[:30]:
+            store.put(f"enriched:{it.id}", 1)
+            try:
+                html = (await _get(client, it.url)).decode("utf-8", "replace")
+                text = trafilatura.extract(html, favor_precision=True) or ""
+                meta = trafilatura.extract_metadata(html)
+                extra = dict(it.extra or {})
+                if meta is not None and getattr(meta, "image", None):
+                    extra["page_image"] = meta.image
+                if len(text) > len(it.text):
+                    store.db.execute("UPDATE items SET text=?, extra=? WHERE id=?",
+                                     (text[:MAX_TEXT], json.dumps(extra, ensure_ascii=False), it.id))
+                    store.db.commit()
+                    stats["articles"] += 1
+            except Exception as exc:  # noqa: BLE001
+                log.info("enrich failed %s: %s", it.url, exc)
 
     for it in new:
         if it.extra.get("market"):

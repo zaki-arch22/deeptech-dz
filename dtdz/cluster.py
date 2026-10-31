@@ -61,7 +61,35 @@ class Cluster:
         s += 1.5 if any(i.trust >= 3 for i in self.items) else 0
         s += 2 if age_h < 6 else 1 if age_h < 12 else 0
         s += 1 if any(i.lang == "ar" for i in self.items) else 0
+        s += wow(" ".join(i.title + " " + i.text[:600] for i in self.items))
         return round(s, 2)
+
+
+# "Would I forward this?" — boosts stories with a wow factor, buries filler.
+_WOW = [
+    (4, r"\b(first[- ]ever|world'?s first|record|historic|breakthrough|in (space|orbit)|satellite|"
+        r"quantum|robot|humanoid|starship|moon|mars|nasa|spacex)\b|في الفضاء|لأول مرة|رقم قياسي|قمر صناعي|روبوت"),
+    (3, r"\b(billion|trillion|layoffs?|lays? off|hack(ed|ers)?|breach|stolen|leak(ed)?|outage|down worldwide|"
+        r"lawsuit|banned?|antitrust|admits?|defect|recall|ai model|openai|anthropic|nvidia|chatgpt|gemini|"
+        r"north korea|ransomware|infostealer|malware|whatsapp|tiktok|telegram|instagram)\b|مليار|اختراق|تسريح|"
+        r"حظر|عطل|ذكاء اصطناعي"),
+    (2, r"\b(launch(es|ed)?|unveil(s|ed)?|reveals?|new (phone|chip|model)|free|iphone|galaxy|playstation|"
+        r"el cl[aá]sico|champions league|algeria|algerian)\b|الجزائر|مجان"),
+]
+_DULL = [
+    (-6, r"\b(deals?|discount|% off|save \$|lowest price|all-time low|black friday|coupon|mattress|"
+         r"earbuds drop|summit|webinar|register now|tickets?)\b"),
+    (-4, r"\b(player ratings|press conference|fit to face|injury update|set for new .* deal|"
+         r"night sky notes|apod|how to|tips|guide|explained|daily:|podcast|week in review)\b"),
+    (-3, r"\b(beta \d|rolling out to|minor update|firmware)\b"),
+]
+
+
+def wow(text: str) -> float:
+    t = text.lower()
+    s = sum(w for w, rx in _WOW if re.search(rx, t))
+    s += sum(w for w, rx in _DULL if re.search(rx, t))
+    return s
 
 
 def build_clusters(items: list[Item]) -> list[Cluster]:

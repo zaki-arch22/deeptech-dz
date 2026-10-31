@@ -66,7 +66,8 @@ class Store:
 
     def prune(self, days: int = 14) -> None:
         self.db.execute("DELETE FROM items WHERE published < ?", (time.time() - days * 86400,))
-        self.db.execute("DELETE FROM kv WHERE k LIKE 'cluster:%' AND updated < ?", (time.time() - 4 * 86400,))
+        self.db.execute("DELETE FROM kv WHERE (k LIKE 'cluster:%' OR k LIKE 'enriched:%') AND updated < ?",
+                        (time.time() - 4 * 86400,))
         self.db.commit()
 
     # source health
