@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-01T20:07:31+00:00",
+ "generated_at": "2026-11-01T20:37:28+00:00",
  "clusters": [
   {
    "id": "cb8087c5f39",
    "kind": "news",
-   "score": 28.0,
+   "score": 27.0,
    "sensitive": true,
    "distinct_sites": 11,
    "title_hint": "Judge throws out Trump suit against Wall Street Journal over Epstein letter",
@@ -1195,52 +1195,6 @@
    ]
   },
   {
-   "id": "c0747ff0d71",
-   "kind": "news",
-   "score": 19.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Google's AI satellite sends a very expensive haiku to Earth",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Register",
-     "trust": 2,
-     "url": "https://theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-     "title": "Google's AI satellite sends a very expensive haiku to Earth",
-     "lang": "en",
-     "extra": {},
-     "id": "0747ff0d7149d6f2",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite.\nThe company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to \"Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you.\"\nTravis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its \"Hello World\" milestone by sending an inference response from orbit.\n\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space,\" wrote Beals in a blog post.\nAnd as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink:\nBlue marble below,\nData streams in silent grace,\nStarlight feeds my core. ✨\nThose roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs.\nAdd in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku.\nAccording to Google's calculations, if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year).\nGoogle predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening.\nAfter the haiku, Beals said, \"we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems.\" Next up: tests for evaluating how TPUs perform under thermal stress and radiation.\nGoogle has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam.\nThe system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si).\n\"For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second,\" Google researchers said in a paper published earlier this month.\n\"While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy of system-level mitigations, requires further study.\"\nIndeed, the study will continue. Next year, the plan is to test a pair of interconnected satellites. Rather than lofting large satellites into orbit, Google anticipates sending a constellation of many smaller satellites that communicate with one another. ®"
-    },
-    {
-     "source": "The Register",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5",
-     "title": "Google's AI satellite sends a very expensive haiku to Earth",
-     "lang": "en",
-     "extra": {},
-     "id": "cc2c009a3e8d417f",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Google's AI satellite sends a very expensive haiku to Earth\nThe Register"
-    },
-    {
-     "source": "The Next Web",
-     "trust": 2,
-     "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
-     "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.thenextweb.com/2026/11/project-suncatcher-logo-yellow-orange-blue-gradient.jpg"
-     },
-     "id": "9c5905ac74d8c89d",
-     "published": "2026-11-01T14:35+00:00",
-     "text": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Friday.\nThe satellite launched on 1 October for Project Suncatcher, Google’s research effort to run AI computing in space. Google called the haiku the first AI response from a data centre class TPU, its own AI chip, in orbit.\n“Blue marble below / Data streams in silent grace / Starlight feeds my core.” Gemma 4, on the Suncatcher satellite, as published by Google\nGoogle sent the prompt during a pass over a ground station. The poem came back as the satellite flew over Svalbard, Norway. The team then tried space-themed limericks and prompts asking the satellite to report on its own systems. The prompt asked for a haiku written as a TPU orbiting Earth, Thomas Claburn reported for The Register.\nWhat the satellite carries\nThe satellite holds four TPUs and generates up to 1 kilowatt of power, Tim Fernholz reported for TechCrunch. Because of that power limit, it can run only one TPU at a time, for about 20 minutes. Testing its systems took about three weeks, and a Google spokesperson told TechCrunch the satellite was working normally.\nOmar Sanseviero, who works on Gemma at Google DeepMind, wrote on X that the model ran on stored solar energy.\nThe next tests\nGoogle will now test how the TPUs cope with heat and radiation in orbit. Radiation can flip bits in a chip’s memory and corrupt data without warning. Google’s tests on the ground suggested this matters less for running models than for training them, according to TechCrunch.\nIf the chips hold up, Google plans to launch two linked satellites in 2027. They will make more power and test laser links between satellites, TechCrunch reported.\nGoogle announced the launch in September. Startups also plan data centres in orbit, and Starcloud raised $250M in August. SpaceX has told investors its own orbital data centres may never work. Google’s plans also depend on SpaceX making its Starship rocket fully reusable, TechCrunch reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
-    }
-   ]
-  },
-  {
    "id": "c7e7e382587",
    "kind": "news",
    "score": 19.0,
@@ -1503,6 +1457,52 @@
    ]
   },
   {
+   "id": "c0747ff0d71",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Google's AI satellite sends a very expensive haiku to Earth",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+     "title": "Google's AI satellite sends a very expensive haiku to Earth",
+     "lang": "en",
+     "extra": {},
+     "id": "0747ff0d7149d6f2",
+     "published": "2026-10-31T15:36+00:00",
+     "text": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite.\nThe company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to \"Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you.\"\nTravis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its \"Hello World\" milestone by sending an inference response from orbit.\n\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space,\" wrote Beals in a blog post.\nAnd as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink:\nBlue marble below,\nData streams in silent grace,\nStarlight feeds my core. ✨\nThose roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs.\nAdd in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku.\nAccording to Google's calculations, if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year).\nGoogle predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening.\nAfter the haiku, Beals said, \"we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems.\" Next up: tests for evaluating how TPUs perform under thermal stress and radiation.\nGoogle has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam.\nThe system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si).\n\"For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second,\" Google researchers said in a paper published earlier this month.\n\"While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy of system-level mitigations, requires further study.\"\nIndeed, the study will continue. Next year, the plan is to test a pair of interconnected satellites. Rather than lofting large satellites into orbit, Google anticipates sending a constellation of many smaller satellites that communicate with one another. ®"
+    },
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5",
+     "title": "Google's AI satellite sends a very expensive haiku to Earth",
+     "lang": "en",
+     "extra": {},
+     "id": "cc2c009a3e8d417f",
+     "published": "2026-10-31T15:36+00:00",
+     "text": "Google's AI satellite sends a very expensive haiku to Earth\nThe Register"
+    },
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
+     "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.thenextweb.com/2026/11/project-suncatcher-logo-yellow-orange-blue-gradient.jpg"
+     },
+     "id": "9c5905ac74d8c89d",
+     "published": "2026-11-01T14:35+00:00",
+     "text": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Friday.\nThe satellite launched on 1 October for Project Suncatcher, Google’s research effort to run AI computing in space. Google called the haiku the first AI response from a data centre class TPU, its own AI chip, in orbit.\n“Blue marble below / Data streams in silent grace / Starlight feeds my core.” Gemma 4, on the Suncatcher satellite, as published by Google\nGoogle sent the prompt during a pass over a ground station. The poem came back as the satellite flew over Svalbard, Norway. The team then tried space-themed limericks and prompts asking the satellite to report on its own systems. The prompt asked for a haiku written as a TPU orbiting Earth, Thomas Claburn reported for The Register.\nWhat the satellite carries\nThe satellite holds four TPUs and generates up to 1 kilowatt of power, Tim Fernholz reported for TechCrunch. Because of that power limit, it can run only one TPU at a time, for about 20 minutes. Testing its systems took about three weeks, and a Google spokesperson told TechCrunch the satellite was working normally.\nOmar Sanseviero, who works on Gemma at Google DeepMind, wrote on X that the model ran on stored solar energy.\nThe next tests\nGoogle will now test how the TPUs cope with heat and radiation in orbit. Radiation can flip bits in a chip’s memory and corrupt data without warning. Google’s tests on the ground suggested this matters less for running models than for training them, according to TechCrunch.\nIf the chips hold up, Google plans to launch two linked satellites in 2027. They will make more power and test laser links between satellites, TechCrunch reported.\nGoogle announced the launch in September. Startups also plan data centres in orbit, and Starcloud raised $250M in August. SpaceX has told investors its own orbital data centres may never work. Google’s plans also depend on SpaceX making its Starship rocket fully reusable, TechCrunch reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
+    }
+   ]
+  },
+  {
    "id": "c6e8184ab65",
    "kind": "news",
    "score": 18.0,
@@ -1595,6 +1595,54 @@
      "id": "9d891301ee206f8f",
      "published": "2026-11-01T15:58+00:00",
      "text": "- Box Office: ‘You Can See Everything’ and ‘Clayface’ Battle for No. 1 With $10.5 Million in Sleepy Halloween Weekend Variety\n- Box Office: 'You Can See Everything' & 'Clayface' In Staring Contest Deadline\n- Weekend Preview: YOU CAN SEE EVERYTHING Looking to Claim Top Spot Over Quiet Halloween Frame Boxoffice Pro\n- Connecting with “Clayface” DC Comics\n- It's Only Been 8 Days, but New 108-Minute Thriller is Already Dominating the Box Office in 3,400 Theaters MovieWeb"
+    }
+   ]
+  },
+  {
+   "id": "cb8b130f491",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Cointelegraph",
+     "trust": 2,
+     "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo",
+     "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+     "lang": "en",
+     "extra": {},
+     "id": "b8b130f491190308",
+     "published": "2026-10-31T15:26+00:00",
+     "text": "Binance hack exceeds the next nine largest crypto exploits combined. Source: Glassnode\nBy comparison, following the Bybit hack in 2025, Bitcoin fell roughly 5% from nearly $100,000 to around $95,000 amid the breach and broader market volatility, according to a Bitfinex market report.\nAnchorage Digital data cited by CNBC put Bitcoin’s average decline in the first 24 hours after previous crypto exchange exploits at 8.3%.\nBlockaid CEO Ido Ben-Natan said the attackers appeared to have compromised Binance’s transaction signing process. Binance said Friday that it had found no evidence of leaked wallet private keys, though its investigation remained ongoing.\nBlockaid’s analysis identified an Ethereum transaction containing 50 signed authorizations covering different transaction counts. A matching authorization allowed attacker-controlled code to operate through the wallet. Ben-Natan argued that checks before signing could have blocked the malicious authorization.\nMagazine: Tampered Ledger reported in Singapore a month before news broke: Asia Express"
+    },
+    {
+     "source": "Decrypt",
+     "trust": 2,
+     "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+     "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg"
+     },
+     "id": "1078f846b2095338",
+     "published": "2026-11-01T16:01+00:00",
+     "text": "In brief\n- U.S. spot Bitcoin ETFs shed $643.2 million on Friday, their biggest outflow of October, in the first session after Thursday’s $6.4 billion Binance hack.\n- Ethereum ETFs extended a five-day outflow streak to about $431 million, and Solana ETFs lost about $72 million over the week.\n- Bitcoin fell about 4% Friday before steadying near $77,520 Saturday, while Myriad traders turned bearish on Ethereum and Solana.\nThe first real test of how ETF investors would react to the largest crypto hack in history came back red.\nU.S. spot Bitcoin ETFs shed $643.2 million on Friday, according to Decrypt’s ETF tracker, their biggest single-day outflow of October. It was the funds’ first full session since attackers began draining roughly $6.4 billion from Binance at 4:05 p.m. ET Thursday, after U.S. markets had closed. Thursday’s $17.2 million in inflows predated the theft.\nThe selling erased a four-day, $441 million inflow run, leaving the funds down about $202 million for the week and roughly $516 million for October. Cumulative net inflows since launch slipped to $57.4 billion, with total net assets at $103.2 billion.\nEthereum and Solana ETFs fared worse relative to their size. Ethereum funds lost $155.7 million on Friday, extending a five-day outflow streak to about $431 million and pushing October losses to roughly $1.61 billion. Solana ETFs shed $10.8 million, their fifth straight day of outflows, totaling about $72 million for the week. They logged net inflows on just two days all month.\nSpot crypto ETFs hold the underlying asset, such as Bitcoin or Ethereum, and trade on stock exchanges like ordinary shares, giving investors exposure through a regular brokerage account.\nBitcoin funds have drawn $57.4 billion in net inflows since debuting in January 2024, and Ethereum funds have taken in $12.2 billion since launching that July. Because issuers report flows daily and much of the money comes from institutions and financial advisers, the figures have become a closely watched gauge of investor sentiment.\nCrypto markets initially appeared to take the Binance hack largely in stride, considering the scale of the theft. Bitcoin fell about 4% to roughly $76,400 on Friday, and more than $1.3 billion in leveraged positions were liquidated. It’s a sharp drop, but a far smaller one than the nearly 11% plunge after a failed attack on Binance in 2018.\nBinance has pledged to cover all losses with company funds and an emergency reserve, while Tether and Circle froze more than $2.3 billion in stolen stablecoins. Some Wall Street firms even urged clients to buy crypto-linked stocks on the potential weakness in markets.\nBy Saturday, Bitcoin had steadied at about $77,520, up 0.5% over 24 hours but down 3.3% on the week. Ethereum traded near $2,251, down 3.9% for the week, and Solana near $96, down 4.5%. Total crypto market cap held at about $2.7 trillion.\nMacro headwinds remain in play. The Federal Reserve held rates at 3.75% to 4% on Wednesday, but two officials voted for a hike, and traders had priced odds above 70% for an increase in December.\nTraders on Myriad, a prediction market developed by Decrypt’s parent company Dastan, have turned bearish on Ethereum and Solana. They now give Ethereum a 51.3% chance of falling to $1,500 before reaching $3,000, flipping a market that favored the upside at 61.3% a week ago. Solana’s odds of sinking to $40 before hitting $160 rose to 53.7%."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaENiZkNSRGNUNkQ5SWhKRTE1dkhMVUVCM3dSVWY4X2EzWFl2WkN1SnhKb3g0S0pCOW1YNWU4Und2MDdPenZRdUJoTWpaNzUzRGZkNWRCeWlOU0xITHQ4WTlLR2Z6dGhCMlZzSDl3YWFWYURqX0RBWEtWVlNWMXhuMnllWk13ckMxTEFwMkVWY1J1dmR5V1otVGVTUnVjLVlCT2dwaE1ILWktVXJia1pSbEtiNE1FM0JFenp0SW5na1M?oc=5",
+     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "22e0397f734ec8a6",
+     "published": "2026-11-01T18:08+00:00",
+     "text": "- Investors pull billions in funds from Binance after record $6.3bn hack The Guardian\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last CNN\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
     }
    ]
   },
@@ -2203,6 +2251,102 @@
      "id": "59a004003589daad",
      "published": "2026-11-01T16:44+00:00",
      "text": "- New York City Marathon: Andreas Almgren wins on debut as Sheila Chepkirui reclaims crown The Guardian\n- NYC Marathon 2026 Live Updates: Andreas Almgren of Sweden Wins First Title The New York Times\n- New York Marathon: Andreas Almgren wins men's race on his marathon debut BBC\n- NYC Marathon: Almgren wins men's race in debut, Chepkirui wins women's race ABC7 New York\n- Andreas Almgren - Men Athlete New York Road Runners"
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0pZQjJnN2U2VmdpVWVMQWJiUjRCUVBDTk5CcUY1Mm9vRTN1MXpYUTd6a3lLc21KU3VYZWVsMHRHdVRxTXZ1WVp4X3JQa2U2Q3hicU5FVjFETmtnTzNueENfazRxUHNLY3FEd2dkTGZhd1pLckhQTkRGampQRVNlTHk3eGJ3LTVQQXp5Yw?oc=5",
+     "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "08ff15310281ee89",
+     "published": "2026-11-01T17:33+00:00",
+     "text": "- New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part NPR\n- NYC Marathon 2026 Live Updates: Andreas Almgren of Sweden Wins First Title The New York Times\n- Sheila Chepkirui wins matchup of past champions in NYC Marathon, Andreas Almgren makes winning debut TribLIVE.com\n- NYC Marathon: Almgren wins men's race in debut, Chepkirui wins women's race ABC7 New York\n- New York Marathon: Andreas Almgren wins men's race on his marathon debut BBC"
+    }
+   ]
+  },
+  {
+   "id": "cd9eacfb7aa",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 6,
+   "title_hint": "Ukraine never agreed to pause strikes on Russian refineries, sources confirm",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Kyiv Independent",
+     "trust": 2,
+     "url": "https://kyivindependent.com/ukraine-never-agreed-to-pause-strikes-on-russian-refineries-sources-confirm",
+     "title": "Ukraine never agreed to pause strikes on Russian refineries, sources confirm",
+     "lang": "en",
+     "extra": {},
+     "id": "d9eacfb7aa08689a",
+     "published": "2026-10-31T16:04+00:00",
+     "text": "Ukraine's campaign targeting Russian oil refineries is ongoing, Ukrainian officials told the Kyiv Independent, rejecting reports that Kyiv had agreed to suspend the strikes.\nThe Wall Street Journal reported on Oct. 29, citing people familiar with the operations, that Ukraine had agreed to a \"pause\" in"
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
+     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "a60704bfe7ce95b2",
+     "published": "2026-11-01T11:35+00:00",
+     "text": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility\nReuters"
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/europe/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility",
+     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+     "lang": "en",
+     "extra": {},
+     "id": "a5b747a8f13973d1",
+     "published": "2026-11-01T11:36+00:00",
+     "text": "Nov 1 - Russian strikes left hundreds of thousands of Ukrainians without power on Sunday, President Volodymyr Zelenskiy said, while Russian authorities reported major damage to an industrial site following Ukrainian drone attacks on Nizhny Novgorod region."
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine: Russian attacks leave tens of thousands without power",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79822757_6.jpg"
+     },
+     "id": "2dc7dbffc3b9d3e2",
+     "published": "2026-11-01T14:13+00:00",
+     "text": "What you need to know\n-\nRussian strikes leave tens of thousands across Ukraine without power\n-\nMelania Trump-brokered ceasefire limited to Kherson region set to expire\n-\nOleshky civilians arrive in Ukrainian territory from Belarus\n-\nUkrainian President Volodymyr Zelenskyy in Istanbul for talks with Turkey's Recep Tayyip Erdogan\nHere is a roundup of events from Russia's war in Ukraine on Saturday and Sunday, October 31 and November 1:\nMelania Trump-brokered ceasefire for Kherson set to expire\nA ceasefire limited to the Kherson region in eastern Ukraine that was brokered by US First Lady Melania Trump was set to expire on Sunday evening, after neither Russia nor Ukraine announced an extension.\nThe rare truce, which began on Tuesday, is the longest since Russia launched its full-scale invasion of Ukraine in February 2022.\nThe ceasefire allowed for a humanitarian mission to the Russian-occupied city of Oleshky.\nWhile neither side reported violations of the ceasefire, Russian strikes continued overnight, with fresh power outages reported across Ukraine on Sunday, its energy ministry and president Volodymyr Zelenskyy said.\nUkrainian strikes on the Russian-occupied region of Luhansk killed at least four people since Sunday evening, Russian-backed local authorities said.\nRussian strikes leave vast numbers of Ukrainian homes without power\nHundreds of thousands of households lost electricity after overnight Russian strikes hit energy infrastructure in four Ukrainian regions, President Volodymyr Zelenskyy has said.\nIn a post on X, the Ukrainian president said energy infrastructure in four regions — Dnipro, Vinnytsia, Zhytomyr, and Khmelnytskyi — had been struck.\n\"Substations, transformers, and power lines that supply electricity to our people's homes were targeted. Repair crews are working everywhere. As of now, hundreds of thousands of families remain without power,\" Zelenskyy said Sunday.\nHe added that \"massive Russian attacks on Ukraine's other critical infrastructure are also continuing unabated.\"\n\"The intensity of the strikes is very high,\" he said, accusing Russia of seeking to exploit Ukraine's shortage of interceptors used to shoot down ballistic missiles.\nZelenskyy repeated his call to the US, Europe and Ukraine's other partners to do more to deliver missiles and other weaponry to better defend against the Russian attacks.\n\"These deliveries cannot take years. Russia is destroying infrastructure and killing our people right now, and it is betting on ballistic missiles this winter. Accordingly, decisions on air defense must also be implemented now,\" the Ukrainian president said.\nKremlin wants initial Ukraine talks without Europe\nRussia wants the opening rounds of renewed peace negotiations to involve only Moscow, Kyiv and Washington, Kremlin aide Yuri Ushakov said.\nAsked whether European countries should participate, Ushakov pointed to Russia's existing contacts with the United States.\n\"We have working contacts with the Americans,\" Interfax quoted him as saying. It was therefore \"logical\" for at least the first rounds to take place in a trilateral format, he added.\nRussia reports major damage after drone attack near refinery\nA drone attack caused \"significant damage\" to an industrial facility east of Moscow, a Russian governor said, following Ukrainian reports of a strike on a major oil refinery.\nNizhny Novgorod Governor Gleb Nikitin reported a \"massive drone attack\" overnight, saying more than 100 drones were destroyed. Preliminary informa"
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"
+     },
+     "id": "8f9ac44728b0b565",
+     "published": "2026-11-01T19:48+00:00",
+     "text": "- Published\nA humanitarian ceasefire in Ukraine's Kherson region that has allowed civilians to evacuate the Russian-occupied city of Oleshky is due to end on Sunday night.\nWhile the localised ceasefire on the front line has held since it was implemented last week, fighting has continued elsewhere.\nUkrainian President Volodymyr Zelensky said Russia had struck energy infrastructure in four regions overnight on Saturday into Sunday, leaving hundreds of thousands without power.\nAnother overnight strike killed two people, including a 13-year-old girl, in the Vinnytsia region, the State Emergency Service of Ukraine said.\nMeanwhile, Ukraine hit a major missile fuel producer in Russia's Rostov region, which caused a fire and damaged four production facilities, Zelensky said.\nIn Ukraine, repair works to restore power continued throughout the day. Most customers in the Dnipropetrovsk region had their connections restored by early evening, but more than 60,000 were still without power, the governor said.\nBecause of regular attacks on energy infrastructure, emergency power cuts have been introduced across the country. Even in the capital Kyiv, electricity is cut off for most of the day. Water supplies are also disrupted.\nZelensky said in a social media post that the intensity of Russian strikes has been \"extremely high\" over the past week, adding that Russia was \"trying to take maximum advantage of the shortage of ballistic missile interceptors\".\nHe added that \"every day\" Ukraine communicated its need for Patriot missiles - the only effective weapon for downing Russia's deadly ballistic missiles - to the US, Europe and other partners. He thanked countries for their support so far and longer-term commitments, but calling for more immediate aid.\nOn the front line, a localised ceasefire in the Kherson region was due to end at 22:59 Ukrainian time (21:00 GMT) on Sunday.\nThe limited pause in hostilities, which started on Tuesday, was brokered with the help of US First Lady Melania Trump along with Pope Leo XIV.\nIt was originally confined to the city of Oleshky, which has been occupied by Russia since the first days of the country's full-scale invasion of Ukraine in February 2022, and was soon after expanded across the wider region of Kherson.\nOleshky had been trapped on one side by the Dnipro river and the other by Russian forces, with routes out mined and subject to drone attack. Residents stuck there were suffering shortages of food, water and electricity.\nThe truce allowed for Oleskhy residents to evacuate if they wanted, and there were emotional scenes on Saturday when Ukrainians who had been trapped in the city were reunited with loved ones they had not seen for years.\nThere are Ukrainian military positions just 5km (3.1 miles) from Oleshky, but evacuees had to travel through Russian-occupied territory to southern Russia, where they flew to Belarus, before finally being driven across Ukraine's northern border.\nThe oldest evacuee was 94 years old, while the youngest was one, according to Dmytro Lubinets, Ukraine's human rights ombudsman."
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/commodities-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility-4989707",
+     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+     "lang": "en",
+     "extra": {},
+     "id": "47753301e2217d4c",
+     "published": "2026-11-01T20:12+00:00",
+     "text": ""
     }
    ]
   },
@@ -3253,41 +3397,6 @@
    ]
   },
   {
-   "id": "cb8b130f491",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo",
-     "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-     "lang": "en",
-     "extra": {},
-     "id": "b8b130f491190308",
-     "published": "2026-10-31T15:26+00:00",
-     "text": "Binance hack exceeds the next nine largest crypto exploits combined. Source: Glassnode\nBy comparison, following the Bybit hack in 2025, Bitcoin fell roughly 5% from nearly $100,000 to around $95,000 amid the breach and broader market volatility, according to a Bitfinex market report.\nAnchorage Digital data cited by CNBC put Bitcoin’s average decline in the first 24 hours after previous crypto exchange exploits at 8.3%.\nBlockaid CEO Ido Ben-Natan said the attackers appeared to have compromised Binance’s transaction signing process. Binance said Friday that it had found no evidence of leaked wallet private keys, though its investigation remained ongoing.\nBlockaid’s analysis identified an Ethereum transaction containing 50 signed authorizations covering different transaction counts. A matching authorization allowed attacker-controlled code to operate through the wallet. Ben-Natan argued that checks before signing could have blocked the malicious authorization.\nMagazine: Tampered Ledger reported in Singapore a month before news broke: Asia Express"
-    },
-    {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-     "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg"
-     },
-     "id": "1078f846b2095338",
-     "published": "2026-11-01T16:01+00:00",
-     "text": "In brief\n- U.S. spot Bitcoin ETFs shed $643.2 million on Friday, their biggest outflow of October, in the first session after Thursday’s $6.4 billion Binance hack.\n- Ethereum ETFs extended a five-day outflow streak to about $431 million, and Solana ETFs lost about $72 million over the week.\n- Bitcoin fell about 4% Friday before steadying near $77,520 Saturday, while Myriad traders turned bearish on Ethereum and Solana.\nThe first real test of how ETF investors would react to the largest crypto hack in history came back red.\nU.S. spot Bitcoin ETFs shed $643.2 million on Friday, according to Decrypt’s ETF tracker, their biggest single-day outflow of October. It was the funds’ first full session since attackers began draining roughly $6.4 billion from Binance at 4:05 p.m. ET Thursday, after U.S. markets had closed. Thursday’s $17.2 million in inflows predated the theft.\nThe selling erased a four-day, $441 million inflow run, leaving the funds down about $202 million for the week and roughly $516 million for October. Cumulative net inflows since launch slipped to $57.4 billion, with total net assets at $103.2 billion.\nEthereum and Solana ETFs fared worse relative to their size. Ethereum funds lost $155.7 million on Friday, extending a five-day outflow streak to about $431 million and pushing October losses to roughly $1.61 billion. Solana ETFs shed $10.8 million, their fifth straight day of outflows, totaling about $72 million for the week. They logged net inflows on just two days all month.\nSpot crypto ETFs hold the underlying asset, such as Bitcoin or Ethereum, and trade on stock exchanges like ordinary shares, giving investors exposure through a regular brokerage account.\nBitcoin funds have drawn $57.4 billion in net inflows since debuting in January 2024, and Ethereum funds have taken in $12.2 billion since launching that July. Because issuers report flows daily and much of the money comes from institutions and financial advisers, the figures have become a closely watched gauge of investor sentiment.\nCrypto markets initially appeared to take the Binance hack largely in stride, considering the scale of the theft. Bitcoin fell about 4% to roughly $76,400 on Friday, and more than $1.3 billion in leveraged positions were liquidated. It’s a sharp drop, but a far smaller one than the nearly 11% plunge after a failed attack on Binance in 2018.\nBinance has pledged to cover all losses with company funds and an emergency reserve, while Tether and Circle froze more than $2.3 billion in stolen stablecoins. Some Wall Street firms even urged clients to buy crypto-linked stocks on the potential weakness in markets.\nBy Saturday, Bitcoin had steadied at about $77,520, up 0.5% over 24 hours but down 3.3% on the week. Ethereum traded near $2,251, down 3.9% for the week, and Solana near $96, down 4.5%. Total crypto market cap held at about $2.7 trillion.\nMacro headwinds remain in play. The Federal Reserve held rates at 3.75% to 4% on Wednesday, but two officials voted for a hike, and traders had priced odds above 70% for an increase in December.\nTraders on Myriad, a prediction market developed by Decrypt’s parent company Dastan, have turned bearish on Ethereum and Solana. They now give Ethereum a 51.3% chance of falling to $1,500 before reaching $3,000, flipping a market that favored the upside at 61.3% a week ago. Solana’s odds of sinking to $40 before hitting $160 rose to 53.7%."
-    }
-   ]
-  },
-  {
    "id": "c8703aea988",
    "kind": "news",
    "score": 15.0,
@@ -3332,78 +3441,6 @@
      "id": "ada8d8f1b1c9e59e",
      "published": "2026-11-01T00:13+00:00",
      "text": "submitted by\n/u/Logical_Welder3467\nto\nr/technology\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "cd891982128",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/news/world/americas/donald-trump-zohran-mamdani-bronx-new-york-thomas-b3076961.html",
-     "title": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
-     "lang": "en",
-     "extra": {},
-     "id": "d89198212802645a",
-     "published": "2026-10-31T21:48+00:00",
-     "text": "New York City Mayor Zohran Mamdani says President Donald Trump has agreed to grant a visa to the mother of a 15-year-old immigrant from Ghana who was shot to death earlier this week"
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/americas/trump-agrees-to-grant-visa-to-mother-of-new-york-teen-killed-in-shooting-new-york-city-mayor/4107691",
-     "title": "Trump agrees to grant visa to mother of New York teen killed in shooting: New York City mayor",
-     "lang": "en",
-     "extra": {},
-     "id": "8027fe1f1d543a92",
-     "published": "2026-10-31T23:13+00:00",
-     "text": "Javits Frimpong, 15, who moved from Ghana to New York 1 year ago, was fatally shot while on his way to school"
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/trump-grants-visa-for-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
-     "title": "Trump grants visa for mother of Ghanaian boy killed in NYC — Mamdani",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/78815472_6.jpg"
-     },
-     "id": "8fb408b80f4bbeee",
-     "published": "2026-11-01T03:12+00:00",
-     "text": "New York City Mayor Zohran Mamdani said Saturday that US President Donald Trump had agreed to grant a visa to the mother of a 15-year-old boy who was killed in a neighborhood in Bronx earlier this week.\nJavits Frimpong moved to New York from Ghana last year to be with his father and begin a new life in the US, according to Representative Ritchie Torres, a Democrat from the Bronx.\nFrimpong was shot in the abdomen on Thursday morning on his way to school and later died in the hospital, according to New York City police.\nThere have been no arrests in the case so far, with police investigating the shooting.\nMamdani says he spoke to Trump\n\"I just got off the phone with President Trump and he has agreed to grant her visa immediately,\" Mamdani posted on X.\n\"The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,\" he wrote. \"Javits Frimpong's mother deserves to say goodbye to her son in person.\"\nThe killing led to an outpouring of grief in New York, with Torres writing, \"Our entire borough is mourning a young man who should have had his whole future ahead of him.\"\nThe White House is yet to respond to the news.\nTeen was bullied in school, father says\nThomas Frimpong remembered his son as a quiet boy, and said he was bullied at school.\nGhana's Foreign Minister Sam Okudzeto Ablakwa thanked Mamdani and Trump in a post on X.\nHe said Ghanaian officials were coordinating with Javits Frimpong's mother to assist her with the visa application process."
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
-     "title": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/78815472_6.jpg"
-     },
-     "id": "2fef5c52e6c632e3",
-     "published": "2026-11-01T03:12+00:00",
-     "text": "New York City Mayor Zohran Mamdani said Saturday that US President Donald Trump had agreed to grant a visa to the mother of a 15-year-old boy who was killed in a neighborhood in Bronx earlier this week.\nJavits Frimpong moved to New York from Ghana last year to be with his father and begin a new life in the US, according to Representative Ritchie Torres, a Democrat from the Bronx.\nFrimpong was shot in the abdomen on Thursday morning on his way to school and later died in the hospital, according to New York City police.\nThere have been no arrests in the case so far, with police investigating the shooting.\nMamdani says he spoke to Trump\n\"I just got off the phone with President Trump and he has agreed to grant her visa immediately,\" Mamdani posted on X.\n\"The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,\" he wrote. \"Javits Frimpong's mother deserves to say goodbye to her son in person.\"\nThe killing led to an outpouring of grief in New York, with Torres writing, \"Our entire borough is mourning a young man who should have had his whole future ahead of him.\"\nThe White House is yet to comment on the Trump-Mamdani phone call.\nTeen was bullied in school, father says\nThomas Frimpong remembered his son as a quiet boy and said he was bullied in school by two boys.\nGhana's Foreign Minister Sam Okudzeto Ablakwa also thanked Mamdani and Trump in a post on X.\nHe said Ghanaian officials were coordinating with Javits Frimpong's mother to assist her with the visa application process."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss",
-     "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26304768494467-1793515779.jpg?resize=1920%2C1440"
-     },
-     "id": "ab6170c4a02c8c83",
-     "published": "2026-11-01T08:18+00:00",
-     "text": "New York Mayor Zohran Mamdani says after a phone call with United States President Donald Trump that the mother of a 15-year-old Ghanaian boy who was shot dead in the Bronx will be granted a visa.\nMamdani wrote in a post on X on Saturday that he had spoken with Trump about Javits Frimpong, whose mother is seeking to travel to New York to say goodbye to her son.\nRecommended Stories\nlist of 3 items- list 1 of 3Zohran Mamdani elected as New York City mayor in historic win\n- list 2 of 3New York mayor Mamdani sues to block $10,000 teaching aide bonuses\n- list 3 of 3The murder of Javits Frimpong, a bullied schoolboy in The Bronx\nThe US president “has agreed to grant her visa immediately”, the mayor wrote.\n“The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,” he wrote.\nThere was no immediate comment from Trump.\nCCTV footage that captured the last moments of Frimpong’s life showed him being chased by three other teens on Thursday morning as he was on his way to school. He was shot in his abdomen and died the same day in hospital. Thousands of people attended vigils held for the teenager across the city.\nThe 15-year-old had told his father he was bullied at school. Thomas Frimpong, Javits’s father, called on the police to help him “find justice for my son”. Police have said they are investigating, but no arrests have been made yet.\nJavits’s parents moved him to the US a year ago in the hopes of providing him a better life. Congressman Richie Torres, who represents the Bronx, wrote on social media that “our entire borough is mourning a young man who should have had his whole future ahead of him.”\nGhanaian Foreign Minister Sam Okudzeto Ablakwa stated on social media that Ghanaian officials are “coordinating with local authorities” and helping Javits’s mother with her visa application. Visa applications from a number of African countries have been severely limited under the Trump administration."
     }
    ]
   },
@@ -3666,43 +3703,6 @@
      "id": "c7e2eefe1578ae6d",
      "published": "2026-11-01T16:16+00:00",
      "text": "The AI coding race is moving beyond chatbots that write code when developers prompt them to. DeepSeek wants its next agent to be a little more aggressive. The Chinese AI company has released a prototype called Super-Agent, an open-source coding tool that listens in on developer group chats, identifies coding problems, and suggests solutions without waiting to be called.\nThe move puts DeepSeek in more direct competition with Anthropic’s Claude Code and OpenAI’s Codex, two prominent names in the rapidly-growing market for AI-powered software development. The bigger goal is clear: to design AI agents to be less assistants waiting for instructions, and more members of a development team who can take initiative.\nDeepSeek’s coding agents are going to stop waiting for prompts\nDeepSeek’s Harness team has launched Super-Agent, which is designed to scan developer discussions for feedback on coding problems and recommend possible solutions. The company says its goal is to provide the maximum value with the minimum human attention.\nThat’s a significant departure from the familiar chatbot workflow. Typically, developers describe a problem, provide some context, and then ask the AI tool to write or fix code. DeepSeek’s approach attempts to bring the agent closer to the conversations where those problems originate in the first place.\nThe technology behind this is called the agent harness, a software scaffolding that wraps around a large language model and equips it with the tools to take on more complex tasks. DeepSeek set up its Harness team earlier this year to build agents that can provide the coding services of leading US AI firms.\nBut this is a prototype, not proof that DeepSeek has already surpassed established rivals. The announcement doesn’t set the bar for how reliable Super-Agent is for complex development work, or how ready it is for deployment at scale.\nClaude Code and OpenAI Codex have serious competition to keep an eye on\nAnthropic’s Claude Code is already helping developers navigate codebases, debug issues, write code, run tests, and make pull requests. And not just code, but agent-based workflows across software development, including parallel tasks and tools for reviewing code, have been demonstrated by Codex at OpenAI.\nNow DeepSeek is moving into similar territory, but Super-Agent gets an interesting angle by focusing on proactively monitoring developer conversations. Rather than simply answering a developer’s question, it tries to figure out when a developer might need help.\nThis is important because the next phase of AI competition is increasingly about agents that can automate entire chunks of work, not just generate impressive answers. OpenAI, Anthropic and DeepSeek are all pursuing that opportunity.\nDeepSeek is also getting ready for a big financial push. In its latest fundraising round ahead of a planned initial public offering, the company has raised about 100 billion yuan ($15 billion), Bloomberg reported.\nMore competition could eventually lead to more capable and affordable coding tools for developers. But for now, Super-Agent is an early sign of the direction the industry is going – not a reason to uninstall Claude Code or Codex just yet."
-    }
-   ]
-  },
-  {
-   "id": "cfd70ae0972",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Korea Herald",
-     "trust": 2,
-     "url": "https://koreaherald.com/article/10921777",
-     "title": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/01/news-p.v1.20261101.dd63fcfa602a4d7fb13d556e35b55fee_P1.jpg"
-     },
-     "id": "fd70ae0972bf9cf4",
-     "published": "2026-11-01T06:23+00:00",
-     "text": "The threat posed by North Korea online is again in focus, following a record cryptocurrency heist potentially linked to Pyongyang.\nThe US Federal Bureau of Investigation said Saturday that North Korea was responsible for the theft of more than $6 billion in virtual assets from Binance, the world's largest cryptocurrency exchange, on or around Oct. 29.\nThe theft is believed to be the largest single cryptocurrency heist on record.\nThe FBI attributed the operation to TraderTraitor, its name for a North Korean cyber campaign involved in cryptocurrency theft, and said the stolen assets were being converted primarily into ether then laundered through decentralized finance and instant-swap services.\nEther, on the Ethereum blockchain, is the world's second-largest cryptocurrency by market capitalization.\nOn Saturday, US President Donald Trump said Washington was still looking into whether North Korea was behind the attack and that he would raise the issue with Pyongyang if its involvement was confirmed.\n\"We're learning about it. We don't know if it's North Korea — but if it is, we'll talk to North Korea about it,\" Trump told reporters at Mar-a-Lago in Florida.\nThe FBI meanwhile urged cryptocurrency exchanges and other virtual asset service providers to block transactions involving digital wallet addresses linked to the stolen funds.\nActivity traced to North Korean internet protocol addresses has also put South Korea's financial sector on alert.\nSouth Korean financial authorities recently alerted banks, securities firms and cryptocurrency exchanges after about 4.4 million scanning attempts targeting local financial institutions were detected from IP addresses assigned to North Korea beginning at 3 a.m. on Oct. 21.\nNo actual breach linked to those addresses has been confirmed. Authorities, however, said the activity appeared aimed at identifying open network ports or security vulnerabilities that could later be exploited, prompting financial firms to review access logs and strengthen real-time monitoring.\nThe activity also coincided with indications that hackers suspected of links to North Korea were preparing broader attacks against governments and financial institutions.\nSingapore-based cybersecurity firm Cyfirma said on Oct. 22 that it had detected Korean-speaking operators discussing attacks using two critical vulnerabilities in PHP, a widely used server-side programming language.\nThe firm said government agencies, banks and other financial institutions were among the operators' highest-priority targets, with South Korea, the US and Japan among the countries discussed.\nCyfirma also pointed to possible links to the Lazarus Group ecosystem, a North Korean state-linked hacking network known for financial theft and espionage.\nNorth Korea has a long history of targeting South Korean institutions.\nIn 2024, South Korean police said Lazarus and Andariel in 2019 had stolen 342,000 ether, worth about 58 billion won ($43.5 million) at the time, from South Korean cryptocurrency exchange Upbit.\nIn March 2013, a major cyberattack attributed by South Korean authorities to North Korea disrupted the networks of Shinhan Bank, Nonghyup Bank and Jeju Bank, knocking out ATMs, online banking and other services.\nThe emergence of artificial intelligence appears to have further expanded the scale and speed of North Korea's cyber operations.\nMicrosoft Threat Intelligence said in a report released Thursday that three of eight major North Korean threat groups it examine"
-    },
-    {
-     "source": "The Verge",
-     "trust": 2,
-     "url": "https://theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-     "title": "North Korea linked to massive Binance crypto heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-     },
-     "id": "b9273cfbb5b037df",
-     "published": "2026-11-01T14:33+00:00",
-     "text": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity “TraderTraitor” and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says:\nNorth Korea linked to massive Binance crypto heist\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nNorth Korea Responsible for $6 Billion+ Binance Attack\nThe Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\nAs expected, Binance reopened customer withdrawals today after freezing them in the immediate aftermath of the hack."
     }
    ]
   },
@@ -4241,113 +4241,6 @@
    ]
   },
   {
-   "id": "cba2772ba96",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnR3cWJ4N0d6YThVNThCSlgtOVgxMGdPemZPNXRkeE4xV1lHc3JXb2NxRFdzRzJWVkhTdWlwX01rQTA4UUdjaWVtc2RjczJSa0hZVzBfdGxncEZUSFNvbGRyYy1lYzQ4eTQyQjRCbGM5X05jX0xJTnFCX1JiUzF6c0VTRERHMWZ3cDQ3S2ljZnJIMHhOWmhWcGZ0ck1kZWdkb1RydGQ5dw?oc=5",
-     "title": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record",
-     "lang": "en",
-     "extra": {},
-     "id": "ba2772ba96ae86f1",
-     "published": "2026-10-31T12:15+00:00",
-     "text": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record\nNewsweek"
-    },
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://newsweek.com/map-reveals-states-where-early-voting-is-surging-days-before-midterms-12646178",
-     "title": "Map Reveals States Where Early Voting Is Surging Days Before Midterms",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.newsweek.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-01T141253-553.jpg?w=1200&crop=1"
-     },
-     "id": "82755c907e4d6c1f",
-     "published": "2026-11-01T14:36+00:00",
-     "text": "Millions of Americans have already cast ballots in midterm elections that will determine control of Congress, with several states reporting especially high turnout as early in-person voting enters its final days.\nBy Saturday night, more than 52.7 million early votes had been cast nationally, including approximately 29.1 million in-person votes, according to the University of Florida Election Lab.\nWhich States Have Cast the Most Early Votes?\nRead More on Politics\nTexas, California, and Florida lead the pack in terms of early votes, with 7,630,789, 5,504,307 and 5,148,276 cast in each state respectively, according to the Election Lab’s most recent figures.\nGeorgia and North Carolina follow, with 2,823,265 and 2,612,250, respectively.\nSome states have seen early voting reach record levels. More than 2.8 million voted early in Georgia before its period ended on Friday, the Election Lab’s figures show, surpassing a previous midterm record set in 2022 of roughly 2.5 million early ballots.\nIn South Carolina, the state’s Election Commission announced Monday a new record had been set for early voting in a gubernatorial election, with the nearly 564,000 ballots cast as of 3 p.m. local time that day surpassing the 561,563 cast early in 2022. The state’s all-time record was set in the 2024 Presidential election, when 1,471,663 ballots were cast early, according to South Carolina’s Election Commission.\nThe Election Lab’s latest figures for South Carolina show 986,460 early votes have been cast.\nEarly voting has already reached a national midterm record, with the 52.7 million ballots cast before Election Day, surpassing the previous high of 45.9 million set in 2022.\nAs Newsweek previously reported, registered Democrats lead among early voters in the available data, although only slightly more than half of states report registration breakdowns, limiting how far the figures can be treated as representative of nationwide trends.\nThe figures come as early voting deadlines arrive across the country, and in some states they have already ended. Forty-seven states and the District of Columbia allow for universal early voting, with Alabama, Mississippi and New Hampshire the exceptions.\nEarly in-person voting schedules vary considerably by state, according to the Center for Election Innovation & Research (CEIR). Some concluded on October 27, while 14 states continue through November 2. Eight states allow or require some local early-voting sites to remain open on Election Day, according to CEIR.\nReading the Early-Voting Numbers\nMichael McDonald, the University of Florida political science professor who runs the Election Lab, cautioned in comments to TIME against treating early-voting data as a predictor of election outcomes. He said the figures can nevertheless offer valuable information about voting behavior.\n\"Once you start seeing consistency across multiple days of voting and across multiple states, it starts giving us more confidence that whatever we're seeing in terms of relative engagement, that's likely going to carry through to election day,\" he said.\nContact Newsweek editors on this story: Daniel Orton and Trevor Davies"
-    }
-   ]
-  },
-  {
-   "id": "cd9eacfb7aa",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Ukraine never agreed to pause strikes on Russian refineries, sources confirm",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Kyiv Independent",
-     "trust": 2,
-     "url": "https://kyivindependent.com/ukraine-never-agreed-to-pause-strikes-on-russian-refineries-sources-confirm",
-     "title": "Ukraine never agreed to pause strikes on Russian refineries, sources confirm",
-     "lang": "en",
-     "extra": {},
-     "id": "d9eacfb7aa08689a",
-     "published": "2026-10-31T16:04+00:00",
-     "text": "Ukraine's campaign targeting Russian oil refineries is ongoing, Ukrainian officials told the Kyiv Independent, rejecting reports that Kyiv had agreed to suspend the strikes.\nThe Wall Street Journal reported on Oct. 29, citing people familiar with the operations, that Ukraine had agreed to a \"pause\" in"
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
-     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "a60704bfe7ce95b2",
-     "published": "2026-11-01T11:35+00:00",
-     "text": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility\nReuters"
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/europe/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility",
-     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
-     "lang": "en",
-     "extra": {},
-     "id": "a5b747a8f13973d1",
-     "published": "2026-11-01T11:36+00:00",
-     "text": "Nov 1 - Russian strikes left hundreds of thousands of Ukrainians without power on Sunday, President Volodymyr Zelenskiy said, while Russian authorities reported major damage to an industrial site following Ukrainian drone attacks on Nizhny Novgorod region."
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
-     "title": "Ukraine: Russian attacks leave tens of thousands without power",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79822757_6.jpg"
-     },
-     "id": "2dc7dbffc3b9d3e2",
-     "published": "2026-11-01T14:13+00:00",
-     "text": "What you need to know\n-\nRussian strikes leave tens of thousands across Ukraine without power\n-\nMelania Trump-brokered ceasefire limited to Kherson region set to expire\n-\nOleshky civilians arrive in Ukrainian territory from Belarus\n-\nUkrainian President Volodymyr Zelenskyy in Istanbul for talks with Turkey's Recep Tayyip Erdogan\nHere is a roundup of events from Russia's war in Ukraine on Saturday and Sunday, October 31 and November 1:\nMelania Trump-brokered ceasefire for Kherson set to expire\nA ceasefire limited to the Kherson region in eastern Ukraine that was brokered by US First Lady Melania Trump was set to expire on Sunday evening, after neither Russia nor Ukraine announced an extension.\nThe rare truce, which began on Tuesday, is the longest since Russia launched its full-scale invasion of Ukraine in February 2022.\nThe ceasefire allowed for a humanitarian mission to the Russian-occupied city of Oleshky.\nWhile neither side reported violations of the ceasefire, Russian strikes continued overnight, with fresh power outages reported across Ukraine on Sunday, its energy ministry and president Volodymyr Zelenskyy said.\nUkrainian strikes on the Russian-occupied region of Luhansk killed at least four people since Sunday evening, Russian-backed local authorities said.\nRussian strikes leave vast numbers of Ukrainian homes without power\nHundreds of thousands of households lost electricity after overnight Russian strikes hit energy infrastructure in four Ukrainian regions, President Volodymyr Zelenskyy has said.\nIn a post on X, the Ukrainian president said energy infrastructure in four regions — Dnipro, Vinnytsia, Zhytomyr, and Khmelnytskyi — had been struck.\n\"Substations, transformers, and power lines that supply electricity to our people's homes were targeted. Repair crews are working everywhere. As of now, hundreds of thousands of families remain without power,\" Zelenskyy said Sunday.\nHe added that \"massive Russian attacks on Ukraine's other critical infrastructure are also continuing unabated.\"\n\"The intensity of the strikes is very high,\" he said, accusing Russia of seeking to exploit Ukraine's shortage of interceptors used to shoot down ballistic missiles.\nZelenskyy repeated his call to the US, Europe and Ukraine's other partners to do more to deliver missiles and other weaponry to better defend against the Russian attacks.\n\"These deliveries cannot take years. Russia is destroying infrastructure and killing our people right now, and it is betting on ballistic missiles this winter. Accordingly, decisions on air defense must also be implemented now,\" the Ukrainian president said.\nKremlin wants initial Ukraine talks without Europe\nRussia wants the opening rounds of renewed peace negotiations to involve only Moscow, Kyiv and Washington, Kremlin aide Yuri Ushakov said.\nAsked whether European countries should participate, Ushakov pointed to Russia's existing contacts with the United States.\n\"We have working contacts with the Americans,\" Interfax quoted him as saying. It was therefore \"logical\" for at least the first rounds to take place in a trilateral format, he added.\nRussia reports major damage after drone attack near refinery\nA drone attack caused \"significant damage\" to an industrial facility east of Moscow, a Russian governor said, following Ukrainian reports of a strike on a major oil refinery.\nNizhny Novgorod Governor Gleb Nikitin reported a \"massive drone attack\" overnight, saying more than 100 drones were destroyed. Preliminary informa"
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"
-     },
-     "id": "8f9ac44728b0b565",
-     "published": "2026-11-01T19:48+00:00",
-     "text": "- Published\nA humanitarian ceasefire in Ukraine's Kherson region that has allowed civilians to evacuate the Russian-occupied city of Oleshky is due to end on Sunday night.\nWhile the localised ceasefire on the front line has held since it was implemented last week, fighting has continued elsewhere.\nUkrainian President Volodymyr Zelensky said Russia had struck energy infrastructure in four regions overnight on Saturday into Sunday, leaving hundreds of thousands without power.\nAnother overnight strike killed two people, including a 13-year-old girl, in the Vinnytsia region, the State Emergency Service of Ukraine said.\nMeanwhile, Ukraine hit a major missile fuel producer in Russia's Rostov region, which caused a fire and damaged four production facilities, Zelensky said.\nIn Ukraine, repair works to restore power continued throughout the day. Most customers in the Dnipropetrovsk region had their connections restored by early evening, but more than 60,000 were still without power, the governor said.\nBecause of regular attacks on energy infrastructure, emergency power cuts have been introduced across the country. Even in the capital Kyiv, electricity is cut off for most of the day. Water supplies are also disrupted.\nZelensky said in a social media post that the intensity of Russian strikes has been \"extremely high\" over the past week, adding that Russia was \"trying to take maximum advantage of the shortage of ballistic missile interceptors\".\nHe added that \"every day\" Ukraine communicated its need for Patriot missiles - the only effective weapon for downing Russia's deadly ballistic missiles - to the US, Europe and other partners. He thanked countries for their support so far and longer-term commitments, but calling for more immediate aid.\nOn the front line, a localised ceasefire in the Kherson region was due to end at 22:59 Ukrainian time (21:00 GMT) on Sunday.\nThe limited pause in hostilities, which started on Tuesday, was brokered with the help of US First Lady Melania Trump along with Pope Leo XIV.\nIt was originally confined to the city of Oleshky, which has been occupied by Russia since the first days of the country's full-scale invasion of Ukraine in February 2022, and was soon after expanded across the wider region of Kherson.\nOleshky had been trapped on one side by the Dnipro river and the other by Russian forces, with routes out mined and subject to drone attack. Residents stuck there were suffering shortages of food, water and electricity.\nThe truce allowed for Oleskhy residents to evacuate if they wanted, and there were emotional scenes on Saturday when Ukrainians who had been trapped in the city were reunited with loved ones they had not seen for years.\nThere are Ukrainian military positions just 5km (3.1 miles) from Oleshky, but evacuees had to travel through Russian-occupied territory to southern Russia, where they flew to Belarus, before finally being driven across Ukraine's northern border.\nThe oldest evacuee was 94 years old, while the youngest was one, according to Dmytro Lubinets, Ukraine's human rights ombudsman."
-    }
-   ]
-  },
-  {
    "id": "c832cd7aba9",
    "kind": "news",
    "score": 14.0,
@@ -4523,6 +4416,78 @@
    ]
   },
   {
+   "id": "cd891982128",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/world/americas/donald-trump-zohran-mamdani-bronx-new-york-thomas-b3076961.html",
+     "title": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
+     "lang": "en",
+     "extra": {},
+     "id": "d89198212802645a",
+     "published": "2026-10-31T21:48+00:00",
+     "text": "New York City Mayor Zohran Mamdani says President Donald Trump has agreed to grant a visa to the mother of a 15-year-old immigrant from Ghana who was shot to death earlier this week"
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/americas/trump-agrees-to-grant-visa-to-mother-of-new-york-teen-killed-in-shooting-new-york-city-mayor/4107691",
+     "title": "Trump agrees to grant visa to mother of New York teen killed in shooting: New York City mayor",
+     "lang": "en",
+     "extra": {},
+     "id": "8027fe1f1d543a92",
+     "published": "2026-10-31T23:13+00:00",
+     "text": "Javits Frimpong, 15, who moved from Ghana to New York 1 year ago, was fatally shot while on his way to school"
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/trump-grants-visa-for-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
+     "title": "Trump grants visa for mother of Ghanaian boy killed in NYC — Mamdani",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/78815472_6.jpg"
+     },
+     "id": "8fb408b80f4bbeee",
+     "published": "2026-11-01T03:12+00:00",
+     "text": "New York City Mayor Zohran Mamdani said Saturday that US President Donald Trump had agreed to grant a visa to the mother of a 15-year-old boy who was killed in a neighborhood in Bronx earlier this week.\nJavits Frimpong moved to New York from Ghana last year to be with his father and begin a new life in the US, according to Representative Ritchie Torres, a Democrat from the Bronx.\nFrimpong was shot in the abdomen on Thursday morning on his way to school and later died in the hospital, according to New York City police.\nThere have been no arrests in the case so far, with police investigating the shooting.\nMamdani says he spoke to Trump\n\"I just got off the phone with President Trump and he has agreed to grant her visa immediately,\" Mamdani posted on X.\n\"The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,\" he wrote. \"Javits Frimpong's mother deserves to say goodbye to her son in person.\"\nThe killing led to an outpouring of grief in New York, with Torres writing, \"Our entire borough is mourning a young man who should have had his whole future ahead of him.\"\nThe White House is yet to respond to the news.\nTeen was bullied in school, father says\nThomas Frimpong remembered his son as a quiet boy, and said he was bullied at school.\nGhana's Foreign Minister Sam Okudzeto Ablakwa thanked Mamdani and Trump in a post on X.\nHe said Ghanaian officials were coordinating with Javits Frimpong's mother to assist her with the visa application process."
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
+     "title": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/78815472_6.jpg"
+     },
+     "id": "2fef5c52e6c632e3",
+     "published": "2026-11-01T03:12+00:00",
+     "text": "New York City Mayor Zohran Mamdani said Saturday that US President Donald Trump had agreed to grant a visa to the mother of a 15-year-old boy who was killed in a neighborhood in Bronx earlier this week.\nJavits Frimpong moved to New York from Ghana last year to be with his father and begin a new life in the US, according to Representative Ritchie Torres, a Democrat from the Bronx.\nFrimpong was shot in the abdomen on Thursday morning on his way to school and later died in the hospital, according to New York City police.\nThere have been no arrests in the case so far, with police investigating the shooting.\nMamdani says he spoke to Trump\n\"I just got off the phone with President Trump and he has agreed to grant her visa immediately,\" Mamdani posted on X.\n\"The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,\" he wrote. \"Javits Frimpong's mother deserves to say goodbye to her son in person.\"\nThe killing led to an outpouring of grief in New York, with Torres writing, \"Our entire borough is mourning a young man who should have had his whole future ahead of him.\"\nThe White House is yet to comment on the Trump-Mamdani phone call.\nTeen was bullied in school, father says\nThomas Frimpong remembered his son as a quiet boy and said he was bullied in school by two boys.\nGhana's Foreign Minister Sam Okudzeto Ablakwa also thanked Mamdani and Trump in a post on X.\nHe said Ghanaian officials were coordinating with Javits Frimpong's mother to assist her with the visa application process."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss",
+     "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26304768494467-1793515779.jpg?resize=1920%2C1440"
+     },
+     "id": "ab6170c4a02c8c83",
+     "published": "2026-11-01T08:18+00:00",
+     "text": "New York Mayor Zohran Mamdani says after a phone call with United States President Donald Trump that the mother of a 15-year-old Ghanaian boy who was shot dead in the Bronx will be granted a visa.\nMamdani wrote in a post on X on Saturday that he had spoken with Trump about Javits Frimpong, whose mother is seeking to travel to New York to say goodbye to her son.\nRecommended Stories\nlist of 3 items- list 1 of 3Zohran Mamdani elected as New York City mayor in historic win\n- list 2 of 3New York mayor Mamdani sues to block $10,000 teaching aide bonuses\n- list 3 of 3The murder of Javits Frimpong, a bullied schoolboy in The Bronx\nThe US president “has agreed to grant her visa immediately”, the mayor wrote.\n“The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,” he wrote.\nThere was no immediate comment from Trump.\nCCTV footage that captured the last moments of Frimpong’s life showed him being chased by three other teens on Thursday morning as he was on his way to school. He was shot in his abdomen and died the same day in hospital. Thousands of people attended vigils held for the teenager across the city.\nThe 15-year-old had told his father he was bullied at school. Thomas Frimpong, Javits’s father, called on the police to help him “find justice for my son”. Police have said they are investigating, but no arrests have been made yet.\nJavits’s parents moved him to the US a year ago in the hopes of providing him a better life. Congressman Richie Torres, who represents the Bronx, wrote on social media that “our entire borough is mourning a young man who should have had his whole future ahead of him.”\nGhanaian Foreign Minister Sam Okudzeto Ablakwa stated on social media that Ghanaian officials are “coordinating with local authorities” and helping Javits’s mother with her visa application. Visa applications from a number of African countries have been severely limited under the Trump administration."
+    }
+   ]
+  },
+  {
    "id": "c0629994f45",
    "kind": "news",
    "score": 14.0,
@@ -4578,6 +4543,43 @@
      "id": "5c29874acc90c064",
      "published": "2026-11-01T09:28+00:00",
      "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
+    }
+   ]
+  },
+  {
+   "id": "cfd70ae0972",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Korea Herald",
+     "trust": 2,
+     "url": "https://koreaherald.com/article/10921777",
+     "title": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/01/news-p.v1.20261101.dd63fcfa602a4d7fb13d556e35b55fee_P1.jpg"
+     },
+     "id": "fd70ae0972bf9cf4",
+     "published": "2026-11-01T06:23+00:00",
+     "text": "The threat posed by North Korea online is again in focus, following a record cryptocurrency heist potentially linked to Pyongyang.\nThe US Federal Bureau of Investigation said Saturday that North Korea was responsible for the theft of more than $6 billion in virtual assets from Binance, the world's largest cryptocurrency exchange, on or around Oct. 29.\nThe theft is believed to be the largest single cryptocurrency heist on record.\nThe FBI attributed the operation to TraderTraitor, its name for a North Korean cyber campaign involved in cryptocurrency theft, and said the stolen assets were being converted primarily into ether then laundered through decentralized finance and instant-swap services.\nEther, on the Ethereum blockchain, is the world's second-largest cryptocurrency by market capitalization.\nOn Saturday, US President Donald Trump said Washington was still looking into whether North Korea was behind the attack and that he would raise the issue with Pyongyang if its involvement was confirmed.\n\"We're learning about it. We don't know if it's North Korea — but if it is, we'll talk to North Korea about it,\" Trump told reporters at Mar-a-Lago in Florida.\nThe FBI meanwhile urged cryptocurrency exchanges and other virtual asset service providers to block transactions involving digital wallet addresses linked to the stolen funds.\nActivity traced to North Korean internet protocol addresses has also put South Korea's financial sector on alert.\nSouth Korean financial authorities recently alerted banks, securities firms and cryptocurrency exchanges after about 4.4 million scanning attempts targeting local financial institutions were detected from IP addresses assigned to North Korea beginning at 3 a.m. on Oct. 21.\nNo actual breach linked to those addresses has been confirmed. Authorities, however, said the activity appeared aimed at identifying open network ports or security vulnerabilities that could later be exploited, prompting financial firms to review access logs and strengthen real-time monitoring.\nThe activity also coincided with indications that hackers suspected of links to North Korea were preparing broader attacks against governments and financial institutions.\nSingapore-based cybersecurity firm Cyfirma said on Oct. 22 that it had detected Korean-speaking operators discussing attacks using two critical vulnerabilities in PHP, a widely used server-side programming language.\nThe firm said government agencies, banks and other financial institutions were among the operators' highest-priority targets, with South Korea, the US and Japan among the countries discussed.\nCyfirma also pointed to possible links to the Lazarus Group ecosystem, a North Korean state-linked hacking network known for financial theft and espionage.\nNorth Korea has a long history of targeting South Korean institutions.\nIn 2024, South Korean police said Lazarus and Andariel in 2019 had stolen 342,000 ether, worth about 58 billion won ($43.5 million) at the time, from South Korean cryptocurrency exchange Upbit.\nIn March 2013, a major cyberattack attributed by South Korean authorities to North Korea disrupted the networks of Shinhan Bank, Nonghyup Bank and Jeju Bank, knocking out ATMs, online banking and other services.\nThe emergence of artificial intelligence appears to have further expanded the scale and speed of North Korea's cyber operations.\nMicrosoft Threat Intelligence said in a report released Thursday that three of eight major North Korean threat groups it examine"
+    },
+    {
+     "source": "The Verge",
+     "trust": 2,
+     "url": "https://theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+     "title": "North Korea linked to massive Binance crypto heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+     },
+     "id": "b9273cfbb5b037df",
+     "published": "2026-11-01T14:33+00:00",
+     "text": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity “TraderTraitor” and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says:\nNorth Korea linked to massive Binance crypto heist\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nNorth Korea Responsible for $6 Billion+ Binance Attack\nThe Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\nAs expected, Binance reopened customer withdrawals today after freezing them in the immediate aftermath of the hack."
     }
    ]
   },
@@ -4755,6 +4757,41 @@
      "id": "36d86bbf7bd59217",
      "published": "2026-11-01T12:36+00:00",
      "text": "Rockstar Games’ most anticipated title is releasing in just under a month, and yet speculation on the future of the studio has only skyrocketed. It’s rather unsurprising, since Grand Theft Auto VI is expected to be the most important video game release in the modern gaming industry. Additionally, Grand Theft Auto VI’s existence is projected to negatively impact the U.S. economy through loss of workplace productivity, costing approximately $1 billion a day.\nSo, considering Grand Theft Auto VI’s estimated 2 billion dollar budget, it's safe to say that a lot is riding on the game's success, even if many believe it to be a certifiable hit. What comes after the Grand Theft Auto VI release is another thing entirely, but that game’s success will undeniably influence Rockstar. Still, rumors persist about what Rockstar Games’ next title will be. However, seeing the trends among the current mainstream gaming audience, it might be in Rockstar Games’ best interest to have Grand Theft Auto VI's influence on future titles left to the side.\nRockstar Games Has a New Hurdle To Climb\nThe gaming industry and its audience have changed rapidly in the past ten years alone. Most modern games include some form of live-service features, microtransactions, free-to-play, or heavy reliance on online connectivity. It's a change that many gamers hate, and that can be easily seen in what titles turn out to be successful: AAA single-player games like Resident Evil: Requiem, but also an interesting rise in indie games like Hollow Knight: Silksong. Grand Theft Auto VI feels like a culmination of everything that makes that series so iconic and of what players want AAA single-player games to be like.\nRockstar Games' next new title will no doubt be expected to be another single-player adventure. However, the massive shadow cast by Grand Theft Auto VI could very well lead to their next game being rather low-stakes. A common rumor or wish from dedicated Rockstar Games fans is for the studio to revive its other classic franchises like Max Payne and Bully. This sentiment has persisted since the beginning of Grand Theft Auto VI's development and, while understandable, especially for the older gaming crowd, old franchise revival might not be in Rockstar Games' best interest.\nThe Debatable Firepower of Nostalgic Franchises\nMax Payne as a franchise had done relatively well for itself, with its third installment, Max Payne 3 in 2012, earning only $4 million in revenue in its first year but gradually able to eventually make its break-even goal through the help of digital storefronts like Steam. It was this slow revenue stream that caused its then publisher, Take-Two Interactive, and even certain Rockstar Games executives to consider Max Payne 3 a commercial failure. There is definitely a place for a franchise like Max Payne in the current gaming industry. Well-thought-out noir games have their niche, and the nostalgia factor will certainly give it an audience. The same can be said for Bully, a standalone Rockstar Games title that was successful in its initial PlayStation 2 era. Bully has managed to hang on relatively well in the modern gaming landscape, helped out by Steam and other online storefronts. Additionally, online content creators have also done the series a service in pushing it out to a wider audience and introducing it to a newer generation of players. Like Max Payne, Bully would also have a respectably sized audience who would definitely buy. Unfortunately, these old fr"
+    }
+   ]
+  },
+  {
+   "id": "cba2772ba96",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnR3cWJ4N0d6YThVNThCSlgtOVgxMGdPemZPNXRkeE4xV1lHc3JXb2NxRFdzRzJWVkhTdWlwX01rQTA4UUdjaWVtc2RjczJSa0hZVzBfdGxncEZUSFNvbGRyYy1lYzQ4eTQyQjRCbGM5X05jX0xJTnFCX1JiUzF6c0VTRERHMWZ3cDQ3S2ljZnJIMHhOWmhWcGZ0ck1kZWdkb1RydGQ5dw?oc=5",
+     "title": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record",
+     "lang": "en",
+     "extra": {},
+     "id": "ba2772ba96ae86f1",
+     "published": "2026-10-31T12:15+00:00",
+     "text": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record\nNewsweek"
+    },
+    {
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://newsweek.com/map-reveals-states-where-early-voting-is-surging-days-before-midterms-12646178",
+     "title": "Map Reveals States Where Early Voting Is Surging Days Before Midterms",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets.newsweek.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-01T141253-553.jpg?w=1200&crop=1"
+     },
+     "id": "82755c907e4d6c1f",
+     "published": "2026-11-01T14:36+00:00",
+     "text": "Millions of Americans have already cast ballots in midterm elections that will determine control of Congress, with several states reporting especially high turnout as early in-person voting enters its final days.\nBy Saturday night, more than 52.7 million early votes had been cast nationally, including approximately 29.1 million in-person votes, according to the University of Florida Election Lab.\nWhich States Have Cast the Most Early Votes?\nRead More on Politics\nTexas, California, and Florida lead the pack in terms of early votes, with 7,630,789, 5,504,307 and 5,148,276 cast in each state respectively, according to the Election Lab’s most recent figures.\nGeorgia and North Carolina follow, with 2,823,265 and 2,612,250, respectively.\nSome states have seen early voting reach record levels. More than 2.8 million voted early in Georgia before its period ended on Friday, the Election Lab’s figures show, surpassing a previous midterm record set in 2022 of roughly 2.5 million early ballots.\nIn South Carolina, the state’s Election Commission announced Monday a new record had been set for early voting in a gubernatorial election, with the nearly 564,000 ballots cast as of 3 p.m. local time that day surpassing the 561,563 cast early in 2022. The state’s all-time record was set in the 2024 Presidential election, when 1,471,663 ballots were cast early, according to South Carolina’s Election Commission.\nThe Election Lab’s latest figures for South Carolina show 986,460 early votes have been cast.\nEarly voting has already reached a national midterm record, with the 52.7 million ballots cast before Election Day, surpassing the previous high of 45.9 million set in 2022.\nAs Newsweek previously reported, registered Democrats lead among early voters in the available data, although only slightly more than half of states report registration breakdowns, limiting how far the figures can be treated as representative of nationwide trends.\nThe figures come as early voting deadlines arrive across the country, and in some states they have already ended. Forty-seven states and the District of Columbia allow for universal early voting, with Alabama, Mississippi and New Hampshire the exceptions.\nEarly in-person voting schedules vary considerably by state, according to the Center for Election Innovation & Research (CEIR). Some concluded on October 27, while 14 states continue through November 2. Eight states allow or require some local early-voting sites to remain open on Election Day, according to CEIR.\nReading the Early-Voting Numbers\nMichael McDonald, the University of Florida political science professor who runs the Election Lab, cautioned in comments to TIME against treating early-voting data as a predictor of election outcomes. He said the figures can nevertheless offer valuable information about voting behavior.\n\"Once you start seeing consistency across multiple days of voting and across multiple states, it starts giving us more confidence that whatever we're seeing in terms of relative engagement, that's likely going to carry through to election day,\" he said.\nContact Newsweek editors on this story: Daniel Orton and Trevor Davies"
     }
    ]
   },
@@ -5049,56 +5086,6 @@
    ]
   },
   {
-   "id": "c78696ef3eb",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Wales hit by Australia century in World Cup record defeat",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC Sport",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/rugby-league/articles/cked34glxp0no?at_medium=RSS&at_campaign=rss",
-     "title": "Wales hit by Australia century in World Cup record defeat",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cbef/live/0e215400-d5b8-11f1-a012-e5d60a7e6c41.jpg"
-     },
-     "id": "78696ef3eb5e3800",
-     "published": "2026-11-01T06:57+00:00",
-     "text": "- Published\nAustralia (60) 124\nTries: Kernick, Chapman 6, Church 2, Southwell, Sergis 4, Apps, Paki, Joseph 2, Upton 2, Nizza Goals: Southwell 20\nWales (0) 6\nTries: Travis Goals: Preston\nRampant Australia racked up the biggest score in international history as they hammered Wales in a Rugby League World Cup mismatch.\nThe Jillaroos, hunting a fourth successive title, ran in 21 tries in a predictably lopsided contest in Sydney.\nThe half-time score of 60-0 was the biggest of any World Cup match - men's or women's - and the Australians kept their foot down to win 124-6.\nWing Jaime Chapman's sixth try in the last minute ensured they beat Denmark men's biggest international score of 122-8 against Sweden in 2012.\nThe 118-point victory margin is the largest in any women's match, although France men retain their record win set in 2003 with a 120-0 rout of Serbia.\nYet there were wild Wales celebrations when, at 100-0 down, they became the first side to score against the Jillaroos in the tournament through Paige Travis.\nThe Jillaroos are three-time back-to-back champions, while Wales were taking part in the tournament for the first time having only played their first Test in 2021.\nIt was just their 16th fixture - and a first against Australia - with Tom Brindle's side having already been beaten 70-6 by England and 76-0 by Samoa at the World Cup.\nFull of NRLW talent, Australia showed a killer instinct and an intensity that Wales were exposed to for the first time.\nIt all came after Wales, whose captain Bethan Dainton was the tournament's top tackler by a distance in the first two rounds with 77, rose to the occasion with a strong start.\nBut Australia struck in the sixth minute through lock Olivia Kernick following prop Makenzie Weale's terrific offload out the back, and the Jillaroos then clicked into gear.\nLong-striding, hard-fending Chapman scored a double down the left and fellow wing Abbi Church powered through weak tackles on the right.\nWales were unable to string together good moments and a fifth try came through Jesse Southwell from failure to claim a regulation high ball just seconds after Jade Mullen had put in a huge tackle.\nAustralia were ruthless and the scores kept coming through centre Jessica Sergis, second row Kezie Apps and Chapman for a first-half hat-trick.\nSergis brought up the half-century with a weaving run and was followed over by second row Sariah Paki.\nThe stats told the story - Australia had 84% of possession in the first half and completed 21 of 22 sets, with almost 13 minutes of possession to two minutes and 29 seconds.\nIt took just over a minute for Keilee Joseph to get the scoreboard ticking after the restart and the scores kept coming from Sergis, Chapman, Joseph again and Church.\nThe Jillaroos beat their 92-0 record, set against France in the 2022 World Cup, when Southwell converted Sergis' fourth try, hitting three figures when the extras were added to star full-back Tamika Upton's breakaway.\nWales' moment came when Travis, scorer of their historic try against England, won the race to Tayla Preston's kick through.\nIt was only a brief change of pattern with Keeley Nizza, Chapman twice and Upton going over to complete the destruction.\nWales captain Bethan Dainton said:\n\"We just wanted to create a legacy back home for young girls coming through, and I think we did that. The scorelines haven't been in our favour but no one gave up and I am so proud of the girls.\""
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/australia-wales-womens-rugby-league-world-cup/107334088",
-     "title": "Australia's latest World Cup smash-up helps nobody",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/9c191b4b99728043f0ef248e172888d3?impolicy=wcms_watermark_news&cropH=1927&cropW=3425&xPos=0&yPos=58&width=862&height=485&imformat=generic"
-     },
-     "id": "ba338089e5aa5172",
-     "published": "2026-11-01T07:53+00:00",
-     "text": "Fri, 18 Sept, 7:50 pm, Final score, Tigers 0, Raiders 6\nSat, 19 Sept, 4:05 pm, Final score, Broncos 40, Knights 16\n40 16 →Sat, 26 Sept, 7:50 pm, Final score, Roosters 20, Raiders 10\n20 10 →Sun, 27 Sept, 1:05 pm, Final score, Titans 8, Broncos 20\n8 20 →Sun, 4 Oct, 4:00 pm, Final score, Roosters 30, Broncos 6\n30 6 →\nGallows humour was the order of the day for Australia's World Cup match against Wales, which was only fitting given it trudged towards its inevitable conclusion like the condemned to the executioner's block.\nThe Jillaroos ran out 124-6 winners in a game where the only element of contest was whether the reigning world champions could bring up the century.\nThey did it easily in the end, smashing their own record for biggest World Cup win, with Jamie Chapman's sixth try in the shadows of the full-time siren eclipsing France's 116-0 victory over Serbia in 2023 in the most lopsided result in women's international rugby league history.\nIn the first half, as they ran up a 60-0 lead, Australia scored 10 tries and Wales played the ball just 15 times. Five-eighth Jesse Southwell finished with 44 points on her own.\nThe Jillaroos did not make a tackle from the fifth minute until after the half-time siren and Australian halfback Tarryn Aiken did not make a tackle until 10 minutes before full-time.\nAfter Australia scored its 15th try of the match it started getting booed by the sparse Parramatta Stadium crowd, who reserved their biggest cheer of the day for Welsh second rower Paige Travis's score that narrowed the gap to 100-6.\nIt was the sole bright spot of the match but the punters soon returned to an idle stupor as Australia added four more tries in the final seven minutes.\nAll World Cups are going to have their blowouts and rugby league's more than most. But they must serve a wider purpose and this one did not.\nIt benefited nobody and served to damage the tournament's credibility and its only legacy can be like Australia's 110-4 win over Russia in the men's 2000 World Cup, which is to say as a historical oddity for the trainspotters.\nAs the women's World Cup reckons with what has been an uneven tournament at best, marred by the same enormous scorelines of the men's edition but with few of the strong crowds, questions must be asked as to why a game like this could happen at all.\nThe uninterested and meagre turn-out for this match was proof it did not maximise the product, which very much felt like a curtain-raiser to the two men's matches that followed. Nor does it aid development.\nIt stuffed some stat sheets and gave ammunition to the bad-faith actors who are always on the hunt for an opportunity to take a shot at women's sport.\nThe Jillaroos are the best team in the world by an order of magnitude and have been for years. They gain nothing by putting the cleaners through Wales, who exist in a different universe.\nThat's why the Welsh should be spared any blame for how this went down. When the criticism comes it should not fall on them.\nThey qualified fair and square but they did not ask for this and there's no way to say it without sounding patronising but they did their best in the face of impossible odds.\nWhile they have Canterbury halfback Tayla Preston and North Queensland winger Sian Williams as well as a smattering of Super League talent in Bethan Daiton, Carys Marsh and Agnes Wood, most of their players ply their trade in the women's second division in England.\nIt's a competition that can still have the draw disrupted by forfeits "
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
-     "title": "Ruthless Australia record biggest win in Women's World Cup history",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-jaime-chapman-australia_7393648.jpg?20261101083319"
-     },
-     "id": "029def11adf916ba",
-     "published": "2026-11-01T08:30+00:00",
-     "text": "Rugby League World Cup 2026: Reports, news, scores, fixtures from across the men's, women's, and wheelchair tournaments\nReports, news, updates, scores from across the men's, women's, and wheelchair tournaments of the Rugby League World Cup 2026"
-    }
-   ]
-  },
-  {
    "id": "cf0e66f6662",
    "kind": "news",
    "score": 13.0,
@@ -5302,28 +5289,6 @@
    ]
   },
   {
-   "id": "c8d44c60223",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Anthropic’s potential $2 trillion IPO could turn staff into millionaires—but the AI firm is asking candidates what they’d do if stock fell to zero",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Fortune",
-     "trust": 2,
-     "url": "https://fortune.com/article/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-billionaire-ceo-dario-amodei",
-     "title": "Anthropic’s potential $2 trillion IPO could turn staff into millionaires—but the AI firm is asking candidates what they’d do if stock fell to zero",
-     "lang": "en",
-     "extra": {},
-     "id": "8d44c602235ccf87",
-     "published": "2026-11-01T14:15+00:00",
-     "text": "As Anthropic targets a November IPO at a $1.5 trillion to $2 trillion valuation—potentially eclipsing SpaceX’s record—the blockbuster debut could mint a new class of wealthy tech workers among its more than 2,500 employees.\nBut that potential multimillion-dollar employee windfall appears to be raising concern among company leaders. Anthropic is reportedly asking job candidates during culture interviews how they would feel if the company someday abandoned its AI ambitions for safety reasons—and that decision caused its stock to fall to zero, according to Axios.\n“I was honest and said no, I would not be happy if the stock went to 0,” one candidate, who discussed the interview process on the anonymous workplace site Blind, said. “I would want to align doing the most good and remaining ethical while building a sustaining business.”\nAnthropic CEO Dario Amodei, who has an estimated net worth of $13.6 billion, has reportedly expressed concerns about the way the company’s enormous financial incentives could affect its ability to retain employees who are genuinely committed to its mission. Anthropic, a public benefit corporation, has long sought to distinguish itself from competition like OpenAI through a broader focus on AI safety and the “long-term benefit of humanity.”\n“At the end of the day, the mission is what we’re all here for,” the company’s values statement reads. “It gives us a shared purpose and allows us to act swiftly together, rather than being pulled in multiple directions by competing goals.”\nAnthropic is simultaneously fighting to attract the world’s top AI talent while grappling with what could happen if that talent becomes extraordinarily wealthy in the process.\nThe company is competing with the likes of Meta, Google, Microsoft, and OpenAI for top researchers and engineers—and resultantly offering compensation packages well into the hundreds of thousands of dollars.\nThe competition is so fierce that Anthropic acknowledged in its S-1 filing dated Oct. 26 that hiring and retaining qualified employees has become exceptionally difficult, particularly in the San Francisco Bay Area, where the company is headquartered.\n“Competition in our industry relating to hiring and retaining employees with appropriate qualifications and on competitive economic terms is exceptionally intense and has escalated significantly in recent periods,” the company said.\nAnthropic is currently dangling base salaries of $350,000 to $850,000 for staff software engineering roles, for example. And there’s plenty more work to be done. The company currently has more than 600 open roles, including about 120 in sales, over 60 in AI research & engineering, and 50 in security.\nIn order to land an offer after such a highly competitive process, some candidates are reportedly spending more than $4,000 on private coaching to help them get hired.\n“Spend a few thousand dollars, and now your salary goes up by $200,000—that calculus makes sense,” Aline Lerner, founder of prep company Interviewing.io, told Bloomberg.\nThe potential wealth creation at Anthropic is part of a much bigger phenomenon unfolding across the AI industry.\nFollowing SpaceX’s $1.77 trillion IPO, thousands of current and former employees—from welders and coders to managers and executives—became millionaires as their company equity soared in value. Roughly 400 current and former SpaceX employees saw their stakes become worth more than $100 million.\nAs AI valuations continue to soar and employees cash in on "
-    }
-   ]
-  },
-  {
    "id": "c81405cedf5",
    "kind": "news",
    "score": 13.0,
@@ -5418,6 +5383,82 @@
      "id": "7f15092d1212b8e0",
      "published": "2026-11-01T16:19+00:00",
      "text": "- A fully playable version of Portal prequel F-Stop leaked The Verge\n- Valve’s Cancelled Portal Prequel F-Stop Has Leaked Kotaku\n- Valve's long-lost prototype Portal prequel appears online after nearly 20 years PC Gamer\n- Maps from F-Stop, the cancelled Portal sequel, leaked from Valve iXBT.games\n- Portal Prequel F-Stop Leaks in Fully Playable Build Tbreak UAE"
+    }
+   ]
+  },
+  {
+   "id": "ccfa590b490",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Martha Stewart Responds to Halloween Costume Backlash: ‘Homelessness’ Is ‘Something That I Care Deeply About’",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/digital/news/martha-stewart-backlash-halloween-costume-homelessness-1236936874",
+     "title": "Martha Stewart Responds to Halloween Costume Backlash: ‘Homelessness’ Is ‘Something That I Care Deeply About’",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2024/11/GettyImages-2181838204.jpg?w=1000&h=563&crop=1"
+     },
+     "id": "7cbfa70234df4983",
+     "published": "2026-11-01T18:57+00:00",
+     "text": "Martha Stewart has issued a statement after drawing hefty backlash for dressing up as a homeless person for Halloween. The media mogul’s choice of costume for Saturday’s holiday, which included her dressed up in tattered clothing, dirt-inspired face makeup and a sign that read, “I am hungry. Help me!!,” was quickly deemed offensive and in poor taste by fans. (The photo she’d posted of the costume to Instagram was promptly deleted.)\n“I am distressed that my Halloween costume yesterday, which was intended to bring more awareness to the very serious subject of homelessness, has offended people, which was never my intention,” Stewart told Page Six in a statement issued on Sunday.\nShe continued: “Homelessness continues to remain one of America’s greatest challenges and ongoing crises, something that I care deeply about and I have spent a significant amount of time and effort supporting charities that combat this ongoing social epidemic.” The businesswoman also shared that she remains “committed to continuing to make a difference.”\nOn Saturday, Stewart also shared a carousel of images of her yard with festive decor captioned, “Halloween night Waiting for those who trick or treat!” In the days leading up to the holiday, Stewart appeared on “Today” to share Halloween entertaining ideas, “including my no-bake spiderweb cheesecake, witches’ brew, and a ghastly goulash,” she wrote on social media. “I always enjoy getting dressed up in fun and creative costumes when my busy schedule allows.”\nVariety previously reported that Cate Blanchett is set to star as Stewart in the upcoming biopic “Good Thing” about the career of the lifestyle media mogul, with “Zola” director Janicza Bravo helming the project."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/news/us-news/martha-stewart-backlash-homeless-halloween-costume-rcna606837",
+     "title": "Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-martha-stewart-aa-113-9b7a05.jpg"
+     },
+     "id": "43f0bb5ae13e945a",
+     "published": "2026-11-01T19:00+00:00",
+     "text": "Martha Stewart on Sunday responded to backlash about her Halloween costume, saying she was “distressed” to learn that her outfit, which depicted a “hungry” homeless person, had caused offense.\nStewart, who built a lifestyle empire around cooking and home entertainment, shared a photo of herself in tattered clothing, holding a clipboard that read, “I AM HUNGRY HELP ME!!” She posed with a tired expression and makeup meant to look like dirt on her face.\nThe photo was the third slide in an Instagram carousel promoting her candle collection on QVC.\n“My QVC candles are perfect for Halloween!!!” she wrote in the caption. The post was removed shortly afterward, but the costume and backlash continued to circulate elsewhere online.\nMany interpreted the costume as mocking the poor, and some called it “out of touch” and “dystopian.”\n“I am distressed that my Halloween costume yesterday, which was intended to bring more awareness to the very serious subject of homelessness, has offended people, which was never my intention,” Stewart said Sunday in a statement to NBC News.\nShe added that homelessness “continues to remain one of America’s greatest challenges and ongoing crises, something that I care deeply about and I have spent a significant amount of time and effort supporting charities that combat this ongoing social epidemic.”\n“I am committed to continuing to make a difference,” she said.\nStewart wasn’t the only public figure to draw criticism over a Halloween costume.\nContent creator McCall DaPron, who is slated to star in the upcoming Orange County spinoff of “The Secret Lives of Mormon Wives,” faced similar backlash over the weekend for her family’s costumes.\nIn a since-deleted Instagram post, DaPron wore an all-pink blazer and skirt with a matching pillbox hat, the outfit that Jackie Kennedy wore the day her husband, President John F. Kennedy, was assassinated. DaPron held a bouquet of red roses as she posed beside her husband, Kirk DaPron, who dressed as John F. Kennedy. Two of their children were dressed as Caroline Kennedy and John F. Kennedy Jr., and two others as Secret Service agents.\n“Happy Halloween 🩷The Kennedy’s,” DaPron wrote in the caption before removing the post.\nCommenters on one Reddit discussion thread called the costume “gross” and “disrespectful.”\n“I’ve seen this costume a few times. Jackie O was a fashion icon and this is her most recognizable outfit,” one user wrote in the thread. “It’s pretty macabre. Including the children is really f-----g weird.”\nRepresentatives for DaPron did not immediately respond to a request for comment.\nThe reaction recalls the outrage that actor and model Julia Fox sparked last year when she dressed as Jackie Kennedy in the bloodstained suit.\nFox defended her decision, writing in an Instagram post that she wore the outfit “not as a costume, but as a statement. When her husband was assassinated, she refused to change out of her bloodstained clothes.”"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXRmN25nblJsVHZEdmhqYzVRODBvNHh3OEU5YnAzTkN1VlVUOXdDOW5pQnc3bVoydU1EaXlSSmFKb0dsWUtLb1dNM1poLVUtU2lxMlVmVWNoaVpjVmRGdWhfVlRHUVdvQUxLOHFlT29LWFAwUk93bDlzSmViTHRqUmg2ZzJ2TDBZYy13aXBpOEdVVF9pbC1CT1JWTVduS0hhYUtyQnB1emZtd2tlY3pKYUlaUExsZXRSYWlWN3c4M0o?oc=5",
+     "title": "Martha Stewart deletes ‘offensive’ Halloween costume photo after being accused of mocking homeless people",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "cfa590b490ca3c16",
+     "published": "2026-11-01T15:03+00:00",
+     "text": "- Martha Stewart deletes ‘offensive’ Halloween costume photo after being accused of mocking homeless people Page Six\n- Martha Stewart Posts & Deletes Photo of Herself Dressed as ‘Hungry’ Person Yahoo\n- Martha Stewart Posts and Deletes 'Hungry' Poor Person Halloween Costume Photo TMZ\n- Martha Stewart faces backlash as Halloween 2026 promotional stunt backfires The News International\n- Martha Stewart Deletes Shocking Halloween Costume Photo, Faces Backlash Over Depiction of Poverty: See It Here Just Jared"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2VFZDhXdnNtRF9kYTF6aDVmUEpWb3JHLU55MWVHWW9BN1RfOFo5WVFCc0NacUEzRFEzdjE0NE1UZVJwNUtEMi15WlcyQXJkTTBaMFkwREhxNHo1VHdyUU04VXNZYWNOdElfclB2OXJQb1pRUTlkY2NHQlgycEJWNXVpQU9qa0J3SDhEWk9PSXFzdjZiWHVxMkpTWVk0MlVUZlVOODJjSV9tTlJy?oc=5",
+     "title": "Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "95aa3ce16d5509bc",
+     "published": "2026-11-01T18:31+00:00",
+     "text": "- Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume Yahoo\n- Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume NBC News\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart Slammed for Tone-Deaf Costume The Daily Beast\n- Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing Page Six"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFN2dWNBeUJhLVJfUFdTc01PZWNNbXlNSDBTSndxYXJCckFpekx4T2xWbVphWWpkQ1BQQWRwMGJ1MU9iX09rS0JFTHVFclpWQmVuNkJZTWl3ZklLVTZYVUVCeWU5WEFGQXFNZGN2ZlZVSkxNdXZDUzRLbl9oMXlNelFYWUpXanktcWRkX0U0RFQyT2VEWFhHMmVNa3I5akE?oc=5",
+     "title": "Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "642a2cdf8379f111",
+     "published": "2026-11-01T19:00+00:00",
+     "text": "- Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume NBC News\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart Says Homeless Costume Was Meant to “Bring More Awareness,” Critics Aren’t Buying It Yahoo\n- Martha Stewart Posts and Deletes 'Hungry' Poor Person Halloween Costume Photo TMZ\n- Martha Stewart Slammed for Tone-Deaf Costume The Daily Beast"
     }
    ]
   },
@@ -5646,6 +5687,19 @@
      "id": "630e83d542bcf57a",
      "published": "2026-11-01T18:55+00:00",
      "text": "The Fortnite Chapter 7 mini season, titled \"Treasure Hunters,\" puts you on an island with several warring pirate crews. There's new map POIs, weapons, and items waiting as your treasure to claim as characters like Kasane Teto and Monkey D. Luffy make their Fortnite debuts.\nHere's everything new in the Fortnite Chapter 7 mini season, including the map, weapon loot pool, and more.\nFortnite Chapter 7 mini season map and POIs\nThis Fortnite mini season has dramatically changed the map. It features less POIs, but there's still a lot to explore. Here are the POIs for this mini season:\n- Rubber Resort\n- The Chest\n- Arlong Park\n- Windmill Village\n- Loot Lagoon\n- Lantern Landing\n- Loguetown\n- Lil' Uzi's Stronghold\n- Cursed Cavern\n- The $.$. Rocky\n- Busy Bay\n- Plunder Port\nFortnite Chapter 7 Season 4 weapons and items\nThis mini season also has quite a few new items based on the One Piece crew and from A$AP Rocky's own stash.\n- Zoro’s Three Sword Style: Wield three katanas at once. Slash through close encounters and dash in to keep the pressure on.\n- A$AP Rocky’s Shock Rocket: Take the high ground. Use its Shock Rock charges to get airborne, then rain rockets down on anyone below. Available in non-Competitive play.\n- Usopp’s Slingshot: Pull back, line up your target, and let fly. Heavy rounds make this slingshot a marksman’s best friend.\n- Bundlebuss Repeater Rifle: Send a volley of bullets downrange. This fully automatic, fast-firing rifle is at its best at medium range.\n- Gilded Dragoon Shotgun: Make one good blast count. This single-fire shotgun trades mag size for big damage.\nThese guns have also been unvaulted:\n- Sentinel Pump Shotgun\n- Auto Shotgun\n- Flint-Knock Pistol\n- Sidearm Pistol\n- Machine SMG\n- Tactical SMG\n- Hammer Assault Rifle\nAnd these are the new items available right away:\n- Gum-Gum Fruit: Transform into Luffy and stretch into battle. Throw long-range rubber punches, foot slams or charge up and send yourself flying.\n- Flame-Flame Fruit: Become Ace and turn up the heat. Pepper the competition with rapid shots, then finish with a Fire Fist.\n- Explosive Cannon Ball: A big explosive cannon ball you can throw at your opponents or load into a Cannon. Available in non-Competitive play.\n- Nami’s Tangerine: Restore health and shields while getting a boost when moving through water. A little vitamin C goes a long way!\n- Meat on a Stick: Take a bite to heal up and keep healing for a short while after. Nothing like it to keep you going.\n- Wanted Poster: Spot one on a wall and tear it down - it turns into a Sprite Treasure Map that leads you to a buried Sprite Chest.\nAdditionally, these items have also been unvaulted:\n- Zipline Deployer\n- Overdrive Grenade\n- Slurp Juice\n- Shield Fish\n- Jellyfish\n- Slurpfish\n- Hop Flopper\n- Spicy Fish\nWhat else is new in the Fortnite Chapter 7 mini season?\nAs you take to the seas in this season, you'll notice that this mini season hosts a mini island. With that in mind, there'll only be 80 players in each match, rather than the usual 100.\nThe biggest news of this season is the inclusion of the Pirate Shop Token, which grants you full access to the shop for two weeks, allowing you to pick up any cosmetics you want for free. You'll have to be both a lucky player and an expert pirate to find this item in chests, but definitely keep your eyes peeled and crack open any chests you see.\nThe new content for this season will roll out on a weekly basis, with Lil Uzi Vert debuting on Nov. 7, Hatsune Miku and Kasane Teto "
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations",
+     "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_mapfragment0.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "4a3678b24f9485c8",
+     "published": "2026-11-01T20:11+00:00",
+     "text": "Fortnite's Chapter 7 mini season, \"Treasure Hunters,\" has added a new collectible to find throughout the season: map fragments. These map fragments will be added periodically during the season, and you'll get a special reward for finding them all.\nFinding all six map fragments (which will be added throughout the season in updates) will unlock the \"X Marks the Zero Point Sliver\" loading screen.\nBelow, we list where to find all of the map fragments available so far in Fortnite Chapter 7's mini season.\nMap fragment #1 location in Fortnite\nThe first map fragment, made available on Nov. 1, is at The $.$. Rocky:\nAs you get closer to the ship, you should see the usual exclamation-point-inside-a-diamond shape on your screen, pointing you where to go. The map itself is just sitting on the floor of the ship, on the bottom-most floor at the tip of the ship. If you're having a hard time finding stairs to this area, you can break the ship walls on the outside to get in.\nWe'll update this guide as more map fragments get added to the game."
     }
    ]
   },
@@ -5708,6 +5762,19 @@
      "text": "Fortnite Treasure Hunters is here at last. This season is all about pirates and plundering treasure. Players can look the part using the Straw Hat Pirates skins from One Piece. It can get expensive to purchase cosmetics in Fortnite, but this season, there's an in-game item that makes everything in the Item Shop free. It almost sounds too good to be true, but it's real, and it's out there on the Battle Royale island.\nOne Piece was the perfect crossover for this year's mini-season, as Fortnite Treasure Hunters is all about anime and pirates. The Battle Pass features Ace and Robin, but there are more skins to collect in the Item Shop. The first released bundle includes Luffy, Nami, and Usopp, and it costs 4,000 V-Bucks, about $30. It's already quite expensive, and the number of One Piece skins in the shop will only grow as the season continues. Thankfully, Epic Games has introduced the Pirate Shop Access token, an item that grants players everything in the shop for free.\nHow to get the Pirate Shop Access token in Fortnite and how it works\nThis season, there are Treasure-Hunt chests in Fortnite. These special loot containers grant a free gizmo, a cosmetic item, or a token. The Pirate Shop Access token is a rare reward that can be found in these chests. If players are lucky enough to get it, the entire team will be able to plunder the Item Shop for two weeks, meaning that during this window of time, they can claim every item for free. This means they can get the One Piece bundle and any other skin, emote, or jam track in the shop. Exceptions include sidekicks that have already been purchased once and real-money purchases, such as special bundles and the Fortnite Crew.\nThe Pirate Shop Access token can be activated twice: once before Dec. 15, and once again in 2027. The effect lasts two weeks, so players must choose the right time. Once an item has been claimed, it is added to the player's locker permanently, even after the token expires.\nAlthough the Pirate Shop Access token is rare, there are ways to increase your chances of finding it. Since this item is shared among a team, playing Squads increases search efficiency, thanks to the extra pairs of hands. Visiting named locations with a higher loot concentration increases your chances of coming across Treasure-Hunt chests. Treasure Hours will begin next Sunday and are rumored to increase the spawn rate of the Pirate Shop Access token.\nThere are other items that can be found inside the Treasure-Hunt chests, and they change weekly. For Week 1 of the season, players have the chance to find the Solid Gold A$AP Rocky skin. Next week, the chests may contain the Solid Gold Lil Uzi Vert skin instead."
     },
     {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get",
+     "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/treasure-chest_fn.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "2db211a17fef7501",
+     "published": "2026-11-01T20:18+00:00",
+     "text": "The Pirate Shop Access Token is a new item introduced in the Fortnite Chapter 7 mini season, and it allows you to get anything from the Shop for free for a 14-day period.\nAnything sold for V-Bucks in the Fortnite item shop can be claimed for free, meaning any outfit, pickaxe, back bling, sidekick, kicks, and more are yours to have forever. The item is too good to be true, so of course, it's extremely difficult to get your hands on.\nHere's how to get the Pirate Shop Token in Fortnite Chapter 7 mini season.\nHow to get the Pirate Shop Token in Fortnite Chapter 7 mini season\nThe process of getting the Pirate Shop Token is just like every other item in Fortnite, you need to open a treasure chest. Regular chests have been transformed into treasure chests in the mini season, so you don't need to be on the hunt for anything special. However, when you open a treasure chest, you have a small chance of finding special loot for yourself and everyone in your party. In most cases, your special loot will be a gizmo, like the Sprite Locator or the Portable Extractor. For the lucky few, your special loot will be a Pirate Shop Access Token.\nIn the tweet above from user Snowslept, you'll see that the chest will have a unique animation featuring a gold explosion, and a banner will appear on your screen saying that you found pirate shop access. You'll gain two Pirate Shop Access Tokens, one for 2026 and the other for 2027. When you activate the token, you'll have 14 days to claim anything from the Fortnite item shop for free. Essentially, any cosmetic is yours for the taking, but you can only claim sidekicks once. The only things you cannot purchase are real money offers (like V-Bucks and bundles), gifts, and pass levels/rewards.\nIf you're hunting for the Pirate Shop Access token, your best bet is to land in any of the following locations:\n- Arlong Park\n- Lantern Landing\n- Rubber Resort\n- Fortune's Fort\n- Loguetown\n- Plunder Port\n- Busy Bay\nWe personally recommend landing at Arlong Park or Lantern Landing as they're fairly close to one another, and you can quickly make your way down to Windmill Village and Loguetown. If you're quick, you can open upwards of 50 chests a game."
+    },
+    {
      "source": "Google News Technology EN",
      "trust": 1,
      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQallhSDVqbEZiTFRuLXc4dkM1LUtfUkFKY0NxSTlLMlV0TVlUa0VJWXdTUm90OFF3TGJtZ1owbmg3RHdZUXJJa25NR29TZlVUcUotcFhKY01HNkdRcGRodlk1VC1xNThuNHUwS3MtdVRBSDNZQTdDZ3lCU0ZHOWk1aU5KLU9XbGN4d1l6Q3RxNEpLZw?oc=5",
@@ -5765,41 +5832,6 @@
      "id": "5717feff764892c6",
      "published": "2026-10-31T17:54+00:00",
      "text": "US Federal Election Commission data revealed this week that Elon Musk has donated at least $445 million into Republican-aligned political action committees and groups since last year. Interestingly, it seems that Musk’s deep influence isn’t enough, and he is worried. If Democrats win big on Tuesday in midterm elections, Musk ... [continued]\nThe post Elon Musk’s Attack Ads Are Backfiring As Midterms Near appeared first on CleanTechnica."
-    }
-   ]
-  },
-  {
-   "id": "c694b45c9a3",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Netflix’s New ‘Severance’ Replacement Is Officially Taking Over the World",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Collider",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YVXdrZ1pjQzVIQ2RuUE5Ta3dPZ1ViSVZvRnVKUVdRSFI2VjlJWTNhTHpaMHp0SGlFYUdzemxtNGo4Y1NuNHl5RnRrLTNPdjRPX3A3bWMycWFjaDY5TnVQWG1oWmZOVXRoazNWMjdqVUQ3ZDlHSklJa1J1aDFEUQ?oc=5",
-     "title": "Netflix’s New ‘Severance’ Replacement Is Officially Taking Over the World",
-     "lang": "en",
-     "extra": {},
-     "id": "694b45c9a304fbd7",
-     "published": "2026-10-31T15:00+00:00",
-     "text": "Netflix’s New ‘Severance’ Replacement Is Officially Taking Over the World\nCollider"
-    },
-    {
-     "source": "Screen Rant",
-     "trust": 2,
-     "url": "https://screenrant.com/collision-course-netflix-streaming-success-november-2026",
-     "title": "Netflix’s New #1 Movie In The World Is The Perfect Replacement For Its Record-Breaking Crime Thriller Franchise",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/netflix-collision-course-still.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "0ccde8dacef0179f",
-     "published": "2026-11-01T14:22+00:00",
-     "text": "While there is new content being released to Netflix on a weekly basis, there are some movies and TV shows that cut through to become sensations. This includes dramatic shows like Squid Game, a Korean-language drama that took the world by storm. Movie-wise, some of its most successful films in recent years have including conspiracy thrillers like Carry-On, or last year's family-friendly animated sensation KPop Demon Hunters. It takes a lot for a Netflix title to set records for streaming, but those that come out on top say a lot about audiences' interests.\nThe current buzzworthy movie on Netflix is Collision Course. Like many of the platform's previous hit movies (Troll and Under Paris being the other big ones), this is a non-English-language film, the majority of it being in Spanish. Collision Course is a crime-thriller about a group of robbers that take over a Madrid bank during a major economic crisis, which subsequently triggers a battle for survival where the stakes could not be higher. The Spanish-language feature is helmed by Daniel Sánchez Arévalo, and features a leading cast of Laia Costa, Karra Elejalde, Tamar Novas, and Luis Zahera.\nCollision Course Is Netflix's #1 Movie In The World\nNow, just two days after its October 30 release on the platform, Collision Course has become a huge success on Netflix. The movie has opened to become the no. 1 film in the world, according to recent streaming data. This includes particular success across Spanish-speaking regions including Argentina, Costa Rica, Colombia, and Spain, all of which currently have Collision Course as their no.1 movie. The film also reached no. 3 status in the United States, and is on top 5 lists globally.\nThe movie is not popular enough yet to have amassed a Rotten Tomatoes score, but it is clear that audiences are responding positively, at least in their interest. It is too early to reach Netflix's list for their weekly Tudum rankings, but at this point it seems certain that Collision Course will be towards the top of the lists for the platform, in many markets.\nCollision Course Is A Perfect Money Heist Replacement\nCollision Course is an appealing title to fans of Netflix's popular Spanish-language series Money Heist. This series, now a multi-show franchise, also involves bank robbery in high-stakes situations. The show was a big hit when originally running on Netflix, and will likely have a lot of crossover viewership with fans of Collision Course, making the movie a great one for such fans to check out."
     }
    ]
   },
@@ -5876,9 +5908,134 @@
    ]
   },
   {
+   "id": "ce8debdb21f",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Iranian Envoys Meet Qatari Mediators as Threat Looms of US Strikes After Midterms",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336024",
+     "title": "Iranian Envoys Meet Qatari Mediators as Threat Looms of US Strikes After Midterms",
+     "lang": "en",
+     "extra": {},
+     "id": "e8debdb21f208164",
+     "published": "2026-10-31T16:09+00:00",
+     "text": ""
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
+     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+     "lang": "en",
+     "extra": {},
+     "id": "370442b7e3261742",
+     "published": "2026-10-31T19:24+00:00",
+     "text": ""
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://arabnews.com/middle-east/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-3009168",
+     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+     "lang": "en",
+     "extra": {},
+     "id": "23a3d019cae5c5dd",
+     "published": "2026-10-31T21:14+00:00",
+     "text": "DUBAI/ATLANTA: Iranian negotiators held talks in Doha with Qatari mediators on Saturday to discuss paths out of war in the Gulf, a source who was briefed on the negotiations told Reuters, as diplomats try to avert new fighting after the US midterm elections this week. US Secretary of State Marco Rubio said on Saturday that President Donald Trump has not decided whether to launch new strikes against Iran, but would prefer to resolve the conflict diplomatically. Trump has held off on strikes on Ir"
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMjFnYWtnU1ZZVGZaaGJaNzNSQVpBUFA5dzFCbW44Tk83SVo2dHJkbmwtYXh5anBEbjlTU2pOemI5OE1vRUFaM3FmQnduX1M0U3FpZXpkYW5aMlh1aEtiZ1J3U3JPMmFyY3hBOVRjY2JfOXdWaXdqOGVKU0pGY1MtcTZzNERVbVhFaEVpVXhMNllEYnNEbzR0eGlWeko3UE50RlphYlJpYW15WGRtVG5MRVphczA4WU1YdGFOMmNSN0lLTmpz?oc=5",
+     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+     "lang": "en",
+     "extra": {},
+     "id": "096839a789ab1d8c",
+     "published": "2026-10-31T21:14+00:00",
+     "text": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms\nArab News"
+    }
+   ]
+  },
+  {
+   "id": "c6376b050fb",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Iran's Khamenei warns US and Israel against new attacks",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+     "title": "Iran's Khamenei warns US and Israel against new attacks",
+     "lang": "en",
+     "extra": {},
+     "id": "6376b050fbd723e2",
+     "published": "2026-10-31T17:00+00:00",
+     "text": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened military action on the Islamic republic but US Secretary of State Marco Rubio said Trump had not yet made a decision about fresh strikes."
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEVLeUN1bUlsdEFHZl9zQklibGpZTHFxekVxTEJVOVJUQWRvUExWZ1p4OEVfY3lzNEIxMkJoSXlEY29KT2FwWGFnejlZazRMVXF0X0xMTTc0SV9kaUljeDktQ1NqUEpnT1h0dS0wLUx0TDg4Wks3TDFDclk2MTk3MUJXRHFWaU9xcXFieWl1SkkydTliS054TFFvQ2xuV2ZTQWM5MU93?oc=5",
+     "title": "Iran warns US and Israel: What to know as fears of wider conflict grow",
+     "lang": "en",
+     "extra": {},
+     "id": "b2422aae6d508c53",
+     "published": "2026-10-31T18:09+00:00",
+     "text": "Iran warns US and Israel: What to know as fears of wider conflict grow\nGulf News"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks",
+     "title": "Iran's supreme leader warns U.S., Israel against new attacks",
+     "lang": "en",
+     "extra": {},
+     "id": "e146fa31649e8341",
+     "published": "2026-10-31T22:10+00:00",
+     "text": "Secretary of State Marco Rubio said Saturday no decision has yet been made on whether to renew hostilities with Iran."
+    },
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/news/2026/11/01/world/iran-warns-us-israel",
+     "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571605.jpg?v=3.1"
+     },
+     "id": "a9e56fb5e1d7da27",
+     "published": "2026-11-01T00:55+00:00",
+     "text": "Tehran – Iran’s supreme leader warned the United States and Israel on Saturday of fresh attacks following their threats to resume strikes after crucial elections, as fears increased over a return to fighting.\nU.S. President Donald Trump suggested he could launch fresh military action after the United States holds its midterm elections.\nBut U.S. Secretary of State Marco Rubio said Saturday: “If there is a diplomatic solution, we would be open to it.”\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ?oc=5",
+     "title": "Iran's Khamenei warns US and Israel against new attacks - France 24",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "b69d3e87ad0db537",
+     "published": "2026-10-31T17:00+00:00",
+     "text": "- Iran's Khamenei warns US and Israel against new attacks France 24\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News\n- Iran’s Khamenei Orders Military to Expand US Retaliation Plans Bloomberg.com"
+    }
+   ]
+  },
+  {
    "id": "c38206f68dc",
    "kind": "free",
-   "score": 7.5,
+   "score": 6.5,
    "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "- Epic Games",
@@ -6018,8 +6175,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T20:06+00:00",
-     "text": "Bitcoin: $77,701 (+0.2% 24h)\nEthereum: $2,256 (+0.1% 24h)\nSolana: $93.89 (-2.0% 24h)\nToncoin: $1.22 (+1.1% 24h)"
+     "published": "2026-11-01T20:36+00:00",
+     "text": "Bitcoin: $77,709 (+0.3% 24h)\nEthereum: $2,258 (+0.3% 24h)\nSolana: $94.03 (-1.6% 24h)\nToncoin: $1.22 (+1.4% 24h)"
     }
    ]
   },
