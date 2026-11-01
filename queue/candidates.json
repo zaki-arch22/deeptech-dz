@@ -1,6 +1,129 @@
 {
- "generated_at": "2026-10-31T23:46:58+00:00",
+ "generated_at": "2026-11-01T00:17:38+00:00",
  "clusters": [
+  {
+   "id": "c154d6ff5e1",
+   "kind": "news",
+   "score": 27.0,
+   "sensitive": true,
+   "distinct_sites": 10,
+   "title_hint": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665",
+     "title": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
+     "lang": "en",
+     "extra": {},
+     "id": "154d6ff5e1c546ed",
+     "published": "2026-10-31T20:15+00:00",
+     "text": "UPDATED: A federal judge has again dismissed Donald Trump’s $10 billion defamation lawsuit against The Wall Street Journal over its reporting on a letter sent to Jeffrey Epstein for his birthday in 2003. U.S. District Judge Darrin P. Gayles wrote in his opinion that Trump’s lawsuit “falls short of pleading actual malice. Indeed, the allegations […]"
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/10/31/trump-epstein-wsj-murdoch",
+     "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
+     "lang": "en",
+     "extra": {},
+     "id": "40a42fe9001aa604",
+     "published": "2026-10-31T20:22+00:00",
+     "text": "A federal judge on Saturday threw out President Trump's lawsuit against the Wall Street Journal and Rupert Murdoch over the paper's reporting on Trump's ties to Jeffrey Epstein,\nWhy it matters: It's the second time this year courts have blocked Trump's efforts to sue the paper over stories about his relationship with the disgraced financier.\nDriving the news: Judge Darrin Gayles of the southern district of Florida issued the 20-page ruling Saturday afternoon, finding that Trump failed to prove the paper acted with \"actual malice\" by reporting on his links to Epstein.\nZoom out: Trump first filed suit against the paper and Murdoch in July 2025, seeking $20 billion in damages.\nWhat they're saying: \"Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false,\" Gayles wrote.\nFor the record: \"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions,\" a spokesman for his legal team said in a statement.\nEditor's note: This story has been updated with additional details.\nSara Fischer contributed."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/trump-lawsuit-wall-street-journal-epstein-birthday-letter-dismissed",
+     "title": "Judge dismisses with prejudice Trump lawsuit against Wall Street Journal",
+     "lang": "en",
+     "extra": {},
+     "id": "021b9f5547a31d58",
+     "published": "2026-10-31T20:59+00:00",
+     "text": "In a 20-page ruling, U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that President Trump did not prove the defendants made defamatory statements with actual malice."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049",
+     "title": "Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story",
+     "lang": "en",
+     "extra": {},
+     "id": "3d4796b06b002f37",
+     "published": "2026-10-31T21:09+00:00",
+     "text": "A federal judge in Florida has tossed a revised version of President Donald Trump’s $10 billion defamation suit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein more than two decades ago."
+    },
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/judge-dismisses-trumps-wall-street-journal-lawsuit-13606496",
+     "title": "Judge dismisses Trump's Wall Street Journal lawsuit",
+     "lang": "en",
+     "extra": {},
+     "id": "3429a973bb78c06f",
+     "published": "2026-10-31T21:17+00:00",
+     "text": "A US judge has dismissed President Donald Trump's lawsuit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
+     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+     "lang": "en",
+     "extra": {},
+     "id": "ac3da7fa79157764",
+     "published": "2026-10-31T21:32+00:00",
+     "text": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/bulletin/news/trump-epstein-birthday-card-lawsuit-dismissed-wsj-b3076951.html",
+     "title": "Trump's $10bn lawsuit over Epstein birthday card dismissed by judge",
+     "lang": "en",
+     "extra": {},
+     "id": "23109de18e5107e1",
+     "published": "2026-10-31T21:38+00:00",
+     "text": ""
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423",
+     "title": "Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time",
+     "lang": "en",
+     "extra": {},
+     "id": "0254b054c7e4646d",
+     "published": "2026-10-31T23:23+00:00",
+     "text": "A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein was purportedly written by Trump. Trump’s lawsuit “falls short of pleading actual malice,” wrote U.S. District Judge Darrin P. Gayles […]"
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/united-states/us-judge-dismisses-trump-lawsuit-against-wall-steet-journal-over-epstein-letter",
+     "title": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter",
+     "lang": "en",
+     "extra": {},
+     "id": "885718a3596fc006",
+     "published": "2026-10-31T23:31+00:00",
+     "text": "Trump's alleged letter to Epstein featured a drawing of a naked woman."
+    },
+    {
+     "source": "Hollywood Reporter",
+     "trust": 2,
+     "url": "https://hollywoodreporter.com/news/politics-news/trump-lawsuit-wall-street-journal-epstein-dismissed-1236744244",
+     "title": "Trump Lawsuit Against Wall Street Journal Over Epstein Story Dismissed by Judge",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/FotoJet-2026-07-17T104215.210.jpg?w=1440&h=810&crop=1"
+     },
+     "id": "f5694ff772f14886",
+     "published": "2026-11-01T00:01+00:00",
+     "text": "Saying the president was “grasping at straws,” a federal judge on Saturday threw out Donald Trump’s $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.\nU.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law. The ruling said the lawsuit had attempted to “manufacture” flaws in the Journal’s investigative reporting.\nRelated Stories\nWhen a case is thrown out “with prejudice,” it cannot be refiled again and the dismissal is permanent and incontrovertible.\nThe dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term. In addition to the Journal, he is embroiled in lawsuits involving the BBC, The Associated Press and — most recently — CNN, MS NOW and Politico, which are suing him for restored access after he banished them from the White House in mid-September.\nTrump has denounced media outlets that write things to which he objects and frequently calls them “fake news” and insults their journalists.\nTrump called the reporting ‘malicious’\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Trump’s name and was included in a 2003 album compiled for Epstein’s 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Trump.\nThe letter bearing Trump’s name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, “Happy Birthday — and may every day be another wonderful secret,” according to the newspaper.\nTrump denied writing it and called the story “false, malicious, and defamatory.”\nThe lawsuit, filed in federal court in Miami, accused the paper and its reporters of having “knowingly and recklessly” published “numerous false, defamatory, and disparaging statements,” which, it alleged, caused “overwhelming financial and reputational harm” to the president.\nEpstein died by suicide in a New York jail cell in August 2019 while awaiting trial on federal sex trafficking charges.\nThe lawsuit was dismissed once, then refiled\nGayles previously dismissed the suit in April, saying Trump had failed to make the argument that the article was published with the intent to be malicious. But he gave the president a chance to file an amended complaint, which he did in May.\nIn Saturday’s ruling, the judge cited the Supreme Court’s landmark 1964 ruling in New York Times Co. v. Sullivan. That decision made it harder for public figures to win libel lawsuits because it requires proof that a media outlet knowingly published something false or showed a reckless disregard for the truth.\n“The Amended Complaint falls short of pleading actual malice,” Gayles wrote. “Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.”\nThe judge also noted that the Journal’s story did not ignore or minimize Trump’s denial, “Rather, it informed readers that President Trump decried the Letter as a fake and d"
+    }
+   ]
+  },
   {
    "id": "c2b51d8c5bc",
    "kind": "news",
@@ -134,90 +257,68 @@
    ]
   },
   {
-   "id": "c154d6ff5e1",
+   "id": "cca9dc29145",
    "kind": "news",
    "score": 21.0,
    "sensitive": true,
-   "distinct_sites": 7,
-   "title_hint": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
+   "distinct_sites": 5,
+   "title_hint": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
    "official_image": null,
    "sources": [
     {
-     "source": "Deadline",
+     "source": "Guardian Tech",
      "trust": 2,
-     "url": "https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665",
-     "title": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
+     "url": "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+     "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
      "lang": "en",
      "extra": {},
-     "id": "154d6ff5e1c546ed",
-     "published": "2026-10-31T20:15+00:00",
-     "text": "UPDATED: A federal judge has again dismissed Donald Trump’s $10 billion defamation lawsuit against The Wall Street Journal over its reporting on a letter sent to Jeffrey Epstein for his birthday in 2003. U.S. District Judge Darrin P. Gayles wrote in his opinion that Trump’s lawsuit “falls short of pleading actual malice. Indeed, the allegations […]"
+     "id": "ca9dc291454b05bc",
+     "published": "2026-10-30T16:35+00:00",
+     "text": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far\nThe world’s largest cryptocurrency exchange has been hit by a record $6.3bn (£4.7bn) hack described as the biggest heist in history, with experts identifying North Korea as the likely culprit.\nBinance said it would cover all customer losses as it froze $3bn of the affected assets.\nContinue reading..."
     },
     {
-     "source": "Axios",
+     "source": "BBC World",
      "trust": 2,
-     "url": "https://axios.com/2026/10/31/trump-epstein-wsj-murdoch",
-     "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
+     "url": "https://bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
      "lang": "en",
      "extra": {},
-     "id": "40a42fe9001aa604",
-     "published": "2026-10-31T20:22+00:00",
-     "text": "A federal judge on Saturday threw out President Trump's lawsuit against the Wall Street Journal and Rupert Murdoch over the paper's reporting on Trump's ties to Jeffrey Epstein,\nWhy it matters: It's the second time this year courts have blocked Trump's efforts to sue the paper over stories about his relationship with the disgraced financier.\nDriving the news: Judge Darrin Gayles of the southern district of Florida issued the 20-page ruling Saturday afternoon, finding that Trump failed to prove the paper acted with \"actual malice\" by reporting on his links to Epstein.\nZoom out: Trump first filed suit against the paper and Murdoch in July 2025, seeking $20 billion in damages.\nWhat they're saying: \"Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false,\" Gayles wrote.\nFor the record: \"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions,\" a spokesman for his legal team said in a statement.\nEditor's note: This story has been updated with additional details.\nSara Fischer contributed."
+     "id": "7757066858a68b40",
+     "published": "2026-10-30T21:13+00:00",
+     "text": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
     },
     {
-     "source": "CBS News",
+     "source": "Decrypt",
      "trust": 2,
-     "url": "https://cbsnews.com/news/trump-lawsuit-wall-street-journal-epstein-birthday-letter-dismissed",
-     "title": "Judge dismisses with prejudice Trump lawsuit against Wall Street Journal",
+     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
      "lang": "en",
      "extra": {},
-     "id": "021b9f5547a31d58",
-     "published": "2026-10-31T20:59+00:00",
-     "text": "In a 20-page ruling, U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that President Trump did not prove the defendants made defamatory statements with actual malice."
+     "id": "d081c8674a69f198",
+     "published": "2026-10-31T15:01+00:00",
+     "text": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next."
     },
     {
-     "source": "NBC News",
+     "source": "The Independent",
      "trust": 2,
-     "url": "https://nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049",
-     "title": "Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story",
+     "url": "https://independent.co.uk/news/fbi-north-korea-new-york-b3076979.html",
+     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
      "lang": "en",
      "extra": {},
-     "id": "3d4796b06b002f37",
-     "published": "2026-10-31T21:09+00:00",
-     "text": "A federal judge in Florida has tossed a revised version of President Donald Trump’s $10 billion defamation suit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein more than two decades ago."
+     "id": "7a2e28b9917357a8",
+     "published": "2026-10-31T23:03+00:00",
+     "text": "The FBI says the billions of dollars stolen from Binance within minutes in the biggest crypto heist in history was orchestrated by North Korean hackers"
     },
     {
-     "source": "PBS NewsHour",
+     "source": "Arab News",
      "trust": 2,
-     "url": "https://pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
-     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+     "url": "https://arabnews.com/world/fbi-blames-north-korea-for-stolen-billions-from-binance-in-biggest-hack-in-history-3009195",
+     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
      "lang": "en",
      "extra": {},
-     "id": "ac3da7fa79157764",
-     "published": "2026-10-31T21:32+00:00",
-     "text": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law."
-    },
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423",
-     "title": "Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time",
-     "lang": "en",
-     "extra": {},
-     "id": "0254b054c7e4646d",
-     "published": "2026-10-31T23:23+00:00",
-     "text": "A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein was purportedly written by Trump. Trump’s lawsuit “falls short of pleading actual malice,” wrote U.S. District Judge Darrin P. Gayles […]"
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/us-judge-dismisses-trump-lawsuit-against-wall-steet-journal-over-epstein-letter",
-     "title": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter",
-     "lang": "en",
-     "extra": {},
-     "id": "885718a3596fc006",
-     "published": "2026-10-31T23:31+00:00",
-     "text": "Trump's alleged letter to Epstein featured a drawing of a naked woman."
+     "id": "157a22580da58bfb",
+     "published": "2026-10-31T23:29+00:00",
+     "text": "NEW YORK: The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI said Saturday. The bureau said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year. The FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addres"
     }
    ]
   },
@@ -299,57 +400,79 @@
    ]
   },
   {
-   "id": "cca9dc29145",
+   "id": "c5c182c89bd",
    "kind": "news",
-   "score": 19.0,
+   "score": 20.0,
    "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+   "distinct_sites": 6,
+   "title_hint": "What we know about Binance's $6.3bn hack",
    "official_image": null,
    "sources": [
     {
-     "source": "Guardian Tech",
+     "source": "BBC Business",
      "trust": 2,
-     "url": "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-     "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+     "url": "https://bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+     "title": "What we know about Binance's $6.3bn hack",
      "lang": "en",
      "extra": {},
-     "id": "ca9dc291454b05bc",
-     "published": "2026-10-30T16:35+00:00",
-     "text": "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far\nThe world’s largest cryptocurrency exchange has been hit by a record $6.3bn (£4.7bn) hack described as the biggest heist in history, with experts identifying North Korea as the likely culprit.\nBinance said it would cover all customer losses as it froze $3bn of the affected assets.\nContinue reading..."
+     "id": "5c182c89bda244a7",
+     "published": "2026-10-30T12:27+00:00",
+     "text": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
     },
     {
-     "source": "BBC World",
+     "source": "Financial Times Tech",
      "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "url": "https://ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1",
+     "title": "What we know about the $6.3bn Binance hack",
      "lang": "en",
      "extra": {},
-     "id": "7757066858a68b40",
-     "published": "2026-10-30T21:13+00:00",
-     "text": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind."
+     "id": "ab02bae0a402dd9c",
+     "published": "2026-10-30T13:23+00:00",
+     "text": "Analysis suggests hackers bypassed standard methods used in crypto thefts"
     },
     {
-     "source": "Decrypt",
+     "source": "The Hindu Sci-Tech",
      "trust": 2,
-     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
-     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+     "url": "https://thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece",
+     "title": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
      "lang": "en",
      "extra": {},
-     "id": "d081c8674a69f198",
-     "published": "2026-10-31T15:01+00:00",
-     "text": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next."
+     "id": "f9eb1ed0175e30f0",
+     "published": "2026-10-31T07:23+00:00",
+     "text": "While the facts are still emerging, the Binance cyberattack could go down as the largest cryptocurrency hack on record"
     },
     {
-     "source": "Arab News",
+     "source": "Phys.org Tech",
      "trust": 2,
-     "url": "https://arabnews.com/world/fbi-blames-north-korea-for-stolen-billions-from-binance-in-biggest-hack-in-history-3009195",
-     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+     "url": "https://techxplore.com/news/2026-10-63b-hack-binance-biggest-crypto.html",
+     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
      "lang": "en",
      "extra": {},
-     "id": "157a22580da58bfb",
-     "published": "2026-10-31T23:29+00:00",
-     "text": "NEW YORK: The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI said Saturday. The bureau said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year. The FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addres"
+     "id": "ecf19abee85dd6a0",
+     "published": "2026-10-31T10:32+00:00",
+     "text": "Binance, the world's biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. Blockchain firms have pointed to the attack coming from a North Korean hacking unit."
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
+     "title": "Binance hit by 6.3 billion dollar crypto theft",
+     "lang": "en",
+     "extra": {},
+     "id": "2e8385a7cb01e943",
+     "published": "2026-10-31T11:16+00:00",
+     "text": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from users, with analysts pointing the finger at North Korea. The attack far surpasses the previous record set in February 2025, when hackers stole $1.5 billion from crypto exchange Bybit."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/what-to-know-about-the-6-3b-hack-on-binance-likely-the-biggest-ever-crypto-theft",
+     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+     "lang": "en",
+     "extra": {},
+     "id": "2ae9b6177f8a418c",
+     "published": "2026-10-31T15:14+00:00",
+     "text": "Here's what we know about the hack, possible North Korean involvement and Binance's investigation."
     }
    ]
   },
@@ -530,57 +653,101 @@
    ]
   },
   {
-   "id": "cf9eb1ed017",
+   "id": "c47bfbaf0fa",
    "kind": "news",
-   "score": 16.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
-   "official_image": null,
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "2026 Mini LED(M80H) : Feature Film | Samsung",
+   "official_image": "https://www.youtube.com/v/y5-ZJ125bWw?version=3",
    "sources": [
     {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece",
-     "title": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
+     "source": "YouTube Samsung",
+     "trust": 3,
+     "url": "https://youtube.com/watch?v=y5-ZJ125bWw",
+     "title": "2026 Mini LED(M80H) : Feature Film | Samsung",
      "lang": "en",
-     "extra": {},
-     "id": "f9eb1ed0175e30f0",
-     "published": "2026-10-31T07:23+00:00",
-     "text": "While the facts are still emerging, the Binance cyberattack could go down as the largest cryptocurrency hack on record"
+     "extra": {
+      "image": "https://www.youtube.com/v/y5-ZJ125bWw?version=3"
+     },
+     "id": "47bfbaf0fa74719a",
+     "published": "2026-10-31T00:01+00:00",
+     "text": "What makes Samsung Mini LED M80H different?\nSmaller light sources deliver precise control and refined efficiency.\nMini LED HDR enhances contrast with deeper detail and clarity.\nSmooth motion up to 4K 144Hz keeps every scene fluid—\nwith AI assistance that’s more visual, contextual, and seamlessly integrated into what you’re watching.\nAll coming together as the answer to your thrilling moments.\nIntroducing Samsung’s Mini LED—M80H.\n00:00 Mini LED & Mini LED HDR\n00:32 Color Booster Pro\n00:50 Motion Xcelerator 144Hz\n01:07 Enhanced viewing experience with Vision AI Companion\n#SamsungVisionAI #MiniLED #M80H #SamsungTV"
     },
     {
-     "source": "Phys.org Tech",
-     "trust": 2,
-     "url": "https://techxplore.com/news/2026-10-63b-hack-binance-biggest-crypto.html",
-     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+     "source": "YouTube Samsung",
+     "trust": 3,
+     "url": "https://youtube.com/watch?v=Whh_-qLwUuA",
+     "title": "2026 OLED(S90H): Feature Film | Samsung",
      "lang": "en",
-     "extra": {},
-     "id": "ecf19abee85dd6a0",
-     "published": "2026-10-31T10:32+00:00",
-     "text": "Binance, the world's biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. Blockchain firms have pointed to the attack coming from a North Korean hacking unit."
+     "extra": {
+      "image": "https://www.youtube.com/v/Whh_-qLwUuA?version=3"
+     },
+     "id": "c4ad6c6e5163a295",
+     "published": "2026-10-31T01:01+00:00",
+     "text": "How does the Samsung OLED S90H elevate your viewing, gaming, and personalized entertainment?\nWith Samsung OLED, you get deeper blacks and vibrant color through VDE-certified Real Black and OLED HDR+. Game at your best with the Ultimate Gaming Pack, and enjoy AI-enhanced picture and sound. Plus, Vision AI Companion helps you find your favorite content 👀\n00:00 What’s New in the 2026 S90H OLED TV? – Glare Free\n00:19 OLED HDR+\n00:29 Ultimate Gaming Pack\n00:40 Vision AI Companion\n00:50 The Answer to Ultimate Immersion\n#OLED #SamsungVisionAI #SamsungTV"
     },
     {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
-     "title": "Binance hit by 6.3 billion dollar crypto theft",
+     "source": "YouTube Samsung",
+     "trust": 3,
+     "url": "https://youtube.com/watch?v=vKY4ccHm5cU",
+     "title": "2026 Neo QLED: Feature Film | Samsung",
      "lang": "en",
-     "extra": {},
-     "id": "2e8385a7cb01e943",
-     "published": "2026-10-31T11:16+00:00",
-     "text": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from users, with analysts pointing the finger at North Korea. The attack far surpasses the previous record set in February 2025, when hackers stole $1.5 billion from crypto exchange Bybit."
+     "extra": {
+      "image": "https://www.youtube.com/v/vKY4ccHm5cU?version=3"
+     },
+     "id": "c7ee86716f80065c",
+     "published": "2026-10-31T02:01+00:00",
+     "text": "What makes Samsung Neo QLED QN80H so immersive?\nQuantum Mini LED enhances contrast with refined precision, while 100% Color Volume brings every scene to life.\nPowered by the NQ4 AI Gen2 Processor, every moment is intelligently optimized—while Vision AI Companion delivers more visual, context-aware AI help, making your TV a smarter way to explore every moment.\nIt all moves as one seamless experience, with Motion Xcelerator 144Hz keeping every scene smooth.\nAll coming together as the answer to true immersion.\nExperience Neo QLED—QN80H.\n00:00 Real QLED with 100% Color Volume\n00:23 Quantum Mini LED\n00:53 Motion Xcelerator 144Hz\n01:17 Immersive viewing with Vision AI Companion\n#SamsungVisionAI #NeoQLED #QN80H #SamsungTV"
     },
     {
-     "source": "PBS NewsHour",
+     "source": "TechRadar",
      "trust": 2,
-     "url": "https://pbs.org/newshour/world/what-to-know-about-the-6-3b-hack-on-binance-likely-the-biggest-ever-crypto-theft",
-     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+     "url": "https://techradar.com/televisions/i-put-lg-and-samsungs-latest-mid-range-oled-tv-side-by-side-and-tested-them-with-reference-4k-blu-ray-scenes-heres-the-one-id-buy-myself",
+     "title": "LG C6 vs Samsung S90H: which of these 2026 OLED TVs comes out on top?",
      "lang": "en",
      "extra": {},
-     "id": "2ae9b6177f8a418c",
-     "published": "2026-10-31T15:14+00:00",
-     "text": "Here's what we know about the hack, possible North Korean involvement and Binance's investigation."
+     "id": "c2fecd15ddf326ba",
+     "published": "2026-10-31T19:00+00:00",
+     "text": "<p>James is the TV Hardware Staff Writer at TechRadar. After studying English Literature and Creative Writing at Bath Spa University, he rekindled a childhood love for writing and creating stories that soon translated into the world of freelance writing, primarily for music blogs. Eventually getting into the world of TV and hi-fi, James honed a knowledge and passion for all things audio and visual. He is now bringing this experience to Tech Radar to write about the latest TV- related tech and give readers all the info they need. When not writing and reading about the latest audio and visual goodies, James can be found gaming, reading, watching rugby or coming up with another idea for a novel. </p>"
+    }
+   ]
+  },
+  {
+   "id": "ccf533f4094",
+   "kind": "news",
+   "score": 15.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Happy Halloween 🎃",
+   "official_image": "https://www.youtube.com/v/22YWTc-KaNo?version=3",
+   "sources": [
+    {
+     "source": "YouTube Google",
+     "trust": 3,
+     "url": "https://youtube.com/shorts/22YWTc-KaNo",
+     "title": "Happy Halloween 🎃",
+     "lang": "en",
+     "extra": {
+      "image": "https://www.youtube.com/v/22YWTc-KaNo?version=3",
+      "page_image": "https://i.ytimg.com/vi/22YWTc-KaNo/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCUUU4a1YIcSMuaSPWJz9oSvP9GMQ"
+     },
+     "id": "815979f5a6f82cc2",
+     "published": "2026-10-31T16:11+00:00",
+     "text": "Who let the bats out?! They're stealing the spotlight from today’s #GoogleDoodle 🦇👀 Dare to LIKE…"
+    },
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly",
+     "title": "Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California (video)",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/Bv6cX3eJVG9R8i6gxerymQ-2560-80.jpg"
+     },
+     "id": "cf533f4094ed65e6",
+     "published": "2026-10-31T05:24+00:00",
+     "text": "SpaceX celebrated Halloween with an early-morning launch from California.\nA Falcon 9 rocket lifted off from Vandenberg Space Force Base today (Oct. 31) at 12:04 a.m. EDT (0404 GMT; 9:04 p.m. on Oct. 30 local time), sending 27 of the company's Starlink internet satellites to low Earth orbit (LEO).\nThe Falcon 9's first stage came back to Earth as planned, touching down about 8.5 minutes after launch on the SpaceX drone ship \"Of Course I Still Love You,\" which was stationed in the Pacific Ocean.\nIt was the 18th flight for this particular booster, which is designated B1093. The record for a SpaceX first stage is 37, set this past August by the booster B1067.\nThe Falcon 9's upper stage did its job as well today, deploying the 27 Starlink satellites into LEO about 62 minutes after launch. They're joining more than 11,000 spacecraft in the Starlink megaconstellation, which is by far the largest satellite network ever assembled.\nToday's launch was the 118th Falcon 9 flight of 2026 so far. More than 70% of these missions have been devoted to building out the Starlink network.\nSpaceX has also launched its Falcon Heavy and Starship rockets three times apiece this year. Falcon Heavy is an operational vehicle, but Starship remains in the test-flight phase. The company is currently gearing up for another Starship launch, which is expected to take place sometime in November.\nMichael Wall is the Spaceflight and Tech Editor for Space.com and joined the team in 2010. He primarily covers human and robotic spaceflight, military space, and exoplanets, but has been known to dabble in the space art beat. His book about the search for alien life, \"Out There,\" was published on Nov. 13, 2018. Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist. He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelor's degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz. To find out what his latest project is, you can follow Michael on Twitter.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
     }
    ]
   },
@@ -618,13 +785,15 @@
     {
      "source": "Google News Technology EN",
      "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDBvRkxwak9Bd1Y2MlJWRnEwOGx5Zi1SV0d4Q0ZYbndjUGZzSnlXbHRxNkFHbE9tbnBxbFBZNW9BelFLMVZjRVk0NWQxSFRNZXp6NkV3TVZ4V2UxZTVXb1liT3FSLTNiVXFtUnZsd0N1YXZReUJQMTFIRE11WEYycg?oc=5",
-     "title": "Rumor: Persona remake footage appears online - Gematsu",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXFZdDZ1Uld6d0lqc2k5d0phQkE5MXJ4dXZ4aWVxT2ZSTWExNzlBZ2NyZmxkRnNFX2x3MGJubHNBd0IyYXBiSl84blR3YzJ5NEkxbVFRWkxJZVRXOEthd2I0RDRTM2xwWTJiSHBKbGg2QW9ZcXlhYUZrdERsV1R4RW53?oc=5",
+     "title": "Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online - IGN",
      "lang": "en",
-     "extra": {},
-     "id": "36dd9be99f7c0cac",
-     "published": "2026-10-31T22:35+00:00",
-     "text": "- Rumor: Persona remake footage appears online Gematsu\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "c331f4a376395fd2",
+     "published": "2026-10-31T20:21+00:00",
+     "text": "- Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online IGN\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Rumor: Persona remake footage appears online Gematsu"
     }
    ]
   },
@@ -643,10 +812,12 @@
      "url": "https://smithsonianmag.com/smart-news/this-rosy-stone-spotted-in-the-sahara-turned-out-to-be-a-4-1-billion-year-old-meteorite-from-mars-one-of-the-oldest-ever-found-180989786",
      "title": "This Rosy Stone Spotted in the Sahara Turned Out to Be a 4.1-Billion-Year-Old Meteorite From Mars, One of the Oldest Ever Found",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://th-thumbnailer.cdn-si-edu.com/t7tbwP2vEXZE2RCDUlFtVYg8K-A=/fit-in/1600x0/filters:focal(1920x1097:1921x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/d3/4fd337e2-4d9f-4a6b-9f61-ed3c16d5c7c8/1-teghaza_1611-white-flat_final_a.jpg"
+     },
      "id": "4d0797adb0edd415",
      "published": "2026-10-30T18:42+00:00",
-     "text": "Martian samples this old are extremely rare and offer clues about the Red Planet's youth. This meteorite further hints that our celestial neighbor was once a watery world, suggesting it could've had the conditions to host life"
+     "text": "In 2022, a strange, rosy stone was discovered in the Sahara Desert. Now, scientists have found that the nearly two-pound object is a Martian meteorite made of rock that formed at least 4.1 billion years ago. The findings, published October 29 in the journal Science, mean it’s one of the oldest known samples of Mars and can help researchers better understand what the Red Planet was like in its youth.\n“We’re holding a piece of a rock that’s dated even before the oldest Earth rock—a piece of Mars that’s so ancient, it existed when life had just started on Earth,” study co-author Yang Liu, a geologist at NASA’s Jet Propulsion Laboratory, tells Scientific American’s Mary Randolph.\nScientists know of more than 400 Martian meteorites. These pieces were ejected from the Red Planet when impactors hit the celestial body. The debris was flung toward Earth, passed through our atmosphere without completely burning up and then landed on the planet’s surface. Previously, only two meteorites provided snapshots of a young Mars, which formed around 4.5 billion years ago: Allan Hills 84001, dated at 4.1 billion years old, and Northwest Africa 7034, which contains fragments dated at more than 4.3 billion years old.\nTo figure out the age of the Sahara meteorite, called Teghaza 001, Liu and colleagues looked at the zircon crystals within it, which contain the element uranium. Researchers often date rocks by examining the decay of uranium into lead. The team also analyzed different forms of the elements rubidium and strontium in the meteorite, which yielded a similar age estimate.\nTeghaza 001’s age isn’t its only special feature. Unlike the other two oldest known Martian meteorites, the rosy space rock’s composition of volcanic minerals reveals that the fragment was originally a bunch of magma. It cooled and hardened into part of Mars’ outermost layer, the crust, and was further transformed by underground water, according to chemical analyses. This evidence of the meteorite’s past interactions with water joins a growing body of research indicating that Mars—now a dry, dusty world—was once a much wetter place.\n“When you add a third sample, and its geochemistry is really unique compared to the other samples that we have, it lets us see a different part of Mars’ ancient history in terms of what the mantle looked like and what the different mantle sources were on Mars,” says study co-author Alicia Cruz-Uribe, a geochemist at the University of Maine, in a statement.\nDid you know? Mission to a Martian moon\nEarlier this month, the Japan Aerospace Exploration Agency launched a spacecraft to recover samples from Phobos, one of Mars’ moons. Because Phobos may have gotten sprayed with Martian dust when impactors hit the Red Planet, researchers hope the samples contain bits of Mars.\nMars’ past watery environment is one reason that researchers think the planet could have hosted life long ago, since all known organisms need water.\n“The findings lend support to the idea that early Mars had the necessary ingredients and conditions to harbor life,” study co-author Lee Saper, a geochemist at NASA’s Ames Research Center and the Bay Area Environmental Research Institute, tells Reuters’ Will Dunham. However, they “do not directly answer the question of whether there was life on Mars.”\nThe researchers say Teghaza 001 likely came from Mars’ Noachian southern highlands, since the meteorite’s chemical makeup matches what NASA’s Mars Reconnaissance Orbiter has observed there. They’ve "
     },
     {
      "source": "NYT Science",
@@ -706,41 +877,6 @@
    ]
   },
   {
-   "id": "cfb3fdd1afc",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Verge",
-     "trust": 2,
-     "url": "https://theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-     "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-     },
-     "id": "fb3fdd1afc249f62",
-     "published": "2026-10-31T18:40+00:00",
-     "text": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company’s CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of “less liquid” tokens, which the company says may take longer to acquire.\nBinance CEO says 90 percent of stolen assets have been ‘replenished’\nMost of the $6.3 billion in crypto stolen from Binance users has been restored.\nMost of the $6.3 billion in crypto stolen from Binance users has been restored.\nThe company also said in a post on X that, while withdrawals remain paused, they’re on track to be enabled on Sunday.\nOur commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident. We will continue to demonstrate this commitment through measurable progress, transparent reporting, and concrete actions.\nOur next milestone in focus is resuming the withdrawal services for users. We remain on track to reopen withdrawals within our previously stated timeframe (on Sunday, 2026-11-01) and will provide a further update as soon as details are confirmed.\nMost Popular\n- Sam Altman says it’s better for RAM to be in a data center than on your desk\n- The Apple Pencil turned the Duo into my new favorite notebook\n- Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop\n- I built an AI Tamagotchi before Meta could\n- The HomeView and Echo Show 16 could be the family computers I’ve been asking for"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1taFlQaHdFNi1RVmtQVXRPdlBsUE1oSHE5Y2dyMFR5dDAzaWRQTDJrUlBxb19LRlRjREhSTGU0d3JISVU0a3JkZHI2OXdVeTVENGstYXpLbXJDeTJxXzJZSVI1ZjY5UGRfRlFicGU4YmFpWWdnVFZNaHk4Nmk3N1U?oc=5",
-     "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’ - The Verge",
-     "lang": "en",
-     "extra": {},
-     "id": "ae82310ec26b4ee6",
-     "published": "2026-10-31T18:40+00:00",
-     "text": "Binance CEO says 90 percent of stolen assets have been ‘replenished’\nThe Verge\nSee more headlines & perspectives on Google News"
-    }
-   ]
-  },
-  {
    "id": "c9d449d2dca",
    "kind": "news",
    "score": 15.0,
@@ -755,10 +891,12 @@
      "url": "https://cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
      "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&w=1920&h=1080"
+     },
      "id": "13659a39d99759cb",
      "published": "2026-10-31T20:12+00:00",
-     "text": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years."
+     "text": "SpaceX's AI division, SpaceXAI, lost its bid to dismiss an NAACP lawsuit, which is proceeding in federal court in Mississippi, according to a judge's opinion released late Friday.\nThe lawsuit claims that the AI division of CEO Elon Musk's aerospace and defense tech conglomerate violated the Clean Air Act with its use of gas-fired combustion turbines to power its massive AI data centers in Greater Memphis.\nThe Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.\nThe Southern Environmental Law Center and Earthjustice filed the suit on behalf of the NAACP in the U.S. District Court for the Northern District of Mississippi in April 2026.\nThe suit alleges that between August and December 2025, xAI and its subsidiary MZX Tech, installed and operated 27 gas turbines in Southaven, Mississippi, \"without an air permit or regard for the health and safety of people living nearby.\"\n(SpaceXAI is owned and operated by SpaceX, which has rebranded it as SpaceXAI or SpaceXSI.)\nThe turbines emit smog-forming pollutants and particulate matter that can increase health risks and cause an unpleasant odor, among other unwanted impacts, according to the suit.\nLawyers for SpaceXAI argued in their motion to dismiss, filed in June, that the NAACP suit should be tossed because the company's use of the turbines, which it characterized as \"mobile,\" was exempt from permitting requirements. They also argued that NAACP didn't have a right to sue under the federal Clean Air Act, and suits by such community groups were unconstitutional.\nThe judge presiding over the case rejected those arguments, writing: \"Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not 'mobile sources' under Mississippi's SIP, and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs' claims will proceed.\"\nThe decision comes about two weeks after the same court rejected a Department of Justice's request to end the case against Musk's company.\nSpaceX did not immediately respond to a request for comment."
     },
     {
      "source": "Google News Business EN",
@@ -948,6 +1086,28 @@
      "text": "Highlights from qualifying for the 2026 Mexico City Grand Prix."
     },
     {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/f1/lewis-hamilton-lando-norris-hungary-george-russell-kimi-antonelli-b3076970.html",
+     "title": "Lewis Hamilton storms to first pole position in three years in Mexico",
+     "lang": "en",
+     "extra": {},
+     "id": "c4e966e0971c0ae4",
+     "published": "2026-10-31T22:33+00:00",
+     "text": "Hamilton showed every bit of that with a stunning display to take his first Ferrari pole and his first since Hungary in 2023 – 1,197 days ago."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/f1/lewis-hamilton-f1-pole-position-ferrari-mexican-grand-prix-b3076973.html",
+     "title": "Lewis Hamilton claims shock first Ferrari pole – and first in three years: ‘Lost for words’",
+     "lang": "en",
+     "extra": {},
+     "id": "bdd4b021d1b9b59e",
+     "published": "2026-10-31T22:39+00:00",
+     "text": "The 41-year-old claimed his first grand prix pole in Ferrari red at the Mexico City Grand Prix"
+    },
+    {
      "source": "BBC Sport",
      "trust": 2,
      "url": "https://bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
@@ -957,17 +1117,41 @@
      "id": "93db889f9c195cfb",
      "published": "2026-10-31T23:07+00:00",
      "text": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix."
-    },
+    }
+   ]
+  },
+  {
+   "id": "c935b3df5c6",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "SpaceX Starship Flight 15: Launch date, objectives, and what to expect",
+   "official_image": null,
+   "sources": [
     {
-     "source": "ABC Australia",
+     "source": "Interesting Engineering",
      "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/lewis-hamilton-on-pole-f1-mexico-city-gp-oscar-piastri-13th/106998724",
-     "title": "Hamilton takes F1 pole in Mexico, Piastri down in 13th",
+     "url": "https://interestingengineering.com/space/spacex-starship-flight-15-launch-date-objectives",
+     "title": "SpaceX Starship Flight 15: Launch date, objectives, and what to expect",
      "lang": "en",
      "extra": {},
-     "id": "b7dc8191528b3129",
-     "published": "2026-10-31T23:23+00:00",
-     "text": "Lewis Hamilton turns back the clock by taking pole for the F1 Mexico City Grand Prix, while Australian Oscar Piastri's disastrous day sees him miss out on the top 10."
+     "id": "935b3df5c6c05392",
+     "published": "2026-10-31T16:20+00:00",
+     "text": "SpaceX is targeting November 2026 for the 15th integrated flight test of its Starship rocket, with the mission expected to attempt a major milestone: catching the spacecraft’s upper stage at its launch tower after returning from space.\nThe company is also preparing to recover the Super Heavy booster, potentially bringing both stages of its massive launch system back to the launch site.\nAs of October 28, SpaceX has not announced an official launch date. However, preparations are progressing at Starbase in South Texas, where the company is testing the vehicles assigned to the mission.\nThe flight will build on September’s Flight 14, which reached orbit and deployed 26 next-generation Starlink V3 satellites.\nSpaceX is currently targeting November, although the launch date will depend on testing, vehicle readiness, and regulatory approval.\nOn October 25, the company conducted a full-duration static-fire test of Super Heavy Booster 22, igniting all 33 Raptor engines for about 15 seconds. The test allows engineers to assess engine and vehicle systems while the booster remains secured to the ground.\nAccording to Space.com, the booster will fly with Starship upper stage Ship 42. The spacecraft has completed its own engine test and is undergoing final systems checks ahead of the launch.\nThe Federal Aviation Administration’s launch authorization is another factor. SpaceX President and Chief Operating Officer Gwynne Shotwell said during an October earnings call that the company expected its license for Flight 15 to cover return-to-launch-site operations and tower catches for both stages, as reported by Ars Technica.\nThe primary objective is to demonstrate the recovery of both components of the Starship launch system. After liftoff, Super Heavy provides the initial thrust needed to propel Starship toward orbit before separating from the upper stage. SpaceX plans to guide the booster back to Starbase, where mechanical arms mounted on the launch tower, nicknamed “chopsticks,” will attempt to catch it.\nSpaceX has already demonstrated booster catches on earlier flights. Flight 15, however, is expected to use the upgraded Booster 22 and attempt the recover both stages in the same mission.\nThe more ambitious objective is to catch Ship 42 after its orbital flight. Starship will need to reenter the atmosphere, withstand intense heating, and maneuver toward the launch tower for a controlled capture. The spacecraft has previously performed controlled ocean splashdowns, but a tower catch would be a significant step toward making the entire system reusable.\nRecovering both stages could eventually reduce refurbishment requirements and the cost of launching payloads. However, a successful catch alone would not prove that Starship can be rapidly inspected, refurbished, and reflown.\nFlight 15 also follows a significant milestone from the previous mission. On September 28, Flight 14 reached orbit and deployed 26 Starlink V3 satellites, demonstrating Starship’s ability to carry operational payloads. However, a Raptor engine shut down prematurely during ascent, shortening the planned mission.\nSpaceX has not officially confirmed Flight 15’s payload, though it has discussed another Starlink deployment as a possibility. The program also has implications for NASA’s Artemis lunar exploration campaign.\nSpaceX is developing a modified Starship upper stage to serve as a lunar lander, but the vehicle must demonstrate additional capabilities before it can transport astronauts t"
+    },
+    {
+     "source": "Engadget",
+     "trust": 2,
+     "url": "https://engadget.com/2300227/how-big-powerful-spacex-starship-rocket",
+     "title": "How big and powerful is SpaceX's Starship rocket?",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.engadget.com/img/gallery/how-big-and-powerful-is-spacexs-starship-rocket/l-intro-1793113657.jpg"
+     },
+     "id": "d207d840f80f71de",
+     "published": "2026-10-31T23:45+00:00",
+     "text": "How big and powerful is SpaceX's Starship rocket?\nBigger isn't always better, but when it comes to space exploration, it just might be.\nWith both stages stacked, the current SpaceX Starship launch vehicle stands at 407 feet. It's taller than the tallest known living tree, Hyperion, and one-third taller than the Statue of Liberty (pedestal included). It's the tallest rocket ever flown and the most powerful, with 18.1 million pounds-force of liftoff thrust. During its first full-stack launch in April 2023, the booster's exhaust shattered the concrete launch pad, excavating the earth beneath and flinging debris across 385 acres. That booster was rated at 16.7 million pounds of thrust, slightly less than the one on the September 28, 2026, launch.\nKeep in mind that this height covers the complete two-stage vehicle. The bottom section, known as Super Heavy, is the 236.2-foot booster that provides the initial push from the launch pad. Above it sits the 170.6-foot Starship spacecraft. While it's immense in size and power, its dimensions serve a greater purpose than impressions alone. SpaceX designed the system to transport huge payloads and eventually carry people and cargo beyond Earth orbit. SpaceX also intends to recover and reuse both stages.\nHow much power does Starship produce?\nThe Super Heavy booster packs 33 Raptor engines, which burn liquid methane and liquid oxygen to generate 18.1 million pounds-force of booster thrust. For an interesting perspective, NASA's Space Launch System produces 8.8 million to 9.4 million pounds of max thrust. Once Super Heavy separates, Starship will go on, powered by three regular Raptor engines and three Raptor Vacuum engines designed to operate in space. SpaceX lists the upper stage's thrust at roughly 3.5 million pounds-force. Only the booster figure represents liftoff thrust.\nThe rocket's immense power has to do more than fight gravity to lift heavy payloads. Super Heavy has a listed propellant capacity of 3,650 metric tons, and Starship holds an additional 1,600 metric tons. That's 5,250 metric tons on top of everything else. With all of that weight, the world's most powerful rocket still depends on staging, very efficient engines and a considerable degree of careful pre-launch planning.\nCan Starship go to the Moon without refueling?\nDespite all of today's technological advancements, Starship will still have to refuel in Earth orbit, at least as far as NASA's planned lunar-landing missions are concerned. The SpaceX lunar lander burns through a significant portion of its propellant just to reach orbit and will have to refuel.\nSpaceX and NASA's game plan includes several specialized vehicles, including a propellant depot that launches first, followed by tanker Starships that deliver fuel. The lunar lander launches last, docks with the depot and takes on propellant.\nAll of this takes place before the crew launches aboard NASA's Orion spacecraft (part of the Artemis program), after which they will meet with the prepositioned Starship lander in Earth orbit before Starship pushes both spacecraft to lunar orbit. The Starship lander will then carry two crew members to the Moon's surface and back. Transporting and storing extremely cold propellants in space is a herculean technical challenge, so planned stages, refueling and a complicated support system are necessary to pull everything off successfully."
     }
    ]
   },
@@ -1045,6 +1229,39 @@
      "id": "2a1376fe802cdd6d",
      "published": "2026-10-31T20:29+00:00",
      "text": "The volunteer team is seeking pro bono legal aid."
+    }
+   ]
+  },
+  {
+   "id": "cb7dc819152",
+   "kind": "news",
+   "score": 13.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/not-sure-what-happened-piastri-reflects-on-bizarre-q2-exit-in-mexico-city-gp-qualifying.7FPexiMg5O7poV0hFEoCxe",
+     "title": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
+     "lang": "en",
+     "extra": {},
+     "id": "c403f398605d210e",
+     "published": "2026-10-31T23:45+00:00",
+     "text": "Oscar Piastri admits he is \"not sure what happened\" as the McLaren driver was eliminated in Q2 ahead of the Mexico City Grand Prix."
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/lewis-hamilton-on-pole-f1-mexico-city-gp-oscar-piastri-13th/106998724",
+     "title": "Hamilton takes F1 pole in Mexico, Piastri down in 13th",
+     "lang": "en",
+     "extra": {},
+     "id": "b7dc8191528b3129",
+     "published": "2026-10-31T23:23+00:00",
+     "text": "Lewis Hamilton turns back the clock by taking pole for the F1 Mexico City Grand Prix, while Australian Oscar Piastri's disastrous day sees him miss out on the top 10."
     }
    ]
   },
@@ -1148,46 +1365,48 @@
    ]
   },
   {
-   "id": "c6d90d95fc8",
+   "id": "c8a5c1d88ba",
    "kind": "news",
    "score": 13.0,
    "sensitive": true,
    "distinct_sites": 3,
-   "title_hint": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+   "title_hint": "North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far",
    "official_image": null,
    "sources": [
     {
-     "source": "CoinDesk",
+     "source": "Digital Trends",
      "trust": 2,
-     "url": "https://coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-     "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+     "url": "https://digitaltrends.com/computing/north-korean-hackers-pull-6-3-billion-crypto-heist-in-binance-one-of-the-biggest-thefts-so-far",
+     "title": "North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far",
      "lang": "en",
      "extra": {},
-     "id": "6d90d95fc817fd43",
-     "published": "2026-10-30T16:31+00:00",
-     "text": ""
+     "id": "8a5c1d88baae3ee5",
+     "published": "2026-10-30T19:19+00:00",
+     "text": "North Korean hackers allegedly stole $6.36 billion in cryptocurrency from Binance across 10 blockchains. While cryptocurrency issuers and networks froze approximately $2.7 billion, the remaining stolen assets pose a major challenge."
     },
     {
-     "source": "Cointelegraph",
+     "source": "NYT World",
      "trust": 2,
-     "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
-     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+     "url": "https://nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
      "lang": "en",
      "extra": {},
-     "id": "8703aea9881e82c3",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades."
+     "id": "a99c268c18cb3a6c",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime."
     },
     {
-     "source": "CNBC Tech",
-     "trust": 2,
-     "url": "https://cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-     "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5",
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist. - The New York Times",
      "lang": "en",
-     "extra": {},
-     "id": "0fd15cd19649fd3d",
-     "published": "2026-10-31T22:27+00:00",
-     "text": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks."
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "065dd641f6c3eba6",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.\nThe New York Times\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -1373,10 +1592,12 @@
      "url": "https://wccftech.com/bill-ackman-says-elon-musk-might-have-to-borrow-a-trillion-dollars-of-capital-to-meet-spacexs-2027-compute-target-as-musk-eyes-petawatt-year-space-based-compute-capacity",
      "title": "Bill Ackman Says Elon Musk Might Have To Borrow “A Trillion Dollars Of Capital” To Meet SpaceX’s 2027 Compute Target, As Musk Eyes “Petawatt/Year” Space-Based Compute Capacity",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Elon-Musk-SpaceX-Bill-Ackman-1-1920x1281.jpg"
+     },
      "id": "edd7c14f25f0a59b",
      "published": "2026-10-31T22:55+00:00",
-     "text": "Elon Musk might have just popped the latest iteration of the AI bubble by loudly proclaiming a few days back that the \"debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers.\" In fact, Daytona.io - a platform that provides fast, isolated virtual sandboxes for running AI-generated code and AI agent workflows - cited Musk's X post while revealing that a GPU provider tried to renegotiate a signed contract and their banks cut their lending offers in half after Musk's post went viral. Interestingly, SpaceX's own borrowing […]"
+     "text": "Elon Musk might have just popped the latest iteration of the AI bubble by loudly proclaiming a few days back that the \"debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers.\"\nIn fact, Daytona.io - a platform that provides fast, isolated virtual sandboxes for running AI-generated code and AI agent workflows - cited Musk's X post while revealing that a GPU provider tried to renegotiate a signed contract and their banks cut their lending offers in half after Musk's post went viral.\nInterestingly, SpaceX's own borrowing might be about to go on an overdrive, at least according to the billionaire hedge fund manager, Bill Ackman.\nBill Ackman: If Elon Musk \"meets his objective, he might have to borrow a trillion dollars of capital\"\nAs we noted recently, SpaceX plans to end 2026 with 2.5-3 GW of compute capacity, which now includes plans for 1.2 million NVIDIA Blackwell GPUs at its Colossus 2 data center alone, and plans to add another 13 GW by the end of 2027, bringing its total capacity to around 20 GW.\nAgainst this backdrop, Bill Ackman has just shared his views on the AI buildout, declaring that he thinks this compute infrastructure-related frenzy is sustainable, barring the so-called neoclouds - cloud computing providers that deliver GPU-as-a-Service and AI inference capacity - who he thinks are in a similar league as highly levered real estate developers:\n\"So, I think it is sustainable because, you know, intelligence is again an enormously valuable asset. And I think the demand therefore for the compute that enables intelligence, I think, is going to be sustained.\"\n\"And, you know, the companies that are, you know, the hyperscalers that are building out a lot of this infrastructure have the financial resources, the creditworthiness in order to access the capital.\"\n\"I worry more about the pure play neocloud companies that are a bit like highly levered real estate developers playing a theme. I think they’re much more at risk. They’re much more sensitive to the cost of capital.\"\nWhile Ackman is much more sanguine on the prospects of the so-called hyperscalers, he does think that SpaceX might have to borrow as much as $1 trillion to achieve Elon Musk's ambitious compute-related buildout:\n\"But you have, I mean, SpaceX, Elon on the earnings call gave some projections for how many gigawatts of data centers he was going to open. If he meets his objective, he might have to borrow a trillion dollars of capital.\"\nDo note that Ackman appears to be pricing each GW of compute capacity at $50 billion ($1 trillion/20 GW). However, as we noted above, SpaceX only needs to add 13 GW of incremental compute capacity to achieve its cumulative target of 20 GW for 2027.\nAlso, given the fact that SpaceX's 2027 compute-related CapEx is expected to surge to $390 billion, we can infer a per GW cost of around $30 billion ($390 billion/13 GW) for this buildout phase. In short, SpaceX's actual debt load might be substantially less than the trillion-dollar-figure penciled in by Ackman.\nElsewhere, Sequoia's Shaw Maguire recently published an article on X, detailing his economic modeling on SpaceX. Elon Musk then replied to Maguire's post with a terse comment:\n\"Launching super intelligence satellites into deep space with a mass driver on the Moon can achieve >>petawatt/year capability, which would far exceed the best case value of Earth’s economy.\"\nBasically, Musk wants to place a lot "
     }
    ]
   },
@@ -1491,50 +1712,6 @@
      "id": "75a0fa199771d63e",
      "published": "2026-10-31T13:38+00:00",
      "text": "Time has passed since EA shut down the legendary RPG studio BioWare, and people are speculating about the reasons why the publisher did it. Bloomberg offers its own take in a report claiming EA closed down BioWare and cancelled the next Mass Effect game to invest in Star Wars: Battlefront 3."
-    }
-   ]
-  },
-  {
-   "id": "c871b81f930",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Ars Technica",
-     "trust": 2,
-     "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
-     "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-     "lang": "en",
-     "extra": {},
-     "id": "871b81f930c7e6ad",
-     "published": "2026-10-30T16:53+00:00",
-     "text": "The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans.\nIn a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals\" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun.\n“If you steal American identities, if you steal taxpayer dollars, if you exploit programs meant to help students build a future—we will find you,” McDonald said. “Whether you are in Nebraska, New Jersey, Virginia, or Nairobi, we will pursue you.”"
-    },
-    {
-     "source": "Tom's Hardware",
-     "trust": 2,
-     "url": "https://tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for",
-     "title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
-     "lang": "en",
-     "extra": {},
-     "id": "abbcaf417185fbf8",
-     "published": "2026-10-31T15:37+00:00",
-     "text": "<p>Jowi Morales is a writer and journalist covering the tech beat since 2021. However, he’s been interested in technology far earlier than that. He started discovering desktop computers when his father brought home a Windows 95 PC, but his first real experience working under the hood of the PC was when the old computer’s hard drive was filled to the brim in the year 2000. He deleted the Windows folder to attempt to rectify the situation, which led to his dad buying a new desktop PC. Since then, he learned a lot more about computers, and he’s always been the go-to tech expert for his family and friends.</p><p>Jowi primarily uses a Windows workstation and an Android phone, but he also bought into the Apple ecosystem with the 6th-gen iPad, iPhone 14 Pro Max, and the M1 MacBook Air. Today, Jowi covers hardware and software from Redmond and Cupertino, while also looking at the tech industry in general.</p><p>Aside from covering technology, Jowi is an avid photographer and writes about automobiles, aviation, and tanks. You can find his bylines at <a href=\"https://www.makeuseof.com/author/jowi-morales/\">MakeUseOf</a>, <a href=\"https://www.slashgear.com/author/jowimorales/\">SlashGear</a>, and, of course, <a href=\"https://www.tomshardware.com/author/jowi-morales\">Tom’s Hardware</a>.</p>"
-    },
-    {
-     "source": "Slashdot",
-     "trust": 1,
-     "url": "https://yro.slashdot.org/story/26/10/30/204230/thousands-of-ghost-students-use-ai-to-steal-millions-in-student-loans-doj-says",
-     "title": "Thousands of 'Ghost Students' Use AI to Steal Millions In Student Loans, DOJ Says",
-     "lang": "en",
-     "extra": {},
-     "id": "455d4d9b9d06ce88",
-     "published": "2026-10-30T20:07+00:00",
-     "text": "The Justice Department has charged five people in a crackdown on \"ghost student\" fraud, in which scammers allegedly use stolen identities and AI to enroll fake students in colleges, complete coursework, and collect federal student loan funds. Ars Technica reports: In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from \"a network associated with Kenyan nationals\" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ's National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that \"this is the first international seizure of its kind in Kenya,\" while warning fraudsters that the crackdown has only just begun.\n[...] At a press conference, McDonald was joined by FBI and Department of Education officials to explain how the scheme works. It starts with bad actors purchasing personally identifiable information (PII) of Americans -- most frequently targeting high school graduates who never attended college and went straight into the workforce. Once they have that sensitive data, they fill out the Free Application for Federal Student Aid (FAFSA) while seeking to enroll in universities and community colleges. If accepted, student aid is distributed first to schools to cover tuition and fees, but any leftover money is deposited into bank accounts controlled by the fraudsters. Dozens of Americans have opened bank accounts to act as money mules for fraudsters, the DOJ said.\nTo keep money flowing, bad actors use AI to fill out applications, complete coursework, and even make it appear that a student is attending virtual sessions. \"It looks like the ghost student is actually completing the class,\" McDonald said at the press conference. \"Some even create the appearance of a fake student in an online classroom to trick schools into believing a real person is present. The goal is to keep the ghost student in school for as long as possible, semester after semester after semester.\" So far, the DOE has \"identified over 830,000 potentially fraudulent federal student aid accounts created by using this PII of US citizens,\" officials said at the press conference. If all those accounts are ghost students, total losses come close to $130 million, the DOJ said.Read more of this story at Slashdot."
     }
    ]
   },
@@ -1965,101 +2142,114 @@
    ]
   },
   {
-   "id": "c2a8cc158ef",
+   "id": "c9280e35c6e",
    "kind": "news",
    "score": 12.0,
    "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "SCUF Nemesis Pro 8K PC Wireless Controller Review: Almost Unbeatable",
+   "distinct_sites": 4,
+   "title_hint": "A third weekend of protests in France as youth-led rallies sweep Europe",
    "official_image": null,
    "sources": [
     {
-     "source": "Wccftech",
+     "source": "PBS NewsHour",
      "trust": 2,
-     "url": "https://wccftech.com/review/scuf-nemesis-pro-8k-pc-review",
-     "title": "SCUF Nemesis Pro 8K PC Wireless Controller Review: Almost Unbeatable",
+     "url": "https://pbs.org/newshour/world/a-third-weekend-of-protests-in-france-as-youth-led-rallies-sweep-europe",
+     "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
      "lang": "en",
      "extra": {},
-     "id": "2a8cc158ef0e0467",
-     "published": "2026-10-31T18:00+00:00",
-     "text": "SCUF's premium controllers have mostly remained out of reach due to hefty price tags, but they bring their own advantages compared to similar offerings by most vendors. With the launch of SCUF's Nemesis Pro 8K PC controller, enthusiasts can now get their hands on the more affordable wired version, which was released at $119. While still more expensive than some of the best wireless mid-range PC controllers, the Nemesis Pro 8K PC tries something that only a handful of controllers have tried to do. Based on the SCUF's Valor Xbox controller, the Nemesis Pro is the company's first-ever 8K offering […]\nRead full article at https://wccftech.com/review/scuf-nemesis-pro-8k-pc-review/"
-    }
-   ]
-  },
-  {
-   "id": "cc403f39860",
-   "kind": "news",
-   "score": 11.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
-   "official_image": null,
-   "sources": [
+     "id": "9280e35c6edf18a2",
+     "published": "2026-10-31T17:14+00:00",
+     "text": "About 70,000 police and gendarmes were deployed across the country after French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween."
+    },
     {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/not-sure-what-happened-piastri-reflects-on-bizarre-q2-exit-in-mexico-city-gp-qualifying.7FPexiMg5O7poV0hFEoCxe",
-     "title": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+     "title": "France seethes again as youth-led protests sweep Europe",
      "lang": "en",
      "extra": {},
-     "id": "c403f398605d210e",
-     "published": "2026-10-31T23:45+00:00",
-     "text": "Oscar Piastri admits he is \"not sure what happened\" as the McLaren driver was eliminated in Q2 ahead of the Mexico City Grand Prix."
+     "id": "354e8865507a494e",
+     "published": "2026-10-31T19:30+00:00",
+     "text": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.\n(Image credit: Aurelien Morissard)"
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/germany-france-europe-youth-protests/107333208",
+     "title": "Third weekend of protests in France as youth-led rallies sweep Europe",
+     "lang": "en",
+     "extra": {},
+     "id": "b63957a633d50a5e",
+     "published": "2026-10-31T23:56+00:00",
+     "text": "Hundreds of thousands of protesters, inspired by frustrated high school students, take to the streets across France in demonstrations over living costs and education."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
+     "title": "A third weekend of protests in France as youth-led rallies sweep Europe - AP News",
+     "lang": "en",
+     "extra": {},
+     "id": "3f52ba3c342a2c7d",
+     "published": "2026-10-31T21:17+00:00",
+     "text": "A third weekend of protests in France as youth-led rallies sweep Europe\nAP News\nSee more headlines & perspectives on Google News"
     }
    ]
   },
   {
-   "id": "c641e9b9e58",
+   "id": "cae8732c13e",
    "kind": "news",
-   "score": 11.0,
+   "score": 12.0,
    "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Who could be behind the Binance hack and what we know so far",
+   "distinct_sites": 4,
+   "title_hint": "‘Green Room’ Writer/Director Recalls How Patrick Stewart “Saved The Day” When Film Was Almost Axed, Would Tell Fans: “Don’t Root For The Nazis”",
    "official_image": null,
    "sources": [
     {
-     "source": "BBC Tech",
+     "source": "Deadline",
      "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
-     "title": "Who could be behind the Binance hack and what we know so far",
+     "url": "https://deadline.com/2026/10/green-room-patrick-stewart-saved-the-day-1237210678",
+     "title": "‘Green Room’ Writer/Director Recalls How Patrick Stewart “Saved The Day” When Film Was Almost Axed, Would Tell Fans: “Don’t Root For The Nazis”",
      "lang": "en",
      "extra": {},
-     "id": "641e9b9e58ec75be",
-     "published": "2026-10-30T11:57+00:00",
-     "text": "Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far"
+     "id": "3241f74ab9cc503a",
+     "published": "2026-10-31T22:01+00:00",
+     "text": "More than a decade later, Green Room writer/director Jeremy Saulnier is expressing his gratitude for Patrick Stewart helping get the film made. During a screening of the 2015 movie on Friday, one day after Stewart died at age 86, Saulnier paid his respects to the late 3x Golden Globe nominee and explained how he “saved […]"
     },
     {
-     "source": "BBC Business",
+     "source": "Variety",
      "trust": 2,
-     "url": "https://bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-     "title": "What we know about Binance's $6.3bn hack",
+     "url": "https://variety.com/2026/film/news/green-room-director-patrick-stewart-1236936405",
+     "title": "‘Green Room’ Director Remembers Patrick Stewart as a ‘F—ing Sweetheart’ and Credits Him for Rescuing the Film: He ‘Swooped Down’ ‘Into Our Cruddy Ass Movie and Saved Us’",
      "lang": "en",
      "extra": {},
-     "id": "5c182c89bda244a7",
-     "published": "2026-10-30T12:27+00:00",
-     "text": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
+     "id": "a6cda5485964bd37",
+     "published": "2026-10-31T22:45+00:00",
+     "text": "“Green Room” writer and director Jeremy Saulnier paid tribute to late actor Patrick Stewart, who starred in the film and whom he credits with saving the day when they were “close to shutting down,” during a 10th-anniversary screening of the 2015 film in Los Angeles on Friday. Stewart died one day earlier, on Thursday, at […]"
     },
     {
-     "source": "Financial Times Tech",
+     "source": "Hollywood Reporter",
      "trust": 2,
-     "url": "https://ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1",
-     "title": "What we know about the $6.3bn Binance hack",
+     "url": "https://hollywoodreporter.com/movies/movie-news/how-patrick-stewart-saved-green-room-scrapped-jeremy-saulnier-1236744241",
+     "title": "‘Green Room’ Director Recalls How Patrick Stewart “Saved” Movie From Being Scrapped",
      "lang": "en",
-     "extra": {},
-     "id": "ab02bae0a402dd9c",
-     "published": "2026-10-30T13:23+00:00",
-     "text": "Analysis suggests hackers bypassed standard methods used in crypto thefts"
+     "extra": {
+      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/MCDGRRO_EC013-e1793488235310.jpg?w=1440&h=810&crop=1"
+     },
+     "id": "3aaa98b4ca8ed53e",
+     "published": "2026-11-01T00:13+00:00",
+     "text": "Green Room director Jeremy Saulnier paid tribute to Patrick Stewart ahead of a Los Angeles screening of the film on Friday, recalling how the sci-fi icon “just swooped down, nosedived into our cruddy ass movie and saved us.”\nCelebrating the film’s 10th anniversary, Saulnier addressed the crowd and noted Stewart’s death at 86.\n“Who’s sad as fuck we lost Patrick Stewart yesterday? Me,” he said in a video posted on the Film Updates X account. “I came here to shamelessly promote Slayground, but instead, I’m just gonna celebrate Patrick Stewart. He had no business doing this movie. He every option to do otherwise.”\nRelated Stories\nThe director remembered how production on Green Room was “at the point of no return, building sets, and under the gun without Darcy,” noting that the lead character of Darcy Banker had not yet been cast. However, that’s when the Star Trek star came in.\n“We’re fucked, and we were close to shutting down. And Patrick Stewart, out of the blue, sort of expressed interest in the project,” Saulnier said. “And in a whirlwind, about a week later, I was on the phone with him. I left the stage [thinking,] ‘Maybe we’re gonna have to break down the sets and shut the whole movie down.’ Instead, this dude came out of nowhere, from way above our sort of zone, and just swooped down, nosedived into our cruddy ass movie and saved us, and said yes. And the movie was instantly greenlit.”\n“We moved forward, and I thank him for just taking that leap and making Green Room a thing,” he added. “Patrick Stewart is why I still can make movies. He saved the day. Too good to be true.”\nThe Rebel Ridge director remembered Stewart as a “fucking sweetheart, true gentleman, [who was a] very kind leader to our whole cast.” He also shared a story about how one day, the actor came to him and said he “wanted to add a little something” to a scene.\n“I was like, ‘What is it, Patrick?’ He’s like, ‘Well, during this one part of the scene, when the camera’s coming through there, I’d like to say, fuck!’ And I was like, ‘And?’ ‘Just fuck.’ I was like. ‘Permission granted, sir,’” Saulnier recounted. “And I just knew that he was completely aligned with the film, its aesthetic, its intentions and with me as a filmmaker, and it was just this lovely, lovely thing.”\nStewart died Wednesday at his home in Los Angeles following “a brief and poignant journey with Alzheimer’s disease and Lewy body dementia,” longtime spokesperson Kelly Bush Novak announced. After his death, his former co-stars and Hollywood notables shared an outpouring of tributes.\nAmong those who have paid homage to the X-Men star are Ian McKellen, Kevin Feige, William Shatner, Seth MacFarlane, Hugh Jackman, Minnie Driver, Rebecca Romijn, Halle Berry and James Marsden, among many others."
     },
     {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
-     "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHZlM1YxTU1jUlVFU2VLUG1yWklVd2FBOXJqTERrSDE5a1B3TGtvd1BuN2RaUjdrLXJ6VjNBbmJ5M3NCVVlGRUU0MjNMRnRhRmZLeE80OHJrVURfT0RCTGdIU1BvdFZKc1JIbHpIbzkzUEM3QnRFemp0cF9jTTFndDdIbmxFMjA1?oc=5",
+     "title": "'Green Room' Writer/Director Says Patrick Stewart \"Saved The Day\" - Deadline",
      "lang": "en",
      "extra": {},
-     "id": "6b1be1f91ba0e7c6",
-     "published": "2026-10-30T14:17+00:00",
-     "text": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works."
+     "id": "ae8732c13e973b57",
+     "published": "2026-10-31T22:01+00:00",
+     "text": "- 'Green Room' Writer/Director Says Patrick Stewart \"Saved The Day\" Deadline\n- What Patrick Stewart’s ‘brief’ dementia journey reveals about lifespans after diagnosis The Washington Post\n- Patrick Stewart’s Death Shows Dementia Is More Than Memory Loss Forbes\n- Patrick Stewart taught us what good men do with power Vox\n- ‘Star Trek’ Actor Wil Wheaton Tells Stephen Miller to Keep Patrick Stewart’s Name Out of His ‘Nazi Mouth’ Yahoo"
     }
    ]
   },
@@ -2141,6 +2331,39 @@
    ]
   },
   {
+   "id": "c6b1be1f91b",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Decrypt",
+     "trust": 2,
+     "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+     "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+     "lang": "en",
+     "extra": {},
+     "id": "6b1be1f91ba0e7c6",
+     "published": "2026-10-30T14:17+00:00",
+     "text": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works."
+    },
+    {
+     "source": "NYT Technology",
+     "trust": 2,
+     "url": "https://nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+     "title": "How Binance’s $6.3 Billion Hack Went Down",
+     "lang": "en",
+     "extra": {},
+     "id": "0f24b9066b4e8103",
+     "published": "2026-10-31T22:19+00:00",
+     "text": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange."
+    }
+   ]
+  },
+  {
    "id": "c8fb7584dbf",
    "kind": "news",
    "score": 11.0,
@@ -2177,10 +2400,12 @@
      "url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
      "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/elon-musk-changpeng-zhao-decrypt-style-gID_7.jpg"
+     },
      "id": "a59c27785290a506",
      "published": "2026-10-30T16:25+00:00",
-     "text": "After Musk appeared to mock Binance’s $6.3 billion hack, CZ reminded him that the exchange’s $500 million bet on his Twitter takeover is now worth over $1 billion in SpaceX shares."
+     "text": "In brief\n- CZ asked Elon Musk to stop trolling Binance over its $6.3 billion hack, citing the exchange's SpaceX shares, which he values at more than $1 billion.\n- Binance co-CEO Yi He said the company's annual revenue is sufficient to cover the losses without selling its SpaceX holdings. CZ later clarified that he had never suggested selling the shares.\n- Binance has reserved more than $6.34 billion in company funds to cover the incident, while TRM Labs and Chainalysis have attributed the attack to North Korea-linked hacking group TraderTraitor.\nBinance co-founder Changpeng Zhao, better known as CZ, called out Elon Musk on Friday after the billionaire appeared to mock the exchange following a $6.4 billion hack—the largest in history—reminding him that Binance holds SpaceX shares worth more than $1 billion.\n\"Elon, have a lot of respect for you, but bad time to troll. Please stop,\" CZ wrote on X. \"Our SPCX shares (from our $500m investment in your Twitter takeover) are worth more than a billion. Would appreciate if you show a little support. Thanks!\"\nThe exchange followed Musk's response to a post estimating that, as a lot of the stolen funds have been frozen, Binance's losses could reach around $1 billion, despite holding approximately $144 billion in assets under custody.\nMusk had replied to the discussion with a grimacing emoji, prompting another user to share an old post from former FTX CEO Sam Bankman-Fried claiming his exchange had enough money to cover its losses. FTX famously collapsed weeks later.\nElon, have a lot of respect for you, but bad time to troll. Please stop.\nOur SPCX shares (from our $500m investment in your Twitter takeover) are worth more than a billion.\nWould appreciate if you show a little support. Thanks!\n— CZ 🔶 BNB (@cz_binance) October 30, 2026\nCZ had initially responded to the loss estimate by saying the damage might be somewhat higher but that Binance would still be able to cover it. Musk's emoji appeared to draw an uncomfortable parallel with the FTX episode, although he did not elaborate on what he meant.\nOf course, CZ didn't imply anything else about what Binance may do with its SpaceX shares.\nBinance co-CEO Yi He also joined the exchange, addressing CZ in a post that appeared to respond to the suggestion that the company might need to liquidate its SpaceX holdings.\n\"Reporting to the major shareholder: Our company's revenue for the year is sufficient to cover the losses, so we do not yet need to sell the SpaceX shares you are bullish on,\" she wrote, adding a shrugging emoji.\nCZ subsequently clarified that he had never suggested selling the shares. He said he was simply showing Musk some of the funds Binance had available, hoping to reassure him about the exchange's financial position.\n😂 did say anything about selling SPCX shares, was just saying/showing some funds that he might know, so that he can be less worried.\n— CZ 🔶 BNB (@cz_binance) October 30, 2026\nThe argument comes as Binance deals with the largest cryptocurrency theft on record. At least $6.4 billion in crypto was taken from wallets associated with the exchange on Thursday, October 29, across multiple blockchains.\nJust yesterday, initial reports showed that at least $5.57 billion had left Binance-linked wallets across Ethereum, Bitcoin, and Tron. The attackers moved funds through several transactions, including a transfer of more than $1.6 billion in USDT to a newly created Ethereum address.\nThe incident also exposed an important weakness in how "
     }
    ]
   },
@@ -2243,10 +2468,12 @@
      "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
      "title": "As it happened: Binance’s record $6.3B crypto hack",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg"
+     },
      "id": "3a8f5c45bf961345",
      "published": "2026-10-30T16:49+00:00",
-     "text": "How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation."
+     "text": "As it happened: Binance’s record $6.3B crypto hack\nHow Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation.\nLive coverage has ended. The updates below document Cointelegraph’s reporting on the record $6.3 billion Binance hack as events unfolded.\nWhat we know about the Binance hack:\n- Binance says the estimated total impact is around $6.3 billion and the verified total value of crypto frozen is $3 billion. This could increase as investigators trace additional assets.\n- Binance says deposits are operating normally, and withdrawals are expected to resume as scheduled.\n- Assets frozen include Tether USDt (USDT), USDC (USDC), Ripple USD (RLUSD), World Liberty Financial USD (USD1), StraitsX USD (XUSD), USDT0 (USDT0), Wrapped Beacon ETH (WBETH), Tether Gold (XAUT), Pax Gold (PAXG), Pax Dollar (USDP) and Arbitrum (ARB).\n- Cybersecurity analysts suspect North Korea’s TraderTraitor is behind the attack.\n- Binance says investigators have uncovered additional points of breach after initially pointing to a potentially compromised engineer’s laptop.\n- Binance says it has set aside more than $6.34 billion in company funds to cover losses, including $5 billion already held in the same tokens stolen.\nOct. 30 at 2:34 pm UTC\nBinance targets withdrawals within 40 hours, reserves report by Monday\nBinance is aiming to resume withdrawals within 40 hours and publish a full proof-of-reserves report by Monday, co-CEO Richard Teng said.\nTeng said the exchange hopes to restore access before its Sunday deadline and provide an initial reserves snapshot ahead of Monday’s report.\nTeng also disclosed that the attacker used a “self-destruct mechanism” to destroy tools and traces during the breach, complicating the investigation.\nThe attacker used an EIP-7702 delegation to gain execution authority over a hot wallet, Teng said. That delegation “did not pass through our normal approval controls.”\nOct. 30 at 1:57 pm UTC\nAave lifts precautionary freeze across all V3 and V4 markets\nNew deposits and borrowing have resumed across all Aave V3 and V4 markets after a precautionary freeze following the Binance hack, the lending protocol said.\nWithdrawals and repayments remained available throughout the freeze. Aave said its contracts were unaffected by the incident.\nFounder Stani Kulechov confirmed that lending and borrowing were re-enabled, saying all positions remained overcollateralized.\nOct. 30 at 1:11 pm UTC\nBinance working with FBI to recover assets following $6.3B hack\nBinance is working with the FBI to help recover some of the funds stolen in the record $6.3 billion exploit, according to a source familiar with the matter said.\nThe cryptocurrency exchange revealed its cooperation with law enforcement in an X post, without specifying the agencies involved.\nOct. 30 at 12:41 pm UTC\nBinance says it holds $5B in matching tokens to cover hack losses\nA Binance spokesperson told Cointelegraph that the $5 billion in matching tokens is held in the exchange’s custody.\nThe spokesperson declined to disclose wallet addresses, citing security reasons. Binance did not disclose when it acquired the assets.\nThe exchange also said it submits weekly reports on company funds to Abu Dhabi’s Financial Services Regulatory Authority under a requirement that predated the hack.\nOct. 30 at 11:07 am UTC\nYi He says Binance is buying altcoins to replace stolen tokens\nBinance is buying altcoins in quantities matching those "
     },
     {
      "source": "Cointelegraph",
@@ -2257,29 +2484,7 @@
      "extra": {},
      "id": "7a77abea153dc6cd",
      "published": "2026-10-30T16:53+00:00",
-     "text": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge."
-    }
-   ]
-  },
-  {
-   "id": "c6636fcb789",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Rare meteorite from Mars gives us a view into its ancient crust",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Ars Technica",
-     "trust": 2,
-     "url": "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust",
-     "title": "Rare meteorite from Mars gives us a view into its ancient crust",
-     "lang": "en",
-     "extra": {},
-     "id": "6636fcb789950d92",
-     "published": "2026-10-30T18:13+00:00",
-     "text": "Crater counts tell us that most of the Martian surface is more than 3 billion years old, but pieces of Mars we have on Earth tell a different story. The three main classes of Martian meteorites—shergottites, nakhlites, and chassignites—are all 2.4 billion years old or younger. Until now, only two genuinely ancient Martian meteorites were known: Allan Hills 84001, found in Antarctica, and a jumbled rock from northwest Africa nicknamed Black Beauty. Now we have a third one.\nA team led by Yang Liu, a planetary scientist at NASA's Jet Propulsion Laboratory, has shown that a Martian meteorite called Teghaza 001, found in the Sahara Desert in Mali in 2022, formed at least 4.1 billion years ago. “It's very old and similar to some of the oldest rocks on Earth,” Liu says.\n“We don't fully understand why old Martian rocks are so rare on Earth,\" Liu said. Part of the answer may lie in how a piece of Mars gets here. It takes a large impact to launch a rock off the planet, and not every rock can survive that. “If the impact hits into loose powder, it may not get cemented to become a rock and fly off Mars' gravity,” Liu said. “So the natural impact already acts as a filter. Weak rocks do not make it off Mars.”"
+     "text": "Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries.\nAll news, reviews, and analyses are produced with full journalistic independence and integrity. For more details on our standards and processes, please read our Editorial Policy."
     }
    ]
   },
@@ -2298,10 +2503,12 @@
      "url": "https://gsmarena.com/samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291.php",
      "title": "Samsung announces another record-breaking quarter, driven by its memory business",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-q3-report/-952x498w6/gsmarena_000.jpg"
+     },
      "id": "95ccc2631e6e573c",
      "published": "2026-10-30T18:31+00:00",
-     "text": "Samsung Electronics just announced another all-time high quarterly result – revenue grew by 14% quarter-on-quarter (compared to Q3). The press release claims that Samsung Electronics is the world’s first tech company to exceed KRW 100 trillion in quarterly operating profit – specifically, it took in KRW 107.4 trillion in operating profit. Device Solutions (DS), the division that makes memory chips, is at the heart of all this growth. It posted KRW 147.1 trillion in consolidated revenue and a whopping KRW 106.5 trillion in operating profit – another record-breaking quarter for the DS..."
+     "text": "Samsung Electronics just announced another all-time high quarterly result – revenue grew by 14% quarter-on-quarter (compared to Q3). The press release claims that Samsung Electronics is the world’s first tech company to exceed KRW 100 trillion in quarterly operating profit – specifically, it took in KRW 107.4 trillion in operating profit.\nDevice Solutions (DS), the division that makes memory chips, is at the heart of all this growth. It posted KRW 147.1 trillion in consolidated revenue and a whopping KRW 106.5 trillion in operating profit – another record-breaking quarter for the DS division.\nSamsung attributes this success to the major surge in HBM4 sales and also sales of server SSDs. For the next quarter, the company expects memory demand to grow further as new CPU and GPU platforms hit the market.\nThings will continue to ramp up into next year. The company writes: “increasing AI-driven demand will far exceed the industry supply in comparison with 2026.”\nAs the old saying goes, you have to spend money to make money. Samsung Electronics increased its quarterly capital expenditure to KRW 29 trillion, up KRW 12.2 trillion compared to Q3 and up KRW 19.8 trillion year over year. Most of that went into DS (KRW 27.2 trillion) and a fraction (KRW 1.1 trillion) went to Samsung Display Corporation.\nSamsung Mobile eXprience (MX), the division that builds phones, and the Networks Business reported a combined KRW 37.7 trillion in consolidated revenue and an operating loss of KRW 0.6 trillion. For comparison, MX and Networks reported KRW 33.2 trillion in consolidated revenue and an operating loss of KRW 0.7 trillion in Q2.\nMX has plans to rally in Q4 – it will push the Galaxy Z Fold8, the Z Fold8 Ultra and the Galaxy S26 series during the end-of-year shopping season to drive sales growth. There will be “new ecosystem products” too, whatever that means.\nThe plan for 2027 is to improve its product mix by focusing on flagship phones, including launching new models that promise “hardware and form-factor innovation”.\nThere’s good news from the foundry business, Samsung LSI. Revenue grew as sales of flagship chipsets and 200MP image sensors improved – the plan for Q4 is to keep that up. LSI expects “double-digit” revenue growth and higher operating profit as more orders for 2nm chips and 4nm NPUs come in. It also expects sales of HBM base dies to continue to expand.\nFor next year, the foundry business expects that strong demand for its 2nm and 4nm nodes will power further revenue growth. The fab in Taylor, Texas is expected to begin operation next year. As for image sensors, Samsung will seek non-mobile applications for its high-resolution sensors. That said, growing sales of flagship smartphones will also drive demand.\nSamsung Display Corporation reported KRW 8.0 trillion in revenue and an operating profit of KRW 1.1 trillion. Demand for premium smartphone displays was strong during the quarter and it expects things to tick up during the holiday quarter. However, SDC warns that earnings will see limited growth due to unnamed external factors.\nFollow the Source link for more numbers, including details on how other Samsung divisions performed – Visual Display, Digital Appliances and others.\nOne last thing – Samsung Electronics announced it will pay out cash dividends of KRW 4,601 per common share and the same amount per preferred share for a total of KRW 30 trillion in Q3. The goal for 2026 is to return KRW 90-110 trillion to shareholders, but that inclu"
     }
    ]
   },
@@ -2361,72 +2568,6 @@
    ]
   },
   {
-   "id": "c8a5c1d88ba",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Digital Trends",
-     "trust": 2,
-     "url": "https://digitaltrends.com/computing/north-korean-hackers-pull-6-3-billion-crypto-heist-in-binance-one-of-the-biggest-thefts-so-far",
-     "title": "North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far",
-     "lang": "en",
-     "extra": {},
-     "id": "8a5c1d88baae3ee5",
-     "published": "2026-10-30T19:19+00:00",
-     "text": "North Korean hackers allegedly stole $6.36 billion in cryptocurrency from Binance across 10 blockchains. While cryptocurrency issuers and networks froze approximately $2.7 billion, the remaining stolen assets pose a major challenge."
-    },
-    {
-     "source": "NYT World",
-     "trust": 2,
-     "url": "https://nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-     "lang": "en",
-     "extra": {},
-     "id": "a99c268c18cb3a6c",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime."
-    }
-   ]
-  },
-  {
-   "id": "c70dcd36fc5",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Behind the Scenes of How Operation Blackout Went Down",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Dark Reading",
-     "trust": 2,
-     "url": "https://darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-     "title": "Behind the Scenes of How Operation Blackout Went Down",
-     "lang": "en",
-     "extra": {},
-     "id": "70dcd36fc5b40878",
-     "published": "2026-10-30T19:46+00:00",
-     "text": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same."
-    },
-    {
-     "source": "NYT Technology",
-     "trust": 2,
-     "url": "https://nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-     "title": "How Binance’s $6.3 Billion Hack Went Down",
-     "lang": "en",
-     "extra": {},
-     "id": "0f24b9066b4e8103",
-     "published": "2026-10-31T22:19+00:00",
-     "text": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange."
-    }
-   ]
-  },
-  {
    "id": "cdf9f05eee5",
    "kind": "news",
    "score": 11.0,
@@ -2478,30 +2619,6 @@
      "id": "7ed378268879c756",
      "published": "2026-10-31T20:55+00:00",
      "text": "Twenty House Democrats have asked OpenAI chief executive Sam Altman to promise not to fire OpenAI whistleblowers who share safety information. They also want OpenAI to keep its pause on its most capable models until independent oversight is in place. Representative Greg Casar of Texas led the letter, dated 29 October. It asks OpenAI to […]"
-    }
-   ]
-  },
-  {
-   "id": "c408e727a40",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Wired",
-     "trust": 2,
-     "url": "https://wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems",
-     "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/191:100/w_1280,c_limit/103026-HACK_.jpg"
-     },
-     "id": "408e727a40734c88",
-     "published": "2026-10-30T20:38+00:00",
-     "text": "The AI software-development platform Cursor, which is owned by SpaceX, had a malicious Anthropic Claude Code extension for Windows, macOS, and Linux live in its integrated development environment extension marketplace for roughly 11 hours on Thursday. The company says the rogue extension was downloaded by “at most 5,000 users.” Cursor briefly shut down the extension marketplace while it investigated the situation, which the company says did not impact any other extensions.\nThe tainted extension was designed with a backdoor to give attackers access to victim devices—the type of implant that malicious hackers often use as a stepping stone to deeper control inside a target network. Cursor published remediation steps on Thursday for the roughly 5,000 affected targets. A saving grace of the situation, though, was a flaw in the malware's design that blocked it from fully establishing itself on the vast majority of targets.\n“Everyone was so lucky here, this was potentially a really dangerous foothold for an attacker,” says Calum Hall, cofounder and CEO of the detection firm Phorion, the first researchers to spot the malicious extension after detecting it on a customer's Mac.\nWhat is still unclear is how the malicious extension made its way into the Cursor marketplace at all. Some researchers initially speculated that it came from a compromised Anthropic system. But Cursor said in its Thursday security alert that “these malicious versions of the extension were not developed by Anthropic.”\nFelix Rieseberg, a member of Anthropic's technical staff, posted on X on Friday: “We’re working with Cursor on this incident, but it wasn’t a compromise of Anthropic’s systems or employee laptops. A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish. The versions on our official channels are not affected and this only impacts Cursor users.”\nDavid Dworken, who works on security at Anthropic, posted on X shortly after, explaining that “this did not involve a compromise of any Anthropic systems … We were not involved with building, publishing, or hosting this.”\nCursor did not return WIRED's request for comment about how the malicious upload happened and whether it was the result of a breach at Cursor.\nComments\nBack to top"
     }
    ]
   },
@@ -2564,10 +2681,12 @@
      "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
      "title": "Binance $6.3B record hack sparks pre-election political clashes",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg"
+     },
      "id": "48d67ea6be4cb213",
      "published": "2026-10-31T09:58+00:00",
-     "text": "Some political and administration figures tried to make hay of the biggest-ever crypto heist."
+     "text": "Binance $6.3B record hack sparks pre-election political clashes\nSome political and administration figures tried to make hay of the biggest-ever crypto heist.\nSoon after the $6.3 billion hack of Binance, the biggest in crypto history, some political and administration figures began offering their opinions with a US election approaching on Nov. 3 and voting already having begun in many locations.\nPresident Donald Trump was asked at a news conference on Friday about the hack of Binance. “We don’t know. We’re looking at that, the hack with Binance. They’re saying they’re going to get it back, they’re saying they’re guaranteeing it,” he replied.\nThe crypto exchange said in a post on X late Friday that it would cover any losses. “We want to be clear about our commitment: Binance will absorb the financial impact of these stolen funds, not our users.” It added that about $3 billion of the stolen funds had already been frozen in various locations. On Saturday, Binance said it had already covered 90% of the impacted amount of the hacked loss.\nIt was not clear whether there was any immediate political advantage to be gained from the hack, which was widely attributed to a North Korean group, but Republican and Democratic sides began staking out positions almost immediately.\nWyoming Senator Cynthia Lummis, a Republican and longtime crypto advocate, cited the stalled Clarity Act in a Friday post on X. “Yesterday, hackers stole more than $6 billion from Binance in less than 4 hours, the biggest heist in history. The Clarity Act would have given crypto firms legal cover to freeze suspicious transactions the instant law enforcement calls. Every minute lost is money gone for good,” she wrote.\nClarity Act stalled over ethics provisions\nThe Senate on Sept. 15 failed to pass a cloture motion on the Clarity Act that would have established the country’s first regulatory framework for digital assets.\nThe bill had stalled over proposed ethics provisions that would restrict government officials and their families from issuing or profiting from digital assets while in office.\nThe Commodity Futures Trading Commission then submitted a regulatory action on Sept. 18 covering crypto asset transactions and markets for White House review, as the agency moved forward with its approach to overseeing the digital asset sector.\nCFTC Chair Michael Selig referred to crypto market regulation on Friday after the Binance hack, saying in a TV appearance: “This proves our exact point in proposing regulations for crypto markets. … The real issue here is that these are unregulated offshore exchanges and they don’t have the same sorts of safeguards that we have in our financial markets here in the United States.”\nStill, Democratic Representative Maxine Waters said in a Friday news release that “The reported $6.3 billion hack of Binance should be a wake-up call to anyone who thinks the cryptocurrency industry can operate without strong accountability. Yet, Trump and Congressional Republicans have been set on pushing a deregulatory agenda that weakens compliance mandates and oversight of the crypto industry, not to mention the Trump family’s own questionable ties to the company.”\nTrump family and Binance\nShe also commented on past relations between Binance and the Trump family, saying, “Remember that after Binance’s owner, Changpeng Zhao (CZ), gave over $2 billion to the Trump family’s World Liberty Financial, Trump’s Securities and Exchange Commission’s Chair Paul Atkins dropped the SE"
     }
    ]
   },
@@ -2590,39 +2709,6 @@
      "id": "e4e9cdb729b33e6f",
      "published": "2026-10-31T11:07+00:00",
      "text": "The way people celebrate the spooky season has evolved over the decades, from homemade costumes and neighborhood parties to school parades and elaborate haunted houses.\nFor instance, if you went to a Halloween party in the 1940s, chances are you'd be bobbing for apples. In the 1970s, you'd probably be covered in glitter paint.\nEach year, the amount of money Americans spend celebrating the holiday seems to grow, too. This Halloween, Americans are expected to spend a record $13.5 billion, the National Retail Federation reported, citing its annual survey.\nHowever, while spending is up from last year, respondents said they were more likely to shop for a costume at discount stores versus specialty Halloween costume stores or online.\nHere are 20 vintage photos that show how Halloween celebrations have changed through the years."
-    }
-   ]
-  },
-  {
-   "id": "c56c8d2bcb4",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "NASA telescope on verge of plunging back to Earth after failed rescue mission",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
-     "title": "NASA telescope on verge of plunging back to Earth after failed rescue mission",
-     "lang": "en",
-     "extra": {},
-     "id": "56c8d2bcb4564f64",
-     "published": "2026-10-31T12:57+00:00",
-     "text": "Most of the 1 ½-ton telescope is expected to burn up in the atmosphere. But a handful of pieces made of denser-than-lead tungsten and some mirror parts could survive reentry, according to NASA's Brad Cenko, the mission's chief scientist"
-    },
-    {
-     "source": "Google News Science EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2hHNTJVeGNHb0VHMU9jZ0JscHRGOFI1MkRfR2pDZ0xRNU8zNVZ1SVRYcFo2Sk5heklqM01rZ3d3Rmw3X1gyZWJkMHBBZVlsUURLRC01U3FSZW5sRDNmcGtoZXZ1ZzVqMzR6RUIwOGdPZ2k3YjZlR19sYUcxUzdwN2RMdTNiNlNiVk0tcFhROU5JODY5bXJxS0p3Y2tkdnBIX3QyUVk0ONIBrAFBVV95cUxOQlNYZWhtSDhmTEpOc2pPZGNNQUdMVTZXYTFHTlc0M1ZQQUM2SDEzQll2bjE4eFhrRVYyVElzWXhVVWJDckZMQUNqRkxONVRHNGJUak9GVTVNV0dKOTN5ODI5c0pFSk1lb1RFVWVUbHZOS080ajhhejBESVgxZmc2Mmp1NURkYURKQjcyaTh4UmFiamdXYkpfWl9oM2V4UnZhaDl1YUtnSXYtWUZi?oc=5",
-     "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - ABC News - Breaking News, Latest News and Videos",
-     "lang": "en",
-     "extra": {},
-     "id": "617ce2118511af27",
-     "published": "2026-10-31T17:09+00:00",
-     "text": "- NASA telescope is on the verge of plunging back to Earth after failed rescue mission ABC News - Breaking News, Latest News and Videos\n- The Swift Space Telescope Is About To Fall Down To Earth. Its Science Will Be Used For Decades To Come IFLScience\n- NASA's Swift observatory ends 22-year mission to study the most powerful explosions since the Big Bang Live Science\n- NASA's trailblazing Swift telescope will go out in a blaze of glory Science News\n- NASA satellite to plunge back to Earth after 22 years in space Scripps News"
     }
    ]
   },
@@ -2671,39 +2757,6 @@
    ]
   },
   {
-   "id": "ccecf37c22f",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
-     "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-     "lang": "en",
-     "extra": {},
-     "id": "cecf37c22f0f01d1",
-     "published": "2026-10-31T15:24+00:00",
-     "text": ""
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
-     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-     "lang": "en",
-     "extra": {},
-     "id": "e207e0cfa1d8938e",
-     "published": "2026-10-31T18:11+00:00",
-     "text": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.\n(Image credit: Justin Sullivan)"
-    }
-   ]
-  },
-  {
    "id": "c0747ff0d71",
    "kind": "news",
    "score": 11.0,
@@ -2722,28 +2775,6 @@
      "id": "0747ff0d7149d6f2",
      "published": "2026-10-31T15:36+00:00",
      "text": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite.\nThe company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to \"Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you.\"\nTravis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its \"Hello World\" milestone by sending an inference response from orbit.\n\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space,\" wrote Beals in a blog post.\nAnd as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink:\nBlue marble below,\nData streams in silent grace,\nStarlight feeds my core. ✨\nThose roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs.\nAdd in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku.\nAccording to Google's calculations, if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year).\nGoogle predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening.\nAfter the haiku, Beals said, \"we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems.\" Next up: tests for evaluating how TPUs perform under thermal stress and radiation.\nGoogle has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam.\nThe system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si).\n\"For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second,\" Google researchers said in a paper published earlier this month.\n\"While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy of system-level mitigations, requires further study.\"\nIndeed, the study will continue. Next year, the plan is to test a pair of interconnected satellites. Rather than lofting large satellites into orbit, Google anticipates sending a constellation of many smaller satellites that communicate with one another. ®"
-    }
-   ]
-  },
-  {
-   "id": "c935b3df5c6",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "SpaceX Starship Flight 15: Launch date, objectives, and what to expect",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Interesting Engineering",
-     "trust": 2,
-     "url": "https://interestingengineering.com/space/spacex-starship-flight-15-launch-date-objectives",
-     "title": "SpaceX Starship Flight 15: Launch date, objectives, and what to expect",
-     "lang": "en",
-     "extra": {},
-     "id": "935b3df5c6c05392",
-     "published": "2026-10-31T16:20+00:00",
-     "text": "SpaceX is targeting November 2026 for the 15th integrated flight test of its Starship rocket, with the mission expected to attempt a major milestone: catching the spacecraft’s upper stage at its launch tower after returning from space.\nThe company is also preparing to recover the Super Heavy booster, potentially bringing both stages of its massive launch system back to the launch site.\nAs of October 28, SpaceX has not announced an official launch date. However, preparations are progressing at Starbase in South Texas, where the company is testing the vehicles assigned to the mission.\nThe flight will build on September’s Flight 14, which reached orbit and deployed 26 next-generation Starlink V3 satellites.\nSpaceX is currently targeting November, although the launch date will depend on testing, vehicle readiness, and regulatory approval.\nOn October 25, the company conducted a full-duration static-fire test of Super Heavy Booster 22, igniting all 33 Raptor engines for about 15 seconds. The test allows engineers to assess engine and vehicle systems while the booster remains secured to the ground.\nAccording to Space.com, the booster will fly with Starship upper stage Ship 42. The spacecraft has completed its own engine test and is undergoing final systems checks ahead of the launch.\nThe Federal Aviation Administration’s launch authorization is another factor. SpaceX President and Chief Operating Officer Gwynne Shotwell said during an October earnings call that the company expected its license for Flight 15 to cover return-to-launch-site operations and tower catches for both stages, as reported by Ars Technica.\nThe primary objective is to demonstrate the recovery of both components of the Starship launch system. After liftoff, Super Heavy provides the initial thrust needed to propel Starship toward orbit before separating from the upper stage. SpaceX plans to guide the booster back to Starbase, where mechanical arms mounted on the launch tower, nicknamed “chopsticks,” will attempt to catch it.\nSpaceX has already demonstrated booster catches on earlier flights. Flight 15, however, is expected to use the upgraded Booster 22 and attempt the recover both stages in the same mission.\nThe more ambitious objective is to catch Ship 42 after its orbital flight. Starship will need to reenter the atmosphere, withstand intense heating, and maneuver toward the launch tower for a controlled capture. The spacecraft has previously performed controlled ocean splashdowns, but a tower catch would be a significant step toward making the entire system reusable.\nRecovering both stages could eventually reduce refurbishment requirements and the cost of launching payloads. However, a successful catch alone would not prove that Starship can be rapidly inspected, refurbished, and reflown.\nFlight 15 also follows a significant milestone from the previous mission. On September 28, Flight 14 reached orbit and deployed 26 Starlink V3 satellites, demonstrating Starship’s ability to carry operational payloads. However, a Raptor engine shut down prematurely during ascent, shortening the planned mission.\nSpaceX has not officially confirmed Flight 15’s payload, though it has discussed another Starlink deployment as a possibility. The program also has implications for NASA’s Artemis lunar exploration campaign.\nSpaceX is developing a modified Starship upper stage to serve as a lunar lander, but the vehicle must demonstrate additional capabilities before it can transport astronauts t"
     }
    ]
   },
@@ -2781,35 +2812,24 @@
    ]
   },
   {
-   "id": "c3b0aa9a53d",
+   "id": "c2a8cc158ef",
    "kind": "news",
    "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "\"انحياز مفرط للمغرب\".. الجزائر ترد على عدم تجديد مهمة بعثة الأمم المتحدة في الصحراء الغربية",
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "SCUF Nemesis Pro 8K PC Wireless Controller Review: Almost Unbeatable",
    "official_image": null,
    "sources": [
     {
-     "source": "CNN Arabic",
+     "source": "Wccftech",
      "trust": 2,
-     "url": "https://arabic.cnn.com/middle-east/article/2026/10/31/algeria-rejects-non-renewal-un-mission-western-sahara",
-     "title": "\"انحياز مفرط للمغرب\".. الجزائر ترد على عدم تجديد مهمة بعثة الأمم المتحدة في الصحراء الغربية",
-     "lang": "ar",
+     "url": "https://wccftech.com/review/scuf-nemesis-pro-8k-pc-review",
+     "title": "SCUF Nemesis Pro 8K PC Wireless Controller Review: Almost Unbeatable",
+     "lang": "en",
      "extra": {},
-     "id": "eae5e93b794d5cef",
-     "published": "2026-10-31T17:55+00:00",
-     "text": "(CNN)-- أعربت الحكومة الجزائرية في بيان، السبت، عن \"بالغ أسفها\" إزاء عدم تجديد ولاية بعثة الأمم المتحدة لتنظيم الاستفتاء في الصحراء الغربية (المينورسو)، بعدما رحبت المغرب بالخطوة.\nوكان مجلس الأمن صوت، الجمعة، على مشروع قرار مقدم من روسيا بشأن الصحراء الغربية، حيث نال تأييد 3 أعضاء، معارضة الولايات المتحدة، وامتناع 11 دولة عن التصويت.\nوقالت الأمم المتحدة: \"لم يُعتمد المشروع بشأن تمديد ولاية بعثة الأمم المتحدة للاستفتاء في الصحراء الغربية (مونورسو) لعدم حصوله على الأغلبية..."
-    },
-    {
-     "source": "Google News Algeria",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3pMblRCZFpOVV9DVG02OTVIMEhPU3hnWmVRdnlwcllCcDZDdXpuWVNVSUxxbk5nZUE5UUJVazZBQ0xTSXg2eGh5NmlTQUwxUXJNTy1aazhEU1FrMm1xRDljRC1QTE1DRUtiWjJGNWN5c1REM09oUmZKRS1iaGpMNFdudGllUnR6YkctZUEzVUtlTW4ybEc1R2JCWGh1NDEzcDd1bXZfUVN5S1E?oc=5",
-     "title": "\"انحياز مفرط للمغرب\".. الجزائر ترد على عدم تجديد مهمة بعثة الأمم المتحدة في الصحراء الغربية - CNN Arabic",
-     "lang": "ar",
-     "extra": {},
-     "id": "3b0aa9a53dc19e03",
-     "published": "2026-10-31T17:55+00:00",
-     "text": "\"انحياز مفرط للمغرب\".. الجزائر ترد على عدم تجديد مهمة بعثة الأمم المتحدة في الصحراء الغربية\nCNN Arabic"
+     "id": "2a8cc158ef0e0467",
+     "published": "2026-10-31T18:00+00:00",
+     "text": "SCUF's premium controllers have mostly remained out of reach due to hefty price tags, but they bring their own advantages compared to similar offerings by most vendors. With the launch of SCUF's Nemesis Pro 8K PC controller, enthusiasts can now get their hands on the more affordable wired version, which was released at $119. While still more expensive than some of the best wireless mid-range PC controllers, the Nemesis Pro 8K PC tries something that only a handful of controllers have tried to do. Based on the SCUF's Valor Xbox controller, the Nemesis Pro is the company's first-ever 8K offering […]\nRead full article at https://wccftech.com/review/scuf-nemesis-pro-8k-pc-review/"
     }
    ]
   },
@@ -3102,6 +3122,39 @@
    ]
   },
   {
+   "id": "cbbca783970",
+   "kind": "news",
+   "score": 10.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Hamilton reacts to ‘special’ maiden pole with Ferrari",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/wow-hamilton-reacts-to-special-maiden-pole-with-ferrari-at-mexico-city-gp.1S7nqyX2uIPgZomeRkneq4",
+     "title": "Hamilton reacts to ‘special’ maiden pole with Ferrari",
+     "lang": "en",
+     "extra": {},
+     "id": "af85d110e9cc879b",
+     "published": "2026-10-31T23:45+00:00",
+     "text": "Lewis Hamilton claimed his first pole position since 2023 during Qualifying at the Mexico City Grand Prix."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/f1/lewis-hamilton-michael-schumacher-kimi-antonelli-ferrari-mario-andretti-b3076982.html",
+     "title": "Lewis Hamilton: First Ferrari pole reminds me of Michael Schumacher’s success",
+     "lang": "en",
+     "extra": {},
+     "id": "bbca7839709faf10",
+     "published": "2026-10-31T23:10+00:00",
+     "text": "The seven-time world champion became the oldest F1 pole-sitter since 42-year-old Mario Andretti in 1982."
+    }
+   ]
+  },
+  {
    "id": "cd746f8602a",
    "kind": "news",
    "score": 10.0,
@@ -3269,6 +3322,39 @@
    ]
   },
   {
+   "id": "c6d90d95fc8",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+     "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+     "lang": "en",
+     "extra": {},
+     "id": "6d90d95fc817fd43",
+     "published": "2026-10-30T16:31+00:00",
+     "text": ""
+    },
+    {
+     "source": "Cointelegraph",
+     "trust": 2,
+     "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
+     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+     "lang": "en",
+     "extra": {},
+     "id": "8703aea9881e82c3",
+     "published": "2026-10-31T15:36+00:00",
+     "text": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades."
+    }
+   ]
+  },
+  {
    "id": "cbb1dfc22ed",
    "kind": "news",
    "score": 10.0,
@@ -3302,66 +3388,90 @@
    ]
   },
   {
-   "id": "c27c0451026",
-   "kind": "free",
-   "score": 4.0,
+   "id": "c0ab0290f74",
+   "kind": "news",
+   "score": 10.0,
    "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Quiztopia: The Ultimate Trivia (Epic Games) Giveaway",
+   "distinct_sites": 2,
+   "title_hint": "Tesla drops car referral rewards, now pays owners in FSD for referrals",
    "official_image": null,
    "sources": [
     {
-     "source": "GamerPower",
-     "trust": 1,
-     "url": "https://gamerpower.com/quiztopia-the-ultimate-trivia-epic-games-giveaway",
-     "title": "Quiztopia: The Ultimate Trivia (Epic Games) Giveaway",
+     "source": "Electrek",
+     "trust": 2,
+     "url": "https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped",
+     "title": "Tesla drops car referral rewards, now pays owners in FSD for referrals",
      "lang": "en",
-     "extra": {
-      "ends": "2026-11-08 23:59:00",
-      "needs_official_link": true
-     },
-     "id": "27c045102653564d",
-     "published": "2026-10-31T14:23+00:00",
-     "text": "Quiztopia: The Ultimate Trivia (Epic Games) Giveaway. Worth: $7.99. Platforms: PC, Epic Games Store. Ends: 2026-11-08 23:59:00. Claim Quiztopia: The Ultimate Trivia for free via Epic Games Store. Quiztopia: The Ultimate Trivia is a indie trivia game for kids for age 5 and above. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
+     "extra": {},
+     "id": "0ab0290f74e62cfe",
+     "published": "2026-10-30T18:02+00:00",
+     "text": "Tesla has launched a new referral program in the US that pays owners in Full Self-Driving (Supervised) instead of rewarding car sales. A referred owner gets one free month of FSD, and the referrer gets a free month or a $99 Tesla Credit if that person starts paying.\nAt the same time, Tesla’s Refer and Earn terms no longer list any vehicle as a qualifying purchase for buyer or referrer rewards. Buy a Tesla with a friend’s code today and neither of you gets anything.\nmore…"
     },
     {
-     "source": "GamerPower",
-     "trust": 1,
-     "url": "https://gamerpower.com/gladiator-blades-of-fury-epic-games-giveaway",
-     "title": "Gladiator: Blades of Fury (Epic Games) Giveaway",
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Tesla-offers-free-FSD-for-up-to-a-year-in-new-referral-program-for-FSD-owners-or-subscribers.1439044.0.html",
+     "title": "Tesla offers free FSD for up to a year in new referral program for FSD owners or subscribers",
      "lang": "en",
-     "extra": {
-      "ends": "2026-11-08 23:59:00",
-      "needs_official_link": true
-     },
-     "id": "c4abc4785ab67aff",
-     "published": "2026-10-31T14:28+00:00",
-     "text": "Gladiator: Blades of Fury (Epic Games) Giveaway. Worth: $9.99. Platforms: PC, Epic Games Store. Ends: 2026-11-08 23:59:00. Download Gladiator: Blades of Fury for free via Epic Games Store! Gladiator: Blades of Fury is a 3d melee fighting game set during the medieval period. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
+     "extra": {},
+     "id": "4a5556ec020b9ec4",
+     "published": "2026-10-31T19:06+00:00",
+     "text": "Tesla has long used referrals to sell cars, but now it wants its own customers to sell Full Self-Driving (Supervised) to each other. The new program is aimed at people who already own a Tesla, and the reward is up to a year of free software or store credit."
     }
    ]
   },
   {
-   "id": "cdbefd84aae",
-   "kind": "free",
-   "score": 3.0,
+   "id": "c389ff5facd",
+   "kind": "news",
+   "score": 10.0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Asleep: Act 1 (Steam) Giveaway",
+   "title_hint": "Send your name to Saturn’s largest moon",
    "official_image": null,
    "sources": [
     {
-     "source": "GamerPower",
-     "trust": 1,
-     "url": "https://gamerpower.com/asleep-act-1-steam-giveaway",
-     "title": "Asleep: Act 1 (Steam) Giveaway",
+     "source": "Popular Science",
+     "trust": 2,
+     "url": "https://popsci.com/science/add-name-to-saturn-dragonfly-mission-nasa",
+     "title": "Send your name to Saturn’s largest moon",
      "lang": "en",
-     "extra": {
-      "ends": "2026-11-02 23:59:00",
-      "needs_official_link": true
-     },
-     "id": "dbefd84aae4b5a27",
-     "published": "2026-10-30T12:06+00:00",
-     "text": "Asleep: Act 1 (Steam) Giveaway. Worth: $9.99. Platforms: PC, Steam. Ends: 2026-11-02 23:59:00. Claim Asleep: Act 1 for free via Steam until 2 Nov! Asleep is a 2d adventure game with dark atmosphere and challenging puzzles. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Download this game directly via Steam before the offer expires.\r\n3. That´s it! Have fun!"
+     "extra": {},
+     "id": "389ff5facd1fe6b2",
+     "published": "2026-10-30T18:34+00:00",
+     "text": "NASA is still on track to send its Dragonfly rotocraft to Saturn’s moon Titan by the end of the decade, and you can come along for the ride. Well, you can at least add your initials to the flight roster.\nAs part of its Journey to Titan campaign, NASA has opened an online registry that will be included on a microchip aboard the spacecraft when it launches. The launch is currently scheduled for no earlier than July 2028. Signees will receive a personalized digital “boarding pass,” as proof that their names will reach the ice-encased Saturnian moon in 2034. While the encoded autographs may not do much to help with the overall mission, it’s nice to know that you will be represented on what may become one of the most consequential space endeavors of all time.\n“We are excited to bring humanity along for the journey of a lifetime, and we invite everyone to send their names on this small, but mighty rotorcraft that will unlock the secrets of the universe,” Nicky Fox, NASA’s Science Mission Directorate associate administrator, said in the announcement.\nTitan is the largest of Saturn’s 292 known moons, and a longtime dream destination in the search for life beyond Earth. Although Titan features dusty dunes overlooking lakes and rivers of methane, the frigid surface also maintains a temperature of around −290 degrees Fahrenheit. This is inhospitable to life as we know it, but a giant ocean also exists beneath the icy shell. Astrobiologists widely agree that these waters probably contain enough complex compounds to facilitate a prebiotic environment. Laboratory simulations of Titan’s atmosphere have also indicated its gaseous conditions can even form some of the principle building blocks for DNA and RNA. If true, extraterrestrial microbial life may exist within the moon’s hidden waters.\nHowever, there’s no way to confirm the possibility without directly examining Titan’s conditions. That’s where Dragonfly comes into play. After over six years of interplanetary travel, NASA’s eight-bladed robotic rotocraft will land on the moon and begin its environmental survey. Dragonfly’s vertical takeoff and landing (VTOL) capabilities will allow it to travel to multiple locations over the planned three-year mission. If all goes well, the rotocraft will journey across 70 miles on Titan, while visiting 20 to 30 different areas.\n“By flying the first-ever rotorcraft science mission, NASA will…we search for signs of habitability on a distant world that is most similar to our own,” added Fox.\nDragonfly is currently under construction at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland. It marks the fourth mission in NASA’s New Frontiers Program, which is dedicated to further exploration of the planets and moons that comprise our solar system.\nAdding your name to Dragonfly’s log is likely a no-brainer for many people, but there is no rush if you need to take some time to ponder the decision. Signees have until 11:59 p.m. EST on January 15, 2027, to make their (digital) mark.\nThe post Send your name to Saturn’s largest moon appeared first on Popular Science."
+    }
+   ]
+  },
+  {
+   "id": "c5e3aa82dc4",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "MacBook Pro With Touch Display: 15 More Details Revealed",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "MacRumors",
+     "trust": 2,
+     "url": "https://macrumors.com/2026/10/30/macbook-pro-proled-xdr-details",
+     "title": "MacBook Pro With Touch Display: 15 More Details Revealed",
+     "lang": "en",
+     "extra": {},
+     "id": "5e3aa82dc4b4889b",
+     "published": "2026-10-30T18:59+00:00",
+     "text": "Apple on Wednesday unveiled new 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays, and more details about them continue to be shared by tech reporters who were invited to Apple's hands-on experience in Los Angeles.\nNicolas Lellouche of the French website Numerama shared 15 details about the new MacBook Pro models in an article and a social media post. Some of this information has already surfaced, but he provided a useful summary:\n- Apple said the keyboard and trackpad remain the primary input methods, with touch input available as an additional option for those who want it.\n- Apple said there is now a generation of young creators who grew up using touchscreens, so it felt the timing was right to bring the functionality to the Mac.\n- Apple said music creators prefer touch over trackpads for controlling virtual instruments.\n- \"Traffic light\" controls in the top-left corner of macOS windows expand when pressed.\n- Items in a list become more spaced out when touched.\n- A swipe up from the bottom of the screen brings up the Dock.\n- A swipe down from the top of the screen brings up Spotlight/Siri AI.\n- A long press is equivalent to a right click.\n- Holding a window and quickly moving it left or right triggers Split View.\n- If you close your Mac while your finger is touching the display, touch input is temporarily deactivated to prevent accidental touches.\n- The camera is stabilized so it does not shake on video calls when you touch the screen.\n- You cannot wake the MacBook Pro by touching the screen.\n- Multi-touch supports up to 10 fingers at the same time. No word yet on toes (kidding).\n- Live Activities from iPhone apps can appear in the Dynamic Island.\n- There are settings that allow you to turn off touch input and the illuminated Apple logo on the MacBook Pro's lid.\nThe new MacBook Pro models can be pre-ordered now and launch Friday, November 6.\nThis article, \"MacBook Pro With Touch Display: 15 More Details Revealed\" first appeared on MacRumors.com\nDiscuss this article in our forums"
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate",
+     "title": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
+     "lang": "en",
+     "extra": {},
+     "id": "898c5560f4a9d8d3",
+     "published": "2026-10-31T19:49+00:00",
+     "text": "Apple just unveiled the new MacBook Pro with PROLED XDR, its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year, there’s also a number of new optimizations that were unveiled alongside the new MacBook Pro. Here’s what Apple worked on.\nmore…"
     }
    ]
   },
@@ -3413,55 +3523,26 @@
    ]
   },
   {
-   "id": "market-2026-10-31",
+   "id": "market-2026-11-01",
    "kind": "market",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Market 2026-10-31",
+   "title_hint": "Market 2026-11-01",
    "sources": [
     {
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-10-31/23",
-     "title": "Market snapshot crypto 2026-10-31",
+     "url": "https://market.local/crypto/2026-11-01/00",
+     "title": "Market snapshot crypto 2026-11-01",
      "lang": "en",
      "extra": {
       "market": "crypto",
-      "day": "2026-10-31"
+      "day": "2026-11-01"
      },
-     "published": "2026-10-31T23:45+00:00",
-     "text": "Bitcoin: $77,453 (+0.3% 24h)\nEthereum: $2,253 (+0.4% 24h)\nSolana: $95.31 (-1.0% 24h)\nToncoin: $1.21 (+2.6% 24h)"
-    }
-   ]
-  },
-  {
-   "id": "lib-google-ai-studio",
-   "kind": "library",
-   "library_kind": "ai",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Google AI Studio",
-   "logos": [
-    {
-     "name": "Gemini",
-     "domain": "gemini.google.com",
-     "wiki": "Gemini (chatbot)"
-    }
-   ],
-   "sources": [
-    {
-     "id": "google-ai-studio",
-     "source": "library",
-     "trust": 3,
-     "url": "https://aistudio.google.com",
-     "title": "Google AI Studio",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Google AI Studio is a free web tool from Google to try and build with Gemini models directly in the browser, with a Google account. Official link: https://aistudio.google.com"
+     "published": "2026-11-01T00:16+00:00",
+     "text": "Bitcoin: $77,457 (+0.2% 24h)\nEthereum: $2,254 (+0.4% 24h)\nSolana: $95.35 (-1.0% 24h)\nToncoin: $1.21 (+2.9% 24h)"
     }
    ]
   },
@@ -3524,31 +3605,31 @@
    ]
   },
   {
-   "id": "lib-app-aegis",
+   "id": "lib-google-ai-studio",
    "kind": "library",
-   "library_kind": "app",
+   "library_kind": "ai",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Aegis Authenticator",
+   "title_hint": "Google AI Studio",
    "logos": [
     {
-     "name": "Aegis",
-     "domain": "getaegis.app",
-     "wiki": "Aegis Authenticator"
+     "name": "Gemini",
+     "domain": "gemini.google.com",
+     "wiki": "Gemini (chatbot)"
     }
    ],
    "sources": [
     {
-     "id": "app-aegis",
+     "id": "google-ai-studio",
      "source": "library",
      "trust": 3,
-     "url": "https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis",
-     "title": "Aegis Authenticator",
+     "url": "https://aistudio.google.com",
+     "title": "Google AI Studio",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Aegis is a free, open-source Android app for two-factor authentication codes. It stores codes in an encrypted vault and supports encrypted backups, so you do not lose access if you change phones. Official link: https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis"
+     "text": "Google AI Studio is a free web tool from Google to try and build with Gemini models directly in the browser, with a Google account. Official link: https://aistudio.google.com"
     }
    ]
   },
@@ -3613,31 +3694,31 @@
    ]
   },
   {
-   "id": "lib-project-gutenberg",
+   "id": "lib-app-localsend",
    "kind": "library",
-   "library_kind": "books",
+   "library_kind": "app",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Project Gutenberg",
+   "title_hint": "LocalSend",
    "logos": [
     {
-     "name": "Project Gutenberg",
-     "domain": "gutenberg.org",
-     "wiki": "Project Gutenberg"
+     "name": "LocalSend",
+     "domain": "localsend.org",
+     "wiki": "LocalSend"
     }
    ],
    "sources": [
     {
-     "id": "project-gutenberg",
+     "id": "app-localsend",
      "source": "library",
      "trust": 3,
-     "url": "https://www.gutenberg.org",
-     "title": "Project Gutenberg",
+     "url": "https://localsend.org",
+     "title": "LocalSend",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Project Gutenberg offers over 70,000 free ebooks, mostly classics in the public domain, to download or read online. Official link: https://www.gutenberg.org"
+     "text": "LocalSend is a free, open-source app to send files and photos between nearby devices over the local Wi-Fi network, without internet and without an account. It works on Android, iOS, Windows, macOS and Linux. Official link: https://localsend.org Download: https://play.google.com/store/apps/details?id=org.localsend.localsend_app"
     }
    ]
   },
@@ -3671,31 +3752,31 @@
    ]
   },
   {
-   "id": "lib-mit-ocw",
+   "id": "lib-project-gutenberg",
    "kind": "library",
-   "library_kind": "course",
+   "library_kind": "books",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "MIT OpenCourseWare",
+   "title_hint": "Project Gutenberg",
    "logos": [
     {
-     "name": "MIT",
-     "domain": "mit.edu",
-     "wiki": "Massachusetts Institute of Technology"
+     "name": "Project Gutenberg",
+     "domain": "gutenberg.org",
+     "wiki": "Project Gutenberg"
     }
    ],
    "sources": [
     {
-     "id": "mit-ocw",
+     "id": "project-gutenberg",
      "source": "library",
      "trust": 3,
-     "url": "https://ocw.mit.edu",
-     "title": "MIT OpenCourseWare",
+     "url": "https://www.gutenberg.org",
+     "title": "Project Gutenberg",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "MIT OpenCourseWare publishes materials from thousands of real MIT courses for free, including lecture videos, notes, problem sets and exams. Official link: https://ocw.mit.edu"
+     "text": "Project Gutenberg offers over 70,000 free ebooks, mostly classics in the public domain, to download or read online. Official link: https://www.gutenberg.org"
     }
    ]
   },
@@ -3759,31 +3840,31 @@
    ]
   },
   {
-   "id": "lib-bitwarden",
+   "id": "lib-cs50x",
    "kind": "library",
-   "library_kind": "security",
+   "library_kind": "course",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Bitwarden password manager",
+   "title_hint": "CS50x — Harvard's introduction to computer science",
    "logos": [
     {
-     "name": "Bitwarden",
-     "domain": "bitwarden.com",
-     "wiki": "Bitwarden"
+     "name": "Harvard",
+     "domain": "harvard.edu",
+     "wiki": "Harvard University"
     }
    ],
    "sources": [
     {
-     "id": "bitwarden",
+     "id": "cs50x",
      "source": "library",
      "trust": 3,
-     "url": "https://bitwarden.com",
-     "title": "Bitwarden password manager",
+     "url": "https://cs50.harvard.edu/x",
+     "title": "CS50x — Harvard's introduction to computer science",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Bitwarden is an open-source password manager with a free plan that stores unlimited passwords and syncs across unlimited devices. Official link: https://bitwarden.com"
+     "text": "Harvard University's CS50x course is free online. It teaches programming from zero with C, Python, SQL and web development. Students who complete the problem sets and final project can get a free CS50 certificate from the course itself. Official link: https://cs50.harvard.edu/x"
     }
    ]
   },
@@ -3818,31 +3899,31 @@
    ]
   },
   {
-   "id": "lib-site-zotero",
+   "id": "lib-bitwarden",
    "kind": "library",
-   "library_kind": "site",
+   "library_kind": "security",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Zotero",
+   "title_hint": "Bitwarden password manager",
    "logos": [
     {
-     "name": "Zotero",
-     "domain": "zotero.org",
-     "wiki": "Zotero"
+     "name": "Bitwarden",
+     "domain": "bitwarden.com",
+     "wiki": "Bitwarden"
     }
    ],
    "sources": [
     {
-     "id": "site-zotero",
+     "id": "bitwarden",
      "source": "library",
      "trust": 3,
-     "url": "https://www.zotero.org",
-     "title": "Zotero",
+     "url": "https://bitwarden.com",
+     "title": "Bitwarden password manager",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Zotero is a free, open-source tool to collect, organize and cite research sources, and to generate bibliographies automatically in many citation styles. Official link: https://www.zotero.org"
+     "text": "Bitwarden is an open-source password manager with a free plan that stores unlimited passwords and syncs across unlimited devices. Official link: https://bitwarden.com"
     }
    ]
   },
@@ -3905,32 +3986,32 @@
    ]
   },
   {
-   "id": "lib-google-fonts",
+   "id": "lib-site-arts-culture",
    "kind": "library",
-   "library_kind": "tool",
+   "library_kind": "site",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Google Fonts",
+   "title_hint": "Google Arts & Culture",
    "logos": [
     {
      "slug": "google",
-     "name": "Google",
-     "domain": "google.com",
-     "wiki": "Google"
+     "name": "Google Arts & Culture",
+     "domain": "artsandculture.google.com",
+     "wiki": "Google Arts & Culture"
     }
    ],
    "sources": [
     {
-     "id": "google-fonts",
+     "id": "site-arts-culture",
      "source": "library",
      "trust": 3,
-     "url": "https://fonts.google.com",
-     "title": "Google Fonts",
+     "url": "https://artsandculture.google.com",
+     "title": "Google Arts & Culture",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Google Fonts is a free library of open-licensed fonts, including many Arabic fonts, usable in designs, websites and commercial projects. Official link: https://fonts.google.com"
+     "text": "Google Arts & Culture is a free platform from Google with high-resolution artworks and virtual tours of museums and historic sites from around the world. Official link: https://artsandculture.google.com"
     }
    ]
   },
@@ -3990,6 +4071,35 @@
      "extra": {},
      "published": "",
      "text": "JetBrains offers free educational licenses for its professional programming tools, such as IntelliJ IDEA and PyCharm, to students and teachers. Official link: https://www.jetbrains.com/community/education"
+    }
+   ]
+  },
+  {
+   "id": "lib-github-student-pack",
+   "kind": "library",
+   "library_kind": "tool",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "GitHub Student Developer Pack",
+   "logos": [
+    {
+     "name": "GitHub",
+     "domain": "github.com",
+     "wiki": "GitHub"
+    }
+   ],
+   "sources": [
+    {
+     "id": "github-student-pack",
+     "source": "library",
+     "trust": 3,
+     "url": "https://education.github.com/pack",
+     "title": "GitHub Student Developer Pack",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "GitHub Student Developer Pack gives verified students free access to many paid developer tools and services. Students apply with proof of enrollment such as a school email or student card. Official link: https://education.github.com/pack"
     }
    ]
   }
