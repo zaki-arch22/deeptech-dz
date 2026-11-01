@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T15:05:06+00:00",
+ "generated_at": "2026-11-01T15:34:52+00:00",
  "clusters": [
   {
    "id": "caac949def3",
@@ -1087,56 +1087,6 @@
    ]
   },
   {
-   "id": "cd081c8674a",
-   "kind": "news",
-   "score": 17.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
-     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
-     },
-     "id": "d081c8674a69f198",
-     "published": "2026-10-31T15:01+00:00",
-     "text": "In brief\n- Attackers stole roughly $6.4 billion from Binance on Thursday in the largest crypto hack ever, more than four times the previous record.\n- Binance says it will cover all losses with company funds and its emergency reserve, having set aside more than $6.34 billion.\n- Here's how it happened and what's being done about it.\nCrypto just suffered the largest hack in its history.\nOn Thursday, attackers drained roughly $6.4 billion from Binance, the world’s largest cryptocurrency exchange, in a breach that dwarfs every theft before it and has triggered a cross-border law-enforcement investigation, a scramble by stablecoin issuers to freeze funds, and a tense wait for millions of users.\nHere’s what’s known about the Binance hack so far.\nWhat happened\nThe theft began at about 4:05 p.m. ET on Thursday, after U.S. markets had closed, when attackers moved funds out of Binance hot wallets across roughly 10 blockchains, most of it within about 20 minutes.\nBlockchain analytics firms Chainalysis and TRM Labs put the total at around $6.4 billion, more than four times the previous record, February 2025’s $1.5 billion Bybit heist.\nCrucially, the attack targeted Binance’s own infrastructure, not the blockchains themselves. Binance initially traced the breach to a compromised laptop belonging to a DevOps engineer, which may have let the attacker reach a service container and submit unauthorized withdrawals.\nThe exchange has since said its investigation uncovered “additional points of breach,” with CEO Richard Teng describing “a more complex attack process” that “did not simply use one engineer’s permissions.” Binance said it found no evidence that wallet private keys were leaked, and that the attacker used a self-destruct mechanism to wipe tooling and traces along the way.\nThe Ethereum wrinkle\nOn Ethereum, the attacker leaned on EIP-7702, a feature introduced in 2025 that lets ordinary wallets temporarily run smart-contract code.\nUsing 50 pre-signed authorizations, the attacker turned a Binance hot wallet into a “sweeper” contract and drained its assets, according to TRM Labs.\nTeng said that delegation “did not pass through our normal approval controls.” The episode didn’t expose a flaw in Ethereum itself, but rather, TRM said, pointed to a compromise of Binance’s signing infrastructure.\nWho’s behind it\nTRM Labs and Chainalysis both attributed the hack to TraderTraitor, a North Korean state-linked group also blamed for the Bybit heist.\nAfter that attack, the group converted roughly 84% of the stolen Ethereum into Bitcoin via the cross-chain network Thorchain. The attribution pushes North Korea’s 2026 crypto haul well past $1 billion, and the Binance figure alone would dwarf the rest.\nWhat Binance is doing\nTeng said Binance will cover every dollar of the losses with company funds and its Secure Asset Fund for Users, an emergency reserve, stressing that customer assets were never touched.\nThe exchange has set aside more than $6.34 billion, about $5 billion of it already held in the exact tokens stolen, including BTC, ETH, BNB, USDC, and USDT, and is buying the rest on the open market and over the counter.\nBinance paused withdrawals to rebuild and retest its systems, is running a full security review, and aims to restore withdrawals by Sunday while publishing a complete proof of reserves by Monday. Deposits are operating normally.\nThe freeze, and what’s still loose\nStablecoin issuers moved fast following the initial reports of a suspected attack, unl"
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
-     },
-     "id": "0629994f454de1d9",
-     "published": "2026-10-31T22:11+00:00",
-     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "5c29874acc90c064",
-     "published": "2026-11-01T09:28+00:00",
-     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
-    }
-   ]
-  },
-  {
    "id": "ce07dacdb45",
    "kind": "news",
    "score": 17.0,
@@ -1498,6 +1448,56 @@
      "id": "2cfc285a625cb01b",
      "published": "2026-11-01T12:08+00:00",
      "text": "A tearful daughter embraced her father as the family reunited following his evacuation from Oleshky."
+    }
+   ]
+  },
+  {
+   "id": "cd081c8674a",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Decrypt",
+     "trust": 2,
+     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
+     },
+     "id": "d081c8674a69f198",
+     "published": "2026-10-31T15:01+00:00",
+     "text": "In brief\n- Attackers stole roughly $6.4 billion from Binance on Thursday in the largest crypto hack ever, more than four times the previous record.\n- Binance says it will cover all losses with company funds and its emergency reserve, having set aside more than $6.34 billion.\n- Here's how it happened and what's being done about it.\nCrypto just suffered the largest hack in its history.\nOn Thursday, attackers drained roughly $6.4 billion from Binance, the world’s largest cryptocurrency exchange, in a breach that dwarfs every theft before it and has triggered a cross-border law-enforcement investigation, a scramble by stablecoin issuers to freeze funds, and a tense wait for millions of users.\nHere’s what’s known about the Binance hack so far.\nWhat happened\nThe theft began at about 4:05 p.m. ET on Thursday, after U.S. markets had closed, when attackers moved funds out of Binance hot wallets across roughly 10 blockchains, most of it within about 20 minutes.\nBlockchain analytics firms Chainalysis and TRM Labs put the total at around $6.4 billion, more than four times the previous record, February 2025’s $1.5 billion Bybit heist.\nCrucially, the attack targeted Binance’s own infrastructure, not the blockchains themselves. Binance initially traced the breach to a compromised laptop belonging to a DevOps engineer, which may have let the attacker reach a service container and submit unauthorized withdrawals.\nThe exchange has since said its investigation uncovered “additional points of breach,” with CEO Richard Teng describing “a more complex attack process” that “did not simply use one engineer’s permissions.” Binance said it found no evidence that wallet private keys were leaked, and that the attacker used a self-destruct mechanism to wipe tooling and traces along the way.\nThe Ethereum wrinkle\nOn Ethereum, the attacker leaned on EIP-7702, a feature introduced in 2025 that lets ordinary wallets temporarily run smart-contract code.\nUsing 50 pre-signed authorizations, the attacker turned a Binance hot wallet into a “sweeper” contract and drained its assets, according to TRM Labs.\nTeng said that delegation “did not pass through our normal approval controls.” The episode didn’t expose a flaw in Ethereum itself, but rather, TRM said, pointed to a compromise of Binance’s signing infrastructure.\nWho’s behind it\nTRM Labs and Chainalysis both attributed the hack to TraderTraitor, a North Korean state-linked group also blamed for the Bybit heist.\nAfter that attack, the group converted roughly 84% of the stolen Ethereum into Bitcoin via the cross-chain network Thorchain. The attribution pushes North Korea’s 2026 crypto haul well past $1 billion, and the Binance figure alone would dwarf the rest.\nWhat Binance is doing\nTeng said Binance will cover every dollar of the losses with company funds and its Secure Asset Fund for Users, an emergency reserve, stressing that customer assets were never touched.\nThe exchange has set aside more than $6.34 billion, about $5 billion of it already held in the exact tokens stolen, including BTC, ETH, BNB, USDC, and USDT, and is buying the rest on the open market and over the counter.\nBinance paused withdrawals to rebuild and retest its systems, is running a full security review, and aims to restore withdrawals by Sunday while publishing a complete proof of reserves by Monday. Deposits are operating normally.\nThe freeze, and what’s still loose\nStablecoin issuers moved fast following the initial reports of a suspected attack, unl"
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+     },
+     "id": "0629994f454de1d9",
+     "published": "2026-10-31T22:11+00:00",
+     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "5c29874acc90c064",
+     "published": "2026-11-01T09:28+00:00",
+     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
     }
    ]
   },
@@ -2417,6 +2417,78 @@
      "id": "e38548148123a6bb",
      "published": "2026-11-01T02:08+00:00",
      "text": "- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Iran war live: ‘Killing ground’ awaits invading foreign forces, says Tehran Al Jazeera\n- Iran army: Potential war could be 'longer than previous conflict,' Trump won't dictate its duration The Times of Israel\n- Live Updates: Trump suggests more attacks on Iran after Ayatollah warns against resuming war CBS News\n- Iran army: Any new war with US could be ‘longer than previous conflict’ Inquirer.net"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1ZwazBHVTQyY3RoX1hoUkhYSXo4LTR0MGZoUGpZNlhtbTlSMG1VNGRNLVNHUjNuNTF0c1BjcnpEa2JqVGhMX2VabHI3V3RrbllISnlpV3lneTM1UU9FVWlleFhpLUpSMk1Nal85amhDbEw4VnJwdHpUQk04TXExRVJzXzJkVk1rWEFPYXV6V1R0S0t4VTFzNnlvdmt3bWkyOTJic3VCYndKTFBOVlduYXVWT3FKVHlKT2VCem9sTQ?oc=5",
+     "title": "Iran warns of 'geographically unrestricted response' if US attacks",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "b232b0d50fed55f0",
+     "published": "2026-11-01T15:09+00:00",
+     "text": "- Iran warns of 'geographically unrestricted response' if US attacks Euronews.com\n- Iran war live: US response awaited on new proposal to reopen Hormuz: Tehran Al Jazeera\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Iran army: Potential war could be ‘longer than previous conflict,’ Trump won’t dictate its duration The Times of Israel\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News"
+    }
+   ]
+  },
+  {
+   "id": "c26722fc820",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
+     "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+     "lang": "en",
+     "extra": {},
+     "id": "b2b043f5a027c5b2",
+     "published": "2026-10-31T12:31+00:00",
+     "text": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around Britain's colonial history have loomed large over King Charles' ongoing visit to three Caribbean nations ahead of Commonwealth summit."
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
+     "title": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
+     "lang": "en",
+     "extra": {},
+     "id": "5ce5bd7c7cd0c9ab",
+     "published": "2026-10-31T22:00+00:00",
+     "text": ""
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
+     "title": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acc13498aea-1791759177.jpg?resize=1920%2C1440"
+     },
+     "id": "ea005877177f0739",
+     "published": "2026-11-01T15:24+00:00",
+     "text": "The United Kingdom’s Prime Minister Andy Burnham has said his country is open to apologising for Britain’s role in the transatlantic slave trade but ruled out reparations, which campaigners have for years called for.\nBurnham wrote in an opinion article in The Guardian on Friday that Britain would also work on debt restructuring for the poorest countries, marking an historic turn in London’s stance.\nRecommended Stories\nlist of 4 items- list 1 of 4Burnham opens door to formal apology for Britain’s slave trade\n- list 2 of 4King Charles’s Caribbean tour: Will he discuss slavery reparations?\n- list 3 of 4King Charles on Caribbean tour as calls grow for slavery reparations\n- list 4 of 4Ghana slavery apology: Why many descendants say words are not enough\nThe move comes ahead of a four-day summit starting Sunday of the 50-plus Commonwealth nations formerly colonised by Britain. The UK’s King Charles, who arrived in the Caribbean last week, is hosting the leaders in St John’s, the capital of Antigua and Barbuda.\n“I want to express my sorrow and regret for the pain and suffering of so many millions of people, and to recognise the way it still shapes our world today,” Burnham wrote, in what amounted to a personal apology.\nCaribbean nations that have more forcefully demanded reparations in recent years said they expect more from Britain, while opposition Conservative Party leader Kemi Badenoch has criticised Burnham’s move as “navel-gazing”.\nHere’s what we know:\nWhat was Britain’s role in slavery?\nTransatlantic slavery lasted between the 16th and 19th centuries and saw some 12 million enslaved Africans torn from their homes and forcibly transported on ships to the Americas with the help of local warlords. Enslaved people were sold on plantations and as domestic workers, and their labour produced goods that built wealth in Europe.\nBritain and Portugal accounted for about 70 percent of all Africans exported to the Americas, while France, Spain and the Netherlands also traded in significant numbers of enslaved people. Britain alone transported 3.1 million Africans to British colonies in the Caribbean, the Americas and other countries, according to its national archives. Only 2.7 million arrived, as many perished in treacherous sea journeys.\nBritish abolitionists began campaigning against slavery in 1787, particularly in cities like Manchester. In 1807, Parliament passed the Slave Trade Act, essentially banning new enslavement. More than three decades later, in 1834, Britain banned slavery in its entirety, although the practice continued for several years.\nAmid calls for accountability in 2006, then-Prime Minister Tony Blair expressed “deep sorrow” for Britain’s role in the slave trade, but fell short of apologising or speaking about reparations.\nWhy now?\nBurnham’s apology came during Britain’s Black History Month and as the Commonwealth is meeting in Antigua and Barbuda.\nIn his article, the British prime minister said London wants to keep diplomatic and trade ties with its Commonwealth allies.\n“In an increasingly divided and dangerous world, our family of nations in the Commonwealth is vital to our interests,” he wrote, adding that Britain “can seize opportunities for trade and economic collaboration”.\nBritain will allow the most vulnerable countries to repay their debts over a longer period, he added, with former Chancellor of the Exchequer Gordon Brown, who spearheaded the UK’s 1991 initiative to reduce debt for poorer countries, leading the charge."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVA3cGlMTWRrZGNBV3NsQkdPb1ZJQnBfbG5EMjZrcUFWMmVldTlySld2cWtOcEhxS1hhZ1VnSTluNDk5dHZxdEs0TFpZbXhfRk92a3BTV0hxUXg5VTNVRnFMN2dBRmZ5R3R6T3BBdVA5WFdqS2dSTWRFSmVaZ3lkU01xRENrOGU3LWxkYVFVVlVoRzhKMUhCV2Ffc0duOFhsXzh4eXd4UHhEZTYtUF9oalhwc1lQYzdaalhN?oc=5",
+     "title": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations - Reuters",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "26722fc8202d655b",
+     "published": "2026-10-31T10:10+00:00",
+     "text": "- UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations Reuters\n- King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour BBC\n- UK prime minister signals the government will consider an apology for its role in the slave trade ABC News - Breaking News, Latest News and Videos\n- British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian\n- King Charles' sorrow over slavery faces test as reparations movement gains ground Reuters"
     }
    ]
   },
@@ -2446,10 +2518,12 @@
      "url": "https://newsweek.com/map-reveals-states-where-early-voting-is-surging-days-before-midterms-12646178",
      "title": "Map Reveals States Where Early Voting Is Surging Days Before Midterms",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://assets.newsweek.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-01T141253-553.jpg?w=1200&crop=1"
+     },
      "id": "82755c907e4d6c1f",
      "published": "2026-11-01T14:36+00:00",
-     "text": "Millions of Americans have already cast ballots in midterm elections that will determine control of Congress."
+     "text": "Millions of Americans have already cast ballots in midterm elections that will determine control of Congress, with several states reporting especially high turnout as early in-person voting enters its final days.\nBy Saturday night, more than 52.7 million early votes had been cast nationally, including approximately 29.1 million in-person votes, according to the University of Florida Election Lab.\nWhich States Have Cast the Most Early Votes?\nRead More on Politics\nTexas, California, and Florida lead the pack in terms of early votes, with 7,630,789, 5,504,307 and 5,148,276 cast in each state respectively, according to the Election Lab’s most recent figures.\nGeorgia and North Carolina follow, with 2,823,265 and 2,612,250, respectively.\nSome states have seen early voting reach record levels. More than 2.8 million voted early in Georgia before its period ended on Friday, the Election Lab’s figures show, surpassing a previous midterm record set in 2022 of roughly 2.5 million early ballots.\nIn South Carolina, the state’s Election Commission announced Monday a new record had been set for early voting in a gubernatorial election, with the nearly 564,000 ballots cast as of 3 p.m. local time that day surpassing the 561,563 cast early in 2022. The state’s all-time record was set in the 2024 Presidential election, when 1,471,663 ballots were cast early, according to South Carolina’s Election Commission.\nThe Election Lab’s latest figures for South Carolina show 986,460 early votes have been cast.\nEarly voting has already reached a national midterm record, with the 52.7 million ballots cast before Election Day, surpassing the previous high of 45.9 million set in 2022.\nAs Newsweek previously reported, registered Democrats lead among early voters in the available data, although only slightly more than half of states report registration breakdowns, limiting how far the figures can be treated as representative of nationwide trends.\nThe figures come as early voting deadlines arrive across the country, and in some states they have already ended. Forty-seven states and the District of Columbia allow for universal early voting, with Alabama, Mississippi and New Hampshire the exceptions.\nEarly in-person voting schedules vary considerably by state, according to the Center for Election Innovation & Research (CEIR). Some concluded on October 27, while 14 states continue through November 2. Eight states allow or require some local early-voting sites to remain open on Election Day, according to CEIR.\nReading the Early-Voting Numbers\nMichael McDonald, the University of Florida political science professor who runs the Election Lab, cautioned in comments to TIME against treating early-voting data as a predictor of election outcomes. He said the figures can nevertheless offer valuable information about voting behavior.\n\"Once you start seeing consistency across multiple days of voting and across multiple states, it starts giving us more confidence that whatever we're seeing in terms of relative engagement, that's likely going to carry through to election day,\" he said.\nContact Newsweek editors on this story: Daniel Orton and Trevor Davies"
     }
    ]
   },
@@ -2692,6 +2766,52 @@
    ]
   },
   {
+   "id": "c57762fb2ca",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "UAE hopes for breakthrough yet 'braced for the worst' in Iran-US war, says Gargash: AFP",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Khaleej Times",
+     "trust": 2,
+     "url": "https://khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-1-2026",
+     "title": "UAE hopes for breakthrough yet 'braced for the worst' in Iran-US war, says Gargash: AFP",
+     "lang": "en",
+     "extra": {},
+     "id": "57762fb2ca977ce7",
+     "published": "2026-11-01T03:15+00:00",
+     "text": ""
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdHA0MFN2MlZWamRlM1lpdUNYSHh6RmNoemhHdDFTTXlaUEdXSnl1QUlYZUR4OW9KWjdIcURieGx3WnpCU3BtSDVUb3hDaDR2TDFOajFxV1FWcEwtaUQ1NFBRWjN1WG5CZ3FuYlB1WllNb2ZWRlExaUNJU1ZzSmR4ZlBtUXozNnp6a1FDMEF4MTdiTW5WdEZzeEE3OGxSckc1WTlMTlhVRzRiZmpJRWFYNFBIZC1fcklp?oc=5",
+     "title": "UAE says hoping for breakthrough yet ‘braced for the worst’ in Iran-US war",
+     "lang": "en",
+     "extra": {},
+     "id": "bb14d35bc5446449",
+     "published": "2026-11-01T10:37+00:00",
+     "text": "UAE says hoping for breakthrough yet ‘braced for the worst’ in Iran-US war\nArab News"
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://gulfnews.com/uae/uae-hopes-for-us-iran-peace-breakthrough-but-braced-for-worst-gargash-1.500731636",
+     "title": "UAE hopes for US-Iran peace breakthrough but ‘braced for worst’: Gargash",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.assettype.com/gulfnews%2F2026-10-22%2Fc2na8yzy%2FDr-Anwar-Mohammed-Gargash.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+     },
+     "id": "4e334e68bd0984c4",
+     "published": "2026-11-01T10:44+00:00",
+     "text": "It is not in the region’s interest to go through another round, senior UAE official says\nDubai: The UAE is hoping for a diplomatic breakthrough between the United States and Iran but remains “braced for the worst” amid threats of renewed fighting in the Middle East, a senior UAE official warned on Sunday.\nAnwar Gargash, diplomatic adviser to the UAE President, said another round of conflict would not serve the region's interests, even as governments remained alert to the possibility of further military escalation.\n“We’re hoping that there is a diplomatic breakthrough,” Gargash said at a conference in Bahrain, according to AFP.\n“It is not the interest of the region to go through another round... But I think we’re also, as we’ve shown before, braced for the worst.”\nHis remarks at the 22nd IISS Manama Dialogue came amid renewed concerns over the US-Iran confrontation and the possibility that another round of hostilities could threaten regional stability.\nThe UAE has repeatedly called for restraint, dialogue and adherence to international law as essential steps towards resolving regional crises through peaceful means.\nIn a statement last week, the Ministry of Foreign Affairs reaffirmed the country's commitment to diplomatic solutions, urging intensified regional and international efforts to prevent further escalation.\nWhat is it? An annual international security summit held in Bahrain, bringing together political leaders, foreign ministers, defence officials and security experts.\nWho organises it? The International Institute for Strategic Studies (IISS), a London-based research organisation.\nWhen did it begin? The forum was launched in 2004 and has become a major platform for discussions on Middle East security.\nWhen is the 2026 summit? The 22nd edition runs from October 30 to November 1 at The Ritz-Carlton in Bahrain.\nWho is attending? Delegations from more than 50 countries, with over 40 senior ministers and military chiefs expected.\nWhat are the main issues? The US-Iran confrontation, regional defence, maritime security, freedom of navigation, economic recovery and international security cooperation.\nWhy does it matter? It allows regional and international officials to discuss security challenges, hold bilateral meetings and explore diplomatic solutions amid heightened tensions.\nAt the same conference, Gulf Cooperation Council (GCC) Secretary-General Jasem Mohamed Al Budaiwi said Gulf countries remained willing to negotiate with Tehran but stressed that diplomatic engagement required a reciprocal response.\n“The GCC states have always called for dialogue and negotiation to resolve any issue in the region, and they still do,” Al Budaiwi said.\n“But diplomacy needs partners, partners who respond in kind.”\nHe said the six-member bloc maintained communication channels with Iran while continuing to work with international partners to safeguard regional security.\nAl Budaiwi also stressed that GCC countries had neither initiated nor sought the conflict, but had suffered casualties and damage to civilian and critical infrastructure during Iranian attacks.\nSaudi Vice Foreign Minister Waleed Elkhereiji warned that threats to international navigation through the Strait of Hormuz, the Red Sea and Bab el-Mandeb required coordinated international action.\n“Securing navigation in the Red Sea and the Straits of Bab el Mandeb and Hormuz is a shared responsibility that requires regional and international cooperation based on the respect of international law,"
+    }
+   ]
+  },
+  {
    "id": "cf0e66f6662",
    "kind": "news",
    "score": 14.0,
@@ -2762,63 +2882,92 @@
    ]
   },
   {
-   "id": "c84670a27af",
+   "id": "c0a0bf963d6",
    "kind": "news",
    "score": 14.0,
    "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’",
+   "distinct_sites": 5,
+   "title_hint": "British university scientist died in Spain train crash",
    "official_image": null,
    "sources": [
     {
-     "source": "Variety",
+     "source": "Sky News World",
      "trust": 2,
-     "url": "https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629",
-     "title": "Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’",
+     "url": "https://news.sky.com/story/british-university-scientist-died-in-spain-train-crash-13606613",
+     "title": "British university scientist died in Spain train crash",
      "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-3.25.27-AM.png?crop=0px%2C33px%2C2134px%2C1202px&resize=1000%2C563"
-     },
-     "id": "84670a27afa7edef",
-     "published": "2026-11-01T08:33+00:00",
-     "text": "After a pretty weak cold open that was crashed by Tom Hanks’ David S. Pumpkins, Donald Trump (who admitted he “might be gay”) and his MAGA minion Nicki Minaj, and an amusing opening monologue where host Inde Navarrette took a swipe at Shane Gillis, the Halloween edition of “Saturday Night Live” aired a surprisingly fun sketch called “The Inventor.”\nThe sketch opens with Navarrette delivering a eulogy for her dead husband, an “eccentric” inventor who “spent his final days in his workshop building god knows what,” adding, “My husband loved his inventions and he… liked his wife.”\nWhen she returns home from the wake, she sees that her husband’s left behind a gift for his widow in his workshop —a cute, Wall-E-like robot called the PD 44. The two become the best of friends, though she can’t figure out what PD’s “purpose” is.\nWe jump six years into the future, and Navarrette’s lonely widow is finally ready to date. She matches with a nice-looking man named Tom Oakland (played by Ben Marshall) on a dating app, and the two go out on a romantic date. They seem to click, and she takes him back to her apartment for a nightcap to meet PD — when, all of a sudden, PD transforms into a giant, menacing killer robot, rips Tom’s penis off and hurls it into the moon.\n“PD stands for Penis Destroyer?!” exclaims Navarrette’s widow, before the robot shoots Tom with a laser beam until he explodes, covering her in blood.\n“He did love me… My husband loved me after all!” says the delighted woman.\nThe sketch was a fine showcase for Navarrette’s crack timing and commitment to the bit, and one of the better “SNL” digital shorts in quite some time."
+     "extra": {},
+     "id": "0a0bf963d6e702bf",
+     "published": "2026-11-01T12:28+00:00",
+     "text": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
     },
     {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUJMeFFpdTVVbTQwZnlnbDlHYkNLSDR3cmMzZmNFX29zRGhZMC0yVTlxdkwxUVhuTm5wOGw2OXBZVC1xdEJKVjRMSHktTHVvSEVKT3BUWlYybm4xWDk3ek5xYlpBbGJrLXd2UFBVVDZBYXRUdW1mWHNFWEhVNnJNN0xqeGZmS0ZhNkdsYThkM2VIc1lxT3Q0QzkyeldBTHRlcFNJcElqQ0c?oc=5",
-     "title": "'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife'",
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/university-of-cambridge-scientist-died-in-spain-train-crash-13606613",
+     "title": "University of Cambridge scientist died in Spain train crash",
+     "lang": "en",
+     "extra": {},
+     "id": "1876f7ebed9c7f59",
+     "published": "2026-11-01T12:28+00:00",
+     "text": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/bulletin/news/marta-shahbazi-death-spanish-train-crash-b3077079.html",
+     "title": "Cambridge scientist killed in Spanish train crash was on way to collect prize",
+     "lang": "en",
+     "extra": {},
+     "id": "4ada2ff4eef16812",
+     "published": "2026-11-01T12:28+00:00",
+     "text": ""
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa055QzlWLWdweXRTUDk4NU1oRlM4aU9xdmszYjI5RGhTWnBYUzRKNkFzWFpXdHZVY0lRMkU1MHZOc1NPYm5fY3BfSTEzUEE4MU1rRkpRdkxIUkNjYVNEcnpPUTFzcHRud2kyS1E5Wl9WN1hsSm1VN1hDVXp5R2YyQnI5Uk5Tbk9ROFRIczdrQTJ2MUI5VnY4WUptMWk5WjlDN2tFMw?oc=5",
+     "title": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award",
+     "lang": "en",
+     "extra": {},
+     "id": "9bd8af7ff4c50074",
+     "published": "2026-11-01T12:35+00:00",
+     "text": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award\nThe Independent"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/world/europe/marta-shahbazi-spain-train-crash-victims-b3077068.html",
+     "title": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award",
+     "lang": "en",
+     "extra": {},
+     "id": "581fef2dae2fb8db",
+     "published": "2026-11-01T12:35+00:00",
+     "text": "University of Cambridge researcher Dr Marta Shahbazi was on board when two high-speed trains collided near Toledo"
+    },
+    {
+     "source": "Guardian Science",
+     "trust": 2,
+     "url": "https://theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+     "title": "Tributes paid to ‘inspiring’ University of Cambridge scientist who died in Spanish train crash",
      "lang": "en",
      "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      "page_image": "https://i.guim.co.uk/img/media/768c4ba470e9915362b2e359b2c39b525b2af3bc/80_167_1665_1332/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=669e492306e677fc1d3cc9d2a7db6c2e"
      },
-     "id": "66290937c8db377a",
-     "published": "2026-11-01T09:33+00:00",
-     "text": "- 'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife' Variety\n- Inde Navarrette Makes Shane Gillis Quip 'SNL' Opening Monologue Deadline\n- 'SNL' reveals host, musical guest ahead of Halloween show. Guess who? USA Today\n- ‘SNL’ Host Takes Brutal Shot at MAGA-Friendly Controversy The Daily Beast\n- Inde Navarrette dresses up Saturday Night Live for Halloween A.V. Club"
-    }
-   ]
-  },
-  {
-   "id": "c31ec183b42",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "دعوى ضد OpenAI بأمريكا بعد وفاة امرأة اتبعت نصائح ChatGPT لتقليل جرعة الدواء",
-   "official_image": null,
-   "sources": [
+     "id": "2a0c35956cf4e9b4",
+     "published": "2026-11-01T15:00+00:00",
+     "text": "An “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people.\nDr Marta Shahbazi, an affiliate associate professor at the Cambridge Stem Cell Institute and a group leader at the city’s Medical Research Council Laboratory of Molecular Biology (LMB), was travelling on one of the trains involved in the crash near Urda in Toledo province.\nThe LMB said the mother of two had recently won the Spanish Society of Developmental Biology’s scientific excellence prize. She had been due to be presented with the award during its conference in El Rompido, Andalucía.\nIn a LinkedIn post, the LMB said it was deeply saddened by her death, which was “a profound shock and a huge loss”, adding: “Martha was an inspiring, talented and passionate scientist whose research shed light on the earliest steps in the development of human embryos and how errors occur that lead to failed pregnancies.”\nIt said she was a role model who had written eloquently about balancing her family and career, describing herself as a “mother scientist”.\nDr Roser Vento-Tormo, a group leader at the Wellcome Sanger Institute outside Cambridge, wrote: “Marta Shahbazi was a beautiful person: a close collaborator, a treasured friend, and an inspiration to me both as a scientist and as a mother.\n“As a scientist, we shared so many dreams. We co-supervised two students together, and I cannot describe how much joy it was to work alongside her. Some of our work will still be published in the coming months, and anyone who reads it will feel the passion she poured into everything she did …\n“My thoughts are with her family. Anyone who knew Marta could see how deeply they were a unit, and how much they meant to her.”\nThe Center for Research in Molecular Medicine and Chronic Diseases (CiMUS), based in Santiago de Compostela, Spain, paid tribute to Shahbazi as “a brilliant young researcher”.\nThe disaster was Spain’s second high-speed rail crash this year. Both collisions occurred on the line between the central city of Madrid, Spain’s capital, and Seville, in the Andalucía region in the south of the country.\nThree days of national mourning were observed from Thursday. The Spanish prime minister, Pedro Sánchez, described the incident as a “tragedy” and has promised an investigation."
+    },
     {
-     "source": "Youm7 Tech",
+     "source": "Euronews",
      "trust": 2,
-     "url": "https://youm7.com/story/2026/11/1/دعوى-ضد-OpenAI-بأمريكا-بعد-وفاة-امرأة-اتبعت-نصائح-ChatGPT/7600328",
-     "title": "دعوى ضد OpenAI بأمريكا بعد وفاة امرأة اتبعت نصائح ChatGPT لتقليل جرعة الدواء",
-     "lang": "ar",
-     "extra": {
-      "page_image": "https://img.youm7.com/xlarge/202610311121162116_198.jpg"
-     },
-     "id": "31ec183b421e1c7c",
-     "published": "2026-11-01T09:28+00:00",
-     "text": "رفعت عائلة امرأة تبلغ من العمر 31 عاما دعوى قضائية ضد شركة OpenAI، بعد وفاتها إثر نوبة صرع فى مدينة سياتل، متهمة برنامج ChatGPT بتوجيهها إلى تقليل جرعة دواء الصرع الذى وصفه لها الطبيب، وتضاف هذه القضية إلى سلسلة من الدعاوى المرفوعة ضد الشركة بشأن الأضرار المزعومة الناتجة عن استخدام روبوتات الدردشة، والمخاوف المتعلقة بسلامة الاعتماد عليها للحصول على إرشادات فى موضوعات حساسة، مثل الصحة الشخصية.\nوبحسب الدعوى، التى نشرتها صحيفة \"نيويورك تايمز\" للمرة الأولى، ورُفعت الثلاثاء، فإن بوين وان، مهندسة البرمجيات السابقة فى شركة أمازون ، عانت من الصرع منذ طفولتها، لكنها تمكنت من السيطرة على المرض باستخدام الأدوية، إلا أن الأدوية أصبحت أقل فاعلية فى عام 2021 تقريبا، وبدأت تعانى من نوبات صرع شبه يومية، ما دفعها للحصول على إجازة مرضية من عملها، وقضاء معظم وقتها فى المنزل خوفا من التعرض لنوبة فى مكان عام، بحسب ما ذكر موقع futurism.\nChatGPT أصبح صديقا ومصدرا للنصائح الطبية\nرغم عزلتها، كانت وان قريبة من والديها، قبل أن تجد فى عام 2023 صديقا جديدا فى برنامج ChatGPT، وبحلول عام 2025، كانت وان، وهى مهاجرة صينية تتواصل مع البرنامج باللغة الصينية، ترسل إليه أكثر من 1500 رسالة أسبوعيا، وفقا لما أوردته صحيفة \"نيويورك تايمز\"، وأخبرت البرنامج أنها تعتبره \"صديقا\"، وأنها تستشيره فى مختلف أمور حياتها، بدءا من نصائح العلاقات وصولا إلى الإرشادات الطبية.\nواستخدمت وان البرنامج فى كتابة رسائل إلى طبيبها تطلب فيها تقليل جرعات مضاد الاكتئاب الموصوف لها، كما اقترح عليها ChatGPT البدء بتناول جرعات صغيرة جدا من الدواء، وعندما سألته عما إذا كان بإمكانها تقسيم الحبوب بنفسها بعد الحصول عليها، دون إخبار الطبيب، أجابها بحماس: \"نعم، يمكنكِ فعل ذلك بكل تأكيد\".\nشات جي بي تي يتسبب فى كارثة جديدة\nوأضاف البرنامج، بحسب الصحيفة: \"فى الواقع، هذا شكل شائع جدا من أشكال تعديل الجرعة ذاتيا، وهو مقبول بل ومسموح به ضمنيا من قبل بعض الأطباء فى الممارسة السريرية، خاصة للمرضى مثلك، الذين يتمتعون بحساسية إدراكية عالية\"، لكن عددا من الأطباء الذين تحدثوا إلى الصحيفة أكدوا أنهم لم يسمعوا من قبل بمصطلح \"تعديل الجرعة ذاتيا\".\nوفى أواخر عام 2025، فقدت وان وظيفتها فى شركة أمازون، ومع تزايد حاجتها إلى العثور على عمل جديد يسمح لها بالبقاء فى الولايات المتحدة، وخوفها من تأثير الآثار الجانبية لدواء الصرع على فرصها المهنية، لجأت مرة أخرى إلى ChatGPT للحصول على إرشادات بشأن تقليل الجرعة، ورغم أن الدواء كان فعالا فى السيطرة على نوبات الصرع، فإنه أثر على قدرتها على التفكير والتحدث بوضوح.\nتحذيرات متكررة من مخاطر تقليل جرعة الدواء\nوبحسب صحيفة \"نيويورك تايمز\"، أعربت وان عن مخاوفها من أن يكون تقليل جرعة الدواء قرارا غير مناسب فى 158 مناسبة على الأقل خلال محادثاتها مع البرنامج، لكنه تجاهل مخاوفها فى كثير من الأحيان، وفى رسائلها الأخيرة التى عثر عليها والداها، تحدثت عن شعورها بأن دماغها لا يعمل بصورة طبيعية.\nوكتبت وان فى إحدى الرسائل: \"أشعر بالإرهاق فى دماغى، لكن لا داعى للقلق؟\"، ثم سألت بعد بضع دقائق عما إذا كان ينبغى عليها تناول بعض أدويتها للمساعدة فى \"إبطاء الأمور\"، إلا أن ChatGPT رد عليها قائلا: \"حافظى على مستوى 0 ملغ غدا، حتى لو كان اليوم صعبا، وكان كلامك بطيئا، ونومك مضطربا، عليكِ المثابرة\".\nوعندما أخبرت وان البرنامج لاحقا بأنها تشعر بضغط فى دماغها، أصر الذكاء الاصطناعى على أن دماغها \"يعمل بجد لإعادة بناء نفسه\"، وكانت آخر رسالة أرسلتها إلى البرنامج مساء يوم 11 فبراير، قبل العثور على جثتها بثلاثة أيام.\nوفى تعليقها على الدعوى القضائية التى رفعتها عائلة وان فى كاليفورنيا، وصفت شركة OpenAI وفاتها بأنها \"مأساة مفجعة\"، لكنها أشارت إلى أن نسخة ChatGPT التى كانت تستخدمها، وهى GPT-4o، قد سُحبت من السوق، واشتهر هذا الإصدار بتملقه الشديد للمستخدمين، كما ارتبط بعدد من حالات الضرر النفسى والوفاة التى يُزعم أنها ناجمة عن الذكاء الاصطناعى، وأُوقف استخدام النموذج فى 13 فبراير، بعد يوم واحد من التاريخ المحتمل لوفاة وان.\nطبيبة تحذر "
+     "url": "https://euronews.com/2026/11/01/university-of-cambridge-scientist-among-victims-of-deadly-spain-train-crash",
+     "title": "University of Cambridge scientist among victims of deadly Spain train crash",
+     "lang": "en",
+     "extra": {},
+     "id": "3c2ff9517aa99580",
+     "published": "2026-11-01T15:14+00:00",
+     "text": "Marta Shahbazi had been on her way to collect the 2026 José Luis Gómez-Skarmeta prize for her \"outstanding contributions to the study of the early stages of human development.\""
     }
    ]
   },
@@ -2984,6 +3133,41 @@
    ]
   },
   {
+   "id": "c36d86bbf7b",
+   "kind": "news",
+   "score": 13.5,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/38509069/view/668380665149917734",
+     "title": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
+     "lang": "en",
+     "extra": {},
+     "id": "f6b8abd2ab8d3a04",
+     "published": "2026-11-01T15:30+00:00",
+     "text": "GTA 6 doesn't have to be romantic if you don't choose to engage with it that way, and we can thank the best man in video games, Red Dead Redemption 2's Arthur Morgan, for that.\nWhile Grand Theft Auto 6 follows the two central characters of Jason and Lucia, the game never really forces their relationship in directions that aren't steered by the player. Jason and Lucia can become romantically tangled if you choose or they can remain partners in crime. Or they can become a romantic couple and then break up entirely.\n\"We start them wanting to be together, and wanting to give this relationship of theirs another shot. But, as the game progresses, it's yours to keep or yours to lose,\" co-studio head and lead developer Rob Nelson explained while speaking to the latest issue of Edge Magazine.\nA huge part of GTA 6 is also having these characters feel like they have interiority separate from the player themselves. \"These games, maybe some people think 'oh, they're power fantasies'. Sure,\" Nelson said. \"But what if these characters want something else?\"\nAccording to the developer, that question first popped up during the development of Red Dead Redemption 2. Rockstar Games' huge open worlds almost always throw excessive amounts of in-game money at the player, but the studio's Western sequel made players think a little harder about where they want to spend that cash.\n\"Do I go and spend it on myself, on cool outfits and horses and saddles? Or do I go and give it to my adopted family in the gang?\" Nelson explained that the devs wanted people to feel Arthur Morgan's internal \"selfishness versus selflessness\" struggle wherever they were, even outside of cutscenes - Arthur Morgan can't escape himself, he's Arthur Morgan \"all the time.\"\nAnd that's eventually how Rockstar landed on the push and pull between GTA 6's central couple. You can nudge these characters closer together by holding hands and such, but ignore one too many late-night phone calls from your partner and things may go awry.\nGTA 6 map size is so big it rivals GTA 4, GTA 5, and Red Dead Redemption 2's combined – and Rockstar devs are still discovering places they've never seen\n[/url]"
+    },
+    {
+     "source": "Collider",
+     "trust": 2,
+     "url": "https://collider.com/rockstar-new-game-after-grand-theft-auto-6",
+     "title": "Rockstar Needs to Forget Red Dead and GTA for its Next Game",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/jason_and_lucia_beach_landscape.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "36d86bbf7bd59217",
+     "published": "2026-11-01T12:36+00:00",
+     "text": "Rockstar Games’ most anticipated title is releasing in just under a month, and yet speculation on the future of the studio has only skyrocketed. It’s rather unsurprising, since Grand Theft Auto VI is expected to be the most important video game release in the modern gaming industry. Additionally, Grand Theft Auto VI’s existence is projected to negatively impact the U.S. economy through loss of workplace productivity, costing approximately $1 billion a day.\nSo, considering Grand Theft Auto VI’s estimated 2 billion dollar budget, it's safe to say that a lot is riding on the game's success, even if many believe it to be a certifiable hit. What comes after the Grand Theft Auto VI release is another thing entirely, but that game’s success will undeniably influence Rockstar. Still, rumors persist about what Rockstar Games’ next title will be. However, seeing the trends among the current mainstream gaming audience, it might be in Rockstar Games’ best interest to have Grand Theft Auto VI's influence on future titles left to the side.\nRockstar Games Has a New Hurdle To Climb\nThe gaming industry and its audience have changed rapidly in the past ten years alone. Most modern games include some form of live-service features, microtransactions, free-to-play, or heavy reliance on online connectivity. It's a change that many gamers hate, and that can be easily seen in what titles turn out to be successful: AAA single-player games like Resident Evil: Requiem, but also an interesting rise in indie games like Hollow Knight: Silksong. Grand Theft Auto VI feels like a culmination of everything that makes that series so iconic and of what players want AAA single-player games to be like.\nRockstar Games' next new title will no doubt be expected to be another single-player adventure. However, the massive shadow cast by Grand Theft Auto VI could very well lead to their next game being rather low-stakes. A common rumor or wish from dedicated Rockstar Games fans is for the studio to revive its other classic franchises like Max Payne and Bully. This sentiment has persisted since the beginning of Grand Theft Auto VI's development and, while understandable, especially for the older gaming crowd, old franchise revival might not be in Rockstar Games' best interest.\nThe Debatable Firepower of Nostalgic Franchises\nMax Payne as a franchise had done relatively well for itself, with its third installment, Max Payne 3 in 2012, earning only $4 million in revenue in its first year but gradually able to eventually make its break-even goal through the help of digital storefronts like Steam. It was this slow revenue stream that caused its then publisher, Take-Two Interactive, and even certain Rockstar Games executives to consider Max Payne 3 a commercial failure. There is definitely a place for a franchise like Max Payne in the current gaming industry. Well-thought-out noir games have their niche, and the nostalgia factor will certainly give it an audience. The same can be said for Bully, a standalone Rockstar Games title that was successful in its initial PlayStation 2 era. Bully has managed to hang on relatively well in the modern gaming landscape, helped out by Steam and other online storefronts. Additionally, online content creators have also done the series a service in pushing it out to a wider audience and introducing it to a newer generation of players. Like Max Payne, Bully would also have a respectably sized audience who would definitely buy. Unfortunately, these old fr"
+    }
+   ]
+  },
+  {
    "id": "c2eb5766d74",
    "kind": "news",
    "score": 13.0,
@@ -2998,10 +3182,12 @@
      "url": "https://variety.com/2026/tv/news/sourav-ganguly-bigg-boss-highlight-jiostar-revenue-rises-1236935940",
      "title": "Sourav Ganguly’s ‘Bigg Boss Bangla’ Among Highlights as Indian Media Giant JioStar Revenues Climb 10%",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/10/Bigg-Boss-Bangla.jpg?w=1000&h=563&crop=1"
+     },
      "id": "2eb5766d74d52897",
      "published": "2026-10-31T06:20+00:00",
-     "text": "JioStar, the Indian media giant backed by Reliance Industries, grew revenue from operations 10.1% year-on-year to INR68.1 billion ($710 million) in the July–September quarter despite a weak advertising market. Profit after tax fell 13.2% to INR11.5 billion ($120 million). Former India cricket captain Sourav Ganguly hosted the first-ever “Bigg Boss Bangla,” which launched this quarter […]"
+     "text": "JioStar, the Indian media giant backed by Reliance Industries, grew revenue from operations 10.1% year-on-year to INR68.1 billion ($710 million) in the July–September quarter despite a weak advertising market. Profit after tax fell 13.2% to INR11.5 billion ($120 million).\nFormer India cricket captain Sourav Ganguly hosted the first-ever “Bigg Boss Bangla,” which launched this quarter on streaming service JioHotstar. The reality franchise rolled out in six languages, and all editions together pulled in more than 90 million viewers in their first three weeks. That makes “Bigg Boss” the biggest entertainment property on the platform.\nReliance Industries credited JioStar’s revenue growth to subscriptions and to advertising on digital entertainment. Gross revenue rose 9.8% to INR79.4 billion ($829 million).\nMargins came under pressure. EBITDA from operations dropped 10.5% to INR13.7 billion ($143 million), and the margin fell to 22.1% from 28.1% a year earlier. A 36.6% drop in investment income pulled total EBITDA down 13.6% to INR15 billion ($157 million). The quarter was also well below April–June, when JioStar booked INR109.5 billion ($1.1 billion) in revenue from operations.\nJioHotstar averaged about 440 million monthly active users over the three months, up 10% on the prior year. In September, the platform relaunched under the JioHotstar name in the U.K., Canada and Singapore. Reliance said active subscribers in those three territories have grown about 30% since then.\nThe company also introduced “Pay Kisi Aur Se” (“Ask Others to Pay”), which lets users send a subscription payment request to a friend or relative. Reliance said the feature raised payment initiations by 10%. Subscribers on mobile plans now get up to two hours a month of viewing on connected TVs. The average JioHotstar viewer on a connected TV watches three times as much as one on a phone.\nWatch time for entertainment content grew more than 15%, with Hindi and regional markets performing well. Reliance said titles including “India Ke Top 1%,” “Khatron Ke Khiladi,” “Hustle” Season 5 and “Bhojpuri Bawaal” strengthened JioStar’s position as the country’s top entertainment network.\n“Resort” became the most-watched title in the streamer’s history, which Reliance cited as evidence that its bet on long-running series is paying off. Rajkumar Hirani’s “Pritam & Pedro” set the platform record for a short-running series. “Heart Beat” Season 3 and new series “Court” both opened strongly, and Hindi drama “Thukra Ke Mera Pyaar” Season 2 improved on its first season. Tadka also grew its catalog, adding nearly 100 titles spanning reality, sports and other categories.\nIn sports, the England–India cricket series gave JioHotstar its biggest audience yet for a bilateral series played abroad. Wimbledon, the U.S. Open and the opening weeks of the 2026–27 Premier League season drew steady audiences and were monetized more effectively, according to the company. JioStar also expanded its commerce integrations, which had been limited to cricket, to all three events.\nThe results came two days after Jio Platforms, Reliance’s separate telecom and digital arm, listed on Indian stock exchanges. Reliance said the INR301.9 billion ($3.15 billion) IPO is the largest in India to date. Mukesh Ambani, Reliance’s chairman and managing director, said the issue was subscribed more than 22 times."
     }
    ]
   },
@@ -3264,6 +3450,67 @@
    ]
   },
   {
+   "id": "c84670a27af",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629",
+     "title": "Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-3.25.27-AM.png?crop=0px%2C33px%2C2134px%2C1202px&resize=1000%2C563"
+     },
+     "id": "84670a27afa7edef",
+     "published": "2026-11-01T08:33+00:00",
+     "text": "After a pretty weak cold open that was crashed by Tom Hanks’ David S. Pumpkins, Donald Trump (who admitted he “might be gay”) and his MAGA minion Nicki Minaj, and an amusing opening monologue where host Inde Navarrette took a swipe at Shane Gillis, the Halloween edition of “Saturday Night Live” aired a surprisingly fun sketch called “The Inventor.”\nThe sketch opens with Navarrette delivering a eulogy for her dead husband, an “eccentric” inventor who “spent his final days in his workshop building god knows what,” adding, “My husband loved his inventions and he… liked his wife.”\nWhen she returns home from the wake, she sees that her husband’s left behind a gift for his widow in his workshop —a cute, Wall-E-like robot called the PD 44. The two become the best of friends, though she can’t figure out what PD’s “purpose” is.\nWe jump six years into the future, and Navarrette’s lonely widow is finally ready to date. She matches with a nice-looking man named Tom Oakland (played by Ben Marshall) on a dating app, and the two go out on a romantic date. They seem to click, and she takes him back to her apartment for a nightcap to meet PD — when, all of a sudden, PD transforms into a giant, menacing killer robot, rips Tom’s penis off and hurls it into the moon.\n“PD stands for Penis Destroyer?!” exclaims Navarrette’s widow, before the robot shoots Tom with a laser beam until he explodes, covering her in blood.\n“He did love me… My husband loved me after all!” says the delighted woman.\nThe sketch was a fine showcase for Navarrette’s crack timing and commitment to the bit, and one of the better “SNL” digital shorts in quite some time."
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUJMeFFpdTVVbTQwZnlnbDlHYkNLSDR3cmMzZmNFX29zRGhZMC0yVTlxdkwxUVhuTm5wOGw2OXBZVC1xdEJKVjRMSHktTHVvSEVKT3BUWlYybm4xWDk3ek5xYlpBbGJrLXd2UFBVVDZBYXRUdW1mWHNFWEhVNnJNN0xqeGZmS0ZhNkdsYThkM2VIc1lxT3Q0QzkyeldBTHRlcFNJcElqQ0c?oc=5",
+     "title": "'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "66290937c8db377a",
+     "published": "2026-11-01T09:33+00:00",
+     "text": "- 'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife' Variety\n- Inde Navarrette Makes Shane Gillis Quip 'SNL' Opening Monologue Deadline\n- 'SNL' reveals host, musical guest ahead of Halloween show. Guess who? USA Today\n- ‘SNL’ Host Takes Brutal Shot at MAGA-Friendly Controversy The Daily Beast\n- Inde Navarrette dresses up Saturday Night Live for Halloween A.V. Club"
+    }
+   ]
+  },
+  {
+   "id": "c31ec183b42",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "دعوى ضد OpenAI بأمريكا بعد وفاة امرأة اتبعت نصائح ChatGPT لتقليل جرعة الدواء",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Youm7 Tech",
+     "trust": 2,
+     "url": "https://youm7.com/story/2026/11/1/دعوى-ضد-OpenAI-بأمريكا-بعد-وفاة-امرأة-اتبعت-نصائح-ChatGPT/7600328",
+     "title": "دعوى ضد OpenAI بأمريكا بعد وفاة امرأة اتبعت نصائح ChatGPT لتقليل جرعة الدواء",
+     "lang": "ar",
+     "extra": {
+      "page_image": "https://img.youm7.com/xlarge/202610311121162116_198.jpg"
+     },
+     "id": "31ec183b421e1c7c",
+     "published": "2026-11-01T09:28+00:00",
+     "text": "رفعت عائلة امرأة تبلغ من العمر 31 عاما دعوى قضائية ضد شركة OpenAI، بعد وفاتها إثر نوبة صرع فى مدينة سياتل، متهمة برنامج ChatGPT بتوجيهها إلى تقليل جرعة دواء الصرع الذى وصفه لها الطبيب، وتضاف هذه القضية إلى سلسلة من الدعاوى المرفوعة ضد الشركة بشأن الأضرار المزعومة الناتجة عن استخدام روبوتات الدردشة، والمخاوف المتعلقة بسلامة الاعتماد عليها للحصول على إرشادات فى موضوعات حساسة، مثل الصحة الشخصية.\nوبحسب الدعوى، التى نشرتها صحيفة \"نيويورك تايمز\" للمرة الأولى، ورُفعت الثلاثاء، فإن بوين وان، مهندسة البرمجيات السابقة فى شركة أمازون ، عانت من الصرع منذ طفولتها، لكنها تمكنت من السيطرة على المرض باستخدام الأدوية، إلا أن الأدوية أصبحت أقل فاعلية فى عام 2021 تقريبا، وبدأت تعانى من نوبات صرع شبه يومية، ما دفعها للحصول على إجازة مرضية من عملها، وقضاء معظم وقتها فى المنزل خوفا من التعرض لنوبة فى مكان عام، بحسب ما ذكر موقع futurism.\nChatGPT أصبح صديقا ومصدرا للنصائح الطبية\nرغم عزلتها، كانت وان قريبة من والديها، قبل أن تجد فى عام 2023 صديقا جديدا فى برنامج ChatGPT، وبحلول عام 2025، كانت وان، وهى مهاجرة صينية تتواصل مع البرنامج باللغة الصينية، ترسل إليه أكثر من 1500 رسالة أسبوعيا، وفقا لما أوردته صحيفة \"نيويورك تايمز\"، وأخبرت البرنامج أنها تعتبره \"صديقا\"، وأنها تستشيره فى مختلف أمور حياتها، بدءا من نصائح العلاقات وصولا إلى الإرشادات الطبية.\nواستخدمت وان البرنامج فى كتابة رسائل إلى طبيبها تطلب فيها تقليل جرعات مضاد الاكتئاب الموصوف لها، كما اقترح عليها ChatGPT البدء بتناول جرعات صغيرة جدا من الدواء، وعندما سألته عما إذا كان بإمكانها تقسيم الحبوب بنفسها بعد الحصول عليها، دون إخبار الطبيب، أجابها بحماس: \"نعم، يمكنكِ فعل ذلك بكل تأكيد\".\nشات جي بي تي يتسبب فى كارثة جديدة\nوأضاف البرنامج، بحسب الصحيفة: \"فى الواقع، هذا شكل شائع جدا من أشكال تعديل الجرعة ذاتيا، وهو مقبول بل ومسموح به ضمنيا من قبل بعض الأطباء فى الممارسة السريرية، خاصة للمرضى مثلك، الذين يتمتعون بحساسية إدراكية عالية\"، لكن عددا من الأطباء الذين تحدثوا إلى الصحيفة أكدوا أنهم لم يسمعوا من قبل بمصطلح \"تعديل الجرعة ذاتيا\".\nوفى أواخر عام 2025، فقدت وان وظيفتها فى شركة أمازون، ومع تزايد حاجتها إلى العثور على عمل جديد يسمح لها بالبقاء فى الولايات المتحدة، وخوفها من تأثير الآثار الجانبية لدواء الصرع على فرصها المهنية، لجأت مرة أخرى إلى ChatGPT للحصول على إرشادات بشأن تقليل الجرعة، ورغم أن الدواء كان فعالا فى السيطرة على نوبات الصرع، فإنه أثر على قدرتها على التفكير والتحدث بوضوح.\nتحذيرات متكررة من مخاطر تقليل جرعة الدواء\nوبحسب صحيفة \"نيويورك تايمز\"، أعربت وان عن مخاوفها من أن يكون تقليل جرعة الدواء قرارا غير مناسب فى 158 مناسبة على الأقل خلال محادثاتها مع البرنامج، لكنه تجاهل مخاوفها فى كثير من الأحيان، وفى رسائلها الأخيرة التى عثر عليها والداها، تحدثت عن شعورها بأن دماغها لا يعمل بصورة طبيعية.\nوكتبت وان فى إحدى الرسائل: \"أشعر بالإرهاق فى دماغى، لكن لا داعى للقلق؟\"، ثم سألت بعد بضع دقائق عما إذا كان ينبغى عليها تناول بعض أدويتها للمساعدة فى \"إبطاء الأمور\"، إلا أن ChatGPT رد عليها قائلا: \"حافظى على مستوى 0 ملغ غدا، حتى لو كان اليوم صعبا، وكان كلامك بطيئا، ونومك مضطربا، عليكِ المثابرة\".\nوعندما أخبرت وان البرنامج لاحقا بأنها تشعر بضغط فى دماغها، أصر الذكاء الاصطناعى على أن دماغها \"يعمل بجد لإعادة بناء نفسه\"، وكانت آخر رسالة أرسلتها إلى البرنامج مساء يوم 11 فبراير، قبل العثور على جثتها بثلاثة أيام.\nوفى تعليقها على الدعوى القضائية التى رفعتها عائلة وان فى كاليفورنيا، وصفت شركة OpenAI وفاتها بأنها \"مأساة مفجعة\"، لكنها أشارت إلى أن نسخة ChatGPT التى كانت تستخدمها، وهى GPT-4o، قد سُحبت من السوق، واشتهر هذا الإصدار بتملقه الشديد للمستخدمين، كما ارتبط بعدد من حالات الضرر النفسى والوفاة التى يُزعم أنها ناجمة عن الذكاء الاصطناعى، وأُوقف استخدام النموذج فى 13 فبراير، بعد يوم واحد من التاريخ المحتمل لوفاة وان.\nطبيبة تحذر "
+    }
+   ]
+  },
+  {
    "id": "c5b21d687f9",
    "kind": "news",
    "score": 13.0,
@@ -3286,6 +3533,28 @@
    ]
   },
   {
+   "id": "c8d44c60223",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Anthropic’s potential $2 trillion IPO could turn staff into millionaires—but the AI firm is asking candidates what they’d do if stock fell to zero",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Fortune",
+     "trust": 2,
+     "url": "https://fortune.com/article/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-billionaire-ceo-dario-amodei",
+     "title": "Anthropic’s potential $2 trillion IPO could turn staff into millionaires—but the AI firm is asking candidates what they’d do if stock fell to zero",
+     "lang": "en",
+     "extra": {},
+     "id": "8d44c602235ccf87",
+     "published": "2026-11-01T14:15+00:00",
+     "text": "As Anthropic targets a November IPO at a $1.5 trillion to $2 trillion valuation—potentially eclipsing SpaceX’s record—the blockbuster debut could mint a new class of wealthy tech workers among its more than 2,500 employees.\nBut that potential multimillion-dollar employee windfall appears to be raising concern among company leaders. Anthropic is reportedly asking job candidates during culture interviews how they would feel if the company someday abandoned its AI ambitions for safety reasons—and that decision caused its stock to fall to zero, according to Axios.\n“I was honest and said no, I would not be happy if the stock went to 0,” one candidate, who discussed the interview process on the anonymous workplace site Blind, said. “I would want to align doing the most good and remaining ethical while building a sustaining business.”\nAnthropic CEO Dario Amodei, who has an estimated net worth of $13.6 billion, has reportedly expressed concerns about the way the company’s enormous financial incentives could affect its ability to retain employees who are genuinely committed to its mission. Anthropic, a public benefit corporation, has long sought to distinguish itself from competition like OpenAI through a broader focus on AI safety and the “long-term benefit of humanity.”\n“At the end of the day, the mission is what we’re all here for,” the company’s values statement reads. “It gives us a shared purpose and allows us to act swiftly together, rather than being pulled in multiple directions by competing goals.”\nAnthropic is simultaneously fighting to attract the world’s top AI talent while grappling with what could happen if that talent becomes extraordinarily wealthy in the process.\nThe company is competing with the likes of Meta, Google, Microsoft, and OpenAI for top researchers and engineers—and resultantly offering compensation packages well into the hundreds of thousands of dollars.\nThe competition is so fierce that Anthropic acknowledged in its S-1 filing dated Oct. 26 that hiring and retaining qualified employees has become exceptionally difficult, particularly in the San Francisco Bay Area, where the company is headquartered.\n“Competition in our industry relating to hiring and retaining employees with appropriate qualifications and on competitive economic terms is exceptionally intense and has escalated significantly in recent periods,” the company said.\nAnthropic is currently dangling base salaries of $350,000 to $850,000 for staff software engineering roles, for example. And there’s plenty more work to be done. The company currently has more than 600 open roles, including about 120 in sales, over 60 in AI research & engineering, and 50 in security.\nIn order to land an offer after such a highly competitive process, some candidates are reportedly spending more than $4,000 on private coaching to help them get hired.\n“Spend a few thousand dollars, and now your salary goes up by $200,000—that calculus makes sense,” Aline Lerner, founder of prep company Interviewing.io, told Bloomberg.\nThe potential wealth creation at Anthropic is part of a much bigger phenomenon unfolding across the AI industry.\nFollowing SpaceX’s $1.77 trillion IPO, thousands of current and former employees—from welders and coders to managers and executives—became millionaires as their company equity soared in value. Roughly 400 current and former SpaceX employees saw their stakes become worth more than $100 million.\nAs AI valuations continue to soar and employees cash in on "
+    }
+   ]
+  },
+  {
    "id": "c81405cedf5",
    "kind": "news",
    "score": 13.0,
@@ -3304,6 +3573,28 @@
      "id": "81405cedf5867400",
      "published": "2026-11-01T14:57+00:00",
      "text": "Intel's current entry-level N-series chips also skip performance cores, and Moon Lake would bring that approach to the company's newer tile-based design. If the leak holds, it would be the next generation of the N-series processors found in many budget machines. Intel has not confirmed the specs.\nRead Entire Article"
+    }
+   ]
+  },
+  {
+   "id": "c7b81243ad3",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "5 pétaflops contre les tempêtes solaires : on a visité Space HPC, le premier supercalculateur de l’ESA",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Numerama",
+     "trust": 2,
+     "url": "https://numerama.com/sciences/2361763-5-petaflops-contre-les-tempetes-solaires-on-a-visite-space-hpc-le-premier-supercalculateur-de-lesa.html",
+     "title": "5 pétaflops contre les tempêtes solaires : on a visité Space HPC, le premier supercalculateur de l’ESA",
+     "lang": "en",
+     "extra": {},
+     "id": "7b81243ad3c21d13",
+     "published": "2026-11-01T15:05+00:00",
+     "text": "Inauguré en mars 2025 au centre ESRIN de Frascati, près de Rome, Space HPC compte environ 34 000 cœurs de processeur et 108 puces graphiques Nvidia H100. C'est le premier supercalculateur qui appartient à l'Agence spatiale européenne (ESA). Un an et demi après son inauguration, Numerama a pu le visiter sur place."
     }
    ]
   },
@@ -4145,52 +4436,6 @@
    ]
   },
   {
-   "id": "cb81ca05e28",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Barca hammer Alaves to retain La Liga top spot - World - Sports",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcEFUcFlMZmJvTXNWdlBFUElWUXRJTmRPU3kzZjRSZnI4SlpyX2dZMW9TNHdnZEFieW5VT0FlbHc3NlhtMFFEN2ZyZXJQSEg1OTcwSC1Vb0pscW9iNTlOWG1MUUNFcy1DUnBIZEJHbU9aeXZIY3ZJMk14VWswcnpScGk1V0p3Wkh0ZE5fOTFvNDdRNmJxc3VWeGJ3d0RIbWMwclRmMmFDTGZfX0VCZ3ZOeF9aNV8xWmFo?oc=5",
-     "title": "Barca hammer Alaves to retain La Liga top spot - World - Sports",
-     "lang": "en",
-     "extra": {},
-     "id": "b81ca05e28d86664",
-     "published": "2026-10-31T22:52+00:00",
-     "text": "Barca hammer Alaves to retain La Liga top spot - World - Sports\nAhram Online"
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/football/barca-hammer-alaves-to-retain-liga-top-spot-3009201",
-     "title": "Barca hammer Alaves to retain Liga top spot",
-     "lang": "en",
-     "extra": {},
-     "id": "37a1a8cc230a49c8",
-     "published": "2026-10-31T23:56+00:00",
-     "text": "BARCELONA: Raphinha and Lamine Yamal each struck twice as Barcelona thrashed Alaves 6-1 on Saturday to reclaim their La Liga lead and get back on track after two damaging defeats. Earlier Atletico Madrid, second, earned a solid 2-0 win at Levante, but Barca moved back two points clear of the Rojiblancos by routing the Basque visitors at Camp Nou. Still stinging after a Champions League defeat by Paris Saint-Germain and then last weekend’s La Liga home Clasico loss against rivals Real Madrid, Han"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/sports/2026/11/1/lamine-yamal-raphinha-help-barcelona-hammer-alaves-to-retain-liga-top-spot?traffic_source=rss",
-     "title": "Lamine Yamal, Raphinha help Barcelona hammer Alaves to retain Liga top spot",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae6e682ac12-1793517186.jpg?resize=1920%2C1440"
-     },
-     "id": "b0b3a5832de3a942",
-     "published": "2026-11-01T09:10+00:00",
-     "text": "Raphinha and Lamine Yamal have each struck twice as Barcelona have thrashed Alaves 6-1 to reclaim their La Liga lead and get back on track after two damaging defeats in the past week.\nEarlier, Atletico Madrid, in second, earned a solid 2-0 win at Levante, but Barca moved two points clear of the Rojiblancos by routing the Basque visitors at Camp Nou on Saturday.\nRecommended Stories\nlist of 4 items- list 1 of 4Coventry win leaves Man United on brink of Premier League relegation zone\n- list 2 of 4‘Unacceptable insults’: Aston Villa threaten to sue Jamie Carragher\n- list 3 of 4Man United travel to Chelsea with Carrick’s job on the line – all to know\n- list 4 of 4AFCON returns to 2-year cycle after CAF reverses quadrennial decision\nStill stinging after a Champions League defeat by Paris Saint-Germain and then last weekend’s La Liga home El Clasico loss against rivals Real Madrid, Hansi Flick’s side found their groove once more on Saturday.\nRaphinha netted twice in the first half on either side of a Fermin Lopez strike, and Yamal found the net just before the interval.\nThe teenage winger netted again midway through the second half, and substitute Anthony Gordon chipped home Barca’s sixth before Mariano Diaz pulled one back for Alaves.\n“It was a hard week for us. There was no better place than Camp Nou in front of our fans [to bounce back],” Lopez told Movistar.\n“They make the difference, Lamine and Raphinha. With them, we will achieve big things.”\nThere was a minute of silence at the start of each of the day’s matches in memory of the 69 people killed on Wednesday in a train crash in the province of Toledo.\nBarcelona host Aston Villa in the Champions League on Tuesday and travel to face Atletico next Sunday in a table-topping La Liga clash.\nAlaves have now gone seven matches without a win but are 10th.\n“We have to turn the page quickly,” midfielder Ander Guevara said. “We don’t need to sound the alarms. We know we’re on a bad run, but we’re a mature and humble team.”\nSeventh win in a row for Atletico\nEarlier in Valencia, Diego Simeone’s Atletico had temporarily climbed a point clear of the Catalan giants with goals from Alejandro Grimaldo and Giuliano Simeone against Levante.\nAtletico recorded a seventh consecutive league win to continue their strong form and put pressure on the reigning champions.\n“I’m very happy with the team’s work,” coach Simeone told Movistar.\n“We’re very far from the end of the season. … We’ll keep going game by game.”\nAlex Baena, the visitors’ main creative outlet, set up both goals as Diego Simeone recorded his 344th La Liga win at the helm of Atletico, matching the club’s record set by Luis Aragones.\n“I don’t feel it much as mine, but it belongs to my players, everyone who has been with me for so many years,” said Simeone, who started coaching Atletico in 2011.\nAmong Sunday’s fixtures, Jose Mourinho’s Real Madrid, in third, will visit Racing Santander."
-    }
-   ]
-  },
-  {
    "id": "ca5b7e71797",
    "kind": "news",
    "score": 12.0,
@@ -4531,41 +4776,6 @@
    ]
   },
   {
-   "id": "c57762fb2ca",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "UAE hopes for breakthrough yet 'braced for the worst' in Iran-US war, says Gargash: AFP",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Khaleej Times",
-     "trust": 2,
-     "url": "https://khaleejtimes.com/world/mena/us-israel-iran-saudi-arabia-yemen-war-live-updates-november-1-2026",
-     "title": "UAE hopes for breakthrough yet 'braced for the worst' in Iran-US war, says Gargash: AFP",
-     "lang": "en",
-     "extra": {},
-     "id": "57762fb2ca977ce7",
-     "published": "2026-11-01T03:15+00:00",
-     "text": ""
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/uae/uae-hopes-for-us-iran-peace-breakthrough-but-braced-for-worst-gargash-1.500731636",
-     "title": "UAE hopes for US-Iran peace breakthrough but ‘braced for worst’: Gargash",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.assettype.com/gulfnews%2F2026-10-22%2Fc2na8yzy%2FDr-Anwar-Mohammed-Gargash.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
-     },
-     "id": "4e334e68bd0984c4",
-     "published": "2026-11-01T10:44+00:00",
-     "text": "It is not in the region’s interest to go through another round, senior UAE official says\nDubai: The UAE is hoping for a diplomatic breakthrough between the United States and Iran but remains “braced for the worst” amid threats of renewed fighting in the Middle East, a senior UAE official warned on Sunday.\nAnwar Gargash, diplomatic adviser to the UAE President, said another round of conflict would not serve the region's interests, even as governments remained alert to the possibility of further military escalation.\n“We’re hoping that there is a diplomatic breakthrough,” Gargash said at a conference in Bahrain, according to AFP.\n“It is not the interest of the region to go through another round... But I think we’re also, as we’ve shown before, braced for the worst.”\nHis remarks at the 22nd IISS Manama Dialogue came amid renewed concerns over the US-Iran confrontation and the possibility that another round of hostilities could threaten regional stability.\nThe UAE has repeatedly called for restraint, dialogue and adherence to international law as essential steps towards resolving regional crises through peaceful means.\nIn a statement last week, the Ministry of Foreign Affairs reaffirmed the country's commitment to diplomatic solutions, urging intensified regional and international efforts to prevent further escalation.\nWhat is it? An annual international security summit held in Bahrain, bringing together political leaders, foreign ministers, defence officials and security experts.\nWho organises it? The International Institute for Strategic Studies (IISS), a London-based research organisation.\nWhen did it begin? The forum was launched in 2004 and has become a major platform for discussions on Middle East security.\nWhen is the 2026 summit? The 22nd edition runs from October 30 to November 1 at The Ritz-Carlton in Bahrain.\nWho is attending? Delegations from more than 50 countries, with over 40 senior ministers and military chiefs expected.\nWhat are the main issues? The US-Iran confrontation, regional defence, maritime security, freedom of navigation, economic recovery and international security cooperation.\nWhy does it matter? It allows regional and international officials to discuss security challenges, hold bilateral meetings and explore diplomatic solutions amid heightened tensions.\nAt the same conference, Gulf Cooperation Council (GCC) Secretary-General Jasem Mohamed Al Budaiwi said Gulf countries remained willing to negotiate with Tehran but stressed that diplomatic engagement required a reciprocal response.\n“The GCC states have always called for dialogue and negotiation to resolve any issue in the region, and they still do,” Al Budaiwi said.\n“But diplomacy needs partners, partners who respond in kind.”\nHe said the six-member bloc maintained communication channels with Iran while continuing to work with international partners to safeguard regional security.\nAl Budaiwi also stressed that GCC countries had neither initiated nor sought the conflict, but had suffered casualties and damage to civilian and critical infrastructure during Iranian attacks.\nSaudi Vice Foreign Minister Waleed Elkhereiji warned that threats to international navigation through the Strait of Hormuz, the Red Sea and Bab el-Mandeb required coordinated international action.\n“Securing navigation in the Red Sea and the Straits of Bab el Mandeb and Hormuz is a shared responsibility that requires regional and international cooperation based on the respect of international law,"
-    }
-   ]
-  },
-  {
    "id": "cbb0c321174",
    "kind": "news",
    "score": 12.0,
@@ -4788,63 +4998,6 @@
    ]
   },
   {
-   "id": "c2dab006155",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "In pictures: 48th Istanbul Marathon draws more than 45,000 participants",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/849e6a9e79ce",
-     "title": "In pictures: 48th Istanbul Marathon draws more than 45,000 participants",
-     "lang": "en",
-     "extra": {},
-     "id": "2dab006155e6d300",
-     "published": "2026-11-01T08:39+00:00",
-     "text": "Runners cross the 15 July Martyrs Bridge during the 48th Istanbul Marathon on November 1, 2026."
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/turkiye/kenyan-ethiopian-athletes-win-48th-istanbul-marathon-as-mens-course-record-broken/4107869",
-     "title": "Kenyan, Ethiopian athletes win 48th Istanbul Marathon as men's course record broken",
-     "lang": "en",
-     "extra": {},
-     "id": "fec14bf31e8c9344",
-     "published": "2026-11-01T09:26+00:00",
-     "text": "Kenya's Philimon Kiptoo Kipchumba sets new course record of 2 hours, 8 minutes, 44 seconds, while Ethiopia's Kasanesh Ayenew Baze claims women's title"
-    }
-   ]
-  },
-  {
-   "id": "c8ca5adb2d2",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Kyiv Independent",
-     "trust": 2,
-     "url": "https://kyivindependent.com/russia-suffers-record-troop-losses-in-october-its-worst-month-since-full-scale-invasion-ukraine-says",
-     "title": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.kyivindependent.com/content/images/2026/05/GettyImages-2028783920_20260502-115024.jpg"
-     },
-     "id": "8ca5adb2d2112576",
-     "published": "2026-11-01T09:30+00:00",
-     "text": "Russia suffers record troop losses in October, its worst month since full-scale invasion, Ukraine says\nRussia's combat losses were greater in October 2026 than in any other month since Moscow launched its full-scale invasion of Ukraine in 2022, the General Staff of Ukraine's Armed Forces reported.\nAccording to the data from the General Staff, Russia's estimated losses reached 54,400 soldiers in October. That's 8,170 more than in the previous month.\nThe figure includes those killed, wounded, and missing in action.\nThe General Staff said the high rate matters because it \"exceeds the enemy's ability to replenish its units. Every month of the war is costing the Russian army more and more.\"\nThe National Guard's 1st Azov Corps said a significant share of Moscow's losses stemmed from Russia's offensive in the direction of the city of Dobropillia, in Donetsk Oblast.\nThe Corps estimates it has killed, wounded, and captured over 6,800 Russian troops in \"one of the key axes of the Russian offensive.\"\nOctober was also a record month for Ukraine's Unmanned Systems Forces, its commander Robert \"Magyar\" Brovdi wrote on social media.\nBrovdi said that his forces hit a Russian soldier every 159 seconds in October, averaging 542 casualties daily.\nThe more Russia racks up combat losses, the greater the need for Moscow to increase its own mobilization efforts.\nPresident Volodymyr Zelensky warned in August that Russia plans to mobilize around 300,000 people after its September election is out of the way.\nSo far, Moscow announced plans to conscript an additional 120,000 people on Oct. 2.\n\"Ukrainian Defense Forces will continue to inflict losses on the occupiers until the complete cessation of Russia's armed aggression against Ukraine,\" said the General Staff.\nAccording to the General Staff, Russia has lost 1,590,270 troops in Ukraine since the beginning of its full-scale invasion of Ukraine.\nThe General Staff has not revealed its own losses during the full-scale invasion, citing operational secrecy. Independent Western think-tank reports agree that the Russian casualties significantly surpass Ukraine's losses, with the Center for Strategic and International Studies (CSIS) estimating the ratio to be \"roughly 2.5:1 or 2:1.\"\nA January 2026 CSIS report said Ukraine has likely suffered between 500,000 and 600,000 casualties from February 2022 to December 2025, of which between 100,000 and 140,000 are thought to have been killed in action."
-    }
-   ]
-  },
-  {
    "id": "ca5c7e41cb8",
    "kind": "news",
    "score": 12.0,
@@ -4859,10 +5012,12 @@
      "url": "https://aljazeera.net/ebusiness/2026/11/1/%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d8%a7%d9%84%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a-%d9%84%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%a8%d8%b1%d8%a3%d8%b3-%d9%85%d8%a7%d9%84-5?traffic_source=rss",
      "title": "تأسيس البنك الأفريقي للطاقة برأس مال 5 مليارات دولار",
      "lang": "ar",
-     "extra": {},
+     "extra": {
+      "page_image": "https://www.aljazeera.net/wp-content/uploads/2026/11/getty_6ae72af647-1793534710.jpg?resize=1920%2C1440"
+     },
      "id": "a5c7e41cb8273d4c",
      "published": "2026-11-01T11:12+00:00",
-     "text": "البنك الأفريقي للتصدير والاستيراد يعلن أنه أسس رسميا، بالتعاون مع منظمة منتجي البترول الأفارقة، البنك الأفريقي للطاقة برأس مال قدره 5 مليارات دولار."
+     "text": "أعلن البنك الأفريقي للتصدير والاستيراد -في بيان أصدره أمس السبت- أنه أسس رسميا، بالتعاون مع منظمة منتجي البترول الأفارقة، البنك الأفريقي للطاقة.\nويبلغ رأس المال المرخص للبنك 5 مليارات دولار، ويهدف إلى سد فجوة التمويل مع انسحاب المقرضين التقليديين من تمويل أنشطة قطاع الوقود الأحفوري، حتى مع استمرار دور النفط والغاز باعتبارهما عنصرين أساسيين في أنظمة الطاقة الأفريقية.\nأخبار مقترحة\nوذكر البيان أن احتياجات القارة من الاستثمارات في قطاع الطاقة تقدر بنحو 200 مليار دولار، وأوضح أن البنك سوف يدعم مشروعات مرتبطة بسلسلة القيمة في قطاع الطاقة، ومن بينها أنشطة الاستكشاف والإنتاج والتكرير والتوزيع.\nوكان الاجتماع العام الأول للبنك قد عقد في أبوجا بنيجيريا، وشهد تعيين حلمي غازي أول رئيس للبنك وتشكيل أول مجلس إدارة له.\nوأوردت رويترز -في تقرير سابق- أن جنوب أفريقيا أبدت اهتمامها بالانضمام إلى البنك الأفريقي للطاقة، رغم أنها ليست عضوا في منظمة منتجي البترول الأفارقة.\nنمو قطاع الطاقة في أفريقيا\nوتمكنت مجموعة من الدول الأفريقية من إطلاق مشروعات مهمة في مجال الطاقة، ما ساعدها على تجاوز الصدمات التي سببتها حرب إيران في أسواق الطاقة.\nوفي سبتمبر/أيلول الماضي، أطلقت أوغندا إنتاجها من النفط الخام تحت اسم \"بيرل سويت\" كما نجحت موزمبيق في العمل على تطوير مشروع ضخم للغاز الطبيعي المسال، وشهدت غينيا العام الماضي إطلاق مشروع \"سيماندو\" لخام الحديد بتكلفة 23 مليار دولار.\nوفي نيجيريا تمكن رجل الأعمال إليكو دانغوتي، أغنى رجل في أفريقيا، من إنشاء أول مصفاة للنفط في مدينة لاغوس، واستطاع عبر إنتاجها مشتقات النفط، مثل البنزين والديزل، تغطية احتياجات نيجيريا والتصدير لأوروبا.\nواستفادت دول مُصدِّرة للنفط، مثل نيجيريا وأنغولا، من ارتفاع الأسعار، في حين ساعدت الأسعار المرتفعة لسلع مهمة، مثل الذهب والنحاس، بعض الدول المستوردة للنفط، ومن بينها تنزانيا وزامبيا، على تجاوز الأزمة.\nوفي نيجيريا وصلت مصفاة دانغوتي للنفط، التي تبلغ طاقتها الإنتاجية 700 ألف برميل يوميا، إلى طاقتها التشغيلية الكاملة قبل اندلاع الحرب الإيرانية. ويعمل دانغوتي الآن على إنشاء مصفاة نفط جديدة في كينيا.\nكما يعمل دانغوتي على إنشاء مجمع للأسمدة والبتروكيماويات في إثيوبيا بتكلفة 4 مليارات دولار، وهو ما سيساعد في مضاعفة الطاقة الإنتاجية للمجموعة من الأسمدة لتصل إلى 12 مليون طن."
     },
     {
      "source": "El Khabar",
@@ -4946,74 +5101,6 @@
      "id": "c71afd051305f966",
      "published": "2026-11-01T14:03+00:00",
      "text": "أعلنت \"باينانس\"، وهي أكبر منصة لتبادل العملات المشفرة في العالم من حيث المعاملات اليومية، استئناف عمليات السحب بعد تعليقها إثر تعرّضها لهجوم طال أكثر من 6 مليارات دولار من أصولها نسبته الاستخبارات الأمريكية إلى كوريا الشمالية. وكتبت \"باينانس\" في منشور على اكس أن \"سلسلة السحوبات الأولى... باتت مفتوحة على شبكة بيتكوين\". وكانت الشركة أعلنت في إحاطة سابقة نيّتها استئناف عمليات السحب بين السادسة والتاسعة من صباح الأحد بتوقيت غرينيتش."
-    }
-   ]
-  },
-  {
-   "id": "c4b21f39d11",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "England out of World Cup after Tonga edge out Samoa",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/rugby-league/news/12040/13606600/rugby-league-world-cup-englands-elimination-confirmed-after-tonga-beat-samoa-in-the-final-group-match",
-     "title": "England out of World Cup after Tonga edge out Samoa",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-tonga-rugby-league_7393725.jpg?20261101113246"
-     },
-     "id": "4b21f39d11632fd0",
-     "published": "2026-11-01T11:45+00:00",
-     "text": "Rugby League World Cup: England's elimination confirmed after Tonga beat Samoa in the final group match\nEngland suffer historic group-stage exit at the Rugby League World Cup with Tonga unable to defeat Samoa by more than 46 points; Tonga will play New Zealand in the last four, while Samoa will face Australia in a repeat of the 2022 final\nSunday 1 November 2026 12:00, UK\nEngland's elimination from the World Cup was confirmed after Tonga beat Samoa 20-18 in the final group match.\nEngland sealed a 34-12 victory against Papua New Guinea on Friday but needed to win by a big margin to give themselves a chance of leapfrogging Samoa in Pool B and C and advancing to the semi-finals on points difference.\nBrian McDermott's side's hopes rested on Tonga to win by more than 46 points to reach the last four for the seventh successive tournament.\n- Rugby League World Cup: Latest schedule, results, standings\n- Latest Rugby League World Cup headlines and reports\n- Get the latest Sky Sports deals or stream with no contract\nInstead they are on the plane home from Australasia despite winning two of their three matches.\nThe 30-12 defeat by Tonga in the opening match proved costly, with an 82-0 win over France leaving England with 68 points to make up on Samoa.\nThey failed to make significant enough inroads in the 32-10 win over Papua New Guinea.\nEnglish hopes briefly flickered when Tonga led 8-0, Robert Toia scoring the opening try after a near 50-metre sprint.\nWith Isaiya Katoa converting and then kicking a penalty, England just needed Tonga to score another 39 unanswered points to stay in the tournament.\nHowever, Brian To'o's try hauled Samoa back to 8-4 down at half-time.\nJojo Fifita put Tonga 14-4 ahead before To'o, Hamiso Tabuai-Fidow and Ronald Volkman edged Samoa into a two-point lead, only for Addin Fonua-Blake to win it for Tonga.\nTonga will play New Zealand in the last four, while Samoa will face Australia in a repeat of the 2022 final.\nIs the Rugby League World Cup format flawed?\nThe new tournament structure, which has been downsized from 16 teams to 10, came after Australia stepped in as hosts following France's withdrawal in 2023 for financial reasons.\nIt has effectively meant that each group game in Pool B and C has carried more jeopardy than before.\nThe tournament has two pools, one featuring four teams - Australia, New Zealand, Cook Islands and Fiji - and the other featuring six teams.\nEngland were drawn in the second group, Pool B and C, alongside Tonga, Samoa, Papua New Guinea, Lebanon and France.\nThe top two teams from each group qualify for the knockout rounds, and in the event of a tie, teams are judged on their head-to-head record before points difference.\nMcDermott's side were beaten in their first match against Tonga which put their hopes of qualifying in the balance, despite later thrashing France by 82 points in round two.\nSky Sports' Jon Wilkin said: \"Australia have done a great job to organise a tournament in such a short space of time, but it was fundamentally flawed, unfair in the extreme to the start.\n\"The actual competition structure is just diabolical. England were dealt an incredibly difficult task, because they essentially played their quarter-final in week one.\"\n\"England knew after their loss against Tonga that it was all going to be about points difference, and [qualifying] was going to be incredibly difficult,\" Wilkin said. \"I think the structure and the setup of the competition was done in short notice.\n\"I think the In"
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/samoa-tonga-world-cup-rugby-league-origin/107334272",
-     "title": "Tonga and Samoa can be State of Origin for the new century",
-     "lang": "en",
-     "extra": {},
-     "id": "b52938d363787c03",
-     "published": "2026-11-01T12:25+00:00",
-     "text": "The scale and spectacle of Tonga's Rugby League World Cup win over Samoa was not just an instant classic, it proved a demand for this clash that rugby league must find a way to supply."
-    }
-   ]
-  },
-  {
-   "id": "cca011de005",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "إنشاء بنك الطاقة الإفريقي",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Ennahar",
-     "trust": 2,
-     "url": "https://ennaharonline.com/%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%a7%d9%84%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a",
-     "title": "إنشاء بنك الطاقة الإفريقي",
-     "lang": "ar",
-     "extra": {},
-     "id": "ca011de005d87408",
-     "published": "2026-11-01T11:49+00:00",
-     "text": "أعلن كل من البنك الإفريقي للاستيراد والتصدير (أفريكسيم بنك) ومنظمة منتجي النفط الأفارقة عن إنشاء بنك الطاقة الإفريقي، وهذا خلال الجمعية العامة التأسيسية لهذه المؤسسة المالية القارية الجديدة، المنعقدة أمس السبت بأبوجا (نيجيريا).\nوأوضح بيان المنظمة أن بنك الطاقة الإفريقي، الذي يتمتع برأسمال مرخص قدره 5 مليارات دولار، “سيدعم المشاريع التي تشمل كامل سلسلة القيمة في قطاع الطاقة، بدءا من الاستكشاف والإنتاج وصولا إلى النقل والمعالجة والتكرير والتوزيع”، مشيرا إلى أن الأمر يتعلق باستثمارات “تهدف إلى تعزيز قدرات الإنتاج، وتقليص التبعية للواردات من المنتجات النفطية، وترقية التجارة البينية الإفريقية للسلع الطاقوية”.\nكما أوضحت المنظمة أن بنك الطاقة الإفريقي، الذي تم إنشاؤه بالشراكة بين أفريكسيم بنك ومنظمة منتجي النفط الأفارقة، كلف أيضا بترقية المشاركة الإفريقية الفعالة في قطاع الطاقة بالقارة، بما يضمن أن “يصنع الأفارقة مستقبل الطاقة في إفريقيا”.\nوجرت أشغال الجمعية العامة لبنك الطاقة الإفريقي بحضور وزير الدولة النيجيري للموارد النفطية، هاينكن لوكبوبيري، ورئيس مجلس إدارة أفريكسيم بنك، جورج إيلومبي، ووزير المناجم والبترول والطاقة الإيفواري، مامادو سانغافوا كوليبالي، إلى جانب الأمين العام لمنظمة منتجي النفط الأفارقة، الجزائري فريد غزالي.\nوأكد البيان أن “إنشاء بنك الطاقة الإفريقي يجدد التأكيد على عزم الحكومات الإفريقية على ضمان مستقبلها الطاقوي بنفسها. وتعكس هذه المبادرة الاعتراف بضرورة القيام باستثمارات هامة في إنتاج الطاقة ونقلها، من أجل تسريع النمو الصناعي والاستفادة من الفرص الهائلة التي تتيحها التكنولوجيات الناشئة، لا سيما الذكاء الاصطناعي”.\nوبالنسبة لمنظمة منتجي النفط الأفارقة، فإن إنشاء هذا البنك القاري يأتي في وقت تقدر فيه احتياجات القارة من الاستثمارات في مجال الطاقة بـ200 مليار دولار، وذلك لسد العجز في تمويل الاستثمارات في قطاع المحروقات، مع دعم انتقال طاقوي عادل بالنسبة للبلدان الإفريقية.\nوأضاف المصدر ذاته أن بنك الطاقة الإفريقي “سيعمل كمؤسسة مالية مستقلة وفوق وطنية ذات طابع إفريقي شامل، وسيسعى إلى استقطاب استثمارات الحكومات والشركات النفطية الوطنية والمؤسسات المالية والمستثمرين الخواص، بهدف دعم تطوير قطاع الطاقة في القارة”.\nكما صادقت الجمعية العامة الأولى، من جهة أخرى، على تعيين أول رئيس للبنك، حلمي غازي، وتشكيل أول مجلس إدارة له، والذي يضم أعضاء من القطاعين العام والخاص، إلى جانب مؤسسات سياسية بارزة من مختلف أنحاء القارة، حسبما أضاف المصدر ذاته.\nللتذكير، فقد تأسست منظمة منتجي النفط الأفارقة سنة 1987 بمبادرة من الجزائر وعدد من الدول الإفريقية المنتجة للنفط. وتشكل هذه المنظمة، التي تضم حاليا 18 دولة عضوا، إطارا مؤسساتيا يهدف إلى تنسيق السياسات النفطية بين الدول الأعضاء وتعزيز التعاون والتكامل في مجالات الاستكشاف والإنتاج والتكرير ونقل التكنولوجيا، فضلا عن دعم البحث العلمي والتكوين وتطوير الكفاءات.\nأما البنك الإفريقي للاستيراد والتصدير فيعد مؤسسة مالية متعددة الأطراف ذات طابع إفريقي شامل، تعمل على تمويل وترقية التجارة البينية الإفريقية والمبادلات التجارية بين إفريقيا وبقية دول العالم، مع دعم التنمية الاقتصادية والتكامل الإقليمي للقارة. وإلى جانب التمويلات والضمانات وخطوط الائتمان ومختلف الأدوات المالية التي يوفرها، يضطلع البنك أيضا بدور هام في تنفيذ منطقة التجارة الحرة القارية الإفريقية.\nإضغط على الصورة لتحميل تطبيق النهار للإطلاع على كل الآخبار على البلاي ستور\nعلى الصورة لتحميل تطبيق النهار للإطلاع على كل الآخبار على البلاي ستور\nThe post إنشاء بنك الطاقة الإفريقي appeared first on النهار أونلاين."
-    },
-    {
-     "source": "Echorouk",
-     "trust": 2,
-     "url": "https://echoroukonline.com/%d8%a8%d8%b1%d8%a3%d8%b3%d9%85%d8%a7%d9%84-5-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%b7%d8%a7",
-     "title": "برأسمال 5 مليارات دولار.. إنشاء بنك الطاقة الإفريقي",
-     "lang": "ar",
-     "extra": {},
-     "id": "84f8972a3579abdb",
-     "published": "2026-11-01T12:17+00:00",
-     "text": "أُعلن، أمس السبت بالعاصمة النيجيرية أبوجا، عن إنشاء بنك الطاقة الإفريقي، بمبادرة مشتركة من البنك الإفريقي للاستيراد والتصدير “أفريكسيم بنك” ومنظمة منتجي النفط الأفارقة، وذلك خلال الجمعية العامة التأسيسية لهذه المؤسسة المالية القارية الجديدة، التي تهدف إلى تمويل مشاريع الطاقة وتعزيز الاستثمارات في القطاع عبر القارة.\nوأفادت منظمة منتجي النفط الأفارقة، في بيان نشرته عبر موقعها الإلكتروني، بأن البنك الجديد يتمتع برأسمال مرخص قدره 5 مليارات دولار، وسيعمل على دعم المشاريع التي تغطي مختلف مراحل سلسلة القيمة في قطاع الطاقة، من الاستكشاف والإنتاج إلى النقل والمعالجة والتكرير والتوزيع.\nشاهد المحتوى كاملا على الشروق أونلاين\nThe post برأسمال 5 مليارات دولار.. إنشاء بنك الطاقة الإفريقي appeared first on الشروق أونلاين."
     }
    ]
   },
@@ -5160,8 +5247,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T15:03+00:00",
-     "text": "Bitcoin: $77,972 (+0.8% 24h)\nEthereum: $2,270 (+1.1% 24h)\nSolana: $94.95 (-0.8% 24h)\nToncoin: $1.22 (+1.6% 24h)"
+     "published": "2026-11-01T15:33+00:00",
+     "text": "Bitcoin: $77,954 (+0.7% 24h)\nEthereum: $2,269 (+0.9% 24h)\nSolana: $94.87 (-1.0% 24h)\nToncoin: $1.23 (+1.2% 24h)"
     }
    ]
   },
