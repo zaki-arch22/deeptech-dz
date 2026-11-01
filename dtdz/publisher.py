@@ -68,6 +68,19 @@ def _done_ids(*paths: Path) -> set[str]:
     return ids
 
 
+def normalize_signature(text: str) -> str:
+    """Every post ends with exactly the channel signature, whatever the writer typed."""
+    import re
+    from .gate import SIGNATURE
+    text = re.sub(r"(?<![\w/])#[\w_]+", "", text)            # no hashtags, ever
+    lines = [l.rstrip() for l in text.rstrip().split("\n")]
+    if lines and lines[-1].strip().startswith("◆"):
+        lines[-1] = SIGNATURE
+    elif lines[-1].strip() != SIGNATURE:
+        lines += ["", SIGNATURE]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(lines))
+
+
 def run_once(root: str | Path, sender: Sender, now: float | None = None) -> dict:
     root = Path(root)
     now = now or time.time()
@@ -110,6 +123,7 @@ def run_once(root: str | Path, sender: Sender, now: float | None = None) -> dict
         from .gate import web_cluster
         cluster = (clusters.get(post.get("cluster_id")) or store.get(f"cluster:{post.get('cluster_id')}")[0]
                    or web_cluster(post))
+        post["text"] = normalize_signature(post["text"])
         errs = check_post(post, cluster, banned, history, now, strict=False)
         if errs:
             _append(rej_p, {"id": post["id"], "at": now, "reason": errs})

@@ -76,7 +76,8 @@ def send_previews(bot, root: Path, admin: int, now: float | None = None) -> int:
             when = datetime.fromtimestamp(_ts(p["slot"]), TZ).strftime("%H:%M")
             kb = {"inline_keyboard": [[{"text": "✅ انشر الآن", "callback_data": f"now:{pid}"},
                                        {"text": "🗑 ألغِ", "callback_data": f"cancel:{pid}"}]]}
-            caption = f"⏰ سيُنشر الساعة {when}\n\n" + to_html(p["text"])
+            from .publisher import normalize_signature
+            caption = f"⏰ سيُنشر الساعة {when}\n\n" + to_html(normalize_signature(p["text"]))
             with open(img, "rb") as fh:
                 bot.call("sendPhoto", files={"photo": (img.name, fh, "image/png")}, chat_id=admin,
                          caption=caption[:1024], parse_mode="HTML", reply_markup=json.dumps(kb))
