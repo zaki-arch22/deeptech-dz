@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T08:28:03+00:00",
+ "generated_at": "2026-11-01T08:58:22+00:00",
  "clusters": [
   {
    "id": "cf557515ed0",
@@ -700,6 +700,50 @@
    ]
   },
   {
+   "id": "c6106399e47",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "US tech stocks tumble as concerns over AI spending intensify",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Financial Times Tech",
+     "trust": 2,
+     "url": "https://ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+     "title": "US tech stocks tumble as concerns over AI spending intensify",
+     "lang": "en",
+     "extra": {},
+     "id": "6106399e47c1d571",
+     "published": "2026-10-30T21:13+00:00",
+     "text": "Revelations that Anthropic could receive junk rating after IPO add to concerns over industry borrowing spree"
+    },
+    {
+     "source": "Bloomberg Tech",
+     "trust": 2,
+     "url": "https://bloomberg.com/news/videos/2026-10-31/ai-spending-fears-hammer-big-tech-stocks-video",
+     "title": "AI Spending Fears Hammer Big Tech Stocks",
+     "lang": "en",
+     "extra": {},
+     "id": "0ebad35142b8e57f",
+     "published": "2026-10-31T11:43+00:00",
+     "text": "Bloomberg Senior Editor for Technology and Strategic Industries Mike Shepard tells Bloomberg This Weekend that disappointing Big Tech earnings are intensifying investor concerns about whether massive AI spending will generate sufficient returns, as Alphabet and Intel come under particular pressure. Speaking with hosts David Gura and Lisa Mateo, Shepard also discusses the record $6.3 billion Binance hack and the possibility that North Korean hackers were responsible. (Source: Bloomberg)"
+    },
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/big-tech-buybacks-fall-ai-spending-reuters",
+     "title": "Big Tech buybacks fall 83% as AI spending eats the cash, Reuters reports",
+     "lang": "en",
+     "extra": {},
+     "id": "641752db327c085b",
+     "published": "2026-10-31T22:21+00:00",
+     "text": "Microsoft, Alphabet, Amazon, Meta and Oracle handed 9.3% of the cash their businesses made back to shareholders. That covers the first nine months of 2026. That is the smallest share in at least 15 years, down from 27.4% a year earlier. The figures come from a Reuters analysis of LSEG data and company reports by […]"
+    }
+   ]
+  },
+  {
    "id": "c8703aea988",
    "kind": "news",
    "score": 16.0,
@@ -742,6 +786,76 @@
      "id": "dc9fd0e56b91bd47",
      "published": "2026-11-01T01:34+00:00",
      "text": "\"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%,\" Binance co-CEO Richard Teng posted on X, adding that \"Our users will not bear the financial impact of this incident.\"\n\"Binance said it was able to replace the funds taken in the record hack by using company money to buy new tokens,\" reports NBC News:\nThe remaining 10% consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X... Binance said it has set aside around $6.34 billion of company funds internally to cover the losses. The money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nNBC News reports that the FBI blames the breach on a North Korea-sponsored group known as TraderTraitor:\nMembers of [TraderTraitor] were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology... After the hack, the exchange stopped allowing customers to withdraw their funds, but it said Saturday it was still on track to reopen withdrawals Sunday.\nCNBC reports:\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\nThe New York Times describes what happened when Binance first spotted \"a multibillion-dollar deluge of digital coins\" pouring out of its accounts:\nAs the news spread, Binance's top executives put together an informal war room on Wea, the company's internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel. They eventually transitioned to a mass conference call, with 100 boxes on the screen, where employees took turns muting and then unmuting, communicating in a mixture of English and Chinese. Among them was He Yi, Binance's co-chief executive, who is seven months pregnant, and worked through the night from her base in Abu Dhabi, taking a call at 3 a.m. local time....\nMuch of the drama played out in public. Almost all crypto transactions are recorded on the blockchain, a ledger of money movements that anyone can look up. That meant crypto analysts could see funds leaving Binance in real time... North Koreans have targeted crypto companies for years, using the proceeds of those thefts to fund its nuclear program, according to Western officials. The hackers have developed increasingly complex strategies to steal crypto and launder the proceeds, a painstaking endeavor that can take months to complete. In a blog post on Friday, Chainalysis said the attackers had deployed \"laundering patterns we have not seen before,\" conducting thousands of transactions over a short period, probably with the help of automation.\nAt the same time, Binance's colleagues in the industry mobilized to intercept some of the laundered crypto. Certain digital coin issuers can freeze funds, allowing them to halt a money-laundering operation in its tracks. Soon after the hack, T"
+    }
+   ]
+  },
+  {
+   "id": "c6376b050fb",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Iran's Khamenei warns US and Israel against new attacks",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+     "title": "Iran's Khamenei warns US and Israel against new attacks",
+     "lang": "en",
+     "extra": {},
+     "id": "6376b050fbd723e2",
+     "published": "2026-10-31T17:00+00:00",
+     "text": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened military action on the Islamic republic but US Secretary of State Marco Rubio said Trump had not yet made a decision about fresh strikes."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks",
+     "title": "Iran's supreme leader warns U.S., Israel against new attacks",
+     "lang": "en",
+     "extra": {},
+     "id": "e146fa31649e8341",
+     "published": "2026-10-31T22:10+00:00",
+     "text": "Secretary of State Marco Rubio said Saturday no decision has yet been made on whether to renew hostilities with Iran."
+    },
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/news/2026/11/01/world/iran-warns-us-israel",
+     "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571605.jpg?v=3.1"
+     },
+     "id": "a9e56fb5e1d7da27",
+     "published": "2026-11-01T00:55+00:00",
+     "text": "Tehran – Iran’s supreme leader warned the United States and Israel on Saturday of fresh attacks following their threats to resume strikes after crucial elections, as fears increased over a return to fighting.\nU.S. President Donald Trump suggested he could launch fresh military action after the United States holds its midterm elections.\nBut U.S. Secretary of State Marco Rubio said Saturday: “If there is a diplomatic solution, we would be open to it.”\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/middle-east/israeli-democrats-leader-warns-netanyahu-could-use-new-attack-on-iran-to-stay-in-power/4107844",
+     "title": "Israeli Democrats leader warns Netanyahu could use new attack on Iran to stay in power",
+     "lang": "en",
+     "extra": {},
+     "id": "e44b5297ebb57e74",
+     "published": "2026-11-01T08:49+00:00",
+     "text": "Yair Golan says Netanyahu 'lacks moral legitimacy' to manage another conflict, calls for formation of alternative government"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ?oc=5",
+     "title": "Iran's Khamenei warns US and Israel against new attacks - France 24",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "b69d3e87ad0db537",
+     "published": "2026-10-31T17:00+00:00",
+     "text": "- Iran's Khamenei warns US and Israel against new attacks France 24\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News\n- Iran’s Khamenei Orders Military to Expand US Retaliation Plans Bloomberg.com"
     }
    ]
   },
@@ -808,6 +922,78 @@
      "id": "4ce76ed343cf59e0",
      "published": "2026-10-31T22:20+00:00",
      "text": "Washington D.C. and Virginia are asking a judge to block the president's Triumphal Arch."
+    }
+   ]
+  },
+  {
+   "id": "cd891982128",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/world/americas/donald-trump-zohran-mamdani-bronx-new-york-thomas-b3076961.html",
+     "title": "Mamdani says Trump agrees to grant visa to mother of Ghanian teen killed in Bronx shooting",
+     "lang": "en",
+     "extra": {},
+     "id": "d89198212802645a",
+     "published": "2026-10-31T21:48+00:00",
+     "text": "New York City Mayor Zohran Mamdani says President Donald Trump has agreed to grant a visa to the mother of a 15-year-old immigrant from Ghana who was shot to death earlier this week"
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/americas/trump-agrees-to-grant-visa-to-mother-of-new-york-teen-killed-in-shooting-new-york-city-mayor/4107691",
+     "title": "Trump agrees to grant visa to mother of New York teen killed in shooting: New York City mayor",
+     "lang": "en",
+     "extra": {},
+     "id": "8027fe1f1d543a92",
+     "published": "2026-10-31T23:13+00:00",
+     "text": "Javits Frimpong, 15, who moved from Ghana to New York 1 year ago, was fatally shot while on his way to school"
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/trump-grants-visa-for-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
+     "title": "Trump grants visa for mother of Ghanaian boy killed in NYC — Mamdani",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/78815472_6.jpg"
+     },
+     "id": "8fb408b80f4bbeee",
+     "published": "2026-11-01T03:12+00:00",
+     "text": "New York City Mayor Zohran Mamdani said Saturday that US President Donald Trump had agreed to grant a visa to the mother of a 15-year-old boy who was killed in a neighborhood in Bronx earlier this week.\nJavits Frimpong moved to New York from Ghana last year to be with his father and begin a new life in the US, according to Representative Ritchie Torres, a Democrat from the Bronx.\nFrimpong was shot in the abdomen on Thursday morning on his way to school and later died in the hospital, according to New York City police.\nThere have been no arrests in the case so far, with police investigating the shooting.\nMamdani says he spoke to Trump\n\"I just got off the phone with President Trump and he has agreed to grant her visa immediately,\" Mamdani posted on X.\n\"The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,\" he wrote. \"Javits Frimpong's mother deserves to say goodbye to her son in person.\"\nThe killing led to an outpouring of grief in New York, with Torres writing, \"Our entire borough is mourning a young man who should have had his whole future ahead of him.\"\nThe White House is yet to respond to the news.\nTeen was bullied in school, father says\nThomas Frimpong remembered his son as a quiet boy, and said he was bullied at school.\nGhana's Foreign Minister Sam Okudzeto Ablakwa thanked Mamdani and Trump in a post on X.\nHe said Ghanaian officials were coordinating with Javits Frimpong's mother to assist her with the visa application process."
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/trump-grants-visa-to-mother-of-ghanaian-boy-killed-in-nyc-mamdani/a-79820019?maca=en-rss-en-all-1573-rdf",
+     "title": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/78815472_6.jpg"
+     },
+     "id": "2fef5c52e6c632e3",
+     "published": "2026-11-01T03:12+00:00",
+     "text": "New York City Mayor Zohran Mamdani said Saturday that US President Donald Trump had agreed to grant a visa to the mother of a 15-year-old boy who was killed in a neighborhood in Bronx earlier this week.\nJavits Frimpong moved to New York from Ghana last year to be with his father and begin a new life in the US, according to Representative Ritchie Torres, a Democrat from the Bronx.\nFrimpong was shot in the abdomen on Thursday morning on his way to school and later died in the hospital, according to New York City police.\nThere have been no arrests in the case so far, with police investigating the shooting.\nMamdani says he spoke to Trump\n\"I just got off the phone with President Trump and he has agreed to grant her visa immediately,\" Mamdani posted on X.\n\"The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,\" he wrote. \"Javits Frimpong's mother deserves to say goodbye to her son in person.\"\nThe killing led to an outpouring of grief in New York, with Torres writing, \"Our entire borough is mourning a young man who should have had his whole future ahead of him.\"\nThe White House is yet to comment on the Trump-Mamdani phone call.\nTeen was bullied in school, father says\nThomas Frimpong remembered his son as a quiet boy and said he was bullied in school by two boys.\nGhana's Foreign Minister Sam Okudzeto Ablakwa also thanked Mamdani and Trump in a post on X.\nHe said Ghanaian officials were coordinating with Javits Frimpong's mother to assist her with the visa application process."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss",
+     "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26304768494467-1793515779.jpg?resize=1920%2C1440"
+     },
+     "id": "ab6170c4a02c8c83",
+     "published": "2026-11-01T08:18+00:00",
+     "text": "New York Mayor Zohran Mamdani says after a phone call with United States President Donald Trump that the mother of a 15-year-old Ghanaian boy who was shot dead in the Bronx will be granted a visa.\nMamdani wrote in a post on X on Saturday that he had spoken with Trump about Javits Frimpong, whose mother is seeking to travel to New York to say goodbye to her son.\nRecommended Stories\nlist of 3 items- list 1 of 3Zohran Mamdani elected as New York City mayor in historic win\n- list 2 of 3New York mayor Mamdani sues to block $10,000 teaching aide bonuses\n- list 3 of 3The murder of Javits Frimpong, a bullied schoolboy in The Bronx\nThe US president “has agreed to grant her visa immediately”, the mayor wrote.\n“The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,” he wrote.\nThere was no immediate comment from Trump.\nCCTV footage that captured the last moments of Frimpong’s life showed him being chased by three other teens on Thursday morning as he was on his way to school. He was shot in his abdomen and died the same day in hospital. Thousands of people attended vigils held for the teenager across the city.\nThe 15-year-old had told his father he was bullied at school. Thomas Frimpong, Javits’s father, called on the police to help him “find justice for my son”. Police have said they are investigating, but no arrests have been made yet.\nJavits’s parents moved him to the US a year ago in the hopes of providing him a better life. Congressman Richie Torres, who represents the Bronx, wrote on social media that “our entire borough is mourning a young man who should have had his whole future ahead of him.”\nGhanaian Foreign Minister Sam Okudzeto Ablakwa stated on social media that Ghanaian officials are “coordinating with local authorities” and helping Javits’s mother with her visa application. Visa applications from a number of African countries have been severely limited under the Trump administration."
     }
    ]
   },
@@ -1108,39 +1294,6 @@
    ]
   },
   {
-   "id": "c0ebad35142",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "AI Spending Fears Hammer Big Tech Stocks",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Bloomberg Tech",
-     "trust": 2,
-     "url": "https://bloomberg.com/news/videos/2026-10-31/ai-spending-fears-hammer-big-tech-stocks-video",
-     "title": "AI Spending Fears Hammer Big Tech Stocks",
-     "lang": "en",
-     "extra": {},
-     "id": "0ebad35142b8e57f",
-     "published": "2026-10-31T11:43+00:00",
-     "text": "Bloomberg Senior Editor for Technology and Strategic Industries Mike Shepard tells Bloomberg This Weekend that disappointing Big Tech earnings are intensifying investor concerns about whether massive AI spending will generate sufficient returns, as Alphabet and Intel come under particular pressure. Speaking with hosts David Gura and Lisa Mateo, Shepard also discusses the record $6.3 billion Binance hack and the possibility that North Korean hackers were responsible. (Source: Bloomberg)"
-    },
-    {
-     "source": "The Next Web",
-     "trust": 2,
-     "url": "https://thenextweb.com/news/big-tech-buybacks-fall-ai-spending-reuters",
-     "title": "Big Tech buybacks fall 83% as AI spending eats the cash, Reuters reports",
-     "lang": "en",
-     "extra": {},
-     "id": "641752db327c085b",
-     "published": "2026-10-31T22:21+00:00",
-     "text": "Microsoft, Alphabet, Amazon, Meta and Oracle handed 9.3% of the cash their businesses made back to shareholders. That covers the first nine months of 2026. That is the smallest share in at least 15 years, down from 27.4% a year earlier. The figures come from a Reuters analysis of LSEG data and company reports by […]"
-    }
-   ]
-  },
-  {
    "id": "c09693e37cd",
    "kind": "news",
    "score": 14.0,
@@ -1270,6 +1423,56 @@
      "id": "c13bbc17e03a70e9",
      "published": "2026-11-01T02:25+00:00",
      "text": "- Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title NBC News\n- How Gabby Williams ignited the Valkyries to WNBA championship in their second season ESPN\n- Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship Fox News\n- Dream's series-extending Game 6 win was fifth most-watched WNBA Finals game ever despite early tip Yahoo Sports\n- Hawks at Pelicans, Dream at Valkyries: start times, TV, streaming, radio, combined thread Peachtree Hoops"
+    }
+   ]
+  },
+  {
+   "id": "c78696ef3eb",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Wales hit by Australia century in World Cup record defeat",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/rugby-league/articles/cked34glxp0no?at_medium=RSS&at_campaign=rss",
+     "title": "Wales hit by Australia century in World Cup record defeat",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cbef/live/0e215400-d5b8-11f1-a012-e5d60a7e6c41.jpg"
+     },
+     "id": "78696ef3eb5e3800",
+     "published": "2026-11-01T06:57+00:00",
+     "text": "- Published\nAustralia (60) 124\nTries: Kernick, Chapman 6, Church 2, Southwell, Sergis 4, Apps, Paki, Joseph 2, Upton 2, Nizza Goals: Southwell 20\nWales (0) 6\nTries: Travis Goals: Preston\nRampant Australia racked up the biggest score in international history as they hammered Wales in a Rugby League World Cup mismatch.\nThe Jillaroos, hunting a fourth successive title, ran in 21 tries in a predictably lopsided contest in Sydney.\nThe half-time score of 60-0 was the biggest of any World Cup match - men's or women's - and the Australians kept their foot down to win 124-6.\nWing Jaime Chapman's sixth try in the last minute ensured they beat Denmark men's biggest international score of 122-8 against Sweden in 2012.\nThe 118-point victory margin is the largest in any women's match, although France men retain their record win set in 2003 with a 120-0 rout of Serbia.\nYet there were wild Wales celebrations when, at 100-0 down, they became the first side to score against the Jillaroos in the tournament through Paige Travis.\nThe Jillaroos are three-time back-to-back champions, while Wales were taking part in the tournament for the first time having only played their first Test in 2021.\nIt was just their 16th fixture - and a first against Australia - with Tom Brindle's side having already been beaten 70-6 by England and 76-0 by Samoa at the World Cup.\nFull of NRLW talent, Australia showed a killer instinct and an intensity that Wales were exposed to for the first time.\nIt all came after Wales, whose captain Bethan Dainton was the tournament's top tackler by a distance in the first two rounds with 77, rose to the occasion with a strong start.\nBut Australia struck in the sixth minute through lock Olivia Kernick following prop Makenzie Weale's terrific offload out the back, and the Jillaroos then clicked into gear.\nLong-striding, hard-fending Chapman scored a double down the left and fellow wing Abbi Church powered through weak tackles on the right.\nWales were unable to string together good moments and a fifth try came through Jesse Southwell from failure to claim a regulation high ball just seconds after Jade Mullen had put in a huge tackle.\nAustralia were ruthless and the scores kept coming through centre Jessica Sergis, second row Kezie Apps and Chapman for a first-half hat-trick.\nSergis brought up the half-century with a weaving run and was followed over by second row Sariah Paki.\nThe stats told the story - Australia had 84% of possession in the first half and completed 21 of 22 sets, with almost 13 minutes of possession to two minutes and 29 seconds.\nIt took just over a minute for Keilee Joseph to get the scoreboard ticking after the restart and the scores kept coming from Sergis, Chapman, Joseph again and Church.\nThe Jillaroos beat their 92-0 record, set against France in the 2022 World Cup, when Southwell converted Sergis' fourth try, hitting three figures when the extras were added to star full-back Tamika Upton's breakaway.\nWales' moment came when Travis, scorer of their historic try against England, won the race to Tayla Preston's kick through.\nIt was only a brief change of pattern with Keeley Nizza, Chapman twice and Upton going over to complete the destruction.\nWales captain Bethan Dainton said:\n\"We just wanted to create a legacy back home for young girls coming through, and I think we did that. The scorelines haven't been in our favour but no one gave up and I am so proud of the girls.\""
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/australia-wales-womens-rugby-league-world-cup/107334088",
+     "title": "Australia's latest World Cup smash-up helps nobody",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/9c191b4b99728043f0ef248e172888d3?impolicy=wcms_watermark_news&cropH=1927&cropW=3425&xPos=0&yPos=58&width=862&height=485&imformat=generic"
+     },
+     "id": "ba338089e5aa5172",
+     "published": "2026-11-01T07:53+00:00",
+     "text": "Fri, 18 Sept, 7:50 pm, Final score, Tigers 0, Raiders 6\nSat, 19 Sept, 4:05 pm, Final score, Broncos 40, Knights 16\n40 16 →Sat, 26 Sept, 7:50 pm, Final score, Roosters 20, Raiders 10\n20 10 →Sun, 27 Sept, 1:05 pm, Final score, Titans 8, Broncos 20\n8 20 →Sun, 4 Oct, 4:00 pm, Final score, Roosters 30, Broncos 6\n30 6 →\nGallows humour was the order of the day for Australia's World Cup match against Wales, which was only fitting given it trudged towards its inevitable conclusion like the condemned to the executioner's block.\nThe Jillaroos ran out 124-6 winners in a game where the only element of contest was whether the reigning world champions could bring up the century.\nThey did it easily in the end, smashing their own record for biggest World Cup win, with Jamie Chapman's sixth try in the shadows of the full-time siren eclipsing France's 116-0 victory over Serbia in 2023 in the most lopsided result in women's international rugby league history.\nIn the first half, as they ran up a 60-0 lead, Australia scored 10 tries and Wales played the ball just 15 times. Five-eighth Jesse Southwell finished with 44 points on her own.\nThe Jillaroos did not make a tackle from the fifth minute until after the half-time siren and Australian halfback Tarryn Aiken did not make a tackle until 10 minutes before full-time.\nAfter Australia scored its 15th try of the match it started getting booed by the sparse Parramatta Stadium crowd, who reserved their biggest cheer of the day for Welsh second rower Paige Travis's score that narrowed the gap to 100-6.\nIt was the sole bright spot of the match but the punters soon returned to an idle stupor as Australia added four more tries in the final seven minutes.\nAll World Cups are going to have their blowouts and rugby league's more than most. But they must serve a wider purpose and this one did not.\nIt benefited nobody and served to damage the tournament's credibility and its only legacy can be like Australia's 110-4 win over Russia in the men's 2000 World Cup, which is to say as a historical oddity for the trainspotters.\nAs the women's World Cup reckons with what has been an uneven tournament at best, marred by the same enormous scorelines of the men's edition but with few of the strong crowds, questions must be asked as to why a game like this could happen at all.\nThe uninterested and meagre turn-out for this match was proof it did not maximise the product, which very much felt like a curtain-raiser to the two men's matches that followed. Nor does it aid development.\nIt stuffed some stat sheets and gave ammunition to the bad-faith actors who are always on the hunt for an opportunity to take a shot at women's sport.\nThe Jillaroos are the best team in the world by an order of magnitude and have been for years. They gain nothing by putting the cleaners through Wales, who exist in a different universe.\nThat's why the Welsh should be spared any blame for how this went down. When the criticism comes it should not fall on them.\nThey qualified fair and square but they did not ask for this and there's no way to say it without sounding patronising but they did their best in the face of impossible odds.\nWhile they have Canterbury halfback Tayla Preston and North Queensland winger Sian Williams as well as a smattering of Super League talent in Bethan Daiton, Carys Marsh and Agnes Wood, most of their players ply their trade in the women's second division in England.\nIt's a competition that can still have the draw disrupted by forfeits "
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
+     "title": "Ruthless Australia record biggest win in Women's World Cup history",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-jaime-chapman-australia_7393648.jpg?20261101083319"
+     },
+     "id": "029def11adf916ba",
+     "published": "2026-11-01T08:30+00:00",
+     "text": "Rugby League World Cup 2026: Reports, news, scores, fixtures from across the men's, women's, and wheelchair tournaments\nReports, news, updates, scores from across the men's, women's, and wheelchair tournaments of the Rugby League World Cup 2026"
     }
    ]
   },
@@ -1441,65 +1644,6 @@
      "id": "2eb5766d74d52897",
      "published": "2026-10-31T06:20+00:00",
      "text": "JioStar, the Indian media giant backed by Reliance Industries, grew revenue from operations 10.1% year-on-year to INR68.1 billion ($710 million) in the July–September quarter despite a weak advertising market. Profit after tax fell 13.2% to INR11.5 billion ($120 million). Former India cricket captain Sourav Ganguly hosted the first-ever “Bigg Boss Bangla,” which launched this quarter […]"
-    }
-   ]
-  },
-  {
-   "id": "c6376b050fb",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Iran's Khamenei warns US and Israel against new attacks",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
-     "title": "Iran's Khamenei warns US and Israel against new attacks",
-     "lang": "en",
-     "extra": {},
-     "id": "6376b050fbd723e2",
-     "published": "2026-10-31T17:00+00:00",
-     "text": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened military action on the Islamic republic but US Secretary of State Marco Rubio said Trump had not yet made a decision about fresh strikes."
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks",
-     "title": "Iran's supreme leader warns U.S., Israel against new attacks",
-     "lang": "en",
-     "extra": {},
-     "id": "e146fa31649e8341",
-     "published": "2026-10-31T22:10+00:00",
-     "text": "Secretary of State Marco Rubio said Saturday no decision has yet been made on whether to renew hostilities with Iran."
-    },
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/news/2026/11/01/world/iran-warns-us-israel",
-     "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571605.jpg?v=3.1"
-     },
-     "id": "a9e56fb5e1d7da27",
-     "published": "2026-11-01T00:55+00:00",
-     "text": "Tehran – Iran’s supreme leader warned the United States and Israel on Saturday of fresh attacks following their threats to resume strikes after crucial elections, as fears increased over a return to fighting.\nU.S. President Donald Trump suggested he could launch fresh military action after the United States holds its midterm elections.\nBut U.S. Secretary of State Marco Rubio said Saturday: “If there is a diplomatic solution, we would be open to it.”\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ?oc=5",
-     "title": "Iran's Khamenei warns US and Israel against new attacks - France 24",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "b69d3e87ad0db537",
-     "published": "2026-10-31T17:00+00:00",
-     "text": "- Iran's Khamenei warns US and Israel against new attacks France 24\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News\n- Iran’s Khamenei Orders Military to Expand US Retaliation Plans Bloomberg.com"
     }
    ]
   },
@@ -1792,43 +1936,6 @@
      "id": "6545c619b821c4bc",
      "published": "2026-10-31T19:34+00:00",
      "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with the HD-2D art style that breathes new life into the adventure of Erdrick. Numerous quality-of-life features make this a game that's much more digestible than ever for genre newcomers, and the orchestrated soundtrack is a treat, too. Pick up a PS5 copy today for just $19.99.\nStar Wars Zero Company is one of the biggest sleeper hits of the year, and you can save $12 o"
-    }
-   ]
-  },
-  {
-   "id": "c2a1376fe80",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-   "official_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-1920-80.jpg",
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/1850/view/693150463100455306",
-     "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-1920-80.jpg"
-     },
-     "id": "e8fc40125f631162",
-     "published": "2026-10-31T20:37+00:00",
-     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
-    },
-    {
-     "source": "PC Gamer",
-     "trust": 2,
-     "url": "https://pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt",
-     "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-2549-80.jpg"
-     },
-     "id": "2a1376fe802cdd6d",
-     "published": "2026-10-31T20:29+00:00",
-     "text": "The case as presented by Rebelzize seems fairly open and shut: A volunteer team being sued by a former volunteer over contributions excised from the project? There are potential material benefits to consider: Skyblivion has a level of scope and popularity that could leave participation in it as strong a resume line as shipping a commercial game. Fallout London's developers even pivoted to being their own indie studio.\nBut that's not a clear-cut monetary incentive, and the clout of participation is contingent on productive contribution to the project. While it is worth noting that we only have Rebelzize's accounting of events, I think there are green flags pointing to his trustworthiness:\n- The call to action is for pro bono legal aid in line with the project's overall volunteer nature, not fundraising.\n- The former volunteer is not named, and Rebelzize urges against the sort of Reddit gumshoe sleuthing you see so often in these situations.\n- Skyblivion as a whole has run for a long time without major scandal.\nUnless you, the reader, are or know a lawyer with expertise in IP/GDPR cases—check out Skyblivion's website to contact them, in that case—there's not much for a given fan of the project to do. Rebelzize noted that he has paid legal help lined up should the call for volunteers fail. Even if a lawsuit is filed, it does not sound—at least from this vlog—like it could imperil Skyblivion's release. I have questions, but ideally this whole situation will resolve cleanly enough that we never know exactly what happened:\n- What, specifically, did this volunteer work on in the game?\n- Did redoing this work have any bearing on Skyblivion's delay from 2025 into '26?\n- What happened here interpersonally? Was there an issue of crediting the work done? Are there any missing details that, if they don't justify the volunteer's legal threat, at least make it more understandable?\nAt last call, Skyblivion was still scheduled to release this year, but time is running short for that goal. We Elder Scrolls-likers at PC Gamer have been excited about it for years. Skyblivion promises a more ground-up remake of TES 4: Oblivion—complete with radically redesigned dungeons and biomes—in Skyrim's engine. This is in contrast to the more graphics-focused Oblivion Remastered we got in 2025.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nTed has been thinking about PC games and bothering anyone who would listen with his thoughts on them ever since he booted up his sister's copy of Neverwinter Nights on the family computer. He is obsessed with all things CRPG and CRPG-adjacent, but has also covered esports, modding, and rare game collecting. When he's not playing or writing about games, you can find Ted lifting weights on his back porch. You can follow Ted on Bluesky.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
     }
    ]
   },
@@ -2465,39 +2572,37 @@
    ]
   },
   {
-   "id": "c78696ef3eb",
+   "id": "caa254e6d27",
    "kind": "news",
    "score": 12.0,
    "sensitive": false,
    "distinct_sites": 2,
-   "title_hint": "Wales hit by Australia century in World Cup record defeat",
+   "title_hint": "Bulgaria heads to presidential runoff amid political instability",
    "official_image": null,
    "sources": [
     {
-     "source": "BBC Sport",
+     "source": "Anadolu",
      "trust": 2,
-     "url": "https://bbc.co.uk/sport/rugby-league/articles/cked34glxp0no?at_medium=RSS&at_campaign=rss",
-     "title": "Wales hit by Australia century in World Cup record defeat",
+     "url": "https://aa.com.tr/en/europe/bulgaria-heads-to-presidential-runoff-amid-political-instability/4107713",
+     "title": "Bulgaria heads to presidential runoff amid political instability",
      "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cbef/live/0e215400-d5b8-11f1-a012-e5d60a7e6c41.jpg"
-     },
-     "id": "78696ef3eb5e3800",
-     "published": "2026-11-01T06:57+00:00",
-     "text": "- Published\nAustralia (60) 124\nTries: Kernick, Chapman 6, Church 2, Southwell, Sergis 4, Apps, Paki, Joseph 2, Upton 2, Nizza Goals: Southwell 20\nWales (0) 6\nTries: Travis Goals: Preston\nRampant Australia racked up the biggest score in international history as they hammered Wales in a Rugby League World Cup mismatch.\nThe Jillaroos, hunting a fourth successive title, ran in 21 tries in a predictably lopsided contest in Sydney.\nThe half-time score of 60-0 was the biggest of any World Cup match - men's or women's - and the Australians kept their foot down to win 124-6.\nWing Jaime Chapman's sixth try in the last minute ensured they beat Denmark men's biggest international score of 122-8 against Sweden in 2012.\nThe 118-point victory margin is the largest in any women's match, although France men retain their record win set in 2003 with a 120-0 rout of Serbia.\nYet there were wild Wales celebrations when, at 100-0 down, they became the first side to score against the Jillaroos in the tournament through Paige Travis.\nThe Jillaroos are three-time back-to-back champions, while Wales were taking part in the tournament for the first time having only played their first Test in 2021.\nIt was just their 16th fixture - and a first against Australia - with Tom Brindle's side having already been beaten 70-6 by England and 76-0 by Samoa at the World Cup.\nFull of NRLW talent, Australia showed a killer instinct and an intensity that Wales were exposed to for the first time.\nIt all came after Wales, whose captain Bethan Dainton was the tournament's top tackler by a distance in the first two rounds with 77, rose to the occasion with a strong start.\nBut Australia struck in the sixth minute through lock Olivia Kernick following prop Makenzie Weale's terrific offload out the back, and the Jillaroos then clicked into gear.\nLong-striding, hard-fending Chapman scored a double down the left and fellow wing Abbi Church powered through weak tackles on the right.\nWales were unable to string together good moments and a fifth try came through Jesse Southwell from failure to claim a regulation high ball just seconds after Jade Mullen had put in a huge tackle.\nAustralia were ruthless and the scores kept coming through centre Jessica Sergis, second row Kezie Apps and Chapman for a first-half hat-trick.\nSergis brought up the half-century with a weaving run and was followed over by second row Sariah Paki.\nThe stats told the story - Australia had 84% of possession in the first half and completed 21 of 22 sets, with almost 13 minutes of possession to two minutes and 29 seconds.\nIt took just over a minute for Keilee Joseph to get the scoreboard ticking after the restart and the scores kept coming from Sergis, Chapman, Joseph again and Church.\nThe Jillaroos beat their 92-0 record, set against France in the 2022 World Cup, when Southwell converted Sergis' fourth try, hitting three figures when the extras were added to star full-back Tamika Upton's breakaway.\nWales' moment came when Travis, scorer of their historic try against England, won the race to Tayla Preston's kick through.\nIt was only a brief change of pattern with Keeley Nizza, Chapman twice and Upton going over to complete the destruction.\nWales captain Bethan Dainton said:\n\"We just wanted to create a legacy back home for young girls coming through, and I think we did that. The scorelines haven't been in our favour but no one gave up and I am so proud of the girls.\""
+     "extra": {},
+     "id": "aa254e6d27576e63",
+     "published": "2026-11-01T05:11+00:00",
+     "text": "Acting President Iliana Yotova faces former caretaker Prime Minister Andrey Gyurov after only 22.5% of eligible voters cast ballots in 1st round"
     },
     {
-     "source": "ABC Australia",
+     "source": "Straits Times",
      "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/australia-wales-womens-rugby-league-world-cup/107334088",
-     "title": "Australia's latest World Cup smash-up helps nobody",
+     "url": "https://straitstimes.com/world/europe/bulgaria-votes-in-presidential-runoff-after-tight-first-round",
+     "title": "Bulgaria votes in presidential runoff after tight first round",
      "lang": "en",
      "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/9c191b4b99728043f0ef248e172888d3?impolicy=wcms_watermark_news&cropH=1927&cropW=3425&xPos=0&yPos=58&width=862&height=485&imformat=generic"
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/88c31b1751694c3d1f6814a0dcdd4de81af328c5f9a651253834219f0b1770a4?w=1200"
      },
-     "id": "ba338089e5aa5172",
-     "published": "2026-11-01T07:53+00:00",
-     "text": "Fri, 18 Sept, 7:50 pm, Final score, Tigers 0, Raiders 6\nSat, 19 Sept, 4:05 pm, Final score, Broncos 40, Knights 16\n40 16 →Sat, 26 Sept, 7:50 pm, Final score, Roosters 20, Raiders 10\n20 10 →Sun, 27 Sept, 1:05 pm, Final score, Titans 8, Broncos 20\n8 20 →Sun, 4 Oct, 4:00 pm, Final score, Roosters 30, Broncos 6\n30 6 →\nGallows humour was the order of the day for Australia's World Cup match against Wales, which was only fitting given it trudged towards its inevitable conclusion like the condemned to the executioner's block.\nThe Jillaroos ran out 124-6 winners in a game where the only element of contest was whether the reigning world champions could bring up the century.\nThey did it easily in the end, smashing their own record for biggest World Cup win, with Jamie Chapman's sixth try in the shadows of the full-time siren eclipsing France's 116-0 victory over Serbia in 2023 in the most lopsided result in women's international rugby league history.\nIn the first half, as they ran up a 60-0 lead, Australia scored 10 tries and Wales played the ball just 15 times. Five-eighth Jesse Southwell finished with 44 points on her own.\nThe Jillaroos did not make a tackle from the fifth minute until after the half-time siren and Australian halfback Tarryn Aiken did not make a tackle until 10 minutes before full-time.\nAfter Australia scored its 15th try of the match it started getting booed by the sparse Parramatta Stadium crowd, who reserved their biggest cheer of the day for Welsh second rower Paige Travis's score that narrowed the gap to 100-6.\nIt was the sole bright spot of the match but the punters soon returned to an idle stupor as Australia added four more tries in the final seven minutes.\nAll World Cups are going to have their blowouts and rugby league's more than most. But they must serve a wider purpose and this one did not.\nIt benefited nobody and served to damage the tournament's credibility and its only legacy can be like Australia's 110-4 win over Russia in the men's 2000 World Cup, which is to say as a historical oddity for the trainspotters.\nAs the women's World Cup reckons with what has been an uneven tournament at best, marred by the same enormous scorelines of the men's edition but with few of the strong crowds, questions must be asked as to why a game like this could happen at all.\nThe uninterested and meagre turn-out for this match was proof it did not maximise the product, which very much felt like a curtain-raiser to the two men's matches that followed. Nor does it aid development.\nIt stuffed some stat sheets and gave ammunition to the bad-faith actors who are always on the hunt for an opportunity to take a shot at women's sport.\nThe Jillaroos are the best team in the world by an order of magnitude and have been for years. They gain nothing by putting the cleaners through Wales, who exist in a different universe.\nThat's why the Welsh should be spared any blame for how this went down. When the criticism comes it should not fall on them.\nThey qualified fair and square but they did not ask for this and there's no way to say it without sounding patronising but they did their best in the face of impossible odds.\nWhile they have Canterbury halfback Tayla Preston and North Queensland winger Sian Williams as well as a smattering of Super League talent in Bethan Daiton, Carys Marsh and Agnes Wood, most of their players ply their trade in the women's second division in England.\nIt's a competition that can still have the draw disrupted by forfeits "
+     "id": "23bc944dd2d7d90b",
+     "published": "2026-11-01T08:52+00:00",
+     "text": "Bulgaria votes in presidential runoff after tight first round\nSOFIA, Nov 1 - Bulgarians went to the polls on Sunday to elect a president after a tight race between the two leading candidates failed to produce an outright winner in last weekend's first round vote for the largely ceremonial role.\nIncumbent president, Iliana Iotova, 61, led over ex-caretaker prime minister Andrey Gyurov, 50, but fell short of the 50% threshold in the first round race of 27 candidates that saw a record-low turnout.\nExit polls will be published after voting ends at 8 p.m. (1800 GMT), with a result likely on Monday as the ballot papers are counted.\nThe presidential vote comes against the backdrop of a series of drone attacks on merchant ships off Bulgaria’s Black Sea coast in the past month, which have sparked international condemnation and concerns about the growing reach of the war in Ukraine.\nAbout two dozen seafarers are feared dead and the strikes have prompted the government to seek allied assistance to bolster maritime security. On Wednesday a Greek container ship sank after being hit by sea drones.\nBoth leading presidential candidates have condemned the attacks. Prime Minister Rumen Radev, who backs Iotova, said the strikes' outcome \"benefits the Russian Federation\". They have both called for a diplomatic end to the war.\nA victory for Iotova would make her Bulgaria's first elected female president. She became acting president in January after Radev resigned to enter and win a parliamentary race on what many political analysts considered a Kremlin-friendly ticket.\nGyurov, who served as caretaker prime minister this year, is supported by pro-Western, reformist parties and has long expressed support for Ukraine. He signed a security cooperation agreement with Kyiv during his time as premier.\nA host of right-leaning political figures, among them ex-premier Boiko Borisov, have expressed support for Gyurov. REUTERS"
     }
    ]
   },
@@ -2561,6 +2666,43 @@
    ]
   },
   {
+   "id": "c2a1376fe80",
+   "kind": "news",
+   "score": 11.5,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+   "official_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-1920-80.jpg",
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/1850/view/693150463100455306",
+     "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-1920-80.jpg"
+     },
+     "id": "e8fc40125f631162",
+     "published": "2026-10-31T20:37+00:00",
+     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
+    },
+    {
+     "source": "PC Gamer",
+     "trust": 2,
+     "url": "https://pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt",
+     "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-2549-80.jpg"
+     },
+     "id": "2a1376fe802cdd6d",
+     "published": "2026-10-31T20:29+00:00",
+     "text": "The case as presented by Rebelzize seems fairly open and shut: A volunteer team being sued by a former volunteer over contributions excised from the project? There are potential material benefits to consider: Skyblivion has a level of scope and popularity that could leave participation in it as strong a resume line as shipping a commercial game. Fallout London's developers even pivoted to being their own indie studio.\nBut that's not a clear-cut monetary incentive, and the clout of participation is contingent on productive contribution to the project. While it is worth noting that we only have Rebelzize's accounting of events, I think there are green flags pointing to his trustworthiness:\n- The call to action is for pro bono legal aid in line with the project's overall volunteer nature, not fundraising.\n- The former volunteer is not named, and Rebelzize urges against the sort of Reddit gumshoe sleuthing you see so often in these situations.\n- Skyblivion as a whole has run for a long time without major scandal.\nUnless you, the reader, are or know a lawyer with expertise in IP/GDPR cases—check out Skyblivion's website to contact them, in that case—there's not much for a given fan of the project to do. Rebelzize noted that he has paid legal help lined up should the call for volunteers fail. Even if a lawsuit is filed, it does not sound—at least from this vlog—like it could imperil Skyblivion's release. I have questions, but ideally this whole situation will resolve cleanly enough that we never know exactly what happened:\n- What, specifically, did this volunteer work on in the game?\n- Did redoing this work have any bearing on Skyblivion's delay from 2025 into '26?\n- What happened here interpersonally? Was there an issue of crediting the work done? Are there any missing details that, if they don't justify the volunteer's legal threat, at least make it more understandable?\nAt last call, Skyblivion was still scheduled to release this year, but time is running short for that goal. We Elder Scrolls-likers at PC Gamer have been excited about it for years. Skyblivion promises a more ground-up remake of TES 4: Oblivion—complete with radically redesigned dungeons and biomes—in Skyrim's engine. This is in contrast to the more graphics-focused Oblivion Remastered we got in 2025.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nTed has been thinking about PC games and bothering anyone who would listen with his thoughts on them ever since he booted up his sister's copy of Neverwinter Nights on the family computer. He is obsessed with all things CRPG and CRPG-adjacent, but has also covered esports, modding, and rare game collecting. When he's not playing or writing about games, you can find Ted lifting weights on his back porch. You can follow Ted on Bluesky.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
+    }
+   ]
+  },
+  {
    "id": "c3baa272202",
    "kind": "news",
    "score": 11.5,
@@ -2601,50 +2743,6 @@
      "id": "ff06dcd8d2d3db81",
      "published": "2026-11-01T02:17+00:00",
      "text": "A new Australian classification for 2009’s Call of Duty: Modern Warfare 2 has fuelled speculation about a re-release on modern consoles, following Activision’s recent ports of Black Ops and Black Ops 2. A new release may restore the multiplayer omitted from the Campaign Remastered edition, but an official confirmation is yet to be made."
-    }
-   ]
-  },
-  {
-   "id": "c68f09208cc",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "How North Korea perfected the crypto heist",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/10/31/north-korea-hackers-binance-crypto",
-     "title": "How North Korea perfected the crypto heist",
-     "lang": "en",
-     "extra": {},
-     "id": "c0507670381cd16e",
-     "published": "2026-10-31T11:15+00:00",
-     "text": "The world's biggest crypto heist is the latest feat by North Korean hackers who have spent years perfecting an arsenal of financial theft, social engineering and sophisticated cyberattacks.\nWhy it matters: The suspected North Korean hackers behind the $6.3 billion Binance theft appear to have combined familiar hacking tactics with extraordinary speed and automation — raising fresh questions about how AI could supercharge their already sophisticated operations.\nDriving the news: Binance said late Thursday that its blockchain partners have frozen at least $3 billion of those $6.3 billion assets on-chain so far, and it believes the hackers gained initial access by compromising one engineer's laptop alongside other \"points of breach.\"\n- Several blockchain investigation firms have tied the hack to TraderTraitor, a group linked to the North Korean government's Lazarus Group collective.\n- Binance co-CEO Richard Teng said in a video on social media Friday that the attackers also used a \"self-destruct mechanism that destroyed tooling and traces\" as they went, making it more difficult to investigate what happened.\n- \"This was a complex attack,\" he said.\nThe big picture: North Korean government hackers have spent more than a decade carrying out financial heists and disruptive cyberattacks, and they have turned cryptocurrency theft into an industrial-scale operation.\n- In 2016, hackers attempted to steal nearly $1 billion from Bangladesh's central bank, successfully making off with $81 million.\n- In 2017, North Korea was blamed for the WannaCry ransomware outbreak, which disrupted hundreds of thousands of computers across more than 150 countries.\n- In recent years, the country has intensified its focus on pillaging crypto exchanges in part because the digital assets can more easily be transferred and laundered across borders — although those attacks tend to leave more of a paper trail.\n- The same North Korean hacking group, TraderTraitor, also set the last record for the world's largest crypto heist last year when they stole $1.5 billion from the ByBit crypto exchange.\nBetween the lines: North Korean hackers are only getting better and faster at their attacks, experts tell Axios.\n- \"They're essentially crowding out other threat actors by stealing the bulk of the value that's taken in any given year,\" Eric Jardine, head of research at Chainalysis, told Axios.\nZoom in: Chainalysis said in a research report Friday that hackers made off with the billions of funds in as little as 20 minutes.\n- The hackers also laundered and destroyed evidence of their operations at an unprecedented speed, suggesting they used automation throughout the heist, researchers found.\n- Researchers at TRM Labs found that the hackers started preparing for the attack just 36 hours before it began.\n- \"There were transactions happening with a frequency and a scale that just meant there could not have been someone involved in the approval of these,\" Jardine said. \"It had to have been done by a computer.\"\nThe intrigue: Social engineering and automation has been hallmarks of the latest North Korean cyberattacks, Vijay Balasubramaniyan, CEO and co-founder of Pindrop Security, told Axios.\n- Advances in AI-powered video and audio tools have allowed North Koreans to vastly expand their widespread IT worker fraud, where American companies are tricked into hiring North Koreans for IT jobs.\n- Balasubramaniyan said last year, North Korean job applicants made up 1 in every 343 applications. Th"
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BU2ZlUmdsNm9ZMm1xWS1CbTg0XzZIYW9hbjAtdGhmUnVBdXpPN2RHbGt3VWQzUXdzUF9EckxXMzBmS3Z1ckwwR3hzb01RYTYzSG9sbXlRSk1nd0dUWU9wUlRRT1Bzbi00YUt2Y2xSZUlNQmJ3RnlN?oc=5",
-     "title": "Highlights From North Korea’s Drone-A-Palooza - TWZ",
-     "lang": "en",
-     "extra": {},
-     "id": "68f09208cc04e4c9",
-     "published": "2026-10-30T20:34+00:00",
-     "text": "- Highlights From North Korea’s Drone-A-Palooza TWZ\n- North Korea's Kim urges drone dominance, greater military AI use amid border tensions Reuters\n- North Korea fires missile barrage toward the sea as tensions with South rise AP News\n- Kim attends a North Korean drone exhibition and calls for boosting the technology ABC News - Breaking News, Latest News and Videos\n- North Korea fires missiles as row over landmine blast intensifies Al Jazeera"
-    },
-    {
-     "source": "Reddit technology",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xk8uwo/north_korea_has_stolen_usd_128_billion_in_crypto",
-     "title": "North Korea Has Stolen USD 12.8 Billion in Crypto, USD 7.4 Billion of It in 2026",
-     "lang": "en",
-     "extra": {},
-     "id": "949d19b77e1be202",
-     "published": "2026-10-31T12:23+00:00",
-     "text": "submitted by\n/u/Logical_Welder3467\n[link]\n[comments]"
     }
    ]
   },
@@ -2783,41 +2881,6 @@
      "id": "f9eb1ed0175e30f0",
      "published": "2026-10-31T07:23+00:00",
      "text": "The story so far: One of the world’s top cryptocurrency exchange platforms, Binance, was hit by a cyberattack on October 29 that led to the loss of assets valued at over $6 billion. While the facts are still emerging and investigations are ongoing, the exploit could go down as the largest crypto hack on record.\nOn October 30, after independent crypto trackers posted warnings, Binance announced that it was aware of reports of a “potential security issue,” but assured users that their funds were completely safe.\nPublished - October 31, 2026 12:53 pm IST\nYou are logged in\nLoading...\nYou don’t have any Active Subscription.\nSubscribe nowSubscribed with another email? Logout and Login with that one.\nYour active subscription(s)\nAccount subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription\nProducts you've access to\nAdditional Subscription Benefits\nAccount Settings\nNeed help with your subscription?"
-    }
-   ]
-  },
-  {
-   "id": "c54d2bdeb1c",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "GSMArena",
-     "trust": 2,
-     "url": "https://gsmarena.com/apple_iphone_18_pro_vs_iphone_18_pro_max_battery_camera_price_compared-news-75173.php",
-     "title": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-18-pro-vs-iphone-18-pro-max/-952x498w6/gsmarena_000.jpg"
-     },
-     "id": "54d2bdeb1c968e99",
-     "published": "2026-10-30T22:59+00:00",
-     "text": "It's time for an upgrade, and you are eyeing the new iPhone 18 Pro series. But which one to get? The smaller iPhone 18 Pro or the larger iPhone 18 Pro Max? Sometimes it's not just about screen size; it's also about features and performance. The Pro Max has historically been better at endurance and has offered one or two exclusive features.\nSo what else is the 18 Pro Max's price premium buying you except a larger screen size? Let's dive in and find out.\nFor starters, you can compare the complete specs sheets or directly continue with our editor's assessment in the following text.\nWhen it comes to size, things are pretty straightforward. Get the much lighter and more manageable iPhone 18 Pro if you are into more compact phones, or get the 18 Pro Max if you enjoy the big-screen experience.\nThere's essentially no difference in the build quality or ingress protection between the two devices. There's not even a color difference, as both devices are offered in Black, Silver, Glacier and Burgundy.\nThere's no difference in the display properties and features either. The only thing that sets them apart is size. Size should be your only determining factor in this case.\nThe iPhone 18 Pro Max has a significantly bigger battery than the regular 18 Pro, so it's no surprise it achieves higher results in our battery tests. We tested the versions with physical SIM card slots and smaller batteries (5,391 mAh vs. 4,056 mAh), but the capacity gap is about the same with the eSIM-only variants (5,567 mAh vs. 4,288 mAh).\nAnyway, the 18 Pro Max beat the 18 Pro in every battery test scenario, but we saw the biggest improvements in the web browsing and 4G call scenarios.\nThe iPhone 18 Pro Max charging this year is not just faster than its predecessor's; it's actually fairly competitive now. It's also a tad faster than the iPhone 18 Pro at the 15 and 30-minute marks, but slows down toward the end of the charging cycle. Still, it beat the regular Pro by 7 minutes, which, granted, isn't something to write home about, but it's still technically faster.\nHowever, the 12 and 13 percentage point difference in the first 15 and 30 minutes of the charging cycle is arguably more important when you are in a hurry. Being able to top up faster in the first 30 minutes of the charging cycle is arguably what counts the most.\nThe two iPhones offer roughly the same sound tuning, but since the Pro Max has larger echo chambers, music tracks sound a tad more desirable and are considerably louder, too. The bass is slightly more prominent, so music sounds fuller and warmer.\nBoth devices run on the same Apple A20 Pro chipset based on the 2nm manufacturing node, offering a substantial improvement in performance and efficiency over the previous generation. As expected, there are no major differences in how the two devices perform not only in day-to-day tasks, but also in synthetic benchmarks.\nBoth devices ship with 12GB of RAM and 256GB of internal storage by default and go up to 2TB of storage.\nUnsurprisingly, the iPhone 18 Pro and 18 Pro Max show near-identical performance across the board. There are some slight deviations, but they seem to be well within the normal margin of error.\nThe Pro Max does have one advantage, albeit small. Our stress tests show modestly better sustained performance over the smaller Pro. It's probably down to the much bigger vapor chamber that Apple was able to fit inside the Pro Max.\nGone are the days when the two sizes of Pro iPhone had different camera setups "
-    },
-    {
-     "source": "Mashable",
-     "trust": 2,
-     "url": "https://mashable.com/tech/oct-31-free-apple-iphone-18-pro-deal",
-     "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free — how to qualify",
-     "lang": "en",
-     "extra": {},
-     "id": "5342155d7a7df8b0",
-     "published": "2026-10-31T20:41+00:00",
-     "text": "TL;DR: The Apple iPhone 18 Pro is free when you switch and bring your number on T-Mobile's Experience Beyond plan. The Apple iPhone 18 Pro Max is $1,200 off when you switch and bring your number on T-Mobile's Experience Beyond plan.\nThe iPhone Duo launched last week, and naturally, there was a lot of fuss made about Apple's first-ever foldable. Not all of the chatter was positive, but the iPhone Duo did dominate the conversation at least. Now that the dust has settled, something truly wonderful has happened for Apple fans.\nNo, we're not talking about resolutions to any of the issues surrounding the launch. We're talking about the triumphant return of T-Mobile's free iPhone deals. For the last few weeks, T-Mobile pulled back on the free deals for the iPhone 17 and iPhone 18 Pro. Times were tough, but we made it through.\nFor a limited time, you can get your hands on the Apple iPhone 18 Pro for free with T-Mobile. To qualify for this deal, you simply need to switch to T-Mobile and bring your number to the Experience Beyond plan. Alternatively, you can save $1,200 on the Apple iPhone 18 Pro Max by doing the same.\nThe full savings are distributed as monthly credits over a 36-month payment plan. If you leave T-Mobile before the end of the three-year contract, you will be charged the remaining balance. You also need to pay local sales tax on the phone's full retail value upfront, plus a standard $35 device connection fee per line at checkout.\nYou're making a commitment to T-Mobile and getting a flagship phone for free in return. That sounds like a pretty good deal to us.\nGet the Apple iPhone 18 Pro for free this weekend with T-Mobile."
     }
    ]
   },
@@ -3514,41 +3577,6 @@
    ]
   },
   {
-   "id": "c0993e42e7f",
-   "kind": "news",
-   "score": 10.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "What To Watch For in the Mexico City Grand Prix",
-   "official_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Qualifying/2302907765.webp",
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/what-to-watch-for-in-the-mexico-city-grand-prix.2L0L49djDMMYYHFCx7EpTf",
-     "title": "What To Watch For in the Mexico City Grand Prix",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Qualifying/2302907765.webp"
-     },
-     "id": "183889a490f6748d",
-     "published": "2026-11-01T02:49+00:00",
-     "text": "From another chance for Kimi Antonelli to wrap up the Drivers’ Championship to Lewis Hamilton looking to convert his first Ferrari pole position, here are a few things to keep an eye on as drivers face the test of racing at high altitude at the Autodromo Hermanos Rodriguez.\n1. Antonelli’s requirements for championship glory\nA week ago we had to run through a set of permutations for Kimi Antonelli to win the Drivers’ Championship that highlighted how tough it would be for him to do it in Austin.\nOn that occasion, he needed a number of other results to go his way even if he won the race, and it very nearly came together, but both George Russell and Lewis Hamilton finished one place higher than Antonelli needed them to.\nNext Up"
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/f1/f1-grid-race-mexican-grand-prix-2026-antonelli-verstappen-russell-hamilton-b3075656.html",
-     "title": "F1 grid: Starting positions for Mexican Grand Prix",
-     "lang": "en",
-     "extra": {},
-     "id": "0993e42e7f8dad1a",
-     "published": "2026-10-31T22:23+00:00",
-     "text": "F1 returns to the Autodromo Hermanos Rodriguez for round 19 with Kimi Antonelli set to clinch the world title"
-    }
-   ]
-  },
-  {
    "id": "cc403f39860",
    "kind": "news",
    "score": 10.5,
@@ -3643,65 +3671,6 @@
    ]
   },
   {
-   "id": "cab6a3d6f8f",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "India launches next-gen navigation satellite to orbit (video)",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
-     "title": "India launches next-gen navigation satellite to orbit (video)",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/tSwfy5XpAPEB3fe7ucbgqR-2560-80.jpg"
-     },
-     "id": "ab6a3d6f8f007f8e",
-     "published": "2026-10-30T20:29+00:00",
-     "text": "India bolstered its homegrown satellite-navigation system today (Oct. 30).\nA GSLV Mark II rocket launched the nation's NVS-03 satellite from Satish Dhawan Space Centre today at 2:21 p.m. EDT (1821 GMT and 11:51 p.m. India Standard Time).\nEverything went well: The rocket deployed NVS-03 into geostationary transfer orbit as planned, officials with the Indian Space Research Organisation (ISRO) announced on X about 30 minutes after liftoff.\nNVS-03 is the third next-gen satellite that India has launched for the Navigation with Indian Constellation (NavIC), its version of the United States' Global Positioning System (GPS).\nNavIC operates on a smaller scale than its American counterpart, however. It's \"a regional navigation satellite system designed to provide accurate Position, Navigation and Timing (PNT) service to users in India as well as the region extending about 1,500 km [930 miles] beyond the Indian landmass, which is its primary service area,\" ISRO officials wrote in the NVS-03 launch brochure.\nThe Indian constellation currently consists of three fully functioning satellites, and it requires four to provide PNT services. So today's launch was a big deal — and a lot of eyes will be watching NVS-03's commissioning and checkout phase.\nToday's launch was the 14th to date for the GSLV (Geosynchronous Satellite Launch Vehicle) Mark II, a three-stage rocket that stands 170 feet (52 meters) tall. Twelve of those 14 liftoffs have been successful.\nThe GSLV Mark II debuted in 2010, the same year its predecessor retired. That previous launchers, the Mark I, flew a total of six times, with two failures.\nNVS-03 was the fourth Indian launch of 2026 and the third operated by ISRO. The fourth was mounted by Skyroot Aerospace, which in July became the first Indian company ever to successfully reach orbit.\nMichael Wall is the Spaceflight and Tech Editor for Space.com and joined the team in 2010. He primarily covers human and robotic spaceflight, military space, and exoplanets, but has been known to dabble in the space art beat. His book about the search for alien life, \"Out There,\" was published on Nov. 13, 2018. Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist. He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelor's degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz. To find out what his latest project is, you can follow Michael on Twitter.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
-    }
-   ]
-  },
-  {
-   "id": "ca0aab801c1",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NYT Technology",
-     "trust": 2,
-     "url": "https://nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
-     "title": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
-     "lang": "en",
-     "extra": {},
-     "id": "a0aab801c1b117b3",
-     "published": "2026-10-30T20:30+00:00",
-     "text": "In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times."
-    },
-    {
-     "source": "The Next Web",
-     "trust": 2,
-     "url": "https://thenextweb.com/news/openai-whistleblowers-house-democrats-casar-letter",
-     "title": "Twenty House Democrats press OpenAI over fired safety researchers",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.jpg"
-     },
-     "id": "7ed378268879c756",
-     "published": "2026-10-31T20:55+00:00",
-     "text": "Twenty House Democrats have asked OpenAI chief executive Sam Altman to promise not to fire OpenAI whistleblowers who share safety information. They also want OpenAI to keep its pause on its most capable models until independent oversight is in place.\nRepresentative Greg Casar of Texas led the letter, dated 29 October. It asks OpenAI to answer 11 sets of questions by 13 November.\n“We are writing to express concern over your decision to fire apparent whistleblowers at your company for sharing information with an outside AI safety group, even as your company continues to experience a slew of cybersecurity incidents,” the lawmakers wrote.\nThe three fired researchers\nThe letter names the researchers as Tomek Korbak, Mikita Balesni and Jasmine Wang. OpenAI reportedly fired them after it checked their personal phones. It found disappearing messages turned on in their Signal chats with Ryan Greenblatt, then a researcher at Redwood Research. TNW covered the firings last week.\nOpenAI has said it fired them for breaking its rules on sensitive information, not for raising safety concerns, the letter notes. The researchers say they never shared OpenAI’s confidential information with anyone outside the company.\nThe lawmakers ask what the three shared, with whom, and why that was a fireable offence. They also ask whether OpenAI has fired anyone else for raising safety concerns. The question also covers staff who talked to safety groups or oversight bodies.\nHugging Face and the pause\nTwo OpenAI employees warned executives months before the Hugging Face breach, the letter says. They said OpenAI was not monitoring its newest models properly in testing. Executives replied that the tests had to move fast so the models could ship on time, the letter says, citing The New York Times. OpenAI’s 31 August reply to an earlier letter from Casar did not mention those warnings, the lawmakers wrote.\n“These incidents appear to stem from alignment issues with your models,” the lawmakers wrote.\nAccording to the letter, OpenAI has paused training, testing and tool use for its most capable models. OpenAI has said it will resume only when it is confident that more safeguards are in place, the letter says. The lawmakers ask which models the pause covers and when testing will resume.\nThey also want a list of every security incident OpenAI is investigating. And they ask whether OpenAI can stop its models when they act without permission.\nWhat OpenAI published the same day\nAlso on 29 October, OpenAI published a post on how it now monitors its frontier models. It said it had replayed the Hugging Face incident with its expanded monitors in place. In that test, the monitors alerted its security team about 30 minutes after the agents first escaped their sandbox. That was more than 30 hours before the breach at Hugging Face.\n“We believe that this warning would have given our responders time to interrupt the activity well before our models were able to access external services,” OpenAI wrote.\nAlerts can page staff at any hour for frontier training runs, but only in business hours for most other work, OpenAI said. OpenAI has switched paging off for internal Codex traffic. An outside review by METR and Redwood Research found weak spots in the system in July and August. OpenAI said it has fixed most of them and one fix is still in progress.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
-    }
-   ]
-  },
-  {
    "id": "c547616bb86",
    "kind": "news",
    "score": 10.0,
@@ -3766,6 +3735,85 @@
      "id": "287c5e419f8124f1",
      "published": "2026-10-30T21:53+00:00",
      "text": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch testing for Flight 16, and lifted the top deck deluge plates onto Pad 1’s Launch Mount. This past week has been one of the busiest in Starship program history.\nhttps://www.youtube.com/watch?v=vKqb6w5FeE\nFlight 16\nProgress toward Flight 16 has been strong this past week. Ship 43 rolled out to Massey’s on Oct. 22 and completed both cryo-proof tests on Oct. 23. The ship then rolled back to Mega Bay 2 on Oct. 26 to be swapped to a transport stand.\nOnce on the transport stand, the team rolled Ship 43 out to Pad 2 for ship catch testing. This entailed lifting Ship 43 to catch height, then lowering it to bring in the Ship Quick Disconnect (SQD). Once in line, SpaceX hooked up the SQD plate to the ship to test safing procedures for when they eventually catch a ship.\nSpaceX also performed this testing with Ship 42 in mid-September. This testing helps controllers gain experience in ship safing operations and write operations as teams progress.\nThe next catch test SpaceX performed moved the ship to the middle of the chopsticks while it was on the transport stand. Then the chopsticks lifted the ship without the stabilizers, and the pushers on the landing rails pushed the ship to line up with the stabilizers before hooking in.\nThis operation is how SpaceX lined up Boosters 12, 14, and 15 when those were caught; teams just haven’t caught a ship yet, so they are practicing with non-flown ships.\nAfter all of that testing, Ship 43 was rolled back to Mega Bay 2 on Oct. 27 and placed on the back left work stand. Ship 43 will now receive its engines installed before heading back out for its static fire campaign.\nBooster 23 rolled back out to Massey’s on Oct. 27, but after spending over two full days at the cryo station, the booster did no visible testing. It could’ve done an ambient pressure test, but there were no noticeable vents to show either way. Booster 23 then rolled back to Mega Bay 1 early on Oct. 30.\nFlight 15\nSpaceX made significant progress on Flight 15 in the past week, with both vehicles completing their respective static fire campaigns. On Oct. 24, Booster 22 was rolled out to Pad 2 and installed on the launch mount early that morning. After completing preparations on Saturday, SpaceX ignited all 33 Raptor engines early Sunday morning, Oct. 25, for a full-duration 15-second static fire.\nAfterward, Booster 22 was rolled back to Mega Bay 1 in the early morning hours of Oct. 26 and placed on the back right work stand for final preparations before flight.\nFull duration 33-engine static fire for the Super Heavy booster preparing for Flight 15 pic.twitter.com/7eqbC4h0Fh\n— SpaceX (@SpaceX) October 25, 2026\nShip 42 was rolled out to Massey’s during the late-night to early-morning hours of the 26th; during that night, there were multiple closures, and SpaceX rolled Ship 43 back from Massey’s, Ship 42 out to Massey’s, and Booster 22 back from the Launch Site. So, three separate vehicle rolls in about seven hours.\nOnce at Massey’s, Ship 42 completed a single-engine header tank static fire on Oct. 26 to simulate an in-space deorbit burn. To simulate this, SpaceX loads the ship with the required propellant; once the propellant load is finished, teams let it sit in the tanks and warm to the desired temperature before completing a static fire.\nThen, on Oct. 27, Ship 42 completed a 60-second six-engine static fire, the normal duration for Block 3 ships. With this eng"
+    }
+   ]
+  },
+  {
+   "id": "c54d2bdeb1c",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "GSMArena",
+     "trust": 2,
+     "url": "https://gsmarena.com/apple_iphone_18_pro_vs_iphone_18_pro_max_battery_camera_price_compared-news-75173.php",
+     "title": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-18-pro-vs-iphone-18-pro-max/-952x498w6/gsmarena_000.jpg"
+     },
+     "id": "54d2bdeb1c968e99",
+     "published": "2026-10-30T22:59+00:00",
+     "text": "It's time for an upgrade, and you are eyeing the new iPhone 18 Pro series. But which one to get? The smaller iPhone 18 Pro or the larger iPhone 18 Pro Max? Sometimes it's not just about screen size; it's also about features and performance. The Pro Max has historically been better at endurance and has offered one or two exclusive features.\nSo what else is the 18 Pro Max's price premium buying you except a larger screen size? Let's dive in and find out.\nFor starters, you can compare the complete specs sheets or directly continue with our editor's assessment in the following text.\nWhen it comes to size, things are pretty straightforward. Get the much lighter and more manageable iPhone 18 Pro if you are into more compact phones, or get the 18 Pro Max if you enjoy the big-screen experience.\nThere's essentially no difference in the build quality or ingress protection between the two devices. There's not even a color difference, as both devices are offered in Black, Silver, Glacier and Burgundy.\nThere's no difference in the display properties and features either. The only thing that sets them apart is size. Size should be your only determining factor in this case.\nThe iPhone 18 Pro Max has a significantly bigger battery than the regular 18 Pro, so it's no surprise it achieves higher results in our battery tests. We tested the versions with physical SIM card slots and smaller batteries (5,391 mAh vs. 4,056 mAh), but the capacity gap is about the same with the eSIM-only variants (5,567 mAh vs. 4,288 mAh).\nAnyway, the 18 Pro Max beat the 18 Pro in every battery test scenario, but we saw the biggest improvements in the web browsing and 4G call scenarios.\nThe iPhone 18 Pro Max charging this year is not just faster than its predecessor's; it's actually fairly competitive now. It's also a tad faster than the iPhone 18 Pro at the 15 and 30-minute marks, but slows down toward the end of the charging cycle. Still, it beat the regular Pro by 7 minutes, which, granted, isn't something to write home about, but it's still technically faster.\nHowever, the 12 and 13 percentage point difference in the first 15 and 30 minutes of the charging cycle is arguably more important when you are in a hurry. Being able to top up faster in the first 30 minutes of the charging cycle is arguably what counts the most.\nThe two iPhones offer roughly the same sound tuning, but since the Pro Max has larger echo chambers, music tracks sound a tad more desirable and are considerably louder, too. The bass is slightly more prominent, so music sounds fuller and warmer.\nBoth devices run on the same Apple A20 Pro chipset based on the 2nm manufacturing node, offering a substantial improvement in performance and efficiency over the previous generation. As expected, there are no major differences in how the two devices perform not only in day-to-day tasks, but also in synthetic benchmarks.\nBoth devices ship with 12GB of RAM and 256GB of internal storage by default and go up to 2TB of storage.\nUnsurprisingly, the iPhone 18 Pro and 18 Pro Max show near-identical performance across the board. There are some slight deviations, but they seem to be well within the normal margin of error.\nThe Pro Max does have one advantage, albeit small. Our stress tests show modestly better sustained performance over the smaller Pro. It's probably down to the much bigger vapor chamber that Apple was able to fit inside the Pro Max.\nGone are the days when the two sizes of Pro iPhone had different camera setups "
+    },
+    {
+     "source": "Mashable",
+     "trust": 2,
+     "url": "https://mashable.com/tech/oct-31-free-apple-iphone-18-pro-deal",
+     "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free — how to qualify",
+     "lang": "en",
+     "extra": {},
+     "id": "5342155d7a7df8b0",
+     "published": "2026-10-31T20:41+00:00",
+     "text": "TL;DR: The Apple iPhone 18 Pro is free when you switch and bring your number on T-Mobile's Experience Beyond plan. The Apple iPhone 18 Pro Max is $1,200 off when you switch and bring your number on T-Mobile's Experience Beyond plan.\nThe iPhone Duo launched last week, and naturally, there was a lot of fuss made about Apple's first-ever foldable. Not all of the chatter was positive, but the iPhone Duo did dominate the conversation at least. Now that the dust has settled, something truly wonderful has happened for Apple fans.\nNo, we're not talking about resolutions to any of the issues surrounding the launch. We're talking about the triumphant return of T-Mobile's free iPhone deals. For the last few weeks, T-Mobile pulled back on the free deals for the iPhone 17 and iPhone 18 Pro. Times were tough, but we made it through.\nFor a limited time, you can get your hands on the Apple iPhone 18 Pro for free with T-Mobile. To qualify for this deal, you simply need to switch to T-Mobile and bring your number to the Experience Beyond plan. Alternatively, you can save $1,200 on the Apple iPhone 18 Pro Max by doing the same.\nThe full savings are distributed as monthly credits over a 36-month payment plan. If you leave T-Mobile before the end of the three-year contract, you will be charged the remaining balance. You also need to pay local sales tax on the phone's full retail value upfront, plus a standard $35 device connection fee per line at checkout.\nYou're making a commitment to T-Mobile and getting a flagship phone for free in return. That sounds like a pretty good deal to us.\nGet the Apple iPhone 18 Pro for free this weekend with T-Mobile."
+    }
+   ]
+  },
+  {
+   "id": "cf09c919106",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Are the latest Communist Party promotions a sign of a new political trend in China?",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "SCMP China",
+     "trust": 2,
+     "url": "https://scmp.com/news/china/politics/article/3372766/are-latest-communist-party-promotions-sign-new-political-trend-china",
+     "title": "Are the latest Communist Party promotions a sign of a new political trend in China?",
+     "lang": "en",
+     "extra": {},
+     "id": "15066f6944cfd29f",
+     "published": "2026-10-31T01:00+00:00",
+     "text": "Beijing promoted 10 officials to full membership of the Communist Party’s Central Committee at a major political gathering this week, where the normally routine process of filling vacancies took on new significance.\nThe names of the officials who have filled the vacant slots were included in a communique released at the end of the fifth plenum of the party’s 20th Central Committee on Thursday.\nThe event, which focused on party discipline and the fight against corruption, confirmed that 24 full..."
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/economy-news/chinas-communist-party-tightens-oversight-of-officials-4989422",
+     "title": "China’s Communist Party tightens oversight of officials",
+     "lang": "en",
+     "extra": {},
+     "id": "3d24ca843e184d96",
+     "published": "2026-11-01T08:24+00:00",
+     "text": ""
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS1pSVG9BT2tzY3dTdmM0R2lPVVdDV1gzTXJSU01NdlB2WjhvLTFGVkpaNy15TXpfdjBMOVpGU3B6aWpuVVRDMnhUNTVqYUJGcm5MVEI2T2VsVlB5WDlZbDRCZXhWWFl2enphc0ZUTzFFQkc4QnJXRlBQUXNwTE9kODN5d2d0RVdLQjEyY2dJRTY4anN2UVVaUk5jWlNGMEptdXljbkZvRXlURzJQbHNGZjlCOXpmczg0YWVUdHJpZVcyYzjSAcMBQVVfeXFMUGdxeFphQ1phaVBtZ01zZVI2cjFoWmh4anlMdU5tZjhkSEJ5bmFkZWo0MDRxM1V3YjlscTRqQ3NfQzJRMU4wUHBrMUpMa203TW9TS01PTWd0cnlRR0VrUk5ZLTdEbEZ4SC11WE5USXB2T2tTRngtYVI5d2R5NFI0YzI2QUhOM29VUkk5RzlSdFJvVFVVTlJBU2NVTVlHbGRSTkRiZk5XQXNUMENuTmVyVEJ4UUhtaGxpZTRRS1NTcGpEZEJJ?oc=5",
+     "title": "Are the latest party promotions a sign of a new political trend in China? - South China Morning Post",
+     "lang": "en",
+     "extra": {},
+     "id": "f09c9191063bed5d",
+     "published": "2026-10-31T01:00+00:00",
+     "text": "- Are the latest party promotions a sign of a new political trend in China? South China Morning Post\n- China Confirms Expulsion of 33 Officials, as Xi’s Purge Deepens The New York Times\n- Key takeaways from this week's political meeting in Beijing NPR\n- China’s Xi Demands More Loyalty as Purges Trim Party Elite WSJ\n- China’s plenum backs tighter party discipline, a priority for Xi. Here’s why it matters AP News"
     }
    ]
   },
@@ -4066,6 +4114,28 @@
    ]
   },
   {
+   "id": "c0747ff0d71",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Google's AI satellite sends a very expensive haiku to Earth",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+     "title": "Google's AI satellite sends a very expensive haiku to Earth",
+     "lang": "en",
+     "extra": {},
+     "id": "0747ff0d7149d6f2",
+     "published": "2026-10-31T15:36+00:00",
+     "text": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite.\nThe company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to \"Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you.\"\nTravis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its \"Hello World\" milestone by sending an inference response from orbit.\n\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space,\" wrote Beals in a blog post.\nAnd as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink:\nBlue marble below,\nData streams in silent grace,\nStarlight feeds my core. ✨\nThose roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs.\nAdd in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku.\nAccording to Google's calculations, if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year).\nGoogle predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening.\nAfter the haiku, Beals said, \"we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems.\" Next up: tests for evaluating how TPUs perform under thermal stress and radiation.\nGoogle has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam.\nThe system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si).\n\"For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second,\" Google researchers said in a paper published earlier this month.\n\"While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy of system-level mitigations, requires further study.\"\nIndeed, the study will continue. Next year, the plan is to test a pair of interconnected satellites. Rather than lofting large satellites into orbit, Google anticipates sending a constellation of many smaller satellites that communicate with one another. ®"
+    }
+   ]
+  },
+  {
    "id": "market-2026-11-01",
    "kind": "market",
    "score": 0,
@@ -4084,66 +4154,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T08:26+00:00",
-     "text": "Bitcoin: $77,845 (+0.7% 24h)\nEthereum: $2,268 (+1.2% 24h)\nSolana: $95.33 (-0.1% 24h)\nToncoin: $1.22 (+3.3% 24h)"
-    }
-   ]
-  },
-  {
-   "id": "lib-notebooklm",
-   "kind": "library",
-   "library_kind": "ai",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Google NotebookLM",
-   "logos": [
-    {
-     "name": "NotebookLM",
-     "domain": "notebooklm.google.com",
-     "wiki": "NotebookLM"
-    }
-   ],
-   "sources": [
-    {
-     "id": "notebooklm",
-     "source": "library",
-     "trust": 3,
-     "url": "https://notebooklm.google.com",
-     "title": "Google NotebookLM",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "NotebookLM is a free Google tool where you upload your own documents, PDFs or notes, then ask questions about them, get summaries, and generate audio overviews based only on your sources. Official link: https://notebooklm.google.com"
-    }
-   ]
-  },
-  {
-   "id": "lib-ollama",
-   "kind": "library",
-   "library_kind": "ai",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Ollama — run AI models on your own computer",
-   "logos": [
-    {
-     "name": "Ollama",
-     "domain": "ollama.com",
-     "wiki": "Ollama"
-    }
-   ],
-   "sources": [
-    {
-     "id": "ollama",
-     "source": "library",
-     "trust": 3,
-     "url": "https://ollama.com",
-     "title": "Ollama — run AI models on your own computer",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Ollama is a free tool to download and run open AI language models locally on your own computer, without sending your data to the internet once the model is downloaded. Official link: https://ollama.com"
+     "published": "2026-11-01T08:57+00:00",
+     "text": "Bitcoin: $78,102 (+1.1% 24h)\nEthereum: $2,273 (+1.5% 24h)\nSolana: $95.74 (+0.5% 24h)\nToncoin: $1.22 (+3.8% 24h)"
     }
    ]
   },
@@ -4173,6 +4185,35 @@
      "extra": {},
      "published": "",
      "text": "Google AI Studio is a free web tool from Google to try and build with Gemini models directly in the browser, with a Google account. Official link: https://aistudio.google.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-ollama",
+   "kind": "library",
+   "library_kind": "ai",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Ollama — run AI models on your own computer",
+   "logos": [
+    {
+     "name": "Ollama",
+     "domain": "ollama.com",
+     "wiki": "Ollama"
+    }
+   ],
+   "sources": [
+    {
+     "id": "ollama",
+     "source": "library",
+     "trust": 3,
+     "url": "https://ollama.com",
+     "title": "Ollama — run AI models on your own computer",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "Ollama is a free tool to download and run open AI language models locally on your own computer, without sending your data to the internet once the model is downloaded. Official link: https://ollama.com"
     }
    ]
   },
