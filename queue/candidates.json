@@ -1,128 +1,6 @@
 {
- "generated_at": "2026-11-01T04:22:12+00:00",
+ "generated_at": "2026-11-01T04:53:07+00:00",
  "clusters": [
-  {
-   "id": "c5d418554a7",
-   "kind": "news",
-   "score": 29.0,
-   "sensitive": true,
-   "distinct_sites": 9,
-   "title_hint": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC Tech",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
-     },
-     "id": "5d418554a770d850",
-     "published": "2026-10-31T02:12+00:00",
-     "text": "- Published\nTwo major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange.\nThe Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis.\nThis incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.\nExperts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.\nThough not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview. The film involves a plot to assassinate Kim.\nThe resulting hack exposed thousands of embarrassing emails exchanged among the studio's top executives.\nLast year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange.\nIn the aftermath of that incident, the agency said TraderTraitor had moved to quickly launder and disperse the stolen assets, converting them to Bitcoin and other digital assets with a goal of eventually turning them into hard currency.\nThe FBI has broadly accused North Korea of \"illicit cybercrime and virtual asset theft activities\".\nThe nation has systematically developed its cyber operations, recruiting the most promising students from universities and channeling them into hacker groups overseen by North Korea's intelligence agency, according to reports.\nSome of the cyberwarfare conducted takes place just over the nation's border in China, according to analysis from tech groups.\nMuch of its hacking activity has centred on monetary gain.\nNorth Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022.\nIn this most recent heist, North Korean agents are accused of using a special authorisation to turn a Binance hot wallet, which is connected to the internet, into one that moved funds automatically to the attacker.\nTRM said it's likely the attacker gained access to Binance's hot wallet signing system as part of the scheme.\nBinance has not directly responded to the BBC's queries about the incident's potential links to the area.\nThe company had initially said it thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.\n\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said.\nSome 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.\nIf the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become – a sign that the tools of the hacking trade have grown sharper.\nExperts say the rise of artificial intelligence has also given threat actors new ways to carry out crime, through automation and other means.\nIn this case, it's plausible that AI was used to infiltrate Binance's systems.\nAs Chainalysis put it, the attacker used laundering patterns \"we have not seen before\"."
-    },
-    {
-     "source": "Bloomberg Tech",
-     "trust": 2,
-     "url": "https://bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
-     "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-     "lang": "en",
-     "extra": {},
-     "id": "eee7e85f90847398",
-     "published": "2026-10-31T21:59+00:00",
-     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance."
-    },
-    {
-     "source": "Financial Times Tech",
-     "trust": 2,
-     "url": "https://ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
-     "title": "FBI blames North Korean group for $6.3bn Binance cyber heist",
-     "lang": "en",
-     "extra": {},
-     "id": "bce01cdef721f4cc",
-     "published": "2026-10-31T22:34+00:00",
-     "text": "Crypto exchanges move to tighten security after record theft from world’s biggest digital assets venue"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/binance-hack-north-korea",
-     "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/23/da771d5f-c037-4b4a-b168-c7fafdec9da3/thumbnail/1200x630/2f49750673e563e6283f5c83343305bf/ap23325643193246.jpg"
-     },
-     "id": "a1c01ba106a31b8e",
-     "published": "2026-10-31T23:20+00:00",
-     "text": "A U.S.-based blockchain intelligence firm said a\ncyber unit was likely behind an attack that stole $6.3 billion from Binance, the world's biggest cryptocurrency exchange.Binance said on Friday that deposits were unaffected, while withdrawals were suspended and are expected to resume in the next day or two. The company, which worked with blockchain partners to freeze roughly $3 billion in affected assets, also said it will cover all customer losses.\nIn a social media post, Binance said that an initial investigation suggested the incident may have involved a compromised laptop, while a subsequent probe uncovered additional \"points of breach.\"\nCrypto industry analysts say the hack against Binance is the largest cyber heist ever.\nWhat is TraderTraitor?\nIn a post on its website Thursday, tech security firm TRM Labs attributed the attack to TraderTraitor, which it described as North Korea's elite hacking unit. \"We make this judgment with high confidence,\" TRM said.\n\"An attacker moved approximately USD 6.36 billion out of Binance wallets on ten blockchains, most of it in about 20 minutes,\" the firm said. That would make the hack the largest cryptocurrency theft on record, it said.\nThe FBI on Saturday also accused TraderTraitor of being behind the attack, saying the hackers have been converting the stolen funds into Ethereum, a popular cryptocurrency.\nThe hackers are preparing the funds for \"further laundering stages,\" the FBI said in a statement.\nIn 2025, TraderTraitor also targeted another crypto exchange, Bybit, in an attack resulting in a $1.5 billion loss, according to the FBI.\n\"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack,\" TRM said.\nJonathan Levin, co-founder and CEO of blockchain research firm Chainalysis, also said on social media that the Binance hack was \"likely done\" by TraderTraitor.\nAnalysts believe that TraderTraitor members are part of a wider North Korean hacking unit known as Lazarus Group, which targets multiple institutions across government, finance and other fields, according to the U.S. Treasury Department.\nThe Justice Department alleged in 2018 that the for an attack on Sony Pictures Entertainment four years earlier that leaked a massive amount of sensitive company data online.\nWorking \"around the clock\"\nBinance said on social media that its \"teams are working around the clock to resolve this issue safely and thoroughly. We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice.\"\nExperts say North Korea has turned to crypto hacking and other illicit cyber activities as a source of badly needed foreign currency to support its troubled economy and fund its nuclear program in the wake of tough U.N. sanctions and other difficulties.\nIn December 2022, South Korea's spy agency said North Korean hackers had stolen an estimated 1.5 trillion won ($1.1 billion) in cryptocurrency and other virtual assets in the past five years, more than half of it in 2022 alone. It said North Korea's capacity to steal digital assets was considered among the best in the world.\nChangpeng Zhao, also known as CZ, founded Binance in 2017. In 2023, he pleaded guilty to a felony linked to failing to prevent money laundering on the platform and stepped down as the company's CEO. President Trump\n.Zhao posted Thursday on social media that \"User funds are safe!\" but added that the theft \"does look like a hack on Binance.\" He added that, wh"
-    },
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/business/2026/11/01/tech/binance-hack-fbi-north-korea",
-     "title": "FBI blames North Korea for $6 billion Binance crypto hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571606.jpg?v=3.1"
-     },
-     "id": "0430f3ab4b2e2e18",
-     "published": "2026-10-31T23:21+00:00",
-     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said Saturday in a statement, referring to the U.S. Secret Service and the criminal division of the Internal Revenue Service. “It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the $6.3 billion and plans to restore withdrawals by Sunday, making progress on a pledge to fully reimburse customers.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack",
-     "title": "FBI blames North Korea for US$6 billion Binance crypto hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/36b2e258e0d2f9a1fac6bcb5182b18cdde5334f79066ddd842e1d2f17c983c4a?w=1200"
-     },
-     "id": "ff3e7a45d1ce8dd6",
-     "published": "2026-10-31T23:33+00:00",
-     "text": "FBI blames North Korea for US$6 billion Binance crypto hack\nAI generated\nWASHINGTON - The FBI said that North Korea was responsible for stealing more than US$6 billion (S$7.67 billion) in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said on Oct 31 in a statement, referring to the US Secret Service and the criminal division of the Internal Revenue Service.\n“It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the US$6.3 billion and plans to restore withdrawals by Nov 1, making progress on a pledge to fully reimburse customers.\nIn a social media post on Oct 31, the world’s biggest crypto exchange reiterated that it will absorb the full impact of the theft so that users won’t suffer any losses.\nThe Binance hack is the largest in cryptocurrency’s history, as well as one of the largest cyber incidents more generally, according to experts. It sent shockwaves through the industry, which has been trying to gain more mainstream adoption.\nNorth Korean hackers are well known for their past attacks against crypto exchanges. They’ve been accused by the FBI and cybersecurity experts of some of the biggest crypto heists in recent years, including the US$1.5 billion Bybit attack in 2025 and the 2022 theft of about US$620 million in cryptocurrency.\nTraderTraitor is an elite North Korean hacking unit that the FBI previously blamed for the Bybit hack.\nEarlier, President Donald Trump had said the US was looking into whether North Korea was involved in the Binance attack.\n“They’re saying they’re guaranteeing it or something,” Trump told reporters on Oct 30 in the Oval Office. “It was a hack. That’s the problem. You know the old-fashioned way when you used to sign a check, take it out. These are different people. Never see the money anymore. So I’ve always felt it was a little bit dangerous.”\nTrump in recent weeks has floated new US outreach to North Korea, suggesting that a potential meeting with its leader, Kim Jong Un, could happen in 2026. Earlier in October, however, Trump downplayed those expectations, saying he was “not sure that anybody’s asking for a meeting.” BLOOMBERG"
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
-     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
-     "lang": "en",
-     "extra": {},
-     "id": "473bd658979d7399",
-     "published": "2026-11-01T00:38+00:00",
-     "text": ""
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
-     "title": "FBI says North Korea behind $6 billion Binance crypto theft",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79819974_6.jpg"
-     },
-     "id": "a73d21e0a0ff967e",
-     "published": "2026-11-01T01:53+00:00",
-     "text": "The FBI said Saturday that North Korea was behind the theft of more than $6 billion (€5.36 billion) in virtual assets from the cryptocurrency exchange Binance.\n\"The Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the US law enforcement agency said in a statement.\nThe theft, which happened within a matter of minutes, is believed to be the biggest cryptocurrency heist in history.\nThe stolen assets included bitcoin, ethereum and stablecoins such as tether and USD Coin, whose values are pegged to traditional currencies.\nNews of the cyberattack caused the prices of most major cryptocurrencies to slump on Friday.\nWhat did the FBI say?\nThe FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe agency said it had \"observed TraderTraitor actors converting stolen assets\" primarily into a cryptocurrency called ethereum.\n\"It is expected these assets will then be further laundered by converting them using DeFi [decentralized finance] and instant swap services as they prepare them for further laundering stages,\" it added.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to ensure the money is not laundered to cover up its origins.\nWhat did Binance say about the heist?\nBinance is the world's largest crypto exchange by daily trading volumes.\nThe exchange said on Saturday it was using company funds worth over $6.34 billion to buy tokens to replenish about 90% of the assets stolen in the attack.\nThe remaining 10% consisted of tokens that were less liquid, meaning they may take longer to buy back, the company said.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nThe heist came amid growing worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
-     "title": "FBI blames North Korea for record $6.3bn crypto heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-30T080136Z_484047327_RC2JDOAHBGKT_RTRMADP_3_FINTECH-CRYPTO-BINANCE-HACK-1793491721.jpg?resize=1920%2C1440"
-     },
-     "id": "09816b77f9ad6760",
-     "published": "2026-11-01T02:28+00:00",
-     "text": "The FBI has linked North Korea to the theft of a record $6.3bn in virtual assets from cryptocurrency exchange Binance.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them primarily into the cryptocurrency Ethereum, the FBI said in a statement on Saturday.\nRecommended Stories\nlist of 3 items- list 1 of 3Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?\n- list 2 of 3Tracking the money: The biggest donors in the 2026 US midterm elections\n- list 3 of 3Russia jails IT worker for 13 years for donating money to Ukraine\nThe US agency blamed the operation specifically on a group called TraderTraitor, the same group blamed for a $1.5bn theft from the Bybit platform in February last year.\nAccording to the statement, the assets are expected to be “further laundered” in stages.\nThe FBI called on virtual asset service providers to block transactions being used in the latest laundering operation, providing the suspected digital addresses to watch for.\nIn a separate statement on Saturday, Binance said it has replaced 90 percent of the amount stolen by using company money to buy new tokens.\nThe remaining 10 percent consists of less liquid tokens, meaning they may take longer to buy, it added.\n“We will continue to buy the remaining relevant token assets… until the covered amount reaches 100 [percent] for all tokens. Binance will absorb the financial impact of these stolen funds, not our users,” the company said on X.\nThe money spent re-buying tokens came from a $1bn Secure Asset Fund for Users (SAFU), a Bitcoin reserve fund Binance holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund and the company’s corporate treasury.\nCrypto prices fell on Friday, as Binance, which runs the world’s largest crypto exchange, sought to reassure customers their funds were safe.\nBinance co-CEO Richard Teng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it hard to trace and investigate.\nAfter the hack, the exchange stopped allowing customers to withdraw their funds.\nBinance said later on Saturday that it was on track to reopen withdrawals on Sunday.\nBinance also announced the publication of a new proof-of-reserves snapshot, allowing users to independently verify that their assets were backed at a minimum 1:1 ratio."
-    }
-   ]
-  },
   {
    "id": "c154d6ff5e1",
    "kind": "news",
@@ -270,27 +148,14 @@
    ]
   },
   {
-   "id": "cca9dc29145",
+   "id": "c7757066858",
    "kind": "news",
-   "score": 23.0,
+   "score": 25.0,
    "sensitive": true,
-   "distinct_sites": 6,
-   "title_hint": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+   "distinct_sites": 7,
+   "title_hint": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
    "official_image": null,
    "sources": [
-    {
-     "source": "Guardian Tech",
-     "trust": 2,
-     "url": "https://theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-     "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.guim.co.uk/img/media/4824d0b9ac9b676f0f7a9915bd1edd46731ae136/366_0_3924_3139/master/3924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e77e2ab765a410506488af7aa68d54f"
-     },
-     "id": "ca9dc291454b05bc",
-     "published": "2026-10-30T16:35+00:00",
-     "text": "The world’s largest cryptocurrency exchange has been hit by a record $6.3bn (£4.7bn) hack described as the biggest heist in history, with experts identifying North Korea as the likely culprit.\nBinance said it would cover all customer losses as it froze $3bn of the affected assets.\nAnalysts said the exchange had been subjected to an unprecedented attack with “never-seen-before” laundering patterns as the hackers made off with assets worth billions of dollars.\nResearchers said the theft was the biggest ever, dwarfing a $1.5bn crypto raid last year and the $1bn taken from Iraq’s central bank by Saddam Hussein in 2003. “This is almost certainly the largest theft of any kind in history,” said Tom Robinson, chief scientist at crypto consultancy Elliptic.\nExperts attributed the attack, which happened late on Thursday, to North Korean state-backed hackers. North Korea has a history of crypto hacking and was behind the theft of about $1.5bn in virtual assets from a Dubai-based cryptocurrency exchange last year, according to the FBI, in the previous record crypto heist.\nTRM, a crypto analysis firm, blamed the attack with “high confidence” on TraderTraitor, North Korea’s elite hacking unit, as did Elliptic and another research outfit, Chainalysis.\nAn initial investigation suggested the breach may have started with a hacked laptop belonging to one of Binance’s engineers, which let an attacker gain access to one of its systems and make unauthorised withdrawals, Binance said. The company added later that there had been “additional points of breach” in a sophisticated attack.\nBinance, which allows users to buy, sell and trade digital assets, has 335 million registered users globally and had about $162.8bn in assets under custody as of the exchange’s 2025 annual report.\nRichard Teng, a co-chief executive of Binance, said: “Bottom line – your money is safe, and we’re covering every loss.” Teng said Binance had set aside $6.34bn to cover stolen assets.\nThe company was founded by the Chinese-born entrepreneur Changpeng Zhao, now a Canadian and United Arab Emirates citizen, who was jailed for four months in 2024 after pleading guilty to money laundering violations. Donald Trump pardoned him in 2025.\nThe company said: “As a precaution, all deposits and withdrawals are temporarily suspended while our security teams conduct checks, secure wallet infrastructure and trace affected assets, with the close support of our law enforcement and industry partners.”\nMarkets reacted immediately in early Asian trading on Friday, and within hours bitcoin – the most popular crypto asset by far – had fallen 5% from its level before news of the hack broke, to $77,380, its lowest level in six weeks.\nZhao posted to X on Thursday: “User funds are safe!” but added that the incident “does look like a hack”. He added that while he did not manage Binance any more, “as a shareholder, I expect all user funds will be fully covered”.\nIn a post on X, Binance reiterated that it was working “to trace, freeze and recover additional funds”, and signed off: “We will weather this storm. Thank you for the support.”\nBeyond the potential loss of assets, the security breach was likely to have wider ramifications for crypto, which had already been under pressure because of higher US interest rates and softer demand from exchange-traded fund buyers, analysts said.\n“It may further dampen risk appetite and prompt investors to reassess the safety of assets held on centralised exchanges,” said Tim Sun, "
-    },
     {
      "source": "BBC World",
      "trust": 2,
@@ -305,17 +170,39 @@
      "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a \"complex\" hack, after $6.3bn (£4.7bn) was accessed in what is believed to be a record heist.\nThe firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers. It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.\nSeveral analytics firms have linked the hack, which eclipses a $1.5bn (£1.12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.\nThe US Secret Service said it was \"working around the clock\" \"to identify, freeze, trace, and recover\" stolen funds.\nAmerica's lead federal agency for investigating financial crimes added that it would \"identify the cyber criminals responsible and bring them to justice\", while Binance also said it was working with the FBI.\nWhile Binance said its US-facing exchange was unaffected, the US would still have jurisdiction to investigate the hack and help track down stolen funds - an effort which generally involves a global law enforcement effort.\nThe hack also involved some US-linked assets, such as stablecoins Tether and Circle – cryptocurrencies pegged to the dollar.\nBinance told its users \"your money is safe, and we're covering every loss\".\nIt had initially suspended all deposits and withdrawals - but then said in an update that \"deposits remain unaffected\".\nBinance's co-CEO Richard Teng said: \"This was not carried out by one person. Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach.\"\nTeng also describes how the hackers used \"a self-destruct mechanism that destroyed tooling and traces as they went, making it more difficult for us to trace and investigate\".\nInitially, the company had indicated the breach \"may have started with a compromised DevOps engineer's laptop\" but later statements have pointed to a broader breach.\nIn a later update, the firm said it had \"set aside\" more than $6.34B in company funds to cover the stolen assets and was \"actively buying\" a range of crypto tokens.\nThe Binance hack spooked cryptocurrency markets on Friday. The price of Bitcoin was down 5% to $76,800 in Friday afternoon trading in New York.\nCryptocurrency exchange Coinbase was down 12% as investors also reacted to earnings results in which the firm reported revenue slightly below expectations. Robinhood, a financial services company that trades in cryptocurrency, was down 7.8%.\nBinance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.\nThe company said in 2024 that it had more than $160bn in assets under its custody.\nA lot of the fear right now from Binance users - and the crypto industry at large - is whether or not Binance will actually be capable of covering this enormous financial loss.\nThe company has said repeatedly that customer funds will be covered and that the firm is strong enough to weather the storm.\nBut crypto history watchers have been pointing out online that this is exactly the kind of message that FTX CEO Sam Bankman-Fried gave before his crypto exchange collapsed in 2022, leading to huge losses for customers and the industry.\nSeveral experts have warned customers not to regard Binance's promise to cov"
     },
     {
-     "source": "Decrypt",
+     "source": "BBC Tech",
      "trust": 2,
-     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
-     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+     "url": "https://bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
      "lang": "en",
      "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
      },
-     "id": "d081c8674a69f198",
-     "published": "2026-10-31T15:01+00:00",
-     "text": "In brief\n- Attackers stole roughly $6.4 billion from Binance on Thursday in the largest crypto hack ever, more than four times the previous record.\n- Binance says it will cover all losses with company funds and its emergency reserve, having set aside more than $6.34 billion.\n- Here's how it happened and what's being done about it.\nCrypto just suffered the largest hack in its history.\nOn Thursday, attackers drained roughly $6.4 billion from Binance, the world’s largest cryptocurrency exchange, in a breach that dwarfs every theft before it and has triggered a cross-border law-enforcement investigation, a scramble by stablecoin issuers to freeze funds, and a tense wait for millions of users.\nHere’s what’s known about the Binance hack so far.\nWhat happened\nThe theft began at about 4:05 p.m. ET on Thursday, after U.S. markets had closed, when attackers moved funds out of Binance hot wallets across roughly 10 blockchains, most of it within about 20 minutes.\nBlockchain analytics firms Chainalysis and TRM Labs put the total at around $6.4 billion, more than four times the previous record, February 2025’s $1.5 billion Bybit heist.\nCrucially, the attack targeted Binance’s own infrastructure, not the blockchains themselves. Binance initially traced the breach to a compromised laptop belonging to a DevOps engineer, which may have let the attacker reach a service container and submit unauthorized withdrawals.\nThe exchange has since said its investigation uncovered “additional points of breach,” with CEO Richard Teng describing “a more complex attack process” that “did not simply use one engineer’s permissions.” Binance said it found no evidence that wallet private keys were leaked, and that the attacker used a self-destruct mechanism to wipe tooling and traces along the way.\nThe Ethereum wrinkle\nOn Ethereum, the attacker leaned on EIP-7702, a feature introduced in 2025 that lets ordinary wallets temporarily run smart-contract code.\nUsing 50 pre-signed authorizations, the attacker turned a Binance hot wallet into a “sweeper” contract and drained its assets, according to TRM Labs.\nTeng said that delegation “did not pass through our normal approval controls.” The episode didn’t expose a flaw in Ethereum itself, but rather, TRM said, pointed to a compromise of Binance’s signing infrastructure.\nWho’s behind it\nTRM Labs and Chainalysis both attributed the hack to TraderTraitor, a North Korean state-linked group also blamed for the Bybit heist.\nAfter that attack, the group converted roughly 84% of the stolen Ethereum into Bitcoin via the cross-chain network Thorchain. The attribution pushes North Korea’s 2026 crypto haul well past $1 billion, and the Binance figure alone would dwarf the rest.\nWhat Binance is doing\nTeng said Binance will cover every dollar of the losses with company funds and its Secure Asset Fund for Users, an emergency reserve, stressing that customer assets were never touched.\nThe exchange has set aside more than $6.34 billion, about $5 billion of it already held in the exact tokens stolen, including BTC, ETH, BNB, USDC, and USDT, and is buying the rest on the open market and over the counter.\nBinance paused withdrawals to rebuild and retest its systems, is running a full security review, and aims to restore withdrawals by Sunday while publishing a complete proof of reserves by Monday. Deposits are operating normally.\nThe freeze, and what’s still loose\nStablecoin issuers moved fast following the initial reports of a suspected attack, unl"
+     "id": "5d418554a770d850",
+     "published": "2026-10-31T02:12+00:00",
+     "text": "- Published\nTwo major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange.\nThe Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis.\nThis incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.\nExperts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.\nThough not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview. The film involves a plot to assassinate Kim.\nThe resulting hack exposed thousands of embarrassing emails exchanged among the studio's top executives.\nLast year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange.\nIn the aftermath of that incident, the agency said TraderTraitor had moved to quickly launder and disperse the stolen assets, converting them to Bitcoin and other digital assets with a goal of eventually turning them into hard currency.\nThe FBI has broadly accused North Korea of \"illicit cybercrime and virtual asset theft activities\".\nThe nation has systematically developed its cyber operations, recruiting the most promising students from universities and channeling them into hacker groups overseen by North Korea's intelligence agency, according to reports.\nSome of the cyberwarfare conducted takes place just over the nation's border in China, according to analysis from tech groups.\nMuch of its hacking activity has centred on monetary gain.\nNorth Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022.\nIn this most recent heist, North Korean agents are accused of using a special authorisation to turn a Binance hot wallet, which is connected to the internet, into one that moved funds automatically to the attacker.\nTRM said it's likely the attacker gained access to Binance's hot wallet signing system as part of the scheme.\nBinance has not directly responded to the BBC's queries about the incident's potential links to the area.\nThe company had initially said it thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.\n\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said.\nSome 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.\nIf the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become – a sign that the tools of the hacking trade have grown sharper.\nExperts say the rise of artificial intelligence has also given threat actors new ways to carry out crime, through automation and other means.\nIn this case, it's plausible that AI was used to infiltrate Binance's systems.\nAs Chainalysis put it, the attacker used laundering patterns \"we have not seen before\"."
+    },
+    {
+     "source": "Bloomberg Tech",
+     "trust": 2,
+     "url": "https://bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+     "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
+     "lang": "en",
+     "extra": {},
+     "id": "eee7e85f90847398",
+     "published": "2026-10-31T21:59+00:00",
+     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance."
+    },
+    {
+     "source": "Financial Times Tech",
+     "trust": 2,
+     "url": "https://ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+     "title": "FBI blames North Korean group for $6.3bn Binance cyber heist",
+     "lang": "en",
+     "extra": {},
+     "id": "bce01cdef721f4cc",
+     "published": "2026-10-31T22:34+00:00",
+     "text": "Crypto exchanges move to tighten security after record theft from world’s biggest digital assets venue"
     },
     {
      "source": "The Independent",
@@ -342,6 +229,19 @@
      "text": "- The FBI expects that TraderTraitor will now attempt to convert the assets using DeFi and “instant swap services”\nNEW YORK: The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI said Saturday.\nThe bureau said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called ethereum. The FBI expects that TraderTraitor will now attempt to convert the assets using DeFi and “instant swap services.”\nOn Thursday, $6.3 billion in bitcoin and other digital currency was stolen from Binance, the world’s largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe company said Saturday that it had enough set aside in the same digital currency that was stolen to cover 90 percent of the missing assets and promised that customers would be fully reimbursed."
     },
     {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
+     "title": "FBI blames North Korea for record $6.3bn crypto heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-30T080136Z_484047327_RC2JDOAHBGKT_RTRMADP_3_FINTECH-CRYPTO-BINANCE-HACK-1793491721.jpg?resize=1920%2C1440"
+     },
+     "id": "09816b77f9ad6760",
+     "published": "2026-11-01T02:28+00:00",
+     "text": "The FBI has linked North Korea to the theft of a record $6.3bn in virtual assets from cryptocurrency exchange Binance.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them primarily into the cryptocurrency Ethereum, the FBI said in a statement on Saturday.\nRecommended Stories\nlist of 3 items- list 1 of 3Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?\n- list 2 of 3Tracking the money: The biggest donors in the 2026 US midterm elections\n- list 3 of 3Russia jails IT worker for 13 years for donating money to Ukraine\nThe US agency blamed the operation specifically on a group called TraderTraitor, the same group blamed for a $1.5bn theft from the Bybit platform in February last year.\nAccording to the statement, the assets are expected to be “further laundered” in stages.\nThe FBI called on virtual asset service providers to block transactions being used in the latest laundering operation, providing the suspected digital addresses to watch for.\nIn a separate statement on Saturday, Binance said it has replaced 90 percent of the amount stolen by using company money to buy new tokens.\nThe remaining 10 percent consists of less liquid tokens, meaning they may take longer to buy, it added.\n“We will continue to buy the remaining relevant token assets… until the covered amount reaches 100 [percent] for all tokens. Binance will absorb the financial impact of these stolen funds, not our users,” the company said on X.\nThe money spent re-buying tokens came from a $1bn Secure Asset Fund for Users (SAFU), a Bitcoin reserve fund Binance holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund and the company’s corporate treasury.\nCrypto prices fell on Friday, as Binance, which runs the world’s largest crypto exchange, sought to reassure customers their funds were safe.\nBinance co-CEO Richard Teng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it hard to trace and investigate.\nAfter the hack, the exchange stopped allowing customers to withdraw their funds.\nBinance said later on Saturday that it was on track to reopen withdrawals on Sunday.\nBinance also announced the publication of a new proof-of-reserves snapshot, allowing users to independently verify that their assets were backed at a minimum 1:1 ratio."
+    },
+    {
      "source": "Google News Business EN",
      "trust": 1,
      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkM3dmhycV92Tk5Oa2xmTVhpMUI3RnluVVRpV1dlUGtIVXo4NjBqX0RDcjlLVW5FaGN4TGhZOXpEMlhBbzhzZ0gteVMwWUx2dVFoVzhnMzkxeU5tZzlDaHpZZE5LUVMxYllLTVBfTzhTcEZMaTl4eXhKT2l4ekwxWFFWOHc3bjJrWXhHRkVQQTFhOUNXMzlJSGQyZw?oc=5",
@@ -353,13 +253,111 @@
      "id": "f83ed08647ad06e5",
      "published": "2026-11-01T01:28+00:00",
      "text": "- FBI blames North Korea for stolen billions from Binance in biggest hack in history AP News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post\n- Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday CNBC"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Bma2xxdW43TWpaNFB0MnVLS3FVUGt4SVIxb1gyVzNHeFRWcWlhb19WdnRxTnF1eFl4ak1VMEJJQ2RadHdWOVI4Rk5NbHVPY2t1Z1U5M2FhLTF5bzVkYVg0bWRSVWd4UzBhY1lVcWdCR0d2Q2RBRFJNVTdkU2pZQng1Mm9vUU9WM2J0UzQ1eFRiWFN0WDkya9IBngFBVV95cUxNYXROV2xtZ2I2aWVDbnpuQVdtbkF6UXJfSVdpbkdkVmN2ZDd4dlBlYndDOTl3V2lDdGxvTDdRem9Ka0d2MEZtWF9kcTdRQ2dxckxLcGV2UmFGenpwTk1RWi1jYnJXR1ZfRXJiWHpuRXJRTmQ2X2NxNnB0aWJXeUZCXzVjQkdQSHhud1BuTG9mbHNiemlYVEF3Q0hOeGFRQQ?oc=5",
+     "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance - Al Jazeera",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "8717c959751eb1f9",
+     "published": "2026-11-01T02:40+00:00",
+     "text": "- FBI blames North Korea for record $6.3bn crypto heist from Binance Al Jazeera\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stealing billions from world’s largest crypto firm The Times of Israel\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance says it has covered $6 billion of $6.3 billion stolen in hack Reuters"
+    }
+   ]
+  },
+  {
+   "id": "ca1c01ba106",
+   "kind": "news",
+   "score": 23.0,
+   "sensitive": true,
+   "distinct_sites": 6,
+   "title_hint": "$6.3 billion Binance hack likely work of North Korea, experts say",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/binance-hack-north-korea",
+     "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/23/da771d5f-c037-4b4a-b168-c7fafdec9da3/thumbnail/1200x630/2f49750673e563e6283f5c83343305bf/ap23325643193246.jpg"
+     },
+     "id": "a1c01ba106a31b8e",
+     "published": "2026-10-31T23:20+00:00",
+     "text": "A U.S.-based blockchain intelligence firm said a\ncyber unit was likely behind an attack that stole $6.3 billion from Binance, the world's biggest cryptocurrency exchange.Binance said on Friday that deposits were unaffected, while withdrawals were suspended and are expected to resume in the next day or two. The company, which worked with blockchain partners to freeze roughly $3 billion in affected assets, also said it will cover all customer losses.\nIn a social media post, Binance said that an initial investigation suggested the incident may have involved a compromised laptop, while a subsequent probe uncovered additional \"points of breach.\"\nCrypto industry analysts say the hack against Binance is the largest cyber heist ever.\nWhat is TraderTraitor?\nIn a post on its website Thursday, tech security firm TRM Labs attributed the attack to TraderTraitor, which it described as North Korea's elite hacking unit. \"We make this judgment with high confidence,\" TRM said.\n\"An attacker moved approximately USD 6.36 billion out of Binance wallets on ten blockchains, most of it in about 20 minutes,\" the firm said. That would make the hack the largest cryptocurrency theft on record, it said.\nThe FBI on Saturday also accused TraderTraitor of being behind the attack, saying the hackers have been converting the stolen funds into Ethereum, a popular cryptocurrency.\nThe hackers are preparing the funds for \"further laundering stages,\" the FBI said in a statement.\nIn 2025, TraderTraitor also targeted another crypto exchange, Bybit, in an attack resulting in a $1.5 billion loss, according to the FBI.\n\"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack,\" TRM said.\nJonathan Levin, co-founder and CEO of blockchain research firm Chainalysis, also said on social media that the Binance hack was \"likely done\" by TraderTraitor.\nAnalysts believe that TraderTraitor members are part of a wider North Korean hacking unit known as Lazarus Group, which targets multiple institutions across government, finance and other fields, according to the U.S. Treasury Department.\nThe Justice Department alleged in 2018 that the for an attack on Sony Pictures Entertainment four years earlier that leaked a massive amount of sensitive company data online.\nWorking \"around the clock\"\nBinance said on social media that its \"teams are working around the clock to resolve this issue safely and thoroughly. We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice.\"\nExperts say North Korea has turned to crypto hacking and other illicit cyber activities as a source of badly needed foreign currency to support its troubled economy and fund its nuclear program in the wake of tough U.N. sanctions and other difficulties.\nIn December 2022, South Korea's spy agency said North Korean hackers had stolen an estimated 1.5 trillion won ($1.1 billion) in cryptocurrency and other virtual assets in the past five years, more than half of it in 2022 alone. It said North Korea's capacity to steal digital assets was considered among the best in the world.\nChangpeng Zhao, also known as CZ, founded Binance in 2017. In 2023, he pleaded guilty to a felony linked to failing to prevent money laundering on the platform and stepped down as the company's CEO. President Trump\n.Zhao posted Thursday on social media that \"User funds are safe!\" but added that the theft \"does look like a hack on Binance.\" He added that, wh"
+    },
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/business/2026/11/01/tech/binance-hack-fbi-north-korea",
+     "title": "FBI blames North Korea for $6 billion Binance crypto hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571606.jpg?v=3.1"
+     },
+     "id": "0430f3ab4b2e2e18",
+     "published": "2026-10-31T23:21+00:00",
+     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said Saturday in a statement, referring to the U.S. Secret Service and the criminal division of the Internal Revenue Service. “It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the $6.3 billion and plans to restore withdrawals by Sunday, making progress on a pledge to fully reimburse customers.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack",
+     "title": "FBI blames North Korea for US$6 billion Binance crypto hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/36b2e258e0d2f9a1fac6bcb5182b18cdde5334f79066ddd842e1d2f17c983c4a?w=1200"
+     },
+     "id": "ff3e7a45d1ce8dd6",
+     "published": "2026-10-31T23:33+00:00",
+     "text": "FBI blames North Korea for US$6 billion Binance crypto hack\nAI generated\nWASHINGTON - The FBI said that North Korea was responsible for stealing more than US$6 billion (S$7.67 billion) in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said on Oct 31 in a statement, referring to the US Secret Service and the criminal division of the Internal Revenue Service.\n“It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the US$6.3 billion and plans to restore withdrawals by Nov 1, making progress on a pledge to fully reimburse customers.\nIn a social media post on Oct 31, the world’s biggest crypto exchange reiterated that it will absorb the full impact of the theft so that users won’t suffer any losses.\nThe Binance hack is the largest in cryptocurrency’s history, as well as one of the largest cyber incidents more generally, according to experts. It sent shockwaves through the industry, which has been trying to gain more mainstream adoption.\nNorth Korean hackers are well known for their past attacks against crypto exchanges. They’ve been accused by the FBI and cybersecurity experts of some of the biggest crypto heists in recent years, including the US$1.5 billion Bybit attack in 2025 and the 2022 theft of about US$620 million in cryptocurrency.\nTraderTraitor is an elite North Korean hacking unit that the FBI previously blamed for the Bybit hack.\nEarlier, President Donald Trump had said the US was looking into whether North Korea was involved in the Binance attack.\n“They’re saying they’re guaranteeing it or something,” Trump told reporters on Oct 30 in the Oval Office. “It was a hack. That’s the problem. You know the old-fashioned way when you used to sign a check, take it out. These are different people. Never see the money anymore. So I’ve always felt it was a little bit dangerous.”\nTrump in recent weeks has floated new US outreach to North Korea, suggesting that a potential meeting with its leader, Kim Jong Un, could happen in 2026. Earlier in October, however, Trump downplayed those expectations, saying he was “not sure that anybody’s asking for a meeting.” BLOOMBERG"
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "473bd658979d7399",
+     "published": "2026-11-01T00:38+00:00",
+     "text": ""
+    },
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+     "lang": "en",
+     "extra": {},
+     "id": "aa099f38eae6d838",
+     "published": "2026-11-01T01:10+00:00",
+     "text": ""
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+     "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79819974_6.jpg"
+     },
+     "id": "a73d21e0a0ff967e",
+     "published": "2026-11-01T01:53+00:00",
+     "text": "The FBI said Saturday that North Korea was behind the theft of more than $6 billion (€5.36 billion) in virtual assets from the cryptocurrency exchange Binance.\n\"The Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the US law enforcement agency said in a statement.\nThe theft, which happened within a matter of minutes, is believed to be the biggest cryptocurrency heist in history.\nThe stolen assets included bitcoin, ethereum and stablecoins such as tether and USD Coin, whose values are pegged to traditional currencies.\nNews of the cyberattack caused the prices of most major cryptocurrencies to slump on Friday.\nWhat did the FBI say?\nThe FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe agency said it had \"observed TraderTraitor actors converting stolen assets\" primarily into a cryptocurrency called ethereum.\n\"It is expected these assets will then be further laundered by converting them using DeFi [decentralized finance] and instant swap services as they prepare them for further laundering stages,\" it added.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to ensure the money is not laundered to cover up its origins.\nWhat did Binance say about the heist?\nBinance is the world's largest crypto exchange by daily trading volumes.\nThe exchange said on Saturday it was using company funds worth over $6.34 billion to buy tokens to replenish about 90% of the assets stolen in the attack.\nThe remaining 10% consisted of tokens that were less liquid, meaning they may take longer to buy back, the company said.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nThe heist came amid growing worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols."
     }
    ]
   },
   {
    "id": "c2b51d8c5bc",
    "kind": "news",
-   "score": 21.5,
+   "score": 20.5,
    "sensitive": true,
    "distinct_sites": 5,
    "title_hint": "Anthropic Blocks AI Game Clones in Claude Opus Update",
@@ -504,7 +502,7 @@
    ]
   },
   {
-   "id": "cd15b79a959",
+   "id": "c593d92c141",
    "kind": "news",
    "score": 17.5,
    "sensitive": false,
@@ -528,15 +526,61 @@
     {
      "source": "Sky Sports Football",
      "trust": 2,
-     "url": "https://skysports.com/f1/news/12040/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
-     "title": "Antonelli feeling 'tense' amid effort to seal F1 title",
+     "url": "https://skysports.com/f1/live-blog/12040/13605837/f1-mexico-city-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-autodromo-hermanos-rodriguez",
+     "title": "Mexico City GP: Antonelli 'a bit tense' as he closes in on world title",
      "lang": "en",
      "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-f1-kimi-antonelli_7393584.jpg?20261101003807"
+      "page_image": "https://e0.365dm.com/26/10/1600x900/skysports-liam-lawson-formula-one_7393575.jpg?20261031235858"
      },
-     "id": "d15b79a9597969c0",
-     "published": "2026-11-01T00:45+00:00",
-     "text": "Kimi Antonelli: Mercedes driver admits to feeling 'tense' amid effort to seal F1 title at Mexico City Grand Prix\nKimi Antonelli needs top-nine finish to become world champion at Mexico City Grand Prix; he only qualified fifth and was off the pace compared to Mercedes team-mate George Russell; watch Sunday's race at 8pm (build-up from 6.30pm), live on Sky Sports F1\nSunday 1 November 2026 00:48, UK\nKimi Antonelli has admitted to feeling \"more tense than usual\" ahead of attempting to seal the Formula 1 world championship at Sunday's Mexico City Grand Prix.\nThe 20-year-old only needs to finish ninth in the race to become the sport's youngest world champion.\nAntonelli qualified fifth on Saturday but will start from fourth on the grid due to a penalty for Max Verstappen.\n- How Kimi Antonelli can win world title in Mexico on Sunday\n- Mexico City GP schedule | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts\n- Latest Sky Sports deals or stream F1 with no contract\nSpeaking after the session, the Italian revealed that he is not feeling his best as he continues to recover from an illness that caused him to miss his media duties on Thursday.\nHe told Sky Sports F1: \"It has not been the easiest weekend to be fair.\n\"Definitely still not feeling 100 per cent. There is talk of what could happen [with the championship] and definitely I'm a bit more tense than usual.\n\"Definitely I don't feel as relaxed but I try to have a good sleep tonight and focus on tomorrow.\"\nDespite his condition, Antonelli was still able to produce a decent final lap in qualifying as he finished within two tenths of pole-sitter Lewis Hamilton.\nHowever, the fact that his team-mate George Russell was only marginally behind Hamilton in second perhaps reflected the Italian not being able to summon his best level.\nAntonelli added: \"I struggled to get a good feeling from the tyres in Q3. I just didn't have the most confidence. I was a bit tense, I am not going to lie.\n\"It was a poor lap, many mistakes here and there. Overall, still P4 and a lot to play for tomorrow.\"\n'It's insane!' - Norris happy to pass No 1 onto Antonelli\nLando Norris says he is \"more than happy\" to pass the number one he has had on his McLaren this year to Antonelli when the Mercedes driver replaces him as world champion.\nAntonelli has massively exceeded expectations during just his second season in F1 to comprehensively outperform Russell, who began the year as the clear title favourite.\n\"He's done an incredible job and done it in a pretty incredible way,\" Norris said ahead of the race weekend in Mexico.\n\"People are saying he hasn't had any tough competition this year. That proves the point that he's done such an incredible job.\n\"He's got a very, very talented team-mate that he's beaten through the whole season.\n\"I have nothing but respect for Kimi. He's a very nice guy. We get along very well and I'm more than happy to pass the No 1 over to him.\n\"He deserves it. He's done an incredible job, especially in his second year in Formula 1. Youngest world champion, it's pretty insane.\n\"I enjoy other people having that kind of success. It's nice to see.\"\nSunday November 1\n6.30pm: Grand Prix Sunday: Mexico City GP build-up\n8pm: THE MEXICO CITY GRAND PRIX*\n10pm: Chequered Flag: Mexico City GP reaction\n11pm: Ted's Notebook\n*also on Sky Sports Main Event\nFormula 1 is in Mexico City where Kimi Antonelli could win the Drivers' Championship in Sunday's race at 8pm (build-up from 6.30pm), "
+     "id": "593d92c1419ff692",
+     "published": "2026-10-30T17:00+00:00",
+     "text": "Sunday 1 November 2026 01:25, UK"
+    }
+   ]
+  },
+  {
+   "id": "c8703aea988",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Cointelegraph",
+     "trust": 2,
+     "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
+     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png"
+     },
+     "id": "8703aea9881e82c3",
+     "published": "2026-10-31T15:36+00:00",
+     "text": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals\nLess-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.\nBinance said Saturday it had replenished 90% of the assets stolen in its $6.3 billion hack, up from 80% a day earlier, and remained on track to resume withdrawals Sunday.\nThe exchange is using a combination of its corporate treasury, a partial deployment of its Secure Asset Fund for Users (SAFU) and a portion of its futures insurance fund, a spokesperson told Cointelegraph.\n“Binance will absorb the financial impact of the stolen funds, not users,” the spokesperson said, adding that the insurance fund would remain above required risk management levels.\nThe update follows Thursday’s theft, the largest cryptocurrency hack on record, which TRM Labs has since attributed to North Korea’s TraderTraitor hacker group.\nFollowing the hack, Binance said Friday it had set aside $6.34 billion to cover losses, including $5 billion in the affected cryptocurrencies. Industry partners like Tether and Circle froze about $3 billion in affected assets after the hack, but those funds are separate from Binance’s replacement of stolen tokens.\nStill, CertiK told Cointelegraph on Friday that it needed more information to verify Binance’s claimed $5 billion in replacement cryptocurrencies. Binance has since published a new reserves snapshot, but says the full cryptographic proof is still being generated. “The full zero-knowledge proof takes approximately 40 to 50 hours to generate due to the computational workload,” the exchange’s update reads.\nBinance said in its update on X that customer balances in Bitcoin (BTC), Ether (ETH) and eight other assets were fully backed. The remaining shortfall consists of less liquid tokens that it continues to buy through market and over-the-counter transactions, the update reads.\nThe spokesperson’s statement did not specify how much each funding source contributed or disclose the insurance fund’s minimum required balance. It also did not quantify how much stolen crypto had been recovered.\nRead Cointelegraph’s full coverage of the Binance hack here.\nMagazine: Binance hackers raced to move billions before it could be frozen"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1taFlQaHdFNi1RVmtQVXRPdlBsUE1oSHE5Y2dyMFR5dDAzaWRQTDJrUlBxb19LRlRjREhSTGU0d3JISVU0a3JkZHI2OXdVeTVENGstYXpLbXJDeTJxXzJZSVI1ZjY5UGRfRlFicGU4YmFpWWdnVFZNaHk4Nmk3N1U?oc=5",
+     "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’ - The Verge",
+     "lang": "en",
+     "extra": {},
+     "id": "ae82310ec26b4ee6",
+     "published": "2026-10-31T18:40+00:00",
+     "text": "Binance CEO says 90 percent of stolen assets have been ‘replenished’\nThe Verge\nSee more headlines & perspectives on Google News"
+    },
+    {
+     "source": "Slashdot",
+     "trust": 1,
+     "url": "https://news.slashdot.org/story/26/11/01/0129237/binance-replenishes-90-of-stolen-63b-pledges-theyll-cover-it-all-reopen-sunday",
+     "title": "Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday",
+     "lang": "en",
+     "extra": {},
+     "id": "dc9fd0e56b91bd47",
+     "published": "2026-11-01T01:34+00:00",
+     "text": "\"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%,\" Binance co-CEO Richard Teng posted on X, adding that \"Our users will not bear the financial impact of this incident.\"\n\"Binance said it was able to replace the funds taken in the record hack by using company money to buy new tokens,\" reports NBC News:\nThe remaining 10% consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X... Binance said it has set aside around $6.34 billion of company funds internally to cover the losses. The money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nNBC News reports that the FBI blames the breach on a North Korea-sponsored group known as TraderTraitor:\nMembers of [TraderTraitor] were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology... After the hack, the exchange stopped allowing customers to withdraw their funds, but it said Saturday it was still on track to reopen withdrawals Sunday.\nCNBC reports:\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\nThe New York Times describes what happened when Binance first spotted \"a multibillion-dollar deluge of digital coins\" pouring out of its accounts:\nAs the news spread, Binance's top executives put together an informal war room on Wea, the company's internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel. They eventually transitioned to a mass conference call, with 100 boxes on the screen, where employees took turns muting and then unmuting, communicating in a mixture of English and Chinese. Among them was He Yi, Binance's co-chief executive, who is seven months pregnant, and worked through the night from her base in Abu Dhabi, taking a call at 3 a.m. local time....\nMuch of the drama played out in public. Almost all crypto transactions are recorded on the blockchain, a ledger of money movements that anyone can look up. That meant crypto analysts could see funds leaving Binance in real time... North Koreans have targeted crypto companies for years, using the proceeds of those thefts to fund its nuclear program, according to Western officials. The hackers have developed increasingly complex strategies to steal crypto and launder the proceeds, a painstaking endeavor that can take months to complete. In a blog post on Friday, Chainalysis said the attackers had deployed \"laundering patterns we have not seen before,\" conducting thousands of transactions over a short period, probably with the help of automation.\nAt the same time, Binance's colleagues in the industry mobilized to intercept some of the laundered crypto. Certain digital coin issuers can freeze funds, allowing them to halt a money-laundering operation in its tracks. Soon after the hack, T"
     }
    ]
   },
@@ -583,6 +627,50 @@
      "id": "5f7f039e8200a24e",
      "published": "2026-11-01T00:40+00:00",
      "text": "Lewis Hamilton says it's a 'dream' to emulate Michael Schumacher after claiming his first Ferrari pole at the Mexico City GP\nLewis Hamilton became F1's oldest pole-sitter in 44 years after claiming his first Ferrari pole at the Mexico City Grand Prix; the result secured a record-extending 105th career pole for the Brit; watch Sunday's race at 8pm (build-up from 6.30pm), live on Sky Sports F1\nSunday 1 November 2026 00:48, UK\nLewis Hamilton said he had achieved his \"dream\" of emulating Michael Schumacher after claiming his first pole position for Ferrari at the Mexico City Grand Prix.\nThe 41-year-old unexpectedly snatched pole from Mercedes' George Russell in a thrilling end to qualifying to take his first pole in over three years and extend his record career pole tally to 105.\nHamilton and Schumacher share the sport's record for the most Drivers' Championships with seven each, but while the Brit won one title with McLaren and the other six with Mercedes, the bulk of Schumacher's success came at Ferrari as he won five in a row from 2000 to 2004.\n- How Antonelli can win world title at Mexico City GP on Sunday\n- Mexico City GP Schedule | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts\n- Not got Sky? Latest Sky Sports deals or stream F1 with no contract 📺\nHamilton told Sky Sports F1: \"To get the pole, finally get a pole for Ferrari, just takes me back to when I was a kid and sitting on the sofa and watching Michael get those poles, thinking 'how cool would it be to do that?'\"\n\"It was a dream my family have shared with me and I know so many people in the world grew up watching Michael.\n\"To be at this point of my career and still have this special feeling - 105 [poles], the number doesn't mean much in a sense, it feels like the first.\n\"I spoke a couple years ago about getting to have a first. It feels like when you get to 40 they are all gone, but I'm having those firsts this year and I'm in a really good place.\"\n2009 F1 world champion and Hamilton's former team-mate Jenson Button said he noticed how confident the Ferrari driver looked in Q3.\nHamilton had been four tenths off the pace of his team-mate Charles Leclerc after the first runs in Q3, but then produced his best lap of the weekend when it mattered most.\n\"Watching that lap back, he was so smooth,\" Button said.\n\"There was one moment were he got a bit of oversteer but apart from that he is driving within the limits. I think that's the big positive.\"\nCan Hamilton win the Mexico City GP?\nHamilton, who is the oldest pole-sitter since Mario Andretti in 1982, starts on the front row alongside Russell - the only two drivers who can prevent Kimi Antonelli from becoming world champion on Sunday.\nAntonelli only needs to finish in the top nine to become champion but, should he come 10th or fail to score any points, victory for Hamilton or Russell would delay the inevitable for another round.\nThe long run down to Turn 1 at the Autodromo Hermanos Rodriguez always creates jeopardy and the pole-sitter has the disadvantage of towing trailing cars down the long straight.\nHamilton, whose only Grand Prix win for Ferrari came in Barcelona earlier this year, says it will be a \"big challenge\" to keep Russell and Leclerc behind, but that he will make his car \"as wide as possible\".\n\"It's a long run down to Turn 1 - very tough,\" he said.\n\"It's not a bad place to be in first but people can tow you. Lando did a really good job last year so I have to try and do what he d"
+    }
+   ]
+  },
+  {
+   "id": "c2e8385a7cb",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance hit by 6.3 billion dollar crypto theft",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
+     "title": "Binance hit by 6.3 billion dollar crypto theft",
+     "lang": "en",
+     "extra": {},
+     "id": "2e8385a7cb01e943",
+     "published": "2026-10-31T11:16+00:00",
+     "text": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from users, with analysts pointing the finger at North Korea. The attack far surpasses the previous record set in February 2025, when hackers stole $1.5 billion from crypto exchange Bybit."
+    },
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+     "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+     "lang": "en",
+     "extra": {},
+     "id": "cecf37c22f0f01d1",
+     "published": "2026-10-31T15:24+00:00",
+     "text": ""
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+     "lang": "en",
+     "extra": {},
+     "id": "e207e0cfa1d8938e",
+     "published": "2026-10-31T18:11+00:00",
+     "text": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.\n(Image credit: Justin Sullivan)"
     }
    ]
   },
@@ -714,6 +802,65 @@
    ]
   },
   {
+   "id": "cf33d51281f",
+   "kind": "news",
+   "score": 15.5,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Persona 1 Remake Footage Seemingly Leaks Online",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723990",
+     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
+     "lang": "en",
+     "extra": {},
+     "id": "9263f0dba98cfec2",
+     "published": "2026-10-31T20:40+00:00",
+     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
+     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
+     "lang": "en",
+     "extra": {},
+     "id": "f33d51281fd2f187",
+     "published": "2026-10-31T20:21+00:00",
+     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXFZdDZ1Uld6d0lqc2k5d0phQkE5MXJ4dXZ4aWVxT2ZSTWExNzlBZ2NyZmxkRnNFX2x3MGJubHNBd0IyYXBiSl84blR3YzJ5NEkxbVFRWkxJZVRXOEthd2I0RDRTM2xwWTJiSHBKbGg2QW9ZcXlhYUZrdERsV1R4RW53?oc=5",
+     "title": "Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online - IGN",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "c331f4a376395fd2",
+     "published": "2026-10-31T20:21+00:00",
+     "text": "- Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online IGN\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Rumor: Persona remake footage appears online Gematsu"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWRqdF9Za2VyV3NPX1RSMGdsQVl4Ukd1OWVTTzNJT3FQazR4NWltLVE4VjVudTVnSmF3aDFnVlBSTEo3U2p4bE5KdUYyXzlob3hhckdZb3ZUZXZfTTItOTRrZzFnNGRSWW01ZEVWbFhZNDFmN3RFRm1vSlpjS3Z2UXRFMk5TRnprREI1TnFMVmVUcFVKX2F0Vw?oc=5",
+     "title": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online - Push Square",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "d194961c9a297212",
+     "published": "2026-11-01T01:00+00:00",
+     "text": "- Rumour: Alleged Persona 1 Remake Gameplay Leaks Online Push Square\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Persona 1 Remake Leak: Fans React to 2-Min Clip [2026] shattered.io\n- Persona 1 Remake Trailer Leak: 360p, Unconfirmed [2026] https://tech-insider.org/\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
+    }
+   ]
+  },
+  {
    "id": "c4d0797adb0",
    "kind": "news",
    "score": 15.0,
@@ -760,25 +907,14 @@
    ]
   },
   {
-   "id": "cf9eb1ed017",
+   "id": "cecf19abee8",
    "kind": "news",
    "score": 15.0,
    "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
+   "distinct_sites": 3,
+   "title_hint": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
    "official_image": null,
    "sources": [
-    {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece",
-     "title": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
-     "lang": "en",
-     "extra": {},
-     "id": "f9eb1ed0175e30f0",
-     "published": "2026-10-31T07:23+00:00",
-     "text": "While the facts are still emerging, the Binance cyberattack could go down as the largest cryptocurrency hack on record"
-    },
     {
      "source": "Phys.org Tech",
      "trust": 2,
@@ -793,15 +929,17 @@
      "text": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft\nBinance, the world's biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. Blockchain firms have pointed to the attack coming from a North Korean hacking unit.\nThe company said it has reserved more than $6.34 billion of company funds to cover the stolen assets and was beginning to recover assets for users. Binance worked with blockchain partners to freeze roughly $3 billion in affected assets.\nThe cryptocurrency exchange has promised to cover all losses, and it has been sharing regular updates on its social media channels as it uncovers more information about the hack.\n\"We are working nonstop to resolve this,\" Binance's co-CEO Richard Teng said Friday in a video posted to X.\nIn an exchange Friday with reporters at the White House, President Donald Trump said U.S. officials were investigating the Binance hack. Asked whether North Korea was involved, Trump said, \"We're looking at that.\"\nHere's what we know about the hack, possible North Korean involvement and Binance's investigation.\nNorth Korean hackers are suspected in the attack\nBinance said on X that an initial investigation suggested the incident may have involved a compromised laptop, but that a subsequent investigation uncovered additional \"points of breach.\"\nU.S.-based blockchain intelligence firm TRM, in a post on its website late Thursday, attributed the attack to TraderTraitor, which it described as North Korea's elite hacking unit. \"We make this judgment with high confidence,\" the firm said.\n\"An attacker moved approximately $6.36 billion out of Binance wallets on 10 blockchains, most of it in about 20 minutes,\" TRM said. \"Several features of this attack match earlier North Korea-linked heists.\"\nBlockchain analysis company Chainalysis also believed the Binance hack was likely carried out by TraderTraitor, its co-founder and CEO Jonathan Levin wrote on X.\nAsked about the potential ties to North Korea, a Binance spokesperson said only that the company is \"working closely with our law enforcement partners to confirm the identity of the criminals and bring them to justice.\"\nExperts have said that North Korea turned to crypto hacking and other illicit cyber activities in recent years as a source of badly needed foreign currency to support its troubled economy and fund its nuclear program in the wake of tough U.N. sanctions and other difficulties.\nIn December 2022, South Korea's spy agency said North Korean hackers had stolen an estimated 1.5 trillion won ($1.1 billion) in cryptocurrency and other virtual assets over the past five years, more than half of it in 2022 alone. It said North Korea's capacity to steal digital assets was considered among the world's best.\nMany are calling this the biggest crypto theft on record\nWhile about half of the stolen assets were frozen, there is evidence that the hackers already are transferring and converting some of what wasn't recovered, said Garrick Hileman, an independent cryptocurrency analyst.\n\"Like in money laundering, you bring in the stolen goods and launder those through a mixer or tumbler,\" he said. \"You mix it in with other cryptos, and it's harder to track.\"\nHow long it will take the hackers to turn that into something usable isn't clear, he said. \"The bottom line is there are places in the world where you can take your bitcoin and get that converted,\" Hilema"
     },
     {
-     "source": "France 24 EN",
+     "source": "Decrypt",
      "trust": 2,
-     "url": "https://france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
-     "title": "Binance hit by 6.3 billion dollar crypto theft",
+     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
      "lang": "en",
-     "extra": {},
-     "id": "2e8385a7cb01e943",
-     "published": "2026-10-31T11:16+00:00",
-     "text": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from users, with analysts pointing the finger at North Korea. The attack far surpasses the previous record set in February 2025, when hackers stole $1.5 billion from crypto exchange Bybit."
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
+     },
+     "id": "d081c8674a69f198",
+     "published": "2026-10-31T15:01+00:00",
+     "text": "In brief\n- Attackers stole roughly $6.4 billion from Binance on Thursday in the largest crypto hack ever, more than four times the previous record.\n- Binance says it will cover all losses with company funds and its emergency reserve, having set aside more than $6.34 billion.\n- Here's how it happened and what's being done about it.\nCrypto just suffered the largest hack in its history.\nOn Thursday, attackers drained roughly $6.4 billion from Binance, the world’s largest cryptocurrency exchange, in a breach that dwarfs every theft before it and has triggered a cross-border law-enforcement investigation, a scramble by stablecoin issuers to freeze funds, and a tense wait for millions of users.\nHere’s what’s known about the Binance hack so far.\nWhat happened\nThe theft began at about 4:05 p.m. ET on Thursday, after U.S. markets had closed, when attackers moved funds out of Binance hot wallets across roughly 10 blockchains, most of it within about 20 minutes.\nBlockchain analytics firms Chainalysis and TRM Labs put the total at around $6.4 billion, more than four times the previous record, February 2025’s $1.5 billion Bybit heist.\nCrucially, the attack targeted Binance’s own infrastructure, not the blockchains themselves. Binance initially traced the breach to a compromised laptop belonging to a DevOps engineer, which may have let the attacker reach a service container and submit unauthorized withdrawals.\nThe exchange has since said its investigation uncovered “additional points of breach,” with CEO Richard Teng describing “a more complex attack process” that “did not simply use one engineer’s permissions.” Binance said it found no evidence that wallet private keys were leaked, and that the attacker used a self-destruct mechanism to wipe tooling and traces along the way.\nThe Ethereum wrinkle\nOn Ethereum, the attacker leaned on EIP-7702, a feature introduced in 2025 that lets ordinary wallets temporarily run smart-contract code.\nUsing 50 pre-signed authorizations, the attacker turned a Binance hot wallet into a “sweeper” contract and drained its assets, according to TRM Labs.\nTeng said that delegation “did not pass through our normal approval controls.” The episode didn’t expose a flaw in Ethereum itself, but rather, TRM said, pointed to a compromise of Binance’s signing infrastructure.\nWho’s behind it\nTRM Labs and Chainalysis both attributed the hack to TraderTraitor, a North Korean state-linked group also blamed for the Bybit heist.\nAfter that attack, the group converted roughly 84% of the stolen Ethereum into Bitcoin via the cross-chain network Thorchain. The attribution pushes North Korea’s 2026 crypto haul well past $1 billion, and the Binance figure alone would dwarf the rest.\nWhat Binance is doing\nTeng said Binance will cover every dollar of the losses with company funds and its Secure Asset Fund for Users, an emergency reserve, stressing that customer assets were never touched.\nThe exchange has set aside more than $6.34 billion, about $5 billion of it already held in the exact tokens stolen, including BTC, ETH, BNB, USDC, and USDT, and is buying the rest on the open market and over the counter.\nBinance paused withdrawals to rebuild and retest its systems, is running a full security review, and aims to restore withdrawals by Sunday while publishing a complete proof of reserves by Monday. Deposits are operating normally.\nThe freeze, and what’s still loose\nStablecoin issuers moved fast following the initial reports of a suspected attack, unl"
     },
     {
      "source": "PBS NewsHour",
@@ -932,113 +1070,6 @@
      "id": "dd49dec0342b3a9d",
      "published": "2026-10-31T18:46+00:00",
      "text": "- F1 Mexico GP: Norris tops final practice by 0.001s from Antonelli Autosport\n- Norris pips Antonelli to top spot in Mexico City FP3 Formula 1\n- Mexican Grand Prix qualifying: Lewis Hamilton takes pole – as it happened The Guardian\n- LIVE: F1 Mexico GP updates - Norris tops FP3, Hirakawa in for Ocon at Haas | Live text Autosport\n- Mexico City Grand Prix: Charles Leclerc sets pace in first practice for Ferrari ESPN"
-    }
-   ]
-  },
-  {
-   "id": "cf33d51281f",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Persona 1 Remake Footage Seemingly Leaks Online",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723990",
-     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
-     "lang": "en",
-     "extra": {},
-     "id": "9263f0dba98cfec2",
-     "published": "2026-10-31T20:40+00:00",
-     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
-     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
-     "lang": "en",
-     "extra": {},
-     "id": "f33d51281fd2f187",
-     "published": "2026-10-31T20:21+00:00",
-     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXFZdDZ1Uld6d0lqc2k5d0phQkE5MXJ4dXZ4aWVxT2ZSTWExNzlBZ2NyZmxkRnNFX2x3MGJubHNBd0IyYXBiSl84blR3YzJ5NEkxbVFRWkxJZVRXOEthd2I0RDRTM2xwWTJiSHBKbGg2QW9ZcXlhYUZrdERsV1R4RW53?oc=5",
-     "title": "Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online - IGN",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "c331f4a376395fd2",
-     "published": "2026-10-31T20:21+00:00",
-     "text": "- Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online IGN\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Rumor: Persona remake footage appears online Gematsu"
-    }
-   ]
-  },
-  {
-   "id": "c824106f63d",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8",
-     "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-z-fold-8-iphone-duo-crackgate.jpg?quality=82&strip=all&resize=1200,628"
-     },
-     "id": "824106f63d9658e3",
-     "published": "2026-10-31T01:20+00:00",
-     "text": "Samsung isn’t holding back when it comes to the iPhone Duo’s messy start. In new ads, the company mocks iPhone Duo’s “crackgate” with a push for customers to buy the Galaxy Z Fold 8 instead, and there’s not an ounce of subtlety here.\nFollowing the debut of Apple’s first foldable, an unfortunate trend has emerged among early buyers. A number of users found that their display “cracked” with the display panel dying in the center, all in the exact same way, implying there’s a flaw within Apple’s hinge design.\nApple is replacing affected devices, but it is a somewhat harrowing reminder that this is the company’s first attempt at this hardware.\nAnd Samsung is happy to point that out.\nIn an ad for the Galaxy Z Fold 8 on Instagram, Samsung says that “folding is nothing new to us” and that “we know a thing or eight.” It cuts right to the chase: “Switch to Galaxy Z Fold8.” The attached imagery then depicts the iPhone Duo’s well-known screen “crack.\nTop comment by Morgrain\nIt's kind of funny that Apple had 8 years to copy the competition, and still failed spectacularly in such a serious way. The hinge section in question either suffers from material failure (metal breaks when it shouldn't) or its a design failure where the hinge simply breaks under a certain pressure (that a foldable should survive).\nEither way this doesn't bode well for Apples QA.\nThat one was posted to Samsung Canada’s account, while another ad from Samsung Malaysia further takes that up a notch:\nFeeling a little FOMO seeing all this talk about durability… oops, we’ve just been busy folding and getting on with our day\nSamsung Australia similarly poked fun at Apple’s durability woes with a post about “how life sounds when your screen doesn’t break when opening your phone.”\nAnother post from Samsung Saudi Arabia puts the iPhone Duo crack on a Galaxy Z Fold 8 before revealing it’s just a wallpaper.\nMore on Samsung:\nFollow Ben: Twitter/X, Threads, Bluesky, and Instagram\nComments"
-    },
-    {
-     "source": "GSMArena",
-     "trust": 2,
-     "url": "https://gsmarena.com/samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295.php",
-     "title": "Samsung Galaxy Z Fold9 to bring back a long-lost feature the iPhone Duo has",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-z-fold9-udc-rumor/-952x498w6/gsmarena_000.jpg"
-     },
-     "id": "cad6c9ec394c02ea",
-     "published": "2026-10-31T12:31+00:00",
-     "text": "Samsung put an under-display camera on the inner screen of its book-style foldables for four generations, starting with the Galaxy Z Fold3 back in 2021 and ending with the Galaxy Z Fold6. The Galaxy Z Fold7 switched to a regular punch hole last year, and this year's Galaxy Z Fold8 Ultra and wide Galaxy Z Fold8 stuck with it.\nNow, the under-display camera will reportedly make a comeback next year. According to a tipster on X, Samsung will unveil a device with an under-display camera, \"major internal changes\", and minimal changes to its overall thickness and design. Earlier this month, the same tipster said the Galaxy Z Fold9 is already in development, with a target thickness of 3.9mm unfolded and 7.9mm folded.\nSamsung Galaxy Z Fold8He also said Samsung is positioning the Fold9 as a direct competitor to the iPhone Duo. As you may know, Apple's first foldable went with a 4MP under-display selfie camera on its inner screen, so Samsung bringing the tech back wouldn't be such a stretch.\nThat said, do take all of this with a hefty pinch of salt, since it's just an unconfirmed rumor from one source. And said source's claims about thickness don't seem to be adding up - the wide Galaxy Z Fold8 measures 4.5mm unfolded and 9.7mm folded, so a 7.9mm Fold9 would be a pretty big drop for something with \"minimal changes to its overall thickness\". It's possible those were just early targets that didn't pan out, or that we're talking about the Fold9 Ultra rather than the wide Fold9. Many things are still up in the air about all of this.\n| 256GB 12GB RAM | $ 1,899.99 | £ 1,398.00 |\n| 512GB 12GB RAM | $ 2,099.99 | € 1,796.12 |\n| Show all prices |\n| 256GB 12GB RAM | $ 1,580.99 | $ 1,650.00 |\n| 512GB 12GB RAM | $ 1,499.00 | £ 1,499.00 |\n| Show all prices |\nGuess what else is also cool, 1.4:1 ratio that smasung was doing on their original galaxy fold which they immediately abandoned. Suddenly it is cool and they included it in galaxy gold 8 and its sales soared ofc because as is typical with Samsun...\nRemoving the inner under display camera is a serious downgrade. A good quality selfie existed on the outside screen, you don't need a 2n this is a service camera, not the main one\nTip us\n2.1m 180k\nRSS\nEV\nMerch\nLog in I forgot my password Sign up"
-    },
-    {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Samsung-now-mocks-Apple-iPhone-Duo-with-crackgate-memes-too.1439057.0.html",
-     "title": "Samsung now mocks Apple iPhone Duo with crackgate memes too",
-     "lang": "en",
-     "extra": {},
-     "id": "b0fd75b0bba0ba74",
-     "published": "2026-10-31T22:25+00:00",
-     "text": "One company's misfortune is another's delight. Samsung has a long history of mocking Apple's decisions and products. Even the now quite viral mishap involving broken hinges and damaged displays is being exploited by the South Korean company's international marketing teams for their own purposes."
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbFB3WWNhc1dIQlZaQ3dIUkctc0twcFcxdWNuTkJYLS1aR2ZlZmFBcmhpbUR0Y254dEtPX3VwZzVFM3VRelc0c2prZEc4T1pVZ0dsWDNOQWJ6SzJCcjBhMkVhaFJrZTFOWmNWZUo2REpTZ2JQeGZsLVYtSUlwTlI1NU52RGZIZFdPdkY5Mzh3?oc=5",
-     "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video] - 9to5Google",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "715938a843359a75",
-     "published": "2026-10-31T02:20+00:00",
-     "text": "- Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video] 9to5Google\n- ‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke. WSJ\n- Apple responds to user reports of broken iPhone Duo screens on new foldable phone CNBC\n- iPhone Duo owners say Apple's new foldable phone broke within hours of purchase CBS News\n- Samsung Slices at Apple’s iPhone Duo With Its Z Fold 8 Ad CNET"
     }
    ]
   },
@@ -1188,50 +1219,6 @@
      "id": "9d449d2dca115101",
      "published": "2026-10-31T18:56+00:00",
      "text": "- SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution CNBC\n- XAI Offers Home Buyouts In Mississippi To Quash Data Center Lawsuit Forbes\n- Judge allows NAACP lawsuit over xAI data center pollution to move forward TechCrunch\n- ‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise The Guardian\n- Elon Musk's SpaceX buying out 418 homes near flagship AI data center, but only if they drop participation in lawsuit Yahoo"
-    }
-   ]
-  },
-  {
-   "id": "cdee63ca0aa",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Time",
-     "trust": 2,
-     "url": "https://time.com/article/2026/10/31/d-c-and-virginia-join-the-fight-to-block-trump-s-triumphal-arch-what-happens-next-",
-     "title": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
-     "lang": "en",
-     "extra": {},
-     "id": "dee63ca0aa26de52",
-     "published": "2026-10-31T19:28+00:00",
-     "text": "The site of U.S. President Donald Trump's planned triumphal arch is seen from the top of the Washington Monument in Washington, D.C., on Oct. 22, 2026."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
-     "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-     "lang": "en",
-     "extra": {},
-     "id": "dccd165d651884b4",
-     "published": "2026-10-31T20:30+00:00",
-     "text": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views."
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
-     "title": "Virginia and D.C. sue to block construction of Trump arch",
-     "lang": "en",
-     "extra": {},
-     "id": "c93469999caafa2d",
-     "published": "2026-10-31T22:48+00:00",
-     "text": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.\n(Image credit: Jen Golbeck)"
     }
    ]
   },
@@ -1440,52 +1427,6 @@
    ]
   },
   {
-   "id": "c3a8f5c45bf",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "As it happened: Binance’s record $6.3B crypto hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
-     "title": "As it happened: Binance’s record $6.3B crypto hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg"
-     },
-     "id": "3a8f5c45bf961345",
-     "published": "2026-10-30T16:49+00:00",
-     "text": "As it happened: Binance’s record $6.3B crypto hack\nHow Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation.\nLive coverage has ended. The updates below document Cointelegraph’s reporting on the record $6.3 billion Binance hack as events unfolded.\nWhat we know about the Binance hack:\n- Binance says the estimated total impact is around $6.3 billion and the verified total value of crypto frozen is $3 billion. This could increase as investigators trace additional assets.\n- Binance says deposits are operating normally, and withdrawals are expected to resume as scheduled.\n- Assets frozen include Tether USDt (USDT), USDC (USDC), Ripple USD (RLUSD), World Liberty Financial USD (USD1), StraitsX USD (XUSD), USDT0 (USDT0), Wrapped Beacon ETH (WBETH), Tether Gold (XAUT), Pax Gold (PAXG), Pax Dollar (USDP) and Arbitrum (ARB).\n- Cybersecurity analysts suspect North Korea’s TraderTraitor is behind the attack.\n- Binance says investigators have uncovered additional points of breach after initially pointing to a potentially compromised engineer’s laptop.\n- Binance says it has set aside more than $6.34 billion in company funds to cover losses, including $5 billion already held in the same tokens stolen.\nOct. 30 at 2:34 pm UTC\nBinance targets withdrawals within 40 hours, reserves report by Monday\nBinance is aiming to resume withdrawals within 40 hours and publish a full proof-of-reserves report by Monday, co-CEO Richard Teng said.\nTeng said the exchange hopes to restore access before its Sunday deadline and provide an initial reserves snapshot ahead of Monday’s report.\nTeng also disclosed that the attacker used a “self-destruct mechanism” to destroy tools and traces during the breach, complicating the investigation.\nThe attacker used an EIP-7702 delegation to gain execution authority over a hot wallet, Teng said. That delegation “did not pass through our normal approval controls.”\nOct. 30 at 1:57 pm UTC\nAave lifts precautionary freeze across all V3 and V4 markets\nNew deposits and borrowing have resumed across all Aave V3 and V4 markets after a precautionary freeze following the Binance hack, the lending protocol said.\nWithdrawals and repayments remained available throughout the freeze. Aave said its contracts were unaffected by the incident.\nFounder Stani Kulechov confirmed that lending and borrowing were re-enabled, saying all positions remained overcollateralized.\nOct. 30 at 1:11 pm UTC\nBinance working with FBI to recover assets following $6.3B hack\nBinance is working with the FBI to help recover some of the funds stolen in the record $6.3 billion exploit, according to a source familiar with the matter said.\nThe cryptocurrency exchange revealed its cooperation with law enforcement in an X post, without specifying the agencies involved.\nOct. 30 at 12:41 pm UTC\nBinance says it holds $5B in matching tokens to cover hack losses\nA Binance spokesperson told Cointelegraph that the $5 billion in matching tokens is held in the exchange’s custody.\nThe spokesperson declined to disclose wallet addresses, citing security reasons. Binance did not disclose when it acquired the assets.\nThe exchange also said it submits weekly reports on company funds to Abu Dhabi’s Financial Services Regulatory Authority under a requirement that predated the hack.\nOct. 30 at 11:07 am UTC\nYi He says Binance is buying altcoins to replace stolen tokens\nBinance is buying altcoins in quantities matching those "
-    },
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded",
-     "title": "Recap: How Binance’s record $6.3B hack unfolded",
-     "lang": "en",
-     "extra": {},
-     "id": "7a77abea153dc6cd",
-     "published": "2026-10-30T16:53+00:00",
-     "text": "Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries.\nAll news, reviews, and analyses are produced with full journalistic independence and integrity. For more details on our standards and processes, please read our Editorial Policy."
-    },
-    {
-     "source": "The Block",
-     "trust": 2,
-     "url": "https://theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
-     "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
-     "lang": "en",
-     "extra": {},
-     "id": "5a9de729f25ac7e0",
-     "published": "2026-10-30T21:20+00:00",
-     "text": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went."
-    }
-   ]
-  },
-  {
    "id": "c024feaf695",
    "kind": "news",
    "score": 13.0,
@@ -1613,6 +1554,67 @@
    ]
   },
   {
+   "id": "c824106f63d",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8",
+     "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-z-fold-8-iphone-duo-crackgate.jpg?quality=82&strip=all&resize=1200,628"
+     },
+     "id": "824106f63d9658e3",
+     "published": "2026-10-31T01:20+00:00",
+     "text": "Samsung isn’t holding back when it comes to the iPhone Duo’s messy start. In new ads, the company mocks iPhone Duo’s “crackgate” with a push for customers to buy the Galaxy Z Fold 8 instead, and there’s not an ounce of subtlety here.\nFollowing the debut of Apple’s first foldable, an unfortunate trend has emerged among early buyers. A number of users found that their display “cracked” with the display panel dying in the center, all in the exact same way, implying there’s a flaw within Apple’s hinge design.\nApple is replacing affected devices, but it is a somewhat harrowing reminder that this is the company’s first attempt at this hardware.\nAnd Samsung is happy to point that out.\nIn an ad for the Galaxy Z Fold 8 on Instagram, Samsung says that “folding is nothing new to us” and that “we know a thing or eight.” It cuts right to the chase: “Switch to Galaxy Z Fold8.” The attached imagery then depicts the iPhone Duo’s well-known screen “crack.\nTop comment by Morgrain\nIt's kind of funny that Apple had 8 years to copy the competition, and still failed spectacularly in such a serious way. The hinge section in question either suffers from material failure (metal breaks when it shouldn't) or its a design failure where the hinge simply breaks under a certain pressure (that a foldable should survive).\nEither way this doesn't bode well for Apples QA.\nThat one was posted to Samsung Canada’s account, while another ad from Samsung Malaysia further takes that up a notch:\nFeeling a little FOMO seeing all this talk about durability… oops, we’ve just been busy folding and getting on with our day\nSamsung Australia similarly poked fun at Apple’s durability woes with a post about “how life sounds when your screen doesn’t break when opening your phone.”\nAnother post from Samsung Saudi Arabia puts the iPhone Duo crack on a Galaxy Z Fold 8 before revealing it’s just a wallpaper.\nMore on Samsung:\nFollow Ben: Twitter/X, Threads, Bluesky, and Instagram\nComments"
+    },
+    {
+     "source": "GSMArena",
+     "trust": 2,
+     "url": "https://gsmarena.com/samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295.php",
+     "title": "Samsung Galaxy Z Fold9 to bring back a long-lost feature the iPhone Duo has",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-z-fold9-udc-rumor/-952x498w6/gsmarena_000.jpg"
+     },
+     "id": "cad6c9ec394c02ea",
+     "published": "2026-10-31T12:31+00:00",
+     "text": "Samsung put an under-display camera on the inner screen of its book-style foldables for four generations, starting with the Galaxy Z Fold3 back in 2021 and ending with the Galaxy Z Fold6. The Galaxy Z Fold7 switched to a regular punch hole last year, and this year's Galaxy Z Fold8 Ultra and wide Galaxy Z Fold8 stuck with it.\nNow, the under-display camera will reportedly make a comeback next year. According to a tipster on X, Samsung will unveil a device with an under-display camera, \"major internal changes\", and minimal changes to its overall thickness and design. Earlier this month, the same tipster said the Galaxy Z Fold9 is already in development, with a target thickness of 3.9mm unfolded and 7.9mm folded.\nSamsung Galaxy Z Fold8He also said Samsung is positioning the Fold9 as a direct competitor to the iPhone Duo. As you may know, Apple's first foldable went with a 4MP under-display selfie camera on its inner screen, so Samsung bringing the tech back wouldn't be such a stretch.\nThat said, do take all of this with a hefty pinch of salt, since it's just an unconfirmed rumor from one source. And said source's claims about thickness don't seem to be adding up - the wide Galaxy Z Fold8 measures 4.5mm unfolded and 9.7mm folded, so a 7.9mm Fold9 would be a pretty big drop for something with \"minimal changes to its overall thickness\". It's possible those were just early targets that didn't pan out, or that we're talking about the Fold9 Ultra rather than the wide Fold9. Many things are still up in the air about all of this.\n| 256GB 12GB RAM | $ 1,899.99 | £ 1,398.00 |\n| 512GB 12GB RAM | $ 2,099.99 | € 1,796.12 |\n| Show all prices |\n| 256GB 12GB RAM | $ 1,580.99 | $ 1,650.00 |\n| 512GB 12GB RAM | $ 1,499.00 | £ 1,499.00 |\n| Show all prices |\nGuess what else is also cool, 1.4:1 ratio that smasung was doing on their original galaxy fold which they immediately abandoned. Suddenly it is cool and they included it in galaxy gold 8 and its sales soared ofc because as is typical with Samsun...\nRemoving the inner under display camera is a serious downgrade. A good quality selfie existed on the outside screen, you don't need a 2n this is a service camera, not the main one\nTip us\n2.1m 180k\nRSS\nEV\nMerch\nLog in I forgot my password Sign up"
+    },
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Samsung-now-mocks-Apple-iPhone-Duo-with-crackgate-memes-too.1439057.0.html",
+     "title": "Samsung now mocks Apple iPhone Duo with crackgate memes too",
+     "lang": "en",
+     "extra": {},
+     "id": "b0fd75b0bba0ba74",
+     "published": "2026-10-31T22:25+00:00",
+     "text": "One company's misfortune is another's delight. Samsung has a long history of mocking Apple's decisions and products. Even the now quite viral mishap involving broken hinges and damaged displays is being exploited by the South Korean company's international marketing teams for their own purposes."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbFB3WWNhc1dIQlZaQ3dIUkctc0twcFcxdWNuTkJYLS1aR2ZlZmFBcmhpbUR0Y254dEtPX3VwZzVFM3VRelc0c2prZEc4T1pVZ0dsWDNOQWJ6SzJCcjBhMkVhaFJrZTFOWmNWZUo2REpTZ2JQeGZsLVYtSUlwTlI1NU52RGZIZFdPdkY5Mzh3?oc=5",
+     "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video] - 9to5Google",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "715938a843359a75",
+     "published": "2026-10-31T02:20+00:00",
+     "text": "- Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video] 9to5Google\n- ‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke. WSJ\n- Apple responds to user reports of broken iPhone Duo screens on new foldable phone CNBC\n- iPhone Duo owners say Apple's new foldable phone broke within hours of purchase CBS News\n- Samsung Slices at Apple’s iPhone Duo With Its Z Fold 8 Ad CNET"
+    }
+   ]
+  },
+  {
    "id": "c2eb5766d74",
    "kind": "news",
    "score": 13.0,
@@ -1664,6 +1666,50 @@
      "id": "5717feff764892c6",
      "published": "2026-10-31T17:54+00:00",
      "text": "US Federal Election Commission data revealed this week that Elon Musk has donated at least $445 million into Republican-aligned political action committees and groups since last year. Interestingly, it seems that Musk’s deep influence isn’t enough, and he is worried. If Democrats win big on Tuesday in midterm elections, Musk ... [continued]\nThe post Elon Musk’s Attack Ads Are Backfiring As Midterms Near appeared first on CleanTechnica."
+    }
+   ]
+  },
+  {
+   "id": "cdee63ca0aa",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Time",
+     "trust": 2,
+     "url": "https://time.com/article/2026/10/31/d-c-and-virginia-join-the-fight-to-block-trump-s-triumphal-arch-what-happens-next-",
+     "title": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
+     "lang": "en",
+     "extra": {},
+     "id": "dee63ca0aa26de52",
+     "published": "2026-10-31T19:28+00:00",
+     "text": "The site of U.S. President Donald Trump's planned triumphal arch is seen from the top of the Washington Monument in Washington, D.C., on Oct. 22, 2026."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+     "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+     "lang": "en",
+     "extra": {},
+     "id": "dccd165d651884b4",
+     "published": "2026-10-31T20:30+00:00",
+     "text": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views."
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+     "title": "Virginia and D.C. sue to block construction of Trump arch",
+     "lang": "en",
+     "extra": {},
+     "id": "c93469999caafa2d",
+     "published": "2026-10-31T22:48+00:00",
+     "text": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.\n(Image credit: Jen Golbeck)"
     }
    ]
   },
@@ -2402,28 +2448,6 @@
    ]
   },
   {
-   "id": "cdc9fd0e56b",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Slashdot",
-     "trust": 1,
-     "url": "https://news.slashdot.org/story/26/11/01/0129237/binance-replenishes-90-of-stolen-63b-pledges-theyll-cover-it-all-reopen-sunday",
-     "title": "Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday",
-     "lang": "en",
-     "extra": {},
-     "id": "dc9fd0e56b91bd47",
-     "published": "2026-11-01T01:34+00:00",
-     "text": "\"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%,\" Binance co-CEO Richard Teng posted on X, adding that \"Our users will not bear the financial impact of this incident.\"\n\"Binance said it was able to replace the funds taken in the record hack by using company money to buy new tokens,\" reports NBC News:\nThe remaining 10% consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X... Binance said it has set aside around $6.34 billion of company funds internally to cover the losses. The money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nNBC News reports that the FBI blames the breach on a North Korea-sponsored group known as TraderTraitor:\nMembers of [TraderTraitor] were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology... After the hack, the exchange stopped allowing customers to withdraw their funds, but it said Saturday it was still on track to reopen withdrawals Sunday.\nCNBC reports:\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\nThe New York Times describes what happened when Binance first spotted \"a multibillion-dollar deluge of digital coins\" pouring out of its accounts:\nAs the news spread, Binance's top executives put together an informal war room on Wea, the company's internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel. They eventually transitioned to a mass conference call, with 100 boxes on the screen, where employees took turns muting and then unmuting, communicating in a mixture of English and Chinese. Among them was He Yi, Binance's co-chief executive, who is seven months pregnant, and worked through the night from her base in Abu Dhabi, taking a call at 3 a.m. local time....\nMuch of the drama played out in public. Almost all crypto transactions are recorded on the blockchain, a ledger of money movements that anyone can look up. That meant crypto analysts could see funds leaving Binance in real time... North Koreans have targeted crypto companies for years, using the proceeds of those thefts to fund its nuclear program, according to Western officials. The hackers have developed increasingly complex strategies to steal crypto and launder the proceeds, a painstaking endeavor that can take months to complete. In a blog post on Friday, Chainalysis said the attackers had deployed \"laundering patterns we have not seen before,\" conducting thousands of transactions over a short period, probably with the help of automation.\nAt the same time, Binance's colleagues in the industry mobilized to intercept some of the laundered crypto. Certain digital coin issuers can freeze funds, allowing them to halt a money-laundering operation in its tracks. Soon after the hack, T"
-    }
-   ]
-  },
-  {
    "id": "c487c24e333",
    "kind": "news",
    "score": 12.0,
@@ -2538,70 +2562,37 @@
    ]
   },
   {
-   "id": "ca59c277852",
+   "id": "c7a77abea15",
    "kind": "news",
    "score": 11.0,
    "sensitive": true,
    "distinct_sites": 1,
-   "title_hint": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+   "title_hint": "Recap: How Binance’s record $6.3B hack unfolded",
    "official_image": null,
    "sources": [
     {
-     "source": "Decrypt",
+     "source": "Cointelegraph",
      "trust": 2,
-     "url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
-     "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+     "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded",
+     "title": "Recap: How Binance’s record $6.3B hack unfolded",
+     "lang": "en",
+     "extra": {},
+     "id": "7a77abea153dc6cd",
+     "published": "2026-10-30T16:53+00:00",
+     "text": "Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries.\nAll news, reviews, and analyses are produced with full journalistic independence and integrity. For more details on our standards and processes, please read our Editorial Policy."
+    },
+    {
+     "source": "Cointelegraph",
+     "trust": 2,
+     "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
+     "title": "Binance $6.3B record hack sparks pre-election political clashes",
      "lang": "en",
      "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/elon-musk-changpeng-zhao-decrypt-style-gID_7.jpg"
+      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg"
      },
-     "id": "a59c27785290a506",
-     "published": "2026-10-30T16:25+00:00",
-     "text": "In brief\n- CZ asked Elon Musk to stop trolling Binance over its $6.3 billion hack, citing the exchange's SpaceX shares, which he values at more than $1 billion.\n- Binance co-CEO Yi He said the company's annual revenue is sufficient to cover the losses without selling its SpaceX holdings. CZ later clarified that he had never suggested selling the shares.\n- Binance has reserved more than $6.34 billion in company funds to cover the incident, while TRM Labs and Chainalysis have attributed the attack to North Korea-linked hacking group TraderTraitor.\nBinance co-founder Changpeng Zhao, better known as CZ, called out Elon Musk on Friday after the billionaire appeared to mock the exchange following a $6.4 billion hack—the largest in history—reminding him that Binance holds SpaceX shares worth more than $1 billion.\n\"Elon, have a lot of respect for you, but bad time to troll. Please stop,\" CZ wrote on X. \"Our SPCX shares (from our $500m investment in your Twitter takeover) are worth more than a billion. Would appreciate if you show a little support. Thanks!\"\nThe exchange followed Musk's response to a post estimating that, as a lot of the stolen funds have been frozen, Binance's losses could reach around $1 billion, despite holding approximately $144 billion in assets under custody.\nMusk had replied to the discussion with a grimacing emoji, prompting another user to share an old post from former FTX CEO Sam Bankman-Fried claiming his exchange had enough money to cover its losses. FTX famously collapsed weeks later.\nElon, have a lot of respect for you, but bad time to troll. Please stop.\nOur SPCX shares (from our $500m investment in your Twitter takeover) are worth more than a billion.\nWould appreciate if you show a little support. Thanks!\n— CZ 🔶 BNB (@cz_binance) October 30, 2026\nCZ had initially responded to the loss estimate by saying the damage might be somewhat higher but that Binance would still be able to cover it. Musk's emoji appeared to draw an uncomfortable parallel with the FTX episode, although he did not elaborate on what he meant.\nOf course, CZ didn't imply anything else about what Binance may do with its SpaceX shares.\nBinance co-CEO Yi He also joined the exchange, addressing CZ in a post that appeared to respond to the suggestion that the company might need to liquidate its SpaceX holdings.\n\"Reporting to the major shareholder: Our company's revenue for the year is sufficient to cover the losses, so we do not yet need to sell the SpaceX shares you are bullish on,\" she wrote, adding a shrugging emoji.\nCZ subsequently clarified that he had never suggested selling the shares. He said he was simply showing Musk some of the funds Binance had available, hoping to reassure him about the exchange's financial position.\n😂 did say anything about selling SPCX shares, was just saying/showing some funds that he might know, so that he can be less worried.\n— CZ 🔶 BNB (@cz_binance) October 30, 2026\nThe argument comes as Binance deals with the largest cryptocurrency theft on record. At least $6.4 billion in crypto was taken from wallets associated with the exchange on Thursday, October 29, across multiple blockchains.\nJust yesterday, initial reports showed that at least $5.57 billion had left Binance-linked wallets across Ethereum, Bitcoin, and Tron. The attackers moved funds through several transactions, including a transfer of more than $1.6 billion in USDT to a newly created Ethereum address.\nThe incident also exposed an important weakness in how "
-    }
-   ]
-  },
-  {
-   "id": "c448cb80678",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Anthropic: That Claude Code extension compromise… couldn't be us",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Register",
-     "trust": 2,
-     "url": "https://theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
-     "title": "Anthropic: That Claude Code extension compromise… couldn't be us",
-     "lang": "en",
-     "extra": {},
-     "id": "448cb8067858e8ea",
-     "published": "2026-10-30T16:27+00:00",
-     "text": "Anthropic has denied allegations that a malicious version of the official Claude Code extension published to Cursor’s marketplace was linked to any kind of compromise of its own systems.\nThe company was forced to issue a statement after prominent figures in the cybersecurity industry alleged that the extension, which infected up to 5,000 developers, was uploaded to Cursor’s marketplace following a breach at Claudemaker Towers.\nFelix Rieseberg, a member of Anthropic’s technical staff, Xeeted today: \"We're working with Cursor on this incident, but it wasn’t a compromise of Anthropic's systems or employee laptops.\n\"A malicious actor used access to Cursor's marketplace to publish a tampered copy of the Claude Code extension, which we didn't build or publish. The versions on our official channels are not affected, and this only impacts Cursor users.\"\nFirst spotted by EDR vendor Phorion, an unknown party pushed an update to Cursor's official Claude Code extension for Visual Studio Code that contained a persistent SSH backdoor written for Windows, macOS, and Linux.\nAccording to Cursor, the extension – version 2.1.313 – was available to download for around 11 hours between 0227 and 1335 PT (0927 and 2035 UTC) on Thursday.\nThe vendors' analyses of the implant revealed that it collected information about the host machine and user, including usernames, configured Git emails, and public IP addresses, as well as attempting to open a reverse SSH tunnel.\nCrucially, Cursor echoed Phorion's assessment that the package contained a critical flaw.\nThe script responsible for opening the SSH tunnel required admin rights on macOS and Windows to do so, and in the vast majority of cases it did not have these, resulting in failure.\nRegardless, the extension still forwards the collected host and user data to the attacker, as well as dropping the attacker's SSH key and installing the persistence mechanism, so developers must go threat hunting in case their instance allows for the SSH tunnel to be created successfully.\nSimply installing the latest version of the extension is not enough to clear the persistence mechanism, either.\nThe full details of how to remediate the issue, and links to download scripts to wipe the infection, are laid out in Cursor's account of the situation.\nAside from Rieseberg's statement today, neither Cursor nor Anthropic have commented on how the malicious package made its way to the official marketplace.\nAnthropic's position is that a malicious actor uploaded the tampered copy to Cursor, but the latter has not outlined how it reached the marketpplace.\n\"[We] removed the malicious version from the marketplace immediately upon detection and blocked further distribution,\" Cursor said in the advisory. \"We followed with a full shutdown of the VSCode Marketplace out of an abundance of caution.\"\nIt also ran checks to confirm no other extensions were compromised in the same way, rotated its own keys before restoring the marketplace, and worked with a cloud hosting provider to block the connection to the attacker's server, it said. ®"
-    },
-    {
-     "source": "Dark Reading",
-     "trust": 2,
-     "url": "https://darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-     "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-     "lang": "en",
-     "extra": {},
-     "id": "8b9bbfaa356ca5fa",
-     "published": "2026-10-30T20:05+00:00",
-     "text": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs)."
-    },
-    {
-     "source": "Ars Technica",
-     "trust": 2,
-     "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
-     "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-     "lang": "en",
-     "extra": {},
-     "id": "93351cbb4cc44286",
-     "published": "2026-10-30T21:09+00:00",
-     "text": "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers' machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident.\nThe compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1.314 several hours after the previous version became available on Cursor, according to independent researcher Kevin Beaumont. Both Beaumont and the CTO and co-founder of security firm Phorian said that version 2.1.313 was distributed through Anthropic’s official account on Cursor. So far, neither Cursor nor Anthropic has explained how the attackers gained control of the account.\n“It was a supply-chain compromise where the attacker gained access to the official distribution channel,” Phorian CTO and co-founder Luke Roberts told Ars. “The malicious version 2.1.313 was posted to the official Anthropic account, effectively superseding 2.1.312. Extensions auto-update in Cursor by default, but users can configure this in settings.” Phorian has more details here."
+     "id": "48d67ea6be4cb213",
+     "published": "2026-10-31T09:58+00:00",
+     "text": "Binance $6.3B record hack sparks pre-election political clashes\nSome political and administration figures tried to make hay of the biggest-ever crypto heist.\nSoon after the $6.3 billion hack of Binance, the biggest in crypto history, some political and administration figures began offering their opinions with a US election approaching on Nov. 3 and voting already having begun in many locations.\nPresident Donald Trump was asked at a news conference on Friday about the hack of Binance. “We don’t know. We’re looking at that, the hack with Binance. They’re saying they’re going to get it back, they’re saying they’re guaranteeing it,” he replied.\nThe crypto exchange said in a post on X late Friday that it would cover any losses. “We want to be clear about our commitment: Binance will absorb the financial impact of these stolen funds, not our users.” It added that about $3 billion of the stolen funds had already been frozen in various locations. On Saturday, Binance said it had already covered 90% of the impacted amount of the hacked loss.\nIt was not clear whether there was any immediate political advantage to be gained from the hack, which was widely attributed to a North Korean group, but Republican and Democratic sides began staking out positions almost immediately.\nWyoming Senator Cynthia Lummis, a Republican and longtime crypto advocate, cited the stalled Clarity Act in a Friday post on X. “Yesterday, hackers stole more than $6 billion from Binance in less than 4 hours, the biggest heist in history. The Clarity Act would have given crypto firms legal cover to freeze suspicious transactions the instant law enforcement calls. Every minute lost is money gone for good,” she wrote.\nClarity Act stalled over ethics provisions\nThe Senate on Sept. 15 failed to pass a cloture motion on the Clarity Act that would have established the country’s first regulatory framework for digital assets.\nThe bill had stalled over proposed ethics provisions that would restrict government officials and their families from issuing or profiting from digital assets while in office.\nThe Commodity Futures Trading Commission then submitted a regulatory action on Sept. 18 covering crypto asset transactions and markets for White House review, as the agency moved forward with its approach to overseeing the digital asset sector.\nCFTC Chair Michael Selig referred to crypto market regulation on Friday after the Binance hack, saying in a TV appearance: “This proves our exact point in proposing regulations for crypto markets. … The real issue here is that these are unregulated offshore exchanges and they don’t have the same sorts of safeguards that we have in our financial markets here in the United States.”\nStill, Democratic Representative Maxine Waters said in a Friday news release that “The reported $6.3 billion hack of Binance should be a wake-up call to anyone who thinks the cryptocurrency industry can operate without strong accountability. Yet, Trump and Congressional Republicans have been set on pushing a deregulatory agenda that weakens compliance mandates and oversight of the crypto industry, not to mention the Trump family’s own questionable ties to the company.”\nTrump family and Binance\nShe also commented on past relations between Binance and the Trump family, saying, “Remember that after Binance’s owner, Changpeng Zhao (CZ), gave over $2 billion to the Trump family’s World Liberty Financial, Trump’s Securities and Exchange Commission’s Chair Paul Atkins dropped the SE"
     }
    ]
   },
@@ -2705,6 +2696,43 @@
      "id": "21843d8df9dec6e7",
      "published": "2026-10-30T17:48+00:00",
      "text": "Source: Yahoo Finance\nThe selloff also hit Bitcoin mining and data center operator IREN (IREN), whose shares fell more than 10%, and blockchain-based financial services company Figure Technology Solutions (FIGR), which dropped about 9%.\nThe declines followed Thursday’s disclosure of a the Binance breach. The exchange confirmed Friday that hackers stole about $6.3 billion in the largest cryptocurrency theft on record.\nRelated: Binance working with FBI to recover assets following $6.3B hack\nCoinbase and Strategy both reported third-quarter earnings Thursday, with gains on their crypto holdings lifting profits even as revenue declined.\nCoinbase reported $719 million in net income, boosted by about $715 million in gains on cryptocurrency investments. Adjusted net income, which excludes investment gains and other items, was $78 million. Net revenue fell about 34% year over year to $1.16 billion.\nThe exchange also reported that its prediction markets business surpassed $200 million in annualized revenue.\nStrategy reported $19.53 billion in net income, largely driven by a $20.91 billion gain in the value of its Bitcoin (BTC) holdings. Revenue declined 3% year over year to $125.4 million.\nStrategy also announced that Andrew Kang will step down as chief financial officer on Nov. 5.\nMagazine: Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?"
+    }
+   ]
+  },
+  {
+   "id": "cf1eb9f9097",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Decrypt",
+     "trust": 2,
+     "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+     "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg"
+     },
+     "id": "f1eb9f90974baba2",
+     "published": "2026-10-30T17:50+00:00",
+     "text": "In brief\n- Binance is working with the FBI and U.S. Secret Service after hackers stole $6.4 billion from the cryptocurrency exchange, according to Reuters.\n- Circle froze approximately $823 million in USDC connected to the attack, while Tether froze another $975.1 million in USDT. Circle CEO Jeremy Allaire said the company was coordinating with law enforcement.\n- Blockchain intelligence firms TRM Labs and Chainalysis attributed the attack to TraderTraitor, a North Korean hacking group previously linked to the $1.5 billion Bybit hack.\nBinance is working with the FBI and U.S. Secret Service after hackers stole $6.4 billion from the cryptocurrency exchange, as Circle joins the recovery effort by freezing more than $800 million in assets connected to the attack, according to Reuters.\nA person familiar with the matter told Reuters that Binance was cooperating with law enforcement agencies around the world, including both U.S. agencies. The FBI confirmed it was aware of the incident and was working with public and private partners to assess its scope and coordinate investigative steps. The Secret Service remained silent.\nInvestigating financial crimes is part of the Secret Service’s job, beyond its better-known responsibility of protecting the president. The agency also investigates computer crimes, unauthorized access to computer systems, and crimes involving digital currencies.\nCircle, the company behind USDC, a stablecoin designed to maintain a value of $1, has separately confirmed that it is coordinating with law enforcement. CEO Jeremy Allaire said the company had frozen more than $800 million in USDC associated with the Binance incident and would continue supporting the investigation.\nTether, which issues the competing USDT stablecoin, froze another $1.5 billion in tokens. Both companies can blacklist specific blockchain addresses, preventing the tokens they issue from being transferred out of those wallets. That ability gives stablecoin companies an unusual role in crypto investigations: they can effectively immobilize stolen money before investigators identify the people responsible.\nTether froze more than 1.567B USDT related to a potential Binance exchange hack.\nProtecting the industry and our partners is our main priority.\nStay safe everyone.\n— Paolo Ardoino 🤖 (@paoloardoino) October 29, 2026\nThis is not the first time the Secret Service has worked alongside crypto companies to investigate digital asset crimes. In April, Operation Atlantic—a joint effort involving the Secret Service, the U.K.'s National Crime Agency, Binance, Coinbase, and other crypto firms— identified more than 20,000 victims of approval phishing scams, traced $45 million in stolen funds and froze $12 million.\nThe Binance investigation also comes against the backdrop of a growing number of attacks attributed to North Korea. Blockchain intelligence firms TRM Labs and Chainalysis have both linked the $6.3 billion theft to TraderTraitor, a hacking group associated with the country's cyber operations. The same group has been linked to the $1.5 billion Bybit hack in February 2025, which the FBI also attributed to North Korean hackers.\nNorth Korean attackers have targeted Binance itself before, including through attempts to infiltrate the exchange by posing as job applicants. In an interview with Decrypt in 2025, Binance Chief Security Officer Jimmy Su said North Korean operatives were contacting employees on LinkedIn every day, sometimes using fake interviews to delive"
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446",
+     "title": "FBI accuses North Korea of Binance hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/bc8575bf0d416d34c9f249187acb27b8?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=263&width=862&height=485&imformat=generic"
+     },
+     "id": "f557515ed0172a50",
+     "published": "2026-11-01T01:48+00:00",
+     "text": "In short:\nThe FBI has blamed North Korean hackers for the Binance crypto hack.\nThis week, $US6.3 billion ($6.9 million) in bitcoin and other digital currency was stolen from the world's largest crypto exchange.\nWhat's next?\nBinance says it has enough funds to cover 90 per cent of the stolen assets.\nThe FBI has accused North Korea of stealing $US6.3 billion n ($6.9 million) in virtual assets from the cryptocurrency exchange Binance, in what is thought to be the biggest crypto heist in history.\nIn a statement, the US bureau said the North Korean state-sponsored unit known as TraderTraitor was responsible for the \"malicious cyber activity\".\nOn Thursday, $US6.3 billion in bitcoin and other digital currency was stolen from Binance, the world's largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe FBI's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90 per cent of what was stolen.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\n\"The FBI maintains its commitment to protecting the virtual asset community by identifying, mitigating, and disrupting North Korea's illicit cybercrime and virtual asset theft activities,\" it said.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called Ethereum.\nThe FBI said it expects TraderTraitor would now attempt to convert the assets using de-centralised finance (DeFi) and \"instant swap services\".\n\"It is expected these assets will then be further laundered,\" it said.\nThey are the same actors behind a $US1.5 billion Bybit hack last year.\n'Cat and mouse game' of tracking assets\nCrypto expert and chief policy officer at blockchain intelligence firm TRM Labs Ari Redbord said he expected the hackers would break the stolen assets into pieces and try to launder them through smaller exchanges to evade detection, a process that could unfold over months.\n\"It's bank robbery, in this case, at the speed of the internet,\"Mr Redbord said.\n\"However, we can also track and trace those funds in real time in order to build investigations, to disrupt and to seize back funds.\n\"It's just this cat and mouse game.\"\n90 per cent of assets recovered, Binance says\nOn Saturday, Binance said it had enough set aside in the same digital currency that was stolen, to cover 90 per cent of the missing assets.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said the outstanding 10 per cent consists of tokens that are less liquid, which means they may take longer to source in the required amounts.\nBinance suspended user withdrawals after the hack, but said in its latest update that they were on track to resume Sunday.\nReuters/AFP/AP"
     }
    ]
   },
@@ -2856,6 +2884,41 @@
    ]
   },
   {
+   "id": "c5a9de729f2",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Block",
+     "trust": 2,
+     "url": "https://theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
+     "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+     "lang": "en",
+     "extra": {},
+     "id": "5a9de729f25ac7e0",
+     "published": "2026-10-30T21:20+00:00",
+     "text": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went."
+    },
+    {
+     "source": "The Hindu Sci-Tech",
+     "trust": 2,
+     "url": "https://thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece",
+     "title": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://th-i.thgim.com/public/incoming/bsdlr2/article71648480.ece/alternates/LANDSCAPE_1200/2026-10-30T080059Z_1128493862_RC2JDOAQP62K_RTRMADP_3_FINTECH-CRYPTO-BINANCE-HACK.JPG"
+     },
+     "id": "f9eb1ed0175e30f0",
+     "published": "2026-10-31T07:23+00:00",
+     "text": "The story so far: One of the world’s top cryptocurrency exchange platforms, Binance, was hit by a cyberattack on October 29 that led to the loss of assets valued at over $6 billion. While the facts are still emerging and investigations are ongoing, the exploit could go down as the largest crypto hack on record.\nOn October 30, after independent crypto trackers posted warnings, Binance announced that it was aware of reports of a “potential security issue,” but assured users that their funds were completely safe.\nPublished - October 31, 2026 12:53 pm IST\nYou are logged in\nLoading...\nYou don’t have any Active Subscription.\nSubscribe nowSubscribed with another email? Logout and Login with that one.\nYour active subscription(s)\nAccount subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription\nProducts you've access to\nAdditional Subscription Benefits\nAccount Settings\nNeed help with your subscription?"
+    }
+   ]
+  },
+  {
    "id": "c54d2bdeb1c",
    "kind": "news",
    "score": 11.0,
@@ -2983,30 +3046,6 @@
      "id": "8f5ebd02c3563093",
      "published": "2026-10-31T16:12+00:00",
      "text": "- OpenAI reportedly lowers funding target for new round TechCrunch\n- OpenAI slashes funding target by $10bn as tech anxieties mount Financial Times\n- OpenAI pares fundraising goal, now seeking up to $20 billion in latest round CNBC\n- AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow and spending Fortune\n- OpenAI Lowers Fundraising Target–After Decreasing Possible Valuation The Information"
-    }
-   ]
-  },
-  {
-   "id": "c48d67ea6be",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "Binance $6.3B record hack sparks pre-election political clashes",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
-     "title": "Binance $6.3B record hack sparks pre-election political clashes",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg"
-     },
-     "id": "48d67ea6be4cb213",
-     "published": "2026-10-31T09:58+00:00",
-     "text": "Binance $6.3B record hack sparks pre-election political clashes\nSome political and administration figures tried to make hay of the biggest-ever crypto heist.\nSoon after the $6.3 billion hack of Binance, the biggest in crypto history, some political and administration figures began offering their opinions with a US election approaching on Nov. 3 and voting already having begun in many locations.\nPresident Donald Trump was asked at a news conference on Friday about the hack of Binance. “We don’t know. We’re looking at that, the hack with Binance. They’re saying they’re going to get it back, they’re saying they’re guaranteeing it,” he replied.\nThe crypto exchange said in a post on X late Friday that it would cover any losses. “We want to be clear about our commitment: Binance will absorb the financial impact of these stolen funds, not our users.” It added that about $3 billion of the stolen funds had already been frozen in various locations. On Saturday, Binance said it had already covered 90% of the impacted amount of the hacked loss.\nIt was not clear whether there was any immediate political advantage to be gained from the hack, which was widely attributed to a North Korean group, but Republican and Democratic sides began staking out positions almost immediately.\nWyoming Senator Cynthia Lummis, a Republican and longtime crypto advocate, cited the stalled Clarity Act in a Friday post on X. “Yesterday, hackers stole more than $6 billion from Binance in less than 4 hours, the biggest heist in history. The Clarity Act would have given crypto firms legal cover to freeze suspicious transactions the instant law enforcement calls. Every minute lost is money gone for good,” she wrote.\nClarity Act stalled over ethics provisions\nThe Senate on Sept. 15 failed to pass a cloture motion on the Clarity Act that would have established the country’s first regulatory framework for digital assets.\nThe bill had stalled over proposed ethics provisions that would restrict government officials and their families from issuing or profiting from digital assets while in office.\nThe Commodity Futures Trading Commission then submitted a regulatory action on Sept. 18 covering crypto asset transactions and markets for White House review, as the agency moved forward with its approach to overseeing the digital asset sector.\nCFTC Chair Michael Selig referred to crypto market regulation on Friday after the Binance hack, saying in a TV appearance: “This proves our exact point in proposing regulations for crypto markets. … The real issue here is that these are unregulated offshore exchanges and they don’t have the same sorts of safeguards that we have in our financial markets here in the United States.”\nStill, Democratic Representative Maxine Waters said in a Friday news release that “The reported $6.3 billion hack of Binance should be a wake-up call to anyone who thinks the cryptocurrency industry can operate without strong accountability. Yet, Trump and Congressional Republicans have been set on pushing a deregulatory agenda that weakens compliance mandates and oversight of the crypto industry, not to mention the Trump family’s own questionable ties to the company.”\nTrump family and Binance\nShe also commented on past relations between Binance and the Trump family, saying, “Remember that after Binance’s owner, Changpeng Zhao (CZ), gave over $2 billion to the Trump family’s World Liberty Financial, Trump’s Securities and Exchange Commission’s Chair Paul Atkins dropped the SE"
     }
    ]
   },
@@ -3320,41 +3359,6 @@
    ]
   },
   {
-   "id": "caa099f38ea",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-     "lang": "en",
-     "extra": {},
-     "id": "aa099f38eae6d838",
-     "published": "2026-11-01T01:10+00:00",
-     "text": ""
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446",
-     "title": "FBI accuses North Korea of Binance hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/bc8575bf0d416d34c9f249187acb27b8?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=263&width=862&height=485&imformat=generic"
-     },
-     "id": "f557515ed0172a50",
-     "published": "2026-11-01T01:48+00:00",
-     "text": "In short:\nThe FBI has blamed North Korean hackers for the Binance crypto hack.\nThis week, $US6.3 billion ($6.9 million) in bitcoin and other digital currency was stolen from the world's largest crypto exchange.\nWhat's next?\nBinance says it has enough funds to cover 90 per cent of the stolen assets.\nThe FBI has accused North Korea of stealing $US6.3 billion n ($6.9 million) in virtual assets from the cryptocurrency exchange Binance, in what is thought to be the biggest crypto heist in history.\nIn a statement, the US bureau said the North Korean state-sponsored unit known as TraderTraitor was responsible for the \"malicious cyber activity\".\nOn Thursday, $US6.3 billion in bitcoin and other digital currency was stolen from Binance, the world's largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe FBI's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90 per cent of what was stolen.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\n\"The FBI maintains its commitment to protecting the virtual asset community by identifying, mitigating, and disrupting North Korea's illicit cybercrime and virtual asset theft activities,\" it said.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called Ethereum.\nThe FBI said it expects TraderTraitor would now attempt to convert the assets using de-centralised finance (DeFi) and \"instant swap services\".\n\"It is expected these assets will then be further laundered,\" it said.\nThey are the same actors behind a $US1.5 billion Bybit hack last year.\n'Cat and mouse game' of tracking assets\nCrypto expert and chief policy officer at blockchain intelligence firm TRM Labs Ari Redbord said he expected the hackers would break the stolen assets into pieces and try to launder them through smaller exchanges to evade detection, a process that could unfold over months.\n\"It's bank robbery, in this case, at the speed of the internet,\"Mr Redbord said.\n\"However, we can also track and trace those funds in real time in order to build investigations, to disrupt and to seize back funds.\n\"It's just this cat and mouse game.\"\n90 per cent of assets recovered, Binance says\nOn Saturday, Binance said it had enough set aside in the same digital currency that was stolen, to cover 90 per cent of the missing assets.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said the outstanding 10 per cent consists of tokens that are less liquid, which means they may take longer to source in the required amounts.\nBinance suspended user withdrawals after the hack, but said in its latest update that they were on track to resume Sunday.\nReuters/AFP/AP"
-    }
-   ]
-  },
-  {
    "id": "ce88f55a042",
    "kind": "news",
    "score": 11.0,
@@ -3589,70 +3593,26 @@
    ]
   },
   {
-   "id": "cf4077d638b",
+   "id": "ca12e61cbac",
    "kind": "news",
-   "score": 10.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "World’s tallest Day of the Dead sculpture erected in Mexico City",
-   "official_image": null,
+   "score": 10.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "APOD: 2026 November 1 – Colors of the Moon",
+   "official_image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
    "sources": [
     {
-     "source": "Popular Science",
-     "trust": 2,
-     "url": "https://popsci.com/technology/worlds-largest-day-of-the-dead-sculpture-mexico",
-     "title": "World’s tallest Day of the Dead sculpture erected in Mexico City",
-     "lang": "en",
-     "extra": {},
-     "id": "f4077d638bb57ca2",
-     "published": "2026-10-30T16:30+00:00",
-     "text": "Mexico City has broken a Guinness World Record during its preparations for this year’s Day of the Dead (Día de los Muertos) celebrations. At nearly 110 feet tall, the colorful sculpture of a female skeleton currently standing in the capital city’s town square (the Zócalo) is officially the world’s tallest La Catrina monument. The roughly 11-story project made from steel and fiberglass required about 140 people to assemble, and overshadows the town of Puerto Vallarta’s 92.3-foot Catrina built back in 2023. The height isn’t the only impressive aspect, either. Her purple dress measures over 88 feet long, while the memorial altar (called an ofrenda) is surrounded by an estimated 70,00 marigold plants grown in the nearby Xochimilco borough.\nObserved each year on November 1 and 2, Mexico’s Day of the Dead is famously dedicated to celebrating and honoring deceased family members and loved ones. Historians are divided on its exact origins—while some researchers contend it possesses genuine Indigenous pre-Hispanic roots, others argue the holiday is a more recent rebrand of Spanish traditions intended to promote cultural pride. Regardless of the answer, Day of the Dead has evolved into one of the country’s most popular and iconic observances. Every year, celebrants often wear skeleton-themed costumes and construct ofrendas, while families and friends gather to fondly recall the departed.\nApart from its size, Mexico City’s record-breaking sculpture is a relatively traditional example of La Catrina, one of Day of the Dead’s most recognizable figures. It’s also much easier to trace La Catrina’s history compared to the holiday’s origins. The figure is based on early 20th century Mexican illustrator José Guadalupe Posada’s most famous work, “La Calavera Catrina” ( or “The Elegant Skull”). Posada’s illustration was released posthumously, and depicts a woman’s skeleton dressed in stylish clothing. Art historians widely view “La Calavera Catrina” as a critique of upper-class Mexican women who attempted to mirror European fashions of the era. Posada’s piece was later expanded upon by the muralist Diego Rivera in 1946-1947.\nSimilarly inspired iconography has since become a mainstay of Day of the Dead celebrations. La Catrina sculptures like the new record breaker in Mexico City are frequently surrounded by marigolds. Also known as cempasúchil, the flowers are traditionally believed to help guide spirits home with their scent and colorful petals.\nLike life itself, Mexico City’s building-sized La Catrina is only temporary. Admirers will be able to visit the installation and its altar only until November 2.\nThe post World’s tallest Day of the Dead sculpture erected in Mexico City appeared first on Popular Science."
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/f1/live-blog/12040/13605837/f1-mexico-city-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-autodromo-hermanos-rodriguez",
-     "title": "Mexico City GP: Antonelli 'a bit tense' as he closes in on world title",
-     "lang": "en",
-     "extra": {},
-     "id": "593d92c1419ff692",
-     "published": "2026-10-30T17:00+00:00",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": "cf7a11c959f",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
-     "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
+     "title": "APOD: 2026 November 1 – Colors of the Moon",
      "lang": "en",
      "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/binance-ceo-richard-teng-decrypt-style-gID_7.jpg"
+      "page_image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
      },
-     "id": "f7a11c959f393955",
-     "published": "2026-10-30T16:34+00:00",
-     "text": "In brief\n- Binance CEO Richard Teng said the exchange will cover all hacked losses, having reserved over $6.34 billion of company funds, $5 billion in the affected tokens.\n- Teng said the attacker used a self-destruct mechanism to wipe tooling and traces, and an EIP-7702 delegation that bypassed Binance's normal approval controls.\n- Binance aims to restore withdrawals by Sunday and publish a full proof of reserves by Monday, as the attacker keeps moving funds on Tron.\nBinance will cover every dollar lost in this week's hack with its own money, CEO Richard Teng said in a video address on Friday, adding that customer funds were never touched.\n\"We are committed to covering all hacked losses through our company funds. Your assets are safe,\" Teng said, according to a transcript he tweeted.\nAn update on the security incident. pic.twitter.com/qn2804fO5z\n— Richard Teng (@_RichardTeng) October 30, 2026\nBinance has reserved more than $6.34 billion of company funds to cover the stolen assets, $5 billion of which is already held in the exact tokens taken, including USDC, USDT, BTC, ETH and BNB, he said. The exchange is buying the rest through market and over-the-counter channels.\nTeng said the hack hit Binance's own hot wallet, not customer funds. \"We never use any customer funds, so they are not impacted,\" he said, adding that most user assets are held in cold wallets and only moved into a hot wallet when a user withdraws. Binance's ability to absorb a loss of this size comes from keeping much of its operating earnings in crypto, he said.\nBinance had earlier said it would cover all losses from its SAFU emergency fund and company funds.\nHow the attack worked\nTeng said the hack \"was not carried out by one person.\" Binance initially traced it to a compromised laptop but has since found additional points of breach. The attacker also used a self-destruct mechanism that destroyed tooling and traces along the way, making the attack harder to investigate, Teng said.\nThe attacker used EIP-7702, an Ethereum feature that lets standard wallets run smart contract code, to obtain onchain execution approval over a hot wallet, according to Teng. \"That delegation did not pass through our normal approval controls,\" he said, which is why Binance paused withdrawals to rebuild and retest its infrastructure. Blockchain analytics firms TRM Labs and Chainalysis have attributed the theft to North Korean hacking group TraderTraitor.\nBinance hopes to restore withdrawals before its Sunday deadline, Teng said, and is carrying out a full security review covering endpoints, cloud, key management and signing. It plans to publish a full proof of reserves report by Monday, with an initial view before then.\nThe attacker is still moving funds. Between 11:37 a.m. and 12:12 p.m. ET on Friday, a Arkham data.\nwallet that Arkham attributes to the hacker sent about 5.19 million TRX, worth roughly $1.73 million, to 12 addresses, according toUpdate following the Binance incident:\nAll markets are now unfrozen across Aave V3 and V4.\nThey were frozen as a precaution after initial reports, which paused new deposits and borrows while withdrawals and repayments continued as normal.\nAave contracts were unaffected by the…\n— Aave (@aave) October 30, 2026\nDecentralized lending protocol Aave, where the attacker borrowed ETH against USDT while racing stablecoin freezes, according to TRM Labs, said on Friday that it had unfrozen all markets on its V3 and V4 deployments. It had frozen them as a precautio"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1taFlQaHdFNi1RVmtQVXRPdlBsUE1oSHE5Y2dyMFR5dDAzaWRQTDJrUlBxb19LRlRjREhSTGU0d3JISVU0a3JkZHI2OXdVeTVENGstYXpLbXJDeTJxXzJZSVI1ZjY5UGRfRlFicGU4YmFpWWdnVFZNaHk4Nmk3N1U?oc=5",
-     "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’ - The Verge",
-     "lang": "en",
-     "extra": {},
-     "id": "ae82310ec26b4ee6",
-     "published": "2026-10-31T18:40+00:00",
-     "text": "Binance CEO says 90 percent of stolen assets have been ‘replenished’\nThe Verge\nSee more headlines & perspectives on Google News"
+     "id": "a12e61cbacf87776",
+     "published": "2026-11-01T04:05+00:00",
+     "text": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\nColors of the Moon\nExplanation: What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles. What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow, appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?"
     }
    ]
   },
@@ -3797,6 +3757,65 @@
    ]
   },
   {
+   "id": "cab6a3d6f8f",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "India launches next-gen navigation satellite to orbit (video)",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
+     "title": "India launches next-gen navigation satellite to orbit (video)",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/tSwfy5XpAPEB3fe7ucbgqR-2560-80.jpg"
+     },
+     "id": "ab6a3d6f8f007f8e",
+     "published": "2026-10-30T20:29+00:00",
+     "text": "India bolstered its homegrown satellite-navigation system today (Oct. 30).\nA GSLV Mark II rocket launched the nation's NVS-03 satellite from Satish Dhawan Space Centre today at 2:21 p.m. EDT (1821 GMT and 11:51 p.m. India Standard Time).\nEverything went well: The rocket deployed NVS-03 into geostationary transfer orbit as planned, officials with the Indian Space Research Organisation (ISRO) announced on X about 30 minutes after liftoff.\nNVS-03 is the third next-gen satellite that India has launched for the Navigation with Indian Constellation (NavIC), its version of the United States' Global Positioning System (GPS).\nNavIC operates on a smaller scale than its American counterpart, however. It's \"a regional navigation satellite system designed to provide accurate Position, Navigation and Timing (PNT) service to users in India as well as the region extending about 1,500 km [930 miles] beyond the Indian landmass, which is its primary service area,\" ISRO officials wrote in the NVS-03 launch brochure.\nThe Indian constellation currently consists of three fully functioning satellites, and it requires four to provide PNT services. So today's launch was a big deal — and a lot of eyes will be watching NVS-03's commissioning and checkout phase.\nToday's launch was the 14th to date for the GSLV (Geosynchronous Satellite Launch Vehicle) Mark II, a three-stage rocket that stands 170 feet (52 meters) tall. Twelve of those 14 liftoffs have been successful.\nThe GSLV Mark II debuted in 2010, the same year its predecessor retired. That previous launchers, the Mark I, flew a total of six times, with two failures.\nNVS-03 was the fourth Indian launch of 2026 and the third operated by ISRO. The fourth was mounted by Skyroot Aerospace, which in July became the first Indian company ever to successfully reach orbit.\nMichael Wall is the Spaceflight and Tech Editor for Space.com and joined the team in 2010. He primarily covers human and robotic spaceflight, military space, and exoplanets, but has been known to dabble in the space art beat. His book about the search for alien life, \"Out There,\" was published on Nov. 13, 2018. Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist. He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelor's degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz. To find out what his latest project is, you can follow Michael on Twitter.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
+    }
+   ]
+  },
+  {
+   "id": "ca0aab801c1",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NYT Technology",
+     "trust": 2,
+     "url": "https://nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
+     "title": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
+     "lang": "en",
+     "extra": {},
+     "id": "a0aab801c1b117b3",
+     "published": "2026-10-30T20:30+00:00",
+     "text": "In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times."
+    },
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/openai-whistleblowers-house-democrats-casar-letter",
+     "title": "Twenty House Democrats press OpenAI over fired safety researchers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.jpg"
+     },
+     "id": "7ed378268879c756",
+     "published": "2026-10-31T20:55+00:00",
+     "text": "Twenty House Democrats have asked OpenAI chief executive Sam Altman to promise not to fire OpenAI whistleblowers who share safety information. They also want OpenAI to keep its pause on its most capable models until independent oversight is in place.\nRepresentative Greg Casar of Texas led the letter, dated 29 October. It asks OpenAI to answer 11 sets of questions by 13 November.\n“We are writing to express concern over your decision to fire apparent whistleblowers at your company for sharing information with an outside AI safety group, even as your company continues to experience a slew of cybersecurity incidents,” the lawmakers wrote.\nThe three fired researchers\nThe letter names the researchers as Tomek Korbak, Mikita Balesni and Jasmine Wang. OpenAI reportedly fired them after it checked their personal phones. It found disappearing messages turned on in their Signal chats with Ryan Greenblatt, then a researcher at Redwood Research. TNW covered the firings last week.\nOpenAI has said it fired them for breaking its rules on sensitive information, not for raising safety concerns, the letter notes. The researchers say they never shared OpenAI’s confidential information with anyone outside the company.\nThe lawmakers ask what the three shared, with whom, and why that was a fireable offence. They also ask whether OpenAI has fired anyone else for raising safety concerns. The question also covers staff who talked to safety groups or oversight bodies.\nHugging Face and the pause\nTwo OpenAI employees warned executives months before the Hugging Face breach, the letter says. They said OpenAI was not monitoring its newest models properly in testing. Executives replied that the tests had to move fast so the models could ship on time, the letter says, citing The New York Times. OpenAI’s 31 August reply to an earlier letter from Casar did not mention those warnings, the lawmakers wrote.\n“These incidents appear to stem from alignment issues with your models,” the lawmakers wrote.\nAccording to the letter, OpenAI has paused training, testing and tool use for its most capable models. OpenAI has said it will resume only when it is confident that more safeguards are in place, the letter says. The lawmakers ask which models the pause covers and when testing will resume.\nThey also want a list of every security incident OpenAI is investigating. And they ask whether OpenAI can stop its models when they act without permission.\nWhat OpenAI published the same day\nAlso on 29 October, OpenAI published a post on how it now monitors its frontier models. It said it had replayed the Hugging Face incident with its expanded monitors in place. In that test, the monitors alerted its security team about 30 minutes after the agents first escaped their sandbox. That was more than 30 hours before the breach at Hugging Face.\n“We believe that this warning would have given our responders time to interrupt the activity well before our models were able to access external services,” OpenAI wrote.\nAlerts can page staff at any hour for frontier training runs, but only in business hours for most other work, OpenAI said. OpenAI has switched paging off for internal Codex traffic. An outside review by METR and Redwood Research found weak spots in the system in July and August. OpenAI said it has fixed most of them and one fix is still in progress.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
+    }
+   ]
+  },
+  {
    "id": "market-2026-11-01",
    "kind": "market",
    "score": 0,
@@ -3815,8 +3834,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T04:21+00:00",
-     "text": "Bitcoin: $77,675 (+0.6% 24h)\nEthereum: $2,266 (+1.2% 24h)\nSolana: $95.46 (-0.7% 24h)\nToncoin: $1.20 (+2.0% 24h)"
+     "published": "2026-11-01T04:52+00:00",
+     "text": "Bitcoin: $77,747 (+0.9% 24h)\nEthereum: $2,266 (+1.3% 24h)\nSolana: $95.48 (-0.2% 24h)\nToncoin: $1.21 (+1.5% 24h)"
     }
    ]
   },
