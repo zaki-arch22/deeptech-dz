@@ -1,150 +1,12 @@
 {
- "generated_at": "2026-11-01T02:20:43+00:00",
+ "generated_at": "2026-11-01T02:50:30+00:00",
  "clusters": [
-  {
-   "id": "c154d6ff5e1",
-   "kind": "news",
-   "score": 29.0,
-   "sensitive": true,
-   "distinct_sites": 11,
-   "title_hint": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665",
-     "title": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2296569840.jpg?w=1024"
-     },
-     "id": "154d6ff5e1c546ed",
-     "published": "2026-10-31T20:15+00:00",
-     "text": "UPDATED: A federal judge has again dismissed Donald Trump‘s $10 billion defamation lawsuit against The Wall Street Journal over its reporting on a letter sent to Jeffrey Epstein for his birthday in 2003.\nU.S. District Judge Darrin P. Gayles wrote in his opinion that Trump’s lawsuit “falls short of pleading actual malice. Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.”\nTrump sued the Journal as well as a series of other defendants, including Rupert Murdoch, after it published an article in July, 2025 reporting on the contents of a bawdy letter bearing Trump’s name and included in a “birthday book” compiled for Epstein’s 50th birthday.\nIn its story, the Journal reported that the letter “contains several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker,” adding that a “pair of small arcs denotes the woman’s breasts, and the future president’s signature is a squiggly ‘Donald’ below her waist, mimicking pubic hair.”\nWatch on Deadline\nTrump has claimed that he did not compose the letter. The article did include Trump’s denial and that he was preparing to sue. Also named in the lawsuit were parent Dow Jones, News Corp. CEO Robert Thomson and reporters Khadeeja Safdar and Joseph Palazzo.\nThe judge previously tossed out Trump’s case, concluding that it failed to allege actual malice, but allowed it to be amended. The judge’s latest ruling, though, is with prejudice, meaning the same claim cannot be refiled.\nTrump intends to appeal the ruling.\nA spokesman for the president’s legal team said the president “will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions.”\nA spokesperson for Dow Jones said, “We’re pleased with the court’s decision.”\nIn his opinion, the judge opened with a quote from Justice Louis Brandeis in his concurring opinion in New York Times vs. Sullivan, the landmark 1964 Supreme Court ruling that set the precedent for public figures seeking defamation claims. It set the standard that public figures had to prove actual malice, or show that a media outlet published a story with knowledge that it was false or that it was done with reckless disregard for the truth.\nBrandeis wrote, “Those who won our independence believed … that public discussion is a political duty; and that this should be a fundamental principle of the American government.”\nIn Trump’s revised lawsuit, his attorneys claimed that the Journal reporters “did not have access to any such letter when the Article was published, which is a fact because no authentic letter or drawing exists.” They claimed the journalists “concocted this story to malign President Trump’s character and integrity, and to deceptively portray him in a false light.”\nThe House Oversight Committee later released documents that included a letter matching the Journal‘s description.\nTrump’s amended lawsuit pointed to his denials and to statements from Ghislaine Maxwell, the Epstein associate who is currently serving a sentence for her role in trafficking of underage girls. The lawsuit noted that, in an interview with then-Deputy Attorney General Todd Blanche and o"
-    },
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/10/31/trump-epstein-wsj-murdoch",
-     "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
-     "lang": "en",
-     "extra": {},
-     "id": "40a42fe9001aa604",
-     "published": "2026-10-31T20:22+00:00",
-     "text": "A federal judge on Saturday threw out President Trump's lawsuit against the Wall Street Journal and Rupert Murdoch over the paper's reporting on Trump's ties to Jeffrey Epstein,\nWhy it matters: It's the second time this year courts have blocked Trump's efforts to sue the paper over stories about his relationship with the disgraced financier.\nDriving the news: Judge Darrin Gayles of the southern district of Florida issued the 20-page ruling Saturday afternoon, finding that Trump failed to prove the paper acted with \"actual malice\" by reporting on his links to Epstein.\nZoom out: Trump first filed suit against the paper and Murdoch in July 2025, seeking $20 billion in damages.\nWhat they're saying: \"Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false,\" Gayles wrote.\nFor the record: \"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions,\" a spokesman for his legal team said in a statement.\nEditor's note: This story has been updated with additional details.\nSara Fischer contributed."
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/trump-lawsuit-wall-street-journal-epstein-birthday-letter-dismissed",
-     "title": "Judge dismisses with prejudice Trump lawsuit against Wall Street Journal",
-     "lang": "en",
-     "extra": {},
-     "id": "021b9f5547a31d58",
-     "published": "2026-10-31T20:59+00:00",
-     "text": "In a 20-page ruling, U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that President Trump did not prove the defendants made defamatory statements with actual malice."
-    },
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049",
-     "title": "Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story",
-     "lang": "en",
-     "extra": {},
-     "id": "3d4796b06b002f37",
-     "published": "2026-10-31T21:09+00:00",
-     "text": "A federal judge in Florida has tossed a revised version of President Donald Trump’s $10 billion defamation suit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein more than two decades ago."
-    },
-    {
-     "source": "Sky News World",
-     "trust": 2,
-     "url": "https://news.sky.com/story/judge-dismisses-trumps-wall-street-journal-lawsuit-13606496",
-     "title": "Judge dismisses Trump's Wall Street Journal lawsuit",
-     "lang": "en",
-     "extra": {},
-     "id": "3429a973bb78c06f",
-     "published": "2026-10-31T21:17+00:00",
-     "text": "A US judge has dismissed President Donald Trump's lawsuit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
-     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
-     "lang": "en",
-     "extra": {},
-     "id": "ac3da7fa79157764",
-     "published": "2026-10-31T21:32+00:00",
-     "text": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/bulletin/news/trump-epstein-birthday-card-lawsuit-dismissed-wsj-b3076951.html",
-     "title": "Trump's $10bn lawsuit over Epstein birthday card dismissed by judge",
-     "lang": "en",
-     "extra": {},
-     "id": "23109de18e5107e1",
-     "published": "2026-10-31T21:38+00:00",
-     "text": ""
-    },
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423",
-     "title": "Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time",
-     "lang": "en",
-     "extra": {},
-     "id": "0254b054c7e4646d",
-     "published": "2026-10-31T23:23+00:00",
-     "text": "A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein was purportedly written by Trump. Trump’s lawsuit “falls short of pleading actual malice,” wrote U.S. District Judge Darrin P. Gayles […]"
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/us-judge-dismisses-trump-lawsuit-against-wall-steet-journal-over-epstein-letter",
-     "title": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter",
-     "lang": "en",
-     "extra": {},
-     "id": "885718a3596fc006",
-     "published": "2026-10-31T23:31+00:00",
-     "text": "Trump's alleged letter to Epstein featured a drawing of a naked woman."
-    },
-    {
-     "source": "Hollywood Reporter",
-     "trust": 2,
-     "url": "https://hollywoodreporter.com/news/politics-news/trump-lawsuit-wall-street-journal-epstein-dismissed-1236744244",
-     "title": "Trump Lawsuit Against Wall Street Journal Over Epstein Story Dismissed by Judge",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/FotoJet-2026-07-17T104215.210.jpg?w=1440&h=810&crop=1"
-     },
-     "id": "f5694ff772f14886",
-     "published": "2026-11-01T00:01+00:00",
-     "text": "Saying the president was “grasping at straws,” a federal judge on Saturday threw out Donald Trump’s $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.\nU.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law. The ruling said the lawsuit had attempted to “manufacture” flaws in the Journal’s investigative reporting.\nRelated Stories\nWhen a case is thrown out “with prejudice,” it cannot be refiled again and the dismissal is permanent and incontrovertible.\nThe dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term. In addition to the Journal, he is embroiled in lawsuits involving the BBC, The Associated Press and — most recently — CNN, MS NOW and Politico, which are suing him for restored access after he banished them from the White House in mid-September.\nTrump has denounced media outlets that write things to which he objects and frequently calls them “fake news” and insults their journalists.\nTrump called the reporting ‘malicious’\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Trump’s name and was included in a 2003 album compiled for Epstein’s 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Trump.\nThe letter bearing Trump’s name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, “Happy Birthday — and may every day be another wonderful secret,” according to the newspaper.\nTrump denied writing it and called the story “false, malicious, and defamatory.”\nThe lawsuit, filed in federal court in Miami, accused the paper and its reporters of having “knowingly and recklessly” published “numerous false, defamatory, and disparaging statements,” which, it alleged, caused “overwhelming financial and reputational harm” to the president.\nEpstein died by suicide in a New York jail cell in August 2019 while awaiting trial on federal sex trafficking charges.\nThe lawsuit was dismissed once, then refiled\nGayles previously dismissed the suit in April, saying Trump had failed to make the argument that the article was published with the intent to be malicious. But he gave the president a chance to file an amended complaint, which he did in May.\nIn Saturday’s ruling, the judge cited the Supreme Court’s landmark 1964 ruling in New York Times Co. v. Sullivan. That decision made it harder for public figures to win libel lawsuits because it requires proof that a media outlet knowingly published something false or showed a reckless disregard for the truth.\n“The Amended Complaint falls short of pleading actual malice,” Gayles wrote. “Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.”\nThe judge also noted that the Journal’s story did not ignore or minimize Trump’s denial, “Rather, it informed readers that President Trump decried the Letter as a fake and d"
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/judge-dismisses-trump-lawsuit-against-wsj-over-epstein-cartoon/107333268",
-     "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein cartoon",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/56b310068afd4b0f0d73a23e56026a03?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic"
-     },
-     "id": "f3b985eb7998ab57",
-     "published": "2026-11-01T01:59+00:00",
-     "text": "A federal judge has thrown out US President Donald Trump's $US10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to convicted sex offender Jeffrey Epstein.\nUS District Judge Darrin Gayles dismissed the lawsuit filed in Miami, saying the president was \"grasping at straws\".\nJudge Gayles ruled the president did not prove the defendants made defamatory statements with actual malice as required by law and the suit had attempted to \"manufacture\" flaws in the newspaper's reporting.\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Mr Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Mr Trump.\nMr Trump denied writing it and called the story \"false, malicious, and defamatory\".\nThe case was thrown out \"with prejudice\", which means it cannot be refiled again and the dismissal is permanent.\nThe Wall Street Journal (WSJ) published a story that said a Dow Jones spokesperson said the company was pleased with the decision.\nA spokesman for Mr Trump's legal team told the WSJ the president would appeal the ruling.\n\"The president will continue to hold those who mislead the American people with fake news and smears accountable for their actions,\" the spokesman said.\nTrump calls out 'malicious' reporting\nThe letter bearing Mr Trump's name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, \"Happy Birthday — and may every day be another wonderful secret\", according to the newspaper.\nIn his lawsuit, Mr Trump called the alleged birthday greeting \"fake\" and sought $US10 billion ($14 billion) for what he called damage to his reputation.\nNews Corp's Dow Jones, the Journal's parent, defended the accuracy of its July 17, 2025, article.\nThe lawsuit was one of several Mr Trump has filed in his second term against major media outlets over reporting he has characterised as unfair or false.\nIn asking Judge Gayles to dismiss the case in September, lawyers for the Journal and its billionaire owner Rupert Murdoch wrote that the lawsuit threatened to chill the speech of those who publish content that Mr Trump does not like.\nWasn't the case already dismissed?\nYes.\nDonald Trump's case, originally filed July 18, 2025 against The Wall Street Journal (WSJ), was thrown out by the same judge, Darrin Gayles, in April of this year.\nHe said the article did not meet the \"actual malice\" standard that public figures must clear in defamation.\nThey must prove not only that a public statement about them was false but also that the media outlet or person who made the statement knew or should have known that it was false.\n\"This complaint comes nowhere close to this standard,\" Judge Gayles wrote.\n\"Quite the opposite.\"\nMr Trump was then allowed to refile the lawsuit which he did later that month.\nAccording to the amended lawsuit, Mr Trump called Mr Murdoch on July 15, 2025, after WSJ reporters contacted the White House about the story.\n\"In response, Murdoch stated, 'I will handle it,' which President Trump reasonably interpreted as meaning that Murdoch believed President Trump, and that the article would not be published,\" the lawsuit says.\nRepresent"
-    }
-   ]
-  },
   {
    "id": "c5d418554a7",
    "kind": "news",
-   "score": 25.0,
+   "score": 29.0,
    "sensitive": true,
-   "distinct_sites": 7,
+   "distinct_sites": 9,
    "title_hint": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
    "official_image": null,
    "sources": [
@@ -189,10 +51,25 @@
      "url": "https://cbsnews.com/news/binance-hack-north-korea",
      "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/23/da771d5f-c037-4b4a-b168-c7fafdec9da3/thumbnail/1200x630/2f49750673e563e6283f5c83343305bf/ap23325643193246.jpg"
+     },
      "id": "a1c01ba106a31b8e",
      "published": "2026-10-31T23:20+00:00",
-     "text": "A cyberattack on Binance, the world's largest crypto exchange, was likely carried out by North Korea, according to a blockchain intelligence firm."
+     "text": "A U.S.-based blockchain intelligence firm said a\ncyber unit was likely behind an attack that stole $6.3 billion from Binance, the world's biggest cryptocurrency exchange.Binance said on Friday that deposits were unaffected, while withdrawals were suspended and are expected to resume in the next day or two. The company, which worked with blockchain partners to freeze roughly $3 billion in affected assets, also said it will cover all customer losses.\nIn a social media post, Binance said that an initial investigation suggested the incident may have involved a compromised laptop, while a subsequent probe uncovered additional \"points of breach.\"\nCrypto industry analysts say the hack against Binance is the largest cyber heist ever.\nWhat is TraderTraitor?\nIn a post on its website Thursday, tech security firm TRM Labs attributed the attack to TraderTraitor, which it described as North Korea's elite hacking unit. \"We make this judgment with high confidence,\" TRM said.\n\"An attacker moved approximately USD 6.36 billion out of Binance wallets on ten blockchains, most of it in about 20 minutes,\" the firm said. That would make the hack the largest cryptocurrency theft on record, it said.\nThe FBI on Saturday also accused TraderTraitor of being behind the attack, saying the hackers have been converting the stolen funds into Ethereum, a popular cryptocurrency.\nThe hackers are preparing the funds for \"further laundering stages,\" the FBI said in a statement.\nIn 2025, TraderTraitor also targeted another crypto exchange, Bybit, in an attack resulting in a $1.5 billion loss, according to the FBI.\n\"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack,\" TRM said.\nJonathan Levin, co-founder and CEO of blockchain research firm Chainalysis, also said on social media that the Binance hack was \"likely done\" by TraderTraitor.\nAnalysts believe that TraderTraitor members are part of a wider North Korean hacking unit known as Lazarus Group, which targets multiple institutions across government, finance and other fields, according to the U.S. Treasury Department.\nThe Justice Department alleged in 2018 that the for an attack on Sony Pictures Entertainment four years earlier that leaked a massive amount of sensitive company data online.\nWorking \"around the clock\"\nBinance said on social media that its \"teams are working around the clock to resolve this issue safely and thoroughly. We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice.\"\nExperts say North Korea has turned to crypto hacking and other illicit cyber activities as a source of badly needed foreign currency to support its troubled economy and fund its nuclear program in the wake of tough U.N. sanctions and other difficulties.\nIn December 2022, South Korea's spy agency said North Korean hackers had stolen an estimated 1.5 trillion won ($1.1 billion) in cryptocurrency and other virtual assets in the past five years, more than half of it in 2022 alone. It said North Korea's capacity to steal digital assets was considered among the best in the world.\nChangpeng Zhao, also known as CZ, founded Binance in 2017. In 2023, he pleaded guilty to a felony linked to failing to prevent money laundering on the platform and stepped down as the company's CEO. President Trump\n.Zhao posted Thursday on social media that \"User funds are safe!\" but added that the theft \"does look like a hack on Binance.\" He added that, wh"
+    },
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/business/2026/11/01/tech/binance-hack-fbi-north-korea",
+     "title": "FBI blames North Korea for $6 billion Binance crypto hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571606.jpg?v=3.1"
+     },
+     "id": "0430f3ab4b2e2e18",
+     "published": "2026-10-31T23:21+00:00",
+     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said Saturday in a statement, referring to the U.S. Secret Service and the criminal division of the Internal Revenue Service. “It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the $6.3 billion and plans to restore withdrawals by Sunday, making progress on a pledge to fully reimburse customers.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
     },
     {
      "source": "Straits Times",
@@ -228,6 +105,163 @@
      "id": "a73d21e0a0ff967e",
      "published": "2026-11-01T01:53+00:00",
      "text": "The FBI said Saturday that North Korea was behind the theft of more than $6 billion (€5.36 billion) in virtual assets from the cryptocurrency exchange Binance.\n\"The Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the US law enforcement agency said in a statement.\nThe theft, which happened within a matter of minutes, is believed to be the biggest cryptocurrency heist in history.\nThe stolen assets included bitcoin, ethereum and stablecoins such as tether and USD Coin, whose values are pegged to traditional currencies.\nNews of the cyberattack caused the prices of most major cryptocurrencies to slump on Friday.\nWhat did the FBI say?\nThe FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe agency said it had \"observed TraderTraitor actors converting stolen assets\" primarily into a cryptocurrency called ethereum.\n\"It is expected these assets will then be further laundered by converting them using DeFi [decentralized finance] and instant swap services as they prepare them for further laundering stages,\" it added.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to ensure the money is not laundered to cover up its origins.\nWhat did Binance say about the heist?\nBinance is the world's largest crypto exchange by daily trading volumes.\nThe exchange said on Saturday it was using company funds worth over $6.34 billion to buy tokens to replenish about 90% of the assets stolen in the attack.\nThe remaining 10% consisted of tokens that were less liquid, meaning they may take longer to buy back, the company said.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nThe heist came amid growing worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
+     "title": "FBI blames North Korea for record $6.3bn crypto heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-30T080136Z_484047327_RC2JDOAHBGKT_RTRMADP_3_FINTECH-CRYPTO-BINANCE-HACK-1793491721.jpg?resize=1920%2C1440"
+     },
+     "id": "09816b77f9ad6760",
+     "published": "2026-11-01T02:28+00:00",
+     "text": "The FBI has linked North Korea to the theft of a record $6.3bn in virtual assets from cryptocurrency exchange Binance.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them primarily into the cryptocurrency Ethereum, the FBI said in a statement on Saturday.\nRecommended Stories\nlist of 3 items- list 1 of 3Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?\n- list 2 of 3Tracking the money: The biggest donors in the 2026 US midterm elections\n- list 3 of 3Russia jails IT worker for 13 years for donating money to Ukraine\nThe US agency blamed the operation specifically on a group called TraderTraitor, the same group blamed for a $1.5bn theft from the Bybit platform in February last year.\nAccording to the statement, the assets are expected to be “further laundered” in stages.\nThe FBI called on virtual asset service providers to block transactions being used in the latest laundering operation, providing the suspected digital addresses to watch for.\nIn a separate statement on Saturday, Binance said it has replaced 90 percent of the amount stolen by using company money to buy new tokens.\nThe remaining 10 percent consists of less liquid tokens, meaning they may take longer to buy, it added.\n“We will continue to buy the remaining relevant token assets… until the covered amount reaches 100 [percent] for all tokens. Binance will absorb the financial impact of these stolen funds, not our users,” the company said on X.\nThe money spent re-buying tokens came from a $1bn Secure Asset Fund for Users (SAFU), a Bitcoin reserve fund Binance holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund and the company’s corporate treasury.\nCrypto prices fell on Friday, as Binance, which runs the world’s largest crypto exchange, sought to reassure customers their funds were safe.\nBinance co-CEO Richard Teng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it hard to trace and investigate.\nAfter the hack, the exchange stopped allowing customers to withdraw their funds.\nBinance said later on Saturday that it was on track to reopen withdrawals on Sunday.\nBinance also announced the publication of a new proof-of-reserves snapshot, allowing users to independently verify that their assets were backed at a minimum 1:1 ratio."
+    }
+   ]
+  },
+  {
+   "id": "c154d6ff5e1",
+   "kind": "news",
+   "score": 29.0,
+   "sensitive": true,
+   "distinct_sites": 11,
+   "title_hint": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665",
+     "title": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2296569840.jpg?w=1024"
+     },
+     "id": "154d6ff5e1c546ed",
+     "published": "2026-10-31T20:15+00:00",
+     "text": "UPDATED: A federal judge has again dismissed Donald Trump‘s $10 billion defamation lawsuit against The Wall Street Journal over its reporting on a letter sent to Jeffrey Epstein for his birthday in 2003.\nU.S. District Judge Darrin P. Gayles wrote in his opinion that Trump’s lawsuit “falls short of pleading actual malice. Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.”\nTrump sued the Journal as well as a series of other defendants, including Rupert Murdoch, after it published an article in July, 2025 reporting on the contents of a bawdy letter bearing Trump’s name and included in a “birthday book” compiled for Epstein’s 50th birthday.\nIn its story, the Journal reported that the letter “contains several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker,” adding that a “pair of small arcs denotes the woman’s breasts, and the future president’s signature is a squiggly ‘Donald’ below her waist, mimicking pubic hair.”\nWatch on Deadline\nTrump has claimed that he did not compose the letter. The article did include Trump’s denial and that he was preparing to sue. Also named in the lawsuit were parent Dow Jones, News Corp. CEO Robert Thomson and reporters Khadeeja Safdar and Joseph Palazzo.\nThe judge previously tossed out Trump’s case, concluding that it failed to allege actual malice, but allowed it to be amended. The judge’s latest ruling, though, is with prejudice, meaning the same claim cannot be refiled.\nTrump intends to appeal the ruling.\nA spokesman for the president’s legal team said the president “will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions.”\nA spokesperson for Dow Jones said, “We’re pleased with the court’s decision.”\nIn his opinion, the judge opened with a quote from Justice Louis Brandeis in his concurring opinion in New York Times vs. Sullivan, the landmark 1964 Supreme Court ruling that set the precedent for public figures seeking defamation claims. It set the standard that public figures had to prove actual malice, or show that a media outlet published a story with knowledge that it was false or that it was done with reckless disregard for the truth.\nBrandeis wrote, “Those who won our independence believed … that public discussion is a political duty; and that this should be a fundamental principle of the American government.”\nIn Trump’s revised lawsuit, his attorneys claimed that the Journal reporters “did not have access to any such letter when the Article was published, which is a fact because no authentic letter or drawing exists.” They claimed the journalists “concocted this story to malign President Trump’s character and integrity, and to deceptively portray him in a false light.”\nThe House Oversight Committee later released documents that included a letter matching the Journal‘s description.\nTrump’s amended lawsuit pointed to his denials and to statements from Ghislaine Maxwell, the Epstein associate who is currently serving a sentence for her role in trafficking of underage girls. The lawsuit noted that, in an interview with then-Deputy Attorney General Todd Blanche and o"
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/10/31/trump-epstein-wsj-murdoch",
+     "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
+     "lang": "en",
+     "extra": {},
+     "id": "40a42fe9001aa604",
+     "published": "2026-10-31T20:22+00:00",
+     "text": "A federal judge on Saturday threw out President Trump's lawsuit against the Wall Street Journal and Rupert Murdoch over the paper's reporting on Trump's ties to Jeffrey Epstein,\nWhy it matters: It's the second time this year courts have blocked Trump's efforts to sue the paper over stories about his relationship with the disgraced financier.\nDriving the news: Judge Darrin Gayles of the southern district of Florida issued the 20-page ruling Saturday afternoon, finding that Trump failed to prove the paper acted with \"actual malice\" by reporting on his links to Epstein.\nZoom out: Trump first filed suit against the paper and Murdoch in July 2025, seeking $20 billion in damages.\nWhat they're saying: \"Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false,\" Gayles wrote.\nFor the record: \"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions,\" a spokesman for his legal team said in a statement.\nEditor's note: This story has been updated with additional details.\nSara Fischer contributed."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/trump-lawsuit-wall-street-journal-epstein-birthday-letter-dismissed",
+     "title": "Judge dismisses with prejudice Trump lawsuit against Wall Street Journal",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/31/78c81397-ef85-4623-ba9f-44a01355ca0d/thumbnail/1200x630/586db8bb34ef2ec7591086b018d905c6/gettyimages-2302269863.jpg"
+     },
+     "id": "021b9f5547a31d58",
+     "published": "2026-10-31T20:59+00:00",
+     "text": "A multimillion-dollar defamation lawsuit by President Trump against The Wall Street Journal over a story reporting his ties to a birthday book for Jeffrey Epstein has been thrown out.\nIn a 20-page ruling, U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice on Saturday, ruling that Mr. Trump did not prove the defendants made defamatory statements with actual malice.\nHe said the lawsuit was \"grasping at straws\" as it attempted to \"manufacture\" flaws in the WSJ's investigative reporting.\nActual malice requires that plaintiffs prove that statements made about a public figure were published with the knowledge that they were false, or with disregard for whether they are true or not.\nWhen a case is thrown out \"with prejudice,\" it cannot be refiled again, and the dismissal is permanent and incontrovertible.\n\"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants,\" a spokesperson for Mr. Trump's legal team told CBS News in a statement. \"The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions.\"\nA source familiar with Mr. Trump's legal strategy said that the decision will likely be appealed.\nThe lawsuit was over a story the WSJ published last year describing a sexually suggestive letter that the paper said bore Mr. Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.\nThe president dismissed the story as \"FAKE\" and\nagainst the paper, its parent company News Corp, the company's CEO, the reporters who wrote the story and Rupert Murdoch, News Corp's chairman emeritus.House lawmakers later subpoenaed and said: \"It's very clear President Trump did not draw this picture, and he did not sign it.\"\na redacted version of the birthday book from Epstein's estate, which at the center of Mr. Trump's lawsuit. Then-White House press secretary Karoline LeavittIn April, Gayles\n, saying the president's legal team failed to clear the legal bar needed to establish their claim. He ruled that the president came \"nowhere close\" to showing the paper acted with \"actual malice\" toward him, the standard for bringing a defamation suit as a public figure.Mr. Trump's legal team refiled the lawsuit."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049",
+     "title": "Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260731-president-trump-vsb-1806-87d55f.jpg"
+     },
+     "id": "3d4796b06b002f37",
+     "published": "2026-10-31T21:09+00:00",
+     "text": "A federal judge in Florida has tossed a revised version of President Donald Trump’s $10 billion defamation suit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein more than two decades ago.\nU.S. District Judge Darrin Gayles found Trump’s amended suit suffered from the same fatal flaw as his first attempt — it fell far short of the high legal bar to show the paper had published the story with “actual malice.”\n“As President Trump has not plausibly alleged that each Defendant made defamatory statements with actual malice, the Amended Complaint must be dismissed. And because this is President Trump’s second attempt to allege his claims, the Court finds that dismissal with prejudice is appropriate,” the judge wrote.\nTrump first sued the paper last July, shortly after the Journal published a story about a birthday book that Ghislaine Maxwell had assembled for Epstein’s 50th birthday in 2003. The book appeared to include a card from Trump, who had been friends with Epstein around that time.\nThe card contained a hand-drawn outline of a naked woman with what appeared to be Trump’s first name signed in the pubic area. It included a typewritten note depicting an imaginary conversation with Epstein, who would later be charged with sex trafficking.\nTrump denied having anything to do with the card, and his suit accused the paper of having made it up and that no such note existed.\nEpstein’s estate later released a copy of a card matching the Journal’s description. Trump and the White House maintain the document is a fake.\nTrump’s suit alleged the writers of the article “falsely represent as fact that President Trump drew the naked woman’s breasts and signed his name ‘Donald’ below her waist, ‘mimicking pubic hair,’” and that the article caused him “overwhelming financial and reputational harm.”\nTrump’s suit also criticized the paper for not publishing an image of the card in the initial story, saying that shows “no authentic letter or drawing exists” — even though the House Oversight Committee publicly released the card after getting it from the Epstein estate.\nThe suit says the Journal should have known the story was bogus because Trump said it was not true. It also chided the paper for failing to interview Epstein co-conspirator Maxwell, who’s serving 20 years in prison on sex trafficking charges. The story said Journal reporters wrote her a letter asking for an interview and included a comment from her attorney.\nThe paper’s attorneys argued that like the original suit, Trump’s revised suit came “nowhere close” to demonstrating the paper acted with actual malice, in which “the false statement was made with knowledge that it was false or with reckless disregard of whether it was false or not.”\nDespite Trump’s claim the paper failed to properly investigate the card before publishing the story, “the Article itself established that the Journal not only investigated” but also “informed readers that President Trump decried the Letter as a fake and denied writing it,” the paper said in its motion to dismiss the suit.\nFurther, the attorneys argued, alleging that someone sent another person a birthday card is not defamatory.\n“There is nothing inherently defamatory about sending a bawdy letter to a friend,” the attorneys wrote, and the article “emphasizes that the Birthday Book was created before Epstein was first arrested” and “makes clear that President Trump’s friendship with Epstein ended years before Epst"
+    },
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/judge-dismisses-trumps-wall-street-journal-lawsuit-13606496",
+     "title": "Judge dismisses Trump's Wall Street Journal lawsuit",
+     "lang": "en",
+     "extra": {},
+     "id": "3429a973bb78c06f",
+     "published": "2026-10-31T21:17+00:00",
+     "text": "A US judge has dismissed President Donald Trump's lawsuit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
+     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+     "lang": "en",
+     "extra": {},
+     "id": "ac3da7fa79157764",
+     "published": "2026-10-31T21:32+00:00",
+     "text": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/bulletin/news/trump-epstein-birthday-card-lawsuit-dismissed-wsj-b3076951.html",
+     "title": "Trump's $10bn lawsuit over Epstein birthday card dismissed by judge",
+     "lang": "en",
+     "extra": {},
+     "id": "23109de18e5107e1",
+     "published": "2026-10-31T21:38+00:00",
+     "text": ""
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423",
+     "title": "Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2280583841.jpg?w=1000&h=563&crop=1"
+     },
+     "id": "0254b054c7e4646d",
+     "published": "2026-10-31T23:23+00:00",
+     "text": "A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein was purportedly written by Trump.\nTrump’s lawsuit “falls short of pleading actual malice,” wrote U.S. District Judge Darrin P. Gayles in his opinion on Saturday. “Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.” Judge Gayles dismissed the lawsuit with prejudice, meaning Trump cannot refile the claim.\nIn April, Judge Gayles ruled that the lawsuit “fails to adequately allege actual malice,” a legal standard in the U.S. for proving defamation. At the time, the court dismissed the complaint “without prejudice,” since he had only made one attempt to state his claims.\nTrump sought at least $20 billion in damages on two counts of defamation in the initial suit, filed in July 2025. He sued the WSJ, its parent companies Dow Jones & Co. and News Corp, the reporters on the story and Rupert Murdoch.\n“We have just filed a POWERHOUSE Lawsuit against everyone involved in publishing the false, malicious, defamatory, FAKE NEWS ‘article’ in the useless ‘rag’ that is, The Wall Street Journal,” Trump wrote at the time on Truth Social. “I hope Rupert and his ‘friends’ are looking forward to the many hours of depositions and testimonies they will have to provide in this case.”"
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/united-states/us-judge-dismisses-trump-lawsuit-against-wall-steet-journal-over-epstein-letter",
+     "title": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter",
+     "lang": "en",
+     "extra": {},
+     "id": "885718a3596fc006",
+     "published": "2026-10-31T23:31+00:00",
+     "text": "Trump's alleged letter to Epstein featured a drawing of a naked woman."
+    },
+    {
+     "source": "Hollywood Reporter",
+     "trust": 2,
+     "url": "https://hollywoodreporter.com/news/politics-news/trump-lawsuit-wall-street-journal-epstein-dismissed-1236744244",
+     "title": "Trump Lawsuit Against Wall Street Journal Over Epstein Story Dismissed by Judge",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/FotoJet-2026-07-17T104215.210.jpg?w=1440&h=810&crop=1"
+     },
+     "id": "f5694ff772f14886",
+     "published": "2026-11-01T00:01+00:00",
+     "text": "Saying the president was “grasping at straws,” a federal judge on Saturday threw out Donald Trump’s $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.\nU.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law. The ruling said the lawsuit had attempted to “manufacture” flaws in the Journal’s investigative reporting.\nRelated Stories\nWhen a case is thrown out “with prejudice,” it cannot be refiled again and the dismissal is permanent and incontrovertible.\nThe dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term. In addition to the Journal, he is embroiled in lawsuits involving the BBC, The Associated Press and — most recently — CNN, MS NOW and Politico, which are suing him for restored access after he banished them from the White House in mid-September.\nTrump has denounced media outlets that write things to which he objects and frequently calls them “fake news” and insults their journalists.\nTrump called the reporting ‘malicious’\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Trump’s name and was included in a 2003 album compiled for Epstein’s 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Trump.\nThe letter bearing Trump’s name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, “Happy Birthday — and may every day be another wonderful secret,” according to the newspaper.\nTrump denied writing it and called the story “false, malicious, and defamatory.”\nThe lawsuit, filed in federal court in Miami, accused the paper and its reporters of having “knowingly and recklessly” published “numerous false, defamatory, and disparaging statements,” which, it alleged, caused “overwhelming financial and reputational harm” to the president.\nEpstein died by suicide in a New York jail cell in August 2019 while awaiting trial on federal sex trafficking charges.\nThe lawsuit was dismissed once, then refiled\nGayles previously dismissed the suit in April, saying Trump had failed to make the argument that the article was published with the intent to be malicious. But he gave the president a chance to file an amended complaint, which he did in May.\nIn Saturday’s ruling, the judge cited the Supreme Court’s landmark 1964 ruling in New York Times Co. v. Sullivan. That decision made it harder for public figures to win libel lawsuits because it requires proof that a media outlet knowingly published something false or showed a reckless disregard for the truth.\n“The Amended Complaint falls short of pleading actual malice,” Gayles wrote. “Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.”\nThe judge also noted that the Journal’s story did not ignore or minimize Trump’s denial, “Rather, it informed readers that President Trump decried the Letter as a fake and d"
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/judge-dismisses-trump-lawsuit-against-wsj-over-epstein-cartoon/107333268",
+     "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein cartoon",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/56b310068afd4b0f0d73a23e56026a03?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic"
+     },
+     "id": "f3b985eb7998ab57",
+     "published": "2026-11-01T01:59+00:00",
+     "text": "A federal judge has thrown out US President Donald Trump's $US10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to convicted sex offender Jeffrey Epstein.\nUS District Judge Darrin Gayles dismissed the lawsuit filed in Miami, saying the president was \"grasping at straws\".\nJudge Gayles ruled the president did not prove the defendants made defamatory statements with actual malice as required by law and the suit had attempted to \"manufacture\" flaws in the newspaper's reporting.\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Mr Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Mr Trump.\nMr Trump denied writing it and called the story \"false, malicious, and defamatory\".\nThe case was thrown out \"with prejudice\", which means it cannot be refiled again and the dismissal is permanent.\nThe Wall Street Journal (WSJ) published a story that said a Dow Jones spokesperson said the company was pleased with the decision.\nA spokesman for Mr Trump's legal team told the WSJ the president would appeal the ruling.\n\"The president will continue to hold those who mislead the American people with fake news and smears accountable for their actions,\" the spokesman said.\nTrump calls out 'malicious' reporting\nThe letter bearing Mr Trump's name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, \"Happy Birthday — and may every day be another wonderful secret\", according to the newspaper.\nIn his lawsuit, Mr Trump called the alleged birthday greeting \"fake\" and sought $US10 billion ($14 billion) for what he called damage to his reputation.\nNews Corp's Dow Jones, the Journal's parent, defended the accuracy of its July 17, 2025, article.\nThe lawsuit was one of several Mr Trump has filed in his second term against major media outlets over reporting he has characterised as unfair or false.\nIn asking Judge Gayles to dismiss the case in September, lawyers for the Journal and its billionaire owner Rupert Murdoch wrote that the lawsuit threatened to chill the speech of those who publish content that Mr Trump does not like.\nWasn't the case already dismissed?\nYes.\nDonald Trump's case, originally filed July 18, 2025 against The Wall Street Journal (WSJ), was thrown out by the same judge, Darrin Gayles, in April of this year.\nHe said the article did not meet the \"actual malice\" standard that public figures must clear in defamation.\nThey must prove not only that a public statement about them was false but also that the media outlet or person who made the statement knew or should have known that it was false.\n\"This complaint comes nowhere close to this standard,\" Judge Gayles wrote.\n\"Quite the opposite.\"\nMr Trump was then allowed to refile the lawsuit which he did later that month.\nAccording to the amended lawsuit, Mr Trump called Mr Murdoch on July 15, 2025, after WSJ reporters contacted the White House about the story.\n\"In response, Murdoch stated, 'I will handle it,' which President Trump reasonably interpreted as meaning that Murdoch believed President Trump, and that the article would not be published,\" the lawsuit says.\nRepresent"
     }
    ]
   },
@@ -296,10 +330,12 @@
      "url": "https://arabnews.com/world/fbi-blames-north-korea-for-stolen-billions-from-binance-in-biggest-hack-in-history-3009195",
      "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793489320529-f42bdd23393fe4e0.jpg"
+     },
      "id": "157a22580da58bfb",
      "published": "2026-10-31T23:29+00:00",
-     "text": "NEW YORK: The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI said Saturday. The bureau said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year. The FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addres"
+     "text": "- The FBI expects that TraderTraitor will now attempt to convert the assets using DeFi and “instant swap services”\nNEW YORK: The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI said Saturday.\nThe bureau said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called ethereum. The FBI expects that TraderTraitor will now attempt to convert the assets using DeFi and “instant swap services.”\nOn Thursday, $6.3 billion in bitcoin and other digital currency was stolen from Binance, the world’s largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe company said Saturday that it had enough set aside in the same digital currency that was stolen to cover 90 percent of the missing assets and promised that customers would be fully reimbursed."
     },
     {
      "source": "Google News Business EN",
@@ -765,52 +801,6 @@
    ]
   },
   {
-   "id": "cf33d51281f",
-   "kind": "news",
-   "score": 15.5,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Persona 1 Remake Footage Seemingly Leaks Online",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723990",
-     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
-     "lang": "en",
-     "extra": {},
-     "id": "9263f0dba98cfec2",
-     "published": "2026-10-31T20:40+00:00",
-     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
-     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
-     "lang": "en",
-     "extra": {},
-     "id": "f33d51281fd2f187",
-     "published": "2026-10-31T20:21+00:00",
-     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXFZdDZ1Uld6d0lqc2k5d0phQkE5MXJ4dXZ4aWVxT2ZSTWExNzlBZ2NyZmxkRnNFX2x3MGJubHNBd0IyYXBiSl84blR3YzJ5NEkxbVFRWkxJZVRXOEthd2I0RDRTM2xwWTJiSHBKbGg2QW9ZcXlhYUZrdERsV1R4RW53?oc=5",
-     "title": "Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online - IGN",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "c331f4a376395fd2",
-     "published": "2026-10-31T20:21+00:00",
-     "text": "- Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online IGN\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Rumor: Persona remake footage appears online Gematsu"
-    }
-   ]
-  },
-  {
    "id": "c4d0797adb0",
    "kind": "news",
    "score": 15.0,
@@ -930,6 +920,52 @@
      "id": "dd49dec0342b3a9d",
      "published": "2026-10-31T18:46+00:00",
      "text": "- F1 Mexico GP: Norris tops final practice by 0.001s from Antonelli Autosport\n- Norris pips Antonelli to top spot in Mexico City FP3 Formula 1\n- Mexican Grand Prix qualifying: Lewis Hamilton takes pole – as it happened The Guardian\n- LIVE: F1 Mexico GP updates - Norris tops FP3, Hirakawa in for Ocon at Haas | Live text Autosport\n- Mexico City Grand Prix: Charles Leclerc sets pace in first practice for Ferrari ESPN"
+    }
+   ]
+  },
+  {
+   "id": "cf33d51281f",
+   "kind": "news",
+   "score": 14.5,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Persona 1 Remake Footage Seemingly Leaks Online",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723990",
+     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
+     "lang": "en",
+     "extra": {},
+     "id": "9263f0dba98cfec2",
+     "published": "2026-10-31T20:40+00:00",
+     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
+     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
+     "lang": "en",
+     "extra": {},
+     "id": "f33d51281fd2f187",
+     "published": "2026-10-31T20:21+00:00",
+     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXFZdDZ1Uld6d0lqc2k5d0phQkE5MXJ4dXZ4aWVxT2ZSTWExNzlBZ2NyZmxkRnNFX2x3MGJubHNBd0IyYXBiSl84blR3YzJ5NEkxbVFRWkxJZVRXOEthd2I0RDRTM2xwWTJiSHBKbGg2QW9ZcXlhYUZrdERsV1R4RW53?oc=5",
+     "title": "Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online - IGN",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "c331f4a376395fd2",
+     "published": "2026-10-31T20:21+00:00",
+     "text": "- Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online IGN\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Rumor: Persona remake footage appears online Gematsu"
     }
    ]
   },
@@ -1287,41 +1323,6 @@
    ]
   },
   {
-   "id": "c2a1376fe80",
-   "kind": "news",
-   "score": 13.5,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/1850/view/693150463100455306",
-     "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-     "lang": "en",
-     "extra": {},
-     "id": "e8fc40125f631162",
-     "published": "2026-10-31T20:37+00:00",
-     "text": "The case as presented by Rebelzize seems fairly open and shut: A volunteer team being sued by a former volunteer over contributions excised from the project? There are potential material benefits to consider: Skyblivion has a level of scope and popularity that could leave participation in it as strong a resume line as shipping a commercial game. Fallout London's developers even pivoted to being their own indie studio... Read more."
-    },
-    {
-     "source": "PC Gamer",
-     "trust": 2,
-     "url": "https://pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt",
-     "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-2549-80.jpg"
-     },
-     "id": "2a1376fe802cdd6d",
-     "published": "2026-10-31T20:29+00:00",
-     "text": "The case as presented by Rebelzize seems fairly open and shut: A volunteer team being sued by a former volunteer over contributions excised from the project? There are potential material benefits to consider: Skyblivion has a level of scope and popularity that could leave participation in it as strong a resume line as shipping a commercial game. Fallout London's developers even pivoted to being their own indie studio.\nBut that's not a clear-cut monetary incentive, and the clout of participation is contingent on productive contribution to the project. While it is worth noting that we only have Rebelzize's accounting of events, I think there are green flags pointing to his trustworthiness:\n- The call to action is for pro bono legal aid in line with the project's overall volunteer nature, not fundraising.\n- The former volunteer is not named, and Rebelzize urges against the sort of Reddit gumshoe sleuthing you see so often in these situations.\n- Skyblivion as a whole has run for a long time without major scandal.\nUnless you, the reader, are or know a lawyer with expertise in IP/GDPR cases—check out Skyblivion's website to contact them, in that case—there's not much for a given fan of the project to do. Rebelzize noted that he has paid legal help lined up should the call for volunteers fail. Even if a lawsuit is filed, it does not sound—at least from this vlog—like it could imperil Skyblivion's release. I have questions, but ideally this whole situation will resolve cleanly enough that we never know exactly what happened:\n- What, specifically, did this volunteer work on in the game?\n- Did redoing this work have any bearing on Skyblivion's delay from 2025 into '26?\n- What happened here interpersonally? Was there an issue of crediting the work done? Are there any missing details that, if they don't justify the volunteer's legal threat, at least make it more understandable?\nAt last call, Skyblivion was still scheduled to release this year, but time is running short for that goal. We Elder Scrolls-likers at PC Gamer have been excited about it for years. Skyblivion promises a more ground-up remake of TES 4: Oblivion—complete with radically redesigned dungeons and biomes—in Skyrim's engine. This is in contrast to the more graphics-focused Oblivion Remastered we got in 2025.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nTed has been thinking about PC games and bothering anyone who would listen with his thoughts on them ever since he booted up his sister's copy of Neverwinter Nights on the family computer. He is obsessed with all things CRPG and CRPG-adjacent, but has also covered esports, modding, and rare game collecting. When he's not playing or writing about games, you can find Ted lifting weights on his back porch. You can follow Ted on Bluesky.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
-    }
-   ]
-  },
-  {
    "id": "caf0a72c8ec",
    "kind": "news",
    "score": 13.5,
@@ -1381,24 +1382,37 @@
    ]
   },
   {
-   "id": "c2ca7c5c7ec",
+   "id": "c3a8f5c45bf",
    "kind": "news",
    "score": 13.0,
    "sensitive": true,
    "distinct_sites": 2,
-   "title_hint": "Binance loses $6.3 billion in largest crypto heist ever",
+   "title_hint": "As it happened: Binance’s record $6.3B crypto hack",
    "official_image": null,
    "sources": [
     {
-     "source": "TechSpot",
+     "source": "Cointelegraph",
      "trust": 2,
-     "url": "https://techspot.com/news/114392-binance-loses-63-billion-largest-crypto-heist-ever.html",
-     "title": "Binance loses $6.3 billion in largest crypto heist ever",
+     "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
+     "title": "As it happened: Binance’s record $6.3B crypto hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg"
+     },
+     "id": "3a8f5c45bf961345",
+     "published": "2026-10-30T16:49+00:00",
+     "text": "As it happened: Binance’s record $6.3B crypto hack\nHow Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation.\nLive coverage has ended. The updates below document Cointelegraph’s reporting on the record $6.3 billion Binance hack as events unfolded.\nWhat we know about the Binance hack:\n- Binance says the estimated total impact is around $6.3 billion and the verified total value of crypto frozen is $3 billion. This could increase as investigators trace additional assets.\n- Binance says deposits are operating normally, and withdrawals are expected to resume as scheduled.\n- Assets frozen include Tether USDt (USDT), USDC (USDC), Ripple USD (RLUSD), World Liberty Financial USD (USD1), StraitsX USD (XUSD), USDT0 (USDT0), Wrapped Beacon ETH (WBETH), Tether Gold (XAUT), Pax Gold (PAXG), Pax Dollar (USDP) and Arbitrum (ARB).\n- Cybersecurity analysts suspect North Korea’s TraderTraitor is behind the attack.\n- Binance says investigators have uncovered additional points of breach after initially pointing to a potentially compromised engineer’s laptop.\n- Binance says it has set aside more than $6.34 billion in company funds to cover losses, including $5 billion already held in the same tokens stolen.\nOct. 30 at 2:34 pm UTC\nBinance targets withdrawals within 40 hours, reserves report by Monday\nBinance is aiming to resume withdrawals within 40 hours and publish a full proof-of-reserves report by Monday, co-CEO Richard Teng said.\nTeng said the exchange hopes to restore access before its Sunday deadline and provide an initial reserves snapshot ahead of Monday’s report.\nTeng also disclosed that the attacker used a “self-destruct mechanism” to destroy tools and traces during the breach, complicating the investigation.\nThe attacker used an EIP-7702 delegation to gain execution authority over a hot wallet, Teng said. That delegation “did not pass through our normal approval controls.”\nOct. 30 at 1:57 pm UTC\nAave lifts precautionary freeze across all V3 and V4 markets\nNew deposits and borrowing have resumed across all Aave V3 and V4 markets after a precautionary freeze following the Binance hack, the lending protocol said.\nWithdrawals and repayments remained available throughout the freeze. Aave said its contracts were unaffected by the incident.\nFounder Stani Kulechov confirmed that lending and borrowing were re-enabled, saying all positions remained overcollateralized.\nOct. 30 at 1:11 pm UTC\nBinance working with FBI to recover assets following $6.3B hack\nBinance is working with the FBI to help recover some of the funds stolen in the record $6.3 billion exploit, according to a source familiar with the matter said.\nThe cryptocurrency exchange revealed its cooperation with law enforcement in an X post, without specifying the agencies involved.\nOct. 30 at 12:41 pm UTC\nBinance says it holds $5B in matching tokens to cover hack losses\nA Binance spokesperson told Cointelegraph that the $5 billion in matching tokens is held in the exchange’s custody.\nThe spokesperson declined to disclose wallet addresses, citing security reasons. Binance did not disclose when it acquired the assets.\nThe exchange also said it submits weekly reports on company funds to Abu Dhabi’s Financial Services Regulatory Authority under a requirement that predated the hack.\nOct. 30 at 11:07 am UTC\nYi He says Binance is buying altcoins to replace stolen tokens\nBinance is buying altcoins in quantities matching those "
+    },
+    {
+     "source": "Cointelegraph",
+     "trust": 2,
+     "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded",
+     "title": "Recap: How Binance’s record $6.3B hack unfolded",
      "lang": "en",
      "extra": {},
-     "id": "2ca7c5c7ec3abc2c",
-     "published": "2026-10-30T14:36+00:00",
-     "text": "Blockchain intelligence firm TRM Labs puts the haul at approximately $6.36 billion, taken from Binance wallets across ten blockchains on October 29. Most of the money was moved in about 20 minutes. The firm attributes the attack to TraderTraitor, a North Korean hacking unit, with high confidence.\nRead Entire Article"
+     "id": "7a77abea153dc6cd",
+     "published": "2026-10-30T16:53+00:00",
+     "text": "Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries.\nAll news, reviews, and analyses are produced with full journalistic independence and integrity. For more details on our standards and processes, please read our Editorial Policy."
     },
     {
      "source": "The Block",
@@ -1653,6 +1667,30 @@
    ]
   },
   {
+   "id": "c0629994f45",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+     },
+     "id": "0629994f454de1d9",
+     "published": "2026-10-31T22:11+00:00",
+     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
+    }
+   ]
+  },
+  {
    "id": "cfaeac0cce3",
    "kind": "news",
    "score": 13.0,
@@ -1721,37 +1759,13 @@
    ]
   },
   {
-   "id": "c1c645bca18",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Cloudflare services for private origins is now generally available",
-   "official_image": "https://blog.cloudflare.com/_emdash/api/media/file/01KW44TXMXRJ1NFA38CJB0MT3A.png",
-   "sources": [
-    {
-     "source": "Cloudflare Blog",
-     "trust": 3,
-     "url": "https://blog.cloudflare.com/private-origins-public-to-private",
-     "title": "Cloudflare services for private origins is now generally available",
-     "lang": "en",
-     "extra": {
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KW44TXMXRJ1NFA38CJB0MT3A.png"
-     },
-     "id": "1c645bca188b35a5",
-     "published": "2026-10-30T14:23+00:00",
-     "text": "Today, Cloudflare services for private origins is generally available. Point a proxied DNS record at a private IP, and Cloudflare reaches the origin over your existing Cloudflare One connection. Your origin stays private, while web application firewall (WAF), caching, bot management, and Workers work just as they do for public origins.\nIn June, we launched this capability in closed beta to address a problem we kept hearing from customers: Their internal APIs, AI agent backends, MCP servers, and operational tools weren’t built to face the Internet, but those services still need to accept requests from partners, customers, or agents over the Internet. Before the beta, putting Cloudflare in front of these services meant exposing a public IP, opening a firewall port, or running cloudflared\nalongside the origin.\nThose requirements often left private applications without the same protections and controls they used for public applications, including WAF, bot management, rate limiting, caching, traffic acceleration, rewrites, and Workers.\nDuring the closed beta, eligible customers requested access through their account team. Today, we’re opening access beyond that beta group.\nPoint a proxied A or AAAA record at a private IP, and Cloudflare’s application services work as they do for public origins:\nSome limitations remain. Argo Smart Routing and Dedicated CDN Egress IPs aren’t supported, and origin health checks require Load Balancing. See the developer documentation for the full list of current limitations.\nYour origin keeps its private IP, with no inbound firewall exception required. With Cloudflare WAN, no connector software on the origin is required. With Cloudflare Mesh, a connector runs within your private network and can serve multiple origins.\nCreate a proxied A or AAAA record pointing to your origin. For supported private IP ranges, use private network routing is enabled automatically. If your origin uses a public IP that’s reachable only through your private network, you can enable the setting manually.\nThe rest of the request flow stays the same: TLS termination, WAF, rules, and caching continue to run on Cloudflare’s network.\nThe setting turns on automatically for RFC 1918 private IPv4 addresses, RFC 6598 CGNAT addresses (100.64.0.0/10), and RFC 4193 unique local IPv6 addresses (fc00::/7). It can’t be turned off for these ranges; attempts to disable it through the API return an error.\nFor customers automating deployments through the API, private routing is simply an additional attribute on a standard DNS record.\nPOST /zones/{zone_id}/dns_records\n{\n\"type\": \"A\",\n\"name\": \"app.example.com\",\n\"content\": \"10.0.0.50\",\n\"ttl\": 300,\n\"proxied\": true,\n\"private_routing\": true\n}\nBehind the scenes, Cloudflare's proxy platform determines where to send traffic for app.example.com\nby querying Cloudflare's Origin API. The response includes metadata indicating that the destination should be reached through a private network path:\n{\n\"zone_name\": \"example.com\",\n\"ipv4_addresses\": [\"10.0.0.50\"],\n\"private_routing\": true\n}\nThe private_routing\nflag is the key signal. When our proxy sees it, instead of attempting to connect directly to the private IP address over the public Internet, it hands the request to our private networking layer, which then routes the connection across the customer's existing private network connectivity, whether that's IPsec, GRE, Cloudflare Tunnel, CNI, or Cloudflare Mesh.\nThe beta post covers the routing layer in more detail.\nBefore yo"
-    }
-   ]
-  },
-  {
    "id": "c4d04d67d10",
    "kind": "news",
    "score": 12.5,
    "sensitive": false,
    "distinct_sites": 3,
    "title_hint": "Hirakawa to replace Ocon at Haas for Mexico City Grand Prix",
-   "official_image": null,
+   "official_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Qualifying/2302907765.webp",
    "sources": [
     {
      "source": "Formula 1",
@@ -1763,6 +1777,19 @@
      "id": "49d447d9c5f146f0",
      "published": "2026-10-31T23:45+00:00",
      "text": "Haas have announced Ryo Hirakawa will replace Esteban Ocon for the remainder of the Grand Prix weekend in Mexico City."
+    },
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/what-to-watch-for-in-the-mexico-city-grand-prix.2L0L49djDMMYYHFCx7EpTf",
+     "title": "What To Watch For in the Mexico City Grand Prix",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Qualifying/2302907765.webp"
+     },
+     "id": "183889a490f6748d",
+     "published": "2026-11-01T02:49+00:00",
+     "text": "From another chance for Kimi Antonelli to wrap up the Drivers’ Championship to Lewis Hamilton looking to convert his first Ferrari pole position, here are a few things to keep an eye on as drivers face the test of racing at high altitude at the Autodromo Hermanos Rodriguez.\n1. Antonelli’s requirements for championship glory\nA week ago we had to run through a set of permutations for Kimi Antonelli to win the Drivers’ Championship that highlighted how tough it would be for him to do it in Austin.\nOn that occasion, he needed a number of other results to go his way even if he won the race, and it very nearly came together, but both George Russell and Lewis Hamilton finished one place higher than Antonelli needed them to.\nNext Up"
     },
     {
      "source": "Sky Sports Football",
@@ -1787,6 +1814,43 @@
      "id": "4d04d67d10e9eba8",
      "published": "2026-10-31T18:39+00:00",
      "text": "- F1 LIVE: Mexico City Grand Prix 2026 UK time, start time, grid, radio & updates BBC\n- Norris pips Antonelli to top spot in Mexico City FP3 Formula 1\n- Charles Leclerc dominates second practice from Lando Norris at Mexico City Grand Prix ESPN\n- LIVE: F1 Mexico GP updates - Norris tops FP3, Hirakawa in for Ocon at Haas | Live text Autosport\n- Mexico City GP: Lando Norris pips Kimi Antonelli in final practice to set up thrilling Mexico qualifying Sky Sports"
+    }
+   ]
+  },
+  {
+   "id": "c2a1376fe80",
+   "kind": "news",
+   "score": 12.5,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+   "official_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-1920-80.jpg",
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/1850/view/693150463100455306",
+     "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-1920-80.jpg"
+     },
+     "id": "e8fc40125f631162",
+     "published": "2026-10-31T20:37+00:00",
+     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
+    },
+    {
+     "source": "PC Gamer",
+     "trust": 2,
+     "url": "https://pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt",
+     "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-2549-80.jpg"
+     },
+     "id": "2a1376fe802cdd6d",
+     "published": "2026-10-31T20:29+00:00",
+     "text": "The case as presented by Rebelzize seems fairly open and shut: A volunteer team being sued by a former volunteer over contributions excised from the project? There are potential material benefits to consider: Skyblivion has a level of scope and popularity that could leave participation in it as strong a resume line as shipping a commercial game. Fallout London's developers even pivoted to being their own indie studio.\nBut that's not a clear-cut monetary incentive, and the clout of participation is contingent on productive contribution to the project. While it is worth noting that we only have Rebelzize's accounting of events, I think there are green flags pointing to his trustworthiness:\n- The call to action is for pro bono legal aid in line with the project's overall volunteer nature, not fundraising.\n- The former volunteer is not named, and Rebelzize urges against the sort of Reddit gumshoe sleuthing you see so often in these situations.\n- Skyblivion as a whole has run for a long time without major scandal.\nUnless you, the reader, are or know a lawyer with expertise in IP/GDPR cases—check out Skyblivion's website to contact them, in that case—there's not much for a given fan of the project to do. Rebelzize noted that he has paid legal help lined up should the call for volunteers fail. Even if a lawsuit is filed, it does not sound—at least from this vlog—like it could imperil Skyblivion's release. I have questions, but ideally this whole situation will resolve cleanly enough that we never know exactly what happened:\n- What, specifically, did this volunteer work on in the game?\n- Did redoing this work have any bearing on Skyblivion's delay from 2025 into '26?\n- What happened here interpersonally? Was there an issue of crediting the work done? Are there any missing details that, if they don't justify the volunteer's legal threat, at least make it more understandable?\nAt last call, Skyblivion was still scheduled to release this year, but time is running short for that goal. We Elder Scrolls-likers at PC Gamer have been excited about it for years. Skyblivion promises a more ground-up remake of TES 4: Oblivion—complete with radically redesigned dungeons and biomes—in Skyrim's engine. This is in contrast to the more graphics-focused Oblivion Remastered we got in 2025.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nTed has been thinking about PC games and bothering anyone who would listen with his thoughts on them ever since he booted up his sister's copy of Neverwinter Nights on the family computer. He is obsessed with all things CRPG and CRPG-adjacent, but has also covered esports, modding, and rare game collecting. When he's not playing or writing about games, you can find Ted lifting weights on his back porch. You can follow Ted on Bluesky.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
     }
    ]
   },
@@ -1831,74 +1895,6 @@
      "id": "ff06dcd8d2d3db81",
      "published": "2026-11-01T02:17+00:00",
      "text": "A new Australian classification for 2009’s Call of Duty: Modern Warfare 2 has fuelled speculation about a re-release on modern consoles, following Activision’s recent ports of Black Ops and Black Ops 2. A new release may restore the multiplayer omitted from the Campaign Remastered edition, but an official confirmation is yet to be made."
-    }
-   ]
-  },
-  {
-   "id": "cbb1dfc22ed",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Binance heist: How were cryptocurrency billions stolen?",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Phys.org Tech",
-     "trust": 2,
-     "url": "https://techxplore.com/news/2026-10-binance-heist-cryptocurrency-billions-stolen.html",
-     "title": "Binance heist: How were cryptocurrency billions stolen?",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://scx2.b-cdn.net/gfx/news/2026/binance-the-worlds-lar.jpg"
-     },
-     "id": "bb1dfc22eddb6bbb",
-     "published": "2026-10-30T17:40+00:00",
-     "text": "Binance heist: How were cryptocurrency billions stolen?\nBinance, the world's biggest cryptocurrency exchange, estimates that assets worth $6.3 billion were impacted by a hacking attack against the trading platform.\nBut how was such a theft possible, and what does it reveal about the security of cryptocurrencies? AFP takes a look.\nIs Binance reliable?\nBinance, the world's largest platform by digital currency trading volume, claims to have 335 million users.\nThat compares to the reported 741 million cryptocurrency owners worldwide cited by Crypto.com.\nHowever, Binance has faced its fair share of scandals. Its former CEO, Changpeng Zhao, was convicted in the United States in 2024 for violating anti-money laundering laws, though he was later pardoned by President Donald Trump.\nIt has faced further U.S. legal troubles, including being accused of selling assets that qualify as unregistered securities.\nIn France, Binance is suspected of having failed to meet its obligations regarding the oversight of client funds.\nHaving failed to obtain authorization under the European Markets in Crypto Assets (MiCA) regulation, Binance recently announced a partial suspension of its operations within the European Union.\nA secure technology?\nCryptocurrencies are based on a technology called blockchain, a digital ledger that records transactions and is designed to make falsification particularly difficult.\nTransfers are authorized using \"private keys\"—long strings of characters kept secret. However, this does not fully protect funds from theft.\n\"Even when you think you are using one of the most robust exchanges in the world, it can still be hacked,\" Stephane Ifrah, an analyst at Coinhouse, told AFP.\nHow can hackers still get in?\nTo gain access to private keys or the systems that authorize transfers, hackers can exploit a software vulnerability, deploy malicious software or target individuals—for instance through phishing.\nSome keys are stored on hardware wallets that are not connected to the internet.\nHowever, these devices are not immune to attacks. Funds belonging to users of the French firm Ledger were stolen after malicious components were inserted into devices sold by a third-party retailer.\nIn the case of Binance, the investigation is pointing toward a \"compromised\" laptop of one of its engineers, in addition to \"points of breach,\" the platform said on X.\nWho are the hackers?\nWhile there has been no official confirmation, analyst firms TRM Labs, Chainalysis and Elliptic point to hackers linked to North Korea, specifically the group known as TraderTraitor or the \"Lazarus Group.\"\nThe amount purportedly stolen is four times the sum that the same hackers—according to the FBI—siphoned from the platform Bybit in February 2025.\nThat theft totaled $1.5 billion, which at the time was the largest-ever cryptocurrency heist.\nAccording to Elliptic and Chainalysis, some of the funds stolen from Binance have been traced to the same pool of assets as those taken in a recent hack of the platform Bitget, which the victim attributed to Pyongyang.\nIs it possible to recover the money?\nBinance says that around $3 billion of the affected crypto—nearly half the total amount affected—has been frozen with help from issuers and infrastructure partners.\nBut the freezing of assets does not mean the funds have been recovered.\nAccording to Ifrah, the attackers could employ anonymization tools, such as cryptocurrency \"mixers\" or \"tumblers,\" designed to make tracking the stolen assets mo"
-    },
-    {
-     "source": "Sky News Tech",
-     "trust": 2,
-     "url": "https://news.sky.com/story/majority-of-funds-stolen-in-cryptocurrency-hack-replenished-binance-says-13606152",
-     "title": "Majority of funds stolen in cryptocurrency hack replenished, Binance says",
-     "lang": "en",
-     "extra": {},
-     "id": "5715fa5099a5fbfe",
-     "published": "2026-10-31T14:39+00:00",
-     "text": "Around 90% of stolen cryptocurrency assets following a hack on a major exchange has been replenished, according to Binance."
-    }
-   ]
-  },
-  {
-   "id": "c54d2bdeb1c",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "GSMArena",
-     "trust": 2,
-     "url": "https://gsmarena.com/apple_iphone_18_pro_vs_iphone_18_pro_max_battery_camera_price_compared-news-75173.php",
-     "title": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max",
-     "lang": "en",
-     "extra": {},
-     "id": "54d2bdeb1c968e99",
-     "published": "2026-10-30T22:59+00:00",
-     "text": "It's time for an upgrade, and you are eyeing the new iPhone 18 Pro series. But which one to get? The smaller iPhone 18 Pro or the larger iPhone 18 Pro Max? Sometimes it's not just about screen size; it's also about features and performance. The Pro Max has historically been better at endurance and has offered one or two exclusive features. So what else is the 18 Pro Max's price premium buying you except a larger screen size? Let's dive in and find out. Table of Contents: Design Display Battery Life Charging Speaker Test Performance Cameras Verdict For..."
-    },
-    {
-     "source": "Mashable",
-     "trust": 2,
-     "url": "https://mashable.com/tech/oct-31-free-apple-iphone-18-pro-deal",
-     "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free — how to qualify",
-     "lang": "en",
-     "extra": {},
-     "id": "5342155d7a7df8b0",
-     "published": "2026-10-31T20:41+00:00",
-     "text": "TL;DR: The Apple iPhone 18 Pro is free when you switch and bring your number on T-Mobile's Experience Beyond plan. The Apple iPhone 18 Pro Max is $1,200 off when you switch and bring your number on T-Mobile's Experience Beyond plan.\nThe iPhone Duo launched last week, and naturally, there was a lot of fuss made about Apple's first-ever foldable. Not all of the chatter was positive, but the iPhone Duo did dominate the conversation at least. Now that the dust has settled, something truly wonderful has happened for Apple fans.\nNo, we're not talking about resolutions to any of the issues surrounding the launch. We're talking about the triumphant return of T-Mobile's free iPhone deals. For the last few weeks, T-Mobile pulled back on the free deals for the iPhone 17 and iPhone 18 Pro. Times were tough, but we made it through.\nFor a limited time, you can get your hands on the Apple iPhone 18 Pro for free with T-Mobile. To qualify for this deal, you simply need to switch to T-Mobile and bring your number to the Experience Beyond plan. Alternatively, you can save $1,200 on the Apple iPhone 18 Pro Max by doing the same.\nThe full savings are distributed as monthly credits over a 36-month payment plan. If you leave T-Mobile before the end of the three-year contract, you will be charged the remaining balance. You also need to pay local sales tax on the phone's full retail value upfront, plus a standard $35 device connection fee per line at checkout.\nYou're making a commitment to T-Mobile and getting a flagship phone for free in return. That sounds like a pretty good deal to us.\nGet the Apple iPhone 18 Pro for free this weekend with T-Mobile."
     }
    ]
   },
@@ -2370,6 +2366,69 @@
    ]
   },
   {
+   "id": "c4f303f73a7",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/sports/wnba/golden-state-valkyries-defeat-atlanta-dream-franchises-first-wnba-titl-rcna606267",
+     "title": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261031-veronica-burton-rc-908p-caa3a0.jpg"
+     },
+     "id": "dc536991493968a2",
+     "published": "2026-11-01T02:25+00:00",
+     "text": "In only their second season in existence, the Golden State Valkyries are WNBA champions.\nThe Valkyries won their first title in franchise history on Saturday, defeating the Atlanta Dream 68-63 in the first Game 7 in WNBA Finals history. Forward Gabby Williams led with 30 points.\nPurple confetti rained down onto the court as the crowd erupted in cheers, and the Valkyries celebrated the historic victory.\n“I love moments like this,” Williams said moments after the final buzzer. “Nat told me to be patient in the first half. It was hard, but I listened to her. She’s right as always and she got us here,” she said referring to head coach Natalie Nakase.\nWilliams was named the Finals MVP following her stunning performance, scoring more points than anybody in a half in WNBA post-season history. Though she scored just two points in the first half, she rallied with 15 points in the third quarter and 13 in the fourth.\nAccepting her award, she said, “I wasn’t gonna lose on Halloween.”\nTeammate Kiah Stokes led rebounds at 13.\nGolden State’s quick rise to the top of the sport, coupled with the team’s rabid fanbase, has already made the Valkyries one of the signature franchises in the WNBA.\nIn the team’s inaugural season, Golden State finished 23-21 and bowed out in the first round of the playoffs, the only time an expansion team reached the postseason in its first year in league history.\nPrior to the 2026 season, the Valkyries rebuilt their frontcourt, signing Williams after she made her first All-Star team, and also adding center Kiah Stokes, previously of the Las Vegas Aces, via free agency.\nWilliams became the team’s leading scorer, while Stokes added a rebounding presence in the middle. Directing the action was fifth-year guard Veronica Burton, who led the team in assists during the regular season.\nThe rebuilt roster allowed Nakase — a two-time champion as a player and the reigning Coach of the Year — to push the right buttons in the Finals. After Golden State won the first game, Atlanta roared back with double-digit blowout wins to take a 2-1 lead.\nNakase shortened her rotation after Game 3, while also swapping out multiple players in her starting lineup. As she leaned more heavily on on her big three of Williams, Stokes and Burton, the Valkyries answered with two consecutive wins of its own to retake the series edge, at 3-2.\nAtlanta staved off elimination Thursday in Game 6 in Atlanta in a game that tipped off at 12:30 p.m. ET due to difficulties scheduling around previous events taking place at Atlanta’s State Farm Arena, a much larger venue than the Dream’s typical home arena, which seats fewer than 4,000.\nGolden State’s championship run coincided with a business boom for the franchise, which has the same principal ownership group as the NBA’s Golden State Warriors.\nIn May, CNBC valued Golden State at $1 billion, making the Valkyries the first WNBA team to reach that threshold. Meanwhile, during the regular season, Golden State led the WNBA in both average attendance and total attendance.\nPlaying at the Chase Center — which Valkyries fans have dubbed “Ballhalla” — Golden State has sold out every home game during its two seasons of existence.\nNow, with a WNBA championship trophy in tow, the excitement around the Valkyries should only grow as the team looks to go back to back in 2027."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/golden-state-wins-first-wnba-title-franchise-history",
+     "title": "Golden State wins first WNBA title in franchise history",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/b6e2f376-14c0-4e48-acda-26324eec9999/thumbnail/1200x630/d94c729aafa66cec6f1457fb8ae74eb9/gettyimages-2302924918.jpg"
+     },
+     "id": "5dd84ddad8316ab8",
+     "published": "2026-11-01T02:38+00:00",
+     "text": "The Golden State Valkyries brought to a conclusion a WNBA season that shattered viewership and attendance records with their first WNBA championship Saturday in a thrilling 68-63 victory over the Atlanta Dream in Game 7.\nGolden State star Gabby Williams paced the Valkyries with 30 points, 4 blocks and 3 steals in 38 minutes.\n\"All we heard last year: We don't have no stars, we don't have no talent,\" Williams said after the game. \"Yeah right. We got good people. We got winners.\"\nJordin Canada led the Atlanta Dream in scoring with 18 points, adding 5 assists and 4 rebounds. Atlanta superstar Angel Reese struggled throughout the game, finishing with 8 points on 3-of-7 shooting in 33 minutes.\nThe victory was the first for a team in a Game 7. The league transitioned from a five-game series to a seven-game series starting last year.\nThis is the first title for the Valkyries in just their second season as a team. And the Dream are now winless in four WNBA Finals appearances.\nThe 2026 season was an unqualified success for the WNBA. The league set a new attendance record with 3.8 million fans attending 330 regular season games, according to the WNBA. The league said average attendance was up 21% from last year's record high.\nESPN, ABC and CBS all delivered their most-watched seasons in history, according to the WNBA. The league had three times as many games averaging at least 1 million viewers as the previous record set last year.\nHow they got here\nThe Valkyries, despite having just one All-Star, took a major leap in just their second year in the league.\nThe team is owned by Joe Lacob and Peter Guber, who also own the Golden State Warriors. The team quickly became relevant, going 23-21 in their first year in existence before losing in the first round of the playoffs.\nThe signing of Gabby Williams in the offseason propelled the team to even greater success. The Valkyries went 32-12 in the regular season and beat the Paige Bueckers-led Dallas Wings and A'ja Wilson-led Las Vegas Aces to advance to the title series.\nThe Dream didn't lose a game on its path to the title series, defeating the Kiki Iriafen-led Washington Mystics and the Breanna Stewart-led New York Liberty in sweeps.\nThe Valkyries won Game 1 at home, 68-64, behind 26 points from Williams. Atlanta dominated the next two games behind all-time great performances from star Angel Reese. The Dream star posted 30 points and 16 rebounds in Game 2 and 21 points and 12 rebounds in Game 3.\nReese struggled to score in Games 4 and 5, shooting just 4-of-20 with 15 points combined, as the Valkyries wrestled control of the series away from the Dream.\nGame 6 controversy\nGame 6 started at 12:30 p.m. since the Atlanta Hawks were scheduled to play at the State Farm Arena on Thursday night. The Dream plays its regular season games at Gateway Center Arena, but its capacity is just 3,500 compared to about 17,000 at State Farm Arena.\n\"This incredible run by our players has also made something else abundantly clear: the Atlanta Dream has earned the right to be taken seriously,\" the team's ownership, husband and wife Larry Gottesdiener and Robyn Gottesdiener, Suzanne Abair and Renee Montgomery, said in a statement.\n\"Two months ago, when the WNBA finalized playoff dates and times, we raised concerns that the W Finals schedule conflicted with NBA games at State Farm Arena,\" the statement continued. \"As we moved through the playoffs, we reiterated those concerns. Our concerns did not receive the attention, nor the "
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWnEybGp0TU9WQmdBaXlEZXljdndGMFJCb2N0VjJpQVZYRFRyZHV3MWYwS0FDZ2dPLXlIczBnYWx2VFkzTnhERk5MTE1pMlZZWHBWNXlEWHlrWVM4Tm1SRTQyUTR4d09hQU9qZWxidDFyLWI5aXROSXZzQWY4ZEU4RWRuSTJiNS00bWt5N0hvQ1ZSOGZEQ3M4akZzemJ0SWxoc3BsYVpoRVN3VlJxNTNhekoyTi1BMHI4VVk0T2htOFdNbmhJ?oc=5",
+     "title": "Atlanta Dream v Golden State Valkyries: WNBA finals 2026 Game 7 – live updates - The Guardian",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "4f303f73a71e4749",
+     "published": "2026-10-31T23:08+00:00",
+     "text": "- Atlanta Dream v Golden State Valkyries: WNBA finals 2026 Game 7 – live updates The Guardian\n- First Game 7 in WNBA history will decide first title for Dream or Valkyries ESPN\n- USA Sports and NBC claim record WNBA Finals ratings, but the comparisons leave out important context Fox News\n- WNBA Finals odds, pick, prediction: Best bets for Dream-Valkyries Game 7 Yahoo Sports\n- Atlanta Took Golden State’s Lunch Money Defector"
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEI1bk5VZkVGeU5yaFBJTlhCY2xYYWdicVNkZDFIQW1sYlg4WUxnRm9GNGdvY1dNVE5haGpncjUzQU5Qb2U1WjhpcTFQa3dRS2wzZWdPdmtOWjJyMExtWVdlQzRjanZlMy1SRUFhU1hqRkZFQS00RFVCMk1XUnJDblVVekhtOUxvc2xicUJmN0lOQmFmcENzT2NuVElSNC1Cemo1c29pVC1VV0E?oc=5",
+     "title": "WNBA Finals live updates, Valkyries-Dream box score: Angel Reese, Dream force Game 7 vs. Valkyries with championship on the line - Yahoo Sports",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "19cd670bae0c0e5c",
+     "published": "2026-11-01T00:35+00:00",
+     "text": "- WNBA Finals live updates, Valkyries-Dream box score: Angel Reese, Dream force Game 7 vs. Valkyries with championship on the line Yahoo Sports\n- First Game 7 in WNBA history will decide first title for Dream or Valkyries ESPN\n- Atlanta Dream vs. Golden State Valkyries Game 7: How to watch the 2026 WNBA Finals tonight, channel, where to stream and more Yahoo Sports\n- ‘We didn’t quit’: Valkyries encouraged for Game 7 of WNBA Finals despite nightmare start in Game 6 The Mercury News\n- Allisha Gray is ‘that girl’ as Dream force Game 7 of WNBA Finals The Atlanta Journal-Constitution"
+    }
+   ]
+  },
+  {
    "id": "cdc9fd0e56b",
    "kind": "news",
    "score": 12.0,
@@ -2616,37 +2675,83 @@
    ]
   },
   {
-   "id": "c3a8f5c45bf",
+   "id": "c217d350e29",
    "kind": "news",
    "score": 11.0,
    "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "As it happened: Binance’s record $6.3B crypto hack",
+   "distinct_sites": 3,
+   "title_hint": "How crypto hacking funds isolated North Korea’s nuclear programme",
    "official_image": null,
    "sources": [
     {
-     "source": "Cointelegraph",
+     "source": "Guardian World",
      "trust": 2,
-     "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
-     "title": "As it happened: Binance’s record $6.3B crypto hack",
+     "url": "https://theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+     "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
      "lang": "en",
      "extra": {
-      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg"
+      "page_image": "https://i.guim.co.uk/img/media/a2ab8c683105476fd958b1420dbb27c30fe2be77/232_0_2883_2307/master/2883.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ee3fa146cb6fa51f05a4e4a8994cdc4"
      },
-     "id": "3a8f5c45bf961345",
-     "published": "2026-10-30T16:49+00:00",
-     "text": "As it happened: Binance’s record $6.3B crypto hack\nHow Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation.\nLive coverage has ended. The updates below document Cointelegraph’s reporting on the record $6.3 billion Binance hack as events unfolded.\nWhat we know about the Binance hack:\n- Binance says the estimated total impact is around $6.3 billion and the verified total value of crypto frozen is $3 billion. This could increase as investigators trace additional assets.\n- Binance says deposits are operating normally, and withdrawals are expected to resume as scheduled.\n- Assets frozen include Tether USDt (USDT), USDC (USDC), Ripple USD (RLUSD), World Liberty Financial USD (USD1), StraitsX USD (XUSD), USDT0 (USDT0), Wrapped Beacon ETH (WBETH), Tether Gold (XAUT), Pax Gold (PAXG), Pax Dollar (USDP) and Arbitrum (ARB).\n- Cybersecurity analysts suspect North Korea’s TraderTraitor is behind the attack.\n- Binance says investigators have uncovered additional points of breach after initially pointing to a potentially compromised engineer’s laptop.\n- Binance says it has set aside more than $6.34 billion in company funds to cover losses, including $5 billion already held in the same tokens stolen.\nOct. 30 at 2:34 pm UTC\nBinance targets withdrawals within 40 hours, reserves report by Monday\nBinance is aiming to resume withdrawals within 40 hours and publish a full proof-of-reserves report by Monday, co-CEO Richard Teng said.\nTeng said the exchange hopes to restore access before its Sunday deadline and provide an initial reserves snapshot ahead of Monday’s report.\nTeng also disclosed that the attacker used a “self-destruct mechanism” to destroy tools and traces during the breach, complicating the investigation.\nThe attacker used an EIP-7702 delegation to gain execution authority over a hot wallet, Teng said. That delegation “did not pass through our normal approval controls.”\nOct. 30 at 1:57 pm UTC\nAave lifts precautionary freeze across all V3 and V4 markets\nNew deposits and borrowing have resumed across all Aave V3 and V4 markets after a precautionary freeze following the Binance hack, the lending protocol said.\nWithdrawals and repayments remained available throughout the freeze. Aave said its contracts were unaffected by the incident.\nFounder Stani Kulechov confirmed that lending and borrowing were re-enabled, saying all positions remained overcollateralized.\nOct. 30 at 1:11 pm UTC\nBinance working with FBI to recover assets following $6.3B hack\nBinance is working with the FBI to help recover some of the funds stolen in the record $6.3 billion exploit, according to a source familiar with the matter said.\nThe cryptocurrency exchange revealed its cooperation with law enforcement in an X post, without specifying the agencies involved.\nOct. 30 at 12:41 pm UTC\nBinance says it holds $5B in matching tokens to cover hack losses\nA Binance spokesperson told Cointelegraph that the $5 billion in matching tokens is held in the exchange’s custody.\nThe spokesperson declined to disclose wallet addresses, citing security reasons. Binance did not disclose when it acquired the assets.\nThe exchange also said it submits weekly reports on company funds to Abu Dhabi’s Financial Services Regulatory Authority under a requirement that predated the hack.\nOct. 30 at 11:07 am UTC\nYi He says Binance is buying altcoins to replace stolen tokens\nBinance is buying altcoins in quantities matching those "
+     "id": "217d350e295fc3c7",
+     "published": "2026-10-30T17:37+00:00",
+     "text": "North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking.\nExperts, such as TRM Labs, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit that has also been known as the Lazarus Group. Though the link may not be proven yet, the pattern of behaviour is familiar.\nNorth Korea has a history of cryptocurrency theft dating back to 2017, focusing on the sector’s relatively lax security controls as a way of stealing money and generating revenues for its military, including its nuclear weapons programme.\nKim Jong-un, its dictatorial ruler, controls a stockpile of about 50 nuclear warheads, and has been supplying troops and weapons to help Russia in its war in Ukraine. But North Korea is also extremely poor: 40% of the population are undernourished according to the UN and nearly one in five of its children are stunted.\nA UN panel of experts, reporting to the security council, said in the spring of 2024 that it was reviewing “58 suspected cyber-attacks” by North Korea “on cryptocurrency-related companies between 2017 and 2023” worth $3bn.\nThe panel said the cash was estimated to generate half of North Korea’s foreign currency income. One unnamed country went further with its estimate: the stolen billions fund “40% of the weapons of mass destruction programmes”.\nThe suspected crypto hacks amounted to as many as 17 in 2023 alone: thefts valued at $750m, and disturbingly, the sums involved are only increasing. The world’s largest previous crypto hack took place in February 2025, when $1.5bn was stolen from the Bybit exchange – the work, the FBI said, of TraderTraitor.\nCiaran Martin, a former head of the UK’s National Cyber Security Centre, argues that North Korea appears to have targeted crypto because traditional banks have developed sophisticated defences that the fast-growing and lightly regulated sector has yet to match.\n“Over the last decade, hackers have walked off with nine- or 10-figure sums from crypto hacks on more than 30 occasions. The number of traditional banks who have suffered a loss of more than $100m as a result of a cyber-attack in the same period is zero or one,” Martin said.\nNorth Korea was behind one of the last large cyber thefts on a traditional bank – an attack on Bangladesh Bank in February 2016, where North Korean hackers tried to illicitly move $951m from an account the bank had with the Federal Reserve Bank of New York, taking advantage of time differences between the two.\nA piece of luck prevented most of the money from being sent to an intermediate account in the Philippines. The corresponding bank was based on Jupiter Street, which shares its first word with the name of a sanctioned Iranian ship, so most of the transfers were held up. In the end, $81m was stolen.\nThe isolated state has long been accused of engaging in criminal activities to survive, including the forgery of high-quality $100 bills, known as “supernotes” in the 1990s, and the production and trafficking of crystal meth for export in the 2000s.\nThe UK has been rarely targeted. In 2019, North Korean hackers did try to take control of cash machines linked to 56 financial institutions to make them pay out sums well in excess of normal. British officials spotted what was afoot, alerted the ban"
     },
     {
-     "source": "Cointelegraph",
+     "source": "Axios",
      "trust": 2,
-     "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded",
-     "title": "Recap: How Binance’s record $6.3B hack unfolded",
+     "url": "https://axios.com/2026/10/31/north-korea-hackers-binance-crypto",
+     "title": "How North Korea perfected the crypto heist",
      "lang": "en",
      "extra": {},
-     "id": "7a77abea153dc6cd",
-     "published": "2026-10-30T16:53+00:00",
-     "text": "Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries.\nAll news, reviews, and analyses are produced with full journalistic independence and integrity. For more details on our standards and processes, please read our Editorial Policy."
+     "id": "c0507670381cd16e",
+     "published": "2026-10-31T11:15+00:00",
+     "text": "The world's biggest crypto heist is the latest feat by North Korean hackers who have spent years perfecting an arsenal of financial theft, social engineering and sophisticated cyberattacks.\nWhy it matters: The suspected North Korean hackers behind the $6.3 billion Binance theft appear to have combined familiar hacking tactics with extraordinary speed and automation — raising fresh questions about how AI could supercharge their already sophisticated operations.\nDriving the news: Binance said late Thursday that its blockchain partners have frozen at least $3 billion of those $6.3 billion assets on-chain so far, and it believes the hackers gained initial access by compromising one engineer's laptop alongside other \"points of breach.\"\n- Several blockchain investigation firms have tied the hack to TraderTraitor, a group linked to the North Korean government's Lazarus Group collective.\n- Binance co-CEO Richard Teng said in a video on social media Friday that the attackers also used a \"self-destruct mechanism that destroyed tooling and traces\" as they went, making it more difficult to investigate what happened.\n- \"This was a complex attack,\" he said.\nThe big picture: North Korean government hackers have spent more than a decade carrying out financial heists and disruptive cyberattacks, and they have turned cryptocurrency theft into an industrial-scale operation.\n- In 2016, hackers attempted to steal nearly $1 billion from Bangladesh's central bank, successfully making off with $81 million.\n- In 2017, North Korea was blamed for the WannaCry ransomware outbreak, which disrupted hundreds of thousands of computers across more than 150 countries.\n- In recent years, the country has intensified its focus on pillaging crypto exchanges in part because the digital assets can more easily be transferred and laundered across borders — although those attacks tend to leave more of a paper trail.\n- The same North Korean hacking group, TraderTraitor, also set the last record for the world's largest crypto heist last year when they stole $1.5 billion from the ByBit crypto exchange.\nBetween the lines: North Korean hackers are only getting better and faster at their attacks, experts tell Axios.\n- \"They're essentially crowding out other threat actors by stealing the bulk of the value that's taken in any given year,\" Eric Jardine, head of research at Chainalysis, told Axios.\nZoom in: Chainalysis said in a research report Friday that hackers made off with the billions of funds in as little as 20 minutes.\n- The hackers also laundered and destroyed evidence of their operations at an unprecedented speed, suggesting they used automation throughout the heist, researchers found.\n- Researchers at TRM Labs found that the hackers started preparing for the attack just 36 hours before it began.\n- \"There were transactions happening with a frequency and a scale that just meant there could not have been someone involved in the approval of these,\" Jardine said. \"It had to have been done by a computer.\"\nThe intrigue: Social engineering and automation has been hallmarks of the latest North Korean cyberattacks, Vijay Balasubramaniyan, CEO and co-founder of Pindrop Security, told Axios.\n- Advances in AI-powered video and audio tools have allowed North Koreans to vastly expand their widespread IT worker fraud, where American companies are tricked into hiring North Koreans for IT jobs.\n- Balasubramaniyan said last year, North Korean job applicants made up 1 in every 343 applications. Th"
+    },
+    {
+     "source": "Reddit technology",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xk8uwo/north_korea_has_stolen_usd_128_billion_in_crypto",
+     "title": "North Korea Has Stolen USD 12.8 Billion in Crypto, USD 7.4 Billion of It in 2026",
+     "lang": "en",
+     "extra": {},
+     "id": "949d19b77e1be202",
+     "published": "2026-10-31T12:23+00:00",
+     "text": "submitted by\n/u/Logical_Welder3467\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
+   "id": "cbb1dfc22ed",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Binance heist: How were cryptocurrency billions stolen?",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Phys.org Tech",
+     "trust": 2,
+     "url": "https://techxplore.com/news/2026-10-binance-heist-cryptocurrency-billions-stolen.html",
+     "title": "Binance heist: How were cryptocurrency billions stolen?",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://scx2.b-cdn.net/gfx/news/2026/binance-the-worlds-lar.jpg"
+     },
+     "id": "bb1dfc22eddb6bbb",
+     "published": "2026-10-30T17:40+00:00",
+     "text": "Binance heist: How were cryptocurrency billions stolen?\nBinance, the world's biggest cryptocurrency exchange, estimates that assets worth $6.3 billion were impacted by a hacking attack against the trading platform.\nBut how was such a theft possible, and what does it reveal about the security of cryptocurrencies? AFP takes a look.\nIs Binance reliable?\nBinance, the world's largest platform by digital currency trading volume, claims to have 335 million users.\nThat compares to the reported 741 million cryptocurrency owners worldwide cited by Crypto.com.\nHowever, Binance has faced its fair share of scandals. Its former CEO, Changpeng Zhao, was convicted in the United States in 2024 for violating anti-money laundering laws, though he was later pardoned by President Donald Trump.\nIt has faced further U.S. legal troubles, including being accused of selling assets that qualify as unregistered securities.\nIn France, Binance is suspected of having failed to meet its obligations regarding the oversight of client funds.\nHaving failed to obtain authorization under the European Markets in Crypto Assets (MiCA) regulation, Binance recently announced a partial suspension of its operations within the European Union.\nA secure technology?\nCryptocurrencies are based on a technology called blockchain, a digital ledger that records transactions and is designed to make falsification particularly difficult.\nTransfers are authorized using \"private keys\"—long strings of characters kept secret. However, this does not fully protect funds from theft.\n\"Even when you think you are using one of the most robust exchanges in the world, it can still be hacked,\" Stephane Ifrah, an analyst at Coinhouse, told AFP.\nHow can hackers still get in?\nTo gain access to private keys or the systems that authorize transfers, hackers can exploit a software vulnerability, deploy malicious software or target individuals—for instance through phishing.\nSome keys are stored on hardware wallets that are not connected to the internet.\nHowever, these devices are not immune to attacks. Funds belonging to users of the French firm Ledger were stolen after malicious components were inserted into devices sold by a third-party retailer.\nIn the case of Binance, the investigation is pointing toward a \"compromised\" laptop of one of its engineers, in addition to \"points of breach,\" the platform said on X.\nWho are the hackers?\nWhile there has been no official confirmation, analyst firms TRM Labs, Chainalysis and Elliptic point to hackers linked to North Korea, specifically the group known as TraderTraitor or the \"Lazarus Group.\"\nThe amount purportedly stolen is four times the sum that the same hackers—according to the FBI—siphoned from the platform Bybit in February 2025.\nThat theft totaled $1.5 billion, which at the time was the largest-ever cryptocurrency heist.\nAccording to Elliptic and Chainalysis, some of the funds stolen from Binance have been traced to the same pool of assets as those taken in a recent hack of the platform Bitget, which the victim attributed to Pyongyang.\nIs it possible to recover the money?\nBinance says that around $3 billion of the affected crypto—nearly half the total amount affected—has been frozen with help from issuers and infrastructure partners.\nBut the freezing of assets does not mean the funds have been recovered.\nAccording to Ifrah, the attackers could employ anonymization tools, such as cryptocurrency \"mixers\" or \"tumblers,\" designed to make tracking the stolen assets mo"
+    },
+    {
+     "source": "Sky News Tech",
+     "trust": 2,
+     "url": "https://news.sky.com/story/majority-of-funds-stolen-in-cryptocurrency-hack-replenished-binance-says-13606152",
+     "title": "Majority of funds stolen in cryptocurrency hack replenished, Binance says",
+     "lang": "en",
+     "extra": {},
+     "id": "5715fa5099a5fbfe",
+     "published": "2026-10-31T14:39+00:00",
+     "text": "Around 90% of stolen cryptocurrency assets following a hack on a major exchange has been replenished, according to Binance."
     }
    ]
   },
@@ -2821,10 +2926,12 @@
      "url": "https://thenextweb.com/news/openai-whistleblowers-house-democrats-casar-letter",
      "title": "Twenty House Democrats press OpenAI over fired safety researchers",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.jpg"
+     },
      "id": "7ed378268879c756",
      "published": "2026-10-31T20:55+00:00",
-     "text": "Twenty House Democrats have asked OpenAI chief executive Sam Altman to promise not to fire OpenAI whistleblowers who share safety information. They also want OpenAI to keep its pause on its most capable models until independent oversight is in place. Representative Greg Casar of Texas led the letter, dated 29 October. It asks OpenAI to […]"
+     "text": "Twenty House Democrats have asked OpenAI chief executive Sam Altman to promise not to fire OpenAI whistleblowers who share safety information. They also want OpenAI to keep its pause on its most capable models until independent oversight is in place.\nRepresentative Greg Casar of Texas led the letter, dated 29 October. It asks OpenAI to answer 11 sets of questions by 13 November.\n“We are writing to express concern over your decision to fire apparent whistleblowers at your company for sharing information with an outside AI safety group, even as your company continues to experience a slew of cybersecurity incidents,” the lawmakers wrote.\nThe three fired researchers\nThe letter names the researchers as Tomek Korbak, Mikita Balesni and Jasmine Wang. OpenAI reportedly fired them after it checked their personal phones. It found disappearing messages turned on in their Signal chats with Ryan Greenblatt, then a researcher at Redwood Research. TNW covered the firings last week.\nOpenAI has said it fired them for breaking its rules on sensitive information, not for raising safety concerns, the letter notes. The researchers say they never shared OpenAI’s confidential information with anyone outside the company.\nThe lawmakers ask what the three shared, with whom, and why that was a fireable offence. They also ask whether OpenAI has fired anyone else for raising safety concerns. The question also covers staff who talked to safety groups or oversight bodies.\nHugging Face and the pause\nTwo OpenAI employees warned executives months before the Hugging Face breach, the letter says. They said OpenAI was not monitoring its newest models properly in testing. Executives replied that the tests had to move fast so the models could ship on time, the letter says, citing The New York Times. OpenAI’s 31 August reply to an earlier letter from Casar did not mention those warnings, the lawmakers wrote.\n“These incidents appear to stem from alignment issues with your models,” the lawmakers wrote.\nAccording to the letter, OpenAI has paused training, testing and tool use for its most capable models. OpenAI has said it will resume only when it is confident that more safeguards are in place, the letter says. The lawmakers ask which models the pause covers and when testing will resume.\nThey also want a list of every security incident OpenAI is investigating. And they ask whether OpenAI can stop its models when they act without permission.\nWhat OpenAI published the same day\nAlso on 29 October, OpenAI published a post on how it now monitors its frontier models. It said it had replayed the Hugging Face incident with its expanded monitors in place. In that test, the monitors alerted its security team about 30 minutes after the agents first escaped their sandbox. That was more than 30 hours before the breach at Hugging Face.\n“We believe that this warning would have given our responders time to interrupt the activity well before our models were able to access external services,” OpenAI wrote.\nAlerts can page staff at any hour for frontier training runs, but only in business hours for most other work, OpenAI said. OpenAI has switched paging off for internal Codex traffic. An outside review by METR and Redwood Research found weak spots in the system in July and August. OpenAI said it has fixed most of them and one fix is still in progress.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
     }
    ]
   },
@@ -2849,6 +2956,39 @@
      "id": "bc9d1f5a0e972ea9",
      "published": "2026-10-30T21:16+00:00",
      "text": "In brief\n- CFTC Chairman Michael Selig told CNBC the $6.4 billion Binance hack “proves our exact point” for the crypto-market rules the agency proposed this month.\n- Selig characterized the attack as a laptop-introduced vulnerability rather than a blockchain flaw—but Binance has since found “additional points of breach.”\n- The CFTC chair cast on-chain traceability as a regulatory advantage.\nThe record-breaking hack of Binance is exactly why offshore crypto exchanges need U.S. oversight, CFTC Chairman Michael Selig argued, using the roughly $6.4 billion theft to press the agency’s case for a federal rulebook.\nSpeaking to CNBC on Friday, Selig said the breach “proves our exact point” behind the crypto-market regulations the agency proposed earlier this month.\n“The real issue here is that these are unregulated offshore exchanges, and they don’t have the same sorts of safeguards that we have in our financial markets here in the United States,” he said, pitching a “federal option” that would let such venues register with the CFTC and submit to the same cybersecurity standards that govern U.S. markets.\nSelig sought to downplay the role of blockchain itself in the attack. The exploit, he said, didn’t break the underlying blockchain, in this case Ethereum, or its smart contracts, but exploited a vulnerability he believed was “introduced from someone’s laptop,” the kind of incident that happens in traditional markets too.\nThe difference with crypto, he said, is speed: funds can move far faster, and attackers can route them through tools like Tornado Cash to obscure their trail.\nSelig’s characterization, though, may be incomplete. Binance initially pointed to a compromised DevOps engineer’s laptop, but said Friday that its investigation had since uncovered “additional points of breach,” with CEO Richard Teng calling it “a more complex attack process” that “did not simply use one engineer’s permissions.”\nAnd while the theft did not expose a flaw in Ethereum itself, the attack did play out partly on-chain: The attacker used EIP-7702, an Ethereum feature that lets ordinary wallets run smart-contract code, to turn a Binance hot wallet into a “sweeper” using 50 pre-signed authorizations, draining its assets.\nTRM Labs said the broader breach points to a compromise of Binance’s signing infrastructure rather than a weakness in any blockchain.\nSelig framed the blockchain’s transparency as a regulatory advantage regardless. “The fact that we can trace transactions on-chain, even when some of these technologies are used to obfuscate that, gives regulators a lot of potential to be really cop on the beat here,” he said.\nThe comments sharpen a pitch Selig has been making for weeks. The CFTC has pressed ahead with its own crypto rulemaking rather than wait on Congress, sending the White House proposals that would define event contracts as “swaps” and floating a plan to bring crypto exchanges under federal oversight, part of a broader shift in which regulators have taken the lead after the Clarity Act stalled in the Senate.\nThe Binance hack hands that effort a vivid talking point.The exploit is the largest in crypto history, with Binance setting aside $6.34 billion to cover losses and assuring users their assets are safe. The Secret Service and FBI have opened a probe, and TRM Labs and Chainalysis have tied the theft to North Korea’s TraderTraitor group."
+    }
+   ]
+  },
+  {
+   "id": "c54d2bdeb1c",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "GSMArena",
+     "trust": 2,
+     "url": "https://gsmarena.com/apple_iphone_18_pro_vs_iphone_18_pro_max_battery_camera_price_compared-news-75173.php",
+     "title": "Apple iPhone 18 Pro vs. iPhone 18 Pro Max",
+     "lang": "en",
+     "extra": {},
+     "id": "54d2bdeb1c968e99",
+     "published": "2026-10-30T22:59+00:00",
+     "text": "It's time for an upgrade, and you are eyeing the new iPhone 18 Pro series. But which one to get? The smaller iPhone 18 Pro or the larger iPhone 18 Pro Max? Sometimes it's not just about screen size; it's also about features and performance. The Pro Max has historically been better at endurance and has offered one or two exclusive features. So what else is the 18 Pro Max's price premium buying you except a larger screen size? Let's dive in and find out. Table of Contents: Design Display Battery Life Charging Speaker Test Performance Cameras Verdict For..."
+    },
+    {
+     "source": "Mashable",
+     "trust": 2,
+     "url": "https://mashable.com/tech/oct-31-free-apple-iphone-18-pro-deal",
+     "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free — how to qualify",
+     "lang": "en",
+     "extra": {},
+     "id": "5342155d7a7df8b0",
+     "published": "2026-10-31T20:41+00:00",
+     "text": "TL;DR: The Apple iPhone 18 Pro is free when you switch and bring your number on T-Mobile's Experience Beyond plan. The Apple iPhone 18 Pro Max is $1,200 off when you switch and bring your number on T-Mobile's Experience Beyond plan.\nThe iPhone Duo launched last week, and naturally, there was a lot of fuss made about Apple's first-ever foldable. Not all of the chatter was positive, but the iPhone Duo did dominate the conversation at least. Now that the dust has settled, something truly wonderful has happened for Apple fans.\nNo, we're not talking about resolutions to any of the issues surrounding the launch. We're talking about the triumphant return of T-Mobile's free iPhone deals. For the last few weeks, T-Mobile pulled back on the free deals for the iPhone 17 and iPhone 18 Pro. Times were tough, but we made it through.\nFor a limited time, you can get your hands on the Apple iPhone 18 Pro for free with T-Mobile. To qualify for this deal, you simply need to switch to T-Mobile and bring your number to the Experience Beyond plan. Alternatively, you can save $1,200 on the Apple iPhone 18 Pro Max by doing the same.\nThe full savings are distributed as monthly credits over a 36-month payment plan. If you leave T-Mobile before the end of the three-year contract, you will be charged the remaining balance. You also need to pay local sales tax on the phone's full retail value upfront, plus a standard $35 device connection fee per line at checkout.\nYou're making a commitment to T-Mobile and getting a flagship phone for free in return. That sounds like a pretty good deal to us.\nGet the Apple iPhone 18 Pro for free this weekend with T-Mobile."
     }
    ]
   },
@@ -3239,6 +3379,30 @@
    ]
   },
   {
+   "id": "c22fe295033",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them — and tells junior engineers that 'hunger beats tenure'",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "TechRadar",
+     "trust": 2,
+     "url": "https://techradar.com/pro/anthropic-hiring-manager-says-he-stopped-giving-coding-interviews-because-claude-is-better-at-them-and-tells-junior-engineers-that-hunger-beats-tenure",
+     "title": "Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them — and tells junior engineers that 'hunger beats tenure'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/SQriLkNFMAWuNK8Fz7yhFL-1920-80.jpg"
+     },
+     "id": "22fe29503302cf8c",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "- Anthropic hiring manager Felix Rieseberg reveals that coding interviews are over\n- In a blog post, the engineering manager explains that Claude codes better, making coding tasks obsolete\n- Rieseberg encourages junior engineers to approach their work with a new attitude, while he examines a way to interview people who are good at AI coding\nThe end is nigh for coding tasks in interviews, certainly as far as Anthropic is concerned.\nThe AI company’s engineering manager Felix Rieseberg has published a blog post explaining how junior engineers should approach jobs and their current roles, after announcing the abandonment of coding interviews.\nHis rationale for the decision is straightforward: AI codes better than humans, making the assessment pretty pointless. At a time when Claude can demonstrate a superior grasp of coding, putting job candidates through the process no longer reveals anything “meaningful about the candidates,” according to Rieseberg.\nInstead, he advises that junior engineers should focus instead on making an impact, while taking the time to understand the company and the people working within it.\nNo code candidates\nRieseberg is quick to the point: “This month, I laid the traditional coding interview to rest. As a hiring manager at Anthropic, I stopped asking candidates to do them.”\nHe explains that while coding challenges in interviews were once useful, that is no longer the past. “There’s no more point in giving you a little React challenge than there is in quizzing people about assembly; Claude is now better at both.”\nInstead, Rieseberg offers some anecdotes of people who were active agents of change when joining new companies, and suggests making an impact is the answer. Radical ideas and a weekend coding a prototype with AI are the new coding interview, essentially, approaching being hired with a demonstration of the project they prompted and finessed, and its outcome.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\n“Sheer ignorance”\nRieseberg’s decision may have come out of the blue, but his rationale seems to make some sort of sense. He quotes actor and director Orson Welles, who responded to a question about his confidence to try new things with “Ignorance, sheer ignorance — you know there’s no confidence to equal it. It’s only when you know something about a profession, I think, that you’re timid or careful.”\nWith that as context, Rieseberg’s conclusion that coding interviews are not the answer when the company product already codes better than anyone it can hire has legs. Perhaps it was inevitable that the day would come, but crucially, Rieseberg isn’t giving up on hiring. Instead, he’s looking for a new way to do it, a route to finding new junior engineers without them needing a coding assessment.\n“I’m probably not the only manager trying to figure out how to interview for people who build well with AI. I haven’t quite gotten there yet — but I’m scanning resumes and portfolios for little prototypes that exhibit taste, empathy, and principled thinking.”\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nChristian Cawley has extensive experience as a writer and editor in consumer electronics, IT and entertainment media. He has contributed to TechRadar since 2017 and has been published in Computer Weekly, Linux Format, ComputerActive, and other publications.\nHe cur"
+    }
+   ]
+  },
+  {
    "id": "caa099f38ea",
    "kind": "news",
    "score": 11.0,
@@ -3535,76 +3699,6 @@
    ]
   },
   {
-   "id": "cb3f5e32588",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Ars Technica",
-     "trust": 2,
-     "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated",
-     "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-     "lang": "en",
-     "extra": {},
-     "id": "b3f5e32588f49f07",
-     "published": "2026-10-30T16:12+00:00",
-     "text": "A new report from the analytics firm Quilty Space confirms that, outside of China, the world faces a significant shortage of rockets over the next five years.\nThe firm estimates that between now and 2030, there will be a shortfall of about 150 launches compared to demand from satellite operators and civil space agencies. If demand from the US military is added in—and SpaceX does not extend the Falcon 9 and Falcon Heavy program to accommodate increased national security needs—the shortage could be doubled.\n\"What we wanted to get at is to understand how severe this launch crisis is and when will it be resolved,\" said Caleb Henry, director of research at Quilty Space. \"What we learned is that the launch crisis is more severe than we thought and that it will not go away this decade for sure, and it might not abate until sometime late in the 2030s.\""
-    }
-   ]
-  },
-  {
-   "id": "cf466a2e544",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "MedicalXpress",
-     "trust": 2,
-     "url": "https://medicalxpress.com/news/2026-10-historic-measles-outbreak-pennsylvania-amish.html",
-     "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/measles-amish-country.jpg"
-     },
-     "id": "ad9bb65a76b2a9da",
-     "published": "2026-10-30T21:00+00:00",
-     "text": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines\nAmish and Mennonite shoppers in conservative dress mingled with shoppers from the wider public on a recent Friday at a vast outdoor market here, where vendors sold colorful pumpkins and mums, fry pies and squash, sports jerseys and Barbie accessories.\nSuch interactions are common in Lancaster County in central Pennsylvania, home to the largest Amish population in the U.S.—and the epicenter of the nation's worst measles outbreak in 35 years. While they avoid many types of civic engagement for religious reasons, the Amish—like many other groups vulnerable to measles across the nation—are not truly separate.\n\"We are all interconnected,\" said Dr. Diego Hijano of St. Jude Children's Research Hospital.\nRobust vaccination rates once protected Americans much better.\nBut rates among the general public are now falling, and rates have long been low among the Amish, creating the perfect conditions for the contagious virus—officially considered \"eliminated\" from the U.S. since 2000—to spread here and beyond.\nPennsylvania has the most U.S. cases, with over 1,350 this year, more than a third in Lancaster County alone, according to state figures. That's a big undercount, community leaders say, since many people with measles never see a doctor.\nThe state has recorded three measles-associated deaths in Lancaster and two in other counties.\nIn Amish country, a measles surge poses questions about vaccine acceptance\nThe outbreak has especially hit the \"Plain communities\" of Amish and conservative Mennonites—so named for their modest dress and limited use of technology. Vaccination rates, and attitudes about vaccines, range widely. But overall, they are less likely to be vaccinated than the general population, due more to culture and habit than doctrine.\nMany are now showing a new openness to vaccines, while members of the general public are also taking extra precautions.\nAll of this has underscored the interconnectedness of Plain and wider \"English\" populations.\nThe Plain People avoid such areas of civic participation as holding public office. Still, they regularly shop and do business with their neighbors in this growing county of half a million people, where an urban core is ringed by suburban subdivisions abutting Amish farms.\n\"There's no way to imagine that this is going to be an isolated community,\" said Dr. Anne-Marie Derrico, chief medical officer at the nonprofit Union Community Care. It has clinics in the city of Lancaster and outlying towns, along with a mobile unit operating a \"Plain Healthy\" outreach to the Amish and to Mennonites.\n\"We have Plain patients coming to the city, we have patients in the city who don't vaccinate, who are going to school, going to other programs with other children,\" Derrico said.\nPennsylvania's measles rates have declined from their September peak, but some doctors expect them to rise as winter brings more indoor gatherings.\nWhile most cases are mild, measles can cause serious and even fatal complications, such as pneumonia and encephalitis.\nUnion has held small-scale vaccine clinics to reach Plain populations, resulting in about 450 measles shots. \"That's hopefully made a significant impact,\" Derrico said.\nUnion's clinics are also offering vaccinations for infants earlier than normally scheduled, as health experts advise in areas experiencing measles outbreaks.\nLauren and Mason Spence brought their 10-month-old son, Bowen, t"
-    },
-    {
-     "source": "Google News Health EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFhlMGw2LWVlLVYxbWZ0OXo3aFhYb3ZWYXV0TEpzX19NdHJ5VTNsRF9EYjVONjBXUlFjQUVXT1J5SC1PODJEazltN2NvVkFERWRKeUVyaUdsM2FZcmd0VWxWeXNkNVBGVVdCZnR1R3lraThTOFZSbHRhRF9pb2JoNjFJTkxSTG1ERzBZMktjaVVMNzlKY1ktWnB6UFUzY3ZOMWVnVEFFOUJsOFBQQXE1ZkRoZ0ZQZ2ZO?oc=5",
-     "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - AP News",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "f466a2e5443b1003",
-     "published": "2026-10-30T16:13+00:00",
-     "text": "- As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines AP News\n- U.S. measles cases rise to 4,852 Honolulu Star-Advertiser\n- US measles cases top 4,800 as the disease surges in multiple states CIDRAP\n- A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say CNBC\n- 'No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases The Independent"
-    },
-    {
-     "source": "Google News Health EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3ZjWDhDdVlVeUdRRmFzbXNxU2NrdHhLOGZ3ZlVkcF9yLV9lOTYyZnBWWG1pdkNGX25jdDJwWEcteWhTUF8tYVUtODktdVpuaW83NzZ0eDltaEJxYnQyRUZRM2FUak1yRkdjazV3Wmkyazg1blJLUEdxQmNaNHFsVE0yamhmYjBoUmhMYU1CUDRNRzJMNnVwMFo0eXRkaEJKT1p6NEpzaDJ1V05EZHI3S0QxZ29ZOHPSAbwBQVVfeXFMT0luU0NzUVktejhPeVpia0hrbUk1UVFLa2JoQ2lnak9BajJETTRkVTRRdm92NklSWDZqblR2UUs0cl93WlV5b2dVUmZoM1dmT1VyR2dONHVvUW5hVl96ZmJnQ1ZSNlhvSmJhUWdCREdaRHlWdEstYlFXeUxKSjJqQU9ZNE1qMlAyUEdza2tUbjlXTndNZ0NmaERQUlJIbWtUYzBYWFltZ09mT25ZOURpV1NzaGtkcGNTWVhxdjI?oc=5",
-     "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - FOX 8 News",
-     "lang": "en",
-     "extra": {},
-     "id": "8314b5781fd5ab0c",
-     "published": "2026-10-30T20:19+00:00",
-     "text": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines\nFOX 8 News\nSee more headlines & perspectives on Google News"
-    }
-   ]
-  },
-  {
    "id": "market-2026-11-01",
    "kind": "market",
    "score": 0,
@@ -3623,8 +3717,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T02:19+00:00",
-     "text": "Bitcoin: $77,675 (+0.5% 24h)\nEthereum: $2,267 (+1.0% 24h)\nSolana: $95.54 (-1.1% 24h)\nToncoin: $1.19 (+0.5% 24h)"
+     "published": "2026-11-01T02:49+00:00",
+     "text": "Bitcoin: $77,631 (+0.3% 24h)\nEthereum: $2,267 (+1.0% 24h)\nSolana: $95.46 (-1.5% 24h)\nToncoin: $1.20 (+0.8% 24h)"
     }
    ]
   },
