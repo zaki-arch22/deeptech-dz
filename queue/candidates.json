@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T19:37:14+00:00",
+ "generated_at": "2026-11-01T20:07:31+00:00",
  "clusters": [
   {
    "id": "cb8087c5f39",
@@ -448,6 +448,17 @@
      "id": "e2c8bdf6baffbfbe",
      "published": "2026-11-01T15:16+00:00",
      "text": "Michael Mann was hospitalized after he accidentally shot himself in the leg on Saturday a Los Angeles gun range, according to the L.A. Police Department.\nThe director was reportedly injured while trying to holster the firearm when the weapon accidentally went off, per TMZ, which first reported the news. The incident occurred around 4 p.m. at the Range L.A., and L.A. PD confirmed he was in stable condition at the time of the call.\n“On Saturday, at a gun range, a weapon accidentally discharged while holstered resulting in a superficial injury to film director Michael Mann. He was treated and is being released,” Mann’s reps said in a statement.\nMann is best known for directing such movies as “Heat,” “Thief,” “Manhunter,” “Collateral” and “The Insider.” He last directed 2023’s “Ferrari,” a sports biopic starring Adam Driver as Enzo Ferrari and Penelope Cruz as his wife Laura.\nThe 83-year-old filmmaker is currently working on “Heat 2,” the long-awaited sequel to his 1995 crime drama starring Al Pacino and Robert De Niro. The first film, a box office hit, follows an explosive face-off between Los Angeles Police Department detective Lieutenant Vincent Hanna (Pacino) and professional thief Neil McCauley (De Niro). Mann adapted the screenplay for “Heat 2” from the 2022 novel of the same name that he co-wrote with Meg Gardiner. Described as a sequel and prequel to the original, the follow-up looks at the early lives of Pacino and De Niro’s characters. The cast is expected to include Leonardo DiCaprio, Christian Bale and Adam Driver.\n“The characters of ‘Heat’ are so alive to me,” Mann said during a 2025 masterclass at Lumiere Festival in France. “An idea occurred to me, based on the rapport between two lethal adversaries, Pacino’s Hannah and De Niro’s McCauley, about how to do both before the events of ‘Heat’ and after.”"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlVnckxPR1NGSVJCWVAyc2U3X0h4M25MZklQOVdlMGVZeFd0WXlQelhaWVQ5VXpjUlhaOWwtbmItZGg5QUdrYmdoTUx5UHAwLTM1cEdLUnI3RnREWXk3dlVPbFJyeFp2MEw5NE8yN3BjYXBWQld5ckEwWjNwejU2Q1l0YVh4WGx2SnRjUkVTTVBKTFotejR0aGZLajNseFVGMHdXeGI1VlNENnVk?oc=5",
+     "title": "Heat director Michael Mann hospitalized after shooting range incident",
+     "lang": "en",
+     "extra": {},
+     "id": "0b395d75a63f0ef8",
+     "published": "2026-11-01T15:59+00:00",
+     "text": "Heat director Michael Mann hospitalized after shooting range incident\nThe Independent"
     },
     {
      "source": "Hollywood Reporter",
@@ -1588,6 +1599,65 @@
    ]
   },
   {
+   "id": "ce2de278a1c",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "How suspected North Korean hackers swiped billions in crypto in only minutes",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Washington Post Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWHE4QnBQRF9vakp0a0VReVZFSjNOa2hmODFJOHdLTGlzSnBkRW4yei1rbkY5cFNyT0tYbmlfQ2dIZG9GN2wyaGtIZnpMNUQ2Smx1ODVKMHJZdEhnUk9WbkZhYnJ2NmkxaUNJTXZvcmpRQ2tZa1RjdEFNSjNjWUk0QXVKSlotVEtNVmI5ME5fLXIwV0k1WTdGR0VFNmVQb2VIQ0pULXZlR0JILXdqTDZSa2hwSlJTVnRBWDlzbURhV185Zw?oc=5",
+     "title": "How suspected North Korean hackers swiped billions in crypto in only minutes",
+     "lang": "en",
+     "extra": {},
+     "id": "e2de278a1ca6466c",
+     "published": "2026-10-31T16:00+00:00",
+     "text": "How suspected North Korean hackers swiped billions in crypto in only minutes\nThe Washington Post"
+    },
+    {
+     "source": "NYT World",
+     "trust": 2,
+     "url": "https://nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+     "lang": "en",
+     "extra": {},
+     "id": "a99c268c18cb3a6c",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime."
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers",
+     "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg"
+     },
+     "id": "db22ed3811171686",
+     "published": "2026-11-01T19:57+00:00",
+     "text": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record.\nIn a security alert published Saturday, the agency attributed the attack to TraderTraitor, a North Korean hacking group also tracked as Lazarus Group, Jade Sleet, and APT38, linked to numerous cryptocurrency thefts.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the FBI said.\nThis official attribution follows blockchain intelligence firms TRM Labs and Chainalysis, which had already linked the theft to TraderTraitor.\nAs previously reported, Binance linked the breach to a compromised DevOps engineer's laptop, which allowed the attackers to access a service container and submit unauthorized withdrawal transactions.\nThe attackers stole approximately $6.36 billion in cryptocurrency across ten blockchains, with most of the funds transferred in just 20 minutes.\nThe FBI says it has observed TraderTraitor converting stolen assets primarily into Ethereum (ETH), which it expects will be further laundered through decentralized finance (DeFi) platforms and instant cryptocurrency swap services.\nThe FBI, U.S. Secret Service, and IRS Criminal Investigation are now asking cryptocurrency exchanges, blockchain operators, and other virtual asset service providers to block transactions linked to addresses the hackers used to launder stolen funds.\nThe agency also published a list of 628 cryptocurrency addresses associated with the theft, including 608 Ethereum addresses, 19 Bitcoin addresses, and one Solana address.\nTraderTraitor has a long history of targeting cryptocurrency companies and their employees, with North Korean hackers linked to numerous crypto-theft attacks, including the $387.5 million Bitget theft in September 2026, the $280 million Drift hack in April 2026, $1.5 billion Bybit heist in February 2025, and the $308 million DMM Bitcoin theft in May 2024.\nOne tactic used by North Korean Lazarus hackers is a long-running campaign known as 'Operation DreamJob,' in which they impersonate recruiters and approach software developers and cryptocurrency employees with fake job offers to trick them into installing malware.\nBoth the DMM and Bybit attacks involved compromising computers belonging to employees or developers with access to cryptocurrency infrastructure.\nIn the DMM Bitcoin attack, hackers impersonated a recruiter on LinkedIn and tricked an employee at the cryptocurrency wallet company Ginco into running malicious Python code disguised as a pre-employment test.\nThe Bybit heist also stemmed from a compromised Safe{Wallet} developer's computer, which let hackers access the wallet platform and manipulate a legitimate transaction request by a DMM employee, redirecting $1.5 billion in cryptocurrency to wallets they controlled.\nMore recently, the April 2026 Drift attack involved a six-month social engineering operation in which individuals posing as representatives of a cryptocurrency trading firm met Drift contributors in person at multiple industry conferences.\nThe attackers spent months building relationships, and are believed to have compromised employees' devices through a malicious code repository or a TestFlight appli"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5",
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist. - The New York Times",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "065dd641f6c3eba6",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.\nThe New York Times\nSee more headlines & perspectives on Google News"
+    }
+   ]
+  },
+  {
    "id": "cbb11ab35d0",
    "kind": "news",
    "score": 17.0,
@@ -2032,6 +2102,111 @@
    ]
   },
   {
+   "id": "c43efe0fc75",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "New York City Marathon 2026: How to watch live coverage, track runners, see the route map, and more",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Fast Company",
+     "trust": 2,
+     "url": "https://fastcompany.com/91633335/nyc-marathon-2026-route-map-road-closures-track-runners-live",
+     "title": "New York City Marathon 2026: How to watch live coverage, track runners, see the route map, and more",
+     "lang": "en",
+     "extra": {},
+     "id": "43efe0fc75c22650",
+     "published": "2026-10-31T14:51+00:00",
+     "text": "On Sunday, November 1, the Big Apple will be taken over by running enthusiasts.\nThe TCS New York City Marathon is back for the 50th anniversary of its expanded course. Here’s everything you need to know, from the history of the race to road closures, as well as how to tune in and cheer from the comfort of your couch.\nOne hundred and twenty-seven runners began the first New York City Marathon on September 13, 1970. Fifty-five finished the race located in Manhattan’s Central Park, which was put on by the New York Road Runners (NYRR). It cost just a dollar to enter and $1,000 to execute.\nBeginning in 1976, the course expanded to include all five New York City boroughs. This change was made to celebrate America’s 200th birthday and was so popular that it stuck.\nThe race continued even in times of adversity, showing the strength and resilience of the city. For instance, runners gave their all just two months after the September 11 attacks in 2001. During the Covid-19 pandemic, the marathon went virtual.\nIn 2024, it became the largest marathon in history with 55,646 finishers, according to NYRR. The New York City Marathon broke its own record the following year with more than 59,000 finishers.\nThis year, there are nearly 60,000 hopefuls ready to take their mark.\nThe race begins at Fort Wadsworth in Staten Island. Runners head immediately to the Verrazzano-Narrows Bridge.\nFrom there, they head to Brooklyn. Miles 13 to 15 are spent in Queens, crossing the Pulaski Bridge.\nNext up, the first of two legs are in Manhattan. A quick detour to the Bronx follows before returning to Manhattan and making a big finish in Central Park.\nYou can check out the marathon’s full map and course on NYRR’s website.\nThere’s also an interactive version here.\nBecause of this expansive course, there will be many road closures, parking restrictions, and bus diversions.\nFor a full list of these disruptions click here and get the latest details from the city’s events coordination office.\nOne of the most significant closures is that of the Verrazzano-Narrows Bridge. This begins with the upper level at 11 p.m. ET Saturday evening. The lower level will follow suit the following morning at 7 a.m. ET.\nAdditionally, the Bay Street and Lily Pond Avenue exits on Staten Island will be closed at 3 a.m. ET Sunday but reopen by 4 p.m. ET.\nAlso, do not rely on the Central Park transverse roads at 65th, 79th, and 96th streets, because they too will be closed.\nThe official app from New York Road Runners lets you follow your favorite runners. You can also check leaderboards, learn about race results, and watch live coverage. Find it here.\nMany celebrities from film, television, and Broadway will be pounding the pavement.\nAcademy Award winner Jennifer Connelly will be among the runners hoping to go all the way. Connelly is an old pro, having run the race in 2024 and finishing with a 3:45:47 timestamp. She is running to support Fred’s Team, a charity that supports the Memorial Sloan Kettering Cancer Center.\nMedia personality and journalist T.J. Holmes is also no stranger to the marathon. This will be his fourth race.\nQueer Eye alum Antoni Porowski will give it his all to support City Harvest, while Reading Rainbow’s new host, Mychal Threets, is running to support the CMAK Sandy Hook Memorial Foundation.\nBroadway star Jordan Litz ran the 2025 marathon and then did two shows as Fiyero in Wicked. This year, he is flying in from London’s West End to do the run. Thankfully, no post-race perform"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/sport/general/athletics/new-york-city-marathon-2026-results-times-leaderboard-andreas-almgren-chepkirui-b3077137.html",
+     "title": "New York City Marathon 2026 results and times as Andreas Almgren triumphs in impressive debut",
+     "lang": "en",
+     "extra": {},
+     "id": "17bd572725092f7f",
+     "published": "2026-11-01T16:28+00:00",
+     "text": "The Swede lived up to his billing in a highly-anticipated bow over the distance, while Sheila Chepkirui secured another success in the women’s race"
+    },
+    {
+     "source": "USA Today Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHhfUkdSX3pSaUdWUWlXYldqYS15Rkk1Y1ZWTW9VVVZxcU16VWI2NFdhVzUzQlN6Tm1PQVR1ZFBpSllIT3lvZlA5aHkzVHVUbWwyNjVjWXhWS0ZEU29RbnVzOERqM3VzaGJNVFlpcVp5ZVdackVuaEJiRXVITTM3NG9lX1NfSzE5N0xCMjV5Ynd2azUxclVkVHhXSlNxSDAteDRnN0hvZjVTRG5zVFgxandydl9iVTQ?oc=5",
+     "title": "NYC Marathon live updates: Sweden’s Andreas Almgren, Kenya's Sheila Chepkirui win",
+     "lang": "en",
+     "extra": {},
+     "id": "452564b587f6d224",
+     "published": "2026-11-01T16:52+00:00",
+     "text": "NYC Marathon live updates: Sweden’s Andreas Almgren, Kenya's Sheila Chepkirui win\nUSA Today"
+    },
+    {
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/7744275/2026/11/01/nyc-marathon-2026-results-andreas-almgren-sheila-chepkirui",
+     "title": "Andreas Almgren wins in New York City Marathon debut; Sheila Chepkirui reclaims title",
+     "lang": "en",
+     "extra": {},
+     "id": "20c2d7df1e3e4b81",
+     "published": "2026-11-01T17:24+00:00",
+     "text": "\"You can’t ask for a better debut,\" Andreas Almgren said after finishing first ahead of Italy's Yemaneberhan Crippa."
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+     "title": "New York marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+     "lang": "en",
+     "extra": {},
+     "id": "de673944353ce23d",
+     "published": "2026-11-01T17:33+00:00",
+     "text": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time.\n(Image credit: Angelina Katsanis)"
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDRFRHVjOXIwSG1lckxfQ1BPWGp4cmR0Z1dCMC0wY3BKTnkwVXJWZ3Z6dUhOUmI3LVdEX2pRSklBUWIzb3hEMW9Ta3k1ZktLRFdWbzNrUEtuRGJxMzBVYTRJaUs5dEs4ZWVTM1ZiczNyRm9JcWFRYWZ0THpIUTgwMVBCVUlfT0Z3LWVWbEE3dw?oc=5",
+     "title": "2026 New York City Marathon Tracking and Results",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "ee7c91f88c8a87da",
+     "published": "2026-11-01T01:45+00:00",
+     "text": "- 2026 New York City Marathon Tracking and Results LetsRun.com\n- NYC Marathon: Almgren wins men's race in debut, Chepkirui wins women's race ABC7 New York\n- NYC Marathon draws massive crowds as record number of runners hit the course New York Post\n- Running While Famous: Here Are Some of the Celebrities in the Race The New York Times\n- NYC Marathon 2026 guide: New route, wave times, bridge closures, full course map FOX 5 New York"
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNUwzQmd5dVA1TmUzZkU2aXNiUHR6LUpuRmNyaFpOWGpvRGFKX3Z0Z2I5ajd5N2xPbU9EaDlPSlJzLXVtcGN6SkZmVkJncU5GalFqVkhyS3JfYlhrdEcxOFV6MHZiX05aUVdQV0JnUWRYUkI5WWZMWlJwWkdfM2FuZ1RjYVpXTWs?oc=5",
+     "title": "Here Are the Results From the 2026 New York City Marathon",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "cd6c1e301dec000d",
+     "published": "2026-11-01T14:40+00:00",
+     "text": "- Here Are the Results From the 2026 New York City Marathon Runner's World\n- 2026 TCS NYC Marathon Live Updates: Almgren wins first title, Chepkirui takes women's race ABC7 New York\n- Running While Famous: Here Are Some of the Celebrities in the Race The New York Times\n- 2026 TCS New York City Marathon: How to track live results PIX11\n- 2026 New York City Marathon Tracker: How to Follow Runners Live FloTrack"
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUWRKQ2lzbzFaR0NZMF80U3RwRjZLNE5ybno4aVBlZnlpRF9nTE9YczNYWnViTzFzb1J0UDNydm1qLTJsRE52TkduRmpFc3d6anBydUhqd3lhRkJSampfdW42UDN6Z3RvSFJrRzljaFlHeGF2ZURvdEdIc3N6ZDF0RHFGdDVxR1RVYWRPblhmbk52OWxlWkRsTEl5bC0wM0tpclFzckJKUW1LSWtNUUktdG4zZnF3T0RDT3JCWUJHYjJzd0NRWGNKT1F2dVdTdw?oc=5",
+     "title": "New York City Marathon: Andreas Almgren wins on debut as Sheila Chepkirui reclaims crown",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "59a004003589daad",
+     "published": "2026-11-01T16:44+00:00",
+     "text": "- New York City Marathon: Andreas Almgren wins on debut as Sheila Chepkirui reclaims crown The Guardian\n- NYC Marathon 2026 Live Updates: Andreas Almgren of Sweden Wins First Title The New York Times\n- New York Marathon: Andreas Almgren wins men's race on his marathon debut BBC\n- NYC Marathon: Almgren wins men's race in debut, Chepkirui wins women's race ABC7 New York\n- Andreas Almgren - Men Athlete New York Road Runners"
+    }
+   ]
+  },
+  {
    "id": "c56006b6004",
    "kind": "news",
    "score": 16.0,
@@ -2386,6 +2561,111 @@
      "id": "035d80bf7a1f9b6a",
      "published": "2026-11-01T17:05+00:00",
      "text": "- Published\nAn award-winning University of Cambridge researcher died in the Spanish train disaster while on her way to collect a prize for scientific excellence.\nDr Marta Shahbazi was travelling to an awards ceremony on Wednesday when the train she was on crashed into another near Urda, south of Madrid, killing 69 people.\nThe mother of two was an affiliate associate professor leading a group of researchers at MRC Laboratory of Molecular Biology (LMB) in Cambridge and had earned several awards for work on human embryos and cell biology.\nIn a statement, the LMB paid tribute to the \"inspiring, talented and passionate scientist\" and described her death as a \"profound shock and a huge loss\".\nThe expert in cell biology ran the Shahbazi Laboratory at the LMB, based on the Cambridge Biomedical Campus.\nShe had been announced as the winner of a Spanish Society for Developmental Biology award for her contributions to the study of early human development and was due to collect the award at a conference in El Rompido in Andalusia.\nThe LMB said: \"As a wife and mother of two young children, Marta wrote eloquently about balancing her family and career, serving as a much-admired role model for a 'mother scientist', a term she used to describe herself.\n\"Marta was an inspiring, talented and passionate scientist whose research shed light on the earliest steps in the development of human embryos and how errors occur that lead to failed pregnancies,\" the LMB said.\nThe institute said her death was \"a profound shock and a huge loss for LMB\".\nHer work had been recognised with \"many awards and prizes\", the laboratory added.\nShahbazi is listed on the University of Cambridge website as a principal investigator at its Stem Cell Institute (CSCI).\nInstitute director Prof Bertie Gottgens said its community was \"shocked and deeply saddened\" by her death.\n\"Marta led her primary research group at the MRC Laboratory of Molecular Biology (LMB) alongside her roles as an affiliate principal investigator and affiliate assistant professor at the CSCI,\" he said.\n\"Across both institutes, she was highly respected for her pioneering research on early human development and valued for her collaborative spirit.\n\"Her creativity, passion, and generosity will be greatly missed.\"\nThe news of her death was first confirmed in a social media post, external by the CiMUS, based in Santiago de Compostela where Shahbazi's aunt works.\nShahbazi undertook her PhD at the Spanish National Cancer Research Centre, before joining the University of Cambridge as a post-doctoral fellow and then the LMB in 2020.\nThe crash in Spain happened when a state-operated Renfe high-speed train smashed into the back of a stationary train operated by the Iryo company.\nIt is one of the worst rail disasters in Europe's modern history, and Spain's worst crash since 2013.\nThree days of national mourning were declared in the country.\nMore than 540 people were on board both trains.\nThe Foreign Office has been contacted by the BBC."
+    }
+   ]
+  },
+  {
+   "id": "c6c87e58f5c",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 7,
+   "title_hint": "Stevens appears with Rogers amid rift with El-Sayed",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate",
+     "title": "Stevens appears with Rogers amid rift with El-Sayed",
+     "lang": "en",
+     "extra": {},
+     "id": "6c87e58f5c77c41e",
+     "published": "2026-11-01T17:15+00:00",
+     "text": "Haley Stevens, who had the support of the Senate Democrats' campaign arm in the primary, had previously said she was supporting the Democratic ticket."
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+     "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+     "lang": "en",
+     "extra": {},
+     "id": "9f907efba68e8247",
+     "published": "2026-11-01T17:36+00:00",
+     "text": "Rep. Haley Stevens (D-Mich.) appeared Sunday at Detroit's Perfecting Church alongside Republican Senate candidate Mike Rogers, praising his support for Black-owned businesses just two days before he faces the Democratic nominee she previously endorsed.\nWhy it matters: The appearance gives Rogers a striking moment as his party tries to peel away Black and Jewish voters in a tight race that could determine control of the Senate.\nDriving the news: Stevens' appearance with Rogers came after plans for her to attend a Detroit church service alongside Democratic nominee Abdul El-Sayed and Rep. Jim Clyburn (D-S.C.) collapsed.\nThe intrigue: A video posted by Detroit journalist Sam Robinson showed Stevens entering the church and praising Rogers.\nCatch up quick: The bitter primary rivalry erupted again last week when Stevens' fiancé, Jason Turkish, announced he would vote for Rogers, citing concerns about El-Sayed's rhetoric on Israel.\nWhat we're watching: Michigan voters choose between Rogers and El-Sayed on Tuesday, with Democrats facing a crucial test of whether they can reunite their coalition."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/turmoil-in-michigans-senate-race-as-democrat-haley-stevens-appears-with-republican-mike-rogers",
+     "title": "Turmoil in Michigan's Senate race as Democrat Haley Stevens appears with Republican Mike Rogers",
+     "lang": "en",
+     "extra": {},
+     "id": "afd0b8113bb8e510",
+     "published": "2026-11-01T17:37+00:00",
+     "text": "Stevens' show of support for President Donald Trump's endorsed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election",
+     "title": "Democrat Haley Stevens endorses GOP's Mike Rogers in Michigan Senate race 2 days before election",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP26305620559752-1024x682.jpg"
+     },
+     "id": "04c42a27dddd8a57",
+     "published": "2026-11-01T17:37+00:00",
+     "text": "The remarkable show of support for President Donald Trump's backed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/2026-election/haley-stevens-endorses-gop-mike-rogers-michigan-senate-race-el-sayed-rcna606831",
+     "title": "Rep. Haley Stevens endorses GOP candidate Mike Rogers in Michigan Senate race",
+     "lang": "en",
+     "extra": {},
+     "id": "354d3d4636b9ec8f",
+     "published": "2026-11-01T17:49+00:00",
+     "text": "Rep. Haley Stevens, D-Mich., endorsed Republican Senate candidate Mike Rogers on Sunday, a major shakeup in the final stages of a top battleground race that could determine which party controls the Senate."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+     "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-28T005746Z_1347388485_RC2NMMABFKA4_RTRMADP_3_USA-ELECTION-MICHIGAN-1785693966.jpg?resize=1920%2C1440"
+     },
+     "id": "303b9b193656dcb9",
+     "published": "2026-11-01T18:51+00:00",
+     "text": "In a blow to Democrat Abdul El-Sayed’s campaign for the United States Senate in Michigan, his former primary opponent, US Representative Haley Stevens, has endorsed Republican candidate Mike Rogers.\nStevens stunned party officials on Sunday by appearing with Rogers at a Detroit church service as tensions between her and El-Sayed boiled over two days before the election that will determine the balance of power on Capitol Hill.\nRecommended Stories\nlist of 4 items- list 1 of 4What polls say as Trump makes his final push before US midterms\n- list 2 of 4Where are the most expensive midterm races and who is funding them?\n- list 3 of 4Michigan race: All you need to know about Abdul El-Sayed v Mike Rogers\n- list 4 of 4More than 50 million votes cast in US midterm elections: What does it mean?\n“I am endorsing Mike Rogers for the US Senate. Today, I do not belong to Abdul’s campaign,” she said in a video posted on X.\nStevens’ surprising support for US President Donald Trump’s endorsed candidate in the tightly contested race comes after she was uninvited to a joint event on the same day with El-Sayed, who defeated her by a slim margin in the August primary.\n“Who we are as Michiganders is not hate, and [that] is not what we are getting out of our Democratic nominee right now,” Stevens said."
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/bcdad3edba0c",
+     "title": "Fellow Democrat Stevens snubs El-Sayed, appears with Republican rival Rogers",
+     "lang": "en",
+     "extra": {},
+     "id": "b4e6db05087c8c25",
+     "published": "2026-11-01T19:04+00:00",
+     "text": "Democratic US Representative Haley Stevens and Republican US Senate candidate Mike Rogers at church in Detroit. /Photo: Reuters"
+    },
+    {
+     "source": "Washington Post Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2VIWjBwNWdIYU1xNlFMQU5TazlOcnNhLS0tcG5aRjVrTVE4azlZUm1YRVJKTzRTSEE1UUZhX2NhLUtnTlVGbjJLREFPS1BYVlJnQWszZklmNndnV2R5MU1LRmg2RVV4dWVsSUFpZGRHT3FSYjVWeS1fS3ZWMVdvaXdMOHdNV0FJeElqMnJfNHlyQ1FXMlRoQ2REQmpzY3BERmRVTjIwLTJhSFp1dVY1SWM1Mk9xTGVvdUNrak9BQWVWZw?oc=5",
+     "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "b97ef9c56f4250b4",
+     "published": "2026-11-01T20:00+00:00",
+     "text": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers\nThe Washington Post"
     }
    ]
   },
@@ -3996,6 +4276,78 @@
    ]
   },
   {
+   "id": "cd9eacfb7aa",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Ukraine never agreed to pause strikes on Russian refineries, sources confirm",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Kyiv Independent",
+     "trust": 2,
+     "url": "https://kyivindependent.com/ukraine-never-agreed-to-pause-strikes-on-russian-refineries-sources-confirm",
+     "title": "Ukraine never agreed to pause strikes on Russian refineries, sources confirm",
+     "lang": "en",
+     "extra": {},
+     "id": "d9eacfb7aa08689a",
+     "published": "2026-10-31T16:04+00:00",
+     "text": "Ukraine's campaign targeting Russian oil refineries is ongoing, Ukrainian officials told the Kyiv Independent, rejecting reports that Kyiv had agreed to suspend the strikes.\nThe Wall Street Journal reported on Oct. 29, citing people familiar with the operations, that Ukraine had agreed to a \"pause\" in"
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
+     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "a60704bfe7ce95b2",
+     "published": "2026-11-01T11:35+00:00",
+     "text": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility\nReuters"
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/europe/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility",
+     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+     "lang": "en",
+     "extra": {},
+     "id": "a5b747a8f13973d1",
+     "published": "2026-11-01T11:36+00:00",
+     "text": "Nov 1 - Russian strikes left hundreds of thousands of Ukrainians without power on Sunday, President Volodymyr Zelenskiy said, while Russian authorities reported major damage to an industrial site following Ukrainian drone attacks on Nizhny Novgorod region."
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine: Russian attacks leave tens of thousands without power",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79822757_6.jpg"
+     },
+     "id": "2dc7dbffc3b9d3e2",
+     "published": "2026-11-01T14:13+00:00",
+     "text": "What you need to know\n-\nRussian strikes leave tens of thousands across Ukraine without power\n-\nMelania Trump-brokered ceasefire limited to Kherson region set to expire\n-\nOleshky civilians arrive in Ukrainian territory from Belarus\n-\nUkrainian President Volodymyr Zelenskyy in Istanbul for talks with Turkey's Recep Tayyip Erdogan\nHere is a roundup of events from Russia's war in Ukraine on Saturday and Sunday, October 31 and November 1:\nMelania Trump-brokered ceasefire for Kherson set to expire\nA ceasefire limited to the Kherson region in eastern Ukraine that was brokered by US First Lady Melania Trump was set to expire on Sunday evening, after neither Russia nor Ukraine announced an extension.\nThe rare truce, which began on Tuesday, is the longest since Russia launched its full-scale invasion of Ukraine in February 2022.\nThe ceasefire allowed for a humanitarian mission to the Russian-occupied city of Oleshky.\nWhile neither side reported violations of the ceasefire, Russian strikes continued overnight, with fresh power outages reported across Ukraine on Sunday, its energy ministry and president Volodymyr Zelenskyy said.\nUkrainian strikes on the Russian-occupied region of Luhansk killed at least four people since Sunday evening, Russian-backed local authorities said.\nRussian strikes leave vast numbers of Ukrainian homes without power\nHundreds of thousands of households lost electricity after overnight Russian strikes hit energy infrastructure in four Ukrainian regions, President Volodymyr Zelenskyy has said.\nIn a post on X, the Ukrainian president said energy infrastructure in four regions — Dnipro, Vinnytsia, Zhytomyr, and Khmelnytskyi — had been struck.\n\"Substations, transformers, and power lines that supply electricity to our people's homes were targeted. Repair crews are working everywhere. As of now, hundreds of thousands of families remain without power,\" Zelenskyy said Sunday.\nHe added that \"massive Russian attacks on Ukraine's other critical infrastructure are also continuing unabated.\"\n\"The intensity of the strikes is very high,\" he said, accusing Russia of seeking to exploit Ukraine's shortage of interceptors used to shoot down ballistic missiles.\nZelenskyy repeated his call to the US, Europe and Ukraine's other partners to do more to deliver missiles and other weaponry to better defend against the Russian attacks.\n\"These deliveries cannot take years. Russia is destroying infrastructure and killing our people right now, and it is betting on ballistic missiles this winter. Accordingly, decisions on air defense must also be implemented now,\" the Ukrainian president said.\nKremlin wants initial Ukraine talks without Europe\nRussia wants the opening rounds of renewed peace negotiations to involve only Moscow, Kyiv and Washington, Kremlin aide Yuri Ushakov said.\nAsked whether European countries should participate, Ushakov pointed to Russia's existing contacts with the United States.\n\"We have working contacts with the Americans,\" Interfax quoted him as saying. It was therefore \"logical\" for at least the first rounds to take place in a trilateral format, he added.\nRussia reports major damage after drone attack near refinery\nA drone attack caused \"significant damage\" to an industrial facility east of Moscow, a Russian governor said, following Ukrainian reports of a strike on a major oil refinery.\nNizhny Novgorod Governor Gleb Nikitin reported a \"massive drone attack\" overnight, saying more than 100 drones were destroyed. Preliminary informa"
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"
+     },
+     "id": "8f9ac44728b0b565",
+     "published": "2026-11-01T19:48+00:00",
+     "text": "- Published\nA humanitarian ceasefire in Ukraine's Kherson region that has allowed civilians to evacuate the Russian-occupied city of Oleshky is due to end on Sunday night.\nWhile the localised ceasefire on the front line has held since it was implemented last week, fighting has continued elsewhere.\nUkrainian President Volodymyr Zelensky said Russia had struck energy infrastructure in four regions overnight on Saturday into Sunday, leaving hundreds of thousands without power.\nAnother overnight strike killed two people, including a 13-year-old girl, in the Vinnytsia region, the State Emergency Service of Ukraine said.\nMeanwhile, Ukraine hit a major missile fuel producer in Russia's Rostov region, which caused a fire and damaged four production facilities, Zelensky said.\nIn Ukraine, repair works to restore power continued throughout the day. Most customers in the Dnipropetrovsk region had their connections restored by early evening, but more than 60,000 were still without power, the governor said.\nBecause of regular attacks on energy infrastructure, emergency power cuts have been introduced across the country. Even in the capital Kyiv, electricity is cut off for most of the day. Water supplies are also disrupted.\nZelensky said in a social media post that the intensity of Russian strikes has been \"extremely high\" over the past week, adding that Russia was \"trying to take maximum advantage of the shortage of ballistic missile interceptors\".\nHe added that \"every day\" Ukraine communicated its need for Patriot missiles - the only effective weapon for downing Russia's deadly ballistic missiles - to the US, Europe and other partners. He thanked countries for their support so far and longer-term commitments, but calling for more immediate aid.\nOn the front line, a localised ceasefire in the Kherson region was due to end at 22:59 Ukrainian time (21:00 GMT) on Sunday.\nThe limited pause in hostilities, which started on Tuesday, was brokered with the help of US First Lady Melania Trump along with Pope Leo XIV.\nIt was originally confined to the city of Oleshky, which has been occupied by Russia since the first days of the country's full-scale invasion of Ukraine in February 2022, and was soon after expanded across the wider region of Kherson.\nOleshky had been trapped on one side by the Dnipro river and the other by Russian forces, with routes out mined and subject to drone attack. Residents stuck there were suffering shortages of food, water and electricity.\nThe truce allowed for Oleskhy residents to evacuate if they wanted, and there were emotional scenes on Saturday when Ukrainians who had been trapped in the city were reunited with loved ones they had not seen for years.\nThere are Ukrainian military positions just 5km (3.1 miles) from Oleshky, but evacuees had to travel through Russian-occupied territory to southern Russia, where they flew to Belarus, before finally being driven across Ukraine's northern border.\nThe oldest evacuee was 94 years old, while the youngest was one, according to Dmytro Lubinets, Ukraine's human rights ombudsman."
+    }
+   ]
+  },
+  {
    "id": "c832cd7aba9",
    "kind": "news",
    "score": 14.0,
@@ -4291,94 +4643,24 @@
    ]
   },
   {
-   "id": "c6c87e58f5c",
+   "id": "ced1adfa4c9",
    "kind": "news",
    "score": 14.0,
    "sensitive": false,
-   "distinct_sites": 6,
-   "title_hint": "Stevens appears with Rogers amid rift with El-Sayed",
+   "distinct_sites": 1,
+   "title_hint": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية",
    "official_image": null,
    "sources": [
     {
-     "source": "CBS News",
+     "source": "Sky News Arabia",
      "trust": 2,
-     "url": "https://cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate",
-     "title": "Stevens appears with Rogers amid rift with El-Sayed",
-     "lang": "en",
+     "url": "https://skynewsarabia.com/world/1901998-%D9%82%D9%85%D8%B1-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D8%B5%D9%88%D8%B1-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D8%A7%D8%A6%D9%82%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A9",
+     "title": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية",
+     "lang": "ar",
      "extra": {},
-     "id": "6c87e58f5c77c41e",
-     "published": "2026-11-01T17:15+00:00",
-     "text": "Haley Stevens, who had the support of the Senate Democrats' campaign arm in the primary, had previously said she was supporting the Democratic ticket."
-    },
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
-     "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
-     "lang": "en",
-     "extra": {},
-     "id": "9f907efba68e8247",
-     "published": "2026-11-01T17:36+00:00",
-     "text": "Rep. Haley Stevens (D-Mich.) appeared Sunday at Detroit's Perfecting Church alongside Republican Senate candidate Mike Rogers, praising his support for Black-owned businesses just two days before he faces the Democratic nominee she previously endorsed.\nWhy it matters: The appearance gives Rogers a striking moment as his party tries to peel away Black and Jewish voters in a tight race that could determine control of the Senate.\nDriving the news: Stevens' appearance with Rogers came after plans for her to attend a Detroit church service alongside Democratic nominee Abdul El-Sayed and Rep. Jim Clyburn (D-S.C.) collapsed.\nThe intrigue: A video posted by Detroit journalist Sam Robinson showed Stevens entering the church and praising Rogers.\nCatch up quick: The bitter primary rivalry erupted again last week when Stevens' fiancé, Jason Turkish, announced he would vote for Rogers, citing concerns about El-Sayed's rhetoric on Israel.\nWhat we're watching: Michigan voters choose between Rogers and El-Sayed on Tuesday, with Democrats facing a crucial test of whether they can reunite their coalition."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/politics/turmoil-in-michigans-senate-race-as-democrat-haley-stevens-appears-with-republican-mike-rogers",
-     "title": "Turmoil in Michigan's Senate race as Democrat Haley Stevens appears with Republican Mike Rogers",
-     "lang": "en",
-     "extra": {},
-     "id": "afd0b8113bb8e510",
-     "published": "2026-11-01T17:37+00:00",
-     "text": "Stevens' show of support for President Donald Trump's endorsed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election",
-     "title": "Democrat Haley Stevens endorses GOP's Mike Rogers in Michigan Senate race 2 days before election",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP26305620559752-1024x682.jpg"
-     },
-     "id": "04c42a27dddd8a57",
-     "published": "2026-11-01T17:37+00:00",
-     "text": "The remarkable show of support for President Donald Trump's backed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary."
-    },
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/2026-election/haley-stevens-endorses-gop-mike-rogers-michigan-senate-race-el-sayed-rcna606831",
-     "title": "Rep. Haley Stevens endorses GOP candidate Mike Rogers in Michigan Senate race",
-     "lang": "en",
-     "extra": {},
-     "id": "354d3d4636b9ec8f",
-     "published": "2026-11-01T17:49+00:00",
-     "text": "Rep. Haley Stevens, D-Mich., endorsed Republican Senate candidate Mike Rogers on Sunday, a major shakeup in the final stages of a top battleground race that could determine which party controls the Senate."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
-     "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-28T005746Z_1347388485_RC2NMMABFKA4_RTRMADP_3_USA-ELECTION-MICHIGAN-1785693966.jpg?resize=1920%2C1440"
-     },
-     "id": "303b9b193656dcb9",
-     "published": "2026-11-01T18:51+00:00",
-     "text": "In a blow to Democrat Abdul El-Sayed’s campaign for the United States Senate in Michigan, his former primary opponent, US Representative Haley Stevens, has endorsed Republican candidate Mike Rogers.\nStevens stunned party officials on Sunday by appearing with Rogers at a Detroit church service as tensions between her and El-Sayed boiled over two days before the election that will determine the balance of power on Capitol Hill.\nRecommended Stories\nlist of 4 items- list 1 of 4What polls say as Trump makes his final push before US midterms\n- list 2 of 4Where are the most expensive midterm races and who is funding them?\n- list 3 of 4Michigan race: All you need to know about Abdul El-Sayed v Mike Rogers\n- list 4 of 4More than 50 million votes cast in US midterm elections: What does it mean?\n“I am endorsing Mike Rogers for the US Senate. Today, I do not belong to Abdul’s campaign,” she said in a video posted on X.\nStevens’ surprising support for US President Donald Trump’s endorsed candidate in the tightly contested race comes after she was uninvited to a joint event on the same day with El-Sayed, who defeated her by a slim margin in the August primary.\n“Who we are as Michiganders is not hate, and [that] is not what we are getting out of our Democratic nominee right now,” Stevens said."
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/bcdad3edba0c",
-     "title": "Fellow Democrat Stevens snubs El-Sayed, appears with Republican rival Rogers",
-     "lang": "en",
-     "extra": {},
-     "id": "b4e6db05087c8c25",
-     "published": "2026-11-01T19:04+00:00",
-     "text": "Democratic US Representative Haley Stevens and Republican US Senate candidate Mike Rogers at church in Detroit. /Photo: Reuters"
+     "id": "ed1adfa4c981f310",
+     "published": "2026-11-01T19:48+00:00",
+     "text": "بعد سنوات من الاختباء في أعماق الفضاء، ظهرت أخيرا ملامح مركبة صينية غامضة ظلت تثير فضول مراقبي الأقمار الاصطناعية، بعدما نجح قمر صناعي أميركي في التقاط صورة نادرة لها.\nوبحسب تقرير نشره موقع \"فيوتشرزم\"، كشفت الصورة، التي التقطت في عام 2024 ولم يُعلن عنها إلا مؤخرا، عن طائرة فضائية صينية فائقة السرية تُعرف باسم \"شينلونغ\"، أثناء تحليقها في مدار حول الأرض.\nوالتقط الصورة قمر اصطناعي تابع لشركة \"فانتور\" الأميركية، المعروفة سابقا باسم \"ماكسار\"، في اختراق لسرية المركبة التي ظلت طبيعة أنشطتها تثير تساؤلات واسعة.\nوتُظهر اللقطة مركبة ذات جناحين نحيفين، وإلى جوارها جسم يبدو كأنه قمر اصطناعي ملتحم بها، مزود بمصفوفتين كبيرتين من الألواح الشمسية.\nويحمل تصميم الطائرة الصينية تشابها لافتا مع المركبة العسكرية الأميركية \"إكس-37 بي\"، التابعة لقوة الفضاء، والتي طورتها شركة \"بوينغ\" لتنفيذ مهمات فضائية سرية.\nمهمات غامضة في الفضاء\nجاء الكشف عن الصورة ضمن تقييم استخباراتي حديث لوكالة استخبارات الدفاع الأميركية، رفع البنتاغون السرية عنه، ويتناول التهديدات العسكرية المتزايدة المرتبطة بالأنشطة الفضائية.\nورغم أهمية الصورة، لم يقدم التقييم الأميركي إجابات حاسمة بشأن طبيعة المهام التي تنفذها \"شينلونغ\"، أو الأهداف الحقيقية وراء وجودها المستمر في المدار.\nوتحيط بكثير من تفاصيل البرنامج الصيني سرية مشددة، خصوصا أن بكين نفذت أربع مهمات للمركبة خلال السنوات الست الماضية دون الكشف عن تفاصيلها.\nوكانت وكالة الفضاء الصينية قد قالت سابقا إن المركبة ستساعد على تطوير وسائل أكثر سهولة وأقل تكلفة للرحلات الفضائية ذهابا وإيابا مستقبلا.\nلكن إطلاق أجسام غامضة خلال تحليقها أثار شكوك الخبراء، الذين يرجح بعضهم أن المركبة قد تنفذ عمليات لالتقاط أجسام فضائية باستخدام أذرع روبوتية.\nسباق المركبات الفضائية العسكرية\nوفي الولايات المتحدة، تواصل المركبة \"إكس-37 بي\" تنفيذ مهماتها المدارية، بعدما أمضت آلاف الأيام في الفضاء على مدار السنوات الست عشرة الماضية.\nوانطلقت أحدث مهماتها في أغسطس 2025، فيما سبق أن نفذت عام 2024 مناورة كبح هوائي خطرة لخفض ارتفاعها من مدار شديد الاستطالة.\nولم تتوقف المخاوف الأميركية عند المركبة الصينية، إذ حذر البنتاغون من امتلاك الجيش الصيني أسلحة ليزر أرضية قادرة على التشويش على الأقمار الاصطناعية وإلحاق أضرار بها.\nوتوقع التقييم أن تطور الصين، بحلول النصف الثاني من العقد الحالي، أنظمة طاقة موجهة في الفضاء وأسلحة أرضية أكثر قوة، بما يهدد الأقمار الاصطناعية في المدارات المرتفعة."
     }
    ]
   },
@@ -4438,31 +4720,6 @@
      "id": "d194961c9a297212",
      "published": "2026-11-01T01:00+00:00",
      "text": "- Rumour: Alleged Persona 1 Remake Gameplay Leaks Online Push Square\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Persona 1 Remake Leak: Fans React to 2-Min Clip [2026] shattered.io\n- Persona 1 Remake Trailer Leak: 360p, Unconfirmed [2026] https://tech-insider.org/\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
-    }
-   ]
-  },
-  {
-   "id": "ca3e6e43d61",
-   "kind": "news",
-   "score": 13.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
-   "official_image": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
-   "sources": [
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master",
-     "title": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
-     "lang": "en",
-     "extra": {
-      "image": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
-      "page_image": "https://images.nintendolife.com/fa666ebd7149e/1280x720.jpg"
-     },
-     "id": "a3e6e43d619845f8",
-     "published": "2026-11-01T08:00+00:00",
-     "text": "Capcom continues to build excitement for Mega Man: Dual Override, and following the official reveal of Tank Man earlier this week, it's now lifted the lid on Cook Man.\nHe is one of the many Robot Masters coming to the game. This master chef is ready to slice and dice Proto Man and the Blue Bomber when his game launches on the Switch 1 & 2 in 2027.\nHere's an official description, and you can see this robot master in action in the video above (courtesy of Rockman Corner):\nA wandering chef seeking recognition for his culinary prowess, Cook Man prepares to slice and dice our heroes with his Kung Fu Cooking style in Mega Man: Dual Override.\nCan you take the heat, or will you get out of his kitchen?\nIf you're not familiar with Mega Man, these Robot Masters will pop up at the end of each stage and attempt to stop Mega Man and Proto Man in their tracks.\nOnce again, Cook Man will join Tank Man, Twinkle Girl and Jet Man, with more Robot Master reveals on the way."
     }
    ]
   },
@@ -4592,52 +4849,6 @@
      "id": "3d68b2d33e50943f",
      "published": "2026-10-31T20:49+00:00",
      "text": "- Here’s how the new MacBook Pro and macOS 27 are optimized for touch 9to5Mac\n- Apple’s new laptop supports one of the coolest features for color pros The Verge\n- The Touchscreen MacBook Is Here. For Me, It’s Wait Till Next Year CNET\n- Steve Jobs Told Tim Cook Never to Ask This 1 Question. Apple's New Touchscreen Mac Explains Why Inc.com\n- Apple releases new touch screen laptop: Here's what consumers need to know ABC News - Breaking News, Latest News and Videos"
-    }
-   ]
-  },
-  {
-   "id": "cda001b3a07",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Wccftech",
-     "trust": 2,
-     "url": "https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked",
-     "title": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked",
-     "lang": "en",
-     "extra": {},
-     "id": "679d373b3c1c177c",
-     "published": "2026-10-31T20:08+00:00",
-     "text": "Anthropic has introduced new Claude Code game restrictions designed to prevent its AI coding assistant from recreating existing video games. However, the change is already generating controversy, with some developers reporting that the restrictions are also interfering with their own projects. As first reported by Game Developer, the new instruction was discovered by X user Chasm, who claims it was introduced around October 27 through a server-delivered configuration identified as tengu_heron_brook. The instruction explicitly tells Claude Code not to recreate specific existing games, even when presented under different names: \"Do not build a recreation of a specific existing game, even […]\nRead full article at https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked/"
-    },
-    {
-     "source": "The Next Web",
-     "trust": 2,
-     "url": "https://thenextweb.com/news/claude-code-game-recreation-refusals-developers",
-     "title": "Developers say Claude Code now refuses work on recreating existing games",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.thenextweb.com/2026/10/dario-amodei-anthropic-logo-phone-screen.jpg"
-     },
-     "id": "5424f702721eaf78",
-     "published": "2026-11-01T13:44+00:00",
-     "text": "Game developers have been hitting refusals from Claude Code since late October, some on projects they say they have a right to build. Bruno Ferreira reported the complaints for Tom’s Hardware on Saturday, citing a wave of issues on Claude Code’s public GitHub tracker. TNW read the issues.\nAnthropic has not announced a change, and its Claude Code changelog does not mention one. Tom’s Hardware said there was no official statement.\nWhat one developer reports\nThe owner of Conflict Simulations LLC builds personalised digital versions of board wargames for clients who own the games. Around 27 October, Claude Code began getting “a server-side instruction” to refuse game work, the developer wrote in a GitHub issue on 30 October. Sessions now refuse the work, citing an instruction against reproducing games.\n“A blanket category rule against ‘games’ cannot tell the difference between piracy and commissioned professional work for a game’s owner.” The owner of Conflict Simulations LLC, on GitHub\nIn an update, the developer said the sessions kept doing the work after the rule reportedly arrived. The refusals began only after they asked Claude to check whether the rule affected their projects. They continued in new sessions on the same code. One commenter suggested the project’s memory or Git history now carried the refusal, and the developer said they would try to clear it.\nAnthropic’s support bot told the developer the policy covers all customers, with no exception, the developer wrote. Both support tickets were later passed to staff, and the developer has filed an appeal. They asked Anthropic to aim the rule at real copyright infringement and to offer a verification path for professionals.\nThe wider context\nNot everyone on the thread agreed. One commenter said that unless the work is for the rights holders, it is no different from any other reverse-engineered port.\nOther developers reported a separate kind of block this month. Claude Code’s cyber safeguards flagged anti-cheat code for one developer’s game and a security review of another’s own game. Tom’s Hardware said the timing of the two kinds of restriction may be a coincidence.\nAnthropic says its generally available models have conservative cyber safeguards that block most cyber work. On 6 October it expanded its Cyber Verification Program, which lifts some of those blocks for vetted security teams. Members of Project Glasswing, its earlier programme for its Mythos model, move into the top tier.\nThe company also faces copyright claims, including a suit over 274 Elvis Presley songs filed in October. Separately, a tampered Claude Code extension reached Cursor users on 29 October. Anthropic has not said whether the game rule exists or will get an exemption path.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZkVNZlc3ZTRlaHZWejZBYnhmRlNBQWQ3SnYwdUpsWmo1Vmo1a09BMzVNbF9ROFZZVGxUMG12OE1iN29vNmpVcVRRa1VFc2t0ZWFsNkJoZnJjS0s4Tk51dTd0VEhzWW1BYjYzWlNMQ2V3eHlRNV94TXRYZFdrN2IyY19fVTlkVnZLN1NhN0VwVmNUTFVXa05KVkl1eE9mbkpXWWFIWXg2X0d2UG1xNjRFMXFyeEJSemd5aDVPbzZUWdIBxAFBVV95cUxObW5oXzUyRE9wZFoxZXJIblFhVERnQUw2dFJiRkdyZ01aa0pCVEtESkUwZklhM1BiWXRZYVZ5QXQ4RkZfVGVoaXFOQ1VvYkFsa0JKSllDUFBqUF9CT21hdE5waHZOTWVGTXY4OEoyd1hGRzRjcU9yT25YcDJqSU9sdGNjWEhna2lQTTlBQkM0TmZJUkxWMmlQZ1A3LXE1QVJiblVxc0Mzd2F1eldMUVpWRmZneHl4amt1RTZaUC03YXB0MWdW?oc=5",
-     "title": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked - Wccftech",
-     "lang": "en",
-     "extra": {},
-     "id": "da001b3a07c9c6b4",
-     "published": "2026-10-31T20:08+00:00",
-     "text": "- Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked Wccftech\n- Anthropic takes steps to block Claude from reverse-engineering video games Mashable\n- Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks Tom's Hardware\n- Anthropic Bans AI Game Clones and Reverse Engineering With Claude TechPowerUp\n- Users report that Anthropic blocked Claude from reverse-engineering TVs XDA"
     }
    ]
   },
@@ -5233,24 +5444,26 @@
    ]
   },
   {
-   "id": "c3f4f362ab5",
+   "id": "cd4552f02c1",
    "kind": "news",
    "score": 13.0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit",
+   "title_hint": "Binance opens transactions after historic crypto heist ‘north’ of six billion dollars",
    "official_image": null,
    "sources": [
     {
-     "source": "Teslarati",
+     "source": "Digital Trends",
      "trust": 2,
-     "url": "https://teslarati.com/elon-musk-calls-earths-data-centers-peanuts-next-to-what-spacex-is-planning-in-orbit",
-     "title": "Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit",
+     "url": "https://digitaltrends.com/computing/binance-opens-transactions-after-historic-crypto-heist-north-of-six-billion-dollars",
+     "title": "Binance opens transactions after historic crypto heist ‘north’ of six billion dollars",
      "lang": "en",
-     "extra": {},
-     "id": "3f4f362ab57a50a1",
-     "published": "2026-11-01T18:31+00:00",
-     "text": "Elon Musk is pushing back on one of the biggest worries hanging over SpaceX stock. In a reply on X on Sunday, Musk said the company’s capital expenditure efficiency is severely underestimated. He was responding to a Milk Road Stocks post citing analyst Kyle Reidhead, who estimates SpaceX will need to spend roughly $470 billion over the next five quarters.\nReidhead built that figure around the target SpaceX set on its third quarter earnings call: 13 gigawatts or more of compute by the end of 2027. In his breakdown, Nvidia captures 83 to 89 percent of the spending. SpaceX ended the quarter with 1.7 GW of nameplate compute and guided to $35 billion to $40 billion in fourth quarter capex, as Teslarati reported.\nMusk did not attach a number to his claim, but the earnings call shows the argument. CFO Bret Johnsen said new compute currently pays for itself in under a year at today’s pricing, and Musk said that window could shrink to six months next year. Using that pace, Reidhead argues about $230 billion of the $470 billion could come from operating cash flow and about $60 billion from SpaceX’s roughly $90 billion cash pile, leaving around $180 billion to borrow. Musk confirmed last week that SpaceX had already closed a new $40 billion debt raise to buy GPUs.\nThe ground buildout is not the end goal. It is what is meant to pay for the move to orbit. Replying on Friday to charts built from Sequoia partner Shaun Maguire’s SpaceX model, Musk wrote that “Terrestrial compute will be peanuts compared to orbital compute,” adding that orbital compute deployed per month “probably exceeds terrestrial around the end of 2028 and then far exceeds it in 2029.”\nMaguire’s model shows how steep that path is. It has capex climbing from $88 billion this year to $290 billion in 2027 and $369 billion in 2028, with SpaceX burning $77.8 billion in cash this year and $122.6 billion next year before turning $114.9 billion cash positive in 2028. Musk’s response to the model was, “I think we can do better.”\nThe orbital half runs through Starmind. SpaceX plans to operate up to 1 million AI satellites flying in clusters of about 10, linked by roughly 10 terabits of bandwidth, with deployment of thousands of units starting as soon as late 2027 out of its Gigasat factory in Bastrop, Texas, according to SpaceX’s space safety page. Musk has said each Starmind spacecraft will carry more than 250 kW of solar power.\nGetting there depends on launch volume. Maguire’s model assumes 250 Starship flights in 2028, up from two this year and 38 next year. The nearer test is financial: SpaceX guided to $33 billion to $37 billion in first quarter 2027 revenue, more than double the $14.58 billion it booked in Q3, and Musk reposted that guidance again on Sunday morning.\nThe post Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit appeared first on TESLARATI."
+     "extra": {
+      "page_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/binance-crypto-theft.jpg?resize=1200%2C630&ssl=1"
+     },
+     "id": "d4552f02c1369d94",
+     "published": "2026-11-01T20:01+00:00",
+     "text": "Binance has started allowing cryptocurrency withdrawals again after losing $6.3 billion worth of digital assets in one of the biggest crypto heists so far.\nFor those catching up, the $6.3 billion theft reportedly took place in around 20 minutes on October 29, following which Binance suspended withdrawals across several networks.\nBinance is gradually reopening withdrawals\nIn what is a phased reopening of its services, Binance is initially allowing withdrawals for 15 cryptocurrencies, including Bitcoin, Ether, Dogecoin, and certain USDC and USDT stablecoins. The exchange says it is prioritizing tokens based on customer demand over the past week. As for the stolen assets, Binance has used its Secure Asset Fund for Users (SAFU), Futures Insurance Fund, and corporate treasury to purchase replacements. The remaining 5% consists of cryptocurrencies that are harder to obtain in large quantities.\nAs reported by Reuters, the reopening saw customers pulling billions of dollars from the exchange, with crypto analytics platform DefiLlama recording more than $3.5 billion in net outflows on Sunday. Binance, however, says the initial rush of withdrawals has started to settle down. The company has also managed to replace around 95% of the stolen cryptocurrency using its own money, although the original assets haven’t necessarily been recovered from the hackers.\nBinance also claims that the withdrawals account for a small portion of its total managed assets, while customer deposits have remained significant.\nThe FBI has identified a North Korean hacking group\nThe FBI has attributed the attack to TraderTraitor, a North Korean state-sponsored hacking group. Blockchain analysis firms had previously identified the same group as being responsible for the heist. US President Donald Trump, however, said on Saturday that North Korea’s involvement wasn’t certain.\nThe company has promised to cover the financial losses itself, instead of passing them on to customers. However, with billions already being withdrawn from the platform, it remains to be seen how quickly Binance can regain the confidence of its users.\nRELATED COVERAGE:\n- Lost access to your crypto wallet? Don’t Google your way out of it\n- Your smart home devices could be part of a cybercrime network without you knowing\n- OpenAI’s agent ran out of crypto while completing a task, so it stole from another wallet\n- Scammers are now cloning trusted news websites to steal your money"
     }
    ]
   },
@@ -5295,63 +5508,6 @@
      "id": "dd49dec0342b3a9d",
      "published": "2026-10-31T18:46+00:00",
      "text": "- F1 Mexico GP: Norris tops final practice by 0.001s from Antonelli Autosport\n- Norris pips Antonelli to top spot in Mexico City FP3 Formula 1\n- Mexican Grand Prix qualifying: Lewis Hamilton takes pole – as it happened The Guardian\n- LIVE: F1 Mexico GP updates - Norris tops FP3, Hirakawa in for Ocon at Haas | Live text Autosport\n- Mexico City Grand Prix: Charles Leclerc sets pace in first practice for Ferrari ESPN"
-    }
-   ]
-  },
-  {
-   "id": "c70e41fc50a",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For November & December 2026",
-   "official_image": "https://images.nintendolife.com/940d0c7180224/large.jpg",
-   "sources": [
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/guides/upcoming-nintendo-switch-2-games-and-accessories-for-november-and-december-2026",
-     "title": "Guide: Upcoming Nintendo Switch 2 Games & Accessories For November & December 2026",
-     "lang": "en",
-     "extra": {
-      "image": "https://images.nintendolife.com/940d0c7180224/large.jpg"
-     },
-     "id": "eba780bc91421dc6",
-     "published": "2026-11-01T14:00+00:00",
-     "text": "It's nearly OoT.\nAs the fog on the moors begins to clear after Halloween, we head into the month of November with the biggest game of the year on the horizon. Not that one. That one.\nYes, Nintendo gamers will have their eyes on the imminent return of a little green-garbed boy and his fairy this month, although it's worth pointing out some of the other big games coming to Switches 1 and 2 after Ocarina of Time drops on the 5th.\nRead the full article on nintendolife.com"
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/nintendo-switch-games-no-switch-2-edition",
-     "title": "5 Best Nintendo Switch Games That Desperately Need Switch 2 Upgrades, Ranked",
-     "lang": "en",
-     "extra": {},
-     "id": "70e41fc50a52e65a",
-     "published": "2026-10-31T22:14+00:00",
-     "text": "The Nintendo Switch 2 has been on one heck of run through launch. Though it has yet to see new installments of some heavy-hitter franchises, Nintendo’s latest console has built up an impressive library of games over its first year and a half. A chunk of that list includes excellent Nintendo Switch 2 Editions of the Switch’s best games. Super Mario Bros. Wonder, Kirby and the Forgotten Land, and more have gotten substantial updates that have helped make great Nintendo games even better. That trend is continuing too, as evidenced by the upcoming Pikmin 4 — Nintendo Switch 2 Edition + Dandori Academy."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/new-nintendo-switch-games-november-2026",
-     "title": "5 Must-Play Nintendo Switch 2 Games Coming in November 2026",
-     "lang": "en",
-     "extra": {},
-     "id": "0b7fa44fe760150f",
-     "published": "2026-10-31T23:01+00:00",
-     "text": "November is typically a major month for video game releases, and 2026 is no exception. The biggest game of the month is undoubtedly Grand Theft Auto 6, which is one of the most anticipated entertainment events of all time. But Rockstar’s magnum opus isn’t coming to Switch 2 — not yet, anyway. That said, there are still plenty of intriguing new games coming out for Nintendo’s hybrid console in November. Here are five that we’re especially excited about."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93NHlsMFBLalBLNmZEX2VZd1NERm1JTXdpNFlrbkdjazdxeGg4MEd4N2tNNVBmcnRYNkNhWXdkSTNUNjhyQzA1bzBTVTM2VFp6MFRMMmZJcWM2Rm9oNS1fZTA5cEl4aW1UZ1pGc1FpWUZ1UQ?oc=5",
-     "title": "5 Must-Play Nintendo Switch 2 Games Coming in November 2026",
-     "lang": "en",
-     "extra": {},
-     "id": "1718336e453db910",
-     "published": "2026-10-31T23:01+00:00",
-     "text": "5 Must-Play Nintendo Switch 2 Games Coming in November 2026\nPolygon.com"
     }
    ]
   },
@@ -5494,6 +5650,31 @@
    ]
   },
   {
+   "id": "ca3e6e43d61",
+   "kind": "news",
+   "score": 12.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
+   "official_image": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
+   "sources": [
+    {
+     "source": "Nintendo News",
+     "trust": 3,
+     "url": "https://nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master",
+     "title": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
+     "lang": "en",
+     "extra": {
+      "image": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
+      "page_image": "https://images.nintendolife.com/fa666ebd7149e/1280x720.jpg"
+     },
+     "id": "a3e6e43d619845f8",
+     "published": "2026-11-01T08:00+00:00",
+     "text": "Capcom continues to build excitement for Mega Man: Dual Override, and following the official reveal of Tank Man earlier this week, it's now lifted the lid on Cook Man.\nHe is one of the many Robot Masters coming to the game. This master chef is ready to slice and dice Proto Man and the Blue Bomber when his game launches on the Switch 1 & 2 in 2027.\nHere's an official description, and you can see this robot master in action in the video above (courtesy of Rockman Corner):\nA wandering chef seeking recognition for his culinary prowess, Cook Man prepares to slice and dice our heroes with his Kung Fu Cooking style in Mega Man: Dual Override.\nCan you take the heat, or will you get out of his kitchen?\nIf you're not familiar with Mega Man, these Robot Masters will pop up at the end of each stage and attempt to stop Mega Man and Proto Man in their tracks.\nOnce again, Cook Man will join Tank Man, Twinkle Girl and Jet Man, with more Robot Master reveals on the way."
+    }
+   ]
+  },
+  {
    "id": "c85e216bdfc",
    "kind": "news",
    "score": 12.5,
@@ -5584,98 +5765,6 @@
      "id": "5717feff764892c6",
      "published": "2026-10-31T17:54+00:00",
      "text": "US Federal Election Commission data revealed this week that Elon Musk has donated at least $445 million into Republican-aligned political action committees and groups since last year. Interestingly, it seems that Musk’s deep influence isn’t enough, and he is worried. If Democrats win big on Tuesday in midterm elections, Musk ... [continued]\nThe post Elon Musk’s Attack Ads Are Backfiring As Midterms Near appeared first on CleanTechnica."
-    }
-   ]
-  },
-  {
-   "id": "c43efe0fc75",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "New York City Marathon 2026: How to watch live coverage, track runners, see the route map, and more",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Fast Company",
-     "trust": 2,
-     "url": "https://fastcompany.com/91633335/nyc-marathon-2026-route-map-road-closures-track-runners-live",
-     "title": "New York City Marathon 2026: How to watch live coverage, track runners, see the route map, and more",
-     "lang": "en",
-     "extra": {},
-     "id": "43efe0fc75c22650",
-     "published": "2026-10-31T14:51+00:00",
-     "text": "On Sunday, November 1, the Big Apple will be taken over by running enthusiasts.\nThe TCS New York City Marathon is back for the 50th anniversary of its expanded course. Here’s everything you need to know, from the history of the race to road closures, as well as how to tune in and cheer from the comfort of your couch.\nOne hundred and twenty-seven runners began the first New York City Marathon on September 13, 1970. Fifty-five finished the race located in Manhattan’s Central Park, which was put on by the New York Road Runners (NYRR). It cost just a dollar to enter and $1,000 to execute.\nBeginning in 1976, the course expanded to include all five New York City boroughs. This change was made to celebrate America’s 200th birthday and was so popular that it stuck.\nThe race continued even in times of adversity, showing the strength and resilience of the city. For instance, runners gave their all just two months after the September 11 attacks in 2001. During the Covid-19 pandemic, the marathon went virtual.\nIn 2024, it became the largest marathon in history with 55,646 finishers, according to NYRR. The New York City Marathon broke its own record the following year with more than 59,000 finishers.\nThis year, there are nearly 60,000 hopefuls ready to take their mark.\nThe race begins at Fort Wadsworth in Staten Island. Runners head immediately to the Verrazzano-Narrows Bridge.\nFrom there, they head to Brooklyn. Miles 13 to 15 are spent in Queens, crossing the Pulaski Bridge.\nNext up, the first of two legs are in Manhattan. A quick detour to the Bronx follows before returning to Manhattan and making a big finish in Central Park.\nYou can check out the marathon’s full map and course on NYRR’s website.\nThere’s also an interactive version here.\nBecause of this expansive course, there will be many road closures, parking restrictions, and bus diversions.\nFor a full list of these disruptions click here and get the latest details from the city’s events coordination office.\nOne of the most significant closures is that of the Verrazzano-Narrows Bridge. This begins with the upper level at 11 p.m. ET Saturday evening. The lower level will follow suit the following morning at 7 a.m. ET.\nAdditionally, the Bay Street and Lily Pond Avenue exits on Staten Island will be closed at 3 a.m. ET Sunday but reopen by 4 p.m. ET.\nAlso, do not rely on the Central Park transverse roads at 65th, 79th, and 96th streets, because they too will be closed.\nThe official app from New York Road Runners lets you follow your favorite runners. You can also check leaderboards, learn about race results, and watch live coverage. Find it here.\nMany celebrities from film, television, and Broadway will be pounding the pavement.\nAcademy Award winner Jennifer Connelly will be among the runners hoping to go all the way. Connelly is an old pro, having run the race in 2024 and finishing with a 3:45:47 timestamp. She is running to support Fred’s Team, a charity that supports the Memorial Sloan Kettering Cancer Center.\nMedia personality and journalist T.J. Holmes is also no stranger to the marathon. This will be his fourth race.\nQueer Eye alum Antoni Porowski will give it his all to support City Harvest, while Reading Rainbow’s new host, Mychal Threets, is running to support the CMAK Sandy Hook Memorial Foundation.\nBroadway star Jordan Litz ran the 2025 marathon and then did two shows as Fiyero in Wicked. This year, he is flying in from London’s West End to do the run. Thankfully, no post-race perform"
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/sport/general/athletics/new-york-city-marathon-2026-results-times-leaderboard-andreas-almgren-chepkirui-b3077137.html",
-     "title": "New York City Marathon 2026 results and times as Andreas Almgren triumphs in impressive debut",
-     "lang": "en",
-     "extra": {},
-     "id": "17bd572725092f7f",
-     "published": "2026-11-01T16:28+00:00",
-     "text": "The Swede lived up to his billing in a highly-anticipated bow over the distance, while Sheila Chepkirui secured another success in the women’s race"
-    },
-    {
-     "source": "USA Today Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHhfUkdSX3pSaUdWUWlXYldqYS15Rkk1Y1ZWTW9VVVZxcU16VWI2NFdhVzUzQlN6Tm1PQVR1ZFBpSllIT3lvZlA5aHkzVHVUbWwyNjVjWXhWS0ZEU29RbnVzOERqM3VzaGJNVFlpcVp5ZVdackVuaEJiRXVITTM3NG9lX1NfSzE5N0xCMjV5Ynd2azUxclVkVHhXSlNxSDAteDRnN0hvZjVTRG5zVFgxandydl9iVTQ?oc=5",
-     "title": "NYC Marathon live updates: Sweden’s Andreas Almgren, Kenya's Sheila Chepkirui win",
-     "lang": "en",
-     "extra": {},
-     "id": "452564b587f6d224",
-     "published": "2026-11-01T16:52+00:00",
-     "text": "NYC Marathon live updates: Sweden’s Andreas Almgren, Kenya's Sheila Chepkirui win\nUSA Today"
-    },
-    {
-     "source": "The Athletic Football",
-     "trust": 2,
-     "url": "https://nytimes.com/athletic/7744275/2026/11/01/nyc-marathon-2026-results-andreas-almgren-sheila-chepkirui",
-     "title": "Andreas Almgren wins in New York City Marathon debut; Sheila Chepkirui reclaims title",
-     "lang": "en",
-     "extra": {},
-     "id": "20c2d7df1e3e4b81",
-     "published": "2026-11-01T17:24+00:00",
-     "text": "\"You can’t ask for a better debut,\" Andreas Almgren said after finishing first ahead of Italy's Yemaneberhan Crippa."
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
-     "title": "New York marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
-     "lang": "en",
-     "extra": {},
-     "id": "de673944353ce23d",
-     "published": "2026-11-01T17:33+00:00",
-     "text": "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time.\n(Image credit: Angelina Katsanis)"
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNUwzQmd5dVA1TmUzZkU2aXNiUHR6LUpuRmNyaFpOWGpvRGFKX3Z0Z2I5ajd5N2xPbU9EaDlPSlJzLXVtcGN6SkZmVkJncU5GalFqVkhyS3JfYlhrdEcxOFV6MHZiX05aUVdQV0JnUWRYUkI5WWZMWlJwWkdfM2FuZ1RjYVpXTWs?oc=5",
-     "title": "Here Are the Results From the 2026 New York City Marathon",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "cd6c1e301dec000d",
-     "published": "2026-11-01T14:40+00:00",
-     "text": "- Here Are the Results From the 2026 New York City Marathon Runner's World\n- 2026 TCS NYC Marathon Live Updates: Almgren wins first title, Chepkirui takes women's race ABC7 New York\n- Running While Famous: Here Are Some of the Celebrities in the Race The New York Times\n- 2026 TCS New York City Marathon: How to track live results PIX11\n- 2026 New York City Marathon Tracker: How to Follow Runners Live FloTrack"
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUWRKQ2lzbzFaR0NZMF80U3RwRjZLNE5ybno4aVBlZnlpRF9nTE9YczNYWnViTzFzb1J0UDNydm1qLTJsRE52TkduRmpFc3d6anBydUhqd3lhRkJSampfdW42UDN6Z3RvSFJrRzljaFlHeGF2ZURvdEdIc3N6ZDF0RHFGdDVxR1RVYWRPblhmbk52OWxlWkRsTEl5bC0wM0tpclFzckJKUW1LSWtNUUktdG4zZnF3T0RDT3JCWUJHYjJzd0NRWGNKT1F2dVdTdw?oc=5",
-     "title": "New York City Marathon: Andreas Almgren wins on debut as Sheila Chepkirui reclaims crown",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "59a004003589daad",
-     "published": "2026-11-01T16:44+00:00",
-     "text": "- New York City Marathon: Andreas Almgren wins on debut as Sheila Chepkirui reclaims crown The Guardian\n- NYC Marathon 2026 Live Updates: Andreas Almgren of Sweden Wins First Title The New York Times\n- New York Marathon: Andreas Almgren wins men's race on his marathon debut BBC\n- NYC Marathon: Almgren wins men's race in debut, Chepkirui wins women's race ABC7 New York\n- Andreas Almgren - Men Athlete New York Road Runners"
     }
    ]
   },
@@ -5783,65 +5872,6 @@
      "id": "49b6bfa2fa27fa69",
      "published": "2026-11-01T15:37+00:00",
      "text": "- Apple's HomeView Ships With Six-Month-Old Software MacRumors\n- Here's a New Tour of Apple's HomeView Software MacRumors\n- How Do Apps On The HomeView Work, And What Does CarPlay Have To Do With It? Engadget\n- How HomeView foreshadows Apple’s post-app, Siri-first future Fast Company\n- HomeView Software 27.2 Reveals Wallpapers, Control Center and More Mezha.net"
-    }
-   ]
-  },
-  {
-   "id": "cd9eacfb7aa",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Ukraine never agreed to pause strikes on Russian refineries, sources confirm",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Kyiv Independent",
-     "trust": 2,
-     "url": "https://kyivindependent.com/ukraine-never-agreed-to-pause-strikes-on-russian-refineries-sources-confirm",
-     "title": "Ukraine never agreed to pause strikes on Russian refineries, sources confirm",
-     "lang": "en",
-     "extra": {},
-     "id": "d9eacfb7aa08689a",
-     "published": "2026-10-31T16:04+00:00",
-     "text": "Ukraine's campaign targeting Russian oil refineries is ongoing, Ukrainian officials told the Kyiv Independent, rejecting reports that Kyiv had agreed to suspend the strikes.\nThe Wall Street Journal reported on Oct. 29, citing people familiar with the operations, that Ukraine had agreed to a \"pause\" in"
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
-     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "a60704bfe7ce95b2",
-     "published": "2026-11-01T11:35+00:00",
-     "text": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility\nReuters"
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/europe/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility",
-     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
-     "lang": "en",
-     "extra": {},
-     "id": "a5b747a8f13973d1",
-     "published": "2026-11-01T11:36+00:00",
-     "text": "Nov 1 - Russian strikes left hundreds of thousands of Ukrainians without power on Sunday, President Volodymyr Zelenskiy said, while Russian authorities reported major damage to an industrial site following Ukrainian drone attacks on Nizhny Novgorod region."
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
-     "title": "Ukraine: Russian attacks leave tens of thousands without power",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79822757_6.jpg"
-     },
-     "id": "2dc7dbffc3b9d3e2",
-     "published": "2026-11-01T14:13+00:00",
-     "text": "What you need to know\n-\nRussian strikes leave tens of thousands across Ukraine without power\n-\nMelania Trump-brokered ceasefire limited to Kherson region set to expire\n-\nOleshky civilians arrive in Ukrainian territory from Belarus\n-\nUkrainian President Volodymyr Zelenskyy in Istanbul for talks with Turkey's Recep Tayyip Erdogan\nHere is a roundup of events from Russia's war in Ukraine on Saturday and Sunday, October 31 and November 1:\nMelania Trump-brokered ceasefire for Kherson set to expire\nA ceasefire limited to the Kherson region in eastern Ukraine that was brokered by US First Lady Melania Trump was set to expire on Sunday evening, after neither Russia nor Ukraine announced an extension.\nThe rare truce, which began on Tuesday, is the longest since Russia launched its full-scale invasion of Ukraine in February 2022.\nThe ceasefire allowed for a humanitarian mission to the Russian-occupied city of Oleshky.\nWhile neither side reported violations of the ceasefire, Russian strikes continued overnight, with fresh power outages reported across Ukraine on Sunday, its energy ministry and president Volodymyr Zelenskyy said.\nUkrainian strikes on the Russian-occupied region of Luhansk killed at least four people since Sunday evening, Russian-backed local authorities said.\nRussian strikes leave vast numbers of Ukrainian homes without power\nHundreds of thousands of households lost electricity after overnight Russian strikes hit energy infrastructure in four Ukrainian regions, President Volodymyr Zelenskyy has said.\nIn a post on X, the Ukrainian president said energy infrastructure in four regions — Dnipro, Vinnytsia, Zhytomyr, and Khmelnytskyi — had been struck.\n\"Substations, transformers, and power lines that supply electricity to our people's homes were targeted. Repair crews are working everywhere. As of now, hundreds of thousands of families remain without power,\" Zelenskyy said Sunday.\nHe added that \"massive Russian attacks on Ukraine's other critical infrastructure are also continuing unabated.\"\n\"The intensity of the strikes is very high,\" he said, accusing Russia of seeking to exploit Ukraine's shortage of interceptors used to shoot down ballistic missiles.\nZelenskyy repeated his call to the US, Europe and Ukraine's other partners to do more to deliver missiles and other weaponry to better defend against the Russian attacks.\n\"These deliveries cannot take years. Russia is destroying infrastructure and killing our people right now, and it is betting on ballistic missiles this winter. Accordingly, decisions on air defense must also be implemented now,\" the Ukrainian president said.\nKremlin wants initial Ukraine talks without Europe\nRussia wants the opening rounds of renewed peace negotiations to involve only Moscow, Kyiv and Washington, Kremlin aide Yuri Ushakov said.\nAsked whether European countries should participate, Ushakov pointed to Russia's existing contacts with the United States.\n\"We have working contacts with the Americans,\" Interfax quoted him as saying. It was therefore \"logical\" for at least the first rounds to take place in a trilateral format, he added.\nRussia reports major damage after drone attack near refinery\nA drone attack caused \"significant damage\" to an industrial facility east of Moscow, a Russian governor said, following Ukrainian reports of a strike on a major oil refinery.\nNizhny Novgorod Governor Gleb Nikitin reported a \"massive drone attack\" overnight, saying more than 100 drones were destroyed. Preliminary informa"
     }
    ]
   },
@@ -5981,15 +6011,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-01/19",
+     "url": "https://market.local/crypto/2026-11-01/20",
      "title": "Market snapshot crypto 2026-11-01",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T19:35+00:00",
-     "text": "Bitcoin: $77,740 (+0.3% 24h)\nEthereum: $2,257 (+0.2% 24h)\nSolana: $93.80 (-2.2% 24h)\nToncoin: $1.22 (+0.7% 24h)"
+     "published": "2026-11-01T20:06+00:00",
+     "text": "Bitcoin: $77,701 (+0.2% 24h)\nEthereum: $2,256 (+0.1% 24h)\nSolana: $93.89 (-2.0% 24h)\nToncoin: $1.22 (+1.1% 24h)"
     }
    ]
   },
