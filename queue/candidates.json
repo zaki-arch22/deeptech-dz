@@ -1,6 +1,148 @@
 {
- "generated_at": "2026-11-01T18:05:53+00:00",
+ "generated_at": "2026-11-01T18:36:06+00:00",
  "clusters": [
+  {
+   "id": "cb8087c5f39",
+   "kind": "news",
+   "score": 28.0,
+   "sensitive": true,
+   "distinct_sites": 11,
+   "title_hint": "Judge throws out Trump suit against Wall Street Journal over Epstein letter",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CBC",
+     "trust": 2,
+     "url": "https://cbc.ca/news/world/trump-jeffrey-epstein-lawsuit-dismissed-9.7404357?cmp=rss",
+     "title": "Judge throws out Trump suit against Wall Street Journal over Epstein letter",
+     "lang": "en",
+     "extra": {},
+     "id": "b8087c5f391bf5af",
+     "published": "2026-10-31T20:13+00:00",
+     "text": "Saying the president was \"grasping at straws,\" a U.S. federal judge on Saturday threw out Donald Trump's $10-billion lawsuit against the Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to wealthy financier Jeffrey Epstein."
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665",
+     "title": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2296569840.jpg?w=1024"
+     },
+     "id": "154d6ff5e1c546ed",
+     "published": "2026-10-31T20:15+00:00",
+     "text": "UPDATED: A federal judge has again dismissed Donald Trump‘s $10 billion defamation lawsuit against The Wall Street Journal over its reporting on a letter sent to Jeffrey Epstein for his birthday in 2003.\nU.S. District Judge Darrin P. Gayles wrote in his opinion that Trump’s lawsuit “falls short of pleading actual malice. Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.”\nTrump sued the Journal as well as a series of other defendants, including Rupert Murdoch, after it published an article in July, 2025 reporting on the contents of a bawdy letter bearing Trump’s name and included in a “birthday book” compiled for Epstein’s 50th birthday.\nIn its story, the Journal reported that the letter “contains several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker,” adding that a “pair of small arcs denotes the woman’s breasts, and the future president’s signature is a squiggly ‘Donald’ below her waist, mimicking pubic hair.”\nWatch on Deadline\nTrump has claimed that he did not compose the letter. The article did include Trump’s denial and that he was preparing to sue. Also named in the lawsuit were parent Dow Jones, News Corp. CEO Robert Thomson and reporters Khadeeja Safdar and Joseph Palazzo.\nThe judge previously tossed out Trump’s case, concluding that it failed to allege actual malice, but allowed it to be amended. The judge’s latest ruling, though, is with prejudice, meaning the same claim cannot be refiled.\nTrump intends to appeal the ruling.\nA spokesman for the president’s legal team said the president “will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions.”\nA spokesperson for Dow Jones said, “We’re pleased with the court’s decision.”\nIn his opinion, the judge opened with a quote from Justice Louis Brandeis in his concurring opinion in New York Times vs. Sullivan, the landmark 1964 Supreme Court ruling that set the precedent for public figures seeking defamation claims. It set the standard that public figures had to prove actual malice, or show that a media outlet published a story with knowledge that it was false or that it was done with reckless disregard for the truth.\nBrandeis wrote, “Those who won our independence believed … that public discussion is a political duty; and that this should be a fundamental principle of the American government.”\nIn Trump’s revised lawsuit, his attorneys claimed that the Journal reporters “did not have access to any such letter when the Article was published, which is a fact because no authentic letter or drawing exists.” They claimed the journalists “concocted this story to malign President Trump’s character and integrity, and to deceptively portray him in a false light.”\nThe House Oversight Committee later released documents that included a letter matching the Journal‘s description.\nTrump’s amended lawsuit pointed to his denials and to statements from Ghislaine Maxwell, the Epstein associate who is currently serving a sentence for her role in trafficking of underage girls. The lawsuit noted that, in an interview with then-Deputy Attorney General Todd Blanche and o"
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/10/31/trump-epstein-wsj-murdoch",
+     "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
+     "lang": "en",
+     "extra": {},
+     "id": "40a42fe9001aa604",
+     "published": "2026-10-31T20:22+00:00",
+     "text": "A federal judge on Saturday threw out President Trump's lawsuit against the Wall Street Journal and Rupert Murdoch over the paper's reporting on Trump's ties to Jeffrey Epstein,\nWhy it matters: It's the second time this year courts have blocked Trump's efforts to sue the paper over stories about his relationship with the disgraced financier.\nDriving the news: Judge Darrin Gayles of the southern district of Florida issued the 20-page ruling Saturday afternoon, finding that Trump failed to prove the paper acted with \"actual malice\" by reporting on his links to Epstein.\nZoom out: Trump first filed suit against the paper and Murdoch in July 2025, seeking $20 billion in damages.\nWhat they're saying: \"Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false,\" Gayles wrote.\nFor the record: \"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions,\" a spokesman for his legal team said in a statement.\nEditor's note: This story has been updated with additional details.\nSara Fischer contributed."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/trump-lawsuit-wall-street-journal-epstein-birthday-letter-dismissed",
+     "title": "Judge dismisses with prejudice Trump lawsuit against Wall Street Journal",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/31/78c81397-ef85-4623-ba9f-44a01355ca0d/thumbnail/1200x630/586db8bb34ef2ec7591086b018d905c6/gettyimages-2302269863.jpg"
+     },
+     "id": "021b9f5547a31d58",
+     "published": "2026-10-31T20:59+00:00",
+     "text": "A multimillion-dollar defamation lawsuit by President Trump against The Wall Street Journal over a story reporting his ties to a birthday book for Jeffrey Epstein has been thrown out.\nIn a 20-page ruling, U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice on Saturday, ruling that Mr. Trump did not prove the defendants made defamatory statements with actual malice.\nHe said the lawsuit was \"grasping at straws\" as it attempted to \"manufacture\" flaws in the WSJ's investigative reporting.\nActual malice requires that plaintiffs prove that statements made about a public figure were published with the knowledge that they were false, or with disregard for whether they are true or not.\nWhen a case is thrown out \"with prejudice,\" it cannot be refiled again, and the dismissal is permanent and incontrovertible.\n\"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants,\" a spokesperson for Mr. Trump's legal team told CBS News in a statement. \"The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions.\"\nA source familiar with Mr. Trump's legal strategy said that the decision will likely be appealed.\nThe lawsuit was over a story the WSJ published last year describing a sexually suggestive letter that the paper said bore Mr. Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.\nThe president dismissed the story as \"FAKE\" and\nagainst the paper, its parent company News Corp, the company's CEO, the reporters who wrote the story and Rupert Murdoch, News Corp's chairman emeritus.House lawmakers later subpoenaed and said: \"It's very clear President Trump did not draw this picture, and he did not sign it.\"\na redacted version of the birthday book from Epstein's estate, which at the center of Mr. Trump's lawsuit. Then-White House press secretary Karoline LeavittIn April, Gayles\n, saying the president's legal team failed to clear the legal bar needed to establish their claim. He ruled that the president came \"nowhere close\" to showing the paper acted with \"actual malice\" toward him, the standard for bringing a defamation suit as a public figure.Mr. Trump's legal team refiled the lawsuit."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049",
+     "title": "Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260731-president-trump-vsb-1806-87d55f.jpg"
+     },
+     "id": "3d4796b06b002f37",
+     "published": "2026-10-31T21:09+00:00",
+     "text": "A federal judge in Florida has tossed a revised version of President Donald Trump’s $10 billion defamation suit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein more than two decades ago.\nU.S. District Judge Darrin Gayles found Trump’s amended suit suffered from the same fatal flaw as his first attempt — it fell far short of the high legal bar to show the paper had published the story with “actual malice.”\n“As President Trump has not plausibly alleged that each Defendant made defamatory statements with actual malice, the Amended Complaint must be dismissed. And because this is President Trump’s second attempt to allege his claims, the Court finds that dismissal with prejudice is appropriate,” the judge wrote.\nTrump first sued the paper last July, shortly after the Journal published a story about a birthday book that Ghislaine Maxwell had assembled for Epstein’s 50th birthday in 2003. The book appeared to include a card from Trump, who had been friends with Epstein around that time.\nThe card contained a hand-drawn outline of a naked woman with what appeared to be Trump’s first name signed in the pubic area. It included a typewritten note depicting an imaginary conversation with Epstein, who would later be charged with sex trafficking.\nTrump denied having anything to do with the card, and his suit accused the paper of having made it up and that no such note existed.\nEpstein’s estate later released a copy of a card matching the Journal’s description. Trump and the White House maintain the document is a fake.\nTrump’s suit alleged the writers of the article “falsely represent as fact that President Trump drew the naked woman’s breasts and signed his name ‘Donald’ below her waist, ‘mimicking pubic hair,’” and that the article caused him “overwhelming financial and reputational harm.”\nTrump’s suit also criticized the paper for not publishing an image of the card in the initial story, saying that shows “no authentic letter or drawing exists” — even though the House Oversight Committee publicly released the card after getting it from the Epstein estate.\nThe suit says the Journal should have known the story was bogus because Trump said it was not true. It also chided the paper for failing to interview Epstein co-conspirator Maxwell, who’s serving 20 years in prison on sex trafficking charges. The story said Journal reporters wrote her a letter asking for an interview and included a comment from her attorney.\nThe paper’s attorneys argued that like the original suit, Trump’s revised suit came “nowhere close” to demonstrating the paper acted with actual malice, in which “the false statement was made with knowledge that it was false or with reckless disregard of whether it was false or not.”\nDespite Trump’s claim the paper failed to properly investigate the card before publishing the story, “the Article itself established that the Journal not only investigated” but also “informed readers that President Trump decried the Letter as a fake and denied writing it,” the paper said in its motion to dismiss the suit.\nFurther, the attorneys argued, alleging that someone sent another person a birthday card is not defamatory.\n“There is nothing inherently defamatory about sending a bawdy letter to a friend,” the attorneys wrote, and the article “emphasizes that the Birthday Book was created before Epstein was first arrested” and “makes clear that President Trump’s friendship with Epstein ended years before Epst"
+    },
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/judge-dismisses-trumps-wall-street-journal-lawsuit-13606496",
+     "title": "Judge dismisses Trump's Wall Street Journal lawsuit",
+     "lang": "en",
+     "extra": {},
+     "id": "3429a973bb78c06f",
+     "published": "2026-10-31T21:17+00:00",
+     "text": "A US judge has dismissed President Donald Trump's lawsuit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
+     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+     "lang": "en",
+     "extra": {},
+     "id": "ac3da7fa79157764",
+     "published": "2026-10-31T21:32+00:00",
+     "text": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/bulletin/news/trump-epstein-birthday-card-lawsuit-dismissed-wsj-b3076951.html",
+     "title": "Trump's $10bn lawsuit over Epstein birthday card dismissed by judge",
+     "lang": "en",
+     "extra": {},
+     "id": "23109de18e5107e1",
+     "published": "2026-10-31T21:38+00:00",
+     "text": ""
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423",
+     "title": "Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2280583841.jpg?w=1000&h=563&crop=1"
+     },
+     "id": "0254b054c7e4646d",
+     "published": "2026-10-31T23:23+00:00",
+     "text": "A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein was purportedly written by Trump.\nTrump’s lawsuit “falls short of pleading actual malice,” wrote U.S. District Judge Darrin P. Gayles in his opinion on Saturday. “Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.” Judge Gayles dismissed the lawsuit with prejudice, meaning Trump cannot refile the claim.\nIn April, Judge Gayles ruled that the lawsuit “fails to adequately allege actual malice,” a legal standard in the U.S. for proving defamation. At the time, the court dismissed the complaint “without prejudice,” since he had only made one attempt to state his claims.\nTrump sought at least $20 billion in damages on two counts of defamation in the initial suit, filed in July 2025. He sued the WSJ, its parent companies Dow Jones & Co. and News Corp, the reporters on the story and Rupert Murdoch.\n“We have just filed a POWERHOUSE Lawsuit against everyone involved in publishing the false, malicious, defamatory, FAKE NEWS ‘article’ in the useless ‘rag’ that is, The Wall Street Journal,” Trump wrote at the time on Truth Social. “I hope Rupert and his ‘friends’ are looking forward to the many hours of depositions and testimonies they will have to provide in this case.”"
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/united-states/us-judge-dismisses-trump-lawsuit-against-wall-steet-journal-over-epstein-letter",
+     "title": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/c4adb64fe041071d878167fe1d846565d403150f97ca8e5f1fd959d887e45702?w=1200"
+     },
+     "id": "885718a3596fc006",
+     "published": "2026-10-31T23:31+00:00",
+     "text": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter\nAI generated\nWASHINGTON – A US judge on Oct 31 dismissed President Donald Trump’s defamation lawsuit against The Wall Street Journal and media magnate Rupert Murdoch over a report that Trump sent a bawdy birthday letter to notorious sex offender Jeffrey Epstein.\nTrump had sued for US$10 billion (S$12.8 billion) after the newspaper’s story was published in July 2025 detailing the President’s alleged 2003 letter to Epstein, which apparently featured a drawing of a naked woman.\nMurdoch is the founder of News Corp, which owns The Wall Street Journal.\nThe report piled scrutiny on Trump from both Democrats and his own Republican Party, who rejected the President’s attempts to downplay the saga as a hoax and called for a full release of legal files on Epstein.\nIn the ruling on Oct 31, Judge Darrin Gayles dismissed Trump’s lawsuit with prejudice, meaning Trump cannot file an amended version of the suit, as he did when Gayles turned down an initial version of it back in April.\nThe judge wrote that in bringing his defamation claim, Trump had both times failed to establish that the defendants “acted with actual malice”.\nThe House Oversight Committee in 2025 published a copy of Trump’s alleged birthday note to Epstein, which consists of a short dialogue between “Donald” and “Jeffrey”.\n“We have certain things in common,” says Donald, to which Jeffrey responds: “Yes, we do, come to think of it.”\n“Enigmas never age, have you noticed that?” asks Donald.\n“As a matter of fact, it was clear to me the last time I saw you,” says Jeffrey.\n“A pal is a wonderful thing. Happy Birthday – and may every day be another wonderful secret,” the note ends, followed by Trump’s signature, which takes the place of pubic hair on the nude outline.\nEpstein files\nTrump’s supporters have been obsessed with the Epstein case for years and held as an article of faith that “deep state” elites were protecting a sex ring of Epstein associates, particularly in the Democratic Party and Hollywood.\nThe President fought for months to prevent the Department of Justice from releasing the so-called “Epstein Files”, but eventually signed a law passed by Congress requiring their publication.\nTrump’s name appears repeatedly in the documents, but he denies any wrongdoing and has not been charged with any criminal offences connected to the affair.\nHigh-profile figures including Britain’s former prince Andrew have been publicly disgraced for their associations with Epstein.\nAhead of the Nov 3 US midterm elections which will decide control of Congress, Democrats have reportedly spent more than US$35 million on Epstein-related advertisements.\nWith a Republican majority in the House and Senate, Trump has so far enjoyed relatively little political opposition since taking office in January 2025, giving the courts a key role in limiting him.\nIn a separate case on Oct 31, a new suit was filed to prevent Trump’s attempt to erect a huge triumphal arch in front of the iconic military cemetery outside Washington.\nThat is one of a number of projects launched by Trump in a bid to put his personal stamp on the capital, including a ballroom at the White House and a laborious renovation of the Reflecting Pool on the National Mall.\nOn Oct 30, a US federal judge pushed back on government assertions that the planned arch – which Trump has said would house drones and snipers – was needed for national security.\n“It’s something (the) regio"
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+     "lang": "en",
+     "extra": {},
+     "id": "c6374034fd181c47",
+     "published": "2026-11-01T08:20+00:00",
+     "text": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.\n(Image credit: Jacquelyn Martin)"
+    }
+   ]
+  },
   {
    "id": "cc050767038",
    "kind": "news",
@@ -155,137 +297,6 @@
      "id": "64ca4377590dad87",
      "published": "2026-11-01T09:02+00:00",
      "text": "- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Long accused of abetting crypto crimes, Binance has now become a victim AP News"
-    }
-   ]
-  },
-  {
-   "id": "cb8087c5f39",
-   "kind": "news",
-   "score": 25.0,
-   "sensitive": true,
-   "distinct_sites": 10,
-   "title_hint": "Judge throws out Trump suit against Wall Street Journal over Epstein letter",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CBC",
-     "trust": 2,
-     "url": "https://cbc.ca/news/world/trump-jeffrey-epstein-lawsuit-dismissed-9.7404357?cmp=rss",
-     "title": "Judge throws out Trump suit against Wall Street Journal over Epstein letter",
-     "lang": "en",
-     "extra": {},
-     "id": "b8087c5f391bf5af",
-     "published": "2026-10-31T20:13+00:00",
-     "text": "Saying the president was \"grasping at straws,\" a U.S. federal judge on Saturday threw out Donald Trump's $10-billion lawsuit against the Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to wealthy financier Jeffrey Epstein."
-    },
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/10/trump-wall-street-journal-lawsuit-dismissed-jeffrey-epstein-1237210665",
-     "title": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2296569840.jpg?w=1024"
-     },
-     "id": "154d6ff5e1c546ed",
-     "published": "2026-10-31T20:15+00:00",
-     "text": "UPDATED: A federal judge has again dismissed Donald Trump‘s $10 billion defamation lawsuit against The Wall Street Journal over its reporting on a letter sent to Jeffrey Epstein for his birthday in 2003.\nU.S. District Judge Darrin P. Gayles wrote in his opinion that Trump’s lawsuit “falls short of pleading actual malice. Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.”\nTrump sued the Journal as well as a series of other defendants, including Rupert Murdoch, after it published an article in July, 2025 reporting on the contents of a bawdy letter bearing Trump’s name and included in a “birthday book” compiled for Epstein’s 50th birthday.\nIn its story, the Journal reported that the letter “contains several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker,” adding that a “pair of small arcs denotes the woman’s breasts, and the future president’s signature is a squiggly ‘Donald’ below her waist, mimicking pubic hair.”\nWatch on Deadline\nTrump has claimed that he did not compose the letter. The article did include Trump’s denial and that he was preparing to sue. Also named in the lawsuit were parent Dow Jones, News Corp. CEO Robert Thomson and reporters Khadeeja Safdar and Joseph Palazzo.\nThe judge previously tossed out Trump’s case, concluding that it failed to allege actual malice, but allowed it to be amended. The judge’s latest ruling, though, is with prejudice, meaning the same claim cannot be refiled.\nTrump intends to appeal the ruling.\nA spokesman for the president’s legal team said the president “will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions.”\nA spokesperson for Dow Jones said, “We’re pleased with the court’s decision.”\nIn his opinion, the judge opened with a quote from Justice Louis Brandeis in his concurring opinion in New York Times vs. Sullivan, the landmark 1964 Supreme Court ruling that set the precedent for public figures seeking defamation claims. It set the standard that public figures had to prove actual malice, or show that a media outlet published a story with knowledge that it was false or that it was done with reckless disregard for the truth.\nBrandeis wrote, “Those who won our independence believed … that public discussion is a political duty; and that this should be a fundamental principle of the American government.”\nIn Trump’s revised lawsuit, his attorneys claimed that the Journal reporters “did not have access to any such letter when the Article was published, which is a fact because no authentic letter or drawing exists.” They claimed the journalists “concocted this story to malign President Trump’s character and integrity, and to deceptively portray him in a false light.”\nThe House Oversight Committee later released documents that included a letter matching the Journal‘s description.\nTrump’s amended lawsuit pointed to his denials and to statements from Ghislaine Maxwell, the Epstein associate who is currently serving a sentence for her role in trafficking of underage girls. The lawsuit noted that, in an interview with then-Deputy Attorney General Todd Blanche and o"
-    },
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/10/31/trump-epstein-wsj-murdoch",
-     "title": "Judge tosses Trump lawsuit against WSJ, Murdoch over Epstein story",
-     "lang": "en",
-     "extra": {},
-     "id": "40a42fe9001aa604",
-     "published": "2026-10-31T20:22+00:00",
-     "text": "A federal judge on Saturday threw out President Trump's lawsuit against the Wall Street Journal and Rupert Murdoch over the paper's reporting on Trump's ties to Jeffrey Epstein,\nWhy it matters: It's the second time this year courts have blocked Trump's efforts to sue the paper over stories about his relationship with the disgraced financier.\nDriving the news: Judge Darrin Gayles of the southern district of Florida issued the 20-page ruling Saturday afternoon, finding that Trump failed to prove the paper acted with \"actual malice\" by reporting on his links to Epstein.\nZoom out: Trump first filed suit against the paper and Murdoch in July 2025, seeking $20 billion in damages.\nWhat they're saying: \"Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false,\" Gayles wrote.\nFor the record: \"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions,\" a spokesman for his legal team said in a statement.\nEditor's note: This story has been updated with additional details.\nSara Fischer contributed."
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/trump-lawsuit-wall-street-journal-epstein-birthday-letter-dismissed",
-     "title": "Judge dismisses with prejudice Trump lawsuit against Wall Street Journal",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/31/78c81397-ef85-4623-ba9f-44a01355ca0d/thumbnail/1200x630/586db8bb34ef2ec7591086b018d905c6/gettyimages-2302269863.jpg"
-     },
-     "id": "021b9f5547a31d58",
-     "published": "2026-10-31T20:59+00:00",
-     "text": "A multimillion-dollar defamation lawsuit by President Trump against The Wall Street Journal over a story reporting his ties to a birthday book for Jeffrey Epstein has been thrown out.\nIn a 20-page ruling, U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice on Saturday, ruling that Mr. Trump did not prove the defendants made defamatory statements with actual malice.\nHe said the lawsuit was \"grasping at straws\" as it attempted to \"manufacture\" flaws in the WSJ's investigative reporting.\nActual malice requires that plaintiffs prove that statements made about a public figure were published with the knowledge that they were false, or with disregard for whether they are true or not.\nWhen a case is thrown out \"with prejudice,\" it cannot be refiled again, and the dismissal is permanent and incontrovertible.\n\"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants,\" a spokesperson for Mr. Trump's legal team told CBS News in a statement. \"The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions.\"\nA source familiar with Mr. Trump's legal strategy said that the decision will likely be appealed.\nThe lawsuit was over a story the WSJ published last year describing a sexually suggestive letter that the paper said bore Mr. Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.\nThe president dismissed the story as \"FAKE\" and\nagainst the paper, its parent company News Corp, the company's CEO, the reporters who wrote the story and Rupert Murdoch, News Corp's chairman emeritus.House lawmakers later subpoenaed and said: \"It's very clear President Trump did not draw this picture, and he did not sign it.\"\na redacted version of the birthday book from Epstein's estate, which at the center of Mr. Trump's lawsuit. Then-White House press secretary Karoline LeavittIn April, Gayles\n, saying the president's legal team failed to clear the legal bar needed to establish their claim. He ruled that the president came \"nowhere close\" to showing the paper acted with \"actual malice\" toward him, the standard for bringing a defamation suit as a public figure.Mr. Trump's legal team refiled the lawsuit."
-    },
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049",
-     "title": "Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260731-president-trump-vsb-1806-87d55f.jpg"
-     },
-     "id": "3d4796b06b002f37",
-     "published": "2026-10-31T21:09+00:00",
-     "text": "A federal judge in Florida has tossed a revised version of President Donald Trump’s $10 billion defamation suit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein more than two decades ago.\nU.S. District Judge Darrin Gayles found Trump’s amended suit suffered from the same fatal flaw as his first attempt — it fell far short of the high legal bar to show the paper had published the story with “actual malice.”\n“As President Trump has not plausibly alleged that each Defendant made defamatory statements with actual malice, the Amended Complaint must be dismissed. And because this is President Trump’s second attempt to allege his claims, the Court finds that dismissal with prejudice is appropriate,” the judge wrote.\nTrump first sued the paper last July, shortly after the Journal published a story about a birthday book that Ghislaine Maxwell had assembled for Epstein’s 50th birthday in 2003. The book appeared to include a card from Trump, who had been friends with Epstein around that time.\nThe card contained a hand-drawn outline of a naked woman with what appeared to be Trump’s first name signed in the pubic area. It included a typewritten note depicting an imaginary conversation with Epstein, who would later be charged with sex trafficking.\nTrump denied having anything to do with the card, and his suit accused the paper of having made it up and that no such note existed.\nEpstein’s estate later released a copy of a card matching the Journal’s description. Trump and the White House maintain the document is a fake.\nTrump’s suit alleged the writers of the article “falsely represent as fact that President Trump drew the naked woman’s breasts and signed his name ‘Donald’ below her waist, ‘mimicking pubic hair,’” and that the article caused him “overwhelming financial and reputational harm.”\nTrump’s suit also criticized the paper for not publishing an image of the card in the initial story, saying that shows “no authentic letter or drawing exists” — even though the House Oversight Committee publicly released the card after getting it from the Epstein estate.\nThe suit says the Journal should have known the story was bogus because Trump said it was not true. It also chided the paper for failing to interview Epstein co-conspirator Maxwell, who’s serving 20 years in prison on sex trafficking charges. The story said Journal reporters wrote her a letter asking for an interview and included a comment from her attorney.\nThe paper’s attorneys argued that like the original suit, Trump’s revised suit came “nowhere close” to demonstrating the paper acted with actual malice, in which “the false statement was made with knowledge that it was false or with reckless disregard of whether it was false or not.”\nDespite Trump’s claim the paper failed to properly investigate the card before publishing the story, “the Article itself established that the Journal not only investigated” but also “informed readers that President Trump decried the Letter as a fake and denied writing it,” the paper said in its motion to dismiss the suit.\nFurther, the attorneys argued, alleging that someone sent another person a birthday card is not defamatory.\n“There is nothing inherently defamatory about sending a bawdy letter to a friend,” the attorneys wrote, and the article “emphasizes that the Birthday Book was created before Epstein was first arrested” and “makes clear that President Trump’s friendship with Epstein ended years before Epst"
-    },
-    {
-     "source": "Sky News World",
-     "trust": 2,
-     "url": "https://news.sky.com/story/judge-dismisses-trumps-wall-street-journal-lawsuit-13606496",
-     "title": "Judge dismisses Trump's Wall Street Journal lawsuit",
-     "lang": "en",
-     "extra": {},
-     "id": "3429a973bb78c06f",
-     "published": "2026-10-31T21:17+00:00",
-     "text": "A US judge has dismissed President Donald Trump's lawsuit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
-     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
-     "lang": "en",
-     "extra": {},
-     "id": "ac3da7fa79157764",
-     "published": "2026-10-31T21:32+00:00",
-     "text": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/bulletin/news/trump-epstein-birthday-card-lawsuit-dismissed-wsj-b3076951.html",
-     "title": "Trump's $10bn lawsuit over Epstein birthday card dismissed by judge",
-     "lang": "en",
-     "extra": {},
-     "id": "23109de18e5107e1",
-     "published": "2026-10-31T21:38+00:00",
-     "text": ""
-    },
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423",
-     "title": "Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2280583841.jpg?w=1000&h=563&crop=1"
-     },
-     "id": "0254b054c7e4646d",
-     "published": "2026-10-31T23:23+00:00",
-     "text": "A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein was purportedly written by Trump.\nTrump’s lawsuit “falls short of pleading actual malice,” wrote U.S. District Judge Darrin P. Gayles in his opinion on Saturday. “Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.” Judge Gayles dismissed the lawsuit with prejudice, meaning Trump cannot refile the claim.\nIn April, Judge Gayles ruled that the lawsuit “fails to adequately allege actual malice,” a legal standard in the U.S. for proving defamation. At the time, the court dismissed the complaint “without prejudice,” since he had only made one attempt to state his claims.\nTrump sought at least $20 billion in damages on two counts of defamation in the initial suit, filed in July 2025. He sued the WSJ, its parent companies Dow Jones & Co. and News Corp, the reporters on the story and Rupert Murdoch.\n“We have just filed a POWERHOUSE Lawsuit against everyone involved in publishing the false, malicious, defamatory, FAKE NEWS ‘article’ in the useless ‘rag’ that is, The Wall Street Journal,” Trump wrote at the time on Truth Social. “I hope Rupert and his ‘friends’ are looking forward to the many hours of depositions and testimonies they will have to provide in this case.”"
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/us-judge-dismisses-trump-lawsuit-against-wall-steet-journal-over-epstein-letter",
-     "title": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/c4adb64fe041071d878167fe1d846565d403150f97ca8e5f1fd959d887e45702?w=1200"
-     },
-     "id": "885718a3596fc006",
-     "published": "2026-10-31T23:31+00:00",
-     "text": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter\nAI generated\nWASHINGTON – A US judge on Oct 31 dismissed President Donald Trump’s defamation lawsuit against The Wall Street Journal and media magnate Rupert Murdoch over a report that Trump sent a bawdy birthday letter to notorious sex offender Jeffrey Epstein.\nTrump had sued for US$10 billion (S$12.8 billion) after the newspaper’s story was published in July 2025 detailing the President’s alleged 2003 letter to Epstein, which apparently featured a drawing of a naked woman.\nMurdoch is the founder of News Corp, which owns The Wall Street Journal.\nThe report piled scrutiny on Trump from both Democrats and his own Republican Party, who rejected the President’s attempts to downplay the saga as a hoax and called for a full release of legal files on Epstein.\nIn the ruling on Oct 31, Judge Darrin Gayles dismissed Trump’s lawsuit with prejudice, meaning Trump cannot file an amended version of the suit, as he did when Gayles turned down an initial version of it back in April.\nThe judge wrote that in bringing his defamation claim, Trump had both times failed to establish that the defendants “acted with actual malice”.\nThe House Oversight Committee in 2025 published a copy of Trump’s alleged birthday note to Epstein, which consists of a short dialogue between “Donald” and “Jeffrey”.\n“We have certain things in common,” says Donald, to which Jeffrey responds: “Yes, we do, come to think of it.”\n“Enigmas never age, have you noticed that?” asks Donald.\n“As a matter of fact, it was clear to me the last time I saw you,” says Jeffrey.\n“A pal is a wonderful thing. Happy Birthday – and may every day be another wonderful secret,” the note ends, followed by Trump’s signature, which takes the place of pubic hair on the nude outline.\nEpstein files\nTrump’s supporters have been obsessed with the Epstein case for years and held as an article of faith that “deep state” elites were protecting a sex ring of Epstein associates, particularly in the Democratic Party and Hollywood.\nThe President fought for months to prevent the Department of Justice from releasing the so-called “Epstein Files”, but eventually signed a law passed by Congress requiring their publication.\nTrump’s name appears repeatedly in the documents, but he denies any wrongdoing and has not been charged with any criminal offences connected to the affair.\nHigh-profile figures including Britain’s former prince Andrew have been publicly disgraced for their associations with Epstein.\nAhead of the Nov 3 US midterm elections which will decide control of Congress, Democrats have reportedly spent more than US$35 million on Epstein-related advertisements.\nWith a Republican majority in the House and Senate, Trump has so far enjoyed relatively little political opposition since taking office in January 2025, giving the courts a key role in limiting him.\nIn a separate case on Oct 31, a new suit was filed to prevent Trump’s attempt to erect a huge triumphal arch in front of the iconic military cemetery outside Washington.\nThat is one of a number of projects launched by Trump in a bid to put his personal stamp on the capital, including a ballroom at the White House and a laborious renovation of the Reflecting Pool on the National Mall.\nOn Oct 30, a US federal judge pushed back on government assertions that the planned arch – which Trump has said would house drones and snipers – was needed for national security.\n“It’s something (the) regio"
     }
    ]
   },
@@ -1051,15 +1062,17 @@
      "text": "A federal judge has thrown out US President Donald Trump's $US10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to convicted sex offender Jeffrey Epstein.\nUS District Judge Darrin Gayles dismissed the lawsuit filed in Miami, saying the president was \"grasping at straws\".\nJudge Gayles ruled the president did not prove the defendants made defamatory statements with actual malice as required by law and the suit had attempted to \"manufacture\" flaws in the newspaper's reporting.\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Mr Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Mr Trump.\nMr Trump denied writing it and called the story \"false, malicious, and defamatory\".\nThe case was thrown out \"with prejudice\", which means it cannot be refiled again and the dismissal is permanent.\nThe Wall Street Journal (WSJ) published a story that said a Dow Jones spokesperson said the company was pleased with the decision.\nA spokesman for Mr Trump's legal team told the WSJ the president would appeal the ruling.\n\"The president will continue to hold those who mislead the American people with fake news and smears accountable for their actions,\" the spokesman said.\nTrump calls out 'malicious' reporting\nThe letter bearing Mr Trump's name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, \"Happy Birthday — and may every day be another wonderful secret\", according to the newspaper.\nIn his lawsuit, Mr Trump called the alleged birthday greeting \"fake\" and sought $US10 billion ($14 billion) for what he called damage to his reputation.\nNews Corp's Dow Jones, the Journal's parent, defended the accuracy of its July 17, 2025, article.\nThe lawsuit was one of several Mr Trump has filed in his second term against major media outlets over reporting he has characterised as unfair or false.\nIn asking Judge Gayles to dismiss the case in September, lawyers for the Journal and its billionaire owner Rupert Murdoch wrote that the lawsuit threatened to chill the speech of those who publish content that Mr Trump does not like.\nWasn't the case already dismissed?\nYes.\nDonald Trump's case, originally filed July 18, 2025 against The Wall Street Journal (WSJ), was thrown out by the same judge, Darrin Gayles, in April of this year.\nHe said the article did not meet the \"actual malice\" standard that public figures must clear in defamation.\nThey must prove not only that a public statement about them was false but also that the media outlet or person who made the statement knew or should have known that it was false.\n\"This complaint comes nowhere close to this standard,\" Judge Gayles wrote.\n\"Quite the opposite.\"\nMr Trump was then allowed to refile the lawsuit which he did later that month.\nAccording to the amended lawsuit, Mr Trump called Mr Murdoch on July 15, 2025, after WSJ reporters contacted the White House about the story.\n\"In response, Murdoch stated, 'I will handle it,' which President Trump reasonably interpreted as meaning that Murdoch believed President Trump, and that the article would not be published,\" the lawsuit says.\nRepresent"
     },
     {
-     "source": "NPR",
+     "source": "Washington Post Tech",
      "trust": 2,
-     "url": "https://npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
-     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWxidk9abngtS1IyYmpxZ1lHM0dGYW9uT0NwazJJZ3dWT0F0aVNkcElHNVplQkhzNWttMDViUFF1bzBGZHNXODFMNXdrQ0pMb1N4NTJzZ2JFU3pvcXp6emJXNEpWN0Y1RldBNFB5aTNtbUZYMFJ4WEsyREFuMl9Wd0dvUFYyWnVPRXdCeENScEZzbEFjemtIeFdrdTUwWDhVeTBHdHUzYmpRTEg0NW5OZFA5TnhSZkpYQzNrdElB?oc=5",
+     "title": "Judge tosses Trump’s lawsuit over Wall Street Journal’s Epstein article",
      "lang": "en",
-     "extra": {},
-     "id": "c6374034fd181c47",
-     "published": "2026-11-01T08:20+00:00",
-     "text": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.\n(Image credit: Jacquelyn Martin)"
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "87fedf76b8214f4c",
+     "published": "2026-11-01T03:34+00:00",
+     "text": "Judge tosses Trump’s lawsuit over Wall Street Journal’s Epstein article\nThe Washington Post"
     },
     {
      "source": "Anadolu",
@@ -1272,6 +1285,78 @@
    ]
   },
   {
+   "id": "cfd04b66f83",
+   "kind": "news",
+   "score": 19.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
+     "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
+     "lang": "en",
+     "extra": {},
+     "id": "fd04b66f83a2c86b",
+     "published": "2026-11-01T06:20+00:00",
+     "text": ""
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
+     "title": "Binance says resuming withdrawals after major hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://s.france24.com/media/display/ac356662-d401-11f1-8552-d18c5759e759/w:1280/p:16x9/Part-GTY-1496426886-1-1-2.jpg"
+     },
+     "id": "adf803a13e4e4d99",
+     "published": "2026-11-01T07:01+00:00",
+     "text": "Binance says resuming withdrawals after major hack\nBinance said Sunday that it had resumed withdrawals after a major hack that affected more than $6 billion in funds.\nBinance, which is the world's largest crypto exchange by daily trading volumes, had suspended user withdrawals after the attack.\n\"First batch network now opened in phase one of withdrawals is $BTC bitcoin network,\" Binance said on X.\nThe company said in an earlier update that it was preparing to resume the first phase of withdrawals between 0600 and 0900 GMT on Sunday.\n\"We are taking a phased approach by prioritizing tokens based on the past week data of user demand, so that each network and asset pair can be restored carefully, with stability and security checks completed before access is reopened,\" it said.\nBinance said Saturday that it has set aside more than $6.34 billion in company funds to cover losses in the hack, which is thought to be the biggest-ever crypto heist.\n\"User funds remain safe. Binance will absorb the financial impact of the stolen funds, not our users,\" it said on X.\nThe FBI accused North Korea of being behind the attack on Saturday, confirming earlier suspicions from private investigators and analysts that a Pyongyang-affiliated group called TraderTraitor was behind the hack.\nThe hack is the latest in a string of high-profile cyber thefts linked to North Korea, which has built a formidable hacking operation, generating funds believed to help finance its weapons program.\nNews of the cyberattack caused the prices of most major cryptocurrencies to fall sharply on Friday.\n(FRANCE 24 with AFP)"
+    },
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+     "lang": "en",
+     "extra": {},
+     "id": "6823fce0faaead9f",
+     "published": "2026-11-01T10:35+00:00",
+     "text": ""
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2YyTGwzbUNaa2oxcUJoeDZoTTZOaDB0MENBc3Ewa2JURFRCVG00cDVxbW1BczVGNzBaa2hUUHFQSXlGaFl3WjdTUUUzbDJCUnZvdW9nZmczZVllNHV1QldfYnZjYVN2SU5wOXJqRVI4ejRYZUMteG1yWnUtMVdXbERMREh0bDIyTE9wTllxaGFGMWstM29NM3EtOGM0N1dObHBUQzMyWHVpZkNoSzlz?oc=5",
+     "title": "Binance to Resume Customer Withdrawals in Phases After Hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "dab83e80ea2ec1ae",
+     "published": "2026-11-01T10:28+00:00",
+     "text": "Binance to Resume Customer Withdrawals in Phases After Hack\nBloomberg.com\nSee more headlines & perspectives on Google News"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lWHJoMDVuMklnaGFNNUhaa0lYX2pSTHVCVS00ZUZxUlNjSFRYWjdTOWtFYzB6NzFsTm1KbXBrN1A0b0o5WUU5NmpJenpuLTNiV0pPek50LWxJajF3Q2V6aU5nbWU0MlF2YTA1VGFjOVZHT0pVRTlWcjE3SVo?oc=5",
+     "title": "Binance withdrawals resume following $6 billion hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "789581ca127e7eca",
+     "published": "2026-11-01T17:09+00:00",
+     "text": "- Binance withdrawals resume following $6 billion hack CNN\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- A simple explainer of the massive $6.3 billion crypto heist at Binance NPR\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
+    }
+   ]
+  },
+  {
    "id": "cd15b79a959",
    "kind": "news",
    "score": 18.5,
@@ -1418,65 +1503,6 @@
    ]
   },
   {
-   "id": "cfd04b66f83",
-   "kind": "news",
-   "score": 18.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
-     "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
-     "lang": "en",
-     "extra": {},
-     "id": "fd04b66f83a2c86b",
-     "published": "2026-11-01T06:20+00:00",
-     "text": ""
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
-     "title": "Binance says resuming withdrawals after major hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s.france24.com/media/display/ac356662-d401-11f1-8552-d18c5759e759/w:1280/p:16x9/Part-GTY-1496426886-1-1-2.jpg"
-     },
-     "id": "adf803a13e4e4d99",
-     "published": "2026-11-01T07:01+00:00",
-     "text": "Binance says resuming withdrawals after major hack\nBinance said Sunday that it had resumed withdrawals after a major hack that affected more than $6 billion in funds.\nBinance, which is the world's largest crypto exchange by daily trading volumes, had suspended user withdrawals after the attack.\n\"First batch network now opened in phase one of withdrawals is $BTC bitcoin network,\" Binance said on X.\nThe company said in an earlier update that it was preparing to resume the first phase of withdrawals between 0600 and 0900 GMT on Sunday.\n\"We are taking a phased approach by prioritizing tokens based on the past week data of user demand, so that each network and asset pair can be restored carefully, with stability and security checks completed before access is reopened,\" it said.\nBinance said Saturday that it has set aside more than $6.34 billion in company funds to cover losses in the hack, which is thought to be the biggest-ever crypto heist.\n\"User funds remain safe. Binance will absorb the financial impact of the stolen funds, not our users,\" it said on X.\nThe FBI accused North Korea of being behind the attack on Saturday, confirming earlier suspicions from private investigators and analysts that a Pyongyang-affiliated group called TraderTraitor was behind the hack.\nThe hack is the latest in a string of high-profile cyber thefts linked to North Korea, which has built a formidable hacking operation, generating funds believed to help finance its weapons program.\nNews of the cyberattack caused the prices of most major cryptocurrencies to fall sharply on Friday.\n(FRANCE 24 with AFP)"
-    },
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-     "lang": "en",
-     "extra": {},
-     "id": "6823fce0faaead9f",
-     "published": "2026-11-01T10:35+00:00",
-     "text": ""
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2YyTGwzbUNaa2oxcUJoeDZoTTZOaDB0MENBc3Ewa2JURFRCVG00cDVxbW1BczVGNzBaa2hUUHFQSXlGaFl3WjdTUUUzbDJCUnZvdW9nZmczZVllNHV1QldfYnZjYVN2SU5wOXJqRVI4ejRYZUMteG1yWnUtMVdXbERMREh0bDIyTE9wTllxaGFGMWstM29NM3EtOGM0N1dObHBUQzMyWHVpZkNoSzlz?oc=5",
-     "title": "Binance to Resume Customer Withdrawals in Phases After Hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "dab83e80ea2ec1ae",
-     "published": "2026-11-01T10:28+00:00",
-     "text": "Binance to Resume Customer Withdrawals in Phases After Hack\nBloomberg.com\nSee more headlines & perspectives on Google News"
-    }
-   ]
-  },
-  {
    "id": "ce07dacdb45",
    "kind": "news",
    "score": 17.0,
@@ -1608,106 +1634,6 @@
      "id": "20e384df1ab7a825",
      "published": "2026-11-01T16:02+00:00",
      "text": "The action genre has been led by some Hollywood royalty, and that includes Denzel Washington. With movies such as Taken and John Wick, the genre continues to evolve, but there are some movies that have paved the way for what is known as action in 2026. Washington has had a lengthy career spanning over five decades, winning two Academy Awards, a Tony Award, and box office earnings surpassing $5.1 billion.\nWith Washington's extensive and impressive career, the actor has a long list of impressive and award-winning movies under his belt. One of those includes the star-studded action thriller Man on Fire released in 2004. The movie follows John Creasy, an assassin in Mexico, who is hired as a bodyguard, a job he does not want to accept. However, he agrees and promises to take revenge on the kidnapper of the child from the family he is protecting. The cast includes Dakota Fanning, Christopher Walken, Radha Mitchell, Mickey Rourke, Marc Anthony, and many more.\nDenzel Washington's Man On Fire Is Now Free To Stream\nMan on Fire, directed by Tony Scott, is based on the 1980 novel written by A.J. Quinnell. The original was set in Italy and highlighted the area, which was a major hotspot for kidnappings at the time. Washington's adaptation is the second to stem from Quinnell's novel, and the first was released in 1987. The first movie was directed by Élie Chouraqui and starring Scott Glenn as John Creasy and Joe Pesci.\nAfter seemingly being unavailable to stream on any of the major streaming giants, Man on Fire is back in action. The action thriller is now available on Pluto TV and is available to watch for free with ads. Pluto TV has 100s of free live TV channels and 1000s of free popular movies and shows that you can stream at any time, making it the perfect home for those who want to watch Washington's movies again and again.\nMan On Fire's Reboot Proves It's An Action Worth Remembering\nThe story of Man on Fire didn't end with Washington's adaptation as Netflix recently revisited the action movie in a seven-episode series starring Yahya Abdul-Mateen II as John Creasy. The Netflix series was created and showrun by Kyle Killen and does not serve as a direct remake of the 2004 movie, and is simply a third adaptation of Quinnell's novel that has generated an entire franchise. The series was set in Rio de Janeiro, Brazil and focuses on local politics, class divides, and criminal conspiracies.\nNetflix's Man on Fire became a global streaming success and reached over 11 million views within its first four days on the streaming giant and was the top most-watched TV series on Netflix across 22 countries.\nWashington's Man on Fire is available to stream for free now on Pluto TV.\nMan on Fire follows John Creasy, an ex-CIA operative turned bodyguard, who is hired to protect a young girl in Mexico City. Initially struggling to connect, they form a bond, and when she is abducted, Creasy embarks on a relentless mission to ensure her safety."
-    }
-   ]
-  },
-  {
-   "id": "cc13bbc17e0",
-   "kind": "news",
-   "score": 17.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/sports/wnba/golden-state-valkyries-defeat-atlanta-dream-franchises-first-wnba-titl-rcna606267",
-     "title": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261031-veronica-burton-rc-908p-caa3a0.jpg"
-     },
-     "id": "dc536991493968a2",
-     "published": "2026-11-01T02:25+00:00",
-     "text": "In only their second season in existence, the Golden State Valkyries are WNBA champions.\nThe Valkyries won their first title in franchise history on Saturday, defeating the Atlanta Dream 68-63 in the first Game 7 in WNBA Finals history. Forward Gabby Williams led with 30 points.\nPurple confetti rained down onto the court as the crowd erupted in cheers, and the Valkyries celebrated the historic victory.\n“I love moments like this,” Williams said moments after the final buzzer. “Nat told me to be patient in the first half. It was hard, but I listened to her. She’s right as always and she got us here,” she said referring to head coach Natalie Nakase.\nWilliams was named the Finals MVP following her stunning performance, scoring more points than anybody in a half in WNBA post-season history. Though she scored just two points in the first half, she rallied with 15 points in the third quarter and 13 in the fourth.\nAccepting her award, she said, “I wasn’t gonna lose on Halloween.”\nTeammate Kiah Stokes led rebounds at 13.\nGolden State’s quick rise to the top of the sport, coupled with the team’s rabid fanbase, has already made the Valkyries one of the signature franchises in the WNBA.\nIn the team’s inaugural season, Golden State finished 23-21 and bowed out in the first round of the playoffs, the only time an expansion team reached the postseason in its first year in league history.\nPrior to the 2026 season, the Valkyries rebuilt their frontcourt, signing Williams after she made her first All-Star team, and also adding center Kiah Stokes, previously of the Las Vegas Aces, via free agency.\nWilliams became the team’s leading scorer, while Stokes added a rebounding presence in the middle. Directing the action was fifth-year guard Veronica Burton, who led the team in assists during the regular season.\nThe rebuilt roster allowed Nakase — a two-time champion as a player and the reigning Coach of the Year — to push the right buttons in the Finals. After Golden State won the first game, Atlanta roared back with double-digit blowout wins to take a 2-1 lead.\nNakase shortened her rotation after Game 3, while also swapping out multiple players in her starting lineup. As she leaned more heavily on on her big three of Williams, Stokes and Burton, the Valkyries answered with two consecutive wins of its own to retake the series edge, at 3-2.\nAtlanta staved off elimination Thursday in Game 6 in Atlanta in a game that tipped off at 12:30 p.m. ET due to difficulties scheduling around previous events taking place at Atlanta’s State Farm Arena, a much larger venue than the Dream’s typical home arena, which seats fewer than 4,000.\nGolden State’s championship run coincided with a business boom for the franchise, which has the same principal ownership group as the NBA’s Golden State Warriors.\nIn May, CNBC valued Golden State at $1 billion, making the Valkyries the first WNBA team to reach that threshold. Meanwhile, during the regular season, Golden State led the WNBA in both average attendance and total attendance.\nPlaying at the Chase Center — which Valkyries fans have dubbed “Ballhalla” — Golden State has sold out every home game during its two seasons of existence.\nNow, with a WNBA championship trophy in tow, the excitement around the Valkyries should only grow as the team looks to go back to back in 2027."
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/golden-state-wins-first-wnba-title-franchise-history",
-     "title": "Golden State wins first WNBA title in franchise history",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/b6e2f376-14c0-4e48-acda-26324eec9999/thumbnail/1200x630/d94c729aafa66cec6f1457fb8ae74eb9/gettyimages-2302924918.jpg"
-     },
-     "id": "5dd84ddad8316ab8",
-     "published": "2026-11-01T02:38+00:00",
-     "text": "The Golden State Valkyries brought to a conclusion a WNBA season that shattered viewership and attendance records with their first WNBA championship Saturday in a thrilling 68-63 victory over the Atlanta Dream in Game 7.\nGolden State star Gabby Williams paced the Valkyries with 30 points, 4 blocks and 3 steals in 38 minutes.\n\"All we heard last year: We don't have no stars, we don't have no talent,\" Williams said after the game. \"Yeah right. We got good people. We got winners.\"\nJordin Canada led the Atlanta Dream in scoring with 18 points, adding 5 assists and 4 rebounds. Atlanta superstar Angel Reese struggled throughout the game, finishing with 8 points on 3-of-7 shooting in 33 minutes.\nThe victory was the first for a team in a Game 7. The league transitioned from a five-game series to a seven-game series starting last year.\nThis is the first title for the Valkyries in just their second season as a team. And the Dream are now winless in four WNBA Finals appearances.\nThe 2026 season was an unqualified success for the WNBA. The league set a new attendance record with 3.8 million fans attending 330 regular season games, according to the WNBA. The league said average attendance was up 21% from last year's record high.\nESPN, ABC and CBS all delivered their most-watched seasons in history, according to the WNBA. The league had three times as many games averaging at least 1 million viewers as the previous record set last year.\nHow they got here\nThe Valkyries, despite having just one All-Star, took a major leap in just their second year in the league.\nThe team is owned by Joe Lacob and Peter Guber, who also own the Golden State Warriors. The team quickly became relevant, going 23-21 in their first year in existence before losing in the first round of the playoffs.\nThe signing of Gabby Williams in the offseason propelled the team to even greater success. The Valkyries went 32-12 in the regular season and beat the Paige Bueckers-led Dallas Wings and A'ja Wilson-led Las Vegas Aces to advance to the title series.\nThe Dream didn't lose a game on its path to the title series, defeating the Kiki Iriafen-led Washington Mystics and the Breanna Stewart-led New York Liberty in sweeps.\nThe Valkyries won Game 1 at home, 68-64, behind 26 points from Williams. Atlanta dominated the next two games behind all-time great performances from star Angel Reese. The Dream star posted 30 points and 16 rebounds in Game 2 and 21 points and 12 rebounds in Game 3.\nReese struggled to score in Games 4 and 5, shooting just 4-of-20 with 15 points combined, as the Valkyries wrestled control of the series away from the Dream.\nGame 6 controversy\nGame 6 started at 12:30 p.m. since the Atlanta Hawks were scheduled to play at the State Farm Arena on Thursday night. The Dream plays its regular season games at Gateway Center Arena, but its capacity is just 3,500 compared to about 17,000 at State Farm Arena.\n\"This incredible run by our players has also made something else abundantly clear: the Atlanta Dream has earned the right to be taken seriously,\" the team's ownership, husband and wife Larry Gottesdiener and Robyn Gottesdiener, Suzanne Abair and Renee Montgomery, said in a statement.\n\"Two months ago, when the WNBA finalized playoff dates and times, we raised concerns that the W Finals schedule conflicted with NBA games at State Farm Arena,\" the statement continued. \"As we moved through the playoffs, we reiterated those concerns. Our concerns did not receive the attention, nor the "
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/sports/golden-state-valkyries-beat-atlanta-dream-to-win-first-wnba-championship/4107702",
-     "title": "Golden State Valkyries beat Atlanta Dream to win first WNBA championship",
-     "lang": "en",
-     "extra": {},
-     "id": "45e8f1885e50b778",
-     "published": "2026-11-01T03:00+00:00",
-     "text": "Gabby Williams scores 30 points as Golden State claims title in just its second season"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss",
-     "title": "Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__2302466732__v1__HighRes__2026WnbaFinalsGameSeven-1793512510.jpg?resize=1800%2C1200&quality=80"
-     },
-     "id": "ab53423fd2ac3468",
-     "published": "2026-11-01T06:17+00:00",
-     "text": "In a near single-handed performance, Gabby Williams helped the Golden State Valkyries defeat the Atlanta Dream 68-63 in Game 7 of the WNBA Finals to give the West Coast franchise a championship title in the second year of its existence.\nWilliams scored 28 of her game-high 30 points in the second half to force a turnaround and bag the Finals Most Valuable Player (MVP) award in San Francisco on Saturday.\nRecommended Stories\nlist of 4 items- list 1 of 4LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers\n- list 2 of 4Northern Nigeria’s female basketball players chase bigger dreams\n- list 3 of 4Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud\n- list 4 of 4USA hold off spirited France to win Women’s Basketball World Cup\nKiah Stokes converted a Williams miss into a key hoop with 53 seconds left to the deafening cheers of “Ballhalla”, as the Valkyries’ home crowd is known at the Chase Center.\nIn what was mostly a defensive struggle, Williams was the difference in the end, including winning a jump ball over Allisha Gray with 8.3 seconds to go.\nWith the likes of former San Francisco Giants superstar Barry Bonds and multiple NBA title-winner Draymond Green of the Golden State Warriors rooting her on, Veronica Burton was fouled with 5.1 seconds remaining and produced the final points in the Valkyries’ storybook season.\nOn a night when the WNBA had its first Game 7 in a championship final series, strength in numbers was credited for propelling the second-year franchise to historic heights.\nFrom owner Joe Lacob to coach Natalie Nakase and the star, Williams, one number stood out: 18,064.\n“Ballhalla,” Lacob screamed into a live microphone in tribute to the capacity crowd during the trophy ceremony.\nWilliams overcame a two-point first half to become the first player in WNBA postseason history to score 28 points in a half.\nThe Valkyries’ only All-Star, who was added as a free agent in the offseason, joined Lacob in thanking a crowd that has sold out every game in franchise history, setting league attendance records.\n“Honestly, everyone here, not just the players and the staff. [Also] the community, the city, the [San Francisco] Bay [Area],” she gushed on court shortly after having been named the MVP.\n“Y’all have been pouring into me all season. It’s a long season and y’all gave me energy.\n“When the energy is this good and positive, it’s easy to come to work every day. That’s what I came here for.”\nPlaying 38 of the game’s 40 minutes, Williams saved enough energy to do a Stephen Curry impersonation on a go-ahead 3-pointer with 2:18 to go and later win a key jump ball, and Kiah Stokes converted a rare Williams late miss into a key hoop with 53 seconds left, sending the violet-clad crowd into a frenzy.\nIn the end, Nakase recognised the enormity of piecing together a bunch of players left unprotected in the expansion draft, a handful of international imports and one key free-agent signing into the league’s second-best record in the regular season and the first-ever Game 7 winner in WNBA history.\n“This is for all the people out there who are underrated, misunderstood. This is for all y’all,” she insisted from midcourt to her home fans and a national television audience as well. “This is proof: If you put all your heart and all your soul [into it], you can win championships.”\nRallying from a nine-point deficit in the third quarter, the Valkyries were tied at 53-all midway through the fourth after Allisha Gray conn"
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWxzVEdILWFZTEtDVUJnZFB4REVWV1Y3T2pMNUdDZzRpNWdRUjhuOG1qUUlRT1Zhd2NVbjZzRkdsdklCWl9KYVI4Q0ZoLWNYa3gtNXBDUlFXOFZZVTB3MDR4Z0NDdldMRUp2UmxOcjRVSmMwMFAxMmc4WnduckJJcVJEODJRd2t3YzlBSkdKZnNVbHF5YUswRWlZbEFqWHJheDN4bHlOenFMcFZsV3hrZl9TN0pQV19K?oc=5",
-     "title": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title - NBC News",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "c13bbc17e03a70e9",
-     "published": "2026-11-01T02:25+00:00",
-     "text": "- Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title NBC News\n- How Gabby Williams ignited the Valkyries to WNBA championship in their second season ESPN\n- Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship Fox News\n- Dream's series-extending Game 6 win was fifth most-watched WNBA Finals game ever despite early tip Yahoo Sports\n- Hawks at Pelicans, Dream at Valkyries: start times, TV, streaming, radio, combined thread Peachtree Hoops"
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXRVQXhaRGhMMVRQMTI0c19KTzhCY3FHVXM3YWV1MjktM24tYmRyeG9XdHI1Q0hPaGlZZ0FuNUdPZUtHZ3Q4dlotSlZUNFJRbDBPcm9Gd2pXZXVxWUtGempYeHdBTXlhVzFEVkVMLWx1a1pwbWNQTDR1Wm9TWkpaUDNJc2VGLWlYSVlJdncyVVltMEk?oc=5",
-     "title": "How the Golden State Valkyries won the 2026 WNBA title in just two years - ESPN",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "1857c2a67f1da730",
-     "published": "2026-11-01T02:33+00:00",
-     "text": "- How the Golden State Valkyries won the 2026 WNBA title in just two years ESPN\n- Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship Fox News\n- Valkyries win first WNBA Championship with Game 7 victory over Dream: Live updates and reaction The New York Times\n- Atlanta Dream 63-68 Golden State Valkyries: WNBA finals 2026 Game 7 – live reaction The Guardian\n- Dream's series-extending Game 6 win was fifth most-watched WNBA Finals game ever despite early tip Yahoo Sports"
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGZWVkZfTndqTHFaV3VfT3JURE5MVHNPZV9MaEtJdWdZVEJJNDFudDViZXNIajl5UjNyRkxZZVJpdnlWV2czSmZ5c3ZJdlVUY0R1R0hYUTNtOElWbUpGYTV4VFFaWjI1QlZTQzVfeWRhWUZBUEFPbjVFTWpaMGYxbmJrODJQX3pyRVNJOVFfTWdhRk0?oc=5",
-     "title": "How did the Golden State Valkyries make history, fast-track to WNBA title in 2 years? - The New York Times",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "342ffb8fe2c55dcc",
-     "published": "2026-11-01T03:49+00:00",
-     "text": "- How did the Golden State Valkyries make history, fast-track to WNBA title in 2 years? The New York Times\n- Golden State Valkyries top Atlanta Dream in Game 7 to secure first WNBA title ESPN\n- Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship Fox News\n- Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 AP News\n- LIVE: Valkyries Make History as Champs in 2nd Year Yahoo Sports"
     }
    ]
   },
@@ -1981,63 +1907,6 @@
    ]
   },
   {
-   "id": "c09693e37cd",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/world/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire",
-     "title": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border",
-     "lang": "en",
-     "extra": {},
-     "id": "09693e37cda0c613",
-     "published": "2026-10-31T14:47+00:00",
-     "text": "Evacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members."
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/world/evacuees-reunite-with-family-at-the-ukrainian-belarusian-border-after-fleeing-oleshky-3009170",
-     "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
-     "lang": "en",
-     "extra": {},
-     "id": "9302b2eb03b3c702",
-     "published": "2026-10-31T21:55+00:00",
-     "text": "CHERNIHIV REGION, Ukraine: Residents of Russian-occupied Oleshky crossed into Ukrainian-held territory Saturday in a major evacuation operation carried out under the most significant truce since Russia’s full-scale invasion of Ukraine 4½ years ago. Evacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members. Volunteers with hand-drawn welcome signs handed out coffee to the weary travelers who had journeyed by bus and p"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss",
-     "title": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-31T140709Z_1238804728_RC2CEOAYV9CW_RTRMADP_3_UKRAINE-CRISIS-OLESHKY-1793500282.jpg?resize=1920%2C1440"
-     },
-     "id": "0c00ac5fd56edec9",
-     "published": "2026-11-01T03:37+00:00",
-     "text": "Starved and exhausted residents of the Russian-occupied Ukrainian town of Oleshky have crossed into Ukraine in a major evacuation operation of civilians, under the first humanitarian truce of its kind in more than four years of Moscow’s war.\nThe six-day ceasefire covering the town was reached with mediation efforts by US First Lady Melania Trump and help from Pope Leo XIV. It is the longest local pause in fighting since Russia’s full-scale invasion of its neighbour in 2022.\nRecommended Stories\nlist of 3 items- list 1 of 3Ukraine invests in firepower as it inflicts a new Russian casualty record\n- list 2 of 3US greenlights $2.1bn Patriot missile sale to Ukraine\n- list 3 of 3Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks\n“Ukrainian citizens from Oleshky have crossed the Ukrainian border in the Chernihiv region. All of them will receive the assistance they need,” Ukrainian President Volodymyr Zelenskyy wrote on X, thanking the United States and the first lady for mediating.\n“Further steps toward de-escalation and real progress toward peace are also needed,” he added.\nEvacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members.\nUkrainian officials met the evacuees with posters reading “You’re not alone” and “We embrace with our hearts”, while residents from nearby villages lined the highway waving flags and flashlights to greet them.\nForced to eat grass\nSupply routes to Oleshky had been disrupted by fighting and drones. According to some residents, food deliveries were stopped in May, pushing hundreds of people into starvation.\nOne evacuee, an elderly man in a wheelchair, told the Reuters news agency that he had lost 20kg (44lbs) over the past year, becoming so weak he required hospital treatment.\nAnother evacuee, Svitlana Yermakova, told Reuters they had to eat grass to survive.\n“We chopped grass and squash… just to hold on,” she said, adding that she risked riding by bicycle through minefields to a nearby village to get food for herself and her dog.\nTo reach Ukrainian-held territory, Oleshky residents had to take a complicated route to leave the devastated town just a few kilometres from the front line.\nThey first crossed Crimea by bus to the Russian town of Anapa before flying to Belarus, from where they crossed into Ukraine.\nAmbulances lined the street, and several large military tents were erected, where hot meals, tea and medical aid were provided.\nRussian and Ukrainian officials say the ceasefire in Oleshky has held since Tuesday, allowing them to de-mine the roads and bring food, medicines and other supplies into the town again.\nThe truce is due to end on Sunday evening.\nSome stay behind\nSome residents have decided to remain in Oleshky, despite the ongoing lack of gas, electricity and running water.\nRussian Human Rights Commissioner Yana Lantratova said living conditions in the occupied Oleshky remained difficult, pledging she would continue to work with her Ukrainian counterpart, Dmytro Lubinets, to help those who stayed.\n“The mission has come to an end,” she said on Telegram. “We have agreed to carry out regular humanitarian missions, which is a very important step.”\nOleshky had a pre-war population of about 24,000, which plunged to an estimated 1,700 before the evacuation.\nUkrainian officials have not said exactly how many residents were evacuated or how many remained.\nDespite the ceasefire in Oleshky, fighting rages on in other par"
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/tv/news/ukraine-russia-oleshky-evactuation-family-video-b3077065.html",
-     "title": "Tearful family reunion as starving Ukrainians escape Russian-occupied Oleshky",
-     "lang": "en",
-     "extra": {},
-     "id": "2cfc285a625cb01b",
-     "published": "2026-11-01T12:08+00:00",
-     "text": "A tearful daughter embraced her father as the family reunited following his evacuation from Oleshky."
-    }
-   ]
-  },
-  {
    "id": "cd081c8674a",
    "kind": "news",
    "score": 16.0,
@@ -2280,6 +2149,109 @@
      "id": "26c447224ccb5986",
      "published": "2026-11-01T14:29+00:00",
      "text": "- How Heidi Klum Transformed Into a Giant Hand For Her 2026 Halloween Costume Vogue\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times\n- Heidi Klum reveals Halloween costume as her iconic party marks 25 years The Boston Globe\n- Heidi Klum’s 2026 Halloween Party Photos Deadline\n- Taylor Momsen, James Charles & More Celebrities Who Scared Up a Good Time at Heidi Klum’s Halloween Party E! News"
+    }
+   ]
+  },
+  {
+   "id": "c0a0bf963d6",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": true,
+   "distinct_sites": 6,
+   "title_hint": "British university scientist died in Spain train crash",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/british-university-scientist-died-in-spain-train-crash-13606613",
+     "title": "British university scientist died in Spain train crash",
+     "lang": "en",
+     "extra": {},
+     "id": "0a0bf963d6e702bf",
+     "published": "2026-11-01T12:28+00:00",
+     "text": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
+    },
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/university-of-cambridge-scientist-died-in-spain-train-crash-13606613",
+     "title": "University of Cambridge scientist died in Spain train crash",
+     "lang": "en",
+     "extra": {},
+     "id": "1876f7ebed9c7f59",
+     "published": "2026-11-01T12:28+00:00",
+     "text": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/bulletin/news/marta-shahbazi-death-spanish-train-crash-b3077079.html",
+     "title": "Cambridge scientist killed in Spanish train crash was on way to collect prize",
+     "lang": "en",
+     "extra": {},
+     "id": "4ada2ff4eef16812",
+     "published": "2026-11-01T12:28+00:00",
+     "text": ""
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa055QzlWLWdweXRTUDk4NU1oRlM4aU9xdmszYjI5RGhTWnBYUzRKNkFzWFpXdHZVY0lRMkU1MHZOc1NPYm5fY3BfSTEzUEE4MU1rRkpRdkxIUkNjYVNEcnpPUTFzcHRud2kyS1E5Wl9WN1hsSm1VN1hDVXp5R2YyQnI5Uk5Tbk9ROFRIczdrQTJ2MUI5VnY4WUptMWk5WjlDN2tFMw?oc=5",
+     "title": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award",
+     "lang": "en",
+     "extra": {},
+     "id": "9bd8af7ff4c50074",
+     "published": "2026-11-01T12:35+00:00",
+     "text": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award\nThe Independent"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/world/europe/marta-shahbazi-spain-train-crash-victims-b3077068.html",
+     "title": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award",
+     "lang": "en",
+     "extra": {},
+     "id": "581fef2dae2fb8db",
+     "published": "2026-11-01T12:35+00:00",
+     "text": "University of Cambridge researcher Dr Marta Shahbazi was on board when two high-speed trains collided near Toledo"
+    },
+    {
+     "source": "Guardian Science",
+     "trust": 2,
+     "url": "https://theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+     "title": "Tributes paid to ‘inspiring’ University of Cambridge scientist who died in Spanish train crash",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i.guim.co.uk/img/media/768c4ba470e9915362b2e359b2c39b525b2af3bc/80_167_1665_1332/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=669e492306e677fc1d3cc9d2a7db6c2e"
+     },
+     "id": "2a0c35956cf4e9b4",
+     "published": "2026-11-01T15:00+00:00",
+     "text": "An “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people.\nDr Marta Shahbazi, an affiliate associate professor at the Cambridge Stem Cell Institute and a group leader at the city’s Medical Research Council Laboratory of Molecular Biology (LMB), was travelling on one of the trains involved in the crash near Urda in Toledo province.\nThe LMB said the mother of two had recently won the Spanish Society of Developmental Biology’s scientific excellence prize. She had been due to be presented with the award during its conference in El Rompido, Andalucía.\nIn a LinkedIn post, the LMB said it was deeply saddened by her death, which was “a profound shock and a huge loss”, adding: “Martha was an inspiring, talented and passionate scientist whose research shed light on the earliest steps in the development of human embryos and how errors occur that lead to failed pregnancies.”\nIt said she was a role model who had written eloquently about balancing her family and career, describing herself as a “mother scientist”.\nDr Roser Vento-Tormo, a group leader at the Wellcome Sanger Institute outside Cambridge, wrote: “Marta Shahbazi was a beautiful person: a close collaborator, a treasured friend, and an inspiration to me both as a scientist and as a mother.\n“As a scientist, we shared so many dreams. We co-supervised two students together, and I cannot describe how much joy it was to work alongside her. Some of our work will still be published in the coming months, and anyone who reads it will feel the passion she poured into everything she did …\n“My thoughts are with her family. Anyone who knew Marta could see how deeply they were a unit, and how much they meant to her.”\nThe Center for Research in Molecular Medicine and Chronic Diseases (CiMUS), based in Santiago de Compostela, Spain, paid tribute to Shahbazi as “a brilliant young researcher”.\nThe disaster was Spain’s second high-speed rail crash this year. Both collisions occurred on the line between the central city of Madrid, Spain’s capital, and Seville, in the Andalucía region in the south of the country.\nThree days of national mourning were observed from Thursday. The Spanish prime minister, Pedro Sánchez, described the incident as a “tragedy” and has promised an investigation."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/university-of-cambridge-scientist-among-victims-of-deadly-spain-train-crash",
+     "title": "University of Cambridge scientist among victims of deadly Spain train crash",
+     "lang": "en",
+     "extra": {},
+     "id": "3c2ff9517aa99580",
+     "published": "2026-11-01T15:14+00:00",
+     "text": "Marta Shahbazi had been on her way to collect the 2026 José Luis Gómez-Skarmeta prize for her \"outstanding contributions to the study of the early stages of human development.\""
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+     "title": "University of Cambridge scientist among those who died in Spanish train crash",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg"
+     },
+     "id": "035d80bf7a1f9b6a",
+     "published": "2026-11-01T17:05+00:00",
+     "text": "- Published\nAn award-winning University of Cambridge researcher died in the Spanish train disaster while on her way to collect a prize for scientific excellence.\nDr Marta Shahbazi was travelling to an awards ceremony on Wednesday when the train she was on crashed into another near Urda, south of Madrid, killing 69 people.\nThe mother of two was an affiliate associate professor leading a group of researchers at MRC Laboratory of Molecular Biology (LMB) in Cambridge and had earned several awards for work on human embryos and cell biology.\nIn a statement, the LMB paid tribute to the \"inspiring, talented and passionate scientist\" and described her death as a \"profound shock and a huge loss\".\nThe expert in cell biology ran the Shahbazi Laboratory at the LMB, based on the Cambridge Biomedical Campus.\nShe had been announced as the winner of a Spanish Society for Developmental Biology award for her contributions to the study of early human development and was due to collect the award at a conference in El Rompido in Andalusia.\nThe LMB said: \"As a wife and mother of two young children, Marta wrote eloquently about balancing her family and career, serving as a much-admired role model for a 'mother scientist', a term she used to describe herself.\n\"Marta was an inspiring, talented and passionate scientist whose research shed light on the earliest steps in the development of human embryos and how errors occur that lead to failed pregnancies,\" the LMB said.\nThe institute said her death was \"a profound shock and a huge loss for LMB\".\nHer work had been recognised with \"many awards and prizes\", the laboratory added.\nShahbazi is listed on the University of Cambridge website as a principal investigator at its Stem Cell Institute (CSCI).\nInstitute director Prof Bertie Gottgens said its community was \"shocked and deeply saddened\" by her death.\n\"Marta led her primary research group at the MRC Laboratory of Molecular Biology (LMB) alongside her roles as an affiliate principal investigator and affiliate assistant professor at the CSCI,\" he said.\n\"Across both institutes, she was highly respected for her pioneering research on early human development and valued for her collaborative spirit.\n\"Her creativity, passion, and generosity will be greatly missed.\"\nThe news of her death was first confirmed in a social media post, external by the CiMUS, based in Santiago de Compostela where Shahbazi's aunt works.\nShahbazi undertook her PhD at the Spanish National Cancer Research Centre, before joining the University of Cambridge as a post-doctoral fellow and then the LMB in 2020.\nThe crash in Spain happened when a state-operated Renfe high-speed train smashed into the back of a stationary train operated by the Iryo company.\nIt is one of the worst rail disasters in Europe's modern history, and Spain's worst crash since 2013.\nThree days of national mourning were declared in the country.\nMore than 540 people were on board both trains.\nThe Foreign Office has been contacted by the BBC."
     }
    ]
   },
@@ -2541,6 +2513,63 @@
      "id": "343d0098dbae0723",
      "published": "2026-10-31T18:29+00:00",
      "text": "There are now three lawsuits calling for a halt to potential work on a monument that would rise 250 feet on a patch of grass off the bridge that spans the Potomac River, connecting the city with Arlington National Cemetery."
+    }
+   ]
+  },
+  {
+   "id": "c09693e37cd",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire",
+     "title": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border",
+     "lang": "en",
+     "extra": {},
+     "id": "09693e37cda0c613",
+     "published": "2026-10-31T14:47+00:00",
+     "text": "Evacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members."
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://arabnews.com/world/evacuees-reunite-with-family-at-the-ukrainian-belarusian-border-after-fleeing-oleshky-3009170",
+     "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
+     "lang": "en",
+     "extra": {},
+     "id": "9302b2eb03b3c702",
+     "published": "2026-10-31T21:55+00:00",
+     "text": "CHERNIHIV REGION, Ukraine: Residents of Russian-occupied Oleshky crossed into Ukrainian-held territory Saturday in a major evacuation operation carried out under the most significant truce since Russia’s full-scale invasion of Ukraine 4½ years ago. Evacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members. Volunteers with hand-drawn welcome signs handed out coffee to the weary travelers who had journeyed by bus and p"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss",
+     "title": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-31T140709Z_1238804728_RC2CEOAYV9CW_RTRMADP_3_UKRAINE-CRISIS-OLESHKY-1793500282.jpg?resize=1920%2C1440"
+     },
+     "id": "0c00ac5fd56edec9",
+     "published": "2026-11-01T03:37+00:00",
+     "text": "Starved and exhausted residents of the Russian-occupied Ukrainian town of Oleshky have crossed into Ukraine in a major evacuation operation of civilians, under the first humanitarian truce of its kind in more than four years of Moscow’s war.\nThe six-day ceasefire covering the town was reached with mediation efforts by US First Lady Melania Trump and help from Pope Leo XIV. It is the longest local pause in fighting since Russia’s full-scale invasion of its neighbour in 2022.\nRecommended Stories\nlist of 3 items- list 1 of 3Ukraine invests in firepower as it inflicts a new Russian casualty record\n- list 2 of 3US greenlights $2.1bn Patriot missile sale to Ukraine\n- list 3 of 3Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks\n“Ukrainian citizens from Oleshky have crossed the Ukrainian border in the Chernihiv region. All of them will receive the assistance they need,” Ukrainian President Volodymyr Zelenskyy wrote on X, thanking the United States and the first lady for mediating.\n“Further steps toward de-escalation and real progress toward peace are also needed,” he added.\nEvacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members.\nUkrainian officials met the evacuees with posters reading “You’re not alone” and “We embrace with our hearts”, while residents from nearby villages lined the highway waving flags and flashlights to greet them.\nForced to eat grass\nSupply routes to Oleshky had been disrupted by fighting and drones. According to some residents, food deliveries were stopped in May, pushing hundreds of people into starvation.\nOne evacuee, an elderly man in a wheelchair, told the Reuters news agency that he had lost 20kg (44lbs) over the past year, becoming so weak he required hospital treatment.\nAnother evacuee, Svitlana Yermakova, told Reuters they had to eat grass to survive.\n“We chopped grass and squash… just to hold on,” she said, adding that she risked riding by bicycle through minefields to a nearby village to get food for herself and her dog.\nTo reach Ukrainian-held territory, Oleshky residents had to take a complicated route to leave the devastated town just a few kilometres from the front line.\nThey first crossed Crimea by bus to the Russian town of Anapa before flying to Belarus, from where they crossed into Ukraine.\nAmbulances lined the street, and several large military tents were erected, where hot meals, tea and medical aid were provided.\nRussian and Ukrainian officials say the ceasefire in Oleshky has held since Tuesday, allowing them to de-mine the roads and bring food, medicines and other supplies into the town again.\nThe truce is due to end on Sunday evening.\nSome stay behind\nSome residents have decided to remain in Oleshky, despite the ongoing lack of gas, electricity and running water.\nRussian Human Rights Commissioner Yana Lantratova said living conditions in the occupied Oleshky remained difficult, pledging she would continue to work with her Ukrainian counterpart, Dmytro Lubinets, to help those who stayed.\n“The mission has come to an end,” she said on Telegram. “We have agreed to carry out regular humanitarian missions, which is a very important step.”\nOleshky had a pre-war population of about 24,000, which plunged to an estimated 1,700 before the evacuation.\nUkrainian officials have not said exactly how many residents were evacuated or how many remained.\nDespite the ceasefire in Oleshky, fighting rages on in other par"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/tv/news/ukraine-russia-oleshky-evactuation-family-video-b3077065.html",
+     "title": "Tearful family reunion as starving Ukrainians escape Russian-occupied Oleshky",
+     "lang": "en",
+     "extra": {},
+     "id": "2cfc285a625cb01b",
+     "published": "2026-11-01T12:08+00:00",
+     "text": "A tearful daughter embraced her father as the family reunited following his evacuation from Oleshky."
     }
    ]
   },
@@ -3689,92 +3718,39 @@
    ]
   },
   {
-   "id": "c0a0bf963d6",
+   "id": "cc87b88ab36",
    "kind": "news",
    "score": 14.0,
    "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "British university scientist died in Spain train crash",
+   "distinct_sites": 2,
+   "title_hint": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
    "official_image": null,
    "sources": [
     {
-     "source": "Sky News World",
+     "source": "Space.com",
      "trust": 2,
-     "url": "https://news.sky.com/story/british-university-scientist-died-in-spain-train-crash-13606613",
-     "title": "British university scientist died in Spain train crash",
-     "lang": "en",
-     "extra": {},
-     "id": "0a0bf963d6e702bf",
-     "published": "2026-11-01T12:28+00:00",
-     "text": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
-    },
-    {
-     "source": "Sky News World",
-     "trust": 2,
-     "url": "https://news.sky.com/story/university-of-cambridge-scientist-died-in-spain-train-crash-13606613",
-     "title": "University of Cambridge scientist died in Spain train crash",
-     "lang": "en",
-     "extra": {},
-     "id": "1876f7ebed9c7f59",
-     "published": "2026-11-01T12:28+00:00",
-     "text": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/bulletin/news/marta-shahbazi-death-spanish-train-crash-b3077079.html",
-     "title": "Cambridge scientist killed in Spanish train crash was on way to collect prize",
-     "lang": "en",
-     "extra": {},
-     "id": "4ada2ff4eef16812",
-     "published": "2026-11-01T12:28+00:00",
-     "text": ""
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa055QzlWLWdweXRTUDk4NU1oRlM4aU9xdmszYjI5RGhTWnBYUzRKNkFzWFpXdHZVY0lRMkU1MHZOc1NPYm5fY3BfSTEzUEE4MU1rRkpRdkxIUkNjYVNEcnpPUTFzcHRud2kyS1E5Wl9WN1hsSm1VN1hDVXp5R2YyQnI5Uk5Tbk9ROFRIczdrQTJ2MUI5VnY4WUptMWk5WjlDN2tFMw?oc=5",
-     "title": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award",
-     "lang": "en",
-     "extra": {},
-     "id": "9bd8af7ff4c50074",
-     "published": "2026-11-01T12:35+00:00",
-     "text": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award\nThe Independent"
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/news/world/europe/marta-shahbazi-spain-train-crash-victims-b3077068.html",
-     "title": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award",
-     "lang": "en",
-     "extra": {},
-     "id": "581fef2dae2fb8db",
-     "published": "2026-11-01T12:35+00:00",
-     "text": "University of Cambridge researcher Dr Marta Shahbazi was on board when two high-speed trains collided near Toledo"
-    },
-    {
-     "source": "Guardian Science",
-     "trust": 2,
-     "url": "https://theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-     "title": "Tributes paid to ‘inspiring’ University of Cambridge scientist who died in Spanish train crash",
+     "url": "https://space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+     "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
      "lang": "en",
      "extra": {
-      "page_image": "https://i.guim.co.uk/img/media/768c4ba470e9915362b2e359b2c39b525b2af3bc/80_167_1665_1332/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=669e492306e677fc1d3cc9d2a7db6c2e"
+      "page_image": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-2560-80.jpg"
      },
-     "id": "2a0c35956cf4e9b4",
-     "published": "2026-11-01T15:00+00:00",
-     "text": "An “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people.\nDr Marta Shahbazi, an affiliate associate professor at the Cambridge Stem Cell Institute and a group leader at the city’s Medical Research Council Laboratory of Molecular Biology (LMB), was travelling on one of the trains involved in the crash near Urda in Toledo province.\nThe LMB said the mother of two had recently won the Spanish Society of Developmental Biology’s scientific excellence prize. She had been due to be presented with the award during its conference in El Rompido, Andalucía.\nIn a LinkedIn post, the LMB said it was deeply saddened by her death, which was “a profound shock and a huge loss”, adding: “Martha was an inspiring, talented and passionate scientist whose research shed light on the earliest steps in the development of human embryos and how errors occur that lead to failed pregnancies.”\nIt said she was a role model who had written eloquently about balancing her family and career, describing herself as a “mother scientist”.\nDr Roser Vento-Tormo, a group leader at the Wellcome Sanger Institute outside Cambridge, wrote: “Marta Shahbazi was a beautiful person: a close collaborator, a treasured friend, and an inspiration to me both as a scientist and as a mother.\n“As a scientist, we shared so many dreams. We co-supervised two students together, and I cannot describe how much joy it was to work alongside her. Some of our work will still be published in the coming months, and anyone who reads it will feel the passion she poured into everything she did …\n“My thoughts are with her family. Anyone who knew Marta could see how deeply they were a unit, and how much they meant to her.”\nThe Center for Research in Molecular Medicine and Chronic Diseases (CiMUS), based in Santiago de Compostela, Spain, paid tribute to Shahbazi as “a brilliant young researcher”.\nThe disaster was Spain’s second high-speed rail crash this year. Both collisions occurred on the line between the central city of Madrid, Spain’s capital, and Seville, in the Andalucía region in the south of the country.\nThree days of national mourning were observed from Thursday. The Spanish prime minister, Pedro Sánchez, described the incident as a “tragedy” and has promised an investigation."
+     "id": "c87b88ab36416c10",
+     "published": "2026-11-01T13:00+00:00",
+     "text": "NASA's Swift space telescope is expected to crash back to Earth in the next few days.\nThe Neil Gehrels Swift Observatory will reenter Earth's atmosphere in an uncontrolled fashion, after a robotic rescue mission failed to boost the scope to a higher orbit.\nSwift launched to Earth orbit back in November 2004. Over the next two decades, it studied gamma-ray bursts — the most powerful explosions in the universe — and other cosmic objects and events using a trio of telescopes: a Burst Alert Telescope (BAT), an X-Ray Telescope (XRT), and its Ultraviolet/Optical Telescope (UVOT).\nOn Oct. 20, NASA reported that Swift's orbit had decayed to 171 miles (275 kilometers) above Earth and that the roughly 3,300-pound (1,500-kilogram) observatory was no longer able to compensate for the effects of the increased drag. It entered safe mode, followed by Swift's operations team at Pennsylvania State University sending a command to the spacecraft that effectively ended its operations ahead of its destructive and fiery nose-dive.\nIt's unclear at the moment exactly when and where Swift will plunge to Earth. But researchers definitely have their eyes peeled.\nA surge of reentries\nIn physics fashion, for the most part, what goes up must come down — with more space hardware to follow.\nThanks to the growing surge in low Earth orbit constellations and technology refresh cycles, there are 10 times more objects reentering per year than there were just five years ago, said Darren McKnight, a senior technical fellow at LeoLabs, a company that keeps a watchful eye on what's going on above our planet.\n\"It is unfortunate that Swift was not 'reorbited,' but from a reentry hazard perspective it is a small portion of the stuff coming back in. The rub on this, of course, is that, while many people bemoan the reentry of more objects, I am much more upset about the rapid rate of abandoning massive objects above 400 miles [644 km],\" McKnight told Space.com.\nSwift will likely disintegrate sufficiently upon reentry to not pose a ground casualty hazard, McKnight said. However, the internal workings of the observatory's X-ray and optical telescope might survive, McKnight said.\nWhere in the world?\nSimilar in view is Dean Sladen, a quality manager and aerospace engineer at the U.K. precision-components supplier Accu Components.\n\"Once Swift falls to about 120 kilometers [75 miles], the end usually comes within a few minutes. The air in front of it heats up so much that the satellite will start to glow. Solar panels and antennas are typically the first to tear off, and at around 78 kilometers [48 miles], roughly eight times the height of a passing airliner, the main body breaks apart. Most of it will melt and vaporize,\" said Sladen.\nWhile it isn't yet known exactly where any surviving pieces will land, Sladen noted that Swift's orbit only passes over a band within about 21 degrees of the equator.\n\"That band is mostly ocean, though it also crosses populated parts of Africa, South and Southeast Asia and Latin America,\" he said.\nSurviving leftovers\nAs for which parts are most likely to survive and reach ocean or ground, Sladen pointed out that most of Swift's body is aluminum, wiring and electronics, which melt away early in the reentry process. What reaches Earth is usually small, dense and heat-resistant, such as titanium, steel and glass.\n\"The most likely survivors are its six heavy reaction wheels, the spinning flywheels it used to aim itself, along with tougher telescope parts such a"
     },
     {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/01/university-of-cambridge-scientist-among-victims-of-deadly-spain-train-crash",
-     "title": "University of Cambridge scientist among victims of deadly Spain train crash",
+     "source": "Google News Science EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelBCZGZWUnQtbjByOVpCM19kUFFFY0hkQ0NkRDE5YV9US1p3aDY1ZkdoSFY4bERRSjNvREJacjdTdTZnS3Z1dmRtZHJGVkJ3c2Jwc1BvMlM5UlU0Rk9ESTVfdVNoY29aWHBGZHNDSk1tazdHWTltUmhURTlJNjMxRGc0RXlxMi10Wi10bVNIYWVqei1fZHZta1h2dngzQWswMDl1ejVvekpaQzNUZXdyVzNwMlFWVkpjVDJLSVhrbw?oc=5",
+     "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
      "lang": "en",
-     "extra": {},
-     "id": "3c2ff9517aa99580",
-     "published": "2026-11-01T15:14+00:00",
-     "text": "Marta Shahbazi had been on her way to collect the 2026 José Luis Gómez-Skarmeta prize for her \"outstanding contributions to the study of the early stages of human development.\""
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "5d3c434599394c92",
+     "published": "2026-11-01T13:00+00:00",
+     "text": "- NASA's Swift space telescope is about to crash to Earth. Where will it fall? Space\n- NASA telescope is on the verge of plunging back to Earth after failed rescue mission ABC News - Breaking News, Latest News and Videos\n- NASA satellite to plunge back to Earth after 22 years in space Scripps News\n- Aging NASA telescope sinks toward Earth after failed rescue attempt LiveNOW from FOX\n- Aging NASA Telescope Expected to Crash Back to Earth in Days The Daily Beast"
     }
    ]
   },
@@ -3931,30 +3907,6 @@
      "id": "36d86bbf7bd59217",
      "published": "2026-11-01T12:36+00:00",
      "text": "Rockstar Games’ most anticipated title is releasing in just under a month, and yet speculation on the future of the studio has only skyrocketed. It’s rather unsurprising, since Grand Theft Auto VI is expected to be the most important video game release in the modern gaming industry. Additionally, Grand Theft Auto VI’s existence is projected to negatively impact the U.S. economy through loss of workplace productivity, costing approximately $1 billion a day.\nSo, considering Grand Theft Auto VI’s estimated 2 billion dollar budget, it's safe to say that a lot is riding on the game's success, even if many believe it to be a certifiable hit. What comes after the Grand Theft Auto VI release is another thing entirely, but that game’s success will undeniably influence Rockstar. Still, rumors persist about what Rockstar Games’ next title will be. However, seeing the trends among the current mainstream gaming audience, it might be in Rockstar Games’ best interest to have Grand Theft Auto VI's influence on future titles left to the side.\nRockstar Games Has a New Hurdle To Climb\nThe gaming industry and its audience have changed rapidly in the past ten years alone. Most modern games include some form of live-service features, microtransactions, free-to-play, or heavy reliance on online connectivity. It's a change that many gamers hate, and that can be easily seen in what titles turn out to be successful: AAA single-player games like Resident Evil: Requiem, but also an interesting rise in indie games like Hollow Knight: Silksong. Grand Theft Auto VI feels like a culmination of everything that makes that series so iconic and of what players want AAA single-player games to be like.\nRockstar Games' next new title will no doubt be expected to be another single-player adventure. However, the massive shadow cast by Grand Theft Auto VI could very well lead to their next game being rather low-stakes. A common rumor or wish from dedicated Rockstar Games fans is for the studio to revive its other classic franchises like Max Payne and Bully. This sentiment has persisted since the beginning of Grand Theft Auto VI's development and, while understandable, especially for the older gaming crowd, old franchise revival might not be in Rockstar Games' best interest.\nThe Debatable Firepower of Nostalgic Franchises\nMax Payne as a franchise had done relatively well for itself, with its third installment, Max Payne 3 in 2012, earning only $4 million in revenue in its first year but gradually able to eventually make its break-even goal through the help of digital storefronts like Steam. It was this slow revenue stream that caused its then publisher, Take-Two Interactive, and even certain Rockstar Games executives to consider Max Payne 3 a commercial failure. There is definitely a place for a franchise like Max Payne in the current gaming industry. Well-thought-out noir games have their niche, and the nostalgia factor will certainly give it an audience. The same can be said for Bully, a standalone Rockstar Games title that was successful in its initial PlayStation 2 era. Bully has managed to hang on relatively well in the modern gaming landscape, helped out by Steam and other online storefronts. Additionally, online content creators have also done the series a service in pushing it out to a wider audience and introducing it to a newer generation of players. Like Max Payne, Bully would also have a respectably sized audience who would definitely buy. Unfortunately, these old fr"
-    }
-   ]
-  },
-  {
-   "id": "c2eb5766d74",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Sourav Ganguly’s ‘Bigg Boss Bangla’ Among Highlights as Indian Media Giant JioStar Revenues Climb 10%",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Variety TV",
-     "trust": 2,
-     "url": "https://variety.com/2026/tv/news/sourav-ganguly-bigg-boss-highlight-jiostar-revenue-rises-1236935940",
-     "title": "Sourav Ganguly’s ‘Bigg Boss Bangla’ Among Highlights as Indian Media Giant JioStar Revenues Climb 10%",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/10/Bigg-Boss-Bangla.jpg?w=1000&h=563&crop=1"
-     },
-     "id": "2eb5766d74d52897",
-     "published": "2026-10-31T06:20+00:00",
-     "text": "JioStar, the Indian media giant backed by Reliance Industries, grew revenue from operations 10.1% year-on-year to INR68.1 billion ($710 million) in the July–September quarter despite a weak advertising market. Profit after tax fell 13.2% to INR11.5 billion ($120 million).\nFormer India cricket captain Sourav Ganguly hosted the first-ever “Bigg Boss Bangla,” which launched this quarter on streaming service JioHotstar. The reality franchise rolled out in six languages, and all editions together pulled in more than 90 million viewers in their first three weeks. That makes “Bigg Boss” the biggest entertainment property on the platform.\nReliance Industries credited JioStar’s revenue growth to subscriptions and to advertising on digital entertainment. Gross revenue rose 9.8% to INR79.4 billion ($829 million).\nMargins came under pressure. EBITDA from operations dropped 10.5% to INR13.7 billion ($143 million), and the margin fell to 22.1% from 28.1% a year earlier. A 36.6% drop in investment income pulled total EBITDA down 13.6% to INR15 billion ($157 million). The quarter was also well below April–June, when JioStar booked INR109.5 billion ($1.1 billion) in revenue from operations.\nJioHotstar averaged about 440 million monthly active users over the three months, up 10% on the prior year. In September, the platform relaunched under the JioHotstar name in the U.K., Canada and Singapore. Reliance said active subscribers in those three territories have grown about 30% since then.\nThe company also introduced “Pay Kisi Aur Se” (“Ask Others to Pay”), which lets users send a subscription payment request to a friend or relative. Reliance said the feature raised payment initiations by 10%. Subscribers on mobile plans now get up to two hours a month of viewing on connected TVs. The average JioHotstar viewer on a connected TV watches three times as much as one on a phone.\nWatch time for entertainment content grew more than 15%, with Hindi and regional markets performing well. Reliance said titles including “India Ke Top 1%,” “Khatron Ke Khiladi,” “Hustle” Season 5 and “Bhojpuri Bawaal” strengthened JioStar’s position as the country’s top entertainment network.\n“Resort” became the most-watched title in the streamer’s history, which Reliance cited as evidence that its bet on long-running series is paying off. Rajkumar Hirani’s “Pritam & Pedro” set the platform record for a short-running series. “Heart Beat” Season 3 and new series “Court” both opened strongly, and Hindi drama “Thukra Ke Mera Pyaar” Season 2 improved on its first season. Tadka also grew its catalog, adding nearly 100 titles spanning reality, sports and other categories.\nIn sports, the England–India cricket series gave JioHotstar its biggest audience yet for a bilateral series played abroad. Wimbledon, the U.S. Open and the opening weeks of the 2026–27 Premier League season drew steady audiences and were monetized more effectively, according to the company. JioStar also expanded its commerce integrations, which had been limited to cricket, to all three events.\nThe results came two days after Jio Platforms, Reliance’s separate telecom and digital arm, listed on Indian stock exchanges. Reliance said the INR301.9 billion ($3.15 billion) IPO is the largest in India to date. Mukesh Ambani, Reliance’s chairman and managing director, said the issue was subscribed more than 22 times."
     }
    ]
   },
@@ -4717,6 +4669,28 @@
    ]
   },
   {
+   "id": "c3f4f362ab5",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Teslarati",
+     "trust": 2,
+     "url": "https://teslarati.com/elon-musk-calls-earths-data-centers-peanuts-next-to-what-spacex-is-planning-in-orbit",
+     "title": "Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit",
+     "lang": "en",
+     "extra": {},
+     "id": "3f4f362ab57a50a1",
+     "published": "2026-11-01T18:31+00:00",
+     "text": "Elon Musk is pushing back on one of the biggest worries hanging over SpaceX stock. In a reply on X on Sunday, Musk said the company’s capital expenditure efficiency is severely underestimated. He was responding to a Milk Road Stocks post citing analyst Kyle Reidhead, who estimates SpaceX will need to spend roughly $470 billion over the next five quarters.\nReidhead built that figure around the target SpaceX set on its third quarter earnings call: 13 gigawatts or more of compute by the end of 2027. In his breakdown, Nvidia captures 83 to 89 percent of the spending. SpaceX ended the quarter with 1.7 GW of nameplate compute and guided to $35 billion to $40 billion in fourth quarter capex, as Teslarati reported.\nMusk did not attach a number to his claim, but the earnings call shows the argument. CFO Bret Johnsen said new compute currently pays for itself in under a year at today’s pricing, and Musk said that window could shrink to six months next year. Using that pace, Reidhead argues about $230 billion of the $470 billion could come from operating cash flow and about $60 billion from SpaceX’s roughly $90 billion cash pile, leaving around $180 billion to borrow. Musk confirmed last week that SpaceX had already closed a new $40 billion debt raise to buy GPUs.\nThe ground buildout is not the end goal. It is what is meant to pay for the move to orbit. Replying on Friday to charts built from Sequoia partner Shaun Maguire’s SpaceX model, Musk wrote that “Terrestrial compute will be peanuts compared to orbital compute,” adding that orbital compute deployed per month “probably exceeds terrestrial around the end of 2028 and then far exceeds it in 2029.”\nMaguire’s model shows how steep that path is. It has capex climbing from $88 billion this year to $290 billion in 2027 and $369 billion in 2028, with SpaceX burning $77.8 billion in cash this year and $122.6 billion next year before turning $114.9 billion cash positive in 2028. Musk’s response to the model was, “I think we can do better.”\nThe orbital half runs through Starmind. SpaceX plans to operate up to 1 million AI satellites flying in clusters of about 10, linked by roughly 10 terabits of bandwidth, with deployment of thousands of units starting as soon as late 2027 out of its Gigasat factory in Bastrop, Texas, according to SpaceX’s space safety page. Musk has said each Starmind spacecraft will carry more than 250 kW of solar power.\nGetting there depends on launch volume. Maguire’s model assumes 250 Starship flights in 2028, up from two this year and 38 next year. The nearer test is financial: SpaceX guided to $33 billion to $37 billion in first quarter 2027 revenue, more than double the $14.58 billion it booked in Q3, and Musk reposted that guidance again on Sunday morning.\nThe post Elon Musk calls Earth’s data centers “peanuts” next to what SpaceX is planning in orbit appeared first on TESLARATI."
+    }
+   ]
+  },
+  {
    "id": "cc2b146d77d",
    "kind": "news",
    "score": 12.5,
@@ -4862,7 +4836,7 @@
    ]
   },
   {
-   "id": "c029d2eed83",
+   "id": "c85e216bdfc",
    "kind": "news",
    "score": 12.5,
    "sensitive": false,
@@ -4893,6 +4867,19 @@
      "id": "f2d79b3d27059d45",
      "published": "2026-11-01T15:14+00:00",
      "text": "Fortnite Treasure Hunters is here at last. This season is all about pirates and plundering treasure. Players can look the part using the Straw Hat Pirates skins from One Piece. It can get expensive to purchase cosmetics in Fortnite, but this season, there's an in-game item that makes everything in the Item Shop free. It almost sounds too good to be true, but it's real, and it's out there on the Battle Royale island.\nOne Piece was the perfect crossover for this year's mini-season, as Fortnite Treasure Hunters is all about anime and pirates. The Battle Pass features Ace and Robin, but there are more skins to collect in the Item Shop. The first released bundle includes Luffy, Nami, and Usopp, and it costs 4,000 V-Bucks, about $30. It's already quite expensive, and the number of One Piece skins in the shop will only grow as the season continues. Thankfully, Epic Games has introduced the Pirate Shop Access token, an item that grants players everything in the shop for free.\nHow to get the Pirate Shop Access token in Fortnite and how it works\nThis season, there are Treasure-Hunt chests in Fortnite. These special loot containers grant a free gizmo, a cosmetic item, or a token. The Pirate Shop Access token is a rare reward that can be found in these chests. If players are lucky enough to get it, the entire team will be able to plunder the Item Shop for two weeks, meaning that during this window of time, they can claim every item for free. This means they can get the One Piece bundle and any other skin, emote, or jam track in the shop. Exceptions include sidekicks that have already been purchased once and real-money purchases, such as special bundles and the Fortnite Crew.\nThe Pirate Shop Access token can be activated twice: once before Dec. 15, and once again in 2027. The effect lasts two weeks, so players must choose the right time. Once an item has been claimed, it is added to the player's locker permanently, even after the token expires.\nAlthough the Pirate Shop Access token is rare, there are ways to increase your chances of finding it. Since this item is shared among a team, playing Squads increases search efficiency, thanks to the extra pairs of hands. Visiting named locations with a higher loot concentration increases your chances of coming across Treasure-Hunt chests. Treasure Hours will begin next Sunday and are rumored to increase the spawn rate of the Pirate Shop Access token.\nThere are other items that can be found inside the Treasure-Hunt chests, and they change weekly. For Week 1 of the season, players have the chance to find the Solid Gold A$AP Rocky skin. Next week, the chests may contain the Solid Gold Lil Uzi Vert skin instead."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQallhSDVqbEZiTFRuLXc4dkM1LUtfUkFKY0NxSTlLMlV0TVlUa0VJWXdTUm90OFF3TGJtZ1owbmg3RHdZUXJJa25NR29TZlVUcUotcFhKY01HNkdRcGRodlk1VC1xNThuNHUwS3MtdVRBSDNZQTdDZ3lCU0ZHOWk1aU5KLU9XbGN4d1l6Q3RxNEpLZw?oc=5",
+     "title": "Fortnite Players Can Get Item Shop Skins For Free with the Pirate Shop Token",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "85e216bdfc5cf05e",
+     "published": "2026-11-01T10:07+00:00",
+     "text": "- Fortnite Players Can Get Item Shop Skins For Free with the Pirate Shop Token GameRant\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- ‘Fortnite’ Treasure Chest Prize Lets You Get Every Store Item For Free Forbes\n- Fortnite is giving free skins if you win big: How to access the Pirate Shop Yahoo Tech\n- Fortnite's rare Pirate Shop: free Item Shop cosmetics for 14 days games.gg"
     },
     {
      "source": "Google News Technology EN",
@@ -5125,54 +5112,6 @@
      "id": "0ccde8dacef0179f",
      "published": "2026-11-01T14:22+00:00",
      "text": "While there is new content being released to Netflix on a weekly basis, there are some movies and TV shows that cut through to become sensations. This includes dramatic shows like Squid Game, a Korean-language drama that took the world by storm. Movie-wise, some of its most successful films in recent years have including conspiracy thrillers like Carry-On, or last year's family-friendly animated sensation KPop Demon Hunters. It takes a lot for a Netflix title to set records for streaming, but those that come out on top say a lot about audiences' interests.\nThe current buzzworthy movie on Netflix is Collision Course. Like many of the platform's previous hit movies (Troll and Under Paris being the other big ones), this is a non-English-language film, the majority of it being in Spanish. Collision Course is a crime-thriller about a group of robbers that take over a Madrid bank during a major economic crisis, which subsequently triggers a battle for survival where the stakes could not be higher. The Spanish-language feature is helmed by Daniel Sánchez Arévalo, and features a leading cast of Laia Costa, Karra Elejalde, Tamar Novas, and Luis Zahera.\nCollision Course Is Netflix's #1 Movie In The World\nNow, just two days after its October 30 release on the platform, Collision Course has become a huge success on Netflix. The movie has opened to become the no. 1 film in the world, according to recent streaming data. This includes particular success across Spanish-speaking regions including Argentina, Costa Rica, Colombia, and Spain, all of which currently have Collision Course as their no.1 movie. The film also reached no. 3 status in the United States, and is on top 5 lists globally.\nThe movie is not popular enough yet to have amassed a Rotten Tomatoes score, but it is clear that audiences are responding positively, at least in their interest. It is too early to reach Netflix's list for their weekly Tudum rankings, but at this point it seems certain that Collision Course will be towards the top of the lists for the platform, in many markets.\nCollision Course Is A Perfect Money Heist Replacement\nCollision Course is an appealing title to fans of Netflix's popular Spanish-language series Money Heist. This series, now a multi-show franchise, also involves bank robbery in high-stakes situations. The show was a big hit when originally running on Netflix, and will likely have a lot of crossover viewership with fans of Collision Course, making the movie a great one for such fans to check out."
-    }
-   ]
-  },
-  {
-   "id": "c87e45987cf",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPclQyRzh6MGdSbUg3em9XODNmbWg3SUE1dXd6V2hpcDAySHRvRkEtUkZaSXFuUl92a2tBZjNsNldCcjVXOFhTbmNwNVdzUC1weldwSkdEZkFURmFVeXVKaFBMZzlUY0R3WGpqVjRiQVBpVld3aEhfck55TjNWT253QUhhR2QyTndvZ1E?oc=5",
-     "title": "'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart",
-     "lang": "en",
-     "extra": {},
-     "id": "87e45987cf7525ab",
-     "published": "2026-10-31T15:18+00:00",
-     "text": "'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart\nPolygon.com"
-    },
-    {
-     "source": "Screen Rant",
-     "trust": 2,
-     "url": "https://screenrant.com/star-trek-patrick-stewart-official-canon-proof",
-     "title": "Patrick Stewart Officially Exists In Star Trek Canon & A Trek Expert Proved It",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/picard-smiling-on-the-bridge-arch.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "aed9d1e155829c1f",
-     "published": "2026-11-01T11:00+00:00",
-     "text": "A Star Trek expert proved that Patrick Stewart officially exists in canon and, in a way, even appeared on Star Trek: The Next Generation in scenes with Captain Jean-Luc Picard. Stewart tragically passed away on October 26, 2026, at 86 years old. Among Sir Patrick Stewart's myriad accomplishments, he can lay claim to being the only Star Trek actor who existed in canon centuries before the character he plays was born.\nIn Star Trek, the general recognized rule is that something becomes official canon only if it appears or is mentioned in a TV series or movie. The 12 Star Trek TV shows, 14 feature films, and everything contained within them are considered \"official canon,\" although there are occasional exceptions and supplements like Star Trek: Short Treks (but not the animated Star Trek: very Short Treks).\nIn Patrick Stewart's case, the mission to prove the beloved actor officially joined Star Trek canon began with a book called The Globe Illustrated Shakespeare: The Complete Works, which appeared in episodes of Star Trek: The Next Generation. Q (John de Lancie) even threw this book at Captain Picard in TNG season 1's \"Hide & Q.\" This sparked a journey to discover a photo of Sir Patrick Stewart that appeared on-screen.\nProof That Patrick Stewart Officially Exists In Star Trek Canon\nJörg Hillebrand, a renowned researcher who worked on Star Trek: Picard season 3, spent years doing the work to prove that Patrick Stewart appeared on-screen in Star Trek: The Next Generation, thus making him officially part of canon. In a series of posts on his social media, Hillebrand (who sadly never met Stewart in real life) painstakingly described his process and discovery:\nHillebrand not only tracked down a physical copy of The Globe Illustrated Shakespeare, but took screencaps from DVDs of every time the book and its contents appeared in Star Trek: The Next Generation. However, Jörg eventually realized that TNG switched Shakespeare books and used a different in later episodes. That's when Hillebrand discovered a photo of a young, bearded Sir Patrick Stewart on pages 354/355 of Volume I of The Annotated Shakespeare:\nThe image of the mustachioed Patrick Stewart playing Touchstone in the 1968 Royal Shakespeare Company production of \"As You Like It\" was displayed in Captain Picard's ready room. Encased in glass, the double-page spread with Patrick Stewart is seen on-screen in Star Trek: The Next Generation episodes \"QPid,\" \"Silicon Avatar,\" \"True Q,\" and \"Descent, Part I.\"\nAs Hillebrand explains, this information isn't found in the many guides and compendiums about Star Trek. This was Jörg's discovery after years of research and determination. Not only does Hillebrand feel that it brought him closer to Sir Patrick Stewart, but to the best of his knowledge and expertise, Sir Patrick is the only Star Trek actor to be part of official canon, joining real-world luminaries like Mark Twain, Sir Isaac Newton, Leonardo Da Vinci, and Stephen Hawking.\nPatrick Stewart’s Picard Made Star Trek Shakespearean\nStar Trek has always had Shakespearean qualities in the characters' spoken dialogue and storytelling style, and many Star Trek actors have performed Shakespeare on stage. The Bard and his works have been part of the final frontier since Star Trek: The Original Series season 1's \"The Conscience of the King,\" when a company of actors brought murder aboard the Starship Enterprise.\nHowever, Sir Patrick Stewart elevated the Shakespearean qualities of Star Trek. Stewart's ped"
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/best-patrick-stewart-picard-star-trek-episodes",
-     "title": "6 Perfect Star Trek Episodes to Watch to Say Goodbye to Patrick Stewart",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/star-trek-capatain-picard.jpg?w=1200&h=675&fit=crop"
-     },
-     "id": "82ca82e874f13992",
-     "published": "2026-11-01T17:00+00:00",
-     "text": "Star Trek wouldn’t be the cultural phenomenon it is today without Patrick Stewart. Sure, William Shatner launched the franchise by playing the USS Enterprise Captain James T. Kirk in 79 episodes. But Stewart led the United Federation of Planets’ flagship as Captain Jean-Luc Picard in 178 episodes over seven seasons of Star Trek: The Next Generation, and then returned to the role for 30 more episodes in Star Trek: Picard.\nEven more significant than the quantity of Star Trek that Stewart made was the quality. Kirk is in many ways a classic pulp action hero. He faces conflicts head on, never afraid to throw a punch or flirt with a sexy alien. Picard represents a different form of masculinity, valuing compassion, knowledge, and communication above all else. He is the endlessly patient father figure for his crew, and for the next generation of Star Trek viewers, presiding over one of the most beautiful visions of what the future could look like. It’s that connection that has left fans in mourning following his death on Thursday at the age of 86.\nAny list of Stewart’s best episodes will closely mirror a general list of TNG’s best moments. Stewart brought incredible gravitas to the show’s most emotionally brutal scenes and gentle humor to its silliest scenarios. Stewart’s death is devastating, but TNG already taught fans how to deal with loss and embrace the best parts of life. Celebrate Stewart by reliving some of his finest moments in TNG’s six best Picard episodes.\n6 The Best of Both Worlds (Season 3, Episode 26 and Season 4, Episode 1)\nWriter Michael Piller and director Cliff Bole shocked fans with a rare cliffhanger, where the Borg capture and assimilate Picard. The Borg had only been teased in a single episode before establishing themselves as one of the series’ most devastating villains by using Picard’s knowledge to wipe out Starfleet’s entire armada. Stewart absolutely sells his transformation into the Borg emissary Locutus, bringing new menace to his dynamic with first officer William Riker (Jonathan Frakes), and pure heartbreak to the moment where Locutus sheds a single tear to show Picard was still locked in there somewhere.\n5 Chain of Command (Season 6, Episodes 10-11)\nStar Trek repeated the tactic of introducing a new villain by having them capture Picard in the two-parter Chain of Command, which set up the Cardassians ahead of the premiere of Star Trek: Deep Space Nine. Stewart brings the full weight of his Shakespearean training to his performance as he’s brutally tortured. While the episode’s most famous moment is Picard defiantly screaming at his captor as he’s freed, its most powerful scene is the ending, where the Captain admits to Counselor Troi (Marina Sirtis) just how close he was to breaking. It’s a profound demonstration of the character’s strength and his very human fragility.\n4 All Good Things… (Season 7, Episodes 25-26)\nTNG has one of the best series finales of all time, perfectly tying together the show’s first and last episodes by testing Picard’s ingenuity. Stewart does a phenomenal job portraying a man on the brink of madness as his consciousness is pulled between three timelines by Q (John de Lancie). The episode is a perfect encapsulation of the show’s values as Picard has to rely on the deep trust of his crew and demonstrates his willingness to do what’s right, no matter the cost. The series ends with a cosmic promise from Q to continue to follow humanity’s evolution. But just as profound is the far more mund"
     }
    ]
   },
@@ -5579,63 +5518,100 @@
    ]
   },
   {
-   "id": "ce103c0d34d",
+   "id": "c8d3ab06f02",
    "kind": "news",
    "score": 12.0,
    "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Dungeon Crawler Carl: Smush Officially Releasing Ahead Of Book 9",
+   "distinct_sites": 2,
+   "title_hint": "Recasting Batman For The DCU: All 8 Major Candidates, Ranked",
    "official_image": null,
    "sources": [
     {
      "source": "Screen Rant",
      "trust": 2,
-     "url": "https://screenrant.com/dungeon-crawler-carl-smush-dice-set-november-2026",
-     "title": "Dungeon Crawler Carl: Smush Officially Releasing Ahead Of Book 9",
+     "url": "https://screenrant.com/batman-dcu-actors-recasting-favorites-ranked",
+     "title": "Recasting Batman For The DCU: All 8 Major Candidates, Ranked",
      "lang": "en",
      "extra": {
-      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/carl-and-donut-in-the-dungeon-crawler-carl-webtoon.jpg?w=1600&h=900&fit=crop"
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/11/batman-wielding-batarang-in-dc-comics.jpg?w=1600&h=900&fit=crop"
      },
-     "id": "e103c0d34d2e42fc",
-     "published": "2026-11-01T00:00+00:00",
-     "text": "Since the first book in the saga, aptly named Dungeon Crawler Carl, the LitRPG series has gone on to become one of the most successful of all time thanks to the incredible science fantasy world created by author Matt Dinniman. Starting its life as a self-published novel, the series now boasts eight entries altogether, with a ninth on the way. However, the success does not end there.\nSet in a world where Earth's resources have been taken control of by an alien corporation, Carl and his ex-girlfriend's cat, Princess Donut, find themselves having to compete in a dungeon crawl as part of an intergalactic reality show program. Joined by a whole cast of bizarre characters, the Dungeon Crawler Carl series boasts a legion of dedicated fans, and whilst they wait for the series to be completed with one additional volume split across two books, there is another exciting release to look forward to.\nTo nobody's shock or surprise, the Dungeon Crawler Carl world is set to welcome a roleplaying game courtesy of Renegade Game Studios. Launching on 28 November, the roleplaying game already offers potential players the chance to get their hands on dice sets, rulebooks, miniature sets, and the game itself, which is titled Dungeon Crawler Carl: Unstoppable. As the official item description reads:\nThis version of Unstoppable is set in the 18-floor World Dungeon of the Dungeon Crawler Carl novel. Fight your way through mobs and bosses as Carl or Princess Donut! Play solo or bring along a friend for a co-op crawl!\nWith this card-crafting system, each card is a sleeve with swappable parts. You’ll craft and customize your cards as you play! The power curve in this “momentum builder” gives you a fighting chance against the threats you’ll face.\nExplore a single floor of the World Dungeon each time you play. This box contains the first three floors. In true roguelite fashion, however, only a few benefits that you purchase with XP will carry over to the next floor!\nCreated by John D. Clair, this solo or two-player cooperative experience offers a roguelike, deck-building extravaganza for fans of the hit LitRPG series, but fans will also be interested to learn that Dungeon Crawler Carl: Smush is also available for pre-order ahead of November's big launch.\nAs mentioned, Dungeon Crawler Carl: Unstoppable also welcomes accompanying dice sets, and Dungeon Crawler Carl: Smush is one such example of the packs up for grabs. Featuring a fiery red, orange, and yellow color scheme, this dice set is inspired by the Smush skill, and includes 1 x d4 | 1 x d6 | 1 x d8 | 1 x d10 | 1 x d12 | 2 x d20 | 1 x d2. As the feature list details, you will receive:\n- 7 full-color acrylic dice and 1 d2 Poker style chip with pearlescent treatment\n- Package in a themed reusable window box package\n- These dice have different numbers on each side, so when they roll them, you don’t know what you’ll get. Exciting, right?\nSo, if you are going to be checking out Dungeon Crawler Carl: Unstoppable when it launches in November, make sure to get yourself an accompanying dice set and play the game in style.\nDungeon Crawler Carl\n- Publisher(s)\n- Penguin Random House\n- Publication Date\n- September 21, 2020\n- Number of Pages\n- 444\n- ISBN#\n- 979-8688591507\n- Author(s)\n- Matt Dinniman"
+     "id": "8d3ab06f02ff2a08",
+     "published": "2026-11-01T01:00+00:00",
+     "text": "James Gunn's DCU is still in its earliest stages, meaning that Batman has not yet been cast in the new shared universe. However, we know that The Brave and the Bold is on the way, and there are plenty of conversations online about which actor would be best suited to take on the iconic cape and cowl.\nUnlike Robert Pattinson's younger and more isolated Dark Knight in Matt Reeves' Elseworlds universe, it's been said that the DCU's Batman will be older, more experienced, and will already have Damian Wayne as his son operating as his Robin. As such, that also creates the implication that he'll likely have an established Bat Family of heroes working alongside him in Gotham.\nKeeping that in mind, it's interesting to look at some of the biggest names who have continually been brought up in conversations and reports about the DCU's Dark Knight. While James Gunn has insisted that the Batman casting search hasn't yet begun, he did recently tease that Batman will likely be closer in age to David Corenswet's Superman (mid-30s). Even so, here is our ranking of eight major DCU Batman fancast candidates, ranked from the least to best fit.\n8 Tom Brittney\nTom Brittney is certainly an interesting possibility, seeing as how he already came very close to joining the DCU as Superman before David Corenswet was cast in the major role. As such, this has certainly given fans some reason to wonder if Gunn might consider him for a different role in the DCU, like The Dark Knight. It certainly seems as though he could portray a solid Bruce Wayne by day before transforming into the Caped Crusader at night.\nHowever, Brittney is less established than several other candidates, and some fans remain unconvinced he could capture the full screen presence required to lead a franchise as major as Batman. He's a solid possibility, though there are more exciting options.\n7 Glen Powell\nWithout a doubt, Glen Powell has become one of Hollywood's biggest rising stars, and his natural charisma could certainly make him an interesting Bruce Wayne. His performances in Top Gun: Maverick and Anyone But You demonstrate his ability to play confident, charming characters, which would translate nicely if he were to bring the billionaire philanthropist to life in the DCU.\nWhile Powell has done more serious action roles, there could be a concern that he might not be dark enough to play a hero as brooding and intimidating as Batman. He's also been talked about online for other DC hero roles like Booster Gold, which might be a better fit for him in the DC Universe.\n6 Richard Madden\nRichard Madden has the kind of experience that could easily make him a compelling Bruce Wayne. Best known for Game of Thrones, Citadel, and Marvel's Eternals, Madden has demonstrated a solid ability to play confident, physically capable characters, while also having an inherent darkness.\nAt 40, Madden could be a solid choice as a Batman who's a few years older than Superman, while still having a son with Damian Wayne's Robin. Likewise, his previous superhero casting could motivate eyes elsewhere when it comes to casting the next Batman for James Gunn's DC Universe.\n5 Jake Gyllenhaal\nJake Gyllenhaal has been connected to Batman casting for years, and his prior work practically speaks for itself, from the dark intensity of Nightcrawler to his role as a detective in the psychological thriller Prisoners. However, he's also got some great range and could easily bring the charm of Bruce Wayne to life as well. Although he is"
     },
     {
-     "source": "Polygon",
+     "source": "Collider",
      "trust": 2,
-     "url": "https://polygon.com/every-dungeon-crawler-carl-book-ranked-by-their-goodreads-score",
-     "title": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
+     "url": "https://collider.com/slow-horses-apple-tv-seasons-ranked",
+     "title": "All 6 Seasons of 'Slow Horses,' Ranked",
      "lang": "en",
      "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeon-crawler-carl.jpg?w=1600&h=900&fit=crop"
+      "page_image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/09/slow-horses-season-6-jack-lowden-1.jpeg?w=1600&h=900&fit=crop"
      },
-     "id": "a8c662b89e576e70",
-     "published": "2026-11-01T04:00+00:00",
-     "text": "Matt Dinniman's Dungeon Crawler Carl takes one of fantasy's oldest setups and throws it into a blender with reality television, apocalyptic horror, and video game logic, creating a series that has evolved into one of the biggest breakout hits in modern speculative fiction. The premise is fairly simple, starting with a fight for survival inside an alien-dominated game show that escalates into a sprawling saga of bizarre monsters, convoluted mechanics, and a talking cat with an ego to match.\nBeneath all of its bloodshed and absurdity, however, lies a surprisingly heartfelt story about survival in a system designed to exploit its participants, not unlike James Dashner’s The Maze Runner and Suzanne Collins’ The Hunger Games. With eight books in the series, there's plenty of dungeon crawling to rank. Goodreads scores offer a useful snapshot of which adventures have resonated most with readers, but with every book holding a rating well above 4.3 stars, you won't find a single dud in this franchise.\nAs fans eagerly await the ninth installment’s release next year, which Dinniman calls the first half of his planned two-part series conclusion, now is the perfect moment to look back at how the crawl has scored so far. Here's every Dungeon Crawler Carl book ranked by its Goodreads score.\n8 Book 3: The Dungeon Anarchist's Cookbook\nGoodreads Rating: 4.37\nOf all the Dungeon Crawler Carl books, The Dungeon Anarchist's Cookbook is the one most likely to test readers' patience, but that's not to say the third installment is a disappointment. Far from it. Book three introduces readers to the Fourth Floor, which plunges Carl and his ex-girlfriend’s obnoxious cat, Donut, into the Iron Tangle, a nightmarish subway system where navigating the maze of trains, stations, and monsters can feel almost as grueling to the reader as it does for the crawlers.\nThe complicated geography is central to the challenge, but it also makes this installment more mechanically demanding than its predecessors. Still, Carl and Donut's increasingly desperate attempts to survive the Fourth Floor, alongside the introduction of greater cooperation between crawlers, make for compelling reading. Its comparatively lower score when set against the entire series reflects a divisive setting, not a lack of imagination.\n7 Book 1: Dungeon Crawler Carl\nGoodreads Rating: 4.42\nEvery great dungeon crawl needs a compelling reason to keep descending, and Dinniman's debut delivers one of the strangest imaginable. After an apocalyptic event transforms Earth into a deadly, televised game show, Carl finds himself fighting for survival alongside his ex-girlfriend's unusually opinionated feline, Princess Donut. It’s a gleefully unhinged blend of LitRPG mechanics, gruesome monsters, and reality television satire.\nWhile clearly not ranked among his finest, there's a refreshing simplicity to this first outing, before the mythology and cast grow considerably more complicated. Carl and Donut's partnership is the real draw in this first episode, giving the carnage an emotional anchor as they fight for survival across the first two floors. Its lower placement is hardly a stain on its reputation; it simply reflects how much more ambitious the series has grown since its inception.\n6 Book 2: Carl's Doomsday Scenario\nGoodreads Rating: 4.46\nA sequel can easily fall into the trap of adding more spectacle and worldbuilding without making anything in the story truly resonate. Thankfully, Carl's Doomsday Scenario captures"
+     "id": "a25f6b4ac7cdb8f1",
+     "published": "2026-11-01T13:12+00:00",
+     "text": "Spoiler Alert: This list contains spoilers for Slow Horses Season 6.The 21st century has gifted TV lovers with some incredible shows, but one from this decade has a proven track record of rivaling everything that came before and after: Slow Horses. Created by Will Smith, the Apple TV spy thriller lifts Mick Herron's book series in extraordinary fashion. The story follows the dysfunctional, cast-off unit of MI5 intelligence agents sent to Slough House. Led by Jackson Lamb (Gary Oldman), the unit does menial administrative grunt work, yet repeatedly stumbles into high-stakes terrorist plots, rogue-state conspiracies, and dirty political games orchestrated by MI5's main headquarters, The Park.\nNow six seasons deep, each season uses at least one of Herron's books as its blueprint, crafting a high-octane story in six tightly constructed episodes. The antithesis of clean, polished James Bond-esque spycraft, Slow Horses has brilliantly built its own identity thanks to its fascinating plots and exceptional characters. But which season is the very best so far? It's time to find out! The truth is, each season has a firm reason why it could top the list, but there is a method to the madness.\n6 Season 5\nBeing at the bottom may sound like a bad thing, but the truth of the matter is there are no bad seasons of Slow Horses. It's a show that continues to top itself. For the fifth season, the series adapted the narrative from the events in London Rules. The action follows a coordinated destabilization plot against the UK government and London's mayoral election. A cell of disgruntled Libyan operatives, led by Farouk (Monty Ben), executes a classic British intelligence playbook: a mass shooting in Aberdeen by a radicalized shooter, sabotaging petrol supplies with contaminated fuel to cause vehicle fires and massive gridlock, and bombing a penguin enclosure at the London Zoo to hijack media coverage. The terrorists use Tara (Hiba Bennani) to \"honey trap\" Roddy Ho (Christopher Chung), exploiting his vanity in order to hack into the MI5 system and blind the agency. Targeting populist leader and mayoral candidate Dennis Gimble (Christopher Villiers) and Mayor Zafar Jaffrey (Nick Mohammed), the chaos leads to the former being accidentally killed by River Cartwright (Jack Lowden) and J.K. Coe (Tom Brooke). With a final standoff standing in the way, Jackson Lamb and the coherent agents of Slough House are tasked with intercepting and neutralizing the threat.\nSeason 5 had big shoes to fill as its predecessor was literally perfect. In turn, Slow Horses chose to infuse a bit more humor into the action. And it all came in the form of Roddy. For the first time, he's platformed into the story as an active player, allowing him to showcase his humorous side. Chung delivers a standout performance, especially during his brilliant interrogation scene. His smugness brings a much-needed levity. The paint-can incident may be one of the best bits because it was ridiculous and Home Alone-coded, so you simply couldn't believe it resulted in death. But that's why these agents are Joes! By leaning into a lighter workplace-comedy tone, the series proves it can evolve without losing its identity. The season treats chance and political absurdity with sharp wit, tying public panic to anti-intellectual bullies and systemic institutional failure. One of the greatest revelations of the season comes in the confirmation of Lamb's severely burned feet, the result of past torture when he wi"
+    }
+   ]
+  },
+  {
+   "id": "cc036195fae",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Angel Reese Breaks WNBA Postseason Record Despite Dream Loss",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://newsweek.com/sports/angel-reese-breaks-wnba-postseason-record-despite-dream-loss-12646072",
+     "title": "Angel Reese Breaks WNBA Postseason Record Despite Dream Loss",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets.newsweek.com/wp-content/uploads/2026/10/GettyImages-2302918845.jpg?w=1200&crop=1"
+     },
+     "id": "c036195faeb0f2ac",
+     "published": "2026-11-01T03:10+00:00",
+     "text": "Angel Reese and the Atlanta Dream came extremely close to winning their first WNBA title on Saturday night. Instead, the Golden State Valkyries won their first championship with a 68-63 Game 7 win.\nIt was a thrilling seven-game Finals series filled with ups and downs from both teams. Reese specifically stood out as one of the stars of the series on both sides of the court, even though the Dream fell short in the end.\nDespite not going home as a WNBA champion quite yet (she'll definitely be back), Reese does get to add another accolade to her ever-growing résumé. She officially broke the WNBA record for the most rebounds posted in a single playoff run with 132, via StatMuse. She posted 12 rebounds on Saturday night alone. She averaged 10.9 rebounds per contest during the postseason.\nRead More on Sports\nReese was battling against Valkyries center Kiah Stokes for the record throughout the Finals. Stokes ended up with 130 total rebounds after putting up 13 rebounds on Saturday night. She sits second behind Reese in the record standings.\nBoth Reese and Stokes surpassed A'ja Wilson's record of 120 rebounds from last year's Las Vegas Aces' championship run. They both took a good lead over the five-time MVP's record.\nReese has been the rebound queen all year. She already broke the record for the most rebounds in a single season (521) and the record for the most rebounds in a game (26). It was only fitting for her to be crowned the WNBA playoff rebound queen.\nThese performances helped Reese be named the 2026 WNBA Defensive Player of the Year. She'll surely add WNBA champion to her accomplishments in the coming years."
     },
     {
-     "source": "Polygon",
+     "source": "USA Today Tech",
      "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMXN4RGlJLU1oZ0xTQlUzZE1Mb2g5X2RPVTNSQWpoZS1KN05VOU55WWNudW53SmwyU0hlWTVzb3pNT002blFEdGxmYXl0UkFRNHpGMXc5RDI2Y1RSYjZSRC1wZm5yRW5vZGxzbWpxa1JzZzhka05QX2Y1cG90WGI0cFN6NkQwT3diRFVWSHlTN2VlUQ?oc=5",
-     "title": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcGhYb0VYcE5KUFZUUGZTTnd5cGhSSGlEVkJiNHVuNk5DV0F4OS0zeGxRSVAxYVdrWUVmaXJIOHlmcVNYQTVoRWtFZEtVNHJJVEZZYWFBUFZ0UnB3MHdocF95QjBQbXpHb0tDN2FiSk9QRlhDeVpuQ21BdUk2bGl5WHZ1OFYwZnZuTDJFVUhjWnFXTDMyVUpCbHN0VmtZMUFyMmdHYVVadnJZQWI0QlFRaVdyUnRZQQ?oc=5",
+     "title": "Angel Reese contract, salary and what's next after Atlanta Dream's WNBA Finals run",
      "lang": "en",
      "extra": {},
-     "id": "0d7b8c2edb2abfa5",
-     "published": "2026-11-01T04:00+00:00",
-     "text": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)\nPolygon.com"
+     "id": "27f98f9e648af6b2",
+     "published": "2026-11-01T05:07+00:00",
+     "text": "Angel Reese contract, salary and what's next after Atlanta Dream's WNBA Finals run\nUSA Today"
     },
     {
-     "source": "Screen Rant",
-     "trust": 2,
-     "url": "https://screenrant.com/matt-dinniman-dungeon-crawler-carl-book-9-working-title-beautiful-place",
-     "title": "Matt Dinniman Officially Unveils Working Title Of Dungeon Crawler Carl Book 9",
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORlMwT2I5b2lFWmk5VUg0ZkMyNDl0OVVPalF6cjY4UVI5MmRyUnhPeXBJMERJSExfbHc4cEN4YTEzS0ZGVVl5cXNwZWZ6MmpGWVpnRzRXRE13ZFA4b3FNUi1ZdUFYVGFTcS1xaG5xM2dIV1hveTZXR1JOYTZhMFdIRlh4OTVVdkpKYWQtZU5Za1pURmhGdjh6TFk1anNfb3ozWGR1Zm1NYTN1UUxGMC1zTGwxS1NzVXR3MVVKa2N3?oc=5",
+     "title": "Angel Reese Reacts to Dream's 2026 WNBA Finals Loss vs. Valkyries in Emotional Video",
      "lang": "en",
      "extra": {
-      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/this-inevitable-ruin-dungeon-crawler-carl-ebook-cover.jpg?w=1600&h=900&fit=crop"
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "6ac1d132f8f9db01",
-     "published": "2026-11-01T12:30+00:00",
-     "text": "Dungeon Crawler Carl is easily one of the most unprecedented success stories in modern pop culture. Matt Dinniman's World Dungeon and beloved, unique characters more or less single-handedly brought the entire LitRPG genre out of obscurity and into the mainstream, with various other authors in the space now gaining popularity in DCC's wake.\nFans who are all caught up on Dungeon Crawler Carl are understandably eager for any new information they can get on the future of what is now a multimedia franchise. As readers gear up for the live-action adaptation on Peacock, the new tabletop RPG and Unstoppable board game arriving to retail in November, the possibility of an animated series, the WEBTOON comic, and more, there's a lot to keep track of in the DCC universe now.\nSeeing as most of the major announcements for Dungeon Crawler Carl actually come via Dinniman's long-running Patreon account, many fans who do not subscribe are left in the dark on some of the newest developments relating to the books. One such announcement may have slipped past readers' radars over the summer, with the official working title for Book 9 officially revealed back in June via Dinniman's Patreon.\nOver the summer, Dinniman released the very first glimpse at what readers could expect from Book 9 in a Patreon post that included the working title for the next book: The Beautiful Place. While this obviously isn't new information, it's a huge reveal that many longtime readers may have missed, especially if they aren't supporters on his Patreon page.\nThe June 16 post also included the first two pieces of the upcoming novel's prologue, giving Patreon subscribers an early look at how the next book will begin. Dinniman explained that he'd already written a considerable amount of the book, although much of the material still needed to be organized into a coherent narrative. He also confirmed that neither Carl nor Princess Donut would appear in the initial prologue, which isn't unprecedented, and readers would obviously see them again in the next batch of chapters.\nOf course, The Beautiful Place is shaping up to be a significant release, considering that it will help bring the entire Dungeon Crawler Carl series to a close. In a February 2026 interview with Variety, Dinniman revealed that he was planning to split the final installment into two separate books, effectively expanding the series to ten novels instead of the originally planned nine. Although he stressed that the arrangement wasn't completely set in stone at the time, he explained that the finale was becoming quite lengthy, making the split a practical solution.\nFortunately, the prologue wasn't the last preview Dinniman had planned for his supporters. On August 11, he returned to Patreon with Chapters 1 and 2, offering readers another opportunity to see how the story was progressing. More recently, on October 14, he released another substantial update featuring Chapters 3, 4, and 5, along with an additional interlude.\nIn that latest post, Dinniman acknowledged that travel, moving, a car accident, and an unfortunate bout of food poisoning had disrupted his editing schedule. Nevertheless, he reassured subscribers that much of the material had already been written. While there's still no official release date for Dungeon Crawler Carl Book 9, The Beautiful Place, these updates offer some encouraging signs that the long-awaited finale is steadily taking shape.\nDungeon Crawler Carl\n- Publisher(s)\n- Penguin Random House\n- P"
+     "id": "0970994fceb0d0d6",
+     "published": "2026-11-01T04:23+00:00",
+     "text": "- Angel Reese Reacts to Dream's 2026 WNBA Finals Loss vs. Valkyries in Emotional Video Bleacher Report\n- Angel Reese proud of Dream's breakthrough despite WNBA Finals loss to Valkyries ESPN\n- Angel Reese's Full Box Score Stats for Entire WNBA Playoff Run After Dream Lose Title to Valkyries Bleacher Report\n- Angel Reese went from taunting Golden State to complaining about officiating as WNBA Finals shifted Fox News\n- Angel Reese had a statement season, just not the last word in the WNBA Finals The New York Times"
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVJiWVRDbktyUmtoSXlqS01lSFBVWURmdEpTemlyZ0lxcUdJSnFxYXE2YVotd3VzYjJ6ZDNqekZ3YTRtUVVydnRDNHExR3h0RU5SQ01LMWJFelZwT29ON3M2VTdLOEhZSkhLdHhiTXQ4bkFZTDBzRl9KUmp2bGdBLU5pSDZjTktzNUZwNEtFcko3bGEzdUhlcEJWTFZaSWloWk9zSkE0Mml0SFFXaW1RdWU2ajUyUQ?oc=5",
+     "title": "Angel Reese after Atlanta Dream's disappointing WNBA Finals Game 7 loss: 'We'll be back'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "afcf52157ff2e719",
+     "published": "2026-11-01T14:48+00:00",
+     "text": "- Angel Reese after Atlanta Dream's disappointing WNBA Finals Game 7 loss: 'We'll be back' Fox News\n- Angel Reese proud of Dream's breakthrough despite WNBA Finals loss to Valkyries ESPN\n- Angel Reese's Full Box Score Stats for Entire WNBA Playoff Run After Dream Lose Title to Valkyries Bleacher Report\n- Angel Reese had statement season, just not the last word in the WNBA Finals The New York Times\n- Dream hurt by WNBA Finals loss, but it’s ‘delayed, not denied’ The Atlanta Journal-Constitution"
     }
    ]
   },
@@ -5782,8 +5758,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T18:04+00:00",
-     "text": "Bitcoin: $77,934 (+0.4% 24h)\nEthereum: $2,262 (+0.4% 24h)\nSolana: $94.53 (-1.5% 24h)\nToncoin: $1.22 (+1.3% 24h)"
+     "published": "2026-11-01T18:35+00:00",
+     "text": "Bitcoin: $77,893 (+0.3% 24h)\nEthereum: $2,263 (+0.3% 24h)\nSolana: $94.44 (-1.7% 24h)\nToncoin: $1.22 (+1.0% 24h)"
     }
    ]
   },
