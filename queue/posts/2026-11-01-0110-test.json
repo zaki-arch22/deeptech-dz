@@ -1,0 +1,485 @@
+[
+ {
+  "type": "news",
+  "category": "breaking",
+  "breaking": true,
+  "headline": "إضافة خبيثة باسم Claude Code في متجر Cursor",
+  "sources": [
+   {
+    "url": "https://wired.com/story/trojan-malware-targets-thousands-of-anthropic-claude-developer-systems",
+    "title": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices",
+    "text": "A Supply Chain Attack Put Malicious Anthropic Claude Extensions on Thousands of Devices. The AI software-development platform Cursor, which is owned by SpaceX, had a malicious Anthropic Claude Code extension for Windows, macOS, and Linux live in its integrated development environment extension marketplace for roughly 11 hours on Thursday. The company says the rogue extension was downloaded by “at most 5,000 users.” Cursor briefly shut down the extension marketplace while it investigated the situation, which the company says did not impact any other extensions.\nThe tainted extension was designed with a backdoor to give attackers access to victim devices—the type of implant that malicious hackers often use as a stepping stone to deeper control inside a target network. Cursor published remediation steps on Thursday for the roughly 5,000 affected targets. A saving grace of the situation, though, was a flaw in the malware's design that blocked it from fully establishing itself on the vast majority of targets.\n“Everyone was so lucky here, this was potentially a really dangerous foothold for an attacker,” says Calum Hall, cofounder and CEO of the detection firm Phorion, the first researchers to spot the malicious extension after detecting it on a customer's Mac.\nWhat is still unclear is how the malicious extension made its way into the Cursor marketplace at all. Some researchers initially speculated that it came from a compromised Anthropic system. But Cursor said in its Thursday security alert that “these malicious versions of the extension were not developed by Anthropic.”\nFelix Rieseberg, a member of Anthropic's technical staff, posted on X on Friday: “We’re working with Cursor on this incident, but it wasn’t a compromise of Anthropic’s systems or employee laptops. A malicious actor used access to Cursor’s marketplace to publish a tampered copy of the Claude Code extension, which we didn’t build or publish. The versions on our official channels are not affected and this only impacts Cursor users.”\nDavid Dworken, who works on security at Anthropic, posted on X shortly after, explaining that “this did not involve a compromise of any Anthropic systems … We were not involved with building, publishing, or hosting this.”\nCursor did not return WIRED's request for comment about how the malicious upload happened and whether it was the result of a breach at Cursor.\nComments\nBack to top"
+   }
+  ],
+  "logos": [
+   {
+    "name": "Cursor",
+    "domain": "cursor.com"
+   },
+   {
+    "name": "Anthropic",
+    "domain": "anthropic.com"
+   }
+  ],
+  "photo": {
+   "url": "https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/191:100/w_1280,c_limit/103026-HACK_.jpg"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Computer_code_on_screen.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Laptop_keyboard_close-up.jpg"
+  ],
+  "photo_query": "malware hacker laptop code screen",
+  "text": "🚨 **إضافة خبيثة تحمل اسم Claude Code بقيت 11 ساعة في متجر محرر البرمجة Cursor، ونزّلها حتى 5,000 مستخدم.**\n\nالإضافة كانت تخفي **باباً خلفياً** يسمح للمخترقين بالدخول إلى جهاز الضحية، على ويندوز وماك ولينكس.\n\nشركة Cursor أغلقت متجر الإضافات مؤقتاً، ونشرت خطوات التنظيف للمتضررين. وتقول إن النسخ المزيفة **لم تطوّرها أنثروبيك**.\n\nلحسن الحظ، خطأ في تصميم البرنامج الخبيث منعه من الاستقرار على أغلب الأجهزة.\n\nإن كنت تستعمل Cursor: افتح قائمة الإضافات، واحذف أي إضافة باسم Claude Code لم تثبّتها بنفسك، ثم اتبع تعليمات الشركة الرسمية.\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0112-breaking-cursor",
+  "slot": "2026-11-01T01:12:00+01:00",
+  "cluster_id": "web-breaking-cursor",
+  "gallery": []
+ },
+ {
+  "type": "news",
+  "category": "news",
+  "headline": "طلاب أشباح يسرقون القروض بالذكاء الاصطناعي",
+  "sources": [
+   {
+    "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans",
+    "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+    "text": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says. The US has charged five individuals as part of the first broad federal crackdown on “ghost students”—fraudsters who steal the identities of hundreds of Americans to pose as fake college students and steal student loans.\nIn a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from “a network associated with Kenyan nationals\" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ’s National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that “this is the first international seizure of its kind in Kenya,” while warning fraudsters that the crackdown has only just begun.\n“If you steal American identities, if you steal taxpayer dollars, if you exploit programs meant to help students build a future—we will find you,” McDonald said. “Whether you are in Nebraska, New Jersey, Virginia, or Nairobi, we will pursue you.”"
+   },
+   {
+    "url": "https://tomshardware.com/tech-industry/cyber-security/ghost-students-using-ai-to-apply-for-student-loans-with-stolen-identities-dojs-operation-ghostbusters-busts-usd200-million-ring-faking-online-college-attendance-unsuspecting-victims-saddled-with-student-debt-they-didnt-sign-up-for",
+    "title": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring",
+    "text": "'Ghost Students' using AI to apply for student loans with stolen identities, DOJ's Operation Ghostbusters busts $200 million ring. <p>Jowi Morales is a writer and journalist covering the tech beat since 2021. However, he’s been interested in technology far earlier than that. He started discovering desktop computers when his father brought home a Windows 95 PC, but his first real experience working under the hood of the PC was when the old computer’s hard drive was filled to the brim in the year 2000. He deleted the Windows folder to attempt to rectify the situation, which led to his dad buying a new desktop PC. Since then, he learned a lot more about computers, and he’s always been the go-to tech expert for his family and friends.</p><p>Jowi primarily uses a Windows workstation and an Android phone, but he also bought into the Apple ecosystem with the 6th-gen iPad, iPhone 14 Pro Max, and the M1 MacBook Air. Today, Jowi covers hardware and software from Redmond and Cupertino, while also looking at the tech industry in general.</p><p>Aside from covering technology, Jowi is an avid photographer and writes about automobiles, aviation, and tanks. You can find his bylines at <a href=\"https://www.makeuseof.com/author/jowi-morales/\">MakeUseOf</a>, <a href=\"https://www.slashgear.com/author/jowimorales/\">SlashGear</a>, and, of course, <a href=\"https://www.tomshardware.com/author/jowi-morales\">Tom’s Hardware</a>.</p>"
+   },
+   {
+    "url": "https://yro.slashdot.org/story/26/10/30/204230/thousands-of-ghost-students-use-ai-to-steal-millions-in-student-loans-doj-says",
+    "title": "Thousands of 'Ghost Students' Use AI to Steal Millions In Student Loans, DOJ Says",
+    "text": "Thousands of 'Ghost Students' Use AI to Steal Millions In Student Loans, DOJ Says. The Justice Department has charged five people in a crackdown on \"ghost student\" fraud, in which scammers allegedly use stolen identities and AI to enroll fake students in colleges, complete coursework, and collect federal student loan funds. Ars Technica reports: In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from \"a network associated with Kenyan nationals\" after data analysis helped flag likely fraudsters. Assistant Attorney General Colin M. McDonald of the DOJ's National Fraud Enforcement Division credited new fraud-detection measures implemented by the Trump administration for the arrests. He said that \"this is the first international seizure of its kind in Kenya,\" while warning fraudsters that the crackdown has only just begun.\n[...] At a press conference, McDonald was joined by FBI and Department of Education officials to explain how the scheme works. It starts with bad actors purchasing personally identifiable information (PII) of Americans -- most frequently targeting high school graduates who never attended college and went straight into the workforce. Once they have that sensitive data, they fill out the Free Application for Federal Student Aid (FAFSA) while seeking to enroll in universities and community colleges. If accepted, student aid is distributed first to schools to cover tuition and fees, but any leftover money is deposited into bank accounts controlled by the fraudsters. Dozens of Americans have opened bank accounts to act as money mules for fraudsters, the DOJ said.\nTo keep money flowing, bad actors use AI to fill out applications, complete coursework, and even make it appear that a student is attending virtual sessions. \"It looks like the ghost student is actually completing the class,\" McDonald said at the press conference. \"Some even create the appearance of a fake student in an online classroom to trick schools into believing a real person is present. The goal is to keep the ghost student in school for as long as possible, semester after semester after semester.\" So far, the DOE has \"identified over 830,000 potentially fraudulent federal student aid accounts created by using this PII of US citizens,\" officials said at the press conference. If all those accounts are ghost students, total losses come close to $130 million, the DOJ said.Read more of this story at Slashdot."
+   }
+  ],
+  "logos": [
+   {
+    "name": "U.S. Department of Justice",
+    "domain": "justice.gov"
+   }
+  ],
+  "photo": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Empty_lecture_hall.jpg"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Lecture_hall_Universität_Wien.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/University_lecture_hall.jpg"
+  ],
+  "photo_query": "empty university lecture hall",
+  "text": "⚡ **عصابة استعملت الذكاء الاصطناعي لتسجيل طلاب أشباح في جامعات أمريكية، ثم سرقة قروضهم الدراسية.**\n\nالطريقة: يشترون بيانات شخصية مسروقة لأمريكيين، غالباً شباب أنهوا الثانوية ولم يدخلوا الجامعة. ثم يملؤون باسمهم طلب المساعدة الحكومية ويسجّلونهم في جامعات وكليات.\n\nبعد التسجيل، يُصرف ما يتبقى من القرض بعد الرسوم إلى حسابات بنكية يتحكم فيها المحتالون.\n\nوزارة العدل الأمريكية وجّهت التهم إلى **خمسة أشخاص**، وصادرت أكثر من **750,000 دولار** بالعملات الرقمية من شبكة مرتبطة بكينيا. أما الضحايا الحقيقيون فيكتشفون لاحقاً أنهم مدينون بقروض لم يطلبوها.\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0113-news-ghost-students",
+  "slot": "2026-11-01T01:13:00+01:00",
+  "cluster_id": "web-news-ghost-students",
+  "gallery": []
+ },
+ {
+  "type": "discovery",
+  "category": "discovery",
+  "headline": "تلسكوب سويفت يسقط نحو الأرض",
+  "sources": [
+   {
+    "url": "https://thehindu.com/sci-tech/science/nasa-telescope-on-verge-of-plunging-back-to-earth-after-failed-rescue-mission/article71649422.ece",
+    "title": "NASA telescope on verge of plunging back to Earth after failed rescue mission",
+    "text": "NASA telescope on verge of plunging back to Earth after failed rescue mission. Most of the 1 ½-ton telescope is expected to burn up in the atmosphere. But a handful of pieces made of denser-than-lead tungsten and some mirror parts could survive reentry, according to NASA's Brad Cenko, the mission's chief scientist"
+   },
+   {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2hHNTJVeGNHb0VHMU9jZ0JscHRGOFI1MkRfR2pDZ0xRNU8zNVZ1SVRYcFo2Sk5heklqM01rZ3d3Rmw3X1gyZWJkMHBBZVlsUURLRC01U3FSZW5sRDNmcGtoZXZ1ZzVqMzR6RUIwOGdPZ2k3YjZlR19sYUcxUzdwN2RMdTNiNlNiVk0tcFhROU5JODY5bXJxS0p3Y2tkdnBIX3QyUVk0ONIBrAFBVV95cUxOQlNYZWhtSDhmTEpOc2pPZGNNQUdMVTZXYTFHTlc0M1ZQQUM2SDEzQll2bjE4eFhrRVYyVElzWXhVVWJDckZMQUNqRkxONVRHNGJUak9GVTVNV0dKOTN5ODI5c0pFSk1lb1RFVWVUbHZOS080ajhhejBESVgxZmc2Mmp1NURkYURKQjcyaTh4UmFiamdXYkpfWl9oM2V4UnZhaDl1YUtnSXYtWUZi?oc=5",
+    "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - ABC News - Breaking News, Latest News and Videos",
+    "text": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - ABC News - Breaking News, Latest News and Videos. - NASA telescope is on the verge of plunging back to Earth after failed rescue mission ABC News - Breaking News, Latest News and Videos\n- The Swift Space Telescope Is About To Fall Down To Earth. Its Science Will Be Used For Decades To Come IFLScience\n- NASA's Swift observatory ends 22-year mission to study the most powerful explosions since the Big Bang Live Science\n- NASA's trailblazing Swift telescope will go out in a blaze of glory Science News\n- NASA satellite to plunge back to Earth after 22 years in space Scripps News"
+   }
+  ],
+  "logos": [
+   {
+    "name": "NASA",
+    "domain": "nasa.gov",
+    "wiki": "NASA"
+   }
+  ],
+  "photo": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Swift_spacecraft.jpg",
+   "wiki": "Neil Gehrels Swift Observatory"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Swift_Gamma-Ray_Burst_Mission_illustration.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Swift_observatory.jpg"
+  ],
+  "photo_query": "Swift Gamma-Ray Burst Explorer spacecraft",
+  "text": "⚡ **تلسكوب سويفت التابع لناسا يسقط نحو الأرض بعد فشل محاولة إنقاذه، لتنتهي مهمة دامت 22 عاماً.**\n\nالتلسكوب قضى سنواته في رصد **أقوى الانفجارات في الكون** منذ الانفجار العظيم.\n\nوزنه طن ونصف تقريباً، ومعظمه سيحترق عند دخوله الغلاف الجوي.\n\nلكن قطعاً قليلة قد تنجو وتصل إلى الأرض: أجزاء من مرآته، وقطع من **التنغستن**، وهو معدن أكثف من الرصاص.\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0114-discovery-swift",
+  "slot": "2026-11-01T01:14:00+01:00",
+  "cluster_id": "web-discovery-swift",
+  "gallery": []
+ },
+ {
+  "type": "app",
+  "category": "app",
+  "headline": "سنابسيد: محرر صور احترافي مجاني من جوجل",
+  "sources": [
+   {
+    "url": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
+    "title": "Snapseed",
+    "text": "Snapseed is a free professional photo editor made by Google, with tools like selective adjustments, healing to remove objects, curves and filters. No ads and no paid features."
+   }
+  ],
+  "logos": [
+   {
+    "name": "Snapseed",
+    "domain": "snapseed.online",
+    "wiki": "Snapseed"
+   },
+   {
+    "name": "Google",
+    "domain": "google.com"
+   }
+  ],
+  "photo": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Smartphone_photography.jpg"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Taking_a_photo_with_a_smartphone.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Phone_camera_sunset.jpg"
+  ],
+  "photo_query": "taking photo with smartphone sunset",
+  "text": "⚡ **محرر صور احترافي من جوجل، مجاني بالكامل وبلا إعلانات: سنابسيد.**\n\n• **امسح أي شيء** من الصورة بلمسة واحدة: سلك، شخص في الخلفية، بقعة.\n• **عدّل جزءاً واحداً فقط** من الصورة: السماء أو الوجه أو الخلفية.\n• **منحنيات الألوان والفلاتر** كما في برامج المحترفين.\n\nكل الأدوات مجانية: لا اشتراك ولا ميزات مدفوعة.\n\n🔗 play.google.com/store/apps/details?id=com.niksoftware.snapseed\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0115-app-snapseed",
+  "slot": "2026-11-01T01:15:00+01:00",
+  "cluster_id": "web-app-snapseed",
+  "gallery": []
+ },
+ {
+  "type": "site",
+  "category": "site",
+  "headline": "متاحف العالم في هاتفك مجاناً",
+  "sources": [
+   {
+    "url": "https://artsandculture.google.com",
+    "title": "Google Arts & Culture",
+    "text": "Google Arts & Culture is a free platform from Google with high-resolution artworks and virtual tours of museums and historic sites from around the world."
+   }
+  ],
+  "logos": [
+   {
+    "name": "Google Arts & Culture",
+    "domain": "artsandculture.google.com",
+    "wiki": "Google Arts & Culture"
+   }
+  ],
+  "photo": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Louvre_Grande_Galerie.jpg",
+   "wiki": "Grande Galerie (Louvre)"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Grande_Galerie_du_Louvre.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Louvre_Museum_Wikimedia_Commons.jpg"
+  ],
+  "photo_query": "Louvre Grande Galerie paintings interior",
+  "text": "⚡ **تجوّل داخل أشهر متاحف العالم من هاتفك، مجاناً: موقع جوجل للفنون والثقافة.**\n\n• لوحات بدقة عالية جداً، تقرّبها حتى ترى **ضربات فرشاة الرسام**.\n• **جولات افتراضية** داخل متاحف ومواقع تاريخية حول العالم، كأنك تمشي فيها.\n• مجاني بالكامل، ويعمل من المتصفح أو التطبيق.\n\n🔗 artsandculture.google.com\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0116-site-arts-culture",
+  "slot": "2026-11-01T01:16:00+01:00",
+  "cluster_id": "web-site-arts-culture",
+  "gallery": []
+ },
+ {
+  "type": "tool",
+  "category": "tool",
+  "headline": "بديل مجاني لفوتوشوب في المتصفح",
+  "sources": [
+   {
+    "url": "https://www.photopea.com",
+    "title": "Photopea",
+    "text": "Photopea is a free online image editor that runs in the browser and opens PSD files, with layers and tools similar to Photoshop."
+   }
+  ],
+  "logos": [
+   {
+    "name": "Photopea",
+    "domain": "photopea.com",
+    "wiki": "Photopea"
+   }
+  ],
+  "photo": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Graphic_designer_at_work.jpg"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Designer_workstation.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Photo_editing_on_computer.jpg"
+  ],
+  "photo_query": "graphic designer working computer photo editing",
+  "text": "⚡ **بديل مجاني لفوتوشوب يعمل داخل المتصفح دون أي تثبيت: Photopea.**\n\nيفتح ملفات فوتوشوب نفسها (PSD) بطبقاتها، وأدواته تشبه أدوات فوتوشوب إلى حد كبير.\n\nمناسب إن كان حاسوبك ضعيفاً، أو إن احتجت تعديلاً سريعاً على جهاز ليس جهازك.\n\n🔗 photopea.com\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0117-tool-photopea",
+  "slot": "2026-11-01T01:17:00+01:00",
+  "cluster_id": "web-tool-photopea",
+  "gallery": []
+ },
+ {
+  "type": "course",
+  "category": "course",
+  "headline": "دورة البرمجة الأشهر في هارفارد مجاناً",
+  "sources": [
+   {
+    "url": "https://cs50.harvard.edu/x",
+    "title": "CS50x",
+    "text": "Harvard University's CS50x course is free online. It teaches programming from zero with C, Python, SQL and web development. Students who complete the problem sets and final project can get a free CS50 certificate from the course itself."
+   }
+  ],
+  "logos": [
+   {
+    "name": "Harvard",
+    "domain": "harvard.edu",
+    "wiki": "Harvard University"
+   }
+  ],
+  "photo": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sanders_Theatre.jpg",
+   "wiki": "Sanders Theatre"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Harvard_Yard.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Widener_Library.jpg"
+  ],
+  "photo_query": "Sanders Theatre Harvard interior",
+  "text": "🎁 **أشهر دورة برمجة في جامعة هارفارد مجانية على الإنترنت، ومعها شهادة: CS50x.**\n\nتبدأ معك من الصفر تماماً، ثم تعلّمك لغات C وPython وSQL وبناء مواقع الويب.\n\nتحصل على **شهادة مجانية** من الدورة نفسها عند إنهاء التمارين والمشروع النهائي.\n\n🔗 cs50.harvard.edu/x\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0118-course-cs50",
+  "slot": "2026-11-01T01:18:00+01:00",
+  "cluster_id": "web-course-cs50",
+  "gallery": []
+ },
+ {
+  "type": "study",
+  "category": "study",
+  "headline": "منح امتياز سويسرية للجزائريين في الدكتوراه والبحث",
+  "sources": [
+   {
+    "url": "https://observalgerie.com/2026/08/14/immigration/la-suisse-lance-des-bourses-dexcellence-pour-les-etudiants-algeriens-profils-eligibles-et-conditions/",
+    "title": "La Suisse lance des bourses d'excellence pour les étudiants algériens",
+    "text": "Swiss Government Excellence Scholarships for Algerian nationals. Applications from 20 August to 30 November 2026. Research (12 months) for master's or doctorate holders, PhD funded up to 36 months, postdoc. Candidates must be 35 or younger and have a support letter from a Swiss academic supervisor. Monthly allowance of CHF 2,450. Apply online via GO ESKAS, no application fee."
+   },
+   {
+    "url": "https://propakistani.pk/2026/09/21/pakistanis-can-pursue-masters-and-phd-in-switzerland-with-chf-2450-monthly-stipend/",
+    "title": "Master's and PhD in Switzerland With CHF 2,450 Monthly Stipend",
+    "text": "Swiss Government Excellence Scholarships 2027-2028: CHF 2,450 monthly stipend."
+   }
+  ],
+  "logos": [
+   {
+    "name": "Swiss Confederation",
+    "domain": "sbfi.admin.ch",
+    "wiki": "Switzerland"
+   }
+  ],
+  "photo": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/ETH_Zürich_-_Hauptgebäude.jpg",
+   "wiki": "ETH Zurich"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Zurich_ETH_main_building.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/EPFL_Rolex_Learning_Center.jpg"
+  ],
+  "photo_query": "ETH Zurich main building",
+  "text": "⚡ **سويسرا تفتح منح الامتياز الحكومية للجزائريين: 2,450 فرنك سويسري شهرياً للدكتوراه والبحث.**\n\n• **لمن؟** حاملو الماستر أو الدكتوراه، بعمر 35 سنة أو أقل.\n• **ماذا تموّل؟** دكتوراه حتى 36 شهراً، أو بحثاً أو ما بعد الدكتوراه لمدة 12 شهراً.\n• **الشرط الأهم:** رسالة قبول من أستاذ مشرف في جامعة سويسرية.\n\nآخر أجل للتسجيل **30 نوفمبر 2026**، والتقديم عبر منصة ESKAS الرسمية دون أي رسوم.\n\n🔗 sbfi.admin.ch/scholarships_en\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0119-study-swiss",
+  "slot": "2026-11-01T01:19:00+01:00",
+  "cluster_id": "web-study-swiss",
+  "gallery": []
+ },
+ {
+  "type": "visa",
+  "category": "visa",
+  "headline": "محكمة تأمر بفتح القرعة الأمريكية",
+  "sources": [
+   {
+    "url": "https://www.visaverge.com/news/dv-2027-no-winners-dv-2028-dates-unannounced-what-we-know/",
+    "title": "DV-2027 Visa Year Starts October 1 With No Lottery Winners Selected",
+    "text": "DV-2027 registration never opened on schedule, so the visa year began October 1, 2026 with no winners. A federal court ordered the State Department to announce DV-2027 registration dates by October 29 and open registration by November 1, 2026. A consular fee rule added a non-refundable $1 electronic fee at entry. The March 2026 final rule requires each entrant to provide valid, unexpired passport information and upload a scan of the passport's biographic and signature page."
+   },
+   {
+    "url": "https://www.bal.com/immigration-news/united-states-state-department-final-rule-amends-diversity-visa-regulations-to-enhance-vetting/",
+    "title": "State Department final rule amends diversity visa regulations to enhance vetting",
+    "text": "Petitioners must provide valid, unexpired passport information and upload a scan of the biographic and signature pages with their electronic entry form. The rule will be implemented with the 2027 DV Program (DV-2027)."
+   }
+  ],
+  "logos": [
+   {
+    "name": "U.S. Department of State",
+    "domain": "state.gov",
+    "wiki": "United States Department of State"
+   }
+  ],
+  "photo": {
+   "url": "https://cdn.visaverge.com/VisaVerge/PassportViss/PassportPhotosbyVisaVerge-107.jpg"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/United_States_passport.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/US_Passport.jpg"
+  ],
+  "photo_query": "United States passport visa",
+  "text": "⚡ **محكمة أمريكية أمرت بفتح قرعة الهجرة إلى أمريكا (اللوتري) لسنة 2027، بعد أن تعطّلت.**\n\nالتسجيل لم يُفتح في موعده المعتاد، فبدأت السنة في 1 أكتوبر دون أي فائز.\n\nالقاضية أمرت وزارة الخارجية بإعلان مواعيد التسجيل قبل 29 أكتوبر، وفتحه قبل 1 نوفمبر 2026.\n\nالجديد هذه المرة:\n• **جواز سفر ساري المفعول إجباري**، مع رفع صورة صفحته الأولى.\n• رسوم تسجيل بدولار واحد.\n\nسجّل فقط عبر الموقع الرسمي dvprogram.state.gov، وأي موقع آخر يطلب منك مالاً مقابل التسجيل محتال.\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0120-visa-dv2027",
+  "slot": "2026-11-01T01:20:00+01:00",
+  "cluster_id": "web-visa-dv2027",
+  "gallery": []
+ },
+ {
+  "type": "news",
+  "category": "market",
+  "headline": "سهم ألفابت يخسر 482 مليار دولار",
+  "sources": [
+   {
+    "url": "https://thehindu.com/videos/googles-parent-company-alphabets-shares-plunge-126-loses-almost-500-billion-in-market-value/article71648940.ece",
+    "title": "Google’s parent company Alphabet’s shares plunge 12.6%, loses almost $500 billion in market value",
+    "text": "Google’s parent company Alphabet’s shares plunge 12.6%, loses almost $500 billion in market value. Alphabet shares plunged a record 12.64% on Thursday—wiping out $482 billion in market value—and fell another 0.42% in Friday pre-market trading, following quarterly earnings that fueled investor anxiety over whether massive AI investments will pay off."
+   }
+  ],
+  "logos": [
+   {
+    "name": "Google",
+    "domain": "google.com"
+   }
+  ],
+  "photo": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NYSE127.jpg"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/New_York_Stock_Exchange_trading_floor.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Nasdaq_MarketSite_Times_Square.jpg"
+  ],
+  "photo_query": "Nasdaq MarketSite Times Square screens",
+  "text": "📉 **سهم ألفابت، الشركة الأم لجوجل، هوى 12.64% في يوم واحد، ومحا 482 مليار دولار من قيمتها.**\n\nإنه **تراجع قياسي**، جاء مباشرة بعد إعلان نتائجها الفصلية.\n\nالسبب: المستثمرون يخشون ألا يعود إنفاقها الهائل على الذكاء الاصطناعي بأرباح كافية.\n\nواستمر الهبوط صباح الجمعة قبل افتتاح السوق، بنسبة 0.42%.\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0121-market-alphabet",
+  "slot": "2026-11-01T01:21:00+01:00",
+  "cluster_id": "web-market-alphabet",
+  "gallery": []
+ },
+ {
+  "type": "film",
+  "category": "film",
+  "headline": "حلقة مفاجئة من It: Welcome to Derry",
+  "sources": [
+   {
+    "url": "https://mashable.com/entertainment/hbo-teases-a-new-season-of-it-welcome-to-derry-with-30-minute-halloween",
+    "title": "HBO teases a new season of It: Welcome to Derry with 30-minute Halloween special",
+    "text": "HBO teases a new season of It: Welcome to Derry with 30-minute Halloween special. After the success of HBO's horror TV show It: Welcome to Derry, released one year ago this month, it was no surprise that the network would renew the show for a second season, but nobody predicted that it would launch with a surprise special episode, released right on time for Halloween.\n\"A Story of Derry\" is a 30-minute bonus episode that simultaneously points fans to the season ahead and takes them back in time to the very origins of the entity that would become Pennywise the Clown.\nTwo YouTube/TikTok shorts were used to announce the special episode, the first more of a tease than the second, but both give us insight into the likely timeline of the series: sometime in the distant past, before the American founding.\nThe episode itself follows three children venturing alone into the Western Wood, where they encounter not only a malevolent, terrifying spirit but also something cosmic and beautiful, a counterweight to the horror and violence of Pennywise.\nFans of the series will love this mini-episode, but they will also surely be disappointed because the second season of It: Welcome to Derry isn't in production yet and therefore has no release window, let alone a release date. In a recent interview with the New York Post, showrunner Brad Caleb Kane promised that the new season would exceed the terror and suspense of the last, and indicated that they're actively writing it now, so a late-2027 or early-2028 release date is still a possibility.\nIn the meantime, horror fans should definitely check out \"A Story of Derry,\" not only for its own merits but for the additional backstory it brings to the Pennywise lore."
+   },
+   {
+    "url": "https://variety.com/2026/tv/news/it-welcome-to-derry-halloween-special-hbo-max-1236936137",
+    "title": "‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max",
+    "text": "‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max. Happy Halloween, indeed! Just in time for the spooky holiday, HBO has released a surprise episode of “It: Welcome to Derry” on the streaming platform. Titled “A Story of Derry,” the special comes in at 30 minutes and is set hundreds of years before the show’s events and the introduction of Pennywise. The timing is […]"
+   },
+   {
+    "url": "https://ign.com/articles/it-welcome-to-derry-drops-surprise-halloween-episode",
+    "title": "It: Welcome to Derry Drops Surprise Halloween Episode",
+    "text": "It: Welcome to Derry Drops Surprise Halloween Episode. HBO has jump-scared subscribers with a surprise episode of It: Welcome to Derry to help celebrate Halloween.\nLog in to HBO Max now, and you'll see a one-off story in Pennywise's playground that no one saw coming headlining the streamer's new arrivals. Titled \"A Story of Derry,\" the episode is only 30 minutes long and takes place hundreds of years before the events of Season 1, meaning you won't have to ditch any trick-or-treating or party prep to get the full picture.\nYou can read an official description for It: Welcome to Derry's A Story of Derry episode here: \"Hundreds of years before Pennywise, three youngsters venture into the Western Wood…where they encounter a terrifying ancient spirit.\"\nIT's a surprise Halloween treat.\n— HBO Max (@hbomax) October 31, 2026\nCatch this never-before-seen special exploring the origins of IT in Derry. #AStoryOfDerry is streaming now on HBO Max. 🎈 https://t.co/NH3NcMLt8n\nIt's the kind of shadow-drop Stranger Things fans can only dream of. Despite coming in at about half the length of Welcome to Derry's usual hour-long runtime, It fans will no doubt be happy to see any new content, considering there was no prior announcement that anything was in the works. After all, Season 1 came out just one year ago, and although Season 2 is greenlit, we probably won't get to see it until late 2027 at the earliest.\nStill, that didn't stop hardcore Stephen King fans from speculating that a surprise episode was slated to drop sometime around Halloween. In the weeks leading up to today's maybe not-so-unexpected announcement, there were some rumors that HBO had secretly shot a bonus episode.\nAfter Stranger Things left thousands of fans in the dark when their surprise finale episode theories didn't pan out, most Welcome to Derry watchers justifiably thought the rumors were nonsense. You can even see that hesitation in some of their comments.\n\"Completely fake,\" one fan said earlier this month.\n\"I’d be impressed they could keep a whole production with cast and crew under wraps in this day and age so doubting this but would be impressed to learn otherwise,\" another added.\nWell, anyway, A Story of Derry was directed by Reservation Dogs and The Paper alum Tazbah Chavez. It was written by Welcome to Derry producer Cherie Dimaline and the show's writer and editor, Jasmyne Flournoy.\nThe episode serves as an early, early look at its world, which is something the minds behind the show have teased they've wanted to do for years. Season 1 was set before the events of Bill Skarsgård's Pennywise-led movies, with a story that took place during the Cold War, and Season 2 is expected to follow events from 1935, with the planned third season previously said to be set in 1908.\nA Story of Derry turns back the clock earlier than anyone may have anticipated, and that only helps its surprise drop's shock factor. This is unlike anything It fans expected to see on Halloween today, but it'll almost certa"
+   }
+  ],
+  "logos": [
+   {
+    "name": "HBO Max",
+    "domain": "hbomax.com"
+   }
+  ],
+  "photo": {
+   "url": "https://variety.com/wp-content/uploads/2026/10/it-welcome-to-derry.jpg"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Pennywise_balloon.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Red_balloon.jpg"
+  ],
+  "photo_query": "red balloon storm drain",
+  "text": "🎬 **حلقة مفاجئة من مسلسل الرعب It: Welcome to Derry نزلت ليلة الهالوين على HBO Max.**\n\nمدتها 30 دقيقة، وتعود بنا مئات السنين إلى الوراء، قبل ظهور المهرج بينيوايز بزمن طويل.\n\nتتبع ثلاثة أطفال يدخلون غابة وحدهم، فيواجهون روحاً قديمة مرعبة.\n\nالموسم الثاني يُكتب الآن، وقد لا يصل قبل أواخر 2027.\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0122-film-derry",
+  "slot": "2026-11-01T01:22:00+01:00",
+  "cluster_id": "web-film-derry",
+  "gallery": []
+ },
+ {
+  "type": "sport",
+  "category": "sport",
+  "headline": "هاميلتون أولاً في المكسيك الليلة",
+  "sources": [
+   {
+    "url": "https://formula1.com/en/latest/article/hamilton-clinches-first-pole-with-ferrari-in-qualifying-at-the-mexico-city-gp.4GffzFhlnOxOjbHHMc0AJI",
+    "title": "Hamilton clinches first pole with Ferrari at Mexico City GP",
+    "text": "Hamilton clinches first pole with Ferrari at Mexico City GP. Lewis Hamilton has ended a three-year pole position drought in Qualifying at the Mexico City Grand Prix."
+   },
+   {
+    "url": "https://formula1.com/en/latest/article/live-coverage-qualifying-in-mexico-city-2026.7rsM0FXrllMkwPI44GSR58",
+    "title": "AS IT HAPPENED: Hamilton claims scintillating pole in Mexico City",
+    "text": "AS IT HAPPENED: Hamilton claims scintillating pole in Mexico City. Live coverage of the Formula 1 Qualifying session for the 2026 Mexico City Grand Prix."
+   },
+   {
+    "url": "https://formula1.com/en/latest/article/live-coverage-third-practice-in-mexico-city-2026.3Ud38VpRJjlYJc5Gae4PGd",
+    "title": "AS IT HAPPENED: FP3 for the Mexico City Grand Prix",
+    "text": "AS IT HAPPENED: FP3 for the Mexico City Grand Prix. Live coverage of the third Formula 1 practice session for the 2026 Mexico City Grand Prix."
+   },
+   {
+    "url": "https://www.gpblog.com/en/news/f1-mexican-gp-2026-all-session-times-and-full-weekend-schedule",
+    "title": "F1 Mexican GP 2026: All session times",
+    "text": "The race itself is scheduled for Sunday, 1 November, at 21:00 CET (20:00 UK time)."
+   }
+  ],
+  "logos": [
+   {
+    "name": "Ferrari",
+    "domain": "ferrari.com"
+   },
+   {
+    "name": "Formula 1",
+    "domain": "formula1.com"
+   }
+  ],
+  "photo": {
+   "url": "https://media.formula1.com/image/upload/c_lfill,w_3392/q_auto/v1740000001/fom-website/2026/Mexico/Mexico%20header%20SEO.webp"
+  },
+  "photo_candidates": [
+   "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/Mexico%20header%20SEO.webp",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Autódromo_Hermanos_Rodríguez_Foro_Sol.jpg"
+  ],
+  "photo_query": "Autodromo Hermanos Rodriguez Foro Sol stadium Formula 1",
+  "text": "⚡ **هاميلتون ينطلق أولاً في جائزة المكسيك الكبرى الليلة، في أول مركز أول له مع فيراري.**\n\nأنهى بذلك ثلاث سنوات كاملة دون أن يتصدر التجارب التأهيلية ولو مرة واحدة.\n\nالسباق اليوم الأحد **1 نوفمبر، الساعة 21:00** بتوقيت الجزائر، على حلبة مكسيكو سيتي.\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0123-sport-hamilton",
+  "slot": "2026-11-01T01:23:00+01:00",
+  "cluster_id": "web-sport-hamilton",
+  "gallery": []
+ },
+ {
+  "type": "trend",
+  "category": "trend",
+  "headline": "بيتكوين تكمل 18 سنة",
+  "sources": [
+   {
+    "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up",
+    "title": "Bitcoin turns 18: Has the original rebel grown up?",
+    "text": "Bitcoin turns 18: Has the original rebel grown up?. In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/Bitcoin",
+    "title": "Bitcoin — Wikipedia",
+    "text": "On 31 October 2008, a link to a white paper authored by Satoshi Nakamoto titled Bitcoin: A Peer-to-Peer Electronic Cash System was posted to a cryptography mailing list."
+   }
+  ],
+  "logos": [
+   {
+    "name": "Bitcoin",
+    "domain": "bitcoin.org",
+    "wiki": "Bitcoin"
+   }
+  ],
+  "photo": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin_BTC_golden_coin_with_the_symbol.jpg"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin_coins.jpg",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Physical_bitcoin.jpg"
+  ],
+  "photo_query": "Bitcoin golden coin",
+  "text": "⚡ **بيتكوين أكملت أمس 18 سنة: في 31 أكتوبر 2008 نُشرت الورقة التي اخترعتها.**\n\nكتبها شخص مجهول يسمي نفسه ساتوشي ناكاموتو، ونشرها في قائمة بريدية لهواة التشفير، ولا أحد يعرف هويته حتى اليوم.\n\nعيد ميلادها جاء في أسبوع صعب: **أكبر سرقة في تاريخ العملات الرقمية** على منصة بينانس، ومخاوف من حواسيب كمّية قد تكسر حمايتها مستقبلاً.\n\n◆ @DeeptechDZ",
+  "id": "2026-11-01-0124-trend-bitcoin18",
+  "slot": "2026-11-01T01:24:00+01:00",
+  "cluster_id": "web-trend-bitcoin18",
+  "gallery": []
+ }
+]
