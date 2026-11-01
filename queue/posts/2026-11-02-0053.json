@@ -1,0 +1,44 @@
+[
+ {
+  "id": "2026-11-02-0053-hubble-rescue",
+  "slot": "2026-11-02T00:53:00+01:00",
+  "type": "discovery",
+  "category": "discovery",
+  "cluster_id": "web-hubble-commercial-rescue",
+  "headline": "ناسا تطلب من الشركات إنقاذ تلسكوب هابل",
+  "photo": {
+   "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg"
+  },
+  "photo_candidates": [
+   "https://upload.wikimedia.org/wikipedia/commons/3/3f/HST-SM4.jpeg",
+   "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg?w=1536&h=1020&fit=clip&crop=faces%2Cfocalpoint",
+   "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&w=2400"
+  ],
+  "photo_query": "Hubble Space Telescope in orbit after STS-125 servicing mission",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "NASA",
+    "domain": "nasa.gov"
+   }
+  ],
+  "text": "⚡ **ناسا تطلب من الشركات الخاصة إنقاذ تلسكوب هابل قبل أن يسقط على الأرض.**\n\nهابل يدور حول الأرض منذ 1990، لكنه ينزل قليلاً كل يوم. إن لم يتدخل أحد، سيدخل الغلاف الجوي ويحترق في **2033 أو 2034**.\n\nلذلك فتحت ناسا الباب أمام الشركات لتقترح واحدة من ثلاث مهمات:\n• **رفع التلسكوب** إلى ارتفاع 600 كيلومتر على الأقل.\n• صيانته وتحسين أدائه.\n• أو توجيه سقوطه إلى مكان آمن مثل وسط المحيط.\n\nالمهمة يجب أن تتم **قبل 2032**، ورفعه إلى 600 كيلومتر يبقيه في المدار **25 سنة أخرى** على الأقل.\n\nناسا لم تلتزم بعد بشراء أي مهمة، وتنتظر عروض الشركات حتى **30 نوفمبر**. آخر مرة رُفع فيها هابل كانت في 2002 بمكوك فضائي.\n\n◆ @DeeptechDZ",
+  "sources": [
+   {
+    "url": "https://science.nasa.gov/?p=1506661",
+    "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+    "text": "Published October 30, 2026. NASA is seeking industry interest in boosting Hubble to a higher orbit, servicing it to enhance its capabilities, or performing a controlled re-entry. Responses are due 3 p.m. EST, Monday, Nov. 30. Hubble has no propulsion system, and re-entry is predicted for 2033 to 2034. NASA anticipates a mission would need to take place by 2032. Responses due November 30, 2026."
+   },
+   {
+    "url": "https://science.slashdot.org/story/26/10/31/1817218/nasa-seeks-proposals-for-reboosting-the-hubble-space-telescope",
+    "title": "NASA Seeks Proposals For Reboosting the Hubble Space Telescope",
+    "text": "NASA is looking for information about companies' capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance, or guiding Hubble to a controlled reentry. The mission is expected to occur by 2032. NASA is not committing to buying a Hubble rescue mission. Reentry likely in 2033 or 2034 without intervention. A reboost to 600 km would likely keep Hubble in orbit for at least 25 more years. NASA last raised the orbit of Hubble in 2002."
+   },
+   {
+    "url": "https://mashable.com/science/nasa-reaches-out-to-commercial-space-industry-for-help-saving-legendary",
+    "title": "NASA reaches out to commercial space industry for help saving legendary Hubble Space Telescope",
+    "text": "The Hubble Space Telescope, launched into low-Earth orbit in 1990, is expected to re-enter Earth's atmosphere sometime in 2033 or 2034. NASA put out a Request for Information hoping for aid to either boost Hubble's altitude or guide its descent to a safe crash site, such as the middle of the ocean."
+   }
+  ]
+ }
+]
