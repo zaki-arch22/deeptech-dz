@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-01T14:35:06+00:00",
+ "generated_at": "2026-11-01T15:05:06+00:00",
  "clusters": [
   {
    "id": "caac949def3",
    "kind": "news",
-   "score": 27.0,
+   "score": 32.0,
    "sensitive": true,
-   "distinct_sites": 8,
+   "distinct_sites": 11,
    "title_hint": "FBI links North Korea to theft of $6 billion from Binance",
    "official_image": null,
    "sources": [
@@ -33,19 +33,6 @@
      "id": "eee7e85f90847398",
      "published": "2026-10-31T21:59+00:00",
      "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance."
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
-     },
-     "id": "0629994f454de1d9",
-     "published": "2026-10-31T22:11+00:00",
-     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
     },
     {
      "source": "Financial Times Tech",
@@ -83,6 +70,32 @@
      "text": "The FBI says the billions of dollars stolen from Binance within minutes in the biggest crypto heist in history was orchestrated by North Korean hackers"
     },
     {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/binance-hack-north-korea",
+     "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/23/da771d5f-c037-4b4a-b168-c7fafdec9da3/thumbnail/1200x630/2f49750673e563e6283f5c83343305bf/ap23325643193246.jpg"
+     },
+     "id": "a1c01ba106a31b8e",
+     "published": "2026-10-31T23:20+00:00",
+     "text": "A U.S.-based blockchain intelligence firm said a\ncyber unit was likely behind an attack that stole $6.3 billion from Binance, the world's biggest cryptocurrency exchange.Binance said on Friday that deposits were unaffected, while withdrawals were suspended and are expected to resume in the next day or two. The company, which worked with blockchain partners to freeze roughly $3 billion in affected assets, also said it will cover all customer losses.\nIn a social media post, Binance said that an initial investigation suggested the incident may have involved a compromised laptop, while a subsequent probe uncovered additional \"points of breach.\"\nCrypto industry analysts say the hack against Binance is the largest cyber heist ever.\nWhat is TraderTraitor?\nIn a post on its website Thursday, tech security firm TRM Labs attributed the attack to TraderTraitor, which it described as North Korea's elite hacking unit. \"We make this judgment with high confidence,\" TRM said.\n\"An attacker moved approximately USD 6.36 billion out of Binance wallets on ten blockchains, most of it in about 20 minutes,\" the firm said. That would make the hack the largest cryptocurrency theft on record, it said.\nThe FBI on Saturday also accused TraderTraitor of being behind the attack, saying the hackers have been converting the stolen funds into Ethereum, a popular cryptocurrency.\nThe hackers are preparing the funds for \"further laundering stages,\" the FBI said in a statement.\nIn 2025, TraderTraitor also targeted another crypto exchange, Bybit, in an attack resulting in a $1.5 billion loss, according to the FBI.\n\"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack,\" TRM said.\nJonathan Levin, co-founder and CEO of blockchain research firm Chainalysis, also said on social media that the Binance hack was \"likely done\" by TraderTraitor.\nAnalysts believe that TraderTraitor members are part of a wider North Korean hacking unit known as Lazarus Group, which targets multiple institutions across government, finance and other fields, according to the U.S. Treasury Department.\nThe Justice Department alleged in 2018 that the for an attack on Sony Pictures Entertainment four years earlier that leaked a massive amount of sensitive company data online.\nWorking \"around the clock\"\nBinance said on social media that its \"teams are working around the clock to resolve this issue safely and thoroughly. We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice.\"\nExperts say North Korea has turned to crypto hacking and other illicit cyber activities as a source of badly needed foreign currency to support its troubled economy and fund its nuclear program in the wake of tough U.N. sanctions and other difficulties.\nIn December 2022, South Korea's spy agency said North Korean hackers had stolen an estimated 1.5 trillion won ($1.1 billion) in cryptocurrency and other virtual assets in the past five years, more than half of it in 2022 alone. It said North Korea's capacity to steal digital assets was considered among the best in the world.\nChangpeng Zhao, also known as CZ, founded Binance in 2017. In 2023, he pleaded guilty to a felony linked to failing to prevent money laundering on the platform and stepped down as the company's CEO. President Trump\n.Zhao posted Thursday on social media that \"User funds are safe!\" but added that the theft \"does look like a hack on Binance.\" He added that, wh"
+    },
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/business/2026/11/01/tech/binance-hack-fbi-north-korea",
+     "title": "FBI blames North Korea for $6 billion Binance crypto hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571606.jpg?v=3.1"
+     },
+     "id": "0430f3ab4b2e2e18",
+     "published": "2026-10-31T23:21+00:00",
+     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said Saturday in a statement, referring to the U.S. Secret Service and the criminal division of the Internal Revenue Service. “It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the $6.3 billion and plans to restore withdrawals by Sunday, making progress on a pledge to fully reimburse customers.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
+    },
+    {
      "source": "Arab News",
      "trust": 2,
      "url": "https://arabnews.com/world/fbi-blames-north-korea-for-stolen-billions-from-binance-in-biggest-hack-in-history-3009195",
@@ -96,6 +109,19 @@
      "text": "- The FBI expects that TraderTraitor will now attempt to convert the assets using DeFi and “instant swap services”\nNEW YORK: The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI said Saturday.\nThe bureau said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called ethereum. The FBI expects that TraderTraitor will now attempt to convert the assets using DeFi and “instant swap services.”\nOn Thursday, $6.3 billion in bitcoin and other digital currency was stolen from Binance, the world’s largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe company said Saturday that it had enough set aside in the same digital currency that was stolen to cover 90 percent of the missing assets and promised that customers would be fully reimbursed."
     },
     {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack",
+     "title": "FBI blames North Korea for US$6 billion Binance crypto hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/36b2e258e0d2f9a1fac6bcb5182b18cdde5334f79066ddd842e1d2f17c983c4a?w=1200"
+     },
+     "id": "ff3e7a45d1ce8dd6",
+     "published": "2026-10-31T23:33+00:00",
+     "text": "FBI blames North Korea for US$6 billion Binance crypto hack\nAI generated\nWASHINGTON - The FBI said that North Korea was responsible for stealing more than US$6 billion (S$7.67 billion) in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said on Oct 31 in a statement, referring to the US Secret Service and the criminal division of the Internal Revenue Service.\n“It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the US$6.3 billion and plans to restore withdrawals by Nov 1, making progress on a pledge to fully reimburse customers.\nIn a social media post on Oct 31, the world’s biggest crypto exchange reiterated that it will absorb the full impact of the theft so that users won’t suffer any losses.\nThe Binance hack is the largest in cryptocurrency’s history, as well as one of the largest cyber incidents more generally, according to experts. It sent shockwaves through the industry, which has been trying to gain more mainstream adoption.\nNorth Korean hackers are well known for their past attacks against crypto exchanges. They’ve been accused by the FBI and cybersecurity experts of some of the biggest crypto heists in recent years, including the US$1.5 billion Bybit attack in 2025 and the 2022 theft of about US$620 million in cryptocurrency.\nTraderTraitor is an elite North Korean hacking unit that the FBI previously blamed for the Bybit hack.\nEarlier, President Donald Trump had said the US was looking into whether North Korea was involved in the Binance attack.\n“They’re saying they’re guaranteeing it or something,” Trump told reporters on Oct 30 in the Oval Office. “It was a hack. That’s the problem. You know the old-fashioned way when you used to sign a check, take it out. These are different people. Never see the money anymore. So I’ve always felt it was a little bit dangerous.”\nTrump in recent weeks has floated new US outreach to North Korea, suggesting that a potential meeting with its leader, Kim Jong Un, could happen in 2026. Earlier in October, however, Trump downplayed those expectations, saying he was “not sure that anybody’s asking for a meeting.” BLOOMBERG"
+    },
+    {
      "source": "TRT World",
      "trust": 2,
      "url": "https:///article/d6dc16a65f8e",
@@ -105,6 +131,17 @@
      "id": "50616e3d00924617",
      "published": "2026-11-01T00:32+00:00",
      "text": "The crypto exchange company says the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\""
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "473bd658979d7399",
+     "published": "2026-11-01T00:38+00:00",
+     "text": ""
     },
     {
      "source": "Google News Business EN",
@@ -411,91 +448,6 @@
      "id": "74693f0f943c503a",
      "published": "2026-11-01T10:23+00:00",
      "text": "Yemeni Prime Minister Shaya al-Zindani said more than 70 UN staff members and dozens of humanitarian workers remain in Houthi custody."
-    }
-   ]
-  },
-  {
-   "id": "ca1c01ba106",
-   "kind": "news",
-   "score": 22.0,
-   "sensitive": true,
-   "distinct_sites": 6,
-   "title_hint": "$6.3 billion Binance hack likely work of North Korea, experts say",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/binance-hack-north-korea",
-     "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/23/da771d5f-c037-4b4a-b168-c7fafdec9da3/thumbnail/1200x630/2f49750673e563e6283f5c83343305bf/ap23325643193246.jpg"
-     },
-     "id": "a1c01ba106a31b8e",
-     "published": "2026-10-31T23:20+00:00",
-     "text": "A U.S.-based blockchain intelligence firm said a\ncyber unit was likely behind an attack that stole $6.3 billion from Binance, the world's biggest cryptocurrency exchange.Binance said on Friday that deposits were unaffected, while withdrawals were suspended and are expected to resume in the next day or two. The company, which worked with blockchain partners to freeze roughly $3 billion in affected assets, also said it will cover all customer losses.\nIn a social media post, Binance said that an initial investigation suggested the incident may have involved a compromised laptop, while a subsequent probe uncovered additional \"points of breach.\"\nCrypto industry analysts say the hack against Binance is the largest cyber heist ever.\nWhat is TraderTraitor?\nIn a post on its website Thursday, tech security firm TRM Labs attributed the attack to TraderTraitor, which it described as North Korea's elite hacking unit. \"We make this judgment with high confidence,\" TRM said.\n\"An attacker moved approximately USD 6.36 billion out of Binance wallets on ten blockchains, most of it in about 20 minutes,\" the firm said. That would make the hack the largest cryptocurrency theft on record, it said.\nThe FBI on Saturday also accused TraderTraitor of being behind the attack, saying the hackers have been converting the stolen funds into Ethereum, a popular cryptocurrency.\nThe hackers are preparing the funds for \"further laundering stages,\" the FBI said in a statement.\nIn 2025, TraderTraitor also targeted another crypto exchange, Bybit, in an attack resulting in a $1.5 billion loss, according to the FBI.\n\"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack,\" TRM said.\nJonathan Levin, co-founder and CEO of blockchain research firm Chainalysis, also said on social media that the Binance hack was \"likely done\" by TraderTraitor.\nAnalysts believe that TraderTraitor members are part of a wider North Korean hacking unit known as Lazarus Group, which targets multiple institutions across government, finance and other fields, according to the U.S. Treasury Department.\nThe Justice Department alleged in 2018 that the for an attack on Sony Pictures Entertainment four years earlier that leaked a massive amount of sensitive company data online.\nWorking \"around the clock\"\nBinance said on social media that its \"teams are working around the clock to resolve this issue safely and thoroughly. We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice.\"\nExperts say North Korea has turned to crypto hacking and other illicit cyber activities as a source of badly needed foreign currency to support its troubled economy and fund its nuclear program in the wake of tough U.N. sanctions and other difficulties.\nIn December 2022, South Korea's spy agency said North Korean hackers had stolen an estimated 1.5 trillion won ($1.1 billion) in cryptocurrency and other virtual assets in the past five years, more than half of it in 2022 alone. It said North Korea's capacity to steal digital assets was considered among the best in the world.\nChangpeng Zhao, also known as CZ, founded Binance in 2017. In 2023, he pleaded guilty to a felony linked to failing to prevent money laundering on the platform and stepped down as the company's CEO. President Trump\n.Zhao posted Thursday on social media that \"User funds are safe!\" but added that the theft \"does look like a hack on Binance.\" He added that, wh"
-    },
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/business/2026/11/01/tech/binance-hack-fbi-north-korea",
-     "title": "FBI blames North Korea for $6 billion Binance crypto hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571606.jpg?v=3.1"
-     },
-     "id": "0430f3ab4b2e2e18",
-     "published": "2026-10-31T23:21+00:00",
-     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said Saturday in a statement, referring to the U.S. Secret Service and the criminal division of the Internal Revenue Service. “It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the $6.3 billion and plans to restore withdrawals by Sunday, making progress on a pledge to fully reimburse customers.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack",
-     "title": "FBI blames North Korea for US$6 billion Binance crypto hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/36b2e258e0d2f9a1fac6bcb5182b18cdde5334f79066ddd842e1d2f17c983c4a?w=1200"
-     },
-     "id": "ff3e7a45d1ce8dd6",
-     "published": "2026-10-31T23:33+00:00",
-     "text": "FBI blames North Korea for US$6 billion Binance crypto hack\nAI generated\nWASHINGTON - The FBI said that North Korea was responsible for stealing more than US$6 billion (S$7.67 billion) in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said on Oct 31 in a statement, referring to the US Secret Service and the criminal division of the Internal Revenue Service.\n“It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the US$6.3 billion and plans to restore withdrawals by Nov 1, making progress on a pledge to fully reimburse customers.\nIn a social media post on Oct 31, the world’s biggest crypto exchange reiterated that it will absorb the full impact of the theft so that users won’t suffer any losses.\nThe Binance hack is the largest in cryptocurrency’s history, as well as one of the largest cyber incidents more generally, according to experts. It sent shockwaves through the industry, which has been trying to gain more mainstream adoption.\nNorth Korean hackers are well known for their past attacks against crypto exchanges. They’ve been accused by the FBI and cybersecurity experts of some of the biggest crypto heists in recent years, including the US$1.5 billion Bybit attack in 2025 and the 2022 theft of about US$620 million in cryptocurrency.\nTraderTraitor is an elite North Korean hacking unit that the FBI previously blamed for the Bybit hack.\nEarlier, President Donald Trump had said the US was looking into whether North Korea was involved in the Binance attack.\n“They’re saying they’re guaranteeing it or something,” Trump told reporters on Oct 30 in the Oval Office. “It was a hack. That’s the problem. You know the old-fashioned way when you used to sign a check, take it out. These are different people. Never see the money anymore. So I’ve always felt it was a little bit dangerous.”\nTrump in recent weeks has floated new US outreach to North Korea, suggesting that a potential meeting with its leader, Kim Jong Un, could happen in 2026. Earlier in October, however, Trump downplayed those expectations, saying he was “not sure that anybody’s asking for a meeting.” BLOOMBERG"
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
-     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
-     "lang": "en",
-     "extra": {},
-     "id": "473bd658979d7399",
-     "published": "2026-11-01T00:38+00:00",
-     "text": ""
-    },
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-     "lang": "en",
-     "extra": {},
-     "id": "aa099f38eae6d838",
-     "published": "2026-11-01T01:10+00:00",
-     "text": ""
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjBKNHBsSy1EQlN4NnM4QXQ0OXNDeFlzUnY1bVVtYVB3RU9ZSk5vOGU0MzFkLWFlMXIzYS1hNnpzOHNjX3BLa1JjMTZIUUppT0JVVk9QeUR6X3pkSXVCOU53VmhtYXRQV0dQX05WclZGYlgwSWlTZnpUYUVFVzVKZko2UDdXeGRXOWllT3FNTHMxNGJTMlgyNy1BcnVYaDIzaWRUNFZpUG9EQ3JSZEHSAbMBQVVfeXFMTXBHdjctTGNMSU5XZUVxTGFsZFBlN1A3Y0pDRHp5dDItMk9aZW9DcXA4b3RTWXpQbnc2U0VJRk1QRjk0T21iMzJoV0hXQlBkWlBFS2hKeFRhVXZ5ODc0ZVhULUJzMGxmLXFxaGtIZlVSV1I2a3NDcjJTSVJTU25UZ1kySGtJaVZheGxqRVAyVWNLTGlBWlZpMVV2LW5DV29yUVF6YjVvazF5NGhhMzRLRTY5T0U?oc=5",
-     "title": "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says - Fox Business",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "99e140d5cb43eb74",
-     "published": "2026-11-01T05:37+00:00",
-     "text": "- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stolen billions from Binance in biggest hack in history KCRA\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
     }
    ]
   },
@@ -889,6 +841,52 @@
    ]
   },
   {
+   "id": "c0747ff0d71",
+   "kind": "news",
+   "score": 19.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Google's AI satellite sends a very expensive haiku to Earth",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+     "title": "Google's AI satellite sends a very expensive haiku to Earth",
+     "lang": "en",
+     "extra": {},
+     "id": "0747ff0d7149d6f2",
+     "published": "2026-10-31T15:36+00:00",
+     "text": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite.\nThe company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to \"Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you.\"\nTravis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its \"Hello World\" milestone by sending an inference response from orbit.\n\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space,\" wrote Beals in a blog post.\nAnd as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink:\nBlue marble below,\nData streams in silent grace,\nStarlight feeds my core. ✨\nThose roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs.\nAdd in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku.\nAccording to Google's calculations, if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year).\nGoogle predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening.\nAfter the haiku, Beals said, \"we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems.\" Next up: tests for evaluating how TPUs perform under thermal stress and radiation.\nGoogle has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam.\nThe system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si).\n\"For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second,\" Google researchers said in a paper published earlier this month.\n\"While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy of system-level mitigations, requires further study.\"\nIndeed, the study will continue. Next year, the plan is to test a pair of interconnected satellites. Rather than lofting large satellites into orbit, Google anticipates sending a constellation of many smaller satellites that communicate with one another. ®"
+    },
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5",
+     "title": "Google's AI satellite sends a very expensive haiku to Earth",
+     "lang": "en",
+     "extra": {},
+     "id": "cc2c009a3e8d417f",
+     "published": "2026-10-31T15:36+00:00",
+     "text": "Google's AI satellite sends a very expensive haiku to Earth\nThe Register"
+    },
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
+     "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.thenextweb.com/2026/11/project-suncatcher-logo-yellow-orange-blue-gradient.jpg"
+     },
+     "id": "9c5905ac74d8c89d",
+     "published": "2026-11-01T14:35+00:00",
+     "text": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Friday.\nThe satellite launched on 1 October for Project Suncatcher, Google’s research effort to run AI computing in space. Google called the haiku the first AI response from a data centre class TPU, its own AI chip, in orbit.\n“Blue marble below / Data streams in silent grace / Starlight feeds my core.” Gemma 4, on the Suncatcher satellite, as published by Google\nGoogle sent the prompt during a pass over a ground station. The poem came back as the satellite flew over Svalbard, Norway. The team then tried space-themed limericks and prompts asking the satellite to report on its own systems. The prompt asked for a haiku written as a TPU orbiting Earth, Thomas Claburn reported for The Register.\nWhat the satellite carries\nThe satellite holds four TPUs and generates up to 1 kilowatt of power, Tim Fernholz reported for TechCrunch. Because of that power limit, it can run only one TPU at a time, for about 20 minutes. Testing its systems took about three weeks, and a Google spokesperson told TechCrunch the satellite was working normally.\nOmar Sanseviero, who works on Gemma at Google DeepMind, wrote on X that the model ran on stored solar energy.\nThe next tests\nGoogle will now test how the TPUs cope with heat and radiation in orbit. Radiation can flip bits in a chip’s memory and corrupt data without warning. Google’s tests on the ground suggested this matters less for running models than for training them, according to TechCrunch.\nIf the chips hold up, Google plans to launch two linked satellites in 2027. They will make more power and test laser links between satellites, TechCrunch reported.\nGoogle announced the launch in September. Startups also plan data centres in orbit, and Starcloud raised $250M in August. SpaceX has told investors its own orbital data centres may never work. Google’s plans also depend on SpaceX making its Starship rocket fully reusable, TechCrunch reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
+    }
+   ]
+  },
+  {
    "id": "c4c11af85a3",
    "kind": "news",
    "score": 19.0,
@@ -1085,6 +1083,56 @@
      "id": "265741ff5ecb3914",
      "published": "2026-11-01T09:35+00:00",
      "text": ""
+    }
+   ]
+  },
+  {
+   "id": "cd081c8674a",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Decrypt",
+     "trust": 2,
+     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
+     },
+     "id": "d081c8674a69f198",
+     "published": "2026-10-31T15:01+00:00",
+     "text": "In brief\n- Attackers stole roughly $6.4 billion from Binance on Thursday in the largest crypto hack ever, more than four times the previous record.\n- Binance says it will cover all losses with company funds and its emergency reserve, having set aside more than $6.34 billion.\n- Here's how it happened and what's being done about it.\nCrypto just suffered the largest hack in its history.\nOn Thursday, attackers drained roughly $6.4 billion from Binance, the world’s largest cryptocurrency exchange, in a breach that dwarfs every theft before it and has triggered a cross-border law-enforcement investigation, a scramble by stablecoin issuers to freeze funds, and a tense wait for millions of users.\nHere’s what’s known about the Binance hack so far.\nWhat happened\nThe theft began at about 4:05 p.m. ET on Thursday, after U.S. markets had closed, when attackers moved funds out of Binance hot wallets across roughly 10 blockchains, most of it within about 20 minutes.\nBlockchain analytics firms Chainalysis and TRM Labs put the total at around $6.4 billion, more than four times the previous record, February 2025’s $1.5 billion Bybit heist.\nCrucially, the attack targeted Binance’s own infrastructure, not the blockchains themselves. Binance initially traced the breach to a compromised laptop belonging to a DevOps engineer, which may have let the attacker reach a service container and submit unauthorized withdrawals.\nThe exchange has since said its investigation uncovered “additional points of breach,” with CEO Richard Teng describing “a more complex attack process” that “did not simply use one engineer’s permissions.” Binance said it found no evidence that wallet private keys were leaked, and that the attacker used a self-destruct mechanism to wipe tooling and traces along the way.\nThe Ethereum wrinkle\nOn Ethereum, the attacker leaned on EIP-7702, a feature introduced in 2025 that lets ordinary wallets temporarily run smart-contract code.\nUsing 50 pre-signed authorizations, the attacker turned a Binance hot wallet into a “sweeper” contract and drained its assets, according to TRM Labs.\nTeng said that delegation “did not pass through our normal approval controls.” The episode didn’t expose a flaw in Ethereum itself, but rather, TRM said, pointed to a compromise of Binance’s signing infrastructure.\nWho’s behind it\nTRM Labs and Chainalysis both attributed the hack to TraderTraitor, a North Korean state-linked group also blamed for the Bybit heist.\nAfter that attack, the group converted roughly 84% of the stolen Ethereum into Bitcoin via the cross-chain network Thorchain. The attribution pushes North Korea’s 2026 crypto haul well past $1 billion, and the Binance figure alone would dwarf the rest.\nWhat Binance is doing\nTeng said Binance will cover every dollar of the losses with company funds and its Secure Asset Fund for Users, an emergency reserve, stressing that customer assets were never touched.\nThe exchange has set aside more than $6.34 billion, about $5 billion of it already held in the exact tokens stolen, including BTC, ETH, BNB, USDC, and USDT, and is buying the rest on the open market and over the counter.\nBinance paused withdrawals to rebuild and retest its systems, is running a full security review, and aims to restore withdrawals by Sunday while publishing a complete proof of reserves by Monday. Deposits are operating normally.\nThe freeze, and what’s still loose\nStablecoin issuers moved fast following the initial reports of a suspected attack, unl"
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+     },
+     "id": "0629994f454de1d9",
+     "published": "2026-10-31T22:11+00:00",
+     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "5c29874acc90c064",
+     "published": "2026-11-01T09:28+00:00",
+     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
     }
    ]
   },
@@ -1642,65 +1690,6 @@
    ]
   },
   {
-   "id": "caa254e6d27",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Bulgaria heads to presidential runoff amid political instability",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/europe/bulgaria-heads-to-presidential-runoff-amid-political-instability/4107713",
-     "title": "Bulgaria heads to presidential runoff amid political instability",
-     "lang": "en",
-     "extra": {},
-     "id": "aa254e6d27576e63",
-     "published": "2026-11-01T05:11+00:00",
-     "text": "Acting President Iliana Yotova faces former caretaker Prime Minister Andrey Gyurov after only 22.5% of eligible voters cast ballots in 1st round"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/92c31d454963",
-     "title": "Bulgaria votes in presidential runoff amid political instability",
-     "lang": "en",
-     "extra": {},
-     "id": "154a9f9bf1e7da33",
-     "published": "2026-11-01T07:05+00:00",
-     "text": "Acting President Iliana Yotova faces former caretaker Prime Minister Andrey Gyurov after only 22.5 percent of eligible voters cast ballots in 1st round."
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
-     "title": "Bulgaria votes in presidential runoff after tight first round",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "43d5af01b589c225",
-     "published": "2026-11-01T08:51+00:00",
-     "text": "Bulgaria votes in presidential runoff after tight first round\nReuters"
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/europe/bulgaria-votes-in-presidential-runoff-after-tight-first-round",
-     "title": "Bulgaria votes in presidential runoff after tight first round",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/88c31b1751694c3d1f6814a0dcdd4de81af328c5f9a651253834219f0b1770a4?w=1200"
-     },
-     "id": "23bc944dd2d7d90b",
-     "published": "2026-11-01T08:52+00:00",
-     "text": "Bulgaria votes in presidential runoff after tight first round\nSOFIA, Nov 1 - Bulgarians went to the polls on Sunday to elect a president after a tight race between the two leading candidates failed to produce an outright winner in last weekend's first round vote for the largely ceremonial role.\nIncumbent president, Iliana Iotova, 61, led over ex-caretaker prime minister Andrey Gyurov, 50, but fell short of the 50% threshold in the first round race of 27 candidates that saw a record-low turnout.\nExit polls will be published after voting ends at 8 p.m. (1800 GMT), with a result likely on Monday as the ballot papers are counted.\nThe presidential vote comes against the backdrop of a series of drone attacks on merchant ships off Bulgaria’s Black Sea coast in the past month, which have sparked international condemnation and concerns about the growing reach of the war in Ukraine.\nAbout two dozen seafarers are feared dead and the strikes have prompted the government to seek allied assistance to bolster maritime security. On Wednesday a Greek container ship sank after being hit by sea drones.\nBoth leading presidential candidates have condemned the attacks. Prime Minister Rumen Radev, who backs Iotova, said the strikes' outcome \"benefits the Russian Federation\". They have both called for a diplomatic end to the war.\nA victory for Iotova would make her Bulgaria's first elected female president. She became acting president in January after Radev resigned to enter and win a parliamentary race on what many political analysts considered a Kremlin-friendly ticket.\nGyurov, who served as caretaker prime minister this year, is supported by pro-Western, reformist parties and has long expressed support for Ukraine. He signed a security cooperation agreement with Kyiv during his time as premier.\nA host of right-leaning political figures, among them ex-premier Boiko Borisov, have expressed support for Gyurov. REUTERS"
-    }
-   ]
-  },
-  {
    "id": "cf9eb1ed017",
    "kind": "news",
    "score": 15.0,
@@ -2047,6 +2036,65 @@
    ]
   },
   {
+   "id": "caa254e6d27",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Bulgaria heads to presidential runoff amid political instability",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/europe/bulgaria-heads-to-presidential-runoff-amid-political-instability/4107713",
+     "title": "Bulgaria heads to presidential runoff amid political instability",
+     "lang": "en",
+     "extra": {},
+     "id": "aa254e6d27576e63",
+     "published": "2026-11-01T05:11+00:00",
+     "text": "Acting President Iliana Yotova faces former caretaker Prime Minister Andrey Gyurov after only 22.5% of eligible voters cast ballots in 1st round"
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/92c31d454963",
+     "title": "Bulgaria votes in presidential runoff amid political instability",
+     "lang": "en",
+     "extra": {},
+     "id": "154a9f9bf1e7da33",
+     "published": "2026-11-01T07:05+00:00",
+     "text": "Acting President Iliana Yotova faces former caretaker Prime Minister Andrey Gyurov after only 22.5 percent of eligible voters cast ballots in 1st round."
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
+     "title": "Bulgaria votes in presidential runoff after tight first round",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "43d5af01b589c225",
+     "published": "2026-11-01T08:51+00:00",
+     "text": "Bulgaria votes in presidential runoff after tight first round\nReuters"
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/europe/bulgaria-votes-in-presidential-runoff-after-tight-first-round",
+     "title": "Bulgaria votes in presidential runoff after tight first round",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/88c31b1751694c3d1f6814a0dcdd4de81af328c5f9a651253834219f0b1770a4?w=1200"
+     },
+     "id": "23bc944dd2d7d90b",
+     "published": "2026-11-01T08:52+00:00",
+     "text": "Bulgaria votes in presidential runoff after tight first round\nSOFIA, Nov 1 - Bulgarians went to the polls on Sunday to elect a president after a tight race between the two leading candidates failed to produce an outright winner in last weekend's first round vote for the largely ceremonial role.\nIncumbent president, Iliana Iotova, 61, led over ex-caretaker prime minister Andrey Gyurov, 50, but fell short of the 50% threshold in the first round race of 27 candidates that saw a record-low turnout.\nExit polls will be published after voting ends at 8 p.m. (1800 GMT), with a result likely on Monday as the ballot papers are counted.\nThe presidential vote comes against the backdrop of a series of drone attacks on merchant ships off Bulgaria’s Black Sea coast in the past month, which have sparked international condemnation and concerns about the growing reach of the war in Ukraine.\nAbout two dozen seafarers are feared dead and the strikes have prompted the government to seek allied assistance to bolster maritime security. On Wednesday a Greek container ship sank after being hit by sea drones.\nBoth leading presidential candidates have condemned the attacks. Prime Minister Rumen Radev, who backs Iotova, said the strikes' outcome \"benefits the Russian Federation\". They have both called for a diplomatic end to the war.\nA victory for Iotova would make her Bulgaria's first elected female president. She became acting president in January after Radev resigned to enter and win a parliamentary race on what many political analysts considered a Kremlin-friendly ticket.\nGyurov, who served as caretaker prime minister this year, is supported by pro-Western, reformist parties and has long expressed support for Ukraine. He signed a security cooperation agreement with Kyiv during his time as premier.\nA host of right-leaning political figures, among them ex-premier Boiko Borisov, have expressed support for Gyurov. REUTERS"
+    }
+   ]
+  },
+  {
    "id": "cadf803a13e",
    "kind": "news",
    "score": 15.0,
@@ -2080,6 +2128,30 @@
      "id": "069e499e8614ec17",
      "published": "2026-11-01T09:38+00:00",
      "text": "Binance says phase one of withdrawals opens after $6.3B hack\nThe crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea.\nBinance said it has reopened its Bitcoin network in phase one of resuming withdrawals after a major hack of about $6.3 billion in funds.\nThe crypto exchange had suspended user withdrawals after the attack on Thursday, which the FBI blamed on North Korean operatives.\n“First batch network now opened in phase one of withdrawals is $BTC bitcoin network,” Binance said on X.\nIn an earlier X announcement on Sunday, Binance had said it would roll out withdrawal services in phases, which will be progressively available. Updates will be available on its official X channel, it added.\n“We are taking a phased approach by prioritizing tokens based on the past week data of user demand, so that each network and asset pair can be restored carefully, with stability and security checks completed before access is reopened,” Binance said.\nUsers should check the withdrawal page for their selected asset and network, or visit the Binance network status page to confirm availability, the company said.\nDuring the phased rollout, it is expected that there will be some congestion, longer processing times and even temporary delays, Binance said, so if a withdrawal is not successful, users should try again after a short while.\nCointelegraph reported on Saturday that Binance said it had replenished 90% of the assets stolen in the hack, up from 80% a day earlier, and remained on track to resume withdrawals Sunday."
+    }
+   ]
+  },
+  {
+   "id": "ce81634522c",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/space-exploration/on-this-day-in-space-november-1-2026",
+     "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/ww8Hh6uwQSpHvZyBpY5qPJ-1920-80.jpg"
+     },
+     "id": "e81634522c513a92",
+     "published": "2026-11-01T14:50+00:00",
+     "text": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet.\nWhile it did end up flying by Mars, the mission was not exactly a success. After it separated from the rocket, it deployed its solar panels and started cruising toward Mars.\nWhen mission controllers were checking out the telemetry it transmitted back to Earth, they found out that Mars 1 had sprung a leak in one of the gas valves that controls the spacecraft's orientation. And without a working orientation system, Mars 1 would have a hard time pointing its antennas in the right direction. It lost contact with Earth when it was about halfway to Mars.\nWhy it mattered\nEver since Galileo Galilei pointed his telescope to the red-tinted star and identified as a planet, Mars has captivated scientists' interests as to its nature. So it was of no surprise that as soon as we gained the ability to send missions into space, that the focus turned to the \"fourth rock from the Sun.\"\nAs it turned out, though, reaching Mars, let alone entering its orbit or landing on its surface,, was and continues to be difficult.\nMars 1, despite its name, was actually the Soviet Union's fourth attempt at sending a probe to the planet. The first three ended in launch failures. Similar problems faced the United States, as well, but it was NASA's Mariner IV mission that became the first to successfully fly by Mars two years later.\nStill, as humanity continues to push forward to the day people land on, explore and live on Mars, the 1962 Soviet mission stands as the first to get close to revealing the first details about the planet.\nWant more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube.\nHanneke Weitering is a multimedia journalist in the Pacific Northwest reporting on the future of aviation at FutureFlight.aero and Aviation International News and was previously the Editor for Spaceflight and Astronomy news here at Space.com. As an editor with over 10 years of experience in science journalism she has previously written for Scholastic Classroom Magazines, MedPage Today and The Joint Institute for Computational Sciences at Oak Ridge National Laboratory. After studying physics at the University of Tennessee in her hometown of Knoxville, she earned her graduate degree in Science, Health and Environmental Reporting (SHERP) from New York University. Hanneke joined the Space.com team in 2016 as a staff writer and producer, covering topics including spaceflight and astronomy. She currently lives in Seattle, home of the Space Needle, with her cat and two snakes. In her spare time, Hanneke enjoys exploring the Rocky Mountains, basking in nature and looking for dark skies to gaze at the cosmos.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
     }
    ]
   },
@@ -2248,52 +2320,6 @@
    ]
   },
   {
-   "id": "ca83f824e05",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Geoff Hurst Goal 78' | England vs Argentina | 1966 FIFA World Cup England™",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "FIFA",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WWGtNQmhhZGdhWHh2OHhwd2J4UUN4X0ZuaXFoVnAzbk1WSzVVOHE0SE5xVDZZZWJiV1g1Z3NfSVZoN0gzUF9teVlPMS1sQU01QUV1aFJIMWY4MV9YRkd0Y0tKelFHODNucHJmRjg2OTFDT0steGc?oc=5",
-     "title": "Geoff Hurst Goal 78' | England vs Argentina | 1966 FIFA World Cup England™",
-     "lang": "en",
-     "extra": {},
-     "id": "a83f824e05387c71",
-     "published": "2026-11-01T11:41+00:00",
-     "text": "Geoff Hurst Goal 78' | England vs Argentina | 1966 FIFA World Cup England™\nFIFA"
-    },
-    {
-     "source": "FIFA",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YbTA5ajV3NTBZVlZyYnBrZFJUZWhyclVPOEVjT1A5WXg4X293bFc0TGFyeTZPd2UxbGZTaUptY0N3ajhyMDNKa1N2b0cwT1M4UGtyRExldlk5WnA5Z2cweUk2YmJHUi14N245N3drSWgtV213cGc?oc=5",
-     "title": "John McGinn Goal 28' | Haiti v Scotland | FIFA World Cup 2026™",
-     "lang": "en",
-     "extra": {},
-     "id": "77ee00a15ba2a7bd",
-     "published": "2026-11-01T13:43+00:00",
-     "text": "John McGinn Goal 28' | Haiti v Scotland | FIFA World Cup 2026™\nFIFA"
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/rugby-league/news/12040/13606600/rugby-league-world-cup-englands-elimination-confirmed-after-tonga-beat-samoa-in-the-final-group-match",
-     "title": "England out of World Cup after Tonga edge out Samoa",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-tonga-rugby-league_7393725.jpg?20261101113246"
-     },
-     "id": "4b21f39d11632fd0",
-     "published": "2026-11-01T11:45+00:00",
-     "text": "Rugby League World Cup: England's elimination confirmed after Tonga beat Samoa in the final group match\nEngland suffer historic group-stage exit at the Rugby League World Cup with Tonga unable to defeat Samoa by more than 46 points; Tonga will play New Zealand in the last four, while Samoa will face Australia in a repeat of the 2022 final\nSunday 1 November 2026 12:00, UK\nEngland's elimination from the World Cup was confirmed after Tonga beat Samoa 20-18 in the final group match.\nEngland sealed a 34-12 victory against Papua New Guinea on Friday but needed to win by a big margin to give themselves a chance of leapfrogging Samoa in Pool B and C and advancing to the semi-finals on points difference.\nBrian McDermott's side's hopes rested on Tonga to win by more than 46 points to reach the last four for the seventh successive tournament.\n- Rugby League World Cup: Latest schedule, results, standings\n- Latest Rugby League World Cup headlines and reports\n- Get the latest Sky Sports deals or stream with no contract\nInstead they are on the plane home from Australasia despite winning two of their three matches.\nThe 30-12 defeat by Tonga in the opening match proved costly, with an 82-0 win over France leaving England with 68 points to make up on Samoa.\nThey failed to make significant enough inroads in the 32-10 win over Papua New Guinea.\nEnglish hopes briefly flickered when Tonga led 8-0, Robert Toia scoring the opening try after a near 50-metre sprint.\nWith Isaiya Katoa converting and then kicking a penalty, England just needed Tonga to score another 39 unanswered points to stay in the tournament.\nHowever, Brian To'o's try hauled Samoa back to 8-4 down at half-time.\nJojo Fifita put Tonga 14-4 ahead before To'o, Hamiso Tabuai-Fidow and Ronald Volkman edged Samoa into a two-point lead, only for Addin Fonua-Blake to win it for Tonga.\nTonga will play New Zealand in the last four, while Samoa will face Australia in a repeat of the 2022 final.\nIs the Rugby League World Cup format flawed?\nThe new tournament structure, which has been downsized from 16 teams to 10, came after Australia stepped in as hosts following France's withdrawal in 2023 for financial reasons.\nIt has effectively meant that each group game in Pool B and C has carried more jeopardy than before.\nThe tournament has two pools, one featuring four teams - Australia, New Zealand, Cook Islands and Fiji - and the other featuring six teams.\nEngland were drawn in the second group, Pool B and C, alongside Tonga, Samoa, Papua New Guinea, Lebanon and France.\nThe top two teams from each group qualify for the knockout rounds, and in the event of a tie, teams are judged on their head-to-head record before points difference.\nMcDermott's side were beaten in their first match against Tonga which put their hopes of qualifying in the balance, despite later thrashing France by 82 points in round two.\nSky Sports' Jon Wilkin said: \"Australia have done a great job to organise a tournament in such a short space of time, but it was fundamentally flawed, unfair in the extreme to the start.\n\"The actual competition structure is just diabolical. England were dealt an incredibly difficult task, because they essentially played their quarter-final in week one.\"\n\"England knew after their loss against Tonga that it was all going to be about points difference, and [qualifying] was going to be incredibly difficult,\" Wilkin said. \"I think the structure and the setup of the competition was done in short notice.\n\"I think the In"
-    }
-   ]
-  },
-  {
    "id": "cecbf96a11c",
    "kind": "news",
    "score": 14.0,
@@ -2395,6 +2421,39 @@
    ]
   },
   {
+   "id": "cba2772ba96",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnR3cWJ4N0d6YThVNThCSlgtOVgxMGdPemZPNXRkeE4xV1lHc3JXb2NxRFdzRzJWVkhTdWlwX01rQTA4UUdjaWVtc2RjczJSa0hZVzBfdGxncEZUSFNvbGRyYy1lYzQ4eTQyQjRCbGM5X05jX0xJTnFCX1JiUzF6c0VTRERHMWZ3cDQ3S2ljZnJIMHhOWmhWcGZ0ck1kZWdkb1RydGQ5dw?oc=5",
+     "title": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record",
+     "lang": "en",
+     "extra": {},
+     "id": "ba2772ba96ae86f1",
+     "published": "2026-10-31T12:15+00:00",
+     "text": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record\nNewsweek"
+    },
+    {
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://newsweek.com/map-reveals-states-where-early-voting-is-surging-days-before-midterms-12646178",
+     "title": "Map Reveals States Where Early Voting Is Surging Days Before Midterms",
+     "lang": "en",
+     "extra": {},
+     "id": "82755c907e4d6c1f",
+     "published": "2026-11-01T14:36+00:00",
+     "text": "Millions of Americans have already cast ballots in midterm elections that will determine control of Congress."
+    }
+   ]
+  },
+  {
    "id": "cdee63ca0aa",
    "kind": "news",
    "score": 14.0,
@@ -2446,6 +2505,41 @@
      "id": "c93469999caafa2d",
      "published": "2026-10-31T22:48+00:00",
      "text": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.\n(Image credit: Jen Golbeck)"
+    }
+   ]
+  },
+  {
+   "id": "caa099f38ea",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+     "lang": "en",
+     "extra": {},
+     "id": "aa099f38eae6d838",
+     "published": "2026-11-01T01:10+00:00",
+     "text": ""
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjBKNHBsSy1EQlN4NnM4QXQ0OXNDeFlzUnY1bVVtYVB3RU9ZSk5vOGU0MzFkLWFlMXIzYS1hNnpzOHNjX3BLa1JjMTZIUUppT0JVVk9QeUR6X3pkSXVCOU53VmhtYXRQV0dQX05WclZGYlgwSWlTZnpUYUVFVzVKZko2UDdXeGRXOWllT3FNTHMxNGJTMlgyNy1BcnVYaDIzaWRUNFZpUG9EQ3JSZEHSAbMBQVVfeXFMTXBHdjctTGNMSU5XZUVxTGFsZFBlN1A3Y0pDRHp5dDItMk9aZW9DcXA4b3RTWXpQbnc2U0VJRk1QRjk0T21iMzJoV0hXQlBkWlBFS2hKeFRhVXZ5ODc0ZVhULUJzMGxmLXFxaGtIZlVSV1I2a3NDcjJTSVJTU25UZ1kySGtJaVZheGxqRVAyVWNLTGlBWlZpMVV2LW5DV29yUVF6YjVvazF5NGhhMzRLRTY5T0U?oc=5",
+     "title": "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says - Fox Business",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "99e140d5cb43eb74",
+     "published": "2026-11-01T05:37+00:00",
+     "text": "- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stolen billions from Binance in biggest hack in history KCRA\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
     }
    ]
   },
@@ -2729,52 +2823,6 @@
    ]
   },
   {
-   "id": "c1c585ea522",
-   "kind": "news",
-   "score": 13.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "DPR Korea Women's World Cup 2027 team profile and history",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "FIFA",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVd2NzltZ3NEc29DMzk2NnVzVUNLa1ZRek4wSkJ4Y1JoU2ZvUk5fclVZUnZyY1NPZEo2U2szNWdKSEJpbTRxZnBRcFVEMzFoVVMtdEF3cDNSUzlrY2c4QVZHVHRrREVxNGNlY2U0VmlzQ1NIVWxwdFhXSDNMUzU3cVlXNGVtZTM3YlBwZl8tMzZROWJMQWh4WVdhV0JVTWRyMHpabkxka2ZieUo5eWc?oc=5",
-     "title": "DPR Korea Women's World Cup 2027 team profile and history",
-     "lang": "en",
-     "extra": {},
-     "id": "1c585ea5222e01c3",
-     "published": "2026-10-31T03:00+00:00",
-     "text": "DPR Korea Women's World Cup 2027 team profile and history\nFIFA"
-    },
-    {
-     "source": "FIFA",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EWkltZG9rX1NnZ3JzUnVRNEhzcXgtaHhGckRtNEVWN2VKYnRsZEk0blZCc19rZURhVVFyY2JlcTlHMFk1R0dnNlptRFNxT2NFRHI4RVdqTWZ5azFfeGFYdEVQYzMzY05haV9uaVYxalQzcWdIM1NQalJB?oc=5",
-     "title": "FIFA Women's World Cup 2027™ UEFA Qualifiers",
-     "lang": "en",
-     "extra": {},
-     "id": "ea53a0667e72af9d",
-     "published": "2026-10-31T06:54+00:00",
-     "text": "FIFA Women's World Cup 2027™ UEFA Qualifiers\nFIFA"
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
-     "title": "Ruthless Australia record biggest win in Women's World Cup history",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-jaime-chapman-australia_7393648.jpg?20261101083319"
-     },
-     "id": "029def11adf916ba",
-     "published": "2026-11-01T08:30+00:00",
-     "text": "Rugby League World Cup 2026: Reports, news, scores, fixtures from across the men's, women's, and wheelchair tournaments\nReports, news, updates, scores from across the men's, women's, and wheelchair tournaments of the Rugby League World Cup 2026"
-    }
-   ]
-  },
-  {
    "id": "cf33d51281f",
    "kind": "news",
    "score": 13.5,
@@ -2830,39 +2878,6 @@
      "id": "d194961c9a297212",
      "published": "2026-11-01T01:00+00:00",
      "text": "- Rumour: Alleged Persona 1 Remake Gameplay Leaks Online Push Square\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Persona 1 Remake Leak: Fans React to 2-Min Clip [2026] shattered.io\n- Persona 1 Remake Trailer Leak: 360p, Unconfirmed [2026] https://tech-insider.org/\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
-    }
-   ]
-  },
-  {
-   "id": "c722c861c5f",
-   "kind": "news",
-   "score": 13.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Anthropic Blocks AI Game Clones in Claude Opus Update",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724000",
-     "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
-     "lang": "en",
-     "extra": {},
-     "id": "deefe447917d915a",
-     "published": "2026-10-31T22:40+00:00",
-     "text": "Anthropic has issued an update for Claude that puts a stop to the AI-generated game clones that have filled platforms like Steam.\nThe term 'AI slop' is something we've heard a lot in the past few years, but it became especially prevalent in the gaming community after Valve launched Steam Next Fest earlier this month. PC users quickly launched complaints that their feeds had been filled with low-effort clones not only of pre-existing games but even some titles that had only just released their own demos.\nAs players trudged through the slop, developers faced a reality that threw months or even years of hard work into jeopardy. Some, including Drunken Goddess Reflux developer Alliance Arts and Who You, even took action by canceling their Steam demo plans in favor of private playtests. It's a situation that rapidly spun out of control, prompting a response from Valve itself as it said it would be \"thinking about how to solve this problem.\"\nANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨\nClaude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\". There’s no setting to turn it off.\nThe full rule: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\nIs this the end of game rewrites, modding and everything in between?\n— chasm (@chasmmmmmmmmmmm) October 30, 2026\nAs reported by Game Developer, X/Twitter user Chasm was one of the first to share evidence of tech company Anthropic taking action against video game copycats. Based on their findings, Claude, the company's AI assistant, recently received an update featuring a new rule. The full rule can be read below:\n\"Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.\"\nWhen reached for comment by Game Developer, Anthropic pointed to a post shared by Addy Osmani, a member of its technical staff. Osmani's explanation can be read below:\n\"We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy. Original games, genre games, and games built from your own designs and assets are meant to keep working. We'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way.\"\nWhether there was a specific event or reason that prompted Anthropic to make these changes is unclear.\nGame developers and game enjoyers will no doubt find comfort in Anthropic's changes, though it's worth noting that how impactful any of this will be remains to be seen. At the very least, those who use Claude to rip ideas directly from those who used their minds and time to bring them to life should have a tougher time trying to profit off of the work of others.\nThe industry is struggling to come to grips with artificial intelligence. Some, such as Epic Games' Tim Sweeney, have insisted that Valve should stray from asking developers to disclose games utilizing generative AI materials. Others, including Super Smash Bros. mastermind Masahiro Sakurai, have compared AI-generated games to \"low-quality goods.\" The developers behind VRChat, meanwhile, recently came under fire for how they are handling AI content.\n"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
-     "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
-     "lang": "en",
-     "extra": {},
-     "id": "722c861c5fddad21",
-     "published": "2026-10-31T21:46+00:00",
-     "text": "Anthropic has issued an update for Claude that puts a stop to the AI-generated game clones that have filled platforms like Steam.\nThe term 'AI slop' is something we've heard a lot in the past few years, but it became especially prevalent in the gaming community after Valve launched Steam Next Fest earlier this month. PC users quickly launched complaints that their feeds had been filled with low-effort clones not only of pre-existing games but even some titles that had only just released their own demos.\nAs players trudged through the slop, developers faced a reality that threw months or even years of hard work into jeopardy. Some, including Drunken Goddess Reflux developer Alliance Arts and Who You, even took action by canceling their Steam demo plans in favor of private playtests. It's a situation that rapidly spun out of control, prompting a response from Valve itself as it said it would be \"thinking about how to solve this problem.\"\nANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨\n— chasm (@chasmmmmmmmmmmm) October 30, 2026\nClaude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\". There’s no setting to turn it off.\nThe full rule: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\nIs this the end of game rewrites, modding and everything in between?\nAs reported by Game Developer, X/Twitter user Chasm was one of the first to share evidence of tech company Anthropic taking action against video game copycats. Based on their findings, Claude, the company's AI assistant, recently received an update featuring a new rule. The full rule can be read below:\n\"Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.\"\nWhen reached for comment by Game Developer, Anthropic pointed to a post shared by Addy Osmani, a member of its technical staff. Osmani's explanation can be read below:\n\"We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy. Original games, genre games, and games built from your own designs and assets are meant to keep working. We'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way.\"\nWhether there was a specific event or reason that prompted Anthropic to make these changes is unclear.\nGame developers and game enjoyers will no doubt find comfort in Anthropic's changes, though it's worth noting that how impactful any of this will be remains to be seen. At the very least, those who use Claude to rip ideas directly from those who used their minds and time to bring them to life should have a tougher time trying to profit off of the work of others.\nThe industry is struggling to come to grips with artificial intelligence. Some, such as Epic Games' Tim Sweeney, have insisted that Valve should stray from asking developers to disclose games utilizing generative AI materials. Others, including Super Smash Bros. mastermind Masahiro Sakurai, have compared AI-generated games to \"low-quality goods.\" The developers behind VRChat, meanwhile, recently came under fire for how they are handling AI content.\n"
     }
    ]
   },
@@ -2969,43 +2984,6 @@
    ]
   },
   {
-   "id": "cd1e489fc71",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/business/2026/10/31/crypto-exchanges-defense-call",
-     "title": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/571591.JPG?v=3.1"
-     },
-     "id": "d1e489fc71255b64",
-     "published": "2026-10-31T02:47+00:00",
-     "text": "Crypto exchanges are taking quick action to bolster their defenses and urging greater industrywide information-sharing after a record $6.3 billion hack of Binance exposed their vulnerability just as they become more embedded in mainstream finance.\nCoinbase said it made adjustments to its systems that store cryptocurrency keys offline “solely out of an abundance of caution,” while Kraken said it was monitoring industry incidents for lessons it could apply to its defenses.\nBut the industry will need to move urgently, analysts and industry executives said, as U.S. President Donald Trump’s regulators promote deeper integration of digital assets into the financial system, raising the stakes for an industry with a history of big hacks.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
-    },
-    {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
-     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
-     },
-     "id": "d081c8674a69f198",
-     "published": "2026-10-31T15:01+00:00",
-     "text": "In brief\n- Attackers stole roughly $6.4 billion from Binance on Thursday in the largest crypto hack ever, more than four times the previous record.\n- Binance says it will cover all losses with company funds and its emergency reserve, having set aside more than $6.34 billion.\n- Here's how it happened and what's being done about it.\nCrypto just suffered the largest hack in its history.\nOn Thursday, attackers drained roughly $6.4 billion from Binance, the world’s largest cryptocurrency exchange, in a breach that dwarfs every theft before it and has triggered a cross-border law-enforcement investigation, a scramble by stablecoin issuers to freeze funds, and a tense wait for millions of users.\nHere’s what’s known about the Binance hack so far.\nWhat happened\nThe theft began at about 4:05 p.m. ET on Thursday, after U.S. markets had closed, when attackers moved funds out of Binance hot wallets across roughly 10 blockchains, most of it within about 20 minutes.\nBlockchain analytics firms Chainalysis and TRM Labs put the total at around $6.4 billion, more than four times the previous record, February 2025’s $1.5 billion Bybit heist.\nCrucially, the attack targeted Binance’s own infrastructure, not the blockchains themselves. Binance initially traced the breach to a compromised laptop belonging to a DevOps engineer, which may have let the attacker reach a service container and submit unauthorized withdrawals.\nThe exchange has since said its investigation uncovered “additional points of breach,” with CEO Richard Teng describing “a more complex attack process” that “did not simply use one engineer’s permissions.” Binance said it found no evidence that wallet private keys were leaked, and that the attacker used a self-destruct mechanism to wipe tooling and traces along the way.\nThe Ethereum wrinkle\nOn Ethereum, the attacker leaned on EIP-7702, a feature introduced in 2025 that lets ordinary wallets temporarily run smart-contract code.\nUsing 50 pre-signed authorizations, the attacker turned a Binance hot wallet into a “sweeper” contract and drained its assets, according to TRM Labs.\nTeng said that delegation “did not pass through our normal approval controls.” The episode didn’t expose a flaw in Ethereum itself, but rather, TRM said, pointed to a compromise of Binance’s signing infrastructure.\nWho’s behind it\nTRM Labs and Chainalysis both attributed the hack to TraderTraitor, a North Korean state-linked group also blamed for the Bybit heist.\nAfter that attack, the group converted roughly 84% of the stolen Ethereum into Bitcoin via the cross-chain network Thorchain. The attribution pushes North Korea’s 2026 crypto haul well past $1 billion, and the Binance figure alone would dwarf the rest.\nWhat Binance is doing\nTeng said Binance will cover every dollar of the losses with company funds and its Secure Asset Fund for Users, an emergency reserve, stressing that customer assets were never touched.\nThe exchange has set aside more than $6.34 billion, about $5 billion of it already held in the exact tokens stolen, including BTC, ETH, BNB, USDC, and USDT, and is buying the rest on the open market and over the counter.\nBinance paused withdrawals to rebuild and retest its systems, is running a full security review, and aims to restore withdrawals by Sunday while publishing a complete proof of reserves by Monday. Deposits are operating normally.\nThe freeze, and what’s still loose\nStablecoin issuers moved fast following the initial reports of a suspected attack, unl"
-    }
-   ]
-  },
-  {
    "id": "c2eb5766d74",
    "kind": "news",
    "score": 13.0,
@@ -3024,6 +3002,87 @@
      "id": "2eb5766d74d52897",
      "published": "2026-10-31T06:20+00:00",
      "text": "JioStar, the Indian media giant backed by Reliance Industries, grew revenue from operations 10.1% year-on-year to INR68.1 billion ($710 million) in the July–September quarter despite a weak advertising market. Profit after tax fell 13.2% to INR11.5 billion ($120 million). Former India cricket captain Sourav Ganguly hosted the first-ever “Bigg Boss Bangla,” which launched this quarter […]"
+    }
+   ]
+  },
+  {
+   "id": "ccecf37c22f",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+     "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+     "lang": "en",
+     "extra": {},
+     "id": "cecf37c22f0f01d1",
+     "published": "2026-10-31T15:24+00:00",
+     "text": ""
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+     "lang": "en",
+     "extra": {},
+     "id": "e207e0cfa1d8938e",
+     "published": "2026-10-31T18:11+00:00",
+     "text": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.\n(Image credit: Justin Sullivan)"
+    },
+    {
+     "source": "The Verge",
+     "trust": 2,
+     "url": "https://theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+     "title": "North Korea linked to massive Binance crypto heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+     },
+     "id": "b9273cfbb5b037df",
+     "published": "2026-11-01T14:33+00:00",
+     "text": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity “TraderTraitor” and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says:\nNorth Korea linked to massive Binance crypto heist\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nNorth Korea Responsible for $6 Billion+ Binance Attack\nThe Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\nAs expected, Binance reopened customer withdrawals today after freezing them in the immediate aftermath of the hack."
+    }
+   ]
+  },
+  {
+   "id": "c873265ff45",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "iPhone Duo vs iPhone 18 Pro: which should you choose?",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "TechRadar",
+     "trust": 2,
+     "url": "https://techradar.com/phones/iphone/iphone-duo-vs-iphone-18-pro",
+     "title": "iPhone Duo vs iPhone 18 Pro: which should you choose?",
+     "lang": "en",
+     "extra": {},
+     "id": "873265ff45194200",
+     "published": "2026-10-31T18:00+00:00",
+     "text": "<p>Axel is TechRadar's Phones Editor, reporting on everything from the latest Apple developments to newest AI breakthroughs as part of the site's Mobile Computing vertical. Working out of the brand’s London office, he is a versatile, NCTJ-accredited journalist with a keen interest in the applications of technology beyond the desktop, and has bylines in various publications including Total Film, ShortList, Esquire, and FourFourTwo.<br><br>After graduating from the University of Warwick with a degree in English Literature, Axel spent time as a freelance writer before joining TechRadar as part of its inaugural digital training scheme. His role sees him keeping a close eye on the latest trends in the worlds of mobile technology and digital culture, and his coverage extends from news reporting and analysis to in-depth interviews and opinion.<br><br>Away from the keyboard, Axel can be found working his way through a lengthy watchlist of films and counting down the days until Chelsea's next managerial change. Want to get in touch? You can contact Axel over email (linked above) or through <a href=\"https://twitter.com/axelkmetz\">Twitter</a>.</p>"
+    },
+    {
+     "source": "Engadget",
+     "trust": 2,
+     "url": "https://engadget.com/2300277/which-android-closest-to-iphone-18-pro-max",
+     "title": "Which Android is the closest counterpart to the iPhone 18 Pro Max?",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.engadget.com/img/gallery/which-android-is-the-closest-counterpart-to-the-iphone-18-pro-max/l-intro-1793079780.jpg"
+     },
+     "id": "30ed7a47e02c09d6",
+     "published": "2026-11-01T14:45+00:00",
+     "text": "Which Android is the closest counterpart to the iPhone 18 Pro Max?\nThe iPhone 18 Pro Max is Apple's latest and greatest offering, and only one Android smartphone really comes close.\nThe folding iPhone Duo may have stolen the show at this year's big iPhone launch event, but the iPhone 18 Pro it debuted alongside is still the heaviest hitter in Apple's smartphone lineup. It has Apple's first mobile processor built on a 2nm process, plenty of RAM, the best cameras on any iPhone, and a beefy battery with faster charging speeds than prior models.\nBut while the iPhone is impressive in a vacuum, it must compete in the wider smartphone market against Android devices desperate to take its crown. Android users are spoiled for choice, with dozens of models to choose from, but only a few can truly go toe-to-toe with Apple's top-tier flagship. To be a genuine alternative to the iPhone 18 Pro Max, an Android phone not only needs high-end hardware but a software experience as polished as Apple's iOS. The iPhone is also widely available from every major US carrier, and a true competitor needs to be equally easy to acquire.\nTake all those criteria into account, and only one phone can comfortably be called a close counterpart to the iPhone 18 Pro Max. You probably already know which one.\nSamsung's Galaxy S26 Ultra is the closest Android gets to the iPhone 18 Pro Max\nYou guessed it: the closest Android counterpart to the iPhone 18 Pro Max is the Samsung Galaxy S26 Ultra. Released in February 2026, it offers the best combination of hardware and software in a mainstream Android device. With a Qualcomm Snapdragon 8 Elite Gen 5 processor, 12GB of RAM (or 16GB on the 1TB storage model), and a 5,000 mAh battery, it's got plenty of horsepower for video editing, gaming and more. The S26 Ultra's screen is pure eye candy, which isn't surprising since Samsung makes iPhone displays, and it also includes the Privacy Display feature, which prevents people from seeing your screen off-axis.\nOf course, in some areas, there's really no comparison between the Galaxy S26 and the iPhone 18 Pro Max. The Snapdragon 8 Elite Gen 5 is fast, but not as fast as the iPhone's A20 Pro. And while its 200-MP main sensor is larger than the iPhone, Apple's flagship is the undisputed king of smartphone video.\nYou might protest that the Pixel 11 Pro XL is the real iPhone 18 Pro Max competitor. After all, it's a Google product that offers an Apple-like synthesis of OS and hardware. Unfortunately, though, its Tensor G6 processor lags woefully behind the competition. One recent test from YouTube channel PhoneBuff showed the Pixel 11 falling behind Samsung phones three or four years its senior in a gauntlet of everyday tasks. That's fine, since the Pixel line is primarily a showcase for Google's take on Android. It's not meant to be a massive consumer hit and is instead meant to guide software developers and hardware vendors.\nInternational markets have more options, and new Android phones are coming soon\nYou could also point to newer international phones that have better on-paper specs than the S26 Ultra. The Xiaomi 18 Pro Max has the latest Snapdragon 8 Elite Gen 6 processor, which comes closer to the iPhone 18 Pro Max's A20 Pro chip than the Gen 5. Xiaomi even mimics the iPhone's design, just with a second screen on the back camera plateau to one-up Apple.\nBut part of what makes the iPhone such a juggernaut is its international appeal, and Xiaomi's phones aren't offered by carriers in the Unit"
     }
    ]
   },
@@ -3131,37 +3190,52 @@
    ]
   },
   {
-   "id": "ca5b7e71797",
+   "id": "c78696ef3eb",
    "kind": "news",
    "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Xbox Game Pass Officially Adds One of the Most Disturbing Sci-Fi Games of All Time",
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Wales hit by Australia century in World Cup record defeat",
    "official_image": null,
    "sources": [
     {
-     "source": "Collider",
+     "source": "BBC Sport",
      "trust": 2,
-     "url": "https://collider.com/mouthwashing-xbox-game-pass-release",
-     "title": "Xbox Game Pass Officially Adds One of the Most Disturbing Sci-Fi Games of All Time",
-     "lang": "en",
-     "extra": {},
-     "id": "a5b7e71797c04a4f",
-     "published": "2026-10-31T23:00+00:00",
-     "text": "Mouthwashing makes spending time with five people aboard a spaceship sound like a threat, which is exactly what it becomes. The crew of the Tulpar has survived a crash, but rescue is not coming, supplies are running out, and they are stuck with one another. Anyone curious about the game behind Karyn Kusama’s upcoming movie adaptation now has another way to find out why it has made such an impression."
-    },
-    {
-     "source": "Screen Rant",
-     "trust": 2,
-     "url": "https://screenrant.com/xbox-game-pass-gravhounds-november-2",
-     "title": "Xbox Game Pass Announces New Free Game For November 2",
+     "url": "https://bbc.co.uk/sport/rugby-league/articles/cked34glxp0no?at_medium=RSS&at_campaign=rss",
+     "title": "Wales hit by Australia century in World Cup record defeat",
      "lang": "en",
      "extra": {
-      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/xbox-game-pass-games-leaving-august-31.jpg?w=1600&h=900&fit=crop"
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cbef/live/0e215400-d5b8-11f1-a012-e5d60a7e6c41.jpg"
      },
-     "id": "ca8a14e5f860dbe2",
-     "published": "2026-11-01T09:00+00:00",
-     "text": "Xbox Game Pass has been through the wringer. It got a price increase, then a price drop, and now fans are confused about what Xbox will look like a year from now, after layoffs and studio divestitures. Even PlayStation has crept up on them with PlayStation Plus and the Game Catalog, directly challenging Xbox Game Pass.\nThat said, plenty of great games are still on the service, and more are coming soon. Once November 2 hits, you'll want to assemble a squad. If you can't, there's still plenty of room for you in this upcoming free game that's turning heads [via Pure Xbox].\nSince Gravhounds supports solo play (or a crew of up to four), you can approach it in a lot of different ways. If you bring more people, you can utilize the more unique aspects of your Gravhounds squad, and you'll have the ability to fling objects across the battlefield to your team, while building turrets, generators, and fabricators to create a defensive position.\nHere's what the developer shares about what to expect from Gravhounds:\nGravhounds is a 1–4 player co-op action builder. Drop into hostile planets as a pack, build and defend your base in physics-driven mayhem, and extract with everything you can carry before you become alien chow! The longer you stay, the greater the danger... and the rewards.\nIt's also going for a Helldivers-type theme, noting that your player characters (Luna, Zane, Dozer, Selene, Finn) are \"loyal, obedient, and expendable.\" Never mind that they're anthropomorphic dogs who fit that description to a degree anyway.\n. Pipelines can be extended through enemy zones, adding a strategic layer reminiscent of old-school RTS titles with limited base-building and upkeep. Upgrades keep things from getting rote, and \"no two shifts play the same,\" encouraging you to discover the variety the game offers through a unique crew and repeated play.\nMovement is a huge part of the game, with rail-riding and dashing ensuring quick locomotion, while unlocks are king: new Gravhounds, weapons, and upgrade paths come from repeated runs as you try to thin the swarm. The ability to unlock new characters is easily the most appealing element of the game for me.\nIf you're curious about the game loop, the studio has shared what you'll be doing with each run: \"Jobs might involve recovering alien technology, extracting valuable resources, or establishing infrastructure somewhere the local wildlife would strongly prefer you didn’t. As the operation expands, so do your problems. The longer you stay and the harder you push, the more dangerous the planet becomes. Soon you’re repairing defenses, hauling resources, rescuing somebody who wandered off alone, and deciding whether you have time to grab one more thing before leaving. Good judgment tends to deteriorate as the shift progresses.\"\nIf you have Xbox Game Pass, wrangle up three friends and see whether Gravhounds is worth playing past the initial honeymoon week. With any luck, Xbox will have another winner on their hands.\n- Number of Devices Concurrently\n- Standard subscription plan allows two accounts playing at once, with four accounts playing at once on Friends & Family plan\n- Highest Resolution\n- 1440p streaming\n- Number of Accounts\n- ~35 million subscribers\n- Compatibility\n- Xbox Series X|S, PC, ROG Xbox Ally, Android, iOS, Samsung & LG TVs, Meta Quest, Web Browser\n- Price Per Month\n- Essential $9.99 | Premium $14.99 | Ultimate $29.99\n- Price per year\n- 12-month membership codes only available at certain retailers"
+     "id": "78696ef3eb5e3800",
+     "published": "2026-11-01T06:57+00:00",
+     "text": "- Published\nAustralia (60) 124\nTries: Kernick, Chapman 6, Church 2, Southwell, Sergis 4, Apps, Paki, Joseph 2, Upton 2, Nizza Goals: Southwell 20\nWales (0) 6\nTries: Travis Goals: Preston\nRampant Australia racked up the biggest score in international history as they hammered Wales in a Rugby League World Cup mismatch.\nThe Jillaroos, hunting a fourth successive title, ran in 21 tries in a predictably lopsided contest in Sydney.\nThe half-time score of 60-0 was the biggest of any World Cup match - men's or women's - and the Australians kept their foot down to win 124-6.\nWing Jaime Chapman's sixth try in the last minute ensured they beat Denmark men's biggest international score of 122-8 against Sweden in 2012.\nThe 118-point victory margin is the largest in any women's match, although France men retain their record win set in 2003 with a 120-0 rout of Serbia.\nYet there were wild Wales celebrations when, at 100-0 down, they became the first side to score against the Jillaroos in the tournament through Paige Travis.\nThe Jillaroos are three-time back-to-back champions, while Wales were taking part in the tournament for the first time having only played their first Test in 2021.\nIt was just their 16th fixture - and a first against Australia - with Tom Brindle's side having already been beaten 70-6 by England and 76-0 by Samoa at the World Cup.\nFull of NRLW talent, Australia showed a killer instinct and an intensity that Wales were exposed to for the first time.\nIt all came after Wales, whose captain Bethan Dainton was the tournament's top tackler by a distance in the first two rounds with 77, rose to the occasion with a strong start.\nBut Australia struck in the sixth minute through lock Olivia Kernick following prop Makenzie Weale's terrific offload out the back, and the Jillaroos then clicked into gear.\nLong-striding, hard-fending Chapman scored a double down the left and fellow wing Abbi Church powered through weak tackles on the right.\nWales were unable to string together good moments and a fifth try came through Jesse Southwell from failure to claim a regulation high ball just seconds after Jade Mullen had put in a huge tackle.\nAustralia were ruthless and the scores kept coming through centre Jessica Sergis, second row Kezie Apps and Chapman for a first-half hat-trick.\nSergis brought up the half-century with a weaving run and was followed over by second row Sariah Paki.\nThe stats told the story - Australia had 84% of possession in the first half and completed 21 of 22 sets, with almost 13 minutes of possession to two minutes and 29 seconds.\nIt took just over a minute for Keilee Joseph to get the scoreboard ticking after the restart and the scores kept coming from Sergis, Chapman, Joseph again and Church.\nThe Jillaroos beat their 92-0 record, set against France in the 2022 World Cup, when Southwell converted Sergis' fourth try, hitting three figures when the extras were added to star full-back Tamika Upton's breakaway.\nWales' moment came when Travis, scorer of their historic try against England, won the race to Tayla Preston's kick through.\nIt was only a brief change of pattern with Keeley Nizza, Chapman twice and Upton going over to complete the destruction.\nWales captain Bethan Dainton said:\n\"We just wanted to create a legacy back home for young girls coming through, and I think we did that. The scorelines haven't been in our favour but no one gave up and I am so proud of the girls.\""
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/australia-wales-womens-rugby-league-world-cup/107334088",
+     "title": "Australia's latest World Cup smash-up helps nobody",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/9c191b4b99728043f0ef248e172888d3?impolicy=wcms_watermark_news&cropH=1927&cropW=3425&xPos=0&yPos=58&width=862&height=485&imformat=generic"
+     },
+     "id": "ba338089e5aa5172",
+     "published": "2026-11-01T07:53+00:00",
+     "text": "Fri, 18 Sept, 7:50 pm, Final score, Tigers 0, Raiders 6\nSat, 19 Sept, 4:05 pm, Final score, Broncos 40, Knights 16\n40 16 →Sat, 26 Sept, 7:50 pm, Final score, Roosters 20, Raiders 10\n20 10 →Sun, 27 Sept, 1:05 pm, Final score, Titans 8, Broncos 20\n8 20 →Sun, 4 Oct, 4:00 pm, Final score, Roosters 30, Broncos 6\n30 6 →\nGallows humour was the order of the day for Australia's World Cup match against Wales, which was only fitting given it trudged towards its inevitable conclusion like the condemned to the executioner's block.\nThe Jillaroos ran out 124-6 winners in a game where the only element of contest was whether the reigning world champions could bring up the century.\nThey did it easily in the end, smashing their own record for biggest World Cup win, with Jamie Chapman's sixth try in the shadows of the full-time siren eclipsing France's 116-0 victory over Serbia in 2023 in the most lopsided result in women's international rugby league history.\nIn the first half, as they ran up a 60-0 lead, Australia scored 10 tries and Wales played the ball just 15 times. Five-eighth Jesse Southwell finished with 44 points on her own.\nThe Jillaroos did not make a tackle from the fifth minute until after the half-time siren and Australian halfback Tarryn Aiken did not make a tackle until 10 minutes before full-time.\nAfter Australia scored its 15th try of the match it started getting booed by the sparse Parramatta Stadium crowd, who reserved their biggest cheer of the day for Welsh second rower Paige Travis's score that narrowed the gap to 100-6.\nIt was the sole bright spot of the match but the punters soon returned to an idle stupor as Australia added four more tries in the final seven minutes.\nAll World Cups are going to have their blowouts and rugby league's more than most. But they must serve a wider purpose and this one did not.\nIt benefited nobody and served to damage the tournament's credibility and its only legacy can be like Australia's 110-4 win over Russia in the men's 2000 World Cup, which is to say as a historical oddity for the trainspotters.\nAs the women's World Cup reckons with what has been an uneven tournament at best, marred by the same enormous scorelines of the men's edition but with few of the strong crowds, questions must be asked as to why a game like this could happen at all.\nThe uninterested and meagre turn-out for this match was proof it did not maximise the product, which very much felt like a curtain-raiser to the two men's matches that followed. Nor does it aid development.\nIt stuffed some stat sheets and gave ammunition to the bad-faith actors who are always on the hunt for an opportunity to take a shot at women's sport.\nThe Jillaroos are the best team in the world by an order of magnitude and have been for years. They gain nothing by putting the cleaners through Wales, who exist in a different universe.\nThat's why the Welsh should be spared any blame for how this went down. When the criticism comes it should not fall on them.\nThey qualified fair and square but they did not ask for this and there's no way to say it without sounding patronising but they did their best in the face of impossible odds.\nWhile they have Canterbury halfback Tayla Preston and North Queensland winger Sian Williams as well as a smattering of Super League talent in Bethan Daiton, Carys Marsh and Agnes Wood, most of their players ply their trade in the women's second division in England.\nIt's a competition that can still have the draw disrupted by forfeits "
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/rugby-league/live-blog/12040/13599564/rugby-league-world-cup-2026-reports-news-scores-fixtures-from-across-the-mens-womens-and-wheelchair-tournaments",
+     "title": "Ruthless Australia record biggest win in Women's World Cup history",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-jaime-chapman-australia_7393648.jpg?20261101083319"
+     },
+     "id": "029def11adf916ba",
+     "published": "2026-11-01T08:30+00:00",
+     "text": "Rugby League World Cup 2026: Reports, news, scores, fixtures from across the men's, women's, and wheelchair tournaments\nReports, news, updates, scores from across the men's, women's, and wheelchair tournaments of the Rugby League World Cup 2026"
     }
    ]
   },
@@ -3190,52 +3264,6 @@
    ]
   },
   {
-   "id": "c3b6bb0c062",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
-     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
-     "lang": "en",
-     "extra": {},
-     "id": "3b6bb0c06269b687",
-     "published": "2026-11-01T07:33+00:00",
-     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
-    },
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVB4SGN0azE1enBQUEpTNWZVQlpBamVDQ2N5ZmdDRDk1dVNrUGI0OVBFRjZCZDFQZ2Q5U1RMUFdpeXFEb29fV1llQ0F4bkhNbV90OVlPbHh0N0MwY3ZzNzVmTFB4cGFJbE5TVm9WZTlnQWdMUVdMQnk4VlJXNm02eXUzcURNWDhpTERZeW1QclZubU10RFh6MFhpVjhRaENO?oc=5",
-     "title": "Business - Tech",
-     "lang": "en",
-     "extra": {},
-     "id": "13ba1829bd10fa9f",
-     "published": "2026-11-01T07:48+00:00",
-     "text": "Business - Tech\nAhram Online"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "5c29874acc90c064",
-     "published": "2026-11-01T09:28+00:00",
-     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
-    }
-   ]
-  },
-  {
    "id": "c5b21d687f9",
    "kind": "news",
    "score": 13.0,
@@ -3254,6 +3282,28 @@
      "id": "5b21d687f91efa37",
      "published": "2026-11-01T12:00+00:00",
      "text": "<p>Jowi Morales is a writer and journalist covering the tech beat since 2021. However, he’s been interested in technology far earlier than that. He started discovering desktop computers when his father brought home a Windows 95 PC, but his first real experience working under the hood of the PC was when the old computer’s hard drive was filled to the brim in the year 2000. He deleted the Windows folder to attempt to rectify the situation, which led to his dad buying a new desktop PC. Since then, he learned a lot more about computers, and he’s always been the go-to tech expert for his family and friends.</p><p>Jowi primarily uses a Windows workstation and an Android phone, but he also bought into the Apple ecosystem with the 6th-gen iPad, iPhone 14 Pro Max, and the M1 MacBook Air. Today, Jowi covers hardware and software from Redmond and Cupertino, while also looking at the tech industry in general.</p><p>Aside from covering technology, Jowi is an avid photographer and writes about automobiles, aviation, and tanks. You can find his bylines at <a href=\"https://www.makeuseof.com/author/jowi-morales/\">MakeUseOf</a>, <a href=\"https://www.slashgear.com/author/jowimorales/\">SlashGear</a>, and, of course, <a href=\"https://www.tomshardware.com/author/jowi-morales\">Tom’s Hardware</a>.</p>"
+    }
+   ]
+  },
+  {
+   "id": "c81405cedf5",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Intel's next budget laptop chip may have no performance cores at all",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "TechSpot",
+     "trust": 2,
+     "url": "https://techspot.com/news/114403-intel-next-budget-laptop-chip-may-have-no.html",
+     "title": "Intel's next budget laptop chip may have no performance cores at all",
+     "lang": "en",
+     "extra": {},
+     "id": "81405cedf5867400",
+     "published": "2026-11-01T14:57+00:00",
+     "text": "Intel's current entry-level N-series chips also skip performance cores, and Moon Lake would bring that approach to the company's newer tile-based design. If the leak holds, it would be the next generation of the N-series processors found in many budget machines. Intel has not confirmed the specs.\nRead Entire Article"
     }
    ]
   },
@@ -3434,6 +3484,80 @@
      "id": "89db65159167650c",
      "published": "2026-11-01T10:59+00:00",
      "text": "Lewis Hamilton scored the 105th pole position at the Mexico City Grand Prix, extending his own record as the longest pole position career spans, coming over 19 years after his maiden top spot in Formula 1. We take a look at the top 10 drivers with the longest career spans between their first and last poles."
+    }
+   ]
+  },
+  {
+   "id": "cc6d8897468",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Liverpool vs Arsenal live updates: Premier League match team news, predictions and more",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/live-blogs/liverpool-vs-arsenal-live-updates-premier-league-score-result/tAD6b9M2brnp",
+     "title": "Liverpool vs Arsenal live updates: Premier League match team news, predictions and more",
+     "lang": "en",
+     "extra": {},
+     "id": "34592e0c6c495a59",
+     "published": "2026-11-01T12:15+00:00",
+     "text": "Team news and updates as Liverpool host Arsenal in the Premier League today."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/liveblog/2026/11/1/liverpool-vs-arsenal-live-premier-league?traffic_source=rss",
+     "title": "Liverpool vs Arsenal LIVE: Premier League",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-08-21T184943Z_1780533378_UP1EM8L1GAU06_RTRMADP_3_SOCCER-ENGLAND-ARS-COV-1793531297.jpg?resize=1920%2C1440"
+     },
+     "id": "a860d6d36c2141d7",
+     "published": "2026-11-01T13:33+00:00",
+     "text": "Follow updates, build-up and team news from our live text commentary stream, with Martin Odegaard headlining."
+    },
+    {
+     "source": "TechRadar",
+     "trust": 2,
+     "url": "https://techradar.com/entertainment/football/liverpool-vs-arsenal-free-premier-league-2026-27",
+     "title": "How to watch Liverpool vs Arsenal: Live streams and TV channels for Premier League 2026/27",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/M4vsrK6HkkFEuKcUemcaEH-1024-80.jpg"
+     },
+     "id": "e0c7a84e3c60c1a2",
+     "published": "2026-11-01T14:00+00:00",
+     "text": "- Liverpool vs Arsenal: Today (Sun, Nov. 1) — 4.30pm GMT / 11.30am ET\n- Stream: Sky Sports (UK) / Peacock TV (US) / Stan Sport (AUS)\n- Unlock your stream with Proton VPN (up to 75% off)\nWatch Liverpool vs Arsenal live streams in a potential Premier League 2026/27 classic at Anfield. Respectively led by Andoni Iraola and Mikel Arteta, two managers from the small Basque province of Gipuzkoa in northern Spain, the Reds and Gunners share a special rivalry and will want to establish early dominance.\nThe Merseysiders scraped past Chelsea in a midweek Carabao Cup penalty shootout but will need to put in a better performance to cut the gap to the reigning champions to three points. The Reds have won four of their past five outings in all competitions – the aforementioned EFL Cup 'win' technically a draw – since a 3-0 defeat by Man City as Iraola's methods begin to take root. Alexander Isak has six Premier League goals to his name already this season, while even Florian Wirtz has begun to resemble the player Liverpool thought they were buying from Bayern Leverkusen in the summer of 2025. Ronald Araujo impressed in last weekend's 2-0 win against Brentford.\nNo-one saw Arsenal's shootout defeat by Fleetwood – 18th in League Two – in the Carabao Cup coming and Arteta will be determined his side prove that result was an anomaly. Second on goal difference to City, the Gunners have won three league games in a row since a 3-0 walloping at Brighton and looked at their controlled, relentless best in swatting aside Everton last weekend. Declan Rice and Noni Madueke should return after missing Fleetwood, but Bukayo Saka will be absent for at least a month. Arsenal haven't tasted victory at Anfield in 13 attempts dating back to the 2012/13 season – can they invoke the spirit of 1989, Michael Thomas and all that to keep their title defense on track?\nHere's how to watch Liverpool vs Arsenal in the Premier League 2026/27 from anywhere in the world.\nCan I watch Liverpool vs Arsenal for free?\nUnfortunately not —there are no dedicated free streams we can find for Liverpool vs Arsenal.\nHowever, if you're a US resident, you can watch the Premier League game for just $1 if you take out a 30-day trial to Walmart+ and select Peacock TV as a member benefit. Read below for more information.\nAway from the US on vacation or business? You'll need a VPN to watch your regular stream as if you're back home — we recommend Proton VPN.\nUse a VPN to watch Liverpool vs Arsenal from anywhere\nA VPN is a handy piece of software that can make your device appear as if it's back in your home country, so you can unlock your usual streaming services. One of our favorites is Proton VPN – it does everything and comes with up to 75% off.\n🟩 Proton VPN – Just $2.49/month\nProton VPN offers top-notch security and privacy and super fast connection speeds, and comes with a 30-day money-back guarantee.\n✅ Save up to 75% off\n✅ Just $2.49/month\n✅ Unlocks Peacock\nGet Proton VPN and stream Liverpool vs Arsenal from anywhere.\nIt's really straightforward to use a VPN to watch Liverpool vs Arsenal.\n1. Install the VPN of your choice. As we've said, Proton VPN is one of our favorites.\n2. Choose the location you wish to connect to in the VPN app. For example, if you want to watch the Peacock stream, select 'United States' from the listed countries.\n3. Sit back and enjoy the action. Head to Peacock and tune into Liverpool vs Arsenal.\nHow to watch Liverpool vs Arsenal live streams in the US\nLiverpool vs Arsenal "
+    },
+    {
+     "source": "TechRadar",
+     "trust": 2,
+     "url": "https://techradar.com/entertainment/american-football/how-to-watch-baltimore-ravens-vs-buffalo-bills-nfl-week-8-game",
+     "title": "How to watch Ravens vs Bills: Live streams & TV Channels",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/8wAShUikqRSB94WDCxFYTj-1920-80.jpg"
+     },
+     "id": "36df355197dc74d7",
+     "published": "2026-11-01T15:00+00:00",
+     "text": "- Watch Ravens vs Bills on Paramount+ / CBS via YouTube TV (US)\n- Unlock your stream with IPVanish (save up to 83%)\n- Ravens vs Bills kick-off: Sun, Nov 1 at 1pm ET / 6pm GMT / 5am AEDT (Mon)\nLamar Jackson's return can't come soon enough for the Ravens, who've plummeted down the pecking order in his absence. The two-time MVP, however, looks set to return for this key NFL 2026 clash with the Bills, who are flying high and coming off a bye.\nBaltimore's track record with double-digit leads needs no introduction, but even by their standards the capitulation against the Bengals was something special. From 13-0 up at midway, to 13–35 down at full-time, this was a collapse for the ages. Worse still, they blew a double-digit lead the previous week too.\nAlthough there's a long way to go, the Ravens' divisional form has brought a note of jeopardy to every game. Not only are they at the bottom of the AFC North, but they're also 0-2 in divisional play, which could end up costing them dearly.\nOn a positive note, while the Ravens' and Bills' run-heavy offenses are well-matched, Buffalo's defense has been atrocious in every facet of the game. They rank 31st for total defense and passing yards, and 30th for points conceded per game.\nBut they have Josh Allen. The 2024 MVP has nine passing touchdowns to go with another eight on his wheels, so while the Bills certainly won't be winning the Vince Lombardi Trophy with the defense in the state that it is, Allen and James Cook alone ensure they'll keep steamrolling good, bad and average opponents in the meantime.\nHere's how to watch Ravens vs Bills in the 2026 NFL from anywhere in the world.\nUse a VPN to watch Ravens vs Bills live streams\nA VPN is a handy piece of software that can make your device appear as if it's back in your home country, so you can unlock your usual streaming services. One of our favourites is IPVanish – it does everything and comes with up to 83% off.\n🟩 IPVanish – Just $2.49/month\nIPVanish is beginning to rank among the top VPN providers and it is a great option to unblock your NFL streaming service.\n✅ Save up to 83%\n✅ Just $2.49/month\n✅ Unlocks all necessary streaming services\nGet IPVanish and stream Ravens vs Bills from anywhere.\nHow to watch Ravens vs Bills live streams in the US\nIn the US, the Ravens vs Bills game is being shown on CBS and Paramount+.\nParamount+ starts at $8.99/month or $89.99/year. However, you can access Paramount+ virtually for free with a Walmart Plus 30-day trial for $1.\nAlternatively, YouTube TV, Hulu + Live TV, DirecTV Stream and the Fubo Sports + News plan each carry CBS and will provide near-comprehensive NFL coverage this season.\nOutside of the US? IPVanish can unblock your stream from anywhere in the world.\nHow to watch Ravens vs Bills live streams in the UK\nIn the UK, Ravens vs Bills is available to watch on Sky Sports+.\nSky Sports packages start at £35/month, with £22/month pricing available to existing Sky customers. You can also tune in via a NOW Sports membership that carries the Sky Sports channels.\nThe game is also available through NFL Game Pass on DAZN, which starts at £18.99/month if you commit to a year or £69.99 for the rest of the season if you pay upfront, and live streams every remaining game, plus RedZone.\nAway from home? Unlock your Ravens vs Bills stream with IPVanish.\nHow to watch Ravens vs Bills live streams in Australia\nIn Australia, the Ravens vs Bills game is being shown on ESPN via Foxtel, with live streaming available via Kayo Spo"
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1dqTTVXdFNLUm5xaExlWDF0dFltX2hnY2FheDNsRDVoMHRkak52Mk1DTkQ4QkxrM2ZQd3BLTDBlSFZzakRoSWNNN2F1SmhPbGJ4MU5NSHBTRjRXQ0FkSF91M3B4RkU2UU94MXJGdW1Uc0FSblhkLWJCeElUQnVqMkpoZEZ2TkVlWl9sNXpNam9jT2ZBSEhCeEJWQ25IaThyUjFV0gGoAUFVX3lxTFBib1gtRUxlaTRHZGp6MDZHZXI2ZDhjQlFvdmM0NGlKeDk4Y3JSNTM4dlRoRWYyODYyaHhHOVZVR1dUWnR6N2lZc1E1ZlBUQ3loQmtXanJPeTNBUXBKQ3ZxTTNMWEpPZ2xkVHd2N1d2MGdEaWpaLWpyM2VpZDNxY25KSjNUTGNJYzlrUER3WHdsblkwQmJxbzNvQTNTOU5KdUdvalVkMXg0Nw?oc=5",
+     "title": "Liverpool vs Arsenal: Premier League – Predictions, news, teams, lineups - Al Jazeera",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "c6d8897468353686",
+     "published": "2026-10-31T09:50+00:00",
+     "text": "- Liverpool vs Arsenal: Premier League – Predictions, news, teams, lineups Al Jazeera\n- Arsenal XI vs Liverpool – Predicted lineup and team news Yahoo Sports\n- Liverpool vs Arsenal Prediction, Pick, Premier League Odds Yahoo Sports\n- Arteta can take inspiration from George Graham to expunge painful Anfield memories The Guardian\n- Liverpool vs. Arsenal: Preview, Predictions and Lineups Sports Illustrated"
     }
    ]
   },
@@ -3702,39 +3826,6 @@
      "id": "0ccde8dacef0179f",
      "published": "2026-11-01T14:22+00:00",
      "text": "While there is new content being released to Netflix on a weekly basis, there are some movies and TV shows that cut through to become sensations. This includes dramatic shows like Squid Game, a Korean-language drama that took the world by storm. Movie-wise, some of its most successful films in recent years have including conspiracy thrillers like Carry-On, or last year's family-friendly animated sensation KPop Demon Hunters. It takes a lot for a Netflix title to set records for streaming, but those that come out on top say a lot about audiences' interests.\nThe current buzzworthy movie on Netflix is Collision Course. Like many of the platform's previous hit movies (Troll and Under Paris being the other big ones), this is a non-English-language film, the majority of it being in Spanish. Collision Course is a crime-thriller about a group of robbers that take over a Madrid bank during a major economic crisis, which subsequently triggers a battle for survival where the stakes could not be higher. The Spanish-language feature is helmed by Daniel Sánchez Arévalo, and features a leading cast of Laia Costa, Karra Elejalde, Tamar Novas, and Luis Zahera.\nCollision Course Is Netflix's #1 Movie In The World\nNow, just two days after its October 30 release on the platform, Collision Course has become a huge success on Netflix. The movie has opened to become the no. 1 film in the world, according to recent streaming data. This includes particular success across Spanish-speaking regions including Argentina, Costa Rica, Colombia, and Spain, all of which currently have Collision Course as their no.1 movie. The film also reached no. 3 status in the United States, and is on top 5 lists globally.\nThe movie is not popular enough yet to have amassed a Rotten Tomatoes score, but it is clear that audiences are responding positively, at least in their interest. It is too early to reach Netflix's list for their weekly Tudum rankings, but at this point it seems certain that Collision Course will be towards the top of the lists for the platform, in many markets.\nCollision Course Is A Perfect Money Heist Replacement\nCollision Course is an appealing title to fans of Netflix's popular Spanish-language series Money Heist. This series, now a multi-show franchise, also involves bank robbery in high-stakes situations. The show was a big hit when originally running on Netflix, and will likely have a lot of crossover viewership with fans of Collision Course, making the movie a great one for such fans to check out."
-    }
-   ]
-  },
-  {
-   "id": "c0747ff0d71",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Google's AI satellite sends a very expensive haiku to Earth",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Register",
-     "trust": 2,
-     "url": "https://theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-     "title": "Google's AI satellite sends a very expensive haiku to Earth",
-     "lang": "en",
-     "extra": {},
-     "id": "0747ff0d7149d6f2",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite.\nThe company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to \"Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you.\"\nTravis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its \"Hello World\" milestone by sending an inference response from orbit.\n\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space,\" wrote Beals in a blog post.\nAnd as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink:\nBlue marble below,\nData streams in silent grace,\nStarlight feeds my core. ✨\nThose roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs.\nAdd in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku.\nAccording to Google's calculations, if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year).\nGoogle predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening.\nAfter the haiku, Beals said, \"we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems.\" Next up: tests for evaluating how TPUs perform under thermal stress and radiation.\nGoogle has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam.\nThe system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si).\n\"For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second,\" Google researchers said in a paper published earlier this month.\n\"While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy of system-level mitigations, requires further study.\"\nIndeed, the study will continue. Next year, the plan is to test a pair of interconnected satellites. Rather than lofting large satellites into orbit, Google anticipates sending a constellation of many smaller satellites that communicate with one another. ®"
-    },
-    {
-     "source": "The Register",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5",
-     "title": "Google's AI satellite sends a very expensive haiku to Earth",
-     "lang": "en",
-     "extra": {},
-     "id": "cc2c009a3e8d417f",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Google's AI satellite sends a very expensive haiku to Earth\nThe Register"
     }
    ]
   },
@@ -4096,6 +4187,41 @@
      "id": "b0b3a5832de3a942",
      "published": "2026-11-01T09:10+00:00",
      "text": "Raphinha and Lamine Yamal have each struck twice as Barcelona have thrashed Alaves 6-1 to reclaim their La Liga lead and get back on track after two damaging defeats in the past week.\nEarlier, Atletico Madrid, in second, earned a solid 2-0 win at Levante, but Barca moved two points clear of the Rojiblancos by routing the Basque visitors at Camp Nou on Saturday.\nRecommended Stories\nlist of 4 items- list 1 of 4Coventry win leaves Man United on brink of Premier League relegation zone\n- list 2 of 4‘Unacceptable insults’: Aston Villa threaten to sue Jamie Carragher\n- list 3 of 4Man United travel to Chelsea with Carrick’s job on the line – all to know\n- list 4 of 4AFCON returns to 2-year cycle after CAF reverses quadrennial decision\nStill stinging after a Champions League defeat by Paris Saint-Germain and then last weekend’s La Liga home El Clasico loss against rivals Real Madrid, Hansi Flick’s side found their groove once more on Saturday.\nRaphinha netted twice in the first half on either side of a Fermin Lopez strike, and Yamal found the net just before the interval.\nThe teenage winger netted again midway through the second half, and substitute Anthony Gordon chipped home Barca’s sixth before Mariano Diaz pulled one back for Alaves.\n“It was a hard week for us. There was no better place than Camp Nou in front of our fans [to bounce back],” Lopez told Movistar.\n“They make the difference, Lamine and Raphinha. With them, we will achieve big things.”\nThere was a minute of silence at the start of each of the day’s matches in memory of the 69 people killed on Wednesday in a train crash in the province of Toledo.\nBarcelona host Aston Villa in the Champions League on Tuesday and travel to face Atletico next Sunday in a table-topping La Liga clash.\nAlaves have now gone seven matches without a win but are 10th.\n“We have to turn the page quickly,” midfielder Ander Guevara said. “We don’t need to sound the alarms. We know we’re on a bad run, but we’re a mature and humble team.”\nSeventh win in a row for Atletico\nEarlier in Valencia, Diego Simeone’s Atletico had temporarily climbed a point clear of the Catalan giants with goals from Alejandro Grimaldo and Giuliano Simeone against Levante.\nAtletico recorded a seventh consecutive league win to continue their strong form and put pressure on the reigning champions.\n“I’m very happy with the team’s work,” coach Simeone told Movistar.\n“We’re very far from the end of the season. … We’ll keep going game by game.”\nAlex Baena, the visitors’ main creative outlet, set up both goals as Diego Simeone recorded his 344th La Liga win at the helm of Atletico, matching the club’s record set by Luis Aragones.\n“I don’t feel it much as mine, but it belongs to my players, everyone who has been with me for so many years,” said Simeone, who started coaching Atletico in 2011.\nAmong Sunday’s fixtures, Jose Mourinho’s Real Madrid, in third, will visit Racing Santander."
+    }
+   ]
+  },
+  {
+   "id": "ca5b7e71797",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Xbox Game Pass Officially Adds One of the Most Disturbing Sci-Fi Games of All Time",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Collider",
+     "trust": 2,
+     "url": "https://collider.com/mouthwashing-xbox-game-pass-release",
+     "title": "Xbox Game Pass Officially Adds One of the Most Disturbing Sci-Fi Games of All Time",
+     "lang": "en",
+     "extra": {},
+     "id": "a5b7e71797c04a4f",
+     "published": "2026-10-31T23:00+00:00",
+     "text": "Mouthwashing makes spending time with five people aboard a spaceship sound like a threat, which is exactly what it becomes. The crew of the Tulpar has survived a crash, but rescue is not coming, supplies are running out, and they are stuck with one another. Anyone curious about the game behind Karyn Kusama’s upcoming movie adaptation now has another way to find out why it has made such an impression."
+    },
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/xbox-game-pass-gravhounds-november-2",
+     "title": "Xbox Game Pass Announces New Free Game For November 2",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/xbox-game-pass-games-leaving-august-31.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "ca8a14e5f860dbe2",
+     "published": "2026-11-01T09:00+00:00",
+     "text": "Xbox Game Pass has been through the wringer. It got a price increase, then a price drop, and now fans are confused about what Xbox will look like a year from now, after layoffs and studio divestitures. Even PlayStation has crept up on them with PlayStation Plus and the Game Catalog, directly challenging Xbox Game Pass.\nThat said, plenty of great games are still on the service, and more are coming soon. Once November 2 hits, you'll want to assemble a squad. If you can't, there's still plenty of room for you in this upcoming free game that's turning heads [via Pure Xbox].\nSince Gravhounds supports solo play (or a crew of up to four), you can approach it in a lot of different ways. If you bring more people, you can utilize the more unique aspects of your Gravhounds squad, and you'll have the ability to fling objects across the battlefield to your team, while building turrets, generators, and fabricators to create a defensive position.\nHere's what the developer shares about what to expect from Gravhounds:\nGravhounds is a 1–4 player co-op action builder. Drop into hostile planets as a pack, build and defend your base in physics-driven mayhem, and extract with everything you can carry before you become alien chow! The longer you stay, the greater the danger... and the rewards.\nIt's also going for a Helldivers-type theme, noting that your player characters (Luna, Zane, Dozer, Selene, Finn) are \"loyal, obedient, and expendable.\" Never mind that they're anthropomorphic dogs who fit that description to a degree anyway.\n. Pipelines can be extended through enemy zones, adding a strategic layer reminiscent of old-school RTS titles with limited base-building and upkeep. Upgrades keep things from getting rote, and \"no two shifts play the same,\" encouraging you to discover the variety the game offers through a unique crew and repeated play.\nMovement is a huge part of the game, with rail-riding and dashing ensuring quick locomotion, while unlocks are king: new Gravhounds, weapons, and upgrade paths come from repeated runs as you try to thin the swarm. The ability to unlock new characters is easily the most appealing element of the game for me.\nIf you're curious about the game loop, the studio has shared what you'll be doing with each run: \"Jobs might involve recovering alien technology, extracting valuable resources, or establishing infrastructure somewhere the local wildlife would strongly prefer you didn’t. As the operation expands, so do your problems. The longer you stay and the harder you push, the more dangerous the planet becomes. Soon you’re repairing defenses, hauling resources, rescuing somebody who wandered off alone, and deciding whether you have time to grab one more thing before leaving. Good judgment tends to deteriorate as the shift progresses.\"\nIf you have Xbox Game Pass, wrangle up three friends and see whether Gravhounds is worth playing past the initial honeymoon week. With any luck, Xbox will have another winner on their hands.\n- Number of Devices Concurrently\n- Standard subscription plan allows two accounts playing at once, with four accounts playing at once on Friends & Family plan\n- Highest Resolution\n- 1440p streaming\n- Number of Accounts\n- ~35 million subscribers\n- Compatibility\n- Xbox Series X|S, PC, ROG Xbox Ally, Android, iOS, Samsung & LG TVs, Meta Quest, Web Browser\n- Price Per Month\n- Essential $9.99 | Premium $14.99 | Ultimate $29.99\n- Price per year\n- 12-month membership codes only available at certain retailers"
     }
    ]
   },
@@ -4719,35 +4845,37 @@
    ]
   },
   {
-   "id": "c5bf14d992a",
+   "id": "ca5c7e41cb8",
    "kind": "news",
    "score": 12.0,
    "sensitive": false,
    "distinct_sites": 2,
-   "title_hint": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm — Reaper aims to grab the $800,000 Boom Prize",
+   "title_hint": "تأسيس البنك الأفريقي للطاقة برأس مال 5 مليارات دولار",
    "official_image": null,
    "sources": [
     {
-     "source": "Tom's Hardware",
+     "source": "Al Jazeera Arabic",
      "trust": 2,
-     "url": "https://tomshardware.com/tech-industry/drones/college-student-unofficially-breaks-world-record-for-fastest-jet-powered-drone-with-491-mph-aircraft-built-in-his-dorm-reaper-aims-to-grab-the-usd800-000-boom-prize",
-     "title": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm — Reaper aims to grab the $800,000 Boom Prize",
-     "lang": "en",
+     "url": "https://aljazeera.net/ebusiness/2026/11/1/%d8%aa%d8%a3%d8%b3%d9%8a%d8%b3-%d8%a7%d9%84%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a-%d9%84%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%a8%d8%b1%d8%a3%d8%b3-%d9%85%d8%a7%d9%84-5?traffic_source=rss",
+     "title": "تأسيس البنك الأفريقي للطاقة برأس مال 5 مليارات دولار",
+     "lang": "ar",
      "extra": {},
-     "id": "5bf14d992a160b0b",
-     "published": "2026-11-01T11:00+00:00",
-     "text": "<p>Jhet Borja is a writer with various knowledge in his arsenal. As a child, he lived above an electronics repair shop and visited every afternoon and observed how radios and TVs were assembled. In highschool he became his friends and family's PC builder, consultant, and tech support. Building a PC and playing Counter-Strike all night would be the itinerary for a sleepover. He's since learned all sorts of things on his own, from CAD and mechanical design, woodworking, classic calligraphy, photography, working on cars, leather craft, and getting an inkjet printer to work. Jhet has previously covered leather articles, but has since transitioned to tech and has written for MakeUseOf and XDA.</p>"
+     "id": "a5c7e41cb8273d4c",
+     "published": "2026-11-01T11:12+00:00",
+     "text": "البنك الأفريقي للتصدير والاستيراد يعلن أنه أسس رسميا، بالتعاون مع منظمة منتجي البترول الأفارقة، البنك الأفريقي للطاقة برأس مال قدره 5 مليارات دولار."
     },
     {
-     "source": "Reddit tech & AI",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xl1na4/college_student_unofficially_breaks_world_record",
-     "title": "College student unofficially breaks world record for fastest jet-powered drone with 491 mph aircraft built in his dorm — Reaper aims to grab the $800,000 Boom Prize",
-     "lang": "en",
-     "extra": {},
-     "id": "2c58b79f1de21cb9",
-     "published": "2026-11-01T12:17+00:00",
-     "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
+     "source": "El Khabar",
+     "trust": 2,
+     "url": "https://elkhabar.com/economie/بنك-إفريقي-جديد-برأسمال-5-مليارات-دولار-ما-مهامه-275869",
+     "title": "بنك إفريقي جديد برأسمال 5 مليارات دولار.. ما مهامه؟",
+     "lang": "ar",
+     "extra": {
+      "page_image": "https://www.elkhabar.com/storage/images/article/g_b1d1e0ec59224f6dbec14411fdd71bbf.webp"
+     },
+     "id": "d00053b3e20b1be1",
+     "published": "2026-11-01T11:16+00:00",
+     "text": "أعلن كل من البنك الإفريقي للاستيراد والتصدير (أفريكسيم بنك) ومنظمة منتجي النفط الأفارقة عن إنشاء بنك الطاقة الإفريقي، وهذا خلال الجمعية العامة التأسيسية لهذه المؤسسة المالية القارية الجديدة، المنعقدة أمس السبت بأبوجا (نيجيريا)، حسبما أفادت به المنظمة عبر موقعها الإلكتروني.\nوأوضح بيان المنظمة، اليوم، أن بنك الطاقة الإفريقي، الذي يتمتع برأسمال مرخص قدره 5 مليارات دولار، \"سيدعم المشاريع التي تشمل كامل سلسلة القيمة في قطاع الطاقة، بدءا من الاستكشاف والإنتاج وصولا إلى النقل والمعالجة والتكرير والتوزيع\"، مشيرا إلى أن الأمر يتعلق باستثمارات \"تهدف إلى تعزيز قدرات الإنتاج، وتقليص التبعية للواردات من المنتجات النفطية، وترقية التجارة البينية الإفريقية للسلع الطاقوية\".\nكما أوضحت المنظمة أن بنك الطاقة الإفريقي، الذي تم إنشاؤه بالشراكة بين أفريكسيم بنك ومنظمة منتجي النفط الأفارقة، كُلف أيضا بترقية المشاركة الإفريقية الفعالة في قطاع الطاقة بالقارة، بما يضمن أن \"يصنع الأفارقة مستقبل الطاقة في إفريقيا\".\nوجرت أشغال الجمعية العامة لبنك الطاقة الإفريقي بحضور وزير الدولة النيجيري للموارد النفطية، هاينكن لوكبوبيري، ورئيس مجلس إدارة أفريكسيم بنك، جورج إيلومبي، ووزير المناجم والبترول والطاقة الإيفواري، مامادو سانغافوا كوليبالي، إلى جانب الأمين العام لمنظمة منتجي النفط الأفارقة، الجزائري فريد غزالي.\nوأكد البيان أن \"إنشاء بنك الطاقة الإفريقي يجدد التأكيد على عزم الحكومات الإفريقية على ضمان مستقبلها الطاقوي بنفسها. وتعكس هذه المبادرة الاعتراف بضرورة القيام باستثمارات هامة في إنتاج الطاقة ونقلها، من أجل تسريع النمو الصناعي والاستفادة من الفرص الهائلة التي تتيحها التكنولوجيات الناشئة، لاسيما الذكاء الاصطناعي\".\nوبالنسبة لمنظمة منتجي النفط الأفارقة، فإن إنشاء هذا البنك القاري يأتي في وقت تقدر فيه احتياجات القارة من الاستثمارات في مجال الطاقة بـ200 مليار دولار، وذلك لسد العجز في تمويل الاستثمارات في قطاع المحروقات، مع دعم انتقال طاقوي عادل بالنسبة للبلدان الإفريقية.\nوأضاف المصدر ذاته، أن بنك الطاقة الإفريقي \"سيعمل كمؤسسة مالية مستقلة وفوق وطنية ذات طابع إفريقي شامل، وسيسعى إلى استقطاب استثمارات الحكومات والشركات النفطية الوطنية والمؤسسات المالية والمستثمرين الخواص، بهدف دعم تطوير قطاع الطاقة في القارة\".\nكما صادقت الجمعية العامة الأولى، من جهة أخرى، على تعيين أول رئيس للبنك، حلمي غازي، وتشكيل أول مجلس إدارة له، والذي يضم أعضاء من القطاعين العام والخاص، إلى جانب مؤسسات سياسية بارزة من مختلف أنحاء القارة، حسبما أضاف المصدر ذاته.\nللتذكير، فقد تأسست منظمة منتجي النفط الأفارقة سنة 1987 بمبادرة من الجزائر وعدد من الدول الإفريقية المنتجة للنفط. وتشكل هذه المنظمة، التي تضم حاليا 18 دولة عضوا، إطارا مؤسساتيا يهدف إلى تنسيق السياسات النفطية بين الدول الأعضاء وتعزيز التعاون والتكامل في مجالات الاستكشاف والإنتاج والتكرير ونقل التكنولوجيا، فضلا عن دعم البحث العلمي والتكوين وتطوير الكفاءات.\nأما البنك الإفريقي للاستيراد والتصدير فيعد مؤسسة مالية متعددة الأطراف ذات طابع إفريقي شامل، تعمل على تمويل وترقية التجارة البينية الإفريقية والمبادلات التجارية بين إفريقيا وبقية دول العالم، مع دعم التنمية الاقتصادية والتكامل الإقليمي للقارة.\nوإلى جانب التمويلات والضمانات وخطوط الائتمان ومختلف الأدوات المالية التي يوفرها، يضطلع البنك أيضا بدور هام في تنفيذ منطقة التجارة الحرة القارية الإفريقية.\nالتعليقات\nشارك تسجيل الدخول\nالخروج\nالتعليقات مغلقة لهذا المحتوى"
     }
    ]
   },
@@ -4787,41 +4915,6 @@
    ]
   },
   {
-   "id": "cd00053b3e2",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "بنك إفريقي جديد برأسمال 5 مليارات دولار.. ما مهامه؟",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "El Khabar",
-     "trust": 2,
-     "url": "https://elkhabar.com/economie/بنك-إفريقي-جديد-برأسمال-5-مليارات-دولار-ما-مهامه-275869",
-     "title": "بنك إفريقي جديد برأسمال 5 مليارات دولار.. ما مهامه؟",
-     "lang": "ar",
-     "extra": {
-      "page_image": "https://www.elkhabar.com/storage/images/article/g_b1d1e0ec59224f6dbec14411fdd71bbf.webp"
-     },
-     "id": "d00053b3e20b1be1",
-     "published": "2026-11-01T11:16+00:00",
-     "text": "أعلن كل من البنك الإفريقي للاستيراد والتصدير (أفريكسيم بنك) ومنظمة منتجي النفط الأفارقة عن إنشاء بنك الطاقة الإفريقي، وهذا خلال الجمعية العامة التأسيسية لهذه المؤسسة المالية القارية الجديدة، المنعقدة أمس السبت بأبوجا (نيجيريا)، حسبما أفادت به المنظمة عبر موقعها الإلكتروني.\nوأوضح بيان المنظمة، اليوم، أن بنك الطاقة الإفريقي، الذي يتمتع برأسمال مرخص قدره 5 مليارات دولار، \"سيدعم المشاريع التي تشمل كامل سلسلة القيمة في قطاع الطاقة، بدءا من الاستكشاف والإنتاج وصولا إلى النقل والمعالجة والتكرير والتوزيع\"، مشيرا إلى أن الأمر يتعلق باستثمارات \"تهدف إلى تعزيز قدرات الإنتاج، وتقليص التبعية للواردات من المنتجات النفطية، وترقية التجارة البينية الإفريقية للسلع الطاقوية\".\nكما أوضحت المنظمة أن بنك الطاقة الإفريقي، الذي تم إنشاؤه بالشراكة بين أفريكسيم بنك ومنظمة منتجي النفط الأفارقة، كُلف أيضا بترقية المشاركة الإفريقية الفعالة في قطاع الطاقة بالقارة، بما يضمن أن \"يصنع الأفارقة مستقبل الطاقة في إفريقيا\".\nوجرت أشغال الجمعية العامة لبنك الطاقة الإفريقي بحضور وزير الدولة النيجيري للموارد النفطية، هاينكن لوكبوبيري، ورئيس مجلس إدارة أفريكسيم بنك، جورج إيلومبي، ووزير المناجم والبترول والطاقة الإيفواري، مامادو سانغافوا كوليبالي، إلى جانب الأمين العام لمنظمة منتجي النفط الأفارقة، الجزائري فريد غزالي.\nوأكد البيان أن \"إنشاء بنك الطاقة الإفريقي يجدد التأكيد على عزم الحكومات الإفريقية على ضمان مستقبلها الطاقوي بنفسها. وتعكس هذه المبادرة الاعتراف بضرورة القيام باستثمارات هامة في إنتاج الطاقة ونقلها، من أجل تسريع النمو الصناعي والاستفادة من الفرص الهائلة التي تتيحها التكنولوجيات الناشئة، لاسيما الذكاء الاصطناعي\".\nوبالنسبة لمنظمة منتجي النفط الأفارقة، فإن إنشاء هذا البنك القاري يأتي في وقت تقدر فيه احتياجات القارة من الاستثمارات في مجال الطاقة بـ200 مليار دولار، وذلك لسد العجز في تمويل الاستثمارات في قطاع المحروقات، مع دعم انتقال طاقوي عادل بالنسبة للبلدان الإفريقية.\nوأضاف المصدر ذاته، أن بنك الطاقة الإفريقي \"سيعمل كمؤسسة مالية مستقلة وفوق وطنية ذات طابع إفريقي شامل، وسيسعى إلى استقطاب استثمارات الحكومات والشركات النفطية الوطنية والمؤسسات المالية والمستثمرين الخواص، بهدف دعم تطوير قطاع الطاقة في القارة\".\nكما صادقت الجمعية العامة الأولى، من جهة أخرى، على تعيين أول رئيس للبنك، حلمي غازي، وتشكيل أول مجلس إدارة له، والذي يضم أعضاء من القطاعين العام والخاص، إلى جانب مؤسسات سياسية بارزة من مختلف أنحاء القارة، حسبما أضاف المصدر ذاته.\nللتذكير، فقد تأسست منظمة منتجي النفط الأفارقة سنة 1987 بمبادرة من الجزائر وعدد من الدول الإفريقية المنتجة للنفط. وتشكل هذه المنظمة، التي تضم حاليا 18 دولة عضوا، إطارا مؤسساتيا يهدف إلى تنسيق السياسات النفطية بين الدول الأعضاء وتعزيز التعاون والتكامل في مجالات الاستكشاف والإنتاج والتكرير ونقل التكنولوجيا، فضلا عن دعم البحث العلمي والتكوين وتطوير الكفاءات.\nأما البنك الإفريقي للاستيراد والتصدير فيعد مؤسسة مالية متعددة الأطراف ذات طابع إفريقي شامل، تعمل على تمويل وترقية التجارة البينية الإفريقية والمبادلات التجارية بين إفريقيا وبقية دول العالم، مع دعم التنمية الاقتصادية والتكامل الإقليمي للقارة.\nوإلى جانب التمويلات والضمانات وخطوط الائتمان ومختلف الأدوات المالية التي يوفرها، يضطلع البنك أيضا بدور هام في تنفيذ منطقة التجارة الحرة القارية الإفريقية.\nالتعليقات\nشارك تسجيل الدخول\nالخروج\nالتعليقات مغلقة لهذا المحتوى"
-    },
-    {
-     "source": "Echorouk",
-     "trust": 2,
-     "url": "https://echoroukonline.com/%d8%a8%d8%b1%d8%a3%d8%b3%d9%85%d8%a7%d9%84-5-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%b7%d8%a7",
-     "title": "برأسمال 5 مليارات دولار.. إنشاء بنك الطاقة الإفريقي",
-     "lang": "ar",
-     "extra": {},
-     "id": "84f8972a3579abdb",
-     "published": "2026-11-01T12:17+00:00",
-     "text": "أُعلن، أمس السبت بالعاصمة النيجيرية أبوجا، عن إنشاء بنك الطاقة الإفريقي، بمبادرة مشتركة من البنك الإفريقي للاستيراد والتصدير “أفريكسيم بنك” ومنظمة منتجي النفط الأفارقة، وذلك خلال الجمعية العامة التأسيسية لهذه المؤسسة المالية القارية الجديدة، التي تهدف إلى تمويل مشاريع الطاقة وتعزيز الاستثمارات في القطاع عبر القارة.\nوأفادت منظمة منتجي النفط الأفارقة، في بيان نشرته عبر موقعها الإلكتروني، بأن البنك الجديد يتمتع برأسمال مرخص قدره 5 مليارات دولار، وسيعمل على دعم المشاريع التي تغطي مختلف مراحل سلسلة القيمة في قطاع الطاقة، من الاستكشاف والإنتاج إلى النقل والمعالجة والتكرير والتوزيع.\nشاهد المحتوى كاملا على الشروق أونلاين\nThe post برأسمال 5 مليارات دولار.. إنشاء بنك الطاقة الإفريقي appeared first on الشروق أونلاين."
-    }
-   ]
-  },
-  {
    "id": "c693d09ea22",
    "kind": "news",
    "score": 12.0,
@@ -4857,94 +4950,194 @@
    ]
   },
   {
-   "id": "cc87b88ab36",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
-     "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-2560-80.jpg"
-     },
-     "id": "c87b88ab36416c10",
-     "published": "2026-11-01T13:00+00:00",
-     "text": "NASA's Swift space telescope is expected to crash back to Earth in the next few days.\nThe Neil Gehrels Swift Observatory will reenter Earth's atmosphere in an uncontrolled fashion, after a robotic rescue mission failed to boost the scope to a higher orbit.\nSwift launched to Earth orbit back in November 2004. Over the next two decades, it studied gamma-ray bursts — the most powerful explosions in the universe — and other cosmic objects and events using a trio of telescopes: a Burst Alert Telescope (BAT), an X-Ray Telescope (XRT), and its Ultraviolet/Optical Telescope (UVOT).\nOn Oct. 20, NASA reported that Swift's orbit had decayed to 171 miles (275 kilometers) above Earth and that the roughly 3,300-pound (1,500-kilogram) observatory was no longer able to compensate for the effects of the increased drag. It entered safe mode, followed by Swift's operations team at Pennsylvania State University sending a command to the spacecraft that effectively ended its operations ahead of its destructive and fiery nose-dive.\nIt's unclear at the moment exactly when and where Swift will plunge to Earth. But researchers definitely have their eyes peeled.\nA surge of reentries\nIn physics fashion, for the most part, what goes up must come down — with more space hardware to follow.\nThanks to the growing surge in low Earth orbit constellations and technology refresh cycles, there are 10 times more objects reentering per year than there were just five years ago, said Darren McKnight, a senior technical fellow at LeoLabs, a company that keeps a watchful eye on what's going on above our planet.\n\"It is unfortunate that Swift was not 'reorbited,' but from a reentry hazard perspective it is a small portion of the stuff coming back in. The rub on this, of course, is that, while many people bemoan the reentry of more objects, I am much more upset about the rapid rate of abandoning massive objects above 400 miles [644 km],\" McKnight told Space.com.\nSwift will likely disintegrate sufficiently upon reentry to not pose a ground casualty hazard, McKnight said. However, the internal workings of the observatory's X-ray and optical telescope might survive, McKnight said.\nWhere in the world?\nSimilar in view is Dean Sladen, a quality manager and aerospace engineer at the U.K. precision-components supplier Accu Components.\n\"Once Swift falls to about 120 kilometers [75 miles], the end usually comes within a few minutes. The air in front of it heats up so much that the satellite will start to glow. Solar panels and antennas are typically the first to tear off, and at around 78 kilometers [48 miles], roughly eight times the height of a passing airliner, the main body breaks apart. Most of it will melt and vaporize,\" said Sladen.\nWhile it isn't yet known exactly where any surviving pieces will land, Sladen noted that Swift's orbit only passes over a band within about 21 degrees of the equator.\n\"That band is mostly ocean, though it also crosses populated parts of Africa, South and Southeast Asia and Latin America,\" he said.\nSurviving leftovers\nAs for which parts are most likely to survive and reach ocean or ground, Sladen pointed out that most of Swift's body is aluminum, wiring and electronics, which melt away early in the reentry process. What reaches Earth is usually small, dense and heat-resistant, such as titanium, steel and glass.\n\"The most likely survivors are its six heavy reaction wheels, the spinning flywheels it used to aim itself, along with tougher telescope parts such a"
-    }
-   ]
-  },
-  {
-   "id": "c0e8ce261ec",
+   "id": "c4b21f39d11",
    "kind": "news",
    "score": 12.0,
    "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Marvel Announces Official Name for Spider-Man's New Superpower",
+   "distinct_sites": 2,
+   "title_hint": "England out of World Cup after Tonga edge out Samoa",
    "official_image": null,
    "sources": [
     {
-     "source": "Screen Rant",
+     "source": "Sky Sports Football",
      "trust": 2,
-     "url": "https://screenrant.com/spider-man-new-superpower-name",
-     "title": "Marvel Announces Official Name for Spider-Man's New Superpower",
+     "url": "https://skysports.com/rugby-league/news/12040/13606600/rugby-league-world-cup-englands-elimination-confirmed-after-tonga-beat-samoa-in-the-final-group-match",
+     "title": "England out of World Cup after Tonga edge out Samoa",
      "lang": "en",
      "extra": {
-      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/08/tom-holland-as-spiderman-in-brand-new-day.jpg?w=1600&h=900&fit=crop"
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-tonga-rugby-league_7393725.jpg?20261101113246"
      },
-     "id": "0e8ce261ecec5569",
-     "published": "2026-11-01T13:21+00:00",
-     "text": "Spider-Man's superpowers just got a major upgrade, as the Marvel hero celebrates a historic moment in his long heroic career. The Webslinger's power set is iconic, so it is serious business to try to elaborate on that, but lately, the franchise has introduced some exciting new evolutions to the hero's Spider-Sense. His new level of battlefield awareness is just one more step in the direction of Spider-Man leveling up as one of Marvel's most powerful superheroes.\nPeter Parker has a preternatural sense of danger. He can sense an enemy sneaking up behind him, or a high-speed projectile launched his way. It is essential to Peter's survival and success as a superhero. That has always been engrained in the Spider-Man mythos. At times, Marvel has explored what would happen if Spider-Man lost his Spider-Sense, but now it is trying the opposite.\nDuring a climactic fight against his newest nemesis, the villain Ravage, Peter's Spider-Sense, which has been getting more refined lately, finally gets its official new name in Marvel canon.\nWarning! Spoilers for Amazing Spider-Man #1002 ahead!\nMarvel Officially Names Spider-Man's New Upgraded Spider-Sense\nThe milestone Amazing Spider-Man #1000 came and went without resolving the ongoing conflict between Spider-Man and Ravage, a new Marvel villain with a shocking personal connection to Peter Parker. Issue #1002 is mostly an extended fight sequence between the two, though by the end, it leaves that plot thread still dangling. It seems clear Spider-Man's writers intend for him to be a Green Goblin-level recurring antagonist.\nThe biggest takeaway from the issue comes in the narration. Spider-Man's new ability to effectively lets him fight on \"autopilot.\" Instead of his ulterior, subconscious Spider-Sense warning his conscious mind where the next blow is coming from during battle, he can give into this Sense entirely and fight instinctually. In Amazing Spider-Man #1002, Peter finds himself pushing back against this new \"Ultra Spider-Sense\" at a pivotal moment.\nPeter has to \"break the instinctual flow of this newfound strength...\" It is a telling moment, with the narration stating that \"the man has regained control\" before unconsciously doing something he would later regret. Peter Parker almost became more spider than man, and realizing he is more than just his combat instincts was actually the big heroic beat of this issue. That said, this is certainly not the last readers hear of this \"Ultra Spider-Sense.\"\nAs An Ambitious New Era Starts For Spider-Man, His Upraded Powers Should Play A Pivotal Role\nSpider-Man is taking a big leap forward in Marvel lore right now. That might be hard to fathom for the most recognizable Marvel hero of all time, with more than sixty years of lore to his name. It is true, though. Peter Parker is poised to become the leader of a new Avengers roster, a first in his career, and as a result, he's going to have to stop thinking less locally, and more globally, as a superhero. Literally and figuratively. He's going to have to fight bigger battles against stronger enemies. He is going to need his \"Ultra Spider-Sense.\"\nSpider-Man has to evolve in multiple ways to be worthy of leading Earth's Mightiest Heroes. The point Amazing Spider-Man #1002 makes is that Peter Parker can't lose himself in that process. He still has to be the hero that is willing to make choices others won't. Even if those choices are messy, like letting Ravage walk away to fight another day after their knock-down, dra"
-    }
-   ]
-  },
-  {
-   "id": "c2a5acbfd9f",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Nebex CEO: NASA wants a commercial space economy. Here’s how it can enable one",
-   "official_image": null,
-   "sources": [
+     "id": "4b21f39d11632fd0",
+     "published": "2026-11-01T11:45+00:00",
+     "text": "Rugby League World Cup: England's elimination confirmed after Tonga beat Samoa in the final group match\nEngland suffer historic group-stage exit at the Rugby League World Cup with Tonga unable to defeat Samoa by more than 46 points; Tonga will play New Zealand in the last four, while Samoa will face Australia in a repeat of the 2022 final\nSunday 1 November 2026 12:00, UK\nEngland's elimination from the World Cup was confirmed after Tonga beat Samoa 20-18 in the final group match.\nEngland sealed a 34-12 victory against Papua New Guinea on Friday but needed to win by a big margin to give themselves a chance of leapfrogging Samoa in Pool B and C and advancing to the semi-finals on points difference.\nBrian McDermott's side's hopes rested on Tonga to win by more than 46 points to reach the last four for the seventh successive tournament.\n- Rugby League World Cup: Latest schedule, results, standings\n- Latest Rugby League World Cup headlines and reports\n- Get the latest Sky Sports deals or stream with no contract\nInstead they are on the plane home from Australasia despite winning two of their three matches.\nThe 30-12 defeat by Tonga in the opening match proved costly, with an 82-0 win over France leaving England with 68 points to make up on Samoa.\nThey failed to make significant enough inroads in the 32-10 win over Papua New Guinea.\nEnglish hopes briefly flickered when Tonga led 8-0, Robert Toia scoring the opening try after a near 50-metre sprint.\nWith Isaiya Katoa converting and then kicking a penalty, England just needed Tonga to score another 39 unanswered points to stay in the tournament.\nHowever, Brian To'o's try hauled Samoa back to 8-4 down at half-time.\nJojo Fifita put Tonga 14-4 ahead before To'o, Hamiso Tabuai-Fidow and Ronald Volkman edged Samoa into a two-point lead, only for Addin Fonua-Blake to win it for Tonga.\nTonga will play New Zealand in the last four, while Samoa will face Australia in a repeat of the 2022 final.\nIs the Rugby League World Cup format flawed?\nThe new tournament structure, which has been downsized from 16 teams to 10, came after Australia stepped in as hosts following France's withdrawal in 2023 for financial reasons.\nIt has effectively meant that each group game in Pool B and C has carried more jeopardy than before.\nThe tournament has two pools, one featuring four teams - Australia, New Zealand, Cook Islands and Fiji - and the other featuring six teams.\nEngland were drawn in the second group, Pool B and C, alongside Tonga, Samoa, Papua New Guinea, Lebanon and France.\nThe top two teams from each group qualify for the knockout rounds, and in the event of a tie, teams are judged on their head-to-head record before points difference.\nMcDermott's side were beaten in their first match against Tonga which put their hopes of qualifying in the balance, despite later thrashing France by 82 points in round two.\nSky Sports' Jon Wilkin said: \"Australia have done a great job to organise a tournament in such a short space of time, but it was fundamentally flawed, unfair in the extreme to the start.\n\"The actual competition structure is just diabolical. England were dealt an incredibly difficult task, because they essentially played their quarter-final in week one.\"\n\"England knew after their loss against Tonga that it was all going to be about points difference, and [qualifying] was going to be incredibly difficult,\" Wilkin said. \"I think the structure and the setup of the competition was done in short notice.\n\"I think the In"
+    },
     {
-     "source": "Fortune",
+     "source": "ABC Australia",
      "trust": 2,
-     "url": "https://fortune.com/2026/11/01/nasa-commercial-space-economy-iss-replacement-isaacman",
-     "title": "Nebex CEO: NASA wants a commercial space economy. Here’s how it can enable one",
+     "url": "https://abc.net.au/news/2026-11-01/samoa-tonga-world-cup-rugby-league-origin/107334272",
+     "title": "Tonga and Samoa can be State of Origin for the new century",
      "lang": "en",
      "extra": {},
-     "id": "2a5acbfd9f9c5a03",
-     "published": "2026-11-01T13:30+00:00",
-     "text": "In July, SpaceX stopped accepting new rideshare bookings beyond late 2028. In October, NASA released its request for proposals for commercial space stations to succeed the soon-to-be de-orbited International Space Station (ISS).\nTaken together, the ISS’s retirement and the squeeze on launch availability creates a real problem for many “new space” startups that built their venture business plans on continued cheap rides to orbit.\nWhile alternatives to SpaceX exist, they are limited and spotty: Rocket Lab’s Electron offers dedicated small-satellite launches, while ULA’s Vulcan and Blue Origin’s New Glenn serve larger payloads (although both are temporarily grounded: Vulcan since February and New Glenn since April). New competitors are advancing too: Isar Aerospace secured a launch contract with Planet, Stoke Space raised $1 billion and is targeting an initial launch in 2027, Rocket Lab’s larger Neutron rocket is expected to debut in 2027 as well, and Skyroot had a successful launch on its first attempt. But still, most, if not all, of these options remain unproven.\nStarship’s first orbital flight in September may eventually ease the overall launch bottleneck, but it’s not certain that the increased capacity will be made available to the third parties that are depending on it.\nFor a startup space economy that scaled around frequent, inexpensive rideshare slots from one company, the challenge now is how soon the alternatives can deliver dependable access to orbit at comparable scale. While developing new rockets and replacing the ISS present different operational hurdles, both run into the same underlying market gap: building for space is extraordinarily capital-intensive, and the industry lacks a discovery mechanism to turn existing global demand into the committed orders and upfront capital needed to bring new capacity online.\nGlobal government demand is not the issue. According to Space Foundation, governments spent roughly $141 billion last year, and budgets continue to accelerate. The main problem is pretending a self-sustaining commercial market exists when space companies are relying on the U.S. government to be the anchor tenant, effectively asking the American taxpayer to subsidize their venture-backed businesses.\nIn September, pushing back on a former NASA official who called for more agency-funded crew vehicles, NASA Administrator Jared Isaacman wrote: “You cannot simply slap the word ‘commercial’ on every problem or opportunity.” He was arguing that NASA can’t fill every gap in the market.\nI agree, and I’d go further: while global demand is there and is far outstripping available supply, the market itself needs to be nurtured. NASA has the procurement leverage to make that happen without footing the bill alone.\nI joined the space sector as an outsider from the tech and startup world in 2021, and over the next four years went on to close complex deals to send sovereign astronauts (from Italy, Sweden, Turkiye, India, Poland, Hungary, Saudi Arabia, and the UAE) to the International Space Station. I also closed deals with Fortune 100 companies to send everything from orbital compute and pharmaceutical research to in-space manufacturing payloads to orbit. This resulted in $1 billion in net new sovereign and commercial business, not tied to a U.S. government contract.\nThrough that experience, I learned firsthand that building a true commercial space economy is possible but requires significantly more market infrastructure and business"
+     "id": "b52938d363787c03",
+     "published": "2026-11-01T12:25+00:00",
+     "text": "The scale and spectacle of Tonga's Rugby League World Cup win over Samoa was not just an instant classic, it proved a demand for this clash that rugby league must find a way to supply."
     }
    ]
   },
   {
-   "id": "cc76af36807",
+   "id": "cca011de005",
    "kind": "news",
    "score": 12.0,
    "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "جوجل تتيح لمستخدمي Gemini المجانيين تعديل ملفات PDF المُنشأة مباشرة داخل المحادثات",
+   "distinct_sites": 2,
+   "title_hint": "إنشاء بنك الطاقة الإفريقي",
    "official_image": null,
    "sources": [
     {
-     "source": "Unlimit Tech",
+     "source": "Ennahar",
      "trust": 2,
-     "url": "https://unlimit-tech.com/2026/11/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%aa%d9%8a%d8%ad-%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a-gemini-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%86%d9%8a%d9%8a%d9%86-%d8%aa%d8%b9%d8%af%d9%8a%d9%84-%d9%85",
-     "title": "جوجل تتيح لمستخدمي Gemini المجانيين تعديل ملفات PDF المُنشأة مباشرة داخل المحادثات",
+     "url": "https://ennaharonline.com/%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d8%a9-%d8%a7%d9%84%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a",
+     "title": "إنشاء بنك الطاقة الإفريقي",
      "lang": "ar",
      "extra": {},
-     "id": "c76af368076a664a",
-     "published": "2026-11-01T14:00+00:00",
-     "text": "هذا الموضوع جوجل تتيح لمستخدمي Gemini المجانيين تعديل ملفات PDF المُنشأة مباشرة داخل المحادثات ظهر على التقنية بلا حدود.\nوأعلنت الشركة عن الميزة في 29 أكتوبر، مؤكدة إتاحتها لجميع المستخدمين وبمختلف اللغات التي يدعمها تطبيق Gemini، دون اشتراط الاشتراك في أي باقة مدفوعة. وقد ظهرت الميزة بالفعل في نسخة الويب للمستخدمين المجانيين، وفقًا لتجربة أُجريت في 1 نوفمبر.\nكيف يعمل محرر الملفات الجديد؟\nعندما يطلب المستخدم من Gemini إنشاء ملف، تظهر معاينة له أسفل رد الذكاء الاصطناعي مباشرة. ويمكنه النقر على النص لتعديله يدويًا، أو تحديد جزء معين وطلب إعادة صياغته أو طرح أسئلة حوله.\nكما يتيح زر العرض بملء الشاشة فتح الملف في واجهة تحرير أكبر، وبعد الانتهاء يمكن تصديره أو حفظه مباشرة على Google Drive.\nوتتوفر هذه الإمكانات أيضًا للحسابات المجانية، رغم أن جوجل قلّصت منذ 9 أكتوبر خيارات نماذج الذكاء الاصطناعي المتاحة لهذه الفئة من المستخدمين.\nوتوضح الشركة آلية الاستفادة من الميزة من خلال مثال عملي، يبدأ بتصوير ملاحظات المحاضرات المكتوبة بخط اليد، ثم مطالبة Gemini بتحويلها إلى ملف PDF منظم للمذاكرة، مع إمكانية تعديل محتواه يدويًا أو طلب إجراء تغييرات إضافية من الذكاء الاصطناعي.\nقيود على استخدام الميزة في الهواتف\nلكن، تختلف الإمكانات المتاحة على الهواتف عن نسخة الويب؛ إذ تقتصر إمكانية تعديل الملفات عبر تطبيقي Android وiOS على ملفات PDF فقط.\nأما تعديل مستندات Google Docs وجداول Google Sheets والعروض التقديمية وملفات Markdown وTXT والأكواد البرمجية، فيتطلب استخدام نسخة الويب عبر موقع gemini.google.com، ما يعني ضرورة الانتقال إلى الكمبيوتر عند الرغبة في تعديل عرض تقديمي مثلًا.\nوتشير أمثلة جوجل أيضًا إلى أن الميزة تستهدف الملفات التي ينشئها Gemini نفسه، ولذلك لا تُعد بديلًا كاملًا لبرامج تحرير PDF المتخصصة مثل Acrobat.\nتنبيه بشأن خصوصية الملفات\nورغم سهولة تعديل الملفات داخل المحادثات، فإن ذلك لا يغير طريقة تعامل جوجل مع بيانات المستخدمين؛ إذ تُعامل المعلومات الموجودة داخل هذه الملفات باعتبارها جزءًا من محادثات Gemini، وتخضع لسياسات الخصوصية نفسها.\nوتحذر جوجل المستخدمين من إدخال معلومات سرية لا يرغبون في اطلاع المراجعين عليها أو استخدامها لتحسين خدمات الشركة وتقنيات التعلم الآلي. كما قد تحتفظ الشركة بالمحادثات التي راجعها أشخاص لمدة تصل إلى 3 سنوات، حتى بعد حذف سجل النشاط.\nلذلك، يُفضل تجنب رفع المستندات المصرفية وطلبات التوظيف والخطابات الطبية والملفات التي تحتوي على بيانات شخصية حساسة.\nوفي المقابل، يمكن الاستفادة من المحرر في مهام أقل حساسية، مثل إعداد قوائم التسوق وتنظيم ملاحظات الدراسة وإنشاء المسودات الأولية للعروض التقديمية، دون الحاجة إلى التنقل بين تطبيقات متعددة.\nهذا الموضوع جوجل تتيح لمستخدمي Gemini المجانيين تعديل ملفات PDF المُنشأة مباشرة داخل المحادثات ظهر على التقنية بلا حدود."
+     "id": "ca011de005d87408",
+     "published": "2026-11-01T11:49+00:00",
+     "text": "أعلن كل من البنك الإفريقي للاستيراد والتصدير (أفريكسيم بنك) ومنظمة منتجي النفط الأفارقة عن إنشاء بنك الطاقة الإفريقي، وهذا خلال الجمعية العامة التأسيسية لهذه المؤسسة المالية القارية الجديدة، المنعقدة أمس السبت بأبوجا (نيجيريا).\nوأوضح بيان المنظمة أن بنك الطاقة الإفريقي، الذي يتمتع برأسمال مرخص قدره 5 مليارات دولار، “سيدعم المشاريع التي تشمل كامل سلسلة القيمة في قطاع الطاقة، بدءا من الاستكشاف والإنتاج وصولا إلى النقل والمعالجة والتكرير والتوزيع”، مشيرا إلى أن الأمر يتعلق باستثمارات “تهدف إلى تعزيز قدرات الإنتاج، وتقليص التبعية للواردات من المنتجات النفطية، وترقية التجارة البينية الإفريقية للسلع الطاقوية”.\nكما أوضحت المنظمة أن بنك الطاقة الإفريقي، الذي تم إنشاؤه بالشراكة بين أفريكسيم بنك ومنظمة منتجي النفط الأفارقة، كلف أيضا بترقية المشاركة الإفريقية الفعالة في قطاع الطاقة بالقارة، بما يضمن أن “يصنع الأفارقة مستقبل الطاقة في إفريقيا”.\nوجرت أشغال الجمعية العامة لبنك الطاقة الإفريقي بحضور وزير الدولة النيجيري للموارد النفطية، هاينكن لوكبوبيري، ورئيس مجلس إدارة أفريكسيم بنك، جورج إيلومبي، ووزير المناجم والبترول والطاقة الإيفواري، مامادو سانغافوا كوليبالي، إلى جانب الأمين العام لمنظمة منتجي النفط الأفارقة، الجزائري فريد غزالي.\nوأكد البيان أن “إنشاء بنك الطاقة الإفريقي يجدد التأكيد على عزم الحكومات الإفريقية على ضمان مستقبلها الطاقوي بنفسها. وتعكس هذه المبادرة الاعتراف بضرورة القيام باستثمارات هامة في إنتاج الطاقة ونقلها، من أجل تسريع النمو الصناعي والاستفادة من الفرص الهائلة التي تتيحها التكنولوجيات الناشئة، لا سيما الذكاء الاصطناعي”.\nوبالنسبة لمنظمة منتجي النفط الأفارقة، فإن إنشاء هذا البنك القاري يأتي في وقت تقدر فيه احتياجات القارة من الاستثمارات في مجال الطاقة بـ200 مليار دولار، وذلك لسد العجز في تمويل الاستثمارات في قطاع المحروقات، مع دعم انتقال طاقوي عادل بالنسبة للبلدان الإفريقية.\nوأضاف المصدر ذاته أن بنك الطاقة الإفريقي “سيعمل كمؤسسة مالية مستقلة وفوق وطنية ذات طابع إفريقي شامل، وسيسعى إلى استقطاب استثمارات الحكومات والشركات النفطية الوطنية والمؤسسات المالية والمستثمرين الخواص، بهدف دعم تطوير قطاع الطاقة في القارة”.\nكما صادقت الجمعية العامة الأولى، من جهة أخرى، على تعيين أول رئيس للبنك، حلمي غازي، وتشكيل أول مجلس إدارة له، والذي يضم أعضاء من القطاعين العام والخاص، إلى جانب مؤسسات سياسية بارزة من مختلف أنحاء القارة، حسبما أضاف المصدر ذاته.\nللتذكير، فقد تأسست منظمة منتجي النفط الأفارقة سنة 1987 بمبادرة من الجزائر وعدد من الدول الإفريقية المنتجة للنفط. وتشكل هذه المنظمة، التي تضم حاليا 18 دولة عضوا، إطارا مؤسساتيا يهدف إلى تنسيق السياسات النفطية بين الدول الأعضاء وتعزيز التعاون والتكامل في مجالات الاستكشاف والإنتاج والتكرير ونقل التكنولوجيا، فضلا عن دعم البحث العلمي والتكوين وتطوير الكفاءات.\nأما البنك الإفريقي للاستيراد والتصدير فيعد مؤسسة مالية متعددة الأطراف ذات طابع إفريقي شامل، تعمل على تمويل وترقية التجارة البينية الإفريقية والمبادلات التجارية بين إفريقيا وبقية دول العالم، مع دعم التنمية الاقتصادية والتكامل الإقليمي للقارة. وإلى جانب التمويلات والضمانات وخطوط الائتمان ومختلف الأدوات المالية التي يوفرها، يضطلع البنك أيضا بدور هام في تنفيذ منطقة التجارة الحرة القارية الإفريقية.\nإضغط على الصورة لتحميل تطبيق النهار للإطلاع على كل الآخبار على البلاي ستور\nعلى الصورة لتحميل تطبيق النهار للإطلاع على كل الآخبار على البلاي ستور\nThe post إنشاء بنك الطاقة الإفريقي appeared first on النهار أونلاين."
+    },
+    {
+     "source": "Echorouk",
+     "trust": 2,
+     "url": "https://echoroukonline.com/%d8%a8%d8%b1%d8%a3%d8%b3%d9%85%d8%a7%d9%84-5-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%b7%d8%a7",
+     "title": "برأسمال 5 مليارات دولار.. إنشاء بنك الطاقة الإفريقي",
+     "lang": "ar",
+     "extra": {},
+     "id": "84f8972a3579abdb",
+     "published": "2026-11-01T12:17+00:00",
+     "text": "أُعلن، أمس السبت بالعاصمة النيجيرية أبوجا، عن إنشاء بنك الطاقة الإفريقي، بمبادرة مشتركة من البنك الإفريقي للاستيراد والتصدير “أفريكسيم بنك” ومنظمة منتجي النفط الأفارقة، وذلك خلال الجمعية العامة التأسيسية لهذه المؤسسة المالية القارية الجديدة، التي تهدف إلى تمويل مشاريع الطاقة وتعزيز الاستثمارات في القطاع عبر القارة.\nوأفادت منظمة منتجي النفط الأفارقة، في بيان نشرته عبر موقعها الإلكتروني، بأن البنك الجديد يتمتع برأسمال مرخص قدره 5 مليارات دولار، وسيعمل على دعم المشاريع التي تغطي مختلف مراحل سلسلة القيمة في قطاع الطاقة، من الاستكشاف والإنتاج إلى النقل والمعالجة والتكرير والتوزيع.\nشاهد المحتوى كاملا على الشروق أونلاين\nThe post برأسمال 5 مليارات دولار.. إنشاء بنك الطاقة الإفريقي appeared first on الشروق أونلاين."
+    }
+   ]
+  },
+  {
+   "id": "c38206f68dc",
+   "kind": "free",
+   "score": 7.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "- Epic Games",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Epic Newsroom",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RM3pxbFA3elZMcGJtSmsyeUxhTmJlQmotNTdJQUpzMWJfYUduQ0hsUVFhN0tZT0JoOXhYc19QMFhrZ3J3aDlkVi1oVjZuamlITDZLdlh4MA?oc=5",
+     "title": "- Epic Games",
+     "lang": "en",
+     "extra": {},
+     "id": "38206f68dc414dfb",
+     "published": "2026-10-31T10:13+00:00",
+     "text": "Epic Games"
+    },
+    {
+     "source": "Epic Newsroom",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa2FvTmg2cGRKSWdqeDk4RW5PYi1Zb0tzLTc3TWJEZ3p4a3c5eEdFdGM5cUJBOHJQY3VNOGFCWHdvd295WkcyT3ZtTEZLVFlscm1teTRjUTNaaVlTdU1PUm8waGRLNU83UTE2VTFYSjZ1azB4em80WlNJakJ5OTBkYU5KQ0M4QUF5VG5wbXpYWnkxbFFkQ19iclNxUkhmT255NXZ6QzFiVjFRLUhhaThfMF93?oc=5",
+     "title": "- Epic Games",
+     "lang": "en",
+     "extra": {},
+     "id": "4e117a6b16920e81",
+     "published": "2026-10-31T20:42+00:00",
+     "text": "Epic Games"
+    },
+    {
+     "source": "Epic Newsroom",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNemM5bnV0dXRTQnNpSXVhNGZOTW1kQnk1US04Y1NmWWUybWVNQ3NlMDBBLWxGVktaUWtrd1F3ZDJmS21iYTdiZlVFR01jRTdTM01ZTjk3T2VVd0w2NEppQVVRRlNtbkhWdzhTaDRhU2diTjlqTmFGSWZ6RXpOSHlNY3dXaW5mamM0azk2Q1BpOW11djJpRjNlY2IxeXc?oc=5",
+     "title": "- Epic Games",
+     "lang": "en",
+     "extra": {},
+     "id": "29d076a281365ce0",
+     "published": "2026-11-01T05:23+00:00",
+     "text": "Epic Games"
+    },
+    {
+     "source": "Epic Newsroom",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vTFpfYldBVV9LZ3hlSTZLc09pUFNjX0cxYnJabGdQVXdkWGFKWDloMENhc1RWUlJPWWhmbTNQd1lkdXE5d1B2U1U4aS0zRHNjV0VlUWdGTlRLVzd1MnRJ?oc=5",
+     "title": "- Epic Games",
+     "lang": "en",
+     "extra": {},
+     "id": "04a46b2f96e4fadf",
+     "published": "2026-11-01T06:25+00:00",
+     "text": "Epic Games"
+    },
+    {
+     "source": "Epic Newsroom",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRS2c2WWdLMVJBd05lQUQzRWUzRWpiMGFBUzRMNTRjaHVaRDJIVXlOb3JrRnhkTFI1QXBPbXRhMXRSNmNHSUoxM1ZmaUFxNHlTX1k1UHFIUmFmSEZYZncyalViWnlOOW8xYW4xeTN4bG4?oc=5",
+     "title": "- Epic Games",
+     "lang": "en",
+     "extra": {},
+     "id": "69d132e4ef1fc089",
+     "published": "2026-11-01T06:35+00:00",
+     "text": "Epic Games"
+    },
+    {
+     "source": "Epic Newsroom",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtV0g1cm9WSXNlNXc2b0JER1d4U3cwMkc0b2t0RGpvT1ZZMkc0SlkyZGZDMUNkaGlRWUNjUFV3eFEwOExQaUNN?oc=5",
+     "title": "Cart - Epic Games",
+     "lang": "en",
+     "extra": {},
+     "id": "933e88e237407ec0",
+     "published": "2026-11-01T07:04+00:00",
+     "text": "Cart - Epic Games\nEpic Games"
+    },
+    {
+     "source": "Epic Newsroom",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52V0VCTnozQTFGM1RPLS0yYUw1TDdGU0lQaXJfUEZ5QjNzaVZXYkhFdEwtWDNKanpyT1JKWDJtTEFveVpwbWQ0cWxERWU5c0RtNm5saVpkcUNRa0Z1RFduYzhsNTdXdkN3MjNUOWJEa3JkM21VSGRn?oc=5",
+     "title": "- Epic Games",
+     "lang": "en",
+     "extra": {},
+     "id": "1cd5c0bb5d779b40",
+     "published": "2026-11-01T07:32+00:00",
+     "text": "Epic Games"
+    },
+    {
+     "source": "Epic Newsroom",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0temRlSk03ZnNyRElXRHNOUEF0SGpsTFlrZU5pSXNzazY4d3FwdS14Rmt1cHJjM0RxRkRTeDM5QjJibF9CcGsxQUE3YVpLM3FOMlRpaHFVQVdpUGR6YnNIT0JwTHRaU29ueGx1T1ZBWEl5dHpVUFdqNGxkU08?oc=5",
+     "title": "- Epic Games",
+     "lang": "en",
+     "extra": {},
+     "id": "c5b8002eedf0c2e0",
+     "published": "2026-11-01T07:57+00:00",
+     "text": "Epic Games"
+    },
+    {
+     "source": "Epic Newsroom",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3enVzZTh6Zkt3bml5LUNpcXpXQzZXd0RXWWVLWDFCX3BidWFRbm5KTkEtVWVWaEwxSDlrYjZrU1R6blh1RG03MzJhaWlfQQ?oc=5",
+     "title": "- Epic Games",
+     "lang": "en",
+     "extra": {},
+     "id": "aeb7e2cd57336380",
+     "published": "2026-11-01T08:15+00:00",
+     "text": "Epic Games"
+    },
+    {
+     "source": "GamerPower",
+     "trust": 1,
+     "url": "https://gamerpower.com/epic-world-hunt-for-quest-epic-games-giveaway",
+     "title": "Epic World - Hunt For Quest (Epic Games) Giveaway",
+     "lang": "en",
+     "extra": {
+      "ends": "2026-11-08 23:59:00",
+      "needs_official_link": true
+     },
+     "id": "f9cc4badc581153b",
+     "published": "2026-11-01T08:30+00:00",
+     "text": "Epic World - Hunt For Quest (Epic Games) Giveaway. Worth: $6.99. Platforms: PC, Epic Games Store. Ends: 2026-11-08 23:59:00. Save 100% on Claim Epic World - Hunt For Quest via Epic Games Store! Epic World is a 2d platformer action game with hidden treasures and dangerous enemies. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
     }
    ]
   },
@@ -4960,15 +5153,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-01/14",
+     "url": "https://market.local/crypto/2026-11-01/15",
      "title": "Market snapshot crypto 2026-11-01",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T14:32+00:00",
-     "text": "Bitcoin: $77,949 (+0.7% 24h)\nEthereum: $2,267 (+0.8% 24h)\nSolana: $95.01 (-0.6% 24h)\nToncoin: $1.22 (+2.5% 24h)"
+     "published": "2026-11-01T15:03+00:00",
+     "text": "Bitcoin: $77,972 (+0.8% 24h)\nEthereum: $2,270 (+1.1% 24h)\nSolana: $94.95 (-0.8% 24h)\nToncoin: $1.22 (+1.6% 24h)"
     }
    ]
   },
