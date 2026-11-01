@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T07:25:53+00:00",
+ "generated_at": "2026-11-01T07:56:50+00:00",
  "clusters": [
   {
    "id": "c154d6ff5e1",
@@ -148,6 +148,134 @@
    ]
   },
   {
+   "id": "cf557515ed0",
+   "kind": "news",
+   "score": 27.0,
+   "sensitive": true,
+   "distinct_sites": 8,
+   "title_hint": "FBI accuses North Korea of Binance hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446",
+     "title": "FBI accuses North Korea of Binance hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/bc8575bf0d416d34c9f249187acb27b8?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=263&width=862&height=485&imformat=generic"
+     },
+     "id": "f557515ed0172a50",
+     "published": "2026-11-01T01:48+00:00",
+     "text": "In short:\nThe FBI has blamed North Korean hackers for the Binance crypto hack.\nThis week, $US6.3 billion ($6.9 million) in bitcoin and other digital currency was stolen from the world's largest crypto exchange.\nWhat's next?\nBinance says it has enough funds to cover 90 per cent of the stolen assets.\nThe FBI has accused North Korea of stealing $US6.3 billion n ($6.9 million) in virtual assets from the cryptocurrency exchange Binance, in what is thought to be the biggest crypto heist in history.\nIn a statement, the US bureau said the North Korean state-sponsored unit known as TraderTraitor was responsible for the \"malicious cyber activity\".\nOn Thursday, $US6.3 billion in bitcoin and other digital currency was stolen from Binance, the world's largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe FBI's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90 per cent of what was stolen.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\n\"The FBI maintains its commitment to protecting the virtual asset community by identifying, mitigating, and disrupting North Korea's illicit cybercrime and virtual asset theft activities,\" it said.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called Ethereum.\nThe FBI said it expects TraderTraitor would now attempt to convert the assets using de-centralised finance (DeFi) and \"instant swap services\".\n\"It is expected these assets will then be further laundered,\" it said.\nThey are the same actors behind a $US1.5 billion Bybit hack last year.\n'Cat and mouse game' of tracking assets\nCrypto expert and chief policy officer at blockchain intelligence firm TRM Labs Ari Redbord said he expected the hackers would break the stolen assets into pieces and try to launder them through smaller exchanges to evade detection, a process that could unfold over months.\n\"It's bank robbery, in this case, at the speed of the internet,\"Mr Redbord said.\n\"However, we can also track and trace those funds in real time in order to build investigations, to disrupt and to seize back funds.\n\"It's just this cat and mouse game.\"\n90 per cent of assets recovered, Binance says\nOn Saturday, Binance said it had enough set aside in the same digital currency that was stolen, to cover 90 per cent of the missing assets.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said the outstanding 10 per cent consists of tokens that are less liquid, which means they may take longer to source in the required amounts.\nBinance suspended user withdrawals after the hack, but said in its latest update that they were on track to resume Sunday.\nReuters/AFP/AP"
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+     "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79819974_6.jpg"
+     },
+     "id": "a73d21e0a0ff967e",
+     "published": "2026-11-01T01:53+00:00",
+     "text": "The FBI said Saturday that North Korea was behind the theft of more than $6 billion (€5.36 billion) in virtual assets from the cryptocurrency exchange Binance.\n\"The Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the US law enforcement agency said in a statement.\nThe theft, which happened within a matter of minutes, is believed to be the biggest cryptocurrency heist in history.\nThe stolen assets included bitcoin, ethereum and stablecoins such as tether and USD Coin, whose values are pegged to traditional currencies.\nNews of the cyberattack caused the prices of most major cryptocurrencies to slump on Friday.\nWhat did the FBI say?\nThe FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe agency said it had \"observed TraderTraitor actors converting stolen assets\" primarily into a cryptocurrency called ethereum.\n\"It is expected these assets will then be further laundered by converting them using DeFi [decentralized finance] and instant swap services as they prepare them for further laundering stages,\" it added.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to ensure the money is not laundered to cover up its origins.\nWhat did Binance say about the heist?\nBinance is the world's largest crypto exchange by daily trading volumes.\nThe exchange said on Saturday it was using company funds worth over $6.34 billion to buy tokens to replenish about 90% of the assets stolen in the attack.\nThe remaining 10% consisted of tokens that were less liquid, meaning they may take longer to buy back, the company said.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nThe heist came amid growing worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
+     "title": "FBI blames North Korea for record $6.3bn crypto heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-30T080136Z_484047327_RC2JDOAHBGKT_RTRMADP_3_FINTECH-CRYPTO-BINANCE-HACK-1793491721.jpg?resize=1920%2C1440"
+     },
+     "id": "09816b77f9ad6760",
+     "published": "2026-11-01T02:28+00:00",
+     "text": "The FBI has linked North Korea to the theft of a record $6.3bn in virtual assets from cryptocurrency exchange Binance.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them primarily into the cryptocurrency Ethereum, the FBI said in a statement on Saturday.\nRecommended Stories\nlist of 3 items- list 1 of 3Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?\n- list 2 of 3Tracking the money: The biggest donors in the 2026 US midterm elections\n- list 3 of 3Russia jails IT worker for 13 years for donating money to Ukraine\nThe US agency blamed the operation specifically on a group called TraderTraitor, the same group blamed for a $1.5bn theft from the Bybit platform in February last year.\nAccording to the statement, the assets are expected to be “further laundered” in stages.\nThe FBI called on virtual asset service providers to block transactions being used in the latest laundering operation, providing the suspected digital addresses to watch for.\nIn a separate statement on Saturday, Binance said it has replaced 90 percent of the amount stolen by using company money to buy new tokens.\nThe remaining 10 percent consists of less liquid tokens, meaning they may take longer to buy, it added.\n“We will continue to buy the remaining relevant token assets… until the covered amount reaches 100 [percent] for all tokens. Binance will absorb the financial impact of these stolen funds, not our users,” the company said on X.\nThe money spent re-buying tokens came from a $1bn Secure Asset Fund for Users (SAFU), a Bitcoin reserve fund Binance holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund and the company’s corporate treasury.\nCrypto prices fell on Friday, as Binance, which runs the world’s largest crypto exchange, sought to reassure customers their funds were safe.\nBinance co-CEO Richard Teng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it hard to trace and investigate.\nAfter the hack, the exchange stopped allowing customers to withdraw their funds.\nBinance said later on Saturday that it was on track to reopen withdrawals on Sunday.\nBinance also announced the publication of a new proof-of-reserves snapshot, allowing users to independently verify that their assets were backed at a minimum 1:1 ratio."
+    },
+    {
+     "source": "Guardian World",
+     "trust": 2,
+     "url": "https://theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193"
+     },
+     "id": "96d7e79ee6dac342",
+     "published": "2026-11-01T02:41+00:00",
+     "text": "Cryptocurrency exchange Binance says it has replaced 90% of the amount stolen after a record $6.3bn hack of its platform by a group the FBI identified as being backed by North Korea.\nThe remaining 10% of tokens are less liquid, meaning they may take longer to buy, the company said in a post on X on Saturday. Co-CEO Richard Teng said separately that the company was “committed to covering the remaining 10%” and that “users will not bear the financial impact of this incident”.\nBinance suspended user withdrawals after the hack, but said in its latest update that it was on track to resume them on Sunday.\nThe announcement came as the FBI on Saturday confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked North Korean leader Kim Jong-un.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,” the law enforcement agency said in a statement.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralised finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets”.\nTeng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nBinance said it had set aside around $6.34bn of company funds to cover the losses.\n“Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said.\nThe money spent re-buying tokens came from using part of its $1bn Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company’s own corporate treasury, it said on X.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly 6% and BNB, native to Binance, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea – which faces extensive international sanctions over its nuclear and missile programmes – to find illicit means to capture revenue."
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336153",
+     "title": "FBI Accuses NKorea of Standing Behind $6 Billion Crypto Theft from Binance",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1858788_0.jpeg.webp?VersionId=aP810tyP6f4W1ivzuPxuGw2gR2__ndB4"
+     },
+     "id": "a736455a38686676",
+     "published": "2026-11-01T05:55+00:00",
+     "text": "The FBI on Saturday accused North Korea of stealing more than $6 billion in virtual assets from the cryptocurrency exchange Binance in what is thought to be the biggest-ever crypto heist.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them into ethereum, said the FBI, adding that it expects “further laundering stages” for the stolen digital assets.\nThe US law enforcement agency's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90% of what was stolen.\nBinance is the world's largest crypto exchange by daily trading volumes.\nNews of the cyberattack caused the prices of most major cryptocurrencies to fall sharply on Friday.\nThe FBI confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is the same group blamed for a $1.5 billion theft from the Bybit platform in February last year.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,” the statement said.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralized finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.”\nUS President Donald Trump, however, cast doubt on the North Korea's involvement in the hack.\n“I'm not concerned. We're learning about it. We don't know if it's North Korea,” Trump told reporters at his residence in Florida late Saturday.\nThe president often reflects with pride on summits he held with North Korean leader Kim Jong Un during his first term.\nBinance said Saturday it has set aside more than $6.34 billion in company funds to cover losses in the hack.\n“Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said on X.\nIt said it has used company money to buy tokens to replenish 90 percent of the stolen funds, while the remaining 10% of tokens are “less liquid, which means they may take longer to source in the required amounts.”\nBinance suspended user withdrawals after the hack, but said in its latest update they were on track to resume Sunday.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly six percent and BNB, native to Binance, tumbled nearly 10%.\nBinance said Friday it was working to resolve what it called a “complex attack” with several “points of breach.”\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea -- which faces extensive international sanctions over its nuclear and missile programs -- to find illicit means to capture revenue.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for “The Interview,"
+    },
+    {
+     "source": "The Hacker News",
+     "trust": 2,
+     "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png"
+     },
+     "id": "6e20a9798345e8f5",
+     "published": "2026-11-01T06:44+00:00",
+     "text": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899.\nThe FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it observed the threat actor converting stolen assets primarily into Ethereum (ETH).\n\"It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages,\" the FBI said in a statement.\nThe agency has also provided a list of wallet addresses that the attackers are said to be using to launder the stolen assets.\nThe development comes as Binance said it has resumed phase one of withdrawals starting today between 6 and 9 a.m. UTC after they were paused in the wake of the incident.\n\"Since the incident, our teams have taken precautionary measures to safeguard the platform, conducted security assessments, and worked to verify the readiness of affected services,\" Binance said in a statement.\n\"We aim to restore withdrawals progressively as we complete security and readiness checks. Deposit services remain open and are not affected by the incident.\"\nThe haul eclipses the $1.46 billion plundered from Bybit in February 2025, making it the largest cryptocurrency theft in history. The funds were stolen across 11 blockchains, 82% of which were on Ethereum and Bitcoin.\n\"This single incident almost doubles the total cryptoassets stolen by the regime,\" blockchain analysis firm Elliptic said. \"Actors linked to North Korea, officially the Democratic People’s Republic of Korea (DPRK), are believed to have stolen over $6.5 billion in cryptoassets in recent years.\"\nOf the $6.43 billion stolen by TraderTraitor, $2.85 billion of the assets have been frozen on-chain by Tether, Circle, Ripple, Arbitrum, and Optimism.\nTraderTraitor is the name assigned to a North Korean group that has a history of orchestrating cryptocurrency thefts against the Web3.0 industry by tricking victims into downloading malware-laced applications. The cluster is known to be active since at least 2020.\nIn recent years, the adversary has been attributed to cryptocurrency heists targeting DMM Bitcoin, Bybit, KelpDAO, and Bitget.\nReports from SentinelOne, Zscaler ThreatLabz, and Microsoft have revealed that TraderTraitor is continuing to hone its tradecraft, using trojanized Terraform providers as a malware distribution vector and leveraging front companies to conduct job-themed targeting against individuals involved in cybersecurity, AI, blockchain, and talent recruitment companies.\nThe poisoned Terraform provider is used to deliver a Bash loader that selects and downloads malware tailored to the victim's operating system. This includes a cross-platform implant called FLATROOF, which siphons sensitive data from the victim using a Python-based information stealer before ultimately dropping the ROOFDECK backdoor to obtain complete remote control.\nThe activity once again demonstrates how North Korean threat actors continue to abuse trusted developer workflows through trojanized Terraform providers to deliver cross-platform malware across macOS, Linux, and Windows systems, and gain persistent access.\nTraderTraitor's modus operandi, like other North Korea-linked campaigns such as Lazarus Group's Operation Dream Job an"
+    },
+    {
+     "source": "Cointelegraph",
+     "trust": 2,
+     "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack",
+     "title": "FBI blames North Korea for record $6.3B Binance hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg"
+     },
+     "id": "66cf12f62953f72c",
+     "published": "2026-11-01T07:44+00:00",
+     "text": "FBI blames North Korea for record $6.3B Binance hack\nUS agency seeks private-sector help to block further money-laundering of stolen digital assets.\nThe FBI said that the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of about $6.3 billion in digital assets from cryptocurrency exchange Binance on Thursday.\nThe FBI said on Saturday in a news release that it refers to this specific North Korean malicious cyber activity as “TraderTraitor,” which it has most recently observed converting stolen assets mostly into Ether (ETH).\nIt expects these assets to be further converted, using DeFi and instant swap services, as the hackers move to more advanced laundering stages.\nThe FBI urged private sector entities including THORNode operators, RPC node operators, instant exchanges, DeFi services, blockchain analytics firms and other digital asset service providers to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets. A full list of addresses is provided on the news release.\nCointelegraph reported earlier this year that North Korea-linked hackers stole about 60% of the value lost to crypto hacks in 2025, with proceeds used to help fund the regime’s nuclear and ballistic missile programs, highlighting a growing reliance on digital assets to generate hard currency.\nNorth Korean defense spending supplemented\nThose findings came from a CertiK report that attributed more than $2 billion of an estimated $3.4 billion in 2025 crypto security losses to groups tied North Korea, across 79 of 656 incidents documented that year.\nWhile North Korea does not publish credible budget data, according to independent research organization MilitarySpend, mid-range consensus places its actual annual defense spending at as much as $6 billion, using purchasing-power-adjusted GDP estimates, though this figure is uncertain.\nMilitarySpend adds that revenue from Russia arms transfers — estimated at as much as $5 billion in munitions exported to Russia from 2022-2025 per South Korean intelligence — supplements domestic weapons programs, as does cryptocurrency theft, which provides additional off-budget financing for WMD development.\nAs Cointelegraph reported, between 2016 and early 2026, North Korea-linked actors stole an estimated $6.75 billion in cryptocurrency across 263 documented incidents, according to CertiK, citing findings by independent onchain researcher Taylor Monahan.\nCertiK’s analysis concluded that North Korea has industrialized crypto theft into a core state revenue mechanism."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Bma2xxdW43TWpaNFB0MnVLS3FVUGt4SVIxb1gyVzNHeFRWcWlhb19WdnRxTnF1eFl4ak1VMEJJQ2RadHdWOVI4Rk5NbHVPY2t1Z1U5M2FhLTF5bzVkYVg0bWRSVWd4UzBhY1lVcWdCR0d2Q2RBRFJNVTdkU2pZQng1Mm9vUU9WM2J0UzQ1eFRiWFN0WDkya9IBngFBVV95cUxNYXROV2xtZ2I2aWVDbnpuQVdtbkF6UXJfSVdpbkdkVmN2ZDd4dlBlYndDOTl3V2lDdGxvTDdRem9Ka0d2MEZtWF9kcTdRQ2dxckxLcGV2UmFGenpwTk1RWi1jYnJXR1ZfRXJiWHpuRXJRTmQ2X2NxNnB0aWJXeUZCXzVjQkdQSHhud1BuTG9mbHNiemlYVEF3Q0hOeGFRQQ?oc=5",
+     "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance - Al Jazeera",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "8717c959751eb1f9",
+     "published": "2026-11-01T02:40+00:00",
+     "text": "- FBI blames North Korea for record $6.3bn crypto heist from Binance Al Jazeera\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stealing billions from world’s largest crypto firm The Times of Israel\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance says it has covered $6 billion of $6.3 billion stolen in hack Reuters"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmZHbGpSM3BwNVpUdHkteHN5Q2lTNTh0SVZjNjM3Yjkyd0dKcnY5LWJrNHpVeEIyYVBOTDVSUWowdEExN3hxU1lkR3dJODQ5RDhLU0pXWXJmbGRaNVJvV1hjUjVCalk5bVdhSnBod1pyY1Z6eFV6Xy1YcUFvZlNxNkJLYkRmcXhOc0IxbjJoaEJoRWVZS3Y4Q0V1UmVoaXlvUUU5bFFoeXZsVEU?oc=5",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack - The Guardian",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "da51d61e643b2fd0",
+     "published": "2026-11-01T02:41+00:00",
+     "text": "- Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack The Guardian\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Binance to Resume Customer Withdrawals in Phases After Hack Bloomberg.com\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    }
+   ]
+  },
+  {
    "id": "c7757066858",
    "kind": "news",
    "score": 23.0,
@@ -240,108 +368,19 @@
      "id": "f83ed08647ad06e5",
      "published": "2026-11-01T01:28+00:00",
      "text": "- FBI blames North Korea for stolen billions from Binance in biggest hack in history AP News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post\n- Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday CNBC"
-    }
-   ]
-  },
-  {
-   "id": "cf557515ed0",
-   "kind": "news",
-   "score": 23.0,
-   "sensitive": true,
-   "distinct_sites": 6,
-   "title_hint": "FBI accuses North Korea of Binance hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446",
-     "title": "FBI accuses North Korea of Binance hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/bc8575bf0d416d34c9f249187acb27b8?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=263&width=862&height=485&imformat=generic"
-     },
-     "id": "f557515ed0172a50",
-     "published": "2026-11-01T01:48+00:00",
-     "text": "In short:\nThe FBI has blamed North Korean hackers for the Binance crypto hack.\nThis week, $US6.3 billion ($6.9 million) in bitcoin and other digital currency was stolen from the world's largest crypto exchange.\nWhat's next?\nBinance says it has enough funds to cover 90 per cent of the stolen assets.\nThe FBI has accused North Korea of stealing $US6.3 billion n ($6.9 million) in virtual assets from the cryptocurrency exchange Binance, in what is thought to be the biggest crypto heist in history.\nIn a statement, the US bureau said the North Korean state-sponsored unit known as TraderTraitor was responsible for the \"malicious cyber activity\".\nOn Thursday, $US6.3 billion in bitcoin and other digital currency was stolen from Binance, the world's largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe FBI's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90 per cent of what was stolen.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\n\"The FBI maintains its commitment to protecting the virtual asset community by identifying, mitigating, and disrupting North Korea's illicit cybercrime and virtual asset theft activities,\" it said.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called Ethereum.\nThe FBI said it expects TraderTraitor would now attempt to convert the assets using de-centralised finance (DeFi) and \"instant swap services\".\n\"It is expected these assets will then be further laundered,\" it said.\nThey are the same actors behind a $US1.5 billion Bybit hack last year.\n'Cat and mouse game' of tracking assets\nCrypto expert and chief policy officer at blockchain intelligence firm TRM Labs Ari Redbord said he expected the hackers would break the stolen assets into pieces and try to launder them through smaller exchanges to evade detection, a process that could unfold over months.\n\"It's bank robbery, in this case, at the speed of the internet,\"Mr Redbord said.\n\"However, we can also track and trace those funds in real time in order to build investigations, to disrupt and to seize back funds.\n\"It's just this cat and mouse game.\"\n90 per cent of assets recovered, Binance says\nOn Saturday, Binance said it had enough set aside in the same digital currency that was stolen, to cover 90 per cent of the missing assets.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said the outstanding 10 per cent consists of tokens that are less liquid, which means they may take longer to source in the required amounts.\nBinance suspended user withdrawals after the hack, but said in its latest update that they were on track to resume Sunday.\nReuters/AFP/AP"
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
-     "title": "FBI says North Korea behind $6 billion Binance crypto theft",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79819974_6.jpg"
-     },
-     "id": "a73d21e0a0ff967e",
-     "published": "2026-11-01T01:53+00:00",
-     "text": "The FBI said Saturday that North Korea was behind the theft of more than $6 billion (€5.36 billion) in virtual assets from the cryptocurrency exchange Binance.\n\"The Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the US law enforcement agency said in a statement.\nThe theft, which happened within a matter of minutes, is believed to be the biggest cryptocurrency heist in history.\nThe stolen assets included bitcoin, ethereum and stablecoins such as tether and USD Coin, whose values are pegged to traditional currencies.\nNews of the cyberattack caused the prices of most major cryptocurrencies to slump on Friday.\nWhat did the FBI say?\nThe FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe agency said it had \"observed TraderTraitor actors converting stolen assets\" primarily into a cryptocurrency called ethereum.\n\"It is expected these assets will then be further laundered by converting them using DeFi [decentralized finance] and instant swap services as they prepare them for further laundering stages,\" it added.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to ensure the money is not laundered to cover up its origins.\nWhat did Binance say about the heist?\nBinance is the world's largest crypto exchange by daily trading volumes.\nThe exchange said on Saturday it was using company funds worth over $6.34 billion to buy tokens to replenish about 90% of the assets stolen in the attack.\nThe remaining 10% consisted of tokens that were less liquid, meaning they may take longer to buy back, the company said.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nThe heist came amid growing worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
-     "title": "FBI blames North Korea for record $6.3bn crypto heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-30T080136Z_484047327_RC2JDOAHBGKT_RTRMADP_3_FINTECH-CRYPTO-BINANCE-HACK-1793491721.jpg?resize=1920%2C1440"
-     },
-     "id": "09816b77f9ad6760",
-     "published": "2026-11-01T02:28+00:00",
-     "text": "The FBI has linked North Korea to the theft of a record $6.3bn in virtual assets from cryptocurrency exchange Binance.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them primarily into the cryptocurrency Ethereum, the FBI said in a statement on Saturday.\nRecommended Stories\nlist of 3 items- list 1 of 3Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?\n- list 2 of 3Tracking the money: The biggest donors in the 2026 US midterm elections\n- list 3 of 3Russia jails IT worker for 13 years for donating money to Ukraine\nThe US agency blamed the operation specifically on a group called TraderTraitor, the same group blamed for a $1.5bn theft from the Bybit platform in February last year.\nAccording to the statement, the assets are expected to be “further laundered” in stages.\nThe FBI called on virtual asset service providers to block transactions being used in the latest laundering operation, providing the suspected digital addresses to watch for.\nIn a separate statement on Saturday, Binance said it has replaced 90 percent of the amount stolen by using company money to buy new tokens.\nThe remaining 10 percent consists of less liquid tokens, meaning they may take longer to buy, it added.\n“We will continue to buy the remaining relevant token assets… until the covered amount reaches 100 [percent] for all tokens. Binance will absorb the financial impact of these stolen funds, not our users,” the company said on X.\nThe money spent re-buying tokens came from a $1bn Secure Asset Fund for Users (SAFU), a Bitcoin reserve fund Binance holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund and the company’s corporate treasury.\nCrypto prices fell on Friday, as Binance, which runs the world’s largest crypto exchange, sought to reassure customers their funds were safe.\nBinance co-CEO Richard Teng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it hard to trace and investigate.\nAfter the hack, the exchange stopped allowing customers to withdraw their funds.\nBinance said later on Saturday that it was on track to reopen withdrawals on Sunday.\nBinance also announced the publication of a new proof-of-reserves snapshot, allowing users to independently verify that their assets were backed at a minimum 1:1 ratio."
-    },
-    {
-     "source": "Guardian World",
-     "trust": 2,
-     "url": "https://theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193"
-     },
-     "id": "96d7e79ee6dac342",
-     "published": "2026-11-01T02:41+00:00",
-     "text": "Cryptocurrency exchange Binance says it has replaced 90% of the amount stolen after a record $6.3bn hack of its platform by a group the FBI identified as being backed by North Korea.\nThe remaining 10% of tokens are less liquid, meaning they may take longer to buy, the company said in a post on X on Saturday. Co-CEO Richard Teng said separately that the company was “committed to covering the remaining 10%” and that “users will not bear the financial impact of this incident”.\nBinance suspended user withdrawals after the hack, but said in its latest update that it was on track to resume them on Sunday.\nThe announcement came as the FBI on Saturday confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked North Korean leader Kim Jong-un.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,” the law enforcement agency said in a statement.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralised finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets”.\nTeng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nBinance said it had set aside around $6.34bn of company funds to cover the losses.\n“Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said.\nThe money spent re-buying tokens came from using part of its $1bn Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company’s own corporate treasury, it said on X.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly 6% and BNB, native to Binance, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea – which faces extensive international sanctions over its nuclear and missile programmes – to find illicit means to capture revenue."
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336153",
-     "title": "FBI Accuses NKorea of Standing Behind $6 Billion Crypto Theft from Binance",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1858788_0.jpeg.webp?VersionId=aP810tyP6f4W1ivzuPxuGw2gR2__ndB4"
-     },
-     "id": "a736455a38686676",
-     "published": "2026-11-01T05:55+00:00",
-     "text": "The FBI on Saturday accused North Korea of stealing more than $6 billion in virtual assets from the cryptocurrency exchange Binance in what is thought to be the biggest-ever crypto heist.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them into ethereum, said the FBI, adding that it expects “further laundering stages” for the stolen digital assets.\nThe US law enforcement agency's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90% of what was stolen.\nBinance is the world's largest crypto exchange by daily trading volumes.\nNews of the cyberattack caused the prices of most major cryptocurrencies to fall sharply on Friday.\nThe FBI confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is the same group blamed for a $1.5 billion theft from the Bybit platform in February last year.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,” the statement said.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralized finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.”\nUS President Donald Trump, however, cast doubt on the North Korea's involvement in the hack.\n“I'm not concerned. We're learning about it. We don't know if it's North Korea,” Trump told reporters at his residence in Florida late Saturday.\nThe president often reflects with pride on summits he held with North Korean leader Kim Jong Un during his first term.\nBinance said Saturday it has set aside more than $6.34 billion in company funds to cover losses in the hack.\n“Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said on X.\nIt said it has used company money to buy tokens to replenish 90 percent of the stolen funds, while the remaining 10% of tokens are “less liquid, which means they may take longer to source in the required amounts.”\nBinance suspended user withdrawals after the hack, but said in its latest update they were on track to resume Sunday.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly six percent and BNB, native to Binance, tumbled nearly 10%.\nBinance said Friday it was working to resolve what it called a “complex attack” with several “points of breach.”\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea -- which faces extensive international sanctions over its nuclear and missile programs -- to find illicit means to capture revenue.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for “The Interview,"
     },
     {
      "source": "Google News Business EN",
      "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Bma2xxdW43TWpaNFB0MnVLS3FVUGt4SVIxb1gyVzNHeFRWcWlhb19WdnRxTnF1eFl4ak1VMEJJQ2RadHdWOVI4Rk5NbHVPY2t1Z1U5M2FhLTF5bzVkYVg0bWRSVWd4UzBhY1lVcWdCR0d2Q2RBRFJNVTdkU2pZQng1Mm9vUU9WM2J0UzQ1eFRiWFN0WDkya9IBngFBVV95cUxNYXROV2xtZ2I2aWVDbnpuQVdtbkF6UXJfSVdpbkdkVmN2ZDd4dlBlYndDOTl3V2lDdGxvTDdRem9Ka0d2MEZtWF9kcTdRQ2dxckxLcGV2UmFGenpwTk1RWi1jYnJXR1ZfRXJiWHpuRXJRTmQ2X2NxNnB0aWJXeUZCXzVjQkdQSHhud1BuTG9mbHNiemlYVEF3Q0hOeGFRQQ?oc=5",
-     "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance - Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFhVSjcwbUp5T0xhdUREenVPRkh0T29TOGREZlFzUlpsQzI0TWMtWUtYQjlVMmtXVHNiRzFBYkYtTGE5RXJhOUxuMWtFV3Q0M0JYRThweW42WkdQUVdPajItanZLNENtcVMwNU9XcFYtLXJvU3EwWHlIVU5WUDVBQlROY2dnaUlNRGNSdS11MFUtUXRZSzhFYnQtS1ZvOVAzZjIwc2lB0gGrAUFVX3lxTE42dV95Y20wTW8ya0xnRXhhNXhNT3VQQW8xTlUtNXNqdm5tUmVBZWE1ZXpxUlZEMmxrTVRBT05xS3R3SGJ4dmtGOHR4Q3NOVHBmdHJmMlM0YkJmTXZxX09adVN2NkltN0N6RHk0cFhzTUtHV0dJUmhuN3I1NEw2TXpCRFRZY0o5V3hudkh4cFY0Q05EYjRpYURPU2RXcVZXN19SSC1mZ18xc29pMA?oc=5",
+     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history - ABC News - Breaking News, Latest News and Videos",
      "lang": "en",
      "extra": {
       "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
      },
-     "id": "8717c959751eb1f9",
-     "published": "2026-11-01T02:40+00:00",
-     "text": "- FBI blames North Korea for record $6.3bn crypto heist from Binance Al Jazeera\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stealing billions from world’s largest crypto firm The Times of Israel\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance says it has covered $6 billion of $6.3 billion stolen in hack Reuters"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmZHbGpSM3BwNVpUdHkteHN5Q2lTNTh0SVZjNjM3Yjkyd0dKcnY5LWJrNHpVeEIyYVBOTDVSUWowdEExN3hxU1lkR3dJODQ5RDhLU0pXWXJmbGRaNVJvV1hjUjVCalk5bVdhSnBod1pyY1Z6eFV6Xy1YcUFvZlNxNkJLYkRmcXhOc0IxbjJoaEJoRWVZS3Y4Q0V1UmVoaXlvUUU5bFFoeXZsVEU?oc=5",
-     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack - The Guardian",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "da51d61e643b2fd0",
-     "published": "2026-11-01T02:41+00:00",
-     "text": "- Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack The Guardian\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Binance to Resume Customer Withdrawals in Phases After Hack Bloomberg.com\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+     "id": "2168f8348cd4d33a",
+     "published": "2026-11-01T06:30+00:00",
+     "text": "- FBI blames North Korea for stolen billions from Binance in biggest hack in history ABC News - Breaking News, Latest News and Videos\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds Reuters\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
     }
    ]
   },
@@ -565,9 +604,46 @@
    ]
   },
   {
+   "id": "cd15b79a959",
+   "kind": "news",
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Antonelli ‘feeling more tense than usual’ in Mexico City",
+   "official_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp",
+   "sources": [
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/i-didnt-do-a-good-enough-job-antonelli-admits-feeling-more-tense-than-usual-in-mexico-city-qualifying.2DHPy7wRU0Qymi79OMvZyy",
+     "title": "Antonelli ‘feeling more tense than usual’ in Mexico City",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp"
+     },
+     "id": "e11a39483d48ebc2",
+     "published": "2026-11-01T01:17+00:00",
+     "text": "‘I didn’t do a good enough job’ – Antonelli admits feeling ‘more tense than usual’ in Mexico City Qualifying\nOn what could potentially be a historic weekend for Kimi Antonelli, the Mercedes driver will line up in P4 for the Mexico City Grand Prix.\nKimi Antonelli has conceded that feeling “more tense than usual” at the Mexico City Grand Prix – a weekend in which he could potentially seal his maiden World Championship – played a factor in his Qualifying performance, with the Italian not satisfied by his outing en route to P4.\nWhile the other Mercedes of George Russell looked to be in the fight for pole position – the Briton ultimately ending the session in P2 behind Lewis Hamilton – Antonelli had to settle for fifth place, which will subsequently become fourth on the grid due to a one-place penalty for Max Verstappen ahead.\nTwenty-four hours ahead of what might be a momentous day for the youngster – with a P9 finish being enough to secure the title – Antonelli admitted when reflecting back on the session that it had not been the most straightforward outing amid low-grip conditions.\n“It was tricky for everyone, I think,” the championship leader explained. “I just feel like I didn't do a good enough job out there and didn't have the most confidence. Definitely I've been a bit more tense this weekend than usual, but yeah, still a lot to play for tomorrow.”\nPushed on what his mindset is entering into Sunday’s race, Antonelli acknowledged that approaching it as normal has been a challenge.\n“I mean, it hasn't been easy this weekend, to be fair,” the 20-year-old said. “It hasn't been easy, especially to keep my emotions flat, and definitely I've been a bit more tense than usual so also that played a big factor.\n“But I'll try to enjoy the evening with family and friends and then focus onto tomorrow.”\nShould Antonelli clinch the crown, the driver from Italy will become the sport’s youngest-ever World Champion.\nNext Up"
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/f1/news/12040/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
+     "title": "Antonelli feeling 'tense' amid effort to seal F1 title",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-f1-kimi-antonelli_7393584.jpg?20261101003807"
+     },
+     "id": "d15b79a9597969c0",
+     "published": "2026-11-01T00:45+00:00",
+     "text": "Kimi Antonelli: Mercedes driver admits to feeling 'tense' amid effort to seal F1 title at Mexico City Grand Prix\nKimi Antonelli needs top-nine finish to become world champion at Mexico City Grand Prix; he only qualified fifth and was off the pace compared to Mercedes team-mate George Russell; watch Sunday's race at 8pm (build-up from 6.30pm), live on Sky Sports F1\nSunday 1 November 2026 00:48, UK\nKimi Antonelli has admitted to feeling \"more tense than usual\" ahead of attempting to seal the Formula 1 world championship at Sunday's Mexico City Grand Prix.\nThe 20-year-old only needs to finish ninth in the race to become the sport's youngest world champion.\nAntonelli qualified fifth on Saturday but will start from fourth on the grid due to a penalty for Max Verstappen.\n- How Kimi Antonelli can win world title in Mexico on Sunday\n- Mexico City GP schedule | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts\n- Latest Sky Sports deals or stream F1 with no contract\nSpeaking after the session, the Italian revealed that he is not feeling his best as he continues to recover from an illness that caused him to miss his media duties on Thursday.\nHe told Sky Sports F1: \"It has not been the easiest weekend to be fair.\n\"Definitely still not feeling 100 per cent. There is talk of what could happen [with the championship] and definitely I'm a bit more tense than usual.\n\"Definitely I don't feel as relaxed but I try to have a good sleep tonight and focus on tomorrow.\"\nDespite his condition, Antonelli was still able to produce a decent final lap in qualifying as he finished within two tenths of pole-sitter Lewis Hamilton.\nHowever, the fact that his team-mate George Russell was only marginally behind Hamilton in second perhaps reflected the Italian not being able to summon his best level.\nAntonelli added: \"I struggled to get a good feeling from the tyres in Q3. I just didn't have the most confidence. I was a bit tense, I am not going to lie.\n\"It was a poor lap, many mistakes here and there. Overall, still P4 and a lot to play for tomorrow.\"\n'It's insane!' - Norris happy to pass No 1 onto Antonelli\nLando Norris says he is \"more than happy\" to pass the number one he has had on his McLaren this year to Antonelli when the Mercedes driver replaces him as world champion.\nAntonelli has massively exceeded expectations during just his second season in F1 to comprehensively outperform Russell, who began the year as the clear title favourite.\n\"He's done an incredible job and done it in a pretty incredible way,\" Norris said ahead of the race weekend in Mexico.\n\"People are saying he hasn't had any tough competition this year. That proves the point that he's done such an incredible job.\n\"He's got a very, very talented team-mate that he's beaten through the whole season.\n\"I have nothing but respect for Kimi. He's a very nice guy. We get along very well and I'm more than happy to pass the No 1 over to him.\n\"He deserves it. He's done an incredible job, especially in his second year in Formula 1. Youngest world champion, it's pretty insane.\n\"I enjoy other people having that kind of success. It's nice to see.\"\nSunday November 1\n6.30pm: Grand Prix Sunday: Mexico City GP build-up\n8pm: THE MEXICO CITY GRAND PRIX*\n10pm: Chequered Flag: Mexico City GP reaction\n11pm: Ted's Notebook\n*also on Sky Sports Main Event\nFormula 1 is in Mexico City where Kimi Antonelli could win the Drivers' Championship in Sunday's race at 8pm (build-up from 6.30pm), "
+    }
+   ]
+  },
+  {
    "id": "c8703aea988",
    "kind": "news",
-   "score": 17.0,
+   "score": 16.0,
    "sensitive": true,
    "distinct_sites": 3,
    "title_hint": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
@@ -607,43 +683,6 @@
      "id": "dc9fd0e56b91bd47",
      "published": "2026-11-01T01:34+00:00",
      "text": "\"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%,\" Binance co-CEO Richard Teng posted on X, adding that \"Our users will not bear the financial impact of this incident.\"\n\"Binance said it was able to replace the funds taken in the record hack by using company money to buy new tokens,\" reports NBC News:\nThe remaining 10% consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X... Binance said it has set aside around $6.34 billion of company funds internally to cover the losses. The money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nNBC News reports that the FBI blames the breach on a North Korea-sponsored group known as TraderTraitor:\nMembers of [TraderTraitor] were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology... After the hack, the exchange stopped allowing customers to withdraw their funds, but it said Saturday it was still on track to reopen withdrawals Sunday.\nCNBC reports:\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\nThe New York Times describes what happened when Binance first spotted \"a multibillion-dollar deluge of digital coins\" pouring out of its accounts:\nAs the news spread, Binance's top executives put together an informal war room on Wea, the company's internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel. They eventually transitioned to a mass conference call, with 100 boxes on the screen, where employees took turns muting and then unmuting, communicating in a mixture of English and Chinese. Among them was He Yi, Binance's co-chief executive, who is seven months pregnant, and worked through the night from her base in Abu Dhabi, taking a call at 3 a.m. local time....\nMuch of the drama played out in public. Almost all crypto transactions are recorded on the blockchain, a ledger of money movements that anyone can look up. That meant crypto analysts could see funds leaving Binance in real time... North Koreans have targeted crypto companies for years, using the proceeds of those thefts to fund its nuclear program, according to Western officials. The hackers have developed increasingly complex strategies to steal crypto and launder the proceeds, a painstaking endeavor that can take months to complete. In a blog post on Friday, Chainalysis said the attackers had deployed \"laundering patterns we have not seen before,\" conducting thousands of transactions over a short period, probably with the help of automation.\nAt the same time, Binance's colleagues in the industry mobilized to intercept some of the laundered crypto. Certain digital coin issuers can freeze funds, allowing them to halt a money-laundering operation in its tracks. Soon after the hack, T"
-    }
-   ]
-  },
-  {
-   "id": "cd15b79a959",
-   "kind": "news",
-   "score": 16.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Antonelli ‘feeling more tense than usual’ in Mexico City",
-   "official_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp",
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/i-didnt-do-a-good-enough-job-antonelli-admits-feeling-more-tense-than-usual-in-mexico-city-qualifying.2DHPy7wRU0Qymi79OMvZyy",
-     "title": "Antonelli ‘feeling more tense than usual’ in Mexico City",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp"
-     },
-     "id": "e11a39483d48ebc2",
-     "published": "2026-11-01T01:17+00:00",
-     "text": "‘I didn’t do a good enough job’ – Antonelli admits feeling ‘more tense than usual’ in Mexico City Qualifying\nOn what could potentially be a historic weekend for Kimi Antonelli, the Mercedes driver will line up in P4 for the Mexico City Grand Prix.\nKimi Antonelli has conceded that feeling “more tense than usual” at the Mexico City Grand Prix – a weekend in which he could potentially seal his maiden World Championship – played a factor in his Qualifying performance, with the Italian not satisfied by his outing en route to P4.\nWhile the other Mercedes of George Russell looked to be in the fight for pole position – the Briton ultimately ending the session in P2 behind Lewis Hamilton – Antonelli had to settle for fifth place, which will subsequently become fourth on the grid due to a one-place penalty for Max Verstappen ahead.\nTwenty-four hours ahead of what might be a momentous day for the youngster – with a P9 finish being enough to secure the title – Antonelli admitted when reflecting back on the session that it had not been the most straightforward outing amid low-grip conditions.\n“It was tricky for everyone, I think,” the championship leader explained. “I just feel like I didn't do a good enough job out there and didn't have the most confidence. Definitely I've been a bit more tense this weekend than usual, but yeah, still a lot to play for tomorrow.”\nPushed on what his mindset is entering into Sunday’s race, Antonelli acknowledged that approaching it as normal has been a challenge.\n“I mean, it hasn't been easy this weekend, to be fair,” the 20-year-old said. “It hasn't been easy, especially to keep my emotions flat, and definitely I've been a bit more tense than usual so also that played a big factor.\n“But I'll try to enjoy the evening with family and friends and then focus onto tomorrow.”\nShould Antonelli clinch the crown, the driver from Italy will become the sport’s youngest-ever World Champion.\nNext Up"
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/f1/news/12040/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
-     "title": "Antonelli feeling 'tense' amid effort to seal F1 title",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-f1-kimi-antonelli_7393584.jpg?20261101003807"
-     },
-     "id": "d15b79a9597969c0",
-     "published": "2026-11-01T00:45+00:00",
-     "text": "Kimi Antonelli: Mercedes driver admits to feeling 'tense' amid effort to seal F1 title at Mexico City Grand Prix\nKimi Antonelli needs top-nine finish to become world champion at Mexico City Grand Prix; he only qualified fifth and was off the pace compared to Mercedes team-mate George Russell; watch Sunday's race at 8pm (build-up from 6.30pm), live on Sky Sports F1\nSunday 1 November 2026 00:48, UK\nKimi Antonelli has admitted to feeling \"more tense than usual\" ahead of attempting to seal the Formula 1 world championship at Sunday's Mexico City Grand Prix.\nThe 20-year-old only needs to finish ninth in the race to become the sport's youngest world champion.\nAntonelli qualified fifth on Saturday but will start from fourth on the grid due to a penalty for Max Verstappen.\n- How Kimi Antonelli can win world title in Mexico on Sunday\n- Mexico City GP schedule | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts\n- Latest Sky Sports deals or stream F1 with no contract\nSpeaking after the session, the Italian revealed that he is not feeling his best as he continues to recover from an illness that caused him to miss his media duties on Thursday.\nHe told Sky Sports F1: \"It has not been the easiest weekend to be fair.\n\"Definitely still not feeling 100 per cent. There is talk of what could happen [with the championship] and definitely I'm a bit more tense than usual.\n\"Definitely I don't feel as relaxed but I try to have a good sleep tonight and focus on tomorrow.\"\nDespite his condition, Antonelli was still able to produce a decent final lap in qualifying as he finished within two tenths of pole-sitter Lewis Hamilton.\nHowever, the fact that his team-mate George Russell was only marginally behind Hamilton in second perhaps reflected the Italian not being able to summon his best level.\nAntonelli added: \"I struggled to get a good feeling from the tyres in Q3. I just didn't have the most confidence. I was a bit tense, I am not going to lie.\n\"It was a poor lap, many mistakes here and there. Overall, still P4 and a lot to play for tomorrow.\"\n'It's insane!' - Norris happy to pass No 1 onto Antonelli\nLando Norris says he is \"more than happy\" to pass the number one he has had on his McLaren this year to Antonelli when the Mercedes driver replaces him as world champion.\nAntonelli has massively exceeded expectations during just his second season in F1 to comprehensively outperform Russell, who began the year as the clear title favourite.\n\"He's done an incredible job and done it in a pretty incredible way,\" Norris said ahead of the race weekend in Mexico.\n\"People are saying he hasn't had any tough competition this year. That proves the point that he's done such an incredible job.\n\"He's got a very, very talented team-mate that he's beaten through the whole season.\n\"I have nothing but respect for Kimi. He's a very nice guy. We get along very well and I'm more than happy to pass the No 1 over to him.\n\"He deserves it. He's done an incredible job, especially in his second year in Formula 1. Youngest world champion, it's pretty insane.\n\"I enjoy other people having that kind of success. It's nice to see.\"\nSunday November 1\n6.30pm: Grand Prix Sunday: Mexico City GP build-up\n8pm: THE MEXICO CITY GRAND PRIX*\n10pm: Chequered Flag: Mexico City GP reaction\n11pm: Ted's Notebook\n*also on Sky Sports Main Event\nFormula 1 is in Mexico City where Kimi Antonelli could win the Drivers' Championship in Sunday's race at 8pm (build-up from 6.30pm), "
     }
    ]
   },
@@ -1124,116 +1163,89 @@
    ]
   },
   {
-   "id": "cc68b9a7275",
+   "id": "c4f303f73a7",
    "kind": "news",
    "score": 14.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "\"إف بي آي\" يتهم كوريا الشمالية بالمسؤولية عن سرقة 6 مليارات دولار من باينانس",
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
    "official_image": null,
    "sources": [
     {
-     "source": "Al Jazeera Arabic",
+     "source": "NBC News",
      "trust": 2,
-     "url": "https://aljazeera.net/ebusiness/2026/11/1/%d8%a5%d9%81-%d8%a8%d9%8a-%d8%a2%d9%8a-%d9%8a%d8%aa%d9%87%d9%85-%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d8%a9?traffic_source=rss",
-     "title": "\"إف بي آي\" يتهم كوريا الشمالية بالمسؤولية عن سرقة 6 مليارات دولار من باينانس",
-     "lang": "ar",
+     "url": "https://nbcnews.com/sports/wnba/golden-state-valkyries-defeat-atlanta-dream-franchises-first-wnba-titl-rcna606267",
+     "title": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
+     "lang": "en",
      "extra": {
-      "page_image": "https://www.aljazeera.net/wp-content/uploads/2026/11/reuters_6ae66e8a-1793486474.jpg?resize=1200%2C675"
+      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261031-veronica-burton-rc-908p-caa3a0.jpg"
      },
-     "id": "c68b9a72750d2ec2",
-     "published": "2026-10-31T21:17+00:00",
-     "text": "اتهم مكتب التحقيقات الاتحادي (إف بي آي) -السبت- كوريا الشمالية بالمسؤولية عن سرقة أكثر من 6 مليارات دولار من الأصول الرقمية من منصة باينانس لتداول العملات المشفرة.\nوقال المكتب إن جهات خبيثة من كوريا الشمالية رُصدت وهي تعمل على إخفاء مصدر الأصول المسروقة عبر تحويلها إلى عملة إيثريوم.\nأخبار مقترحة\nوأضاف أنه يتوقع أن تمر هذه الأصول المسروقة \"بمراحل إضافية من غسل الأموال\".\nويؤكد المحققون الأميركيون أنهم حددوا هوية الجهة المسؤولة عن عملية السرقة الضخمة هذه، وهي مجموعة من القراصنة الإلكترونيين الكوريين الشماليين تعرف باسم \"تريدر ترايتور\".\nونشر \"إف بي آي\" قائمة تضم حوالى 500 عنوان على شبكة \"إيثيريوم\" يستخدمها أعضاء \"تريدر ترايتور\" لغسل الأصول المسروقة، وطلب من منصات العملات المشفرة وخدمات التمويل اللامركزي وشركات تحليل \"البلوكتشين\" حظر المعاملات المرتبطة بهذه العناوين.\nومساء الخميس أعلنت بينانس أنها تعرضت لاختراق أمني قُدرت آثاره المالية بنحو 6.3 مليارات دولار، في واقعة أثارت اضطرابا في سوق الأصول الرقمية، وأعادت المخاوف بشأن قدرة منصات التداول على حماية أموال المستخدمين.\nوأعلنت باينانس -إحدى أكبر منصة تداول العملات المشفرة في العالم- ارتفاع نسبة تغطية الخسائر الناجمة عن الهجوم الإلكتروني إلى 90%، بعدما كانت النسبة 80% في تحديثها الأمني السابق، في خطوة تهدف إلى إعادة بناء الاحتياطيات الرقمية المتضررة وحماية أرصدة المستخدمين.\nواعتبر مراقبون أن هذا الهجوم ربما يكون الأكبر من نوعه على الإطلاق، متجاوزا في حجمه سرقة 1.5 مليار دولار من منصة \"باي بيت\" في فبراير/شباط 2025، وهي حادثة نُسبت حينها إلى قراصنة مرتبطين بكوريا الشمالية."
+     "id": "dc536991493968a2",
+     "published": "2026-11-01T02:25+00:00",
+     "text": "In only their second season in existence, the Golden State Valkyries are WNBA champions.\nThe Valkyries won their first title in franchise history on Saturday, defeating the Atlanta Dream 68-63 in the first Game 7 in WNBA Finals history. Forward Gabby Williams led with 30 points.\nPurple confetti rained down onto the court as the crowd erupted in cheers, and the Valkyries celebrated the historic victory.\n“I love moments like this,” Williams said moments after the final buzzer. “Nat told me to be patient in the first half. It was hard, but I listened to her. She’s right as always and she got us here,” she said referring to head coach Natalie Nakase.\nWilliams was named the Finals MVP following her stunning performance, scoring more points than anybody in a half in WNBA post-season history. Though she scored just two points in the first half, she rallied with 15 points in the third quarter and 13 in the fourth.\nAccepting her award, she said, “I wasn’t gonna lose on Halloween.”\nTeammate Kiah Stokes led rebounds at 13.\nGolden State’s quick rise to the top of the sport, coupled with the team’s rabid fanbase, has already made the Valkyries one of the signature franchises in the WNBA.\nIn the team’s inaugural season, Golden State finished 23-21 and bowed out in the first round of the playoffs, the only time an expansion team reached the postseason in its first year in league history.\nPrior to the 2026 season, the Valkyries rebuilt their frontcourt, signing Williams after she made her first All-Star team, and also adding center Kiah Stokes, previously of the Las Vegas Aces, via free agency.\nWilliams became the team’s leading scorer, while Stokes added a rebounding presence in the middle. Directing the action was fifth-year guard Veronica Burton, who led the team in assists during the regular season.\nThe rebuilt roster allowed Nakase — a two-time champion as a player and the reigning Coach of the Year — to push the right buttons in the Finals. After Golden State won the first game, Atlanta roared back with double-digit blowout wins to take a 2-1 lead.\nNakase shortened her rotation after Game 3, while also swapping out multiple players in her starting lineup. As she leaned more heavily on on her big three of Williams, Stokes and Burton, the Valkyries answered with two consecutive wins of its own to retake the series edge, at 3-2.\nAtlanta staved off elimination Thursday in Game 6 in Atlanta in a game that tipped off at 12:30 p.m. ET due to difficulties scheduling around previous events taking place at Atlanta’s State Farm Arena, a much larger venue than the Dream’s typical home arena, which seats fewer than 4,000.\nGolden State’s championship run coincided with a business boom for the franchise, which has the same principal ownership group as the NBA’s Golden State Warriors.\nIn May, CNBC valued Golden State at $1 billion, making the Valkyries the first WNBA team to reach that threshold. Meanwhile, during the regular season, Golden State led the WNBA in both average attendance and total attendance.\nPlaying at the Chase Center — which Valkyries fans have dubbed “Ballhalla” — Golden State has sold out every home game during its two seasons of existence.\nNow, with a WNBA championship trophy in tow, the excitement around the Valkyries should only grow as the team looks to go back to back in 2027."
     },
     {
-     "source": "Sky News Arabia",
+     "source": "Anadolu",
      "trust": 2,
-     "url": "https://skynewsarabia.com/world/1901846-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AD%D9%85%D9%84-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%B3%D8%B1%D9%82%D8%A9-6-3-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
-     "title": "واشنطن تحمل كوريا الشمالية مسؤولية \"سرقة\" 6.3 مليارات دولار",
-     "lang": "ar",
+     "url": "https://aa.com.tr/en/sports/golden-state-valkyries-beat-atlanta-dream-to-win-first-wnba-championship/4107702",
+     "title": "Golden State Valkyries beat Atlanta Dream to win first WNBA championship",
+     "lang": "en",
      "extra": {},
-     "id": "a1f48e9155395af7",
-     "published": "2026-11-01T00:51+00:00",
-     "text": "أعلنت منصة \"بينانس\" لتداول العملات المشفرة، أنها تمكنت من تعويض نسبة 90 بالمئة من الأصول التي سُرقت في اختراق غير مسبوق بلغ حجمه 6.3 مليارات دولار، باستخدام أموال الشركة لشراء رموز رقمية جديدة.\nوأكدت منصة \"بينانس\" أن النسبة المتبقية البالغة 10% تتكون من رموز رقمية أقل سيولة، مما يعني أن استردادها أو شراءها بالكميات المطلوبة قد يستغرق وقتا أطول.\nوفي السياق ذاته، أعلن مكتب التحقيقات الاتحادي الأميركي (إف بي آي) أن كوريا الشمالية مسؤولة عن الهجوم السيبراني، منسبا العملية إلى قراصنة ينتمون إلى مجموعة \"تريدر ترايتور\" المدعومة من الدولة.\nوأوضح المكتب أن جهات إنفاذ القانون رصدت عناصر من المجموعة وهم يحولون الأصول المسروقة بشكل أساسي إلى عملة الإيثريوم، مرجحا استخدام خدمات التمويل اللامركزي والتبادل الفوري في عمليات غسيل لاحقة.\nوكانت شركة \"تي آر إم لابس\" لتحليل البلوكتشين قد ربطت الهجوم بالمجموعة ذاتها في وقت سابق، موضحة أن المهاجمين حولوا معظم المبلغ في غضون 20 دقيقة فقط، في محاولة واضحة لتفادي تجميد الأصول.\nتفاصيل الاختراق\nوقال ريتشارد تنج، الرئيس التنفيذي المشارك للشركة، إن الاختراق كان \"هجوما معقدا\" تضمن استخدام جهاز كمبيوتر محمول مخترق وبرمجيات خبيثة صممت لحذف الأدلة على نشاطها، مما صعب عمليات التتبع والتحقيق.\nوتنوعت الأصول المسروقة بين البتكوين والإيثريوم، بالإضافة إلى عملات مستقرة مثل \"تيثر\" و\"يو إس دي كوين\".\nوكشف تنج عن أن الشركة خصصت نحو 6.34 مليارات دولار من أموالها لتغطية الخسائر، مؤكدا أن المستخدمين لن يتحملوا الأثر المالي لهذه الواقعة.\nوأوضح أن الأموال التي أنفقتها لإعادة شراء الرموز جاءت من استخدام جزء من \"صندوق الأصول الآمنة للمستخدمين\" البالغة قيمته مليار دولار (وهو احتياطي من البتكوين تحتفظ به لحماية العملاء)، إضافة إلى جزء من صندوق التأمين الخاص بعقودها الآجلة وخزانة الشركة.\nوأشارت منصة بينانس إلى أنها أوقفت عمليات سحب أموال العملاء بعد الاختراق، لكنها لا تزال في طريقها لاستئناف السحب غدا الأحد. كما التقطت صورة جديدة للأصول المحتفظ بها على منصتها في إطار عملية \"إثبات الاحتياطيات\"، مؤكدة أن المستخدمين الذين يحتفظون بالرموز العشرة المدرجة سيتمكنون من التحقق من أن أصولهم مدعومة بنسبة لا تقل عن 1 إلى 1.\nوانخفضت أسعارالعملات المشفرة الجمعة، فيما سعت بينانس، أكبر منصة لتداول العملات المشفرة في العالم، إلى طمأنة العملاء بأن أموالهم آمنة. ويرجح أن يكون هذا الهجوم السيبراني أضخم عملية سطو تستهدف منصة لتداول العملات المشفرة حتى الآن."
+     "id": "45e8f1885e50b778",
+     "published": "2026-11-01T03:00+00:00",
+     "text": "Gabby Williams scores 30 points as Golden State claims title in just its second season"
     },
     {
-     "source": "Google News Business AR",
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss",
+     "title": "Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__2302466732__v1__HighRes__2026WnbaFinalsGameSeven-1793512510.jpg?resize=1800%2C1200&quality=80"
+     },
+     "id": "ab53423fd2ac3468",
+     "published": "2026-11-01T06:17+00:00",
+     "text": "In a near single-handed performance, Gabby Williams helped the Golden State Valkyries defeat the Atlanta Dream 68-63 in Game 7 of the WNBA Finals to give the West Coast franchise a championship title in the second year of its existence.\nWilliams scored 28 of her game-high 30 points in the second half to force a turnaround and bag the Finals Most Valuable Player (MVP) award in San Francisco on Saturday.\nRecommended Stories\nlist of 4 items- list 1 of 4LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers\n- list 2 of 4Northern Nigeria’s female basketball players chase bigger dreams\n- list 3 of 4Former NBA player Enes Kanter ejected after confrontation with WNBA’s Cloud\n- list 4 of 4USA hold off spirited France to win Women’s Basketball World Cup\nKiah Stokes converted a Williams miss into a key hoop with 53 seconds left to the deafening cheers of “Ballhalla”, as the Valkyries’ home crowd is known at the Chase Center.\nIn what was mostly a defensive struggle, Williams was the difference in the end, including winning a jump ball over Allisha Gray with 8.3 seconds to go.\nWith the likes of former San Francisco Giants superstar Barry Bonds and multiple NBA title-winner Draymond Green of the Golden State Warriors rooting her on, Veronica Burton was fouled with 5.1 seconds remaining and produced the final points in the Valkyries’ storybook season.\nOn a night when the WNBA had its first Game 7 in a championship final series, strength in numbers was credited for propelling the second-year franchise to historic heights.\nFrom owner Joe Lacob to coach Natalie Nakase and the star, Williams, one number stood out: 18,064.\n“Ballhalla,” Lacob screamed into a live microphone in tribute to the capacity crowd during the trophy ceremony.\nWilliams overcame a two-point first half to become the first player in WNBA postseason history to score 28 points in a half.\nThe Valkyries’ only All-Star, who was added as a free agent in the offseason, joined Lacob in thanking a crowd that has sold out every game in franchise history, setting league attendance records.\n“Honestly, everyone here, not just the players and the staff. [Also] the community, the city, the [San Francisco] Bay [Area],” she gushed on court shortly after having been named the MVP.\n“Y’all have been pouring into me all season. It’s a long season and y’all gave me energy.\n“When the energy is this good and positive, it’s easy to come to work every day. That’s what I came here for.”\nPlaying 38 of the game’s 40 minutes, Williams saved enough energy to do a Stephen Curry impersonation on a go-ahead 3-pointer with 2:18 to go and later win a key jump ball, and Kiah Stokes converted a rare Williams late miss into a key hoop with 53 seconds left, sending the violet-clad crowd into a frenzy.\nIn the end, Nakase recognised the enormity of piecing together a bunch of players left unprotected in the expansion draft, a handful of international imports and one key free-agent signing into the league’s second-best record in the regular season and the first-ever Game 7 winner in WNBA history.\n“This is for all the people out there who are underrated, misunderstood. This is for all y’all,” she insisted from midcourt to her home fans and a national television audience as well. “This is proof: If you put all your heart and all your soul [into it], you can win championships.”\nRallying from a nine-point deficit in the third quarter, the Valkyries were tied at 53-all midway through the fourth after Allisha Gray conn"
+    },
+    {
+     "source": "Google News Sports EN",
      "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxONHdIVVB2aDB1TFJMazdzeW5uMHVLdDNRaGE1SGgtaUQxSkhmMHpwNVhiT0M2NWhJeVBzdWhndjYyXzV0UFFsODh6QVBpRXoyMVNsZG5NR2R2bU03Nld4LThEX29ibWdCSmdJVVRHcGc2ZHVva2xHOC1Tb3dDbU5CaUtUVWgzZUN4Tkh0ZmpHWXhaczdMSDZxUlpoT0VKWGJPSWdTZG5IdXFPTEFuMlpDbXNFb0U5bGJDRFYxTjlxSmNHVU1IYVlhOHJseG01SkhheVBESmpQdUp4cjZLeE1OV3FwT2VibjdUZzVQNlZWRnFXQzdadERiUk9uWnNWTkdYRnFHOUdMUHlGUUFteWhGdVEyci01NHFDSU1Pck84WkJ6SHpkWnlYZUJBUnlpdXZ5MEZ1UnotSjlkRUhZZkJnbm8xWGJ1TTdtYml1N1RtVmJTd0htTl84NUZ5OUVtUlJIOWwxX1pEZTlneTFOc1lpUUJfTURLVGlkV2drc0QxYjhDNmpLUkNPbzhpeWdqdk1Kdk9oS01NRTJ0V1Bfdk84dWt3UGdUWl9ZR3p2M1k5YjhMSG5Td1g5SlRxeVlLLU14d2dZUWVwUVNKUjVUUGhOQVJXSVNGbmtCMngxZG03eU5tcXBnSVJtME1HQ1FmTTFFeGdkeTZMSFMzNkpkNTgzbGY3XzFDbGx0VURORERJN2NrVzBNVFN5TmxwdFZSQmhfaTB6bTBrblNiTl9NMm9JUG1ndERfVjJBaU9qSER1WjZvVHFCOGNQNGhfTlk1XzZzYTVxR1JGbzhDN2NfRlJLZ1hRSWZYcVlUNXRWZ0dUTXYtM2RQNWtjMThheGg4WGJQN2djZ1NRSDViZUpxOUVMX1JPcGRUTkNvbFdyNzNJQ2RxRUVmY1VpQVJR0gGvBUFVX3lxTFBjZzJiWXdKME9sVkt3YUZ1cmNjcUN2anM0T0I5THA4bFh6QWd6WnBETkF5VnFXc1d0dGE1dXd6QUFzNWViTGJ0dS1ZWmZVU3paX0pXUGpBTDdKWlBIQ1ZfMFZOSUZubHoyMUctS2NvelRxZmZDTXA5S2VZRnBWVERibExnV3N0NDMyLU1XVTVoYTg0T29uOEdKclc5aUpjRnE2ZGRqandYYWh2eXlTcThycjJVVEIyMFpLQjkySk96MW91b2h6bjhPUXpNNUstYVRrYmowNEwtWE92OXRPdmxzU0c1eTc0RThDVjhwQlVjMTVnbU5pQUY3bVNVdERWR05hVHlpLXhaMTgxdzJwMWtQa1BwTXFOVHVsOGd3cHIteE9XRFhmRFZiTU1RSzNIZG5nNlJjY3U4UEZvYzR4T2VvR0VkRFZaQklmNnNDeFZvSjNWcmlwMFJ2NWRIMzhNNjVaSkVoVDZsdXVYcTdEMFhXRTJFajVNeGpITUdOcU1SNlRPcEdiU1d2VWRGVmpqRDBhcTZoVlV4T0Zyd1ZQVUpZU3EwUzRpaG84Sm5ra3ljWXFsMHVLX0lVdXJpeEE1M3VEZDUzRll4NTlPQlZYeVJ6RTFya1BmNnM1Q0RMMl93U040VF9RWWI2cWpwQXZtNGRka1BLaTkxN3NyWlhxdDBUUVg2X18tQXdWa3pweWQ1XzAwZTc0eHlTY0hZMi04Wnh6VWZJd1ItZjFZc0F3VVAzRm5sbTJjbWt4S0dCamNpdjFCdmQzUHZEaUcyaS1pejZocEZvSWZpRmNxWXdOaTh2OEFfdFA2aXZLWTJHbEhEUk9TTmZTOS0tdGxiTmdPSk5MWUlCc3JqRV9TanlRTnlmTUVYVTBzWnUwX0VZN2pCa3BwT2wza2g0bEt2XzRZYw?oc=5",
-     "title": "إف بي آي: كوريا الشمالية وراء سرقة 6 مليارات دولار من منصة باينانس - العربية",
-     "lang": "ar",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWnEybGp0TU9WQmdBaXlEZXljdndGMFJCb2N0VjJpQVZYRFRyZHV3MWYwS0FDZ2dPLXlIczBnYWx2VFkzTnhERk5MTE1pMlZZWHBWNXlEWHlrWVM4Tm1SRTQyUTR4d09hQU9qZWxidDFyLWI5aXROSXZzQWY4ZEU4RWRuSTJiNS00bWt5N0hvQ1ZSOGZEQ3M4akZzemJ0SWxoc3BsYVpoRVN3VlJxNTNhekoyTi1BMHI4VVk0T2htOFdNbmhJ?oc=5",
+     "title": "Atlanta Dream v Golden State Valkyries: WNBA finals 2026 Game 7 – live updates - The Guardian",
+     "lang": "en",
      "extra": {
       "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
      },
-     "id": "c9cb464da9448669",
-     "published": "2026-11-01T01:29+00:00",
-     "text": "- إف بي آي: كوريا الشمالية وراء سرقة 6 مليارات دولار من منصة باينانس العربية\n- منصة \"بينانس\".. ماذا قال ترامب عن \"أكبر عملية اختراق في العالم\"؟ CNN Arabic\n- واشنطن تحمل كوريا الشمالية مسؤولية \"سرقة\" 6.3 مليارات دولار سكاي نيوز عربية\n- 6.3 مليار دولار فى دقائق.. تفاصيل الهجوم الإلكترونى الضخم على منصة باينانس اليوم السابع\n- بينانس تغطي 90% من الأصول المسروقة خلال الاختراق الجزيرة نت"
-    }
-   ]
-  },
-  {
-   "id": "c3cd2efd8fc",
-   "kind": "news",
-   "score": 13.5,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723980",
-     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
-     "lang": "en",
-     "extra": {},
-     "id": "2a80d7bbc1f321da",
-     "published": "2026-10-31T19:40+00:00",
-     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nSave $100 Off Apple Watch Ultra 4\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSave $10 off Ocarina of Time Remake Physical Copies\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nPikmin 4 for $39.88\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 + Expansion Pass Bundle for $39.94\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload (Switch 2) for $24.99\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nFinal Fantasy XIV: Dawntrail Art Book for $19.18\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales On Sale for the First Time\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nDragon Quest III HD-2D Remake for $19.99\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with t"
+     "id": "4f303f73a71e4749",
+     "published": "2026-10-31T23:08+00:00",
+     "text": "- Atlanta Dream v Golden State Valkyries: WNBA finals 2026 Game 7 – live updates The Guardian\n- First Game 7 in WNBA history will decide first title for Dream or Valkyries ESPN\n- USA Sports and NBC claim record WNBA Finals ratings, but the comparisons leave out important context Fox News\n- WNBA Finals odds, pick, prediction: Best bets for Dream-Valkyries Game 7 Yahoo Sports\n- Atlanta Took Golden State’s Lunch Money Defector"
     },
     {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/deal-apple-watch-ultra-3-2-3730301",
-     "title": "Score a $150 discount the Apple Watch Ultra 3",
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEI1bk5VZkVGeU5yaFBJTlhCY2xYYWdicVNkZDFIQW1sYlg4WUxnRm9GNGdvY1dNVE5haGpncjUzQU5Qb2U1WjhpcTFQa3dRS2wzZWdPdmtOWjJyMExtWVdlQzRjanZlMy1SRUFhU1hqRkZFQS00RFVCMk1XUnJDblVVekhtOUxvc2xicUJmN0lOQmFmcENzT2NuVElSNC1Cemo1c29pVC1VV0E?oc=5",
+     "title": "WNBA Finals live updates, Valkyries-Dream box score: Angel Reese, Dream force Game 7 vs. Valkyries with championship on the line - Yahoo Sports",
      "lang": "en",
-     "extra": {},
-     "id": "3cd2efd8fc135473",
-     "published": "2026-10-30T19:44+00:00",
-     "text": "Amazon just knocked $150 off the Apple Watch Ultra 3, dropping it from its $799 recommended retail price to $649. That’s a 19% discount relative to the RRP, and it’s a strong chance to grab Apple’s top adventure watch for a lot less.\nSee the deal at Amazon"
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "19cd670bae0c0e5c",
+     "published": "2026-11-01T00:35+00:00",
+     "text": "- WNBA Finals live updates, Valkyries-Dream box score: Angel Reese, Dream force Game 7 vs. Valkyries with championship on the line Yahoo Sports\n- First Game 7 in WNBA history will decide first title for Dream or Valkyries ESPN\n- Atlanta Dream vs. Golden State Valkyries Game 7: How to watch the 2026 WNBA Finals tonight, channel, where to stream and more Yahoo Sports\n- ‘We didn’t quit’: Valkyries encouraged for Game 7 of WNBA Finals despite nightmare start in Game 6 The Mercury News\n- Allisha Gray is ‘that girl’ as Dream force Game 7 of WNBA Finals The Atlanta Journal-Constitution"
     },
     {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/apple-watch-ultra-4-deal-3730321",
-     "title": "Apple Watch Ultra 4 falls to $699.99 in first major price cut",
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWxzVEdILWFZTEtDVUJnZFB4REVWV1Y3T2pMNUdDZzRpNWdRUjhuOG1qUUlRT1Zhd2NVbjZzRkdsdklCWl9KYVI4Q0ZoLWNYa3gtNXBDUlFXOFZZVTB3MDR4Z0NDdldMRUp2UmxOcjRVSmMwMFAxMmc4WnduckJJcVJEODJRd2t3YzlBSkdKZnNVbHF5YUswRWlZbEFqWHJheDN4bHlOenFMcFZsV3hrZl9TN0pQV19K?oc=5",
+     "title": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title - NBC News",
      "lang": "en",
-     "extra": {},
-     "id": "c8ce7d7806b0baee",
-     "published": "2026-10-30T21:36+00:00",
-     "text": "The Apple Watch Ultra 4 just got its first big price cut since launch, and it’s a strong one. On Amazon, you can grab it for $699.99 instead of its $799 RRP, which is a 12% discount and a savings of $99.\nSee the deal at Amazon"
-    },
-    {
-     "source": "MacRumors",
-     "trust": 2,
-     "url": "https://macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts",
-     "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
-     "lang": "en",
-     "extra": {},
-     "id": "008ce375e96b3575",
-     "published": "2026-10-31T15:54+00:00",
-     "text": "The Apple Watch Ultra 4 has dropped to $699.99 on Amazon, down from $799.00. This is a match of the all-time low price on the new Ultra 4, which just launched in September.\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\nIf you're shopping for a Milanese Loop model, Amazon also has a $99 discount on one of these devices. You can get the Black Apple Watch Ultra 4 with Black Milanese Loop (Large) for $799.99, down from $899.00. Most of these watches have an estimated delivery date of early November, and some are offering same-day shipping for Prime members as well.\nIf you're on the hunt for more discounts, be sure to visit our Apple Deals roundup where we recap the best Apple-related bargains of the past week.\nDeals Newsletter\nInterested in hearing more about the best deals you can find as we head into the holidays? You can sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/best-deals-for-october-31-2026",
-     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
-     "lang": "en",
-     "extra": {},
-     "id": "6545c619b821c4bc",
-     "published": "2026-10-31T19:34+00:00",
-     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with the HD-2D art style that breathes new life into the adventure of Erdrick. Numerous quality-of-life features make this a game that's much more digestible than ever for genre newcomers, and the orchestrated soundtrack is a treat, too. Pick up a PS5 copy today for just $19.99.\nStar Wars Zero Company is one of the biggest sleeper hits of the year, and you can save $12 o"
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "c13bbc17e03a70e9",
+     "published": "2026-11-01T02:25+00:00",
+     "text": "- Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title NBC News\n- How Gabby Williams ignited the Valkyries to WNBA championship in their second season ESPN\n- Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship Fox News\n- Dream's series-extending Game 6 win was fifth most-watched WNBA Finals game ever despite early tip Yahoo Sports\n- Hawks at Pelicans, Dream at Valkyries: start times, TV, streaming, radio, combined thread Peachtree Hoops"
     }
    ]
   },
@@ -1606,6 +1618,54 @@
    ]
   },
   {
+   "id": "cc68b9a7275",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "\"إف بي آي\" يتهم كوريا الشمالية بالمسؤولية عن سرقة 6 مليارات دولار من باينانس",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Al Jazeera Arabic",
+     "trust": 2,
+     "url": "https://aljazeera.net/ebusiness/2026/11/1/%d8%a5%d9%81-%d8%a8%d9%8a-%d8%a2%d9%8a-%d9%8a%d8%aa%d9%87%d9%85-%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d8%a9?traffic_source=rss",
+     "title": "\"إف بي آي\" يتهم كوريا الشمالية بالمسؤولية عن سرقة 6 مليارات دولار من باينانس",
+     "lang": "ar",
+     "extra": {
+      "page_image": "https://www.aljazeera.net/wp-content/uploads/2026/11/reuters_6ae66e8a-1793486474.jpg?resize=1200%2C675"
+     },
+     "id": "c68b9a72750d2ec2",
+     "published": "2026-10-31T21:17+00:00",
+     "text": "اتهم مكتب التحقيقات الاتحادي (إف بي آي) -السبت- كوريا الشمالية بالمسؤولية عن سرقة أكثر من 6 مليارات دولار من الأصول الرقمية من منصة باينانس لتداول العملات المشفرة.\nوقال المكتب إن جهات خبيثة من كوريا الشمالية رُصدت وهي تعمل على إخفاء مصدر الأصول المسروقة عبر تحويلها إلى عملة إيثريوم.\nأخبار مقترحة\nوأضاف أنه يتوقع أن تمر هذه الأصول المسروقة \"بمراحل إضافية من غسل الأموال\".\nويؤكد المحققون الأميركيون أنهم حددوا هوية الجهة المسؤولة عن عملية السرقة الضخمة هذه، وهي مجموعة من القراصنة الإلكترونيين الكوريين الشماليين تعرف باسم \"تريدر ترايتور\".\nونشر \"إف بي آي\" قائمة تضم حوالى 500 عنوان على شبكة \"إيثيريوم\" يستخدمها أعضاء \"تريدر ترايتور\" لغسل الأصول المسروقة، وطلب من منصات العملات المشفرة وخدمات التمويل اللامركزي وشركات تحليل \"البلوكتشين\" حظر المعاملات المرتبطة بهذه العناوين.\nومساء الخميس أعلنت بينانس أنها تعرضت لاختراق أمني قُدرت آثاره المالية بنحو 6.3 مليارات دولار، في واقعة أثارت اضطرابا في سوق الأصول الرقمية، وأعادت المخاوف بشأن قدرة منصات التداول على حماية أموال المستخدمين.\nوأعلنت باينانس -إحدى أكبر منصة تداول العملات المشفرة في العالم- ارتفاع نسبة تغطية الخسائر الناجمة عن الهجوم الإلكتروني إلى 90%، بعدما كانت النسبة 80% في تحديثها الأمني السابق، في خطوة تهدف إلى إعادة بناء الاحتياطيات الرقمية المتضررة وحماية أرصدة المستخدمين.\nواعتبر مراقبون أن هذا الهجوم ربما يكون الأكبر من نوعه على الإطلاق، متجاوزا في حجمه سرقة 1.5 مليار دولار من منصة \"باي بيت\" في فبراير/شباط 2025، وهي حادثة نُسبت حينها إلى قراصنة مرتبطين بكوريا الشمالية."
+    },
+    {
+     "source": "Sky News Arabia",
+     "trust": 2,
+     "url": "https://skynewsarabia.com/world/1901846-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%AA%D8%AD%D9%85%D9%84-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9-%D8%B3%D8%B1%D9%82%D8%A9-6-3-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A7%D8%B1",
+     "title": "واشنطن تحمل كوريا الشمالية مسؤولية \"سرقة\" 6.3 مليارات دولار",
+     "lang": "ar",
+     "extra": {},
+     "id": "a1f48e9155395af7",
+     "published": "2026-11-01T00:51+00:00",
+     "text": "أعلنت منصة \"بينانس\" لتداول العملات المشفرة، أنها تمكنت من تعويض نسبة 90 بالمئة من الأصول التي سُرقت في اختراق غير مسبوق بلغ حجمه 6.3 مليارات دولار، باستخدام أموال الشركة لشراء رموز رقمية جديدة.\nوأكدت منصة \"بينانس\" أن النسبة المتبقية البالغة 10% تتكون من رموز رقمية أقل سيولة، مما يعني أن استردادها أو شراءها بالكميات المطلوبة قد يستغرق وقتا أطول.\nوفي السياق ذاته، أعلن مكتب التحقيقات الاتحادي الأميركي (إف بي آي) أن كوريا الشمالية مسؤولة عن الهجوم السيبراني، منسبا العملية إلى قراصنة ينتمون إلى مجموعة \"تريدر ترايتور\" المدعومة من الدولة.\nوأوضح المكتب أن جهات إنفاذ القانون رصدت عناصر من المجموعة وهم يحولون الأصول المسروقة بشكل أساسي إلى عملة الإيثريوم، مرجحا استخدام خدمات التمويل اللامركزي والتبادل الفوري في عمليات غسيل لاحقة.\nوكانت شركة \"تي آر إم لابس\" لتحليل البلوكتشين قد ربطت الهجوم بالمجموعة ذاتها في وقت سابق، موضحة أن المهاجمين حولوا معظم المبلغ في غضون 20 دقيقة فقط، في محاولة واضحة لتفادي تجميد الأصول.\nتفاصيل الاختراق\nوقال ريتشارد تنج، الرئيس التنفيذي المشارك للشركة، إن الاختراق كان \"هجوما معقدا\" تضمن استخدام جهاز كمبيوتر محمول مخترق وبرمجيات خبيثة صممت لحذف الأدلة على نشاطها، مما صعب عمليات التتبع والتحقيق.\nوتنوعت الأصول المسروقة بين البتكوين والإيثريوم، بالإضافة إلى عملات مستقرة مثل \"تيثر\" و\"يو إس دي كوين\".\nوكشف تنج عن أن الشركة خصصت نحو 6.34 مليارات دولار من أموالها لتغطية الخسائر، مؤكدا أن المستخدمين لن يتحملوا الأثر المالي لهذه الواقعة.\nوأوضح أن الأموال التي أنفقتها لإعادة شراء الرموز جاءت من استخدام جزء من \"صندوق الأصول الآمنة للمستخدمين\" البالغة قيمته مليار دولار (وهو احتياطي من البتكوين تحتفظ به لحماية العملاء)، إضافة إلى جزء من صندوق التأمين الخاص بعقودها الآجلة وخزانة الشركة.\nوأشارت منصة بينانس إلى أنها أوقفت عمليات سحب أموال العملاء بعد الاختراق، لكنها لا تزال في طريقها لاستئناف السحب غدا الأحد. كما التقطت صورة جديدة للأصول المحتفظ بها على منصتها في إطار عملية \"إثبات الاحتياطيات\"، مؤكدة أن المستخدمين الذين يحتفظون بالرموز العشرة المدرجة سيتمكنون من التحقق من أن أصولهم مدعومة بنسبة لا تقل عن 1 إلى 1.\nوانخفضت أسعارالعملات المشفرة الجمعة، فيما سعت بينانس، أكبر منصة لتداول العملات المشفرة في العالم، إلى طمأنة العملاء بأن أموالهم آمنة. ويرجح أن يكون هذا الهجوم السيبراني أضخم عملية سطو تستهدف منصة لتداول العملات المشفرة حتى الآن."
+    },
+    {
+     "source": "Google News Business AR",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxONHdIVVB2aDB1TFJMazdzeW5uMHVLdDNRaGE1SGgtaUQxSkhmMHpwNVhiT0M2NWhJeVBzdWhndjYyXzV0UFFsODh6QVBpRXoyMVNsZG5NR2R2bU03Nld4LThEX29ibWdCSmdJVVRHcGc2ZHVva2xHOC1Tb3dDbU5CaUtUVWgzZUN4Tkh0ZmpHWXhaczdMSDZxUlpoT0VKWGJPSWdTZG5IdXFPTEFuMlpDbXNFb0U5bGJDRFYxTjlxSmNHVU1IYVlhOHJseG01SkhheVBESmpQdUp4cjZLeE1OV3FwT2VibjdUZzVQNlZWRnFXQzdadERiUk9uWnNWTkdYRnFHOUdMUHlGUUFteWhGdVEyci01NHFDSU1Pck84WkJ6SHpkWnlYZUJBUnlpdXZ5MEZ1UnotSjlkRUhZZkJnbm8xWGJ1TTdtYml1N1RtVmJTd0htTl84NUZ5OUVtUlJIOWwxX1pEZTlneTFOc1lpUUJfTURLVGlkV2drc0QxYjhDNmpLUkNPbzhpeWdqdk1Kdk9oS01NRTJ0V1Bfdk84dWt3UGdUWl9ZR3p2M1k5YjhMSG5Td1g5SlRxeVlLLU14d2dZUWVwUVNKUjVUUGhOQVJXSVNGbmtCMngxZG03eU5tcXBnSVJtME1HQ1FmTTFFeGdkeTZMSFMzNkpkNTgzbGY3XzFDbGx0VURORERJN2NrVzBNVFN5TmxwdFZSQmhfaTB6bTBrblNiTl9NMm9JUG1ndERfVjJBaU9qSER1WjZvVHFCOGNQNGhfTlk1XzZzYTVxR1JGbzhDN2NfRlJLZ1hRSWZYcVlUNXRWZ0dUTXYtM2RQNWtjMThheGg4WGJQN2djZ1NRSDViZUpxOUVMX1JPcGRUTkNvbFdyNzNJQ2RxRUVmY1VpQVJR0gGvBUFVX3lxTFBjZzJiWXdKME9sVkt3YUZ1cmNjcUN2anM0T0I5THA4bFh6QWd6WnBETkF5VnFXc1d0dGE1dXd6QUFzNWViTGJ0dS1ZWmZVU3paX0pXUGpBTDdKWlBIQ1ZfMFZOSUZubHoyMUctS2NvelRxZmZDTXA5S2VZRnBWVERibExnV3N0NDMyLU1XVTVoYTg0T29uOEdKclc5aUpjRnE2ZGRqandYYWh2eXlTcThycjJVVEIyMFpLQjkySk96MW91b2h6bjhPUXpNNUstYVRrYmowNEwtWE92OXRPdmxzU0c1eTc0RThDVjhwQlVjMTVnbU5pQUY3bVNVdERWR05hVHlpLXhaMTgxdzJwMWtQa1BwTXFOVHVsOGd3cHIteE9XRFhmRFZiTU1RSzNIZG5nNlJjY3U4UEZvYzR4T2VvR0VkRFZaQklmNnNDeFZvSjNWcmlwMFJ2NWRIMzhNNjVaSkVoVDZsdXVYcTdEMFhXRTJFajVNeGpITUdOcU1SNlRPcEdiU1d2VWRGVmpqRDBhcTZoVlV4T0Zyd1ZQVUpZU3EwUzRpaG84Sm5ra3ljWXFsMHVLX0lVdXJpeEE1M3VEZDUzRll4NTlPQlZYeVJ6RTFya1BmNnM1Q0RMMl93U040VF9RWWI2cWpwQXZtNGRka1BLaTkxN3NyWlhxdDBUUVg2X18tQXdWa3pweWQ1XzAwZTc0eHlTY0hZMi04Wnh6VWZJd1ItZjFZc0F3VVAzRm5sbTJjbWt4S0dCamNpdjFCdmQzUHZEaUcyaS1pejZocEZvSWZpRmNxWXdOaTh2OEFfdFA2aXZLWTJHbEhEUk9TTmZTOS0tdGxiTmdPSk5MWUlCc3JqRV9TanlRTnlmTUVYVTBzWnUwX0VZN2pCa3BwT2wza2g0bEt2XzRZYw?oc=5",
+     "title": "إف بي آي: كوريا الشمالية وراء سرقة 6 مليارات دولار من منصة باينانس - العربية",
+     "lang": "ar",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "c9cb464da9448669",
+     "published": "2026-11-01T01:29+00:00",
+     "text": "- إف بي آي: كوريا الشمالية وراء سرقة 6 مليارات دولار من منصة باينانس العربية\n- منصة \"بينانس\".. ماذا قال ترامب عن \"أكبر عملية اختراق في العالم\"؟ CNN Arabic\n- واشنطن تحمل كوريا الشمالية مسؤولية \"سرقة\" 6.3 مليارات دولار سكاي نيوز عربية\n- 6.3 مليار دولار فى دقائق.. تفاصيل الهجوم الإلكترونى الضخم على منصة باينانس اليوم السابع\n- بينانس تغطي 90% من الأصول المسروقة خلال الاختراق الجزيرة نت"
+    }
+   ]
+  },
+  {
    "id": "c10d80ba426",
    "kind": "news",
    "score": 13.0,
@@ -1747,6 +1807,61 @@
      "id": "fd04b66f83a2c86b",
      "published": "2026-11-01T06:20+00:00",
      "text": ""
+    }
+   ]
+  },
+  {
+   "id": "cc8ce7d7806",
+   "kind": "news",
+   "score": 12.5,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723980",
+     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+     "lang": "en",
+     "extra": {},
+     "id": "2a80d7bbc1f321da",
+     "published": "2026-10-31T19:40+00:00",
+     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nSave $100 Off Apple Watch Ultra 4\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSave $10 off Ocarina of Time Remake Physical Copies\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nPikmin 4 for $39.88\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 + Expansion Pass Bundle for $39.94\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload (Switch 2) for $24.99\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nFinal Fantasy XIV: Dawntrail Art Book for $19.18\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales On Sale for the First Time\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nDragon Quest III HD-2D Remake for $19.99\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with t"
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/apple-watch-ultra-4-deal-3730321",
+     "title": "Apple Watch Ultra 4 falls to $699.99 in first major price cut",
+     "lang": "en",
+     "extra": {},
+     "id": "c8ce7d7806b0baee",
+     "published": "2026-10-30T21:36+00:00",
+     "text": "The Apple Watch Ultra 4 just got its first big price cut since launch, and it’s a strong one. On Amazon, you can grab it for $699.99 instead of its $799 RRP, which is a 12% discount and a savings of $99.\nSee the deal at Amazon"
+    },
+    {
+     "source": "MacRumors",
+     "trust": 2,
+     "url": "https://macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts",
+     "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
+     "lang": "en",
+     "extra": {},
+     "id": "008ce375e96b3575",
+     "published": "2026-10-31T15:54+00:00",
+     "text": "The Apple Watch Ultra 4 has dropped to $699.99 on Amazon, down from $799.00. This is a match of the all-time low price on the new Ultra 4, which just launched in September.\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\nIf you're shopping for a Milanese Loop model, Amazon also has a $99 discount on one of these devices. You can get the Black Apple Watch Ultra 4 with Black Milanese Loop (Large) for $799.99, down from $899.00. Most of these watches have an estimated delivery date of early November, and some are offering same-day shipping for Prime members as well.\nIf you're on the hunt for more discounts, be sure to visit our Apple Deals roundup where we recap the best Apple-related bargains of the past week.\nDeals Newsletter\nInterested in hearing more about the best deals you can find as we head into the holidays? You can sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/best-deals-for-october-31-2026",
+     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+     "lang": "en",
+     "extra": {},
+     "id": "6545c619b821c4bc",
+     "published": "2026-10-31T19:34+00:00",
+     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with the HD-2D art style that breathes new life into the adventure of Erdrick. Numerous quality-of-life features make this a game that's much more digestible than ever for genre newcomers, and the orchestrated soundtrack is a treat, too. Pick up a PS5 copy today for just $19.99.\nStar Wars Zero Company is one of the biggest sleeper hits of the year, and you can save $12 o"
     }
    ]
   },
@@ -2220,80 +2335,6 @@
    ]
   },
   {
-   "id": "c4f303f73a7",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/sports/wnba/golden-state-valkyries-defeat-atlanta-dream-franchises-first-wnba-titl-rcna606267",
-     "title": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261031-veronica-burton-rc-908p-caa3a0.jpg"
-     },
-     "id": "dc536991493968a2",
-     "published": "2026-11-01T02:25+00:00",
-     "text": "In only their second season in existence, the Golden State Valkyries are WNBA champions.\nThe Valkyries won their first title in franchise history on Saturday, defeating the Atlanta Dream 68-63 in the first Game 7 in WNBA Finals history. Forward Gabby Williams led with 30 points.\nPurple confetti rained down onto the court as the crowd erupted in cheers, and the Valkyries celebrated the historic victory.\n“I love moments like this,” Williams said moments after the final buzzer. “Nat told me to be patient in the first half. It was hard, but I listened to her. She’s right as always and she got us here,” she said referring to head coach Natalie Nakase.\nWilliams was named the Finals MVP following her stunning performance, scoring more points than anybody in a half in WNBA post-season history. Though she scored just two points in the first half, she rallied with 15 points in the third quarter and 13 in the fourth.\nAccepting her award, she said, “I wasn’t gonna lose on Halloween.”\nTeammate Kiah Stokes led rebounds at 13.\nGolden State’s quick rise to the top of the sport, coupled with the team’s rabid fanbase, has already made the Valkyries one of the signature franchises in the WNBA.\nIn the team’s inaugural season, Golden State finished 23-21 and bowed out in the first round of the playoffs, the only time an expansion team reached the postseason in its first year in league history.\nPrior to the 2026 season, the Valkyries rebuilt their frontcourt, signing Williams after she made her first All-Star team, and also adding center Kiah Stokes, previously of the Las Vegas Aces, via free agency.\nWilliams became the team’s leading scorer, while Stokes added a rebounding presence in the middle. Directing the action was fifth-year guard Veronica Burton, who led the team in assists during the regular season.\nThe rebuilt roster allowed Nakase — a two-time champion as a player and the reigning Coach of the Year — to push the right buttons in the Finals. After Golden State won the first game, Atlanta roared back with double-digit blowout wins to take a 2-1 lead.\nNakase shortened her rotation after Game 3, while also swapping out multiple players in her starting lineup. As she leaned more heavily on on her big three of Williams, Stokes and Burton, the Valkyries answered with two consecutive wins of its own to retake the series edge, at 3-2.\nAtlanta staved off elimination Thursday in Game 6 in Atlanta in a game that tipped off at 12:30 p.m. ET due to difficulties scheduling around previous events taking place at Atlanta’s State Farm Arena, a much larger venue than the Dream’s typical home arena, which seats fewer than 4,000.\nGolden State’s championship run coincided with a business boom for the franchise, which has the same principal ownership group as the NBA’s Golden State Warriors.\nIn May, CNBC valued Golden State at $1 billion, making the Valkyries the first WNBA team to reach that threshold. Meanwhile, during the regular season, Golden State led the WNBA in both average attendance and total attendance.\nPlaying at the Chase Center — which Valkyries fans have dubbed “Ballhalla” — Golden State has sold out every home game during its two seasons of existence.\nNow, with a WNBA championship trophy in tow, the excitement around the Valkyries should only grow as the team looks to go back to back in 2027."
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/sports/golden-state-valkyries-beat-atlanta-dream-to-win-first-wnba-championship/4107702",
-     "title": "Golden State Valkyries beat Atlanta Dream to win first WNBA championship",
-     "lang": "en",
-     "extra": {},
-     "id": "45e8f1885e50b778",
-     "published": "2026-11-01T03:00+00:00",
-     "text": "Gabby Williams scores 30 points as Golden State claims title in just its second season"
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWnEybGp0TU9WQmdBaXlEZXljdndGMFJCb2N0VjJpQVZYRFRyZHV3MWYwS0FDZ2dPLXlIczBnYWx2VFkzTnhERk5MTE1pMlZZWHBWNXlEWHlrWVM4Tm1SRTQyUTR4d09hQU9qZWxidDFyLWI5aXROSXZzQWY4ZEU4RWRuSTJiNS00bWt5N0hvQ1ZSOGZEQ3M4akZzemJ0SWxoc3BsYVpoRVN3VlJxNTNhekoyTi1BMHI4VVk0T2htOFdNbmhJ?oc=5",
-     "title": "Atlanta Dream v Golden State Valkyries: WNBA finals 2026 Game 7 – live updates - The Guardian",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "4f303f73a71e4749",
-     "published": "2026-10-31T23:08+00:00",
-     "text": "- Atlanta Dream v Golden State Valkyries: WNBA finals 2026 Game 7 – live updates The Guardian\n- First Game 7 in WNBA history will decide first title for Dream or Valkyries ESPN\n- USA Sports and NBC claim record WNBA Finals ratings, but the comparisons leave out important context Fox News\n- WNBA Finals odds, pick, prediction: Best bets for Dream-Valkyries Game 7 Yahoo Sports\n- Atlanta Took Golden State’s Lunch Money Defector"
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEI1bk5VZkVGeU5yaFBJTlhCY2xYYWdicVNkZDFIQW1sYlg4WUxnRm9GNGdvY1dNVE5haGpncjUzQU5Qb2U1WjhpcTFQa3dRS2wzZWdPdmtOWjJyMExtWVdlQzRjanZlMy1SRUFhU1hqRkZFQS00RFVCMk1XUnJDblVVekhtOUxvc2xicUJmN0lOQmFmcENzT2NuVElSNC1Cemo1c29pVC1VV0E?oc=5",
-     "title": "WNBA Finals live updates, Valkyries-Dream box score: Angel Reese, Dream force Game 7 vs. Valkyries with championship on the line - Yahoo Sports",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "19cd670bae0c0e5c",
-     "published": "2026-11-01T00:35+00:00",
-     "text": "- WNBA Finals live updates, Valkyries-Dream box score: Angel Reese, Dream force Game 7 vs. Valkyries with championship on the line Yahoo Sports\n- First Game 7 in WNBA history will decide first title for Dream or Valkyries ESPN\n- Atlanta Dream vs. Golden State Valkyries Game 7: How to watch the 2026 WNBA Finals tonight, channel, where to stream and more Yahoo Sports\n- ‘We didn’t quit’: Valkyries encouraged for Game 7 of WNBA Finals despite nightmare start in Game 6 The Mercury News\n- Allisha Gray is ‘that girl’ as Dream force Game 7 of WNBA Finals The Atlanta Journal-Constitution"
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLWxzVEdILWFZTEtDVUJnZFB4REVWV1Y3T2pMNUdDZzRpNWdRUjhuOG1qUUlRT1Zhd2NVbjZzRkdsdklCWl9KYVI4Q0ZoLWNYa3gtNXBDUlFXOFZZVTB3MDR4Z0NDdldMRUp2UmxOcjRVSmMwMFAxMmc4WnduckJJcVJEODJRd2t3YzlBSkdKZnNVbHF5YUswRWlZbEFqWHJheDN4bHlOenFMcFZsV3hrZl9TN0pQV19K?oc=5",
-     "title": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title - NBC News",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "c13bbc17e03a70e9",
-     "published": "2026-11-01T02:25+00:00",
-     "text": "- Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title NBC News\n- How Gabby Williams ignited the Valkyries to WNBA championship in their second season ESPN\n- Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship Fox News\n- Dream's series-extending Game 6 win was fifth most-watched WNBA Finals game ever despite early tip Yahoo Sports\n- Hawks at Pelicans, Dream at Valkyries: start times, TV, streaming, radio, combined thread Peachtree Hoops"
-    }
-   ]
-  },
-  {
    "id": "c7a7789b880",
    "kind": "news",
    "score": 12.0,
@@ -2357,6 +2398,69 @@
    ]
   },
   {
+   "id": "cbb59421aee",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/scene/news/heidi-klum-halloween-2026-severed-human-hand-costume-1236935653",
+     "title": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/10/2302926100.jpg?crop=0px%2C505px%2C3155px%2C1776px&resize=1000%2C563"
+     },
+     "id": "bb59421aeee3022f",
+     "published": "2026-11-01T03:12+00:00",
+     "text": "Is it really Halloween without Heidi Klum?\nThe supermodel, who has become known for her over-the-top costumes, has returned for another year of her annual Halloween party, this year opting to dress as a severed human hand.\nAt last year’s party, Klum dressed as the mythological monster Medusa, which featured a headpiece decorated with writhing snakes and a trailing tail, while her husband, Tom Kaulitz, went as an ancient Greek soldier she had turned to stone. It ultimately took a team of 15 artists to create her costume, Klum told Variety at the 2025 event.\n“There still needs to be people that create moments with real people … to me, it’s like a beautiful art,” she said. When asked about her elaborate look, she shared, “This is only good for the night. Tonight. Everything goes down the drain, so to speak, in the shower.”\nThis year’s celebration marked the 25th year of Klum’s Halloween party. Some of her past looks include notable characters such as E.T., Fiona from “Shrek,” Jessica Rabbit and the werewolf from Michael Jackson’s “Thriller,” as well as creatures like a peacock, worm and butterfly.\nEarlier this year, Klum hosted the 22nd season of “Project Runway,” where she also served as a judge alongside Nina Garcia and Law Roach. Klum returned to the fashion competition series last year after previously exiting in 2018. Prior to her departure, she hosted the show for 16 seasons since its 2004 debut on Bravo.\nAlongside Tim Gunn, Klum created a new fashion competition show titled “Making the Cut” for Prime Video in 2020, which ran for three seasons."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/heidi-klum-halloween-2026-costume-hand",
+     "title": "Heidi Klum reveals a giant severed hand as 2026 Halloween costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/01/e21a7b8a-1d55-430b-81d3-127441e41c91/thumbnail/1200x630/406a0eb7885c20c752ba755c8d752c1e/gettyimages-2302926241.jpg"
+     },
+     "id": "cbf2661b69f9fed6",
+     "published": "2026-11-01T07:28+00:00",
+     "text": "Heidi Klum underwent a bloody transformation to become a giant, gruesome severed hand for her annual Halloween party in New York on Saturday, 25 years after she began hosting the much-anticipated event.\nKlum was unrecognizable, with only her eyes and mouth showing, blood dripping from her mouth as she stuck her tongue out. The top of the hand ended in a gory assortment of dangling ligaments and tendons. She had an ensemble of helpers in blood-stained hazmat suits.\nThe idea came to her last year to be a giant hand - specifically her own left hand, with long red nails, a thumb ring, and her engagement ring and wedding band.\n\"I looked at my hand and I thought, 'Hey, I think I could fit my body in this somehow,'\" Klum said.\nThe supermodel-turned-TV personality went viral in 2022 when she arrived at the party on the end of a fishing line, encased in a slithering worm costume.\nIn past years, Klum has come dressed as the Greek myth Medusa, a peacock, an 8-foot-tall (2.4-meter-tall) \"Transformer,\" a werewolf from Michael Jackson's \"Thriller\" music video, a clone accompanied by several Klum-lookalikes, and Kali, the multiarmed Hindu goddess of death and destruction.\nKlum said it took about five to six hours to get into her hand costume this year, but making it took a lot longer. She posted hints on her Instagram earlier in the day as bloodied prosthetics were applied to her face.\n\"Hands down, the hardest thing is carrying it,\" Klum said. \"It's quite heavy.\"\nHer husband, musician Tom Kaulitz, did not attend this year because he was on tour. But the details on her costume include a tattoo of his name on her ring finger, along with her palm lines and veins.\n\"A little bit of Tom is with me,\" she said."
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2phUjE2MXJ5OFp3RWNxWFZyNTgyUFpHQ1VYV2w4X2kwekxJVnlzMEZKNnVfdk1IcjN6MXBhVWRvS3k2VmhwQVVkV0pfbkVodXBkaVVkN3VQanB1UFprUUtXcEY5aGxOQUdzOElLZzIwTTBhMUxNN1diQkh5ZHUxakVIUXM2aWp6OUlDcUc0clIwUjBic051MDZ2SkFNNzhVVWc?oc=5",
+     "title": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party - Variety",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "f151c939c93a4a42",
+     "published": "2026-11-01T04:12+00:00",
+     "text": "- Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party Variety\n- Heidi Klum, the 'Queen of Halloween,' reveals 2026 costume WUSA9\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times\n- Heidi Klum kicks off Halloween with her kids, Sofia Vergara, more – Photos USA Today\n- Heidi Klum’s 25 Best Halloween Costumes, Ranked By How Much Time I Assume They Took To Put On BuzzFeed"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHFUY0puMk0zTDE1Z3BZc2Y0UklsUmNTT3FEUTFTcWFTU21hQ3o3eC04dHdGcUJPeFhsNGxpdE1RR2pCa2g4Umc2UmpjTGR2eUxwQ291RmE2cndyV0xrSjd3MGloNEtuWlRoSjB4dXRBNHdCaG5uSTJCOVNHZW5TRTRfckZwZEtZd0xXaUUwbjQtWmYzcGdUYWg2cUdYRWpt?oc=5",
+     "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years - AP News",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "02f8418784aea4be",
+     "published": "2026-11-01T05:19+00:00",
+     "text": "- Heidi Klum reveals Halloween costume as her iconic party marks 25 years AP News\n- Heidi Klum, the 'Queen of Halloween,' reveals 2026 costume WUSA9\n- Taylor Momsen, James Charles & More Celebrities Who Scared Up a Good Time at Heidi Klum’s Halloween Party E! News\n- Heidi Klum kicks off Halloween with her kids, Sofia Vergara, more – Photos USA Today\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times"
+    }
+   ]
+  },
+  {
    "id": "c487c24e333",
    "kind": "news",
    "score": 12.0,
@@ -2412,52 +2516,6 @@
      "id": "cf2d4f2b87d7e788",
      "published": "2026-11-01T04:56+00:00",
      "text": "“Saturday Night Live” paid tribute to the Milwaukee Brewers’ historic World Series win during a Weekend Update segment that featured the return of Bobby Moynihan’s Drunk Uncle commentator character.\nMoynihan spent nine seasons on “SNL,” from 2009 to 2017. His recurring Drunk Uncle character was a classic Archie Bunker-esque East Coast guy with blunt observations on pop culture and politics. He last portrayed Drunk Uncle last year on “Saturday Night Live’s” 50th anniversary special.\nThis time around, Drunk Uncle hailed the Brewers’ first World Series victory in the nearly 60-year history of the team as a win attributed to the power of suds in a town that is synonymous with beer — hence the team’s name.\nIn classic fashion, Drunk Uncle told “Weekend Update” anchors Colin Jost and Michael Che that he was happy for the Brewers but deeply concerned about the state of baseball overall. After recent rule changes, the duration of most baseball games as tightened up, something that Drunk Uncle lamented. Instead of running seven hours, “the game ends in 20 minutes and everybody goes home to watch their gay hockey shows,” Moynihan as Drunk Uncle said in a nod to “Heated Rivalry.”\nAs usual, Drunk Uncle got progressively more emotional as the segment went on, tossing out one-liners about Elizabeth Holmes (“I believe her”) and “Helen of Troy was white,” in a nod to the ongoing angry debate in some circles about the casting of historical characters in period movies and TV shows.\nBut just as Drunk Uncle began to wallow, he was surprised by the appearance of two Brewers players , slugger Christian Yelich and second baseman Brice Turang, and the team’s manager, Pat Murphy.\n“Don’t worry Drunk Uncle,” Yelich told Moynihan. “It wasn’t a dream.”\nMurphy introduced himself to Drunk Uncle, saying that being a baseball manager is “kind of like being the Drunk Uncle of the team.”\nMoynihan looked up at the 6-foot-4 Yelich and declared, “I know you — you’re Pete Davidson.”"
-    }
-   ]
-  },
-  {
-   "id": "c046414c907",
-   "kind": "news",
-   "score": 11.5,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
-   "official_image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg",
-   "sources": [
-    {
-     "source": "UN News",
-     "trust": 3,
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
-     "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
-     "lang": "en",
-     "extra": {
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg"
-     },
-     "id": "046414c907391a3f",
-     "published": "2026-10-31T12:00+00:00",
-     "text": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened."
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336066",
-     "title": "UN Demands Probe into Death of Its Employee in Houthi Custody",
-     "lang": "en",
-     "extra": {},
-     "id": "1ee6689bdc4e04bb",
-     "published": "2026-10-31T17:59+00:00",
-     "text": ""
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/middle-east/un-demands-probe-into-death-of-its-employee-in-houthi-custody",
-     "title": "UN demands probe into death of its employee in Houthi custody",
-     "lang": "en",
-     "extra": {},
-     "id": "34bc350b8fe7f75b",
-     "published": "2026-10-31T19:33+00:00",
-     "text": "Over 70 UN personnel are being held by the Houthis."
     }
    ]
   },
@@ -2545,74 +2603,6 @@
    ]
   },
   {
-   "id": "ccc9df4f7ae",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
-     "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg"
-     },
-     "id": "cc9df4f7aea0aa20",
-     "published": "2026-10-30T19:31+00:00",
-     "text": "In brief\n- Reddit shares plunged 30.44% to $90.15 on Friday, extending their weekly decline to 44%.\n- CEO Steve Huffman said Google search referrals fell by more than 1 million per week in October and warned daily active users could decline by a low double-digit percentage in Q4 if the trend continues.\n- Reddit forecast fourth-quarter revenue of $1 billion to $1.03 billion, below the roughly $1.05 billion analysts expected, despite reporting 53% revenue growth in Q3.\nReddit shares plunged 30.44% to $90.15 on Friday after CEO Steve Huffman warned that Google's AI-powered search features are cutting referral traffic and could shrink the platform's user base.\nThe selloff came after the company reported strong third-quarter results but issued a weaker-than-expected revenue forecast for the current quarter.\nReddit built much of its business around people discovering its discussions through Google searches, and those visitors are increasingly finding answers without ever clicking through to the platform. That puts pressure on the advertising business that has helped turn Reddit into one of the internet's fastest-growing publicly traded companies.\nReddit's third-quarter numbers initially looked healthy. Revenue climbed 53% year over year to $895 million, advertising revenue increased 54% to $847 million, and net income reached $283 million. Diluted earnings per share, which measure company profit attributable to each share while accounting for potential dilution, came in at $1.40, up 75% from a year earlier and above the $1.33 analyst consensus.\nBut the audience figures were less encouraging since Reddit reported 130.3 million daily active unique visitors, up 12% year over year but below the roughly 134 million analysts expected. In the U.S., the number actually fell 2% to 50.7 million, giving investors another reason to question whether the platform can maintain its growth.\nHuffman delivered the warning during Thursday's earnings call, explaining that Google search referrals had fallen by more than one million on average every week during October, with the decline accelerating toward the end of the third quarter. If that pace continues, Reddit's total daily active users could fall by a low double-digit percentage in Q4 from the current base of around 130 million.\nHuffman pointed directly at Google's AI Overviews and AI Mode, features that generate answers and summaries directly inside search results. Rather than sending users to websites to find information, Google increasingly gives them what they are looking for on its own page, pushing traditional search links further down.\nAsked whether the changes were responsible for Reddit's declining search traffic, Huffman said the AI features had expanded aggressively in the U.S. and internationally. \"The AI mode does not drive traffic, not for us and not to anybody as far as I know,\" he told investors.\nThat creates an awkward situation for Reddit—and arguably every other single media site on the internet. People can still search for Reddit discussions, but Google's results increasingly allow them to consume information from those discussions without visiting Reddit itself. Search referrals also bring back existing users, meaning fewer clicks can affect both new-user acquisition and the platform's ability to keep people engaged.\nReddit is trying to reduce that dependence by moving toward a primarily logged-in experience, which would require people to sign into an account before accessing most of the"
-    },
-    {
-     "source": "Reddit technology",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xk9fjx/reddit_and_everyone_else_faces_a_bleak_internet",
-     "title": "Reddit (and everyone else) faces a bleak internet without Google traffic",
-     "lang": "en",
-     "extra": {},
-     "id": "fa46817cc54789ac",
-     "published": "2026-10-31T12:52+00:00",
-     "text": "submitted by\n/u/Hi_all_hwru\n[link]\n[comments]"
-    },
-    {
-     "source": "Slashdot",
-     "trust": 1,
-     "url": "https://tech.slashdot.org/story/26/10/31/0458218/googles-ai-overviews-lowered-reddits-traffic-its-stock-dropped-29",
-     "title": "Google's AI Overviews Lowered Reddit's Traffic. Its Stock Dropped 29%",
-     "lang": "en",
-     "extra": {},
-     "id": "2ca38c0d144edc35",
-     "published": "2026-10-31T15:50+00:00",
-     "text": "Reddit's stock plunged 29.22% on Friday, reports CNBC, its worst drop since becoming a public company in 2024.\nThursday Reddit reported a sales growth that was weaker than previous quarters, and also forecast weak sales for the quarter to come (below analysts expectations):\nThe report comes as the company has seen a shift in its search referral traffic with the rise of Google's AI Overview. In an interview with CNBC, Reddit CEO Steve Huffman said search-referral traffic from Google went \"down meaningfully in this quarter\" due to AI... Multiple analysts downgraded the stock following Reddit's disappointing results, with Citizens noting that \"search changes highlight the problem with selling content to Google\" and that as referral problems worsen, uncertainty around user growth amid the login requirement switch \"puts more pressure on user monetization.\"\nReddit's CEO also said that forcing users to login will help the company's advertising business. \"Reddit is the last platform to provide basically unfettered logged-out access, and that's largely because of me. I've been holding that line.\"\n\"I think users will probably go through the same understanding that I have, which is that it's a sign of the times. It's an evolution of how these platforms work.\"Read more of this story at Slashdot."
-    }
-   ]
-  },
-  {
-   "id": "cdf9f05eee5",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "Tech stocks and crypto crash against a perfect storm as ‘Bloody Friday’ sell-off shocks markets",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Fast Company",
-     "trust": 2,
-     "url": "https://fastcompany.com/91633436/tech-stocks-and-crypto-are-crashing-against-perfect-storm-as-markets-head-for-their-worst-day-in-months",
-     "title": "Tech stocks and crypto crash against a perfect storm as ‘Bloody Friday’ sell-off shocks markets",
-     "lang": "en",
-     "extra": {},
-     "id": "df9f05eee5a4a68a",
-     "published": "2026-10-30T19:48+00:00",
-     "text": "Traders are running scared this Halloween weekend as a combustible mix of market forces have sparked a sell-off in major technology stocks and cryptocurrencies.\nWeak earnings reports from AI hyperscalers including Amazon and Google, along with a historic hack on crypto exchange Binance, have left investors in high-growth assets feeling like they have nowhere to turn.\nAs of this writing, the tech-heavy Nasdaq Composite was down 3.3% on Friday, its worst day since June. The Dow Jones Industrial Average and S&P 500 were also down, though not as dramatically.\nSome traders on social media are dubbing the sell-off “Bloody Friday.”\nPreelection jitters could also be playing a role, as “cold runs” have typically preceded midterm contests, as noted by wealth manager Stephen Rohrer at Life Financial Group.\nNevertheless, the stock rout could have political implications, as markets now have only one trading day left to recover before Americans across the country are set to vote in elections that are seen as referendums on Republican leadership.\nIntel Corp. (Nasdaq: INTC) is leading the sell-off, with shares collapsing 30% after the company reported a weaker-than-expected outlook for its fourth quarter. According to CNBC, it was the tech giant’s worst day in more than 50 years.\nMemory chip and semiconductor companies, including Nvidia Corp. (Nasdaq: NVDA) and Micron Technologies (Nasdaq: MU), are also taking a hit.\nSandisk Corp. (Nasdaq: SNDK) shares were down more than 14% Friday as of this writing, extending losses that have seen the stock plummet more than 35% over the past month.\nThe current tech earnings season has deepened fears that massive spending on AI build-outs—most notably in the form of data centers—may not bear monetizable fruit in the long run.\nGoogle, for example, reported lower-than-expected ad revenue for its all-important Search division, a sign that AI chatbots, including its own, could be cannibalizing its core product. Google parent Alphabet (Nasdaq: GOOG) suffered its worst-ever post-earnings stock decline on Thursday after the report.\nOn the crypto side, crypto-adjacent companies saw their share prices fall dramatically following news that hackers made off with $6.3 billion in an attack on Binance, the world’s largest cryptocurrency exchange. Cybersecurity experts linked the incident to an infamous North Korean hacking group.\nBinance is privately held, but fellow crypto exchange Coinbase Global (Nasdaq: COIN) saw its stock price tumble more than 10% on Friday.\nTrading platform Robinhood Markets (Nasdaq: HOOD) and stable coin issuer Circle Internet Group (NYSE: CRCL) also saw their shares fall.\nSome tokens themselves also took a tumble, most notably Bitcoin, whose price had fallen to under $77,000 as of this writing—its lowest in more than a month.\nThis story is developing . . ."
-    }
-   ]
-  },
-  {
    "id": "cb56c10b3af",
    "kind": "news",
    "score": 11.0,
@@ -2695,10 +2685,12 @@
      "url": "https://kotaku.com/sam-altman-thinks-its-good-if-you-cant-afford-ram-for-your-pc-2000751732",
      "title": "Sam Altman Thinks It’s Good If You Can’t Afford RAM For Your PC",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://kotaku.com/app/uploads/2026/10/sam-alt.jpg"
+     },
      "id": "f4d4e94db125868d",
      "published": "2026-10-30T22:30+00:00",
-     "text": "The OpenAI boss wants all the RAM for himself, seriously"
+     "text": "If you’ve tried to buy new electronics recently, from gaming consoles to iPhones, you’ll have dealt with prices that are hundreds higher than they were even a year ago. That’s because the price of RAM keeps going up as AI companies race to build out datacenters to feed the insatiable compute demands of frontier LLM models. Lots of people think being unable to buy RAM for consumer products at a reasonable price is a bad thing. OpenAI’s Sam Altman disagrees.\n“A lot of people want local inference,” the executive whose company is expected to go public sometime next year recently told the Cheeky Pint podcast. “And somehow, they assume that the problem is solved now because we are going to have open-source models, we’re going to be able to run them on our computers, and so we’re not going to need all the stuff in the data center.”\nThere’s a debate in the AI world right now about whether the future will be people running “light weight” open-source models on local devices, like phones and laptops, or whether all meaningful AI models will be run out of the cloud, i.e. massive data centers controlled exclusively by tech giants. Altman is coming down firmly on the side of the datacenters, and thus the companies currently buying up all available memory and sending prices skyrocketing for years to come in the process.\n“But from a global allocation perspective, actually, it’s quite terrible to have everybody have a bunch of the world’s limited supply of DRAM sitting in their own computer and being used five percent of the time,” Altman continued. “You want maximum utilization in the cloud if you’re trying to deal with this very supply constrained environment. And somehow everyone’s—many people’s intuition is the opposite of that.”\nThese “all your RAM are belong to us” proclamations were delivered in-between sips of a slowly warming IPA (all the tech CEOs are now forced to discuss world historical moments while awkwardly smashing beers on podcasts), but will have far-reaching consequences if they actually come to pass. It’s not hard to imagine a future where everything is rented, not just movies and Google spreadsheets but also the AI models these companies hope will micromanage and ultimately monetize every spare moment of your life.\nBeing able to play Grand Theft Auto 6 locally once it gets ported to PC is a waste in the mind of Altman. Stream it from the cloud in-between datacenters burning tokens to scrape the web and replace it with AI-generated overviews instead. Better yet, have ChatGPT agents bid on your behalf against other agents for how much the spare compute is worth it to you to take a nightly drive around Vice City. Please clap."
     },
     {
      "source": "Slashdot",
@@ -3419,28 +3411,6 @@
    ]
   },
   {
-   "id": "c0c780b44cd",
-   "kind": "news",
-   "score": 10.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "NASA Releases MAX POWER Key Events for Media, Participants",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NASA",
-     "trust": 3,
-     "url": "https://nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants",
-     "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-     "lang": "en",
-     "extra": {},
-     "id": "0c780b44cd0f2722",
-     "published": "2026-10-30T19:31+00:00",
-     "text": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.\nThrough multiple park experiences at MAX POWER, NASA and a variety of external collaborators will showcase the newest aircraft, autonomous vehicles, technologies, and more defining the future of air and space. NASA will display its quiet supersonic X-59 plane, and agency partners will showcase Moon rovers, spacecraft, and more. The expo also is a culmination of the agency’s recent Inspiration Tour, which included numerous flyovers to highlight NASA’s fleet of aircraft.\nA current schedule of events is available on the agency’s website.\nMAX POWER includes opportunities to meet leadership, astronauts, engineers, scientists, and other subject matter experts during the family-friendly public events with gates opening at 9 a.m. EST on Nov. 7 and Nov. 8.\nNASA also will share multiple news updates during the weekend, including hosting a news conference at 5 p.m. on Nov. 7, to provide its latest Moon Base update. Located near the lunar South Pole, the Moon Base is humanity’s first outpost for long-term lunar exploration.\nLive coverage of the news conference will stream on a variety of platforms online. Learn where to watch:\nhttps://www.nasa.gov/live\nJoin NASA for Key Events\nMedia credentialing for this event is closed. Media approved for this event must request interviews in advance. Space in the news conference is limited, and first come, first served. Media also may participate in the news conference virtually. To request call details or an interview, please contact Lauren Low in the NASA Headquarters newsroom at: lauren.e.low@nasa.gov.\nA short list of key NASA activities during MAX POWER are listed below. All times are listed in Eastern Standard Time, and are subject to change.\nFriday, Nov. 6:\n- 2 p.m., to 4 p.m.: Media one-on-one opportunities to preview weekend MAX POWER activities\n- Location: NASA Press Site\nSaturday, Nov. 7:\n- 10 a.m.: Nuclear NASA media gaggle\n- Location: UP.Summit Main Stage\n- Cynthia Simmons, director, Space Reactors Division\n- 11:30 a.m.: Opening air show remarks featuring NASA Deputy Administrator Matt Anderson\n- Location: Air Dot Show Main Stage\n- 11:58 a.m.: F-5 flyover in the Air Dot Show featuring NASA Administrator Jared Isaacman\n- 12:45 p.m.: Meet the Astronauts: NASA’s Artemis III Crew\n- Location: Air Dot Show Main Stage\n- Participants include:\n- NASA astronaut Randy Bresnik (mission commander)\n- ESA (European Space Agency) astronaut Luca Parmitano (pilot)\n- NASA astronaut Frank Rubio (mission specialist)\n- NASA astronaut Bob Hines, backup crew member\n- NASA will host a media gaggle with crew immediately following this event.\n- 1:31 p.m.: MiG-29 flyover featuring Isaacman\n- 2 p.m.: Learn about NASA’s Roman Space Telescope\n- Location: Kennedy Space Center Visitor Complex (Journey to Mars Theater)\n- Participant:\n- Remarks by Julie McEnery, senior project scientist, Nancy Grace Roman Space Telescope, NASA Goddard\n- 5 p.m. Moon Base News Conference\n- Location: Press Site AuditoriumParticipants:\n- NASA Administrator Jared IsaacmanCarlos García-Galán, manager, Moon Base ProgramNicky Fox, associate administrator for Science, NASA HeadquartersDayna Ise, acting director, Utility and Infrastructure Office, Moon Base Program\n- NASA subject matter experts will be available for one-on-o"
-    }
-   ]
-  },
-  {
    "id": "c58d4c09870",
    "kind": "news",
    "score": 10.5,
@@ -3470,6 +3440,52 @@
      "id": "58d4c0987097ab54",
      "published": "2026-10-31T09:54+00:00",
      "text": ""
+    }
+   ]
+  },
+  {
+   "id": "c046414c907",
+   "kind": "news",
+   "score": 10.5,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+   "official_image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg",
+   "sources": [
+    {
+     "source": "UN News",
+     "trust": 3,
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+     "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+     "lang": "en",
+     "extra": {
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg"
+     },
+     "id": "046414c907391a3f",
+     "published": "2026-10-31T12:00+00:00",
+     "text": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened."
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336066",
+     "title": "UN Demands Probe into Death of Its Employee in Houthi Custody",
+     "lang": "en",
+     "extra": {},
+     "id": "1ee6689bdc4e04bb",
+     "published": "2026-10-31T17:59+00:00",
+     "text": ""
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/middle-east/un-demands-probe-into-death-of-its-employee-in-houthi-custody",
+     "title": "UN demands probe into death of its employee in Houthi custody",
+     "lang": "en",
+     "extra": {},
+     "id": "34bc350b8fe7f75b",
+     "published": "2026-10-31T19:33+00:00",
+     "text": "Over 70 UN personnel are being held by the Houthis."
     }
    ]
   },
@@ -3562,41 +3578,6 @@
      "id": "b931f8d4b1e3d646",
      "published": "2026-11-01T02:19+00:00",
      "text": "Ferrari Team Principal Fred Vasseur has praised Lewis Hamilton for his Qualifying performance in Mexico City."
-    }
-   ]
-  },
-  {
-   "id": "c37da1ade84",
-   "kind": "news",
-   "score": 10.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
-   "official_image": "https://cdn.mos.cms.futurecdn.net/LxcS4vFnPo4sKYRXgXRKZM-1920-80.jpg",
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/1850/view/693150463100455333",
-     "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/LxcS4vFnPo4sKYRXgXRKZM-1920-80.jpg"
-     },
-     "id": "c52eb57cc9abf7be",
-     "published": "2026-11-01T01:37+00:00",
-     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
-    },
-    {
-     "source": "PC Gamer",
-     "trust": 2,
-     "url": "https://pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more",
-     "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
-     "lang": "en",
-     "extra": {},
-     "id": "37da1ade84c34412",
-     "published": "2026-11-01T01:30+00:00",
-     "text": "<p>Jody's first computer was a Commodore 64, so he remembers having to use a code wheel to play Pool of Radiance. A former music journalist who interviewed everyone from Giorgio Moroder to Trent Reznor, Jody also co-hosted Australia's first radio show about videogames, <a href=\"https://zedgamesau.net/tag/jody-macgregor\" target=\"_blank\">Zed Games</a>. He's written for <a href=\"https://www.rockpapershotgun.com/authors/jody-macgregor\" target=\"_blank\">Rock Paper Shotgun</a>, The Big Issue, <a href=\"https://www.gamesradar.com/author/jody-macgregor/\" target=\"_blank\">GamesRadar</a>, <a href=\"http://www.zam.com/author/jody-macgregor\" target=\"_blank\">Zam</a>, <a href=\"https://web.archive.org/web/20170606042647/http://www.glixel.com/contributor/jody-macgregor\" target=\"_blank\">Glixel</a>, <a href=\"https://fiveoutoftenmagazine.com/downloads/issue-16-identity/\" target=\"_blank\">Five Out of Ten Magazine</a>, and <a href=\"https://web.archive.org/web/20171009125722/https://www.playboy.com/authors/jody-macgregor\" target=\"_blank\">Playboy.com</a>, whose cheques with the bunny logo made for fun conversations at the bank. Jody's first article for PC Gamer was about the <a href=\"https://www.pcgamer.com/the-audio-of-alien-isolation/\">audio of Alien Isolation</a>, published in 2015, and since then he's written about <a href=\"https://www.pcgamer.com/why-silent-hill-belongs-on-pc/\">why Silent Hill belongs on PC</a>, <a href=\"https://www.pcgamer.com/10-years-on-recettear-an-item-shops-tale-is-still-the-best-fantasy-shopkeeper-tycoon-game/\">why Recettear: An Item Shop's Tale is the best fantasy shopkeeper tycoon game</a>, and <a href=\"https://www.pcgamer.com/there-is-so-so-much-weird-shit-in-lost-ark/\">how weird Lost Ark can get</a>. Jody edited PC Gamer Indie from 2017 to 2018, and he eventually lived up to his promise to play every Warhammer videogame.</p>"
     }
    ]
   },
@@ -3951,6 +3932,109 @@
    ]
   },
   {
+   "id": "ca05e44711e",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "This smart screwdriver uses a camera and AI to identify screws and set torque automatically",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "TechSpot",
+     "trust": 2,
+     "url": "https://techspot.com/news/114397-smart-screwdriver-uses-camera-ai-identify-screws-set.html",
+     "title": "This smart screwdriver uses a camera and AI to identify screws and set torque automatically",
+     "lang": "en",
+     "extra": {},
+     "id": "a05e44711e54f510",
+     "published": "2026-10-31T11:33+00:00",
+     "text": "Hong Kong-based Arrowmax recently launched a Kickstarter campaign for what it calls the world's first AI-powered electric screwdriver, and funded it almost immediately. Starting at around $80, with shipments planned to begin in April 2027, the device aims to streamline the entire process of selecting a bit and driving a screw.\nRead Entire Article"
+    }
+   ]
+  },
+  {
+   "id": "c28c5d8bbb7",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on",
+     "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-hands-on-2.jpg?quality=82&strip=all&resize=1200,628"
+     },
+     "id": "28c5d8bbb7df7f4f",
+     "published": "2026-10-31T12:00+00:00",
+     "text": "Ahead of its launch next week, a new video offers a closer look at the Motorola Signature 27 as well as confirming some key specs.\nA video hands-on from Danny Winget on YouTube offers a closer look at Motorola’s upcoming flagship, and only makes its arrival all the more enticing.\nThere are several key specs mentioned in the video, with the most interesting being the “Extreme AMOLED Duo” display which makes use of Tandem OLED technology. Tandem OLED isn’t a new idea, with the tech stacking multiple layers of diodes on top of each other to improve contrast and brightness. Tandem OLED can be found on Apple’s new “PROLED” MacBook Pro, as well as 2024’s Honor Magic 6 RSR. But Motorola’s use of it in the Signature 27 is certainly nice to see, especially given the other spec shared. 12,000 nits of brightness. That rather insane figure is apparently the peak brightness on this new flagship.\nHardware shots of the phone also show the textured backs on the two color variants as well as the curved glass around the display.\nTop comment by Dave\nI haven't had a Motorola phone since the Star Tac and then the Droid Bionic. This one might possibly draw me away from all the Samsungs that I have had\nOther specs shared in the video include:\n- 6.8-inch Extreme AMOLED Duo display, 120Hz, LTPO, Tandem OLED, 12,000 nits max brightness\n- Snapdragon 8 Elite Extreme Gen 6\n- 16GB RAM\n- Up to 1TB UFS 4.1 storage\n- Android 17 with 7 years of OS updates\n- Cameras: 50MP Lytia 910 main, 200MP periscope telephoto, 50MP ultrawide, “dedicated action sensor” for motion capture improvements\nThe battery capacity isn’t revealed, but Winget says that it is “sizable.” Similarly, the vapor chamber is described as “40% larger” but a point of comparison wasn’t given.\nIt’s all shaping up for a powerful flagship in every sense of the word. Motorola has confirmed that Signature 27 will launch on November 5, and I don’t know about you, but I’m only getting more excited about it.\nMore on Motorola:\nFollow Ben: Twitter/X, Threads, Bluesky, and Instagram\nComments"
+    },
+    {
+     "source": "Digital Trends",
+     "trust": 2,
+     "url": "https://digitaltrends.com/phones/motorola-signature-27-is-bringing-a-12000-nit-display-because-apparently-sunlight-wasnt-enough",
+     "title": "Motorola Signature 27 specifications revealed in a new hands-on video, shows off a Tandem OLED 12,000-nit display",
+     "lang": "en",
+     "extra": {},
+     "id": "19f295fe3efd35d8",
+     "published": "2026-10-31T18:33+00:00",
+     "text": "Motorola's upcoming Signature 27 could feature a 12,000-nit Tandem OLED display, Snapdragon flagship chipset, 200MP periscope camera and seven years of Android updates."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FSGsxUTRRb1RYUE0wd3Q0aHJNa3FtdGFkOEFSdk5OVndrdW8tWk5jeW9IdTdCWndkdkpmZEZmeFVxYjk3YjNwNXpuQ2N6VUVXMGZteVZ3Vm42UVdtU0lRQVJYdXdmQUtrR1lBVXZiZ0R0b19pa05JazBncw?oc=5",
+     "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display - 9to5Google",
+     "lang": "en",
+     "extra": {},
+     "id": "0200ff14a8fa5d24",
+     "published": "2026-10-31T13:00+00:00",
+     "text": "- Motorola Signature 27 specs detailed in new video, including Tandem OLED display 9to5Google\n- Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch - GSMArena.com news GSMArena.com\n- Here's exactly when you'll find out everything there is to know about the Motorola Signature 27 PhoneArena\n- The Signature 27 is Motorola's last chance to get Android updates right Android Authority\n- November 2026 tech launches: Motorola Signature 27, Asus Zenbook 14 and Vivo X500 Series CNBC TV18"
+    }
+   ]
+  },
+  {
+   "id": "c3853d37388",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Senegal set for opening ceremony of Youth Olympic Games",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Africanews",
+     "trust": 2,
+     "url": "https://africanews.com/2026/10/31/senegal-set-for-opening-ceremony-of-youth-olympic-games",
+     "title": "Senegal set for opening ceremony of Youth Olympic Games",
+     "lang": "en",
+     "extra": {},
+     "id": "3853d3738843095e",
+     "published": "2026-10-31T14:21+00:00",
+     "text": "About 2,700 young athletes aged 14 to 17 will compete through Nov. 13 in the capital, Dakar, the nearby city of Diamniadio and the beach resort of Saly"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
+     "title": "🔴Senegal kicks off Africa's first ever Olympics with Youth Games",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://s.france24.com/media/display/a1fd18bc-d55e-11f1-bc0b-695cb59fade5/w:1280/p:16x9/2026-10-31T185551Z-1026728015-UP1EMAV1GL175-RTRMADP-3-OLYMPICS-YOUTH-OPENING.jpg"
+     },
+     "id": "82268199c7be6c1f",
+     "published": "2026-10-31T19:15+00:00",
+     "text": "Senegal kicks off Africa's first ever Olympics with Youth Games\nThe 2026 Youth Olympic Games opened on Saturday in the Senegalese capital Dakar in the first ever Olympics to be held on African soil. It comes as the continent seeks a bigger role in international sporting competitions.\nIssued on: Modified:\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nThe 2026 Youth Olympic Games opened in Senegal on Saturday, the first Olympic event in Africa as the continent seeks a bigger role in international sports competitions.\nTens of thousands of spectators cheered on the opening ceremony in the Diamniadio Olympic Stadium near the capital Dakar. Hundreds of drummers and dancers celebrated Senegalese and African culture in line with the Games motto, “Africa welcomes, Dakar celebrates\".\nWatch moreOlympic fever grips Senegal as Dakar hosts Youth Olympic Games\nA giant map of Africa was created by performers dressed in yellow, black and white traditional Senegalese gowns, dancing in unison, in a grandiose ceremony that saw West African oral storytelling, a concert by Senegalese singer Obree Daman and athletes parading.\nSenegalese President Bassirou Diomaye Faye declared the Games open.\n“This is a historic event and it was so important for me to be here,” said Aby Diouf, 25, a Senegalese spectator at the stadium. “It’s a marvellous celebration and we are all here to bring the energy and get people hyped.\"\nAbout 2,700 athletes aged 14 to 17 will compete through November 13 in the Dakar, the nearby city of Diamniadio and the beach resort of Saly.\nWatch moreFirst Youth Olympic Games in Africa\nRussia’s delegation of 13 athletes is competing under its national flag for the first time at an Olympic event since the full-scale invasion of Ukraine in 2022 led to its suspension.\nThe first refugee team at a Youth Olympics will field six athletes based in Kenya and Uganda in track and field, judo and taekwondo.\nAthletes overall will compete in 153 medal events across 25 sports.\nSingapore hosted the first summer Youth Games in 2010. Dakar was initially due to host in 2022 but the coronavirus pandemic delayed the Games.\nWatch moreKenya's female athletes make their mark as Youth Olympic Games approach\n“This is a historic moment for Senegal, for Africa and for our entire Olympic family” IOC President Kirsty Coventry said at the opening ceremony. Coventry, a former swimming gold medalist from Zimbabwe, became the first female and African boss of the International Olympic Committee last year.\nThe Games come as African countries increasingly see sports as a tool for diplomacy and development, analysts say.\nSouth Africa hosted the continent’s first soccer FIFA World Cup in 2010. Morocco will co-host the 2030 tournament with Spain and Portugal. Rwanda hosted Africa’s first road cycling world championships last year and Formula 1 is returning to Africa with a grand prix in Rwanda early next decade. Botswana also staged the World Athletics Relays in May.\n(FRANCE 24 with AP)"
+    }
+   ]
+  },
+  {
    "id": "market-2026-11-01",
    "kind": "market",
    "score": 0,
@@ -3969,8 +4053,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T07:25+00:00",
-     "text": "Bitcoin: $77,768 (+0.5% 24h)\nEthereum: $2,264 (+1.0% 24h)\nSolana: $95.28 (-0.6% 24h)\nToncoin: $1.22 (+3.0% 24h)"
+     "published": "2026-11-01T07:55+00:00",
+     "text": "Bitcoin: $77,814 (+0.7% 24h)\nEthereum: $2,268 (+1.2% 24h)\nSolana: $95.45 (-0.1% 24h)\nToncoin: $1.22 (+3.8% 24h)"
     }
    ]
   },
