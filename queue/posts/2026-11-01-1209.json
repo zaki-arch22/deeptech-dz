@@ -1,0 +1,98 @@
+[
+ {
+  "id": "2026-11-01-1209-openai-proofs",
+  "slot": "2026-11-01T12:09:00+01:00",
+  "type": "discovery",
+  "category": "discovery",
+  "cluster_id": "web-openai-three-proofs",
+  "sources": [
+   {
+    "url": "https://www.unite.ai/openai-says-its-models-produced-three-proofs-in-math-cs-and-physics/",
+    "title": "OpenAI says its models produced three proofs in math, CS and physics",
+    "text": "OpenAI made the announcement on October 26, 2026. Its models proved the local smoothing conjecture (proposed by Sogge in 1991) in every dimension; Guth, Wang and Zhang proved the 2D case in 2019, and Wang and Zahl settled 3D Kakeya in 2025. Its system disproved the Exponential Time Hypothesis, a conjecture used by hundreds of papers for conditional hardness results. Physics: a rigorous existence proof for 4D quantum field theories including a proof of pure Yang-Mills existence, a subproblem of the Clay Millennium Prize problem. Proofs formalized in Lean. Physics group led by David Gross (Nobel Prize 2004), with Michael Douglas, Arthur Jaffe, Igor Klebanov and Nikita Nekrasov, will hold off on releasing the AI artifacts and write up the result itself."
+   },
+   {
+    "url": "https://officechai.com/ai/what-is-the-yang-mills-theory-openai-claims-to-have-proven-and-what-it-means-for-physics/",
+    "title": "What Is The Yang-Mills Theory OpenAI Claims To Have Proven",
+    "text": "Each Millennium Prize Problem carries a $1 million reward. The Yang-Mills problem is one of seven Millennium Prize Problems. OpenAI's claim covers the existence part, not the mass gap, so the $1 million for Yang-Mills remains unclaimed."
+   },
+   {
+    "url": "https://numerama.com/sciences/2364619-percee-dopenai-sur-la-theorie-de-yang-mills-mort-du-telescope-swift-et-un-sas-de-liss-condamne-le-recap-sciences-de-la-semaine.html",
+    "title": "Percée d'OpenAI sur la théorie de Yang-Mills",
+    "text": "Les physiciens refusent de publier trop tôt la preuve d'OpenAI sur l'existence de la théorie de Yang-Mills."
+   }
+  ],
+  "headline": "أوبن إيه آي: ذكاؤنا حلّ 3 مسائل علمية عمرها عقود",
+  "photo": {
+   "url": "https://www.unite.ai/wp-content/uploads/2026/10/openai-models-produced-three-proofs-math-cs-physics.jpg"
+  },
+  "photo_candidates": [
+   "https://tech-insider.org/wp-content/uploads/2026/10/openai-three-science-discoveries-eth-kakeya-qcd-2026-gen.webp",
+   "https://officechai.com/wp-content/uploads/2026/10/1000441955.jpg"
+  ],
+  "photo_query": "blackboard mathematical equations physics lecture",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "OpenAI",
+    "domain": "openai.com"
+   }
+  ],
+  "text": "⚡ **أوبن إيه آي تقول إن ذكاءها الاصطناعي حلّ 3 مسائل عجز عنها العلماء لعقود.**\n\nالشركة أعلنت يوم **26 أكتوبر** أن نماذجها كتبت براهين في الرياضيات والحاسوب والفيزياء، ثم فحصتها ببرنامج يتحقق من صحة البراهين آلياً.\n\n• **الرياضيات:** حدسية طرحها الباحث كريستوفر سوغ سنة 1991، ولم تُحل قبل ذلك إلا في بُعدين.\n• **الحاسوب:** نقض فرضية بنت عليها مئات الأبحاث، تقول إن بعض المسائل لا يمكن حلها بسرعة.\n• **الفيزياء:** إثبات وجود نظرية يانغ-ميلز، وهي جزء من إحدى مسائل الألفية السبع، وجائزة كل واحدة منها **مليون دولار**.\n\nلكن الجائزة لم تُمنح، لأن البرهان لا يغطي المسألة كاملة.\n\nوفريق من كبار الفيزيائيين بقيادة **ديفيد غروس**، الحائز على نوبل 2004، قرر تأجيل نشر برهان الفيزياء حتى يراجعه ويكتب شرحه بنفسه.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-01-1224-gemini-file-editor",
+  "slot": "2026-11-01T12:24:00+01:00",
+  "type": "app",
+  "category": "app",
+  "cluster_id": "c89934f9428",
+  "headline": "جيميناي يعدّل ملفات PDF داخل المحادثة مجاناً",
+  "photo": {
+   "url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/google-gemini-pdf-editor-ki-apps.jpg"
+  },
+  "photo_candidates": [
+   "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/You_can_now_easily_generate_files_in_Gemini.max-1440x810.png",
+   "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/You_can_now_easily_generate_files_in_Gemini.width-1300.png"
+  ],
+  "photo_query": "Google Gemini app smartphone screen",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Google Gemini",
+    "domain": "gemini.google.com"
+   }
+  ],
+  "text": "⚡ **جيميناي صار يتيح لك تعديل ملفات PDF التي يصنعها لك داخل المحادثة نفسها، ومجاناً.**\n\nجوجل أعلنت الميزة يوم **29 أكتوبر**، وهي متاحة لكل المستخدمين وبكل اللغات **دون أي اشتراك**.\n\n• تطلب من جيميناي ملفاً، فتظهر معاينته تحت الرد مباشرة.\n• تضغط على النص وتعدّله بنفسك، أو تحدد فقرة وتطلب منه إعادة كتابتها.\n• تحفظ الملف النهائي على جهازك أو في جوجل درايف.\n\nمثال جوجل نفسها: صوّر ملاحظات الدرس المكتوبة بخط اليد، واطلب تحويلها إلى ملف مراجعة، ثم عدّله كما تريد.\n\nعلى الهاتف تعدّل ملفات PDF فقط، أما المستندات والجداول والعروض فتعدّلها من الحاسوب عبر الموقع.\n\n🔗 gemini.google.com\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-01-1241-github-student-pack",
+  "slot": "2026-11-01T12:41:00+01:00",
+  "type": "free",
+  "category": "free",
+  "cluster_id": "web-github-student-pack",
+  "sources": [
+   {
+    "url": "https://education.github.com/pack",
+    "title": "GitHub Student Developer Pack",
+    "text": "GitHub Copilot Student: unlimited code completions for verified students. GitHub Pro free while you're a student. JetBrains: free annual subscription, renewed each year. Microsoft Azure (18+): 25+ cloud services plus $100 Azure credit, no credit card required. Namecheap: 1 year of a .me domain registration and 1 free SSL certificate. FrontendMasters: 6 months free. DataCamp: 3 months free. 1Password: free for 2 years. Students apply with proof of enrollment such as a school email or student card."
+   }
+  ],
+  "headline": "حزمة جيت هاب: أدوات برمجة مدفوعة مجاناً للطلاب",
+  "photo": {
+   "url": "https://education.github.com/assets/pack/opengraph-image-353bc5f30b356a74d47fbb47ee72ae498e80ed437c4c31ec0da09f42251147df.png"
+  },
+  "photo_candidates": [
+   "https://education.github.com/assets/pack/twitter-summary-card-image-e2049c781b22b12d256cb0d441c0a59e5b7a2038e55dd309067a4da8e5cce694.png",
+   "https://github.githubassets.com/images/modules/open_graph/github-octocat.png"
+  ],
+  "photo_query": "GitHub Octocat logo",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "GitHub",
+    "domain": "github.com"
+   }
+  ],
+  "text": "🎁 **أنت طالب؟ جيت هاب تمنحك عشرات الأدوات المدفوعة للمبرمجين مجاناً، طوال فترة دراستك.**\n\nأبرز ما في حزمة الطلاب:\n\n• **جيت هاب كوبايلوت**، مساعد البرمجة بالذكاء الاصطناعي.\n• **اشتراك جيت براينز** في برامج البرمجة الاحترافية، يتجدد كل سنة.\n• **100 دولار** رصيداً على سحابة مايكروسوفت أزور، دون بطاقة بنكية، لمن عمره 18 سنة فأكثر.\n• نطاق موقع بامتداد .me مجاني لسنة كاملة.\n• **6 أشهر** من دورات فرونت إند ماسترز، و3 أشهر من داتا كامب.\n• مدير كلمات السر ون باسوورد مجاناً لسنتين.\n\nالتسجيل يكون بإثبات أنك طالب، مثل بريدك الجامعي أو صورة بطاقة الطالب.\n\n🔗 education.github.com/pack\n\n◆ @DeeptechDZ"
+ }
+]
