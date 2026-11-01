@@ -1,25 +1,25 @@
 {
- "generated_at": "2026-11-01T13:33:29+00:00",
+ "generated_at": "2026-11-01T14:04:14+00:00",
  "clusters": [
   {
-   "id": "cc050767038",
+   "id": "c81bcb4c69a",
    "kind": "news",
-   "score": 29.0,
+   "score": 25.0,
    "sensitive": true,
-   "distinct_sites": 10,
-   "title_hint": "How North Korea perfected the crypto heist",
+   "distinct_sites": 8,
+   "title_hint": "Binance Reassures Users That $6.3 Billion in Stolen Crypto Is, Like, Pocket Money to Them",
    "official_image": null,
    "sources": [
     {
-     "source": "Axios",
+     "source": "Gizmodo",
      "trust": 2,
-     "url": "https://axios.com/2026/10/31/north-korea-hackers-binance-crypto",
-     "title": "How North Korea perfected the crypto heist",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPck9aMlJSWC1FNm9BUEZhWnhPa3pkeUVhVkVaVFhDa2xyMm5TelFFc05OQ250ZUJsVDJPWkF4RllieldsbG9xYXhqNmhRRHQ4WmF0WnhMZlZOdG1uWGNqMXNlSDRUbEdmZW9BVkhNdEpHZ09JcW9tYUVtU21QN05RS0FVMTNVQXhrWHBRdXA5b1pidWF6VzNENjJHYjdRR0pqTlBkTTBWSnNvQTZsbGloYVhCbmM3V3Jw?oc=5",
+     "title": "Binance Reassures Users That $6.3 Billion in Stolen Crypto Is, Like, Pocket Money to Them",
      "lang": "en",
      "extra": {},
-     "id": "c0507670381cd16e",
-     "published": "2026-10-31T11:15+00:00",
-     "text": "The world's biggest crypto heist is the latest feat by North Korean hackers who have spent years perfecting an arsenal of financial theft, social engineering and sophisticated cyberattacks.\nWhy it matters: The suspected North Korean hackers behind the $6.3 billion Binance theft appear to have combined familiar hacking tactics with extraordinary speed and automation — raising fresh questions about how AI could supercharge their already sophisticated operations.\nDriving the news: Binance said late Thursday that its blockchain partners have frozen at least $3 billion of those $6.3 billion assets on-chain so far, and it believes the hackers gained initial access by compromising one engineer's laptop alongside other \"points of breach.\"\n- Several blockchain investigation firms have tied the hack to TraderTraitor, a group linked to the North Korean government's Lazarus Group collective.\n- Binance co-CEO Richard Teng said in a video on social media Friday that the attackers also used a \"self-destruct mechanism that destroyed tooling and traces\" as they went, making it more difficult to investigate what happened.\n- \"This was a complex attack,\" he said.\nThe big picture: North Korean government hackers have spent more than a decade carrying out financial heists and disruptive cyberattacks, and they have turned cryptocurrency theft into an industrial-scale operation.\n- In 2016, hackers attempted to steal nearly $1 billion from Bangladesh's central bank, successfully making off with $81 million.\n- In 2017, North Korea was blamed for the WannaCry ransomware outbreak, which disrupted hundreds of thousands of computers across more than 150 countries.\n- In recent years, the country has intensified its focus on pillaging crypto exchanges in part because the digital assets can more easily be transferred and laundered across borders — although those attacks tend to leave more of a paper trail.\n- The same North Korean hacking group, TraderTraitor, also set the last record for the world's largest crypto heist last year when they stole $1.5 billion from the ByBit crypto exchange.\nBetween the lines: North Korean hackers are only getting better and faster at their attacks, experts tell Axios.\n- \"They're essentially crowding out other threat actors by stealing the bulk of the value that's taken in any given year,\" Eric Jardine, head of research at Chainalysis, told Axios.\nZoom in: Chainalysis said in a research report Friday that hackers made off with the billions of funds in as little as 20 minutes.\n- The hackers also laundered and destroyed evidence of their operations at an unprecedented speed, suggesting they used automation throughout the heist, researchers found.\n- Researchers at TRM Labs found that the hackers started preparing for the attack just 36 hours before it began.\n- \"There were transactions happening with a frequency and a scale that just meant there could not have been someone involved in the approval of these,\" Jardine said. \"It had to have been done by a computer.\"\nThe intrigue: Social engineering and automation has been hallmarks of the latest North Korean cyberattacks, Vijay Balasubramaniyan, CEO and co-founder of Pindrop Security, told Axios.\n- Advances in AI-powered video and audio tools have allowed North Koreans to vastly expand their widespread IT worker fraud, where American companies are tricked into hiring North Koreans for IT jobs.\n- Balasubramaniyan said last year, North Korean job applicants made up 1 in every 343 applications. Th"
+     "id": "81bcb4c69aee0ad2",
+     "published": "2026-10-31T02:16+00:00",
+     "text": "Binance Reassures Users That $6.3 Billion in Stolen Crypto Is, Like, Pocket Money to Them\nGizmodo"
     },
     {
      "source": "Reuters Tech",
@@ -44,17 +44,6 @@
      "id": "eee7e85f90847398",
      "published": "2026-10-31T21:59+00:00",
      "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance."
-    },
-    {
-     "source": "Financial Times Tech",
-     "trust": 2,
-     "url": "https://ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
-     "title": "FBI blames North Korean group for $6.3bn Binance cyber heist",
-     "lang": "en",
-     "extra": {},
-     "id": "bce01cdef721f4cc",
-     "published": "2026-10-31T22:34+00:00",
-     "text": "Crypto exchanges move to tighten security after record theft from world’s biggest digital assets venue"
     },
     {
      "source": "CBS News",
@@ -743,6 +732,100 @@
    ]
   },
   {
+   "id": "cab4167939c",
+   "kind": "news",
+   "score": 21.0,
+   "sensitive": true,
+   "distinct_sites": 7,
+   "title_hint": "Former Ireland European 1,500m champion dies from cancer aged 34",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/ciara-mageean-former-european-1500m-champion-dies-at-age-of-34-13606579",
+     "title": "Former Ireland European 1,500m champion dies from cancer aged 34",
+     "lang": "en",
+     "extra": {},
+     "id": "ab4167939c89f4e8",
+     "published": "2026-11-01T08:15+00:00",
+     "text": "Former European 1,500m champion Ciara Mageean has died at the age of 34."
+    },
+    {
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&at_campaign=rss",
+     "title": "Former European champion and two-time Olympian Mageean dies aged 34",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f48f/live/df92a5c0-d5db-11f1-a25d-8f13519027da.jpg"
+     },
+     "id": "be75b384e94d51d4",
+     "published": "2026-11-01T10:45+00:00",
+     "text": "- Published\nFormer European champion and two-time Olympian Ciara Mageean has died at the age of 34.\nMageean, from Portaferry in Northern Ireland, was diagnosed with stage four bowel cancer in May 2025.\nShe represented Ireland at the 2016 and 2020 Olympics, but was forced to withdraw from the 2024 Paris Games because of an Achilles injury.\nEarlier in 2024, Mageean had clinched the first major title of her career when she took 1500m gold at the European Championships in Rome.\nPrior to that she had also represented Northern Ireland at the Commonwealth Games, winning 1500m silver at Birmingham 2022.\nA statement posted on her social media on Sunday said: \"At 6.30am this morning, Ciara lost her battle with cancer surrounded by her loved ones.\n\"A beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.\n\"Ar dheis Dé go raibh a hanam (may her soul rest in peace).\"\nIn a statement on social media, Athletics Ireland said: \"We are heartbroken. An inspiration to so many, Ciara will be remembered for her courage, kindness and incredible spirit.\n\"Our deepest sympathies are with her family, friends and loved ones at this difficult time. Rest in peace, Ciara.\"\nEarlier this month, Mageean wed her long-term partner Thomas Moran in a small civil ceremony in Belfast.\nA talented athlete from a young age, Mageean played camogie for Portaferry GAC, but her dream of representing Ireland at the Olympics led her to pursue a career in athletics.\nHer running prowess was clear during an impressive junior career that yielded 1500m silvers at the 2010 World Junior Championships and 2011 European Junior Championships. She also reached the 2010 Commonwealth Games 1500m final as an 18-year-old.\nHowever, Mageean's early progress in the senior ranks was hampered by a serious ankle injury, which ended her hopes of making her Olympic debut at London 2012.\nHaving had surgery in 2013, Mageean won the Irish 1500m title on her return in July 2014.\nIn 2016, she claimed 1500m bronze at the European Championships in Amsterdam, but her Olympic debut ended in disappointment as she exited the 1500m competition at the semi-final stage.\nIn late 2017, Mageean left her Dublin base to join Steve Vernon's Team New Balance in Manchester after parting ways with coach Jerry Kiernan.\nAnd while she endured some disappointing results following the move, Mageean claimed a European Indoor bronze medal in March 2019 before clocking two minutes 31.06 seconds to take 3.6 seconds off Sonia O'Sullivan's 27-year-old Irish 1,000m record at the 2020 Diamond League Monaco meet.\nMageean endured more Olympic heartache at the delayed Tokyo Games in 2021, when a calf injury disrupted her preparations as she exited from the heats.\nHowever, she enjoyed a successful 2022 campaign under the guidance of former Great Britain Olympian Helen Clitheroe, winning 1500m European and Commonwealth silver behind Laura Muir.\nTwo weeks after the Euros, Mageean beat Muir and a world-class field to seal a stunning 1500m victory at Diamond League Brussels. Her time of 3:56.63 took 2.22 seconds off O'Sullivan's Irish record and marked her first sub four-minute run.\nIn 2023, Mageean narrowly missed out on a World Championship medal as she finished fourth in a high-class final in Budapest.\nHowever, after taking over two seconds off O'Sullivan's Irish mile record in July, Mageean was named the 2023 BBC Northern Ireland Sports Personality of the Year.\nAfter a string of near-misses at championship lev"
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/athletics/news/12040/13606619/ciara-mageean-irelands-european-1500-metres-gold-medallist-dies-at-the-age-of-34-after-battling-cancer",
+     "title": "European champion Mageean dies aged 34",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://e1.365dm.com/26/11/1600x900/skysports-ciara-mageean-athletics_7393733.jpg"
+     },
+     "id": "b7d1e60b84cd43bb",
+     "published": "2026-11-01T12:15+00:00",
+     "text": "Ciara Mageean: Ireland's European 1500 metres gold medallist dies at the age of 34 after battling cancer\nEuropean champion and two-time Olympian Ciara Mageean has died at the age of 34; Irish athletics star announced last year that she had been diagnosed with cancer\nLast Updated: 01/11/26 12:19pm\nIreland's European 1500 metres gold medallist Ciara Mageean has died at the age of 34.\nTwo-time Olympian Mageean, who won the European title in Rome in 2024, announced last year she had been diagnosed with cancer.\nA statement on her Instagram account on Sunday read: \"At 6:30am this morning, Ciara lost her battle with cancer surrounded by her loved ones. A beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.\"\nA statement from Athletics Ireland read: \"Athletics Ireland is deeply saddened to learn of the passing of Ciara Mageean.\n\"Ciara was a much-loved and inspirational figure who touched the lives of so many. Her courage, warmth and spirit will leave a lasting legacy.\n\"The thoughts and heartfelt condolences of everyone at Athletics Ireland are with Ciara's family, friends and loved ones at this incredibly difficult time.\n\"May she rest in peace.\""
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/sport/general/athletics/ciara-mageean-death-tributes-ireland-b3077053.html",
+     "title": "Irish Olympian and European champion Ciara Mageean dies aged 34",
+     "lang": "en",
+     "extra": {},
+     "id": "bebc34c2e91e0882",
+     "published": "2026-11-01T12:35+00:00",
+     "text": "Tánaiste Simon Harris described the news as heartbreaking"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ0s1WDZVT3ZmRzRjci1iZ0VDM294Q28zWHpRbjlGd3otTm96TEZwUTNEeVl0ZmRBSU40ZU5IOC1iYlUwSmlkLTZ2WHBxYXZNR2x2ZVVKOFgwbDIzb3RrVmlpMDNHRzVxUjJuWlVhU254NFdaeDZqWWlZajU5ZnlHaFhtVnRXNjBlYll0RDU1N0d2VGd2TndWTFItb3ZGcTBYejFPMVVxcw?oc=5",
+     "title": "Irish Olympian and European champion Ciara Mageean dies aged 34",
+     "lang": "en",
+     "extra": {},
+     "id": "06403df9932e4213",
+     "published": "2026-11-01T13:33+00:00",
+     "text": "Irish Olympian and European champion Ciara Mageean dies aged 34\nThe Independent"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/11/1/irelands-european-athletics-champion-ciara-mageean-dies-aged-34?traffic_source=rss",
+     "title": "Ireland’s European athletics champion Ciara Mageean dies aged 34",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae72aa0-1793534624_9b6e7c-1793535100.jpg?resize=1200%2C630&quality=80"
+     },
+     "id": "6f2df03b36a0bddb",
+     "published": "2026-11-01T13:43+00:00",
+     "text": "Irish middle-distance runner Ciara Mageean, who won European gold and competed at two Olympic Games, has died aged 34, her family has announced.\n“At 6:30am this morning, Ciara lost her battle with cancer surrounded by her loved ones,” said a statement posted on the athlete’s Instagram account on Sunday.\nMageean’s death comes just weeks after she married her long-term boyfriend in Belfast.\nRecommended Stories\nlist of 4 items- list 1 of 4Boxer Serrano to hang up gloves in Puerto Rico farewell on January 9\n- list 2 of 4Ireland defeats Israel in controversial UEFA Nations League match\n- list 3 of 4A decade of Lajee Celtic: The Palestinian club whose fans include Cantona\n- list 4 of 4Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career\nShe had been receiving treatment for bowel cancer, revealing her diagnosis in July 2025 and subsequently disclosing that the disease was at an advanced stage.\nOriginally from Portaferry in County Down, Northern Ireland, Mageean established herself as one of the island of Ireland’s leading middle-distance runners, setting several records in both Northern Ireland and the Republic of Ireland.\nShe represented the republic at the 2016 Rio Olympics, at the Tokyo Games held in 2021, and in her greatest sporting achievement – in 2024 when, she claimed the 1,500 metres title at the European Athletics Championships in Rome.\nBut an Achilles tendon injury prevented her from competing at the Paris Olympics that year.\nMageean remained remarkably positive throughout her period of illness, saying she was “continuing to find the joy in everyday” as she thanked people for their support following her diagnosis.\nSpeaking to the BBC in June, she said she was “grateful” for having a career “that many others didn’t get to have”.\nTributes poured in for Mageean, who also won European bronze and silver in the 1,500m (in 2016 and 2022, respectively) and finished second in the event at the 2022 Commonwealth Games, where she represented Northern Ireland.\n“The country has lost a hero,” the Olympic Federation of Ireland said in a statement.\n“Beyond the medals, records and sporting accolades, Ciara will be remembered for her warmth, courage and tremendous strength of character,” said Northern Ireland’s First Minister Michelle O’Neill.\nThe Republic of Ireland’s prime minister, Taoiseach Micheal Martin, said he was “deeply saddened” by Mageean’s “untimely passing”."
+    },
+    {
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/7743669/2026/11/01/ciara-mageean-death-cancer-olympics-champion",
+     "title": "Ciara Mageean: Olympian and European Champion dies aged 34 from cancer",
+     "lang": "en",
+     "extra": {},
+     "id": "b18a59ff1f38250f",
+     "published": "2026-11-01T13:59+00:00",
+     "text": "The 34-year-old medium distance runner has died after being diagnosed with bowel cancer last year"
+    }
+   ]
+  },
+  {
    "id": "cd15b79a959",
    "kind": "news",
    "score": 19.5,
@@ -848,6 +931,65 @@
      "id": "4611f35e636c5236",
      "published": "2026-11-01T10:35+00:00",
      "text": "- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance hack spotlights North Korea’s multibillion-dollar crypto theft operation NBC News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack WSJ"
+    }
+   ]
+  },
+  {
+   "id": "cbce01cdef7",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "FBI blames North Korean group for $6.3bn Binance cyber heist",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Financial Times Tech",
+     "trust": 2,
+     "url": "https://ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+     "title": "FBI blames North Korean group for $6.3bn Binance cyber heist",
+     "lang": "en",
+     "extra": {},
+     "id": "bce01cdef721f4cc",
+     "published": "2026-10-31T22:34+00:00",
+     "text": "Crypto exchanges move to tighten security after record theft from world’s biggest digital assets venue"
+    },
+    {
+     "source": "NYT World",
+     "trust": 2,
+     "url": "https://nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+     "lang": "en",
+     "extra": {},
+     "id": "a99c268c18cb3a6c",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime."
+    },
+    {
+     "source": "Korea Herald",
+     "trust": 2,
+     "url": "https://koreaherald.com/article/10921777",
+     "title": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/01/news-p.v1.20261101.dd63fcfa602a4d7fb13d556e35b55fee_P1.jpg"
+     },
+     "id": "fd70ae0972bf9cf4",
+     "published": "2026-11-01T06:23+00:00",
+     "text": "The threat posed by North Korea online is again in focus, following a record cryptocurrency heist potentially linked to Pyongyang.\nThe US Federal Bureau of Investigation said Saturday that North Korea was responsible for the theft of more than $6 billion in virtual assets from Binance, the world's largest cryptocurrency exchange, on or around Oct. 29.\nThe theft is believed to be the largest single cryptocurrency heist on record.\nThe FBI attributed the operation to TraderTraitor, its name for a North Korean cyber campaign involved in cryptocurrency theft, and said the stolen assets were being converted primarily into ether then laundered through decentralized finance and instant-swap services.\nEther, on the Ethereum blockchain, is the world's second-largest cryptocurrency by market capitalization.\nOn Saturday, US President Donald Trump said Washington was still looking into whether North Korea was behind the attack and that he would raise the issue with Pyongyang if its involvement was confirmed.\n\"We're learning about it. We don't know if it's North Korea — but if it is, we'll talk to North Korea about it,\" Trump told reporters at Mar-a-Lago in Florida.\nThe FBI meanwhile urged cryptocurrency exchanges and other virtual asset service providers to block transactions involving digital wallet addresses linked to the stolen funds.\nActivity traced to North Korean internet protocol addresses has also put South Korea's financial sector on alert.\nSouth Korean financial authorities recently alerted banks, securities firms and cryptocurrency exchanges after about 4.4 million scanning attempts targeting local financial institutions were detected from IP addresses assigned to North Korea beginning at 3 a.m. on Oct. 21.\nNo actual breach linked to those addresses has been confirmed. Authorities, however, said the activity appeared aimed at identifying open network ports or security vulnerabilities that could later be exploited, prompting financial firms to review access logs and strengthen real-time monitoring.\nThe activity also coincided with indications that hackers suspected of links to North Korea were preparing broader attacks against governments and financial institutions.\nSingapore-based cybersecurity firm Cyfirma said on Oct. 22 that it had detected Korean-speaking operators discussing attacks using two critical vulnerabilities in PHP, a widely used server-side programming language.\nThe firm said government agencies, banks and other financial institutions were among the operators' highest-priority targets, with South Korea, the US and Japan among the countries discussed.\nCyfirma also pointed to possible links to the Lazarus Group ecosystem, a North Korean state-linked hacking network known for financial theft and espionage.\nNorth Korea has a long history of targeting South Korean institutions.\nIn 2024, South Korean police said Lazarus and Andariel in 2019 had stolen 342,000 ether, worth about 58 billion won ($43.5 million) at the time, from South Korean cryptocurrency exchange Upbit.\nIn March 2013, a major cyberattack attributed by South Korean authorities to North Korea disrupted the networks of Shinhan Bank, Nonghyup Bank and Jeju Bank, knocking out ATMs, online banking and other services.\nThe emergence of artificial intelligence appears to have further expanded the scale and speed of North Korea's cyber operations.\nMicrosoft Threat Intelligence said in a report released Thursday that three of eight major North Korean threat groups it examine"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5",
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist. - The New York Times",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "065dd641f6c3eba6",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.\nThe New York Times\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -1137,6 +1279,76 @@
    ]
   },
   {
+   "id": "c008ce375e9",
+   "kind": "news",
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723980",
+     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+     "lang": "en",
+     "extra": {},
+     "id": "2a80d7bbc1f321da",
+     "published": "2026-10-31T19:40+00:00",
+     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nSave $100 Off Apple Watch Ultra 4\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSave $10 off Ocarina of Time Remake Physical Copies\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nPikmin 4 for $39.88\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 + Expansion Pass Bundle for $39.94\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload (Switch 2) for $24.99\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nFinal Fantasy XIV: Dawntrail Art Book for $19.18\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales On Sale for the First Time\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nDragon Quest III HD-2D Remake for $19.99\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with t"
+    },
+    {
+     "source": "MacRumors",
+     "trust": 2,
+     "url": "https://macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts",
+     "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
+     "lang": "en",
+     "extra": {},
+     "id": "008ce375e96b3575",
+     "published": "2026-10-31T15:54+00:00",
+     "text": "The Apple Watch Ultra 4 has dropped to $699.99 on Amazon, down from $799.00. This is a match of the all-time low price on the new Ultra 4, which just launched in September.\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\nIf you're shopping for a Milanese Loop model, Amazon also has a $99 discount on one of these devices. You can get the Black Apple Watch Ultra 4 with Black Milanese Loop (Large) for $799.99, down from $899.00. Most of these watches have an estimated delivery date of early November, and some are offering same-day shipping for Prime members as well.\nIf you're on the hunt for more discounts, be sure to visit our Apple Deals roundup where we recap the best Apple-related bargains of the past week.\nDeals Newsletter\nInterested in hearing more about the best deals you can find as we head into the holidays? You can sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/best-deals-for-october-31-2026",
+     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+     "lang": "en",
+     "extra": {},
+     "id": "6545c619b821c4bc",
+     "published": "2026-10-31T19:34+00:00",
+     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with the HD-2D art style that breathes new life into the adventure of Erdrick. Numerous quality-of-life features make this a game that's much more digestible than ever for genre newcomers, and the orchestrated soundtrack is a treat, too. Pick up a PS5 copy today for just $19.99.\nStar Wars Zero Company is one of the biggest sleeper hits of the year, and you can save $12 o"
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods",
+     "title": "Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-weekend-deals-early-black-friday.jpg?quality=82&strip=all&resize=1200,628"
+     },
+     "id": "ebc36dee8d5361f4",
+     "published": "2026-11-01T12:49+00:00",
+     "text": "The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and Apple’s new HomeView. We have AirPods Pro 3 at $50 off, all-time lows on AirTag 2 starting at just $17.50 a pop, and nearly $100 off the new Apple Watch Ultra 4.\nMoving over to the Mac, the latest M6 Mac mini is $150 off, the M5 MacBook Air has returned to the lowest prices in months at $200 off, and we have pre-order offers on the new M6 MacBook Pro, M6 iMac, and the MacBook Pro with PROLED XDR Display. All of that joins Apple’s new OLED iPad mini and the next-gen World Travel Kit, as well as this deal on Apple Pencil USB-C for iPhone Duo users. Check it all out below.\nThis weekend’s Apple deals\n- AirPods\n- New Apple TV 4K\n- HomeView\n- AirTag 2\n- Apple Pencil USB-C\n- M6 Mac mini\n- MacBook Air\n- M6 MacBook\n- PROLED XDR MacBook Pro with Touch\n- M5 Pro MacBook Pro\n- M5 Max Mac Studio\n- OLED iPad mini\n- Apple Watch Ultra 4\n- Apple Magic Keyboard (NEW 2026 model)\n- New Apple accessories\n- Apple MagSafe Battery\n- M6 iMac\n- Apple iPhone 18 Pro Cases\n- Apple iPhone 18 Pro Max Cases\nAirPods\n- AirPods Pro 3 $199 (Reg. $249)\n- AirPods Max 2 $449 (Reg. $549)\nNew Apple TV 4K\n- NEW Apple TV 4K (4th Generation) $289 (Reg. $300)\nHomeView\n- Apple HomeView $289 (Reg. $299)\n- Apple HomeView (Wall mounted) $299\n- Apple HomeView (Wall Mounted) with USB-C Wall Connector Power Mount $359\n- Apple HomeView (Wall Mounted) with AC-Wired Power Mount $379\nAirTag 2\n- AirTag 2 $24 (Reg. $29) – Matching all-time low\n- AirTag 2 4-pack $70 (Reg. $99) – Matching all-time low\nApple Pencil USB-C\n- Apple Pencil USB-C $69 (Reg. $79)\nM6 Mac mini\n- M6 Mac mini 16GB/256GB $780 (Reg. $899)\n- M6 Mac mini 16GB/512GB $950 (Reg. $1,099)\n- M6 Mac mini 24GB/512GB $1,150 (Reg. $1,299)\n- M5 Pro Mac mini 24GB/512GB $1,550 (Reg. $1,699)\nMacBook Air\n- 13-inch M5 MacBook Air 16GB/512GB $1,099 (Reg. $1,299) – Matching Prime Day\n- 13-inch M5 MacBook Air 16GB/1TB $1,399 (Reg. $1,599) – Matching Prime Day\n- 13-inch M5 MacBook Air 24GB/1TB $1,599 (Reg. $1,799) – Matching Prime Day\n- 15-inch M5 MacBook Air 16GB/512GB $1,339 (Reg. $1,499)\n- 15-inch M5 MacBook Air 16GB/1TB $1,599 (Reg. $1,799) – Matching Prime Day\n- 15-inch M5 MacBook Air 24GB/1TB $1,799 (Reg. $1,999) – Matching Prime Day\nM6 MacBook\n- 14-inch M6 MacBook Pro 16GB/1TB $1,999 at Amazon\n- 14-inch M6 MacBook Pro 24GB/1TB $2,199 at Amazon\n- 14-inch M6 MacBook Pro 32GB/1TB $2,399 at Amazon\n- 14-inch M6 MacBook Pro 16GB/1TB $1,999 + $100 Best Buy gift card\n- 14-inch M6 MacBook Pro 24GB/1TB $2,199 + $100 Best Buy gift card\n- 14-inch M6 MacBook Pro 32GB/1TB $2,399 + $100 Best Buy gift card\nPROLED XDR MacBook Pro with Touch\n- 14-inch M5 Pro MacBook Pro with PROLED XDR Display $2,899 at Amazon\n- 16-inch M5 Pro MacBook Pro with PROLED XDR Display $3,399 at Amazon\n- 14-inch M5 Pro MacBook Pro PROLED XDR 24GB/1TB $2,899 + $100 Best Buy gift card\n- 14-inch M5 Pro MacBook Pro PROLED XDR 48GB/1TB $3,699 + $100 Best Buy gift card\n- 16-inch M5 Pro MacBook Pro PROLED XDR 48GB/1TB $3,999 + $100 Best Buy gift card\n- 16-inch M5 Pro MacBook Pro PROLED XDR 48GB/2TB $5,399 + $100 Best Buy gift card\nM5 Pro MacBook Pro\n- 14-inch M5 Pro MacBook Pro 24GB/2TB $2,649 (Reg. $2,999)\n- 16-inch M5 Max MacBook Pro 36GB/2TB $3,499 (Reg. $4,399)\nM5 Max Mac Studio\n- 2026 M5 Max Mac Studio $2,299 (Reg. $2,499) – All-time low\nOLED iPad mini\n- OLED iPad mini 128GB $699 at Amazon\n- OLED iPad mi"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KUEpTem5uMk1xM0stOHY5aWZ2ZXVPUkFleGstYjQ3MGNNeFFNcG5xX3gzMGtxeXQ0ckkwdGtvVi1tTDRJaFZoR2gyNXl1MFFIaHV2T0RJQkwtQXN0azZOd2M1dm90RWsxN2pJ?oc=5",
+     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "16049d4e24a8d642",
+     "published": "2026-10-31T19:34+00:00",
+     "text": "- The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More IGN\n- Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount MacRumors\n- Apple Watch Ultra 4 vs Apple Watch Ultra: Is it time to upgrade? Stuff\n- Apple Watch Ultra 4 Review: Good Enough for Triathlon? Triathlon Magazine Canada\n- Score a $150 discount the Apple Watch Ultra 3 Android Authority"
+    }
+   ]
+  },
+  {
    "id": "c4ac0faf8bd",
    "kind": "news",
    "score": 16.0,
@@ -1284,52 +1496,6 @@
    ]
   },
   {
-   "id": "c8703aea988",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
-     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png"
-     },
-     "id": "8703aea9881e82c3",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals\nLess-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.\nBinance said Saturday it had replenished 90% of the assets stolen in its $6.3 billion hack, up from 80% a day earlier, and remained on track to resume withdrawals Sunday.\nThe exchange is using a combination of its corporate treasury, a partial deployment of its Secure Asset Fund for Users (SAFU) and a portion of its futures insurance fund, a spokesperson told Cointelegraph.\n“Binance will absorb the financial impact of the stolen funds, not users,” the spokesperson said, adding that the insurance fund would remain above required risk management levels.\nThe update follows Thursday’s theft, the largest cryptocurrency hack on record, which TRM Labs has since attributed to North Korea’s TraderTraitor hacker group.\nFollowing the hack, Binance said Friday it had set aside $6.34 billion to cover losses, including $5 billion in the affected cryptocurrencies. Industry partners like Tether and Circle froze about $3 billion in affected assets after the hack, but those funds are separate from Binance’s replacement of stolen tokens.\nStill, CertiK told Cointelegraph on Friday that it needed more information to verify Binance’s claimed $5 billion in replacement cryptocurrencies. Binance has since published a new reserves snapshot, but says the full cryptographic proof is still being generated. “The full zero-knowledge proof takes approximately 40 to 50 hours to generate due to the computational workload,” the exchange’s update reads.\nBinance said in its update on X that customer balances in Bitcoin (BTC), Ether (ETH) and eight other assets were fully backed. The remaining shortfall consists of less liquid tokens that it continues to buy through market and over-the-counter transactions, the update reads.\nThe spokesperson’s statement did not specify how much each funding source contributed or disclose the insurance fund’s minimum required balance. It also did not quantify how much stolen crypto had been recovered.\nRead Cointelegraph’s full coverage of the Binance hack here.\nMagazine: Binance hackers raced to move billions before it could be frozen"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1taFlQaHdFNi1RVmtQVXRPdlBsUE1oSHE5Y2dyMFR5dDAzaWRQTDJrUlBxb19LRlRjREhSTGU0d3JISVU0a3JkZHI2OXdVeTVENGstYXpLbXJDeTJxXzJZSVI1ZjY5UGRfRlFicGU4YmFpWWdnVFZNaHk4Nmk3N1U?oc=5",
-     "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’ - The Verge",
-     "lang": "en",
-     "extra": {},
-     "id": "ae82310ec26b4ee6",
-     "published": "2026-10-31T18:40+00:00",
-     "text": "Binance CEO says 90 percent of stolen assets have been ‘replenished’\nThe Verge\nSee more headlines & perspectives on Google News"
-    },
-    {
-     "source": "Slashdot",
-     "trust": 1,
-     "url": "https://news.slashdot.org/story/26/11/01/0129237/binance-replenishes-90-of-stolen-63b-pledges-theyll-cover-it-all-reopen-sunday",
-     "title": "Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday",
-     "lang": "en",
-     "extra": {},
-     "id": "dc9fd0e56b91bd47",
-     "published": "2026-11-01T01:34+00:00",
-     "text": "\"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%,\" Binance co-CEO Richard Teng posted on X, adding that \"Our users will not bear the financial impact of this incident.\"\n\"Binance said it was able to replace the funds taken in the record hack by using company money to buy new tokens,\" reports NBC News:\nThe remaining 10% consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X... Binance said it has set aside around $6.34 billion of company funds internally to cover the losses. The money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nNBC News reports that the FBI blames the breach on a North Korea-sponsored group known as TraderTraitor:\nMembers of [TraderTraitor] were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology... After the hack, the exchange stopped allowing customers to withdraw their funds, but it said Saturday it was still on track to reopen withdrawals Sunday.\nCNBC reports:\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\nThe New York Times describes what happened when Binance first spotted \"a multibillion-dollar deluge of digital coins\" pouring out of its accounts:\nAs the news spread, Binance's top executives put together an informal war room on Wea, the company's internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel. They eventually transitioned to a mass conference call, with 100 boxes on the screen, where employees took turns muting and then unmuting, communicating in a mixture of English and Chinese. Among them was He Yi, Binance's co-chief executive, who is seven months pregnant, and worked through the night from her base in Abu Dhabi, taking a call at 3 a.m. local time....\nMuch of the drama played out in public. Almost all crypto transactions are recorded on the blockchain, a ledger of money movements that anyone can look up. That meant crypto analysts could see funds leaving Binance in real time... North Koreans have targeted crypto companies for years, using the proceeds of those thefts to fund its nuclear program, according to Western officials. The hackers have developed increasingly complex strategies to steal crypto and launder the proceeds, a painstaking endeavor that can take months to complete. In a blog post on Friday, Chainalysis said the attackers had deployed \"laundering patterns we have not seen before,\" conducting thousands of transactions over a short period, probably with the help of automation.\nAt the same time, Binance's colleagues in the industry mobilized to intercept some of the laundered crypto. Certain digital coin issuers can freeze funds, allowing them to halt a money-laundering operation in its tracks. Soon after the hack, T"
-    }
-   ]
-  },
-  {
    "id": "c9d449d2dca",
    "kind": "news",
    "score": 16.0,
@@ -1444,54 +1610,6 @@
      "id": "ab6170c4a02c8c83",
      "published": "2026-11-01T08:18+00:00",
      "text": "New York Mayor Zohran Mamdani says after a phone call with United States President Donald Trump that the mother of a 15-year-old Ghanaian boy who was shot dead in the Bronx will be granted a visa.\nMamdani wrote in a post on X on Saturday that he had spoken with Trump about Javits Frimpong, whose mother is seeking to travel to New York to say goodbye to her son.\nRecommended Stories\nlist of 3 items- list 1 of 3Zohran Mamdani elected as New York City mayor in historic win\n- list 2 of 3New York mayor Mamdani sues to block $10,000 teaching aide bonuses\n- list 3 of 3The murder of Javits Frimpong, a bullied schoolboy in The Bronx\nThe US president “has agreed to grant her visa immediately”, the mayor wrote.\n“The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,” he wrote.\nThere was no immediate comment from Trump.\nCCTV footage that captured the last moments of Frimpong’s life showed him being chased by three other teens on Thursday morning as he was on his way to school. He was shot in his abdomen and died the same day in hospital. Thousands of people attended vigils held for the teenager across the city.\nThe 15-year-old had told his father he was bullied at school. Thomas Frimpong, Javits’s father, called on the police to help him “find justice for my son”. Police have said they are investigating, but no arrests have been made yet.\nJavits’s parents moved him to the US a year ago in the hopes of providing him a better life. Congressman Richie Torres, who represents the Bronx, wrote on social media that “our entire borough is mourning a young man who should have had his whole future ahead of him.”\nGhanaian Foreign Minister Sam Okudzeto Ablakwa stated on social media that Ghanaian officials are “coordinating with local authorities” and helping Javits’s mother with her visa application. Visa applications from a number of African countries have been severely limited under the Trump administration."
-    }
-   ]
-  },
-  {
-   "id": "ca99c268c18",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NYT World",
-     "trust": 2,
-     "url": "https://nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-     "lang": "en",
-     "extra": {},
-     "id": "a99c268c18cb3a6c",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime."
-    },
-    {
-     "source": "Korea Herald",
-     "trust": 2,
-     "url": "https://koreaherald.com/article/10921777",
-     "title": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/01/news-p.v1.20261101.dd63fcfa602a4d7fb13d556e35b55fee_P1.jpg"
-     },
-     "id": "fd70ae0972bf9cf4",
-     "published": "2026-11-01T06:23+00:00",
-     "text": "The threat posed by North Korea online is again in focus, following a record cryptocurrency heist potentially linked to Pyongyang.\nThe US Federal Bureau of Investigation said Saturday that North Korea was responsible for the theft of more than $6 billion in virtual assets from Binance, the world's largest cryptocurrency exchange, on or around Oct. 29.\nThe theft is believed to be the largest single cryptocurrency heist on record.\nThe FBI attributed the operation to TraderTraitor, its name for a North Korean cyber campaign involved in cryptocurrency theft, and said the stolen assets were being converted primarily into ether then laundered through decentralized finance and instant-swap services.\nEther, on the Ethereum blockchain, is the world's second-largest cryptocurrency by market capitalization.\nOn Saturday, US President Donald Trump said Washington was still looking into whether North Korea was behind the attack and that he would raise the issue with Pyongyang if its involvement was confirmed.\n\"We're learning about it. We don't know if it's North Korea — but if it is, we'll talk to North Korea about it,\" Trump told reporters at Mar-a-Lago in Florida.\nThe FBI meanwhile urged cryptocurrency exchanges and other virtual asset service providers to block transactions involving digital wallet addresses linked to the stolen funds.\nActivity traced to North Korean internet protocol addresses has also put South Korea's financial sector on alert.\nSouth Korean financial authorities recently alerted banks, securities firms and cryptocurrency exchanges after about 4.4 million scanning attempts targeting local financial institutions were detected from IP addresses assigned to North Korea beginning at 3 a.m. on Oct. 21.\nNo actual breach linked to those addresses has been confirmed. Authorities, however, said the activity appeared aimed at identifying open network ports or security vulnerabilities that could later be exploited, prompting financial firms to review access logs and strengthen real-time monitoring.\nThe activity also coincided with indications that hackers suspected of links to North Korea were preparing broader attacks against governments and financial institutions.\nSingapore-based cybersecurity firm Cyfirma said on Oct. 22 that it had detected Korean-speaking operators discussing attacks using two critical vulnerabilities in PHP, a widely used server-side programming language.\nThe firm said government agencies, banks and other financial institutions were among the operators' highest-priority targets, with South Korea, the US and Japan among the countries discussed.\nCyfirma also pointed to possible links to the Lazarus Group ecosystem, a North Korean state-linked hacking network known for financial theft and espionage.\nNorth Korea has a long history of targeting South Korean institutions.\nIn 2024, South Korean police said Lazarus and Andariel in 2019 had stolen 342,000 ether, worth about 58 billion won ($43.5 million) at the time, from South Korean cryptocurrency exchange Upbit.\nIn March 2013, a major cyberattack attributed by South Korean authorities to North Korea disrupted the networks of Shinhan Bank, Nonghyup Bank and Jeju Bank, knocking out ATMs, online banking and other services.\nThe emergence of artificial intelligence appears to have further expanded the scale and speed of North Korea's cyber operations.\nMicrosoft Threat Intelligence said in a report released Thursday that three of eight major North Korean threat groups it examine"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5",
-     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist. - The New York Times",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "065dd641f6c3eba6",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.\nThe New York Times\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -1774,6 +1892,52 @@
    ]
   },
   {
+   "id": "c8703aea988",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Cointelegraph",
+     "trust": 2,
+     "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
+     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png"
+     },
+     "id": "8703aea9881e82c3",
+     "published": "2026-10-31T15:36+00:00",
+     "text": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals\nLess-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.\nBinance said Saturday it had replenished 90% of the assets stolen in its $6.3 billion hack, up from 80% a day earlier, and remained on track to resume withdrawals Sunday.\nThe exchange is using a combination of its corporate treasury, a partial deployment of its Secure Asset Fund for Users (SAFU) and a portion of its futures insurance fund, a spokesperson told Cointelegraph.\n“Binance will absorb the financial impact of the stolen funds, not users,” the spokesperson said, adding that the insurance fund would remain above required risk management levels.\nThe update follows Thursday’s theft, the largest cryptocurrency hack on record, which TRM Labs has since attributed to North Korea’s TraderTraitor hacker group.\nFollowing the hack, Binance said Friday it had set aside $6.34 billion to cover losses, including $5 billion in the affected cryptocurrencies. Industry partners like Tether and Circle froze about $3 billion in affected assets after the hack, but those funds are separate from Binance’s replacement of stolen tokens.\nStill, CertiK told Cointelegraph on Friday that it needed more information to verify Binance’s claimed $5 billion in replacement cryptocurrencies. Binance has since published a new reserves snapshot, but says the full cryptographic proof is still being generated. “The full zero-knowledge proof takes approximately 40 to 50 hours to generate due to the computational workload,” the exchange’s update reads.\nBinance said in its update on X that customer balances in Bitcoin (BTC), Ether (ETH) and eight other assets were fully backed. The remaining shortfall consists of less liquid tokens that it continues to buy through market and over-the-counter transactions, the update reads.\nThe spokesperson’s statement did not specify how much each funding source contributed or disclose the insurance fund’s minimum required balance. It also did not quantify how much stolen crypto had been recovered.\nRead Cointelegraph’s full coverage of the Binance hack here.\nMagazine: Binance hackers raced to move billions before it could be frozen"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1taFlQaHdFNi1RVmtQVXRPdlBsUE1oSHE5Y2dyMFR5dDAzaWRQTDJrUlBxb19LRlRjREhSTGU0d3JISVU0a3JkZHI2OXdVeTVENGstYXpLbXJDeTJxXzJZSVI1ZjY5UGRfRlFicGU4YmFpWWdnVFZNaHk4Nmk3N1U?oc=5",
+     "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’ - The Verge",
+     "lang": "en",
+     "extra": {},
+     "id": "ae82310ec26b4ee6",
+     "published": "2026-10-31T18:40+00:00",
+     "text": "Binance CEO says 90 percent of stolen assets have been ‘replenished’\nThe Verge\nSee more headlines & perspectives on Google News"
+    },
+    {
+     "source": "Slashdot",
+     "trust": 1,
+     "url": "https://news.slashdot.org/story/26/11/01/0129237/binance-replenishes-90-of-stolen-63b-pledges-theyll-cover-it-all-reopen-sunday",
+     "title": "Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday",
+     "lang": "en",
+     "extra": {},
+     "id": "dc9fd0e56b91bd47",
+     "published": "2026-11-01T01:34+00:00",
+     "text": "\"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%,\" Binance co-CEO Richard Teng posted on X, adding that \"Our users will not bear the financial impact of this incident.\"\n\"Binance said it was able to replace the funds taken in the record hack by using company money to buy new tokens,\" reports NBC News:\nThe remaining 10% consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X... Binance said it has set aside around $6.34 billion of company funds internally to cover the losses. The money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nNBC News reports that the FBI blames the breach on a North Korea-sponsored group known as TraderTraitor:\nMembers of [TraderTraitor] were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology... After the hack, the exchange stopped allowing customers to withdraw their funds, but it said Saturday it was still on track to reopen withdrawals Sunday.\nCNBC reports:\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\nThe New York Times describes what happened when Binance first spotted \"a multibillion-dollar deluge of digital coins\" pouring out of its accounts:\nAs the news spread, Binance's top executives put together an informal war room on Wea, the company's internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel. They eventually transitioned to a mass conference call, with 100 boxes on the screen, where employees took turns muting and then unmuting, communicating in a mixture of English and Chinese. Among them was He Yi, Binance's co-chief executive, who is seven months pregnant, and worked through the night from her base in Abu Dhabi, taking a call at 3 a.m. local time....\nMuch of the drama played out in public. Almost all crypto transactions are recorded on the blockchain, a ledger of money movements that anyone can look up. That meant crypto analysts could see funds leaving Binance in real time... North Koreans have targeted crypto companies for years, using the proceeds of those thefts to fund its nuclear program, according to Western officials. The hackers have developed increasingly complex strategies to steal crypto and launder the proceeds, a painstaking endeavor that can take months to complete. In a blog post on Friday, Chainalysis said the attackers had deployed \"laundering patterns we have not seen before,\" conducting thousands of transactions over a short period, probably with the help of automation.\nAt the same time, Binance's colleagues in the industry mobilized to intercept some of the laundered crypto. Certain digital coin issuers can freeze funds, allowing them to halt a money-laundering operation in its tracks. Soon after the hack, T"
+    }
+   ]
+  },
+  {
    "id": "c832cd7aba9",
    "kind": "news",
    "score": 15.0,
@@ -1973,65 +2137,6 @@
    ]
   },
   {
-   "id": "cab4167939c",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "Former Ireland European 1,500m champion dies from cancer aged 34",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Sky News World",
-     "trust": 2,
-     "url": "https://news.sky.com/story/ciara-mageean-former-european-1500m-champion-dies-at-age-of-34-13606579",
-     "title": "Former Ireland European 1,500m champion dies from cancer aged 34",
-     "lang": "en",
-     "extra": {},
-     "id": "ab4167939c89f4e8",
-     "published": "2026-11-01T08:15+00:00",
-     "text": "Former European 1,500m champion Ciara Mageean has died at the age of 34."
-    },
-    {
-     "source": "BBC Sport",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&at_campaign=rss",
-     "title": "Former European champion and two-time Olympian Mageean dies aged 34",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f48f/live/df92a5c0-d5db-11f1-a25d-8f13519027da.jpg"
-     },
-     "id": "be75b384e94d51d4",
-     "published": "2026-11-01T10:45+00:00",
-     "text": "- Published\nFormer European champion and two-time Olympian Ciara Mageean has died at the age of 34.\nMageean, from Portaferry in Northern Ireland, was diagnosed with stage four bowel cancer in May 2025.\nShe represented Ireland at the 2016 and 2020 Olympics, but was forced to withdraw from the 2024 Paris Games because of an Achilles injury.\nEarlier in 2024, Mageean had clinched the first major title of her career when she took 1500m gold at the European Championships in Rome.\nPrior to that she had also represented Northern Ireland at the Commonwealth Games, winning 1500m silver at Birmingham 2022.\nA statement posted on her social media on Sunday said: \"At 6.30am this morning, Ciara lost her battle with cancer surrounded by her loved ones.\n\"A beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.\n\"Ar dheis Dé go raibh a hanam (may her soul rest in peace).\"\nIn a statement on social media, Athletics Ireland said: \"We are heartbroken. An inspiration to so many, Ciara will be remembered for her courage, kindness and incredible spirit.\n\"Our deepest sympathies are with her family, friends and loved ones at this difficult time. Rest in peace, Ciara.\"\nEarlier this month, Mageean wed her long-term partner Thomas Moran in a small civil ceremony in Belfast.\nA talented athlete from a young age, Mageean played camogie for Portaferry GAC, but her dream of representing Ireland at the Olympics led her to pursue a career in athletics.\nHer running prowess was clear during an impressive junior career that yielded 1500m silvers at the 2010 World Junior Championships and 2011 European Junior Championships. She also reached the 2010 Commonwealth Games 1500m final as an 18-year-old.\nHowever, Mageean's early progress in the senior ranks was hampered by a serious ankle injury, which ended her hopes of making her Olympic debut at London 2012.\nHaving had surgery in 2013, Mageean won the Irish 1500m title on her return in July 2014.\nIn 2016, she claimed 1500m bronze at the European Championships in Amsterdam, but her Olympic debut ended in disappointment as she exited the 1500m competition at the semi-final stage.\nIn late 2017, Mageean left her Dublin base to join Steve Vernon's Team New Balance in Manchester after parting ways with coach Jerry Kiernan.\nAnd while she endured some disappointing results following the move, Mageean claimed a European Indoor bronze medal in March 2019 before clocking two minutes 31.06 seconds to take 3.6 seconds off Sonia O'Sullivan's 27-year-old Irish 1,000m record at the 2020 Diamond League Monaco meet.\nMageean endured more Olympic heartache at the delayed Tokyo Games in 2021, when a calf injury disrupted her preparations as she exited from the heats.\nHowever, she enjoyed a successful 2022 campaign under the guidance of former Great Britain Olympian Helen Clitheroe, winning 1500m European and Commonwealth silver behind Laura Muir.\nTwo weeks after the Euros, Mageean beat Muir and a world-class field to seal a stunning 1500m victory at Diamond League Brussels. Her time of 3:56.63 took 2.22 seconds off O'Sullivan's Irish record and marked her first sub four-minute run.\nIn 2023, Mageean narrowly missed out on a World Championship medal as she finished fourth in a high-class final in Budapest.\nHowever, after taking over two seconds off O'Sullivan's Irish mile record in July, Mageean was named the 2023 BBC Northern Ireland Sports Personality of the Year.\nAfter a string of near-misses at championship lev"
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/athletics/news/12040/13606619/ciara-mageean-irelands-european-1500-metres-gold-medallist-dies-at-the-age-of-34-after-battling-cancer",
-     "title": "European champion Mageean dies aged 34",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://e1.365dm.com/26/11/1600x900/skysports-ciara-mageean-athletics_7393733.jpg"
-     },
-     "id": "b7d1e60b84cd43bb",
-     "published": "2026-11-01T12:15+00:00",
-     "text": "Ciara Mageean: Ireland's European 1500 metres gold medallist dies at the age of 34 after battling cancer\nEuropean champion and two-time Olympian Ciara Mageean has died at the age of 34; Irish athletics star announced last year that she had been diagnosed with cancer\nLast Updated: 01/11/26 12:19pm\nIreland's European 1500 metres gold medallist Ciara Mageean has died at the age of 34.\nTwo-time Olympian Mageean, who won the European title in Rome in 2024, announced last year she had been diagnosed with cancer.\nA statement on her Instagram account on Sunday read: \"At 6:30am this morning, Ciara lost her battle with cancer surrounded by her loved ones. A beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.\"\nA statement from Athletics Ireland read: \"Athletics Ireland is deeply saddened to learn of the passing of Ciara Mageean.\n\"Ciara was a much-loved and inspirational figure who touched the lives of so many. Her courage, warmth and spirit will leave a lasting legacy.\n\"The thoughts and heartfelt condolences of everyone at Athletics Ireland are with Ciara's family, friends and loved ones at this incredibly difficult time.\n\"May she rest in peace.\""
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/sport/general/athletics/ciara-mageean-death-tributes-ireland-b3077053.html",
-     "title": "Irish Olympian and European champion Ciara Mageean dies aged 34",
-     "lang": "en",
-     "extra": {},
-     "id": "bebc34c2e91e0882",
-     "published": "2026-11-01T12:35+00:00",
-     "text": "Tánaiste Simon Harris described the news as heartbreaking"
-    }
-   ]
-  },
-  {
    "id": "c1c585ea522",
    "kind": "news",
    "score": 14.5,
@@ -2146,63 +2251,6 @@
    ]
   },
   {
-   "id": "c008ce375e9",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723980",
-     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
-     "lang": "en",
-     "extra": {},
-     "id": "2a80d7bbc1f321da",
-     "published": "2026-10-31T19:40+00:00",
-     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nSave $100 Off Apple Watch Ultra 4\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSave $10 off Ocarina of Time Remake Physical Copies\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nPikmin 4 for $39.88\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 + Expansion Pass Bundle for $39.94\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload (Switch 2) for $24.99\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nFinal Fantasy XIV: Dawntrail Art Book for $19.18\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales On Sale for the First Time\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nDragon Quest III HD-2D Remake for $19.99\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with t"
-    },
-    {
-     "source": "MacRumors",
-     "trust": 2,
-     "url": "https://macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts",
-     "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
-     "lang": "en",
-     "extra": {},
-     "id": "008ce375e96b3575",
-     "published": "2026-10-31T15:54+00:00",
-     "text": "The Apple Watch Ultra 4 has dropped to $699.99 on Amazon, down from $799.00. This is a match of the all-time low price on the new Ultra 4, which just launched in September.\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\nIf you're shopping for a Milanese Loop model, Amazon also has a $99 discount on one of these devices. You can get the Black Apple Watch Ultra 4 with Black Milanese Loop (Large) for $799.99, down from $899.00. Most of these watches have an estimated delivery date of early November, and some are offering same-day shipping for Prime members as well.\nIf you're on the hunt for more discounts, be sure to visit our Apple Deals roundup where we recap the best Apple-related bargains of the past week.\nDeals Newsletter\nInterested in hearing more about the best deals you can find as we head into the holidays? You can sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/best-deals-for-october-31-2026",
-     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
-     "lang": "en",
-     "extra": {},
-     "id": "6545c619b821c4bc",
-     "published": "2026-10-31T19:34+00:00",
-     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with the HD-2D art style that breathes new life into the adventure of Erdrick. Numerous quality-of-life features make this a game that's much more digestible than ever for genre newcomers, and the orchestrated soundtrack is a treat, too. Pick up a PS5 copy today for just $19.99.\nStar Wars Zero Company is one of the biggest sleeper hits of the year, and you can save $12 o"
-    },
-    {
-     "source": "9to5Mac",
-     "trust": 2,
-     "url": "https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods",
-     "title": "Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-weekend-deals-early-black-friday.jpg?quality=82&strip=all&resize=1200,628"
-     },
-     "id": "ebc36dee8d5361f4",
-     "published": "2026-11-01T12:49+00:00",
-     "text": "The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and Apple’s new HomeView. We have AirPods Pro 3 at $50 off, all-time lows on AirTag 2 starting at just $17.50 a pop, and nearly $100 off the new Apple Watch Ultra 4.\nMoving over to the Mac, the latest M6 Mac mini is $150 off, the M5 MacBook Air has returned to the lowest prices in months at $200 off, and we have pre-order offers on the new M6 MacBook Pro, M6 iMac, and the MacBook Pro with PROLED XDR Display. All of that joins Apple’s new OLED iPad mini and the next-gen World Travel Kit, as well as this deal on Apple Pencil USB-C for iPhone Duo users. Check it all out below.\nThis weekend’s Apple deals\n- AirPods\n- New Apple TV 4K\n- HomeView\n- AirTag 2\n- Apple Pencil USB-C\n- M6 Mac mini\n- MacBook Air\n- M6 MacBook\n- PROLED XDR MacBook Pro with Touch\n- M5 Pro MacBook Pro\n- M5 Max Mac Studio\n- OLED iPad mini\n- Apple Watch Ultra 4\n- Apple Magic Keyboard (NEW 2026 model)\n- New Apple accessories\n- Apple MagSafe Battery\n- M6 iMac\n- Apple iPhone 18 Pro Cases\n- Apple iPhone 18 Pro Max Cases\nAirPods\n- AirPods Pro 3 $199 (Reg. $249)\n- AirPods Max 2 $449 (Reg. $549)\nNew Apple TV 4K\n- NEW Apple TV 4K (4th Generation) $289 (Reg. $300)\nHomeView\n- Apple HomeView $289 (Reg. $299)\n- Apple HomeView (Wall mounted) $299\n- Apple HomeView (Wall Mounted) with USB-C Wall Connector Power Mount $359\n- Apple HomeView (Wall Mounted) with AC-Wired Power Mount $379\nAirTag 2\n- AirTag 2 $24 (Reg. $29) – Matching all-time low\n- AirTag 2 4-pack $70 (Reg. $99) – Matching all-time low\nApple Pencil USB-C\n- Apple Pencil USB-C $69 (Reg. $79)\nM6 Mac mini\n- M6 Mac mini 16GB/256GB $780 (Reg. $899)\n- M6 Mac mini 16GB/512GB $950 (Reg. $1,099)\n- M6 Mac mini 24GB/512GB $1,150 (Reg. $1,299)\n- M5 Pro Mac mini 24GB/512GB $1,550 (Reg. $1,699)\nMacBook Air\n- 13-inch M5 MacBook Air 16GB/512GB $1,099 (Reg. $1,299) – Matching Prime Day\n- 13-inch M5 MacBook Air 16GB/1TB $1,399 (Reg. $1,599) – Matching Prime Day\n- 13-inch M5 MacBook Air 24GB/1TB $1,599 (Reg. $1,799) – Matching Prime Day\n- 15-inch M5 MacBook Air 16GB/512GB $1,339 (Reg. $1,499)\n- 15-inch M5 MacBook Air 16GB/1TB $1,599 (Reg. $1,799) – Matching Prime Day\n- 15-inch M5 MacBook Air 24GB/1TB $1,799 (Reg. $1,999) – Matching Prime Day\nM6 MacBook\n- 14-inch M6 MacBook Pro 16GB/1TB $1,999 at Amazon\n- 14-inch M6 MacBook Pro 24GB/1TB $2,199 at Amazon\n- 14-inch M6 MacBook Pro 32GB/1TB $2,399 at Amazon\n- 14-inch M6 MacBook Pro 16GB/1TB $1,999 + $100 Best Buy gift card\n- 14-inch M6 MacBook Pro 24GB/1TB $2,199 + $100 Best Buy gift card\n- 14-inch M6 MacBook Pro 32GB/1TB $2,399 + $100 Best Buy gift card\nPROLED XDR MacBook Pro with Touch\n- 14-inch M5 Pro MacBook Pro with PROLED XDR Display $2,899 at Amazon\n- 16-inch M5 Pro MacBook Pro with PROLED XDR Display $3,399 at Amazon\n- 14-inch M5 Pro MacBook Pro PROLED XDR 24GB/1TB $2,899 + $100 Best Buy gift card\n- 14-inch M5 Pro MacBook Pro PROLED XDR 48GB/1TB $3,699 + $100 Best Buy gift card\n- 16-inch M5 Pro MacBook Pro PROLED XDR 48GB/1TB $3,999 + $100 Best Buy gift card\n- 16-inch M5 Pro MacBook Pro PROLED XDR 48GB/2TB $5,399 + $100 Best Buy gift card\nM5 Pro MacBook Pro\n- 14-inch M5 Pro MacBook Pro 24GB/2TB $2,649 (Reg. $2,999)\n- 16-inch M5 Max MacBook Pro 36GB/2TB $3,499 (Reg. $4,399)\nM5 Max Mac Studio\n- 2026 M5 Max Mac Studio $2,299 (Reg. $2,499) – All-time low\nOLED iPad mini\n- OLED iPad mini 128GB $699 at Amazon\n- OLED iPad mi"
-    }
-   ]
-  },
-  {
    "id": "cbbca783970",
    "kind": "news",
    "score": 14.5,
@@ -2295,31 +2343,6 @@
      "id": "ac6443ac744cc32f",
      "published": "2026-11-01T10:04+00:00",
      "text": "- Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow Eurogamer.net\n- A Treasure Hunt Awaits in Pikmin Bloom’s Secret Caves! pikminbloom.com\n- Shigeru Miyamoto Proclaims November 1 is Pikmin Day, Pikmin 4 Demo Coming To Switch 2 Soon Game Informer\n- Everything Announced at Nintendo's Inaugural Pikmin Day Direct IGN\n- Happy Pikmin Day Eve The Verge"
-    }
-   ]
-  },
-  {
-   "id": "ca3e6e43d61",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
-   "official_image": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
-   "sources": [
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master",
-     "title": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
-     "lang": "en",
-     "extra": {
-      "image": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
-      "page_image": "https://images.nintendolife.com/fa666ebd7149e/1280x720.jpg"
-     },
-     "id": "a3e6e43d619845f8",
-     "published": "2026-11-01T08:00+00:00",
-     "text": "Capcom continues to build excitement for Mega Man: Dual Override, and following the official reveal of Tank Man earlier this week, it's now lifted the lid on Cook Man.\nHe is one of the many Robot Masters coming to the game. This master chef is ready to slice and dice Proto Man and the Blue Bomber when his game launches on the Switch 1 & 2 in 2027.\nHere's an official description, and you can see this robot master in action in the video above (courtesy of Rockman Corner):\nA wandering chef seeking recognition for his culinary prowess, Cook Man prepares to slice and dice our heroes with his Kung Fu Cooking style in Mega Man: Dual Override.\nCan you take the heat, or will you get out of his kitchen?\nIf you're not familiar with Mega Man, these Robot Masters will pop up at the end of each stage and attempt to stop Mega Man and Proto Man in their tracks.\nOnce again, Cook Man will join Tank Man, Twinkle Girl and Jet Man, with more Robot Master reveals on the way."
     }
    ]
   },
@@ -2620,6 +2643,80 @@
      "id": "7cd9821633242cce",
      "published": "2026-11-01T10:28+00:00",
      "text": ""
+    }
+   ]
+  },
+  {
+   "id": "cbb59421aee",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/scene/news/heidi-klum-halloween-2026-severed-human-hand-costume-1236935653",
+     "title": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/10/2302926100.jpg?crop=0px%2C505px%2C3155px%2C1776px&resize=1000%2C563"
+     },
+     "id": "bb59421aeee3022f",
+     "published": "2026-11-01T03:12+00:00",
+     "text": "Is it really Halloween without Heidi Klum?\nThe supermodel, who has become known for her over-the-top costumes, has returned for another year of her annual Halloween party, this year opting to dress as a severed human hand.\nAt last year’s party, Klum dressed as the mythological monster Medusa, which featured a headpiece decorated with writhing snakes and a trailing tail, while her husband, Tom Kaulitz, went as an ancient Greek soldier she had turned to stone. It ultimately took a team of 15 artists to create her costume, Klum told Variety at the 2025 event.\n“There still needs to be people that create moments with real people … to me, it’s like a beautiful art,” she said. When asked about her elaborate look, she shared, “This is only good for the night. Tonight. Everything goes down the drain, so to speak, in the shower.”\nThis year’s celebration marked the 25th year of Klum’s Halloween party. Some of her past looks include notable characters such as E.T., Fiona from “Shrek,” Jessica Rabbit and the werewolf from Michael Jackson’s “Thriller,” as well as creatures like a peacock, worm and butterfly.\nEarlier this year, Klum hosted the 22nd season of “Project Runway,” where she also served as a judge alongside Nina Garcia and Law Roach. Klum returned to the fashion competition series last year after previously exiting in 2018. Prior to her departure, she hosted the show for 16 seasons since its 2004 debut on Bravo.\nAlongside Tim Gunn, Klum created a new fashion competition show titled “Making the Cut” for Prime Video in 2020, which ran for three seasons."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/heidi-klum-halloween-2026-costume-hand",
+     "title": "Heidi Klum reveals a giant severed hand as 2026 Halloween costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/01/e21a7b8a-1d55-430b-81d3-127441e41c91/thumbnail/1200x630/406a0eb7885c20c752ba755c8d752c1e/gettyimages-2302926241.jpg"
+     },
+     "id": "cbf2661b69f9fed6",
+     "published": "2026-11-01T07:28+00:00",
+     "text": "Heidi Klum underwent a bloody transformation to become a giant, gruesome severed hand for her annual Halloween party in New York on Saturday, 25 years after she began hosting the much-anticipated event.\nKlum was unrecognizable, with only her eyes and mouth showing, blood dripping from her mouth as she stuck her tongue out. The top of the hand ended in a gory assortment of dangling ligaments and tendons. She had an ensemble of helpers in blood-stained hazmat suits.\nThe idea came to her last year to be a giant hand - specifically her own left hand, with long red nails, a thumb ring, and her engagement ring and wedding band.\n\"I looked at my hand and I thought, 'Hey, I think I could fit my body in this somehow,'\" Klum said.\nThe supermodel-turned-TV personality went viral in 2022 when she arrived at the party on the end of a fishing line, encased in a slithering worm costume.\nIn past years, Klum has come dressed as the Greek myth Medusa, a peacock, an 8-foot-tall (2.4-meter-tall) \"Transformer,\" a werewolf from Michael Jackson's \"Thriller\" music video, a clone accompanied by several Klum-lookalikes, and Kali, the multiarmed Hindu goddess of death and destruction.\nKlum said it took about five to six hours to get into her hand costume this year, but making it took a lot longer. She posted hints on her Instagram earlier in the day as bloodied prosthetics were applied to her face.\n\"Hands down, the hardest thing is carrying it,\" Klum said. \"It's quite heavy.\"\nHer husband, musician Tom Kaulitz, did not attend this year because he was on tour. But the details on her costume include a tattoo of his name on her ring finger, along with her palm lines and veins.\n\"A little bit of Tom is with me,\" she said."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/video/2026/11/01/heidi-klum-turns-herself-into-a-giant-severed-hand-for-halloween",
+     "title": "Heidi Klum turns herself into a giant severed hand for Halloween",
+     "lang": "en",
+     "extra": {},
+     "id": "5500fc8e5b95cf5c",
+     "published": "2026-11-01T13:11+00:00",
+     "text": "Celebrities gathered in New York for Heidi Klum’s 25th annual Halloween party, with the host transforming herself into a gruesome severed hand and guests arriving in an array of elaborate costumes."
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2phUjE2MXJ5OFp3RWNxWFZyNTgyUFpHQ1VYV2w4X2kwekxJVnlzMEZKNnVfdk1IcjN6MXBhVWRvS3k2VmhwQVVkV0pfbkVodXBkaVVkN3VQanB1UFprUUtXcEY5aGxOQUdzOElLZzIwTTBhMUxNN1diQkh5ZHUxakVIUXM2aWp6OUlDcUc0clIwUjBic051MDZ2SkFNNzhVVWc?oc=5",
+     "title": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party - Variety",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "f151c939c93a4a42",
+     "published": "2026-11-01T04:12+00:00",
+     "text": "- Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party Variety\n- Heidi Klum, the 'Queen of Halloween,' reveals 2026 costume WUSA9\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times\n- Heidi Klum kicks off Halloween with her kids, Sofia Vergara, more – Photos USA Today\n- Heidi Klum’s 25 Best Halloween Costumes, Ranked By How Much Time I Assume They Took To Put On BuzzFeed"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHFUY0puMk0zTDE1Z3BZc2Y0UklsUmNTT3FEUTFTcWFTU21hQ3o3eC04dHdGcUJPeFhsNGxpdE1RR2pCa2g4Umc2UmpjTGR2eUxwQ291RmE2cndyV0xrSjd3MGloNEtuWlRoSjB4dXRBNHdCaG5uSTJCOVNHZW5TRTRfckZwZEtZd0xXaUUwbjQtWmYzcGdUYWg2cUdYRWpt?oc=5",
+     "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years - AP News",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "02f8418784aea4be",
+     "published": "2026-11-01T05:19+00:00",
+     "text": "- Heidi Klum reveals Halloween costume as her iconic party marks 25 years AP News\n- Heidi Klum, the 'Queen of Halloween,' reveals 2026 costume WUSA9\n- Taylor Momsen, James Charles & More Celebrities Who Scared Up a Good Time at Heidi Klum’s Halloween Party E! News\n- Heidi Klum kicks off Halloween with her kids, Sofia Vergara, more – Photos USA Today\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times"
     }
    ]
   },
@@ -2928,6 +3025,31 @@
    ]
   },
   {
+   "id": "ca3e6e43d61",
+   "kind": "news",
+   "score": 13.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
+   "official_image": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
+   "sources": [
+    {
+     "source": "Nintendo News",
+     "trust": 3,
+     "url": "https://nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master",
+     "title": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
+     "lang": "en",
+     "extra": {
+      "image": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
+      "page_image": "https://images.nintendolife.com/fa666ebd7149e/1280x720.jpg"
+     },
+     "id": "a3e6e43d619845f8",
+     "published": "2026-11-01T08:00+00:00",
+     "text": "Capcom continues to build excitement for Mega Man: Dual Override, and following the official reveal of Tank Man earlier this week, it's now lifted the lid on Cook Man.\nHe is one of the many Robot Masters coming to the game. This master chef is ready to slice and dice Proto Man and the Blue Bomber when his game launches on the Switch 1 & 2 in 2027.\nHere's an official description, and you can see this robot master in action in the video above (courtesy of Rockman Corner):\nA wandering chef seeking recognition for his culinary prowess, Cook Man prepares to slice and dice our heroes with his Kung Fu Cooking style in Mega Man: Dual Override.\nCan you take the heat, or will you get out of his kitchen?\nIf you're not familiar with Mega Man, these Robot Masters will pop up at the end of each stage and attempt to stop Mega Man and Proto Man in their tracks.\nOnce again, Cook Man will join Tank Man, Twinkle Girl and Jet Man, with more Robot Master reveals on the way."
+    }
+   ]
+  },
+  {
    "id": "cd1e489fc71",
    "kind": "news",
    "score": 13.0,
@@ -3016,6 +3138,52 @@
      "id": "641752db327c085b",
      "published": "2026-10-31T22:21+00:00",
      "text": "Microsoft, Alphabet, Amazon, Meta and Oracle handed 9.3% of the cash their businesses made back to shareholders. That covers the first nine months of 2026. That is the smallest share in at least 15 years, down from 27.4% a year earlier. The figures come from a Reuters analysis of LSEG data and company reports by […]"
+    }
+   ]
+  },
+  {
+   "id": "cda001b3a07",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Wccftech",
+     "trust": 2,
+     "url": "https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked",
+     "title": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked",
+     "lang": "en",
+     "extra": {},
+     "id": "679d373b3c1c177c",
+     "published": "2026-10-31T20:08+00:00",
+     "text": "Anthropic has introduced new Claude Code game restrictions designed to prevent its AI coding assistant from recreating existing video games. However, the change is already generating controversy, with some developers reporting that the restrictions are also interfering with their own projects. As first reported by Game Developer, the new instruction was discovered by X user Chasm, who claims it was introduced around October 27 through a server-delivered configuration identified as tengu_heron_brook. The instruction explicitly tells Claude Code not to recreate specific existing games, even when presented under different names: \"Do not build a recreation of a specific existing game, even […]\nRead full article at https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked/"
+    },
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/claude-code-game-recreation-refusals-developers",
+     "title": "Developers say Claude Code now refuses work on recreating existing games",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.thenextweb.com/2026/10/dario-amodei-anthropic-logo-phone-screen.jpg"
+     },
+     "id": "5424f702721eaf78",
+     "published": "2026-11-01T13:44+00:00",
+     "text": "Game developers have been hitting refusals from Claude Code since late October, some on projects they say they have a right to build. Bruno Ferreira reported the complaints for Tom’s Hardware on Saturday, citing a wave of issues on Claude Code’s public GitHub tracker. TNW read the issues.\nAnthropic has not announced a change, and its Claude Code changelog does not mention one. Tom’s Hardware said there was no official statement.\nWhat one developer reports\nThe owner of Conflict Simulations LLC builds personalised digital versions of board wargames for clients who own the games. Around 27 October, Claude Code began getting “a server-side instruction” to refuse game work, the developer wrote in a GitHub issue on 30 October. Sessions now refuse the work, citing an instruction against reproducing games.\n“A blanket category rule against ‘games’ cannot tell the difference between piracy and commissioned professional work for a game’s owner.” The owner of Conflict Simulations LLC, on GitHub\nIn an update, the developer said the sessions kept doing the work after the rule reportedly arrived. The refusals began only after they asked Claude to check whether the rule affected their projects. They continued in new sessions on the same code. One commenter suggested the project’s memory or Git history now carried the refusal, and the developer said they would try to clear it.\nAnthropic’s support bot told the developer the policy covers all customers, with no exception, the developer wrote. Both support tickets were later passed to staff, and the developer has filed an appeal. They asked Anthropic to aim the rule at real copyright infringement and to offer a verification path for professionals.\nThe wider context\nNot everyone on the thread agreed. One commenter said that unless the work is for the rights holders, it is no different from any other reverse-engineered port.\nOther developers reported a separate kind of block this month. Claude Code’s cyber safeguards flagged anti-cheat code for one developer’s game and a security review of another’s own game. Tom’s Hardware said the timing of the two kinds of restriction may be a coincidence.\nAnthropic says its generally available models have conservative cyber safeguards that block most cyber work. On 6 October it expanded its Cyber Verification Program, which lifts some of those blocks for vetted security teams. Members of Project Glasswing, its earlier programme for its Mythos model, move into the top tier.\nThe company also faces copyright claims, including a suit over 274 Elvis Presley songs filed in October. Separately, a tampered Claude Code extension reached Cursor users on 29 October. Anthropic has not said whether the game rule exists or will get an exemption path.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZkVNZlc3ZTRlaHZWejZBYnhmRlNBQWQ3SnYwdUpsWmo1Vmo1a09BMzVNbF9ROFZZVGxUMG12OE1iN29vNmpVcVRRa1VFc2t0ZWFsNkJoZnJjS0s4Tk51dTd0VEhzWW1BYjYzWlNMQ2V3eHlRNV94TXRYZFdrN2IyY19fVTlkVnZLN1NhN0VwVmNUTFVXa05KVkl1eE9mbkpXWWFIWXg2X0d2UG1xNjRFMXFyeEJSemd5aDVPbzZUWdIBxAFBVV95cUxObW5oXzUyRE9wZFoxZXJIblFhVERnQUw2dFJiRkdyZ01aa0pCVEtESkUwZklhM1BiWXRZYVZ5QXQ4RkZfVGVoaXFOQ1VvYkFsa0JKSllDUFBqUF9CT21hdE5waHZOTWVGTXY4OEoyd1hGRzRjcU9yT25YcDJqSU9sdGNjWEhna2lQTTlBQkM0TmZJUkxWMmlQZ1A3LXE1QVJiblVxc0Mzd2F1eldMUVpWRmZneHl4amt1RTZaUC03YXB0MWdW?oc=5",
+     "title": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked - Wccftech",
+     "lang": "en",
+     "extra": {},
+     "id": "da001b3a07c9c6b4",
+     "published": "2026-10-31T20:08+00:00",
+     "text": "- Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked Wccftech\n- Anthropic takes steps to block Claude from reverse-engineering video games Mashable\n- Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks Tom's Hardware\n- Anthropic Bans AI Game Clones and Reverse Engineering With Claude TechPowerUp\n- Users report that Anthropic blocked Claude from reverse-engineering TVs XDA"
     }
    ]
   },
@@ -3439,6 +3607,83 @@
      "id": "ecf578a9b3023538",
      "published": "2026-11-01T11:40+00:00",
      "text": "Trump administration's social media posts target people of color before midterms - International - World\nAhram Online"
+    }
+   ]
+  },
+  {
+   "id": "cfe135d37a3",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Iran's Army Warns Any New US Attack Would Spread War Wider",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5335888",
+     "title": "Iran's Army Warns Any New US Attack Would Spread War Wider",
+     "lang": "en",
+     "extra": {},
+     "id": "fe135d37a396e674",
+     "published": "2026-10-31T09:58+00:00",
+     "text": ""
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3ZSNHpXc2h3WEFheFBZT1FMRkJrdm04Y2dEd1U5aG8yV2lPTzVBTmFwLXpXaV8wMnFDdXg3a1V3UGxvc0lzNHRqc3pldjlSc0FHbnpuOE5lRlFsbjY3RXdvMUt2dHpnLUZjQm1MSWNLMmpEU2cyOXctS0lTOU9UMzRFVkxNWUx4bl9WVVdXNnI3cXJwVUNKMC1IUThmVjjSAbIBQVVfeXFMUERSb2dia0VQbDVaUTZSRUVKaGdHelYtMUVyLTRIWEJZcGdReEI4NFlraWMzODRXc0U5RWFNSlFXM2o3cTNWMzBvRWNKUjhBTFVjazRSYUpoVmlueENxNkFrelNXTGdVZUhUVFd4QjVZN09rc3RmdTdIb0l3dzhPODRvNjUtMkFHRTYyTkt0YTdCbG1RN3AzZGc1RmxHaWZhS0RzcnMyX05yM1NvOVhmbGE4UQ?oc=5",
+     "title": "Iran threatens wider war if US and Israel strike again",
+     "lang": "en",
+     "extra": {},
+     "id": "fbe5bac242e28b49",
+     "published": "2026-10-31T17:31+00:00",
+     "text": "Iran threatens wider war if US and Israel strike again\nGulf News"
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJIMlROdTg2TGRWSVVzN0RpWm9IZHJpMERid2lMSklpVkZpRzIyNjZBNk1tU2FfRGpuWTV4S1liZWs0MTVyalpTUTVac1JHZEVURlIzMFUyMTc3S0lfM0VUcFlkbFlBX2V0eXk3bE5oRjY3NXdmUVFBUWNGbjV1VXprVGxoQm5jSE50Ukt5N3l6MGE2M1BxaVNJSWxOaUNKa2dNQTBUaXBYVHJWWDhUNk1fTy1BNDE3N0E?oc=5",
+     "title": "Iran army says any new war with US could be ‘longer than previous conflict’",
+     "lang": "en",
+     "extra": {},
+     "id": "b664c2c464308151",
+     "published": "2026-11-01T10:06+00:00",
+     "text": "Iran army says any new war with US could be ‘longer than previous conflict’\nArab News"
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336233",
+     "title": "Iran Army: Any New War with US Could be 'Longer Than Previous Conflict'",
+     "lang": "en",
+     "extra": {},
+     "id": "861e201cb71cf5e9",
+     "published": "2026-11-01T11:00+00:00",
+     "text": ""
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/middle-east/irans-army-warns-that-any-new-war-with-us-could-be-longer-than-previous-conflict",
+     "title": "Iran’s army warns that any new war with US could be ‘longer than previous conflict’",
+     "lang": "en",
+     "extra": {},
+     "id": "f2ec23da414ba55e",
+     "published": "2026-11-01T11:28+00:00",
+     "text": "Trump says the US still has to “take care of” one or two targets \"but we can do that in 10 minutes\"."
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://gulfnews.com/world/mena/iran-warns-next-war-with-us-could-last-even-longer-1.500731779",
+     "title": "Iran warns next war with US could last even longer",
+     "lang": "en",
+     "extra": {},
+     "id": "47acb77492ca4814",
+     "published": "2026-11-01T13:21+00:00",
+     "text": ""
     }
    ]
   },
@@ -4374,39 +4619,52 @@
    ]
   },
   {
-   "id": "c78696ef3eb",
+   "id": "c0c86c0807f",
    "kind": "news",
    "score": 12.0,
    "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Wales hit by Australia century in World Cup record defeat",
+   "distinct_sites": 3,
+   "title_hint": "MotoGP keeps Qatar GP on track after meeting with teams but Yamaha withdraw",
    "official_image": null,
    "sources": [
     {
-     "source": "BBC Sport",
+     "source": "Reuters Tech",
      "trust": 2,
-     "url": "https://bbc.co.uk/sport/rugby-league/articles/cked34glxp0no?at_medium=RSS&at_campaign=rss",
-     "title": "Wales hit by Australia century in World Cup record defeat",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR05GTVc3cEktM2pja2NRVmgxRDJDd0pfeU9kblJqQmxMMUlWTFBoMFhqUzdfOGpzb1g1S3RfeTNDN0YzaTl5alJZcFBLWDJuT2Q1akVLYThycmFxVmdJdy1kYUhzMC1WcjJTeGJoblJVS21Sa05nSGJ2aXB3SGZXMUJ4ODYxQnNNUXAwNVdVQVdyTlpMWS1uSzNVU05OeGJxLTZGdDB1OA?oc=5",
+     "title": "MotoGP keeps Qatar GP on track after meeting with teams but Yamaha withdraw",
      "lang": "en",
      "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cbef/live/0e215400-d5b8-11f1-a012-e5d60a7e6c41.jpg"
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "78696ef3eb5e3800",
-     "published": "2026-11-01T06:57+00:00",
-     "text": "- Published\nAustralia (60) 124\nTries: Kernick, Chapman 6, Church 2, Southwell, Sergis 4, Apps, Paki, Joseph 2, Upton 2, Nizza Goals: Southwell 20\nWales (0) 6\nTries: Travis Goals: Preston\nRampant Australia racked up the biggest score in international history as they hammered Wales in a Rugby League World Cup mismatch.\nThe Jillaroos, hunting a fourth successive title, ran in 21 tries in a predictably lopsided contest in Sydney.\nThe half-time score of 60-0 was the biggest of any World Cup match - men's or women's - and the Australians kept their foot down to win 124-6.\nWing Jaime Chapman's sixth try in the last minute ensured they beat Denmark men's biggest international score of 122-8 against Sweden in 2012.\nThe 118-point victory margin is the largest in any women's match, although France men retain their record win set in 2003 with a 120-0 rout of Serbia.\nYet there were wild Wales celebrations when, at 100-0 down, they became the first side to score against the Jillaroos in the tournament through Paige Travis.\nThe Jillaroos are three-time back-to-back champions, while Wales were taking part in the tournament for the first time having only played their first Test in 2021.\nIt was just their 16th fixture - and a first against Australia - with Tom Brindle's side having already been beaten 70-6 by England and 76-0 by Samoa at the World Cup.\nFull of NRLW talent, Australia showed a killer instinct and an intensity that Wales were exposed to for the first time.\nIt all came after Wales, whose captain Bethan Dainton was the tournament's top tackler by a distance in the first two rounds with 77, rose to the occasion with a strong start.\nBut Australia struck in the sixth minute through lock Olivia Kernick following prop Makenzie Weale's terrific offload out the back, and the Jillaroos then clicked into gear.\nLong-striding, hard-fending Chapman scored a double down the left and fellow wing Abbi Church powered through weak tackles on the right.\nWales were unable to string together good moments and a fifth try came through Jesse Southwell from failure to claim a regulation high ball just seconds after Jade Mullen had put in a huge tackle.\nAustralia were ruthless and the scores kept coming through centre Jessica Sergis, second row Kezie Apps and Chapman for a first-half hat-trick.\nSergis brought up the half-century with a weaving run and was followed over by second row Sariah Paki.\nThe stats told the story - Australia had 84% of possession in the first half and completed 21 of 22 sets, with almost 13 minutes of possession to two minutes and 29 seconds.\nIt took just over a minute for Keilee Joseph to get the scoreboard ticking after the restart and the scores kept coming from Sergis, Chapman, Joseph again and Church.\nThe Jillaroos beat their 92-0 record, set against France in the 2022 World Cup, when Southwell converted Sergis' fourth try, hitting three figures when the extras were added to star full-back Tamika Upton's breakaway.\nWales' moment came when Travis, scorer of their historic try against England, won the race to Tayla Preston's kick through.\nIt was only a brief change of pattern with Keeley Nizza, Chapman twice and Upton going over to complete the destruction.\nWales captain Bethan Dainton said:\n\"We just wanted to create a legacy back home for young girls coming through, and I think we did that. The scorelines haven't been in our favour but no one gave up and I am so proud of the girls.\""
+     "id": "0c86c0807f241072",
+     "published": "2026-11-01T04:14+00:00",
+     "text": "MotoGP keeps Qatar GP on track after meeting with teams but Yamaha withdraw\nReuters"
     },
     {
-     "source": "ABC Australia",
+     "source": "Al Jazeera",
      "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/australia-wales-womens-rugby-league-world-cup/107334088",
-     "title": "Australia's latest World Cup smash-up helps nobody",
+     "url": "https://aljazeera.com/sports/2026/11/1/yamaha-pulls-out-of-qatar-motogp-over-situation-in-the-middle-east?traffic_source=rss",
+     "title": "Yamaha pulls out of Qatar MotoGP over ‘situation in the Middle East’",
      "lang": "en",
      "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/9c191b4b99728043f0ef248e172888d3?impolicy=wcms_watermark_news&cropH=1927&cropW=3425&xPos=0&yPos=58&width=862&height=485&imformat=generic"
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-03-09T160539Z_1341723459_UP1EK3918PDHE_RTRMADP_3_MOTOR-MOTOGP-QATAR-1793535777.jpg?resize=1920%2C1440"
      },
-     "id": "ba338089e5aa5172",
-     "published": "2026-11-01T07:53+00:00",
-     "text": "Fri, 18 Sept, 7:50 pm, Final score, Tigers 0, Raiders 6\nSat, 19 Sept, 4:05 pm, Final score, Broncos 40, Knights 16\n40 16 →Sat, 26 Sept, 7:50 pm, Final score, Roosters 20, Raiders 10\n20 10 →Sun, 27 Sept, 1:05 pm, Final score, Titans 8, Broncos 20\n8 20 →Sun, 4 Oct, 4:00 pm, Final score, Roosters 30, Broncos 6\n30 6 →\nGallows humour was the order of the day for Australia's World Cup match against Wales, which was only fitting given it trudged towards its inevitable conclusion like the condemned to the executioner's block.\nThe Jillaroos ran out 124-6 winners in a game where the only element of contest was whether the reigning world champions could bring up the century.\nThey did it easily in the end, smashing their own record for biggest World Cup win, with Jamie Chapman's sixth try in the shadows of the full-time siren eclipsing France's 116-0 victory over Serbia in 2023 in the most lopsided result in women's international rugby league history.\nIn the first half, as they ran up a 60-0 lead, Australia scored 10 tries and Wales played the ball just 15 times. Five-eighth Jesse Southwell finished with 44 points on her own.\nThe Jillaroos did not make a tackle from the fifth minute until after the half-time siren and Australian halfback Tarryn Aiken did not make a tackle until 10 minutes before full-time.\nAfter Australia scored its 15th try of the match it started getting booed by the sparse Parramatta Stadium crowd, who reserved their biggest cheer of the day for Welsh second rower Paige Travis's score that narrowed the gap to 100-6.\nIt was the sole bright spot of the match but the punters soon returned to an idle stupor as Australia added four more tries in the final seven minutes.\nAll World Cups are going to have their blowouts and rugby league's more than most. But they must serve a wider purpose and this one did not.\nIt benefited nobody and served to damage the tournament's credibility and its only legacy can be like Australia's 110-4 win over Russia in the men's 2000 World Cup, which is to say as a historical oddity for the trainspotters.\nAs the women's World Cup reckons with what has been an uneven tournament at best, marred by the same enormous scorelines of the men's edition but with few of the strong crowds, questions must be asked as to why a game like this could happen at all.\nThe uninterested and meagre turn-out for this match was proof it did not maximise the product, which very much felt like a curtain-raiser to the two men's matches that followed. Nor does it aid development.\nIt stuffed some stat sheets and gave ammunition to the bad-faith actors who are always on the hunt for an opportunity to take a shot at women's sport.\nThe Jillaroos are the best team in the world by an order of magnitude and have been for years. They gain nothing by putting the cleaners through Wales, who exist in a different universe.\nThat's why the Welsh should be spared any blame for how this went down. When the criticism comes it should not fall on them.\nThey qualified fair and square but they did not ask for this and there's no way to say it without sounding patronising but they did their best in the face of impossible odds.\nWhile they have Canterbury halfback Tayla Preston and North Queensland winger Sian Williams as well as a smattering of Super League talent in Bethan Daiton, Carys Marsh and Agnes Wood, most of their players ply their trade in the women's second division in England.\nIt's a competition that can still have the draw disrupted by forfeits "
+     "id": "0fd9ad2809d9e580",
+     "published": "2026-11-01T12:32+00:00",
+     "text": "Yamaha has withdrawn its MotoGP team from next weekend’s race in Qatar, citing “the situation in the Middle East”.\nThe Japanese manufacturer announced its decision shortly after the Malaysian Grand Prix on Sunday.\n“Yamaha has not identified sufficient grounds to change its existing company-wide travel restrictions,” Yamaha said in a statement.\nAmong the racers on the MotoGP grid riding Yamaha bikes is France’s Fabio Quartararo, the 2021 world champion. Alex Rins of Spain is the other racer on the Yamaha team.\nThe sport’s governing body, the MotoGP Group, said it was “disappointed” by the decision and “Yamaha’s non-participation also carries sporting implications”.\n“While we recognise the team is subject to a broader corporate policy restricting travel to the Middle East, we do not believe this decision reflects the extensive assurances provided to all championship stakeholders,” it said.\nMotoGP said talks with the organisers in Qatar and safety advisers had not flagged any reasons to change plans for the event, which will run from Friday to November 8 at the Lusail International Circuit outside Qatar’s capital, Doha.\n“We communicated that position, together with the latest available information, to all manufacturers and teams today and welcome the confirmation from the remainder of the grid that they will compete in Qatar, and we thank them for that commitment,” the MotoGP Group said.\nThe statements were released shortly after the Malaysian MotoGP in Sepang, after which there are just three races left in the season.\nDucati’s reigning seven-time world champion, Marc Marquez, won the race at Sepang and could clinch the title in Doha.\nQatar was subject to Iranian attacks from February to April after the United States and Israel began a war on Iran. On Friday, a Qatari liquefied natural gas tanker was hit by unidentified objects in the Gulf, and in September 2025, Israel carried out an air strike on Doha that killed and injured Hamas leaders.\nAl Jazeera has requested a comment from the Qatar Motor and Motorcycle Federation."
+    },
+    {
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/formula1/articles/cm98z2966128o?at_medium=RSS&at_campaign=rss",
+     "title": "Yamaha will not travel to Qatar for MotoGP race",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5de7/live/5ff9c220-d5fa-11f1-b437-279121eb1cd9.jpg"
+     },
+     "id": "15aecff4222e191f",
+     "published": "2026-11-01T13:51+00:00",
+     "text": "- Published\nJapanese MotoGP team Yamaha have withdrawn from the Qatar Grand Prix because of the ongoing conflict in the Middle East.\nThe event at the Lusail International Circuit is set to take place on 6-8 November, having been postponed from April.\nMotoGP is going ahead with the race, despite reports 19 of 22 riders have signed a letter raising concerns, external about competing in Qatar during the US-Israeli war on Iran.\nIn February, the United States and Israel launched air strikes against Iran, which in return fired missiles at Israel, and at other countries in the region with links to the US.\nYamaha said it has \"not identified sufficient grounds to change its existing company-wide travel restrictions\" on travelling to the Middle East, with the Japanese government advising its citizens against non-essential travel to the region.\nMotoGP said it is \"disappointed\" by Yamaha's decision, which it says does not reflect the \"extensive assurances\" it has been given by Qatar and independent safety advisors that the race can go ahead.\nQatar has said it can guarantee teams would not be stranded in case of any escalation in the conflict.\nHow Israel resolves its political deadlock following recent elections and the results of Tuesday's US midterms could have significant impacts on the situation in the Middle East.\nMotoGP added there will be \"sporting implications\" for Yamaha's withdrawal. Fellow Japanese outfit Honda and Yamaha's satellite team Pramac Racing are currently set to compete in Qatar.\nWhat could this mean for F1?\nMotoGP is organised by Liberty Media, which also own Formula 1.\nThe F1 season is currently set to culminate in the Qatar GP from 27-29 November, followed by the Abu Dhabi GP on 4-6 December.\nF1 is continuing with plans to stage both races, having been given what it considers suitable security guarantees and reassurances, despite it being understood this is causing some disquiet in the paddock.\nF1 is being advised there have been no attacks on civilian infrastructure in Qatar or the United Arab Emirates since May.\nImola in Italy is being readied as a potential host for the final grand prix of the season on 4-6 December if the two races in Qatar and Abu Dhabi cannot be held."
     }
    ]
   },
@@ -4619,204 +4877,46 @@
    ]
   },
   {
-   "id": "c8fa958d75d",
+   "id": "c2a5acbfd9f",
    "kind": "news",
-   "score": 11.5,
+   "score": 12.0,
    "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Happy Halloween 🎃",
-   "official_image": "https://www.youtube.com/v/22YWTc-KaNo?version=3",
-   "sources": [
-    {
-     "source": "YouTube Google",
-     "trust": 3,
-     "url": "https://youtube.com/shorts/22YWTc-KaNo",
-     "title": "Happy Halloween 🎃",
-     "lang": "en",
-     "extra": {
-      "image": "https://www.youtube.com/v/22YWTc-KaNo?version=3",
-      "page_image": "https://i.ytimg.com/vi/22YWTc-KaNo/sardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCUUU4a1YIcSMuaSPWJz9oSvP9GMQ"
-     },
-     "id": "815979f5a6f82cc2",
-     "published": "2026-10-31T16:11+00:00",
-     "text": "Who let the bats out?! They're stealing the spotlight from today’s #GoogleDoodle 🦇👀 Dare to LIKE…"
-    },
-    {
-     "source": "Reddit tech & AI",
-     "trust": 1,
-     "url": "https://reddit.com/r/OpenAI/comments/1xkavq6/happy_halloween_make_sure_to_say_goodbye_to_usage",
-     "title": "Happy Halloween! Make sure to say goodbye to usage!",
-     "lang": "en",
-     "extra": {},
-     "id": "8fa958d75dc12eea",
-     "published": "2026-10-31T13:56+00:00",
-     "text": "This will probably be the last nail in the coffin for me.\nsubmitted by\n/u/bafadam\nto\nr/OpenAI\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "cdbf1c6ffd8",
-   "kind": "news",
-   "score": 11.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
-   "official_image": "https://images.nintendolife.com/95bbae1942c49/large.jpg",
-   "sources": [
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
-     "title": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
-     "lang": "en",
-     "extra": {
-      "image": "https://images.nintendolife.com/95bbae1942c49/large.jpg"
-     },
-     "id": "81f51048bf6abb16",
-     "published": "2026-11-01T05:45+00:00",
-     "text": "Happy Pikmin Day!\nNintendo surprised us with a Pikmin-themed Direct this weekend, announcing Pikmin Day! If you haven't already watched the video, here's everything from the broadcast:\nRead the full article on nintendolife.com"
-    },
-    {
-     "source": "The Verge",
-     "trust": 2,
-     "url": "https://theverge.com/games/1024085/happy-pikmin-day-eve",
-     "title": "Happy Pikmin Day Eve",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
-     },
-     "id": "dbf1c6ffd8bdd69e",
-     "published": "2026-10-31T17:50+00:00",
-     "text": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts.\nHappy Pikmin Day Eve\nNintendo is celebrating the first annual Pikmin Day by debuting a new series of short films.\nNintendo is celebrating the first annual Pikmin Day by debuting a new series of short films.\nPlayers will be able to use the Switch 2’s built-in microphone to issue voice commands to Oatchi, the space dog. Pikmin 4 will also have a Dandori Academy mode that will test players’ skills in specific challenges. There will be limited tests on Friday, Saturday, and Sunday, complete with leaderboards where players can compare stats. Pikmin Bloom will be getting a new feature called Secret Caves, where players can win treasure by battling enemies and exploring said caves.\nLastly, Miyamoto showed the first installment of a new series of shorts called Hello! Pikmin. A second episode will premiere tomorrow, with a third later in November. The series will then debut one short per month starting in December. The shorts build on the success of Close to You, a Pikmin animation released last year.\nMost Popular\n- Sam Altman says it’s better for RAM to be in a data center than on your desk\n- The Apple Pencil turned the Duo into my new favorite notebook\n- Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop\n- The HomeView and Echo Show 16 could be the family computers I’ve been asking for\n- I built an AI Tamagotchi before Meta could"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1lNc0cxbmNBTC05OThLMS16YlEzTmNIcEd0ZGx1aVdwOUZnZk52OTBDZ2ZyVEt0OHcyMHd0UDZIVkhWR05yTC01Vk9FTTNQNWNQdUUxdEM0aklLaENaa29nWWNuUEo5ZUNaMUpPZFlfc1A2SllkZjFPRS1sSFlfVE9FYWJIV1pQTDJfTWtWdkVjY3o3cW5EUUg5a0k5R1dRQW1MbkNR?oc=5",
-     "title": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "a060eb31afaee66f",
-     "published": "2026-11-01T05:45+00:00",
-     "text": "- Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts Nintendo Life\n- A Treasure Hunt Awaits in Pikmin Bloom’s Secret Caves! pikminbloom.com\n- Shigeru Miyamoto Proclaims November 1 is Pikmin Day, Pikmin 4 Demo Coming To Switch 2 Soon Game Informer\n- Everything Announced at Nintendo's Inaugural Pikmin Day Direct IGN\n- Happy Pikmin Day Eve The Verge"
-    }
-   ]
-  },
-  {
-   "id": "c2a1376fe80",
-   "kind": "news",
-   "score": 11.5,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-   "official_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-1920-80.jpg",
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/1850/view/693150463100455306",
-     "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-1920-80.jpg"
-     },
-     "id": "e8fc40125f631162",
-     "published": "2026-10-31T20:37+00:00",
-     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
-    },
-    {
-     "source": "PC Gamer",
-     "trust": 2,
-     "url": "https://pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt",
-     "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/HjFB9gstkbAF8dFMnxtqic-2549-80.jpg"
-     },
-     "id": "2a1376fe802cdd6d",
-     "published": "2026-10-31T20:29+00:00",
-     "text": "The case as presented by Rebelzize seems fairly open and shut: A volunteer team being sued by a former volunteer over contributions excised from the project? There are potential material benefits to consider: Skyblivion has a level of scope and popularity that could leave participation in it as strong a resume line as shipping a commercial game. Fallout London's developers even pivoted to being their own indie studio.\nBut that's not a clear-cut monetary incentive, and the clout of participation is contingent on productive contribution to the project. While it is worth noting that we only have Rebelzize's accounting of events, I think there are green flags pointing to his trustworthiness:\n- The call to action is for pro bono legal aid in line with the project's overall volunteer nature, not fundraising.\n- The former volunteer is not named, and Rebelzize urges against the sort of Reddit gumshoe sleuthing you see so often in these situations.\n- Skyblivion as a whole has run for a long time without major scandal.\nUnless you, the reader, are or know a lawyer with expertise in IP/GDPR cases—check out Skyblivion's website to contact them, in that case—there's not much for a given fan of the project to do. Rebelzize noted that he has paid legal help lined up should the call for volunteers fail. Even if a lawsuit is filed, it does not sound—at least from this vlog—like it could imperil Skyblivion's release. I have questions, but ideally this whole situation will resolve cleanly enough that we never know exactly what happened:\n- What, specifically, did this volunteer work on in the game?\n- Did redoing this work have any bearing on Skyblivion's delay from 2025 into '26?\n- What happened here interpersonally? Was there an issue of crediting the work done? Are there any missing details that, if they don't justify the volunteer's legal threat, at least make it more understandable?\nAt last call, Skyblivion was still scheduled to release this year, but time is running short for that goal. We Elder Scrolls-likers at PC Gamer have been excited about it for years. Skyblivion promises a more ground-up remake of TES 4: Oblivion—complete with radically redesigned dungeons and biomes—in Skyrim's engine. This is in contrast to the more graphics-focused Oblivion Remastered we got in 2025.\nKeep up to date with the most important stories and the best deals, as picked by the PC Gamer team.\nTed has been thinking about PC games and bothering anyone who would listen with his thoughts on them ever since he booted up his sister's copy of Neverwinter Nights on the family computer. He is obsessed with all things CRPG and CRPG-adjacent, but has also covered esports, modding, and rare game collecting. When he's not playing or writing about games, you can find Ted lifting weights on his back porch. You can follow Ted on Bluesky.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
-    }
-   ]
-  },
-  {
-   "id": "c3baa272202",
-   "kind": "news",
-   "score": 11.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+   "distinct_sites": 1,
+   "title_hint": "Nebex CEO: NASA wants a commercial space economy. Here’s how it can enable one",
    "official_image": null,
    "sources": [
     {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724006",
-     "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
-     "lang": "en",
-     "extra": {},
-     "id": "1bd9c01cc2b3c7ab",
-     "published": "2026-10-31T23:40+00:00",
-     "text": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.\nDigital Foundry’s analysis of the performance of the Switch 2 version of Modern Warfare 4 — the first Call of Duty released on a Nintendo console since 2013’s Ghosts — found that the input lag on Switch 2 can be two times longer than on PS5 at 60fps.\nIn competitive Multiplayer, Switch 2 aims for 60fps and, according to DF, hits that target most of the time (although some things do cause the frame rate to drop, including looking through the transparent visor of a riot shield).\nCall of Duty Multiplayer prides itself on rock solid 60fps gameplay, which provides a smooth, responsive experience for those who fuss over their K/D ratio in, for example, 6v6. It’s crucial that all platforms the game is available on offer at least 60fps to provide a level playing field for Multiplayer fans — although the debate about the advantage PC players have over console has dogged Call of Duty since the dawn of crossplay.\nDF reports that Variable Refresh Rate (VRR) support “helps smooth out” framerate drops on supported displays, although you’ll have a harder time of it in terms of performance playing through portable mode.\nAnd then we come to responsiveness. DF’s tests show 81ms in docked mode and 100ms in portable mode, the latter of which is double the PS5’s 49.1. In fact, DF found that Multiplayer in portable mode ranged from 83ms at best to 125ms at worst. DF called this \"actually deleterious to performance.”\nDF seems generally happy with the Switch 2 version, which was handled by port specialist Digital Legends with support from Infinity Ward. But if you’re into Multiplayer, the inescapable fact is you are at a disadvantage. No matter how fast your trigger finger, the Switch 2 will take longer to respond.\nOutside of Multiplayer it’s a different story. The Campaign runs at 30fps, which was good enough for IGN’s Simon Cardy when he played the Switch 2 version of Modern Warfare 4.\n“Granted, the textures are nowhere near as detailed, with flat surfaces and faces smoothed over to give the impression of plasticine versions of the campaign’s characters,” he said. “It's by no means a looker, but considering the reduced horsepower Nintendo’s latest console is working with, the gameplay itself was smooth, running at 30fps at 4K while docked.”\n“Yes, it's quite a visual downgrade when compared to the likes of PC, PS5, and Xbox Series X, but that comes with the territory,” he continued. “And if you’re solely a Nintendo owner who’s been locked out of Call of Duty for over a decade, you’re getting a version of Modern Warfare 4 that feels every bit as snappy as the series usually is, even if it’s a bit muddier than Nintendo’s own crisp visuals.”\nWhy is Call of Duty releasing on a Nintendo console now, 14 years after the last time? It has to do with Microsoft’s $69 billion acquisition of Activision Blizzard. Back when Microsoft was facing regulatory hurdles, one announcement designed to help convince the powers that be to green light the buyout was a 10-year commitment to bring Call of Duty to Nintendo following the merger.\n“Microsoft is committed to helping bring more games to more people — however they choose to play,” then Xbox boss Phil Spencer said in December 2022. Four years later, and with the Activision Blizzard buyout done and dusted, Call of Duty is on Switch"
-    },
-    {
-     "source": "IGN",
+     "source": "Fortune",
      "trust": 2,
-     "url": "https://ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
-     "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+     "url": "https://fortune.com/2026/11/01/nasa-commercial-space-economy-iss-replacement-isaacman",
+     "title": "Nebex CEO: NASA wants a commercial space economy. Here’s how it can enable one",
      "lang": "en",
      "extra": {},
-     "id": "3baa2722028704e7",
-     "published": "2026-10-31T23:32+00:00",
-     "text": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.\nDigital Foundry’s analysis of the performance of the Switch 2 version of Modern Warfare 4 — the first Call of Duty released on a Nintendo console since 2013’s Ghosts — found that the input lag on Switch 2 can be two times longer than on PS5 at 60fps.\nIn competitive Multiplayer, Switch 2 aims for 60fps and, according to DF, hits that target most of the time (although some things do cause the frame rate to drop, including looking through the transparent visor of a riot shield).\nCall of Duty Multiplayer prides itself on rock solid 60fps gameplay, which provides a smooth, responsive experience for those who fuss over their K/D ratio in, for example, 6v6. It’s crucial that all platforms the game is available on offer at least 60fps to provide a level playing field for Multiplayer fans — although the debate about the advantage PC players have over console has dogged Call of Duty since the dawn of crossplay.\nDF reports that Variable Refresh Rate (VRR) support “helps smooth out” framerate drops on supported displays, although you’ll have a harder time of it in terms of performance playing through portable mode.\nAnd then we come to responsiveness. DF’s tests show 81ms in docked mode and 100ms in portable mode, the latter of which is double the PS5’s 49.1. In fact, DF found that Multiplayer in portable mode ranged from 83ms at best to 125ms at worst. DF called this \"actually deleterious to performance.”\nDF seems generally happy with the Switch 2 version, which was handled by port specialist Digital Legends with support from Infinity Ward. But if you’re into Multiplayer, the inescapable fact is you are at a disadvantage. No matter how fast your trigger finger, the Switch 2 will take longer to respond.\nOutside of Multiplayer it’s a different story. The Campaign runs at 30fps, which was good enough for IGN’s Simon Cardy when he played the Switch 2 version of Modern Warfare 4.\n“Granted, the textures are nowhere near as detailed, with flat surfaces and faces smoothed over to give the impression of plasticine versions of the campaign’s characters,” he said. “It's by no means a looker, but considering the reduced horsepower Nintendo’s latest console is working with, the gameplay itself was smooth, running at 30fps at 4K while docked.”\n“Yes, it's quite a visual downgrade when compared to the likes of PC, PS5, and Xbox Series X, but that comes with the territory,” he continued. “And if you’re solely a Nintendo owner who’s been locked out of Call of Duty for over a decade, you’re getting a version of Modern Warfare 4 that feels every bit as snappy as the series usually is, even if it’s a bit muddier than Nintendo’s own crisp visuals.”\nWhy is Call of Duty releasing on a Nintendo console now, 14 years after the last time? It has to do with Microsoft’s $69 billion acquisition of Activision Blizzard. Back when Microsoft was facing regulatory hurdles, one announcement designed to help convince the powers that be to green light the buyout was a 10-year commitment to bring Call of Duty to Nintendo following the merger.\n“Microsoft is committed to helping bring more games to more people — however they choose to play,” then Xbox boss Phil Spencer said in December 2022. Four years later, and with the Activision Blizzard buyout done and dusted, Call of Duty is on Switch"
-    },
-    {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Call-of-Duty-Modern-Warfare-2-appears-set-for-re-release-on-modern-consoles.1439055.0.html",
-     "title": "Call of Duty: Modern Warfare 2 appears set for re-release on modern consoles",
-     "lang": "en",
-     "extra": {},
-     "id": "ff06dcd8d2d3db81",
-     "published": "2026-11-01T02:17+00:00",
-     "text": "A new Australian classification for 2009’s Call of Duty: Modern Warfare 2 has fuelled speculation about a re-release on modern consoles, following Activision’s recent ports of Black Ops and Black Ops 2. A new release may restore the multiplayer omitted from the Campaign Remastered edition, but an official confirmation is yet to be made."
+     "id": "2a5acbfd9f9c5a03",
+     "published": "2026-11-01T13:30+00:00",
+     "text": "In July, SpaceX stopped accepting new rideshare bookings beyond late 2028. In October, NASA released its request for proposals for commercial space stations to succeed the soon-to-be de-orbited International Space Station (ISS).\nTaken together, the ISS’s retirement and the squeeze on launch availability creates a real problem for many “new space” startups that built their venture business plans on continued cheap rides to orbit.\nWhile alternatives to SpaceX exist, they are limited and spotty: Rocket Lab’s Electron offers dedicated small-satellite launches, while ULA’s Vulcan and Blue Origin’s New Glenn serve larger payloads (although both are temporarily grounded: Vulcan since February and New Glenn since April). New competitors are advancing too: Isar Aerospace secured a launch contract with Planet, Stoke Space raised $1 billion and is targeting an initial launch in 2027, Rocket Lab’s larger Neutron rocket is expected to debut in 2027 as well, and Skyroot had a successful launch on its first attempt. But still, most, if not all, of these options remain unproven.\nStarship’s first orbital flight in September may eventually ease the overall launch bottleneck, but it’s not certain that the increased capacity will be made available to the third parties that are depending on it.\nFor a startup space economy that scaled around frequent, inexpensive rideshare slots from one company, the challenge now is how soon the alternatives can deliver dependable access to orbit at comparable scale. While developing new rockets and replacing the ISS present different operational hurdles, both run into the same underlying market gap: building for space is extraordinarily capital-intensive, and the industry lacks a discovery mechanism to turn existing global demand into the committed orders and upfront capital needed to bring new capacity online.\nGlobal government demand is not the issue. According to Space Foundation, governments spent roughly $141 billion last year, and budgets continue to accelerate. The main problem is pretending a self-sustaining commercial market exists when space companies are relying on the U.S. government to be the anchor tenant, effectively asking the American taxpayer to subsidize their venture-backed businesses.\nIn September, pushing back on a former NASA official who called for more agency-funded crew vehicles, NASA Administrator Jared Isaacman wrote: “You cannot simply slap the word ‘commercial’ on every problem or opportunity.” He was arguing that NASA can’t fill every gap in the market.\nI agree, and I’d go further: while global demand is there and is far outstripping available supply, the market itself needs to be nurtured. NASA has the procurement leverage to make that happen without footing the bill alone.\nI joined the space sector as an outsider from the tech and startup world in 2021, and over the next four years went on to close complex deals to send sovereign astronauts (from Italy, Sweden, Turkiye, India, Poland, Hungary, Saudi Arabia, and the UAE) to the International Space Station. I also closed deals with Fortune 100 companies to send everything from orbital compute and pharmaceutical research to in-space manufacturing payloads to orbit. This resulted in $1 billion in net new sovereign and commercial business, not tied to a U.S. government contract.\nThrough that experience, I learned firsthand that building a true commercial space economy is possible but requires significantly more market infrastructure and business"
     }
    ]
   },
   {
-   "id": "ca12e61cbac",
+   "id": "cc76af36807",
    "kind": "news",
-   "score": 11.5,
+   "score": 12.0,
    "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "APOD: 2026 November 1 – Colors of the Moon",
-   "official_image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+   "distinct_sites": 1,
+   "title_hint": "جوجل تتيح لمستخدمي Gemini المجانيين تعديل ملفات PDF المُنشأة مباشرة داخل المحادثات",
+   "official_image": null,
    "sources": [
     {
-     "source": "NASA",
-     "trust": 3,
-     "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
-     "title": "APOD: 2026 November 1 – Colors of the Moon",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
-     },
-     "id": "a12e61cbacf87776",
-     "published": "2026-11-01T04:05+00:00",
-     "text": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\nColors of the Moon\nExplanation: What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles. What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow, appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?"
-    },
-    {
-     "source": "Mashable",
+     "source": "Unlimit Tech",
      "trust": 2,
-     "url": "https://mashable.com/science/moon-phase-today-nov-1-2026",
-     "title": "Moon phase today: What the Moon will look like on November 1, 2026",
-     "lang": "en",
+     "url": "https://unlimit-tech.com/2026/11/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%aa%d9%8a%d8%ad-%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a-gemini-%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%86%d9%8a%d9%8a%d9%86-%d8%aa%d8%b9%d8%af%d9%8a%d9%84-%d9%85",
+     "title": "جوجل تتيح لمستخدمي Gemini المجانيين تعديل ملفات PDF المُنشأة مباشرة داخل المحادثات",
+     "lang": "ar",
      "extra": {},
-     "id": "f0fa178628aa18cb",
-     "published": "2026-11-01T05:00+00:00",
-     "text": "The Moon is at its Third Quarter phase tonight, meaning only half of its visible surface is lit as we head towards the next New Moon.\nAs of Sunday, Nov. 1, NASA's Daily Moon Guide tracker tells us the Moon is in the Third Quarter phase, with 56% of its surface visible.\nTonight, without the use of visual aids you should be able to spot the Tycho Crater, Kepler Crater, and the Mare Imbrium. Binoculars will also help you see the Alphonsus Crater, the Clavius Crater, and the Mare Humorum. And, if you have access to a telescope, you'll also see the Apollo 14 and 15 landing spots and the Schiller Crater.\nThe next Full Moon will take place on November 24.\nThe Moon takes approximately 29.5 days to complete an orbit around Earth, going through a series of phases along the way. Depending on its position relative to Earth and the Sun, the amount of its illuminated surface we can see changes, creating the familiar sequence of crescents, quarter moons and the Full Moon. Once the cycle is complete, the pattern repeats, as explained by NASA.\nThe eight phases are:\nNew Moon - The Moon is between Earth and the sun, so the side we see is dark (in other words, it's invisible to the eye).\nWaxing Crescent - A small sliver of light appears on the right side (Northern Hemisphere).\nFirst Quarter - Half of the Moon is lit on the right side. It looks like a half-Moon.\nWaxing Gibbous - More than half is lit up, but it's not quite full yet.\nFull Moon - The whole face of the Moon is illuminated and fully visible.\nWaning Gibbous - The Moon starts losing light on the right side. (Northern Hemisphere)\nThird Quarter (or Last Quarter) - Another half-Moon, but now the left side is lit.\nWaning Crescent - A thin sliver of light remains on the left side before going dark again."
+     "id": "c76af368076a664a",
+     "published": "2026-11-01T14:00+00:00",
+     "text": "هذا الموضوع جوجل تتيح لمستخدمي Gemini المجانيين تعديل ملفات PDF المُنشأة مباشرة داخل المحادثات ظهر على التقنية بلا حدود.\nوأعلنت الشركة عن الميزة في 29 أكتوبر، مؤكدة إتاحتها لجميع المستخدمين وبمختلف اللغات التي يدعمها تطبيق Gemini، دون اشتراط الاشتراك في أي باقة مدفوعة. وقد ظهرت الميزة بالفعل في نسخة الويب للمستخدمين المجانيين، وفقًا لتجربة أُجريت في 1 نوفمبر.\nكيف يعمل محرر الملفات الجديد؟\nعندما يطلب المستخدم من Gemini إنشاء ملف، تظهر معاينة له أسفل رد الذكاء الاصطناعي مباشرة. ويمكنه النقر على النص لتعديله يدويًا، أو تحديد جزء معين وطلب إعادة صياغته أو طرح أسئلة حوله.\nكما يتيح زر العرض بملء الشاشة فتح الملف في واجهة تحرير أكبر، وبعد الانتهاء يمكن تصديره أو حفظه مباشرة على Google Drive.\nوتتوفر هذه الإمكانات أيضًا للحسابات المجانية، رغم أن جوجل قلّصت منذ 9 أكتوبر خيارات نماذج الذكاء الاصطناعي المتاحة لهذه الفئة من المستخدمين.\nوتوضح الشركة آلية الاستفادة من الميزة من خلال مثال عملي، يبدأ بتصوير ملاحظات المحاضرات المكتوبة بخط اليد، ثم مطالبة Gemini بتحويلها إلى ملف PDF منظم للمذاكرة، مع إمكانية تعديل محتواه يدويًا أو طلب إجراء تغييرات إضافية من الذكاء الاصطناعي.\nقيود على استخدام الميزة في الهواتف\nلكن، تختلف الإمكانات المتاحة على الهواتف عن نسخة الويب؛ إذ تقتصر إمكانية تعديل الملفات عبر تطبيقي Android وiOS على ملفات PDF فقط.\nأما تعديل مستندات Google Docs وجداول Google Sheets والعروض التقديمية وملفات Markdown وTXT والأكواد البرمجية، فيتطلب استخدام نسخة الويب عبر موقع gemini.google.com، ما يعني ضرورة الانتقال إلى الكمبيوتر عند الرغبة في تعديل عرض تقديمي مثلًا.\nوتشير أمثلة جوجل أيضًا إلى أن الميزة تستهدف الملفات التي ينشئها Gemini نفسه، ولذلك لا تُعد بديلًا كاملًا لبرامج تحرير PDF المتخصصة مثل Acrobat.\nتنبيه بشأن خصوصية الملفات\nورغم سهولة تعديل الملفات داخل المحادثات، فإن ذلك لا يغير طريقة تعامل جوجل مع بيانات المستخدمين؛ إذ تُعامل المعلومات الموجودة داخل هذه الملفات باعتبارها جزءًا من محادثات Gemini، وتخضع لسياسات الخصوصية نفسها.\nوتحذر جوجل المستخدمين من إدخال معلومات سرية لا يرغبون في اطلاع المراجعين عليها أو استخدامها لتحسين خدمات الشركة وتقنيات التعلم الآلي. كما قد تحتفظ الشركة بالمحادثات التي راجعها أشخاص لمدة تصل إلى 3 سنوات، حتى بعد حذف سجل النشاط.\nلذلك، يُفضل تجنب رفع المستندات المصرفية وطلبات التوظيف والخطابات الطبية والملفات التي تحتوي على بيانات شخصية حساسة.\nوفي المقابل، يمكن الاستفادة من المحرر في مهام أقل حساسية، مثل إعداد قوائم التسوق وتنظيم ملاحظات الدراسة وإنشاء المسودات الأولية للعروض التقديمية، دون الحاجة إلى التنقل بين تطبيقات متعددة.\nهذا الموضوع جوجل تتيح لمستخدمي Gemini المجانيين تعديل ملفات PDF المُنشأة مباشرة داخل المحادثات ظهر على التقنية بلا حدود."
     }
    ]
   },
@@ -4832,15 +4932,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-01/13",
+     "url": "https://market.local/crypto/2026-11-01/14",
      "title": "Market snapshot crypto 2026-11-01",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T13:31+00:00",
-     "text": "Bitcoin: $77,885 (+0.6% 24h)\nEthereum: $2,264 (+0.8% 24h)\nSolana: $94.96 (-0.8% 24h)\nToncoin: $1.23 (+3.7% 24h)"
+     "published": "2026-11-01T14:02+00:00",
+     "text": "Bitcoin: $77,862 (+0.6% 24h)\nEthereum: $2,265 (+0.7% 24h)\nSolana: $94.81 (-0.8% 24h)\nToncoin: $1.23 (+3.5% 24h)"
     }
    ]
   },
