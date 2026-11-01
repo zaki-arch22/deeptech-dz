@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T04:53:07+00:00",
+ "generated_at": "2026-11-01T05:23:24+00:00",
  "clusters": [
   {
    "id": "c154d6ff5e1",
@@ -502,7 +502,70 @@
    ]
   },
   {
-   "id": "c593d92c141",
+   "id": "cf1eb9f9097",
+   "kind": "news",
+   "score": 19.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Decrypt",
+     "trust": 2,
+     "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+     "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg"
+     },
+     "id": "f1eb9f90974baba2",
+     "published": "2026-10-30T17:50+00:00",
+     "text": "In brief\n- Binance is working with the FBI and U.S. Secret Service after hackers stole $6.4 billion from the cryptocurrency exchange, according to Reuters.\n- Circle froze approximately $823 million in USDC connected to the attack, while Tether froze another $975.1 million in USDT. Circle CEO Jeremy Allaire said the company was coordinating with law enforcement.\n- Blockchain intelligence firms TRM Labs and Chainalysis attributed the attack to TraderTraitor, a North Korean hacking group previously linked to the $1.5 billion Bybit hack.\nBinance is working with the FBI and U.S. Secret Service after hackers stole $6.4 billion from the cryptocurrency exchange, as Circle joins the recovery effort by freezing more than $800 million in assets connected to the attack, according to Reuters.\nA person familiar with the matter told Reuters that Binance was cooperating with law enforcement agencies around the world, including both U.S. agencies. The FBI confirmed it was aware of the incident and was working with public and private partners to assess its scope and coordinate investigative steps. The Secret Service remained silent.\nInvestigating financial crimes is part of the Secret Service’s job, beyond its better-known responsibility of protecting the president. The agency also investigates computer crimes, unauthorized access to computer systems, and crimes involving digital currencies.\nCircle, the company behind USDC, a stablecoin designed to maintain a value of $1, has separately confirmed that it is coordinating with law enforcement. CEO Jeremy Allaire said the company had frozen more than $800 million in USDC associated with the Binance incident and would continue supporting the investigation.\nTether, which issues the competing USDT stablecoin, froze another $1.5 billion in tokens. Both companies can blacklist specific blockchain addresses, preventing the tokens they issue from being transferred out of those wallets. That ability gives stablecoin companies an unusual role in crypto investigations: they can effectively immobilize stolen money before investigators identify the people responsible.\nTether froze more than 1.567B USDT related to a potential Binance exchange hack.\nProtecting the industry and our partners is our main priority.\nStay safe everyone.\n— Paolo Ardoino 🤖 (@paoloardoino) October 29, 2026\nThis is not the first time the Secret Service has worked alongside crypto companies to investigate digital asset crimes. In April, Operation Atlantic—a joint effort involving the Secret Service, the U.K.'s National Crime Agency, Binance, Coinbase, and other crypto firms— identified more than 20,000 victims of approval phishing scams, traced $45 million in stolen funds and froze $12 million.\nThe Binance investigation also comes against the backdrop of a growing number of attacks attributed to North Korea. Blockchain intelligence firms TRM Labs and Chainalysis have both linked the $6.3 billion theft to TraderTraitor, a hacking group associated with the country's cyber operations. The same group has been linked to the $1.5 billion Bybit hack in February 2025, which the FBI also attributed to North Korean hackers.\nNorth Korean attackers have targeted Binance itself before, including through attempts to infiltrate the exchange by posing as job applicants. In an interview with Decrypt in 2025, Binance Chief Security Officer Jimmy Su said North Korean operatives were contacting employees on LinkedIn every day, sometimes using fake interviews to delive"
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446",
+     "title": "FBI accuses North Korea of Binance hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/bc8575bf0d416d34c9f249187acb27b8?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=263&width=862&height=485&imformat=generic"
+     },
+     "id": "f557515ed0172a50",
+     "published": "2026-11-01T01:48+00:00",
+     "text": "In short:\nThe FBI has blamed North Korean hackers for the Binance crypto hack.\nThis week, $US6.3 billion ($6.9 million) in bitcoin and other digital currency was stolen from the world's largest crypto exchange.\nWhat's next?\nBinance says it has enough funds to cover 90 per cent of the stolen assets.\nThe FBI has accused North Korea of stealing $US6.3 billion n ($6.9 million) in virtual assets from the cryptocurrency exchange Binance, in what is thought to be the biggest crypto heist in history.\nIn a statement, the US bureau said the North Korean state-sponsored unit known as TraderTraitor was responsible for the \"malicious cyber activity\".\nOn Thursday, $US6.3 billion in bitcoin and other digital currency was stolen from Binance, the world's largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe FBI's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90 per cent of what was stolen.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\n\"The FBI maintains its commitment to protecting the virtual asset community by identifying, mitigating, and disrupting North Korea's illicit cybercrime and virtual asset theft activities,\" it said.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called Ethereum.\nThe FBI said it expects TraderTraitor would now attempt to convert the assets using de-centralised finance (DeFi) and \"instant swap services\".\n\"It is expected these assets will then be further laundered,\" it said.\nThey are the same actors behind a $US1.5 billion Bybit hack last year.\n'Cat and mouse game' of tracking assets\nCrypto expert and chief policy officer at blockchain intelligence firm TRM Labs Ari Redbord said he expected the hackers would break the stolen assets into pieces and try to launder them through smaller exchanges to evade detection, a process that could unfold over months.\n\"It's bank robbery, in this case, at the speed of the internet,\"Mr Redbord said.\n\"However, we can also track and trace those funds in real time in order to build investigations, to disrupt and to seize back funds.\n\"It's just this cat and mouse game.\"\n90 per cent of assets recovered, Binance says\nOn Saturday, Binance said it had enough set aside in the same digital currency that was stolen, to cover 90 per cent of the missing assets.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said the outstanding 10 per cent consists of tokens that are less liquid, which means they may take longer to source in the required amounts.\nBinance suspended user withdrawals after the hack, but said in its latest update that they were on track to resume Sunday.\nReuters/AFP/AP"
+    },
+    {
+     "source": "Guardian World",
+     "trust": 2,
+     "url": "https://theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193"
+     },
+     "id": "96d7e79ee6dac342",
+     "published": "2026-11-01T02:41+00:00",
+     "text": "Cryptocurrency exchange Binance says it has replaced 90% of the amount stolen after a record $6.3bn hack of its platform by a group the FBI identified as being backed by North Korea.\nThe remaining 10% of tokens are less liquid, meaning they may take longer to buy, the company said in a post on X on Saturday. Co-CEO Richard Teng said separately that the company was “committed to covering the remaining 10%” and that “users will not bear the financial impact of this incident”.\nBinance suspended user withdrawals after the hack, but said in its latest update that it was on track to resume them on Sunday.\nThe announcement came as the FBI on Saturday confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked North Korean leader Kim Jong-un.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,” the law enforcement agency said in a statement.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralised finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets”.\nTeng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nBinance said it had set aside around $6.34bn of company funds to cover the losses.\n“Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said.\nThe money spent re-buying tokens came from using part of its $1bn Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company’s own corporate treasury, it said on X.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly 6% and BNB, native to Binance, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea – which faces extensive international sanctions over its nuclear and missile programmes – to find illicit means to capture revenue."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmZHbGpSM3BwNVpUdHkteHN5Q2lTNTh0SVZjNjM3Yjkyd0dKcnY5LWJrNHpVeEIyYVBOTDVSUWowdEExN3hxU1lkR3dJODQ5RDhLU0pXWXJmbGRaNVJvV1hjUjVCalk5bVdhSnBod1pyY1Z6eFV6Xy1YcUFvZlNxNkJLYkRmcXhOc0IxbjJoaEJoRWVZS3Y4Q0V1UmVoaXlvUUU5bFFoeXZsVEU?oc=5",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack - The Guardian",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "da51d61e643b2fd0",
+     "published": "2026-11-01T02:41+00:00",
+     "text": "- Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack The Guardian\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Binance to Resume Customer Withdrawals in Phases After Hack Bloomberg.com\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    }
+   ]
+  },
+  {
+   "id": "cd15b79a959",
    "kind": "news",
    "score": 17.5,
    "sensitive": false,
@@ -526,15 +589,15 @@
     {
      "source": "Sky Sports Football",
      "trust": 2,
-     "url": "https://skysports.com/f1/live-blog/12040/13605837/f1-mexico-city-gp-live-qualifying-and-final-practice-updates-results-stream-highlights-from-formula-1-race-weekend-at-autodromo-hermanos-rodriguez",
-     "title": "Mexico City GP: Antonelli 'a bit tense' as he closes in on world title",
+     "url": "https://skysports.com/f1/news/12040/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
+     "title": "Antonelli feeling 'tense' amid effort to seal F1 title",
      "lang": "en",
      "extra": {
-      "page_image": "https://e0.365dm.com/26/10/1600x900/skysports-liam-lawson-formula-one_7393575.jpg?20261031235858"
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-f1-kimi-antonelli_7393584.jpg?20261101003807"
      },
-     "id": "593d92c1419ff692",
-     "published": "2026-10-30T17:00+00:00",
-     "text": "Sunday 1 November 2026 01:25, UK"
+     "id": "d15b79a9597969c0",
+     "published": "2026-11-01T00:45+00:00",
+     "text": "Kimi Antonelli: Mercedes driver admits to feeling 'tense' amid effort to seal F1 title at Mexico City Grand Prix\nKimi Antonelli needs top-nine finish to become world champion at Mexico City Grand Prix; he only qualified fifth and was off the pace compared to Mercedes team-mate George Russell; watch Sunday's race at 8pm (build-up from 6.30pm), live on Sky Sports F1\nSunday 1 November 2026 00:48, UK\nKimi Antonelli has admitted to feeling \"more tense than usual\" ahead of attempting to seal the Formula 1 world championship at Sunday's Mexico City Grand Prix.\nThe 20-year-old only needs to finish ninth in the race to become the sport's youngest world champion.\nAntonelli qualified fifth on Saturday but will start from fourth on the grid due to a penalty for Max Verstappen.\n- How Kimi Antonelli can win world title in Mexico on Sunday\n- Mexico City GP schedule | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts\n- Latest Sky Sports deals or stream F1 with no contract\nSpeaking after the session, the Italian revealed that he is not feeling his best as he continues to recover from an illness that caused him to miss his media duties on Thursday.\nHe told Sky Sports F1: \"It has not been the easiest weekend to be fair.\n\"Definitely still not feeling 100 per cent. There is talk of what could happen [with the championship] and definitely I'm a bit more tense than usual.\n\"Definitely I don't feel as relaxed but I try to have a good sleep tonight and focus on tomorrow.\"\nDespite his condition, Antonelli was still able to produce a decent final lap in qualifying as he finished within two tenths of pole-sitter Lewis Hamilton.\nHowever, the fact that his team-mate George Russell was only marginally behind Hamilton in second perhaps reflected the Italian not being able to summon his best level.\nAntonelli added: \"I struggled to get a good feeling from the tyres in Q3. I just didn't have the most confidence. I was a bit tense, I am not going to lie.\n\"It was a poor lap, many mistakes here and there. Overall, still P4 and a lot to play for tomorrow.\"\n'It's insane!' - Norris happy to pass No 1 onto Antonelli\nLando Norris says he is \"more than happy\" to pass the number one he has had on his McLaren this year to Antonelli when the Mercedes driver replaces him as world champion.\nAntonelli has massively exceeded expectations during just his second season in F1 to comprehensively outperform Russell, who began the year as the clear title favourite.\n\"He's done an incredible job and done it in a pretty incredible way,\" Norris said ahead of the race weekend in Mexico.\n\"People are saying he hasn't had any tough competition this year. That proves the point that he's done such an incredible job.\n\"He's got a very, very talented team-mate that he's beaten through the whole season.\n\"I have nothing but respect for Kimi. He's a very nice guy. We get along very well and I'm more than happy to pass the No 1 over to him.\n\"He deserves it. He's done an incredible job, especially in his second year in Formula 1. Youngest world champion, it's pretty insane.\n\"I enjoy other people having that kind of success. It's nice to see.\"\nSunday November 1\n6.30pm: Grand Prix Sunday: Mexico City GP build-up\n8pm: THE MEXICO CITY GRAND PRIX*\n10pm: Chequered Flag: Mexico City GP reaction\n11pm: Ted's Notebook\n*also on Sky Sports Main Event\nFormula 1 is in Mexico City where Kimi Antonelli could win the Drivers' Championship in Sunday's race at 8pm (build-up from 6.30pm), "
     }
    ]
   },
@@ -951,43 +1014,6 @@
      "id": "2ae9b6177f8a418c",
      "published": "2026-10-31T15:14+00:00",
      "text": "Here's what we know about the hack, possible North Korean involvement and Binance's investigation."
-    }
-   ]
-  },
-  {
-   "id": "c0629994f45",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
-     },
-     "id": "0629994f454de1d9",
-     "published": "2026-10-31T22:11+00:00",
-     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
-    },
-    {
-     "source": "Guardian World",
-     "trust": 2,
-     "url": "https://theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193"
-     },
-     "id": "96d7e79ee6dac342",
-     "published": "2026-11-01T02:41+00:00",
-     "text": "Cryptocurrency exchange Binance says it has replaced 90% of the amount stolen after a record $6.3bn hack of its platform by a group the FBI identified as being backed by North Korea.\nThe remaining 10% of tokens are less liquid, meaning they may take longer to buy, the company said in a post on X on Saturday. Co-CEO Richard Teng said separately that the company was “committed to covering the remaining 10%” and that “users will not bear the financial impact of this incident”.\nBinance suspended user withdrawals after the hack, but said in its latest update that it was on track to resume them on Sunday.\nThe announcement came as the FBI on Saturday confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked North Korean leader Kim Jong-un.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,” the law enforcement agency said in a statement.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralised finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets”.\nTeng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nBinance said it had set aside around $6.34bn of company funds to cover the losses.\n“Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said.\nThe money spent re-buying tokens came from using part of its $1bn Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company’s own corporate treasury, it said on X.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly 6% and BNB, native to Binance, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea – which faces extensive international sanctions over its nuclear and missile programmes – to find illicit means to capture revenue."
     }
    ]
   },
@@ -1462,54 +1488,6 @@
    ]
   },
   {
-   "id": "c8a5c1d88ba",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Digital Trends",
-     "trust": 2,
-     "url": "https://digitaltrends.com/computing/north-korean-hackers-pull-6-3-billion-crypto-heist-in-binance-one-of-the-biggest-thefts-so-far",
-     "title": "North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/binance-crypto-theft.jpg?resize=1200%2C630&ssl=1"
-     },
-     "id": "8a5c1d88baae3ee5",
-     "published": "2026-10-30T19:19+00:00",
-     "text": "North Korean hackers have stolen a staggering $6.36 billion in cryptocurrency from Binance, according to blockchain intelligence firm TRM Labs. On October 29 the attack reportedly drained funds across 10 different blockchains in roughly 20 minutes. TRM attributes the operation to TraderTraitor, a North Korean state-sponsored hacking group.\nHow did hackers steal $6.3 billion from Binance?\nOn Ethereum, the hackers exploited a mechanism involving Ethereum’s EIP-7702 standard to hijack a Binance hot wallet and turn it into a contract they fully controlled. They used one of 50 pre prepared authorizations that happened to match the wallet’s transaction count.\nOn the other nine blockchains, they simply moved funds using ordinary signed transfers. TRM believes Binance’s wallet signing system itself was likely compromised, though Binance has not confirmed exactly how it happened.\nThe group reportedly started preparing at least 36 hours earlier, running test transactions and funding an operator wallet through small withdrawals from Tornado Cash. TRM Labs says the North Korean hacking group TraderTraitor is also tied to last year’s $1.5 billion Bybit hack, making this one about four times bigger.\nThe stolen assets included Bitcoin, Ethereum, XRP, Solana, and stablecoins. Binance confirmed the security incident and temporarily suspended withdrawals across several networks. It said user funds were safe, although the investigation is ongoing.\nHow much of the stolen cryptocurrency has been recovered?\nThe good news is that companies like Tether, Circle, Ripple, and World Liberty Financial managed to freeze about $2.7 billion of the stolen funds pretty quickly. The bad news is that the hackers still hold around $2.4 billion worth of assets, including over 420,000 ETH and more than 18,000 bitcoin, sitting safely outside anyone’s reach.\nHackers have already started laundering some of it, selling tokens likely to get frozen to market makers at a discount and routing funds through multiple wallets to cover their tracks. TRM expects the next stage to involve bridges and swap services, so this story is far from over.\nThe incident highlights how dangerous compromised transaction-signing systems can be for cryptocurrency exchanges. Even with billions frozen, recovering the remaining funds could prove difficult.\nRELATED COVERAGE:\n- Fold’s CEO spills on the real future of everyday bitcoin\n- OpenAI’s agent ran out of crypto while completing a task, so it stole from another wallet\n- Lost access to your crypto wallet? Don’t Google your way out of it\n- A billionaire crypto bro will lead humanity to Mars atop Musk’s Starship\n- Your smart home devices could be part of a cybercrime network without you knowing"
-    },
-    {
-     "source": "NYT World",
-     "trust": 2,
-     "url": "https://nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-     "lang": "en",
-     "extra": {},
-     "id": "a99c268c18cb3a6c",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime."
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5",
-     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist. - The New York Times",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "065dd641f6c3eba6",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.\nThe New York Times\nSee more headlines & perspectives on Google News"
-    }
-   ]
-  },
-  {
    "id": "caf8a11e2c0",
    "kind": "news",
    "score": 13.0,
@@ -1802,30 +1780,6 @@
    ]
   },
   {
-   "id": "cedd7c14f25",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Bill Ackman Says Elon Musk Might Have To Borrow “A Trillion Dollars Of Capital” To Meet SpaceX’s 2027 Compute Target, As Musk Eyes “Petawatt/Year” Space-Based Compute Capacity",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Wccftech",
-     "trust": 2,
-     "url": "https://wccftech.com/bill-ackman-says-elon-musk-might-have-to-borrow-a-trillion-dollars-of-capital-to-meet-spacexs-2027-compute-target-as-musk-eyes-petawatt-year-space-based-compute-capacity",
-     "title": "Bill Ackman Says Elon Musk Might Have To Borrow “A Trillion Dollars Of Capital” To Meet SpaceX’s 2027 Compute Target, As Musk Eyes “Petawatt/Year” Space-Based Compute Capacity",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Elon-Musk-SpaceX-Bill-Ackman-1-1920x1281.jpg"
-     },
-     "id": "edd7c14f25f0a59b",
-     "published": "2026-10-31T22:55+00:00",
-     "text": "Elon Musk might have just popped the latest iteration of the AI bubble by loudly proclaiming a few days back that the \"debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers.\"\nIn fact, Daytona.io - a platform that provides fast, isolated virtual sandboxes for running AI-generated code and AI agent workflows - cited Musk's X post while revealing that a GPU provider tried to renegotiate a signed contract and their banks cut their lending offers in half after Musk's post went viral.\nInterestingly, SpaceX's own borrowing might be about to go on an overdrive, at least according to the billionaire hedge fund manager, Bill Ackman.\nBill Ackman: If Elon Musk \"meets his objective, he might have to borrow a trillion dollars of capital\"\nAs we noted recently, SpaceX plans to end 2026 with 2.5-3 GW of compute capacity, which now includes plans for 1.2 million NVIDIA Blackwell GPUs at its Colossus 2 data center alone, and plans to add another 13 GW by the end of 2027, bringing its total capacity to around 20 GW.\nAgainst this backdrop, Bill Ackman has just shared his views on the AI buildout, declaring that he thinks this compute infrastructure-related frenzy is sustainable, barring the so-called neoclouds - cloud computing providers that deliver GPU-as-a-Service and AI inference capacity - who he thinks are in a similar league as highly levered real estate developers:\n\"So, I think it is sustainable because, you know, intelligence is again an enormously valuable asset. And I think the demand therefore for the compute that enables intelligence, I think, is going to be sustained.\"\n\"And, you know, the companies that are, you know, the hyperscalers that are building out a lot of this infrastructure have the financial resources, the creditworthiness in order to access the capital.\"\n\"I worry more about the pure play neocloud companies that are a bit like highly levered real estate developers playing a theme. I think they’re much more at risk. They’re much more sensitive to the cost of capital.\"\nWhile Ackman is much more sanguine on the prospects of the so-called hyperscalers, he does think that SpaceX might have to borrow as much as $1 trillion to achieve Elon Musk's ambitious compute-related buildout:\n\"But you have, I mean, SpaceX, Elon on the earnings call gave some projections for how many gigawatts of data centers he was going to open. If he meets his objective, he might have to borrow a trillion dollars of capital.\"\nDo note that Ackman appears to be pricing each GW of compute capacity at $50 billion ($1 trillion/20 GW). However, as we noted above, SpaceX only needs to add 13 GW of incremental compute capacity to achieve its cumulative target of 20 GW for 2027.\nAlso, given the fact that SpaceX's 2027 compute-related CapEx is expected to surge to $390 billion, we can infer a per GW cost of around $30 billion ($390 billion/13 GW) for this buildout phase. In short, SpaceX's actual debt load might be substantially less than the trillion-dollar-figure penciled in by Ackman.\nElsewhere, Sequoia's Shaw Maguire recently published an article on X, detailing his economic modeling on SpaceX. Elon Musk then replied to Maguire's post with a terse comment:\n\"Launching super intelligence satellites into deep space with a mass driver on the Moon can achieve >>petawatt/year capability, which would far exceed the best case value of Earth’s economy.\"\nBasically, Musk wants to place a lot "
-    }
-   ]
-  },
-  {
    "id": "c4d04d67d10",
    "kind": "news",
    "score": 12.5,
@@ -1962,6 +1916,89 @@
      "id": "ff06dcd8d2d3db81",
      "published": "2026-11-01T02:17+00:00",
      "text": "A new Australian classification for 2009’s Call of Duty: Modern Warfare 2 has fuelled speculation about a re-release on modern consoles, following Activision’s recent ports of Black Ops and Black Ops 2. A new release may restore the multiplayer omitted from the Campaign Remastered edition, but an official confirmation is yet to be made."
+    }
+   ]
+  },
+  {
+   "id": "ca12e61cbac",
+   "kind": "news",
+   "score": 12.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "APOD: 2026 November 1 – Colors of the Moon",
+   "official_image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+   "sources": [
+    {
+     "source": "NASA",
+     "trust": 3,
+     "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
+     "title": "APOD: 2026 November 1 – Colors of the Moon",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
+     },
+     "id": "a12e61cbacf87776",
+     "published": "2026-11-01T04:05+00:00",
+     "text": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\nColors of the Moon\nExplanation: What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles. What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow, appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?"
+    },
+    {
+     "source": "Mashable",
+     "trust": 2,
+     "url": "https://mashable.com/science/moon-phase-today-nov-1-2026",
+     "title": "Moon phase today: What the Moon will look like on November 1, 2026",
+     "lang": "en",
+     "extra": {},
+     "id": "f0fa178628aa18cb",
+     "published": "2026-11-01T05:00+00:00",
+     "text": "The Moon is at its Third Quarter phase tonight, meaning only half of its visible surface is lit as we head towards the next New Moon.\nAs of Sunday, Nov. 1, NASA's Daily Moon Guide tracker tells us the Moon is in the Third Quarter phase, with 56% of its surface visible.\nTonight, without the use of visual aids you should be able to spot the Tycho Crater, Kepler Crater, and the Mare Imbrium. Binoculars will also help you see the Alphonsus Crater, the Clavius Crater, and the Mare Humorum. And, if you have access to a telescope, you'll also see the Apollo 14 and 15 landing spots and the Schiller Crater.\nThe next Full Moon will take place on November 24.\nThe Moon takes approximately 29.5 days to complete an orbit around Earth, going through a series of phases along the way. Depending on its position relative to Earth and the Sun, the amount of its illuminated surface we can see changes, creating the familiar sequence of crescents, quarter moons and the Full Moon. Once the cycle is complete, the pattern repeats, as explained by NASA.\nThe eight phases are:\nNew Moon - The Moon is between Earth and the sun, so the side we see is dark (in other words, it's invisible to the eye).\nWaxing Crescent - A small sliver of light appears on the right side (Northern Hemisphere).\nFirst Quarter - Half of the Moon is lit on the right side. It looks like a half-Moon.\nWaxing Gibbous - More than half is lit up, but it's not quite full yet.\nFull Moon - The whole face of the Moon is illuminated and fully visible.\nWaning Gibbous - The Moon starts losing light on the right side. (Northern Hemisphere)\nThird Quarter (or Last Quarter) - Another half-Moon, but now the left side is lit.\nWaning Crescent - A thin sliver of light remains on the left side before going dark again."
+    }
+   ]
+  },
+  {
+   "id": "c8a5c1d88ba",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Digital Trends",
+     "trust": 2,
+     "url": "https://digitaltrends.com/computing/north-korean-hackers-pull-6-3-billion-crypto-heist-in-binance-one-of-the-biggest-thefts-so-far",
+     "title": "North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/binance-crypto-theft.jpg?resize=1200%2C630&ssl=1"
+     },
+     "id": "8a5c1d88baae3ee5",
+     "published": "2026-10-30T19:19+00:00",
+     "text": "North Korean hackers have stolen a staggering $6.36 billion in cryptocurrency from Binance, according to blockchain intelligence firm TRM Labs. On October 29 the attack reportedly drained funds across 10 different blockchains in roughly 20 minutes. TRM attributes the operation to TraderTraitor, a North Korean state-sponsored hacking group.\nHow did hackers steal $6.3 billion from Binance?\nOn Ethereum, the hackers exploited a mechanism involving Ethereum’s EIP-7702 standard to hijack a Binance hot wallet and turn it into a contract they fully controlled. They used one of 50 pre prepared authorizations that happened to match the wallet’s transaction count.\nOn the other nine blockchains, they simply moved funds using ordinary signed transfers. TRM believes Binance’s wallet signing system itself was likely compromised, though Binance has not confirmed exactly how it happened.\nThe group reportedly started preparing at least 36 hours earlier, running test transactions and funding an operator wallet through small withdrawals from Tornado Cash. TRM Labs says the North Korean hacking group TraderTraitor is also tied to last year’s $1.5 billion Bybit hack, making this one about four times bigger.\nThe stolen assets included Bitcoin, Ethereum, XRP, Solana, and stablecoins. Binance confirmed the security incident and temporarily suspended withdrawals across several networks. It said user funds were safe, although the investigation is ongoing.\nHow much of the stolen cryptocurrency has been recovered?\nThe good news is that companies like Tether, Circle, Ripple, and World Liberty Financial managed to freeze about $2.7 billion of the stolen funds pretty quickly. The bad news is that the hackers still hold around $2.4 billion worth of assets, including over 420,000 ETH and more than 18,000 bitcoin, sitting safely outside anyone’s reach.\nHackers have already started laundering some of it, selling tokens likely to get frozen to market makers at a discount and routing funds through multiple wallets to cover their tracks. TRM expects the next stage to involve bridges and swap services, so this story is far from over.\nThe incident highlights how dangerous compromised transaction-signing systems can be for cryptocurrency exchanges. Even with billions frozen, recovering the remaining funds could prove difficult.\nRELATED COVERAGE:\n- Fold’s CEO spills on the real future of everyday bitcoin\n- OpenAI’s agent ran out of crypto while completing a task, so it stole from another wallet\n- Lost access to your crypto wallet? Don’t Google your way out of it\n- A billionaire crypto bro will lead humanity to Mars atop Musk’s Starship\n- Your smart home devices could be part of a cybercrime network without you knowing"
+    },
+    {
+     "source": "NYT World",
+     "trust": 2,
+     "url": "https://nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+     "lang": "en",
+     "extra": {},
+     "id": "a99c268c18cb3a6c",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5",
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist. - The New York Times",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "065dd641f6c3eba6",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.\nThe New York Times\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -2258,6 +2295,63 @@
    ]
   },
   {
+   "id": "c0c74a22d20",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "UN says Yemeni staff member dies in Houthi custody, demands investigation",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/middle-east/un-says-yemeni-staff-member-dies-in-houthi-custody-demands-investigation",
+     "title": "UN says Yemeni staff member dies in Houthi custody, demands investigation",
+     "lang": "en",
+     "extra": {},
+     "id": "0c74a22d20d6edb0",
+     "published": "2026-10-31T19:42+00:00",
+     "text": "Oct 31 - A Yemeni staff member of the UN Human Rights Office has died in Houthi custody after being arbitrarily detained for more than two years, the UN human rights chief said on Saturday, calling for an independent investigation and the release of other detained personnel."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/middle-east/un-employee-dies-after-over-2-years-in-houthi-custody-in-yemen-minister/4107680",
+     "title": "UN employee dies after over 2 years in Houthi custody in Yemen: Minister",
+     "lang": "en",
+     "extra": {},
+     "id": "b3a7089dfa1e5f76",
+     "published": "2026-10-31T21:37+00:00",
+     "text": "Death underscores UN’s responsibilities toward abducted employees, says Mashdal Mohammed Omar"
+    },
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/un-demands-investigation-into-death-of-staff-member-in-houthi-custody-13606554",
+     "title": "UN demands investigation into death of staff member in Houthi custody",
+     "lang": "en",
+     "extra": {},
+     "id": "ff328fe4afffaa75",
+     "published": "2026-11-01T01:17+00:00",
+     "text": "A Yemeni staff member of the UN Human Rights Office has died in Houthi custody after being arbitrarily held for more than two years, the UN human rights chief has said."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+     "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9e7acf478de-1788771023.jpg?resize=1920%2C1440"
+     },
+     "id": "d5552815116f588b",
+     "published": "2026-11-01T04:49+00:00",
+     "text": "The United Nations has demanded an investigation into the death of an employee in Houthi detention in Yemen.\nMohammad el-Shami, a staff member of the Office of the United Nations High Commissioner for Human Rights (OHCHR) in Yemen, died more than a month ago, but his family was only recently informed, the UN said in a statement on Saturday.\nRecommended Stories\nlist of 3 items- list 1 of 3Yemen’s Houthis detain 20 UN staff in latest raid\n- list 2 of 3Yemen’s Houthis say arrested UN staff will be tried over Israeli links\n- list 3 of 3Houthis detain 10 more United Nations staff in Yemen, bringing total to 69\nThe Houthis did not say how he died, but his family “deserve to know the truth”, said UN High Commissioner for Human Rights Volker Turk.\nThe human rights chief also demanded “full transparency” from the Houthi authorities and an “urgent, independent and thorough investigation” into el-Shami’s death.\nEl-Shami had been arbitrarily held in Houthi custody since June 2024, when he and more than 60 people working with the UN and other NGOs were detained and accused of being part of an “American-Israeli spy network”.\n“I am also gravely concerned” for the seven other OHCHR personnel who were detained alongside el-Shami and are still being held, Turk said. “I appeal again for their immediate and unconditional release.”\nUN Secretary-General Antonio Guterres said in a separate statement on Saturday that he was “appalled” by el-Shami’s death and echoed Turk’s calls for an investigation.\nThe UN is “urgently seeking answers” from the group about the circumstances of his death, Guterres added.\nEl-Shami is the second UN staff member to die in Houthi detention, following the death of a World Food Programme staffer in February 2025.\nA total of 72 UN staffers and NGO workers, including el-Shami, have been detained by the Houthis.\nThe UN paused operations in parts of Houthi-held Yemen in February 2025 over concerns for the safety of its employees.\nThe rebel group has previously paraded some detainees on television channels, presenting them as collaborators with Western intelligence agencies and Israel.\nOn October 6, the UN announced that a World Food Programme employee had been released after being “arbitrarily detained” by the Iran-backed group."
+    }
+   ]
+  },
+  {
    "id": "ce07dacdb45",
    "kind": "news",
    "score": 12.0,
@@ -2374,6 +2468,54 @@
    ]
   },
   {
+   "id": "c0629994f45",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+     },
+     "id": "0629994f454de1d9",
+     "published": "2026-10-31T22:11+00:00",
+     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
+    }
+   ]
+  },
+  {
+   "id": "cedd7c14f25",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Bill Ackman Says Elon Musk Might Have To Borrow “A Trillion Dollars Of Capital” To Meet SpaceX’s 2027 Compute Target, As Musk Eyes “Petawatt/Year” Space-Based Compute Capacity",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Wccftech",
+     "trust": 2,
+     "url": "https://wccftech.com/bill-ackman-says-elon-musk-might-have-to-borrow-a-trillion-dollars-of-capital-to-meet-spacexs-2027-compute-target-as-musk-eyes-petawatt-year-space-based-compute-capacity",
+     "title": "Bill Ackman Says Elon Musk Might Have To Borrow “A Trillion Dollars Of Capital” To Meet SpaceX’s 2027 Compute Target, As Musk Eyes “Petawatt/Year” Space-Based Compute Capacity",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Elon-Musk-SpaceX-Bill-Ackman-1-1920x1281.jpg"
+     },
+     "id": "edd7c14f25f0a59b",
+     "published": "2026-10-31T22:55+00:00",
+     "text": "Elon Musk might have just popped the latest iteration of the AI bubble by loudly proclaiming a few days back that the \"debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers.\"\nIn fact, Daytona.io - a platform that provides fast, isolated virtual sandboxes for running AI-generated code and AI agent workflows - cited Musk's X post while revealing that a GPU provider tried to renegotiate a signed contract and their banks cut their lending offers in half after Musk's post went viral.\nInterestingly, SpaceX's own borrowing might be about to go on an overdrive, at least according to the billionaire hedge fund manager, Bill Ackman.\nBill Ackman: If Elon Musk \"meets his objective, he might have to borrow a trillion dollars of capital\"\nAs we noted recently, SpaceX plans to end 2026 with 2.5-3 GW of compute capacity, which now includes plans for 1.2 million NVIDIA Blackwell GPUs at its Colossus 2 data center alone, and plans to add another 13 GW by the end of 2027, bringing its total capacity to around 20 GW.\nAgainst this backdrop, Bill Ackman has just shared his views on the AI buildout, declaring that he thinks this compute infrastructure-related frenzy is sustainable, barring the so-called neoclouds - cloud computing providers that deliver GPU-as-a-Service and AI inference capacity - who he thinks are in a similar league as highly levered real estate developers:\n\"So, I think it is sustainable because, you know, intelligence is again an enormously valuable asset. And I think the demand therefore for the compute that enables intelligence, I think, is going to be sustained.\"\n\"And, you know, the companies that are, you know, the hyperscalers that are building out a lot of this infrastructure have the financial resources, the creditworthiness in order to access the capital.\"\n\"I worry more about the pure play neocloud companies that are a bit like highly levered real estate developers playing a theme. I think they’re much more at risk. They’re much more sensitive to the cost of capital.\"\nWhile Ackman is much more sanguine on the prospects of the so-called hyperscalers, he does think that SpaceX might have to borrow as much as $1 trillion to achieve Elon Musk's ambitious compute-related buildout:\n\"But you have, I mean, SpaceX, Elon on the earnings call gave some projections for how many gigawatts of data centers he was going to open. If he meets his objective, he might have to borrow a trillion dollars of capital.\"\nDo note that Ackman appears to be pricing each GW of compute capacity at $50 billion ($1 trillion/20 GW). However, as we noted above, SpaceX only needs to add 13 GW of incremental compute capacity to achieve its cumulative target of 20 GW for 2027.\nAlso, given the fact that SpaceX's 2027 compute-related CapEx is expected to surge to $390 billion, we can infer a per GW cost of around $30 billion ($390 billion/13 GW) for this buildout phase. In short, SpaceX's actual debt load might be substantially less than the trillion-dollar-figure penciled in by Ackman.\nElsewhere, Sequoia's Shaw Maguire recently published an article on X, detailing his economic modeling on SpaceX. Elon Musk then replied to Maguire's post with a terse comment:\n\"Launching super intelligence satellites into deep space with a mass driver on the Moon can achieve >>petawatt/year capability, which would far exceed the best case value of Earth’s economy.\"\nBasically, Musk wants to place a lot "
+    }
+   ]
+  },
+  {
    "id": "c4f303f73a7",
    "kind": "news",
    "score": 12.0,
@@ -2470,6 +2612,43 @@
    ]
   },
   {
+   "id": "c7c1188f5a3",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Milwaukee Brewers Make Surprise “Weekend Update” Appearance After World Series Win With Returning ‘SNL’ Alum Bobby Moynihan",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/10/milwaukee-brewers-weekend-update-after-world-series-1237210800",
+     "title": "Milwaukee Brewers Make Surprise “Weekend Update” Appearance After World Series Win With Returning ‘SNL’ Alum Bobby Moynihan",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-9.34.41-PM.png?w=1024"
+     },
+     "id": "7c1188f5a300bd8e",
+     "published": "2026-11-01T04:48+00:00",
+     "text": "Coming off their World Series victory, the Milwaukee Brewers showed off their trophy on “Weekend Update” with a Saturday Night Live alum.\nThe team’s manager Pat Murphy, designated hitter Christian Yelich and second baseman Brice Turang made a surprise appearance on the segment with Bobby Moynihan, who reprised his Drunk Uncle character.\n“Hey, I know you. You’re Pete Davidson, right?” Moynihan said to Yelich, as they all admitted to getting drunk since the big win.\nOn Wednesday, the Brewers celebrated their first World Series title, defeating the Tampa Bay Rays 4-1 in Game 5.\nIn addition to marking Inde Navarrette’s first time hosting Saturday Night Live, this weekend’s episode also served as Gracie Abrams’ musical guest debut."
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/tv/news/drunk-uncle-bobby-moynihan-snl-milwaukee-brewers-world-win-1236936586",
+     "title": "‘SNL’ Celebrates Milwaukee Brewers’ World Series Win With Bobby Moynihan’s Drunk Uncle on Weekend Update",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-10.02.06-PM-e1793509406819.png?crop=0px%2C1px%2C1000px%2C562px&resize=1000%2C563"
+     },
+     "id": "cf2d4f2b87d7e788",
+     "published": "2026-11-01T04:56+00:00",
+     "text": "“Saturday Night Live” paid tribute to the Milwaukee Brewers’ historic World Series win during a Weekend Update segment that featured the return of Bobby Moynihan’s Drunk Uncle commentator character.\nMoynihan spent nine seasons on “SNL,” from 2009 to 2017. His recurring Drunk Uncle character was a classic Archie Bunker-esque East Coast guy with blunt observations on pop culture and politics. He last portrayed Drunk Uncle last year on “Saturday Night Live’s” 50th anniversary special.\nThis time around, Drunk Uncle hailed the Brewers’ first World Series victory in the nearly 60-year history of the team as a win attributed to the power of suds in a town that is synonymous with beer — hence the team’s name.\nIn classic fashion, Drunk Uncle told “Weekend Update” anchors Colin Jost and Michael Che that he was happy for the Brewers but deeply concerned about the state of baseball overall. After recent rule changes, the duration of most baseball games as tightened up, something that Drunk Uncle lamented. Instead of running seven hours, “the game ends in 20 minutes and everybody goes home to watch their gay hockey shows,” Moynihan as Drunk Uncle said in a nod to “Heated Rivalry.”\nAs usual, Drunk Uncle got progressively more emotional as the segment went on, tossing out one-liners about Elizabeth Holmes (“I believe her”) and “Helen of Troy was white,” in a nod to the ongoing angry debate in some circles about the casting of historical characters in period movies and TV shows.\nBut just as Drunk Uncle began to wallow, he was surprised by the appearance of two Brewers players , slugger Christian Yelich and second baseman Brice Turang, and the team’s manager, Pat Murphy.\n“Don’t worry Drunk Uncle,” Yelich told Moynihan. “It wasn’t a dream.”\nMurphy introduced himself to Drunk Uncle, saying that being a baseball manager is “kind of like being the Drunk Uncle of the team.”\nMoynihan looked up at the 6-foot-4 Yelich and declared, “I know you — you’re Pete Davidson.”"
+    }
+   ]
+  },
+  {
    "id": "c046414c907",
    "kind": "news",
    "score": 11.5,
@@ -2558,41 +2737,6 @@
      "id": "e18e4ea059221d64",
      "published": "2026-11-01T02:19+00:00",
      "text": "Norris admits McLaren are ‘too slow’ after he was unable to repeat 'magical' Q2 lap\nLando Norris was left sixth on the grid for the Mexico City Grand Prix after being unable to repeat the lap that had taken him to the top of Q2.\nLando Norris and McLaren had shown flashes of front-running pace throughout the Mexico City Grand Prix weekend, but when it mattered in Q3 the 2025 World Champion had to settle for sixth on the grid.\nSecond fastest on Friday and quickest in FP3, Norris then topped Q2 with what he described as a rare 'magical' lap where everything came together.\nBut he was unable to repeat it in the crucial final session.\nTeam mate Oscar Piastri's struggles offered further evidence of the McLaren's difficulties, with the Australian eliminated in Q2 after qualifying 13th.\n“I don't think anything slipped away,” said Norris when asked about Q3 not working out for him. “I think just the lap I did was pretty phenomenal in the car that we have. I think it shows also with where Oscar is and the struggles, we've been having how difficult it is to put just a lap together in this car, so I'm pretty happy with a P6, honestly.\n“You never really know what you're going to get, and after I did a good lap in Q2, I knew I was screwed for Q3, because the chance of me repeating that lap is impossible.\n“So, it's just we're too slow. Every now and then, I can put a magical lap together, and everyone has a bit of hope – which is not a good thing, because then we see the reality in Q3 once again.”\nNorris painted a vivid picture of how difficult it is to find that perfect lap.\n“You just always have to keep trying,” Norris said. “You never know when things are just going to suddenly go your way.\n\"Like my Q2 lap, I just had an amazing headwind in Turn 12 again, one and a half tenths, just because the car grips. The next lap, I try and go the same speed in, I lose the rear, I lose a tenth. So, I’ve got a two and a half tenths delta to my previous.\n“It's too difficult, especially when I just look at the onboards from others, it baffles me how we can be quick sometimes.\n“It always feels like there's a little bit of hope, which is also as much as I say it wasn't a good thing, it's a good thing at the same time that the speed can be there if things just somehow come together. But you never know when they're going to come together.”\nAnd Norris offered a blunt assessment when asked where McLaren were losing time to their rivals.\n“Every corner,” the Brit said. “I mean, just look at the GPS. You'll see how bad we are in Sector 1, Turn 1, Turn 2, Turn 3. It's like two-tenths every single lap.\n“If we're two-tenths off in the first three corners, it's impossible that you think we can even be close to the rest of the lap. I think the only corner I'm good at is Turn 7. That's it.”\nNext Up"
-    }
-   ]
-  },
-  {
-   "id": "c7a77abea15",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "Recap: How Binance’s record $6.3B hack unfolded",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded",
-     "title": "Recap: How Binance’s record $6.3B hack unfolded",
-     "lang": "en",
-     "extra": {},
-     "id": "7a77abea153dc6cd",
-     "published": "2026-10-30T16:53+00:00",
-     "text": "Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries.\nAll news, reviews, and analyses are produced with full journalistic independence and integrity. For more details on our standards and processes, please read our Editorial Policy."
-    },
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
-     "title": "Binance $6.3B record hack sparks pre-election political clashes",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg"
-     },
-     "id": "48d67ea6be4cb213",
-     "published": "2026-10-31T09:58+00:00",
-     "text": "Binance $6.3B record hack sparks pre-election political clashes\nSome political and administration figures tried to make hay of the biggest-ever crypto heist.\nSoon after the $6.3 billion hack of Binance, the biggest in crypto history, some political and administration figures began offering their opinions with a US election approaching on Nov. 3 and voting already having begun in many locations.\nPresident Donald Trump was asked at a news conference on Friday about the hack of Binance. “We don’t know. We’re looking at that, the hack with Binance. They’re saying they’re going to get it back, they’re saying they’re guaranteeing it,” he replied.\nThe crypto exchange said in a post on X late Friday that it would cover any losses. “We want to be clear about our commitment: Binance will absorb the financial impact of these stolen funds, not our users.” It added that about $3 billion of the stolen funds had already been frozen in various locations. On Saturday, Binance said it had already covered 90% of the impacted amount of the hacked loss.\nIt was not clear whether there was any immediate political advantage to be gained from the hack, which was widely attributed to a North Korean group, but Republican and Democratic sides began staking out positions almost immediately.\nWyoming Senator Cynthia Lummis, a Republican and longtime crypto advocate, cited the stalled Clarity Act in a Friday post on X. “Yesterday, hackers stole more than $6 billion from Binance in less than 4 hours, the biggest heist in history. The Clarity Act would have given crypto firms legal cover to freeze suspicious transactions the instant law enforcement calls. Every minute lost is money gone for good,” she wrote.\nClarity Act stalled over ethics provisions\nThe Senate on Sept. 15 failed to pass a cloture motion on the Clarity Act that would have established the country’s first regulatory framework for digital assets.\nThe bill had stalled over proposed ethics provisions that would restrict government officials and their families from issuing or profiting from digital assets while in office.\nThe Commodity Futures Trading Commission then submitted a regulatory action on Sept. 18 covering crypto asset transactions and markets for White House review, as the agency moved forward with its approach to overseeing the digital asset sector.\nCFTC Chair Michael Selig referred to crypto market regulation on Friday after the Binance hack, saying in a TV appearance: “This proves our exact point in proposing regulations for crypto markets. … The real issue here is that these are unregulated offshore exchanges and they don’t have the same sorts of safeguards that we have in our financial markets here in the United States.”\nStill, Democratic Representative Maxine Waters said in a Friday news release that “The reported $6.3 billion hack of Binance should be a wake-up call to anyone who thinks the cryptocurrency industry can operate without strong accountability. Yet, Trump and Congressional Republicans have been set on pushing a deregulatory agenda that weakens compliance mandates and oversight of the crypto industry, not to mention the Trump family’s own questionable ties to the company.”\nTrump family and Binance\nShe also commented on past relations between Binance and the Trump family, saying, “Remember that after Binance’s owner, Changpeng Zhao (CZ), gave over $2 billion to the Trump family’s World Liberty Financial, Trump’s Securities and Exchange Commission’s Chair Paul Atkins dropped the SE"
     }
    ]
   },
@@ -2700,43 +2844,6 @@
    ]
   },
   {
-   "id": "cf1eb9f9097",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
-     "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/fbi-decrypt-style-gID_7.jpg"
-     },
-     "id": "f1eb9f90974baba2",
-     "published": "2026-10-30T17:50+00:00",
-     "text": "In brief\n- Binance is working with the FBI and U.S. Secret Service after hackers stole $6.4 billion from the cryptocurrency exchange, according to Reuters.\n- Circle froze approximately $823 million in USDC connected to the attack, while Tether froze another $975.1 million in USDT. Circle CEO Jeremy Allaire said the company was coordinating with law enforcement.\n- Blockchain intelligence firms TRM Labs and Chainalysis attributed the attack to TraderTraitor, a North Korean hacking group previously linked to the $1.5 billion Bybit hack.\nBinance is working with the FBI and U.S. Secret Service after hackers stole $6.4 billion from the cryptocurrency exchange, as Circle joins the recovery effort by freezing more than $800 million in assets connected to the attack, according to Reuters.\nA person familiar with the matter told Reuters that Binance was cooperating with law enforcement agencies around the world, including both U.S. agencies. The FBI confirmed it was aware of the incident and was working with public and private partners to assess its scope and coordinate investigative steps. The Secret Service remained silent.\nInvestigating financial crimes is part of the Secret Service’s job, beyond its better-known responsibility of protecting the president. The agency also investigates computer crimes, unauthorized access to computer systems, and crimes involving digital currencies.\nCircle, the company behind USDC, a stablecoin designed to maintain a value of $1, has separately confirmed that it is coordinating with law enforcement. CEO Jeremy Allaire said the company had frozen more than $800 million in USDC associated with the Binance incident and would continue supporting the investigation.\nTether, which issues the competing USDT stablecoin, froze another $1.5 billion in tokens. Both companies can blacklist specific blockchain addresses, preventing the tokens they issue from being transferred out of those wallets. That ability gives stablecoin companies an unusual role in crypto investigations: they can effectively immobilize stolen money before investigators identify the people responsible.\nTether froze more than 1.567B USDT related to a potential Binance exchange hack.\nProtecting the industry and our partners is our main priority.\nStay safe everyone.\n— Paolo Ardoino 🤖 (@paoloardoino) October 29, 2026\nThis is not the first time the Secret Service has worked alongside crypto companies to investigate digital asset crimes. In April, Operation Atlantic—a joint effort involving the Secret Service, the U.K.'s National Crime Agency, Binance, Coinbase, and other crypto firms— identified more than 20,000 victims of approval phishing scams, traced $45 million in stolen funds and froze $12 million.\nThe Binance investigation also comes against the backdrop of a growing number of attacks attributed to North Korea. Blockchain intelligence firms TRM Labs and Chainalysis have both linked the $6.3 billion theft to TraderTraitor, a hacking group associated with the country's cyber operations. The same group has been linked to the $1.5 billion Bybit hack in February 2025, which the FBI also attributed to North Korean hackers.\nNorth Korean attackers have targeted Binance itself before, including through attempts to infiltrate the exchange by posing as job applicants. In an interview with Decrypt in 2025, Binance Chief Security Officer Jimmy Su said North Korean operatives were contacting employees on LinkedIn every day, sometimes using fake interviews to delive"
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446",
-     "title": "FBI accuses North Korea of Binance hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/bc8575bf0d416d34c9f249187acb27b8?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=263&width=862&height=485&imformat=generic"
-     },
-     "id": "f557515ed0172a50",
-     "published": "2026-11-01T01:48+00:00",
-     "text": "In short:\nThe FBI has blamed North Korean hackers for the Binance crypto hack.\nThis week, $US6.3 billion ($6.9 million) in bitcoin and other digital currency was stolen from the world's largest crypto exchange.\nWhat's next?\nBinance says it has enough funds to cover 90 per cent of the stolen assets.\nThe FBI has accused North Korea of stealing $US6.3 billion n ($6.9 million) in virtual assets from the cryptocurrency exchange Binance, in what is thought to be the biggest crypto heist in history.\nIn a statement, the US bureau said the North Korean state-sponsored unit known as TraderTraitor was responsible for the \"malicious cyber activity\".\nOn Thursday, $US6.3 billion in bitcoin and other digital currency was stolen from Binance, the world's largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe FBI's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90 per cent of what was stolen.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\n\"The FBI maintains its commitment to protecting the virtual asset community by identifying, mitigating, and disrupting North Korea's illicit cybercrime and virtual asset theft activities,\" it said.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called Ethereum.\nThe FBI said it expects TraderTraitor would now attempt to convert the assets using de-centralised finance (DeFi) and \"instant swap services\".\n\"It is expected these assets will then be further laundered,\" it said.\nThey are the same actors behind a $US1.5 billion Bybit hack last year.\n'Cat and mouse game' of tracking assets\nCrypto expert and chief policy officer at blockchain intelligence firm TRM Labs Ari Redbord said he expected the hackers would break the stolen assets into pieces and try to launder them through smaller exchanges to evade detection, a process that could unfold over months.\n\"It's bank robbery, in this case, at the speed of the internet,\"Mr Redbord said.\n\"However, we can also track and trace those funds in real time in order to build investigations, to disrupt and to seize back funds.\n\"It's just this cat and mouse game.\"\n90 per cent of assets recovered, Binance says\nOn Saturday, Binance said it had enough set aside in the same digital currency that was stolen, to cover 90 per cent of the missing assets.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said the outstanding 10 per cent consists of tokens that are less liquid, which means they may take longer to source in the required amounts.\nBinance suspended user withdrawals after the hack, but said in its latest update that they were on track to resume Sunday.\nReuters/AFP/AP"
-    }
-   ]
-  },
-  {
    "id": "c95ccc2631e",
    "kind": "news",
    "score": 11.0,
@@ -2812,6 +2919,52 @@
      "id": "ef63da5bd5b128b4",
      "published": "2026-10-31T03:22+00:00",
      "text": "submitted by\n/u/audai-i\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
+   "id": "c5e3aa82dc4",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "MacBook Pro With Touch Display: 15 More Details Revealed",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "MacRumors",
+     "trust": 2,
+     "url": "https://macrumors.com/2026/10/30/macbook-pro-proled-xdr-details",
+     "title": "MacBook Pro With Touch Display: 15 More Details Revealed",
+     "lang": "en",
+     "extra": {},
+     "id": "5e3aa82dc4b4889b",
+     "published": "2026-10-30T18:59+00:00",
+     "text": "Apple on Wednesday unveiled new 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays, and more details about them continue to be shared by tech reporters who were invited to Apple's hands-on experience in Los Angeles.\nNicolas Lellouche of the French website Numerama shared 15 details about the new MacBook Pro models in an article and a social media post. Some of this information has already surfaced, but he provided a useful summary:\n- Apple said the keyboard and trackpad remain the primary input methods, with touch input available as an additional option for those who want it.\n- Apple said there is now a generation of young creators who grew up using touchscreens, so it felt the timing was right to bring the functionality to the Mac.\n- Apple said music creators prefer touch over trackpads for controlling virtual instruments.\n- \"Traffic light\" controls in the top-left corner of macOS windows expand when pressed.\n- Items in a list become more spaced out when touched.\n- A swipe up from the bottom of the screen brings up the Dock.\n- A swipe down from the top of the screen brings up Spotlight/Siri AI.\n- A long press is equivalent to a right click.\n- Holding a window and quickly moving it left or right triggers Split View.\n- If you close your Mac while your finger is touching the display, touch input is temporarily deactivated to prevent accidental touches.\n- The camera is stabilized so it does not shake on video calls when you touch the screen.\n- You cannot wake the MacBook Pro by touching the screen.\n- Multi-touch supports up to 10 fingers at the same time. No word yet on toes (kidding).\n- Live Activities from iPhone apps can appear in the Dynamic Island.\n- There are settings that allow you to turn off touch input and the illuminated Apple logo on the MacBook Pro's lid.\nThe new MacBook Pro models can be pre-ordered now and launch Friday, November 6.\nThis article, \"MacBook Pro With Touch Display: 15 More Details Revealed\" first appeared on MacRumors.com\nDiscuss this article in our forums"
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate",
+     "title": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
+     "lang": "en",
+     "extra": {},
+     "id": "898c5560f4a9d8d3",
+     "published": "2026-10-31T19:49+00:00",
+     "text": "Apple just unveiled the new MacBook Pro with PROLED XDR, its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year, there’s also a number of new optimizations that were unveiled alongside the new MacBook Pro. Here’s what Apple worked on.\nmore…"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlk0QzlIMXEyRWtpQVBDOFNRX1VJSWk3YV9oNVFJbUItNm1SVDJIRVZEWjc1WFFBNDY2eVd6cHVCV3pWU1pyaWVDVnpoZE9tOHN2dk13R3QxaVpLclNncU50M0w3VmlocGcxdld0ZVVJbnJsNXBnRXp3TGRnNDdkZkZxb2RRTnV4b1IzWQ?oc=5",
+     "title": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch - 9to5Mac",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "3d68b2d33e50943f",
+     "published": "2026-10-31T20:49+00:00",
+     "text": "- Here’s how the new MacBook Pro and macOS 27 are optimized for touch 9to5Mac\n- Apple’s new laptop supports one of the coolest features for color pros The Verge\n- The Touchscreen MacBook Is Here. For Me, It’s Wait Till Next Year CNET\n- Steve Jobs Told Tim Cook Never to Ask This 1 Question. Apple's New Touchscreen Mac Explains Why Inc.com\n- Apple releases new touch screen laptop: Here's what consumers need to know ABC News - Breaking News, Latest News and Videos"
     }
    ]
   },
@@ -3046,6 +3199,30 @@
      "id": "8f5ebd02c3563093",
      "published": "2026-10-31T16:12+00:00",
      "text": "- OpenAI reportedly lowers funding target for new round TechCrunch\n- OpenAI slashes funding target by $10bn as tech anxieties mount Financial Times\n- OpenAI pares fundraising goal, now seeking up to $20 billion in latest round CNBC\n- AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow and spending Fortune\n- OpenAI Lowers Fundraising Target–After Decreasing Possible Valuation The Information"
+    }
+   ]
+  },
+  {
+   "id": "c48d67ea6be",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Binance $6.3B record hack sparks pre-election political clashes",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Cointelegraph",
+     "trust": 2,
+     "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
+     "title": "Binance $6.3B record hack sparks pre-election political clashes",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg"
+     },
+     "id": "48d67ea6be4cb213",
+     "published": "2026-10-31T09:58+00:00",
+     "text": "Binance $6.3B record hack sparks pre-election political clashes\nSome political and administration figures tried to make hay of the biggest-ever crypto heist.\nSoon after the $6.3 billion hack of Binance, the biggest in crypto history, some political and administration figures began offering their opinions with a US election approaching on Nov. 3 and voting already having begun in many locations.\nPresident Donald Trump was asked at a news conference on Friday about the hack of Binance. “We don’t know. We’re looking at that, the hack with Binance. They’re saying they’re going to get it back, they’re saying they’re guaranteeing it,” he replied.\nThe crypto exchange said in a post on X late Friday that it would cover any losses. “We want to be clear about our commitment: Binance will absorb the financial impact of these stolen funds, not our users.” It added that about $3 billion of the stolen funds had already been frozen in various locations. On Saturday, Binance said it had already covered 90% of the impacted amount of the hacked loss.\nIt was not clear whether there was any immediate political advantage to be gained from the hack, which was widely attributed to a North Korean group, but Republican and Democratic sides began staking out positions almost immediately.\nWyoming Senator Cynthia Lummis, a Republican and longtime crypto advocate, cited the stalled Clarity Act in a Friday post on X. “Yesterday, hackers stole more than $6 billion from Binance in less than 4 hours, the biggest heist in history. The Clarity Act would have given crypto firms legal cover to freeze suspicious transactions the instant law enforcement calls. Every minute lost is money gone for good,” she wrote.\nClarity Act stalled over ethics provisions\nThe Senate on Sept. 15 failed to pass a cloture motion on the Clarity Act that would have established the country’s first regulatory framework for digital assets.\nThe bill had stalled over proposed ethics provisions that would restrict government officials and their families from issuing or profiting from digital assets while in office.\nThe Commodity Futures Trading Commission then submitted a regulatory action on Sept. 18 covering crypto asset transactions and markets for White House review, as the agency moved forward with its approach to overseeing the digital asset sector.\nCFTC Chair Michael Selig referred to crypto market regulation on Friday after the Binance hack, saying in a TV appearance: “This proves our exact point in proposing regulations for crypto markets. … The real issue here is that these are unregulated offshore exchanges and they don’t have the same sorts of safeguards that we have in our financial markets here in the United States.”\nStill, Democratic Representative Maxine Waters said in a Friday news release that “The reported $6.3 billion hack of Binance should be a wake-up call to anyone who thinks the cryptocurrency industry can operate without strong accountability. Yet, Trump and Congressional Republicans have been set on pushing a deregulatory agenda that weakens compliance mandates and oversight of the crypto industry, not to mention the Trump family’s own questionable ties to the company.”\nTrump family and Binance\nShe also commented on past relations between Binance and the Trump family, saying, “Remember that after Binance’s owner, Changpeng Zhao (CZ), gave over $2 billion to the Trump family’s World Liberty Financial, Trump’s Securities and Exchange Commission’s Chair Paul Atkins dropped the SE"
     }
    ]
   },
@@ -3335,30 +3512,6 @@
    ]
   },
   {
-   "id": "c22fe295033",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them — and tells junior engineers that 'hunger beats tenure'",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "TechRadar",
-     "trust": 2,
-     "url": "https://techradar.com/pro/anthropic-hiring-manager-says-he-stopped-giving-coding-interviews-because-claude-is-better-at-them-and-tells-junior-engineers-that-hunger-beats-tenure",
-     "title": "Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them — and tells junior engineers that 'hunger beats tenure'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/SQriLkNFMAWuNK8Fz7yhFL-1920-80.jpg"
-     },
-     "id": "22fe29503302cf8c",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "- Anthropic hiring manager Felix Rieseberg reveals that coding interviews are over\n- In a blog post, the engineering manager explains that Claude codes better, making coding tasks obsolete\n- Rieseberg encourages junior engineers to approach their work with a new attitude, while he examines a way to interview people who are good at AI coding\nThe end is nigh for coding tasks in interviews, certainly as far as Anthropic is concerned.\nThe AI company’s engineering manager Felix Rieseberg has published a blog post explaining how junior engineers should approach jobs and their current roles, after announcing the abandonment of coding interviews.\nHis rationale for the decision is straightforward: AI codes better than humans, making the assessment pretty pointless. At a time when Claude can demonstrate a superior grasp of coding, putting job candidates through the process no longer reveals anything “meaningful about the candidates,” according to Rieseberg.\nInstead, he advises that junior engineers should focus instead on making an impact, while taking the time to understand the company and the people working within it.\nNo code candidates\nRieseberg is quick to the point: “This month, I laid the traditional coding interview to rest. As a hiring manager at Anthropic, I stopped asking candidates to do them.”\nHe explains that while coding challenges in interviews were once useful, that is no longer the past. “There’s no more point in giving you a little React challenge than there is in quizzing people about assembly; Claude is now better at both.”\nInstead, Rieseberg offers some anecdotes of people who were active agents of change when joining new companies, and suggests making an impact is the answer. Radical ideas and a weekend coding a prototype with AI are the new coding interview, essentially, approaching being hired with a demonstration of the project they prompted and finessed, and its outcome.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\n“Sheer ignorance”\nRieseberg’s decision may have come out of the blue, but his rationale seems to make some sort of sense. He quotes actor and director Orson Welles, who responded to a question about his confidence to try new things with “Ignorance, sheer ignorance — you know there’s no confidence to equal it. It’s only when you know something about a profession, I think, that you’re timid or careful.”\nWith that as context, Rieseberg’s conclusion that coding interviews are not the answer when the company product already codes better than anyone it can hire has legs. Perhaps it was inevitable that the day would come, but crucially, Rieseberg isn’t giving up on hiring. Instead, he’s looking for a new way to do it, a route to finding new junior engineers without them needing a coding assessment.\n“I’m probably not the only manager trying to figure out how to interview for people who build well with AI. I haven’t quite gotten there yet — but I’m scanning resumes and portfolios for little prototypes that exhibit taste, empathy, and principled thinking.”\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nChristian Cawley has extensive experience as a writer and editor in consumer electronics, IT and entertainment media. He has contributed to TechRadar since 2017 and has been published in Computer Weekly, Linux Format, ComputerActive, and other publications.\nHe cur"
-    }
-   ]
-  },
-  {
    "id": "ce88f55a042",
    "kind": "news",
    "score": 11.0,
@@ -3416,6 +3569,41 @@
      "id": "b662141237178445",
      "published": "2026-11-01T04:03+00:00",
      "text": "Tom Hanks returned to “Saturday Night Live” on Halloween night to revive his lounge-y David S. Pumpkins character in a cold open that skewered President Trump’s increasingly bizarre comments on the stump and his fixation with men’s physiques.\nThe segment also featured Saidah Belo-Osagie as Nicki Minaj in a spoof of the star’s vocal support for Trump and his MAGA movement. The bit cast Minaj as Trump’s next choice for press secretary, on the heels of Katie Zacharia’s spectacularly quick flame-out in the job earlier this month.\nThe segment opened with Grace Reiter and Jeremy Culhane as a young couple taking a ride at a low-end amusement park Halloween celebration. Kenan Thompson then pops up in a ghoulish Grim Reaper costume to guide the couple through a series of scary scenes. Pumpkins, the character that Hanks first limned for the show in 2016, popped in with a dorky dance routine accompanied by Mikey Day and a special cameo appearance by former “SNL” trouper Bobby Moynihan. Day and Moynihan wore full-body skeleton jumpers with white face paint.\nAs the ride continued, James Austin Johnson turned up as President Trump, who stepped in to interrupt the ride and lament about Republicans’ being poised for a thumping in the Nov. 3 midterm election. The segment then went into a string of surprisingly risque jokes about Trump’s unusual obsession with the butts of candidates that he has been endorsing as he’s hosted a string of campaign rallies in recent weeks.\n“We both appeared in 2016. We’re both very loud, very orange and, frankly, very annoying,” Johnson as Trump said. “Good acting, great ass. A great ass on Hanks — something that I’ve enjoyed lately admiring. Not that there’s anything wrong with that. Just that I might be gay.”\nTrump then whined that “the midterms are on Tuesday. The polls say we’re doing very badly — aww aww. They’re saying Texas is turning purple, just like my hand.” Johnson then raised his hand to show a gigantic bruise. Johnson as Trump called Texas’ GOP candidate for the U.S. Senate, Ken Paxton, “an ugly son of a bitch” but urged voters to chose him over Democrat James Talarico. Trump acknowledged that Talarico is “much better looking. What a dynamic ass.”\nAs Trump spoke, the other players in the scene were in freeze mode. Thompson’s Grim Reaper character broke from the scene and rushed past Johnson as Trump. Trump calls out “thank you for that donation” to which Thompson replies, “Yeah, you wish, bitch.”\nBelo-Osagie barrels in to the segment as Minaj toward the end as Trump hails her devotion to the cause. “Trump’s out here killing it — and by it, I mean my career,” Belo-Osagie as Minaj says. Trump notes that Minaj is well-known for her curvy rear-end: “Perhaps if it was on a man, I could admire it,” Johnson as Trump says.\nIn closing, Trump brings out Zacharia who flubs her attempt to deliver the signature “SNL” opening line, “Live from New York it’s Saturday night.”\nThe Halloween installment of “SNL” is hosted by “Obsession” star Inde Navarrette, with Gracie Abrams serving as musical guest."
+    }
+   ]
+  },
+  {
+   "id": "c92116f74b7",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "North Korea tests cluster bomb warheads in latest ‘major’ weapons test",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/news/2026/11/01/asia-pacific/north-korea-cluster-bomb-warhead",
+     "title": "North Korea tests cluster bomb warheads in latest ‘major’ weapons test",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571673.JPG?v=3.1"
+     },
+     "id": "92116f74b7ce406d",
+     "published": "2026-11-01T04:12+00:00",
+     "text": "North Korea said Sunday that it had tested cluster-bomb warheads for its tactical ballistic missiles a day earlier, the latest in a spate of weapons tests by the nuclear-armed country.\nDefense officials said the test “confirmed that the Standard Type 2 cluster-bomb warhead is capable of turning into ashes a target area of 12 to 13 hectares with its highest-density power,” the North’s official Korean Central News Agency said in a report.\nImages accompanying the report — which framed the event as a “major” weapons test — showed Hwasong-11D short-range ballistic missiles being fired, with the cluster warheads slamming into an island target.\nThe North’s Missile Administration called the test “a part of regular scientific research activities aimed at boosting the power of combat systems.”\n“We classify the cluster-bomb warheads into four categories according to special and standard purposes. Within this year we will enable units to select and use all those types according to operational aims and specific features of targets,” KCNA cited the unnamed general director of the North’s Missile Administration as saying.\nNorth Korean leader Kim Jong Un did not attend the test, which was overseen by Gen. Kim Jong Sik, a high-ranking official involved in developing the country’s munitions program.\nLast week, the North Korean leader called for his country to seize “absolute superiority” in drone technology as he attended an exhibition and demonstration of uncrewed aeronautical technology, including advanced tech that Pyongyang says employs artificial intelligence.\nEarlier this month, the North said it had tested a “new-type” precision-guided torpedo system that uses AI for target detection and guidance after claiming a successful test of two types of cruise missiles from a submarine.\nThe cluster warhead test also came amid heightened tensions between the two Koreas, with South Korea confirming the unusual conspicuous presence of a North Korean artillery piece positioned at the heavily armed border last week.\nPyongyang could be looking to build up its leverage by conducting the weapons tests ahead of any potential meeting between leader Kim and U.S. President Donald Trump at the Asia-Pacific Economic Cooperation summit in Shenzhen, China, later this month.\nTrump has repeatedly raised the prospect of such talks, though Kim has yet to publicly respond to his entreaties.\nOn Saturday, the United States, South Korea and Japan reaffirmed their commitment to the North’s “complete denuclearization,” as Pyongyang continues to reject its disarmament.\nNorth Korea has enshrined its status as a nuclear-armed state in law, and Kim and other top officials have said the idea of relinquishing its nukes is off the table.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/asia-pacific/north-korea-tests-tactical-ballistic-missile-cluster-warhead/4107710",
+     "title": "North Korea tests tactical ballistic missile cluster warhead",
+     "lang": "en",
+     "extra": {},
+     "id": "37438fb4ad6bc916",
+     "published": "2026-11-01T04:39+00:00",
+     "text": "Pyongyang says warhead can devastate target area of nearly 32 acres"
     }
    ]
   },
@@ -3593,30 +3781,6 @@
    ]
   },
   {
-   "id": "ca12e61cbac",
-   "kind": "news",
-   "score": 10.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "APOD: 2026 November 1 – Colors of the Moon",
-   "official_image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-   "sources": [
-    {
-     "source": "NASA",
-     "trust": 3,
-     "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon",
-     "title": "APOD: 2026 November 1 – Colors of the Moon",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg"
-     },
-     "id": "a12e61cbacf87776",
-     "published": "2026-11-01T04:05+00:00",
-     "text": "Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.\nColors of the Moon\nExplanation: What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles. What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow, appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?"
-    }
-   ]
-  },
-  {
    "id": "c389ff5facd",
    "kind": "news",
    "score": 10.0,
@@ -3733,89 +3897,6 @@
    ]
   },
   {
-   "id": "cd76c89e8e6",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "BYD reveals a flashy new feature on its upcoming luxury EV",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Electrek",
-     "trust": 2,
-     "url": "https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev",
-     "title": "BYD reveals a flashy new feature on its upcoming luxury EV",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-luxury-EV-suicide-doors.jpeg?quality=82&strip=all&resize=1200,628"
-     },
-     "id": "d76c89e8e6d9053c",
-     "published": "2026-10-30T20:19+00:00",
-     "text": "BYD is moving upmarket with its new flagship EV, featuring suicide doors, a gemstone grille, and possibly solid-state batteries.\nBYD previews Yangwang Altior suicide doors and grille\nYangwang is like BMW’s Rolls-Royce and Mercedes-Maybach, sitting at the very top of BYD’s brand hierarchy.\nThe ultra-luxury brand offers BYD’s most high-end and technically advanced vehicles, including the U7 sedan, the U8, a hardcore off-road SUV, and the U9, an electric supercar.\nYangwang vehicles have previously debuted with BYD’s latest breakthrough tech, including its quad-motor e4 platform (delivering over 1,300 hp), its second-generation Blade Batteries and Flash Charging, and its DiSus-X intelligent body control system.\nIts next model will push further into the elite segment. After BYD revealed the name of its new flagship executive sedan earlier this week, the Yangwang Altior, the company has released several new details ahead of its official debut.\nYangwang general manager Hu Xiaoqing confirmed on Friday that the new Yangwang Altior will feature suicide doors, a first for a BYD model.\nThe new door design swings open nearly 90 degrees, Hu said, creating a dramatic, wide-open entrance.\nHu also posted a preview of the vehicle’s front fascia, complete with a dot-matrix Gemstrone grille and crystal-inspired headlights.\nBYD has not confirmed many details, but the ultra-luxury sedan is expected to be about 5,500 mm (216″) in length.\nImages of the disguised vehicle released last month show a similar shape and size to the Mercedes-Benz Maybach S-Class or Rolls-Royce Phantom.\nHU said last week that the global launch of the new flagship sedan will take place in the UAE, not in BYD’s home market of China.\nBYD has not revealed an official date, but according to CarNewsChina, citing “sources familiar with the project,” BYD aims to unveil the new flagship model in Dubai, UAE, around November 5.\nThe Yangwang Altrio will feature “unprecedented disruptive technology,” Zheng Yu, Yangwang’s executive general manager, said.\nIn one image, the vehicle was charging at a BYD Flash Charge station, suggesting it will use its Blade Battery 2.0 and 5-minute Flash Charging technology.\nTop comment by Andrea\nThere are companies showcasing flying cars designed specifically for circus-style shows, while others are launching solid-state batteries that can recharge in five minutes.\nI find myself wondering—though perhaps not too deeply—which of these technologies will secure the largest customer base and generate the greatest returns for shareholders.\nOutside of the suicide doors, rumors suggest the flagship model will be BYD’s first vehicle to use solid-state batteries. Executive vice president Stella Li said during an interview with Carwow.es last month that BYD’s first vehicle to use solid-state batteries will debut in 2027.\nThe executive sedan is expected to debut around November 5. Prices are rumored to start in the 2 million yuan range, or about $300,000.\nYangwang’s current electric sedan, the U7, starts at 658,000 yuan ($98,000). The extended U8L, on the other hand, is the brand’s highest-priced mass-produced vehicle, starting at 1.45 million yuan ($217,000).\nComments"
-    }
-   ]
-  },
-  {
-   "id": "cab6a3d6f8f",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "India launches next-gen navigation satellite to orbit (video)",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
-     "title": "India launches next-gen navigation satellite to orbit (video)",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/tSwfy5XpAPEB3fe7ucbgqR-2560-80.jpg"
-     },
-     "id": "ab6a3d6f8f007f8e",
-     "published": "2026-10-30T20:29+00:00",
-     "text": "India bolstered its homegrown satellite-navigation system today (Oct. 30).\nA GSLV Mark II rocket launched the nation's NVS-03 satellite from Satish Dhawan Space Centre today at 2:21 p.m. EDT (1821 GMT and 11:51 p.m. India Standard Time).\nEverything went well: The rocket deployed NVS-03 into geostationary transfer orbit as planned, officials with the Indian Space Research Organisation (ISRO) announced on X about 30 minutes after liftoff.\nNVS-03 is the third next-gen satellite that India has launched for the Navigation with Indian Constellation (NavIC), its version of the United States' Global Positioning System (GPS).\nNavIC operates on a smaller scale than its American counterpart, however. It's \"a regional navigation satellite system designed to provide accurate Position, Navigation and Timing (PNT) service to users in India as well as the region extending about 1,500 km [930 miles] beyond the Indian landmass, which is its primary service area,\" ISRO officials wrote in the NVS-03 launch brochure.\nThe Indian constellation currently consists of three fully functioning satellites, and it requires four to provide PNT services. So today's launch was a big deal — and a lot of eyes will be watching NVS-03's commissioning and checkout phase.\nToday's launch was the 14th to date for the GSLV (Geosynchronous Satellite Launch Vehicle) Mark II, a three-stage rocket that stands 170 feet (52 meters) tall. Twelve of those 14 liftoffs have been successful.\nThe GSLV Mark II debuted in 2010, the same year its predecessor retired. That previous launchers, the Mark I, flew a total of six times, with two failures.\nNVS-03 was the fourth Indian launch of 2026 and the third operated by ISRO. The fourth was mounted by Skyroot Aerospace, which in July became the first Indian company ever to successfully reach orbit.\nMichael Wall is the Spaceflight and Tech Editor for Space.com and joined the team in 2010. He primarily covers human and robotic spaceflight, military space, and exoplanets, but has been known to dabble in the space art beat. His book about the search for alien life, \"Out There,\" was published on Nov. 13, 2018. Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist. He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelor's degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz. To find out what his latest project is, you can follow Michael on Twitter.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
-    }
-   ]
-  },
-  {
-   "id": "ca0aab801c1",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NYT Technology",
-     "trust": 2,
-     "url": "https://nytimes.com/2026/10/30/technology/house-democrats-openai-copyright-lawsuit.html",
-     "title": "House Democrats Criticize Justice Dept. Support of OpenAI in Copyright Suit",
-     "lang": "en",
-     "extra": {},
-     "id": "a0aab801c1b117b3",
-     "published": "2026-10-30T20:30+00:00",
-     "text": "In a court filing, top Democrats on the Judiciary Committee indicated their support for publishers in a lawsuit led by The New York Times."
-    },
-    {
-     "source": "The Next Web",
-     "trust": 2,
-     "url": "https://thenextweb.com/news/openai-whistleblowers-house-democrats-casar-letter",
-     "title": "Twenty House Democrats press OpenAI over fired safety researchers",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.thenextweb.com/2026/10/openai-logo-silhouette-hand-smartphone.jpg"
-     },
-     "id": "7ed378268879c756",
-     "published": "2026-10-31T20:55+00:00",
-     "text": "Twenty House Democrats have asked OpenAI chief executive Sam Altman to promise not to fire OpenAI whistleblowers who share safety information. They also want OpenAI to keep its pause on its most capable models until independent oversight is in place.\nRepresentative Greg Casar of Texas led the letter, dated 29 October. It asks OpenAI to answer 11 sets of questions by 13 November.\n“We are writing to express concern over your decision to fire apparent whistleblowers at your company for sharing information with an outside AI safety group, even as your company continues to experience a slew of cybersecurity incidents,” the lawmakers wrote.\nThe three fired researchers\nThe letter names the researchers as Tomek Korbak, Mikita Balesni and Jasmine Wang. OpenAI reportedly fired them after it checked their personal phones. It found disappearing messages turned on in their Signal chats with Ryan Greenblatt, then a researcher at Redwood Research. TNW covered the firings last week.\nOpenAI has said it fired them for breaking its rules on sensitive information, not for raising safety concerns, the letter notes. The researchers say they never shared OpenAI’s confidential information with anyone outside the company.\nThe lawmakers ask what the three shared, with whom, and why that was a fireable offence. They also ask whether OpenAI has fired anyone else for raising safety concerns. The question also covers staff who talked to safety groups or oversight bodies.\nHugging Face and the pause\nTwo OpenAI employees warned executives months before the Hugging Face breach, the letter says. They said OpenAI was not monitoring its newest models properly in testing. Executives replied that the tests had to move fast so the models could ship on time, the letter says, citing The New York Times. OpenAI’s 31 August reply to an earlier letter from Casar did not mention those warnings, the lawmakers wrote.\n“These incidents appear to stem from alignment issues with your models,” the lawmakers wrote.\nAccording to the letter, OpenAI has paused training, testing and tool use for its most capable models. OpenAI has said it will resume only when it is confident that more safeguards are in place, the letter says. The lawmakers ask which models the pause covers and when testing will resume.\nThey also want a list of every security incident OpenAI is investigating. And they ask whether OpenAI can stop its models when they act without permission.\nWhat OpenAI published the same day\nAlso on 29 October, OpenAI published a post on how it now monitors its frontier models. It said it had replayed the Hugging Face incident with its expanded monitors in place. In that test, the monitors alerted its security team about 30 minutes after the agents first escaped their sandbox. That was more than 30 hours before the breach at Hugging Face.\n“We believe that this warning would have given our responders time to interrupt the activity well before our models were able to access external services,” OpenAI wrote.\nAlerts can page staff at any hour for frontier training runs, but only in business hours for most other work, OpenAI said. OpenAI has switched paging off for internal Codex traffic. An outside review by METR and Redwood Research found weak spots in the system in July and August. OpenAI said it has fixed most of them and one fix is still in progress.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
-    }
-   ]
-  },
-  {
    "id": "market-2026-11-01",
    "kind": "market",
    "score": 0,
@@ -3827,15 +3908,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-01/04",
+     "url": "https://market.local/crypto/2026-11-01/05",
      "title": "Market snapshot crypto 2026-11-01",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T04:52+00:00",
-     "text": "Bitcoin: $77,747 (+0.9% 24h)\nEthereum: $2,266 (+1.3% 24h)\nSolana: $95.48 (-0.2% 24h)\nToncoin: $1.21 (+1.5% 24h)"
+     "published": "2026-11-01T05:22+00:00",
+     "text": "Bitcoin: $77,744 (+0.8% 24h)\nEthereum: $2,266 (+1.2% 24h)\nSolana: $95.50 (-0.5% 24h)\nToncoin: $1.21 (+1.7% 24h)"
     }
    ]
   },
