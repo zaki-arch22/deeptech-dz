@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T20:37:28+00:00",
+ "generated_at": "2026-11-01T21:07:34+00:00",
  "clusters": [
   {
    "id": "cb8087c5f39",
@@ -1407,6 +1407,89 @@
    ]
   },
   {
+   "id": "c2953c1a7a8",
+   "kind": "news",
+   "score": 19.0,
+   "sensitive": true,
+   "distinct_sites": 6,
+   "title_hint": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+     "lang": "en",
+     "extra": {},
+     "id": "2953c1a7a88a4714",
+     "published": "2026-11-01T18:00+00:00",
+     "text": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.\n(Image credit: Alex Brandon)"
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
+     "title": "US judge dismisses Trump election lawsuit in Alaska",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "b5b3a883ba457a8c",
+     "published": "2026-11-01T18:29+00:00",
+     "text": "US judge dismisses Trump election lawsuit in Alaska\nReuters"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
+     "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20220913__1423463527__v2__HighRes__PelosiHoldsCeremonialSwearingInForMembersEle-2-1786989788.jpg?resize=1200%2C630"
+     },
+     "id": "7dcc0c21672cab64",
+     "published": "2026-11-01T18:37+00:00",
+     "text": "Republican Senator Dan S. Sullivan has vowed to accept the election outcome days after the United States Department of Justice filed a lawsuit seeking to decertify the results of the upcoming US Senate race there if the Republican incumbent loses.\n“I’m going to accept the election results,” Sullivan, an ally of US President Donald Trump, told CNN on Sunday.\nRecommended Stories\nlist of 4 items- list 1 of 4US Attorney General Todd Blanche defends Alaska Senate election lawsuit\n- list 2 of 4‘If they’re honest’: Trump casts latest suspicion on US midterm elections\n- list 3 of 4Republican governor of Alaska orders investigation into ‘spoiler candidate’\n- list 4 of 4Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?\nSullivan’s promise comes just two days before the November 3 midterm election, which will determine control of the US Congress.\nHe said he was confident of winning, accusing his Democratic opponent Mary Peltola, who is attempting to unseat him, of cheating.\n“My opponent and [Senate Minority Leader Chuck] Schumer and his aides are showing complete disrespect for Alaskans, complete disdain in recognising that they couldn’t run on their record, so they had to cheat. And now that that’s been exposed,” he said.\nA New York Times report on Wednesday alleged that members of Peltola’s campaign helped recruit a retired teacher named Dan J Sullivan Jr to run for the Senate seat as a spoiler candidate in an attempt to draw votes away from Senator Sullivan.\nThe report seems to have prompted the Trump administration’s renewed legal push to bar Alaska from certifying its election results, should Senator Sullivan lose.\nOn Sunday, US District Court Judge Sharon Gleason dismissed the lawsuit, citing it as “infeasible” because many voters had already cast their ballots and the ballots have now been commingled to the point where the identity of each voter cannot be determined.\n“More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified “investigation” of those ballots in a manner that would preserve voter secrecy,” she wrote.\nThe second Sullivan is listed on the ballot as Daniel J Sullivan Jr, while the senator is listed as Dan S Sullivan and marked as a Republican incumbent.\nPeltola has insisted she had nothing to do with recruiting the other Sullivan and has called attention to it a “distraction” from the main issues facing Alaskans — namely, high prices caused by US-Israel war on Iran. Her campaign has also denied involvement.\nBefore a rally on Friday, Peltola was asked whether someone on her campaign could have been involved in recruiting the other Sullivan. “I have no idea,” she told KTUU. “I honestly have no idea.”\nSenator Sullivan doubted Peltola’s claims.\n“There is no way this went on for a year that they weren’t informing her,” Sullivan told the CNN news programme State of the Union. “She got caught lying, and she’s still lying to the Alaskan people, the media, to all of us.”\nAlaska’s Senate race is one of seven key toss-ups that will likely decide whether Republicans keep their majority in the US Congress’s upper chamber.\nBoth candidates have spent the final days campaigning through Alaska’s vast landscape.\nOn Saturday night, Senator Sullivan handed out candy at a “trunk-or-treat” event at a recreation centre north of Anchorage, where he quipped his costume was “the real Dan Sulliva"
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838",
+     "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
+     "lang": "en",
+     "extra": {},
+     "id": "ea619852ed254619",
+     "published": "2026-11-01T19:03+00:00",
+     "text": "A federal judge in Alaska dismissed the Trump’s civil lawsuit against the state, which sought to separate and preserve certain ballots in the state’s upcoming Senate election"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan",
+     "title": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/3375f8fe-9dad-415e-8815-649c695c1025/thumbnail/1200x630/c1c6754a2d2ec1db4685058b876cdbe8/ap26305115849912.jpg"
+     },
+     "id": "9a607f982e3964ea",
+     "published": "2026-11-01T19:04+00:00",
+     "text": "A federal judge in Alaska has thrown out the Trump administration's lawsuit seeking to\nof the state's Senate election results in this week's midterm elections if the Republican incumbent Sen. Dan Sullivan loses.U.S. District Judge Sharon L. Gleason wrote in a 20-page order Sunday that the Justice Department did not have proper legal standing to bring the last week. The suit asked Gleason to block the state's election results from being certified because a teacher named Daniel J. Sullivan is also on the state's ballot, alleging that his candidacy deliberately sought to confuse voters by running with the same ballot name and party affiliation as the state's incumbent senator.\nThe Justice Department argued that Daniel J. Sullivan's name on the ballot potentially diverted voters, and the Democrat running in the race, Mary Peltola, would benefit as a result.\nGleason said she could not grant the injunction that the Trump administration sought \"because the United States has failed to establish the redressability prerequisite for Article III standing.\"\n\"More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified 'investigation' of those ballots in a manner that would preserve voter secrecy,\" Gleason wrote, adding that the Justice Department \"failed to satisfy its burden to show that its alleged injury is redressable by a court order.\"\nA Justice Department spokesperson did not immediately respond to a request for comment.\nThe suit, which argues Sullivan's candidacy violates the National Voter Registration Act, was amended on Thursday to include recent reporting by The New York Times on alleged efforts by people associated with Peltola's campaign to find candidates who could draw votes away from the Republican senator. It included a second claim for relief, arguing the court needs to intervene under the Constitution's Supremacy Clause in order to allow the government to enforce the law and prevent a \"conspiracy.\"\nPeltola's campaign responded to the Times story by saying the campaign \"has no involvement with either Sullivan campaign.\"\n\"I am not interested in tricking voters,\" Peltola said during a recent campaign event.\nSen. Sullivan on Sunday told CNN's \"State of the Union\" that he thought the presence of a second Sullivan on the ballot would impact the election, saying: \"I'm sure I'm going to lose a lot of votes to that trickery.\"\nHe also said he doubted Peltola's claims that she had no idea her top political aides were involved in recruiting Dan J. Sullivan to run as a way to confuse voters.\n\"There is no way this went on for a year that they weren't informing her,\" Sullivan said. \"She got caught lying, and she's still lying to the Alaskan people, the media, to all of us.\"\nIn addition to the civil lawsuit, the Justice Department is also criminally investigating an alleged plot to add Daniel J. Sullivan to the state's ballot and has issued subpoenas targeting several Democratic officials believed to be tied to the effort to recruit him to appear on Alaska's ballot. Nobody in the race has been charged with a crime."
+    },
+    {
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://newsweek.com/judge-trump-alaska-senate-election-dan-sullivan-12647199",
+     "title": "Trump Bid to Block Alaska Senate Results Rejected by Obama-Appointed Judge",
+     "lang": "en",
+     "extra": {},
+     "id": "c1e4c99c84ca9537",
+     "published": "2026-11-01T20:55+00:00",
+     "text": "An Obama-appointed judge rejected Trump’s bid to block Alaska Senate results if Republican Dan Sullivan loses."
+    }
+   ]
+  },
+  {
    "id": "cd15b79a959",
    "kind": "news",
    "score": 18.5,
@@ -1857,78 +1940,6 @@
      "id": "20e384df1ab7a825",
      "published": "2026-11-01T16:02+00:00",
      "text": "The action genre has been led by some Hollywood royalty, and that includes Denzel Washington. With movies such as Taken and John Wick, the genre continues to evolve, but there are some movies that have paved the way for what is known as action in 2026. Washington has had a lengthy career spanning over five decades, winning two Academy Awards, a Tony Award, and box office earnings surpassing $5.1 billion.\nWith Washington's extensive and impressive career, the actor has a long list of impressive and award-winning movies under his belt. One of those includes the star-studded action thriller Man on Fire released in 2004. The movie follows John Creasy, an assassin in Mexico, who is hired as a bodyguard, a job he does not want to accept. However, he agrees and promises to take revenge on the kidnapper of the child from the family he is protecting. The cast includes Dakota Fanning, Christopher Walken, Radha Mitchell, Mickey Rourke, Marc Anthony, and many more.\nDenzel Washington's Man On Fire Is Now Free To Stream\nMan on Fire, directed by Tony Scott, is based on the 1980 novel written by A.J. Quinnell. The original was set in Italy and highlighted the area, which was a major hotspot for kidnappings at the time. Washington's adaptation is the second to stem from Quinnell's novel, and the first was released in 1987. The first movie was directed by Élie Chouraqui and starring Scott Glenn as John Creasy and Joe Pesci.\nAfter seemingly being unavailable to stream on any of the major streaming giants, Man on Fire is back in action. The action thriller is now available on Pluto TV and is available to watch for free with ads. Pluto TV has 100s of free live TV channels and 1000s of free popular movies and shows that you can stream at any time, making it the perfect home for those who want to watch Washington's movies again and again.\nMan On Fire's Reboot Proves It's An Action Worth Remembering\nThe story of Man on Fire didn't end with Washington's adaptation as Netflix recently revisited the action movie in a seven-episode series starring Yahya Abdul-Mateen II as John Creasy. The Netflix series was created and showrun by Kyle Killen and does not serve as a direct remake of the 2004 movie, and is simply a third adaptation of Quinnell's novel that has generated an entire franchise. The series was set in Rio de Janeiro, Brazil and focuses on local politics, class divides, and criminal conspiracies.\nNetflix's Man on Fire became a global streaming success and reached over 11 million views within its first four days on the streaming giant and was the top most-watched TV series on Netflix across 22 countries.\nWashington's Man on Fire is available to stream for free now on Pluto TV.\nMan on Fire follows John Creasy, an ex-CIA operative turned bodyguard, who is hired to protect a young girl in Mexico City. Initially struggling to connect, they form a bond, and when she is abducted, Creasy embarks on a relentless mission to ensure her safety."
-    }
-   ]
-  },
-  {
-   "id": "c2953c1a7a8",
-   "kind": "news",
-   "score": 17.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-     "lang": "en",
-     "extra": {},
-     "id": "2953c1a7a88a4714",
-     "published": "2026-11-01T18:00+00:00",
-     "text": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.\n(Image credit: Alex Brandon)"
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
-     "title": "US judge dismisses Trump election lawsuit in Alaska",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "b5b3a883ba457a8c",
-     "published": "2026-11-01T18:29+00:00",
-     "text": "US judge dismisses Trump election lawsuit in Alaska\nReuters"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
-     "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20220913__1423463527__v2__HighRes__PelosiHoldsCeremonialSwearingInForMembersEle-2-1786989788.jpg?resize=1200%2C630"
-     },
-     "id": "7dcc0c21672cab64",
-     "published": "2026-11-01T18:37+00:00",
-     "text": "Republican Senator Dan S. Sullivan has vowed to accept the election outcome days after the United States Department of Justice filed a lawsuit seeking to decertify the results of the upcoming US Senate race there if the Republican incumbent loses.\n“I’m going to accept the election results,” Sullivan, an ally of US President Donald Trump, told CNN on Sunday.\nRecommended Stories\nlist of 4 items- list 1 of 4US Attorney General Todd Blanche defends Alaska Senate election lawsuit\n- list 2 of 4‘If they’re honest’: Trump casts latest suspicion on US midterm elections\n- list 3 of 4Republican governor of Alaska orders investigation into ‘spoiler candidate’\n- list 4 of 4Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?\nSullivan’s promise comes just two days before the November 3 midterm election, which will determine control of the US Congress.\nHe said he was confident of winning, accusing his Democratic opponent Mary Peltola, who is attempting to unseat him, of cheating.\n“My opponent and [Senate Minority Leader Chuck] Schumer and his aides are showing complete disrespect for Alaskans, complete disdain in recognising that they couldn’t run on their record, so they had to cheat. And now that that’s been exposed,” he said.\nA New York Times report on Wednesday alleged that members of Peltola’s campaign helped recruit a retired teacher named Dan J Sullivan Jr to run for the Senate seat as a spoiler candidate in an attempt to draw votes away from Senator Sullivan.\nThe report seems to have prompted the Trump administration’s renewed legal push to bar Alaska from certifying its election results, should Senator Sullivan lose.\nOn Sunday, US District Court Judge Sharon Gleason dismissed the lawsuit, citing it as “infeasible” because many voters had already cast their ballots and the ballots have now been commingled to the point where the identity of each voter cannot be determined.\n“More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified “investigation” of those ballots in a manner that would preserve voter secrecy,” she wrote.\nThe second Sullivan is listed on the ballot as Daniel J Sullivan Jr, while the senator is listed as Dan S Sullivan and marked as a Republican incumbent.\nPeltola has insisted she had nothing to do with recruiting the other Sullivan and has called attention to it a “distraction” from the main issues facing Alaskans — namely, high prices caused by US-Israel war on Iran. Her campaign has also denied involvement.\nBefore a rally on Friday, Peltola was asked whether someone on her campaign could have been involved in recruiting the other Sullivan. “I have no idea,” she told KTUU. “I honestly have no idea.”\nSenator Sullivan doubted Peltola’s claims.\n“There is no way this went on for a year that they weren’t informing her,” Sullivan told the CNN news programme State of the Union. “She got caught lying, and she’s still lying to the Alaskan people, the media, to all of us.”\nAlaska’s Senate race is one of seven key toss-ups that will likely decide whether Republicans keep their majority in the US Congress’s upper chamber.\nBoth candidates have spent the final days campaigning through Alaska’s vast landscape.\nOn Saturday night, Senator Sullivan handed out candy at a “trunk-or-treat” event at a recreation centre north of Anchorage, where he quipped his costume was “the real Dan Sulliva"
-    },
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838",
-     "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
-     "lang": "en",
-     "extra": {},
-     "id": "ea619852ed254619",
-     "published": "2026-11-01T19:03+00:00",
-     "text": "A federal judge in Alaska dismissed the Trump’s civil lawsuit against the state, which sought to separate and preserve certain ballots in the state’s upcoming Senate election"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan",
-     "title": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/3375f8fe-9dad-415e-8815-649c695c1025/thumbnail/1200x630/c1c6754a2d2ec1db4685058b876cdbe8/ap26305115849912.jpg"
-     },
-     "id": "9a607f982e3964ea",
-     "published": "2026-11-01T19:04+00:00",
-     "text": "A federal judge in Alaska has thrown out the Trump administration's lawsuit seeking to\nof the state's Senate election results in this week's midterm elections if the Republican incumbent Sen. Dan Sullivan loses.U.S. District Judge Sharon L. Gleason wrote in a 20-page order Sunday that the Justice Department did not have proper legal standing to bring the last week. The suit asked Gleason to block the state's election results from being certified because a teacher named Daniel J. Sullivan is also on the state's ballot, alleging that his candidacy deliberately sought to confuse voters by running with the same ballot name and party affiliation as the state's incumbent senator.\nThe Justice Department argued that Daniel J. Sullivan's name on the ballot potentially diverted voters, and the Democrat running in the race, Mary Peltola, would benefit as a result.\nGleason said she could not grant the injunction that the Trump administration sought \"because the United States has failed to establish the redressability prerequisite for Article III standing.\"\n\"More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified 'investigation' of those ballots in a manner that would preserve voter secrecy,\" Gleason wrote, adding that the Justice Department \"failed to satisfy its burden to show that its alleged injury is redressable by a court order.\"\nA Justice Department spokesperson did not immediately respond to a request for comment.\nThe suit, which argues Sullivan's candidacy violates the National Voter Registration Act, was amended on Thursday to include recent reporting by The New York Times on alleged efforts by people associated with Peltola's campaign to find candidates who could draw votes away from the Republican senator. It included a second claim for relief, arguing the court needs to intervene under the Constitution's Supremacy Clause in order to allow the government to enforce the law and prevent a \"conspiracy.\"\nPeltola's campaign responded to the Times story by saying the campaign \"has no involvement with either Sullivan campaign.\"\n\"I am not interested in tricking voters,\" Peltola said during a recent campaign event.\nSen. Sullivan on Sunday told CNN's \"State of the Union\" that he thought the presence of a second Sullivan on the ballot would impact the election, saying: \"I'm sure I'm going to lose a lot of votes to that trickery.\"\nHe also said he doubted Peltola's claims that she had no idea her top political aides were involved in recruiting Dan J. Sullivan to run as a way to confuse voters.\n\"There is no way this went on for a year that they weren't informing her,\" Sullivan said. \"She got caught lying, and she's still lying to the Alaskan people, the media, to all of us.\"\nIn addition to the civil lawsuit, the Justice Department is also criminally investigating an alleged plot to add Daniel J. Sullivan to the state's ballot and has issued subpoenas targeting several Democratic officials believed to be tied to the effort to recruit him to appear on Alaska's ballot. Nobody in the race has been charged with a crime."
     }
    ]
   },
@@ -3219,61 +3230,6 @@
    ]
   },
   {
-   "id": "c2882e83a91",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Sam Altman meets Samsung’s presidents days after his DRAM remark",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Next Web",
-     "trust": 2,
-     "url": "https://thenextweb.com/news/sam-altman-dram-samsung-presidents-cheeky-pint",
-     "title": "Sam Altman meets Samsung’s presidents days after his DRAM remark",
-     "lang": "en",
-     "extra": {},
-     "id": "2882e83a91e61814",
-     "published": "2026-10-31T12:03+00:00",
-     "text": "Samsung hosted OpenAI chief executive Sam Altman for talks with about 50 of its presidents on Saturday. Two days earlier, a podcast went out in which Sam Altman said it is “quite terrible” for the world’s limited DRAM to sit in people’s own computers. DRAM is the memory chip Samsung makes. Samsung set out the […]"
-    },
-    {
-     "source": "SamMobile",
-     "trust": 2,
-     "url": "https://sammobile.com/news/openai-ceo-sam-altman-meets-with-50-samsung-executives-to-discuss-ai",
-     "title": "OpenAI CEO Sam Altman meets with 50 Samsung executives to discuss AI",
-     "lang": "en",
-     "extra": {},
-     "id": "8d24e29fe3ebe634",
-     "published": "2026-10-31T13:44+00:00",
-     "text": "Everyone's chasing after Samsung to secure adequate memory chip supplies, and OpenAI CEO Sam Altman is the latest to make that trip to South Korea.\nFollowing reports of his trip, Samsung has itself confirmed that the CEO of ChatGPT-maker OpenAI has made a visit to its home country and met with the company's top executives.\nBloomberg first reported that OpenAI CEO Sam Altman met with Samsung Group's top executives in South Korea on Saturday, October 30, to deepen cooperation on memory chips and AI infrastructure.\nThe trip appears to have been rescheduled, as he was previously expected to visit South Korea a few months ago, but that trip was reportedly canceled due to personal reasons.\nSamsung hosted the talks in Yongin, south of Seoul, with about 50 executives from its electronics, financial and biotechnology affiliates, the company said in a statement. They discussed how AI can reshape industries, corporate decision-making and business opportunities over the next decade.\nWhile no new deals for memory chip supply were announced, it's hard to imagine that this wasn't a part of the conversation. Altman previously visited South Korea last year, back when memory chip prices had only just started to go on a tear.\nSamsung obviously hasn't confirmed this, but other reports from local media suggest that Altman met with executives at SK Hynix as well, another top memory chip supplier that has also become crucial to the AI supply chain."
-    },
-    {
-     "source": "Tom's Hardware",
-     "trust": 2,
-     "url": "https://tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
-     "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
-     "lang": "en",
-     "extra": {},
-     "id": "72e90052d9632ce1",
-     "published": "2026-11-01T14:21+00:00",
-     "text": "<p>Newton Gitonga is a journalist who writes about technology, gadgets, AI, and the companies behind them. He has covered product launches, hard drives, processors, AI data centers, and other developments across the tech industry. He also writes about cryptocurrency and financial markets, having spent several years covering the crypto space.</p><p>Newton has previously written for Notebookcheck, ZyCrypto and CoinCentral. His work has ranged from reporting on new gadgets and computing hardware to covering major developments in AI, businesses building the technology behind it, stocks and crypto.</p><p>He graduated from Kabarak University in 2018 with a law degree but went on to build his career in journalism. He enjoys keeping up with new technology and finding stories that help readers understand what is happening beyond the headlines.</p>"
-    },
-    {
-     "source": "Reddit tech & AI",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xl5c3g/sam_altman_meets_with_samsung_leadership_to",
-     "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages — OpenAI CEO travels to South Korea to meet Samsung leadership to discuss future AI data centers",
-     "lang": "en",
-     "extra": {},
-     "id": "7d5292ca0ec0e059",
-     "published": "2026-11-01T15:06+00:00",
-     "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
    "id": "ca6f59bb012",
    "kind": "news",
    "score": 15.0,
@@ -3600,65 +3556,6 @@
    ]
   },
   {
-   "id": "caa254e6d27",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Bulgaria heads to presidential runoff amid political instability",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/europe/bulgaria-heads-to-presidential-runoff-amid-political-instability/4107713",
-     "title": "Bulgaria heads to presidential runoff amid political instability",
-     "lang": "en",
-     "extra": {},
-     "id": "aa254e6d27576e63",
-     "published": "2026-11-01T05:11+00:00",
-     "text": "Acting President Iliana Yotova faces former caretaker Prime Minister Andrey Gyurov after only 22.5% of eligible voters cast ballots in 1st round"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/92c31d454963",
-     "title": "Bulgaria votes in presidential runoff amid political instability",
-     "lang": "en",
-     "extra": {},
-     "id": "154a9f9bf1e7da33",
-     "published": "2026-11-01T07:05+00:00",
-     "text": "Acting President Iliana Yotova faces former caretaker Prime Minister Andrey Gyurov after only 22.5 percent of eligible voters cast ballots in 1st round."
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
-     "title": "Bulgaria votes in presidential runoff after tight first round",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "43d5af01b589c225",
-     "published": "2026-11-01T08:51+00:00",
-     "text": "Bulgaria votes in presidential runoff after tight first round\nReuters"
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/europe/bulgaria-votes-in-presidential-runoff-after-tight-first-round",
-     "title": "Bulgaria votes in presidential runoff after tight first round",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/88c31b1751694c3d1f6814a0dcdd4de81af328c5f9a651253834219f0b1770a4?w=1200"
-     },
-     "id": "23bc944dd2d7d90b",
-     "published": "2026-11-01T08:52+00:00",
-     "text": "Bulgaria votes in presidential runoff after tight first round\nSOFIA, Nov 1 - Bulgarians went to the polls on Sunday to elect a president after a tight race between the two leading candidates failed to produce an outright winner in last weekend's first round vote for the largely ceremonial role.\nIncumbent president, Iliana Iotova, 61, led over ex-caretaker prime minister Andrey Gyurov, 50, but fell short of the 50% threshold in the first round race of 27 candidates that saw a record-low turnout.\nExit polls will be published after voting ends at 8 p.m. (1800 GMT), with a result likely on Monday as the ballot papers are counted.\nThe presidential vote comes against the backdrop of a series of drone attacks on merchant ships off Bulgaria’s Black Sea coast in the past month, which have sparked international condemnation and concerns about the growing reach of the war in Ukraine.\nAbout two dozen seafarers are feared dead and the strikes have prompted the government to seek allied assistance to bolster maritime security. On Wednesday a Greek container ship sank after being hit by sea drones.\nBoth leading presidential candidates have condemned the attacks. Prime Minister Rumen Radev, who backs Iotova, said the strikes' outcome \"benefits the Russian Federation\". They have both called for a diplomatic end to the war.\nA victory for Iotova would make her Bulgaria's first elected female president. She became acting president in January after Radev resigned to enter and win a parliamentary race on what many political analysts considered a Kremlin-friendly ticket.\nGyurov, who served as caretaker prime minister this year, is supported by pro-Western, reformist parties and has long expressed support for Ukraine. He signed a security cooperation agreement with Kyiv during his time as premier.\nA host of right-leaning political figures, among them ex-premier Boiko Borisov, have expressed support for Gyurov. REUTERS"
-    }
-   ]
-  },
-  {
    "id": "c169276f3e1",
    "kind": "news",
    "score": 15.0,
@@ -3736,30 +3633,6 @@
      "id": "1307951bc28fe8ac",
      "published": "2026-11-01T17:34+00:00",
      "text": "CNBC reports:\nA month after President Donald Trump ordered that \"super intelligence\" replace the term artificial intelligence within executive branch departments and agencies, his leading tech allies, Elon Musk and Mark Zuckerberg, followed suit on earnings calls. Their fellow tech CEOs were less eager to do the same... SpaceX and Tesla adhered to Trump's wishes on earnings calls last week after Musk, earlier in October, changed the name of his rocket company's AI division to SpaceXSI. Speaking on Tesla's call about his work on humanoid robots, Musk said, \"Some of them look very impressive, but they're not really using any kind of advanced AI or SI.\" Zuckerberg was equally compliant on Meta's earnings call on Oct. 21, emphasizing his company's \"goal of delivering personal superintelligence to everyone.\" However, Meta was already using the term, having created a unit called Meta Superintelligence Labs last year....\n[Some other tech CEOs are holding out.] Amazon CEO Andy Jassy peppered his call with use of \"AI\" on Thursday, uttering the abbreviation well over a dozen times in his introductory remarks. A day earlier, Microsoft CEO Satya Nadella said one of the company's three points of focus is \"designing AI to empower people.\" And Alphabet CEO Sundar Pichai was seconds into his quarterly earnings commentary when he said the search giant's \"AI investments are driving increased usage and overall user growth....\"\nTrump's preferred term is seeping into other correspondence and documents. Microsoft's annual report, filed last week, included eight mentions of \"super intelligence,\" starting at the top of the letter to shareholders...\nIBM CEO Arvind Krishna, who didn't attend Trump's September lunch, used \"SI\" alongside \"AI\" during his company's earnings call last week.... Lip-Bu Tan, CEO of chipmaker Intel, said Thursday the supply shortage the chip industry is navigating has been \"driven by the unprecedented demand for super intelligence.\"\nSome in the tech industry have been explicit in their support of Trump's terminology ahead of their forthcoming earnings reports next month. Palo Alto Networks CEO Nikesh Arora repeatedly referred to \"SI\" on CNBC, and posted on X on Sept. 30, \"The meeting at the WH on SI was an epic moment....\" Like Arora, [Nvidia CEO Jensen] Huang took to X after last month's AI meeting to praise the \"White House Accord on Super Intelligence.\"Read more of this story at Slashdot."
-    }
-   ]
-  },
-  {
-   "id": "ce81634522c",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/space-exploration/on-this-day-in-space-november-1-2026",
-     "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/ww8Hh6uwQSpHvZyBpY5qPJ-1920-80.jpg"
-     },
-     "id": "e81634522c513a92",
-     "published": "2026-11-01T14:50+00:00",
-     "text": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet.\nWhile it did end up flying by Mars, the mission was not exactly a success. After it separated from the rocket, it deployed its solar panels and started cruising toward Mars.\nWhen mission controllers were checking out the telemetry it transmitted back to Earth, they found out that Mars 1 had sprung a leak in one of the gas valves that controls the spacecraft's orientation. And without a working orientation system, Mars 1 would have a hard time pointing its antennas in the right direction. It lost contact with Earth when it was about halfway to Mars.\nWhy it mattered\nEver since Galileo Galilei pointed his telescope to the red-tinted star and identified as a planet, Mars has captivated scientists' interests as to its nature. So it was of no surprise that as soon as we gained the ability to send missions into space, that the focus turned to the \"fourth rock from the Sun.\"\nAs it turned out, though, reaching Mars, let alone entering its orbit or landing on its surface,, was and continues to be difficult.\nMars 1, despite its name, was actually the Soviet Union's fourth attempt at sending a probe to the planet. The first three ended in launch failures. Similar problems faced the United States, as well, but it was NASA's Mariner IV mission that became the first to successfully fly by Mars two years later.\nStill, as humanity continues to push forward to the day people land on, explore and live on Mars, the 1962 Soviet mission stands as the first to get close to revealing the first details about the planet.\nWant more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube.\nHanneke Weitering is a multimedia journalist in the Pacific Northwest reporting on the future of aviation at FutureFlight.aero and Aviation International News and was previously the Editor for Spaceflight and Astronomy news here at Space.com. As an editor with over 10 years of experience in science journalism she has previously written for Scholastic Classroom Magazines, MedPage Today and The Joint Institute for Computational Sciences at Oak Ridge National Laboratory. After studying physics at the University of Tennessee in her hometown of Knoxville, she earned her graduate degree in Science, Health and Environmental Reporting (SHERP) from New York University. Hanneke joined the Space.com team in 2016 as a staff writer and producer, covering topics including spaceflight and astronomy. She currently lives in Seattle, home of the Space Needle, with her cat and two snakes. In her spare time, Hanneke enjoys exploring the Rocky Mountains, basking in nature and looking for dark skies to gaze at the cosmos.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
     }
    ]
   },
@@ -4241,6 +4114,105 @@
    ]
   },
   {
+   "id": "c2882e83a91",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Sam Altman meets Samsung’s presidents days after his DRAM remark",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/sam-altman-dram-samsung-presidents-cheeky-pint",
+     "title": "Sam Altman meets Samsung’s presidents days after his DRAM remark",
+     "lang": "en",
+     "extra": {},
+     "id": "2882e83a91e61814",
+     "published": "2026-10-31T12:03+00:00",
+     "text": "Samsung hosted OpenAI chief executive Sam Altman for talks with about 50 of its presidents on Saturday. Two days earlier, a podcast went out in which Sam Altman said it is “quite terrible” for the world’s limited DRAM to sit in people’s own computers. DRAM is the memory chip Samsung makes. Samsung set out the […]"
+    },
+    {
+     "source": "SamMobile",
+     "trust": 2,
+     "url": "https://sammobile.com/news/openai-ceo-sam-altman-meets-with-50-samsung-executives-to-discuss-ai",
+     "title": "OpenAI CEO Sam Altman meets with 50 Samsung executives to discuss AI",
+     "lang": "en",
+     "extra": {},
+     "id": "8d24e29fe3ebe634",
+     "published": "2026-10-31T13:44+00:00",
+     "text": "Everyone's chasing after Samsung to secure adequate memory chip supplies, and OpenAI CEO Sam Altman is the latest to make that trip to South Korea.\nFollowing reports of his trip, Samsung has itself confirmed that the CEO of ChatGPT-maker OpenAI has made a visit to its home country and met with the company's top executives.\nBloomberg first reported that OpenAI CEO Sam Altman met with Samsung Group's top executives in South Korea on Saturday, October 30, to deepen cooperation on memory chips and AI infrastructure.\nThe trip appears to have been rescheduled, as he was previously expected to visit South Korea a few months ago, but that trip was reportedly canceled due to personal reasons.\nSamsung hosted the talks in Yongin, south of Seoul, with about 50 executives from its electronics, financial and biotechnology affiliates, the company said in a statement. They discussed how AI can reshape industries, corporate decision-making and business opportunities over the next decade.\nWhile no new deals for memory chip supply were announced, it's hard to imagine that this wasn't a part of the conversation. Altman previously visited South Korea last year, back when memory chip prices had only just started to go on a tear.\nSamsung obviously hasn't confirmed this, but other reports from local media suggest that Altman met with executives at SK Hynix as well, another top memory chip supplier that has also become crucial to the AI supply chain."
+    },
+    {
+     "source": "Tom's Hardware",
+     "trust": 2,
+     "url": "https://tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+     "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+     "lang": "en",
+     "extra": {},
+     "id": "72e90052d9632ce1",
+     "published": "2026-11-01T14:21+00:00",
+     "text": "<p>Newton Gitonga is a journalist who writes about technology, gadgets, AI, and the companies behind them. He has covered product launches, hard drives, processors, AI data centers, and other developments across the tech industry. He also writes about cryptocurrency and financial markets, having spent several years covering the crypto space.</p><p>Newton has previously written for Notebookcheck, ZyCrypto and CoinCentral. His work has ranged from reporting on new gadgets and computing hardware to covering major developments in AI, businesses building the technology behind it, stocks and crypto.</p><p>He graduated from Kabarak University in 2018 with a law degree but went on to build his career in journalism. He enjoys keeping up with new technology and finding stories that help readers understand what is happening beyond the headlines.</p>"
+    },
+    {
+     "source": "Reddit tech & AI",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xl5c3g/sam_altman_meets_with_samsung_leadership_to",
+     "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages — OpenAI CEO travels to South Korea to meet Samsung leadership to discuss future AI data centers",
+     "lang": "en",
+     "extra": {},
+     "id": "7d5292ca0ec0e059",
+     "published": "2026-11-01T15:06+00:00",
+     "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
+   "id": "c5899aea02d",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "NASA reaches out to commercial space industry for help saving legendary Hubble Space Telescope",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Mashable",
+     "trust": 2,
+     "url": "https://mashable.com/science/nasa-reaches-out-to-commercial-space-industry-for-help-saving-legendary",
+     "title": "NASA reaches out to commercial space industry for help saving legendary Hubble Space Telescope",
+     "lang": "en",
+     "extra": {},
+     "id": "ed387ff9a36fa51b",
+     "published": "2026-11-01T20:52+00:00",
+     "text": "Sad news for space aficionados: the famous Hubble Space Telescope, responsible for some of the most jaw-dropping images of our solar system taken more than three decades since its launch into low-Earth orbit in 1990, is on a slow path towards a fiery fate. At its present rate of altitude loss, NASA's most famous telescope is expected to re-enter Earth's atmosphere sometime in 2033 or 2034, at which point it will come crashing down like a comet, according to Space.com, possibly endangering human life on its descent\nIt doesn't have to be that way, though. If NASA had more room in its budget, it could repeat its 2002 Space Shuttle Columbia mission STS-109 and give the aging telescope a nudge into a higher orbit, extending its lifespan. In desperation, NASA has put out a Request for Information (RFI) to the fast-growing commercial space sector, hoping for aid to either boost Hubble's altitude and extend its lifespan or else guide its descent to a safe crash site, such as the middle of the ocean.\nAccording to the RFI, a successful orbital boost would require an ascent of more than 370 miles (600 kilometers), which is a significant increase in elevation and an astonishingly difficult challenge from a purely technical perspective.\nIn a statement on the NASA website, Nicky Fox, an associate administrator of the Science Mission Directorate, spoke to the growing power and influence of the private space sector: \"Commercial industry has rapidly evolved in recent years to offer new capabilities for in-space satellite capture and servicing. Given the time we have until Hubble’s anticipated re-entry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.\"\nNASA administrator Jared Isaacman spoke of a duty to both \"the American taxpayer\" and \"the scientific community\" to explore all possible ways to extend Hubble's life, and the project is likely to attract serious interest from companies like Elon Musk's SpaceX and Peter Beck's Rocket Lab, which became famous for successfully catching a used rocket with a helicopter.\nIt wouldn't even be the first time that the commercial space sector has lent NASA a helping hand. In March of last year, stranded astronauts Suni Williams and Butch Wilmore were rescued from the International Space Station with assistance from SpaceX's Dragon spacecraft.\nLet's hope history repeats itself and NASA finds a willing collaborator, because Hubble's insights over more than a three decades have radically altered our understanding of the universe we inhabit and inspired new generations to look to the stars."
+    },
+    {
+     "source": "Google News Science EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVpCbU53RjRCb2dKaHZTeS01ZmtvN2hvWU81TXlablFoamJfbktzUjNvejEwc1pta2RQVEdBeWJ1WmlHN0h3eVFzRDZzeVJqSWMwc1d6MnJ6UUdiVWw2QlQ4Rk9xSy1TV2MxZUhCODNTSXhwT1hGNHZtcU16cmpFaXhZclZSSkFLY3BTOWI5YV9KWDIzSjJQdWtBZzdPMEVCcWx0aGY2NjlsNVlMTGxn?oc=5",
+     "title": "NASA’s Begging the Commercial Space Industry to Save the Doomed Hubble Telescope - Gizmodo",
+     "lang": "en",
+     "extra": {},
+     "id": "5899aea02d1d9156",
+     "published": "2026-10-31T16:26+00:00",
+     "text": "- NASA’s Begging the Commercial Space Industry to Save the Doomed Hubble Telescope Gizmodo\n- Once again, NASA is asking for ideas to rescue Hubble from certain death Ars Technica\n- NASA seeks ideas for Hubble servicing mission SpaceNews\n- NASA Explores Potential Commercial Servicing for Hubble Telescope NASA Science (.gov)\n- NASA ponders a Hubble servicing mission or a controlled deorbit The Register"
+    },
+    {
+     "source": "Slashdot",
+     "trust": 1,
+     "url": "https://science.slashdot.org/story/26/10/31/1817218/nasa-seeks-proposals-for-reboosting-the-hubble-space-telescope",
+     "title": "NASA Seeks Proposals for Reboosting the Hubble Space Telescope",
+     "lang": "en",
+     "extra": {},
+     "id": "3777165751117762",
+     "published": "2026-10-31T18:50+00:00",
+     "text": "The Hubble Space Telescope \"will plunge back into the atmosphere in the early-to-mid-2030s,\" reports Ars Technica.\nSo now NASA has released a Request For Information (RFI) \"asking commercial companies for ideas on how to reboost, service, or a controlled disposal of Hubble.\"\nSpecifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance, or guiding Hubble to a controlled reentry. \"The requirement includes that the boost and/or servicing mission must not harm the HST and that this mission is expected to occur by 2032,\" NASA wrote in the RFI. The contractor would be responsible for providing the launch vehicle, servicing spacecraft, mission operations, and \"crew if applicable.\"\nNASA is not committing to buying a Hubble rescue mission, but officials want to know who might be interested in mounting such a mission, how much it would cost, and which companies would have a realistic shot at reaching Hubble before it falls out of orbit and burns up on reentry. Orbital dynamicists currently predict that it will likely happen in 2033 or 2034 without intervention, but reentry forecasts can change based on solar activity... A reboost to NASA's requirement of 373 miles (600 km) would likely keep Hubble in orbit for at least 25 more years.\n\"NASA last raised the orbit of Hubble in 2002,\" the article points out, \"when the Space Shuttle Columbia visited the observatory for a servicing mission.\"\nThe final shuttle servicing flight in 2009 did not reboost the telescope's orbit, and with the retirement of the shuttle fleet two years later, Hubble has steadily lost altitude with no way to stave off eventual destruction... NASA's newer flagship observatories, sometimes described as successors to Hubble, are not actually one-for-one replacements. Hubble is tuned to observe the Universe in visible and ultraviolet light, while the Webb and Roman telescopes peer deeper into the infrared Universe. Astronomers will likely have to wait for the launch of NASA's Habitable Worlds Observatory in the 2040s for an improvement on Hubble's visible and ultraviolet vision.\nRead more of this story at Slashdot."
+    }
+   ]
+  },
+  {
    "id": "c832cd7aba9",
    "kind": "news",
    "score": 14.0,
@@ -4547,6 +4519,65 @@
    ]
   },
   {
+   "id": "caa254e6d27",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Bulgaria heads to presidential runoff amid political instability",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/europe/bulgaria-heads-to-presidential-runoff-amid-political-instability/4107713",
+     "title": "Bulgaria heads to presidential runoff amid political instability",
+     "lang": "en",
+     "extra": {},
+     "id": "aa254e6d27576e63",
+     "published": "2026-11-01T05:11+00:00",
+     "text": "Acting President Iliana Yotova faces former caretaker Prime Minister Andrey Gyurov after only 22.5% of eligible voters cast ballots in 1st round"
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/92c31d454963",
+     "title": "Bulgaria votes in presidential runoff amid political instability",
+     "lang": "en",
+     "extra": {},
+     "id": "154a9f9bf1e7da33",
+     "published": "2026-11-01T07:05+00:00",
+     "text": "Acting President Iliana Yotova faces former caretaker Prime Minister Andrey Gyurov after only 22.5 percent of eligible voters cast ballots in 1st round."
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUWVuZkFvVFlJOEJiem9lZWhrb1hTLXVaS1ZyWnhwLUZpNUpUcm9VM3JYb1BLeGxxUTZ3NXVkWWVMOGNKQUVtdFNZNWFnajRrdi1uYWdKRUFyRjltZVZsTUdQdDBpdFFoX0dseVJTY3UxMzlOeTRNUjY1b3pqZGE1YXRjWmZNRExQUjYyNXJwZTBXbGRvbWNjdl95U1U4WHF1b1E?oc=5",
+     "title": "Bulgaria votes in presidential runoff after tight first round",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "43d5af01b589c225",
+     "published": "2026-11-01T08:51+00:00",
+     "text": "Bulgaria votes in presidential runoff after tight first round\nReuters"
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/europe/bulgaria-votes-in-presidential-runoff-after-tight-first-round",
+     "title": "Bulgaria votes in presidential runoff after tight first round",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/88c31b1751694c3d1f6814a0dcdd4de81af328c5f9a651253834219f0b1770a4?w=1200"
+     },
+     "id": "23bc944dd2d7d90b",
+     "published": "2026-11-01T08:52+00:00",
+     "text": "Bulgaria votes in presidential runoff after tight first round\nSOFIA, Nov 1 - Bulgarians went to the polls on Sunday to elect a president after a tight race between the two leading candidates failed to produce an outright winner in last weekend's first round vote for the largely ceremonial role.\nIncumbent president, Iliana Iotova, 61, led over ex-caretaker prime minister Andrey Gyurov, 50, but fell short of the 50% threshold in the first round race of 27 candidates that saw a record-low turnout.\nExit polls will be published after voting ends at 8 p.m. (1800 GMT), with a result likely on Monday as the ballot papers are counted.\nThe presidential vote comes against the backdrop of a series of drone attacks on merchant ships off Bulgaria’s Black Sea coast in the past month, which have sparked international condemnation and concerns about the growing reach of the war in Ukraine.\nAbout two dozen seafarers are feared dead and the strikes have prompted the government to seek allied assistance to bolster maritime security. On Wednesday a Greek container ship sank after being hit by sea drones.\nBoth leading presidential candidates have condemned the attacks. Prime Minister Rumen Radev, who backs Iotova, said the strikes' outcome \"benefits the Russian Federation\". They have both called for a diplomatic end to the war.\nA victory for Iotova would make her Bulgaria's first elected female president. She became acting president in January after Radev resigned to enter and win a parliamentary race on what many political analysts considered a Kremlin-friendly ticket.\nGyurov, who served as caretaker prime minister this year, is supported by pro-Western, reformist parties and has long expressed support for Ukraine. He signed a security cooperation agreement with Kyiv during his time as premier.\nA host of right-leaning political figures, among them ex-premier Boiko Borisov, have expressed support for Gyurov. REUTERS"
+    }
+   ]
+  },
+  {
    "id": "cfd70ae0972",
    "kind": "news",
    "score": 14.0,
@@ -4580,6 +4611,76 @@
      "id": "b9273cfbb5b037df",
      "published": "2026-11-01T14:33+00:00",
      "text": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity “TraderTraitor” and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says:\nNorth Korea linked to massive Binance crypto heist\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nNorth Korea Responsible for $6 Billion+ Binance Attack\nThe Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\nAs expected, Binance reopened customer withdrawals today after freezing them in the immediate aftermath of the hack."
+    }
+   ]
+  },
+  {
+   "id": "ce7538b083e",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Inde Navarrette mocks Shane Gillis gym joke in SNL monologue",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Mashable",
+     "trust": 2,
+     "url": "https://mashable.com/entertainment/snl-inde-navarrette-shane-gillis-monologue-gym-joke-1",
+     "title": "Inde Navarrette mocks Shane Gillis gym joke in SNL monologue",
+     "lang": "en",
+     "extra": {},
+     "id": "a6f98606b4f8046f",
+     "published": "2026-11-01T20:49+00:00",
+     "text": "Inde Navarrette has been hitting the gym for Marvel. She also had a little something to say to Shane Gillis in her opening monologue.\nThe Obsession star made her Saturday Night Live hosting debut on Halloween, slipping a jab at the show's previous host into an otherwise straightforward update about playing Rogue in the upcoming X-Men movie.\n\"I know it’s really important for Marvel that you get really fit, so I’ve been working out a lot,\" she said. \"So every morning I put on my little whore outfit and I hit the gym.\"\nThe audience caught the reference, breaking into laughter and applause. Three weeks earlier, Gillis had stood on the same stage and complained that women \"dress like whores now\" at the gym, following it with a bit about revealing shorts and being told not to stare.\nThe comments prompted criticism from Dan Levy and former SNL cast members Cecily Strong and Ego Nwodim, who posted a gym selfie on Instagram Stories captioned \"Whore reporting for duty.\"\nNavarrette also had a less reassuring update about her love life. Addressing fans who wondered whether she resembled Nikki, her character in Obsession, Navarrette insisted that the similarities ended onscreen.\n\"My boyfriend is here tonight to support me and we have such a chill relationship, right?\" she said.\nThe camera cut to her boyfriend, Nick Aiello, bound and gagged in his audience seat.\nThe monologue ended with cast members showing off their Halloween costumes, including Marcello Hernandez as a sexy TSA agent and Kam Patterson as Elizabeth Holmes. Jeremy Culhane turned up as Wolverine, hoping Navarrette could get him into her Marvel movie. Apparently, he'd come prepared for an audition.\nWant more of the best of late night? Sign up for Mashable's Top Stories newsletter."
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmpNZW5jbWxUQW5HUlNWMldNZWNhb19rNzVMTWhaa0JGcmdaQnZ4RVU0T1k4Q19UQWZWc1dtSUtZZGRmbTVsaDctc2RVX2dheEt6MkJUN0hzRkpkdTVQR25ZNGpjNVZfaWYyaFNmYndjRkYwN01VTDZmM0E0cDZJaFdCQTJGSnF6WWRjaW9Wd1ZsMW5MeWtFLVllNks3R3hYSWF0V09mOHlRTWdyS0pPLThFQmFEdW5KdmRhNmVvb3FzUQ?oc=5",
+     "title": "'SNL' host Inde Navarrette claps back at Shane Gillis in monologue",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "e7538b083e03036c",
+     "published": "2026-11-01T06:38+00:00",
+     "text": "- 'SNL' host Inde Navarrette claps back at Shane Gillis in monologue USA Today\n- 'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife' Variety\n- Inde Navarrette Makes Shane Gillis Quip In 'SNL' Opening Monologue Deadline\n- Saturday Night Live: Obsession breakout Inde Navarrette fronts a scary good Halloween episode The Guardian\n- 'SNL' reveals host, musical guest ahead of Halloween show. Guess who? USA Today"
+    }
+   ]
+  },
+  {
+   "id": "c7ff6e33811",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Anthropic’s potential $2 trillion IPO could turn staff into millionaires—but the AI firm is asking candidates what they’d do if stock fell to zero",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Fortune",
+     "trust": 2,
+     "url": "https://fortune.com/article/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-billionaire-ceo-dario-amodei",
+     "title": "Anthropic’s potential $2 trillion IPO could turn staff into millionaires—but the AI firm is asking candidates what they’d do if stock fell to zero",
+     "lang": "en",
+     "extra": {},
+     "id": "8d44c602235ccf87",
+     "published": "2026-11-01T14:15+00:00",
+     "text": "As Anthropic targets a November IPO at a $1.5 trillion to $2 trillion valuation—potentially eclipsing SpaceX’s record—the blockbuster debut could mint a new class of wealthy tech workers among its more than 2,500 employees.\nBut that potential multimillion-dollar employee windfall appears to be raising concern among company leaders. Anthropic is reportedly asking job candidates during culture interviews how they would feel if the company someday abandoned its AI ambitions for safety reasons—and that decision caused its stock to fall to zero, according to Axios.\n“I was honest and said no, I would not be happy if the stock went to 0,” one candidate, who discussed the interview process on the anonymous workplace site Blind, said. “I would want to align doing the most good and remaining ethical while building a sustaining business.”\nAnthropic CEO Dario Amodei, who has an estimated net worth of $13.6 billion, has reportedly expressed concerns about the way the company’s enormous financial incentives could affect its ability to retain employees who are genuinely committed to its mission. Anthropic, a public benefit corporation, has long sought to distinguish itself from competition like OpenAI through a broader focus on AI safety and the “long-term benefit of humanity.”\n“At the end of the day, the mission is what we’re all here for,” the company’s values statement reads. “It gives us a shared purpose and allows us to act swiftly together, rather than being pulled in multiple directions by competing goals.”\nAnthropic is simultaneously fighting to attract the world’s top AI talent while grappling with what could happen if that talent becomes extraordinarily wealthy in the process.\nThe company is competing with the likes of Meta, Google, Microsoft, and OpenAI for top researchers and engineers—and resultantly offering compensation packages well into the hundreds of thousands of dollars.\nThe competition is so fierce that Anthropic acknowledged in its S-1 filing dated Oct. 26 that hiring and retaining qualified employees has become exceptionally difficult, particularly in the San Francisco Bay Area, where the company is headquartered.\n“Competition in our industry relating to hiring and retaining employees with appropriate qualifications and on competitive economic terms is exceptionally intense and has escalated significantly in recent periods,” the company said.\nAnthropic is currently dangling base salaries of $350,000 to $850,000 for staff software engineering roles, for example. And there’s plenty more work to be done. The company currently has more than 600 open roles, including about 120 in sales, over 60 in AI research & engineering, and 50 in security.\nIn order to land an offer after such a highly competitive process, some candidates are reportedly spending more than $4,000 on private coaching to help them get hired.\n“Spend a few thousand dollars, and now your salary goes up by $200,000—that calculus makes sense,” Aline Lerner, founder of prep company Interviewing.io, told Bloomberg.\nThe potential wealth creation at Anthropic is part of a much bigger phenomenon unfolding across the AI industry.\nFollowing SpaceX’s $1.77 trillion IPO, thousands of current and former employees—from welders and coders to managers and executives—became millionaires as their company equity soared in value. Roughly 400 current and former SpaceX employees saw their stakes become worth more than $100 million.\nAs AI valuations continue to soar and employees cash in on "
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSlBiVFRIMmt2WEVQTjRoQ21LTElPODlaUVNwWTJyUWxrNUw0amktMS12NDhEUGNYT2Q0bEE4S1lCd3ZNbFAzWEY1dDMyNjhObmJzRG51bndoNEt6ck80U1h5b0JHSF84MTAtMmJpR0dCSzRORWpLZU1EbUEyVzdiM2haTVFkelhTYXlKNU9ndEpmWXhkQS1kMXBRLUp6RDJ4LVpjVTJZYUdVY1NZd3NIYkFWN2M1RXZ5M09TY3JaRXlObURIY0VXV1lmNGJCWmFpeHdmOW52Y1d5c0ZIQ2VDY0l5Sng?oc=5",
+     "title": "Anthropic’s $2T IPO could create millionaires—but it’s asking candidates what they’d do if stock hit zero",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "7ff6e33811101aa9",
+     "published": "2026-11-01T14:15+00:00",
+     "text": "- Anthropic’s $2T IPO could create millionaires—but it’s asking candidates what they’d do if stock hit zero Fortune\n- We’re Living in the Age of the Imperial CEO WSJ\n- Opinion | The Open Secret Buried in Anthropic’s 300-Page I.P.O. Filing The New York Times\n- Anthropic's path to the Nasdaq just got a lot bumpier CNBC\n- The two most interesting risks to Anthropic NPR"
     }
    ]
   },
@@ -4641,6 +4742,87 @@
      "id": "4706f4e1a514e668",
      "published": "2026-11-01T18:58+00:00",
      "text": "Prosecutors in France have launched an investigation into attempted murder after petrol bombs were thrown at security forces during protests in Paris, as video of an officer in flames provoked outrage.\nThe probe announced on Sunday came after the Paris police prefecture said several hundred rioters had attacked security forces with projectiles, including a Molotov cocktail.\nRecommended Stories\nlist of 4 items- list 1 of 4Why has France struggled to address students’ demands?\n- list 2 of 4Why are French youth rioting?\n- list 3 of 4France braces for ‘very high risk’ of disorder at Halloween protests\n- list 4 of 4France protests enter third week as police fire tear gas\nOn Saturday, clashes erupted in Paris and other cities as hundreds of thousands of people staged a third weekend of protests against soaring living costs and deteriorating public services.\nVideo and images from the demonstrations showed a homemade incendiary device exploding at the feet of a security officer in protective gear, engulfing his lower body in flames.\nProsecutors said the investigation was opened for “attempted murder of persons vested with public authority”.\n“Explosive devices were thrown at around 15 gendarmes as well as police officers,” the prosecutor’s office said, referring to military police officers who are part of the French armed forces.\nWhile riots were less widespread than two weeks ago, when France experienced some of its worst unrest in years, Interior Minister Laurent Nunez said on Saturday that the level of violence perpetrated by some was “extraordinary”.\nAn assessment of the injured was ongoing, prosecutors said, adding that the reported injuries included second-degree burns.\nNo suspects arrested yet\nThe gendarme struck said his unit was “under assault”, with glass bottles, paving stones, shards of glass and firebombs thrown at them.\n“We were hit by several significant incendiary devices,” he told broadcaster RTL on condition of anonymity.\n“The flammable substance was so greasy that I could feel it spreading across my skin,” he said. “I kept wondering when it would stop because I really felt as though I had been coated by the heat itself.”\nThe officer, who received minor injuries, said the leg and shin protections on his riot uniform melted.\nThe gendarmerie said 13 members of the officer’s unit were injured, according to RTL.\nNo suspects “have been arrested at this stage in connection with the incident”, the prosecutor’s office said, adding that investigators were working to identify those responsible.\nMore than 770 people were arrested across France, the interior ministry said.\nA total of 159 members of law enforcement were injured during protests and Halloween celebrations, it added.\nThe protests come in a tense political climate, with presidential elections six months away and far-right frontrunner Marine Le Pen vowing to restore law and order if elected next year.\nLe Pen, the leader of the far-right National Rally party, said on X that those responsible for the firebomb attack must be “punished with the utmost severity”."
+    }
+   ]
+  },
+  {
+   "id": "ce81634522c",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/space-exploration/on-this-day-in-space-november-1-2026",
+     "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/ww8Hh6uwQSpHvZyBpY5qPJ-1920-80.jpg"
+     },
+     "id": "e81634522c513a92",
+     "published": "2026-11-01T14:50+00:00",
+     "text": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet.\nWhile it did end up flying by Mars, the mission was not exactly a success. After it separated from the rocket, it deployed its solar panels and started cruising toward Mars.\nWhen mission controllers were checking out the telemetry it transmitted back to Earth, they found out that Mars 1 had sprung a leak in one of the gas valves that controls the spacecraft's orientation. And without a working orientation system, Mars 1 would have a hard time pointing its antennas in the right direction. It lost contact with Earth when it was about halfway to Mars.\nWhy it mattered\nEver since Galileo Galilei pointed his telescope to the red-tinted star and identified as a planet, Mars has captivated scientists' interests as to its nature. So it was of no surprise that as soon as we gained the ability to send missions into space, that the focus turned to the \"fourth rock from the Sun.\"\nAs it turned out, though, reaching Mars, let alone entering its orbit or landing on its surface,, was and continues to be difficult.\nMars 1, despite its name, was actually the Soviet Union's fourth attempt at sending a probe to the planet. The first three ended in launch failures. Similar problems faced the United States, as well, but it was NASA's Mariner IV mission that became the first to successfully fly by Mars two years later.\nStill, as humanity continues to push forward to the day people land on, explore and live on Mars, the 1962 Soviet mission stands as the first to get close to revealing the first details about the planet.\nWant more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube.\nHanneke Weitering is a multimedia journalist in the Pacific Northwest reporting on the future of aviation at FutureFlight.aero and Aviation International News and was previously the Editor for Spaceflight and Astronomy news here at Space.com. As an editor with over 10 years of experience in science journalism she has previously written for Scholastic Classroom Magazines, MedPage Today and The Joint Institute for Computational Sciences at Oak Ridge National Laboratory. After studying physics at the University of Tennessee in her hometown of Knoxville, she earned her graduate degree in Science, Health and Environmental Reporting (SHERP) from New York University. Hanneke joined the Space.com team in 2016 as a staff writer and producer, covering topics including spaceflight and astronomy. She currently lives in Seattle, home of the Space Needle, with her cat and two snakes. In her spare time, Hanneke enjoys exploring the Rocky Mountains, basking in nature and looking for dark skies to gaze at the cosmos.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
+    }
+   ]
+  },
+  {
+   "id": "c6433dc01fd",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "UN chief warns of escalation in Western Sahara after peacekeeping mandate ends",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/africa/un-chief-warns-of-escalation-in-western-sahara-after-peacekeeping-mandate-ends/4108141",
+     "title": "UN chief warns of escalation in Western Sahara after peacekeeping mandate ends",
+     "lang": "en",
+     "extra": {},
+     "id": "6433dc01fd9a42ae",
+     "published": "2026-11-01T16:25+00:00",
+     "text": "Antonio Guterres reaffirms ‘inalienable’ right to self-determination as MINURSO begins liquidation following Russian veto at Security Council"
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/c84f77783cbd",
+     "title": "UN raises alarm over violence in Western Sahara after peacekeeping mandate expires",
+     "lang": "en",
+     "extra": {},
+     "id": "61396f3310a188ff",
+     "published": "2026-11-01T16:52+00:00",
+     "text": "Antonio Guterres reaffirms the \"inalienable\" right to self-determination as MINURSO begins liquidation following the Russian veto at the UNSC."
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/un-peacekeeping-mission-in-western-sahara-ends-after-35-years-un-chief-says",
+     "title": "UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/188e5741c60461965f7f429e5c2a75b2f09d1d932b34272e5e532426c234176c?w=1200"
+     },
+     "id": "ea07870d47c6352b",
+     "published": "2026-11-01T20:26+00:00",
+     "text": "UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says\nNov 1 - The 35-year-old UN peacekeeping mission in the Western Sahara region will come to an end after the Security Council failed to renew its mandate, the UN chief said on Sunday.\nMorocco, which claims the Western Sahara as its own, welcomed the decision, while its opponents in the Algeria-backed Polisario Front expressed concern.\nThe Polisario Front has been seeking an independent state in Western Sahara since former colonial power Spain left in 1976.\nA peacekeeping mission, known as MINURSO, has been in place there since a UN-brokered ceasefire in 1991.\nNovember 1 would mark the start of the “liquidation phase” of the mission, with assets transported back to troop-contributing countries, UN chief Antonio Guterres said in a statement.\nThe end of the peacekeeping mission comes a year after the UN Security Council adopted a US-drafted resolution that accepted Rabat's plan to give the territory autonomy under Moroccan sovereignty as the \"most feasible\" solution to the conflict.\nRussia, which abstained in last year's vote, this year vetoed another US-backed resolution that would have cemented the UN's preference for the Moroccan plan while scaling back the peacekeeping force.\nThe Security Council then defeated a competing Russian resolution, leaving the mission to expire without a new mandate.\nBesides monitoring the ceasefire, MINURSO was tasked with organizing a referendum that has never taken place due to disagreements over voter eligibility.\nMorocco's Foreign Minister Nasser Bourita told state media that the mission's reference to a referendum - the “R” in its name - was an \"anachronism\".\nRabat had been informed that Russia was going to block the US-drafted resolution, but saw it as \"an opportunity to review certain rules of the game\", he said.\nMorocco's royal palace had said the non-renewal of the mission was a \"significant development\" towards withdrawing the Western Sahara issue from consideration by the Security Council.\nAlgeria's Foreign Ministry on Saturday expressed \"deep regret\" over the non-renewal, blaming the \"excessive bias\" of the US towards Morocco's position.\nThe Polisario said in a statement it was \"concerned at the deadlock in the Security Council meeting.\" REUTERS"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years",
+     "title": "UN’s peacekeeping mission in disputed Western Sahara ends after 35 years",
+     "lang": "en",
+     "extra": {},
+     "id": "0a62a22579833af8",
+     "published": "2026-11-01T20:37+00:00",
+     "text": "The 35-year-old UN peacekeeping mission in the disputed Western Sahara region came to an end Sunday after the Security Council failed to renew its mandate. Morocco, which claims the region as its own, welcomed the decision, while its opponents from the Algeria-backed Polisario Front called it \"unacceptable\"."
     }
    ]
   },
@@ -5289,28 +5471,6 @@
    ]
   },
   {
-   "id": "c81405cedf5",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "Intel's next budget laptop chip may have no performance cores at all",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "TechSpot",
-     "trust": 2,
-     "url": "https://techspot.com/news/114403-intel-next-budget-laptop-chip-may-have-no.html",
-     "title": "Intel's next budget laptop chip may have no performance cores at all",
-     "lang": "en",
-     "extra": {},
-     "id": "81405cedf5867400",
-     "published": "2026-11-01T14:57+00:00",
-     "text": "Intel's current entry-level N-series chips also skip performance cores, and Moon Lake would bring that approach to the company's newer tile-based design. If the leak holds, it would be the next generation of the N-series processors found in many budget machines. Intel has not confirmed the specs.\nRead Entire Article"
-    }
-   ]
-  },
-  {
    "id": "cbaaef5f2f6",
    "kind": "news",
    "score": 13.0,
@@ -5450,6 +5610,19 @@
     {
      "source": "Google News Entertainment EN",
      "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejVxTEFZcW1vZVRXTk9odnNkZUJsTERZWTFhcUVVUTZwd2xPbVpnZVI0eC1aYWpzMGVpS0k5dVJkVWVHWFJvbHItRmtXTjN6NkhhZ0g1d1VtSHdqTjZTeUZoS3VmSnlxaGNkcDA5QV9BWU8wYzVFYml3RWxiQlVxWGhhaDRxTm5wR2FMcW1aZUplTHdvTkpmQ2hFU19lYXR3VDBiTXBTdU54QUJzcnhlcV9CRTZtejdoMDM4VTJhUDQ?oc=5",
+     "title": "Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "9bfa23b676f7ec8e",
+     "published": "2026-11-01T18:31+00:00",
+     "text": "- Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume Rolling Stone\n- Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing Page Six\n- Martha Stewart’s Reason For Dressing Like A ‘Hungry’ Homeless Person For Halloween Backfires: ‘Tone Deaf’ Yahoo\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart Slammed for Tone-Deaf Costume The Daily Beast"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFN2dWNBeUJhLVJfUFdTc01PZWNNbXlNSDBTSndxYXJCckFpekx4T2xWbVphWWpkQ1BQQWRwMGJ1MU9iX09rS0JFTHVFclpWQmVuNkJZTWl3ZklLVTZYVUVCeWU5WEFGQXFNZGN2ZlZVSkxNdXZDUzRLbl9oMXlNelFYWUpXanktcWRkX0U0RFQyT2VEWFhHMmVNa3I5akE?oc=5",
      "title": "Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume",
      "lang": "en",
@@ -5463,24 +5636,52 @@
    ]
   },
   {
-   "id": "c7b81243ad3",
+   "id": "c74f7072876",
    "kind": "news",
    "score": 13.0,
    "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "5 pétaflops contre les tempêtes solaires : on a visité Space HPC, le premier supercalculateur de l’ESA",
+   "distinct_sites": 3,
+   "title_hint": "‘Criminal Minds: Evolution’ Cast Reacts to Show’s Cancellation: “There’s So Many More Stories to Tell”",
    "official_image": null,
    "sources": [
     {
-     "source": "Numerama",
+     "source": "Hollywood Reporter",
      "trust": 2,
-     "url": "https://numerama.com/sciences/2361763-5-petaflops-contre-les-tempetes-solaires-on-a-visite-space-hpc-le-premier-supercalculateur-de-lesa.html",
-     "title": "5 pétaflops contre les tempêtes solaires : on a visité Space HPC, le premier supercalculateur de l’ESA",
+     "url": "https://hollywoodreporter.com/tv/tv-news/criminal-minds-evolution-cast-react-cancellation-1236744378",
+     "title": "‘Criminal Minds: Evolution’ Cast Reacts to Show’s Cancellation: “There’s So Many More Stories to Tell”",
      "lang": "en",
-     "extra": {},
-     "id": "7b81243ad3c21d13",
-     "published": "2026-11-01T15:05+00:00",
-     "text": "Inauguré en mars 2025 au centre ESRIN de Frascati, près de Rome, Space HPC compte environ 34 000 cœurs de processeur et 108 puces graphiques Nvidia H100. C'est le premier supercalculateur qui appartient à l'Agence spatiale européenne (ESA). Un an et demi après son inauguration, Numerama a pu le visiter sur place."
+     "extra": {
+      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Criminal-Minds-Evolution-season-20-publicity-H-2026.png?w=1296&h=730&crop=1"
+     },
+     "id": "74f70728761bf1cd",
+     "published": "2026-11-01T18:50+00:00",
+     "text": "Following the news of Criminal Minds: Evolution‘s cancellation, some of the show’s castmembers are taking to social media to share their reaction.\nOn Friday, it was announced that the long-running police procedural would be ending after its forthcoming 20th season and fifth since it adopted the Evolution subtitle after moving to Paramount+.\nKirsten Vangsness, who has played technical analyst Penelope Garcia since season one, said in a video posted on Instagram, “Social media is sort of like getting to do your own press conference I guess. This has happened. It’s being cancelled but then it says right there it’s ending ‘for now,'” as she pointed to a story about the series ending.\nRelated Stories\n“You know the part in Charlie and the Chocolate Factory where Charlie gets the chocolate and it’s a little bittersweet. He’s like, ‘Thank you so much for the chocolate.’ Look at how long [20 seasons], that doesn’t happen ever,'” she continued. “But I love my job and my boss Erica Messer says there’s so many more stories to tell. So if we get to keep telling them somewhere that would be amazing. I know all of us feel the same way.”\nVangsness also revealed in the video’s comments that the cast learned the cancellation news at the same time as fans.\nRJ Hatanaka, who joined the show during season 16 as FBI agent Tyler Green, shared a photo of the cast on Instagram with the caption, “Just the finest group of people.”\nA.J. Cook, who has played special agent Jennifer “JJ” Jareau since season one, reshared Hatanaka’s post on her Instagram Story, adding, “These people own my heart forever and always.” She posted another photo on Halloween of her holding a tombstone for JJ, with the caption, “Rest in peace JJ (for now).”\nPaget Brewster, who has been playing special agent Emily Prentiss since season two, posted a photo of herself on social media, with the words “Free Agent.”\nAisha Tyler, who has portrayed Dr. Tara Lewis since season 11, also reposted Hatanaka’s photo and added the message, “Family for life.”\nCriminal Minds: Evolution also stars Joe Mantegna as special agent David Rossi and Adam Rodriguez as special agent Luke Alvez.\nThe show’s final season is set to premiere in 2027."
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/tv/news/criminal-minds-evolution-cancellation-reactions-1236936927",
+     "title": "‘Criminal Minds: Evolution’ Stars A.J. Cook, Paget Brewster and More React to Series Cancellation: ‘Rest in Peace’",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/03/Criminal-Minds-Evolution.jpg?w=1000&h=563&crop=1"
+     },
+     "id": "790fc31a34f7f44b",
+     "published": "2026-11-01T20:37+00:00",
+     "text": "Following the news that “Criminal Minds: Evolution” has been canceled at Paramount+, stars A.J. Cook, Paget Brewster, Kirsten Vangsness and more are looking back on the crime drama’s 20 Season run.\nThe announcement seems to have come at the perfect time to mourn a TV show, as Cook chose to mark the end of this installment of “Criminal Minds” with a photo of her dressed up for Halloween, wearing a tombstone for Jennifer Jareau, the special agent who she’s played since “Criminal Minds” debuted in 2005. (Jareau, also known as JJ, was the BAU’s media/police liaison before becoming a profiler in later seasons.) She captioned the snap, “Rest in peace JJ (for now) #criminalminds #halloween #stillprocessing.”\nBrewster, who played FBI supervisory special agent Emily Prentiss since “Criminal Minds” Season 2, shared a black-and-white photo with the text “Free Agent.” RJ Hatanaka also kept his tribute short and sweet, sharing a photo of the cast with the caption, “Just the finest group of people.” Hatanaka, who played FBI agent Tyler Green, joined the show in Season 16.\n“Social media is sort of like getting to do your own press conference I guess. This has happened. It’s being canceled, but then it says right there it’s ending ‘for now,’” said Vangsness in a video shared on Instagram. The actress, who played Penelope Garcia, a technical analyst beloved in part for her relationship with agent Derek Morgan (Shemar Moore) during the show’s original run, has portrayed the character since Season 1.\nShe continued: “You know the part in ‘Charlie and the Chocolate Factory’ where Charlie gets the chocolate, and it’s a little bittersweet. He’s like, ‘Thank you so much for the chocolate.’ Look at how long, that doesn’t happen ever,’” she continued, referencing the show’s 20 Season run. “But I love my job, and my boss Erica Messer says there are so many more stories to tell. So if we get to keep telling them somewhere, that would be amazing. I know all of us feel the same way.”\nIn the video caption, she wrote that her “heart fireworks in appreciation for the time at this job @criminalminds and my co-horts at fake murder camp @pagetpagetgram @ajcook @aishatyler @rjhatanaka @adamrodriguez @joemantegna.”\nNews first broke that the long-running procedural would end with its 20th season on Friday. “Evolution,” which picks up after the events of the original “Criminal Minds,” was originally revived for Season 16 back in 2022, and continued the show after it was renewed for a fifteenth and final season at CBS in Jan. 2019. Season 19 aired between May and July earlier this year. Season 20 will air in 2027.\n“Evolution” also stars Joe Mantegna, Aisha Tyler and Adam Rodriguez."
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/11/criminal-minds-evolution-stars-react-cancellation-1237210934",
+     "title": "‘Criminal Minds: Evolution’s Paget Brewster, Kirsten Vangsness & More React To Cancellation: “The Finest Group Of People”",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/11/CME_1909_MY_0826_001923_RT.jpg?w=1024"
+     },
+     "id": "743d51fc4a0e63da",
+     "published": "2026-11-01T20:45+00:00",
+     "text": "As Criminal Minds: Evolution heads into its 20th and final season, the cast of the Paramount+ procedural is reacting to its cancellation.\nFollowing the news of the series’ pending conclusion, Paget Brewster, Kirsten Vangness and RJ Hatanaka were among the show’s stars to share their reactions on social media to the show ending after 20 years and two iterations.\nBrewster, who plays BAU Unit Chief Emily Prentiss, posted a selfie with the words, “Free Agent…”\nVangsness, the actress known for playing analyst Penelope Garcia, wrote on Instagram, “My heart fireworks in appreciation for the time at this job @criminalminds and my cohorts at fake murder camp.”\nWatch on Deadline\n“This has happened,” she said in a video, sharing a screenshot of Deadline’s coverage. “It’s being canceled, but then it says right there, ‘It’s ending for now.'”\nVangsness noted that showrunner Erica Messer has said there’s “so many more stories to tell,” adding, “So, if we get to keep telling them somewhere, that would be amazing. And I know all of us feel the same way.”\nRJ Hatanaka, who plays Special Agent Tyler Green, shared a cast photo. “Just the finest group of people,” he captioned the post.\nAfter running for 15 seasons from 2006-2020 on CBS as Criminal Minds, Paramount+ saved the crime procedural with the Evolution continuation in 2022. Deadline reported the official cancellation on Friday, marking the first under Skydance-appointed Casey Bloys, as recommended by the previous Paramount+ regime.\nShowrunner Erica Messer said of the cancellation, “It’s hard to put into words what Criminal Minds has meant to all of us who have been fortunate enough to be part of this extraordinary journey, first on CBS for 15 seasons and then on Paramount+ for five. While suddenly navigating the end of this chapter, I’m filled with gratitude for our remarkable cast, writers, directors and crew who have poured their hearts into this show, and for the incredible fans around the world whose unwavering loyalty has kept Criminal Minds going for two decades. We’re looking forward to sharing Season 20 with everyone, and celebrating the legacy of this special show we’ve all built together.\nPremiering in 2027, Season 20 wrapped production earlier this fall, meaning the finale will doubtfully give fans closure for the show."
     }
    ]
   },
@@ -5836,203 +6037,6 @@
    ]
   },
   {
-   "id": "cde091a9da3",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Here's a New Tour of Apple's HomeView Software",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "MacRumors",
-     "trust": 2,
-     "url": "https://macrumors.com/2026/10/31/apple-homeview-software-tour",
-     "title": "Here's a New Tour of Apple's HomeView Software",
-     "lang": "en",
-     "extra": {},
-     "id": "de091a9da37cb6c4",
-     "published": "2026-10-31T15:47+00:00",
-     "text": "Broadcasts app developer Steve Troughton-Smith has shared a Halloween treat for us today: a tour of the software on Apple's upcoming HomeView smart home hub. Apple has already demoed the HomeView to selected tech reporters and content creators, but Troughton-Smith offers a closer look at several features, interfaces, and apps.\nUsing a virtualized HomeView created by Guilherme Rambo, Troughton-Smith provided a closer look at the home screen, Control Center, clock faces like Flow and Snoopy, and apps like Timers, Alarms, World Clock, and Settings. Note that while the virtualized HomeView shows an Ethernet menu, the device actually supports Wi-Fi only.\nHomeView supports up to six users. The device has a built-in camera that can recognize people and display their personal content in apps like Messages, Calendar, Reminders, FaceTime, and Find My. Rambo and Troughton-Smith have yet to bypass this recognition requirement with the virtualized HomeView, so those apps are all locked.\nTroughton-Smith revealed that the HomeView will have a Liquid Glass slider that lets you adjust how clear or tinted the interface elements look, and he also confirmed that the device's keyboard supports QuickPath swipe typing.\nHe also provided a closer look at the HomeView's music player, video player in both wide and square formats, and AirPlay pairing interface.\nYesterday, Rambo and our contributor Aaron Perris provided a look at the HomeView's wallpapers, \"hello\" setup screen, and more. All of these findings come after Apple released the HomeView's software ahead of the device's launch on Friday, November 13. Apple is currently accepting pre-orders, with U.S. pricing set at $299.\nRambo and Troughton-Smith said the HomeView's software is based on the Apple TV's tvOS.\nThis article, \"Here's a New Tour of Apple's HomeView Software\" first appeared on MacRumors.com\nDiscuss this article in our forums"
-    },
-    {
-     "source": "Fast Company",
-     "trust": 2,
-     "url": "https://fastcompany.com/91626179/apple-homeview",
-     "title": "How HomeView foreshadows Apple’s post-app, Siri-first future",
-     "lang": "en",
-     "extra": {},
-     "id": "44194e17cd0a030e",
-     "published": "2026-11-01T04:30+00:00",
-     "text": "As the iPhone grew into an unprecedented success, Apple was marching its users toward millions of downloads to the drumbeat of “There’s an app for that.” Meanwhile, Amazon and Google were flooding homes with waves of TV platforms, smart speakers, and cameras. These products and their underlying connectivity standards formed a deep foundation to support a new generation of AI-driven services far surpassing those of Google Assistant and the original Alexa.\nAt its home product launch on October 13, Apple updated its Apple TV and HomePod mini speakers. But all eyes were on HomeView. The touchscreen family hub is spinning and tilting the company toward a new direction led by a reinvented Siri and away from a dedicated app-first ecosystem.\nIf the iPad was originally dismissed as a large iPod Touch, the HomeView—with its 1:1 aspect ratio and widget-driven display—may at first evoke a large Apple Watch. But not for long. The device can be mounted on a wall or tilted on a domed aluminum speaker base that has the metallic texture of a Mac mini as opposed to the cozier cloth stylings of a HomePod mini. And if the frenetic 3-minute family morning tableau Apple produced to showcase the device proves accurate, we can expect it to serve up a whirlwind of multimodal interactions as opposed to the tap-and-takeaway interactions of Apple’s wrist computer.\nOn the other hand, HomeView’s platform philosophy borrows from another Apple experience: CarPlay, which presents apps installed on the connected iPhone on automakers’ dashboard displays. While HomeView is an independent device, it still has strong ties to the iPhone, which provides its personalization and app engine.\nAmazon and Google smart screens have long featured cameras and personalized their experiences for recognized individuals. But Apple has enabled much richer personalization on the fly by using iPhone proximity to determine who’s using HomeView. It’s a best-of-both-worlds approach that Google should absolutely adopt with Android should it revive its Nest Home displays. The approach would also benefit both the Apple TV box and service, the latter of which trails Netflix, Disney+, Peacock, and others in supporting viewer profiles.\nThough HomeView offers far more of a standalone experience than CarPlay, it doesn’t have its own app store. Nor does it introduce a “homeOS” (Apple says it’s powered by “HomeView software”) to complement Apple’s family of operating systems for its computers, phones, watches, and TV devices. It‘s Apple’s first “post-app” device, similar to the way the iPhone was its first major “post-PC” platform.\nOf course, that doesn’t mean that apps have vanished, any more than PCs (including Macs) did in the post-PC era. But as it created a device that serves as a primary interface for smart homes, Apple—like Google and Amazon before it— has recognized that an app store is not the ideal approach.\nDevelopers can indirectly introduce apps onto HomeView by including support for the device in their iPhone apps, the same way CarPlay works. In fact, third-party iPhone audio and video apps that support CarPlay, such as Spotify and Audible, should work out of the gate on HomeView.\nHowever, this approach can lead to relevant apps not getting noticed by consumers, if they’re not as compelling on the iPhone. Conversely, less relevant HomeView apps could also show up on the device simply because they’re companion components of an iPhone app.\nIn any case, while the HomeView may not have as rich "
-    },
-    {
-     "source": "MacRumors",
-     "trust": 2,
-     "url": "https://macrumors.com/2026/11/01/apple-homeview-six-month-old-software",
-     "title": "Apple's HomeView Ships With Six-Month-Old Software",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://images.macrumors.com/t/hDGkYUBX7leA4HwBu6c7d-XhWog=/2071x/article-new/2026/10/homeview_home_screen_feature-1.jpg"
-     },
-     "id": "7487a2ccfa72b59e",
-     "published": "2026-11-01T15:37+00:00",
-     "text": "It is well known that Apple's new HomeView smart home hub was significantly delayed, and there is now yet another piece of evidence: the device will initially ship with six-month-old HomeView software version 26.5, according to AppleDB. When setting up the HomeView, users will be prompted to update to HomeView software version 27.2. The device launches Friday, November 13.\nThis article, \"Apple's HomeView Ships With Six-Month-Old Software\" first appeared on MacRumors.com\nDiscuss this article in our forums"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13TGkyV0ROVk1SU196d0ktUS1YTG44UC1WT0NHRVpBRVpfdWJhamN5NFZHamJkUFJmdnZFbVk0bUpkWHJvMXdFNXhtNVo0YjdoNGpKZVBBdmlvN1M4N255VnhnUGN1Vmh0YVhjdGtrTTNCc3g3?oc=5",
-     "title": "Here's a New Tour of Apple's HomeView Software",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "d79f86d6f11ebeb7",
-     "published": "2026-10-31T15:47+00:00",
-     "text": "- Here's a New Tour of Apple's HomeView Software MacRumors\n- How Do Apps On The HomeView Work, And What Does CarPlay Have To Do With It? Engadget\n- How HomeView foreshadows Apple’s post-app, Siri-first future Fast Company\n- HomeView Software 27.2 Reveals Wallpapers, Control Center and More Mezha.net\n- Apple HomeView Tour: Liquid Glass, Snoopy & 5 Perks [2026] shattered.io"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaG9JQnBhN3laU3Eyb2ZNdjJvOGdBTm41NTU1NjlxUnY1M3lpckZIOWNNeWg4UHNtbXJ0ekNzTXdVb3ZfenhRc1RpMGdodW5vRUxJMDNQTDJtakZBWUt4MDVYVVZJTmVJQ1RwbUlRb2tibmM1VUZzTG1abnFkc21CcQ?oc=5",
-     "title": "Apple's HomeView Ships With Six-Month-Old Software",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "49b6bfa2fa27fa69",
-     "published": "2026-11-01T15:37+00:00",
-     "text": "- Apple's HomeView Ships With Six-Month-Old Software MacRumors\n- Here's a New Tour of Apple's HomeView Software MacRumors\n- How Do Apps On The HomeView Work, And What Does CarPlay Have To Do With It? Engadget\n- How HomeView foreshadows Apple’s post-app, Siri-first future Fast Company\n- HomeView Software 27.2 Reveals Wallpapers, Control Center and More Mezha.net"
-    }
-   ]
-  },
-  {
-   "id": "ce8debdb21f",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Iranian Envoys Meet Qatari Mediators as Threat Looms of US Strikes After Midterms",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336024",
-     "title": "Iranian Envoys Meet Qatari Mediators as Threat Looms of US Strikes After Midterms",
-     "lang": "en",
-     "extra": {},
-     "id": "e8debdb21f208164",
-     "published": "2026-10-31T16:09+00:00",
-     "text": ""
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
-     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-     "lang": "en",
-     "extra": {},
-     "id": "370442b7e3261742",
-     "published": "2026-10-31T19:24+00:00",
-     "text": ""
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/middle-east/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-3009168",
-     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-     "lang": "en",
-     "extra": {},
-     "id": "23a3d019cae5c5dd",
-     "published": "2026-10-31T21:14+00:00",
-     "text": "DUBAI/ATLANTA: Iranian negotiators held talks in Doha with Qatari mediators on Saturday to discuss paths out of war in the Gulf, a source who was briefed on the negotiations told Reuters, as diplomats try to avert new fighting after the US midterm elections this week. US Secretary of State Marco Rubio said on Saturday that President Donald Trump has not decided whether to launch new strikes against Iran, but would prefer to resolve the conflict diplomatically. Trump has held off on strikes on Ir"
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMjFnYWtnU1ZZVGZaaGJaNzNSQVpBUFA5dzFCbW44Tk83SVo2dHJkbmwtYXh5anBEbjlTU2pOemI5OE1vRUFaM3FmQnduX1M0U3FpZXpkYW5aMlh1aEtiZ1J3U3JPMmFyY3hBOVRjY2JfOXdWaXdqOGVKU0pGY1MtcTZzNERVbVhFaEVpVXhMNllEYnNEbzR0eGlWeko3UE50RlphYlJpYW15WGRtVG5MRVphczA4WU1YdGFOMmNSN0lLTmpz?oc=5",
-     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-     "lang": "en",
-     "extra": {},
-     "id": "096839a789ab1d8c",
-     "published": "2026-10-31T21:14+00:00",
-     "text": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms\nArab News"
-    }
-   ]
-  },
-  {
-   "id": "c6376b050fb",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Iran's Khamenei warns US and Israel against new attacks",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
-     "title": "Iran's Khamenei warns US and Israel against new attacks",
-     "lang": "en",
-     "extra": {},
-     "id": "6376b050fbd723e2",
-     "published": "2026-10-31T17:00+00:00",
-     "text": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened military action on the Islamic republic but US Secretary of State Marco Rubio said Trump had not yet made a decision about fresh strikes."
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEVLeUN1bUlsdEFHZl9zQklibGpZTHFxekVxTEJVOVJUQWRvUExWZ1p4OEVfY3lzNEIxMkJoSXlEY29KT2FwWGFnejlZazRMVXF0X0xMTTc0SV9kaUljeDktQ1NqUEpnT1h0dS0wLUx0TDg4Wks3TDFDclk2MTk3MUJXRHFWaU9xcXFieWl1SkkydTliS054TFFvQ2xuV2ZTQWM5MU93?oc=5",
-     "title": "Iran warns US and Israel: What to know as fears of wider conflict grow",
-     "lang": "en",
-     "extra": {},
-     "id": "b2422aae6d508c53",
-     "published": "2026-10-31T18:09+00:00",
-     "text": "Iran warns US and Israel: What to know as fears of wider conflict grow\nGulf News"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks",
-     "title": "Iran's supreme leader warns U.S., Israel against new attacks",
-     "lang": "en",
-     "extra": {},
-     "id": "e146fa31649e8341",
-     "published": "2026-10-31T22:10+00:00",
-     "text": "Secretary of State Marco Rubio said Saturday no decision has yet been made on whether to renew hostilities with Iran."
-    },
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/news/2026/11/01/world/iran-warns-us-israel",
-     "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571605.jpg?v=3.1"
-     },
-     "id": "a9e56fb5e1d7da27",
-     "published": "2026-11-01T00:55+00:00",
-     "text": "Tehran – Iran’s supreme leader warned the United States and Israel on Saturday of fresh attacks following their threats to resume strikes after crucial elections, as fears increased over a return to fighting.\nU.S. President Donald Trump suggested he could launch fresh military action after the United States holds its midterm elections.\nBut U.S. Secretary of State Marco Rubio said Saturday: “If there is a diplomatic solution, we would be open to it.”\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ?oc=5",
-     "title": "Iran's Khamenei warns US and Israel against new attacks - France 24",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "b69d3e87ad0db537",
-     "published": "2026-10-31T17:00+00:00",
-     "text": "- Iran's Khamenei warns US and Israel against new attacks France 24\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News\n- Iran’s Khamenei Orders Military to Expand US Retaliation Plans Bloomberg.com"
-    }
-   ]
-  },
-  {
    "id": "c38206f68dc",
    "kind": "free",
    "score": 6.5,
@@ -6168,15 +6172,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-01/20",
+     "url": "https://market.local/crypto/2026-11-01/21",
      "title": "Market snapshot crypto 2026-11-01",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T20:36+00:00",
-     "text": "Bitcoin: $77,709 (+0.3% 24h)\nEthereum: $2,258 (+0.3% 24h)\nSolana: $94.03 (-1.6% 24h)\nToncoin: $1.22 (+1.4% 24h)"
+     "published": "2026-11-01T21:06+00:00",
+     "text": "Bitcoin: $77,860 (+0.6% 24h)\nEthereum: $2,263 (+0.5% 24h)\nSolana: $94.26 (-1.3% 24h)\nToncoin: $1.22 (+1.3% 24h)"
     }
    ]
   },
