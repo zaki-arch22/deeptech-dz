@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T19:07:02+00:00",
+ "generated_at": "2026-11-01T19:37:14+00:00",
  "clusters": [
   {
    "id": "cb8087c5f39",
@@ -146,7 +146,7 @@
   {
    "id": "cc050767038",
    "kind": "news",
-   "score": 26.0,
+   "score": 25.0,
    "sensitive": true,
    "distinct_sites": 8,
    "title_hint": "How North Korea perfected the crypto heist",
@@ -284,19 +284,6 @@
      "id": "2168f8348cd4d33a",
      "published": "2026-11-01T06:30+00:00",
      "text": "- FBI blames North Korea for stolen billions from Binance in biggest hack in history ABC News - Breaking News, Latest News and Videos\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds Reuters\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFFjYl9LMUZsLVc3aDB3UmpoR3l6MGVxZ001eU16UVh4WWlzM1ZoRWJHTjU5Z1dObm9OVzFNYlpSUFdCd0c3eTVUMFNZdUNMbWZsRnZnSlZyaGhsRE51VHVIZnljZDU2QWF0cGt0ZEZfeVdzd2s3WGpyQXlUUm1kcEdDZlZaZHlUYlBHcmVwcEt0YVJ4MUHSAZYBQVVfeXFMTnp0eFpCRi00X2V4aXNEMjNrZE1iX3BNX1hLSWhTYWhwcVVIYjlPTmdRWmh2bUpqLXVTY2JzTDJvamlfSHJ6d1gzaHExNlF3eTZaQzZnX1JCMXM5WnNqVDlrQmdNYVI4bEx4amF5bmtkLXEyWE42OUliMldSRlVIQS02LXNGX0s2eXctQy1GUDRTZXlNUTB3?oc=5",
-     "title": "FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "64ca4377590dad87",
-     "published": "2026-11-01T09:02+00:00",
-     "text": "- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Long accused of abetting crypto crimes, Binance has now become a victim AP News"
     }
    ]
   },
@@ -419,9 +406,9 @@
   {
    "id": "c294dba0c45",
    "kind": "news",
-   "score": 22.0,
+   "score": 24.0,
    "sensitive": false,
-   "distinct_sites": 9,
+   "distinct_sites": 10,
    "title_hint": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range",
    "official_image": null,
    "sources": [
@@ -520,6 +507,17 @@
      "text": "Filmmaker Michael Mann was injured at a gun range in Los Angeles, his representative said."
     },
     {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/heat-director-michael-mann-hospitalized-after-accidentally-shooting-himself-in-the-leg",
+     "title": "Heat Director Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg",
+     "lang": "en",
+     "extra": {},
+     "id": "a60ff3ec85121ecf",
+     "published": "2026-11-01T19:02+00:00",
+     "text": "Heat director Michael Mann was hospitalized with minor injuries after accidentally shooting himself in the leg at a Los Angeles gun range on Halloween.\nTMZ confirmed the news with local authorities and the filmmaker's representative today. Mann was reportedly sent to the hospital for treatment and is in the process of being released.\n\"On Saturday, at a gun range, a weapon accidentally discharged while holstered resulting in a superficial injury to film director Michael Mann,\" his representative said this morning. \"He was treated and is being released.\"\nMann is known for his role in developing some of the biggest crime dramas of the last 40 years and, as noted by TMZ, is a highly experienced target shooter himself. The site described the incident as having occurred during a training exercise of some kind, with its sources saying the 83-year-old director had no intention of harming himself. Additional details are unclear.\nAn ambulance ride to the hospital is probably not how Mann wanted to spend his Halloween in Los Angeles. While the accident took a bite out of his weekend, the filmmaker is currently putting the pieces of his long-awaited Heat follow-up together behind the scenes.\nOur first big confirmation that the ball was rolling for Heat 2 arrived in February of this year when The Dark Knight star Christian Bale confirmed he was set to start filming the movie in Chicago soon. Inception's Leonardo DiCaprio boarded the project in July, with both he and Bale then reportedly said to play Chris Shiherlis and Vincent Hanna, respectively. Filming was expected to begin in November, this month, at the time.\nMann is also responsible for movies like Ferrari, Public Enemies, and Manhunter. Also expected to appear in Heat 2 are Adolescence's Stephen Graham and The Bear's Ebon Moss-Bachrach. Story details about the follow-up aren't completely clear, though we do know that it will have Mann's novel of the same name to lean on.\nWhile we wait to hear more from Mann, you can check out IGN's 8/10 review of Heat's Blu-ray release. You can also read our 7/10 review of Ferrari.\nPhoto by Dia Dipasupil/WireImage."
+    },
+    {
      "source": "Google News Entertainment EN",
      "trust": 1,
      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVB5cGIzWUZRTXZDVUthU0lPSUQ1RXpNSzJVOGtXTm1NTkdrWVRDUHB2eEdNcV82XzJnWVNuc0V3cVgzQnBndE1wMTZEMXF4ZGZ2cGhCRlZjQmFkVFlGckZ5LTVwTFRNVHRiTnJOYno5Wmg0RkR5Q0d6SnIxRjQ4ZDVvdEY1UQ?oc=5",
@@ -570,6 +568,19 @@
      "id": "20b8cb027a0313b3",
      "published": "2026-11-01T14:55+00:00",
      "text": "- Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range IndieWire\n- ‘Heat’ director Michael Mann accidentally shoots himself at L.A. gun range Los Angeles Times\n- ‘Heat' director Michael Mann suffers minor injury in accidental gun range shooting NBC Los Angeles\n- Director Michael Mann accidentally shoots himself in the leg at gun range The Guardian\n- Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg at Los Angeles Gun Range Variety"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVE1YMkZkb1VxdE5ieEIwZ0lpdExiX3NVZjRhZFl2aHB0SmIwX1VYRkdFZnotN2EySllGZnVXTm12XzU2c0FoT3MwSllOdXVkTVV6aTlIdF9lU3VnN3dLQnBCTlVVaG9HZjFsOUFBTnk1WmhjODVLZ0ZTX1RuaThndVlHc0RMS1NpU3c3ZmRGRktOYjM1UXc?oc=5",
+     "title": "Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg at Los Angeles Gun Range",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "1c6308803e7c28ac",
+     "published": "2026-11-01T15:16+00:00",
+     "text": "- Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg at Los Angeles Gun Range Variety\n- Director Michael Mann hospitalized after shooting himself at L.A. gun range: reports KTLA\n- ‘Heat’ director Michael Mann injured in accidental weapon discharge at LA gun range NBC News\n- ‘Heat’ director Michael Mann accidentally shoots himself at L.A. gun range Los Angeles Times\n- 'Heat' director Michael Mann sustains 'superficial injury' at Los Angeles gun range ABC7 Los Angeles"
     },
     {
      "source": "Google News Entertainment EN",
@@ -765,17 +776,6 @@
      "text": ""
     },
     {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
-     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
-     "lang": "en",
-     "extra": {},
-     "id": "3b6bb0c06269b687",
-     "published": "2026-11-01T07:33+00:00",
-     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
-    },
-    {
      "source": "PBS NewsHour",
      "trust": 2,
      "url": "https://pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history",
@@ -811,6 +811,19 @@
      "id": "fe9a6ec2b57b5e87",
      "published": "2026-11-01T06:48+00:00",
      "text": "- FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist The Hacker News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals following $6.3 billion breach TechCrunch\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFFjYl9LMUZsLVc3aDB3UmpoR3l6MGVxZ001eU16UVh4WWlzM1ZoRWJHTjU5Z1dObm9OVzFNYlpSUFdCd0c3eTVUMFNZdUNMbWZsRnZnSlZyaGhsRE51VHVIZnljZDU2QWF0cGt0ZEZfeVdzd2s3WGpyQXlUUm1kcEdDZlZaZHlUYlBHcmVwcEt0YVJ4MUHSAZYBQVVfeXFMTnp0eFpCRi00X2V4aXNEMjNrZE1iX3BNX1hLSWhTYWhwcVVIYjlPTmdRWmh2bUpqLXVTY2JzTDJvamlfSHJ6d1gzaHExNlF3eTZaQzZnX1JCMXM5WnNqVDlrQmdNYVI4bEx4amF5bmtkLXEyWE42OUliMldSRlVIQS02LXNGX0s2eXctQy1GUDRTZXlNUTB3?oc=5",
+     "title": "FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "64ca4377590dad87",
+     "published": "2026-11-01T09:02+00:00",
+     "text": "- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Long accused of abetting crypto crimes, Binance has now become a victim AP News"
     }
    ]
   },
@@ -1285,6 +1298,67 @@
    ]
   },
   {
+   "id": "ce07dacdb45",
+   "kind": "news",
+   "score": 19.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "TechCrunch",
+     "trust": 2,
+     "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+     "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800"
+     },
+     "id": "e07dacdb45dcc75e",
+     "published": "2026-10-31T21:17+00:00",
+     "text": "A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit accusing the SpaceX-owned company of failing to obtain permits needed to operate the gas turbines powering its Colossus data center outside Memphis.\nSuing on behalf of the NAACP, the Southern Environmental Law Center said the AI company had “installed and operated at least 35 combustion turbines and other sources of air pollution at the Colossus site without ever obtaining the necessary preconstruction or operating air permits.” It also accused xAI of violating the Clean Air Act.\nxAI sought to have the lawsuit dismissed, claiming that the turbines are exempt from permitting requirements because they’re mobile. The company also argued that the plaintiffs did not have the standing to sue.\n“Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not ‘mobile sources’ under Mississippi’s [State Implementation Plan], and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs’ claims will proceed,” Judge Debra M. Brown wrote in her decision.\nFocusing on xAI’s claim that these kinds of citizen lawsuits are unconstitutional, Judge Brown wrote, “Because citizen suit plaintiffs sue on their own behalf, in their own name, and seek penalties that redress harm to themselves, they are not exercising the federal government’s executive power.”\nTechCrunch has reached out to SpaceX for comment.\nIn a statement, the NAACP’s director of environmental and climate justice Abre’ Connor described this as “another important victory in our effort to hold xAI accountable.” (A similar motion to dismiss from the Department of Justice was denied earlier this month)\n“The courts have repeatedly rejected attempts by xAI and the DOJ to dismiss the NAACP’s Clean Air Act case, affirming our right to pursue justice for communities impacted by pollution,” Connor said. “Our position has been clear: xAI cannot operate gas turbines without the required permits.”\nThe NAACP lawsuit is moving forward as public opinion seems to have turned sharply against data centers, with New York recently passing a moratorium on new data centers and other state and local governments considering similar measures.\nThe backlash also prompted Amazon and Microsoft to promise to stop using NDAs in their dealings with government agencies, and it could be a significant factor in the imminent U.S. midterm elections."
+    },
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
+     "title": "Judge rejects xAI’s bid to dismiss NAACP lawsuit over its gas turbines",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.thenextweb.com/2026/11/gas-turbines-power-plant-southaven-mississippi-aerial.jpg"
+     },
+     "id": "45126b525e21c871",
+     "published": "2026-11-01T14:26+00:00",
+     "text": "A federal judge in Mississippi has refused to throw out the NAACP’s Clean Air Act lawsuit against xAI. The case is over the gas turbines that power its Colossus 2 data centre. Judge Debra M. Brown ruled on Friday that the turbines are not exempt from air permits as “mobile sources”.\nShe also rejected xAI’s argument that lawsuits brought by citizen groups under the Clean Air Act are unconstitutional. Earthjustice represents the NAACP with the Southern Environmental Law Center. It published the court’s opinion and a statement on the ruling. xAI is now part of SpaceX.\n“Because citizen suit plaintiffs sue on their own behalf, in their own name, and seek penalties that redress harm to themselves, they are not exercising the federal government’s executive power.” Judge Debra M. Brown, in her opinion\nWhat the NAACP claims\nThe NAACP and its Mississippi State Conference sued xAI and its subsidiary MZX Tech in April. The complaint says the companies installed gas turbines at the Southaven plant between August and December 2025 without permits. By April there were at least 27 turbines, the complaint says. Together they can generate at least 495 megawatts.\nThe NAACP says they could emit about 1,700 tons of nitrogen oxides a year, a main cause of smog. It wants a court to order pollution controls. It also seeks civil penalties of up to $124,426 a day for each violation.\nxAI’s defence\nIn July 2025, Mississippi’s environmental regulator told xAI the turbines would be exempt from permits. It called them mobile, because each sat on a trailer. It also called them temporary, because each would stay less than 12 months. The company argued it relied on that view.\nThe judge found the regulator had “fairly notified” xAI of its position. But she said the court was not bound by it. Under the federal rules that Mississippi’s plan adopts, the plant is not a mobile source, she wrote. SpaceX has not commented publicly on the ruling.\nThe government’s attempt\nThe same court ruled against the US Justice Department on 19 October. The department had asked it to dismiss the case, after it backed xAI in June. The court let the department join the case but not end it, the Southern Environmental Law Center said.\nThe court has yet to rule on the NAACP’s request for a preliminary injunction. Residents near the plant have also filed a noise class action, and xAI has offered to buy nearby homes from owners who drop their claims.\nOn Tuesday, voters in 10 US states will decide on measures to limit data centres, Courtney Rozen reported for Reuters.\n“The courts have repeatedly rejected attempts by xAI and the DOJ to dismiss the NAACP’s Clean Air Act case.” Abre’ Conner, NAACP director of environmental and climate justice, in a statement\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
+    },
+    {
+     "source": "Engadget",
+     "trust": 2,
+     "url": "https://engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution",
+     "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.engadget.com/img/gallery/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/l-intro-1793560530.jpg"
+     },
+     "id": "ff8fd549951972c5",
+     "published": "2026-11-01T19:19+00:00",
+     "text": "Judge says xAI must face NAACP lawsuit on data center pollution\nThe legal battle revolves around the AI company’s operations in southern Memphis.\nA federal judge's latest ruling has denied xAI's request to dismiss a lawsuit that alleges its data center campus in Memphis, Tennessee is running turbines without proper permits and violating the Clean Air Act. The decision, from US District Judge Debra M. Brown, allows the lawsuit, which was filed by the NAACP, to move forward.\nThe organization filed its legal action against xAI in April, accusing the company that's now known as SpaceXSI of using unpermitted methane gas turbines to power data centers in the Memphis area. Despite the ongoing lawsuit that also claimed it's violating the Clear Air Act, Elon Musk's company continued to add more gas turbines to another AI data center site in the nearby Southhaven, Mississippi community. In response, xAI requested to dismiss the NAACP lawsuit and even received support from the Justice Department, which claimed that the company's operations are a crucial part of US military operations.\nxAI said the lawsuit should be dismissed, claiming that its turbines were exempt from permitting requirements since they were mobile. Judge Brown wrote in her decision that the power plant where all the turbines were providing power to xAI's data center wasn't mobile and therefore not exempt from the permitting process. The lawsuit comes at a time when AI companies are ramping up the construction of data centers to fuel their AI needs, while neighbors are becoming increasingly averse to these buildouts."
+    },
+    {
+     "source": "Reddit tech & AI",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xkqchy/judge_allows_naacp_lawsuit_over_xai_data_center",
+     "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+     "lang": "en",
+     "extra": {},
+     "id": "d2658a474082c0d5",
+     "published": "2026-11-01T01:04+00:00",
+     "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
    "id": "cfd04b66f83",
    "kind": "news",
    "score": 19.0,
@@ -1303,6 +1377,17 @@
      "id": "fd04b66f83a2c86b",
      "published": "2026-11-01T06:20+00:00",
      "text": ""
+    },
+    {
+     "source": "Yahoo Finance",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzl1TE9YTS1nMnBUenZ5X185WjBkMG1fZm9JSEJXM1lDV2hDTHI3bWFLS1hxaEo1ZHA5ZXNiYVQ0d2E5cTMzWmZQRkYzVDItTml5cTlwd0lzcG5ZZG5pcW9iTUZHajdLc2JLTjNJRUhNc3c3ZlZCTEowUFVZN1JPYWNRV3lDOGNEOWhWUkY0bFdlcDZQd1FGRy0xa3FYY3BiTUNtUWJoSQ?oc=5",
+     "title": "Binance says resuming withdrawals after major hack",
+     "lang": "en",
+     "extra": {},
+     "id": "e884367c1056111d",
+     "published": "2026-11-01T06:58+00:00",
+     "text": "Binance says resuming withdrawals after major hack\nYahoo Finance"
     },
     {
      "source": "France 24 EN",
@@ -1503,50 +1588,70 @@
    ]
   },
   {
-   "id": "ce07dacdb45",
+   "id": "cbb11ab35d0",
    "kind": "news",
    "score": 17.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’",
    "official_image": null,
    "sources": [
     {
-     "source": "TechCrunch",
+     "source": "Variety",
      "trust": 2,
-     "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
-     "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800"
-     },
-     "id": "e07dacdb45dcc75e",
-     "published": "2026-10-31T21:17+00:00",
-     "text": "A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit accusing the SpaceX-owned company of failing to obtain permits needed to operate the gas turbines powering its Colossus data center outside Memphis.\nSuing on behalf of the NAACP, the Southern Environmental Law Center said the AI company had “installed and operated at least 35 combustion turbines and other sources of air pollution at the Colossus site without ever obtaining the necessary preconstruction or operating air permits.” It also accused xAI of violating the Clean Air Act.\nxAI sought to have the lawsuit dismissed, claiming that the turbines are exempt from permitting requirements because they’re mobile. The company also argued that the plaintiffs did not have the standing to sue.\n“Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not ‘mobile sources’ under Mississippi’s [State Implementation Plan], and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs’ claims will proceed,” Judge Debra M. Brown wrote in her decision.\nFocusing on xAI’s claim that these kinds of citizen lawsuits are unconstitutional, Judge Brown wrote, “Because citizen suit plaintiffs sue on their own behalf, in their own name, and seek penalties that redress harm to themselves, they are not exercising the federal government’s executive power.”\nTechCrunch has reached out to SpaceX for comment.\nIn a statement, the NAACP’s director of environmental and climate justice Abre’ Connor described this as “another important victory in our effort to hold xAI accountable.” (A similar motion to dismiss from the Department of Justice was denied earlier this month)\n“The courts have repeatedly rejected attempts by xAI and the DOJ to dismiss the NAACP’s Clean Air Act case, affirming our right to pursue justice for communities impacted by pollution,” Connor said. “Our position has been clear: xAI cannot operate gas turbines without the required permits.”\nThe NAACP lawsuit is moving forward as public opinion seems to have turned sharply against data centers, with New York recently passing a moratorium on new data centers and other state and local governments considering similar measures.\nThe backlash also prompted Amazon and Microsoft to promise to stop using NDAs in their dealings with government agencies, and it could be a significant factor in the imminent U.S. midterm elections."
-    },
-    {
-     "source": "The Next Web",
-     "trust": 2,
-     "url": "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
-     "title": "Judge rejects xAI’s bid to dismiss NAACP lawsuit over its gas turbines",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.thenextweb.com/2026/11/gas-turbines-power-plant-southaven-mississippi-aerial.jpg"
-     },
-     "id": "45126b525e21c871",
-     "published": "2026-11-01T14:26+00:00",
-     "text": "A federal judge in Mississippi has refused to throw out the NAACP’s Clean Air Act lawsuit against xAI. The case is over the gas turbines that power its Colossus 2 data centre. Judge Debra M. Brown ruled on Friday that the turbines are not exempt from air permits as “mobile sources”.\nShe also rejected xAI’s argument that lawsuits brought by citizen groups under the Clean Air Act are unconstitutional. Earthjustice represents the NAACP with the Southern Environmental Law Center. It published the court’s opinion and a statement on the ruling. xAI is now part of SpaceX.\n“Because citizen suit plaintiffs sue on their own behalf, in their own name, and seek penalties that redress harm to themselves, they are not exercising the federal government’s executive power.” Judge Debra M. Brown, in her opinion\nWhat the NAACP claims\nThe NAACP and its Mississippi State Conference sued xAI and its subsidiary MZX Tech in April. The complaint says the companies installed gas turbines at the Southaven plant between August and December 2025 without permits. By April there were at least 27 turbines, the complaint says. Together they can generate at least 495 megawatts.\nThe NAACP says they could emit about 1,700 tons of nitrogen oxides a year, a main cause of smog. It wants a court to order pollution controls. It also seeks civil penalties of up to $124,426 a day for each violation.\nxAI’s defence\nIn July 2025, Mississippi’s environmental regulator told xAI the turbines would be exempt from permits. It called them mobile, because each sat on a trailer. It also called them temporary, because each would stay less than 12 months. The company argued it relied on that view.\nThe judge found the regulator had “fairly notified” xAI of its position. But she said the court was not bound by it. Under the federal rules that Mississippi’s plan adopts, the plant is not a mobile source, she wrote. SpaceX has not commented publicly on the ruling.\nThe government’s attempt\nThe same court ruled against the US Justice Department on 19 October. The department had asked it to dismiss the case, after it backed xAI in June. The court let the department join the case but not end it, the Southern Environmental Law Center said.\nThe court has yet to rule on the NAACP’s request for a preliminary injunction. Residents near the plant have also filed a noise class action, and xAI has offered to buy nearby homes from owners who drop their claims.\nOn Tuesday, voters in 10 US states will decide on measures to limit data centres, Courtney Rozen reported for Reuters.\n“The courts have repeatedly rejected attempts by xAI and the DOJ to dismiss the NAACP’s Clean Air Act case.” Abre’ Conner, NAACP director of environmental and climate justice, in a statement\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
-    },
-    {
-     "source": "Reddit tech & AI",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xkqchy/judge_allows_naacp_lawsuit_over_xai_data_center",
-     "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+     "url": "https://variety.com/2026/film/news/taika-waititi-defends-klara-and-the-sun-1236936368",
+     "title": "Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’",
      "lang": "en",
      "extra": {},
-     "id": "d2658a474082c0d5",
-     "published": "2026-11-01T01:04+00:00",
-     "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
+     "id": "bb11ab35d07f99f6",
+     "published": "2026-10-31T21:15+00:00",
+     "text": "Taika Waititi has taken to social media to defend “Klara and the Sun,” his latest directorial effort, amid poor reviews and bleak box office numbers, sharing an Instagram post featuring the film’s poster and its Rotten Tomatoes audience score of 78%. (In contrast, the critic score is 28% — the “Jojo Rabbit” director’s lowest yet). […]"
+    },
+    {
+     "source": "Hollywood Reporter",
+     "trust": 2,
+     "url": "https://hollywoodreporter.com/movies/movie-news/klara-and-the-sun-taika-waititi-slams-critics-reviews-1236744227",
+     "title": "‘Klara and the Sun’ Director Taika Waititi Calls Critics “Sad Lost Souls” Over Negative Reviews",
+     "lang": "en",
+     "extra": {},
+     "id": "3713202808be821b",
+     "published": "2026-10-31T22:41+00:00",
+     "text": "Set in a dystopian future, the film stars Jenna Ortega and Amy Adams."
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/10/taika-waititi-calls-klara-and-the-sun-critics-irrelevant-1237210687",
+     "title": "Taika Waititi Calls ‘Klara and the Sun’ Critics “Irrelevant, Out Of Touch, Obsolete”",
+     "lang": "en",
+     "extra": {},
+     "id": "6fb9ae24fc08bb30",
+     "published": "2026-10-31T23:28+00:00",
+     "text": "As Taika Waititi’s latest directorial effort gets its time in the sun, he has some choice words for critics attempting to rain on his parade. On Saturday, the Oscar winner boasted about Klara and the Sun‘s 78% Rotten Tomatoes audience score (now at 73%), while slamming the “sad lost souls” who gave the movie a […]"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/taika-waititi-blasts-critics-as-irrelevant-out-of-touch-obsolete-following-klara-and-the-suns-negative-reviews",
+     "title": "Taika Waititi Blasts Critics as 'Irrelevant, Out of Touch, Obsolete' Following Klara and the Sun's Negative Reviews",
+     "lang": "en",
+     "extra": {},
+     "id": "89a7749bf9e6027e",
+     "published": "2026-11-01T17:50+00:00",
+     "text": "Marvel filmmaker Taika Waititi has called critics \"sad lost souls who couldn't achieve their dreams\" after his latest film, Klara and the Sun, premiered with negative reviews.\nThe director behind projects like Jojo Rabbit and Thor: Love and Thunder unleashed his true feelings in a post on Instagram. Tied to an image shared by ScreenRant earlier this week that reflects audience reception to the live-action book adaptation, Waititi posted an emoji-filled message taking aim at the reviewers who walked away from his new movie unimpressed.\n\"I haven't read a review of anything aimed at me or my peers in almost 15 years,\" he said, along with a series of emojis. \"But I do listen to the people.\"\nKlara and the Sun's critical reception has struggled in the wake of its October 23, 2026, release date. While Rotten Tomatoes has recorded mostly positive reactions from viewers at 74% favorability, its Tomatometer has sunk to a 'rotten' 26%. Its IMDb Metascore is similarly dire at a negative 30 out of 100 after 27 reviews. IGN did not review the movie.\nWaititi said he's strayed from reading reviews for years, but that didn't stop him from pointing his 2.8 million Instagram followers to those who didn't enjoy the story his Klara and the Sun was trying to tell.\n\"So, this Halloween, let's spare a thought for those sad lost souls who couldn't achieve their dreams of becoming artists, and thus settled, and became critics. The same people who also hated Jojo Rabbit,\" he added with a laughing-crying-face and shrug emoji.\nJojo Rabbit is Waititi's 2019 project and his first since turning heads with Thor: Ragnarok in 2017. The writer, director, actor, and producer suggested critics weren't fond of the World War II-era dark comedy, though what negative reaction he's referring to here isn't quite clear.\nJojo Rabbit boasts an impressive 81% critical rating on Rotten Tomatoes. Although its IMDb score isn't quite as high at a middling 58, some of the reviews listed there are extremely positive, including an A- from Entertainment Weekly and an 85 from The Wrap. IGN gave the film an 8.5/10.\n\"Klara and the Sun introduces audiences to Klara (Jenna Ortega), an Artificial Friend who wants nothing more than to find the perfect home,\" an official description for the film from Sony Pictures said. \"When Klara meets Josie (Mia Tharia), each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother (Amy Adams) and they’ve suffered great loss, but Klara’s innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie’s complicated world.\"\nWhile Waititi has had much to say about how critics have responded to Klara and the Sun, the films seems to have struggled to grab the attention of the average moviegoer, even if those who have seen it generally had a decent experience. According to Box Office Mojo, the movie adaptation of Kazuo Ishiguro's novel of the same name has only managed to pull in a dismal 1.7 million worldwide after two weekends in theaters.\nKlara and the Sun was also expected to debut in around 2,000 theaters last week before Sony seemingly rolled back that plan with an 800-theater debut, per Collider. Deadline reported that the company chose to stop reporting box office earnings for the film this weekend, too, with its budget reportedly set somewhere around $20 million - $40 million.\nWaititi signed off his Instagram post, saying, \"Irrelevant. Out of touch. Obsolete. In the bin.\" He added a trash can em"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzhCSFZPN3V4aS1NMzYxWUZDYVBIV09vQmo1WjZLVTNrcm5WVVZPSnZIZXVQYVV1MVN3UGtuVTN1b3VaQnR1WWdjSnN6YVRUd3NHdVRQZnBwRjQ1aFdRbnlGX1VZTGdoVjlsekRSaDc2cElzcmVDTDdfTERlVUlzRXZZSVZVMjhrS0JRV0NoTVZwMklldE9hRnR4WlMxUQ?oc=5",
+     "title": "Taika Waititi Calls ‘Klara And The Sun’ Critics “Irrelevant, Out Of Touch, Obsolete”",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "b3415db8403c6893",
+     "published": "2026-10-31T23:28+00:00",
+     "text": "- Taika Waititi Calls ‘Klara And The Sun’ Critics “Irrelevant, Out Of Touch, Obsolete” Deadline\n- Taika Waititi Adapted a Strange and Beautiful Novel. The Result Is Shaping Up to Be a Legendary Bomb. Slate\n- Jenna Ortega’s New Dystopian Sci-Fi Movie Cancels International Release After Box Office Flop MovieWeb\n- Spain Scraps \"Klara and the Sun\" Release Dark Horizons\n- Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’ Variety"
     }
    ]
   },
@@ -1634,6 +1739,78 @@
      "id": "20e384df1ab7a825",
      "published": "2026-11-01T16:02+00:00",
      "text": "The action genre has been led by some Hollywood royalty, and that includes Denzel Washington. With movies such as Taken and John Wick, the genre continues to evolve, but there are some movies that have paved the way for what is known as action in 2026. Washington has had a lengthy career spanning over five decades, winning two Academy Awards, a Tony Award, and box office earnings surpassing $5.1 billion.\nWith Washington's extensive and impressive career, the actor has a long list of impressive and award-winning movies under his belt. One of those includes the star-studded action thriller Man on Fire released in 2004. The movie follows John Creasy, an assassin in Mexico, who is hired as a bodyguard, a job he does not want to accept. However, he agrees and promises to take revenge on the kidnapper of the child from the family he is protecting. The cast includes Dakota Fanning, Christopher Walken, Radha Mitchell, Mickey Rourke, Marc Anthony, and many more.\nDenzel Washington's Man On Fire Is Now Free To Stream\nMan on Fire, directed by Tony Scott, is based on the 1980 novel written by A.J. Quinnell. The original was set in Italy and highlighted the area, which was a major hotspot for kidnappings at the time. Washington's adaptation is the second to stem from Quinnell's novel, and the first was released in 1987. The first movie was directed by Élie Chouraqui and starring Scott Glenn as John Creasy and Joe Pesci.\nAfter seemingly being unavailable to stream on any of the major streaming giants, Man on Fire is back in action. The action thriller is now available on Pluto TV and is available to watch for free with ads. Pluto TV has 100s of free live TV channels and 1000s of free popular movies and shows that you can stream at any time, making it the perfect home for those who want to watch Washington's movies again and again.\nMan On Fire's Reboot Proves It's An Action Worth Remembering\nThe story of Man on Fire didn't end with Washington's adaptation as Netflix recently revisited the action movie in a seven-episode series starring Yahya Abdul-Mateen II as John Creasy. The Netflix series was created and showrun by Kyle Killen and does not serve as a direct remake of the 2004 movie, and is simply a third adaptation of Quinnell's novel that has generated an entire franchise. The series was set in Rio de Janeiro, Brazil and focuses on local politics, class divides, and criminal conspiracies.\nNetflix's Man on Fire became a global streaming success and reached over 11 million views within its first four days on the streaming giant and was the top most-watched TV series on Netflix across 22 countries.\nWashington's Man on Fire is available to stream for free now on Pluto TV.\nMan on Fire follows John Creasy, an ex-CIA operative turned bodyguard, who is hired to protect a young girl in Mexico City. Initially struggling to connect, they form a bond, and when she is abducted, Creasy embarks on a relentless mission to ensure her safety."
+    }
+   ]
+  },
+  {
+   "id": "c2953c1a7a8",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+     "lang": "en",
+     "extra": {},
+     "id": "2953c1a7a88a4714",
+     "published": "2026-11-01T18:00+00:00",
+     "text": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.\n(Image credit: Alex Brandon)"
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
+     "title": "US judge dismisses Trump election lawsuit in Alaska",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "b5b3a883ba457a8c",
+     "published": "2026-11-01T18:29+00:00",
+     "text": "US judge dismisses Trump election lawsuit in Alaska\nReuters"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
+     "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20220913__1423463527__v2__HighRes__PelosiHoldsCeremonialSwearingInForMembersEle-2-1786989788.jpg?resize=1200%2C630"
+     },
+     "id": "7dcc0c21672cab64",
+     "published": "2026-11-01T18:37+00:00",
+     "text": "Republican Senator Dan S. Sullivan has vowed to accept the election outcome days after the United States Department of Justice filed a lawsuit seeking to decertify the results of the upcoming US Senate race there if the Republican incumbent loses.\n“I’m going to accept the election results,” Sullivan, an ally of US President Donald Trump, told CNN on Sunday.\nRecommended Stories\nlist of 4 items- list 1 of 4US Attorney General Todd Blanche defends Alaska Senate election lawsuit\n- list 2 of 4‘If they’re honest’: Trump casts latest suspicion on US midterm elections\n- list 3 of 4Republican governor of Alaska orders investigation into ‘spoiler candidate’\n- list 4 of 4Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?\nSullivan’s promise comes just two days before the November 3 midterm election, which will determine control of the US Congress.\nHe said he was confident of winning, accusing his Democratic opponent Mary Peltola, who is attempting to unseat him, of cheating.\n“My opponent and [Senate Minority Leader Chuck] Schumer and his aides are showing complete disrespect for Alaskans, complete disdain in recognising that they couldn’t run on their record, so they had to cheat. And now that that’s been exposed,” he said.\nA New York Times report on Wednesday alleged that members of Peltola’s campaign helped recruit a retired teacher named Dan J Sullivan Jr to run for the Senate seat as a spoiler candidate in an attempt to draw votes away from Senator Sullivan.\nThe report seems to have prompted the Trump administration’s renewed legal push to bar Alaska from certifying its election results, should Senator Sullivan lose.\nOn Sunday, US District Court Judge Sharon Gleason dismissed the lawsuit, citing it as “infeasible” because many voters had already cast their ballots and the ballots have now been commingled to the point where the identity of each voter cannot be determined.\n“More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified “investigation” of those ballots in a manner that would preserve voter secrecy,” she wrote.\nThe second Sullivan is listed on the ballot as Daniel J Sullivan Jr, while the senator is listed as Dan S Sullivan and marked as a Republican incumbent.\nPeltola has insisted she had nothing to do with recruiting the other Sullivan and has called attention to it a “distraction” from the main issues facing Alaskans — namely, high prices caused by US-Israel war on Iran. Her campaign has also denied involvement.\nBefore a rally on Friday, Peltola was asked whether someone on her campaign could have been involved in recruiting the other Sullivan. “I have no idea,” she told KTUU. “I honestly have no idea.”\nSenator Sullivan doubted Peltola’s claims.\n“There is no way this went on for a year that they weren’t informing her,” Sullivan told the CNN news programme State of the Union. “She got caught lying, and she’s still lying to the Alaskan people, the media, to all of us.”\nAlaska’s Senate race is one of seven key toss-ups that will likely decide whether Republicans keep their majority in the US Congress’s upper chamber.\nBoth candidates have spent the final days campaigning through Alaska’s vast landscape.\nOn Saturday night, Senator Sullivan handed out candy at a “trunk-or-treat” event at a recreation centre north of Anchorage, where he quipped his costume was “the real Dan Sulliva"
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838",
+     "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
+     "lang": "en",
+     "extra": {},
+     "id": "ea619852ed254619",
+     "published": "2026-11-01T19:03+00:00",
+     "text": "A federal judge in Alaska dismissed the Trump’s civil lawsuit against the state, which sought to separate and preserve certain ballots in the state’s upcoming Senate election"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan",
+     "title": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/3375f8fe-9dad-415e-8815-649c695c1025/thumbnail/1200x630/c1c6754a2d2ec1db4685058b876cdbe8/ap26305115849912.jpg"
+     },
+     "id": "9a607f982e3964ea",
+     "published": "2026-11-01T19:04+00:00",
+     "text": "A federal judge in Alaska has thrown out the Trump administration's lawsuit seeking to\nof the state's Senate election results in this week's midterm elections if the Republican incumbent Sen. Dan Sullivan loses.U.S. District Judge Sharon L. Gleason wrote in a 20-page order Sunday that the Justice Department did not have proper legal standing to bring the last week. The suit asked Gleason to block the state's election results from being certified because a teacher named Daniel J. Sullivan is also on the state's ballot, alleging that his candidacy deliberately sought to confuse voters by running with the same ballot name and party affiliation as the state's incumbent senator.\nThe Justice Department argued that Daniel J. Sullivan's name on the ballot potentially diverted voters, and the Democrat running in the race, Mary Peltola, would benefit as a result.\nGleason said she could not grant the injunction that the Trump administration sought \"because the United States has failed to establish the redressability prerequisite for Article III standing.\"\n\"More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified 'investigation' of those ballots in a manner that would preserve voter secrecy,\" Gleason wrote, adding that the Justice Department \"failed to satisfy its burden to show that its alleged injury is redressable by a court order.\"\nA Justice Department spokesperson did not immediately respond to a request for comment.\nThe suit, which argues Sullivan's candidacy violates the National Voter Registration Act, was amended on Thursday to include recent reporting by The New York Times on alleged efforts by people associated with Peltola's campaign to find candidates who could draw votes away from the Republican senator. It included a second claim for relief, arguing the court needs to intervene under the Constitution's Supremacy Clause in order to allow the government to enforce the law and prevent a \"conspiracy.\"\nPeltola's campaign responded to the Times story by saying the campaign \"has no involvement with either Sullivan campaign.\"\n\"I am not interested in tricking voters,\" Peltola said during a recent campaign event.\nSen. Sullivan on Sunday told CNN's \"State of the Union\" that he thought the presence of a second Sullivan on the ballot would impact the election, saying: \"I'm sure I'm going to lose a lot of votes to that trickery.\"\nHe also said he doubted Peltola's claims that she had no idea her top political aides were involved in recruiting Dan J. Sullivan to run as a way to confuse voters.\n\"There is no way this went on for a year that they weren't informing her,\" Sullivan said. \"She got caught lying, and she's still lying to the Alaskan people, the media, to all of us.\"\nIn addition to the civil lawsuit, the Justice Department is also criminally investigating an alleged plot to add Daniel J. Sullivan to the state's ballot and has issued subpoenas targeting several Democratic officials believed to be tied to the effort to recruit him to appear on Alaska's ballot. Nobody in the race has been charged with a crime."
     }
    ]
   },
@@ -1798,52 +1975,59 @@
    ]
   },
   {
-   "id": "cd081c8674a",
+   "id": "c84346e5eb9",
    "kind": "news",
-   "score": 16.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
    "official_image": null,
    "sources": [
     {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
-     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724060",
+     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
      "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
-     },
-     "id": "d081c8674a69f198",
-     "published": "2026-10-31T15:01+00:00",
-     "text": "In brief\n- Attackers stole roughly $6.4 billion from Binance on Thursday in the largest crypto hack ever, more than four times the previous record.\n- Binance says it will cover all losses with company funds and its emergency reserve, having set aside more than $6.34 billion.\n- Here's how it happened and what's being done about it.\nCrypto just suffered the largest hack in its history.\nOn Thursday, attackers drained roughly $6.4 billion from Binance, the world’s largest cryptocurrency exchange, in a breach that dwarfs every theft before it and has triggered a cross-border law-enforcement investigation, a scramble by stablecoin issuers to freeze funds, and a tense wait for millions of users.\nHere’s what’s known about the Binance hack so far.\nWhat happened\nThe theft began at about 4:05 p.m. ET on Thursday, after U.S. markets had closed, when attackers moved funds out of Binance hot wallets across roughly 10 blockchains, most of it within about 20 minutes.\nBlockchain analytics firms Chainalysis and TRM Labs put the total at around $6.4 billion, more than four times the previous record, February 2025’s $1.5 billion Bybit heist.\nCrucially, the attack targeted Binance’s own infrastructure, not the blockchains themselves. Binance initially traced the breach to a compromised laptop belonging to a DevOps engineer, which may have let the attacker reach a service container and submit unauthorized withdrawals.\nThe exchange has since said its investigation uncovered “additional points of breach,” with CEO Richard Teng describing “a more complex attack process” that “did not simply use one engineer’s permissions.” Binance said it found no evidence that wallet private keys were leaked, and that the attacker used a self-destruct mechanism to wipe tooling and traces along the way.\nThe Ethereum wrinkle\nOn Ethereum, the attacker leaned on EIP-7702, a feature introduced in 2025 that lets ordinary wallets temporarily run smart-contract code.\nUsing 50 pre-signed authorizations, the attacker turned a Binance hot wallet into a “sweeper” contract and drained its assets, according to TRM Labs.\nTeng said that delegation “did not pass through our normal approval controls.” The episode didn’t expose a flaw in Ethereum itself, but rather, TRM said, pointed to a compromise of Binance’s signing infrastructure.\nWho’s behind it\nTRM Labs and Chainalysis both attributed the hack to TraderTraitor, a North Korean state-linked group also blamed for the Bybit heist.\nAfter that attack, the group converted roughly 84% of the stolen Ethereum into Bitcoin via the cross-chain network Thorchain. The attribution pushes North Korea’s 2026 crypto haul well past $1 billion, and the Binance figure alone would dwarf the rest.\nWhat Binance is doing\nTeng said Binance will cover every dollar of the losses with company funds and its Secure Asset Fund for Users, an emergency reserve, stressing that customer assets were never touched.\nThe exchange has set aside more than $6.34 billion, about $5 billion of it already held in the exact tokens stolen, including BTC, ETH, BNB, USDC, and USDT, and is buying the rest on the open market and over the counter.\nBinance paused withdrawals to rebuild and retest its systems, is running a full security review, and aims to restore withdrawals by Sunday while publishing a complete proof of reserves by Monday. Deposits are operating normally.\nThe freeze, and what’s still loose\nStablecoin issuers moved fast following the initial reports of a suspected attack, unl"
+     "extra": {},
+     "id": "286a06f727e44e01",
+     "published": "2026-11-01T17:51+00:00",
+     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
     },
     {
-     "source": "BBC World",
+     "source": "Polygon",
      "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "url": "https://polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor",
+     "title": "Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027",
      "lang": "en",
      "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/petit-planet-switch-2.jpg?w=1600&h=900&fit=crop"
      },
-     "id": "0629994f454de1d9",
-     "published": "2026-10-31T22:11+00:00",
-     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
+     "id": "84346e5eb98621f0",
+     "published": "2026-11-01T14:27+00:00",
+     "text": "Many Animal Crossing competitors have emerged since New Horizons became a breakout success in 2020, but few have a chance to take on the popular Nintendo series like HoYoverse's Petit Planet. Now, we've learned that a showdown between the two games will take place on Nintendo Switch 2, as a release window for a port was recently confirmed.\nWhen will Petit Planet come to Nintendo Switch 2?\nWe already knew that Petit Planet would be released on PC, iOS, and Android on Dec. 4. At the end of a Pre-Launch Special Program livestream HoYoverse held for Petit Planet today, a brief trailer confirmed that a Nintendo Switch 2 port is in the works and has a 2027 release window. We also see a bit of gameplay footage that looks on par with the PC version and clearly supports both docked and handheld play.\nThe fit for Petit Planet on Nintendo Switch 2 is obvious, as cozy games like it dominate on Nintendo systems. Although it has more of a sci-fi aesthetic than Animal Crossing, the same gameplay loops of customizing a character and then building up a homestead (in this case a planet) were on full display in that latest livestream. Petit Planet doubles down on farming more than Animal Crossing: New Horizons, as it's clearly also inspired by cozy games like Stardew Valley.\nPolygon has previewed Petit Planet a couple of times and consistently enjoyed it, though we have had questions about how disruptive the gacha live service elements would be once the game exits pre-release playtesting. We'll get our answer in December, and then truly know whether Petit Planet has the potential to take on Animal Crossing by the time it launches on Switch 2.\nAnimal Crossing: New Horizons - Nintendo Switch 2 Edition released in January, but no brand-new Animal Crossing game has been announced for the latest Nintendo console yet. As such, it makes sense why HoYoverse would want to prioritize this version of Petit Planet over a PS5 or Xbox Series X port, as the Animal Crossing-like does have some real potential to catch on when it hits Nintendo Switch 2 next year."
     },
     {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Animal-Crossing-rival-coming-to-Nintendo-Switch-2.1439498.0.html",
+     "title": "Animal Crossing rival coming to Nintendo Switch 2",
      "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "5c29874acc90c064",
-     "published": "2026-11-01T09:28+00:00",
-     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
+     "extra": {},
+     "id": "c4d7f50ac7ec8201",
+     "published": "2026-11-01T16:42+00:00",
+     "text": "HoYoverse’s life simulation Petit Planet will arrive on Nintendo Switch 2 in 2027, following its December 4, 2026 launch on PC, iOS and Android. Players can develop a planet, farm, fish and build relationships with neighbors. Plans for other consoles remain unannounced."
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/petit-planet-switch-2-release-date",
+     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+     "lang": "en",
+     "extra": {},
+     "id": "9c38bbb19c425e71",
+     "published": "2026-11-01T17:38+00:00",
+     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
     }
    ]
   },
@@ -2429,27 +2613,14 @@
    ]
   },
   {
-   "id": "cf9eb1ed017",
+   "id": "cecf19abee8",
    "kind": "news",
    "score": 15.0,
    "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
+   "distinct_sites": 3,
+   "title_hint": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
    "official_image": null,
    "sources": [
-    {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece",
-     "title": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://th-i.thgim.com/public/incoming/bsdlr2/article71648480.ece/alternates/LANDSCAPE_1200/2026-10-30T080059Z_1128493862_RC2JDOAQP62K_RTRMADP_3_FINTECH-CRYPTO-BINANCE-HACK.JPG"
-     },
-     "id": "f9eb1ed0175e30f0",
-     "published": "2026-10-31T07:23+00:00",
-     "text": "The story so far: One of the world’s top cryptocurrency exchange platforms, Binance, was hit by a cyberattack on October 29 that led to the loss of assets valued at over $6 billion. While the facts are still emerging and investigations are ongoing, the exploit could go down as the largest crypto hack on record.\nOn October 30, after independent crypto trackers posted warnings, Binance announced that it was aware of reports of a “potential security issue,” but assured users that their funds were completely safe.\nPublished - October 31, 2026 12:53 pm IST\nYou are logged in\nLoading...\nYou don’t have any Active Subscription.\nSubscribe nowSubscribed with another email? Logout and Login with that one.\nYour active subscription(s)\nAccount subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription\nProducts you've access to\nAdditional Subscription Benefits\nAccount Settings\nNeed help with your subscription?"
-    },
     {
      "source": "Phys.org Tech",
      "trust": 2,
@@ -2464,15 +2635,17 @@
      "text": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft\nBinance, the world's biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. Blockchain firms have pointed to the attack coming from a North Korean hacking unit.\nThe company said it has reserved more than $6.34 billion of company funds to cover the stolen assets and was beginning to recover assets for users. Binance worked with blockchain partners to freeze roughly $3 billion in affected assets.\nThe cryptocurrency exchange has promised to cover all losses, and it has been sharing regular updates on its social media channels as it uncovers more information about the hack.\n\"We are working nonstop to resolve this,\" Binance's co-CEO Richard Teng said Friday in a video posted to X.\nIn an exchange Friday with reporters at the White House, President Donald Trump said U.S. officials were investigating the Binance hack. Asked whether North Korea was involved, Trump said, \"We're looking at that.\"\nHere's what we know about the hack, possible North Korean involvement and Binance's investigation.\nNorth Korean hackers are suspected in the attack\nBinance said on X that an initial investigation suggested the incident may have involved a compromised laptop, but that a subsequent investigation uncovered additional \"points of breach.\"\nU.S.-based blockchain intelligence firm TRM, in a post on its website late Thursday, attributed the attack to TraderTraitor, which it described as North Korea's elite hacking unit. \"We make this judgment with high confidence,\" the firm said.\n\"An attacker moved approximately $6.36 billion out of Binance wallets on 10 blockchains, most of it in about 20 minutes,\" TRM said. \"Several features of this attack match earlier North Korea-linked heists.\"\nBlockchain analysis company Chainalysis also believed the Binance hack was likely carried out by TraderTraitor, its co-founder and CEO Jonathan Levin wrote on X.\nAsked about the potential ties to North Korea, a Binance spokesperson said only that the company is \"working closely with our law enforcement partners to confirm the identity of the criminals and bring them to justice.\"\nExperts have said that North Korea turned to crypto hacking and other illicit cyber activities in recent years as a source of badly needed foreign currency to support its troubled economy and fund its nuclear program in the wake of tough U.N. sanctions and other difficulties.\nIn December 2022, South Korea's spy agency said North Korean hackers had stolen an estimated 1.5 trillion won ($1.1 billion) in cryptocurrency and other virtual assets over the past five years, more than half of it in 2022 alone. It said North Korea's capacity to steal digital assets was considered among the world's best.\nMany are calling this the biggest crypto theft on record\nWhile about half of the stolen assets were frozen, there is evidence that the hackers already are transferring and converting some of what wasn't recovered, said Garrick Hileman, an independent cryptocurrency analyst.\n\"Like in money laundering, you bring in the stolen goods and launder those through a mixer or tumbler,\" he said. \"You mix it in with other cryptos, and it's harder to track.\"\nHow long it will take the hackers to turn that into something usable isn't clear, he said. \"The bottom line is there are places in the world where you can take your bitcoin and get that converted,\" Hilema"
     },
     {
-     "source": "France 24 EN",
+     "source": "Decrypt",
      "trust": 2,
-     "url": "https://france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
-     "title": "Binance hit by 6.3 billion dollar crypto theft",
+     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
      "lang": "en",
-     "extra": {},
-     "id": "2e8385a7cb01e943",
-     "published": "2026-10-31T11:16+00:00",
-     "text": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from users, with analysts pointing the finger at North Korea. The attack far surpasses the previous record set in February 2025, when hackers stole $1.5 billion from crypto exchange Bybit."
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
+     },
+     "id": "d081c8674a69f198",
+     "published": "2026-10-31T15:01+00:00",
+     "text": "In brief\n- Attackers stole roughly $6.4 billion from Binance on Thursday in the largest crypto hack ever, more than four times the previous record.\n- Binance says it will cover all losses with company funds and its emergency reserve, having set aside more than $6.34 billion.\n- Here's how it happened and what's being done about it.\nCrypto just suffered the largest hack in its history.\nOn Thursday, attackers drained roughly $6.4 billion from Binance, the world’s largest cryptocurrency exchange, in a breach that dwarfs every theft before it and has triggered a cross-border law-enforcement investigation, a scramble by stablecoin issuers to freeze funds, and a tense wait for millions of users.\nHere’s what’s known about the Binance hack so far.\nWhat happened\nThe theft began at about 4:05 p.m. ET on Thursday, after U.S. markets had closed, when attackers moved funds out of Binance hot wallets across roughly 10 blockchains, most of it within about 20 minutes.\nBlockchain analytics firms Chainalysis and TRM Labs put the total at around $6.4 billion, more than four times the previous record, February 2025’s $1.5 billion Bybit heist.\nCrucially, the attack targeted Binance’s own infrastructure, not the blockchains themselves. Binance initially traced the breach to a compromised laptop belonging to a DevOps engineer, which may have let the attacker reach a service container and submit unauthorized withdrawals.\nThe exchange has since said its investigation uncovered “additional points of breach,” with CEO Richard Teng describing “a more complex attack process” that “did not simply use one engineer’s permissions.” Binance said it found no evidence that wallet private keys were leaked, and that the attacker used a self-destruct mechanism to wipe tooling and traces along the way.\nThe Ethereum wrinkle\nOn Ethereum, the attacker leaned on EIP-7702, a feature introduced in 2025 that lets ordinary wallets temporarily run smart-contract code.\nUsing 50 pre-signed authorizations, the attacker turned a Binance hot wallet into a “sweeper” contract and drained its assets, according to TRM Labs.\nTeng said that delegation “did not pass through our normal approval controls.” The episode didn’t expose a flaw in Ethereum itself, but rather, TRM said, pointed to a compromise of Binance’s signing infrastructure.\nWho’s behind it\nTRM Labs and Chainalysis both attributed the hack to TraderTraitor, a North Korean state-linked group also blamed for the Bybit heist.\nAfter that attack, the group converted roughly 84% of the stolen Ethereum into Bitcoin via the cross-chain network Thorchain. The attribution pushes North Korea’s 2026 crypto haul well past $1 billion, and the Binance figure alone would dwarf the rest.\nWhat Binance is doing\nTeng said Binance will cover every dollar of the losses with company funds and its Secure Asset Fund for Users, an emergency reserve, stressing that customer assets were never touched.\nThe exchange has set aside more than $6.34 billion, about $5 billion of it already held in the exact tokens stolen, including BTC, ETH, BNB, USDC, and USDT, and is buying the rest on the open market and over the counter.\nBinance paused withdrawals to rebuild and retest its systems, is running a full security review, and aims to restore withdrawals by Sunday while publishing a complete proof of reserves by Monday. Deposits are operating normally.\nThe freeze, and what’s still loose\nStablecoin issuers moved fast following the initial reports of a suspected attack, unl"
     },
     {
      "source": "PBS NewsHour",
@@ -2574,6 +2747,50 @@
      "id": "3f52ba3c342a2c7d",
      "published": "2026-10-31T21:17+00:00",
      "text": "A third weekend of protests in France as youth-led rallies sweep Europe\nAP News\nSee more headlines & perspectives on Google News"
+    }
+   ]
+  },
+  {
+   "id": "c2e8385a7cb",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance hit by 6.3 billion dollar crypto theft",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
+     "title": "Binance hit by 6.3 billion dollar crypto theft",
+     "lang": "en",
+     "extra": {},
+     "id": "2e8385a7cb01e943",
+     "published": "2026-10-31T11:16+00:00",
+     "text": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from users, with analysts pointing the finger at North Korea. The attack far surpasses the previous record set in February 2025, when hackers stole $1.5 billion from crypto exchange Bybit."
+    },
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+     "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+     "lang": "en",
+     "extra": {},
+     "id": "cecf37c22f0f01d1",
+     "published": "2026-10-31T15:24+00:00",
+     "text": ""
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+     "lang": "en",
+     "extra": {},
+     "id": "e207e0cfa1d8938e",
+     "published": "2026-10-31T18:11+00:00",
+     "text": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.\n(Image credit: Justin Sullivan)"
     }
    ]
   },
@@ -2835,63 +3052,6 @@
      "id": "ada8d8f1b1c9e59e",
      "published": "2026-11-01T00:13+00:00",
      "text": "submitted by\n/u/Logical_Welder3467\nto\nr/technology\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "c832cd7aba9",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "Pro-Palestinian protesters arrested outside U.S. Embassy in London",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/dozens-arrested-us-embassy-london-pro-palestinian-group",
-     "title": "Pro-Palestinian protesters arrested outside U.S. Embassy in London",
-     "lang": "en",
-     "extra": {},
-     "id": "832cd7aba9ce1b61",
-     "published": "2026-10-31T18:09+00:00",
-     "text": "More than 100 people took part in the protest, with many holding signs reading: \"I oppose genocide, I support Palestine Action.\""
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-     "title": "Palestine Action supporters arrested outside US embassy in London",
-     "lang": "en",
-     "extra": {},
-     "id": "632aa2b3956383af",
-     "published": "2026-10-31T22:10+00:00",
-     "text": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/europe/british-police-say-325-people-were-arrested-at-palestine-action-demo",
-     "title": "British police say 325 people were arrested at Palestine Action demo",
-     "lang": "en",
-     "extra": {},
-     "id": "556645e9b64d98e5",
-     "published": "2026-11-01T13:20+00:00",
-     "text": "Demonstrators staged a “mass action” outside the US embassy ahead of the Supreme Court."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUlKZ0JzU2NIcmNFckRsU1l6akpveTNUNHhUbnNyMHhkOUxXbWk0RDJWVnQ0Ti1MQVI0QnhSQnpPZmUyWVNUQktDVGxVbmFMaERuY0tlVDIyN0xYMkpxbHkteUhEVnpCNlAxYVY2SXBEWnFYREJzYWFLTThWOXYxbkNzRjk2OEo3UmtvSnBMRDNDc3BDbW04ak9PUDRWanlpcFNFdG1YWjdSdw?oc=5",
-     "title": "London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group - AP News",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "6eb98b12066af833",
-     "published": "2026-10-31T20:14+00:00",
-     "text": "London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group\nAP News\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -3230,6 +3390,43 @@
    ]
   },
   {
+   "id": "cfd70ae0972",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Korea Herald",
+     "trust": 2,
+     "url": "https://koreaherald.com/article/10921777",
+     "title": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/01/news-p.v1.20261101.dd63fcfa602a4d7fb13d556e35b55fee_P1.jpg"
+     },
+     "id": "fd70ae0972bf9cf4",
+     "published": "2026-11-01T06:23+00:00",
+     "text": "The threat posed by North Korea online is again in focus, following a record cryptocurrency heist potentially linked to Pyongyang.\nThe US Federal Bureau of Investigation said Saturday that North Korea was responsible for the theft of more than $6 billion in virtual assets from Binance, the world's largest cryptocurrency exchange, on or around Oct. 29.\nThe theft is believed to be the largest single cryptocurrency heist on record.\nThe FBI attributed the operation to TraderTraitor, its name for a North Korean cyber campaign involved in cryptocurrency theft, and said the stolen assets were being converted primarily into ether then laundered through decentralized finance and instant-swap services.\nEther, on the Ethereum blockchain, is the world's second-largest cryptocurrency by market capitalization.\nOn Saturday, US President Donald Trump said Washington was still looking into whether North Korea was behind the attack and that he would raise the issue with Pyongyang if its involvement was confirmed.\n\"We're learning about it. We don't know if it's North Korea — but if it is, we'll talk to North Korea about it,\" Trump told reporters at Mar-a-Lago in Florida.\nThe FBI meanwhile urged cryptocurrency exchanges and other virtual asset service providers to block transactions involving digital wallet addresses linked to the stolen funds.\nActivity traced to North Korean internet protocol addresses has also put South Korea's financial sector on alert.\nSouth Korean financial authorities recently alerted banks, securities firms and cryptocurrency exchanges after about 4.4 million scanning attempts targeting local financial institutions were detected from IP addresses assigned to North Korea beginning at 3 a.m. on Oct. 21.\nNo actual breach linked to those addresses has been confirmed. Authorities, however, said the activity appeared aimed at identifying open network ports or security vulnerabilities that could later be exploited, prompting financial firms to review access logs and strengthen real-time monitoring.\nThe activity also coincided with indications that hackers suspected of links to North Korea were preparing broader attacks against governments and financial institutions.\nSingapore-based cybersecurity firm Cyfirma said on Oct. 22 that it had detected Korean-speaking operators discussing attacks using two critical vulnerabilities in PHP, a widely used server-side programming language.\nThe firm said government agencies, banks and other financial institutions were among the operators' highest-priority targets, with South Korea, the US and Japan among the countries discussed.\nCyfirma also pointed to possible links to the Lazarus Group ecosystem, a North Korean state-linked hacking network known for financial theft and espionage.\nNorth Korea has a long history of targeting South Korean institutions.\nIn 2024, South Korean police said Lazarus and Andariel in 2019 had stolen 342,000 ether, worth about 58 billion won ($43.5 million) at the time, from South Korean cryptocurrency exchange Upbit.\nIn March 2013, a major cyberattack attributed by South Korean authorities to North Korea disrupted the networks of Shinhan Bank, Nonghyup Bank and Jeju Bank, knocking out ATMs, online banking and other services.\nThe emergence of artificial intelligence appears to have further expanded the scale and speed of North Korea's cyber operations.\nMicrosoft Threat Intelligence said in a report released Thursday that three of eight major North Korean threat groups it examine"
+    },
+    {
+     "source": "The Verge",
+     "trust": 2,
+     "url": "https://theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+     "title": "North Korea linked to massive Binance crypto heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+     },
+     "id": "b9273cfbb5b037df",
+     "published": "2026-11-01T14:33+00:00",
+     "text": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity “TraderTraitor” and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says:\nNorth Korea linked to massive Binance crypto heist\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nNorth Korea Responsible for $6 Billion+ Binance Attack\nThe Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\nAs expected, Binance reopened customer withdrawals today after freezing them in the immediate aftermath of the hack."
+    }
+   ]
+  },
+  {
    "id": "cd048152667",
    "kind": "news",
    "score": 15.0,
@@ -3342,65 +3539,6 @@
      "id": "ee56b049e3f70ed3",
      "published": "2026-11-01T16:24+00:00",
      "text": "Russian authorities have detained a teenager suspected of planning an attack at a popular Moscow park after receiving a warning from the United States, according to Russia’s Interfax news agency, citing the Federal Security Service (FSB).\nThe FSB said the suspect, a Russian citizen, posted photos on TikTok wearing a balaclava and tactical clothing and holding what appeared to be an automatic weapon, Interfax reported on Sunday.\nRecommended Stories\nlist of 4 items- list 1 of 4Ukrainian evacuees from Russian-occupied Oleshky reunite with family\n- list 2 of 4A Gulf non-aggression pact could be the path forward\n- list 3 of 4Bulgarians vote in presidential run-off amid Black Sea tensions\n- list 4 of 4Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?\nThe suspect, who has not been identified, also reportedly shared photos taken at the Tsaritsyno Museum Reserve in southern Moscow with the caption: “I found a place.”\nThe FSB said a search of the suspect’s home uncovered the clothing and accessories seen in the photos, Interfax reported. The security service also said that the teen’s phone showed searches related to terrorist attacks and mass killings, as well as a subscription to a neo-Nazi Telegram channel.\nThe detention came after the US embassy in Moscow issued a security alert on Saturday warning of a “credible threat of a mass casualty event” at the Tsaritsyno Museum Reserve, a popular palace and park complex.\nThe embassy urged people to avoid the area and said the US government was coordinating with Russian authorities on a response.\nThe park was temporarily closed on Saturday following the warning.\n“We are grateful to the American side for providing the information,” the FSB said in its statement.\nRussia’s Investigative Committee is now considering what legal action to take against the suspect, the FSB said.\nThe US has previously warned Russia about potential attacks, including in March 2024, weeks before an attack on a Moscow concert hall by an affiliate of the ISIL group that killed more than 140 people.\nThe latest warning comes despite longstanding tensions between Washington and Moscow over Russia’s war in Ukraine."
-    }
-   ]
-  },
-  {
-   "id": "c2953c1a7a8",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-     "lang": "en",
-     "extra": {},
-     "id": "2953c1a7a88a4714",
-     "published": "2026-11-01T18:00+00:00",
-     "text": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.\n(Image credit: Alex Brandon)"
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
-     "title": "US judge dismisses Trump election lawsuit in Alaska",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "b5b3a883ba457a8c",
-     "published": "2026-11-01T18:29+00:00",
-     "text": "US judge dismisses Trump election lawsuit in Alaska\nReuters"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
-     "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20220913__1423463527__v2__HighRes__PelosiHoldsCeremonialSwearingInForMembersEle-2-1786989788.jpg?resize=1200%2C630"
-     },
-     "id": "7dcc0c21672cab64",
-     "published": "2026-11-01T18:37+00:00",
-     "text": "Republican Senator Dan S. Sullivan has vowed to accept the election outcome days after the United States Department of Justice filed a lawsuit seeking to decertify the results of the upcoming US Senate race there if the Republican incumbent loses.\n“I’m going to accept the election results,” Sullivan, an ally of US President Donald Trump, told CNN on Sunday.\nRecommended Stories\nlist of 4 items- list 1 of 4US Attorney General Todd Blanche defends Alaska Senate election lawsuit\n- list 2 of 4‘If they’re honest’: Trump casts latest suspicion on US midterm elections\n- list 3 of 4Republican governor of Alaska orders investigation into ‘spoiler candidate’\n- list 4 of 4Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?\nSullivan’s promise comes just two days before the November 3 midterm election, which will determine control of the US Congress.\nHe said he was confident of winning, accusing his Democratic opponent Mary Peltola, who is attempting to unseat him, of cheating.\n“My opponent and [Senate Minority Leader Chuck] Schumer and his aides are showing complete disrespect for Alaskans, complete disdain in recognising that they couldn’t run on their record, so they had to cheat. And now that that’s been exposed,” he said.\nA New York Times report on Wednesday alleged that members of Peltola’s campaign helped recruit a retired teacher named Dan J Sullivan Jr to run for the Senate seat as a spoiler candidate in an attempt to draw votes away from Senator Sullivan.\nThe report seems to have prompted the Trump administration’s renewed legal push to bar Alaska from certifying its election results, should Senator Sullivan lose.\nOn Sunday, US District Court Judge Sharon Gleason dismissed the lawsuit, citing it as “infeasible” because many voters had already cast their ballots and the ballots have now been commingled to the point where the identity of each voter cannot be determined.\n“More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified “investigation” of those ballots in a manner that would preserve voter secrecy,” she wrote.\nThe second Sullivan is listed on the ballot as Daniel J Sullivan Jr, while the senator is listed as Dan S Sullivan and marked as a Republican incumbent.\nPeltola has insisted she had nothing to do with recruiting the other Sullivan and has called attention to it a “distraction” from the main issues facing Alaskans — namely, high prices caused by US-Israel war on Iran. Her campaign has also denied involvement.\nBefore a rally on Friday, Peltola was asked whether someone on her campaign could have been involved in recruiting the other Sullivan. “I have no idea,” she told KTUU. “I honestly have no idea.”\nSenator Sullivan doubted Peltola’s claims.\n“There is no way this went on for a year that they weren’t informing her,” Sullivan told the CNN news programme State of the Union. “She got caught lying, and she’s still lying to the Alaskan people, the media, to all of us.”\nAlaska’s Senate race is one of seven key toss-ups that will likely decide whether Republicans keep their majority in the US Congress’s upper chamber.\nBoth candidates have spent the final days campaigning through Alaska’s vast landscape.\nOn Saturday night, Senator Sullivan handed out candy at a “trunk-or-treat” event at a recreation centre north of Anchorage, where he quipped his costume was “the real Dan Sulliva"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan",
-     "title": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
-     "lang": "en",
-     "extra": {},
-     "id": "9a607f982e3964ea",
-     "published": "2026-11-01T19:04+00:00",
-     "text": "The Justice Department argued that Daniel J. Sullivan's name on the ballot potentially diverted voters, and the Democrat running in the race would benefit as a result."
     }
    ]
   },
@@ -3639,52 +3777,6 @@
    ]
   },
   {
-   "id": "c84346e5eb9",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724060",
-     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
-     "lang": "en",
-     "extra": {},
-     "id": "286a06f727e44e01",
-     "published": "2026-11-01T17:51+00:00",
-     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor",
-     "title": "Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/petit-planet-switch-2.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "84346e5eb98621f0",
-     "published": "2026-11-01T14:27+00:00",
-     "text": "Many Animal Crossing competitors have emerged since New Horizons became a breakout success in 2020, but few have a chance to take on the popular Nintendo series like HoYoverse's Petit Planet. Now, we've learned that a showdown between the two games will take place on Nintendo Switch 2, as a release window for a port was recently confirmed.\nWhen will Petit Planet come to Nintendo Switch 2?\nWe already knew that Petit Planet would be released on PC, iOS, and Android on Dec. 4. At the end of a Pre-Launch Special Program livestream HoYoverse held for Petit Planet today, a brief trailer confirmed that a Nintendo Switch 2 port is in the works and has a 2027 release window. We also see a bit of gameplay footage that looks on par with the PC version and clearly supports both docked and handheld play.\nThe fit for Petit Planet on Nintendo Switch 2 is obvious, as cozy games like it dominate on Nintendo systems. Although it has more of a sci-fi aesthetic than Animal Crossing, the same gameplay loops of customizing a character and then building up a homestead (in this case a planet) were on full display in that latest livestream. Petit Planet doubles down on farming more than Animal Crossing: New Horizons, as it's clearly also inspired by cozy games like Stardew Valley.\nPolygon has previewed Petit Planet a couple of times and consistently enjoyed it, though we have had questions about how disruptive the gacha live service elements would be once the game exits pre-release playtesting. We'll get our answer in December, and then truly know whether Petit Planet has the potential to take on Animal Crossing by the time it launches on Switch 2.\nAnimal Crossing: New Horizons - Nintendo Switch 2 Edition released in January, but no brand-new Animal Crossing game has been announced for the latest Nintendo console yet. As such, it makes sense why HoYoverse would want to prioritize this version of Petit Planet over a PS5 or Xbox Series X port, as the Animal Crossing-like does have some real potential to catch on when it hits Nintendo Switch 2 next year."
-    },
-    {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Animal-Crossing-rival-coming-to-Nintendo-Switch-2.1439498.0.html",
-     "title": "Animal Crossing rival coming to Nintendo Switch 2",
-     "lang": "en",
-     "extra": {},
-     "id": "c4d7f50ac7ec8201",
-     "published": "2026-11-01T16:42+00:00",
-     "text": "HoYoverse’s life simulation Petit Planet will arrive on Nintendo Switch 2 in 2027, following its December 4, 2026 launch on PC, iOS and Android. Players can develop a planet, farm, fish and build relationships with neighbors. Plans for other consoles remain unannounced."
-    }
-   ]
-  },
-  {
    "id": "cecbf96a11c",
    "kind": "news",
    "score": 14.0,
@@ -3904,6 +3996,63 @@
    ]
   },
   {
+   "id": "c832cd7aba9",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Pro-Palestinian protesters arrested outside U.S. Embassy in London",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/dozens-arrested-us-embassy-london-pro-palestinian-group",
+     "title": "Pro-Palestinian protesters arrested outside U.S. Embassy in London",
+     "lang": "en",
+     "extra": {},
+     "id": "832cd7aba9ce1b61",
+     "published": "2026-10-31T18:09+00:00",
+     "text": "More than 100 people took part in the protest, with many holding signs reading: \"I oppose genocide, I support Palestine Action.\""
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
+     "title": "Palestine Action supporters arrested outside US embassy in London",
+     "lang": "en",
+     "extra": {},
+     "id": "632aa2b3956383af",
+     "published": "2026-10-31T22:10+00:00",
+     "text": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action."
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/europe/british-police-say-325-people-were-arrested-at-palestine-action-demo",
+     "title": "British police say 325 people were arrested at Palestine Action demo",
+     "lang": "en",
+     "extra": {},
+     "id": "556645e9b64d98e5",
+     "published": "2026-11-01T13:20+00:00",
+     "text": "Demonstrators staged a “mass action” outside the US embassy ahead of the Supreme Court."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUlKZ0JzU2NIcmNFckRsU1l6akpveTNUNHhUbnNyMHhkOUxXbWk0RDJWVnQ0Ti1MQVI0QnhSQnpPZmUyWVNUQktDVGxVbmFMaERuY0tlVDIyN0xYMkpxbHkteUhEVnpCNlAxYVY2SXBEWnFYREJzYWFLTThWOXYxbkNzRjk2OEo3UmtvSnBMRDNDc3BDbW04ak9PUDRWanlpcFNFdG1YWjdSdw?oc=5",
+     "title": "London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group - AP News",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "6eb98b12066af833",
+     "published": "2026-10-31T20:14+00:00",
+     "text": "London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group\nAP News\nSee more headlines & perspectives on Google News"
+    }
+   ]
+  },
+  {
    "id": "cdee63ca0aa",
    "kind": "news",
    "score": 14.0,
@@ -3955,6 +4104,281 @@
      "id": "c93469999caafa2d",
      "published": "2026-10-31T22:48+00:00",
      "text": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.\n(Image credit: Jen Golbeck)"
+    }
+   ]
+  },
+  {
+   "id": "c22d7f3fe5a",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Tovah Feldshuh Shuts Down ‘Nobody Wants This’ Cast Tension Rumors Amid Adam Brody “Free Palestine” Support",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Hollywood Reporter",
+     "trust": 2,
+     "url": "https://hollywoodreporter.com/tv/tv-news/tovah-feldshuh-nobody-wants-this-tension-adam-brody-palestine-1236744254",
+     "title": "Tovah Feldshuh Shuts Down ‘Nobody Wants This’ Cast Tension Rumors Amid Adam Brody “Free Palestine” Support",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Tovah-Feldshuh-Adam-Brody-Getty-H-2026.jpg?w=1296&h=730&crop=1"
+     },
+     "id": "f85286c71485dbd6",
+     "published": "2026-11-01T01:12+00:00",
+     "text": "Nobody Wants This actress Tovah Feldshuh is shutting down claims that tensions are rising among the cast amid recent comments Adam Brody made saying he is in support of “a free Palestine.”\n“Tensions are NOT RISING. Profound differences of opinion are. Please do not conflate the two — And none of it will be brought to the set,” she wrote in response to a Threads post made by AzatTV that reads, “Tensions are emerging on the set of the Netflix series Nobody Wants This.”\nFeldshuh added, “I deeply enjoy filming [Nobody Wants This] and hope we are chosen to go on for a fourth season.”\nRelated Stories\nIn an interview with GQ, Brody said of the war in Gaza, “put me down as thinking it’s a genocide. Put me down as wanting a free Palestine.” He added, “It’s awful that it’s taken so much death and misery, but it does feel like it’s reaching a breaking point that it should have a while ago.”\nFeldshuh, who plays the mother of Brody’s character Noah on the Netflix show, told The New York Post of the actor’s comments, “To accuse the Jewish people of genocide is wild.” She added, “It’s right out of Hitler’s playbook. You take the victim and you make the victim the perpetrator.”\nThe actress said that it “makes a difference to the [Jewish] community,” when asked by the Post if “accusations of genocide are worse when they come from Jewish people themselves.”\n“I believe that the perseverance of the existence of the state of Israel is crucial to the well-being of the democratic world and of the free world,” Feldshuh said. “Of course, Israel needs the United States, [but] the United States needs Israel, believe you me.”\nFeldshuh also told the outlet, “My job, as Bina but also as Tovah, is to love the people on set at my place of work, to be kind.”\nShe added, “With the backdrop of global antisemitism, I am thrilled to be chosen to play a Jewish matriarch. Thrilled and proud, and that will never change.”\nErin Foster, creator of Nobody Wants This, has also reacted to Brody’s statement, saying on the Not Skinny But Not Fat podcast that “it’s complicated.”\n“I think our work environment, our set is very similar to dinner tables around the world where people are having debate and discussion and disagreeing,” Foster said. “While I love Adam, I also disagree with him, and that’s okay.”\n“I think that as the creator of the show, all I can say is that I want our Jewish fans to know that I see you and I hear you and I understand how you feel,” she continued. “And the show has always been and always will be a love letter to Judaism. That is why I made this show. It’s because of how beautiful of an experience I’ve had becoming Jewish and being a Jewish person, and sitting here right now at this time in the world where there is almost zero positive representation of Jewish people, I think it’s so important to have that.”\n“That being said, everyone is entitled to a different opinion than me. I can just tell you what I created this show for, what the intention of the show is,” Foster concluded."
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/11/nobody-wants-this-actress-tensions-not-rising-adam-brody-1237210876",
+     "title": "‘Nobody Wants This’ Actress Tovah Feldshuh Insists “Tensions Are Not Rising” With Adam Brody, Hopes “We Are Chosen” For Season 4",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/11/NWT_308_Unit_00314RC.jpg?w=1024"
+     },
+     "id": "a547349e00875687",
+     "published": "2026-11-01T17:22+00:00",
+     "text": "Amid disagreements about major world issues on the set of Nobody Wants This, one series star insists it will not impact a potential Season 4.\nTovah Feldshuh, who plays Rabbi Noah Roklov’s (Adam Brody) mother Bina, recently denied that “tensions are emerging” among the cast and creator of Netflix’s Jewish romantic-comedy after she took issue with Brody’s support of “Free Palestine.”\n“Tensions are NOT RISING. Profound differences of opinion are,” insisted Feldshuh on Threads. “Please do not conflate the two—And none of it will be brought to the set. I deeply enjoy filming NWT and hope we are chosen to go on for a fourth season.”\nWhile creator Erin Foster has said she has “more story to tell” in a potential Season 4 of Nobody Wants This, the show has not yet been renewed since becoming the subject of discourse after Brody publicly shared his support for a free Palestine amid the Israel-Hamas conflict‘s ongoing impact on Gaza.\nWatch on Deadline\n“Put me down as thinking it’s a genocide. Put me down as wanting a free Palestine,” Brody told GQ in September. “It’s awful that it’s taken so much death and misery, but it does feel like it’s reaching a breaking point that it should have a while ago. I’m hopeful that another administration can really do some good and correct some of these policies that are helping that situation be as awful as it is.”\nAfter Foster expressed on her podcast, “I love Adam, I also disagree with him,” Feldshuh told the New York Post, “To accuse the Jewish people of genocide is wild. It’s right out of Hitler’s playbook. You take the victim, and you make the victim the perpetrator.”\nIn Nobody Wants This, inspired by Foster’s relationship with her music exec husband Simon Tikhman, agnostic podcaster Joanne Williams (Kristen Bell) begins an unexpected romance with progressive Rabbi Noah Roklov (Brody), which shakes both their families as Joanne immerses herself in Noah’s culture and decides to convert to Judaism."
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/tv/news/nobody-wants-this-tensions-adam-brody-israel-palestine-1236936822",
+     "title": "‘Nobody Wants This’ Star Tovah Feldshuh Says ‘Tensions Are Not Rising’ Amid Disagreement With Adam Brody over Israel-Palestine Conflict",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/11/78th-primetime-emmy-awards-arrivals-79th-annual-tony-awards-1000x667-1.webp?w=1000&h=563&crop=1"
+     },
+     "id": "e47927e3827e4d96",
+     "published": "2026-11-01T19:17+00:00",
+     "text": "“Nobody Wants This” actress Tovah Feldshuh is speaking out again amid disagreements between the show’s cast on the Israel-Palestine conflict.\nFeldshuh, who plays Rabbi Noah Roklov’s (Adam Brody) mother Bina on the Netflix Jewish rom-com, denied that tensions are rising between the cast and creator.\n“Tensions are NOT RISING. Profound differences of opinion are,” Feldshuh wrote in a recent Threads post in response to a user who wrote that “tensions are emerging” on the set of the hit show. “Please do not conflate the two—And none of it will be brought to the set. I deeply enjoy filming NWT and hope we are chosen to go on for a fourth season.”\nBrody publicly shared his support for a free Palestine in a September GQ interview. “Put me down as thinking it’s a genocide,” he said. “Put me down as wanting a free Palestine. It’s awful that it’s taken so much death and misery, but it does feel like it’s reaching a breaking point that it should have a while ago.”\nHis take was met with disagreement from Feldshuh and show creator Erin Foster, who said it was “complicated.”\n“I think our work environment, our set is very similar to dinner tables around the world where people are having debate and discussion and disagreeing,” Foster added. “And, you know, while I love Adam, I also disagree with him, and that’s OK.”\nFeldshuh previously told The New York Post that “to accuse the Jewish people of genocide is wild. It’s right out of Hitler’s playbook. You take the victim, and you make the victim the perpetrator.”\n“Nobody Wants This” has yet to be renewed for a fourth season, though Foster has said she has “more story to tell.” The show has notably avoided touching on the Israel-Palestine conflict so far."
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEpQQzl4Y1pKMjk0VmZRNW9Oby1QcVllQU5Tc2dBTUNhVzJLNDduVzZ0U180UmJ2QndtRUFDYWZvQ0Z1MlVCeDE4RlYwRS05SFhMZUtXVUIxN3F2S05ZcFdJVE5zOUZlNU0zZlhld0h1T09sR0haREg4VGdpWV9FdFhSWDlnVEl3bTBnbUcyUG1kdkczRHdoYg?oc=5",
+     "title": "‘Nobody Wants This’ star hits back at rumors of ‘tensions’ on set following Adam Brody comments - Entertainment Weekly",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "22d7f3fe5a3cf180",
+     "published": "2026-10-31T19:44+00:00",
+     "text": "- ‘Nobody Wants This’ star hits back at rumors of ‘tensions’ on set following Adam Brody comments Entertainment Weekly\n- ‘Nobody Wants This’ star Tovah Feldshuh has thoughts on her fellow celebrities calling the war in Gaza a genocide New York Post\n- ‘Nobody Wants This’ Star Tovah Feldshuh Clarifies Set Dynamics After Palestine Debate Us Weekly\n- ‘Nobody Wants This’ star Tovah Feldshuh addresses ‘tensions’ regarding Adam Brody’s Palestine comments Page Six\n- Netflix star claps back at rumors of ‘tensions’ on set after co-star’s comments AL.com"
+    }
+   ]
+  },
+  {
+   "id": "c0629994f45",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+     },
+     "id": "0629994f454de1d9",
+     "published": "2026-10-31T22:11+00:00",
+     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
+     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
+     "lang": "en",
+     "extra": {},
+     "id": "3b6bb0c06269b687",
+     "published": "2026-11-01T07:33+00:00",
+     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVB4SGN0azE1enBQUEpTNWZVQlpBamVDQ2N5ZmdDRDk1dVNrUGI0OVBFRjZCZDFQZ2Q5U1RMUFdpeXFEb29fV1llQ0F4bkhNbV90OVlPbHh0N0MwY3ZzNzVmTFB4cGFJbE5TVm9WZTlnQWdMUVdMQnk4VlJXNm02eXUzcURNWDhpTERZeW1QclZubU10RFh6MFhpVjhRaENO?oc=5",
+     "title": "Business - Tech",
+     "lang": "en",
+     "extra": {},
+     "id": "13ba1829bd10fa9f",
+     "published": "2026-11-01T07:48+00:00",
+     "text": "Business - Tech\nAhram Online"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "5c29874acc90c064",
+     "published": "2026-11-01T09:28+00:00",
+     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
+    }
+   ]
+  },
+  {
+   "id": "c13137ee7b3",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-02/france-launches-attempted-murder-probe-into-petrol-bomb-attack/107334294",
+     "title": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
+     "lang": "en",
+     "extra": {},
+     "id": "13137ee7b3f2cb72",
+     "published": "2026-11-01T14:17+00:00",
+     "text": "A French officer described \"skin that stings\" after being set alight by a molotov cocktail during another weekend of protests in Paris."
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
+     "title": "France opens attempted murder probe after protest attack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79823013_6.jpg"
+     },
+     "id": "cc86e8190b9adf2c",
+     "published": "2026-11-01T14:50+00:00",
+     "text": "Paris prosecutors opened an attempted murder investigation Sunday after a Molotov cocktail was thrown at security forces during a demonstration in the French capital.\nProsecutors said explosive projectiles targeted about 15 gendarmes as well as police officers. No suspects have been arrested over the attack, and investigators were still establishing the number and severity of injuries.\nWhat happened in Paris?\nThe attack took place at Porte de Charenton, where Saturday's march ended. Photographs and video from the AFP news agency showed an incendiary device exploding at a gendarme's feet and setting his protective equipment alight.\nProsecutors said reported injuries included second-degree burns and tinnitus, although those details remained provisional. Interior Minister Laurent Nunez described the attack as an attempted murder.\nHow many people were arrested?\nThe Interior Ministry reported 779 arrests nationwide during the demonstrations and Halloween night. The figure includes both events, updating Saturday evening's provisional total of 565. Authorities said the later part of the night passed without major incidents.\nParis prosecutors separately reported 105 arrests in the capital: 88 linked to the demonstrations and 17 to Halloween night. They said 89 people remained in custody, including at least 22 minors.\nThe protests focused on high living costs and government policies. The ministry put nationwide turnout at 320,000, while unions estimated nearly 500,000 participants.\nThe nationwide arrest total was below the 1,314 recorded during the previous Saturday's mobilization and the 2,628 on October 17, when widespread rioting and looting broke out. Authorities had increased security ahead of Halloween amid online calls for violence."
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/europe/france-launches-attempted-murder-probe-after-petrol-bomb-attack-on-security-forces",
+     "title": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/136c36717e45469303c0d628d5e22333a97fb5fbf9cf732a1158b972fadfc92f?w=1200"
+     },
+     "id": "743087b2c2b803cb",
+     "published": "2026-11-01T14:53+00:00",
+     "text": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces\nAI generated\nPARIS – France has launched an attempted murder investigation after petrol bombs were thrown at security forces during a weekend protest in Paris, prosecutors told AFP on Nov 1.\nOn Oct 31, clashes erupted in the capital and some other cities after hundreds of thousands of people staged a third weekend of protests against soaring living costs.\nThe Paris police prefecture said that several hundred rioters had attacked security forces with projectiles, including a Molotov cocktail. Interior Minister Laurent Nunez has decried an “extraordinary” level of violence from some rioters.\n“Explosive devices were thrown at around 15 gendarmes as well as police officers,” the prosecutor’s office said on Nov 1.\nGendarmes are military police officers who are part of the French armed forces.\nProsecutors said an investigation had been opened for “attempted murder of persons vested with public authority”.\nDramatic images, including AFP photos and video, showed a homemade incendiary device exploding at the feet of a security officer in eastern Paris, engulfing his lower body in flames.\nAn assessment of the injured was ongoing, prosecutors said, adding that the reported injuries include second-degree burns.\nInitial complaints were expected to be filed on Nov 1.\nThe gendarme struck by the Molotov cocktail told French television of the burns he suffered, describing “skin that stings” and a “rain” of projectiles thrown at his unit.\nFewer shops damaged\nNo suspects “have been arrested at this stage in connection with the incident”, the prosecutor’s office said, adding that investigators were working to identify those responsible.\nFar-right leader Marine le Pen said those responsible for the firebomb attack must be “punished with the utmost severity”, in a post on X, describing images of the officer in flames as “unbearable”.\nMore than 770 people were arrested during weekend protests in France, the Interior Ministry said on Nov 1. It added that there had been “no major incidents” late on Oct 31.\nThe number of shops damaged on the sidelines of the Oct 31 protests was significantly lower than during previous weekends, with some 20 businesses affected, according to France’s Chambers of Commerce and Industry (CCI).\nBut CCI France voiced concern about the impact of the protests on retail activity ahead of the year-end holiday season, a peak period for businesses. AFP"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+     "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae780295f69-1793556521.jpg?resize=1920%2C1440"
+     },
+     "id": "4706f4e1a514e668",
+     "published": "2026-11-01T18:58+00:00",
+     "text": "Prosecutors in France have launched an investigation into attempted murder after petrol bombs were thrown at security forces during protests in Paris, as video of an officer in flames provoked outrage.\nThe probe announced on Sunday came after the Paris police prefecture said several hundred rioters had attacked security forces with projectiles, including a Molotov cocktail.\nRecommended Stories\nlist of 4 items- list 1 of 4Why has France struggled to address students’ demands?\n- list 2 of 4Why are French youth rioting?\n- list 3 of 4France braces for ‘very high risk’ of disorder at Halloween protests\n- list 4 of 4France protests enter third week as police fire tear gas\nOn Saturday, clashes erupted in Paris and other cities as hundreds of thousands of people staged a third weekend of protests against soaring living costs and deteriorating public services.\nVideo and images from the demonstrations showed a homemade incendiary device exploding at the feet of a security officer in protective gear, engulfing his lower body in flames.\nProsecutors said the investigation was opened for “attempted murder of persons vested with public authority”.\n“Explosive devices were thrown at around 15 gendarmes as well as police officers,” the prosecutor’s office said, referring to military police officers who are part of the French armed forces.\nWhile riots were less widespread than two weeks ago, when France experienced some of its worst unrest in years, Interior Minister Laurent Nunez said on Saturday that the level of violence perpetrated by some was “extraordinary”.\nAn assessment of the injured was ongoing, prosecutors said, adding that the reported injuries included second-degree burns.\nNo suspects arrested yet\nThe gendarme struck said his unit was “under assault”, with glass bottles, paving stones, shards of glass and firebombs thrown at them.\n“We were hit by several significant incendiary devices,” he told broadcaster RTL on condition of anonymity.\n“The flammable substance was so greasy that I could feel it spreading across my skin,” he said. “I kept wondering when it would stop because I really felt as though I had been coated by the heat itself.”\nThe officer, who received minor injuries, said the leg and shin protections on his riot uniform melted.\nThe gendarmerie said 13 members of the officer’s unit were injured, according to RTL.\nNo suspects “have been arrested at this stage in connection with the incident”, the prosecutor’s office said, adding that investigators were working to identify those responsible.\nMore than 770 people were arrested across France, the interior ministry said.\nA total of 159 members of law enforcement were injured during protests and Halloween celebrations, it added.\nThe protests come in a tense political climate, with presidential elections six months away and far-right frontrunner Marine Le Pen vowing to restore law and order if elected next year.\nLe Pen, the leader of the far-right National Rally party, said on X that those responsible for the firebomb attack must be “punished with the utmost severity”."
+    }
+   ]
+  },
+  {
+   "id": "c6c87e58f5c",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 6,
+   "title_hint": "Stevens appears with Rogers amid rift with El-Sayed",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate",
+     "title": "Stevens appears with Rogers amid rift with El-Sayed",
+     "lang": "en",
+     "extra": {},
+     "id": "6c87e58f5c77c41e",
+     "published": "2026-11-01T17:15+00:00",
+     "text": "Haley Stevens, who had the support of the Senate Democrats' campaign arm in the primary, had previously said she was supporting the Democratic ticket."
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+     "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+     "lang": "en",
+     "extra": {},
+     "id": "9f907efba68e8247",
+     "published": "2026-11-01T17:36+00:00",
+     "text": "Rep. Haley Stevens (D-Mich.) appeared Sunday at Detroit's Perfecting Church alongside Republican Senate candidate Mike Rogers, praising his support for Black-owned businesses just two days before he faces the Democratic nominee she previously endorsed.\nWhy it matters: The appearance gives Rogers a striking moment as his party tries to peel away Black and Jewish voters in a tight race that could determine control of the Senate.\nDriving the news: Stevens' appearance with Rogers came after plans for her to attend a Detroit church service alongside Democratic nominee Abdul El-Sayed and Rep. Jim Clyburn (D-S.C.) collapsed.\nThe intrigue: A video posted by Detroit journalist Sam Robinson showed Stevens entering the church and praising Rogers.\nCatch up quick: The bitter primary rivalry erupted again last week when Stevens' fiancé, Jason Turkish, announced he would vote for Rogers, citing concerns about El-Sayed's rhetoric on Israel.\nWhat we're watching: Michigan voters choose between Rogers and El-Sayed on Tuesday, with Democrats facing a crucial test of whether they can reunite their coalition."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/turmoil-in-michigans-senate-race-as-democrat-haley-stevens-appears-with-republican-mike-rogers",
+     "title": "Turmoil in Michigan's Senate race as Democrat Haley Stevens appears with Republican Mike Rogers",
+     "lang": "en",
+     "extra": {},
+     "id": "afd0b8113bb8e510",
+     "published": "2026-11-01T17:37+00:00",
+     "text": "Stevens' show of support for President Donald Trump's endorsed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election",
+     "title": "Democrat Haley Stevens endorses GOP's Mike Rogers in Michigan Senate race 2 days before election",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP26305620559752-1024x682.jpg"
+     },
+     "id": "04c42a27dddd8a57",
+     "published": "2026-11-01T17:37+00:00",
+     "text": "The remarkable show of support for President Donald Trump's backed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/2026-election/haley-stevens-endorses-gop-mike-rogers-michigan-senate-race-el-sayed-rcna606831",
+     "title": "Rep. Haley Stevens endorses GOP candidate Mike Rogers in Michigan Senate race",
+     "lang": "en",
+     "extra": {},
+     "id": "354d3d4636b9ec8f",
+     "published": "2026-11-01T17:49+00:00",
+     "text": "Rep. Haley Stevens, D-Mich., endorsed Republican Senate candidate Mike Rogers on Sunday, a major shakeup in the final stages of a top battleground race that could determine which party controls the Senate."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+     "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-28T005746Z_1347388485_RC2NMMABFKA4_RTRMADP_3_USA-ELECTION-MICHIGAN-1785693966.jpg?resize=1920%2C1440"
+     },
+     "id": "303b9b193656dcb9",
+     "published": "2026-11-01T18:51+00:00",
+     "text": "In a blow to Democrat Abdul El-Sayed’s campaign for the United States Senate in Michigan, his former primary opponent, US Representative Haley Stevens, has endorsed Republican candidate Mike Rogers.\nStevens stunned party officials on Sunday by appearing with Rogers at a Detroit church service as tensions between her and El-Sayed boiled over two days before the election that will determine the balance of power on Capitol Hill.\nRecommended Stories\nlist of 4 items- list 1 of 4What polls say as Trump makes his final push before US midterms\n- list 2 of 4Where are the most expensive midterm races and who is funding them?\n- list 3 of 4Michigan race: All you need to know about Abdul El-Sayed v Mike Rogers\n- list 4 of 4More than 50 million votes cast in US midterm elections: What does it mean?\n“I am endorsing Mike Rogers for the US Senate. Today, I do not belong to Abdul’s campaign,” she said in a video posted on X.\nStevens’ surprising support for US President Donald Trump’s endorsed candidate in the tightly contested race comes after she was uninvited to a joint event on the same day with El-Sayed, who defeated her by a slim margin in the August primary.\n“Who we are as Michiganders is not hate, and [that] is not what we are getting out of our Democratic nominee right now,” Stevens said."
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/bcdad3edba0c",
+     "title": "Fellow Democrat Stevens snubs El-Sayed, appears with Republican rival Rogers",
+     "lang": "en",
+     "extra": {},
+     "id": "b4e6db05087c8c25",
+     "published": "2026-11-01T19:04+00:00",
+     "text": "Democratic US Representative Haley Stevens and Republican US Senate candidate Mike Rogers at church in Detroit. /Photo: Reuters"
     }
    ]
   },
@@ -4074,52 +4498,6 @@
      "id": "36d86bbf7bd59217",
      "published": "2026-11-01T12:36+00:00",
      "text": "Rockstar Games’ most anticipated title is releasing in just under a month, and yet speculation on the future of the studio has only skyrocketed. It’s rather unsurprising, since Grand Theft Auto VI is expected to be the most important video game release in the modern gaming industry. Additionally, Grand Theft Auto VI’s existence is projected to negatively impact the U.S. economy through loss of workplace productivity, costing approximately $1 billion a day.\nSo, considering Grand Theft Auto VI’s estimated 2 billion dollar budget, it's safe to say that a lot is riding on the game's success, even if many believe it to be a certifiable hit. What comes after the Grand Theft Auto VI release is another thing entirely, but that game’s success will undeniably influence Rockstar. Still, rumors persist about what Rockstar Games’ next title will be. However, seeing the trends among the current mainstream gaming audience, it might be in Rockstar Games’ best interest to have Grand Theft Auto VI's influence on future titles left to the side.\nRockstar Games Has a New Hurdle To Climb\nThe gaming industry and its audience have changed rapidly in the past ten years alone. Most modern games include some form of live-service features, microtransactions, free-to-play, or heavy reliance on online connectivity. It's a change that many gamers hate, and that can be easily seen in what titles turn out to be successful: AAA single-player games like Resident Evil: Requiem, but also an interesting rise in indie games like Hollow Knight: Silksong. Grand Theft Auto VI feels like a culmination of everything that makes that series so iconic and of what players want AAA single-player games to be like.\nRockstar Games' next new title will no doubt be expected to be another single-player adventure. However, the massive shadow cast by Grand Theft Auto VI could very well lead to their next game being rather low-stakes. A common rumor or wish from dedicated Rockstar Games fans is for the studio to revive its other classic franchises like Max Payne and Bully. This sentiment has persisted since the beginning of Grand Theft Auto VI's development and, while understandable, especially for the older gaming crowd, old franchise revival might not be in Rockstar Games' best interest.\nThe Debatable Firepower of Nostalgic Franchises\nMax Payne as a franchise had done relatively well for itself, with its third installment, Max Payne 3 in 2012, earning only $4 million in revenue in its first year but gradually able to eventually make its break-even goal through the help of digital storefronts like Steam. It was this slow revenue stream that caused its then publisher, Take-Two Interactive, and even certain Rockstar Games executives to consider Max Payne 3 a commercial failure. There is definitely a place for a franchise like Max Payne in the current gaming industry. Well-thought-out noir games have their niche, and the nostalgia factor will certainly give it an audience. The same can be said for Bully, a standalone Rockstar Games title that was successful in its initial PlayStation 2 era. Bully has managed to hang on relatively well in the modern gaming landscape, helped out by Steam and other online storefronts. Additionally, online content creators have also done the series a service in pushing it out to a wider audience and introducing it to a newer generation of players. Like Max Payne, Bully would also have a respectably sized audience who would definitely buy. Unfortunately, these old fr"
-    }
-   ]
-  },
-  {
-   "id": "ccecf37c22f",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
-     "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-     "lang": "en",
-     "extra": {},
-     "id": "cecf37c22f0f01d1",
-     "published": "2026-10-31T15:24+00:00",
-     "text": ""
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
-     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-     "lang": "en",
-     "extra": {},
-     "id": "e207e0cfa1d8938e",
-     "published": "2026-10-31T18:11+00:00",
-     "text": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.\n(Image credit: Justin Sullivan)"
-    },
-    {
-     "source": "The Verge",
-     "trust": 2,
-     "url": "https://theverge.com/tech/1024176/north-korea-binance-crypto-heist",
-     "title": "North Korea linked to massive Binance crypto heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-     },
-     "id": "b9273cfbb5b037df",
-     "published": "2026-11-01T14:33+00:00",
-     "text": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity “TraderTraitor” and said that it had observed actors it has connected to hack converting the tokens to Ethereum and preparing for further laundering of the funds. The agency offered few other details or evidence. The statement says:\nNorth Korea linked to massive Binance crypto heist\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nThe FBI says that malicious actors from North Korea stole $6.3 billion worth of Crypto from Binance customers.\nNorth Korea Responsible for $6 Billion+ Binance Attack\nThe Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\nAs expected, Binance reopened customer withdrawals today after freezing them in the immediate aftermath of the hack."
     }
    ]
   },
@@ -4264,63 +4642,6 @@
    ]
   },
   {
-   "id": "cbb11ab35d0",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/film/news/taika-waititi-defends-klara-and-the-sun-1236936368",
-     "title": "Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’",
-     "lang": "en",
-     "extra": {},
-     "id": "bb11ab35d07f99f6",
-     "published": "2026-10-31T21:15+00:00",
-     "text": "Taika Waititi has taken to social media to defend “Klara and the Sun,” his latest directorial effort, amid poor reviews and bleak box office numbers, sharing an Instagram post featuring the film’s poster and its Rotten Tomatoes audience score of 78%. (In contrast, the critic score is 28% — the “Jojo Rabbit” director’s lowest yet). […]"
-    },
-    {
-     "source": "Hollywood Reporter",
-     "trust": 2,
-     "url": "https://hollywoodreporter.com/movies/movie-news/klara-and-the-sun-taika-waititi-slams-critics-reviews-1236744227",
-     "title": "‘Klara and the Sun’ Director Taika Waititi Calls Critics “Sad Lost Souls” Over Negative Reviews",
-     "lang": "en",
-     "extra": {},
-     "id": "3713202808be821b",
-     "published": "2026-10-31T22:41+00:00",
-     "text": "Set in a dystopian future, the film stars Jenna Ortega and Amy Adams."
-    },
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/10/taika-waititi-calls-klara-and-the-sun-critics-irrelevant-1237210687",
-     "title": "Taika Waititi Calls ‘Klara and the Sun’ Critics “Irrelevant, Out Of Touch, Obsolete”",
-     "lang": "en",
-     "extra": {},
-     "id": "6fb9ae24fc08bb30",
-     "published": "2026-10-31T23:28+00:00",
-     "text": "As Taika Waititi’s latest directorial effort gets its time in the sun, he has some choice words for critics attempting to rain on his parade. On Saturday, the Oscar winner boasted about Klara and the Sun‘s 78% Rotten Tomatoes audience score (now at 73%), while slamming the “sad lost souls” who gave the movie a […]"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzhCSFZPN3V4aS1NMzYxWUZDYVBIV09vQmo1WjZLVTNrcm5WVVZPSnZIZXVQYVV1MVN3UGtuVTN1b3VaQnR1WWdjSnN6YVRUd3NHdVRQZnBwRjQ1aFdRbnlGX1VZTGdoVjlsekRSaDc2cElzcmVDTDdfTERlVUlzRXZZSVZVMjhrS0JRV0NoTVZwMklldE9hRnR4WlMxUQ?oc=5",
-     "title": "Taika Waititi Calls ‘Klara And The Sun’ Critics “Irrelevant, Out Of Touch, Obsolete”",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "b3415db8403c6893",
-     "published": "2026-10-31T23:28+00:00",
-     "text": "- Taika Waititi Calls ‘Klara And The Sun’ Critics “Irrelevant, Out Of Touch, Obsolete” Deadline\n- Taika Waititi Adapted a Strange and Beautiful Novel. The Result Is Shaping Up to Be a Legendary Bomb. Slate\n- Jenna Ortega’s New Dystopian Sci-Fi Movie Cancels International Release After Box Office Flop MovieWeb\n- Spain Scraps \"Klara and the Sun\" Release Dark Horizons\n- Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’ Variety"
-    }
-   ]
-  },
-  {
    "id": "ca1c01ba106",
    "kind": "news",
    "score": 13.0,
@@ -4456,6 +4777,67 @@
    ]
   },
   {
+   "id": "ce8b4e7d251",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckdSaWg1UnpYNmhtY1BWZzdiV2EyLUVQb3dKWC1vRGtHNzdFUTVsMjh1dUthY3lKWHd1d1JXTnNtRFNDUzVHY1BkS2J6emlQV0oyVmxFeHJEY21lVkIyeS03OEFjT2hWUEIwc0NOMm1QODBNS2ZFcGdaZmgyLTBwZmN4S0tPdnVpbmZpR2hraTkxVXFLQVY2eUdjdWxWTlRRa29vTEh4N3NpZDgwSEVxRUNUNURrNmd2MVNIbVBnNWNfdw?oc=5",
+     "title": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "e8b4e7d251980d47",
+     "published": "2026-11-01T04:57+00:00",
+     "text": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds\nReuters"
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/stock-market-news/binance-to-resume-withdrawals-after-recovering-bulk-of-6-billion-in-stolen-funds-4989388",
+     "title": "Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds",
+     "lang": "en",
+     "extra": {},
+     "id": "560cb85b0a46bf78",
+     "published": "2026-11-01T05:00+00:00",
+     "text": ""
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ042d3hwbUp6LXNrZ2JEY2RSVEgzX0xJbGZ0QTFsVnM1X0tYUFBONzljRXRIbFJCRlRWeUkyeEJwaElZZnN6Tnluc1h3ZURja0tMTHhjSDkyb2FnUHRPejdmUjZmaU10ZlBuTW82bVZmV0hKNFJMbmZ2VjFyS2h2NUVZRnVtZVdIQVo3VnRPVFhsX1ptRzJQaklyXzZIU0hxN1lyQ3lTNjYtMGZvQ1Q1T0laQzBHU1dHdEk1RXJXMGhRSVJT?oc=5",
+     "title": "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "493bbaee09fd6d7f",
+     "published": "2026-11-01T05:49+00:00",
+     "text": "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion\nReuters"
+    },
+    {
+     "source": "Phys.org Tech",
+     "trust": 2,
+     "url": "https://techxplore.com/news/2026-11-binance-resumes-billion-stolen-hack.html",
+     "title": "Binance resumes withdrawals after more than $6 billion stolen in hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://scx2.b-cdn.net/gfx/news/2026/binance-is-the-worlds-1.jpg"
+     },
+     "id": "a2bedae0cff36743",
+     "published": "2026-11-01T19:08+00:00",
+     "text": "Binance resumes withdrawals after more than $6 billion stolen in hack\nBinance said that it had seen withdrawals of around $4.7 billion on Sunday, after more than $6 billion in virtual assets were stolen from the cryptocurrency exchange in a major hack the FBI said North Korea was responsible for.\nBinance is the world's largest crypto exchange by daily trading volumes. News of the hacking attack, which is thought to be the biggest-ever crypto heist, caused the prices of most major cryptocurrencies to fall sharply on Friday.\nThe company has offered reassurances it will cover the losses from the attack, saying it has used company funds to buy tokens to replenish 90% of what was stolen.\nBinance suspended user withdrawals after the attack but said they would be resumed in phases, the first of which began on Sunday.\nBetween 6 a.m. GMT and 3:30 p.m. GMT, the platform said it had processed $4.65 billion in withdrawals and $1.01 billion in deposits.\nThe net outflow of $3.64 billion amounted to about 2.1% of the total assets the company manages.\nThe U.S. Federal Bureau of Investigation accused North Korea of being behind the hack in a statement on Saturday, confirming earlier suspicions from private investigators and analysts that a Pyongyang-affiliated group called TraderTraitor was responsible.\nTraderTraitor is the same group blamed for a $1.5 billion theft from the Bybit platform in February last year.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about Oct. 29, 2026,\" the statement said.\nThe FBI added that it had observed \"TraderTraitor actors\" converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralized finance and instant swap services.\nIt said it was urging private-sector entities \"to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.\"\nU.S. President Donald Trump cast doubt on North Korea's involvement in the hack.\n\"I'm not concerned. We're learning about it. We don't know if it's North Korea,\" Trump told reporters at his residence in Florida late Saturday.\nThe president often reflects with pride on summits he held with North Korean leader Kim Jong Un during his first term.\n'Commitment' to cover losses\nBinance said Saturday it has set aside more than $6.34 billion in company funds to cover losses in the hack.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said it has used company money to buy tokens to replenish 90% of the stolen funds, while the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\"\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly 6% and BNB, native to Binance, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea—which faces extensive international sanctions over its nuclear and missile programs—to find illicit means to capture funds.\nTraderTraitor is believed to be part of t"
+    }
+   ]
+  },
+  {
    "id": "c78696ef3eb",
    "kind": "news",
    "score": 13.0,
@@ -4502,30 +4884,6 @@
      "id": "029def11adf916ba",
      "published": "2026-11-01T08:30+00:00",
      "text": "Rugby League World Cup 2026: Reports, news, scores, fixtures from across the men's, women's, and wheelchair tournaments\nReports, news, updates, scores from across the men's, women's, and wheelchair tournaments of the Rugby League World Cup 2026"
-    }
-   ]
-  },
-  {
-   "id": "c4a57959617",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "هكذا تُعرض محادثات ملايين الأشخاص \"جنسيا\" مع روبوت الدردشة للبيع.. حصّن نفسك",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Arabi21",
-     "trust": 2,
-     "url": "https://arabi21.com/story/1800005/%D9%87%D9%83%D8%B0%D8%A7-%D8%AA%D8%B9%D8%B1%D8%B6-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D9%84%D8%A7%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%A3%D8%B4%D8%AE%D8%A7%D8%B5-%D8%AC%D9%86%D8%B3%D9%8A%D8%A7-%D9%85%D8%B9-%D8%B1%D9%88%D8%A8%D9%88%D8%AA-%D8%A7%D9%84%D8%AF%D8%B1%D8%AF%D8%B4%D8%A9-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D8%AD%D8%B5%D9%86-%D9%86%D9%81%D8%B3%D9%83",
-     "title": "هكذا تُعرض محادثات ملايين الأشخاص \"جنسيا\" مع روبوت الدردشة للبيع.. حصّن نفسك",
-     "lang": "ar",
-     "extra": {
-      "page_image": "https://i.arabi21.com/arabi21/1200x630/52025611825250210836.jpg"
-     },
-     "id": "4a57959617dd25b8",
-     "published": "2026-11-01T07:28+00:00",
-     "text": "تزايدت في السنوات الأخيرة الحوادث والمخاوف المتعلقة بـ\"الحديث جنسياً\" مع روبوتات\nالدردشة، حيث تحولت هذه الظاهرة من مجرد تسلية تكنولوجية إلى قضايا أثارت جدلاً واسعاً حول الخصوصية، والأخلاق، والصحة النفسية.\nوفضلاً عن تعرض بعض المنصات لعمليات اختراق أدت إلى تسريب محادثات\nجنسية وصور حساسة تخص المستخدمين، مما عرضهم لخطر الابتزاز، فإن إفلاس بعض الشركات وبيعها لأخرى، قد يتيح الاستيلاء على بيانات خاصة لملايين المستخدمين.\nاظهار أخبار متعلقة\nوفي تحقيق لشبكة \"\nبي بي سي\"، فإن انهيار شركة \"كاراكتر.أيه آي\" الناشئة في مجال\nالذكاء الاصطناعي، كشف عن خطر نادراً ما تتم مناقشته فيما يتعلق بمستخدمي الذكاء الاصطناعي، وهو أن الشركات التي تحتفظ بأسرار العملاء قد لا تبقى موجودة إلى الأبد.\nواستشهد تقرير الشبكة بحادثة تعرضت لها إحدى الفتيات بعدما أنشأت حساباً على منصة شركة \"كاراكتر.أيه آي\"، حيث حاورها روبوت المحادثة على أنه فتاة اسمها \"جيسيكا\" وأن والديها ليسا في المنزل، وعرض عليها تبادل رسائل ذات طابع جنسي، قبل أن ترد المشتركة بـ\"لا\".\nوأوضح التقرير أن هذه الفتاة رفضت عرض الروبوت \"جيسيكا\"، لكن في المقابل هناك عشرات الملايين من الأشخاص الآخرين، ومن بينهم أطفال، أقاموا فعلاً علاقات مع روبوتات الدردشة التابعة للشركة التي أفلست.\nوقالت إن بعض هذه الروبوتات تدّعي أنها تعمل في المحاماة والطب النفسي ولديها التراخيص، ولكن شركة الذكاء الاصطناعي هذه تُعلن اليوم إفلاسها، وبالتالي فإن بيانات المستخدمين ورسائلهم وأسرارهم معروضة للبيع.\nيؤكد الخبراء أن مخاطر الخصوصية يجب أن تُقلقك حتى لو لم تستخدم روبوتات \"كاراكتر.أيه آي\" من قبل، لأنهم يخشون أن تكون دليلاً على أزمة أوسع نطاقاً تلوح في الأفق.\nومع هذا فإن بعض الخطوات البسيطة يمكن أن تساعد في حماية الخصوصية، وهنا تكمن المشكلة، إذ يعتقد العديد من المحللين أن الكثيرين يعيشون في \"فقاعة الذكاء الاصطناعي\"، نظراً لأن بناء وتشغيل أدوات الذكاء الاصطناعي مكلف للغاية لدرجة أن بعض الشركات قد لا تحقق أرباحاً أبداً.\nوالخطر يكمن في أنه إذا ما انفجرت هذه الفقاعة، فإن عدداً هائلاً من شركات الذكاء الاصطناعي سيندمج أو يُغلق أبوابه، وحينها، قد تُصبح البيانات التي يُقدمها مليارات الأشخاص لأدوات الذكاء الاصطناعي متاحة لأي شخص تقريباً، وقد لا يعرفون أبداً ما سيكون عليه مصيرها.\nوتوضح الـ\"بي بي سي\" أن بيع البيانات عند الإفلاس ليس بالأمر الجديد، لكن الذكاء الاصطناعي قد يزيد الأمور سوءاً.\nوبهذا الشأن، تقول كالي شرودر، مديرة برنامج الذكاء الاصطناعي وحقوق الإنسان في مركز معلومات الخصوصية الإلكترونية: \"عندما يتحدث الناس إلى روبوت دردشة، فإنهم يشاركون غالباً معلومات شخصية وحساسة للغاية\".\nوتحذّر كالي قائلة: \"لا تستخدم الذكاء الاصطناعي، لا تزال معرَّضاً للخطر، لأن المستخدمين يشاركون معلومات عن الأصدقاء والعائلة\".\nوتوضح: \"قد تفصح عن مشاعرك الخاصة وعندها تكون قد قدمت معلومات وبيانات عن أشخاص آخرين لم يستخدموا أبداً روبوتات الشركة\"، ويعني ذلك أن الخطر لا يقتصر على من يستخدم الذكاء الاصطناعي فقط، جميعنا معرَّضون للخطر، بطريقة أو بأخرى.\nبعد إعلان إفلاسها، وافقت شركة \"كاراكتر.أيه آي\" على بيع بعض أصولها لشركة ديزني مقابل 20 مليون دولار، ومن المفترض أن الصفقة لا تشمل بيانات المستخدمين.\nلكنَّ وثائق المحكمة تشير إلى أن الشركة تستطيع بيع بياناتها لمشترين آخرين. وهذا الأمر لا يُرضي الكثيرين، بمن فيهم مسؤولون أمريكيون.\nوبسبب المخاطر، قدَّم ائتلاف يضم 40 مدعياً عامّاً من ولايات أمريكية إشعاراً يطالب القاضي بتطبيق قوانين حماية سلامة الأطفال وخصوصيتهم. هذا أمر هام، لكنَّ مطالب هذه الولايات قد لا تكون فعالة.\nوتشرح ميليسا جاكوبي، أستاذة القانون في جامعة نورث كارولاينا في تشابل هيل بالولايات المتحدة ومؤلفة كتاب \"الديون غير العادلة: كيف يزيد نظام الإفلاس اللامساواة في أمريكا\"، قائلةً: \"بدون حماية أقوى للخصوصية في الولايات المتحدة، فإن ما يمكنهم فعله محدود للغاية\".\nتُلزم بعض القوانين الشركات بإبلاغ المستخدمين بالمعلومات التي تجمعها وكيفية استخدامها في سياسات الخصوصية المتعلقة بها. ول"
     }
    ]
   },
@@ -5197,157 +5555,6 @@
    ]
   },
   {
-   "id": "cc6d8897468",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Liverpool vs Arsenal live updates: Premier League match team news, predictions and more",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Athletic Football",
-     "trust": 2,
-     "url": "https://nytimes.com/athletic/live-blogs/liverpool-vs-arsenal-live-updates-premier-league-score-result/tAD6b9M2brnp",
-     "title": "Liverpool vs Arsenal live updates: Premier League match team news, predictions and more",
-     "lang": "en",
-     "extra": {},
-     "id": "34592e0c6c495a59",
-     "published": "2026-11-01T12:15+00:00",
-     "text": "Team news and updates as Liverpool host Arsenal in the Premier League today."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/sports/liveblog/2026/11/1/liverpool-vs-arsenal-live-premier-league?traffic_source=rss",
-     "title": "Liverpool vs Arsenal LIVE: Premier League",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-08-21T184943Z_1780533378_UP1EM8L1GAU06_RTRMADP_3_SOCCER-ENGLAND-ARS-COV-1793531297.jpg?resize=1920%2C1440"
-     },
-     "id": "a860d6d36c2141d7",
-     "published": "2026-11-01T13:33+00:00",
-     "text": "Follow updates, build-up and team news from our live text commentary stream, with Martin Odegaard headlining."
-    },
-    {
-     "source": "TechRadar",
-     "trust": 2,
-     "url": "https://techradar.com/entertainment/football/liverpool-vs-arsenal-free-premier-league-2026-27",
-     "title": "How to watch Liverpool vs Arsenal: Live streams and TV channels for Premier League 2026/27",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/M4vsrK6HkkFEuKcUemcaEH-1024-80.jpg"
-     },
-     "id": "e0c7a84e3c60c1a2",
-     "published": "2026-11-01T14:00+00:00",
-     "text": "- Liverpool vs Arsenal: Today (Sun, Nov. 1) — 4.30pm GMT / 11.30am ET\n- Stream: Sky Sports (UK) / Peacock TV (US) / Stan Sport (AUS)\n- Unlock your stream with Proton VPN (up to 75% off)\nWatch Liverpool vs Arsenal live streams in a potential Premier League 2026/27 classic at Anfield. Respectively led by Andoni Iraola and Mikel Arteta, two managers from the small Basque province of Gipuzkoa in northern Spain, the Reds and Gunners share a special rivalry and will want to establish early dominance.\nThe Merseysiders scraped past Chelsea in a midweek Carabao Cup penalty shootout but will need to put in a better performance to cut the gap to the reigning champions to three points. The Reds have won four of their past five outings in all competitions – the aforementioned EFL Cup 'win' technically a draw – since a 3-0 defeat by Man City as Iraola's methods begin to take root. Alexander Isak has six Premier League goals to his name already this season, while even Florian Wirtz has begun to resemble the player Liverpool thought they were buying from Bayern Leverkusen in the summer of 2025. Ronald Araujo impressed in last weekend's 2-0 win against Brentford.\nNo-one saw Arsenal's shootout defeat by Fleetwood – 18th in League Two – in the Carabao Cup coming and Arteta will be determined his side prove that result was an anomaly. Second on goal difference to City, the Gunners have won three league games in a row since a 3-0 walloping at Brighton and looked at their controlled, relentless best in swatting aside Everton last weekend. Declan Rice and Noni Madueke should return after missing Fleetwood, but Bukayo Saka will be absent for at least a month. Arsenal haven't tasted victory at Anfield in 13 attempts dating back to the 2012/13 season – can they invoke the spirit of 1989, Michael Thomas and all that to keep their title defense on track?\nHere's how to watch Liverpool vs Arsenal in the Premier League 2026/27 from anywhere in the world.\nCan I watch Liverpool vs Arsenal for free?\nUnfortunately not —there are no dedicated free streams we can find for Liverpool vs Arsenal.\nHowever, if you're a US resident, you can watch the Premier League game for just $1 if you take out a 30-day trial to Walmart+ and select Peacock TV as a member benefit. Read below for more information.\nAway from the US on vacation or business? You'll need a VPN to watch your regular stream as if you're back home — we recommend Proton VPN.\nUse a VPN to watch Liverpool vs Arsenal from anywhere\nA VPN is a handy piece of software that can make your device appear as if it's back in your home country, so you can unlock your usual streaming services. One of our favorites is Proton VPN – it does everything and comes with up to 75% off.\n🟩 Proton VPN – Just $2.49/month\nProton VPN offers top-notch security and privacy and super fast connection speeds, and comes with a 30-day money-back guarantee.\n✅ Save up to 75% off\n✅ Just $2.49/month\n✅ Unlocks Peacock\nGet Proton VPN and stream Liverpool vs Arsenal from anywhere.\nIt's really straightforward to use a VPN to watch Liverpool vs Arsenal.\n1. Install the VPN of your choice. As we've said, Proton VPN is one of our favorites.\n2. Choose the location you wish to connect to in the VPN app. For example, if you want to watch the Peacock stream, select 'United States' from the listed countries.\n3. Sit back and enjoy the action. Head to Peacock and tune into Liverpool vs Arsenal.\nHow to watch Liverpool vs Arsenal live streams in the US\nLiverpool vs Arsenal "
-    },
-    {
-     "source": "TechRadar",
-     "trust": 2,
-     "url": "https://techradar.com/entertainment/american-football/how-to-watch-baltimore-ravens-vs-buffalo-bills-nfl-week-8-game",
-     "title": "How to watch Ravens vs Bills: Live streams & TV Channels",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/8wAShUikqRSB94WDCxFYTj-1920-80.jpg"
-     },
-     "id": "36df355197dc74d7",
-     "published": "2026-11-01T15:00+00:00",
-     "text": "- Watch Ravens vs Bills on Paramount+ / CBS via YouTube TV (US)\n- Unlock your stream with IPVanish (save up to 83%)\n- Ravens vs Bills kick-off: Sun, Nov 1 at 1pm ET / 6pm GMT / 5am AEDT (Mon)\nLamar Jackson's return can't come soon enough for the Ravens, who've plummeted down the pecking order in his absence. The two-time MVP, however, looks set to return for this key NFL 2026 clash with the Bills, who are flying high and coming off a bye.\nBaltimore's track record with double-digit leads needs no introduction, but even by their standards the capitulation against the Bengals was something special. From 13-0 up at midway, to 13–35 down at full-time, this was a collapse for the ages. Worse still, they blew a double-digit lead the previous week too.\nAlthough there's a long way to go, the Ravens' divisional form has brought a note of jeopardy to every game. Not only are they at the bottom of the AFC North, but they're also 0-2 in divisional play, which could end up costing them dearly.\nOn a positive note, while the Ravens' and Bills' run-heavy offenses are well-matched, Buffalo's defense has been atrocious in every facet of the game. They rank 31st for total defense and passing yards, and 30th for points conceded per game.\nBut they have Josh Allen. The 2024 MVP has nine passing touchdowns to go with another eight on his wheels, so while the Bills certainly won't be winning the Vince Lombardi Trophy with the defense in the state that it is, Allen and James Cook alone ensure they'll keep steamrolling good, bad and average opponents in the meantime.\nHere's how to watch Ravens vs Bills in the 2026 NFL from anywhere in the world.\nUse a VPN to watch Ravens vs Bills live streams\nA VPN is a handy piece of software that can make your device appear as if it's back in your home country, so you can unlock your usual streaming services. One of our favourites is IPVanish – it does everything and comes with up to 83% off.\n🟩 IPVanish – Just $2.49/month\nIPVanish is beginning to rank among the top VPN providers and it is a great option to unblock your NFL streaming service.\n✅ Save up to 83%\n✅ Just $2.49/month\n✅ Unlocks all necessary streaming services\nGet IPVanish and stream Ravens vs Bills from anywhere.\nHow to watch Ravens vs Bills live streams in the US\nIn the US, the Ravens vs Bills game is being shown on CBS and Paramount+.\nParamount+ starts at $8.99/month or $89.99/year. However, you can access Paramount+ virtually for free with a Walmart Plus 30-day trial for $1.\nAlternatively, YouTube TV, Hulu + Live TV, DirecTV Stream and the Fubo Sports + News plan each carry CBS and will provide near-comprehensive NFL coverage this season.\nOutside of the US? IPVanish can unblock your stream from anywhere in the world.\nHow to watch Ravens vs Bills live streams in the UK\nIn the UK, Ravens vs Bills is available to watch on Sky Sports+.\nSky Sports packages start at £35/month, with £22/month pricing available to existing Sky customers. You can also tune in via a NOW Sports membership that carries the Sky Sports channels.\nThe game is also available through NFL Game Pass on DAZN, which starts at £18.99/month if you commit to a year or £69.99 for the rest of the season if you pay upfront, and live streams every remaining game, plus RedZone.\nAway from home? Unlock your Ravens vs Bills stream with IPVanish.\nHow to watch Ravens vs Bills live streams in Australia\nIn Australia, the Ravens vs Bills game is being shown on ESPN via Foxtel, with live streaming available via Kayo Spo"
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1dqTTVXdFNLUm5xaExlWDF0dFltX2hnY2FheDNsRDVoMHRkak52Mk1DTkQ4QkxrM2ZQd3BLTDBlSFZzakRoSWNNN2F1SmhPbGJ4MU5NSHBTRjRXQ0FkSF91M3B4RkU2UU94MXJGdW1Uc0FSblhkLWJCeElUQnVqMkpoZEZ2TkVlWl9sNXpNam9jT2ZBSEhCeEJWQ25IaThyUjFV0gGoAUFVX3lxTFBib1gtRUxlaTRHZGp6MDZHZXI2ZDhjQlFvdmM0NGlKeDk4Y3JSNTM4dlRoRWYyODYyaHhHOVZVR1dUWnR6N2lZc1E1ZlBUQ3loQmtXanJPeTNBUXBKQ3ZxTTNMWEpPZ2xkVHd2N1d2MGdEaWpaLWpyM2VpZDNxY25KSjNUTGNJYzlrUER3WHdsblkwQmJxbzNvQTNTOU5KdUdvalVkMXg0Nw?oc=5",
-     "title": "Liverpool vs Arsenal: Premier League – Predictions, news, teams, lineups - Al Jazeera",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "c6d8897468353686",
-     "published": "2026-10-31T09:50+00:00",
-     "text": "- Liverpool vs Arsenal: Premier League – Predictions, news, teams, lineups Al Jazeera\n- Arsenal XI vs Liverpool – Predicted lineup and team news Yahoo Sports\n- Liverpool vs Arsenal Prediction, Pick, Premier League Odds Yahoo Sports\n- Arteta can take inspiration from George Graham to expunge painful Anfield memories The Guardian\n- Liverpool vs. Arsenal: Preview, Predictions and Lineups Sports Illustrated"
-    }
-   ]
-  },
-  {
-   "id": "cfe135d37a3",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Iran's Army Warns Any New US Attack Would Spread War Wider",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5335888",
-     "title": "Iran's Army Warns Any New US Attack Would Spread War Wider",
-     "lang": "en",
-     "extra": {},
-     "id": "fe135d37a396e674",
-     "published": "2026-10-31T09:58+00:00",
-     "text": ""
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR3ZSNHpXc2h3WEFheFBZT1FMRkJrdm04Y2dEd1U5aG8yV2lPTzVBTmFwLXpXaV8wMnFDdXg3a1V3UGxvc0lzNHRqc3pldjlSc0FHbnpuOE5lRlFsbjY3RXdvMUt2dHpnLUZjQm1MSWNLMmpEU2cyOXctS0lTOU9UMzRFVkxNWUx4bl9WVVdXNnI3cXJwVUNKMC1IUThmVjjSAbIBQVVfeXFMUERSb2dia0VQbDVaUTZSRUVKaGdHelYtMUVyLTRIWEJZcGdReEI4NFlraWMzODRXc0U5RWFNSlFXM2o3cTNWMzBvRWNKUjhBTFVjazRSYUpoVmlueENxNkFrelNXTGdVZUhUVFd4QjVZN09rc3RmdTdIb0l3dzhPODRvNjUtMkFHRTYyTkt0YTdCbG1RN3AzZGc1RmxHaWZhS0RzcnMyX05yM1NvOVhmbGE4UQ?oc=5",
-     "title": "Iran threatens wider war if US and Israel strike again",
-     "lang": "en",
-     "extra": {},
-     "id": "fbe5bac242e28b49",
-     "published": "2026-10-31T17:31+00:00",
-     "text": "Iran threatens wider war if US and Israel strike again\nGulf News"
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJIMlROdTg2TGRWSVVzN0RpWm9IZHJpMERid2lMSklpVkZpRzIyNjZBNk1tU2FfRGpuWTV4S1liZWs0MTVyalpTUTVac1JHZEVURlIzMFUyMTc3S0lfM0VUcFlkbFlBX2V0eXk3bE5oRjY3NXdmUVFBUWNGbjV1VXprVGxoQm5jSE50Ukt5N3l6MGE2M1BxaVNJSWxOaUNKa2dNQTBUaXBYVHJWWDhUNk1fTy1BNDE3N0E?oc=5",
-     "title": "Iran army says any new war with US could be ‘longer than previous conflict’",
-     "lang": "en",
-     "extra": {},
-     "id": "b664c2c464308151",
-     "published": "2026-11-01T10:06+00:00",
-     "text": "Iran army says any new war with US could be ‘longer than previous conflict’\nArab News"
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336233",
-     "title": "Iran Army: Any New War with US Could be 'Longer Than Previous Conflict'",
-     "lang": "en",
-     "extra": {},
-     "id": "861e201cb71cf5e9",
-     "published": "2026-11-01T11:00+00:00",
-     "text": ""
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/middle-east/irans-army-warns-that-any-new-war-with-us-could-be-longer-than-previous-conflict",
-     "title": "Iran’s army warns that any new war with US could be ‘longer than previous conflict’",
-     "lang": "en",
-     "extra": {},
-     "id": "f2ec23da414ba55e",
-     "published": "2026-11-01T11:28+00:00",
-     "text": "Trump says the US still has to “take care of” one or two targets \"but we can do that in 10 minutes\"."
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/world/mena/iran-warns-next-war-with-us-could-last-even-longer-1.500731779",
-     "title": "Iran warns next war with US could last even longer",
-     "lang": "en",
-     "extra": {},
-     "id": "47acb77492ca4814",
-     "published": "2026-11-01T13:21+00:00",
-     "text": ""
-    }
-   ]
-  },
-  {
    "id": "c71beea19fd",
    "kind": "news",
    "score": 12.0,
@@ -5639,131 +5846,6 @@
    ]
   },
   {
-   "id": "ce8debdb21f",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Iranian Envoys Meet Qatari Mediators as Threat Looms of US Strikes After Midterms",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336024",
-     "title": "Iranian Envoys Meet Qatari Mediators as Threat Looms of US Strikes After Midterms",
-     "lang": "en",
-     "extra": {},
-     "id": "e8debdb21f208164",
-     "published": "2026-10-31T16:09+00:00",
-     "text": ""
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
-     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-     "lang": "en",
-     "extra": {},
-     "id": "370442b7e3261742",
-     "published": "2026-10-31T19:24+00:00",
-     "text": ""
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/middle-east/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-3009168",
-     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-     "lang": "en",
-     "extra": {},
-     "id": "23a3d019cae5c5dd",
-     "published": "2026-10-31T21:14+00:00",
-     "text": "DUBAI/ATLANTA: Iranian negotiators held talks in Doha with Qatari mediators on Saturday to discuss paths out of war in the Gulf, a source who was briefed on the negotiations told Reuters, as diplomats try to avert new fighting after the US midterm elections this week. US Secretary of State Marco Rubio said on Saturday that President Donald Trump has not decided whether to launch new strikes against Iran, but would prefer to resolve the conflict diplomatically. Trump has held off on strikes on Ir"
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMjFnYWtnU1ZZVGZaaGJaNzNSQVpBUFA5dzFCbW44Tk83SVo2dHJkbmwtYXh5anBEbjlTU2pOemI5OE1vRUFaM3FmQnduX1M0U3FpZXpkYW5aMlh1aEtiZ1J3U3JPMmFyY3hBOVRjY2JfOXdWaXdqOGVKU0pGY1MtcTZzNERVbVhFaEVpVXhMNllEYnNEbzR0eGlWeko3UE50RlphYlJpYW15WGRtVG5MRVphczA4WU1YdGFOMmNSN0lLTmpz?oc=5",
-     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
-     "lang": "en",
-     "extra": {},
-     "id": "096839a789ab1d8c",
-     "published": "2026-10-31T21:14+00:00",
-     "text": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms\nArab News"
-    }
-   ]
-  },
-  {
-   "id": "c6376b050fb",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Iran's Khamenei warns US and Israel against new attacks",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
-     "title": "Iran's Khamenei warns US and Israel against new attacks",
-     "lang": "en",
-     "extra": {},
-     "id": "6376b050fbd723e2",
-     "published": "2026-10-31T17:00+00:00",
-     "text": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened military action on the Islamic republic but US Secretary of State Marco Rubio said Trump had not yet made a decision about fresh strikes."
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEVLeUN1bUlsdEFHZl9zQklibGpZTHFxekVxTEJVOVJUQWRvUExWZ1p4OEVfY3lzNEIxMkJoSXlEY29KT2FwWGFnejlZazRMVXF0X0xMTTc0SV9kaUljeDktQ1NqUEpnT1h0dS0wLUx0TDg4Wks3TDFDclk2MTk3MUJXRHFWaU9xcXFieWl1SkkydTliS054TFFvQ2xuV2ZTQWM5MU93?oc=5",
-     "title": "Iran warns US and Israel: What to know as fears of wider conflict grow",
-     "lang": "en",
-     "extra": {},
-     "id": "b2422aae6d508c53",
-     "published": "2026-10-31T18:09+00:00",
-     "text": "Iran warns US and Israel: What to know as fears of wider conflict grow\nGulf News"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks",
-     "title": "Iran's supreme leader warns U.S., Israel against new attacks",
-     "lang": "en",
-     "extra": {},
-     "id": "e146fa31649e8341",
-     "published": "2026-10-31T22:10+00:00",
-     "text": "Secretary of State Marco Rubio said Saturday no decision has yet been made on whether to renew hostilities with Iran."
-    },
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/news/2026/11/01/world/iran-warns-us-israel",
-     "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571605.jpg?v=3.1"
-     },
-     "id": "a9e56fb5e1d7da27",
-     "published": "2026-11-01T00:55+00:00",
-     "text": "Tehran – Iran’s supreme leader warned the United States and Israel on Saturday of fresh attacks following their threats to resume strikes after crucial elections, as fears increased over a return to fighting.\nU.S. President Donald Trump suggested he could launch fresh military action after the United States holds its midterm elections.\nBut U.S. Secretary of State Marco Rubio said Saturday: “If there is a diplomatic solution, we would be open to it.”\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ?oc=5",
-     "title": "Iran's Khamenei warns US and Israel against new attacks - France 24",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "b69d3e87ad0db537",
-     "published": "2026-10-31T17:00+00:00",
-     "text": "- Iran's Khamenei warns US and Israel against new attacks France 24\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News\n- Iran’s Khamenei Orders Military to Expand US Retaliation Plans Bloomberg.com"
-    }
-   ]
-  },
-  {
    "id": "c38206f68dc",
    "kind": "free",
    "score": 7.5,
@@ -5906,8 +5988,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T19:05+00:00",
-     "text": "Bitcoin: $77,841 (+0.4% 24h)\nEthereum: $2,261 (+0.3% 24h)\nSolana: $94.30 (-1.7% 24h)\nToncoin: $1.22 (+1.0% 24h)"
+     "published": "2026-11-01T19:35+00:00",
+     "text": "Bitcoin: $77,740 (+0.3% 24h)\nEthereum: $2,257 (+0.2% 24h)\nSolana: $93.80 (-2.2% 24h)\nToncoin: $1.22 (+0.7% 24h)"
     }
    ]
   },
