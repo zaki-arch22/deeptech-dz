@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T22:40:07+00:00",
+ "generated_at": "2026-11-01T23:09:48+00:00",
  "clusters": [
   {
    "id": "cb8087c5f39",
@@ -1154,6 +1154,19 @@
      "id": "64ca4377590dad87",
      "published": "2026-11-01T09:02+00:00",
      "text": "- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Long accused of abetting crypto crimes, Binance has now become a victim AP News"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUNSTU9VSmpLOHdYajBxZ1hpTXJyOW0zSUNFQnlseE1seEFvSTBKTmNXR0dXek8yMGxyMHo3cFpBVW1lQ1BLV19wUjFqZVRwVlJ2OERUVzlzWWlHUC1iR0FoNXY0dWd6RUxXZ3BVOG1EOE1Fek41R2ZsQ2xXbWFDRWhEZWNPRndWdUtkeEN0cGRDTXBPcmtRUzB4LVdaVTdVNnJpVDNrNzJTRk5FYVFYMWtzVjRKXzRRQ1RGR01xTUxvWW4tTHfSAcsBQVVfeXFMTXNlR0FBQ2cwaTYyaU9uLUdhWjVPQnBnVGRta09veExETi12S3o4NV91cWtJbnRyQjdtajFMcVRtMHBoYjhwMDN3MEhiYzNXVk1oU2o0YUwwTGNMRExwX3dOQldha191YjJuLXVMOGdaYkxOZ3AxX1U3cmVfUV9tVHBIeHVReW5RTW95TG9yWU0yUHBPQ1QwZDlENU1SZFhfMURpRkZndXpYWERaYzROc1JJbG9HejFyZDRkQnRsYWFPWlVVWFZ0dE1IVkE?oc=5",
+     "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "8d1a5684115f2809",
+     "published": "2026-11-01T16:20+00:00",
+     "text": "- FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history PBS\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance Restarts Withdrawals After Record Hack Bloomberg\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist Reuters"
     }
    ]
   },
@@ -1230,70 +1243,63 @@
    ]
   },
   {
-   "id": "c7e7e382587",
+   "id": "cd15b79a959",
    "kind": "news",
-   "score": 19.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "US warns Russia of 'mass-casualty event' threat at historic palace outside Moscow",
-   "official_image": null,
+   "score": 19.5,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Antonelli ‘feeling more tense than usual’ in Mexico City",
+   "official_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp",
    "sources": [
     {
-     "source": "Kyiv Independent",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFRFdlJNRDg5VVl4WGdwcGp4RGdJRG50OGhGY1BTdXVVSWt4LVF2d2xTb0c5RXBGelMxUHAwTHpaZ2djUlF5WTYxS3BxYTh5ZGxoZmZaajh3aTVTZWV3OTVTM0VHWXBJQ2ZFcnh0T0YxWkpzUktzV2NNclRrZG9ZS2xnbm1WcDl1MXFxdEgyYlBKdzN5cUtGRy1zZjdILUd3a0M1NW9yYkNQcUIy?oc=5",
-     "title": "US warns Russia of 'mass-casualty event' threat at historic palace outside Moscow",
-     "lang": "en",
-     "extra": {},
-     "id": "7e7e382587411e9e",
-     "published": "2026-10-31T15:58+00:00",
-     "text": "US warns Russia of 'mass-casualty event' threat at historic palace outside Moscow\nThe Kyiv Independent"
-    },
-    {
-     "source": "Kyiv Independent",
-     "trust": 2,
-     "url": "https://kyivindependent.com/us-warns-russia-of-mass-casualty-event-threat-at-historic-palace-outside-moscow",
-     "title": "US warns Russia of 'mass-casualty event' threat at historic palace outside Moscow",
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/i-didnt-do-a-good-enough-job-antonelli-admits-feeling-more-tense-than-usual-in-mexico-city-qualifying.2DHPy7wRU0Qymi79OMvZyy",
+     "title": "Antonelli ‘feeling more tense than usual’ in Mexico City",
      "lang": "en",
      "extra": {
-      "page_image": "https://assets.kyivindependent.com/content/images/2026/10/Tsaritsino_from_helicopter-1_20261031-154640_20261031-155820.jpg"
+      "page_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp"
      },
-     "id": "f46e21ef3b559189",
-     "published": "2026-10-31T15:58+00:00",
-     "text": "The U.S. Embassy has warned of a threat of \"of a mass casualty event\" at Tsaritsyno Museum Reserve in the outskirts of Moscow on Oct. 31.\nThe Embassy said it considered the information about the potential incident \"a credible threat\" and was coordinating with Russian authorities.\nRussia's Federal Security Service (FSB) confirmed receiving a U.S. warning about a planned \"terrorist attack\" in Moscow, adding that \"relevant work is underway,\" Kremlin-controlled news agency TASS reported on Oct. 31.\nTsaritsyno is a historic palace and park complex in southern Moscow, built on the orders of the Catherine the Great in the 18th century.\nThe U.S. Embassy advised people to stay away from the museum and the specified area on Oct. 31 and avoid crowds.\nRussia has experienced several major terrorist attacks, with the 2024 shooting at Crocus City Hall, the deadliest in the country in recent years, which killed more than 140 people and injured hundreds.\nA faction of the Islamic State group claimed responsibility, saying that gunmen opened fire on concertgoers before setting the building on fire.\nDespite this, Russian officials, including President Vladimir Putin, have repeatedly alleged — without providing evidence — that Ukraine played a role. Kyiv has strongly denied any involvement."
+     "id": "e11a39483d48ebc2",
+     "published": "2026-11-01T01:17+00:00",
+     "text": "‘I didn’t do a good enough job’ – Antonelli admits feeling ‘more tense than usual’ in Mexico City Qualifying\nOn what could potentially be a historic weekend for Kimi Antonelli, the Mercedes driver will line up in P4 for the Mexico City Grand Prix.\nKimi Antonelli has conceded that feeling “more tense than usual” at the Mexico City Grand Prix – a weekend in which he could potentially seal his maiden World Championship – played a factor in his Qualifying performance, with the Italian not satisfied by his outing en route to P4.\nWhile the other Mercedes of George Russell looked to be in the fight for pole position – the Briton ultimately ending the session in P2 behind Lewis Hamilton – Antonelli had to settle for fifth place, which will subsequently become fourth on the grid due to a one-place penalty for Max Verstappen ahead.\nTwenty-four hours ahead of what might be a momentous day for the youngster – with a P9 finish being enough to secure the title – Antonelli admitted when reflecting back on the session that it had not been the most straightforward outing amid low-grip conditions.\n“It was tricky for everyone, I think,” the championship leader explained. “I just feel like I didn't do a good enough job out there and didn't have the most confidence. Definitely I've been a bit more tense this weekend than usual, but yeah, still a lot to play for tomorrow.”\nPushed on what his mindset is entering into Sunday’s race, Antonelli acknowledged that approaching it as normal has been a challenge.\n“I mean, it hasn't been easy this weekend, to be fair,” the 20-year-old said. “It hasn't been easy, especially to keep my emotions flat, and definitely I've been a bit more tense than usual so also that played a big factor.\n“But I'll try to enjoy the evening with family and friends and then focus onto tomorrow.”\nShould Antonelli clinch the crown, the driver from Italy will become the sport’s youngest-ever World Champion.\nNext Up"
     },
     {
-     "source": "The Independent",
+     "source": "Sky Sports Football",
      "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDZYbjIyU3NQT3J3cHM1Y0Ewcm9xRHRpQ3dkVDF3UnRSeTZZVkI5NzJINTlVaExKeUQ3cmo3U3VuNm1XdjBwLXVfeDQ0eW1nYkFUUGhKbDFaYkJScm9MYW5taG02ZWc5NlptM0RvRkN6QzNLaE1uV3VlejYtdncxUUp4aHZKcUxaMGhBeTVqd28xLVRXWVlMNGQ2SUpyLTM1R2JzcXFqeTlxUTlHTVE?oc=5",
-     "title": "US warns Russia about ‘mass casualty event’ plot to attack Moscow",
+     "url": "https://skysports.com/f1/news/12040/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
+     "title": "Antonelli feeling 'tense' amid effort to seal F1 title",
      "lang": "en",
-     "extra": {},
-     "id": "65add60e3d6c520b",
-     "published": "2026-11-01T11:21+00:00",
-     "text": "US warns Russia about ‘mass casualty event’ plot to attack Moscow\nThe Independent"
+     "extra": {
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-f1-kimi-antonelli_7393584.jpg?20261101003807"
+     },
+     "id": "d15b79a9597969c0",
+     "published": "2026-11-01T00:45+00:00",
+     "text": "Kimi Antonelli: Mercedes driver admits to feeling 'tense' amid effort to seal F1 title at Mexico City Grand Prix\nKimi Antonelli needs top-nine finish to become world champion at Mexico City Grand Prix; he only qualified fifth and was off the pace compared to Mercedes team-mate George Russell; watch Sunday's race at 8pm (build-up from 6.30pm), live on Sky Sports F1\nSunday 1 November 2026 00:48, UK\nKimi Antonelli has admitted to feeling \"more tense than usual\" ahead of attempting to seal the Formula 1 world championship at Sunday's Mexico City Grand Prix.\nThe 20-year-old only needs to finish ninth in the race to become the sport's youngest world champion.\nAntonelli qualified fifth on Saturday but will start from fourth on the grid due to a penalty for Max Verstappen.\n- How Kimi Antonelli can win world title in Mexico on Sunday\n- Mexico City GP schedule | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts\n- Latest Sky Sports deals or stream F1 with no contract\nSpeaking after the session, the Italian revealed that he is not feeling his best as he continues to recover from an illness that caused him to miss his media duties on Thursday.\nHe told Sky Sports F1: \"It has not been the easiest weekend to be fair.\n\"Definitely still not feeling 100 per cent. There is talk of what could happen [with the championship] and definitely I'm a bit more tense than usual.\n\"Definitely I don't feel as relaxed but I try to have a good sleep tonight and focus on tomorrow.\"\nDespite his condition, Antonelli was still able to produce a decent final lap in qualifying as he finished within two tenths of pole-sitter Lewis Hamilton.\nHowever, the fact that his team-mate George Russell was only marginally behind Hamilton in second perhaps reflected the Italian not being able to summon his best level.\nAntonelli added: \"I struggled to get a good feeling from the tyres in Q3. I just didn't have the most confidence. I was a bit tense, I am not going to lie.\n\"It was a poor lap, many mistakes here and there. Overall, still P4 and a lot to play for tomorrow.\"\n'It's insane!' - Norris happy to pass No 1 onto Antonelli\nLando Norris says he is \"more than happy\" to pass the number one he has had on his McLaren this year to Antonelli when the Mercedes driver replaces him as world champion.\nAntonelli has massively exceeded expectations during just his second season in F1 to comprehensively outperform Russell, who began the year as the clear title favourite.\n\"He's done an incredible job and done it in a pretty incredible way,\" Norris said ahead of the race weekend in Mexico.\n\"People are saying he hasn't had any tough competition this year. That proves the point that he's done such an incredible job.\n\"He's got a very, very talented team-mate that he's beaten through the whole season.\n\"I have nothing but respect for Kimi. He's a very nice guy. We get along very well and I'm more than happy to pass the No 1 over to him.\n\"He deserves it. He's done an incredible job, especially in his second year in Formula 1. Youngest world champion, it's pretty insane.\n\"I enjoy other people having that kind of success. It's nice to see.\"\nSunday November 1\n6.30pm: Grand Prix Sunday: Mexico City GP build-up\n8pm: THE MEXICO CITY GRAND PRIX*\n10pm: Chequered Flag: Mexico City GP reaction\n11pm: Ted's Notebook\n*also on Sky Sports Main Event\nFormula 1 is in Mexico City where Kimi Antonelli could win the Drivers' Championship in Sunday's race at 8pm (build-up from 6.30pm), "
     },
     {
-     "source": "Euronews",
+     "source": "Gulf News Tech",
      "trust": 2,
-     "url": "https://euronews.com/2026/11/01/russia-arrests-minor-after-us-embassy-warns-of-credible-threat-of-a-mass-casualty-event",
-     "title": "Russia arrests minor after US embassy warns of 'credible threat of a mass casualty event'",
+     "url": "https://gulfnews.com/sport/everything-record-and-milestone-antonelli-could-achieve-with-f1-title-win-in-mexico-1.500731616",
+     "title": "Everything record and milestone Antonelli could achieve with F1 title win in Mexico",
      "lang": "en",
-     "extra": {},
-     "id": "f73e88b6e7fbb8ba",
-     "published": "2026-11-01T15:39+00:00",
-     "text": "Russian state media published a statement from the Federal Security Service (FSB) on Sunday announcing that a minor had been detained in relation to the threat."
+     "extra": {
+      "page_image": "https://media.assettype.com/gulfnews%2Fimport%2F2024%2F08%2F31%2FAndrea-Kimi-Antonelli_191a7a298f7_large.jpg?rect=0%2C103%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+     },
+     "id": "b7d3296b698177da",
+     "published": "2026-11-01T10:07+00:00",
+     "text": "The Italian needs just a P9 finish in Mexico to make F1 history and break several records\nDubai: Kimi Antonelli needs just a ninth-place finish at Sunday's Mexico City Grand Prix to become the youngest Formula One world champion in history.\nThe 20-year-old Mercedes driver starts fourth at the Autodromo Hermanos Rodriguez and has the opportunity to secure his maiden world title with four races remaining in the 2026 season.\nAntonelli could even be crowned champion without finishing inside the points, provided neither Mercedes teammate George Russell nor Ferrari's Lewis Hamilton wins the race.\nShould the Italian complete the job in Mexico, he will achieve several historic milestones in only his second Formula One campaign.\nAt just 20 years and 68 days old, Antonelli would become the youngest world champion the sport has ever seen, breaking Sebastian Vettel's record.\nThe German was 23 years and 134 days old when he secured his first championship with Red Bull in 2010.\nAntonelli would become the first Italian driver to win the Formula One world championship since Alberto Ascari in 1953.\nHe would also join an exclusive group of Italian champions alongside Ascari, who won titles in 1952 and 1953, and Giuseppe Farina, who claimed the inaugural championship in 1950.\nBorn on August 25, 2006, Antonelli would become the first Formula One world champion born in the 21st century.\nHis achievement would underline the arrival of a new generation of drivers at the very top of motorsport.\nPrevious Italian world champions Farina and Ascari secured their titles driving for Alfa Romeo and Ferrari respectively.\nAntonelli would become the first Italian to claim the championship representing a team outside his home country, with Mercedes.\nA title for Antonelli would deliver Mercedes its first drivers' championship since Lewis Hamilton's triumph in 2020.\nIt would also represent a remarkable achievement for the youngster who replaced the seven-time world champion at the team.\nAntonelli would join an elite group of drivers, including Lewis Hamilton and Jacques Villeneuve, to win the world championship in their second Formula One season.\nHaving already become the sport's youngest pole-sitter and youngest championship leader during 2026, the Italian now stands on the verge of his biggest achievement yet.\nA successful afternoon in Mexico would see Antonelli enter the history books and establish himself as one of Formula One's brightest stars."
     },
     {
-     "source": "Anadolu",
+     "source": "Gulf News Tech",
      "trust": 2,
-     "url": "https://aa.com.tr/en/eurasia/russia-arrests-minor-after-us-embassy-warns-of-credible-threat-of-a-mass-casualty-event-in-moscow/4108164",
-     "title": "Russia arrests minor after US Embassy warns of ‘credible threat of a mass casualty event’ in Moscow",
+     "url": "https://gulfnews.com/sport/antonelli-on-brink-of-history-at-mexico-city-gp-needing-only-ninth-place-finish-to-seal-f1-title-1.500731979",
+     "title": "Antonelli on brink of history at Mexico City GP, needing only ninth-place finish to seal F1 title",
      "lang": "en",
      "extra": {},
-     "id": "4391a0563143342f",
-     "published": "2026-11-01T17:06+00:00",
-     "text": "Russia’s Federal Security Service says detainee posted TikTok videos showing object resembling weapon at Moscow museum-reserve"
+     "id": "67d26da3d53ffb0f",
+     "published": "2026-11-01T22:27+00:00",
+     "text": "Antonelli on brink of history at Mexico City GP, needing only ninth-place finish to seal F1 title"
     }
    ]
   },
@@ -1455,85 +1461,72 @@
    ]
   },
   {
-   "id": "cfd04b66f83",
+   "id": "c9a863fd677",
    "kind": "news",
-   "score": 19.0,
-   "sensitive": true,
+   "score": 18.5,
+   "sensitive": false,
    "distinct_sites": 4,
-   "title_hint": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
+   "title_hint": "Antonelli crowned champion in Mexico as Verstappen wins race",
    "official_image": null,
    "sources": [
     {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
-     "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH",
+     "title": "Antonelli crowned champion in Mexico as Verstappen wins race",
      "lang": "en",
      "extra": {},
-     "id": "fd04b66f83a2c86b",
-     "published": "2026-11-01T06:20+00:00",
-     "text": ""
+     "id": "597f79ec057eac9f",
+     "published": "2026-11-01T23:08+00:00",
+     "text": "Kimi Antonelli became the youngest Formula 1 World Champion as third place in the Mexico City Grand Prix was enough for the Mercedes driver to claim the 2026 crown, with Max Verstappen taking race victory from Lewis Hamilton."
     },
     {
-     "source": "Yahoo Finance",
+     "source": "The Athletic Football",
      "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzl1TE9YTS1nMnBUenZ5X185WjBkMG1fZm9JSEJXM1lDV2hDTHI3bWFLS1hxaEo1ZHA5ZXNiYVQ0d2E5cTMzWmZQRkYzVDItTml5cTlwd0lzcG5ZZG5pcW9iTUZHajdLc2JLTjNJRUhNc3c3ZlZCTEowUFVZN1JPYWNRV3lDOGNEOWhWUkY0bFdlcDZQd1FGRy0xa3FYY3BiTUNtUWJoSQ?oc=5",
-     "title": "Binance says resuming withdrawals after major hack",
+     "url": "https://nytimes.com/athletic/7745045/2026/11/01/mexico-city-grand-prix-briefing",
+     "title": "Mexican Grand Prix briefing: Antonelli seals title with third place, Verstappen wins",
      "lang": "en",
      "extra": {},
-     "id": "e884367c1056111d",
-     "published": "2026-11-01T06:58+00:00",
-     "text": "Binance says resuming withdrawals after major hack\nYahoo Finance"
+     "id": "9a863fd677f6cd34",
+     "published": "2026-11-01T22:32+00:00",
+     "text": "Kimi Antonelli (Mercedes) in action at the Autódromo Hermanos Rodríguez during the 2026 Mexico City Grand Prix as he races to seal the World Championship"
     },
     {
-     "source": "France 24 EN",
+     "source": "The Athletic Football",
      "trust": 2,
-     "url": "https://france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
-     "title": "Binance says resuming withdrawals after major hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s.france24.com/media/display/ac356662-d401-11f1-8552-d18c5759e759/w:1280/p:16x9/Part-GTY-1496426886-1-1-2.jpg"
-     },
-     "id": "adf803a13e4e4d99",
-     "published": "2026-11-01T07:01+00:00",
-     "text": "Binance says resuming withdrawals after major hack\nBinance said Sunday that it had resumed withdrawals after a major hack that affected more than $6 billion in funds.\nBinance, which is the world's largest crypto exchange by daily trading volumes, had suspended user withdrawals after the attack.\n\"First batch network now opened in phase one of withdrawals is $BTC bitcoin network,\" Binance said on X.\nThe company said in an earlier update that it was preparing to resume the first phase of withdrawals between 0600 and 0900 GMT on Sunday.\n\"We are taking a phased approach by prioritizing tokens based on the past week data of user demand, so that each network and asset pair can be restored carefully, with stability and security checks completed before access is reopened,\" it said.\nBinance said Saturday that it has set aside more than $6.34 billion in company funds to cover losses in the hack, which is thought to be the biggest-ever crypto heist.\n\"User funds remain safe. Binance will absorb the financial impact of the stolen funds, not our users,\" it said on X.\nThe FBI accused North Korea of being behind the attack on Saturday, confirming earlier suspicions from private investigators and analysts that a Pyongyang-affiliated group called TraderTraitor was behind the hack.\nThe hack is the latest in a string of high-profile cyber thefts linked to North Korea, which has built a formidable hacking operation, generating funds believed to help finance its weapons program.\nNews of the cyberattack caused the prices of most major cryptocurrencies to fall sharply on Friday.\n(FRANCE 24 with AFP)"
-    },
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+     "url": "https://nytimes.com/athletic/7745045/2026/11/01/mexican-grand-prix-briefing",
+     "title": "Mexican Grand Prix briefing: Antonelli seals F1 title with third place, Verstappen wins",
      "lang": "en",
      "extra": {},
-     "id": "6823fce0faaead9f",
-     "published": "2026-11-01T10:35+00:00",
-     "text": ""
+     "id": "9329f7b165b97bf0",
+     "published": "2026-11-01T22:32+00:00",
+     "text": "Kimi Antonelli sealed the 2026 F1 world title with third place in a wild Mexico City GP, won by Red Bull's Max Verstappen."
     },
     {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2YyTGwzbUNaa2oxcUJoeDZoTTZOaDB0MENBc3Ewa2JURFRCVG00cDVxbW1BczVGNzBaa2hUUHFQSXlGaFl3WjdTUUUzbDJCUnZvdW9nZmczZVllNHV1QldfYnZjYVN2SU5wOXJqRVI4ejRYZUMteG1yWnUtMVdXbERMREh0bDIyTE9wTllxaGFGMWstM29NM3EtOGM0N1dObHBUQzMyWHVpZkNoSzlz?oc=5",
-     "title": "Binance to Resume Customer Withdrawals in Phases After Hack",
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/formula1/articles/cv62y1e6wly6o?at_medium=RSS&at_campaign=rss",
+     "title": "Antonelli becomes world champion as Verstappen wins in Mexico",
      "lang": "en",
      "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
      },
-     "id": "dab83e80ea2ec1ae",
-     "published": "2026-11-01T10:28+00:00",
-     "text": "Binance to Resume Customer Withdrawals in Phases After Hack\nBloomberg.com\nSee more headlines & perspectives on Google News"
+     "id": "32bf4588287855e9",
+     "published": "2026-11-01T22:33+00:00",
+     "text": "- Published\nKimi Antonelli clinched his first world title and became the youngest champion in Formula 1 history by finishing third at the Mexico City Grand Prix.\nAntonelli finished behind Red Bull's Max Verstappen and Ferrari's Lewis Hamilton, on a day when tensions at the Italian team between the seven-time champion and team-mate Charles Leclerc came close to boiling over.\nAntonelli drove a composed race amid some hectic action involving the other front-runners in a grand prix interrupted by a red flag that led to a 25-lap sprint to the finish.\nThe Italian spent the closing laps watching Hamilton try to get close enough to pass Verstappen after the two had made contact at the first chicane at the restart.\nBut Hamilton found it impossible to get his Ferrari close enough to Verstappen to try to pass and ended the day frustrated and feeling a win had slipped through his fingers as a consequence of Leclerc's aggression on the first lap.\nThat was a secondary story on the day Antonelli made history, smashing Sebastian Vettel's previous record for being youngest champion by three years and 67 days at 20 years and 67 days old.\nAntonelli had tears mixed with laughter over the radio on the slowing down lap as he proved initially incapable of talking when his team told him he was world champion.\nAfter he half-composed himself, he said: \"Thank you so much. We did it. We did it.\"\nThe key stories of the race were:\nAntonelli delivering the title with several races to go in a season he has taken by storm\nTension at Ferrari after Leclerc's successful attempts to grab the lead on the first lap led to controversy and unhappiness at the team\nVerstappen benefitting from the internal battle to take his third win in four races.\nAntonelli keeps calm during late chaos\nAntonelli went into the race knowing that effectively he only had to stay out of trouble to ensure he secured the title.\nThe only way he could not do so was if Russell or Hamilton won the race. Even then, he needed only to finish ninth if it was his team-mate or 10th if it was Hamilton.\nAntonelli ran a steady fourth in the first stint, behind Leclerc, Verstappen and Hamilton, moving into the lead as others made their pit stops in front of him, and then pitted for fresh tyres just a lap before the safety car which was why Mercedes had elongated his final stint.\nA lap later, Valtteri Bottas' Cadillac crashed on lap 45 when its front suspension failed under braking for Turn One, leading initially to a safety car and then the race being stopped when it became clear how long it was going to take to repair the barriers.\nAt the restart, Leclerc locked his left front wheel heavily as Verstappen and Hamilton battled for the lead in front of him, and Antonelli passed him at the start of the next lap.\nThere was another safety car with 12 laps to go when Arvid Lindblad crashed his Racing Bulls after a collision with McLaren's Oscar Piastri.\nWhen the race restarted with seven laps to go, Antonelli ran at the back of a three-car train with Verstappen and Hamilton, none of the three able to make any moves.\nThey crossed the line nose to tail, less than two seconds covering all three cars.\nMore to follow."
     },
     {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lWHJoMDVuMklnaGFNNUhaa0lYX2pSTHVCVS00ZUZxUlNjSFRYWjdTOWtFYzB6NzFsTm1KbXBrN1A0b0o5WUU5NmpJenpuLTNiV0pPek50LWxJajF3Q2V6aU5nbWU0MlF2YTA1VGFjOVZHT0pVRTlWcjE3SVo?oc=5",
-     "title": "Binance withdrawals resume following $6 billion hack",
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/f1/news/12040/13606682/kimi-antonelli-crowned-2026-f1-world-champion-as-max-verstappen-wins-wild-mexico-city-grand-prix-from-lewis-hamilton",
+     "title": "Antonelli crowned world champion as Verstappen wins wild Mexico City GP",
      "lang": "en",
      "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-kimi-antonelli-lewis-hamilton_7394338.jpg?20261101225348"
      },
-     "id": "789581ca127e7eca",
-     "published": "2026-11-01T17:09+00:00",
-     "text": "- Binance withdrawals resume following $6 billion hack CNN\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- A simple explainer of the massive $6.3 billion crypto heist at Binance NPR\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
+     "id": "dc1de3ece5d1b510",
+     "published": "2026-11-01T22:36+00:00",
+     "text": "Kimi Antonelli crowned 2026 F1 world champion as Max Verstappen wins wild Mexico City Grand Prix from Lewis Hamilton\nKimi Antonelli has won the 2026 F1 Drivers' Championship at 20 years and 68 days old, breaking Sebastian Vettel's record for youngest world champion by three years; Max Verstappen won a wild Mexico City Grand Prix from Lewis Hamilton amid drama between the Ferrari drivers\nSunday 1 November 2026 22:55, UK\nKimi Antonelli became the youngest Formula 1 world champion in history as Max Verstappen held off Lewis Hamilton to win a thrilling Mexico City Grand Prix.\nAntonelli finished third to secure the F1 Drivers' Championship with four rounds to spare, becoming the first Italian world champion since Alberto Ascari in 1953.\nThe 20-year-old avoided all the chaos in one of the most action-packed races of the season and was hugely emotional after the chequered flag.\n- Mexico City GP race result | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts📱\n- Not got Sky? Latest Sky Sports deals or stream F1 with no contract 📺\n\"We did it, we did it. I wouldn't be here without Mercedes, without my family, so I'm very grateful for this moment and it's one that will live forever,\" said Antonelli.\n\"I'm speechless. I'm trying to process what has just happened.\"\nMeanwhile, Verstappen took advantage of a big fight between the Ferraris of Hamilton and Charles Leclerc on the opening lap to claim his third win in four races.\nPole-sitter Hamilton went side by side with Leclerc through the tight Turns 1 and 2 before Leclerc attacked again into Turn 4 around the outside.\nBoth drivers went off the track but Leclerc went across the grass to take the lead, allowing Verstappen to capitalise by overtaking Hamilton.\nLeclerc was handed a five-second time penalty but a furious Hamilton said \"the stewards are basically handling Charles this win\" on the radio.\nVerstappen crucially stayed within five seconds of Leclerc before the only round of pit stops to take the lead as they pitted together, but appeared to have an inferior car compared to the Ferraris, and was on aging soft tyres.\nHowever, the race was stopped when Cadillac's Valtteri Bottas suffered a huge crash into the barriers as his suspension failed, leaving a standing-start restart with everyone on fresh tyres with 26 laps remaining.\nLeclerc got a poor launch from second so Hamilton attacked Verstappen into Turn 1, with the pair making contact as the Red Bull driver came out on top in the exchange.\nEven with a Safety Car for Racing Bulls' Arvid Lindblad crashing after tangling with McLaren's Oscar Piastri, Verstappen did just enough to keep Hamilton at bay with Antonelli, fittingly, just behind the two F1 legends in third.\nLeclerc battled his way to fourth with flat-spotted front tyres from a lock up on the restart, while McLaren's Lando Norris finished fifth and Mercedes' George Russell sixth.\nRussell had earlier served a 10-second time penalty for colliding with Red Bull's Isack Hadjar on the opening lap, which dropped him out of the podium fight.\nPiastri was seventh ahead of Alpine's Franco Colapinto, Racing Bulls' Liam Lawson and the other Alpine of Pierre Gasly.\nBritain's Oliver Bearman was in contention for points until Audi's Nico Hulkenberg ran into the back of him on the restart while his Haas team-mate and F1 debutant Ryo Hirakawa, who replaced Esteban Ocon from Saturday, was 13th.\nMore to follow...\nFormula 1 next heads to Brazil for the final leg of the"
     }
    ]
   },
@@ -1580,6 +1573,74 @@
      "id": "9c5905ac74d8c89d",
      "published": "2026-11-01T14:35+00:00",
      "text": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Friday.\nThe satellite launched on 1 October for Project Suncatcher, Google’s research effort to run AI computing in space. Google called the haiku the first AI response from a data centre class TPU, its own AI chip, in orbit.\n“Blue marble below / Data streams in silent grace / Starlight feeds my core.” Gemma 4, on the Suncatcher satellite, as published by Google\nGoogle sent the prompt during a pass over a ground station. The poem came back as the satellite flew over Svalbard, Norway. The team then tried space-themed limericks and prompts asking the satellite to report on its own systems. The prompt asked for a haiku written as a TPU orbiting Earth, Thomas Claburn reported for The Register.\nWhat the satellite carries\nThe satellite holds four TPUs and generates up to 1 kilowatt of power, Tim Fernholz reported for TechCrunch. Because of that power limit, it can run only one TPU at a time, for about 20 minutes. Testing its systems took about three weeks, and a Google spokesperson told TechCrunch the satellite was working normally.\nOmar Sanseviero, who works on Gemma at Google DeepMind, wrote on X that the model ran on stored solar energy.\nThe next tests\nGoogle will now test how the TPUs cope with heat and radiation in orbit. Radiation can flip bits in a chip’s memory and corrupt data without warning. Google’s tests on the ground suggested this matters less for running models than for training them, according to TechCrunch.\nIf the chips hold up, Google plans to launch two linked satellites in 2027. They will make more power and test laser links between satellites, TechCrunch reported.\nGoogle announced the launch in September. Startups also plan data centres in orbit, and Starcloud raised $250M in August. SpaceX has told investors its own orbital data centres may never work. Google’s plans also depend on SpaceX making its Starship rocket fully reusable, TechCrunch reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
+    }
+   ]
+  },
+  {
+   "id": "c7e7e382587",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "US warns Russia of 'mass-casualty event' threat at historic palace outside Moscow",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Kyiv Independent",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFRFdlJNRDg5VVl4WGdwcGp4RGdJRG50OGhGY1BTdXVVSWt4LVF2d2xTb0c5RXBGelMxUHAwTHpaZ2djUlF5WTYxS3BxYTh5ZGxoZmZaajh3aTVTZWV3OTVTM0VHWXBJQ2ZFcnh0T0YxWkpzUktzV2NNclRrZG9ZS2xnbm1WcDl1MXFxdEgyYlBKdzN5cUtGRy1zZjdILUd3a0M1NW9yYkNQcUIy?oc=5",
+     "title": "US warns Russia of 'mass-casualty event' threat at historic palace outside Moscow",
+     "lang": "en",
+     "extra": {},
+     "id": "7e7e382587411e9e",
+     "published": "2026-10-31T15:58+00:00",
+     "text": "US warns Russia of 'mass-casualty event' threat at historic palace outside Moscow\nThe Kyiv Independent"
+    },
+    {
+     "source": "Kyiv Independent",
+     "trust": 2,
+     "url": "https://kyivindependent.com/us-warns-russia-of-mass-casualty-event-threat-at-historic-palace-outside-moscow",
+     "title": "US warns Russia of 'mass-casualty event' threat at historic palace outside Moscow",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets.kyivindependent.com/content/images/2026/10/Tsaritsino_from_helicopter-1_20261031-154640_20261031-155820.jpg"
+     },
+     "id": "f46e21ef3b559189",
+     "published": "2026-10-31T15:58+00:00",
+     "text": "The U.S. Embassy has warned of a threat of \"of a mass casualty event\" at Tsaritsyno Museum Reserve in the outskirts of Moscow on Oct. 31.\nThe Embassy said it considered the information about the potential incident \"a credible threat\" and was coordinating with Russian authorities.\nRussia's Federal Security Service (FSB) confirmed receiving a U.S. warning about a planned \"terrorist attack\" in Moscow, adding that \"relevant work is underway,\" Kremlin-controlled news agency TASS reported on Oct. 31.\nTsaritsyno is a historic palace and park complex in southern Moscow, built on the orders of the Catherine the Great in the 18th century.\nThe U.S. Embassy advised people to stay away from the museum and the specified area on Oct. 31 and avoid crowds.\nRussia has experienced several major terrorist attacks, with the 2024 shooting at Crocus City Hall, the deadliest in the country in recent years, which killed more than 140 people and injured hundreds.\nA faction of the Islamic State group claimed responsibility, saying that gunmen opened fire on concertgoers before setting the building on fire.\nDespite this, Russian officials, including President Vladimir Putin, have repeatedly alleged — without providing evidence — that Ukraine played a role. Kyiv has strongly denied any involvement."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaDZYbjIyU3NQT3J3cHM1Y0Ewcm9xRHRpQ3dkVDF3UnRSeTZZVkI5NzJINTlVaExKeUQ3cmo3U3VuNm1XdjBwLXVfeDQ0eW1nYkFUUGhKbDFaYkJScm9MYW5taG02ZWc5NlptM0RvRkN6QzNLaE1uV3VlejYtdncxUUp4aHZKcUxaMGhBeTVqd28xLVRXWVlMNGQ2SUpyLTM1R2JzcXFqeTlxUTlHTVE?oc=5",
+     "title": "US warns Russia about ‘mass casualty event’ plot to attack Moscow",
+     "lang": "en",
+     "extra": {},
+     "id": "65add60e3d6c520b",
+     "published": "2026-11-01T11:21+00:00",
+     "text": "US warns Russia about ‘mass casualty event’ plot to attack Moscow\nThe Independent"
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/russia-arrests-minor-after-us-embassy-warns-of-credible-threat-of-a-mass-casualty-event",
+     "title": "Russia arrests minor after US embassy warns of 'credible threat of a mass casualty event'",
+     "lang": "en",
+     "extra": {},
+     "id": "f73e88b6e7fbb8ba",
+     "published": "2026-11-01T15:39+00:00",
+     "text": "Russian state media published a statement from the Federal Security Service (FSB) on Sunday announcing that a minor had been detained in relation to the threat."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/eurasia/russia-arrests-minor-after-us-embassy-warns-of-credible-threat-of-a-mass-casualty-event-in-moscow/4108164",
+     "title": "Russia arrests minor after US Embassy warns of ‘credible threat of a mass casualty event’ in Moscow",
+     "lang": "en",
+     "extra": {},
+     "id": "4391a0563143342f",
+     "published": "2026-11-01T17:06+00:00",
+     "text": "Russia’s Federal Security Service says detainee posted TikTok videos showing object resembling weapon at Moscow museum-reserve"
     }
    ]
   },
@@ -1676,6 +1737,89 @@
      "id": "9d891301ee206f8f",
      "published": "2026-11-01T15:58+00:00",
      "text": "- Box Office: ‘You Can See Everything’ and ‘Clayface’ Battle for No. 1 With $10.5 Million in Sleepy Halloween Weekend Variety\n- Box Office: 'You Can See Everything' & 'Clayface' In Staring Contest Deadline\n- Weekend Preview: YOU CAN SEE EVERYTHING Looking to Claim Top Spot Over Quiet Halloween Frame Boxoffice Pro\n- Connecting with “Clayface” DC Comics\n- It's Only Been 8 Days, but New 108-Minute Thriller is Already Dominating the Box Office in 3,400 Theaters MovieWeb"
+    }
+   ]
+  },
+  {
+   "id": "cfd04b66f83",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
+     "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
+     "lang": "en",
+     "extra": {},
+     "id": "fd04b66f83a2c86b",
+     "published": "2026-11-01T06:20+00:00",
+     "text": ""
+    },
+    {
+     "source": "Yahoo Finance",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzl1TE9YTS1nMnBUenZ5X185WjBkMG1fZm9JSEJXM1lDV2hDTHI3bWFLS1hxaEo1ZHA5ZXNiYVQ0d2E5cTMzWmZQRkYzVDItTml5cTlwd0lzcG5ZZG5pcW9iTUZHajdLc2JLTjNJRUhNc3c3ZlZCTEowUFVZN1JPYWNRV3lDOGNEOWhWUkY0bFdlcDZQd1FGRy0xa3FYY3BiTUNtUWJoSQ?oc=5",
+     "title": "Binance says resuming withdrawals after major hack",
+     "lang": "en",
+     "extra": {},
+     "id": "e884367c1056111d",
+     "published": "2026-11-01T06:58+00:00",
+     "text": "Binance says resuming withdrawals after major hack\nYahoo Finance"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
+     "title": "Binance says resuming withdrawals after major hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://s.france24.com/media/display/ac356662-d401-11f1-8552-d18c5759e759/w:1280/p:16x9/Part-GTY-1496426886-1-1-2.jpg"
+     },
+     "id": "adf803a13e4e4d99",
+     "published": "2026-11-01T07:01+00:00",
+     "text": "Binance says resuming withdrawals after major hack\nBinance said Sunday that it had resumed withdrawals after a major hack that affected more than $6 billion in funds.\nBinance, which is the world's largest crypto exchange by daily trading volumes, had suspended user withdrawals after the attack.\n\"First batch network now opened in phase one of withdrawals is $BTC bitcoin network,\" Binance said on X.\nThe company said in an earlier update that it was preparing to resume the first phase of withdrawals between 0600 and 0900 GMT on Sunday.\n\"We are taking a phased approach by prioritizing tokens based on the past week data of user demand, so that each network and asset pair can be restored carefully, with stability and security checks completed before access is reopened,\" it said.\nBinance said Saturday that it has set aside more than $6.34 billion in company funds to cover losses in the hack, which is thought to be the biggest-ever crypto heist.\n\"User funds remain safe. Binance will absorb the financial impact of the stolen funds, not our users,\" it said on X.\nThe FBI accused North Korea of being behind the attack on Saturday, confirming earlier suspicions from private investigators and analysts that a Pyongyang-affiliated group called TraderTraitor was behind the hack.\nThe hack is the latest in a string of high-profile cyber thefts linked to North Korea, which has built a formidable hacking operation, generating funds believed to help finance its weapons program.\nNews of the cyberattack caused the prices of most major cryptocurrencies to fall sharply on Friday.\n(FRANCE 24 with AFP)"
+    },
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+     "lang": "en",
+     "extra": {},
+     "id": "6823fce0faaead9f",
+     "published": "2026-11-01T10:35+00:00",
+     "text": ""
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2YyTGwzbUNaa2oxcUJoeDZoTTZOaDB0MENBc3Ewa2JURFRCVG00cDVxbW1BczVGNzBaa2hUUHFQSXlGaFl3WjdTUUUzbDJCUnZvdW9nZmczZVllNHV1QldfYnZjYVN2SU5wOXJqRVI4ejRYZUMteG1yWnUtMVdXbERMREh0bDIyTE9wTllxaGFGMWstM29NM3EtOGM0N1dObHBUQzMyWHVpZkNoSzlz?oc=5",
+     "title": "Binance to Resume Customer Withdrawals in Phases After Hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "dab83e80ea2ec1ae",
+     "published": "2026-11-01T10:28+00:00",
+     "text": "Binance to Resume Customer Withdrawals in Phases After Hack\nBloomberg.com\nSee more headlines & perspectives on Google News"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lWHJoMDVuMklnaGFNNUhaa0lYX2pSTHVCVS00ZUZxUlNjSFRYWjdTOWtFYzB6NzFsTm1KbXBrN1A0b0o5WUU5NmpJenpuLTNiV0pPek50LWxJajF3Q2V6aU5nbWU0MlF2YTA1VGFjOVZHT0pVRTlWcjE3SVo?oc=5",
+     "title": "Binance withdrawals resume following $6 billion hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "789581ca127e7eca",
+     "published": "2026-11-01T17:09+00:00",
+     "text": "- Binance withdrawals resume following $6 billion hack CNN\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- A simple explainer of the massive $6.3 billion crypto heist at Binance NPR\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
     }
    ]
   },
@@ -1794,56 +1938,6 @@
      "id": "d34c7c501b388d02",
      "published": "2026-11-01T21:20+00:00",
      "text": "Murphy's chief of staff, Allison Herwitt, said in a statement the 53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday."
-    }
-   ]
-  },
-  {
-   "id": "cd15b79a959",
-   "kind": "news",
-   "score": 17.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Antonelli ‘feeling more tense than usual’ in Mexico City",
-   "official_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp",
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/i-didnt-do-a-good-enough-job-antonelli-admits-feeling-more-tense-than-usual-in-mexico-city-qualifying.2DHPy7wRU0Qymi79OMvZyy",
-     "title": "Antonelli ‘feeling more tense than usual’ in Mexico City",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp"
-     },
-     "id": "e11a39483d48ebc2",
-     "published": "2026-11-01T01:17+00:00",
-     "text": "‘I didn’t do a good enough job’ – Antonelli admits feeling ‘more tense than usual’ in Mexico City Qualifying\nOn what could potentially be a historic weekend for Kimi Antonelli, the Mercedes driver will line up in P4 for the Mexico City Grand Prix.\nKimi Antonelli has conceded that feeling “more tense than usual” at the Mexico City Grand Prix – a weekend in which he could potentially seal his maiden World Championship – played a factor in his Qualifying performance, with the Italian not satisfied by his outing en route to P4.\nWhile the other Mercedes of George Russell looked to be in the fight for pole position – the Briton ultimately ending the session in P2 behind Lewis Hamilton – Antonelli had to settle for fifth place, which will subsequently become fourth on the grid due to a one-place penalty for Max Verstappen ahead.\nTwenty-four hours ahead of what might be a momentous day for the youngster – with a P9 finish being enough to secure the title – Antonelli admitted when reflecting back on the session that it had not been the most straightforward outing amid low-grip conditions.\n“It was tricky for everyone, I think,” the championship leader explained. “I just feel like I didn't do a good enough job out there and didn't have the most confidence. Definitely I've been a bit more tense this weekend than usual, but yeah, still a lot to play for tomorrow.”\nPushed on what his mindset is entering into Sunday’s race, Antonelli acknowledged that approaching it as normal has been a challenge.\n“I mean, it hasn't been easy this weekend, to be fair,” the 20-year-old said. “It hasn't been easy, especially to keep my emotions flat, and definitely I've been a bit more tense than usual so also that played a big factor.\n“But I'll try to enjoy the evening with family and friends and then focus onto tomorrow.”\nShould Antonelli clinch the crown, the driver from Italy will become the sport’s youngest-ever World Champion.\nNext Up"
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/f1/news/12040/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
-     "title": "Antonelli feeling 'tense' amid effort to seal F1 title",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-f1-kimi-antonelli_7393584.jpg?20261101003807"
-     },
-     "id": "d15b79a9597969c0",
-     "published": "2026-11-01T00:45+00:00",
-     "text": "Kimi Antonelli: Mercedes driver admits to feeling 'tense' amid effort to seal F1 title at Mexico City Grand Prix\nKimi Antonelli needs top-nine finish to become world champion at Mexico City Grand Prix; he only qualified fifth and was off the pace compared to Mercedes team-mate George Russell; watch Sunday's race at 8pm (build-up from 6.30pm), live on Sky Sports F1\nSunday 1 November 2026 00:48, UK\nKimi Antonelli has admitted to feeling \"more tense than usual\" ahead of attempting to seal the Formula 1 world championship at Sunday's Mexico City Grand Prix.\nThe 20-year-old only needs to finish ninth in the race to become the sport's youngest world champion.\nAntonelli qualified fifth on Saturday but will start from fourth on the grid due to a penalty for Max Verstappen.\n- How Kimi Antonelli can win world title in Mexico on Sunday\n- Mexico City GP schedule | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts\n- Latest Sky Sports deals or stream F1 with no contract\nSpeaking after the session, the Italian revealed that he is not feeling his best as he continues to recover from an illness that caused him to miss his media duties on Thursday.\nHe told Sky Sports F1: \"It has not been the easiest weekend to be fair.\n\"Definitely still not feeling 100 per cent. There is talk of what could happen [with the championship] and definitely I'm a bit more tense than usual.\n\"Definitely I don't feel as relaxed but I try to have a good sleep tonight and focus on tomorrow.\"\nDespite his condition, Antonelli was still able to produce a decent final lap in qualifying as he finished within two tenths of pole-sitter Lewis Hamilton.\nHowever, the fact that his team-mate George Russell was only marginally behind Hamilton in second perhaps reflected the Italian not being able to summon his best level.\nAntonelli added: \"I struggled to get a good feeling from the tyres in Q3. I just didn't have the most confidence. I was a bit tense, I am not going to lie.\n\"It was a poor lap, many mistakes here and there. Overall, still P4 and a lot to play for tomorrow.\"\n'It's insane!' - Norris happy to pass No 1 onto Antonelli\nLando Norris says he is \"more than happy\" to pass the number one he has had on his McLaren this year to Antonelli when the Mercedes driver replaces him as world champion.\nAntonelli has massively exceeded expectations during just his second season in F1 to comprehensively outperform Russell, who began the year as the clear title favourite.\n\"He's done an incredible job and done it in a pretty incredible way,\" Norris said ahead of the race weekend in Mexico.\n\"People are saying he hasn't had any tough competition this year. That proves the point that he's done such an incredible job.\n\"He's got a very, very talented team-mate that he's beaten through the whole season.\n\"I have nothing but respect for Kimi. He's a very nice guy. We get along very well and I'm more than happy to pass the No 1 over to him.\n\"He deserves it. He's done an incredible job, especially in his second year in Formula 1. Youngest world champion, it's pretty insane.\n\"I enjoy other people having that kind of success. It's nice to see.\"\nSunday November 1\n6.30pm: Grand Prix Sunday: Mexico City GP build-up\n8pm: THE MEXICO CITY GRAND PRIX*\n10pm: Chequered Flag: Mexico City GP reaction\n11pm: Ted's Notebook\n*also on Sky Sports Main Event\nFormula 1 is in Mexico City where Kimi Antonelli could win the Drivers' Championship in Sunday's race at 8pm (build-up from 6.30pm), "
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/sport/everything-record-and-milestone-antonelli-could-achieve-with-f1-title-win-in-mexico-1.500731616",
-     "title": "Everything record and milestone Antonelli could achieve with F1 title win in Mexico",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.assettype.com/gulfnews%2Fimport%2F2024%2F08%2F31%2FAndrea-Kimi-Antonelli_191a7a298f7_large.jpg?rect=0%2C103%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
-     },
-     "id": "b7d3296b698177da",
-     "published": "2026-11-01T10:07+00:00",
-     "text": "The Italian needs just a P9 finish in Mexico to make F1 history and break several records\nDubai: Kimi Antonelli needs just a ninth-place finish at Sunday's Mexico City Grand Prix to become the youngest Formula One world champion in history.\nThe 20-year-old Mercedes driver starts fourth at the Autodromo Hermanos Rodriguez and has the opportunity to secure his maiden world title with four races remaining in the 2026 season.\nAntonelli could even be crowned champion without finishing inside the points, provided neither Mercedes teammate George Russell nor Ferrari's Lewis Hamilton wins the race.\nShould the Italian complete the job in Mexico, he will achieve several historic milestones in only his second Formula One campaign.\nAt just 20 years and 68 days old, Antonelli would become the youngest world champion the sport has ever seen, breaking Sebastian Vettel's record.\nThe German was 23 years and 134 days old when he secured his first championship with Red Bull in 2010.\nAntonelli would become the first Italian driver to win the Formula One world championship since Alberto Ascari in 1953.\nHe would also join an exclusive group of Italian champions alongside Ascari, who won titles in 1952 and 1953, and Giuseppe Farina, who claimed the inaugural championship in 1950.\nBorn on August 25, 2006, Antonelli would become the first Formula One world champion born in the 21st century.\nHis achievement would underline the arrival of a new generation of drivers at the very top of motorsport.\nPrevious Italian world champions Farina and Ascari secured their titles driving for Alfa Romeo and Ferrari respectively.\nAntonelli would become the first Italian to claim the championship representing a team outside his home country, with Mercedes.\nA title for Antonelli would deliver Mercedes its first drivers' championship since Lewis Hamilton's triumph in 2020.\nIt would also represent a remarkable achievement for the youngster who replaced the seven-time world champion at the team.\nAntonelli would join an elite group of drivers, including Lewis Hamilton and Jacques Villeneuve, to win the world championship in their second Formula One season.\nHaving already become the sport's youngest pole-sitter and youngest championship leader during 2026, the Italian now stands on the verge of his biggest achievement yet.\nA successful afternoon in Mexico would see Antonelli enter the history books and establish himself as one of Formula One's brightest stars."
     }
    ]
   },
@@ -2067,78 +2161,6 @@
      "id": "3c0394014ae43601",
      "published": "2026-11-01T22:31+00:00",
      "text": "The FBI said that North Korea was responsible for stealing $6.3 billion from Binance last week in the largest-ever crypto heist, dealing a blow to the sector’s dream of becoming a mainstream asset.\nThe incident follows other notable crypto thefts linked to Pyongyang, which devotes state resources to cultivating hackers, many of whom are China-based, to fuel an economic renaissance: North Korea’s economy expanded 3.7% in 2024, the fastest rate in eight years, driving a construction boom that’s visible from space.\nAI threatens to supercharge North Korea’s cyber activities, an expert told the Financial Times: “AI has given hackers wings. The gates of hell have opened because North Korea has such a strong determination to carry out these attacks.”\n— Brendan Ruberry"
-    }
-   ]
-  },
-  {
-   "id": "c6f6e904bb0",
-   "kind": "news",
-   "score": 16.5,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Final Fantasy 14 Reveals Evercold Release Date and New Job",
-   "official_image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-14-reveals-evercold-release-date-and-new-job.jpg",
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/1450625/view/693150463100455303",
-     "title": "Final Fantasy 14 Reveals Evercold Release Date and New Job",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-14-reveals-evercold-release-date-and-new-job.jpg"
-     },
-     "id": "918eb9df0e3cb9cd",
-     "published": "2026-10-31T20:10+00:00",
-     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
-    },
-    {
-     "source": "Windows Central",
-     "trust": 2,
-     "url": "https://windowscentral.com/gaming/final-fantasy-xiv-evercold-gets-delayed-while-showing-off-more-trailers-and-info-yet-theres-no-gameplay-footage-of-the-one-feature-that-may-bring-me-back",
-     "title": "Final Fantasy XIV: Evercold is delayed, shows off a new player Job, and more",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/AFEwMGBcyXWmTKGotjHRcH-1920-80.jpg"
-     },
-     "id": "6f6e904bb0c16422",
-     "published": "2026-10-31T11:06+00:00",
-     "text": "Square Enix has concluded its Final Fantasy XIV FanFest Japan event with another Keynote preview of Final Fantasy XIV: Evercold, the latest expansion for Final Fantasy's most popular MMORPG.\nDuring it, it showed new gameplay info, trailers, and a new release date for the expansion. Instead of releasing in January 2027, Final Fantasy XIV: Evercold will now release on February 23, 2027, for PC, Xbox Series X|S, PlayStation 5, and Nintendo Switch 2.\nPre-orders for the expansion will go live on November 4, 2026, and anyone who pre-orders it will get early access to Final Fantasy XIV: Evercold on February 19, 2027.\nAnother major highlight from the Final Fantasy XIV FanFest Japan event is the reveal of a new player Job called Zephyr. This is a Ranged-DPS Class that peppers enemies from afar with a crossbow while calling forth a falcon companion to aid it in battle.\nOther announcements include:\n- A new teaser trailer for its upcoming 24-man Alliance Raid crossover with the Neon Genesis Evangelion anime franchise.\n- A new difficulty tier for 8-Man Raids called \"Fierce\", which is designed to be the middle ground between \"Normal\" and \"Savage\" difficulties.\n- New battle content called \"Gauntlet of Power\", which is a 4-player boss-rush dungeon.\n- A closer look at Final Fantasy XIV's cast of characters, new areas, and dungeons.\n- A preview of its branching narrative, which lets players tackle the Main Scenario Quests in different orders beyond a certain point in the story, with auto-scaling dungeons to accommodate it.\n- NA/EU tests for Same-Region Player Matching will begin on November 10, 2026, and China's tests will begin on December 1, 2026.\n- A preview of its Seasonal Gear/Raiding gear system, quality-of-life, and other miscellaneous features.\n- A Collector’s Bundle Edition containing an art box, a Reaper Figure, an Ethos metel keychain, Köttr mini plush, a tapestry of the Fourth, an in-game Valhallar Odin Mount, an in-game Entreat Crystal Emote, and an in-game Bastion Weapon: the Crystal Skyltborg.\nAll this sounds cool, but where's the \"Evolved\" combat mode?\nFinal Fantasy XIV got me quite interested in the game again with its awesome-looking Bastion Tank Job. However, Square Enix still hasn't shown us Evercold's new \"Evolved\" Mode, which is being hyped to breathe new life into the MMORPG's combat system by changing the abilities and rotations of all Player Jobs.\nIn my opinion, this will be the ultimate deciding factor if I decide to play Final Fantasy XIV, because after playing World of Warcraft's much faster and more chaotic combat system, Final Fantasy XIV's combat feels slow and sluggish by comparison.\nHere's hoping we get an actual deep dive of Final Fantasy XIV: Evercold's \"Evolved\" Mode soon before it launches next February; otherwise, I'm afraid I'll be skipping this expansion because I'm going to get burned as I did with Final Fantasy XIV: Dawntrail.\nJoin us on Reddit at r/WindowsCentral to share your insights and discuss our latest news, reviews, and more.\nAlexander Cope is a gaming veteran with over 35 years of experience who primarily covers Xbox and PC gaming news and spotlights discounts on the best laptops, peripherals, and other electronics. He's also a diehard fan of JRPGs, action games, beat em’ ups, and Capcom’s Monster Hunter series\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
-    },
-    {
-     "source": "Eurogamer",
-     "trust": 2,
-     "url": "https://eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
-     "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-14.21.52.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-     },
-     "id": "6c864aeb807452e0",
-     "published": "2026-10-31T14:39+00:00",
-     "text": "Final Fantasy 14's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird.\nProducer and director Naoki Yoshida revealed the job during the opening keynote of the Final Fantasy 14 Fan Festival 2026 in Tokyo. Zephyr pairs crossbow shots with support from an avian familiar called Nephele, and joins Bastion, the greatshield-wielding tank revealed as Evercold's first new job at Fan Festival Berlin earlier this year.\nPre-orders for Evercold and the previously announced Collector's Box open on Wednesday 4th November at 9am GMT. Anyone who pre-orders gets early access, plus a Wind-Up Köttr minion and Halone's Earring, which boosts EXP from defeating enemies by 30 percent. The in-game items are delivered as soon as you pre-order, so you can use the earring to level jobs before Evercold arrives.\nThe Collector's Box is physical goods only. It doesn't include the game, in-game items or pre-order bonuses. Inside you'll find an art box featuring an Evercold illustration by Yoshitaka Amano, a figure of the Warrior of Light as a reaper, an Ethos metal keychain, a Köttr mini plush, and a Tapestry of the Fourth.\nThe Square Enix Store is also selling a limited Collector's Bundle that pairs the box with a code for the Digital Collector's Edition on Windows or Mac. Players on PS5, PS4, Xbox Series X/S, Switch 2, and Steam can buy the box on its own and pre-order the Digital Collector's Edition separately. The digital edition adds a Valhallar Odin mount, an Entreat Crystal emote, and a Crystal Skyltborg weapon for Bastion.\nSquare Enix also used the keynote to reveal a new Fierce raid difficulty, sitting between Normal and Savage; a new trailer for the Evangelion: Ghosts of Desire alliance raid crossover, plus tougher eight-player battles built around some of its bosses; and new Tetsuya Nomura artwork for Beyond the Lifestream, a raid series crossover with the Final Fantasy 7 Remake series.\nWe can also expect Evolved Combat Mode, which Square Enix says highlights each job's unique identity; Seasons, a new system that changes how item rewards are earned; and expanded character creation with new Character Action Skins. Expanded housing features, PvP updates, and a revamped companion chocobo system will follow from patch 8.1.\nFinal Fantasy 14 has passed 35 million registered accounts.\nYou can watch the full keynote on Twitch, and there's more on the official Evercold site.\nFinal Fantasy 14 is now available on Switch 2. The port was announced at the end of June."
-    },
-    {
-     "source": "PC Gamer",
-     "trust": 2,
-     "url": "https://pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week",
-     "title": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
-     "lang": "en",
-     "extra": {},
-     "id": "172ba6a7cd790d10",
-     "published": "2026-10-31T18:57+00:00",
-     "text": "Surely, one of these is the actual, no joke, FINAL fantasy?"
-    },
-    {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Release-date-of-Final-Fantasy-XIV-Evercold-pushed-back.1439025.0.html",
-     "title": "Release date of Final Fantasy XIV: Evercold pushed back",
-     "lang": "en",
-     "extra": {},
-     "id": "8815ab967a0df1cc",
-     "published": "2026-10-31T19:52+00:00",
-     "text": "Square Enix has delayed Final Fantasy XIV: Evercold from January to February, with early access beginning February 19 and pre-orders opening November 4. The publisher has also unveiled new footage of a new job, which joins the tank-focused Bastion in an expansion featuring new areas, raids and a higher level cap."
     }
    ]
   },
@@ -2454,6 +2476,19 @@
      "id": "47753301e2217d4c",
      "published": "2026-11-01T20:12+00:00",
      "text": ""
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENHI1LTZhR1pHYUFaTjhiQ1VyTy04ODc0dzdaYTk0QkFZdDRPa1RIZ0hoUy0xdzBBOUhMSGdjbFgzWDdyZmJXV0hSSVpZRVBlVDcxUmFVRjhZVVk?oc=5",
+     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "d994f6cd63fecf8b",
+     "published": "2026-11-01T21:01+00:00",
+     "text": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends\nBBC\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -2729,109 +2764,6 @@
      "id": "9e45d8d1a6eab9b1",
      "published": "2026-11-01T12:46+00:00",
      "text": "The UAE is hoping for a breakthrough in negotiations between Iran and the US while being prepared for the worst, a senior official said on Sunday, following threats of a resumption of the Middle East war.\n\"We're hoping that there is a diplomatic breakthrough,\" diplomatic adviser to the UAE president Anwar Gargash said during a conference in Manama.\n\"It is not the interest of the region to go through another round... But I think we're also, as we've shown before, braced for the worst.\"\nStay up to date with the latest news. Follow KT on WhatsApp channels.\nFollowing a visit to Tehran this week by a Qatari delegation, Iran has dispatched envoys to the Gulf country to continue consultations as part of indirect negotiations with the US to end the war.\nBut US President Donald Trump reiterated his threats on Saturday, saying the United States still has to \"take care of\" one or two targets in Iran.\n\"We just can't allow Iran to take this region and the global economy hostage,\" US Assistant Secretary for Near Eastern Affairs Donald Blome said at the Manama conference on Sunday.\n\"The hand of negotiation has been extended, and those channels have continued to be open and active at the same time,\" Blome said. \"We've been also prepared to go in another direction.\"\nOn Saturday, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the US would be open to a diplomatic solution.\nThe war began on February 28 with joint US-Israeli strikes on Iran, which retaliated by targeting, among others, Gulf countries allied with Washington."
-    }
-   ]
-  },
-  {
-   "id": "c0a0bf963d6",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": true,
-   "distinct_sites": 6,
-   "title_hint": "British university scientist died in Spain train crash",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Sky News World",
-     "trust": 2,
-     "url": "https://news.sky.com/story/british-university-scientist-died-in-spain-train-crash-13606613",
-     "title": "British university scientist died in Spain train crash",
-     "lang": "en",
-     "extra": {},
-     "id": "0a0bf963d6e702bf",
-     "published": "2026-11-01T12:28+00:00",
-     "text": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
-    },
-    {
-     "source": "Sky News World",
-     "trust": 2,
-     "url": "https://news.sky.com/story/university-of-cambridge-scientist-died-in-spain-train-crash-13606613",
-     "title": "University of Cambridge scientist died in Spain train crash",
-     "lang": "en",
-     "extra": {},
-     "id": "1876f7ebed9c7f59",
-     "published": "2026-11-01T12:28+00:00",
-     "text": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/bulletin/news/marta-shahbazi-death-spanish-train-crash-b3077079.html",
-     "title": "Cambridge scientist killed in Spanish train crash was on way to collect prize",
-     "lang": "en",
-     "extra": {},
-     "id": "4ada2ff4eef16812",
-     "published": "2026-11-01T12:28+00:00",
-     "text": ""
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa055QzlWLWdweXRTUDk4NU1oRlM4aU9xdmszYjI5RGhTWnBYUzRKNkFzWFpXdHZVY0lRMkU1MHZOc1NPYm5fY3BfSTEzUEE4MU1rRkpRdkxIUkNjYVNEcnpPUTFzcHRud2kyS1E5Wl9WN1hsSm1VN1hDVXp5R2YyQnI5Uk5Tbk9ROFRIczdrQTJ2MUI5VnY4WUptMWk5WjlDN2tFMw?oc=5",
-     "title": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award",
-     "lang": "en",
-     "extra": {},
-     "id": "9bd8af7ff4c50074",
-     "published": "2026-11-01T12:35+00:00",
-     "text": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award\nThe Independent"
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/news/world/europe/marta-shahbazi-spain-train-crash-victims-b3077068.html",
-     "title": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award",
-     "lang": "en",
-     "extra": {},
-     "id": "581fef2dae2fb8db",
-     "published": "2026-11-01T12:35+00:00",
-     "text": "University of Cambridge researcher Dr Marta Shahbazi was on board when two high-speed trains collided near Toledo"
-    },
-    {
-     "source": "Guardian Science",
-     "trust": 2,
-     "url": "https://theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
-     "title": "Tributes paid to ‘inspiring’ University of Cambridge scientist who died in Spanish train crash",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.guim.co.uk/img/media/768c4ba470e9915362b2e359b2c39b525b2af3bc/80_167_1665_1332/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=669e492306e677fc1d3cc9d2a7db6c2e"
-     },
-     "id": "2a0c35956cf4e9b4",
-     "published": "2026-11-01T15:00+00:00",
-     "text": "An “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people.\nDr Marta Shahbazi, an affiliate associate professor at the Cambridge Stem Cell Institute and a group leader at the city’s Medical Research Council Laboratory of Molecular Biology (LMB), was travelling on one of the trains involved in the crash near Urda in Toledo province.\nThe LMB said the mother of two had recently won the Spanish Society of Developmental Biology’s scientific excellence prize. She had been due to be presented with the award during its conference in El Rompido, Andalucía.\nIn a LinkedIn post, the LMB said it was deeply saddened by her death, which was “a profound shock and a huge loss”, adding: “Martha was an inspiring, talented and passionate scientist whose research shed light on the earliest steps in the development of human embryos and how errors occur that lead to failed pregnancies.”\nIt said she was a role model who had written eloquently about balancing her family and career, describing herself as a “mother scientist”.\nDr Roser Vento-Tormo, a group leader at the Wellcome Sanger Institute outside Cambridge, wrote: “Marta Shahbazi was a beautiful person: a close collaborator, a treasured friend, and an inspiration to me both as a scientist and as a mother.\n“As a scientist, we shared so many dreams. We co-supervised two students together, and I cannot describe how much joy it was to work alongside her. Some of our work will still be published in the coming months, and anyone who reads it will feel the passion she poured into everything she did …\n“My thoughts are with her family. Anyone who knew Marta could see how deeply they were a unit, and how much they meant to her.”\nThe Center for Research in Molecular Medicine and Chronic Diseases (CiMUS), based in Santiago de Compostela, Spain, paid tribute to Shahbazi as “a brilliant young researcher”.\nThe disaster was Spain’s second high-speed rail crash this year. Both collisions occurred on the line between the central city of Madrid, Spain’s capital, and Seville, in the Andalucía region in the south of the country.\nThree days of national mourning were observed from Thursday. The Spanish prime minister, Pedro Sánchez, described the incident as a “tragedy” and has promised an investigation."
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/01/university-of-cambridge-scientist-among-victims-of-deadly-spain-train-crash",
-     "title": "University of Cambridge scientist among victims of deadly Spain train crash",
-     "lang": "en",
-     "extra": {},
-     "id": "3c2ff9517aa99580",
-     "published": "2026-11-01T15:14+00:00",
-     "text": "Marta Shahbazi had been on her way to collect the 2026 José Luis Gómez-Skarmeta prize for her \"outstanding contributions to the study of the early stages of human development.\""
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
-     "title": "University of Cambridge scientist among those who died in Spanish train crash",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg"
-     },
-     "id": "035d80bf7a1f9b6a",
-     "published": "2026-11-01T17:05+00:00",
-     "text": "- Published\nAn award-winning University of Cambridge researcher died in the Spanish train disaster while on her way to collect a prize for scientific excellence.\nDr Marta Shahbazi was travelling to an awards ceremony on Wednesday when the train she was on crashed into another near Urda, south of Madrid, killing 69 people.\nThe mother of two was an affiliate associate professor leading a group of researchers at MRC Laboratory of Molecular Biology (LMB) in Cambridge and had earned several awards for work on human embryos and cell biology.\nIn a statement, the LMB paid tribute to the \"inspiring, talented and passionate scientist\" and described her death as a \"profound shock and a huge loss\".\nThe expert in cell biology ran the Shahbazi Laboratory at the LMB, based on the Cambridge Biomedical Campus.\nShe had been announced as the winner of a Spanish Society for Developmental Biology award for her contributions to the study of early human development and was due to collect the award at a conference in El Rompido in Andalusia.\nThe LMB said: \"As a wife and mother of two young children, Marta wrote eloquently about balancing her family and career, serving as a much-admired role model for a 'mother scientist', a term she used to describe herself.\n\"Marta was an inspiring, talented and passionate scientist whose research shed light on the earliest steps in the development of human embryos and how errors occur that lead to failed pregnancies,\" the LMB said.\nThe institute said her death was \"a profound shock and a huge loss for LMB\".\nHer work had been recognised with \"many awards and prizes\", the laboratory added.\nShahbazi is listed on the University of Cambridge website as a principal investigator at its Stem Cell Institute (CSCI).\nInstitute director Prof Bertie Gottgens said its community was \"shocked and deeply saddened\" by her death.\n\"Marta led her primary research group at the MRC Laboratory of Molecular Biology (LMB) alongside her roles as an affiliate principal investigator and affiliate assistant professor at the CSCI,\" he said.\n\"Across both institutes, she was highly respected for her pioneering research on early human development and valued for her collaborative spirit.\n\"Her creativity, passion, and generosity will be greatly missed.\"\nThe news of her death was first confirmed in a social media post, external by the CiMUS, based in Santiago de Compostela where Shahbazi's aunt works.\nShahbazi undertook her PhD at the Spanish National Cancer Research Centre, before joining the University of Cambridge as a post-doctoral fellow and then the LMB in 2020.\nThe crash in Spain happened when a state-operated Renfe high-speed train smashed into the back of a stationary train operated by the Iryo company.\nIt is one of the worst rail disasters in Europe's modern history, and Spain's worst crash since 2013.\nThree days of national mourning were declared in the country.\nMore than 540 people were on board both trains.\nThe Foreign Office has been contacted by the BBC."
     }
    ]
   },
@@ -3536,6 +3468,109 @@
    ]
   },
   {
+   "id": "c0a0bf963d6",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": true,
+   "distinct_sites": 6,
+   "title_hint": "British university scientist died in Spain train crash",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/british-university-scientist-died-in-spain-train-crash-13606613",
+     "title": "British university scientist died in Spain train crash",
+     "lang": "en",
+     "extra": {},
+     "id": "0a0bf963d6e702bf",
+     "published": "2026-11-01T12:28+00:00",
+     "text": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
+    },
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/university-of-cambridge-scientist-died-in-spain-train-crash-13606613",
+     "title": "University of Cambridge scientist died in Spain train crash",
+     "lang": "en",
+     "extra": {},
+     "id": "1876f7ebed9c7f59",
+     "published": "2026-11-01T12:28+00:00",
+     "text": "A University of Cambridge professor has been named as one of the 69 people killed in the deadly high-speed train crash in Spain."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/bulletin/news/marta-shahbazi-death-spanish-train-crash-b3077079.html",
+     "title": "Cambridge scientist killed in Spanish train crash was on way to collect prize",
+     "lang": "en",
+     "extra": {},
+     "id": "4ada2ff4eef16812",
+     "published": "2026-11-01T12:28+00:00",
+     "text": ""
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa055QzlWLWdweXRTUDk4NU1oRlM4aU9xdmszYjI5RGhTWnBYUzRKNkFzWFpXdHZVY0lRMkU1MHZOc1NPYm5fY3BfSTEzUEE4MU1rRkpRdkxIUkNjYVNEcnpPUTFzcHRud2kyS1E5Wl9WN1hsSm1VN1hDVXp5R2YyQnI5Uk5Tbk9ROFRIczdrQTJ2MUI5VnY4WUptMWk5WjlDN2tFMw?oc=5",
+     "title": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award",
+     "lang": "en",
+     "extra": {},
+     "id": "9bd8af7ff4c50074",
+     "published": "2026-11-01T12:35+00:00",
+     "text": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award\nThe Independent"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/world/europe/marta-shahbazi-spain-train-crash-victims-b3077068.html",
+     "title": "British scientist among 69 killed in Spain train disaster was travelling to collect prestigious award",
+     "lang": "en",
+     "extra": {},
+     "id": "581fef2dae2fb8db",
+     "published": "2026-11-01T12:35+00:00",
+     "text": "University of Cambridge researcher Dr Marta Shahbazi was on board when two high-speed trains collided near Toledo"
+    },
+    {
+     "source": "Guardian Science",
+     "trust": 2,
+     "url": "https://theguardian.com/world/2026/nov/01/tributes-marta-shahbazi-university-of-cambridge-scientist-spanish-train-crash",
+     "title": "Tributes paid to ‘inspiring’ University of Cambridge scientist who died in Spanish train crash",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i.guim.co.uk/img/media/768c4ba470e9915362b2e359b2c39b525b2af3bc/80_167_1665_1332/master/1665.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=669e492306e677fc1d3cc9d2a7db6c2e"
+     },
+     "id": "2a0c35956cf4e9b4",
+     "published": "2026-11-01T15:00+00:00",
+     "text": "An “inspiring” University of Cambridge scientist died in the Spanish train collision on Wednesday that killed at least 69 people.\nDr Marta Shahbazi, an affiliate associate professor at the Cambridge Stem Cell Institute and a group leader at the city’s Medical Research Council Laboratory of Molecular Biology (LMB), was travelling on one of the trains involved in the crash near Urda in Toledo province.\nThe LMB said the mother of two had recently won the Spanish Society of Developmental Biology’s scientific excellence prize. She had been due to be presented with the award during its conference in El Rompido, Andalucía.\nIn a LinkedIn post, the LMB said it was deeply saddened by her death, which was “a profound shock and a huge loss”, adding: “Martha was an inspiring, talented and passionate scientist whose research shed light on the earliest steps in the development of human embryos and how errors occur that lead to failed pregnancies.”\nIt said she was a role model who had written eloquently about balancing her family and career, describing herself as a “mother scientist”.\nDr Roser Vento-Tormo, a group leader at the Wellcome Sanger Institute outside Cambridge, wrote: “Marta Shahbazi was a beautiful person: a close collaborator, a treasured friend, and an inspiration to me both as a scientist and as a mother.\n“As a scientist, we shared so many dreams. We co-supervised two students together, and I cannot describe how much joy it was to work alongside her. Some of our work will still be published in the coming months, and anyone who reads it will feel the passion she poured into everything she did …\n“My thoughts are with her family. Anyone who knew Marta could see how deeply they were a unit, and how much they meant to her.”\nThe Center for Research in Molecular Medicine and Chronic Diseases (CiMUS), based in Santiago de Compostela, Spain, paid tribute to Shahbazi as “a brilliant young researcher”.\nThe disaster was Spain’s second high-speed rail crash this year. Both collisions occurred on the line between the central city of Madrid, Spain’s capital, and Seville, in the Andalucía region in the south of the country.\nThree days of national mourning were observed from Thursday. The Spanish prime minister, Pedro Sánchez, described the incident as a “tragedy” and has promised an investigation."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/university-of-cambridge-scientist-among-victims-of-deadly-spain-train-crash",
+     "title": "University of Cambridge scientist among victims of deadly Spain train crash",
+     "lang": "en",
+     "extra": {},
+     "id": "3c2ff9517aa99580",
+     "published": "2026-11-01T15:14+00:00",
+     "text": "Marta Shahbazi had been on her way to collect the 2026 José Luis Gómez-Skarmeta prize for her \"outstanding contributions to the study of the early stages of human development.\""
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+     "title": "University of Cambridge scientist among those who died in Spanish train crash",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea05/live/c6f18070-d5ec-11f1-bfdd-73f39e6db31d.jpg"
+     },
+     "id": "035d80bf7a1f9b6a",
+     "published": "2026-11-01T17:05+00:00",
+     "text": "- Published\nAn award-winning University of Cambridge researcher died in the Spanish train disaster while on her way to collect a prize for scientific excellence.\nDr Marta Shahbazi was travelling to an awards ceremony on Wednesday when the train she was on crashed into another near Urda, south of Madrid, killing 69 people.\nThe mother of two was an affiliate associate professor leading a group of researchers at MRC Laboratory of Molecular Biology (LMB) in Cambridge and had earned several awards for work on human embryos and cell biology.\nIn a statement, the LMB paid tribute to the \"inspiring, talented and passionate scientist\" and described her death as a \"profound shock and a huge loss\".\nThe expert in cell biology ran the Shahbazi Laboratory at the LMB, based on the Cambridge Biomedical Campus.\nShe had been announced as the winner of a Spanish Society for Developmental Biology award for her contributions to the study of early human development and was due to collect the award at a conference in El Rompido in Andalusia.\nThe LMB said: \"As a wife and mother of two young children, Marta wrote eloquently about balancing her family and career, serving as a much-admired role model for a 'mother scientist', a term she used to describe herself.\n\"Marta was an inspiring, talented and passionate scientist whose research shed light on the earliest steps in the development of human embryos and how errors occur that lead to failed pregnancies,\" the LMB said.\nThe institute said her death was \"a profound shock and a huge loss for LMB\".\nHer work had been recognised with \"many awards and prizes\", the laboratory added.\nShahbazi is listed on the University of Cambridge website as a principal investigator at its Stem Cell Institute (CSCI).\nInstitute director Prof Bertie Gottgens said its community was \"shocked and deeply saddened\" by her death.\n\"Marta led her primary research group at the MRC Laboratory of Molecular Biology (LMB) alongside her roles as an affiliate principal investigator and affiliate assistant professor at the CSCI,\" he said.\n\"Across both institutes, she was highly respected for her pioneering research on early human development and valued for her collaborative spirit.\n\"Her creativity, passion, and generosity will be greatly missed.\"\nThe news of her death was first confirmed in a social media post, external by the CiMUS, based in Santiago de Compostela where Shahbazi's aunt works.\nShahbazi undertook her PhD at the Spanish National Cancer Research Centre, before joining the University of Cambridge as a post-doctoral fellow and then the LMB in 2020.\nThe crash in Spain happened when a state-operated Renfe high-speed train smashed into the back of a stationary train operated by the Iryo company.\nIt is one of the worst rail disasters in Europe's modern history, and Spain's worst crash since 2013.\nThree days of national mourning were declared in the country.\nMore than 540 people were on board both trains.\nThe Foreign Office has been contacted by the BBC."
+    }
+   ]
+  },
+  {
    "id": "cd048152667",
    "kind": "news",
    "score": 15.0,
@@ -3565,6 +3600,52 @@
      "id": "1307951bc28fe8ac",
      "published": "2026-11-01T17:34+00:00",
      "text": "CNBC reports:\nA month after President Donald Trump ordered that \"super intelligence\" replace the term artificial intelligence within executive branch departments and agencies, his leading tech allies, Elon Musk and Mark Zuckerberg, followed suit on earnings calls. Their fellow tech CEOs were less eager to do the same... SpaceX and Tesla adhered to Trump's wishes on earnings calls last week after Musk, earlier in October, changed the name of his rocket company's AI division to SpaceXSI. Speaking on Tesla's call about his work on humanoid robots, Musk said, \"Some of them look very impressive, but they're not really using any kind of advanced AI or SI.\" Zuckerberg was equally compliant on Meta's earnings call on Oct. 21, emphasizing his company's \"goal of delivering personal superintelligence to everyone.\" However, Meta was already using the term, having created a unit called Meta Superintelligence Labs last year....\n[Some other tech CEOs are holding out.] Amazon CEO Andy Jassy peppered his call with use of \"AI\" on Thursday, uttering the abbreviation well over a dozen times in his introductory remarks. A day earlier, Microsoft CEO Satya Nadella said one of the company's three points of focus is \"designing AI to empower people.\" And Alphabet CEO Sundar Pichai was seconds into his quarterly earnings commentary when he said the search giant's \"AI investments are driving increased usage and overall user growth....\"\nTrump's preferred term is seeping into other correspondence and documents. Microsoft's annual report, filed last week, included eight mentions of \"super intelligence,\" starting at the top of the letter to shareholders...\nIBM CEO Arvind Krishna, who didn't attend Trump's September lunch, used \"SI\" alongside \"AI\" during his company's earnings call last week.... Lip-Bu Tan, CEO of chipmaker Intel, said Thursday the supply shortage the chip industry is navigating has been \"driven by the unprecedented demand for super intelligence.\"\nSome in the tech industry have been explicit in their support of Trump's terminology ahead of their forthcoming earnings reports next month. Palo Alto Networks CEO Nikesh Arora repeatedly referred to \"SI\" on CNBC, and posted on X on Sept. 30, \"The meeting at the WH on SI was an epic moment....\" Like Arora, [Nvidia CEO Jensen] Huang took to X after last month's AI meeting to praise the \"White House Accord on Super Intelligence.\"Read more of this story at Slashdot."
+    }
+   ]
+  },
+  {
+   "id": "cf1c60e7436",
+   "kind": "news",
+   "score": 14.5,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "The Elder Scrolls: Valenwood Officially Announced",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/1450625/view/693150463100455393",
+     "title": "The Elder Scrolls: Valenwood Officially Announced",
+     "lang": "en",
+     "extra": {},
+     "id": "c9fbefd3c4da423d",
+     "published": "2026-11-01T18:41+00:00",
+     "text": "The Elder Scrolls: Valenwood\nis set to bring fans back to the home of the Bosmer for the first time in years. The release is coming sooner than expected, meaning fans don't have to wait long at all to get their hands on\nThe Elder Scrolls: Valenwood\n."
+    },
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QRGNrVTBwMW1sbVVCUUd2cTFDNGVHanpNMUM5Z3BtNnBUNzF2c1E3aW4zYU5ia3Z4YmlrRUppYS1rZkVpZ05LejRCOUZsc253ZVc5cThybFZTekhkcEVWMUtWZ2xLT0c2M0ZYdU1iZ1FFSmhpUkIwQVdB?oc=5",
+     "title": "The Elder Scrolls 6 Gets Official Teaser From Bethesda",
+     "lang": "en",
+     "extra": {},
+     "id": "f1c60e7436335e95",
+     "published": "2026-10-31T11:30+00:00",
+     "text": "The Elder Scrolls 6 Gets Official Teaser From Bethesda\nScreenRant"
+    },
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/elder-scrolls-november-2026-genre-switch-betrayal",
+     "title": "The Elder Scrolls Is Officially Switching Genre For November 2026 Return",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/elder-scrolls-6-title-release-date-leak-roasted.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "a1fde67e0f8e4bfd",
+     "published": "2026-11-01T23:00+00:00",
+     "text": "The Elder Scrolls series is in something of a tricky spot at the time of writing due mainly to the ongoing delay with the launch of the next mainline entry, The Elder Scrolls VI. After all, it has been fifteen years since the most recent entry, The Elder Scrolls V: Skyrim, was released, and since then, only The Elder Scrolls IV: Oblivion Remastered has stopped the franchise from fading into the background.\nIt was way back in 2018 that Bethesda first confirmed that The Elder Scrolls VI would be the next installment in the much-loved franchise, but since then, updates and details surrounding its development have remained scarce, leading some fans to worry that it would be canceled altogether.\nWhilst that is not the case, at least at the time of writing, there is at least one The Elder Scrolls-related release on the way, and it is set to launch this November.\nOffering a complete genre change for the franchise, The Elder Scrolls: Betrayal of the Second Era Board Game is an upcoming tabletop experience from Zatu Games. Set to launch on 30 November 2026, it is now available for pre-order, but with a £187.75 price tag, it is quite the investment. The only good news here is that it is currently on offer from its RRP of £188.99.\nRecommended for 1-4 players with each game taking anything from 150-180 minutes, The Elder Scrolls: Betrayal of the Second Era Board Game's official synopsis reads as follows:\nThe Elder Scrolls: Betrayal of the Second Era is a cooperative tabletop adventure set during Tamriel's Second Era - specifically during the events of the Planemeld, as the Order of the Black Worm plots to secure the Amulet of Kings. As the dark cult schemes, however, one of its members is planning an even darker betrayal, one that will tie Tamriel in with Oblivion forever. Adventurers work to uncover her machinations and stop her plot amid a bevy of endlessly replayable content. As in The Elder Scrolls video games, players will travel on an epic journey, balancing exploration, character building, dungeon diving and close quarters combat.\nIn The Elder Scrolls: Betrayal of the Second Era Board Game, each game takes place over the course of three gameplay sessions, \"with sessions being roughly two hours plus an additional half hour per player in length.\" During this, players will be tasked with customizing and controlling a single hero throughout all three sessions as they \"manage multiple skill lines, classes and experience the many regions of Tamriel, each with their own unique flavor and mechanics.\"\nWith experience points handed out throughout the course of the game, players will be encouraged to build interesting and unique characters, each with their own skills and abilities. Luckily, as the description details, \"session to session progression is meaningful, but players are not required to remember complex narrative points or play with the same group forever.\"\nAs such, replayability is a big selling point for this upcoming The Elder Scrolls-inspired board game. So, if you are interested in The Elder Scrolls: Betrayal of the Second Era Board Game ahead of its launch in just over a month's time, make sure to secure your copy by pre-ordering now.\n- Video Game(s)\n- The Elder Scrolls: Arena, The Elder Scrolls II: Daggerfall, The Elder Scrolls III: Morrowind, The Elder Scrolls IV: Oblivion, The Elder Scrolls V: Skyrim, The Elder Scrolls Online, The Elder Scrolls: Legends, The Elder Scrolls: Blades, The Elder Scrolls 6\n- Cast\n- Patrick Stewart, Sean Bea"
     }
    ]
   },
@@ -3633,6 +3714,65 @@
      "id": "4d0620044247281e",
      "published": "2026-10-31T15:21+00:00",
      "text": "- Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct Kotaku\n- A Treasure Hunt Awaits in Pikmin Bloom’s Secret Caves! pikminbloom.com\n- Everything Announced at Nintendo's Inaugural Pikmin Day Direct IGN\n- Shigeru Miyamoto Proclaims November 1 is Pikmin Day, Pikmin 4 Demo Coming To Switch 2 Soon Game Informer\n- Happy Pikmin Day Eve The Verge"
+    }
+   ]
+  },
+  {
+   "id": "c6c864aeb80",
+   "kind": "news",
+   "score": 14.5,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Final Fantasy 14 Reveals Evercold Release Date and New Job",
+   "official_image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-14-reveals-evercold-release-date-and-new-job.jpg",
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/1450625/view/693150463100455303",
+     "title": "Final Fantasy 14 Reveals Evercold Release Date and New Job",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-14-reveals-evercold-release-date-and-new-job.jpg"
+     },
+     "id": "918eb9df0e3cb9cd",
+     "published": "2026-10-31T20:10+00:00",
+     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
+    },
+    {
+     "source": "Eurogamer",
+     "trust": 2,
+     "url": "https://eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
+     "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-14.21.52.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+     },
+     "id": "6c864aeb807452e0",
+     "published": "2026-10-31T14:39+00:00",
+     "text": "Final Fantasy 14's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird.\nProducer and director Naoki Yoshida revealed the job during the opening keynote of the Final Fantasy 14 Fan Festival 2026 in Tokyo. Zephyr pairs crossbow shots with support from an avian familiar called Nephele, and joins Bastion, the greatshield-wielding tank revealed as Evercold's first new job at Fan Festival Berlin earlier this year.\nPre-orders for Evercold and the previously announced Collector's Box open on Wednesday 4th November at 9am GMT. Anyone who pre-orders gets early access, plus a Wind-Up Köttr minion and Halone's Earring, which boosts EXP from defeating enemies by 30 percent. The in-game items are delivered as soon as you pre-order, so you can use the earring to level jobs before Evercold arrives.\nThe Collector's Box is physical goods only. It doesn't include the game, in-game items or pre-order bonuses. Inside you'll find an art box featuring an Evercold illustration by Yoshitaka Amano, a figure of the Warrior of Light as a reaper, an Ethos metal keychain, a Köttr mini plush, and a Tapestry of the Fourth.\nThe Square Enix Store is also selling a limited Collector's Bundle that pairs the box with a code for the Digital Collector's Edition on Windows or Mac. Players on PS5, PS4, Xbox Series X/S, Switch 2, and Steam can buy the box on its own and pre-order the Digital Collector's Edition separately. The digital edition adds a Valhallar Odin mount, an Entreat Crystal emote, and a Crystal Skyltborg weapon for Bastion.\nSquare Enix also used the keynote to reveal a new Fierce raid difficulty, sitting between Normal and Savage; a new trailer for the Evangelion: Ghosts of Desire alliance raid crossover, plus tougher eight-player battles built around some of its bosses; and new Tetsuya Nomura artwork for Beyond the Lifestream, a raid series crossover with the Final Fantasy 7 Remake series.\nWe can also expect Evolved Combat Mode, which Square Enix says highlights each job's unique identity; Seasons, a new system that changes how item rewards are earned; and expanded character creation with new Character Action Skins. Expanded housing features, PvP updates, and a revamped companion chocobo system will follow from patch 8.1.\nFinal Fantasy 14 has passed 35 million registered accounts.\nYou can watch the full keynote on Twitch, and there's more on the official Evercold site.\nFinal Fantasy 14 is now available on Switch 2. The port was announced at the end of June."
+    },
+    {
+     "source": "PC Gamer",
+     "trust": 2,
+     "url": "https://pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week",
+     "title": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
+     "lang": "en",
+     "extra": {},
+     "id": "172ba6a7cd790d10",
+     "published": "2026-10-31T18:57+00:00",
+     "text": "Surely, one of these is the actual, no joke, FINAL fantasy?"
+    },
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Release-date-of-Final-Fantasy-XIV-Evercold-pushed-back.1439025.0.html",
+     "title": "Release date of Final Fantasy XIV: Evercold pushed back",
+     "lang": "en",
+     "extra": {},
+     "id": "8815ab967a0df1cc",
+     "published": "2026-10-31T19:52+00:00",
+     "text": "Square Enix has delayed Final Fantasy XIV: Evercold from January to February, with early access beginning February 19 and pre-orders opening November 4. The publisher has also unveiled new footage of a new job, which joins the tank-focused Bastion in an expansion featuring new areas, raids and a higher level cap."
     }
    ]
   },
@@ -3786,69 +3926,6 @@
    ]
   },
   {
-   "id": "ce7bee6d6a7",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
-   "official_image": "https://images.nintendolife.com/012d5ee2915fd/large.jpg",
-   "sources": [
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/news/2026/11/watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
-     "title": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
-     "lang": "en",
-     "extra": {
-      "image": "https://images.nintendolife.com/012d5ee2915fd/large.jpg"
-     },
-     "id": "e7bee6d6a78975c8",
-     "published": "2026-11-01T06:45+00:00",
-     "text": "A special broadcast timed in with Pikmin Day.\nApart from its Pikmin Day Direct, Nintendo has announced it's hosting a special Treehouse broadcast for Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy.\nRead the full article on nintendolife.com"
-    },
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/news/2026/11/watch-nintendo-treehouse-plays-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
-     "title": "Watch: Nintendo Treehouse Plays Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
-     "lang": "en",
-     "extra": {
-      "image": "https://images.nintendolife.com/012d5ee2915fd/large.jpg"
-     },
-     "id": "aea52c26043dedcb",
-     "published": "2026-11-01T17:00+00:00",
-     "text": "A special broadcast timed in with Pikmin Day.\nApart from its Pikmin Day Direct, Nintendo has announced it's hosting a special Treehouse broadcast for Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy.\nIts airs later today on YouTube and will give fans a better look at this version of the game, and what you can expect before you jump into it on 12th November 2026. Here are the times for the upcoming Treehouse Direct:\nRead the full article on nintendolife.com"
-    },
-    {
-     "source": "Eurogamer",
-     "trust": 2,
-     "url": "https://eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
-     "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-     },
-     "id": "1c143450b6d67922",
-     "published": "2026-11-01T10:04+00:00",
-     "text": "Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy.\nNintendo confirmed the date during yesterday's surprise Pikmin Day Direct, which also revealed that a demo will land on the Nintendo eShop on 2nd November. Any progress you make in the demo will transfer to the full game if you buy it.\nDandori Academy is a timed exam mode. The Direct showed off one of its exams, Gargantuan Garden, which challenges players to collect gold nuggets before time runs out (thanks, Insider Gaming).\nThe Switch 2 Edition will also let you give voice commands to Oatchi, the game’s dog companion. If you already own Pikmin 4 on the original Switch, you can buy an upgrade pack from the eShop.\nNintendo had warned ahead of the broadcast that there would be no new game announcements. Instead, Shigeru Miyamoto introduced Japanese actor Fuka Koshiba as a new ambassador for the series, and Nintendo confirmed that 1st November, today, is now Pikmin Day.\nPikmin 4 originally launched on Switch in July 2023. The Switch 2 Edition is one of two big Nintendo releases this month, alongside The Legend of Zelda: Ocarina of Time remake on 5th November.\nLegendary Nintendo developer Shigeru Miyamoto - who directed classic games such as Super Mario 64 and produced The Legend of Zelda: Ocarina of Time - recently argued that the rise of generative AI tools won't necessarily replace human talent."
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hRHpZcHEyWmlWajRDSzc1dDd3T29yTTlhR00xaGlOV3BKSW5FeS1WWnhYSDQydkdURWdwek5lbXVzZzBVdHhGNGlQME54b1U0dU1xSjh3VENRcVgwQnJhWTRjcjd2N1VWSXY5ZU1IaExHem1kYU8tRA?oc=5",
-     "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "ac6443ac744cc32f",
-     "published": "2026-11-01T10:04+00:00",
-     "text": "- Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow Eurogamer.net\n- A Treasure Hunt Awaits in Pikmin Bloom’s Secret Caves! pikminbloom.com\n- Shigeru Miyamoto Proclaims November 1 is Pikmin Day, Pikmin 4 Demo Coming To Switch 2 Soon Game Informer\n- Everything Announced at Nintendo's Inaugural Pikmin Day Direct IGN\n- Happy Pikmin Day Eve The Verge"
-    }
-   ]
-  },
-  {
    "id": "c4ac0faf8bd",
    "kind": "news",
    "score": 14.0,
@@ -3953,10 +4030,12 @@
      "url": "https://thenextweb.com/news/sam-altman-dram-samsung-presidents-cheeky-pint",
      "title": "Sam Altman meets Samsung’s presidents days after his DRAM remark",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://media.thenextweb.com/2026/10/samsung-executives-sam-altman-ai-talk-yongin-hall.jpg"
+     },
      "id": "2882e83a91e61814",
      "published": "2026-10-31T12:03+00:00",
-     "text": "Samsung hosted OpenAI chief executive Sam Altman for talks with about 50 of its presidents on Saturday. Two days earlier, a podcast went out in which Sam Altman said it is “quite terrible” for the world’s limited DRAM to sit in people’s own computers. DRAM is the memory chip Samsung makes. Samsung set out the […]"
+     "text": "Samsung hosted OpenAI chief executive Sam Altman for talks with about 50 of its presidents on Saturday. Two days earlier, a podcast went out in which Sam Altman said it is “quite terrible” for the world’s limited DRAM to sit in people’s own computers. DRAM is the memory chip Samsung makes.\nSamsung set out the details in a statement on its Korean newsroom. The presidents came from its electronics, finance and biotech affiliates, and met Altman at Samsung’s training centre in Yongin, south of Seoul.\nInside the Samsung session\nThe talk ran under the theme of how AI will change the next ten years, and what companies should choose to do. Samsung’s presidents and Altman looked at where AI technology is heading and how it can be used, Samsung said. They also traded views on the new markets and business opportunities it could create.\nThey discussed how AI will change decision-making and the way organisations run, and what skills managers will need, the statement said. Samsung did not publish anything Altman said, and it did not name the Samsung executives in the room.\nSamsung said the session was part of its training for presidents. Its view is that a company’s strength in the AI era comes from its managers’ judgement and execution, so the presidents are meant to lead by learning AI themselves.\nBefore meeting Altman, the presidents took a hands-on generative AI course, their second after one in June. They used AI to sort scattered management documents into their own “knowledge repository”, and practised using AI in decisions, Samsung said.\nBloomberg’s Yoolim Lee reported that Altman is the latest American tech leader to visit South Korea. Nvidia’s Jensen Huang and AMD’s Lisa Su have each visited twice since last year to strengthen supply ties, Bloomberg reported.\nSamsung’s ties to OpenAI\nSamsung Electronics and OpenAI signed a letter of intent on AI infrastructure in October 2025, Samsung said. Since then, Samsung has worked to supply memory chips for OpenAI’s Stargate data centre project.\nUnder the same agreement, Samsung SDS is to work with OpenAI on AI data centres and AI services for businesses. Samsung C&T and Samsung Heavy Industries are developing floating data centres together. Samsung Electronics chairman Lee Jae-yong visited OpenAI’s San Francisco headquarters in July, the statement added.\nIn June, OpenAI said Samsung Electronics would roll out ChatGPT Enterprise and Codex to its employees in South Korea and in its global Device eXperience division.\nSamsung has been bringing AI into research, production, marketing and support work since June, it said. Each affiliate has its own AI team. About 2,300 executives have been trained so far, and all employees are due to finish AI training by February 2027.\nWhat Altman said about DRAM\nAltman made the remark to Stripe co-founder John Collison on Collison’s podcast, Cheeky Pint, released on Thursday. TNW covered the episode when it came out, leading on his plan to point OpenAI’s robots at building data centres.\nCollison asked why high prices for memory and chips had not yet brought more supply. Altman said memory makers were now “each going to make like $100 billion of free cash flow in a year”. Their history of near-bankruptcy from building too many factories keeps them careful with spending, he said.\nHe then turned to people who want to run AI models on their own machines.\n“A lot of people want local inference. And somehow, they assume that the problem is solved now,” Altman said.\nThose peopl"
     },
     {
      "source": "SamMobile",
@@ -4961,6 +5040,61 @@
    ]
   },
   {
+   "id": "c3863b3cc67",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/sports/formula-1/kimi-antonelli-becomes-youngest-formula-1-champion-ever-20-years-old-rcna606726",
+     "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
+     "lang": "en",
+     "extra": {},
+     "id": "3863b3cc67e3ac3e",
+     "published": "2026-11-01T22:25+00:00",
+     "text": "Kimi Antonelli clinched the Formula 1 world championship Sunday, becoming the youngest driver in the sport’s history to win the title at just 20."
+    },
+    {
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/7724261/2026/11/01/kimi-antonelli-f1-champion-2026",
+     "title": "Fearless and ahead of schedule, Kimi Antonelli is Formula 1’s youngest world champion",
+     "lang": "en",
+     "extra": {},
+     "id": "5b5536e91d8214eb",
+     "published": "2026-11-01T22:47+00:00",
+     "text": "At 20 years and two months old, Kimi Antonelli is now the youngest F1 world champion, surpassing the record a 23-year-old Sebastian Vettel set in 2010."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/sports/kimi-antonelli-becomes-youngest-f1-world-champion-with-3rd-place-finish-in-mexico/4108242",
+     "title": "Kimi Antonelli becomes youngest F1 world champion with 3rd-place finish in Mexico",
+     "lang": "en",
+     "extra": {},
+     "id": "16679e1ec68ed3e4",
+     "published": "2026-11-01T22:49+00:00",
+     "text": "20-year-old Italian clinches title in only his 2nd season as Verstappen wins Mexican Grand Prix ahead of Hamilton"
+    },
+    {
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/7723425/2026/11/01/kimi-antonelli-f1-championship-season-inside-story",
+     "title": "How Kimi Antonelli became Formula 1’s youngest champion, surprising even himself",
+     "lang": "en",
+     "extra": {},
+     "id": "6d2c395f1b13c06d",
+     "published": "2026-11-01T22:57+00:00",
+     "text": "Kimi Antonelli has sealed the 2026 F1 world title in just his second season. The story of his campaign is just as sensational."
+    }
+   ]
+  },
+  {
    "id": "cf33d51281f",
    "kind": "news",
    "score": 13.5,
@@ -5016,6 +5150,69 @@
      "id": "d194961c9a297212",
      "published": "2026-11-01T01:00+00:00",
      "text": "- Rumour: Alleged Persona 1 Remake Gameplay Leaks Online Push Square\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Persona 1 Remake Leak: Fans React to 2-Min Clip [2026] shattered.io\n- Persona 1 Remake Trailer Leak: 360p, Unconfirmed [2026] https://tech-insider.org/\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
+    }
+   ]
+  },
+  {
+   "id": "ce7bee6d6a7",
+   "kind": "news",
+   "score": 13.5,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
+   "official_image": "https://images.nintendolife.com/012d5ee2915fd/large.jpg",
+   "sources": [
+    {
+     "source": "Nintendo News",
+     "trust": 3,
+     "url": "https://nintendolife.com/news/2026/11/watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
+     "title": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
+     "lang": "en",
+     "extra": {
+      "image": "https://images.nintendolife.com/012d5ee2915fd/large.jpg"
+     },
+     "id": "e7bee6d6a78975c8",
+     "published": "2026-11-01T06:45+00:00",
+     "text": "A special broadcast timed in with Pikmin Day.\nApart from its Pikmin Day Direct, Nintendo has announced it's hosting a special Treehouse broadcast for Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy.\nRead the full article on nintendolife.com"
+    },
+    {
+     "source": "Nintendo News",
+     "trust": 3,
+     "url": "https://nintendolife.com/news/2026/11/watch-nintendo-treehouse-plays-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
+     "title": "Watch: Nintendo Treehouse Plays Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
+     "lang": "en",
+     "extra": {
+      "image": "https://images.nintendolife.com/012d5ee2915fd/large.jpg"
+     },
+     "id": "aea52c26043dedcb",
+     "published": "2026-11-01T17:00+00:00",
+     "text": "A special broadcast timed in with Pikmin Day.\nApart from its Pikmin Day Direct, Nintendo has announced it's hosting a special Treehouse broadcast for Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy.\nIts airs later today on YouTube and will give fans a better look at this version of the game, and what you can expect before you jump into it on 12th November 2026. Here are the times for the upcoming Treehouse Direct:\nRead the full article on nintendolife.com"
+    },
+    {
+     "source": "Eurogamer",
+     "trust": 2,
+     "url": "https://eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
+     "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+     },
+     "id": "1c143450b6d67922",
+     "published": "2026-11-01T10:04+00:00",
+     "text": "Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy.\nNintendo confirmed the date during yesterday's surprise Pikmin Day Direct, which also revealed that a demo will land on the Nintendo eShop on 2nd November. Any progress you make in the demo will transfer to the full game if you buy it.\nDandori Academy is a timed exam mode. The Direct showed off one of its exams, Gargantuan Garden, which challenges players to collect gold nuggets before time runs out (thanks, Insider Gaming).\nThe Switch 2 Edition will also let you give voice commands to Oatchi, the game’s dog companion. If you already own Pikmin 4 on the original Switch, you can buy an upgrade pack from the eShop.\nNintendo had warned ahead of the broadcast that there would be no new game announcements. Instead, Shigeru Miyamoto introduced Japanese actor Fuka Koshiba as a new ambassador for the series, and Nintendo confirmed that 1st November, today, is now Pikmin Day.\nPikmin 4 originally launched on Switch in July 2023. The Switch 2 Edition is one of two big Nintendo releases this month, alongside The Legend of Zelda: Ocarina of Time remake on 5th November.\nLegendary Nintendo developer Shigeru Miyamoto - who directed classic games such as Super Mario 64 and produced The Legend of Zelda: Ocarina of Time - recently argued that the rise of generative AI tools won't necessarily replace human talent."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hRHpZcHEyWmlWajRDSzc1dDd3T29yTTlhR00xaGlOV3BKSW5FeS1WWnhYSDQydkdURWdwek5lbXVzZzBVdHhGNGlQME54b1U0dU1xSjh3VENRcVgwQnJhWTRjcjd2N1VWSXY5ZU1IaExHem1kYU8tRA?oc=5",
+     "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "ac6443ac744cc32f",
+     "published": "2026-11-01T10:04+00:00",
+     "text": "- Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow Eurogamer.net\n- A Treasure Hunt Awaits in Pikmin Bloom’s Secret Caves! pikminbloom.com\n- Shigeru Miyamoto Proclaims November 1 is Pikmin Day, Pikmin 4 Demo Coming To Switch 2 Soon Game Informer\n- Everything Announced at Nintendo's Inaugural Pikmin Day Direct IGN\n- Happy Pikmin Day Eve The Verge"
     }
    ]
   },
@@ -5293,7 +5490,7 @@
    "kind": "news",
    "score": 13.0,
    "sensitive": false,
-   "distinct_sites": 2,
+   "distinct_sites": 3,
    "title_hint": "iPhone Duo vs iPhone 18 Pro: which should you choose?",
    "official_image": null,
    "sources": [
@@ -5333,6 +5530,19 @@
      "id": "43e248b139a4b579",
      "published": "2026-11-01T18:00+00:00",
      "text": "The iPhone Duo is far more versatile than the iPhone Air thanks to its second, tablet-sized screen. But it's also heavier and much more expensive.\nPros\n- Two screens\n- More cameras\n- Better battery life\nCons\n- Far more expensive\n- Heavier\n- No Face ID\nThe iPhone Air is slim, stylish, lightweight, and a much cheaper option than the iPhone Duo, but it can't match Apple's foldable for photography or versatility.\nPros\n- Slim and light\n- Relatively affordable\n- High-quality screen\nCons\n- Only one rear camera\n- Low battery capacity\n- Less powerful\nThe iPhone Duo and iPhone Air are both oddities in Apple’s current smartphone lineup. There’s only one of each, and they meet fundamentally different user needs.\nSure, they're both extremely sleek and slim (assuming we’re talking about the iPhone Duo in its unfolded form), and they share some other similarities. But for the most part, these two iPhones couldn't be more distinct.\nIn this article, then, we’ve compared the iPhone Duo and iPhone Duo in full, to help you decide which model is right for you.\niPhone Duo vs iPhone Air: specs comparison\nThe chart below shows the core specs of both handsets, so you can see at a glance how they compare.\n| Header Cell - Column 0 | iPhone Duo |\niPhone Air |\n|---|---|---|\nDimensions: |\n117.8 x 84.1 x 11.3mm (folded) / 117.8 x 164.6 x 5.2mm (unfolded) |\n156.2 x 74.7 x 5.6mm |\nWeight: |\n254g |\n165g |\nDisplay: |\n7.6-inch Super Retina XDR OLED (foldable) / 5.4-inch Super Retina XDR OLED (cover) |\n6.5-inch Super Retina XDR OLED |\nRefresh rate: |\n1Hz–120Hz |\n1Hz–120Hz |\nPeak brightness: |\n3,000 nits |\n3,000 nits |\nChipset: |\nA20 Pro |\nA19 Pro |\nRAM: |\n12GB |\n12GB |\nRear cameras: |\n48MP main, 48MP ultra-wide |\n48MP main |\nFront camera: |\n12MP cover, 4MP under-display |\n18MP |\nBattery: |\n4,883mAh |\n3,149mAh |\nCharging: |\n50% in 20 minutes |\n50% in 30 minutes |\nStorage: |\n256GB / 512GB / 1TB / 2TB |\n256GB / 512GB / 1TB |\niPhone Duo vs iPhone Air: price and availability\nThe iPhone Duo was announced in September 2026 and began shipping in October, with the phone now widely available globally.\nThe iPhone Air is a bit older, having launched back in September 2025, but with no successor yet available, you can still buy it.\nThe Duo comes in four configurations, with the cheapest being a 256GB option for $1,999 / £1,999 / AU$3,499. Next up, there’s a 512GB version for $2,199 / £2,199 / AU$3,899, with a 1TB model costing $2,599 / £2,599 / AU$4,699, and a 2TB configuration coming in at $3,199 / £3,199 / AU$5,899.\nSign up for breaking news, reviews, opinion, top tech deals, and more.\nThe iPhone Air also starts in a 256GB configuration, costing $1,099 / £1,099 / AU$1,899, while the 512GB model is $1,299 / £1,299 / AU$2,299, and the 1TB version is $1,699 / £1,699 / AU$3,099. There’s no 2TB version of this phone.\nSo, the iPhone Duo’s starting price is some $900 / £900 / AU$1,600 higher than the iPhone Air’s, and to be honest, you're unlikely to need to pay full price for Apple's super slim handset. It's regularly on sale at third-party retailers including Amazon, so the price gap between it and the iPhone Duo is $900 / £900 / AU$1,600 at worst.\nWith the money you’d be saving by buying the Air, you could also buy an iPhone 17 or an iPad Air, which speaks to how expensive Apple's first foldable phone is.\nStorage |\nUS price |\nUK price |\nAU price |\n|---|---|---|---|\n256GB |\n$1,999.99 |\n£1,999 |\nAU$3,499 |\n512GB |\n$2,199 |\n£2,199 |\nAU$3,899 |\n1TB |\n$2,599 |\n£2,599 |\nAU$4,699 |\n2TB |\n$3,199"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEdRaUhXbmw0UjdLRWN2SDA1cXpXVjhBOFo2eDExenVpWFNOY1FjUWFiUFNPc01NdUVHLWk2MFlNcUlnZFA5UEE2dlhkVFJTQUlkaEtSSlhkY3NWRXp2NHRfRUViYzdaclpXVDV0dGtXNDhiM3BvSDdOdHB4Nng0ZXpmTVQxVEhIN0pSSkRnMHVHY2Q0eVpCdnVqX1RzX2xhYk9ib2VMRHBuTE1wWHRVeTcyOHNCeExTLWNHNk1WcWo5UEV0YmdPeg?oc=5",
+     "title": "We've tested the iPhone Duo and iPhone 18 Pro Max — here's the phone you should actually buy",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "0d615a76353e9f8d",
+     "published": "2026-11-01T08:30+00:00",
+     "text": "- We've tested the iPhone Duo and iPhone 18 Pro Max — here's the phone you should actually buy Tom's Guide\n- The iPhone 18 Pro Max Takes an Incredible Design and Just Makes It Faster IGN\n- Apple iPhone 18 Pro vs. iPhone 18 Pro Max GSMArena.com\n- How I \"Upgraded\" to the iPhone 18 Pro Without Buying It Yahoo Tech\n- Is the iPhone 18 Pro better than the iPhone Duo? The answer is complicated TechRadar"
     }
    ]
   },
@@ -6040,212 +6250,6 @@
    ]
   },
   {
-   "id": "c7cc57aed36",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Set Sail for Fortnite Treasure Hunters: The Greatest Adventure of All Time",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Epic Newsroom",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXZINzFYS1ZSdXFfa2FYY0NQdzR5cjlRV2JDU3RNazhFODJMZ0tYakhBSlRNQ2d3Sjg2azktYW1CcXdIdS1zV1VPdUE3VzVWMmlNMXJwa3M2QVFyV0N0MDJHdlNTdDJVOFBCSkgtUDBYb1k0clg1YjF4QmY5RDJzcjhYSHVpZUpqVTdLQ1FZcFdrcjZsdTJHV3E5QmI1ZG9EVm5qUVJlcjVxM2lta1ZoeXlnTFBMNDBZamlZ?oc=5",
-     "title": "Set Sail for Fortnite Treasure Hunters: The Greatest Adventure of All Time",
-     "lang": "en",
-     "extra": {},
-     "id": "7cc57aed36fde4a3",
-     "published": "2026-11-01T05:24+00:00",
-     "text": "Set Sail for Fortnite Treasure Hunters: The Greatest Adventure of All Time\nFortnite Communities"
-    },
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38204750/view/719046160957835616",
-     "title": "All Sprites and abilities in Fortnite Treasure Hunters",
-     "lang": "en",
-     "extra": {},
-     "id": "6d5da972bae38b99",
-     "published": "2026-11-01T14:10+00:00",
-     "text": "Plundarggh Sprite\nGet increased pickaxe and movement speed by opening chests.\nSweet Dreams\nGet a random item drop at each level. Loot value also rises at every level.\nTransponder Snail\nGet extra resource from pickups for yourself and all party members. Amount of bonus resources increases when you level up.\nLil’ Uzi Vert Jr.\nWhen you restore shields, it generates a Chug Splash Effect.\nLil’ Flacko\nKnocks back enemies with a shockwave when you land. The effect increases with every level.\nKepler\nYou’ll restore health when you’re in water.\nExmarks\nRevels location of Wanted Posters and Treasure Maps. Drops an extra Treasure Map at max level.\nChester\nGives boosted chance to drop extra loot from Treasure Chests and eliminates fall damage.\nLil’ Squibbly Sprite\nGives you bonus loot when you jump into fishing hole.\nWayfinder\nReveals nearby sprites and get more items when opening buried chests from all locations.\nHalfpeel’d Sprite\nMarks all eliminations on the map.\nRe-Pete\nRaises the reload speed, and offers a chance to refund ammo.\nBarry O’Fish Sprite\nReduces stamina drain during tactical sprint when you’re in water.\nAll the Sprites also have their respective Cursed and Fortune Sprites that appear with bonus abilities. Plundarggh Sprite\nGet increased pickaxe and movement speed by opening chests.\nReveals nearby chests.\nSweet Dreams\nGet a random item drop at each level. Loot value also rises at every level.\nReveals nearby chests.\nTransponder Snail\nGet extra resource from pickups for yourself and all party members. Amount of bonus resources increases when you level up.\nReveals nearby chests.\nLil’ Uzi Vert Jr.\nWhen you restore shields, it generates a Chug Splash Effect.\nReveals nearby chests.\nLil’ Flacko\nKnocks back enemies with a shockwave when you land. The effect increases with every level.\nReveals nearby chests.\nKepler\nYou’ll restore health when you’re in water.\nReveals nearby chests.\nExmarks\nRevels location of Wanted Posters and Treasure Maps. Drops an extra Treasure Map at max level.\nReveals nearby chests.\nChester\nGives boosted chance to drop extra loot from Treasure Chests and eliminates fall damage.\nReveals nearby chests.\nLil’ Squibbly Sprite\nGives you bonus loot when you jump into fishing hole.\nReveals nearby chests.\nWayfinder\nReveals nearby sprites and get more items when opening buried chests from all locations.\nReveals nearby chests.\nHalfpeel’d Sprite\nMarks all eliminations on the map.\nReveals nearby chests.\nRe-Pete\nRaises the reload speed, and offers a chance to refund ammo.\nReveals nearby chests.\nBarry O’Fish Sprite\nReduces stamina drain during tactical sprint when you’re in water.\nReveals nearby chests."
-    },
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38204750/view/719046160957835618",
-     "title": "All Pirate Chest loot and rewards in Fortnite Treasure Hunters",
-     "lang": "en",
-     "extra": {},
-     "id": "98b1d66aef7160c9",
-     "published": "2026-11-01T14:10+00:00",
-     "text": "Solid Gold A$AP Rocky Gauntlets\nPickaxe\nSolid Gold A$AP Rocky\nOutfit\nPlunder in Paradise\nLoading Screen\nGolden Firework\nSprite Dust\nExtraction Accelerator\nGizmo\nPirate Shop Access (2026)\nItem Shop Token\nPirate Shop Access (2027)\nItem Shop Token\nGolden Llama Crew\nVehicle Decal\nMercedes-AMG G 63 G-Wagon\nVehicle"
-    },
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38204750/view/719046160957835644",
-     "title": "All NPC locations in Fortnite Treasure Hunters (Chapter 7 Mini-Season 1)",
-     "lang": "en",
-     "extra": {},
-     "id": "1fd8f3976aca33c2",
-     "published": "2026-11-01T18:00+00:00",
-     "text": "NPC\nLocation\nServices offered\n1. Charlotte-Sensei\nThe $.$. Rocky. She’s located right by where the ship is docked (not on the ship).\nSupply Specialist and Rift\n2. Buccaneer Brigand Jones\nWindmill Village. Just drop slightly south from where you find the POI’s name on the map.\nHeavy Specialist and Rift\n3. Kawaii Team Leader\nOnly NPC located in the north, you’ll find her at Fortune’s Fort.\nMedic Specialist and Rift\n4. Nami\nWindmill Village. Travel south from the central point of the POI until you reach the beach.\nRift\n5. Zoro\nArlong Park. Travel to the western tip of the map.\nRift\n6. Luffy\nLoguetown. He is one of two NPCs that you’ll find at this location.\nRift\n7. Sanji\nBusy Bay. Located on the eastern part of the southernmost island at the POI.\nRift\n8. Usopp\nSame location as Luffy.\nRift\nAll NPCs can be hired for free, but that’s not all. You’ll also have the chance to acquire all shop items for free (that costs V-Bucks) if you manage to find the"
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-chapter-7-mini-season-pirate-battle-pass-skins-outfits",
-     "title": "All battle pass skins in the Fortnite Chapter 7 mini season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/hvuc5u1amaatzos.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "129c65027beb13a8",
-     "published": "2026-11-01T18:47+00:00",
-     "text": "Fortnite's Chapter 7 mini season, \"Treasure Hunters,\" has kicked off, bringing a smaller battle pass alongside it (as one would expect from a shorter season). This battle pass is full of goodies, including two outfits featuring characters from One Piece and some anime-styled Fortnite characters.\nIn case you were wondering, there are only two One Piece skins as part of this battle pass. If you want the outfits of Luffy, Nami, and the rest of the gang, you'll need to buy them from the shop for V-bucks once they're available.\nIf you're pondering whether you should cop this mini season battle pass, we list out all the currently available outfits and styles below, along with what they look like.\nFortnite Chapter 7 mini season battle pass skins list\nHere's all the skins available as part of the Chapter 7 mini season battle pass:\n- Miss All Sunday (Nico Robin)\n- Kawaii Team Leader\n- Buccaneer Brigand Jones\n- Charlotte-sensei\n- Portgas D. Ace\n- Captain X\nIf you gift or are gifted the battle pass during this mini season, you'll get the Dark Kawaii Team Leader outfit and the matching accessories.\nWe list all the skins with their styles below.\nMiss All Sunday (Nico Robin) skin and styles\nThe Miss All Sunday skin is the outfit you unlock right away when you buy the battle pass.\nMiss All Sunday has two styles:\n- Miss All Sunday: Buy the battle pass (available at level 1).\n- Nico Robin: Claim all page 2 rewards.\nYou can also toggle whether or not she wears her cowboy hat.\nKawaii Team Leader skin and styles\nKawaii Team Leader is available starting at level 10 and has three styles:\n- Kawaii Team Leader: Claim all page 1 rewards.\n- Kigurumi Team Leader: Claim all page 2 rewards.\n- Dark Kawaii Team Leader: Gift the battle pass to a friend, or get a friend to gift you the battle pass.\nAdditionally, you can toggle on her helmet, hood, face mask, and cel shading for the various styles.\nBuccaneer Brigand Jones skin and styles\nBuccaneer Brigand Jones is available starting at level 10 and has three styles:\n- Buccaneer Brigand Jones: Claim all page 1 rewards.\n- Camo Cammodore Jones: Claim all page 2 rewards.\n- Treasure Hunter Jones: Claim all rewards from the battle pass and claim all page 1 bonus rewards.\nCharlotte-sensei skin and styles\nCharlotte-sensei is available starting at level 35 and has two styles:\n- Charlotte-sensei: Claim all page 1 rewards.\n- Crimson Charlotte: Claim all page 2 rewards.\nPortgas D. Ace skin and styles\nPortgas D. Ace is available starting at level 35 and has two styles:\n- Portgas D. Ace: Claim all page 1 rewards.\n- Fiery Ace: Claim all page 2 rewards.\nCaptain X skin and styles\nCaptain X will be available starting on Nov. 21."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities",
-     "title": "All sprites in the Fortnite Chapter 7 mini season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_sprites.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "d6038c405d15da63",
-     "published": "2026-11-01T18:51+00:00",
-     "text": "Sprites have taken over another season with their inclusion in the Fortnite Chapter 7 mini season, \"Treasure Hunters.\" These sprites work functionally the same way as they did in the last seasons: find them around the island, level them up, and extract them to master them. Mastering sprites will unlock different rewards, like sprite dust and cosmetics.\nThe sprites from previous seasons are not usable this season, but you can interact with them in the Sprite Garden game mode, and you can use them as decorative back bling styles (if you mastered the sprite).\nBelow we list the new sprites added as part of the Fortnite Chapter 7 mini season's \"Treasure Hunters\" update.\nAll sprites in the Fortnite Chapter 7 mini season\nThere are quite a few sprites to collect this season, and the bulk of them come in different variants. Just like last season, variants are slightly harder to come by, and they have extra effects:\n- Fortune: Reveals nearby chests.\n- Cursed: Increases your chance of finding rare Sprite variants, but water damages you.\nMore variants will be released as the season progresses.\nBelow, we've listed all the Fortnite Chapter 7 mini season sprites, along with their abilities.\n|\nSprite |\nAbility |\n|---|---|\n|\nHalfpeel'd |\nMarks elims on the map. Detection range grows with each level. |\n|\nRe-Pete |\nFaster reloads with a chance to refund ammo. |\n|\nBarry O'Fish |\nSpend less stamina while sprinting in water. Gain Slap effect at max level. |\n|\nExmarks |\nReveals nearby Treasure Maps and Wanted Posters. Spawns a Treasure Map at max level. |\n|\nPlundarrgh |\nOpen Chests for increased Pickaxe and movement speed. |\n|\nChester |\nMay spawn extra loot from chests and cancels fall damage. |\n|\nWayfinder |\nReveals nearby Sprites and spawns extra loot from Buried Chests. |\n|\nKelper |\nRestores health over time while in water. Bigger heals with each level. |\n|\nLil' Squibbly |\nJump into fishing holes to catch fish and score bonus loot. |\n|\nLil’ Flacko |\nCreates a small shockwave on landing, knocking back opponents. |\n|\nSweet Dreams |\nDream Sprite’s distant cousin. Grants a random item with each level-up, bursting with Mythic loot at max level. |\nTable images: Epic Games"
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-chapter-7-mini-season-map-weapons-loot-pool-poi",
-     "title": "All map and weapon loot pool changes in the Fortnite Chapter 7 mini season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fortnite-treasure-hunters-key-art_en.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "630e83d542bcf57a",
-     "published": "2026-11-01T18:55+00:00",
-     "text": "The Fortnite Chapter 7 mini season, titled \"Treasure Hunters,\" puts you on an island with several warring pirate crews. There's new map POIs, weapons, and items waiting as your treasure to claim as characters like Kasane Teto and Monkey D. Luffy make their Fortnite debuts.\nHere's everything new in the Fortnite Chapter 7 mini season, including the map, weapon loot pool, and more.\nFortnite Chapter 7 mini season map and POIs\nThis Fortnite mini season has dramatically changed the map. It features less POIs, but there's still a lot to explore. Here are the POIs for this mini season:\n- Rubber Resort\n- The Chest\n- Arlong Park\n- Windmill Village\n- Loot Lagoon\n- Lantern Landing\n- Loguetown\n- Lil' Uzi's Stronghold\n- Cursed Cavern\n- The $.$. Rocky\n- Busy Bay\n- Plunder Port\nFortnite Chapter 7 Season 4 weapons and items\nThis mini season also has quite a few new items based on the One Piece crew and from A$AP Rocky's own stash.\n- Zoro’s Three Sword Style: Wield three katanas at once. Slash through close encounters and dash in to keep the pressure on.\n- A$AP Rocky’s Shock Rocket: Take the high ground. Use its Shock Rock charges to get airborne, then rain rockets down on anyone below. Available in non-Competitive play.\n- Usopp’s Slingshot: Pull back, line up your target, and let fly. Heavy rounds make this slingshot a marksman’s best friend.\n- Bundlebuss Repeater Rifle: Send a volley of bullets downrange. This fully automatic, fast-firing rifle is at its best at medium range.\n- Gilded Dragoon Shotgun: Make one good blast count. This single-fire shotgun trades mag size for big damage.\nThese guns have also been unvaulted:\n- Sentinel Pump Shotgun\n- Auto Shotgun\n- Flint-Knock Pistol\n- Sidearm Pistol\n- Machine SMG\n- Tactical SMG\n- Hammer Assault Rifle\nAnd these are the new items available right away:\n- Gum-Gum Fruit: Transform into Luffy and stretch into battle. Throw long-range rubber punches, foot slams or charge up and send yourself flying.\n- Flame-Flame Fruit: Become Ace and turn up the heat. Pepper the competition with rapid shots, then finish with a Fire Fist.\n- Explosive Cannon Ball: A big explosive cannon ball you can throw at your opponents or load into a Cannon. Available in non-Competitive play.\n- Nami’s Tangerine: Restore health and shields while getting a boost when moving through water. A little vitamin C goes a long way!\n- Meat on a Stick: Take a bite to heal up and keep healing for a short while after. Nothing like it to keep you going.\n- Wanted Poster: Spot one on a wall and tear it down - it turns into a Sprite Treasure Map that leads you to a buried Sprite Chest.\nAdditionally, these items have also been unvaulted:\n- Zipline Deployer\n- Overdrive Grenade\n- Slurp Juice\n- Shield Fish\n- Jellyfish\n- Slurpfish\n- Hop Flopper\n- Spicy Fish\nWhat else is new in the Fortnite Chapter 7 mini season?\nAs you take to the seas in this season, you'll notice that this mini season hosts a mini island. With that in mind, there'll only be 80 players in each match, rather than the usual 100.\nThe biggest news of this season is the inclusion of the Pirate Shop Token, which grants you full access to the shop for two weeks, allowing you to pick up any cosmetics you want for free. You'll have to be both a lucky player and an expert pirate to find this item in chests, but definitely keep your eyes peeled and crack open any chests you see.\nThe new content for this season will roll out on a weekly basis, with Lil Uzi Vert debuting on Nov. 7, Hatsune Miku and Kasane Teto "
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations",
-     "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_mapfragment0.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "4a3678b24f9485c8",
-     "published": "2026-11-01T20:11+00:00",
-     "text": "Fortnite's Chapter 7 mini season, \"Treasure Hunters,\" has added a new collectible to find throughout the season: map fragments. These map fragments will be added periodically during the season, and you'll get a special reward for finding them all.\nFinding all six map fragments (which will be added throughout the season in updates) will unlock the \"X Marks the Zero Point Sliver\" loading screen.\nBelow, we list where to find all of the map fragments available so far in Fortnite Chapter 7's mini season.\nMap fragment #1 location in Fortnite\nThe first map fragment, made available on Nov. 1, is at The $.$. Rocky:\nAs you get closer to the ship, you should see the usual exclamation-point-inside-a-diamond shape on your screen, pointing you where to go. The map itself is just sitting on the floor of the ship, on the bottom-most floor at the tip of the ship. If you're having a hard time finding stairs to this area, you can break the ship walls on the outside to get in.\nWe'll update this guide as more map fragments get added to the game."
-    }
-   ]
-  },
-  {
-   "id": "ca3e6e43d61",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
-   "official_image": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
-   "sources": [
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master",
-     "title": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
-     "lang": "en",
-     "extra": {
-      "image": "https://images.nintendolife.com/fa666ebd7149e/large.jpg",
-      "page_image": "https://images.nintendolife.com/fa666ebd7149e/1280x720.jpg"
-     },
-     "id": "a3e6e43d619845f8",
-     "published": "2026-11-01T08:00+00:00",
-     "text": "Capcom continues to build excitement for Mega Man: Dual Override, and following the official reveal of Tank Man earlier this week, it's now lifted the lid on Cook Man.\nHe is one of the many Robot Masters coming to the game. This master chef is ready to slice and dice Proto Man and the Blue Bomber when his game launches on the Switch 1 & 2 in 2027.\nHere's an official description, and you can see this robot master in action in the video above (courtesy of Rockman Corner):\nA wandering chef seeking recognition for his culinary prowess, Cook Man prepares to slice and dice our heroes with his Kung Fu Cooking style in Mega Man: Dual Override.\nCan you take the heat, or will you get out of his kitchen?\nIf you're not familiar with Mega Man, these Robot Masters will pop up at the end of each stage and attempt to stop Mega Man and Proto Man in their tracks.\nOnce again, Cook Man will join Tank Man, Twinkle Girl and Jet Man, with more Robot Master reveals on the way."
-    }
-   ]
-  },
-  {
-   "id": "c85e216bdfc",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "How to access the Pirate Shop and get Tokens in Fortnite",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38204750/view/719046160957835605",
-     "title": "How to access the Pirate Shop and get Tokens in Fortnite",
-     "lang": "en",
-     "extra": {},
-     "id": "a6e7d10f3b05f9e9",
-     "published": "2026-11-01T12:30+00:00",
-     "text": "One of the biggest features of the Treasure Hunters season in Fortnite is now live, and we can finally access the Pirate Shop. While it might look like the standard shop, there’s a key difference: everything you find inside is available for free. That’s right, you can pick anything you want without any additional resources.\nBut first, you’ll need to get access to the shop.\nTable of contents\nhttps://embeds.beehiiv.com/a8d62108-86ed-4039-bf49-44877ba62c15 How to access the Pirate Shop in Fortnite Treasure Hunters\nThe Pirate Shop can be obtained between Nov. 1 and Dec. 5, throughout the course of the season. Any item you find inside that requires you to spend V-Bucks can be obtained for free. To gain access, you’ll need to find Pirate Shop Tokens.\nThese are special tokens that are of two types. One of them allows you to activate anytime between now and Dec. 15 of this year. The other one can be activated anything between Jan. 1 and Dec. 15 of next year.\nImage via Epic Games Once you activate a token, you have 14 days to claim everything you can find in the Item Shop. Only bundles and items that cost real-life money will be an exception to this rule, but it’s still a wonderful opportunity.\nHow to get Pirate Shop Tokens in Fortnite Treasure Hunters\nTo find these valuable tokens, you’ll need to watch out for special chests. These chests don’t have fixed locations, and their odds appear to be quite low. Once you manage to find one, open them. If you’re lucky, you’ll receive access to the Pirate Shop as a treasure.\nIf you’re playing as a squad, you just need to find one treasure. Access will be granted to all members of a squad as long as one of them has managed to get the tokens. This also incentivizes you to play the season in squads since you’ll have higher chances (theoretically).\nThe post How to access the Pirate Shop and get Tokens in Fortnite appeared first on Destructoid."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-pirate-item-shop-access-token-free-how-to-get",
-     "title": "New Fortnite Item Makes Everything on the Item Shop Completely Free",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fortnite-one-piece-collab.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "f2d79b3d27059d45",
-     "published": "2026-11-01T15:14+00:00",
-     "text": "Fortnite Treasure Hunters is here at last. This season is all about pirates and plundering treasure. Players can look the part using the Straw Hat Pirates skins from One Piece. It can get expensive to purchase cosmetics in Fortnite, but this season, there's an in-game item that makes everything in the Item Shop free. It almost sounds too good to be true, but it's real, and it's out there on the Battle Royale island.\nOne Piece was the perfect crossover for this year's mini-season, as Fortnite Treasure Hunters is all about anime and pirates. The Battle Pass features Ace and Robin, but there are more skins to collect in the Item Shop. The first released bundle includes Luffy, Nami, and Usopp, and it costs 4,000 V-Bucks, about $30. It's already quite expensive, and the number of One Piece skins in the shop will only grow as the season continues. Thankfully, Epic Games has introduced the Pirate Shop Access token, an item that grants players everything in the shop for free.\nHow to get the Pirate Shop Access token in Fortnite and how it works\nThis season, there are Treasure-Hunt chests in Fortnite. These special loot containers grant a free gizmo, a cosmetic item, or a token. The Pirate Shop Access token is a rare reward that can be found in these chests. If players are lucky enough to get it, the entire team will be able to plunder the Item Shop for two weeks, meaning that during this window of time, they can claim every item for free. This means they can get the One Piece bundle and any other skin, emote, or jam track in the shop. Exceptions include sidekicks that have already been purchased once and real-money purchases, such as special bundles and the Fortnite Crew.\nThe Pirate Shop Access token can be activated twice: once before Dec. 15, and once again in 2027. The effect lasts two weeks, so players must choose the right time. Once an item has been claimed, it is added to the player's locker permanently, even after the token expires.\nAlthough the Pirate Shop Access token is rare, there are ways to increase your chances of finding it. Since this item is shared among a team, playing Squads increases search efficiency, thanks to the extra pairs of hands. Visiting named locations with a higher loot concentration increases your chances of coming across Treasure-Hunt chests. Treasure Hours will begin next Sunday and are rumored to increase the spawn rate of the Pirate Shop Access token.\nThere are other items that can be found inside the Treasure-Hunt chests, and they change weekly. For Week 1 of the season, players have the chance to find the Solid Gold A$AP Rocky skin. Next week, the chests may contain the Solid Gold Lil Uzi Vert skin instead."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get",
-     "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/treasure-chest_fn.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "2db211a17fef7501",
-     "published": "2026-11-01T20:18+00:00",
-     "text": "The Pirate Shop Access Token is a new item introduced in the Fortnite Chapter 7 mini season, and it allows you to get anything from the Shop for free for a 14-day period.\nAnything sold for V-Bucks in the Fortnite item shop can be claimed for free, meaning any outfit, pickaxe, back bling, sidekick, kicks, and more are yours to have forever. The item is too good to be true, so of course, it's extremely difficult to get your hands on.\nHere's how to get the Pirate Shop Token in Fortnite Chapter 7 mini season.\nHow to get the Pirate Shop Token in Fortnite Chapter 7 mini season\nThe process of getting the Pirate Shop Token is just like every other item in Fortnite, you need to open a treasure chest. Regular chests have been transformed into treasure chests in the mini season, so you don't need to be on the hunt for anything special. However, when you open a treasure chest, you have a small chance of finding special loot for yourself and everyone in your party. In most cases, your special loot will be a gizmo, like the Sprite Locator or the Portable Extractor. For the lucky few, your special loot will be a Pirate Shop Access Token.\nIn the tweet above from user Snowslept, you'll see that the chest will have a unique animation featuring a gold explosion, and a banner will appear on your screen saying that you found pirate shop access. You'll gain two Pirate Shop Access Tokens, one for 2026 and the other for 2027. When you activate the token, you'll have 14 days to claim anything from the Fortnite item shop for free. Essentially, any cosmetic is yours for the taking, but you can only claim sidekicks once. The only things you cannot purchase are real money offers (like V-Bucks and bundles), gifts, and pass levels/rewards.\nIf you're hunting for the Pirate Shop Access token, your best bet is to land in any of the following locations:\n- Arlong Park\n- Lantern Landing\n- Rubber Resort\n- Fortune's Fort\n- Loguetown\n- Plunder Port\n- Busy Bay\nWe personally recommend landing at Arlong Park or Lantern Landing as they're fairly close to one another, and you can quickly make your way down to Windmill Village and Loguetown. If you're quick, you can open upwards of 50 chests a game."
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQallhSDVqbEZiTFRuLXc4dkM1LUtfUkFKY0NxSTlLMlV0TVlUa0VJWXdTUm90OFF3TGJtZ1owbmg3RHdZUXJJa25NR29TZlVUcUotcFhKY01HNkdRcGRodlk1VC1xNThuNHUwS3MtdVRBSDNZQTdDZ3lCU0ZHOWk1aU5KLU9XbGN4d1l6Q3RxNEpLZw?oc=5",
-     "title": "Fortnite Players Can Get Item Shop Skins For Free with the Pirate Shop Token",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "85e216bdfc5cf05e",
-     "published": "2026-11-01T10:07+00:00",
-     "text": "- Fortnite Players Can Get Item Shop Skins For Free with the Pirate Shop Token GameRant\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- ‘Fortnite’ Treasure Chest Prize Lets You Get Every Store Item For Free Forbes\n- Fortnite is giving free skins if you win big: How to access the Pirate Shop Yahoo Tech\n- Fortnite's rare Pirate Shop: free Item Shop cosmetics for 14 days games.gg"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aYmtEWUtjc2JpTklCaXQzcURYNHlpektTU2N0NE9zQWpGc2hwOHhHUnZMVWZYZ1ZuQ2IzSFczTFlLYWQ1Zm5wT2lualhpODBGR092cTlpZTRoQdIBX0FVX3lxTE9pNG5qT293Y3NOMEtjM3JVbmJNbG1uM0ZrTUhJRmdPQ290QnlBOEJlOWthNnpvakRqQVJWSXk2Vk5vYV91UUJOX3JfZmtUbW54ZU50VmktSzIwOEUxZVQw?oc=5",
-     "title": "Fortnite Pirate Shop Explained: How to Unlock Access and Get Free Items",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "029d2eed83eeec5e",
-     "published": "2026-11-01T10:44+00:00",
-     "text": "- Fortnite Pirate Shop Explained: How to Unlock Access and Get Free Items Beebom\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- Fortnite is giving free skins if you win big: How to access the Pirate Shop Yahoo Tech\n- New Fortnite Item Makes Everything on the Item Shop Completely Free Polygon.com\n- Fortnite Pirate Shop Token Explained - Big Giveaway Hotspawn"
-    }
-   ]
-  },
-  {
    "id": "c16cbea706f",
    "kind": "free",
    "score": 9.5,
@@ -6428,15 +6432,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-01/22",
+     "url": "https://market.local/crypto/2026-11-01/23",
      "title": "Market snapshot crypto 2026-11-01",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T22:37+00:00",
-     "text": "Bitcoin: $77,683 (+0.2% 24h)\nEthereum: $2,257 (-0.1% 24h)\nSolana: $93.63 (-2.3% 24h)\nToncoin: $1.21 (+0.7% 24h)"
+     "published": "2026-11-01T23:08+00:00",
+     "text": "Bitcoin: $77,826 (+0.5% 24h)\nEthereum: $2,262 (+0.4% 24h)\nSolana: $93.76 (-1.8% 24h)\nToncoin: $1.21 (+0.9% 24h)"
     }
    ]
   },
