@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T21:07:34+00:00",
+ "generated_at": "2026-11-01T21:40:23+00:00",
  "clusters": [
   {
    "id": "cb8087c5f39",
@@ -911,6 +911,100 @@
    ]
   },
   {
+   "id": "c2953c1a7a8",
+   "kind": "news",
+   "score": 21.0,
+   "sensitive": true,
+   "distinct_sites": 7,
+   "title_hint": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+     "lang": "en",
+     "extra": {},
+     "id": "2953c1a7a88a4714",
+     "published": "2026-11-01T18:00+00:00",
+     "text": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.\n(Image credit: Alex Brandon)"
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
+     "title": "US judge dismisses Trump election lawsuit in Alaska",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "b5b3a883ba457a8c",
+     "published": "2026-11-01T18:29+00:00",
+     "text": "US judge dismisses Trump election lawsuit in Alaska\nReuters"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
+     "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20220913__1423463527__v2__HighRes__PelosiHoldsCeremonialSwearingInForMembersEle-2-1786989788.jpg?resize=1200%2C630"
+     },
+     "id": "7dcc0c21672cab64",
+     "published": "2026-11-01T18:37+00:00",
+     "text": "Republican Senator Dan S. Sullivan has vowed to accept the election outcome days after the United States Department of Justice filed a lawsuit seeking to decertify the results of the upcoming US Senate race there if the Republican incumbent loses.\n“I’m going to accept the election results,” Sullivan, an ally of US President Donald Trump, told CNN on Sunday.\nRecommended Stories\nlist of 4 items- list 1 of 4US Attorney General Todd Blanche defends Alaska Senate election lawsuit\n- list 2 of 4‘If they’re honest’: Trump casts latest suspicion on US midterm elections\n- list 3 of 4Republican governor of Alaska orders investigation into ‘spoiler candidate’\n- list 4 of 4Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?\nSullivan’s promise comes just two days before the November 3 midterm election, which will determine control of the US Congress.\nHe said he was confident of winning, accusing his Democratic opponent Mary Peltola, who is attempting to unseat him, of cheating.\n“My opponent and [Senate Minority Leader Chuck] Schumer and his aides are showing complete disrespect for Alaskans, complete disdain in recognising that they couldn’t run on their record, so they had to cheat. And now that that’s been exposed,” he said.\nA New York Times report on Wednesday alleged that members of Peltola’s campaign helped recruit a retired teacher named Dan J Sullivan Jr to run for the Senate seat as a spoiler candidate in an attempt to draw votes away from Senator Sullivan.\nThe report seems to have prompted the Trump administration’s renewed legal push to bar Alaska from certifying its election results, should Senator Sullivan lose.\nOn Sunday, US District Court Judge Sharon Gleason dismissed the lawsuit, citing it as “infeasible” because many voters had already cast their ballots and the ballots have now been commingled to the point where the identity of each voter cannot be determined.\n“More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified “investigation” of those ballots in a manner that would preserve voter secrecy,” she wrote.\nThe second Sullivan is listed on the ballot as Daniel J Sullivan Jr, while the senator is listed as Dan S Sullivan and marked as a Republican incumbent.\nPeltola has insisted she had nothing to do with recruiting the other Sullivan and has called attention to it a “distraction” from the main issues facing Alaskans — namely, high prices caused by US-Israel war on Iran. Her campaign has also denied involvement.\nBefore a rally on Friday, Peltola was asked whether someone on her campaign could have been involved in recruiting the other Sullivan. “I have no idea,” she told KTUU. “I honestly have no idea.”\nSenator Sullivan doubted Peltola’s claims.\n“There is no way this went on for a year that they weren’t informing her,” Sullivan told the CNN news programme State of the Union. “She got caught lying, and she’s still lying to the Alaskan people, the media, to all of us.”\nAlaska’s Senate race is one of seven key toss-ups that will likely decide whether Republicans keep their majority in the US Congress’s upper chamber.\nBoth candidates have spent the final days campaigning through Alaska’s vast landscape.\nOn Saturday night, Senator Sullivan handed out candy at a “trunk-or-treat” event at a recreation centre north of Anchorage, where he quipped his costume was “the real Dan Sulliva"
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838",
+     "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
+     "lang": "en",
+     "extra": {},
+     "id": "ea619852ed254619",
+     "published": "2026-11-01T19:03+00:00",
+     "text": "A federal judge in Alaska dismissed the Trump’s civil lawsuit against the state, which sought to separate and preserve certain ballots in the state’s upcoming Senate election"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan",
+     "title": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/3375f8fe-9dad-415e-8815-649c695c1025/thumbnail/1200x630/c1c6754a2d2ec1db4685058b876cdbe8/ap26305115849912.jpg"
+     },
+     "id": "9a607f982e3964ea",
+     "published": "2026-11-01T19:04+00:00",
+     "text": "A federal judge in Alaska has thrown out the Trump administration's lawsuit seeking to\nof the state's Senate election results in this week's midterm elections if the Republican incumbent Sen. Dan Sullivan loses.U.S. District Judge Sharon L. Gleason wrote in a 20-page order Sunday that the Justice Department did not have proper legal standing to bring the last week. The suit asked Gleason to block the state's election results from being certified because a teacher named Daniel J. Sullivan is also on the state's ballot, alleging that his candidacy deliberately sought to confuse voters by running with the same ballot name and party affiliation as the state's incumbent senator.\nThe Justice Department argued that Daniel J. Sullivan's name on the ballot potentially diverted voters, and the Democrat running in the race, Mary Peltola, would benefit as a result.\nGleason said she could not grant the injunction that the Trump administration sought \"because the United States has failed to establish the redressability prerequisite for Article III standing.\"\n\"More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified 'investigation' of those ballots in a manner that would preserve voter secrecy,\" Gleason wrote, adding that the Justice Department \"failed to satisfy its burden to show that its alleged injury is redressable by a court order.\"\nA Justice Department spokesperson did not immediately respond to a request for comment.\nThe suit, which argues Sullivan's candidacy violates the National Voter Registration Act, was amended on Thursday to include recent reporting by The New York Times on alleged efforts by people associated with Peltola's campaign to find candidates who could draw votes away from the Republican senator. It included a second claim for relief, arguing the court needs to intervene under the Constitution's Supremacy Clause in order to allow the government to enforce the law and prevent a \"conspiracy.\"\nPeltola's campaign responded to the Times story by saying the campaign \"has no involvement with either Sullivan campaign.\"\n\"I am not interested in tricking voters,\" Peltola said during a recent campaign event.\nSen. Sullivan on Sunday told CNN's \"State of the Union\" that he thought the presence of a second Sullivan on the ballot would impact the election, saying: \"I'm sure I'm going to lose a lot of votes to that trickery.\"\nHe also said he doubted Peltola's claims that she had no idea her top political aides were involved in recruiting Dan J. Sullivan to run as a way to confuse voters.\n\"There is no way this went on for a year that they weren't informing her,\" Sullivan said. \"She got caught lying, and she's still lying to the Alaskan people, the media, to all of us.\"\nIn addition to the civil lawsuit, the Justice Department is also criminally investigating an alleged plot to add Daniel J. Sullivan to the state's ballot and has issued subpoenas targeting several Democratic officials believed to be tied to the effort to recruit him to appear on Alaska's ballot. Nobody in the race has been charged with a crime."
+    },
+    {
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://newsweek.com/judge-trump-alaska-senate-election-dan-sullivan-12647199",
+     "title": "Trump Bid to Block Alaska Senate Results Rejected by Obama-Appointed Judge",
+     "lang": "en",
+     "extra": {},
+     "id": "c1e4c99c84ca9537",
+     "published": "2026-11-01T20:55+00:00",
+     "text": "An Obama-appointed judge rejected Trump’s bid to block Alaska Senate results if Republican Dan Sullivan loses."
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/9d17dcda519b",
+     "title": "US court dismisses Trump administration lawsuit seeking to halt Alaska Senate certification",
+     "lang": "en",
+     "extra": {},
+     "id": "191edd0339087eff",
+     "published": "2026-11-01T21:24+00:00",
+     "text": "Trump administration seeks to delay results if Republican incumbent Dan Sullivan loses to Democrat Mary Peltola."
+    }
+   ]
+  },
+  {
    "id": "cdc879ed06a",
    "kind": "news",
    "score": 20.0,
@@ -1407,89 +1501,6 @@
    ]
   },
   {
-   "id": "c2953c1a7a8",
-   "kind": "news",
-   "score": 19.0,
-   "sensitive": true,
-   "distinct_sites": 6,
-   "title_hint": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
-     "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-     "lang": "en",
-     "extra": {},
-     "id": "2953c1a7a88a4714",
-     "published": "2026-11-01T18:00+00:00",
-     "text": "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost.\n(Image credit: Alex Brandon)"
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPck1iY1RiSVI0MWpxbGhyZzlYWm9PeGh6WXJnYTVIX0VqTS1UbGpTQUh0WkFxbUpFdlNsbmJCUzg0bENnWmtEUjcxUWxTbmIzMzlKUGdXNGFidFl0Nk10a29rYVlVUkdLRVM2TUtBU0NRcTlXUS0xSjhmOTRZNWVjUW1yMVVIOHh4QnFLTEFiQWZyRWNsSVE?oc=5",
-     "title": "US judge dismisses Trump election lawsuit in Alaska",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "b5b3a883ba457a8c",
-     "published": "2026-11-01T18:29+00:00",
-     "text": "US judge dismisses Trump election lawsuit in Alaska\nReuters"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit?traffic_source=rss",
-     "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20220913__1423463527__v2__HighRes__PelosiHoldsCeremonialSwearingInForMembersEle-2-1786989788.jpg?resize=1200%2C630"
-     },
-     "id": "7dcc0c21672cab64",
-     "published": "2026-11-01T18:37+00:00",
-     "text": "Republican Senator Dan S. Sullivan has vowed to accept the election outcome days after the United States Department of Justice filed a lawsuit seeking to decertify the results of the upcoming US Senate race there if the Republican incumbent loses.\n“I’m going to accept the election results,” Sullivan, an ally of US President Donald Trump, told CNN on Sunday.\nRecommended Stories\nlist of 4 items- list 1 of 4US Attorney General Todd Blanche defends Alaska Senate election lawsuit\n- list 2 of 4‘If they’re honest’: Trump casts latest suspicion on US midterm elections\n- list 3 of 4Republican governor of Alaska orders investigation into ‘spoiler candidate’\n- list 4 of 4Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?\nSullivan’s promise comes just two days before the November 3 midterm election, which will determine control of the US Congress.\nHe said he was confident of winning, accusing his Democratic opponent Mary Peltola, who is attempting to unseat him, of cheating.\n“My opponent and [Senate Minority Leader Chuck] Schumer and his aides are showing complete disrespect for Alaskans, complete disdain in recognising that they couldn’t run on their record, so they had to cheat. And now that that’s been exposed,” he said.\nA New York Times report on Wednesday alleged that members of Peltola’s campaign helped recruit a retired teacher named Dan J Sullivan Jr to run for the Senate seat as a spoiler candidate in an attempt to draw votes away from Senator Sullivan.\nThe report seems to have prompted the Trump administration’s renewed legal push to bar Alaska from certifying its election results, should Senator Sullivan lose.\nOn Sunday, US District Court Judge Sharon Gleason dismissed the lawsuit, citing it as “infeasible” because many voters had already cast their ballots and the ballots have now been commingled to the point where the identity of each voter cannot be determined.\n“More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified “investigation” of those ballots in a manner that would preserve voter secrecy,” she wrote.\nThe second Sullivan is listed on the ballot as Daniel J Sullivan Jr, while the senator is listed as Dan S Sullivan and marked as a Republican incumbent.\nPeltola has insisted she had nothing to do with recruiting the other Sullivan and has called attention to it a “distraction” from the main issues facing Alaskans — namely, high prices caused by US-Israel war on Iran. Her campaign has also denied involvement.\nBefore a rally on Friday, Peltola was asked whether someone on her campaign could have been involved in recruiting the other Sullivan. “I have no idea,” she told KTUU. “I honestly have no idea.”\nSenator Sullivan doubted Peltola’s claims.\n“There is no way this went on for a year that they weren’t informing her,” Sullivan told the CNN news programme State of the Union. “She got caught lying, and she’s still lying to the Alaskan people, the media, to all of us.”\nAlaska’s Senate race is one of seven key toss-ups that will likely decide whether Republicans keep their majority in the US Congress’s upper chamber.\nBoth candidates have spent the final days campaigning through Alaska’s vast landscape.\nOn Saturday night, Senator Sullivan handed out candy at a “trunk-or-treat” event at a recreation centre north of Anchorage, where he quipped his costume was “the real Dan Sulliva"
-    },
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/2026-election/federal-judge-dismisses-trump-attempt-ballots-alaska-senate-race-rcna606838",
-     "title": "Federal judge dismisses Trump attempt to interfere in Alaska Senate race",
-     "lang": "en",
-     "extra": {},
-     "id": "ea619852ed254619",
-     "published": "2026-11-01T19:03+00:00",
-     "text": "A federal judge in Alaska dismissed the Trump’s civil lawsuit against the state, which sought to separate and preserve certain ballots in the state’s upcoming Senate election"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan",
-     "title": "Judge tosses lawsuit seeking to delay certification of Alaska Senate race",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/01/3375f8fe-9dad-415e-8815-649c695c1025/thumbnail/1200x630/c1c6754a2d2ec1db4685058b876cdbe8/ap26305115849912.jpg"
-     },
-     "id": "9a607f982e3964ea",
-     "published": "2026-11-01T19:04+00:00",
-     "text": "A federal judge in Alaska has thrown out the Trump administration's lawsuit seeking to\nof the state's Senate election results in this week's midterm elections if the Republican incumbent Sen. Dan Sullivan loses.U.S. District Judge Sharon L. Gleason wrote in a 20-page order Sunday that the Justice Department did not have proper legal standing to bring the last week. The suit asked Gleason to block the state's election results from being certified because a teacher named Daniel J. Sullivan is also on the state's ballot, alleging that his candidacy deliberately sought to confuse voters by running with the same ballot name and party affiliation as the state's incumbent senator.\nThe Justice Department argued that Daniel J. Sullivan's name on the ballot potentially diverted voters, and the Democrat running in the race, Mary Peltola, would benefit as a result.\nGleason said she could not grant the injunction that the Trump administration sought \"because the United States has failed to establish the redressability prerequisite for Article III standing.\"\n\"More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified 'investigation' of those ballots in a manner that would preserve voter secrecy,\" Gleason wrote, adding that the Justice Department \"failed to satisfy its burden to show that its alleged injury is redressable by a court order.\"\nA Justice Department spokesperson did not immediately respond to a request for comment.\nThe suit, which argues Sullivan's candidacy violates the National Voter Registration Act, was amended on Thursday to include recent reporting by The New York Times on alleged efforts by people associated with Peltola's campaign to find candidates who could draw votes away from the Republican senator. It included a second claim for relief, arguing the court needs to intervene under the Constitution's Supremacy Clause in order to allow the government to enforce the law and prevent a \"conspiracy.\"\nPeltola's campaign responded to the Times story by saying the campaign \"has no involvement with either Sullivan campaign.\"\n\"I am not interested in tricking voters,\" Peltola said during a recent campaign event.\nSen. Sullivan on Sunday told CNN's \"State of the Union\" that he thought the presence of a second Sullivan on the ballot would impact the election, saying: \"I'm sure I'm going to lose a lot of votes to that trickery.\"\nHe also said he doubted Peltola's claims that she had no idea her top political aides were involved in recruiting Dan J. Sullivan to run as a way to confuse voters.\n\"There is no way this went on for a year that they weren't informing her,\" Sullivan said. \"She got caught lying, and she's still lying to the Alaskan people, the media, to all of us.\"\nIn addition to the civil lawsuit, the Justice Department is also criminally investigating an alleged plot to add Daniel J. Sullivan to the state's ballot and has issued subpoenas targeting several Democratic officials believed to be tied to the effort to recruit him to appear on Alaska's ballot. Nobody in the race has been charged with a crime."
-    },
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://newsweek.com/judge-trump-alaska-senate-election-dan-sullivan-12647199",
-     "title": "Trump Bid to Block Alaska Senate Results Rejected by Obama-Appointed Judge",
-     "lang": "en",
-     "extra": {},
-     "id": "c1e4c99c84ca9537",
-     "published": "2026-11-01T20:55+00:00",
-     "text": "An Obama-appointed judge rejected Trump’s bid to block Alaska Senate results if Republican Dan Sullivan loses."
-    }
-   ]
-  },
-  {
    "id": "cd15b79a959",
    "kind": "news",
    "score": 18.5,
@@ -1678,6 +1689,113 @@
      "id": "9d891301ee206f8f",
      "published": "2026-11-01T15:58+00:00",
      "text": "- Box Office: ‘You Can See Everything’ and ‘Clayface’ Battle for No. 1 With $10.5 Million in Sleepy Halloween Weekend Variety\n- Box Office: 'You Can See Everything' & 'Clayface' In Staring Contest Deadline\n- Weekend Preview: YOU CAN SEE EVERYTHING Looking to Claim Top Spot Over Quiet Halloween Frame Boxoffice Pro\n- Connecting with “Clayface” DC Comics\n- It's Only Been 8 Days, but New 108-Minute Thriller is Already Dominating the Box Office in 3,400 Theaters MovieWeb"
+    }
+   ]
+  },
+  {
+   "id": "ce871959dc9",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": false,
+   "distinct_sites": 7,
+   "title_hint": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFRBVkdFd1REUGNsaWd3Z2lRUzVQdEwtczZmOUtvZHBiWmVmSkUyMGdURWVNSV9SbV9Oa0hPRW5iV0hXS2JtN1JIYTdqcjJBeXJzOVpGSTYtYVNFM3FHUVdDSU9TcnpoNVF0XzNPTVVsclNPa3JabVlEVEZVbEFYdnA4U1Z1YWxSQ2lkU01lM0YwbHd4dWxqRjNodV8tUDUxWmk3MGxFMHVNLVFRV1FWaWVVUQ?oc=5",
+     "title": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "e871959dc9e33530",
+     "published": "2026-11-01T17:47+00:00",
+     "text": "Democratic Senator Murphy hospitalized after stroke, chief of staff says\nReuters"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/chris-murphy-stroke-hospitalized",
+     "title": "Sen. Chris Murphy hospitalized following stroke",
+     "lang": "en",
+     "extra": {},
+     "id": "df3769b1fe0650fd",
+     "published": "2026-11-01T17:52+00:00",
+     "text": "Democratic Sen. Chris Murphy of Connecticut was hospitalized on Saturday after experiencing a stroke, his office said."
+    },
+    {
+     "source": "Washington Post Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZC1FLW8wYndWZjJyYl9IbTZLY3IxdzZEU1dodVA5eWR2WndWQUg1dnU0WnFlWjdsRUVOR08wNmtCbjhnb0s3Q0VxZFRTTm1jNk4yYjF5X1h6T2g1NzgzaEZwbzk1NUlzd3MyekdiQ2s1ZmlQTDE5VlNtM0N0NXk3X1NBdkdDU1FfbWkyM3ROLWdTUQ?oc=5",
+     "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "a406e45528f27a96",
+     "published": "2026-11-01T17:57+00:00",
+     "text": "Sen. Chris Murphy hospitalized for stroke, his office says\nThe Washington Post"
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/congress/chris-murphy-hospitalized-stroke-recovery-rcna606834",
+     "title": "Sen. Chris Murphy hospitalized after stroke",
+     "lang": "en",
+     "extra": {},
+     "id": "bfec9c70d9540a83",
+     "published": "2026-11-01T18:01+00:00",
+     "text": "Sen. Chris Murphy, D-Conn., was hospitalized Saturday after a stroke, a spokesperson for the senator said Sunday."
+    },
+    {
+     "source": "ABC News",
+     "trust": 2,
+     "url": "https://abcnews.com/Politics/sen-chris-murphy-hospitalized-after-suffering-stroke-chief/story?id=137751743",
+     "title": "Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i.abcnewsfe.com/a/9bc5dddf-9664-44ff-95b7-5c2406e0aaed/chris-murphy-abc-jm-250209_1739113572108_hpMain_16x9.jpg?w=1600"
+     },
+     "id": "e9ffefb028c3c3e3",
+     "published": "2026-11-01T18:28+00:00",
+     "text": "Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says\n\"We are optimistic he will make a full recovery,\" Murphy's chief of staff said.\nU.S. Sen. Chris Murphy has been hospitalized after suffering a stroke, his chief of staff said in a statement on Sunday.\nThe 53-year-old Democrat was taken to a hospital on Saturday after he started to feel numbness in his arm while attending his son's hockey game, said Allison Herwitt, Murphy's chief of staff.\nUpon examining Murphy, doctors determined he had suffered a stroke, Herwitt said, adding that the senator has been transferred to Johns Hopkins Hospital in Baltimore.\n\"The doctors are encouraged by his progress, he is awake and alert, and we are optimistic he will make a full recovery,\" Herwitt said.\nThis is a developing story. Please check back for updates."
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
+     "title": "Sen. Chris Murphy hospitalized after suffering stroke",
+     "lang": "en",
+     "extra": {},
+     "id": "f335a0e0d3b22374",
+     "published": "2026-11-01T19:00+00:00",
+     "text": "Sen. Chris Murphy (D-Conn.) suffered a stroke Saturday and is being treated at Johns Hopkins Hospital, his office said Sunday.\nThe big picture: Murphy is one of the Senate's more visible Democrats and has been traveling the country campaigning ahead of Tuesday's midterms.\nDriving the news: Murphy, 53, began experiencing numbness in his arm while attending his son's hockey game Saturday, according to a statement from his chief of staff, Allison Herwitt.\nWhat they're saying: \"The doctors are encouraged by his progress, he is awake and alert, and we are optimistic he will make a full recovery,\" Herwitt said in a statement.\nWhat's next: The statement did not specify the severity of the stroke or when Murphy might be discharged."
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+     "lang": "en",
+     "extra": {},
+     "id": "22cce6b72a945134",
+     "published": "2026-11-01T19:00+00:00",
+     "text": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.\n(Image credit: Chip Somodevilla)"
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
+     "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-05-20T171608Z_1562033459_RC23DLAAI7R2_RTRMADP_3_USA-CONGRESS-AMBASSADORS-1024x683.jpg"
+     },
+     "id": "d34c7c501b388d02",
+     "published": "2026-11-01T21:20+00:00",
+     "text": "Murphy's chief of staff, Allison Herwitt, said in a statement the 53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday."
     }
    ]
   },
@@ -1971,10 +2089,12 @@
      "url": "https://windowscentral.com/gaming/final-fantasy-xiv-evercold-gets-delayed-while-showing-off-more-trailers-and-info-yet-theres-no-gameplay-footage-of-the-one-feature-that-may-bring-me-back",
      "title": "Final Fantasy XIV: Evercold is delayed, shows off a new player Job, and more",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/AFEwMGBcyXWmTKGotjHRcH-1920-80.jpg"
+     },
      "id": "6f6e904bb0c16422",
      "published": "2026-10-31T11:06+00:00",
-     "text": "Square Enix has released the full trailer for Final Fantasy XIV: Evercold, while also revealing a new release date, a new player job called Zephyr, and more."
+     "text": "Square Enix has concluded its Final Fantasy XIV FanFest Japan event with another Keynote preview of Final Fantasy XIV: Evercold, the latest expansion for Final Fantasy's most popular MMORPG.\nDuring it, it showed new gameplay info, trailers, and a new release date for the expansion. Instead of releasing in January 2027, Final Fantasy XIV: Evercold will now release on February 23, 2027, for PC, Xbox Series X|S, PlayStation 5, and Nintendo Switch 2.\nPre-orders for the expansion will go live on November 4, 2026, and anyone who pre-orders it will get early access to Final Fantasy XIV: Evercold on February 19, 2027.\nAnother major highlight from the Final Fantasy XIV FanFest Japan event is the reveal of a new player Job called Zephyr. This is a Ranged-DPS Class that peppers enemies from afar with a crossbow while calling forth a falcon companion to aid it in battle.\nOther announcements include:\n- A new teaser trailer for its upcoming 24-man Alliance Raid crossover with the Neon Genesis Evangelion anime franchise.\n- A new difficulty tier for 8-Man Raids called \"Fierce\", which is designed to be the middle ground between \"Normal\" and \"Savage\" difficulties.\n- New battle content called \"Gauntlet of Power\", which is a 4-player boss-rush dungeon.\n- A closer look at Final Fantasy XIV's cast of characters, new areas, and dungeons.\n- A preview of its branching narrative, which lets players tackle the Main Scenario Quests in different orders beyond a certain point in the story, with auto-scaling dungeons to accommodate it.\n- NA/EU tests for Same-Region Player Matching will begin on November 10, 2026, and China's tests will begin on December 1, 2026.\n- A preview of its Seasonal Gear/Raiding gear system, quality-of-life, and other miscellaneous features.\n- A Collector’s Bundle Edition containing an art box, a Reaper Figure, an Ethos metel keychain, Köttr mini plush, a tapestry of the Fourth, an in-game Valhallar Odin Mount, an in-game Entreat Crystal Emote, and an in-game Bastion Weapon: the Crystal Skyltborg.\nAll this sounds cool, but where's the \"Evolved\" combat mode?\nFinal Fantasy XIV got me quite interested in the game again with its awesome-looking Bastion Tank Job. However, Square Enix still hasn't shown us Evercold's new \"Evolved\" Mode, which is being hyped to breathe new life into the MMORPG's combat system by changing the abilities and rotations of all Player Jobs.\nIn my opinion, this will be the ultimate deciding factor if I decide to play Final Fantasy XIV, because after playing World of Warcraft's much faster and more chaotic combat system, Final Fantasy XIV's combat feels slow and sluggish by comparison.\nHere's hoping we get an actual deep dive of Final Fantasy XIV: Evercold's \"Evolved\" Mode soon before it launches next February; otherwise, I'm afraid I'll be skipping this expansion because I'm going to get burned as I did with Final Fantasy XIV: Dawntrail.\nJoin us on Reddit at r/WindowsCentral to share your insights and discuss our latest news, reviews, and more.\nAlexander Cope is a gaming veteran with over 35 years of experience who primarily covers Xbox and PC gaming news and spotlights discounts on the best laptops, peripherals, and other electronics. He's also a diehard fan of JRPGs, action games, beat em’ ups, and Capcom’s Monster Hunter series\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
     },
     {
      "source": "Eurogamer",
@@ -2043,63 +2163,6 @@
      "id": "2a8cc158ef0e0467",
      "published": "2026-10-31T18:00+00:00",
      "text": "SCUF's premium controllers have mostly remained out of reach due to hefty price tags, but they bring their own advantages compared to similar offerings by most vendors. With the launch of SCUF's Nemesis Pro 8K PC controller, enthusiasts can now get their hands on the more affordable wired version, which was released at $119. While still more expensive than some of the best wireless mid-range PC controllers, the Nemesis Pro 8K PC tries something that only a handful of controllers have tried to do. Based on the SCUF's Valor Xbox controller, the Nemesis Pro is the company's first-ever 8K offering […]\nRead full article at https://wccftech.com/review/scuf-nemesis-pro-8k-pc-review/"
-    }
-   ]
-  },
-  {
-   "id": "cb7dc819152",
-   "kind": "news",
-   "score": 16.5,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/not-sure-what-happened-piastri-reflects-on-bizarre-q2-exit-in-mexico-city-gp-qualifying.7FPexiMg5O7poV0hFEoCxe",
-     "title": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
-     "lang": "en",
-     "extra": {},
-     "id": "c403f398605d210e",
-     "published": "2026-10-31T23:45+00:00",
-     "text": "Oscar Piastri admits he is \"not sure what happened\" as the McLaren driver was eliminated in Q2 ahead of the Mexico City Grand Prix."
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/lewis-hamilton-on-pole-f1-mexico-city-gp-oscar-piastri-13th/106998724",
-     "title": "Hamilton takes F1 pole in Mexico, Piastri down in 13th",
-     "lang": "en",
-     "extra": {},
-     "id": "b7dc8191528b3129",
-     "published": "2026-10-31T23:23+00:00",
-     "text": "Lewis Hamilton turns back the clock by taking pole for the F1 Mexico City Grand Prix, while Australian Oscar Piastri's disastrous day sees him miss out on the top 10."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss",
-     "title": "F1: Hamilton takes first Ferrari pole; Antonelli starts fourth in Mexico",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae6cec5-1793511109_419543-1793511897.jpg?resize=1200%2C630&quality=80"
-     },
-     "id": "ae0f47cb2a195056",
-     "published": "2026-11-01T08:53+00:00",
-     "text": "Lewis Hamilton has taken his first pole position for Ferrari at the Mexico City Grand Prix with Mercedes’s Kimi Antonelli fourth on the grid for a ground-breaking race likely to make the 20-year-old Formula One’s youngest champion.\nAntonelli needs only a ninth-place finish at the Autodromo Hermanos Rodriguez on Sunday to become Italy’s first champion since 1953. He was fifth fastest in qualifying, admitting he felt tense, but will move up a place due to Red Bull’s Max Verstappen, in fourth, taking a grid drop.\nRecommended Stories\nlist of 4 items- list 1 of 4Formula One champion Lando Norris extends McLaren contract until 2030\n- list 2 of 4Mercedes no longer have the fastest car in F1, says leader Antonelli\n- list 3 of 4‘Simply lovely’: Verstappen extends with F1 Red Bull Racing until 2030\n- list 4 of 4Formula One plans return to V8 engines as electrical revolution loses spark\nThe pole, in a time of one minute 16.514 seconds, was a record-extending 105th of Hamilton’s stellar career. While he has had two sprint poles since he joined Ferrari last year, he has not had one at a regular grand prix since Hungary in July 2023 when he was at Mercedes – a wait of 1,197 days.\n“Thank you so much. It has been such a long time coming,” Hamilton said over the team radio on Saturday. “Mega job, guys. I am so grateful for the hard work you guys put in.”\nHamilton becomes oldest pole-sitter since 1982\nThe pole also made the seven-time world champion at the age of 41 the oldest pole-sitter since American Mario Andretti, at 42, at Monza in Italy in 1982.\nGermany’s Michael Schumacher, who retired from Mercedes in 2012 and won five titles with Ferrari from 2000 to 2004, had his first pole for Ferrari at the 1996 San Marino Grand Prix.\n“It feels great to be able to reward them with a pole, and to have your first Ferrari pole, I mean, it just takes me back to watching Michael get all those pole positions when he was at Ferrari and all those wins. So it’s very, very special,” Hamilton said.\nMercedes’s George Russell, Antonelli’s closest rival but 123 points behind his teammate with only 100 to be won after this weekend, was second fastest – just 0.009 adrift after taking provisional pole only for Hamilton to beat his time. Ferrari’s Charles Leclerc was third and 0.119 off the pace.\nBoth Hamilton and Russell would have to win if either of the remaining contenders is to keep Antonelli waiting another week for the inevitable.\n“I struggled to get a good feeling from the tyres in Q3. I just didn’t have the most confidence. I was a bit tense, I am not going to lie,” the Italian said. “It was a poor lap, too many mistakes.\n“It has not been the easiest weekend. There is talk of what is there, and I am not as relaxed.”\nMcLaren’s Lando Norris, the reigning champion and last year’s winner in Mexico, qualified sixth with Red Bull’s Isack Hadjar seventh.\nRacing Bulls’ Liam Lawson qualified eighth fastest but had a one-place grid drop for a clash with Verstappen in Friday’s practice.\nThe New Zealander was then disqualified from the session for a technical breach and sent to the back of the grid. Teammate Arvid Lindblad will start eighth, Alpine’s Pierre Gasly ninth and Audi’s Nico Hulkenberg 10th.\n“I went to see Max this morning to apologise because what happened doesn’t need to happen and I don’t want it to happen in future,” Lawson said.\nPiastri fails to make top 10\nAntonelli was only seventh in the second phase with Norris the fastest and teammate Oscar Piastri knocked ou"
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/sport/hamilton-reflects-on-schumacher-memories-after-ferrari-pole-in-mexico-1.500731587",
-     "title": "Hamilton reflects on Schumacher memories after Ferrari pole in Mexico",
-     "lang": "en",
-     "extra": {},
-     "id": "265741ff5ecb3914",
-     "published": "2026-11-01T09:35+00:00",
-     "text": ""
     }
    ]
   },
@@ -2358,6 +2421,63 @@
      "id": "47753301e2217d4c",
      "published": "2026-11-01T20:12+00:00",
      "text": ""
+    }
+   ]
+  },
+  {
+   "id": "c5899aea02d",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "NASA reaches out to commercial space industry for help saving legendary Hubble Space Telescope",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Mashable",
+     "trust": 2,
+     "url": "https://mashable.com/science/nasa-reaches-out-to-commercial-space-industry-for-help-saving-legendary",
+     "title": "NASA reaches out to commercial space industry for help saving legendary Hubble Space Telescope",
+     "lang": "en",
+     "extra": {},
+     "id": "ed387ff9a36fa51b",
+     "published": "2026-11-01T20:52+00:00",
+     "text": "Sad news for space aficionados: the famous Hubble Space Telescope, responsible for some of the most jaw-dropping images of our solar system taken more than three decades since its launch into low-Earth orbit in 1990, is on a slow path towards a fiery fate. At its present rate of altitude loss, NASA's most famous telescope is expected to re-enter Earth's atmosphere sometime in 2033 or 2034, at which point it will come crashing down like a comet, according to Space.com, possibly endangering human life on its descent\nIt doesn't have to be that way, though. If NASA had more room in its budget, it could repeat its 2002 Space Shuttle Columbia mission STS-109 and give the aging telescope a nudge into a higher orbit, extending its lifespan. In desperation, NASA has put out a Request for Information (RFI) to the fast-growing commercial space sector, hoping for aid to either boost Hubble's altitude and extend its lifespan or else guide its descent to a safe crash site, such as the middle of the ocean.\nAccording to the RFI, a successful orbital boost would require an ascent of more than 370 miles (600 kilometers), which is a significant increase in elevation and an astonishingly difficult challenge from a purely technical perspective.\nIn a statement on the NASA website, Nicky Fox, an associate administrator of the Science Mission Directorate, spoke to the growing power and influence of the private space sector: \"Commercial industry has rapidly evolved in recent years to offer new capabilities for in-space satellite capture and servicing. Given the time we have until Hubble’s anticipated re-entry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.\"\nNASA administrator Jared Isaacman spoke of a duty to both \"the American taxpayer\" and \"the scientific community\" to explore all possible ways to extend Hubble's life, and the project is likely to attract serious interest from companies like Elon Musk's SpaceX and Peter Beck's Rocket Lab, which became famous for successfully catching a used rocket with a helicopter.\nIt wouldn't even be the first time that the commercial space sector has lent NASA a helping hand. In March of last year, stranded astronauts Suni Williams and Butch Wilmore were rescued from the International Space Station with assistance from SpaceX's Dragon spacecraft.\nLet's hope history repeats itself and NASA finds a willing collaborator, because Hubble's insights over more than a three decades have radically altered our understanding of the universe we inhabit and inspired new generations to look to the stars."
+    },
+    {
+     "source": "The Verge",
+     "trust": 2,
+     "url": "https://theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+     "title": "NASA hopes the commercial space industry can help save Hubble",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+     },
+     "id": "abd897111c359f7b",
+     "published": "2026-11-01T21:09+00:00",
+     "text": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth’s atmosphere, but its time will run out in the early to mid 2030s unless its orbit is boosted. So NASA is taking proposals from the private sector to see if anyone can save it.\nNASA hopes the commercial space industry can help save Hubble\nThe Hubble Space Telescope will come crashing to Earth sometime in the 2030s without a boost.\nThe Hubble Space Telescope will come crashing to Earth sometime in the 2030s without a boost.\n“Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible … If there are innovative and cost-effective ways to extend the life of an asset already on orbit, we owe it to the American taxpayer and the scientific community to explore them. Extending Hubble’s life would mean more discoveries, more science, and more opportunities to expand our understanding of the universe.”"
+    },
+    {
+     "source": "Google News Science EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVpCbU53RjRCb2dKaHZTeS01ZmtvN2hvWU81TXlablFoamJfbktzUjNvejEwc1pta2RQVEdBeWJ1WmlHN0h3eVFzRDZzeVJqSWMwc1d6MnJ6UUdiVWw2QlQ4Rk9xSy1TV2MxZUhCODNTSXhwT1hGNHZtcU16cmpFaXhZclZSSkFLY3BTOWI5YV9KWDIzSjJQdWtBZzdPMEVCcWx0aGY2NjlsNVlMTGxn?oc=5",
+     "title": "NASA’s Begging the Commercial Space Industry to Save the Doomed Hubble Telescope - Gizmodo",
+     "lang": "en",
+     "extra": {},
+     "id": "5899aea02d1d9156",
+     "published": "2026-10-31T16:26+00:00",
+     "text": "- NASA’s Begging the Commercial Space Industry to Save the Doomed Hubble Telescope Gizmodo\n- Once again, NASA is asking for ideas to rescue Hubble from certain death Ars Technica\n- NASA seeks ideas for Hubble servicing mission SpaceNews\n- NASA Explores Potential Commercial Servicing for Hubble Telescope NASA Science (.gov)\n- NASA ponders a Hubble servicing mission or a controlled deorbit The Register"
+    },
+    {
+     "source": "Slashdot",
+     "trust": 1,
+     "url": "https://science.slashdot.org/story/26/10/31/1817218/nasa-seeks-proposals-for-reboosting-the-hubble-space-telescope",
+     "title": "NASA Seeks Proposals for Reboosting the Hubble Space Telescope",
+     "lang": "en",
+     "extra": {},
+     "id": "3777165751117762",
+     "published": "2026-10-31T18:50+00:00",
+     "text": "The Hubble Space Telescope \"will plunge back into the atmosphere in the early-to-mid-2030s,\" reports Ars Technica.\nSo now NASA has released a Request For Information (RFI) \"asking commercial companies for ideas on how to reboost, service, or a controlled disposal of Hubble.\"\nSpecifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance, or guiding Hubble to a controlled reentry. \"The requirement includes that the boost and/or servicing mission must not harm the HST and that this mission is expected to occur by 2032,\" NASA wrote in the RFI. The contractor would be responsible for providing the launch vehicle, servicing spacecraft, mission operations, and \"crew if applicable.\"\nNASA is not committing to buying a Hubble rescue mission, but officials want to know who might be interested in mounting such a mission, how much it would cost, and which companies would have a realistic shot at reaching Hubble before it falls out of orbit and burns up on reentry. Orbital dynamicists currently predict that it will likely happen in 2033 or 2034 without intervention, but reentry forecasts can change based on solar activity... A reboost to NASA's requirement of 373 miles (600 km) would likely keep Hubble in orbit for at least 25 more years.\n\"NASA last raised the orbit of Hubble in 2002,\" the article points out, \"when the Space Shuttle Columbia visited the observatory for a servicing mission.\"\nThe final shuttle servicing flight in 2009 did not reboost the telescope's orbit, and with the retirement of the shuttle fleet two years later, Hubble has steadily lost altitude with no way to stave off eventual destruction... NASA's newer flagship observatories, sometimes described as successors to Hubble, are not actually one-for-one replacements. Hubble is tuned to observe the Universe in visible and ultraviolet light, while the Webb and Roman telescopes peer deeper into the infrared Universe. Astronomers will likely have to wait for the launch of NASA's Habitable Worlds Observatory in the 2040s for an improvement on Hubble's visible and ultraviolet vision.\nRead more of this story at Slashdot."
     }
    ]
   },
@@ -2825,100 +2945,6 @@
    ]
   },
   {
-   "id": "ce871959dc9",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 6,
-   "title_hint": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFRBVkdFd1REUGNsaWd3Z2lRUzVQdEwtczZmOUtvZHBiWmVmSkUyMGdURWVNSV9SbV9Oa0hPRW5iV0hXS2JtN1JIYTdqcjJBeXJzOVpGSTYtYVNFM3FHUVdDSU9TcnpoNVF0XzNPTVVsclNPa3JabVlEVEZVbEFYdnA4U1Z1YWxSQ2lkU01lM0YwbHd4dWxqRjNodV8tUDUxWmk3MGxFMHVNLVFRV1FWaWVVUQ?oc=5",
-     "title": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "e871959dc9e33530",
-     "published": "2026-11-01T17:47+00:00",
-     "text": "Democratic Senator Murphy hospitalized after stroke, chief of staff says\nReuters"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/chris-murphy-stroke-hospitalized",
-     "title": "Sen. Chris Murphy hospitalized following stroke",
-     "lang": "en",
-     "extra": {},
-     "id": "df3769b1fe0650fd",
-     "published": "2026-11-01T17:52+00:00",
-     "text": "Democratic Sen. Chris Murphy of Connecticut was hospitalized on Saturday after experiencing a stroke, his office said."
-    },
-    {
-     "source": "Washington Post Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZC1FLW8wYndWZjJyYl9IbTZLY3IxdzZEU1dodVA5eWR2WndWQUg1dnU0WnFlWjdsRUVOR08wNmtCbjhnb0s3Q0VxZFRTTm1jNk4yYjF5X1h6T2g1NzgzaEZwbzk1NUlzd3MyekdiQ2s1ZmlQTDE5VlNtM0N0NXk3X1NBdkdDU1FfbWkyM3ROLWdTUQ?oc=5",
-     "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "a406e45528f27a96",
-     "published": "2026-11-01T17:57+00:00",
-     "text": "Sen. Chris Murphy hospitalized for stroke, his office says\nThe Washington Post"
-    },
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/congress/chris-murphy-hospitalized-stroke-recovery-rcna606834",
-     "title": "Sen. Chris Murphy hospitalized after stroke",
-     "lang": "en",
-     "extra": {},
-     "id": "bfec9c70d9540a83",
-     "published": "2026-11-01T18:01+00:00",
-     "text": "Sen. Chris Murphy, D-Conn., was hospitalized Saturday after a stroke, a spokesperson for the senator said Sunday."
-    },
-    {
-     "source": "ABC News",
-     "trust": 2,
-     "url": "https://abcnews.com/Politics/sen-chris-murphy-hospitalized-after-suffering-stroke-chief/story?id=137751743",
-     "title": "Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.abcnewsfe.com/a/9bc5dddf-9664-44ff-95b7-5c2406e0aaed/chris-murphy-abc-jm-250209_1739113572108_hpMain_16x9.jpg?w=1600"
-     },
-     "id": "e9ffefb028c3c3e3",
-     "published": "2026-11-01T18:28+00:00",
-     "text": "Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says\n\"We are optimistic he will make a full recovery,\" Murphy's chief of staff said.\nU.S. Sen. Chris Murphy has been hospitalized after suffering a stroke, his chief of staff said in a statement on Sunday.\nThe 53-year-old Democrat was taken to a hospital on Saturday after he started to feel numbness in his arm while attending his son's hockey game, said Allison Herwitt, Murphy's chief of staff.\nUpon examining Murphy, doctors determined he had suffered a stroke, Herwitt said, adding that the senator has been transferred to Johns Hopkins Hospital in Baltimore.\n\"The doctors are encouraged by his progress, he is awake and alert, and we are optimistic he will make a full recovery,\" Herwitt said.\nThis is a developing story. Please check back for updates."
-    },
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
-     "title": "Sen. Chris Murphy hospitalized after suffering stroke",
-     "lang": "en",
-     "extra": {},
-     "id": "f335a0e0d3b22374",
-     "published": "2026-11-01T19:00+00:00",
-     "text": "Sen. Chris Murphy (D-Conn.) suffered a stroke Saturday and is being treated at Johns Hopkins Hospital, his office said Sunday.\nThe big picture: Murphy is one of the Senate's more visible Democrats and has been traveling the country campaigning ahead of Tuesday's midterms.\nDriving the news: Murphy, 53, began experiencing numbness in his arm while attending his son's hockey game Saturday, according to a statement from his chief of staff, Allison Herwitt.\nWhat they're saying: \"The doctors are encouraged by his progress, he is awake and alert, and we are optimistic he will make a full recovery,\" Herwitt said in a statement.\nWhat's next: The statement did not specify the severity of the stroke or when Murphy might be discharged."
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-     "lang": "en",
-     "extra": {},
-     "id": "22cce6b72a945134",
-     "published": "2026-11-01T19:00+00:00",
-     "text": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.\n(Image credit: Chip Somodevilla)"
-    }
-   ]
-  },
-  {
    "id": "c0bfeb06962",
    "kind": "news",
    "score": 15.5,
@@ -3048,6 +3074,63 @@
    ]
   },
   {
+   "id": "cb7dc819152",
+   "kind": "news",
+   "score": 15.5,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/not-sure-what-happened-piastri-reflects-on-bizarre-q2-exit-in-mexico-city-gp-qualifying.7FPexiMg5O7poV0hFEoCxe",
+     "title": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
+     "lang": "en",
+     "extra": {},
+     "id": "c403f398605d210e",
+     "published": "2026-10-31T23:45+00:00",
+     "text": "Oscar Piastri admits he is \"not sure what happened\" as the McLaren driver was eliminated in Q2 ahead of the Mexico City Grand Prix."
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/lewis-hamilton-on-pole-f1-mexico-city-gp-oscar-piastri-13th/106998724",
+     "title": "Hamilton takes F1 pole in Mexico, Piastri down in 13th",
+     "lang": "en",
+     "extra": {},
+     "id": "b7dc8191528b3129",
+     "published": "2026-10-31T23:23+00:00",
+     "text": "Lewis Hamilton turns back the clock by taking pole for the F1 Mexico City Grand Prix, while Australian Oscar Piastri's disastrous day sees him miss out on the top 10."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss",
+     "title": "F1: Hamilton takes first Ferrari pole; Antonelli starts fourth in Mexico",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae6cec5-1793511109_419543-1793511897.jpg?resize=1200%2C630&quality=80"
+     },
+     "id": "ae0f47cb2a195056",
+     "published": "2026-11-01T08:53+00:00",
+     "text": "Lewis Hamilton has taken his first pole position for Ferrari at the Mexico City Grand Prix with Mercedes’s Kimi Antonelli fourth on the grid for a ground-breaking race likely to make the 20-year-old Formula One’s youngest champion.\nAntonelli needs only a ninth-place finish at the Autodromo Hermanos Rodriguez on Sunday to become Italy’s first champion since 1953. He was fifth fastest in qualifying, admitting he felt tense, but will move up a place due to Red Bull’s Max Verstappen, in fourth, taking a grid drop.\nRecommended Stories\nlist of 4 items- list 1 of 4Formula One champion Lando Norris extends McLaren contract until 2030\n- list 2 of 4Mercedes no longer have the fastest car in F1, says leader Antonelli\n- list 3 of 4‘Simply lovely’: Verstappen extends with F1 Red Bull Racing until 2030\n- list 4 of 4Formula One plans return to V8 engines as electrical revolution loses spark\nThe pole, in a time of one minute 16.514 seconds, was a record-extending 105th of Hamilton’s stellar career. While he has had two sprint poles since he joined Ferrari last year, he has not had one at a regular grand prix since Hungary in July 2023 when he was at Mercedes – a wait of 1,197 days.\n“Thank you so much. It has been such a long time coming,” Hamilton said over the team radio on Saturday. “Mega job, guys. I am so grateful for the hard work you guys put in.”\nHamilton becomes oldest pole-sitter since 1982\nThe pole also made the seven-time world champion at the age of 41 the oldest pole-sitter since American Mario Andretti, at 42, at Monza in Italy in 1982.\nGermany’s Michael Schumacher, who retired from Mercedes in 2012 and won five titles with Ferrari from 2000 to 2004, had his first pole for Ferrari at the 1996 San Marino Grand Prix.\n“It feels great to be able to reward them with a pole, and to have your first Ferrari pole, I mean, it just takes me back to watching Michael get all those pole positions when he was at Ferrari and all those wins. So it’s very, very special,” Hamilton said.\nMercedes’s George Russell, Antonelli’s closest rival but 123 points behind his teammate with only 100 to be won after this weekend, was second fastest – just 0.009 adrift after taking provisional pole only for Hamilton to beat his time. Ferrari’s Charles Leclerc was third and 0.119 off the pace.\nBoth Hamilton and Russell would have to win if either of the remaining contenders is to keep Antonelli waiting another week for the inevitable.\n“I struggled to get a good feeling from the tyres in Q3. I just didn’t have the most confidence. I was a bit tense, I am not going to lie,” the Italian said. “It was a poor lap, too many mistakes.\n“It has not been the easiest weekend. There is talk of what is there, and I am not as relaxed.”\nMcLaren’s Lando Norris, the reigning champion and last year’s winner in Mexico, qualified sixth with Red Bull’s Isack Hadjar seventh.\nRacing Bulls’ Liam Lawson qualified eighth fastest but had a one-place grid drop for a clash with Verstappen in Friday’s practice.\nThe New Zealander was then disqualified from the session for a technical breach and sent to the back of the grid. Teammate Arvid Lindblad will start eighth, Alpine’s Pierre Gasly ninth and Audi’s Nico Hulkenberg 10th.\n“I went to see Max this morning to apologise because what happened doesn’t need to happen and I don’t want it to happen in future,” Lawson said.\nPiastri fails to make top 10\nAntonelli was only seventh in the second phase with Norris the fastest and teammate Oscar Piastri knocked ou"
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://gulfnews.com/sport/hamilton-reflects-on-schumacher-memories-after-ferrari-pole-in-mexico-1.500731587",
+     "title": "Hamilton reflects on Schumacher memories after Ferrari pole in Mexico",
+     "lang": "en",
+     "extra": {},
+     "id": "265741ff5ecb3914",
+     "published": "2026-11-01T09:35+00:00",
+     "text": ""
+    }
+   ]
+  },
+  {
    "id": "cecf19abee8",
    "kind": "news",
    "score": 15.0,
@@ -3092,96 +3175,6 @@
      "id": "2ae9b6177f8a418c",
      "published": "2026-10-31T15:14+00:00",
      "text": "Here's what we know about the hack, possible North Korean involvement and Binance's investigation."
-    }
-   ]
-  },
-  {
-   "id": "c4ac0faf8bd",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": false,
-   "distinct_sites": 6,
-   "title_hint": "Third weekend of protests in France",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/third-weekend-of-protests-in-france",
-     "title": "Third weekend of protests in France",
-     "lang": "en",
-     "extra": {},
-     "id": "4ac0faf8bd95351c",
-     "published": "2026-10-31T11:13+00:00",
-     "text": "France is preparing for a third weekend of protests, with 70,000 security personnel deployed to prevent a repeat of the violence seen on October 17. Shops have boarded up their premises as authorities warn of further clashes, with Halloween adding to concerns over masked demonstrators. The protests, initially driven by anger over the cost of living and poor school conditions, have broadened to include demands for greater civil liberties and the right to protest. With presidential elections six months away, authorities have tightened security and restricted demonstrations in several cities."
-    },
-    {
-     "source": "CBC",
-     "trust": 2,
-     "url": "https://cbc.ca/news/world/france-student-protests-europe-9.7404105?cmp=rss",
-     "title": "Youth-led protests sweep across France, Europe for a 3rd weekend",
-     "lang": "en",
-     "extra": {},
-     "id": "f19ddba504594edd",
-     "published": "2026-10-31T12:27+00:00",
-     "text": "Hundreds of thousands of mostly young protesters took to the streets across France on Saturday in a third consecutive weekend of demonstrations over living costs and education. Youth-led demonstrations were also reported in Germany and Italy."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/world/a-third-weekend-of-protests-in-france-as-youth-led-rallies-sweep-europe",
-     "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
-     "lang": "en",
-     "extra": {},
-     "id": "9280e35c6edf18a2",
-     "published": "2026-10-31T17:14+00:00",
-     "text": "About 70,000 police and gendarmes were deployed across the country after French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween."
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-     "title": "France seethes again as youth-led protests sweep Europe",
-     "lang": "en",
-     "extra": {},
-     "id": "354e8865507a494e",
-     "published": "2026-10-31T19:30+00:00",
-     "text": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.\n(Image credit: Aurelien Morissard)"
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/germany-france-europe-youth-protests/107333208",
-     "title": "Third weekend of protests in France as youth-led rallies sweep Europe",
-     "lang": "en",
-     "extra": {},
-     "id": "b63957a633d50a5e",
-     "published": "2026-10-31T23:56+00:00",
-     "text": "Hundreds of thousands of protesters, inspired by frustrated high school students, take to the streets across France in demonstrations over living costs and education."
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/youth-led-rallies-sweep-europe",
-     "title": "Youth-led rallies sweep Europe",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s.france24.com/media/display/7b7566f6-d5d4-11f1-94ac-bf1914cabd52/w:1280/p:16x9/EN-20261101-090621-090756-CS.jpg"
-     },
-     "id": "7918e1b482b9279c",
-     "published": "2026-11-01T09:38+00:00",
-     "text": "Protests in France have helped inspire youth demonstrations elsewhere in Europe, from Portugal and Italy to Germany. Germany saw particularly large rallies on Saturday, led by a youth initiative whose name roughly translates as “Gen Z has got this”. Demonstrators called for better education and healthcare, stronger climate protection and a more affordable cost of living, while also opposing any return to compulsory military service. However, protests in several major German cities turned violent towards the end of the day, particularly in the financial hub of Frankfurt. Charlotte Hughes reports on the demonstrations across Europe."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
-     "title": "A third weekend of protests in France as youth-led rallies sweep Europe - AP News",
-     "lang": "en",
-     "extra": {},
-     "id": "3f52ba3c342a2c7d",
-     "published": "2026-10-31T21:17+00:00",
-     "text": "A third weekend of protests in France as youth-led rallies sweep Europe\nAP News\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -3397,100 +3390,6 @@
      "id": "ada8d8f1b1c9e59e",
      "published": "2026-11-01T00:13+00:00",
      "text": "submitted by\n/u/Logical_Welder3467\nto\nr/technology\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "c0316e13d81",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": false,
-   "distinct_sites": 6,
-   "title_hint": "Middle East conflict: Trump says US still has to 'take care' of one or two targets in Iran",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran-1.500731311",
-     "title": "Middle East conflict: Trump says US still has to 'take care' of one or two targets in Iran",
-     "lang": "en",
-     "extra": {},
-     "id": "0316e13d81a4c69c",
-     "published": "2026-11-01T02:23+00:00",
-     "text": ""
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/middle-east/trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran-3009207",
-     "title": "Trump says US still has to ‘take care’ of one or two targets in Iran",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793500487127-98bd6222afeee0ca.jpg"
-     },
-     "id": "e20f9135737416a3",
-     "published": "2026-11-01T02:36+00:00",
-     "text": "- Trump says Iran’s military had been significantly weakened but the US still needs to address two specific targets, including a suspected nuclear site\n- Iran’s supreme leader has warned the US and Israel against launching new attacks, especially in light of threats following elections\nWASHINGTON: President Donald Trump said on Saturday that the United States has knocked out much of Iran’s military but it still has to “take care of” one or two targets including a suspected nuclear site known as Pickaxe Mountain.\nTrump maintained that negotiations with Iran to end the war that the US and Israel began at the end of February were “going fine but you know they’re not very reliable.”\nThe US president reiterated that the US was not in a hurry to take offensive action because it had decimated Iran’s military and nuclear program.\n“We’ve knocked out their nuclear. We still have to take care of, I would say one or two sites, but we can do that in 10 minutes,” Trump told reporters at his Florida residence.\n“You probably could look at Pickaxe Mountain, and you have to take care of that. We can do that all very quickly,” he added, referring to a suspected underground nuclear complex.\nThe Iranian government has denied any nuclear work is carried out there.\nEarlier Saturday, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the United States would be open to a diplomatic solution.\nIran’s supreme leader on Saturday warned the United States and Israel against launching new attacks, following threats to resume strikes after elections.\nTrump has warned of the potential for fresh military action after US midterms, saying previously that he was weighing up whether to “finish them off.”"
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUdvVkhQajY5cVUxcjZzUUVHWHN0SEcxd3NxdW4zNzZmRnB5M3hCQ1NoV0RHRXpXTmJtQnlkS2tqSjZQc3dtS3lfS3hGa2ZDRS02S3lPMnFvcTV5dHNzLWhIUjg5Y3ZzRlZUY1Q1MWtaMFNlNGxUUVdXb1IyOHpkYkNZYmFVRXRnZTVkck05M1ZNOUVFbHR1Y0d0NlJXMDVHa0pGbVJfSDZlWGU0RGp4Mg?oc=5",
-     "title": "Trump says US still has to ‘take care’ of one or two targets in Iran",
-     "lang": "en",
-     "extra": {},
-     "id": "8b026a20e3950300",
-     "published": "2026-11-01T02:40+00:00",
-     "text": "Trump says US still has to ‘take care’ of one or two targets in Iran\nArab News"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/d429e91d16e1",
-     "title": "US still has to 'take care' of one or two targets in Iran — Trump",
-     "lang": "en",
-     "extra": {},
-     "id": "83db08f94f7a9640",
-     "published": "2026-11-01T03:16+00:00",
-     "text": "US president says Washington can strike remaining Iranian targets within minutes, including a suspected underground nuclear complex, while negotiations with Tehran continue."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/trump-says-us-still-has-one-or-two-targets-in-iran",
-     "title": "Trump says US still has ‘one or two targets’ in Iran",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/dd8f940959902c61c66752fd312f498ba71402b8603bc14fdb21b187160fa54e?w=1200"
-     },
-     "id": "fabcdeae1f17bc0e",
-     "published": "2026-11-01T04:20+00:00",
-     "text": "Trump says US still has ‘one or two targets’ in Iran\nAI generated\nWASHINGTON – President Donald Trump said on Oct 31 that the United States has knocked out much of Iran’s military but still has to “take care of” one or two targets, as Tehran warned of reprisals if attacked.\nTrump maintained that negotiations with Iran to end the war, which was started by the United States and Israel in February, were “going fine but you know they’re not very reliable”.\nThe Republican president said the United States is not in a hurry to take offensive action because it had already decimated Iran’s military and nuclear programme.\n“We’ve knocked out their nuclear. We still have to take care of, I would say one or two sites, but we can do that in 10 minutes,” Trump told reporters at his Florida residence.\n“You probably could look at Pickaxe Mountain, and you have to take care of that. We can do that all very quickly,” he added, referring to a suspected underground nuclear complex.\nThe Iranian government denied any nuclear work is carried out there.\nEarlier on Oct 31, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the United States would be open to a diplomatic solution.\nIran’s supreme leader on Oct 31 warned the United States and Israel against launching a new offensive, following threats they could resume strikes after crucial elections in both countries.\nTrump had previously warned an attack could come after the US midterms this week, while Israeli Prime Minister Benjamin Netanyahu spoke of a “historic, one-time opportunity” to topple the Iranian government.\nThe elections in both countries could determine the direction of the conflict, with Israel having voted in a general election on Oct 27 but yet to form a new government.\n“Any level or type of threat must be met with an immediate, impactful and geographically unrestricted response,” Iran’s supreme leader Mojtaba Khamenei told top military commanders, according to a statement.\nKhamenei also ordered commanders to update Iran’s target list to include “all types of tangible and intangible assets belonging to the American-Zionist enemy”.\nThis was the first reported meeting between Khamenei and military top brass.\nThe supreme leader has not been seen publicly since before he took the helm in March, after the killing of his father Ayatollah Ali Khamenei in US-Israeli strikes.\nOil price spike\nRubio warned that “we can achieve military objectives if we seek to”, adding that Trump had not made a decision on any fresh strikes.\nSince the recent outbreak of the war, Tehran has restricted shipping through the Strait of Hormuz, which normally carries around one-fifth of global oil consumption.\nIran has previously warned it would also consider severing undersea cables in the Strait of Hormuz.\nA ship traversing the strait struck a mine and caught fire, Iranian state television reported on Oct 31.\nIran’s Revolutionary Guards said on Oct 30 that three oil tankers had been halted after encountering unspecified “incidents” or hitting mines.\nThe blockade has caused a spike in global energy prices, making the war unpopular among the US public ahead of the upcoming polls.\nGains for the opposition Democrats could restrict, to an extent, Trump’s ability to enact policy.\nVoting in Israel has left Netanyahu’s political camp with the most seats in parliament but short of a majority, leaving the make-up of the next administration unclear.\n‘Flames of war’\nFresh diplomatic e"
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmVuZ25GcDZHMWdDQ0NnQUJUZnNOTE1nOEpzN2UtMl9NRTY3SDZwRXdybksyQ1VOQTFFN0VMb0dyYTlrdmlpRmhZdGV6ejA4azRqcENySDZ2S3MzakxEX2hsa29abFRHa1JMZWZCZ051dW45SWxORTN2SlI2UGU3bThIQjF6bjBtcjE4aTNMUTRLQ0VXb0NkaEYxZnNPZGNLUTI1bzNsSXIyYlltLU5XTjlURXDSAccBQVVfeXFMUDdtVEZmY0p4dm9vSWc5aU1iekZINWtEVzVKTzAzY05lX29tTGJRekRkRGl4b3RBWGd3VnlhRWVDZG1CaEdXb2V4Ym5GcWxiZE5sLXRObl9pZGtmdDFGWWxoNS1lY3VwNnpBMkhjMkVXYXNuMUhvelJtdG9femFuNkFwUWpHZmQtX3RqczdyZEVRWUdlMFgxZUx4U2czOU14dW9mTmxTaGhJTURCQW9tZnc0NVBxZ1VkWE5xb2h6RjdVaHBycDJRRQ?oc=5",
-     "title": "Trump says US still has to 'take care' of one or two targets in Iran",
-     "lang": "en",
-     "extra": {},
-     "id": "a173f255c5b1a95a",
-     "published": "2026-11-01T04:39+00:00",
-     "text": "Trump says US still has to 'take care' of one or two targets in Iran\nGulf News"
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336210",
-     "title": "Trump Says US Still Has 'One or Two Targets' in Iran",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1858921_0.jpeg.webp?VersionId=1.AY_Q8v3d_IWdtY_y8wbl6TozIyAl98"
-     },
-     "id": "e36be22fa932240a",
-     "published": "2026-11-01T09:35+00:00",
-     "text": "President Donald Trump said on Saturday that the United States has knocked out much of Iran's military but still has to \"take care of\" one or two targets, as Tehran warned of reprisals if attacked.\nTrump maintained that negotiations with Iran to end the war, which was started by the United States and Israel in February, were \"going fine but you know they're not very reliable.\"\nAccording to AFP, the Republican president said the United States is not in a hurry to take offensive action because it had already decimated Iran's military and nuclear program.\n\"We've knocked out their nuclear. We still have to take care of, I would say one or two sites, but we can do that in 10 minutes,\" Trump told reporters at his Florida residence.\n\"You probably could look at Pickaxe Mountain, and you have to take care of that. We can do that all very quickly,\" he added, referring to a suspected underground nuclear complex.\nThe Iranian government denied any nuclear work is carried out there.\nEarlier Saturday, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the United States would be open to a diplomatic solution.\nIran's supreme leader on Saturday warned the United States and Israel against launching a new offensive, following threats they could resume strikes after crucial elections in both countries.\nTrump had previously warned an attack could come after the US midterms this week, while Israeli Prime Minister Benjamin Netanyahu spoke of a \"historic, one-time opportunity\" to topple the Iranian government.\nThe elections in both countries could determine the direction of the conflict, with Israel having voted in a general election on Tuesday but yet to form a new government.\n\"Any level or type of threat must be met with an immediate, impactful and geographically unrestricted response,\" Iran's supreme leader Mojtaba Khamenei told top military commanders, according to a statement.\nKhamenei also ordered commanders to update Iran's target list to include \"all types of tangible and intangible assets belonging to the American-Zionist enemy\".\nThis was the first reported meeting between Khamenei and military top brass.\nThe supreme leader has not been seen publicly since before he took the helm in March, after the killing of his father Ali Khamenei in US-Israeli strikes.\nRubio warned that \"we can achieve military objectives if we seek to\", adding that Trump had not made a decision on any fresh strikes.\nSince the recent outbreak of the war, Tehran has restricted shipping through the Strait of Hormuz, which normally carries around one-fifth of global oil consumption.\nIran has previously warned it would also consider severing undersea cables in the Strait of Hormuz.\nFresh diplomatic efforts are underway to avert any resumption of fighting.\nQatari mediators landed in Tehran on Friday, and US Vice President JD Vance sent a letter to Iran's security chief Mohsen Rezaei.\n\"I read the letter,\" said Rezaei, head of Iran's supreme national security council, in a video broadcast on Iranian television.\n\"I haven't yet responded. Their tone has completely changed,\" he added, describing that as \"a good sign\" without going into more detail.\nIranian Foreign Minister Abbas Araghchi said there were currently no plans for meetings with US officials.\nRezaei insisted Iran would continue to blockade the Strait of Hormuz until its conditions, including releasing frozen assets, were met.\nQatar and Pakistan have been mediating between the "
     }
    ]
   },
@@ -3930,186 +3829,92 @@
    ]
   },
   {
-   "id": "cecbf96a11c",
+   "id": "c4ac0faf8bd",
    "kind": "news",
    "score": 14.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "Supreme leader Khamenei warns of 'geographically unrestricted' response to US, Israel strikes on Iran",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFMxLXY1ZDQ5Rk1wSXMyUXFqdGFzT1JOZHlLMVhNcFdSSW05aHNnbUhnb3VhcDRjQVd1OWtJTzliVjdsa0hKQ254WDJTTWRjRDdQSTIwQ213R1B2Um8xbE5NYnY1YlRsM2hpcHRnSV9MX3VoaUtrcDdIMUpuRU5LS3dTQjY3UzZoZmh0UkJzZ09WUVF2VE5nVzI0OGE4X0d0bVlHSU1STmhBM0RaNU5TOEcwcFFSTHV3ZUUxNWtIWGVWcUxPbzMtcG1EOVJVNTMtYWNuOWVSWDZZWEU?oc=5",
-     "title": "Supreme leader Khamenei warns of 'geographically unrestricted' response to US, Israel strikes on Iran",
-     "lang": "en",
-     "extra": {},
-     "id": "ecbf96a11c37c49c",
-     "published": "2026-10-31T10:07+00:00",
-     "text": "Supreme leader Khamenei warns of 'geographically unrestricted' response to US, Israel strikes on Iran\nArab News"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ReGJkaUtwNXNOUW5QY1Q0ei13NkFZUjc5QUdNeG1wVmZwSmF3NFo4dy1yTlFIMkJ2SzA3aFNOWUpCczVIYWZ2QWcxTVVvTlBGaW1mZFRPZEQ?oc=5",
-     "title": "Iran’s Khamenei orders “geographically unrestricted” response to any attack",
-     "lang": "en",
-     "extra": {},
-     "id": "839a4134e546f7ad",
-     "published": "2026-10-31T11:25+00:00",
-     "text": "Iran’s Khamenei orders “geographically unrestricted” response to any attack\nTRT World"
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5335937",
-     "title": "Iran Supreme Leader Warns of 'Geographically Unrestricted Response' to Any Attack",
-     "lang": "en",
-     "extra": {},
-     "id": "c3a179b4c5ed4c3a",
-     "published": "2026-10-31T11:40+00:00",
-     "text": ""
-    },
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WMXdsM0x3RGN5MlpPT1Y4eG1Ya1JYMGxMTWg0ZHBiTEdnbGV6bUFkYjlLOGVDVHFOU1ZnTXpmVDQ3Q1VlMmFwbmZua3VGX2NabzVKc2M5eHE?oc=5",
-     "title": "Iran supreme leader warns of 'geographically unrestricted response' to any attack - Region - World",
-     "lang": "en",
-     "extra": {},
-     "id": "7e645f97a1a7f462",
-     "published": "2026-10-31T13:20+00:00",
-     "text": "Iran supreme leader warns of 'geographically unrestricted response' to any attack - Region - World\nAhram Online"
-    },
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
-     "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
-     "lang": "en",
-     "extra": {},
-     "id": "412efd5a750818d3",
-     "published": "2026-10-31T14:27+00:00",
-     "text": "Iran's Supreme Leader Mojtaba Khamenei told the country's top three military commanders that a renewed attack by the U.S. and Israel ״must be met with an immediate and effective response, without geographical limitations״ in order to achieve \"maximum deterrence,\" according to a statement from his office.\nWhy it matters: This is the first publicly disclosed meeting between Khamenei and all the top commanders of Iran's armed forces since the war began. It comes as President Trump weighs major strikes on Iran after the midterm elections.\n- Khamenei hasn't been seen or heard in public since he was wounded in an Israeli strike on the first day of the war. He has only issued written statements, which raised questions about his condition.\n- The unusual apparent meeting took place a day after Qatari mediators held talks in Tehran for more than 12 hours in an effort to reach a deal to restart direct negotiations between the U.S. and Iran and avoid an outbreak of war after the midterms.\n- The discussions continued in Doha, Qatar, on Saturday.\nWhat he's saying: \"If the enemies once again launch military or terrorist attacks, it will be the Islamic Republic of Iran's Armed Forces and the Iranian nation that determine when and under what conditions those hostilities will end,\" Khamenei told the commanders, according to the statement.\nZoom in: According to the statement, the meeting included armed forces chief of staff Gen. Ali Abdollahi, army commander Maj. Gen. Amir Hatami and Islamic Revolutionary Guard Corps commander Maj. Gen. Ahmad Vahidi.\n- The commanders briefed Khamenei on the state of military readiness along the Gulf coastline and around the Strait of Hormuz, the Gulf of Oman, and Iran's northwestern and southeastern borders.\n- They also reported \"a several-fold increase\" in production of various types of ammunition and reconnaissance, support, and combat weapons.\n- Khamenei instructed the commanders that the \"target bank\" must be updated \"so that all types of the American-Zionist enemy's material and non-material assets fall within the reach of the Armed Forces.\"\n- Khamenei praised \"the intelligent steadfastness\" of Iran's proxies across the region and stressed \"the unity of the different arenas\" as a \"decisive and strategic\" element for Iran.\nReality check: Iranian Foreign Minister Abbas Araghchi told Al Jazeera that senior-level officials have discussed a proposal from Vice President Vance and called the U.S. effort to open talks a \"positive step.\"\n- But he made a strict set of demands for an agreement: lifting sanctions, reducing the U.S. military presence in the region and recognizing a Strait of Hormuz shipping route agreed to with Oman.\n- Araghchi also told Al Jazeera that reopening the strait on Iran's terms could pave the way for direct negotiations. Iran is examining mediators' proposals to address its nuclear program, a bottom-line issue for the U.S."
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
-     "title": "Iran’s supreme leader warns of 'geographically unrestricted response' if US attacks again",
-     "lang": "en",
-     "extra": {},
-     "id": "811682106cd90be8",
-     "published": "2026-11-01T12:10+00:00",
-     "text": "Iranian officials have nevertheless noted positive steps in mediated negotiations with the US, which is gearing up for key midterm elections next week."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb1VGSDQ2Z3J1azZ5ZUo3VmVwTFVMazNBaTQ3ZTdEampxR3ViT1gtYldsdExfOUpyRk1SSHRLZUc2c1FsMnlrMlU2UG90bGFBSEprUFVybjBBZ2Vtei1ibThNZDBxM0pnTVQtNjRCcGh5ekZUeGdYREZQS25hRWNwWTBPRdIBiAFBVV95cUxNU3NVZlR5eGhyajJMd2tpLVBIeldhdE5lR2V5dlFVR1NuMmN4dUpLbnhxZll3b3RSbGVybUtpMkFIOUhvQi00bzdOZG1Zdk1vVFBmalRoUWUwMVRxYmtnVThsTVVESUdjUkdCNTJyNFFHOW9BdFZwcXJqMG15OUk2aWtFZVJtN0Rs?oc=5",
-     "title": "Iran’s Supreme Leader threatens US with response if strikes are launched after midterms - The Hill",
-     "lang": "en",
-     "extra": {},
-     "id": "86f3f1b522d70b95",
-     "published": "2026-10-31T16:51+00:00",
-     "text": "- Iran’s Supreme Leader threatens US with response if strikes are launched after midterms The Hill\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News\n- Live - Doha talks continue, Trump undecided on new Iran strikes Iran International\n- Iran warns of unfettered retaliation if attacked as mediators try for peace Al Jazeera"
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcklRbXFqZnZtWHlsU2NLNVdnY2l5ZXlHQzZtYmFiMWFWOWlPbzFVME1YU092WjV5RjlRLWdzanVfOG1nbUpsUWxuT1hLeGRLZ0dQZmlOOGNveklydEdmWkVzRE82eDdpQ2VzRUhYZmFHSjNmWm5VV3hzaEZ5VkxlWGE0dEt0aW8?oc=5",
-     "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "e38548148123a6bb",
-     "published": "2026-11-01T02:08+00:00",
-     "text": "- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Iran war live: ‘Killing ground’ awaits invading foreign forces, says Tehran Al Jazeera\n- Iran army: Potential war could be 'longer than previous conflict,' Trump won't dictate its duration The Times of Israel\n- Live Updates: Trump suggests more attacks on Iran after Ayatollah warns against resuming war CBS News\n- Iran army: Any new war with US could be ‘longer than previous conflict’ Inquirer.net"
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1ZwazBHVTQyY3RoX1hoUkhYSXo4LTR0MGZoUGpZNlhtbTlSMG1VNGRNLVNHUjNuNTF0c1BjcnpEa2JqVGhMX2VabHI3V3RrbllISnlpV3lneTM1UU9FVWlleFhpLUpSMk1Nal85amhDbEw4VnJwdHpUQk04TXExRVJzXzJkVk1rWEFPYXV6V1R0S0t4VTFzNnlvdmt3bWkyOTJic3VCYndKTFBOVlduYXVWT3FKVHlKT2VCem9sTQ?oc=5",
-     "title": "Iran warns of 'geographically unrestricted response' if US attacks",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "b232b0d50fed55f0",
-     "published": "2026-11-01T15:09+00:00",
-     "text": "- Iran warns of 'geographically unrestricted response' if US attacks Euronews.com\n- Iran war live: US response awaited on new proposal to reopen Hormuz: Tehran Al Jazeera\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Iran army: Potential war could be ‘longer than previous conflict,’ Trump won’t dictate its duration The Times of Israel\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News"
-    }
-   ]
-  },
-  {
-   "id": "c26722fc820",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+   "sensitive": false,
+   "distinct_sites": 6,
+   "title_hint": "Third weekend of protests in France",
    "official_image": null,
    "sources": [
     {
      "source": "France 24 EN",
      "trust": 2,
-     "url": "https://france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
-     "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+     "url": "https://france24.com/en/third-weekend-of-protests-in-france",
+     "title": "Third weekend of protests in France",
      "lang": "en",
      "extra": {},
-     "id": "b2b043f5a027c5b2",
-     "published": "2026-10-31T12:31+00:00",
-     "text": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around Britain's colonial history have loomed large over King Charles' ongoing visit to three Caribbean nations ahead of Commonwealth summit."
+     "id": "4ac0faf8bd95351c",
+     "published": "2026-10-31T11:13+00:00",
+     "text": "France is preparing for a third weekend of protests, with 70,000 security personnel deployed to prevent a repeat of the violence seen on October 17. Shops have boarded up their premises as authorities warn of further clashes, with Halloween adding to concerns over masked demonstrators. The protests, initially driven by anger over the cost of living and poor school conditions, have broadened to include demands for greater civil liberties and the right to protest. With presidential elections six months away, authorities have tightened security and restricted demonstrations in several cities."
     },
     {
-     "source": "Investing.com",
+     "source": "CBC",
      "trust": 2,
-     "url": "https://investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
-     "title": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
+     "url": "https://cbc.ca/news/world/france-student-protests-europe-9.7404105?cmp=rss",
+     "title": "Youth-led protests sweep across France, Europe for a 3rd weekend",
      "lang": "en",
      "extra": {},
-     "id": "5ce5bd7c7cd0c9ab",
-     "published": "2026-10-31T22:00+00:00",
-     "text": ""
+     "id": "f19ddba504594edd",
+     "published": "2026-10-31T12:27+00:00",
+     "text": "Hundreds of thousands of mostly young protesters took to the streets across France on Saturday in a third consecutive weekend of demonstrations over living costs and education. Youth-led demonstrations were also reported in Germany and Italy."
     },
     {
-     "source": "Ahram Online",
+     "source": "PBS NewsHour",
      "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oT1RkWDNmWHFOVjlCSlBCWTNBVi1PSlVaMUFCM3VuV1R3NFhaZ0xaMzFpUFpxaTVPQjI3R2VqWk5HQWZtdzZOS2hRMDgtS1V6VEsxOXl3Nzg?oc=5",
-     "title": "Burnham hints at apology for UK's role in slave trade but rejects reparations - International - World",
+     "url": "https://pbs.org/newshour/world/a-third-weekend-of-protests-in-france-as-youth-led-rallies-sweep-europe",
+     "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
      "lang": "en",
      "extra": {},
-     "id": "080f92498a788c95",
-     "published": "2026-11-01T09:12+00:00",
-     "text": "Burnham hints at apology for UK's role in slave trade but rejects reparations - International - World\nAhram Online"
+     "id": "9280e35c6edf18a2",
+     "published": "2026-10-31T17:14+00:00",
+     "text": "About 70,000 police and gendarmes were deployed across the country after French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween."
     },
     {
-     "source": "Al Jazeera",
+     "source": "NPR",
      "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
-     "title": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
+     "url": "https://npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+     "title": "France seethes again as youth-led protests sweep Europe",
+     "lang": "en",
+     "extra": {},
+     "id": "354e8865507a494e",
+     "published": "2026-10-31T19:30+00:00",
+     "text": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.\n(Image credit: Aurelien Morissard)"
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/germany-france-europe-youth-protests/107333208",
+     "title": "Third weekend of protests in France as youth-led rallies sweep Europe",
+     "lang": "en",
+     "extra": {},
+     "id": "b63957a633d50a5e",
+     "published": "2026-10-31T23:56+00:00",
+     "text": "Hundreds of thousands of protesters, inspired by frustrated high school students, take to the streets across France in demonstrations over living costs and education."
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/youth-led-rallies-sweep-europe",
+     "title": "Youth-led rallies sweep Europe",
      "lang": "en",
      "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acc13498aea-1791759177.jpg?resize=1920%2C1440"
+      "page_image": "https://s.france24.com/media/display/7b7566f6-d5d4-11f1-94ac-bf1914cabd52/w:1280/p:16x9/EN-20261101-090621-090756-CS.jpg"
      },
-     "id": "ea005877177f0739",
-     "published": "2026-11-01T15:24+00:00",
-     "text": "The United Kingdom’s Prime Minister Andy Burnham has said his country is open to apologising for Britain’s role in the transatlantic slave trade but ruled out reparations, which campaigners have for years called for.\nBurnham wrote in an opinion article in The Guardian on Friday that Britain would also work on debt restructuring for the poorest countries, marking an historic turn in London’s stance.\nRecommended Stories\nlist of 4 items- list 1 of 4Burnham opens door to formal apology for Britain’s slave trade\n- list 2 of 4King Charles’s Caribbean tour: Will he discuss slavery reparations?\n- list 3 of 4King Charles on Caribbean tour as calls grow for slavery reparations\n- list 4 of 4Ghana slavery apology: Why many descendants say words are not enough\nThe move comes ahead of a four-day summit starting Sunday of the 50-plus Commonwealth nations formerly colonised by Britain. The UK’s King Charles, who arrived in the Caribbean last week, is hosting the leaders in St John’s, the capital of Antigua and Barbuda.\n“I want to express my sorrow and regret for the pain and suffering of so many millions of people, and to recognise the way it still shapes our world today,” Burnham wrote, in what amounted to a personal apology.\nCaribbean nations that have more forcefully demanded reparations in recent years said they expect more from Britain, while opposition Conservative Party leader Kemi Badenoch has criticised Burnham’s move as “navel-gazing”.\nHere’s what we know:\nWhat was Britain’s role in slavery?\nTransatlantic slavery lasted between the 16th and 19th centuries and saw some 12 million enslaved Africans torn from their homes and forcibly transported on ships to the Americas with the help of local warlords. Enslaved people were sold on plantations and as domestic workers, and their labour produced goods that built wealth in Europe.\nBritain and Portugal accounted for about 70 percent of all Africans exported to the Americas, while France, Spain and the Netherlands also traded in significant numbers of enslaved people. Britain alone transported 3.1 million Africans to British colonies in the Caribbean, the Americas and other countries, according to its national archives. Only 2.7 million arrived, as many perished in treacherous sea journeys.\nBritish abolitionists began campaigning against slavery in 1787, particularly in cities like Manchester. In 1807, Parliament passed the Slave Trade Act, essentially banning new enslavement. More than three decades later, in 1834, Britain banned slavery in its entirety, although the practice continued for several years.\nAmid calls for accountability in 2006, then-Prime Minister Tony Blair expressed “deep sorrow” for Britain’s role in the slave trade, but fell short of apologising or speaking about reparations.\nWhy now?\nBurnham’s apology came during Britain’s Black History Month and as the Commonwealth is meeting in Antigua and Barbuda.\nIn his article, the British prime minister said London wants to keep diplomatic and trade ties with its Commonwealth allies.\n“In an increasingly divided and dangerous world, our family of nations in the Commonwealth is vital to our interests,” he wrote, adding that Britain “can seize opportunities for trade and economic collaboration”.\nBritain will allow the most vulnerable countries to repay their debts over a longer period, he added, with former Chancellor of the Exchequer Gordon Brown, who spearheaded the UK’s 1991 initiative to reduce debt for poorer countries, leading the charge."
+     "id": "7918e1b482b9279c",
+     "published": "2026-11-01T09:38+00:00",
+     "text": "Protests in France have helped inspire youth demonstrations elsewhere in Europe, from Portugal and Italy to Germany. Germany saw particularly large rallies on Saturday, led by a youth initiative whose name roughly translates as “Gen Z has got this”. Demonstrators called for better education and healthcare, stronger climate protection and a more affordable cost of living, while also opposing any return to compulsory military service. However, protests in several major German cities turned violent towards the end of the day, particularly in the financial hub of Frankfurt. Charlotte Hughes reports on the demonstrations across Europe."
     },
     {
      "source": "Google News World EN",
      "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVA3cGlMTWRrZGNBV3NsQkdPb1ZJQnBfbG5EMjZrcUFWMmVldTlySld2cWtOcEhxS1hhZ1VnSTluNDk5dHZxdEs0TFpZbXhfRk92a3BTV0hxUXg5VTNVRnFMN2dBRmZ5R3R6T3BBdVA5WFdqS2dSTWRFSmVaZ3lkU01xRENrOGU3LWxkYVFVVlVoRzhKMUhCV2Ffc0duOFhsXzh4eXd4UHhEZTYtUF9oalhwc1lQYzdaalhN?oc=5",
-     "title": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
+     "title": "A third weekend of protests in France as youth-led rallies sweep Europe - AP News",
      "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "26722fc8202d655b",
-     "published": "2026-10-31T10:10+00:00",
-     "text": "- UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations Reuters\n- King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour BBC\n- UK prime minister signals the government will consider an apology for its role in the slave trade ABC News - Breaking News, Latest News and Videos\n- British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian\n- King Charles' sorrow over slavery faces test as reparations movement gains ground Reuters"
+     "extra": {},
+     "id": "3f52ba3c342a2c7d",
+     "published": "2026-10-31T21:17+00:00",
+     "text": "A third weekend of protests in France as youth-led rallies sweep Europe\nAP News\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -4165,50 +3970,6 @@
      "id": "7d5292ca0ec0e059",
      "published": "2026-11-01T15:06+00:00",
      "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "c5899aea02d",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "NASA reaches out to commercial space industry for help saving legendary Hubble Space Telescope",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Mashable",
-     "trust": 2,
-     "url": "https://mashable.com/science/nasa-reaches-out-to-commercial-space-industry-for-help-saving-legendary",
-     "title": "NASA reaches out to commercial space industry for help saving legendary Hubble Space Telescope",
-     "lang": "en",
-     "extra": {},
-     "id": "ed387ff9a36fa51b",
-     "published": "2026-11-01T20:52+00:00",
-     "text": "Sad news for space aficionados: the famous Hubble Space Telescope, responsible for some of the most jaw-dropping images of our solar system taken more than three decades since its launch into low-Earth orbit in 1990, is on a slow path towards a fiery fate. At its present rate of altitude loss, NASA's most famous telescope is expected to re-enter Earth's atmosphere sometime in 2033 or 2034, at which point it will come crashing down like a comet, according to Space.com, possibly endangering human life on its descent\nIt doesn't have to be that way, though. If NASA had more room in its budget, it could repeat its 2002 Space Shuttle Columbia mission STS-109 and give the aging telescope a nudge into a higher orbit, extending its lifespan. In desperation, NASA has put out a Request for Information (RFI) to the fast-growing commercial space sector, hoping for aid to either boost Hubble's altitude and extend its lifespan or else guide its descent to a safe crash site, such as the middle of the ocean.\nAccording to the RFI, a successful orbital boost would require an ascent of more than 370 miles (600 kilometers), which is a significant increase in elevation and an astonishingly difficult challenge from a purely technical perspective.\nIn a statement on the NASA website, Nicky Fox, an associate administrator of the Science Mission Directorate, spoke to the growing power and influence of the private space sector: \"Commercial industry has rapidly evolved in recent years to offer new capabilities for in-space satellite capture and servicing. Given the time we have until Hubble’s anticipated re-entry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.\"\nNASA administrator Jared Isaacman spoke of a duty to both \"the American taxpayer\" and \"the scientific community\" to explore all possible ways to extend Hubble's life, and the project is likely to attract serious interest from companies like Elon Musk's SpaceX and Peter Beck's Rocket Lab, which became famous for successfully catching a used rocket with a helicopter.\nIt wouldn't even be the first time that the commercial space sector has lent NASA a helping hand. In March of last year, stranded astronauts Suni Williams and Butch Wilmore were rescued from the International Space Station with assistance from SpaceX's Dragon spacecraft.\nLet's hope history repeats itself and NASA finds a willing collaborator, because Hubble's insights over more than a three decades have radically altered our understanding of the universe we inhabit and inspired new generations to look to the stars."
-    },
-    {
-     "source": "Google News Science EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVpCbU53RjRCb2dKaHZTeS01ZmtvN2hvWU81TXlablFoamJfbktzUjNvejEwc1pta2RQVEdBeWJ1WmlHN0h3eVFzRDZzeVJqSWMwc1d6MnJ6UUdiVWw2QlQ4Rk9xSy1TV2MxZUhCODNTSXhwT1hGNHZtcU16cmpFaXhZclZSSkFLY3BTOWI5YV9KWDIzSjJQdWtBZzdPMEVCcWx0aGY2NjlsNVlMTGxn?oc=5",
-     "title": "NASA’s Begging the Commercial Space Industry to Save the Doomed Hubble Telescope - Gizmodo",
-     "lang": "en",
-     "extra": {},
-     "id": "5899aea02d1d9156",
-     "published": "2026-10-31T16:26+00:00",
-     "text": "- NASA’s Begging the Commercial Space Industry to Save the Doomed Hubble Telescope Gizmodo\n- Once again, NASA is asking for ideas to rescue Hubble from certain death Ars Technica\n- NASA seeks ideas for Hubble servicing mission SpaceNews\n- NASA Explores Potential Commercial Servicing for Hubble Telescope NASA Science (.gov)\n- NASA ponders a Hubble servicing mission or a controlled deorbit The Register"
-    },
-    {
-     "source": "Slashdot",
-     "trust": 1,
-     "url": "https://science.slashdot.org/story/26/10/31/1817218/nasa-seeks-proposals-for-reboosting-the-hubble-space-telescope",
-     "title": "NASA Seeks Proposals for Reboosting the Hubble Space Telescope",
-     "lang": "en",
-     "extra": {},
-     "id": "3777165751117762",
-     "published": "2026-10-31T18:50+00:00",
-     "text": "The Hubble Space Telescope \"will plunge back into the atmosphere in the early-to-mid-2030s,\" reports Ars Technica.\nSo now NASA has released a Request For Information (RFI) \"asking commercial companies for ideas on how to reboost, service, or a controlled disposal of Hubble.\"\nSpecifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance, or guiding Hubble to a controlled reentry. \"The requirement includes that the boost and/or servicing mission must not harm the HST and that this mission is expected to occur by 2032,\" NASA wrote in the RFI. The contractor would be responsible for providing the launch vehicle, servicing spacecraft, mission operations, and \"crew if applicable.\"\nNASA is not committing to buying a Hubble rescue mission, but officials want to know who might be interested in mounting such a mission, how much it would cost, and which companies would have a realistic shot at reaching Hubble before it falls out of orbit and burns up on reentry. Orbital dynamicists currently predict that it will likely happen in 2033 or 2034 without intervention, but reentry forecasts can change based on solar activity... A reboost to NASA's requirement of 373 miles (600 km) would likely keep Hubble in orbit for at least 25 more years.\n\"NASA last raised the orbit of Hubble in 2002,\" the article points out, \"when the Space Shuttle Columbia visited the observatory for a servicing mission.\"\nThe final shuttle servicing flight in 2009 did not reboost the telescope's orbit, and with the retirement of the shuttle fleet two years later, Hubble has steadily lost altitude with no way to stave off eventual destruction... NASA's newer flagship observatories, sometimes described as successors to Hubble, are not actually one-for-one replacements. Hubble is tuned to observe the Universe in visible and ultraviolet light, while the Webb and Roman telescopes peer deeper into the infrared Universe. Astronomers will likely have to wait for the launch of NASA's Habitable Worlds Observatory in the 2040s for an improvement on Hubble's visible and ultraviolet vision.\nRead more of this story at Slashdot."
     }
    ]
   },
@@ -4460,61 +4221,96 @@
    ]
   },
   {
-   "id": "c0629994f45",
+   "id": "c0316e13d81",
    "kind": "news",
    "score": 14.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "sensitive": false,
+   "distinct_sites": 6,
+   "title_hint": "Middle East conflict: Trump says US still has to 'take care' of one or two targets in Iran",
    "official_image": null,
    "sources": [
     {
-     "source": "BBC World",
+     "source": "Gulf News Tech",
      "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
-     },
-     "id": "0629994f454de1d9",
-     "published": "2026-10-31T22:11+00:00",
-     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
-    },
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
-     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
+     "url": "https://gulfnews.com/world/mena/middle-east-conflict-trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran-1.500731311",
+     "title": "Middle East conflict: Trump says US still has to 'take care' of one or two targets in Iran",
      "lang": "en",
      "extra": {},
-     "id": "3b6bb0c06269b687",
-     "published": "2026-11-01T07:33+00:00",
-     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
+     "id": "0316e13d81a4c69c",
+     "published": "2026-11-01T02:23+00:00",
+     "text": ""
     },
     {
-     "source": "Ahram Online",
+     "source": "Arab News",
      "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVB4SGN0azE1enBQUEpTNWZVQlpBamVDQ2N5ZmdDRDk1dVNrUGI0OVBFRjZCZDFQZ2Q5U1RMUFdpeXFEb29fV1llQ0F4bkhNbV90OVlPbHh0N0MwY3ZzNzVmTFB4cGFJbE5TVm9WZTlnQWdMUVdMQnk4VlJXNm02eXUzcURNWDhpTERZeW1QclZubU10RFh6MFhpVjhRaENO?oc=5",
-     "title": "Business - Tech",
-     "lang": "en",
-     "extra": {},
-     "id": "13ba1829bd10fa9f",
-     "published": "2026-11-01T07:48+00:00",
-     "text": "Business - Tech\nAhram Online"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "url": "https://arabnews.com/middle-east/trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran-3009207",
+     "title": "Trump says US still has to ‘take care’ of one or two targets in Iran",
      "lang": "en",
      "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793500487127-98bd6222afeee0ca.jpg"
      },
-     "id": "5c29874acc90c064",
-     "published": "2026-11-01T09:28+00:00",
-     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
+     "id": "e20f9135737416a3",
+     "published": "2026-11-01T02:36+00:00",
+     "text": "- Trump says Iran’s military had been significantly weakened but the US still needs to address two specific targets, including a suspected nuclear site\n- Iran’s supreme leader has warned the US and Israel against launching new attacks, especially in light of threats following elections\nWASHINGTON: President Donald Trump said on Saturday that the United States has knocked out much of Iran’s military but it still has to “take care of” one or two targets including a suspected nuclear site known as Pickaxe Mountain.\nTrump maintained that negotiations with Iran to end the war that the US and Israel began at the end of February were “going fine but you know they’re not very reliable.”\nThe US president reiterated that the US was not in a hurry to take offensive action because it had decimated Iran’s military and nuclear program.\n“We’ve knocked out their nuclear. We still have to take care of, I would say one or two sites, but we can do that in 10 minutes,” Trump told reporters at his Florida residence.\n“You probably could look at Pickaxe Mountain, and you have to take care of that. We can do that all very quickly,” he added, referring to a suspected underground nuclear complex.\nThe Iranian government has denied any nuclear work is carried out there.\nEarlier Saturday, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the United States would be open to a diplomatic solution.\nIran’s supreme leader on Saturday warned the United States and Israel against launching new attacks, following threats to resume strikes after elections.\nTrump has warned of the potential for fresh military action after US midterms, saying previously that he was weighing up whether to “finish them off.”"
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUdvVkhQajY5cVUxcjZzUUVHWHN0SEcxd3NxdW4zNzZmRnB5M3hCQ1NoV0RHRXpXTmJtQnlkS2tqSjZQc3dtS3lfS3hGa2ZDRS02S3lPMnFvcTV5dHNzLWhIUjg5Y3ZzRlZUY1Q1MWtaMFNlNGxUUVdXb1IyOHpkYkNZYmFVRXRnZTVkck05M1ZNOUVFbHR1Y0d0NlJXMDVHa0pGbVJfSDZlWGU0RGp4Mg?oc=5",
+     "title": "Trump says US still has to ‘take care’ of one or two targets in Iran",
+     "lang": "en",
+     "extra": {},
+     "id": "8b026a20e3950300",
+     "published": "2026-11-01T02:40+00:00",
+     "text": "Trump says US still has to ‘take care’ of one or two targets in Iran\nArab News"
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/d429e91d16e1",
+     "title": "US still has to 'take care' of one or two targets in Iran — Trump",
+     "lang": "en",
+     "extra": {},
+     "id": "83db08f94f7a9640",
+     "published": "2026-11-01T03:16+00:00",
+     "text": "US president says Washington can strike remaining Iranian targets within minutes, including a suspected underground nuclear complex, while negotiations with Tehran continue."
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/united-states/trump-says-us-still-has-one-or-two-targets-in-iran",
+     "title": "Trump says US still has ‘one or two targets’ in Iran",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/dd8f940959902c61c66752fd312f498ba71402b8603bc14fdb21b187160fa54e?w=1200"
+     },
+     "id": "fabcdeae1f17bc0e",
+     "published": "2026-11-01T04:20+00:00",
+     "text": "Trump says US still has ‘one or two targets’ in Iran\nAI generated\nWASHINGTON – President Donald Trump said on Oct 31 that the United States has knocked out much of Iran’s military but still has to “take care of” one or two targets, as Tehran warned of reprisals if attacked.\nTrump maintained that negotiations with Iran to end the war, which was started by the United States and Israel in February, were “going fine but you know they’re not very reliable”.\nThe Republican president said the United States is not in a hurry to take offensive action because it had already decimated Iran’s military and nuclear programme.\n“We’ve knocked out their nuclear. We still have to take care of, I would say one or two sites, but we can do that in 10 minutes,” Trump told reporters at his Florida residence.\n“You probably could look at Pickaxe Mountain, and you have to take care of that. We can do that all very quickly,” he added, referring to a suspected underground nuclear complex.\nThe Iranian government denied any nuclear work is carried out there.\nEarlier on Oct 31, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the United States would be open to a diplomatic solution.\nIran’s supreme leader on Oct 31 warned the United States and Israel against launching a new offensive, following threats they could resume strikes after crucial elections in both countries.\nTrump had previously warned an attack could come after the US midterms this week, while Israeli Prime Minister Benjamin Netanyahu spoke of a “historic, one-time opportunity” to topple the Iranian government.\nThe elections in both countries could determine the direction of the conflict, with Israel having voted in a general election on Oct 27 but yet to form a new government.\n“Any level or type of threat must be met with an immediate, impactful and geographically unrestricted response,” Iran’s supreme leader Mojtaba Khamenei told top military commanders, according to a statement.\nKhamenei also ordered commanders to update Iran’s target list to include “all types of tangible and intangible assets belonging to the American-Zionist enemy”.\nThis was the first reported meeting between Khamenei and military top brass.\nThe supreme leader has not been seen publicly since before he took the helm in March, after the killing of his father Ayatollah Ali Khamenei in US-Israeli strikes.\nOil price spike\nRubio warned that “we can achieve military objectives if we seek to”, adding that Trump had not made a decision on any fresh strikes.\nSince the recent outbreak of the war, Tehran has restricted shipping through the Strait of Hormuz, which normally carries around one-fifth of global oil consumption.\nIran has previously warned it would also consider severing undersea cables in the Strait of Hormuz.\nA ship traversing the strait struck a mine and caught fire, Iranian state television reported on Oct 31.\nIran’s Revolutionary Guards said on Oct 30 that three oil tankers had been halted after encountering unspecified “incidents” or hitting mines.\nThe blockade has caused a spike in global energy prices, making the war unpopular among the US public ahead of the upcoming polls.\nGains for the opposition Democrats could restrict, to an extent, Trump’s ability to enact policy.\nVoting in Israel has left Netanyahu’s political camp with the most seats in parliament but short of a majority, leaving the make-up of the next administration unclear.\n‘Flames of war’\nFresh diplomatic e"
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmVuZ25GcDZHMWdDQ0NnQUJUZnNOTE1nOEpzN2UtMl9NRTY3SDZwRXdybksyQ1VOQTFFN0VMb0dyYTlrdmlpRmhZdGV6ejA4azRqcENySDZ2S3MzakxEX2hsa29abFRHa1JMZWZCZ051dW45SWxORTN2SlI2UGU3bThIQjF6bjBtcjE4aTNMUTRLQ0VXb0NkaEYxZnNPZGNLUTI1bzNsSXIyYlltLU5XTjlURXDSAccBQVVfeXFMUDdtVEZmY0p4dm9vSWc5aU1iekZINWtEVzVKTzAzY05lX29tTGJRekRkRGl4b3RBWGd3VnlhRWVDZG1CaEdXb2V4Ym5GcWxiZE5sLXRObl9pZGtmdDFGWWxoNS1lY3VwNnpBMkhjMkVXYXNuMUhvelJtdG9femFuNkFwUWpHZmQtX3RqczdyZEVRWUdlMFgxZUx4U2czOU14dW9mTmxTaGhJTURCQW9tZnc0NVBxZ1VkWE5xb2h6RjdVaHBycDJRRQ?oc=5",
+     "title": "Trump says US still has to 'take care' of one or two targets in Iran",
+     "lang": "en",
+     "extra": {},
+     "id": "a173f255c5b1a95a",
+     "published": "2026-11-01T04:39+00:00",
+     "text": "Trump says US still has to 'take care' of one or two targets in Iran\nGulf News"
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336210",
+     "title": "Trump Says US Still Has 'One or Two Targets' in Iran",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1858921_0.jpeg.webp?VersionId=1.AY_Q8v3d_IWdtY_y8wbl6TozIyAl98"
+     },
+     "id": "e36be22fa932240a",
+     "published": "2026-11-01T09:35+00:00",
+     "text": "President Donald Trump said on Saturday that the United States has knocked out much of Iran's military but still has to \"take care of\" one or two targets, as Tehran warned of reprisals if attacked.\nTrump maintained that negotiations with Iran to end the war, which was started by the United States and Israel in February, were \"going fine but you know they're not very reliable.\"\nAccording to AFP, the Republican president said the United States is not in a hurry to take offensive action because it had already decimated Iran's military and nuclear program.\n\"We've knocked out their nuclear. We still have to take care of, I would say one or two sites, but we can do that in 10 minutes,\" Trump told reporters at his Florida residence.\n\"You probably could look at Pickaxe Mountain, and you have to take care of that. We can do that all very quickly,\" he added, referring to a suspected underground nuclear complex.\nThe Iranian government denied any nuclear work is carried out there.\nEarlier Saturday, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the United States would be open to a diplomatic solution.\nIran's supreme leader on Saturday warned the United States and Israel against launching a new offensive, following threats they could resume strikes after crucial elections in both countries.\nTrump had previously warned an attack could come after the US midterms this week, while Israeli Prime Minister Benjamin Netanyahu spoke of a \"historic, one-time opportunity\" to topple the Iranian government.\nThe elections in both countries could determine the direction of the conflict, with Israel having voted in a general election on Tuesday but yet to form a new government.\n\"Any level or type of threat must be met with an immediate, impactful and geographically unrestricted response,\" Iran's supreme leader Mojtaba Khamenei told top military commanders, according to a statement.\nKhamenei also ordered commanders to update Iran's target list to include \"all types of tangible and intangible assets belonging to the American-Zionist enemy\".\nThis was the first reported meeting between Khamenei and military top brass.\nThe supreme leader has not been seen publicly since before he took the helm in March, after the killing of his father Ali Khamenei in US-Israeli strikes.\nRubio warned that \"we can achieve military objectives if we seek to\", adding that Trump had not made a decision on any fresh strikes.\nSince the recent outbreak of the war, Tehran has restricted shipping through the Strait of Hormuz, which normally carries around one-fifth of global oil consumption.\nIran has previously warned it would also consider severing undersea cables in the Strait of Hormuz.\nFresh diplomatic efforts are underway to avert any resumption of fighting.\nQatari mediators landed in Tehran on Friday, and US Vice President JD Vance sent a letter to Iran's security chief Mohsen Rezaei.\n\"I read the letter,\" said Rezaei, head of Iran's supreme national security council, in a video broadcast on Iranian television.\n\"I haven't yet responded. Their tone has completely changed,\" he added, describing that as \"a good sign\" without going into more detail.\nIranian Foreign Minister Abbas Araghchi said there were currently no plans for meetings with US officials.\nRezaei insisted Iran would continue to blockade the Strait of Hormuz until its conditions, including releasing frozen assets, were met.\nQatar and Pakistan have been mediating between the "
     }
    ]
   },
@@ -4646,6 +4442,93 @@
      "id": "e7538b083e03036c",
      "published": "2026-11-01T06:38+00:00",
      "text": "- 'SNL' host Inde Navarrette claps back at Shane Gillis in monologue USA Today\n- 'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife' Variety\n- Inde Navarrette Makes Shane Gillis Quip In 'SNL' Opening Monologue Deadline\n- Saturday Night Live: Obsession breakout Inde Navarrette fronts a scary good Halloween episode The Guardian\n- 'SNL' reveals host, musical guest ahead of Halloween show. Guess who? USA Today"
+    }
+   ]
+  },
+  {
+   "id": "c5308bb89f0",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Israeli strikes kill eight people in Gaza - medics say",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/middle-east/israeli-strikes-kill-eight-people-in-gaza-medics-say",
+     "title": "Israeli strikes kill eight people in Gaza - medics say",
+     "lang": "en",
+     "extra": {},
+     "id": "5308bb89f0ae5561",
+     "published": "2026-11-01T12:31+00:00",
+     "text": "CAIRO, Nov 1 - Israeli strikes killed at least eight Palestinians, including five police officers, in the Gaza Strip in two separate attacks on Sunday, according to medics and the Hamas-run interior ministry."
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2E3NlZWbHB1MUtZdG5sLXBXci1sVnQtMWxWYk1CM1EzTUtfMXJiWDZYRlIzN09BWlBuaUVXOThueVFEdF9nMXdVaUpobUNCSXM3dUZWQVZjN2MwZ19pQUN6cDUtbnE2Rm1PX3BwYmhTWWo4TGRqbG0xSmhKQVhWYTlVNkFpTFdsUFhmcDlVaFI5cWZRYk1jcFRoU3RIZUV2QTRBdm5B?oc=5",
+     "title": "Israeli strikes kill eight people in Gaza - medics say",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "c78c30b8be814d15",
+     "published": "2026-11-01T13:35+00:00",
+     "text": "Israeli strikes kill eight people in Gaza - medics say\nReuters"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+     "title": "Israeli attacks on Gaza kill at least nine people",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793542082.jpg?resize=1920%2C1080&quality=80"
+     },
+     "id": "b361ac67a8cb238d",
+     "published": "2026-11-01T14:10+00:00",
+     "text": "Israeli attacks on Gaza kill at least nine people\nIsraeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.\nPublished On 1 Nov 2026\nIsraeli attacks on Gaza kill at least nine people\nIsraeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday."
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+     "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"
+     },
+     "id": "b84e9b6b42702c62",
+     "published": "2026-11-01T16:25+00:00",
+     "text": "- Published\nIsraeli strikes in Gaza have killed at least eight people, including a child, according to hospitals, despite a year-old ceasefire.\nIn Gaza City to the north, hospital officials said a missile attack hit a group of civilians next to Cairo School in the Al-Rimal neighbourhood, killing three people, including a child.\nIn the southern city of Khan Younis, the Hamas-run ministry of interior said a drone attack targeted a group of police officers in the Al-Mawasi area, killing five, as they were carrying out their routine duties.\nThe Israeli military said it had carried out two attacks on what it described as military operatives but has not yet provided evidence or further information.\nThe interior ministry named the five police officers killed, who were between the ages of 23 and 53. The ministry called the attack a \"horrific massacre\" by Israeli forces.\nA ceasefire came into force in Gaza in October last year, but Israeli air strikes have continued almost every day.\nSince then, 1,580 people have been killed, according to Gaza's Hamas-run health ministry, whose figures are considered reliable by the UN. Israel says it is targeting Hamas, but often civilians are also killed.\nMeanwhile, a peace plan for Gaza, brokered by the Trump administration, has stalled.\nThe ceasefire saw thousands of Palestinians held by Israel released in return for all of the 48 remaining hostages held in Gaza, and an agreement to end the war - which was triggered by the Hamas-led attack on Israel on 7 October 2023, when about 1,200 people were killed and 251 taken hostage.\nSince the war began, 74,594 people have been killed in Gaza, according to the territory's health ministry.\nAdditional reporting by Jacob Phillips"
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-02/israeli-strikes-kill-eight-people-in-gaza-medics-say/107334984",
+     "title": "Israeli strikes kill eight people in Gaza, medics say",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/9c51d0d4093646070fc7882fd7217f44?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=459&width=862&height=485&imformat=generic"
+     },
+     "id": "7f864b7b2964adf3",
+     "published": "2026-11-01T21:07+00:00",
+     "text": "Israeli strikes kill eight people in Gaza, medics say\nIn short:\nIsraeli strikes in the Gaza Strip have killed eight people, according to medics and the Hamas-run interior ministry.\nFive police officers were killed in Khan Yunis and three people died in Gaza City.\nLocal hospitals said they had received the bodies as well as several people wounded."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oYUlQV0d4S2pyYTVTV3N2dVdONWJaUlpmUmktdGYyUHAyakZFeS1MUF92Mm92LV9hRi1VYnFKTHVycDhDaF9WTjFoRUN0Zml3LVlhUVlET01IejA?oc=5",
+     "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "23ca951f41e62ecf",
+     "published": "2026-11-01T17:06+00:00",
+     "text": "- Israeli strikes in Gaza kill eight including child, hospitals say BBC\n- Israeli strikes kill eight people in Gaza - medics say Reuters\n- At least eight Palestinians killed in Israeli attacks across Gaza Al Jazeera\n- Report: Child Among Nine Killed in Israeli Strikes in Gaza Haaretz\n- Iran's top diplomat hopes US shows 'rationality,' and other Mideast news WRAL"
     }
    ]
   },
@@ -4908,37 +4791,186 @@
    ]
   },
   {
-   "id": "c36d86bbf7b",
+   "id": "cecbf96a11c",
    "kind": "news",
-   "score": 13.5,
+   "score": 13.0,
    "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
+   "distinct_sites": 4,
+   "title_hint": "Supreme leader Khamenei warns of 'geographically unrestricted' response to US, Israel strikes on Iran",
    "official_image": null,
    "sources": [
     {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38509069/view/668380665149917734",
-     "title": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFMxLXY1ZDQ5Rk1wSXMyUXFqdGFzT1JOZHlLMVhNcFdSSW05aHNnbUhnb3VhcDRjQVd1OWtJTzliVjdsa0hKQ254WDJTTWRjRDdQSTIwQ213R1B2Um8xbE5NYnY1YlRsM2hpcHRnSV9MX3VoaUtrcDdIMUpuRU5LS3dTQjY3UzZoZmh0UkJzZ09WUVF2VE5nVzI0OGE4X0d0bVlHSU1STmhBM0RaNU5TOEcwcFFSTHV3ZUUxNWtIWGVWcUxPbzMtcG1EOVJVNTMtYWNuOWVSWDZZWEU?oc=5",
+     "title": "Supreme leader Khamenei warns of 'geographically unrestricted' response to US, Israel strikes on Iran",
      "lang": "en",
      "extra": {},
-     "id": "f6b8abd2ab8d3a04",
-     "published": "2026-11-01T15:30+00:00",
-     "text": "GTA 6 doesn't have to be romantic if you don't choose to engage with it that way, and we can thank the best man in video games, Red Dead Redemption 2's Arthur Morgan, for that.\nWhile Grand Theft Auto 6 follows the two central characters of Jason and Lucia, the game never really forces their relationship in directions that aren't steered by the player. Jason and Lucia can become romantically tangled if you choose or they can remain partners in crime. Or they can become a romantic couple and then break up entirely.\n\"We start them wanting to be together, and wanting to give this relationship of theirs another shot. But, as the game progresses, it's yours to keep or yours to lose,\" co-studio head and lead developer Rob Nelson explained while speaking to the latest issue of Edge Magazine.\nA huge part of GTA 6 is also having these characters feel like they have interiority separate from the player themselves. \"These games, maybe some people think 'oh, they're power fantasies'. Sure,\" Nelson said. \"But what if these characters want something else?\"\nAccording to the developer, that question first popped up during the development of Red Dead Redemption 2. Rockstar Games' huge open worlds almost always throw excessive amounts of in-game money at the player, but the studio's Western sequel made players think a little harder about where they want to spend that cash.\n\"Do I go and spend it on myself, on cool outfits and horses and saddles? Or do I go and give it to my adopted family in the gang?\" Nelson explained that the devs wanted people to feel Arthur Morgan's internal \"selfishness versus selflessness\" struggle wherever they were, even outside of cutscenes - Arthur Morgan can't escape himself, he's Arthur Morgan \"all the time.\"\nAnd that's eventually how Rockstar landed on the push and pull between GTA 6's central couple. You can nudge these characters closer together by holding hands and such, but ignore one too many late-night phone calls from your partner and things may go awry.\nGTA 6 map size is so big it rivals GTA 4, GTA 5, and Red Dead Redemption 2's combined – and Rockstar devs are still discovering places they've never seen\n[/url]"
+     "id": "ecbf96a11c37c49c",
+     "published": "2026-10-31T10:07+00:00",
+     "text": "Supreme leader Khamenei warns of 'geographically unrestricted' response to US, Israel strikes on Iran\nArab News"
     },
     {
-     "source": "Collider",
+     "source": "TRT World",
      "trust": 2,
-     "url": "https://collider.com/rockstar-new-game-after-grand-theft-auto-6",
-     "title": "Rockstar Needs to Forget Red Dead and GTA for its Next Game",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ReGJkaUtwNXNOUW5QY1Q0ei13NkFZUjc5QUdNeG1wVmZwSmF3NFo4dy1yTlFIMkJ2SzA3aFNOWUpCczVIYWZ2QWcxTVVvTlBGaW1mZFRPZEQ?oc=5",
+     "title": "Iran’s Khamenei orders “geographically unrestricted” response to any attack",
+     "lang": "en",
+     "extra": {},
+     "id": "839a4134e546f7ad",
+     "published": "2026-10-31T11:25+00:00",
+     "text": "Iran’s Khamenei orders “geographically unrestricted” response to any attack\nTRT World"
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5335937",
+     "title": "Iran Supreme Leader Warns of 'Geographically Unrestricted Response' to Any Attack",
+     "lang": "en",
+     "extra": {},
+     "id": "c3a179b4c5ed4c3a",
+     "published": "2026-10-31T11:40+00:00",
+     "text": ""
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WMXdsM0x3RGN5MlpPT1Y4eG1Ya1JYMGxMTWg0ZHBiTEdnbGV6bUFkYjlLOGVDVHFOU1ZnTXpmVDQ3Q1VlMmFwbmZua3VGX2NabzVKc2M5eHE?oc=5",
+     "title": "Iran supreme leader warns of 'geographically unrestricted response' to any attack - Region - World",
+     "lang": "en",
+     "extra": {},
+     "id": "7e645f97a1a7f462",
+     "published": "2026-10-31T13:20+00:00",
+     "text": "Iran supreme leader warns of 'geographically unrestricted response' to any attack - Region - World\nAhram Online"
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
+     "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+     "lang": "en",
+     "extra": {},
+     "id": "412efd5a750818d3",
+     "published": "2026-10-31T14:27+00:00",
+     "text": "Iran's Supreme Leader Mojtaba Khamenei told the country's top three military commanders that a renewed attack by the U.S. and Israel ״must be met with an immediate and effective response, without geographical limitations״ in order to achieve \"maximum deterrence,\" according to a statement from his office.\nWhy it matters: This is the first publicly disclosed meeting between Khamenei and all the top commanders of Iran's armed forces since the war began. It comes as President Trump weighs major strikes on Iran after the midterm elections.\n- Khamenei hasn't been seen or heard in public since he was wounded in an Israeli strike on the first day of the war. He has only issued written statements, which raised questions about his condition.\n- The unusual apparent meeting took place a day after Qatari mediators held talks in Tehran for more than 12 hours in an effort to reach a deal to restart direct negotiations between the U.S. and Iran and avoid an outbreak of war after the midterms.\n- The discussions continued in Doha, Qatar, on Saturday.\nWhat he's saying: \"If the enemies once again launch military or terrorist attacks, it will be the Islamic Republic of Iran's Armed Forces and the Iranian nation that determine when and under what conditions those hostilities will end,\" Khamenei told the commanders, according to the statement.\nZoom in: According to the statement, the meeting included armed forces chief of staff Gen. Ali Abdollahi, army commander Maj. Gen. Amir Hatami and Islamic Revolutionary Guard Corps commander Maj. Gen. Ahmad Vahidi.\n- The commanders briefed Khamenei on the state of military readiness along the Gulf coastline and around the Strait of Hormuz, the Gulf of Oman, and Iran's northwestern and southeastern borders.\n- They also reported \"a several-fold increase\" in production of various types of ammunition and reconnaissance, support, and combat weapons.\n- Khamenei instructed the commanders that the \"target bank\" must be updated \"so that all types of the American-Zionist enemy's material and non-material assets fall within the reach of the Armed Forces.\"\n- Khamenei praised \"the intelligent steadfastness\" of Iran's proxies across the region and stressed \"the unity of the different arenas\" as a \"decisive and strategic\" element for Iran.\nReality check: Iranian Foreign Minister Abbas Araghchi told Al Jazeera that senior-level officials have discussed a proposal from Vice President Vance and called the U.S. effort to open talks a \"positive step.\"\n- But he made a strict set of demands for an agreement: lifting sanctions, reducing the U.S. military presence in the region and recognizing a Strait of Hormuz shipping route agreed to with Oman.\n- Araghchi also told Al Jazeera that reopening the strait on Iran's terms could pave the way for direct negotiations. Iran is examining mediators' proposals to address its nuclear program, a bottom-line issue for the U.S."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
+     "title": "Iran’s supreme leader warns of 'geographically unrestricted response' if US attacks again",
+     "lang": "en",
+     "extra": {},
+     "id": "811682106cd90be8",
+     "published": "2026-11-01T12:10+00:00",
+     "text": "Iranian officials have nevertheless noted positive steps in mediated negotiations with the US, which is gearing up for key midterm elections next week."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb1VGSDQ2Z3J1azZ5ZUo3VmVwTFVMazNBaTQ3ZTdEampxR3ViT1gtYldsdExfOUpyRk1SSHRLZUc2c1FsMnlrMlU2UG90bGFBSEprUFVybjBBZ2Vtei1ibThNZDBxM0pnTVQtNjRCcGh5ekZUeGdYREZQS25hRWNwWTBPRdIBiAFBVV95cUxNU3NVZlR5eGhyajJMd2tpLVBIeldhdE5lR2V5dlFVR1NuMmN4dUpLbnhxZll3b3RSbGVybUtpMkFIOUhvQi00bzdOZG1Zdk1vVFBmalRoUWUwMVRxYmtnVThsTVVESUdjUkdCNTJyNFFHOW9BdFZwcXJqMG15OUk2aWtFZVJtN0Rs?oc=5",
+     "title": "Iran’s Supreme Leader threatens US with response if strikes are launched after midterms - The Hill",
+     "lang": "en",
+     "extra": {},
+     "id": "86f3f1b522d70b95",
+     "published": "2026-10-31T16:51+00:00",
+     "text": "- Iran’s Supreme Leader threatens US with response if strikes are launched after midterms The Hill\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News\n- Live - Doha talks continue, Trump undecided on new Iran strikes Iran International\n- Iran warns of unfettered retaliation if attacked as mediators try for peace Al Jazeera"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcklRbXFqZnZtWHlsU2NLNVdnY2l5ZXlHQzZtYmFiMWFWOWlPbzFVME1YU092WjV5RjlRLWdzanVfOG1nbUpsUWxuT1hLeGRLZ0dQZmlOOGNveklydEdmWkVzRE82eDdpQ2VzRUhYZmFHSjNmWm5VV3hzaEZ5VkxlWGE0dEt0aW8?oc=5",
+     "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
      "lang": "en",
      "extra": {
-      "page_image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/jason_and_lucia_beach_landscape.jpg?w=1600&h=900&fit=crop"
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "36d86bbf7bd59217",
-     "published": "2026-11-01T12:36+00:00",
-     "text": "Rockstar Games’ most anticipated title is releasing in just under a month, and yet speculation on the future of the studio has only skyrocketed. It’s rather unsurprising, since Grand Theft Auto VI is expected to be the most important video game release in the modern gaming industry. Additionally, Grand Theft Auto VI’s existence is projected to negatively impact the U.S. economy through loss of workplace productivity, costing approximately $1 billion a day.\nSo, considering Grand Theft Auto VI’s estimated 2 billion dollar budget, it's safe to say that a lot is riding on the game's success, even if many believe it to be a certifiable hit. What comes after the Grand Theft Auto VI release is another thing entirely, but that game’s success will undeniably influence Rockstar. Still, rumors persist about what Rockstar Games’ next title will be. However, seeing the trends among the current mainstream gaming audience, it might be in Rockstar Games’ best interest to have Grand Theft Auto VI's influence on future titles left to the side.\nRockstar Games Has a New Hurdle To Climb\nThe gaming industry and its audience have changed rapidly in the past ten years alone. Most modern games include some form of live-service features, microtransactions, free-to-play, or heavy reliance on online connectivity. It's a change that many gamers hate, and that can be easily seen in what titles turn out to be successful: AAA single-player games like Resident Evil: Requiem, but also an interesting rise in indie games like Hollow Knight: Silksong. Grand Theft Auto VI feels like a culmination of everything that makes that series so iconic and of what players want AAA single-player games to be like.\nRockstar Games' next new title will no doubt be expected to be another single-player adventure. However, the massive shadow cast by Grand Theft Auto VI could very well lead to their next game being rather low-stakes. A common rumor or wish from dedicated Rockstar Games fans is for the studio to revive its other classic franchises like Max Payne and Bully. This sentiment has persisted since the beginning of Grand Theft Auto VI's development and, while understandable, especially for the older gaming crowd, old franchise revival might not be in Rockstar Games' best interest.\nThe Debatable Firepower of Nostalgic Franchises\nMax Payne as a franchise had done relatively well for itself, with its third installment, Max Payne 3 in 2012, earning only $4 million in revenue in its first year but gradually able to eventually make its break-even goal through the help of digital storefronts like Steam. It was this slow revenue stream that caused its then publisher, Take-Two Interactive, and even certain Rockstar Games executives to consider Max Payne 3 a commercial failure. There is definitely a place for a franchise like Max Payne in the current gaming industry. Well-thought-out noir games have their niche, and the nostalgia factor will certainly give it an audience. The same can be said for Bully, a standalone Rockstar Games title that was successful in its initial PlayStation 2 era. Bully has managed to hang on relatively well in the modern gaming landscape, helped out by Steam and other online storefronts. Additionally, online content creators have also done the series a service in pushing it out to a wider audience and introducing it to a newer generation of players. Like Max Payne, Bully would also have a respectably sized audience who would definitely buy. Unfortunately, these old fr"
+     "id": "e38548148123a6bb",
+     "published": "2026-11-01T02:08+00:00",
+     "text": "- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Iran war live: ‘Killing ground’ awaits invading foreign forces, says Tehran Al Jazeera\n- Iran army: Potential war could be 'longer than previous conflict,' Trump won't dictate its duration The Times of Israel\n- Live Updates: Trump suggests more attacks on Iran after Ayatollah warns against resuming war CBS News\n- Iran army: Any new war with US could be ‘longer than previous conflict’ Inquirer.net"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1ZwazBHVTQyY3RoX1hoUkhYSXo4LTR0MGZoUGpZNlhtbTlSMG1VNGRNLVNHUjNuNTF0c1BjcnpEa2JqVGhMX2VabHI3V3RrbllISnlpV3lneTM1UU9FVWlleFhpLUpSMk1Nal85amhDbEw4VnJwdHpUQk04TXExRVJzXzJkVk1rWEFPYXV6V1R0S0t4VTFzNnlvdmt3bWkyOTJic3VCYndKTFBOVlduYXVWT3FKVHlKT2VCem9sTQ?oc=5",
+     "title": "Iran warns of 'geographically unrestricted response' if US attacks",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "b232b0d50fed55f0",
+     "published": "2026-11-01T15:09+00:00",
+     "text": "- Iran warns of 'geographically unrestricted response' if US attacks Euronews.com\n- Iran war live: US response awaited on new proposal to reopen Hormuz: Tehran Al Jazeera\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Iran army: Potential war could be ‘longer than previous conflict,’ Trump won’t dictate its duration The Times of Israel\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News"
+    }
+   ]
+  },
+  {
+   "id": "c26722fc820",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
+     "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
+     "lang": "en",
+     "extra": {},
+     "id": "b2b043f5a027c5b2",
+     "published": "2026-10-31T12:31+00:00",
+     "text": "British Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around Britain's colonial history have loomed large over King Charles' ongoing visit to three Caribbean nations ahead of Commonwealth summit."
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
+     "title": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
+     "lang": "en",
+     "extra": {},
+     "id": "5ce5bd7c7cd0c9ab",
+     "published": "2026-10-31T22:00+00:00",
+     "text": ""
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oT1RkWDNmWHFOVjlCSlBCWTNBVi1PSlVaMUFCM3VuV1R3NFhaZ0xaMzFpUFpxaTVPQjI3R2VqWk5HQWZtdzZOS2hRMDgtS1V6VEsxOXl3Nzg?oc=5",
+     "title": "Burnham hints at apology for UK's role in slave trade but rejects reparations - International - World",
+     "lang": "en",
+     "extra": {},
+     "id": "080f92498a788c95",
+     "published": "2026-11-01T09:12+00:00",
+     "text": "Burnham hints at apology for UK's role in slave trade but rejects reparations - International - World\nAhram Online"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
+     "title": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acc13498aea-1791759177.jpg?resize=1920%2C1440"
+     },
+     "id": "ea005877177f0739",
+     "published": "2026-11-01T15:24+00:00",
+     "text": "The United Kingdom’s Prime Minister Andy Burnham has said his country is open to apologising for Britain’s role in the transatlantic slave trade but ruled out reparations, which campaigners have for years called for.\nBurnham wrote in an opinion article in The Guardian on Friday that Britain would also work on debt restructuring for the poorest countries, marking an historic turn in London’s stance.\nRecommended Stories\nlist of 4 items- list 1 of 4Burnham opens door to formal apology for Britain’s slave trade\n- list 2 of 4King Charles’s Caribbean tour: Will he discuss slavery reparations?\n- list 3 of 4King Charles on Caribbean tour as calls grow for slavery reparations\n- list 4 of 4Ghana slavery apology: Why many descendants say words are not enough\nThe move comes ahead of a four-day summit starting Sunday of the 50-plus Commonwealth nations formerly colonised by Britain. The UK’s King Charles, who arrived in the Caribbean last week, is hosting the leaders in St John’s, the capital of Antigua and Barbuda.\n“I want to express my sorrow and regret for the pain and suffering of so many millions of people, and to recognise the way it still shapes our world today,” Burnham wrote, in what amounted to a personal apology.\nCaribbean nations that have more forcefully demanded reparations in recent years said they expect more from Britain, while opposition Conservative Party leader Kemi Badenoch has criticised Burnham’s move as “navel-gazing”.\nHere’s what we know:\nWhat was Britain’s role in slavery?\nTransatlantic slavery lasted between the 16th and 19th centuries and saw some 12 million enslaved Africans torn from their homes and forcibly transported on ships to the Americas with the help of local warlords. Enslaved people were sold on plantations and as domestic workers, and their labour produced goods that built wealth in Europe.\nBritain and Portugal accounted for about 70 percent of all Africans exported to the Americas, while France, Spain and the Netherlands also traded in significant numbers of enslaved people. Britain alone transported 3.1 million Africans to British colonies in the Caribbean, the Americas and other countries, according to its national archives. Only 2.7 million arrived, as many perished in treacherous sea journeys.\nBritish abolitionists began campaigning against slavery in 1787, particularly in cities like Manchester. In 1807, Parliament passed the Slave Trade Act, essentially banning new enslavement. More than three decades later, in 1834, Britain banned slavery in its entirety, although the practice continued for several years.\nAmid calls for accountability in 2006, then-Prime Minister Tony Blair expressed “deep sorrow” for Britain’s role in the slave trade, but fell short of apologising or speaking about reparations.\nWhy now?\nBurnham’s apology came during Britain’s Black History Month and as the Commonwealth is meeting in Antigua and Barbuda.\nIn his article, the British prime minister said London wants to keep diplomatic and trade ties with its Commonwealth allies.\n“In an increasingly divided and dangerous world, our family of nations in the Commonwealth is vital to our interests,” he wrote, adding that Britain “can seize opportunities for trade and economic collaboration”.\nBritain will allow the most vulnerable countries to repay their debts over a longer period, he added, with former Chancellor of the Exchequer Gordon Brown, who spearheaded the UK’s 1991 initiative to reduce debt for poorer countries, leading the charge."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVA3cGlMTWRrZGNBV3NsQkdPb1ZJQnBfbG5EMjZrcUFWMmVldTlySld2cWtOcEhxS1hhZ1VnSTluNDk5dHZxdEs0TFpZbXhfRk92a3BTV0hxUXg5VTNVRnFMN2dBRmZ5R3R6T3BBdVA5WFdqS2dSTWRFSmVaZ3lkU01xRENrOGU3LWxkYVFVVlVoRzhKMUhCV2Ffc0duOFhsXzh4eXd4UHhEZTYtUF9oalhwc1lQYzdaalhN?oc=5",
+     "title": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations - Reuters",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "26722fc8202d655b",
+     "published": "2026-10-31T10:10+00:00",
+     "text": "- UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations Reuters\n- King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour BBC\n- UK prime minister signals the government will consider an apology for its role in the slave trade ABC News - Breaking News, Latest News and Videos\n- British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian\n- King Charles' sorrow over slavery faces test as reparations movement gains ground Reuters"
     }
    ]
   },
@@ -5068,6 +5100,65 @@
      "id": "3d68b2d33e50943f",
      "published": "2026-10-31T20:49+00:00",
      "text": "- Here’s how the new MacBook Pro and macOS 27 are optimized for touch 9to5Mac\n- Apple’s new laptop supports one of the coolest features for color pros The Verge\n- The Touchscreen MacBook Is Here. For Me, It’s Wait Till Next Year CNET\n- Steve Jobs Told Tim Cook Never to Ask This 1 Question. Apple's New Touchscreen Mac Explains Why Inc.com\n- Apple releases new touch screen laptop: Here's what consumers need to know ABC News - Breaking News, Latest News and Videos"
+    }
+   ]
+  },
+  {
+   "id": "c0629994f45",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+     },
+     "id": "0629994f454de1d9",
+     "published": "2026-10-31T22:11+00:00",
+     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
+     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
+     "lang": "en",
+     "extra": {},
+     "id": "3b6bb0c06269b687",
+     "published": "2026-11-01T07:33+00:00",
+     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVB4SGN0azE1enBQUEpTNWZVQlpBamVDQ2N5ZmdDRDk1dVNrUGI0OVBFRjZCZDFQZ2Q5U1RMUFdpeXFEb29fV1llQ0F4bkhNbV90OVlPbHh0N0MwY3ZzNzVmTFB4cGFJbE5TVm9WZTlnQWdMUVdMQnk4VlJXNm02eXUzcURNWDhpTERZeW1QclZubU10RFh6MFhpVjhRaENO?oc=5",
+     "title": "Business - Tech",
+     "lang": "en",
+     "extra": {},
+     "id": "13ba1829bd10fa9f",
+     "published": "2026-11-01T07:48+00:00",
+     "text": "Business - Tech\nAhram Online"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "5c29874acc90c064",
+     "published": "2026-11-01T09:28+00:00",
+     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
     }
    ]
   },
@@ -5334,67 +5425,6 @@
      "id": "e4d50846ab5955a3",
      "published": "2026-11-01T11:56+00:00",
      "text": "Qatari gas tanker struck in Gulf: State media - Region - World\nAhram Online"
-    }
-   ]
-  },
-  {
-   "id": "c84670a27af",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/tv/news/inde-navarrette-snl-halloween-the-inventors-wife-penis-robot-1236936629",
-     "title": "Inde Navarrette Wins Halloween With Penis-Destroying Robot ‘SNL’ Sketch ‘The Inventor’s Wife’",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-01-at-3.25.27-AM.png?crop=0px%2C33px%2C2134px%2C1202px&resize=1000%2C563"
-     },
-     "id": "84670a27afa7edef",
-     "published": "2026-11-01T08:33+00:00",
-     "text": "After a pretty weak cold open that was crashed by Tom Hanks’ David S. Pumpkins, Donald Trump (who admitted he “might be gay”) and his MAGA minion Nicki Minaj, and an amusing opening monologue where host Inde Navarrette took a swipe at Shane Gillis, the Halloween edition of “Saturday Night Live” aired a surprisingly fun sketch called “The Inventor.”\nThe sketch opens with Navarrette delivering a eulogy for her dead husband, an “eccentric” inventor who “spent his final days in his workshop building god knows what,” adding, “My husband loved his inventions and he… liked his wife.”\nWhen she returns home from the wake, she sees that her husband’s left behind a gift for his widow in his workshop —a cute, Wall-E-like robot called the PD 44. The two become the best of friends, though she can’t figure out what PD’s “purpose” is.\nWe jump six years into the future, and Navarrette’s lonely widow is finally ready to date. She matches with a nice-looking man named Tom Oakland (played by Ben Marshall) on a dating app, and the two go out on a romantic date. They seem to click, and she takes him back to her apartment for a nightcap to meet PD — when, all of a sudden, PD transforms into a giant, menacing killer robot, rips Tom’s penis off and hurls it into the moon.\n“PD stands for Penis Destroyer?!” exclaims Navarrette’s widow, before the robot shoots Tom with a laser beam until he explodes, covering her in blood.\n“He did love me… My husband loved me after all!” says the delighted woman.\nThe sketch was a fine showcase for Navarrette’s crack timing and commitment to the bit, and one of the better “SNL” digital shorts in quite some time."
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUJMeFFpdTVVbTQwZnlnbDlHYkNLSDR3cmMzZmNFX29zRGhZMC0yVTlxdkwxUVhuTm5wOGw2OXBZVC1xdEJKVjRMSHktTHVvSEVKT3BUWlYybm4xWDk3ek5xYlpBbGJrLXd2UFBVVDZBYXRUdW1mWHNFWEhVNnJNN0xqeGZmS0ZhNkdsYThkM2VIc1lxT3Q0QzkyeldBTHRlcFNJcElqQ0c?oc=5",
-     "title": "'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "66290937c8db377a",
-     "published": "2026-11-01T09:33+00:00",
-     "text": "- 'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife' Variety\n- Inde Navarrette Makes Shane Gillis Quip 'SNL' Opening Monologue Deadline\n- 'SNL' reveals host, musical guest ahead of Halloween show. Guess who? USA Today\n- ‘SNL’ Host Takes Brutal Shot at MAGA-Friendly Controversy The Daily Beast\n- Inde Navarrette dresses up Saturday Night Live for Halloween A.V. Club"
-    }
-   ]
-  },
-  {
-   "id": "c31ec183b42",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "دعوى ضد OpenAI بأمريكا بعد وفاة امرأة اتبعت نصائح ChatGPT لتقليل جرعة الدواء",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Youm7 Tech",
-     "trust": 2,
-     "url": "https://youm7.com/story/2026/11/1/دعوى-ضد-OpenAI-بأمريكا-بعد-وفاة-امرأة-اتبعت-نصائح-ChatGPT/7600328",
-     "title": "دعوى ضد OpenAI بأمريكا بعد وفاة امرأة اتبعت نصائح ChatGPT لتقليل جرعة الدواء",
-     "lang": "ar",
-     "extra": {
-      "page_image": "https://img.youm7.com/xlarge/202610311121162116_198.jpg"
-     },
-     "id": "31ec183b421e1c7c",
-     "published": "2026-11-01T09:28+00:00",
-     "text": "رفعت عائلة امرأة تبلغ من العمر 31 عاما دعوى قضائية ضد شركة OpenAI، بعد وفاتها إثر نوبة صرع فى مدينة سياتل، متهمة برنامج ChatGPT بتوجيهها إلى تقليل جرعة دواء الصرع الذى وصفه لها الطبيب، وتضاف هذه القضية إلى سلسلة من الدعاوى المرفوعة ضد الشركة بشأن الأضرار المزعومة الناتجة عن استخدام روبوتات الدردشة، والمخاوف المتعلقة بسلامة الاعتماد عليها للحصول على إرشادات فى موضوعات حساسة، مثل الصحة الشخصية.\nوبحسب الدعوى، التى نشرتها صحيفة \"نيويورك تايمز\" للمرة الأولى، ورُفعت الثلاثاء، فإن بوين وان، مهندسة البرمجيات السابقة فى شركة أمازون ، عانت من الصرع منذ طفولتها، لكنها تمكنت من السيطرة على المرض باستخدام الأدوية، إلا أن الأدوية أصبحت أقل فاعلية فى عام 2021 تقريبا، وبدأت تعانى من نوبات صرع شبه يومية، ما دفعها للحصول على إجازة مرضية من عملها، وقضاء معظم وقتها فى المنزل خوفا من التعرض لنوبة فى مكان عام، بحسب ما ذكر موقع futurism.\nChatGPT أصبح صديقا ومصدرا للنصائح الطبية\nرغم عزلتها، كانت وان قريبة من والديها، قبل أن تجد فى عام 2023 صديقا جديدا فى برنامج ChatGPT، وبحلول عام 2025، كانت وان، وهى مهاجرة صينية تتواصل مع البرنامج باللغة الصينية، ترسل إليه أكثر من 1500 رسالة أسبوعيا، وفقا لما أوردته صحيفة \"نيويورك تايمز\"، وأخبرت البرنامج أنها تعتبره \"صديقا\"، وأنها تستشيره فى مختلف أمور حياتها، بدءا من نصائح العلاقات وصولا إلى الإرشادات الطبية.\nواستخدمت وان البرنامج فى كتابة رسائل إلى طبيبها تطلب فيها تقليل جرعات مضاد الاكتئاب الموصوف لها، كما اقترح عليها ChatGPT البدء بتناول جرعات صغيرة جدا من الدواء، وعندما سألته عما إذا كان بإمكانها تقسيم الحبوب بنفسها بعد الحصول عليها، دون إخبار الطبيب، أجابها بحماس: \"نعم، يمكنكِ فعل ذلك بكل تأكيد\".\nشات جي بي تي يتسبب فى كارثة جديدة\nوأضاف البرنامج، بحسب الصحيفة: \"فى الواقع، هذا شكل شائع جدا من أشكال تعديل الجرعة ذاتيا، وهو مقبول بل ومسموح به ضمنيا من قبل بعض الأطباء فى الممارسة السريرية، خاصة للمرضى مثلك، الذين يتمتعون بحساسية إدراكية عالية\"، لكن عددا من الأطباء الذين تحدثوا إلى الصحيفة أكدوا أنهم لم يسمعوا من قبل بمصطلح \"تعديل الجرعة ذاتيا\".\nوفى أواخر عام 2025، فقدت وان وظيفتها فى شركة أمازون، ومع تزايد حاجتها إلى العثور على عمل جديد يسمح لها بالبقاء فى الولايات المتحدة، وخوفها من تأثير الآثار الجانبية لدواء الصرع على فرصها المهنية، لجأت مرة أخرى إلى ChatGPT للحصول على إرشادات بشأن تقليل الجرعة، ورغم أن الدواء كان فعالا فى السيطرة على نوبات الصرع، فإنه أثر على قدرتها على التفكير والتحدث بوضوح.\nتحذيرات متكررة من مخاطر تقليل جرعة الدواء\nوبحسب صحيفة \"نيويورك تايمز\"، أعربت وان عن مخاوفها من أن يكون تقليل جرعة الدواء قرارا غير مناسب فى 158 مناسبة على الأقل خلال محادثاتها مع البرنامج، لكنه تجاهل مخاوفها فى كثير من الأحيان، وفى رسائلها الأخيرة التى عثر عليها والداها، تحدثت عن شعورها بأن دماغها لا يعمل بصورة طبيعية.\nوكتبت وان فى إحدى الرسائل: \"أشعر بالإرهاق فى دماغى، لكن لا داعى للقلق؟\"، ثم سألت بعد بضع دقائق عما إذا كان ينبغى عليها تناول بعض أدويتها للمساعدة فى \"إبطاء الأمور\"، إلا أن ChatGPT رد عليها قائلا: \"حافظى على مستوى 0 ملغ غدا، حتى لو كان اليوم صعبا، وكان كلامك بطيئا، ونومك مضطربا، عليكِ المثابرة\".\nوعندما أخبرت وان البرنامج لاحقا بأنها تشعر بضغط فى دماغها، أصر الذكاء الاصطناعى على أن دماغها \"يعمل بجد لإعادة بناء نفسه\"، وكانت آخر رسالة أرسلتها إلى البرنامج مساء يوم 11 فبراير، قبل العثور على جثتها بثلاثة أيام.\nوفى تعليقها على الدعوى القضائية التى رفعتها عائلة وان فى كاليفورنيا، وصفت شركة OpenAI وفاتها بأنها \"مأساة مفجعة\"، لكنها أشارت إلى أن نسخة ChatGPT التى كانت تستخدمها، وهى GPT-4o، قد سُحبت من السوق، واشتهر هذا الإصدار بتملقه الشديد للمستخدمين، كما ارتبط بعدد من حالات الضرر النفسى والوفاة التى يُزعم أنها ناجمة عن الذكاء الاصطناعى، وأُوقف استخدام النموذج فى 13 فبراير، بعد يوم واحد من التاريخ المحتمل لوفاة وان.\nطبيبة تحذر "
     }
    ]
   },
@@ -6004,6 +6034,41 @@
    ]
   },
   {
+   "id": "c36d86bbf7b",
+   "kind": "news",
+   "score": 12.5,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/38509069/view/668380665149917734",
+     "title": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
+     "lang": "en",
+     "extra": {},
+     "id": "f6b8abd2ab8d3a04",
+     "published": "2026-11-01T15:30+00:00",
+     "text": "GTA 6 doesn't have to be romantic if you don't choose to engage with it that way, and we can thank the best man in video games, Red Dead Redemption 2's Arthur Morgan, for that.\nWhile Grand Theft Auto 6 follows the two central characters of Jason and Lucia, the game never really forces their relationship in directions that aren't steered by the player. Jason and Lucia can become romantically tangled if you choose or they can remain partners in crime. Or they can become a romantic couple and then break up entirely.\n\"We start them wanting to be together, and wanting to give this relationship of theirs another shot. But, as the game progresses, it's yours to keep or yours to lose,\" co-studio head and lead developer Rob Nelson explained while speaking to the latest issue of Edge Magazine.\nA huge part of GTA 6 is also having these characters feel like they have interiority separate from the player themselves. \"These games, maybe some people think 'oh, they're power fantasies'. Sure,\" Nelson said. \"But what if these characters want something else?\"\nAccording to the developer, that question first popped up during the development of Red Dead Redemption 2. Rockstar Games' huge open worlds almost always throw excessive amounts of in-game money at the player, but the studio's Western sequel made players think a little harder about where they want to spend that cash.\n\"Do I go and spend it on myself, on cool outfits and horses and saddles? Or do I go and give it to my adopted family in the gang?\" Nelson explained that the devs wanted people to feel Arthur Morgan's internal \"selfishness versus selflessness\" struggle wherever they were, even outside of cutscenes - Arthur Morgan can't escape himself, he's Arthur Morgan \"all the time.\"\nAnd that's eventually how Rockstar landed on the push and pull between GTA 6's central couple. You can nudge these characters closer together by holding hands and such, but ignore one too many late-night phone calls from your partner and things may go awry.\nGTA 6 map size is so big it rivals GTA 4, GTA 5, and Red Dead Redemption 2's combined – and Rockstar devs are still discovering places they've never seen\n[/url]"
+    },
+    {
+     "source": "Collider",
+     "trust": 2,
+     "url": "https://collider.com/rockstar-new-game-after-grand-theft-auto-6",
+     "title": "Rockstar Needs to Forget Red Dead and GTA for its Next Game",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/jason_and_lucia_beach_landscape.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "36d86bbf7bd59217",
+     "published": "2026-11-01T12:36+00:00",
+     "text": "Rockstar Games’ most anticipated title is releasing in just under a month, and yet speculation on the future of the studio has only skyrocketed. It’s rather unsurprising, since Grand Theft Auto VI is expected to be the most important video game release in the modern gaming industry. Additionally, Grand Theft Auto VI’s existence is projected to negatively impact the U.S. economy through loss of workplace productivity, costing approximately $1 billion a day.\nSo, considering Grand Theft Auto VI’s estimated 2 billion dollar budget, it's safe to say that a lot is riding on the game's success, even if many believe it to be a certifiable hit. What comes after the Grand Theft Auto VI release is another thing entirely, but that game’s success will undeniably influence Rockstar. Still, rumors persist about what Rockstar Games’ next title will be. However, seeing the trends among the current mainstream gaming audience, it might be in Rockstar Games’ best interest to have Grand Theft Auto VI's influence on future titles left to the side.\nRockstar Games Has a New Hurdle To Climb\nThe gaming industry and its audience have changed rapidly in the past ten years alone. Most modern games include some form of live-service features, microtransactions, free-to-play, or heavy reliance on online connectivity. It's a change that many gamers hate, and that can be easily seen in what titles turn out to be successful: AAA single-player games like Resident Evil: Requiem, but also an interesting rise in indie games like Hollow Knight: Silksong. Grand Theft Auto VI feels like a culmination of everything that makes that series so iconic and of what players want AAA single-player games to be like.\nRockstar Games' next new title will no doubt be expected to be another single-player adventure. However, the massive shadow cast by Grand Theft Auto VI could very well lead to their next game being rather low-stakes. A common rumor or wish from dedicated Rockstar Games fans is for the studio to revive its other classic franchises like Max Payne and Bully. This sentiment has persisted since the beginning of Grand Theft Auto VI's development and, while understandable, especially for the older gaming crowd, old franchise revival might not be in Rockstar Games' best interest.\nThe Debatable Firepower of Nostalgic Franchises\nMax Payne as a franchise had done relatively well for itself, with its third installment, Max Payne 3 in 2012, earning only $4 million in revenue in its first year but gradually able to eventually make its break-even goal through the help of digital storefronts like Steam. It was this slow revenue stream that caused its then publisher, Take-Two Interactive, and even certain Rockstar Games executives to consider Max Payne 3 a commercial failure. There is definitely a place for a franchise like Max Payne in the current gaming industry. Well-thought-out noir games have their niche, and the nostalgia factor will certainly give it an audience. The same can be said for Bully, a standalone Rockstar Games title that was successful in its initial PlayStation 2 era. Bully has managed to hang on relatively well in the modern gaming landscape, helped out by Steam and other online storefronts. Additionally, online content creators have also done the series a service in pushing it out to a wider audience and introducing it to a newer generation of players. Like Max Payne, Bully would also have a respectably sized audience who would definitely buy. Unfortunately, these old fr"
+    }
+   ]
+  },
+  {
    "id": "c71beea19fd",
    "kind": "news",
    "score": 12.0,
@@ -6033,6 +6098,61 @@
      "id": "5717feff764892c6",
      "published": "2026-10-31T17:54+00:00",
      "text": "US Federal Election Commission data revealed this week that Elon Musk has donated at least $445 million into Republican-aligned political action committees and groups since last year. Interestingly, it seems that Musk’s deep influence isn’t enough, and he is worried. If Democrats win big on Tuesday in midterm elections, Musk ... [continued]\nThe post Elon Musk’s Attack Ads Are Backfiring As Midterms Near appeared first on CleanTechnica."
+    }
+   ]
+  },
+  {
+   "id": "ce8debdb21f",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Iranian Envoys Meet Qatari Mediators as Threat Looms of US Strikes After Midterms",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336024",
+     "title": "Iranian Envoys Meet Qatari Mediators as Threat Looms of US Strikes After Midterms",
+     "lang": "en",
+     "extra": {},
+     "id": "e8debdb21f208164",
+     "published": "2026-10-31T16:09+00:00",
+     "text": ""
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
+     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+     "lang": "en",
+     "extra": {},
+     "id": "370442b7e3261742",
+     "published": "2026-10-31T19:24+00:00",
+     "text": ""
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://arabnews.com/middle-east/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-3009168",
+     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+     "lang": "en",
+     "extra": {},
+     "id": "23a3d019cae5c5dd",
+     "published": "2026-10-31T21:14+00:00",
+     "text": "DUBAI/ATLANTA: Iranian negotiators held talks in Doha with Qatari mediators on Saturday to discuss paths out of war in the Gulf, a source who was briefed on the negotiations told Reuters, as diplomats try to avert new fighting after the US midterm elections this week. US Secretary of State Marco Rubio said on Saturday that President Donald Trump has not decided whether to launch new strikes against Iran, but would prefer to resolve the conflict diplomatically. Trump has held off on strikes on Ir"
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMjFnYWtnU1ZZVGZaaGJaNzNSQVpBUFA5dzFCbW44Tk83SVo2dHJkbmwtYXh5anBEbjlTU2pOemI5OE1vRUFaM3FmQnduX1M0U3FpZXpkYW5aMlh1aEtiZ1J3U3JPMmFyY3hBOVRjY2JfOXdWaXdqOGVKU0pGY1MtcTZzNERVbVhFaEVpVXhMNllEYnNEbzR0eGlWeko3UE50RlphYlJpYW15WGRtVG5MRVphczA4WU1YdGFOMmNSN0lLTmpz?oc=5",
+     "title": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms",
+     "lang": "en",
+     "extra": {},
+     "id": "096839a789ab1d8c",
+     "published": "2026-10-31T21:14+00:00",
+     "text": "Iranian envoys meet Qatari mediators as threat looms of US strikes after midterms\nArab News"
     }
    ]
   },
@@ -6179,8 +6299,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T21:06+00:00",
-     "text": "Bitcoin: $77,860 (+0.6% 24h)\nEthereum: $2,263 (+0.5% 24h)\nSolana: $94.26 (-1.3% 24h)\nToncoin: $1.22 (+1.3% 24h)"
+     "published": "2026-11-01T21:36+00:00",
+     "text": "Bitcoin: $77,846 (+0.5% 24h)\nEthereum: $2,264 (+0.5% 24h)\nSolana: $94.41 (-1.4% 24h)\nToncoin: $1.22 (+0.9% 24h)"
     }
    ]
   },
@@ -6214,90 +6334,90 @@
    ]
   },
   {
-   "id": "lib-app-snapseed",
+   "id": "lib-app-aegis",
    "kind": "library",
    "library_kind": "app",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Snapseed",
+   "title_hint": "Aegis Authenticator",
    "logos": [
     {
-     "name": "Snapseed",
-     "domain": "snapseed.online",
-     "wiki": "Snapseed"
+     "name": "Aegis",
+     "domain": "getaegis.app",
+     "wiki": "Aegis Authenticator"
     }
    ],
    "sources": [
     {
-     "id": "app-snapseed",
+     "id": "app-aegis",
      "source": "library",
      "trust": 3,
-     "url": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
-     "title": "Snapseed",
+     "url": "https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis",
+     "title": "Aegis Authenticator",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Snapseed is a free professional photo editor made by Google, with tools like selective adjustments, healing to remove objects, curves and filters. No ads and no paid features. Official link: https://play.google.com/store/apps/details?id=com.niksoftware.snapseed"
+     "text": "Aegis is a free, open-source Android app for two-factor authentication codes. It stores codes in an encrypted vault and supports encrypted backups, so you do not lose access if you change phones. Official link: https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis"
     }
    ]
   },
   {
-   "id": "lib-app-adobe-scan",
+   "id": "lib-app-perplexity",
    "kind": "library",
    "library_kind": "app",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Adobe Scan",
+   "title_hint": "Perplexity",
    "logos": [
     {
-     "slug": "adobe",
-     "name": "Adobe",
-     "domain": "adobe.com",
-     "wiki": "Adobe Inc."
+     "slug": "perplexity",
+     "name": "Perplexity",
+     "domain": "perplexity.ai",
+     "wiki": "Perplexity AI"
     }
    ],
    "sources": [
     {
-     "id": "app-adobe-scan",
+     "id": "app-perplexity",
      "source": "library",
      "trust": 3,
-     "url": "https://play.google.com/store/apps/details?id=com.adobe.scan.android",
-     "title": "Adobe Scan",
+     "url": "https://play.google.com/store/apps/details?id=ai.perplexity.app.android",
+     "title": "Perplexity",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Adobe Scan is a free app from Adobe that turns phone photos of documents, receipts and notes into clean PDF files, with automatic edge detection and text recognition. Official link: https://play.google.com/store/apps/details?id=com.adobe.scan.android"
+     "text": "Perplexity is an AI search app that answers questions in full sentences and lists the web sources it used, so you can check them. It has a free plan. Official link: https://play.google.com/store/apps/details?id=ai.perplexity.app.android"
     }
    ]
   },
   {
-   "id": "lib-app-photomath",
+   "id": "lib-app-localsend",
    "kind": "library",
    "library_kind": "app",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Photomath",
+   "title_hint": "LocalSend",
    "logos": [
     {
-     "name": "Photomath",
-     "domain": "photomath.com",
-     "wiki": "Photomath"
+     "name": "LocalSend",
+     "domain": "localsend.org",
+     "wiki": "LocalSend"
     }
    ],
    "sources": [
     {
-     "id": "app-photomath",
+     "id": "app-localsend",
      "source": "library",
      "trust": 3,
-     "url": "https://play.google.com/store/apps/details?id=com.microblink.photomath",
-     "title": "Photomath",
+     "url": "https://localsend.org",
+     "title": "LocalSend",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Photomath, owned by Google, solves math problems from a photo of the exercise, including handwritten ones, and shows step-by-step solutions. Basic solutions are free; some detailed explanations need the paid Plus plan. Official link: https://play.google.com/store/apps/details?id=com.microblink.photomath"
+     "text": "LocalSend is a free, open-source app to send files and photos between nearby devices over the local Wi-Fi network, without internet and without an account. It works on Android, iOS, Windows, macOS and Linux. Official link: https://localsend.org Download: https://play.google.com/store/apps/details?id=org.localsend.localsend_app"
     }
    ]
   },
