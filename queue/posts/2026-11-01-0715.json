@@ -1,0 +1,81 @@
+[
+ {
+  "id": "2026-11-01-0717-discovery-mars-teghaza",
+  "slot": "2026-11-01T07:17:00+01:00",
+  "type": "discovery",
+  "category": "discovery",
+  "cluster_id": "c4d0797adb0",
+  "headline": "حجر وردي من الصحراء الكبرى عمره 4.1 مليار سنة",
+  "photo": {
+   "url": "https://th-thumbnailer.cdn-si-edu.com/t7tbwP2vEXZE2RCDUlFtVYg8K-A=/fit-in/1600x0/filters:focal(1920x1097:1921x1098)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/4f/d3/4fd337e2-4d9f-4a6b-9f61-ed3c16d5c7c8/1-teghaza_1611-white-flat_final_a.jpg"
+  },
+  "photo_candidates": [
+   "https://earthsky.org/upl/2026/07/Teghaza-001-Mars-meteorite-Sahara-Desert-September-2022-full-size.png",
+   "https://earthsky.org/upl/2026/07/Teghaza-001-Mars-meteorite-Sahara-Desert-September-2022.png"
+  ],
+  "photo_query": "Teghaza 001 Martian meteorite",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "NASA",
+    "domain": "nasa.gov"
+   }
+  ],
+  "text": "⚡ **حجر وردي وُجد في الصحراء الكبرى تبيّن أنه قطعة من المريخ عمرها 4.1 مليار سنة.**\n\nعُثر عليه سنة 2022 كحجر غريب اللون. التحاليل أثبتت أنه **نيزك قذفه المريخ** نحو الأرض، وأنه من أقدم قطع هذا الكوكب التي نملكها.\n\n**لماذا هذا مهم؟** هذا الحجر **أقدم من أقدم صخرة معروفة على الأرض**. تكوّن حين كانت الحياة على كوكبنا في بدايتها.\n\nالعلماء يعرفون أكثر من **400 نيزك مريخي**، واثنان فقط منها كانا يحكيان عن شباب المريخ. هذا ثالثها، واسمه تغازة 001.\n\nنُشرت الدراسة في مجلة Science يوم 29 أكتوبر.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-01-0729-news-france-gb-tax",
+  "slot": "2026-11-01T07:29:00+01:00",
+  "type": "news",
+  "category": "news",
+  "cluster_id": "web-france-gb-tax",
+  "headline": "فرنسا تصوّت على ضريبة عن كل غيغابايت",
+  "sources": [
+   {
+    "url": "https://tech.slashdot.org/story/26/10/31/1857243/french-lawmakers-back-per-gigabyte-internet-traffic-tax",
+    "title": "French Lawmakers Back Per-Gigabyte Internet Traffic Tax",
+    "text": "France has approved a proposed tax that aims to tax the amount of internet data per gigabyte sent to French users in the country... members voted 11-10 in support of the motion on October 30. The latest amendment, introduced by socialist lawmaker Laurent Lhardit, could see content providers pay €0.055 (roughly $0.06) to the government for every gigabyte of content distributed to French users. Such a tax could generate around €10 billion ($11.2 billion) in annual revenue. Its explanatory notes particularly mention Google, Meta, Netflix, Amazon, and content delivery network Akamai. Internet service providers, including Orange Free and Iliad, would be required to measure the volume of data and identify the companies responsible for sending it. The proposal is yet to be passed as it must survive further parliamentary scrutiny."
+   },
+   {
+    "url": "https://www.macg.co/services/2026/10/le-parti-socialiste-fait-passer-sa-taxe-sur-les-donnees-internet-une-premiere-etape-312045",
+    "title": "Le Parti socialiste fait passer sa taxe sur les données Internet, une première étape avant la mise en place",
+    "text": "Amendement adopté le vendredi 30 octobre dans un hémicycle clairsemé. Taxe de 0,055 euro (5.5 centimes) par gigaoctet, environ 10 milliards d'euros par an. Amendement au PLF 2027 (budget 2027). Le gouvernement a émis un avis défavorable. Adoption improbable au Sénat. En cas de 49.3 l'amendement devrait disparaître."
+   }
+  ],
+  "photo": {
+   "url": "https://cdn.mgig.fr/2026/10/mga-ae034d89-w1500.jpg"
+  },
+  "photo_candidates": [
+   "https://cdn.mgig.fr/2026/10/mga-c454be34-w1500.jpg",
+   "https://cdn.mgig.fr/2026/10/mga-ae034d89.jpg"
+  ],
+  "photo_query": "Hemicycle Assemblée nationale Palais Bourbon",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Assemblée nationale",
+    "domain": "assemblee-nationale.fr"
+   }
+  ],
+  "text": "⚡ **نواب فرنسا يصوّتون على ضريبة جديدة: جوجل ونتفليكس وميتا تدفع عن كل غيغابايت يصل إلى الفرنسيين.**\n\nالمبلغ **0.055 يورو عن كل غيغابايت**، أي 5.5 سنتيم. أصحاب الاقتراح يقدّرون مداخيلها بنحو **10 مليارات يورو سنوياً**.\n\nالتصويت جرى يوم 30 أكتوبر في قاعة شبه فارغة، **بـ11 صوتاً مقابل 10**. مزوّدو الإنترنت مثل أورنج سيقيسون حجم البيانات ويحدّدون الشركة التي أرسلتها.\n\nالقرار **ليس قانوناً بعد**: الحكومة تعارضه، ومجلس الشيوخ قد يُسقطه قبل ميزانية 2027.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-01-0742-news-whatsapp-groups",
+  "slot": "2026-11-01T07:42:00+01:00",
+  "type": "news",
+  "category": "news",
+  "cluster_id": "c480714b4f3",
+  "headline": "واتساب يضيف 4 ميزات جديدة للمجموعات",
+  "photo": {
+   "url": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&strip=all"
+  },
+  "photo_candidates": [
+   "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/09/WhatsApp-on-iPhone.jpg?ssl=1",
+   "https://fdn.gsmarena.com/imgroot/news/26/10/whatsapp-group-status/-952x498w6/gsmarena_001.jpg"
+  ],
+  "photo_query": "WhatsApp group chat smartphone screen",
+  "gallery": [],
+  "logos": [],
+  "text": "⚡ **واتساب يضيف 4 ميزات جديدة للمجموعات، أهمها تثبيت الرسائل بلا مدة.**\n\n• **تثبيت دائم**: الرسالة المثبتة تبقى أعلى المجموعة، بعد أن كان الحد الأقصى 30 يوماً.\n• **فلتر الإشارات والردود**: يعرض فقط المجموعات التي ذُكر فيها اسمك أو رُدّ فيها عليك.\n• **حالة للمجموعة**: تنشرها لأعضاء مجموعة واحدة فقط، وتختفي بعد 24 ساعة.\n• **الرسائل السابقة للعضو الجديد**: ترسلها له بالضغط على اسمه بعد انضمامه.\n\nافتح واتساب واسحب قائمة المحادثات إلى الأسفل لتجد الفلتر الجديد. الميزات تصل تدريجياً، فقد تتأخر أياماً على هاتفك.\n\n◆ @DeeptechDZ"
+ }
+]
