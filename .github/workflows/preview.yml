@@ -1,0 +1,48 @@
+name: Card preview
+
+# Renders queued posts exactly as the publisher would (real photo lookup on the open internet)
+# and uploads the PNGs as an artifact. Nothing is posted to Telegram.
+on:
+  workflow_dispatch:
+    inputs:
+      pattern:
+        description: "posts files glob"
+        default: "queue/posts/2026-11-*.json"
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: |
+          sudo apt-get install -y -qq libraqm0 libfribidi0 > /dev/null
+          pip install -q -r requirements.txt
+      - name: Render
+        run: |
+          python - <<'PY'
+          import glob, json, logging, os
+          from pathlib import Path
+          logging.basicConfig(level=logging.INFO)
+          from dtdz.card import render
+          from dtdz.gate import web_cluster
+          from dtdz.photos import resolve
+          cands = {c["id"]: c for c in json.load(open("queue/candidates.json"))["clusters"]}
+          for f in sorted(glob.glob(os.environ["PATTERN"])):
+              for p in json.load(open(f)):
+                  c = cands.get(p.get("cluster_id")) or web_cluster(p)
+                  out = render(p, Path("cards") / f"{p['id']}.png", c)
+                  print("CARD", p["id"], out)
+          PY
+        env:
+          PATTERN: ${{ inputs.pattern }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cards
+          path: |
+            cards/
+            data/photos/*.json

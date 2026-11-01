@@ -77,6 +77,15 @@ People decide in one second from the image. Spend real effort on it.
   (`curl -sL -o /tmp/p.jpg "<url>"`), then render the card (`python -m dtdz render
   queue/posts/<file>.json --outbox /tmp/cards`) and Read the PNG. If downloads are blocked in your
   environment, choose images whose page you have read and whose description clearly matches.
+- **Three photo fields are mandatory on every post** (the check refuses a post without them):
+  `"photo": {"url": …}` your best image of the story · `"photo_candidates": [2–4 more image URLs of the
+  same story]` · `"photo_query": "specific English Wikimedia Commons search"` (e.g. "Martian meteorite
+  NWA 7034", "New York Stock Exchange trading floor", "Falcon 9 launch night"). Your sandbox often
+  cannot download images; the publisher (open internet) tries them in order — your photo, your
+  candidates, the official sources' lead image, Commons with your query, the press article's lead
+  image — and keeps the first one that is ≥1200 px wide. So give image URLs you saw on the page
+  (og:image, the newsroom's press-kit image), not guesses. A market post gets a trading-floor or coin
+  photo with the exchange's logo; a space post gets the object itself; never leave it to chance.
 - Fields: `"photo": {"url": "…"}` → the photo is published raw at full quality with a small logo and
   the channel mark (default `"layout": "raw"`; use `"layout": "hero"` to print the headline on it).
   Edits: `"crop": [x0,y0,x1,y1]` to zoom, `"blur": [x0,y0,x1,y1]` to show something hidden (fractions).
@@ -167,5 +176,6 @@ text · hashtags · closing quips.
 ```json
 [{"id": "2026-11-01-1407-binance", "slot": "2026-11-01T14:07:00+01:00", "type": "news",
   "category": "breaking", "breaking": true, "cluster_id": "c…", "headline": "4-10 Arabic words",
-  "photo": {"url": "https://…jpg"}, "gallery": [], "logos": [], "text": "…\n\n◆ @DeeptechDZ"}]
+  "photo": {"url": "https://…jpg"}, "photo_candidates": ["https://…", "https://…"],
+  "photo_query": "specific English search", "gallery": [], "logos": [], "text": "…\n\n◆ @DeeptechDZ"}]
 ```

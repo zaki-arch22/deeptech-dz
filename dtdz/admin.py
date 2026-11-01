@@ -59,6 +59,11 @@ def send_previews(bot, root: Path, admin: int, now: float | None = None) -> int:
     q = root / "queue"
     done = _done_ids(q / "history.jsonl", q / "rejected.jsonl") | set(ovr["cancel"])
     sent = 0
+    try:
+        clusters = {c["id"]: c for c in json.loads((q / "candidates.json").read_text(encoding="utf-8"))["clusters"]}
+    except Exception:  # noqa: BLE001
+        clusters = {}
+    from .gate import web_cluster
     for p in load_queue(q / "posts"):
         pid = p.get("id")
         if not pid or pid in done or pid in ovr["previewed"] or not p.get("slot"):
@@ -67,7 +72,7 @@ def send_previews(bot, root: Path, admin: int, now: float | None = None) -> int:
         if not (0 < dt <= PREVIEW_MIN * 60):
             continue
         try:
-            img = render(p, root / "data" / "cards" / f"{pid}.png")
+            img = render(p, root / "data" / "cards" / f"{pid}.png", clusters.get(p.get("cluster_id")) or web_cluster(p))
             when = datetime.fromtimestamp(_ts(p["slot"]), TZ).strftime("%H:%M")
             kb = {"inline_keyboard": [[{"text": "✅ انشر الآن", "callback_data": f"now:{pid}"},
                                        {"text": "🗑 ألغِ", "callback_data": f"cancel:{pid}"}]]}

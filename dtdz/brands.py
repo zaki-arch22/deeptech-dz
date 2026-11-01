@@ -345,7 +345,9 @@ def logo_specs(post: dict, text: str) -> list[dict]:
     for slug in post.get("brands") or detect_brands(text):
         if len(specs) >= MAX_BRANDS:
             break
-        if any(s.get("slug") == slug for s in specs):
+        dom = (DOMAINS.get(slug) or "").removeprefix("www.")
+        if any(s.get("slug") == slug or (dom and (s.get("domain") or "").removeprefix("www.").split("/")[0] == dom)
+               or (s.get("label") or "").lower() == brand_label(slug).lower() for s in specs):
             continue
         specs.append({"key": slug, "label": brand_label(slug), "domain": DOMAINS.get(slug),
                       "wiki": brand_label(slug), "slug": slug})

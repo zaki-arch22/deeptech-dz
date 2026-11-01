@@ -116,7 +116,7 @@ def run_once(root: str | Path, sender: Sender, now: float | None = None) -> dict
             stats["rejected"].append(post["id"])
             log.warning("rejected %s: %s", post["id"], errs)
             continue
-        image = render(post, root / "data" / "cards" / f"{post['id']}.png")
+        image = render(post, root / "data" / "cards" / f"{post['id']}.png", cluster)
         try:
             msg_id = sender.send(post, image)
         except Exception as exc:  # noqa: BLE001 — retried next minute, inside the grace window

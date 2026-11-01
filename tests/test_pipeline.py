@@ -45,7 +45,11 @@ GOOD = (
 
 def post(text=GOOD, **kw):
     return {"id": "2026-10-31-0830", "slot": "2026-10-31T08:30:00+01:00", "type": "news",
-            "cluster_id": "cx", "text": text, "logos": [{"name": "Nimbus Labs", "domain": "site0.com"}], **kw}
+            "cluster_id": "cx", "text": text, "logos": [{"name": "Nimbus Labs", "domain": "site0.com"}], **(PHOTO | kw)}
+
+
+PHOTO = {"photo": {"url": "https://site0.com/chip.jpg"}, "photo_query": "Nimbus Labs chip",
+         "photo_candidates": ["https://site0.com/a.jpg", "https://site0.com/b.jpg"]}
 
 
 # ---------- text ----------
@@ -233,3 +237,24 @@ def test_web_sourced_post(tmp_path):
     c = web_cluster(p)
     assert c and c["sources"][0]["trust"] == 2
     assert not [e for e in check_post(p, c, BANNED, [], NOW) if e.startswith("fact")]
+
+
+def test_logo_not_duplicated():
+    from dtdz.brands import logo_specs
+    p = {"text": "ناسا تكشف نيزكاً من المريخ", "logos": [{"name": "NASA", "domain": "nasa.gov"}]}
+    assert len(logo_specs(p, p["text"])) == 1
+
+
+def test_photo_resolver_falls_through_to_commons(monkeypatch):
+    import dtdz.photos as ph
+    from PIL import Image
+    big = Image.new("RGB", (1600, 900), "red")
+    tried = []
+    monkeypatch.setattr(ph, "_image", lambda url: tried.append(url) or None)
+    monkeypatch.setattr(ph, "og_image", lambda url: None)
+    monkeypatch.setattr(ph, "commons_search", lambda q, limit=12: (big, "commons:" + q) if q == "mars meteorite" else None)
+    post = {"id": "t1", "type": "discovery", "text": "x", "photo": {"url": "https://a/1.jpg"},
+            "photo_candidates": ["https://a/2.jpg"], "photo_query": "mars meteorite"}
+    im, url = ph.resolve(post, None)
+    assert url == "commons:mars meteorite" and tried[:2] == ["https://a/1.jpg", "https://a/2.jpg"]
+    assert ph.resolve(post, None)[1] == url          # cached: preview and post use the same photo

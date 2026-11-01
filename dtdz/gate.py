@@ -221,6 +221,12 @@ def _check_post(post: dict, cluster: dict | None, banned: list, history: list[di
     # Real photos of the story itself, from anywhere on the web, as long as the image is published by
     # the organisation the story is about (its site, newsroom, press kit, CDN) or is freely licensed.
     ph = post.get("photo")
+    if not (ph and ph.get("url")):
+        err.append("visual: every post needs \"photo\": {\"url\": …} — the real, striking photo of the story")
+    if not post.get("photo_query"):
+        err.append("visual: add \"photo_query\" (English, specific, e.g. \"Martian meteorite NWA 7034\") as a backup search")
+    if len(post.get("photo_candidates") or []) < 2:
+        err.append("visual: add \"photo_candidates\": 2–4 more image URLs of the same story (used if the first fails)")
     specs = ([ph] if ph else []) + list(post.get("gallery") or [])
     if len(post.get("gallery") or []) > 3:
         err.append("visual: max 3 gallery photos")

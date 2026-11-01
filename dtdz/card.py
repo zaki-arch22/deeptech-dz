@@ -328,36 +328,24 @@ def _raw(photo: Image.Image, specs: list[dict]) -> Image.Image:
     return base.convert("RGB")
 
 
-def render(post: dict, out: str | Path) -> Path:
-    if post.get("photo") and post.get("layout", "raw") == "raw":
-        from .brands import logo_specs, photo_for
-        photo = photo_for(post["photo"])
-        if photo is not None and photo.width >= MIN_PHOTO_W and photo.height >= 500:
-            img = _raw(edit_photo(photo, post["photo"]),
-                       logo_specs(post, (post.get("headline") or "") + "\n" + post["text"]))
-            out = Path(out)
-            out.parent.mkdir(parents=True, exist_ok=True)
-            img.save(out, "PNG", optimize=True)
-            return out
-    if post.get("photo") and post.get("layout", "raw") in ("hero", "raw"):
-        from .brands import logo_specs, photo_for
-        photo = photo_for(post["photo"])
-        if photo is not None and (photo.width < MIN_PHOTO_W or photo.height < MIN_PHOTO_H):
-            import logging
-            logging.getLogger("dtdz.card").warning("photo too small (%sx%s) for %s — logo layout used",
-                                                  photo.width, photo.height, post.get("id"))
-            photo = None
-        if photo is not None:
-            ph = post["photo"]
-            photo = edit_photo(photo, ph)
-            credit = ph.get("credit") or ("صورة: ويكيميديا كومنز" if ph.get("commons") else
-                                          "صورة: ويكيبيديا" if ph.get("wiki") else "صورة: المصدر الرسمي")
+def render(post: dict, out: str | Path, cluster: dict | None = None) -> Path:
+    """Real photo first (photos.resolve tries the writer's choices, the sources' lead images and
+    Wikimedia Commons); the logo card is only the last resort."""
+    from .brands import logo_specs
+    from .photos import resolve
+    specs = logo_specs(post, (post.get("headline") or "") + "\n" + post["text"])
+    got = resolve(post, cluster)
+    if got is not None:
+        photo = edit_photo(got[0], post.get("photo") or {})
+        if post.get("layout") == "hero" and photo.height >= MIN_PHOTO_H:
             accent = ACCENT.get("breaking" if post.get("breaking") else post["type"], BRAND)
-            img = _hero(post, photo, accent, logo_specs(post, (post.get("headline") or "") + "\n" + post["text"]), credit)
-            out = Path(out)
-            out.parent.mkdir(parents=True, exist_ok=True)
-            img.save(out, "PNG", optimize=True)
-            return out
+            img = _hero(post, photo, accent, specs, "")
+        else:
+            img = _raw(photo, specs)
+        out = Path(out)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        img.save(out, "PNG", optimize=True)
+        return out
     ptype = post["type"]
     accent = ACCENT.get("breaking" if post.get("breaking") else ptype, BRAND)
     img = Image.new("RGB", (W, H), INK)
