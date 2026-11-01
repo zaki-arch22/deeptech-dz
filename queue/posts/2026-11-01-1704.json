@@ -1,0 +1,73 @@
+[
+  {
+    "id": "2026-11-01-1704-xai-homes",
+    "slot": "2026-11-01T17:04:00+01:00",
+    "type": "news",
+    "category": "news",
+    "cluster_id": "c9d449d2dca",
+    "headline": "ماسك يعرض شراء 418 منزلاً مقابل التخلي عن مقاضاته",
+    "photo": {"url": "https://media.thenextweb.com/2026/11/gas-turbines-power-plant-southaven-mississippi-aerial.jpg"},
+    "photo_candidates": [
+      "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&w=1920&h=1080",
+      "https://futurism.com/wp-content/uploads/2026/10/elon-musk-real-estate-local-residents-sue-data-center-noise.jpg?w=1200"
+    ],
+    "photo_query": "xAI Colossus data center gas turbines Memphis",
+    "gallery": [],
+    "logos": [{"name": "xAI", "domain": "x.ai"}, {"name": "SpaceX", "domain": "spacex.com"}],
+    "text": "⚡ **شركة إيلون ماسك تعرض شراء 418 منزلاً قرب مركز بياناتها، بشرط ألا يقاضيها أصحابها.**\n\nقاضية فيدرالية أمريكية رفضت طلب شركة الذكاء الاصطناعي إكس إيه آي، التابعة لسبيس إكس، إسقاط دعوى رفعتها ضدها أشهر جمعية للدفاع عن حقوق السود في أمريكا.\n\nالدعوى تتهم الشركة بتشغيل **27 توربيناً غازياً دون ترخيص** لتزويد مراكز بيانات الذكاء الاصطناعي العملاقة قرب مدينة ممفيس بالكهرباء.\n\nالسكان يشتكون من **ضجيج لا يتوقف** ومن تلوث الهواء. والشركة تعرض شراء بيوتهم، لكن من يقبل يتنازل عن حقه في مقاضاتها.\n\nالقضية تتواصل الآن أمام محكمة فيدرالية في ولاية ميسيسيبي، بعد قرار القاضية يوم 31 أكتوبر.\n\n◆ @DeeptechDZ"
+  },
+  {
+    "id": "2026-11-01-1722-el-nino-record",
+    "slot": "2026-11-01T17:22:00+01:00",
+    "type": "trend",
+    "category": "trend",
+    "cluster_id": "web-el-nino-record-2026",
+    "headline": "ظاهرة النينيو تتجه لأقوى مستوى في التاريخ المسجل",
+    "sources": [
+      {"url": "https://wmo.int/node/39069", "title": "Sea-surface temperatures reflect strengthening El Niño (WMO, 8 October 2026)",
+       "text": "Sea-surface temperatures in the central and eastern tropical Pacific are forecast to reach record levels during October-November-December 2026. The Niño 3.4 anomaly rose from about +1.6°C in June to +2.5°C in August. The seasonal Niño 3.4 anomaly for October-December 2026 is forecast at about +3.7°C, peaking around December, exceeding the previous record of +2.6°C from November 2015 to January 2016. WMO Secretary-General Celeste Saulo: El Niño is firmly established and strengthening rapidly. WMO forecasts a near-100% likelihood that El Niño persists through February 2027."},
+      {"url": "https://kuwaittimes.com/article/52069/business/un-el-nino-could-be-literally-off-the-monitoring-charts/", "title": "UN: El Nino could be literally off the monitoring charts",
+       "text": "Wednesday, October 21, 2026, Geneva. WMO chief Celeste Saulo said the event is literally off the monitoring charts that we have used for the past four decades. Tropical Pacific sea surface temperatures may reach 3.8C above average during November to January. UN aid chief Tom Fletcher released $50 million for 11 frontline countries, including Chad, El Salvador, Ethiopia, Somalia, and South Sudan. The event will peak toward the end of 2026."},
+      {"url": "https://aljazeera.com/news/2026/11/1/bolivia-declares-state-of-emergency-over-el-nino-weather-pattern", "title": "Bolivia declares state of emergency over El Nino weather pattern",
+       "text": "Bolivian President Rodrigo Paz signed the decree on Saturday. Drought is now affecting 78,000 families in six of Bolivia's nine departments and has led to the loss of more than 75,000 cattle. Neighbouring Chile's capital, Santiago, recorded the rainiest October ever, while wildfires in Peru killed at least 12 people last month. Argentina farmers evacuate cattle by boat as El Nino escalates."},
+      {"url": "https://svs.gsfc.nasa.gov/5683", "title": "NASA SVS: Signs of El Niño in 2026",
+       "text": "Animated maps of the tropical Pacific comparing 2025 and 2026: unusually warm surface water in the central and eastern tropical Pacific, higher-than-usual sea surface heights. Released October 15, 2026."}
+    ],
+    "photo": {"url": "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005683/elnino_2026_ssta_1010_nolabels.02200.jpg"},
+    "photo_candidates": [
+      "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005683/elnino_2026_ssta_1010_nolabels.02200_preview.jpg",
+      "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005683/elnino_2026_ssta_cb_1010.02200.jpg",
+      "https://svs.gsfc.nasa.gov/vis/a000000/a005600/a005683/elnino_2026_ssta_avw_ssha_1010_nolabels.02200.jpg"
+    ],
+    "photo_query": "El Nino 2026 sea surface temperature anomaly Pacific NASA",
+    "gallery": [],
+    "logos": [{"name": "WMO", "domain": "wmo.int"}, {"name": "NASA", "domain": "nasa.gov"}],
+    "text": "🚨 **ظاهرة النينيو تتجه لأقوى مستوى في التاريخ المسجل، وبوليفيا تعلن حالة الطوارئ.**\n\nالنينيو هو ارتفاع حرارة مياه المحيط الهادئ قرب خط الاستواء، فتتغير الرياح والأمطار في مناطق كثيرة من العالم.\n\nالمنظمة العالمية للأرصاد الجوية تتوقع أن تبلغ حرارة المياه **3.7 درجات فوق المعدل** قبل نهاية السنة. والرقم القياسي السابق كان 2.6 درجة فقط، في شتاء 2015.\n\nالآثار بدأت فعلاً:\n• بوليفيا: الجفاف أصاب **78,000 عائلة**، ونفق أكثر من 75,000 رأس ماشية.\n• تشيلي: العاصمة سانتياغو سجلت أكثر شهر أكتوبر مطراً في تاريخها.\n• البيرو: حرائق الغابات قتلت 12 شخصاً على الأقل الشهر الماضي.\n\nالأمم المتحدة خصصت **50 مليون دولار** لـ11 دولة مهددة، منها تشاد والصومال وإثيوبيا، والظاهرة مستمرة حتى فبراير 2027 على الأقل.\n\n◆ @DeeptechDZ"
+  },
+  {
+    "id": "2026-11-01-1741-photomath",
+    "slot": "2026-11-01T17:41:00+01:00",
+    "type": "app",
+    "category": "app",
+    "cluster_id": "web-photomath-app",
+    "headline": "فوتوماث: صوّر تمرين الرياضيات واحصل على الحل مشروحاً",
+    "sources": [
+      {"url": "https://photomath.com/articles/photomath-101-get-math-with-photomath/", "title": "Photomath 101: Get Math with Photomath",
+       "text": "Take a photo of a problem, including handwritten ones; resize the viewfinder to capture the full problem. Photomath will walk you through each step of the process in detail, with explanations of the reasoning behind steps. Covers arithmetic through calculus, plus geometry and word problems. The app is free with basic step-by-step explanations; Photomath Plus adds Animated Tutorials, teacher-approved definitions and deeper explanations."},
+      {"url": "https://9to5google.com/2024/02/29/photomath-google-app/", "title": "Photomath is now officially a Google app",
+       "text": "Google acquired Photomath, based in Croatia, launched in 2014, free to use. Photograph math problems, including word problems, and get step-by-step explanations: elementary math, algebra, geometry, trigonometry, statistics and calculus. Over 100 million downloads and a 4.5 rating on Android. Optional Photomath Plus subscription adds textbook solutions, animated tutorials and in-depth explanations. Available on Android and the iOS App Store."},
+      {"url": "https://play.google.com/store/apps/details?id=com.microblink.photomath", "title": "Photomath on Google Play",
+       "text": "Photomath, owned by Google, solves math problems from a photo of the exercise, including handwritten ones, and shows step-by-step solutions. Official link: https://play.google.com/store/apps/details?id=com.microblink.photomath"}
+    ],
+    "photo": {"url": "https://lh3.googleusercontent.com/WCCzXxg2_N-MCAexKqE-Oj6jck8g9a8ScU6vuO5LFpp8btWaQl9IG-2YxOHk8fkiH3rLDPeZ1NzWVNYlNvwJPtx-c_huDIoAffYn=e365-pa-nu-w1800"},
+    "photo_candidates": [
+      "https://lh3.googleusercontent.com/jrjqMLbyLF21KS4q_aXx5ltKGzgT5ffmNrLXPVkdoTE0nGtP92yeIZYuCUEt9BPv2wmWEgKq7HOBGX4Rl8mEHp4QqzfdKDNkg_md=e365-pa-nu-w1800",
+      "https://lh3.googleusercontent.com/zTXFmbw2GVSEdS1ZYaZgyaV0nf06s_1GNIBgmRPQL-IDVjZGJAFmDEzEpbMlxVIa2wY4F02dlgLPOXuOS76k9wCVoQgr0Q1qOkpY=e365-pa-nu-w1800",
+      "https://9to5google.com/wp-content/uploads/sites/4/2024/02/Photomath-Google-app-cover.jpg?quality=82&strip=all&w=1600"
+    ],
+    "photo_query": "Photomath app scanning handwritten math problem",
+    "gallery": [],
+    "logos": [{"name": "Photomath", "domain": "photomath.com"}],
+    "text": "⚡ **صوّر تمرين الرياضيات بهاتفك، فيشرح لك الحل خطوة بخطوة: هذا هو تطبيق فوتوماث من جوجل.**\n\n• يقرأ التمارين **المكتوبة بخط اليد**، والمسائل المكتوبة بالكلمات.\n• يغطي الحساب والجبر والهندسة وحساب المثلثات والإحصاء والتفاضل والتكامل.\n• يشرح سبب كل خطوة، فتفهم الطريقة وتعيدها وحدك في الامتحان.\n\nالحلول الأساسية **مجانية**، أما الدروس المتحركة والشروح الأعمق فتحتاج اشتراك Plus المدفوع.\n\nالتطبيق تجاوز **100 مليون تحميل** على أندرويد، ومتوفر أيضاً على آيفون.\n\n🔗 play.google.com/store/apps/details?id=com.microblink.photomath\n\n◆ @DeeptechDZ"
+  }
+]
