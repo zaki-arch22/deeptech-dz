@@ -1,10 +1,151 @@
 {
- "generated_at": "2026-11-01T07:56:50+00:00",
+ "generated_at": "2026-11-01T08:28:03+00:00",
  "clusters": [
+  {
+   "id": "cf557515ed0",
+   "kind": "news",
+   "score": 29.0,
+   "sensitive": true,
+   "distinct_sites": 9,
+   "title_hint": "FBI accuses North Korea of Binance hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446",
+     "title": "FBI accuses North Korea of Binance hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/bc8575bf0d416d34c9f249187acb27b8?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=263&width=862&height=485&imformat=generic"
+     },
+     "id": "f557515ed0172a50",
+     "published": "2026-11-01T01:48+00:00",
+     "text": "In short:\nThe FBI has blamed North Korean hackers for the Binance crypto hack.\nThis week, $US6.3 billion ($6.9 million) in bitcoin and other digital currency was stolen from the world's largest crypto exchange.\nWhat's next?\nBinance says it has enough funds to cover 90 per cent of the stolen assets.\nThe FBI has accused North Korea of stealing $US6.3 billion n ($6.9 million) in virtual assets from the cryptocurrency exchange Binance, in what is thought to be the biggest crypto heist in history.\nIn a statement, the US bureau said the North Korean state-sponsored unit known as TraderTraitor was responsible for the \"malicious cyber activity\".\nOn Thursday, $US6.3 billion in bitcoin and other digital currency was stolen from Binance, the world's largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe FBI's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90 per cent of what was stolen.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\n\"The FBI maintains its commitment to protecting the virtual asset community by identifying, mitigating, and disrupting North Korea's illicit cybercrime and virtual asset theft activities,\" it said.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called Ethereum.\nThe FBI said it expects TraderTraitor would now attempt to convert the assets using de-centralised finance (DeFi) and \"instant swap services\".\n\"It is expected these assets will then be further laundered,\" it said.\nThey are the same actors behind a $US1.5 billion Bybit hack last year.\n'Cat and mouse game' of tracking assets\nCrypto expert and chief policy officer at blockchain intelligence firm TRM Labs Ari Redbord said he expected the hackers would break the stolen assets into pieces and try to launder them through smaller exchanges to evade detection, a process that could unfold over months.\n\"It's bank robbery, in this case, at the speed of the internet,\"Mr Redbord said.\n\"However, we can also track and trace those funds in real time in order to build investigations, to disrupt and to seize back funds.\n\"It's just this cat and mouse game.\"\n90 per cent of assets recovered, Binance says\nOn Saturday, Binance said it had enough set aside in the same digital currency that was stolen, to cover 90 per cent of the missing assets.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said the outstanding 10 per cent consists of tokens that are less liquid, which means they may take longer to source in the required amounts.\nBinance suspended user withdrawals after the hack, but said in its latest update that they were on track to resume Sunday.\nReuters/AFP/AP"
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+     "title": "FBI says North Korea behind $6 billion Binance crypto theft",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79819974_6.jpg"
+     },
+     "id": "a73d21e0a0ff967e",
+     "published": "2026-11-01T01:53+00:00",
+     "text": "The FBI said Saturday that North Korea was behind the theft of more than $6 billion (€5.36 billion) in virtual assets from the cryptocurrency exchange Binance.\n\"The Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the US law enforcement agency said in a statement.\nThe theft, which happened within a matter of minutes, is believed to be the biggest cryptocurrency heist in history.\nThe stolen assets included bitcoin, ethereum and stablecoins such as tether and USD Coin, whose values are pegged to traditional currencies.\nNews of the cyberattack caused the prices of most major cryptocurrencies to slump on Friday.\nWhat did the FBI say?\nThe FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe agency said it had \"observed TraderTraitor actors converting stolen assets\" primarily into a cryptocurrency called ethereum.\n\"It is expected these assets will then be further laundered by converting them using DeFi [decentralized finance] and instant swap services as they prepare them for further laundering stages,\" it added.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to ensure the money is not laundered to cover up its origins.\nWhat did Binance say about the heist?\nBinance is the world's largest crypto exchange by daily trading volumes.\nThe exchange said on Saturday it was using company funds worth over $6.34 billion to buy tokens to replenish about 90% of the assets stolen in the attack.\nThe remaining 10% consisted of tokens that were less liquid, meaning they may take longer to buy back, the company said.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nThe heist came amid growing worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
+     "title": "FBI blames North Korea for record $6.3bn crypto heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-30T080136Z_484047327_RC2JDOAHBGKT_RTRMADP_3_FINTECH-CRYPTO-BINANCE-HACK-1793491721.jpg?resize=1920%2C1440"
+     },
+     "id": "09816b77f9ad6760",
+     "published": "2026-11-01T02:28+00:00",
+     "text": "The FBI has linked North Korea to the theft of a record $6.3bn in virtual assets from cryptocurrency exchange Binance.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them primarily into the cryptocurrency Ethereum, the FBI said in a statement on Saturday.\nRecommended Stories\nlist of 3 items- list 1 of 3Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?\n- list 2 of 3Tracking the money: The biggest donors in the 2026 US midterm elections\n- list 3 of 3Russia jails IT worker for 13 years for donating money to Ukraine\nThe US agency blamed the operation specifically on a group called TraderTraitor, the same group blamed for a $1.5bn theft from the Bybit platform in February last year.\nAccording to the statement, the assets are expected to be “further laundered” in stages.\nThe FBI called on virtual asset service providers to block transactions being used in the latest laundering operation, providing the suspected digital addresses to watch for.\nIn a separate statement on Saturday, Binance said it has replaced 90 percent of the amount stolen by using company money to buy new tokens.\nThe remaining 10 percent consists of less liquid tokens, meaning they may take longer to buy, it added.\n“We will continue to buy the remaining relevant token assets… until the covered amount reaches 100 [percent] for all tokens. Binance will absorb the financial impact of these stolen funds, not our users,” the company said on X.\nThe money spent re-buying tokens came from a $1bn Secure Asset Fund for Users (SAFU), a Bitcoin reserve fund Binance holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund and the company’s corporate treasury.\nCrypto prices fell on Friday, as Binance, which runs the world’s largest crypto exchange, sought to reassure customers their funds were safe.\nBinance co-CEO Richard Teng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it hard to trace and investigate.\nAfter the hack, the exchange stopped allowing customers to withdraw their funds.\nBinance said later on Saturday that it was on track to reopen withdrawals on Sunday.\nBinance also announced the publication of a new proof-of-reserves snapshot, allowing users to independently verify that their assets were backed at a minimum 1:1 ratio."
+    },
+    {
+     "source": "Guardian World",
+     "trust": 2,
+     "url": "https://theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193"
+     },
+     "id": "96d7e79ee6dac342",
+     "published": "2026-11-01T02:41+00:00",
+     "text": "Cryptocurrency exchange Binance says it has replaced 90% of the amount stolen after a record $6.3bn hack of its platform by a group the FBI identified as being backed by North Korea.\nThe remaining 10% of tokens are less liquid, meaning they may take longer to buy, the company said in a post on X on Saturday. Co-CEO Richard Teng said separately that the company was “committed to covering the remaining 10%” and that “users will not bear the financial impact of this incident”.\nBinance suspended user withdrawals after the hack, but said in its latest update that it was on track to resume them on Sunday.\nThe announcement came as the FBI on Saturday confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked North Korean leader Kim Jong-un.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,” the law enforcement agency said in a statement.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralised finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets”.\nTeng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nBinance said it had set aside around $6.34bn of company funds to cover the losses.\n“Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said.\nThe money spent re-buying tokens came from using part of its $1bn Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company’s own corporate treasury, it said on X.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly 6% and BNB, native to Binance, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea – which faces extensive international sanctions over its nuclear and missile programmes – to find illicit means to capture revenue."
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336153",
+     "title": "FBI Accuses NKorea of Standing Behind $6 Billion Crypto Theft from Binance",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1858788_0.jpeg.webp?VersionId=aP810tyP6f4W1ivzuPxuGw2gR2__ndB4"
+     },
+     "id": "a736455a38686676",
+     "published": "2026-11-01T05:55+00:00",
+     "text": "The FBI on Saturday accused North Korea of stealing more than $6 billion in virtual assets from the cryptocurrency exchange Binance in what is thought to be the biggest-ever crypto heist.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them into ethereum, said the FBI, adding that it expects “further laundering stages” for the stolen digital assets.\nThe US law enforcement agency's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90% of what was stolen.\nBinance is the world's largest crypto exchange by daily trading volumes.\nNews of the cyberattack caused the prices of most major cryptocurrencies to fall sharply on Friday.\nThe FBI confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is the same group blamed for a $1.5 billion theft from the Bybit platform in February last year.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,” the statement said.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralized finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.”\nUS President Donald Trump, however, cast doubt on the North Korea's involvement in the hack.\n“I'm not concerned. We're learning about it. We don't know if it's North Korea,” Trump told reporters at his residence in Florida late Saturday.\nThe president often reflects with pride on summits he held with North Korean leader Kim Jong Un during his first term.\nBinance said Saturday it has set aside more than $6.34 billion in company funds to cover losses in the hack.\n“Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said on X.\nIt said it has used company money to buy tokens to replenish 90 percent of the stolen funds, while the remaining 10% of tokens are “less liquid, which means they may take longer to source in the required amounts.”\nBinance suspended user withdrawals after the hack, but said in its latest update they were on track to resume Sunday.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly six percent and BNB, native to Binance, tumbled nearly 10%.\nBinance said Friday it was working to resolve what it called a “complex attack” with several “points of breach.”\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea -- which faces extensive international sanctions over its nuclear and missile programs -- to find illicit means to capture revenue.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for “The Interview,"
+    },
+    {
+     "source": "The Hacker News",
+     "trust": 2,
+     "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png"
+     },
+     "id": "6e20a9798345e8f5",
+     "published": "2026-11-01T06:44+00:00",
+     "text": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899.\nThe FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it observed the threat actor converting stolen assets primarily into Ethereum (ETH).\n\"It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages,\" the FBI said in a statement.\nThe agency has also provided a list of wallet addresses that the attackers are said to be using to launder the stolen assets.\nThe development comes as Binance said it has resumed phase one of withdrawals starting today between 6 and 9 a.m. UTC after they were paused in the wake of the incident.\n\"Since the incident, our teams have taken precautionary measures to safeguard the platform, conducted security assessments, and worked to verify the readiness of affected services,\" Binance said in a statement.\n\"We aim to restore withdrawals progressively as we complete security and readiness checks. Deposit services remain open and are not affected by the incident.\"\nThe haul eclipses the $1.46 billion plundered from Bybit in February 2025, making it the largest cryptocurrency theft in history. The funds were stolen across 11 blockchains, 82% of which were on Ethereum and Bitcoin.\n\"This single incident almost doubles the total cryptoassets stolen by the regime,\" blockchain analysis firm Elliptic said. \"Actors linked to North Korea, officially the Democratic People’s Republic of Korea (DPRK), are believed to have stolen over $6.5 billion in cryptoassets in recent years.\"\nOf the $6.43 billion stolen by TraderTraitor, $2.85 billion of the assets have been frozen on-chain by Tether, Circle, Ripple, Arbitrum, and Optimism.\nTraderTraitor is the name assigned to a North Korean group that has a history of orchestrating cryptocurrency thefts against the Web3.0 industry by tricking victims into downloading malware-laced applications. The cluster is known to be active since at least 2020.\nIn recent years, the adversary has been attributed to cryptocurrency heists targeting DMM Bitcoin, Bybit, KelpDAO, and Bitget.\nReports from SentinelOne, Zscaler ThreatLabz, and Microsoft have revealed that TraderTraitor is continuing to hone its tradecraft, using trojanized Terraform providers as a malware distribution vector and leveraging front companies to conduct job-themed targeting against individuals involved in cybersecurity, AI, blockchain, and talent recruitment companies.\nThe poisoned Terraform provider is used to deliver a Bash loader that selects and downloads malware tailored to the victim's operating system. This includes a cross-platform implant called FLATROOF, which siphons sensitive data from the victim using a Python-based information stealer before ultimately dropping the ROOFDECK backdoor to obtain complete remote control.\nThe activity once again demonstrates how North Korean threat actors continue to abuse trusted developer workflows through trojanized Terraform providers to deliver cross-platform malware across macOS, Linux, and Windows systems, and gain persistent access.\nTraderTraitor's modus operandi, like other North Korea-linked campaigns such as Lazarus Group's Operation Dream Job an"
+    },
+    {
+     "source": "Cointelegraph",
+     "trust": 2,
+     "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack",
+     "title": "FBI blames North Korea for record $6.3B Binance hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg"
+     },
+     "id": "66cf12f62953f72c",
+     "published": "2026-11-01T07:44+00:00",
+     "text": "FBI blames North Korea for record $6.3B Binance hack\nUS agency seeks private-sector help to block further money-laundering of stolen digital assets.\nThe FBI said that the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of about $6.3 billion in digital assets from cryptocurrency exchange Binance on Thursday.\nThe FBI said on Saturday in a news release that it refers to this specific North Korean malicious cyber activity as “TraderTraitor,” which it has most recently observed converting stolen assets mostly into Ether (ETH).\nIt expects these assets to be further converted, using DeFi and instant swap services, as the hackers move to more advanced laundering stages.\nThe FBI urged private sector entities including THORNode operators, RPC node operators, instant exchanges, DeFi services, blockchain analytics firms and other digital asset service providers to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets. A full list of addresses is provided on the news release.\nCointelegraph reported earlier this year that North Korea-linked hackers stole about 60% of the value lost to crypto hacks in 2025, with proceeds used to help fund the regime’s nuclear and ballistic missile programs, highlighting a growing reliance on digital assets to generate hard currency.\nNorth Korean defense spending supplemented\nThose findings came from a CertiK report that attributed more than $2 billion of an estimated $3.4 billion in 2025 crypto security losses to groups tied North Korea, across 79 of 656 incidents documented that year.\nWhile North Korea does not publish credible budget data, according to independent research organization MilitarySpend, mid-range consensus places its actual annual defense spending at as much as $6 billion, using purchasing-power-adjusted GDP estimates, though this figure is uncertain.\nMilitarySpend adds that revenue from Russia arms transfers — estimated at as much as $5 billion in munitions exported to Russia from 2022-2025 per South Korean intelligence — supplements domestic weapons programs, as does cryptocurrency theft, which provides additional off-budget financing for WMD development.\nAs Cointelegraph reported, between 2016 and early 2026, North Korea-linked actors stole an estimated $6.75 billion in cryptocurrency across 263 documented incidents, according to CertiK, citing findings by independent onchain researcher Taylor Monahan.\nCertiK’s analysis concluded that North Korea has industrialized crypto theft into a core state revenue mechanism."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/fbi-blames-north-korea-for-63-billion-binance-crypto-hack",
+     "title": "FBI blames North Korea for $6.3 billion Binance crypto hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://images.euronews.com/articles/stories/09/97/35/01/1200x675_cmsv2_0523fe0e-3cc9-5cfb-8fe0-f90cbf72bc29-9973501.jpg"
+     },
+     "id": "e6b0a07cbd591a98",
+     "published": "2026-11-01T08:15+00:00",
+     "text": "According to the CISA, TraderTraitor is a North Korean state-sponsored hacking group that has been associated with cryptocurrency thefts and cyberattack tactics since at least 2020.\nThe US' Federal Bureau of Investigation (FBI) has accused North Korea of being behind a major hack targeting the Binance cryptocurrency exchange earlier this week.\nBinance suffered what its co-CEO Richard Teng described as a \"complex attack\" that saw hackers gain access to its hot wallets and steal $6.3 billion in digital assets.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the FBI said in a statement on Saturday.\n\"The FBI refers to this specific North Korean malicious cyber activity as 'TraderTraitor,'\" it continued, adding that it had observed TraderTraitor actors converting stolen assets into Ethereum and that it expected these to be \"further laundered by converting them using DeFi and instant swap services.\"\nAccording to the US' Cybersecurity and Infrastructure Security Agency (CISA), TraderTraitor is a North Korean state-sponsored hacking group that has been associated with cryptocurrency thefts and cyberattack tactics since at least 2020.\nIt is believed to be part of the Lazarus Group, which the CISA says has carried out attacks against a variety of blockchain and cryptocurrency industry targets using spearphishing campaigns and malware.\nFollowing the Binance attack, the exchange announced that it had suspended deposits and withdrawals as its team carried out security checks, froze funds and worked with law enforcement operatives to investigate the incident.\nThe company said that it has now covered around 90% of the impacted amount stolen in the hack and that withdrawals were resuming \"in phases.\"\nBinance said the remaining 10% of tokens were \"less liquid,\" meaning they could take longer to buy.\nIn a video statement posted on social media, Teng said the company was \"committed to covering all hacked losses through our company funds.\"\n\"Your assets are safe,\" he added."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Bma2xxdW43TWpaNFB0MnVLS3FVUGt4SVIxb1gyVzNHeFRWcWlhb19WdnRxTnF1eFl4ak1VMEJJQ2RadHdWOVI4Rk5NbHVPY2t1Z1U5M2FhLTF5bzVkYVg0bWRSVWd4UzBhY1lVcWdCR0d2Q2RBRFJNVTdkU2pZQng1Mm9vUU9WM2J0UzQ1eFRiWFN0WDkya9IBngFBVV95cUxNYXROV2xtZ2I2aWVDbnpuQVdtbkF6UXJfSVdpbkdkVmN2ZDd4dlBlYndDOTl3V2lDdGxvTDdRem9Ka0d2MEZtWF9kcTdRQ2dxckxLcGV2UmFGenpwTk1RWi1jYnJXR1ZfRXJiWHpuRXJRTmQ2X2NxNnB0aWJXeUZCXzVjQkdQSHhud1BuTG9mbHNiemlYVEF3Q0hOeGFRQQ?oc=5",
+     "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance - Al Jazeera",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "8717c959751eb1f9",
+     "published": "2026-11-01T02:40+00:00",
+     "text": "- FBI blames North Korea for record $6.3bn crypto heist from Binance Al Jazeera\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stealing billions from world’s largest crypto firm The Times of Israel\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance says it has covered $6 billion of $6.3 billion stolen in hack Reuters"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmZHbGpSM3BwNVpUdHkteHN5Q2lTNTh0SVZjNjM3Yjkyd0dKcnY5LWJrNHpVeEIyYVBOTDVSUWowdEExN3hxU1lkR3dJODQ5RDhLU0pXWXJmbGRaNVJvV1hjUjVCalk5bVdhSnBod1pyY1Z6eFV6Xy1YcUFvZlNxNkJLYkRmcXhOc0IxbjJoaEJoRWVZS3Y4Q0V1UmVoaXlvUUU5bFFoeXZsVEU?oc=5",
+     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack - The Guardian",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "da51d61e643b2fd0",
+     "published": "2026-11-01T02:41+00:00",
+     "text": "- Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack The Guardian\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Binance to Resume Customer Withdrawals in Phases After Hack Bloomberg.com\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    }
+   ]
+  },
   {
    "id": "c154d6ff5e1",
    "kind": "news",
-   "score": 29.0,
+   "score": 28.0,
    "sensitive": true,
    "distinct_sites": 11,
    "title_hint": "Judge Again Tosses Out Donald Trump’s $10 Billion Lawsuit Against The Wall Street Journal Over Its Reporting On Jeffrey Epstein Birthday Letter",
@@ -144,134 +285,6 @@
      "id": "f3b985eb7998ab57",
      "published": "2026-11-01T01:59+00:00",
      "text": "A federal judge has thrown out US President Donald Trump's $US10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to convicted sex offender Jeffrey Epstein.\nUS District Judge Darrin Gayles dismissed the lawsuit filed in Miami, saying the president was \"grasping at straws\".\nJudge Gayles ruled the president did not prove the defendants made defamatory statements with actual malice as required by law and the suit had attempted to \"manufacture\" flaws in the newspaper's reporting.\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Mr Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Mr Trump.\nMr Trump denied writing it and called the story \"false, malicious, and defamatory\".\nThe case was thrown out \"with prejudice\", which means it cannot be refiled again and the dismissal is permanent.\nThe Wall Street Journal (WSJ) published a story that said a Dow Jones spokesperson said the company was pleased with the decision.\nA spokesman for Mr Trump's legal team told the WSJ the president would appeal the ruling.\n\"The president will continue to hold those who mislead the American people with fake news and smears accountable for their actions,\" the spokesman said.\nTrump calls out 'malicious' reporting\nThe letter bearing Mr Trump's name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, \"Happy Birthday — and may every day be another wonderful secret\", according to the newspaper.\nIn his lawsuit, Mr Trump called the alleged birthday greeting \"fake\" and sought $US10 billion ($14 billion) for what he called damage to his reputation.\nNews Corp's Dow Jones, the Journal's parent, defended the accuracy of its July 17, 2025, article.\nThe lawsuit was one of several Mr Trump has filed in his second term against major media outlets over reporting he has characterised as unfair or false.\nIn asking Judge Gayles to dismiss the case in September, lawyers for the Journal and its billionaire owner Rupert Murdoch wrote that the lawsuit threatened to chill the speech of those who publish content that Mr Trump does not like.\nWasn't the case already dismissed?\nYes.\nDonald Trump's case, originally filed July 18, 2025 against The Wall Street Journal (WSJ), was thrown out by the same judge, Darrin Gayles, in April of this year.\nHe said the article did not meet the \"actual malice\" standard that public figures must clear in defamation.\nThey must prove not only that a public statement about them was false but also that the media outlet or person who made the statement knew or should have known that it was false.\n\"This complaint comes nowhere close to this standard,\" Judge Gayles wrote.\n\"Quite the opposite.\"\nMr Trump was then allowed to refile the lawsuit which he did later that month.\nAccording to the amended lawsuit, Mr Trump called Mr Murdoch on July 15, 2025, after WSJ reporters contacted the White House about the story.\n\"In response, Murdoch stated, 'I will handle it,' which President Trump reasonably interpreted as meaning that Murdoch believed President Trump, and that the article would not be published,\" the lawsuit says.\nRepresent"
-    }
-   ]
-  },
-  {
-   "id": "cf557515ed0",
-   "kind": "news",
-   "score": 27.0,
-   "sensitive": true,
-   "distinct_sites": 8,
-   "title_hint": "FBI accuses North Korea of Binance hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/fbi-blames-north-korea-binance-cryptocurrency-exchange-hack/107333446",
-     "title": "FBI accuses North Korea of Binance hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/bc8575bf0d416d34c9f249187acb27b8?impolicy=wcms_watermark_news&cropH=2250&cropW=4000&xPos=0&yPos=263&width=862&height=485&imformat=generic"
-     },
-     "id": "f557515ed0172a50",
-     "published": "2026-11-01T01:48+00:00",
-     "text": "In short:\nThe FBI has blamed North Korean hackers for the Binance crypto hack.\nThis week, $US6.3 billion ($6.9 million) in bitcoin and other digital currency was stolen from the world's largest crypto exchange.\nWhat's next?\nBinance says it has enough funds to cover 90 per cent of the stolen assets.\nThe FBI has accused North Korea of stealing $US6.3 billion n ($6.9 million) in virtual assets from the cryptocurrency exchange Binance, in what is thought to be the biggest crypto heist in history.\nIn a statement, the US bureau said the North Korean state-sponsored unit known as TraderTraitor was responsible for the \"malicious cyber activity\".\nOn Thursday, $US6.3 billion in bitcoin and other digital currency was stolen from Binance, the world's largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe FBI's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90 per cent of what was stolen.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\n\"The FBI maintains its commitment to protecting the virtual asset community by identifying, mitigating, and disrupting North Korea's illicit cybercrime and virtual asset theft activities,\" it said.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called Ethereum.\nThe FBI said it expects TraderTraitor would now attempt to convert the assets using de-centralised finance (DeFi) and \"instant swap services\".\n\"It is expected these assets will then be further laundered,\" it said.\nThey are the same actors behind a $US1.5 billion Bybit hack last year.\n'Cat and mouse game' of tracking assets\nCrypto expert and chief policy officer at blockchain intelligence firm TRM Labs Ari Redbord said he expected the hackers would break the stolen assets into pieces and try to launder them through smaller exchanges to evade detection, a process that could unfold over months.\n\"It's bank robbery, in this case, at the speed of the internet,\"Mr Redbord said.\n\"However, we can also track and trace those funds in real time in order to build investigations, to disrupt and to seize back funds.\n\"It's just this cat and mouse game.\"\n90 per cent of assets recovered, Binance says\nOn Saturday, Binance said it had enough set aside in the same digital currency that was stolen, to cover 90 per cent of the missing assets.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said the outstanding 10 per cent consists of tokens that are less liquid, which means they may take longer to source in the required amounts.\nBinance suspended user withdrawals after the hack, but said in its latest update that they were on track to resume Sunday.\nReuters/AFP/AP"
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
-     "title": "FBI says North Korea behind $6 billion Binance crypto theft",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79819974_6.jpg"
-     },
-     "id": "a73d21e0a0ff967e",
-     "published": "2026-11-01T01:53+00:00",
-     "text": "The FBI said Saturday that North Korea was behind the theft of more than $6 billion (€5.36 billion) in virtual assets from the cryptocurrency exchange Binance.\n\"The Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the US law enforcement agency said in a statement.\nThe theft, which happened within a matter of minutes, is believed to be the biggest cryptocurrency heist in history.\nThe stolen assets included bitcoin, ethereum and stablecoins such as tether and USD Coin, whose values are pegged to traditional currencies.\nNews of the cyberattack caused the prices of most major cryptocurrencies to slump on Friday.\nWhat did the FBI say?\nThe FBI said the theft was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe agency said it had \"observed TraderTraitor actors converting stolen assets\" primarily into a cryptocurrency called ethereum.\n\"It is expected these assets will then be further laundered by converting them using DeFi [decentralized finance] and instant swap services as they prepare them for further laundering stages,\" it added.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to ensure the money is not laundered to cover up its origins.\nWhat did Binance say about the heist?\nBinance is the world's largest crypto exchange by daily trading volumes.\nThe exchange said on Saturday it was using company funds worth over $6.34 billion to buy tokens to replenish about 90% of the assets stolen in the attack.\nThe remaining 10% consisted of tokens that were less liquid, meaning they may take longer to buy back, the company said.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nThe heist came amid growing worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss",
-     "title": "FBI blames North Korea for record $6.3bn crypto heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-30T080136Z_484047327_RC2JDOAHBGKT_RTRMADP_3_FINTECH-CRYPTO-BINANCE-HACK-1793491721.jpg?resize=1920%2C1440"
-     },
-     "id": "09816b77f9ad6760",
-     "published": "2026-11-01T02:28+00:00",
-     "text": "The FBI has linked North Korea to the theft of a record $6.3bn in virtual assets from cryptocurrency exchange Binance.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them primarily into the cryptocurrency Ethereum, the FBI said in a statement on Saturday.\nRecommended Stories\nlist of 3 items- list 1 of 3Netanyahu’s pitch: Can Israel use crypto to evade economic sanctions?\n- list 2 of 3Tracking the money: The biggest donors in the 2026 US midterm elections\n- list 3 of 3Russia jails IT worker for 13 years for donating money to Ukraine\nThe US agency blamed the operation specifically on a group called TraderTraitor, the same group blamed for a $1.5bn theft from the Bybit platform in February last year.\nAccording to the statement, the assets are expected to be “further laundered” in stages.\nThe FBI called on virtual asset service providers to block transactions being used in the latest laundering operation, providing the suspected digital addresses to watch for.\nIn a separate statement on Saturday, Binance said it has replaced 90 percent of the amount stolen by using company money to buy new tokens.\nThe remaining 10 percent consists of less liquid tokens, meaning they may take longer to buy, it added.\n“We will continue to buy the remaining relevant token assets… until the covered amount reaches 100 [percent] for all tokens. Binance will absorb the financial impact of these stolen funds, not our users,” the company said on X.\nThe money spent re-buying tokens came from a $1bn Secure Asset Fund for Users (SAFU), a Bitcoin reserve fund Binance holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund and the company’s corporate treasury.\nCrypto prices fell on Friday, as Binance, which runs the world’s largest crypto exchange, sought to reassure customers their funds were safe.\nBinance co-CEO Richard Teng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it hard to trace and investigate.\nAfter the hack, the exchange stopped allowing customers to withdraw their funds.\nBinance said later on Saturday that it was on track to reopen withdrawals on Sunday.\nBinance also announced the publication of a new proof-of-reserves snapshot, allowing users to independently verify that their assets were backed at a minimum 1:1 ratio."
-    },
-    {
-     "source": "Guardian World",
-     "trust": 2,
-     "url": "https://theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.guim.co.uk/img/media/014fc1ce91dea85eaf93eb5754927a50e19c8040/379_0_3791_3034/master/3791.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=206f97b9ff27cf9223b044a1645e2193"
-     },
-     "id": "96d7e79ee6dac342",
-     "published": "2026-11-01T02:41+00:00",
-     "text": "Cryptocurrency exchange Binance says it has replaced 90% of the amount stolen after a record $6.3bn hack of its platform by a group the FBI identified as being backed by North Korea.\nThe remaining 10% of tokens are less liquid, meaning they may take longer to buy, the company said in a post on X on Saturday. Co-CEO Richard Teng said separately that the company was “committed to covering the remaining 10%” and that “users will not bear the financial impact of this incident”.\nBinance suspended user withdrawals after the hack, but said in its latest update that it was on track to resume them on Sunday.\nThe announcement came as the FBI on Saturday confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked North Korean leader Kim Jong-un.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,” the law enforcement agency said in a statement.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralised finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets”.\nTeng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nBinance said it had set aside around $6.34bn of company funds to cover the losses.\n“Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said.\nThe money spent re-buying tokens came from using part of its $1bn Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company’s own corporate treasury, it said on X.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly 6% and BNB, native to Binance, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea – which faces extensive international sanctions over its nuclear and missile programmes – to find illicit means to capture revenue."
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336153",
-     "title": "FBI Accuses NKorea of Standing Behind $6 Billion Crypto Theft from Binance",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1858788_0.jpeg.webp?VersionId=aP810tyP6f4W1ivzuPxuGw2gR2__ndB4"
-     },
-     "id": "a736455a38686676",
-     "published": "2026-11-01T05:55+00:00",
-     "text": "The FBI on Saturday accused North Korea of stealing more than $6 billion in virtual assets from the cryptocurrency exchange Binance in what is thought to be the biggest-ever crypto heist.\nMalicious actors from North Korea were observed laundering the stolen assets by converting them into ethereum, said the FBI, adding that it expects “further laundering stages” for the stolen digital assets.\nThe US law enforcement agency's statement came as Binance offered reassurances it was covering the losses from the hacking attack, saying it has used company funds to buy tokens to replenish 90% of what was stolen.\nBinance is the world's largest crypto exchange by daily trading volumes.\nNews of the cyberattack caused the prices of most major cryptocurrencies to fall sharply on Friday.\nThe FBI confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is the same group blamed for a $1.5 billion theft from the Bybit platform in February last year.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,” the statement said.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralized finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.”\nUS President Donald Trump, however, cast doubt on the North Korea's involvement in the hack.\n“I'm not concerned. We're learning about it. We don't know if it's North Korea,” Trump told reporters at his residence in Florida late Saturday.\nThe president often reflects with pride on summits he held with North Korean leader Kim Jong Un during his first term.\nBinance said Saturday it has set aside more than $6.34 billion in company funds to cover losses in the hack.\n“Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said on X.\nIt said it has used company money to buy tokens to replenish 90 percent of the stolen funds, while the remaining 10% of tokens are “less liquid, which means they may take longer to source in the required amounts.”\nBinance suspended user withdrawals after the hack, but said in its latest update they were on track to resume Sunday.\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly six percent and BNB, native to Binance, tumbled nearly 10%.\nBinance said Friday it was working to resolve what it called a “complex attack” with several “points of breach.”\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea -- which faces extensive international sanctions over its nuclear and missile programs -- to find illicit means to capture revenue.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for “The Interview,"
-    },
-    {
-     "source": "The Hacker News",
-     "trust": 2,
-     "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1600/binance-hack.png"
-     },
-     "id": "6e20a9798345e8f5",
-     "published": "2026-11-01T06:44+00:00",
-     "text": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899.\nThe FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it observed the threat actor converting stolen assets primarily into Ethereum (ETH).\n\"It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages,\" the FBI said in a statement.\nThe agency has also provided a list of wallet addresses that the attackers are said to be using to launder the stolen assets.\nThe development comes as Binance said it has resumed phase one of withdrawals starting today between 6 and 9 a.m. UTC after they were paused in the wake of the incident.\n\"Since the incident, our teams have taken precautionary measures to safeguard the platform, conducted security assessments, and worked to verify the readiness of affected services,\" Binance said in a statement.\n\"We aim to restore withdrawals progressively as we complete security and readiness checks. Deposit services remain open and are not affected by the incident.\"\nThe haul eclipses the $1.46 billion plundered from Bybit in February 2025, making it the largest cryptocurrency theft in history. The funds were stolen across 11 blockchains, 82% of which were on Ethereum and Bitcoin.\n\"This single incident almost doubles the total cryptoassets stolen by the regime,\" blockchain analysis firm Elliptic said. \"Actors linked to North Korea, officially the Democratic People’s Republic of Korea (DPRK), are believed to have stolen over $6.5 billion in cryptoassets in recent years.\"\nOf the $6.43 billion stolen by TraderTraitor, $2.85 billion of the assets have been frozen on-chain by Tether, Circle, Ripple, Arbitrum, and Optimism.\nTraderTraitor is the name assigned to a North Korean group that has a history of orchestrating cryptocurrency thefts against the Web3.0 industry by tricking victims into downloading malware-laced applications. The cluster is known to be active since at least 2020.\nIn recent years, the adversary has been attributed to cryptocurrency heists targeting DMM Bitcoin, Bybit, KelpDAO, and Bitget.\nReports from SentinelOne, Zscaler ThreatLabz, and Microsoft have revealed that TraderTraitor is continuing to hone its tradecraft, using trojanized Terraform providers as a malware distribution vector and leveraging front companies to conduct job-themed targeting against individuals involved in cybersecurity, AI, blockchain, and talent recruitment companies.\nThe poisoned Terraform provider is used to deliver a Bash loader that selects and downloads malware tailored to the victim's operating system. This includes a cross-platform implant called FLATROOF, which siphons sensitive data from the victim using a Python-based information stealer before ultimately dropping the ROOFDECK backdoor to obtain complete remote control.\nThe activity once again demonstrates how North Korean threat actors continue to abuse trusted developer workflows through trojanized Terraform providers to deliver cross-platform malware across macOS, Linux, and Windows systems, and gain persistent access.\nTraderTraitor's modus operandi, like other North Korea-linked campaigns such as Lazarus Group's Operation Dream Job an"
-    },
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack",
-     "title": "FBI blames North Korea for record $6.3B Binance hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg"
-     },
-     "id": "66cf12f62953f72c",
-     "published": "2026-11-01T07:44+00:00",
-     "text": "FBI blames North Korea for record $6.3B Binance hack\nUS agency seeks private-sector help to block further money-laundering of stolen digital assets.\nThe FBI said that the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of about $6.3 billion in digital assets from cryptocurrency exchange Binance on Thursday.\nThe FBI said on Saturday in a news release that it refers to this specific North Korean malicious cyber activity as “TraderTraitor,” which it has most recently observed converting stolen assets mostly into Ether (ETH).\nIt expects these assets to be further converted, using DeFi and instant swap services, as the hackers move to more advanced laundering stages.\nThe FBI urged private sector entities including THORNode operators, RPC node operators, instant exchanges, DeFi services, blockchain analytics firms and other digital asset service providers to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets. A full list of addresses is provided on the news release.\nCointelegraph reported earlier this year that North Korea-linked hackers stole about 60% of the value lost to crypto hacks in 2025, with proceeds used to help fund the regime’s nuclear and ballistic missile programs, highlighting a growing reliance on digital assets to generate hard currency.\nNorth Korean defense spending supplemented\nThose findings came from a CertiK report that attributed more than $2 billion of an estimated $3.4 billion in 2025 crypto security losses to groups tied North Korea, across 79 of 656 incidents documented that year.\nWhile North Korea does not publish credible budget data, according to independent research organization MilitarySpend, mid-range consensus places its actual annual defense spending at as much as $6 billion, using purchasing-power-adjusted GDP estimates, though this figure is uncertain.\nMilitarySpend adds that revenue from Russia arms transfers — estimated at as much as $5 billion in munitions exported to Russia from 2022-2025 per South Korean intelligence — supplements domestic weapons programs, as does cryptocurrency theft, which provides additional off-budget financing for WMD development.\nAs Cointelegraph reported, between 2016 and early 2026, North Korea-linked actors stole an estimated $6.75 billion in cryptocurrency across 263 documented incidents, according to CertiK, citing findings by independent onchain researcher Taylor Monahan.\nCertiK’s analysis concluded that North Korea has industrialized crypto theft into a core state revenue mechanism."
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU1Bma2xxdW43TWpaNFB0MnVLS3FVUGt4SVIxb1gyVzNHeFRWcWlhb19WdnRxTnF1eFl4ak1VMEJJQ2RadHdWOVI4Rk5NbHVPY2t1Z1U5M2FhLTF5bzVkYVg0bWRSVWd4UzBhY1lVcWdCR0d2Q2RBRFJNVTdkU2pZQng1Mm9vUU9WM2J0UzQ1eFRiWFN0WDkya9IBngFBVV95cUxNYXROV2xtZ2I2aWVDbnpuQVdtbkF6UXJfSVdpbkdkVmN2ZDd4dlBlYndDOTl3V2lDdGxvTDdRem9Ka0d2MEZtWF9kcTdRQ2dxckxLcGV2UmFGenpwTk1RWi1jYnJXR1ZfRXJiWHpuRXJRTmQ2X2NxNnB0aWJXeUZCXzVjQkdQSHhud1BuTG9mbHNiemlYVEF3Q0hOeGFRQQ?oc=5",
-     "title": "FBI blames North Korea for record $6.3bn crypto heist from Binance - Al Jazeera",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "8717c959751eb1f9",
-     "published": "2026-11-01T02:40+00:00",
-     "text": "- FBI blames North Korea for record $6.3bn crypto heist from Binance Al Jazeera\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stealing billions from world’s largest crypto firm The Times of Israel\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance says it has covered $6 billion of $6.3 billion stolen in hack Reuters"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQmZHbGpSM3BwNVpUdHkteHN5Q2lTNTh0SVZjNjM3Yjkyd0dKcnY5LWJrNHpVeEIyYVBOTDVSUWowdEExN3hxU1lkR3dJODQ5RDhLU0pXWXJmbGRaNVJvV1hjUjVCalk5bVdhSnBod1pyY1Z6eFV6Xy1YcUFvZlNxNkJLYkRmcXhOc0IxbjJoaEJoRWVZS3Y4Q0V1UmVoaXlvUUU5bFFoeXZsVEU?oc=5",
-     "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack - The Guardian",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "da51d61e643b2fd0",
-     "published": "2026-11-01T02:41+00:00",
-     "text": "- Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack The Guardian\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Binance to Resume Customer Withdrawals in Phases After Hack Bloomberg.com\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
     }
    ]
   },
@@ -525,7 +538,7 @@
   {
    "id": "cdcc1d6d047",
    "kind": "news",
-   "score": 19.5,
+   "score": 18.5,
    "sensitive": false,
    "distinct_sites": 6,
    "title_hint": "Final Fantasy 14 Reveals Evercold Release Date and New Job",
@@ -600,6 +613,52 @@
      "id": "8815ab967a0df1cc",
      "published": "2026-10-31T19:52+00:00",
      "text": "Square Enix has delayed Final Fantasy XIV: Evercold from January to February, with early access beginning February 19 and pre-orders opening November 4. The publisher has also unveiled new footage of a new job, which joins the tank-focused Bastion in an expansion featuring new areas, raids and a higher level cap."
+    }
+   ]
+  },
+  {
+   "id": "c9d449d2dca",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CNBC Tech",
+     "trust": 2,
+     "url": "https://cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&w=1920&h=1080"
+     },
+     "id": "13659a39d99759cb",
+     "published": "2026-10-31T20:12+00:00",
+     "text": "SpaceX's AI division, SpaceXAI, lost its bid to dismiss an NAACP lawsuit, which is proceeding in federal court in Mississippi, according to a judge's opinion released late Friday.\nThe lawsuit claims that the AI division of CEO Elon Musk's aerospace and defense tech conglomerate violated the Clean Air Act with its use of gas-fired combustion turbines to power its massive AI data centers in Greater Memphis.\nThe Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.\nThe Southern Environmental Law Center and Earthjustice filed the suit on behalf of the NAACP in the U.S. District Court for the Northern District of Mississippi in April 2026.\nThe suit alleges that between August and December 2025, xAI and its subsidiary MZX Tech, installed and operated 27 gas turbines in Southaven, Mississippi, \"without an air permit or regard for the health and safety of people living nearby.\"\n(SpaceXAI is owned and operated by SpaceX, which has rebranded it as SpaceXAI or SpaceXSI.)\nThe turbines emit smog-forming pollutants and particulate matter that can increase health risks and cause an unpleasant odor, among other unwanted impacts, according to the suit.\nLawyers for SpaceXAI argued in their motion to dismiss, filed in June, that the NAACP suit should be tossed because the company's use of the turbines, which it characterized as \"mobile,\" was exempt from permitting requirements. They also argued that NAACP didn't have a right to sue under the federal Clean Air Act, and suits by such community groups were unconstitutional.\nThe judge presiding over the case rejected those arguments, writing: \"Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not 'mobile sources' under Mississippi's SIP, and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs' claims will proceed.\"\nThe decision comes about two weeks after the same court rejected a Department of Justice's request to end the case against Musk's company.\nSpaceX did not immediately respond to a request for comment."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWZobnlmVnlwbk9rMk1yeUVabnE1QUdtdTVEWGR6UUkwYXEzWk9weVpLMWFtRWF2Ykd6SmpNalgtelBCZ0lBdkd6Vm1xcWhNNkNVM0ZKTW43TmZyUUtMb1pYZVY2V2VuaFh5dHdBakhBYllrQjY5bUhrOHpteVNRUWNaZFrSAYoBQVVfeXFMUHFJcmV4YzZNcTZ4dk5RX2YyQm1TWDhpSS1OemxNdFRkUHhFTEFDNHpueE1QejEzMGVQYUFwQXpNV2JaVmJzdlQ2TWFJNlJOYjFkckE3TFpHVHpMSWt4YlBzMkZUX0hSa295M2tHSkx5aUFDbjMwbDkxQlNhdnp1NlhYd21VOER5ZHZn?oc=5",
+     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution - CNBC",
+     "lang": "en",
+     "extra": {},
+     "id": "9d449d2dca115101",
+     "published": "2026-10-31T18:56+00:00",
+     "text": "- SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution CNBC\n- XAI Offers Home Buyouts In Mississippi To Quash Data Center Lawsuit Forbes\n- Judge allows NAACP lawsuit over xAI data center pollution to move forward TechCrunch\n- ‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise The Guardian\n- Elon Musk's SpaceX buying out 418 homes near flagship AI data center, but only if they drop participation in lawsuit Yahoo"
+    },
+    {
+     "source": "Reddit technology",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xktg1e/spacex_loses_bid_to_toss_naacp_lawsuit_over",
+     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+     "lang": "en",
+     "extra": {},
+     "id": "0ecbfdaa79f8738c",
+     "published": "2026-11-01T03:54+00:00",
+     "text": "submitted by\n/u/ControlCAD\n[link]\n[comments]"
     }
    ]
   },
@@ -1128,41 +1187,6 @@
    ]
   },
   {
-   "id": "c9d449d2dca",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CNBC Tech",
-     "trust": 2,
-     "url": "https://cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&w=1920&h=1080"
-     },
-     "id": "13659a39d99759cb",
-     "published": "2026-10-31T20:12+00:00",
-     "text": "SpaceX's AI division, SpaceXAI, lost its bid to dismiss an NAACP lawsuit, which is proceeding in federal court in Mississippi, according to a judge's opinion released late Friday.\nThe lawsuit claims that the AI division of CEO Elon Musk's aerospace and defense tech conglomerate violated the Clean Air Act with its use of gas-fired combustion turbines to power its massive AI data centers in Greater Memphis.\nThe Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.\nThe Southern Environmental Law Center and Earthjustice filed the suit on behalf of the NAACP in the U.S. District Court for the Northern District of Mississippi in April 2026.\nThe suit alleges that between August and December 2025, xAI and its subsidiary MZX Tech, installed and operated 27 gas turbines in Southaven, Mississippi, \"without an air permit or regard for the health and safety of people living nearby.\"\n(SpaceXAI is owned and operated by SpaceX, which has rebranded it as SpaceXAI or SpaceXSI.)\nThe turbines emit smog-forming pollutants and particulate matter that can increase health risks and cause an unpleasant odor, among other unwanted impacts, according to the suit.\nLawyers for SpaceXAI argued in their motion to dismiss, filed in June, that the NAACP suit should be tossed because the company's use of the turbines, which it characterized as \"mobile,\" was exempt from permitting requirements. They also argued that NAACP didn't have a right to sue under the federal Clean Air Act, and suits by such community groups were unconstitutional.\nThe judge presiding over the case rejected those arguments, writing: \"Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not 'mobile sources' under Mississippi's SIP, and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs' claims will proceed.\"\nThe decision comes about two weeks after the same court rejected a Department of Justice's request to end the case against Musk's company.\nSpaceX did not immediately respond to a request for comment."
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWZobnlmVnlwbk9rMk1yeUVabnE1QUdtdTVEWGR6UUkwYXEzWk9weVpLMWFtRWF2Ykd6SmpNalgtelBCZ0lBdkd6Vm1xcWhNNkNVM0ZKTW43TmZyUUtMb1pYZVY2V2VuaFh5dHdBakhBYllrQjY5bUhrOHpteVNRUWNaZFrSAYoBQVVfeXFMUHFJcmV4YzZNcTZ4dk5RX2YyQm1TWDhpSS1OemxNdFRkUHhFTEFDNHpueE1QejEzMGVQYUFwQXpNV2JaVmJzdlQ2TWFJNlJOYjFkckE3TFpHVHpMSWt4YlBzMkZUX0hSa295M2tHSkx5aUFDbjMwbDkxQlNhdnp1NlhYd21VOER5ZHZn?oc=5",
-     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution - CNBC",
-     "lang": "en",
-     "extra": {},
-     "id": "9d449d2dca115101",
-     "published": "2026-10-31T18:56+00:00",
-     "text": "- SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution CNBC\n- XAI Offers Home Buyouts In Mississippi To Quash Data Center Lawsuit Forbes\n- Judge allows NAACP lawsuit over xAI data center pollution to move forward TechCrunch\n- ‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise The Guardian\n- Elon Musk's SpaceX buying out 418 homes near flagship AI data center, but only if they drop participation in lawsuit Yahoo"
-    }
-   ]
-  },
-  {
    "id": "c4f303f73a7",
    "kind": "news",
    "score": 14.0,
@@ -1294,65 +1318,6 @@
    ]
   },
   {
-   "id": "caf0a72c8ec",
-   "kind": "news",
-   "score": 13.5,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Best Qualifying bets before the Mexico City GP",
-   "official_image": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/GettyImages-2302765369.webp",
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/best-qualifying-bets-available-on-the-markets-before-the-mexico-city-grand-prix.6vo71zRrlBile9GdUI3W8y",
-     "title": "Best Qualifying bets before the Mexico City GP",
-     "lang": "en",
-     "extra": {},
-     "id": "af0a72c8ec15e9c8",
-     "published": "2026-10-31T23:45+00:00",
-     "text": "Our expert betting writers share their top picks for Qualifying at the Autodromo Hermanos Rodriguez in Mexico City."
-    },
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/lawson-disqualified-from-mexico-city-gp-qualifying-for-technical-breach.1LIHCl2P75cYj0cGJgyZhx",
-     "title": "Lawson disqualified from Mexico City GP Qualifying",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/GettyImages-2302765369.webp"
-     },
-     "id": "bfd92faf3175f403",
-     "published": "2026-11-01T01:17+00:00",
-     "text": "Lawson disqualified from Mexico City GP Qualifying for technical breach\nLiam Lawson's eventful weekend at the Mexico City Grand Prix has continued with his disqualification from Saturday's Qualifying hour.\nLiam Lawson has been disqualified from Qualifying for the Mexico City Grand Prix following a technical breach on his Racing Bulls challenger.\nThe New Zealander had qualified an impressive eighth ahead of his team mate Arvid Lindblad in the closely-fought session, but was due to lose a position after he received a one-place grid penalty for an earlier incident with Red Bull's Max Verstappen in FP2.\nWhile that would've left him to start the race from P9, Lawson was referred to the stewards after it was noted that he was \"in breach of the minimum MGU-K power requirement just after crossing the line on his fastest lap in Q2\".\nThe FIA Technical Delegate's report added: \"The driver maximum power demand and the electrical DC power of the ERS-K were reduced at greater rates than what is permitted by the Regulations.\"\nLawson was therefore summoned after Qualifying and it was determined that the infringement warranted disqualification, which means that he is due to start the race from the back of the grid.\nThe stewards heard from Racing Bulls' representatives, Lawson, the Single Seater Sporting Director and members of the FIA Technical team, including the FIA Technical Delegate.\n\"Evidence submitted, which was accepted by all parties present, showed that after the control line at the end of his fastest lap in Q2, the driver did not lift off the power immediately,\" read the stewards’ decision document. \"This resulted in the rate of reduction of MGU-K deployment required to achieve the regulated 'step down', not being achieved.\n\"The team argued that this did not provide any performance advantage however it is clear that non-compliance with the Technical Regulations is not excused if no performance advantage is gained. Further, these regulations require that a car must comply with them at all times during an event.\n\"The stewards note in particular that the team self-disclosed the breach however there are a multitude of precedents that require us, despite all mitigating circumstances, to impose a penalty of disqualfication where a car does not comply with the Technical Regulations.\"\nNext Up"
-    },
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/what-the-teams-said-qualifying-in-mexico-city-2026.OeV40dsukK0h4mpxdkqoj",
-     "title": "What the teams said – Qualifying in Mexico City",
-     "lang": "en",
-     "extra": {},
-     "id": "d3ecc4a12a2ffd7d",
-     "published": "2026-11-01T02:19+00:00",
-     "text": "The drivers and teams report back on all the action from final practice and Qualifying at the Autodromo Hermanos Rodriguez ahead of the 2026 Mexico City Grand Prix."
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYU52TTVzNmxSRWh4YkFuUVk1cjRxVHdZZl93YUl0aE9mN3lBZFhkRUVnUWl6bUNMWk5va2w1MnJrbVFNZzlrS0pMWHRYbmZVbGJyUWstWS1lNlBQZVJPZXM4dUNwRTllMXljTEpSLWRZUEJHQ3VOV2ZhbWVoZlhsYUZCUVc0dHRESG9nTUlvbXJyQkNCZENmRWFycWxaU2szUktLcmV3UktsZnpoNGxrVnNGUS11Tk55MEdIZ0pCRUlLcGtRb3cwdFJKSElSckxDQmlJ?oc=5",
-     "title": "Lawson disqualified from Mexico City GP Qualifying for technical breach - Formula 1",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "c27b5235663ce3a2",
-     "published": "2026-11-01T01:10+00:00",
-     "text": "- Lawson disqualified from Mexico City GP Qualifying for technical breach Formula 1\n- Max Verstappen and Liam Lawson given one-place grid penalty at Mexico City Grand Prix ESPN\n- Liam Lawson disqualified from F1 qualifying in Mexico – here's why Yahoo Sports\n- Lawson at risk of Mexico qualifying DSQ The Race\n- Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat Motorsport.com"
-    }
-   ]
-  },
-  {
    "id": "caf8a11e2c0",
    "kind": "news",
    "score": 13.0,
@@ -1476,41 +1441,6 @@
      "id": "2eb5766d74d52897",
      "published": "2026-10-31T06:20+00:00",
      "text": "JioStar, the Indian media giant backed by Reliance Industries, grew revenue from operations 10.1% year-on-year to INR68.1 billion ($710 million) in the July–September quarter despite a weak advertising market. Profit after tax fell 13.2% to INR11.5 billion ($120 million). Former India cricket captain Sourav Ganguly hosted the first-ever “Bigg Boss Bangla,” which launched this quarter […]"
-    }
-   ]
-  },
-  {
-   "id": "c935b3df5c6",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "SpaceX Starship Flight 15: Launch date, objectives, and what to expect",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Interesting Engineering",
-     "trust": 2,
-     "url": "https://interestingengineering.com/space/spacex-starship-flight-15-launch-date-objectives",
-     "title": "SpaceX Starship Flight 15: Launch date, objectives, and what to expect",
-     "lang": "en",
-     "extra": {},
-     "id": "935b3df5c6c05392",
-     "published": "2026-10-31T16:20+00:00",
-     "text": "SpaceX is targeting November 2026 for the 15th integrated flight test of its Starship rocket, with the mission expected to attempt a major milestone: catching the spacecraft’s upper stage at its launch tower after returning from space.\nThe company is also preparing to recover the Super Heavy booster, potentially bringing both stages of its massive launch system back to the launch site.\nAs of October 28, SpaceX has not announced an official launch date. However, preparations are progressing at Starbase in South Texas, where the company is testing the vehicles assigned to the mission.\nThe flight will build on September’s Flight 14, which reached orbit and deployed 26 next-generation Starlink V3 satellites.\nSpaceX is currently targeting November, although the launch date will depend on testing, vehicle readiness, and regulatory approval.\nOn October 25, the company conducted a full-duration static-fire test of Super Heavy Booster 22, igniting all 33 Raptor engines for about 15 seconds. The test allows engineers to assess engine and vehicle systems while the booster remains secured to the ground.\nAccording to Space.com, the booster will fly with Starship upper stage Ship 42. The spacecraft has completed its own engine test and is undergoing final systems checks ahead of the launch.\nThe Federal Aviation Administration’s launch authorization is another factor. SpaceX President and Chief Operating Officer Gwynne Shotwell said during an October earnings call that the company expected its license for Flight 15 to cover return-to-launch-site operations and tower catches for both stages, as reported by Ars Technica.\nThe primary objective is to demonstrate the recovery of both components of the Starship launch system. After liftoff, Super Heavy provides the initial thrust needed to propel Starship toward orbit before separating from the upper stage. SpaceX plans to guide the booster back to Starbase, where mechanical arms mounted on the launch tower, nicknamed “chopsticks,” will attempt to catch it.\nSpaceX has already demonstrated booster catches on earlier flights. Flight 15, however, is expected to use the upgraded Booster 22 and attempt the recover both stages in the same mission.\nThe more ambitious objective is to catch Ship 42 after its orbital flight. Starship will need to reenter the atmosphere, withstand intense heating, and maneuver toward the launch tower for a controlled capture. The spacecraft has previously performed controlled ocean splashdowns, but a tower catch would be a significant step toward making the entire system reusable.\nRecovering both stages could eventually reduce refurbishment requirements and the cost of launching payloads. However, a successful catch alone would not prove that Starship can be rapidly inspected, refurbished, and reflown.\nFlight 15 also follows a significant milestone from the previous mission. On September 28, Flight 14 reached orbit and deployed 26 Starlink V3 satellites, demonstrating Starship’s ability to carry operational payloads. However, a Raptor engine shut down prematurely during ascent, shortening the planned mission.\nSpaceX has not officially confirmed Flight 15’s payload, though it has discussed another Starlink deployment as a possibility. The program also has implications for NASA’s Artemis lunar exploration campaign.\nSpaceX is developing a modified Starship upper stage to serve as a lunar lander, but the vehicle must demonstrate additional capabilities before it can transport astronauts t"
-    },
-    {
-     "source": "Engadget",
-     "trust": 2,
-     "url": "https://engadget.com/2300227/how-big-powerful-spacex-starship-rocket",
-     "title": "How big and powerful is SpaceX's Starship rocket?",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.engadget.com/img/gallery/how-big-and-powerful-is-spacexs-starship-rocket/l-intro-1793113657.jpg"
-     },
-     "id": "d207d840f80f71de",
-     "published": "2026-10-31T23:45+00:00",
-     "text": "How big and powerful is SpaceX's Starship rocket?\nBigger isn't always better, but when it comes to space exploration, it just might be.\nWith both stages stacked, the current SpaceX Starship launch vehicle stands at 407 feet. It's taller than the tallest known living tree, Hyperion, and one-third taller than the Statue of Liberty (pedestal included). It's the tallest rocket ever flown and the most powerful, with 18.1 million pounds-force of liftoff thrust. During its first full-stack launch in April 2023, the booster's exhaust shattered the concrete launch pad, excavating the earth beneath and flinging debris across 385 acres. That booster was rated at 16.7 million pounds of thrust, slightly less than the one on the September 28, 2026, launch.\nKeep in mind that this height covers the complete two-stage vehicle. The bottom section, known as Super Heavy, is the 236.2-foot booster that provides the initial push from the launch pad. Above it sits the 170.6-foot Starship spacecraft. While it's immense in size and power, its dimensions serve a greater purpose than impressions alone. SpaceX designed the system to transport huge payloads and eventually carry people and cargo beyond Earth orbit. SpaceX also intends to recover and reuse both stages.\nHow much power does Starship produce?\nThe Super Heavy booster packs 33 Raptor engines, which burn liquid methane and liquid oxygen to generate 18.1 million pounds-force of booster thrust. For an interesting perspective, NASA's Space Launch System produces 8.8 million to 9.4 million pounds of max thrust. Once Super Heavy separates, Starship will go on, powered by three regular Raptor engines and three Raptor Vacuum engines designed to operate in space. SpaceX lists the upper stage's thrust at roughly 3.5 million pounds-force. Only the booster figure represents liftoff thrust.\nThe rocket's immense power has to do more than fight gravity to lift heavy payloads. Super Heavy has a listed propellant capacity of 3,650 metric tons, and Starship holds an additional 1,600 metric tons. That's 5,250 metric tons on top of everything else. With all of that weight, the world's most powerful rocket still depends on staging, very efficient engines and a considerable degree of careful pre-launch planning.\nCan Starship go to the Moon without refueling?\nDespite all of today's technological advancements, Starship will still have to refuel in Earth orbit, at least as far as NASA's planned lunar-landing missions are concerned. The SpaceX lunar lander burns through a significant portion of its propellant just to reach orbit and will have to refuel.\nSpaceX and NASA's game plan includes several specialized vehicles, including a propellant depot that launches first, followed by tanker Starships that deliver fuel. The lunar lander launches last, docks with the depot and takes on propellant.\nAll of this takes place before the crew launches aboard NASA's Orion spacecraft (part of the Artemis program), after which they will meet with the prepositioned Starship lander in Earth orbit before Starship pushes both spacecraft to lunar orbit. The Starship lander will then carry two crew members to the Moon's surface and back. Transporting and storing extremely cold propellants in space is a herculean technical challenge, so planned stages, refueling and a complicated support system are necessary to pull everything off successfully."
     }
    ]
   },
@@ -1903,46 +1833,61 @@
    ]
   },
   {
-   "id": "c3baa272202",
+   "id": "caf0a72c8ec",
    "kind": "news",
    "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
-   "official_image": null,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Best Qualifying bets before the Mexico City GP",
+   "official_image": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/GettyImages-2302765369.webp",
    "sources": [
     {
-     "source": "Steam News",
+     "source": "Formula 1",
      "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724006",
-     "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+     "url": "https://formula1.com/en/latest/article/best-qualifying-bets-available-on-the-markets-before-the-mexico-city-grand-prix.6vo71zRrlBile9GdUI3W8y",
+     "title": "Best Qualifying bets before the Mexico City GP",
      "lang": "en",
      "extra": {},
-     "id": "1bd9c01cc2b3c7ab",
-     "published": "2026-10-31T23:40+00:00",
-     "text": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.\nDigital Foundry’s analysis of the performance of the Switch 2 version of Modern Warfare 4 — the first Call of Duty released on a Nintendo console since 2013’s Ghosts — found that the input lag on Switch 2 can be two times longer than on PS5 at 60fps.\nIn competitive Multiplayer, Switch 2 aims for 60fps and, according to DF, hits that target most of the time (although some things do cause the frame rate to drop, including looking through the transparent visor of a riot shield).\nCall of Duty Multiplayer prides itself on rock solid 60fps gameplay, which provides a smooth, responsive experience for those who fuss over their K/D ratio in, for example, 6v6. It’s crucial that all platforms the game is available on offer at least 60fps to provide a level playing field for Multiplayer fans — although the debate about the advantage PC players have over console has dogged Call of Duty since the dawn of crossplay.\nDF reports that Variable Refresh Rate (VRR) support “helps smooth out” framerate drops on supported displays, although you’ll have a harder time of it in terms of performance playing through portable mode.\nAnd then we come to responsiveness. DF’s tests show 81ms in docked mode and 100ms in portable mode, the latter of which is double the PS5’s 49.1. In fact, DF found that Multiplayer in portable mode ranged from 83ms at best to 125ms at worst. DF called this \"actually deleterious to performance.”\nDF seems generally happy with the Switch 2 version, which was handled by port specialist Digital Legends with support from Infinity Ward. But if you’re into Multiplayer, the inescapable fact is you are at a disadvantage. No matter how fast your trigger finger, the Switch 2 will take longer to respond.\nOutside of Multiplayer it’s a different story. The Campaign runs at 30fps, which was good enough for IGN’s Simon Cardy when he played the Switch 2 version of Modern Warfare 4.\n“Granted, the textures are nowhere near as detailed, with flat surfaces and faces smoothed over to give the impression of plasticine versions of the campaign’s characters,” he said. “It's by no means a looker, but considering the reduced horsepower Nintendo’s latest console is working with, the gameplay itself was smooth, running at 30fps at 4K while docked.”\n“Yes, it's quite a visual downgrade when compared to the likes of PC, PS5, and Xbox Series X, but that comes with the territory,” he continued. “And if you’re solely a Nintendo owner who’s been locked out of Call of Duty for over a decade, you’re getting a version of Modern Warfare 4 that feels every bit as snappy as the series usually is, even if it’s a bit muddier than Nintendo’s own crisp visuals.”\nWhy is Call of Duty releasing on a Nintendo console now, 14 years after the last time? It has to do with Microsoft’s $69 billion acquisition of Activision Blizzard. Back when Microsoft was facing regulatory hurdles, one announcement designed to help convince the powers that be to green light the buyout was a 10-year commitment to bring Call of Duty to Nintendo following the merger.\n“Microsoft is committed to helping bring more games to more people — however they choose to play,” then Xbox boss Phil Spencer said in December 2022. Four years later, and with the Activision Blizzard buyout done and dusted, Call of Duty is on Switch"
+     "id": "af0a72c8ec15e9c8",
+     "published": "2026-10-31T23:45+00:00",
+     "text": "Our expert betting writers share their top picks for Qualifying at the Autodromo Hermanos Rodriguez in Mexico City."
     },
     {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
-     "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/lawson-disqualified-from-mexico-city-gp-qualifying-for-technical-breach.1LIHCl2P75cYj0cGJgyZhx",
+     "title": "Lawson disqualified from Mexico City GP Qualifying",
      "lang": "en",
-     "extra": {},
-     "id": "3baa2722028704e7",
-     "published": "2026-10-31T23:32+00:00",
-     "text": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.\nDigital Foundry’s analysis of the performance of the Switch 2 version of Modern Warfare 4 — the first Call of Duty released on a Nintendo console since 2013’s Ghosts — found that the input lag on Switch 2 can be two times longer than on PS5 at 60fps.\nIn competitive Multiplayer, Switch 2 aims for 60fps and, according to DF, hits that target most of the time (although some things do cause the frame rate to drop, including looking through the transparent visor of a riot shield).\nCall of Duty Multiplayer prides itself on rock solid 60fps gameplay, which provides a smooth, responsive experience for those who fuss over their K/D ratio in, for example, 6v6. It’s crucial that all platforms the game is available on offer at least 60fps to provide a level playing field for Multiplayer fans — although the debate about the advantage PC players have over console has dogged Call of Duty since the dawn of crossplay.\nDF reports that Variable Refresh Rate (VRR) support “helps smooth out” framerate drops on supported displays, although you’ll have a harder time of it in terms of performance playing through portable mode.\nAnd then we come to responsiveness. DF’s tests show 81ms in docked mode and 100ms in portable mode, the latter of which is double the PS5’s 49.1. In fact, DF found that Multiplayer in portable mode ranged from 83ms at best to 125ms at worst. DF called this \"actually deleterious to performance.”\nDF seems generally happy with the Switch 2 version, which was handled by port specialist Digital Legends with support from Infinity Ward. But if you’re into Multiplayer, the inescapable fact is you are at a disadvantage. No matter how fast your trigger finger, the Switch 2 will take longer to respond.\nOutside of Multiplayer it’s a different story. The Campaign runs at 30fps, which was good enough for IGN’s Simon Cardy when he played the Switch 2 version of Modern Warfare 4.\n“Granted, the textures are nowhere near as detailed, with flat surfaces and faces smoothed over to give the impression of plasticine versions of the campaign’s characters,” he said. “It's by no means a looker, but considering the reduced horsepower Nintendo’s latest console is working with, the gameplay itself was smooth, running at 30fps at 4K while docked.”\n“Yes, it's quite a visual downgrade when compared to the likes of PC, PS5, and Xbox Series X, but that comes with the territory,” he continued. “And if you’re solely a Nintendo owner who’s been locked out of Call of Duty for over a decade, you’re getting a version of Modern Warfare 4 that feels every bit as snappy as the series usually is, even if it’s a bit muddier than Nintendo’s own crisp visuals.”\nWhy is Call of Duty releasing on a Nintendo console now, 14 years after the last time? It has to do with Microsoft’s $69 billion acquisition of Activision Blizzard. Back when Microsoft was facing regulatory hurdles, one announcement designed to help convince the powers that be to green light the buyout was a 10-year commitment to bring Call of Duty to Nintendo following the merger.\n“Microsoft is committed to helping bring more games to more people — however they choose to play,” then Xbox boss Phil Spencer said in December 2022. Four years later, and with the Activision Blizzard buyout done and dusted, Call of Duty is on Switch"
+     "extra": {
+      "page_image": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/GettyImages-2302765369.webp"
+     },
+     "id": "bfd92faf3175f403",
+     "published": "2026-11-01T01:17+00:00",
+     "text": "Lawson disqualified from Mexico City GP Qualifying for technical breach\nLiam Lawson's eventful weekend at the Mexico City Grand Prix has continued with his disqualification from Saturday's Qualifying hour.\nLiam Lawson has been disqualified from Qualifying for the Mexico City Grand Prix following a technical breach on his Racing Bulls challenger.\nThe New Zealander had qualified an impressive eighth ahead of his team mate Arvid Lindblad in the closely-fought session, but was due to lose a position after he received a one-place grid penalty for an earlier incident with Red Bull's Max Verstappen in FP2.\nWhile that would've left him to start the race from P9, Lawson was referred to the stewards after it was noted that he was \"in breach of the minimum MGU-K power requirement just after crossing the line on his fastest lap in Q2\".\nThe FIA Technical Delegate's report added: \"The driver maximum power demand and the electrical DC power of the ERS-K were reduced at greater rates than what is permitted by the Regulations.\"\nLawson was therefore summoned after Qualifying and it was determined that the infringement warranted disqualification, which means that he is due to start the race from the back of the grid.\nThe stewards heard from Racing Bulls' representatives, Lawson, the Single Seater Sporting Director and members of the FIA Technical team, including the FIA Technical Delegate.\n\"Evidence submitted, which was accepted by all parties present, showed that after the control line at the end of his fastest lap in Q2, the driver did not lift off the power immediately,\" read the stewards’ decision document. \"This resulted in the rate of reduction of MGU-K deployment required to achieve the regulated 'step down', not being achieved.\n\"The team argued that this did not provide any performance advantage however it is clear that non-compliance with the Technical Regulations is not excused if no performance advantage is gained. Further, these regulations require that a car must comply with them at all times during an event.\n\"The stewards note in particular that the team self-disclosed the breach however there are a multitude of precedents that require us, despite all mitigating circumstances, to impose a penalty of disqualfication where a car does not comply with the Technical Regulations.\"\nNext Up"
     },
     {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Call-of-Duty-Modern-Warfare-2-appears-set-for-re-release-on-modern-consoles.1439055.0.html",
-     "title": "Call of Duty: Modern Warfare 2 appears set for re-release on modern consoles",
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/what-the-teams-said-qualifying-in-mexico-city-2026.OeV40dsukK0h4mpxdkqoj",
+     "title": "What the teams said – Qualifying in Mexico City",
      "lang": "en",
      "extra": {},
-     "id": "ff06dcd8d2d3db81",
-     "published": "2026-11-01T02:17+00:00",
-     "text": "A new Australian classification for 2009’s Call of Duty: Modern Warfare 2 has fuelled speculation about a re-release on modern consoles, following Activision’s recent ports of Black Ops and Black Ops 2. A new release may restore the multiplayer omitted from the Campaign Remastered edition, but an official confirmation is yet to be made."
+     "id": "d3ecc4a12a2ffd7d",
+     "published": "2026-11-01T02:19+00:00",
+     "text": "The drivers and teams report back on all the action from final practice and Qualifying at the Autodromo Hermanos Rodriguez ahead of the 2026 Mexico City Grand Prix."
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYU52TTVzNmxSRWh4YkFuUVk1cjRxVHdZZl93YUl0aE9mN3lBZFhkRUVnUWl6bUNMWk5va2w1MnJrbVFNZzlrS0pMWHRYbmZVbGJyUWstWS1lNlBQZVJPZXM4dUNwRTllMXljTEpSLWRZUEJHQ3VOV2ZhbWVoZlhsYUZCUVc0dHRESG9nTUlvbXJyQkNCZENmRWFycWxaU2szUktLcmV3UktsZnpoNGxrVnNGUS11Tk55MEdIZ0pCRUlLcGtRb3cwdFJKSElSckxDQmlJ?oc=5",
+     "title": "Lawson disqualified from Mexico City GP Qualifying for technical breach - Formula 1",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "c27b5235663ce3a2",
+     "published": "2026-11-01T01:10+00:00",
+     "text": "- Lawson disqualified from Mexico City GP Qualifying for technical breach Formula 1\n- Max Verstappen and Liam Lawson given one-place grid penalty at Mexico City Grand Prix ESPN\n- Liam Lawson disqualified from F1 qualifying in Mexico – here's why Yahoo Sports\n- Lawson at risk of Mexico qualifying DSQ The Race\n- Max Verstappen clears the air with Liam Lawson, but stays tight-lipped on Racing Bulls F1 seat Motorsport.com"
     }
    ]
   },
@@ -2520,6 +2465,43 @@
    ]
   },
   {
+   "id": "c78696ef3eb",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Wales hit by Australia century in World Cup record defeat",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/rugby-league/articles/cked34glxp0no?at_medium=RSS&at_campaign=rss",
+     "title": "Wales hit by Australia century in World Cup record defeat",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cbef/live/0e215400-d5b8-11f1-a012-e5d60a7e6c41.jpg"
+     },
+     "id": "78696ef3eb5e3800",
+     "published": "2026-11-01T06:57+00:00",
+     "text": "- Published\nAustralia (60) 124\nTries: Kernick, Chapman 6, Church 2, Southwell, Sergis 4, Apps, Paki, Joseph 2, Upton 2, Nizza Goals: Southwell 20\nWales (0) 6\nTries: Travis Goals: Preston\nRampant Australia racked up the biggest score in international history as they hammered Wales in a Rugby League World Cup mismatch.\nThe Jillaroos, hunting a fourth successive title, ran in 21 tries in a predictably lopsided contest in Sydney.\nThe half-time score of 60-0 was the biggest of any World Cup match - men's or women's - and the Australians kept their foot down to win 124-6.\nWing Jaime Chapman's sixth try in the last minute ensured they beat Denmark men's biggest international score of 122-8 against Sweden in 2012.\nThe 118-point victory margin is the largest in any women's match, although France men retain their record win set in 2003 with a 120-0 rout of Serbia.\nYet there were wild Wales celebrations when, at 100-0 down, they became the first side to score against the Jillaroos in the tournament through Paige Travis.\nThe Jillaroos are three-time back-to-back champions, while Wales were taking part in the tournament for the first time having only played their first Test in 2021.\nIt was just their 16th fixture - and a first against Australia - with Tom Brindle's side having already been beaten 70-6 by England and 76-0 by Samoa at the World Cup.\nFull of NRLW talent, Australia showed a killer instinct and an intensity that Wales were exposed to for the first time.\nIt all came after Wales, whose captain Bethan Dainton was the tournament's top tackler by a distance in the first two rounds with 77, rose to the occasion with a strong start.\nBut Australia struck in the sixth minute through lock Olivia Kernick following prop Makenzie Weale's terrific offload out the back, and the Jillaroos then clicked into gear.\nLong-striding, hard-fending Chapman scored a double down the left and fellow wing Abbi Church powered through weak tackles on the right.\nWales were unable to string together good moments and a fifth try came through Jesse Southwell from failure to claim a regulation high ball just seconds after Jade Mullen had put in a huge tackle.\nAustralia were ruthless and the scores kept coming through centre Jessica Sergis, second row Kezie Apps and Chapman for a first-half hat-trick.\nSergis brought up the half-century with a weaving run and was followed over by second row Sariah Paki.\nThe stats told the story - Australia had 84% of possession in the first half and completed 21 of 22 sets, with almost 13 minutes of possession to two minutes and 29 seconds.\nIt took just over a minute for Keilee Joseph to get the scoreboard ticking after the restart and the scores kept coming from Sergis, Chapman, Joseph again and Church.\nThe Jillaroos beat their 92-0 record, set against France in the 2022 World Cup, when Southwell converted Sergis' fourth try, hitting three figures when the extras were added to star full-back Tamika Upton's breakaway.\nWales' moment came when Travis, scorer of their historic try against England, won the race to Tayla Preston's kick through.\nIt was only a brief change of pattern with Keeley Nizza, Chapman twice and Upton going over to complete the destruction.\nWales captain Bethan Dainton said:\n\"We just wanted to create a legacy back home for young girls coming through, and I think we did that. The scorelines haven't been in our favour but no one gave up and I am so proud of the girls.\""
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/australia-wales-womens-rugby-league-world-cup/107334088",
+     "title": "Australia's latest World Cup smash-up helps nobody",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/9c191b4b99728043f0ef248e172888d3?impolicy=wcms_watermark_news&cropH=1927&cropW=3425&xPos=0&yPos=58&width=862&height=485&imformat=generic"
+     },
+     "id": "ba338089e5aa5172",
+     "published": "2026-11-01T07:53+00:00",
+     "text": "Fri, 18 Sept, 7:50 pm, Final score, Tigers 0, Raiders 6\nSat, 19 Sept, 4:05 pm, Final score, Broncos 40, Knights 16\n40 16 →Sat, 26 Sept, 7:50 pm, Final score, Roosters 20, Raiders 10\n20 10 →Sun, 27 Sept, 1:05 pm, Final score, Titans 8, Broncos 20\n8 20 →Sun, 4 Oct, 4:00 pm, Final score, Roosters 30, Broncos 6\n30 6 →\nGallows humour was the order of the day for Australia's World Cup match against Wales, which was only fitting given it trudged towards its inevitable conclusion like the condemned to the executioner's block.\nThe Jillaroos ran out 124-6 winners in a game where the only element of contest was whether the reigning world champions could bring up the century.\nThey did it easily in the end, smashing their own record for biggest World Cup win, with Jamie Chapman's sixth try in the shadows of the full-time siren eclipsing France's 116-0 victory over Serbia in 2023 in the most lopsided result in women's international rugby league history.\nIn the first half, as they ran up a 60-0 lead, Australia scored 10 tries and Wales played the ball just 15 times. Five-eighth Jesse Southwell finished with 44 points on her own.\nThe Jillaroos did not make a tackle from the fifth minute until after the half-time siren and Australian halfback Tarryn Aiken did not make a tackle until 10 minutes before full-time.\nAfter Australia scored its 15th try of the match it started getting booed by the sparse Parramatta Stadium crowd, who reserved their biggest cheer of the day for Welsh second rower Paige Travis's score that narrowed the gap to 100-6.\nIt was the sole bright spot of the match but the punters soon returned to an idle stupor as Australia added four more tries in the final seven minutes.\nAll World Cups are going to have their blowouts and rugby league's more than most. But they must serve a wider purpose and this one did not.\nIt benefited nobody and served to damage the tournament's credibility and its only legacy can be like Australia's 110-4 win over Russia in the men's 2000 World Cup, which is to say as a historical oddity for the trainspotters.\nAs the women's World Cup reckons with what has been an uneven tournament at best, marred by the same enormous scorelines of the men's edition but with few of the strong crowds, questions must be asked as to why a game like this could happen at all.\nThe uninterested and meagre turn-out for this match was proof it did not maximise the product, which very much felt like a curtain-raiser to the two men's matches that followed. Nor does it aid development.\nIt stuffed some stat sheets and gave ammunition to the bad-faith actors who are always on the hunt for an opportunity to take a shot at women's sport.\nThe Jillaroos are the best team in the world by an order of magnitude and have been for years. They gain nothing by putting the cleaners through Wales, who exist in a different universe.\nThat's why the Welsh should be spared any blame for how this went down. When the criticism comes it should not fall on them.\nThey qualified fair and square but they did not ask for this and there's no way to say it without sounding patronising but they did their best in the face of impossible odds.\nWhile they have Canterbury halfback Tayla Preston and North Queensland winger Sian Williams as well as a smattering of Super League talent in Bethan Daiton, Carys Marsh and Agnes Wood, most of their players ply their trade in the women's second division in England.\nIt's a competition that can still have the draw disrupted by forfeits "
+    }
+   ]
+  },
+  {
    "id": "c4d04d67d10",
    "kind": "news",
    "score": 11.5,
@@ -2579,50 +2561,46 @@
    ]
   },
   {
-   "id": "ce18e4ea059",
+   "id": "c3baa272202",
    "kind": "news",
    "score": 11.5,
    "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Norris admits McLaren are ‘too slow’ after Mexico Qualifying",
-   "official_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Qualifying/2302895204.webp",
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/norris-admits-mclaren-are-too-slow-after-he-was-unable-to-repeat-magical-q2-lap.27eAOnAt6RViOkqFEitAft",
-     "title": "Norris admits McLaren are ‘too slow’ after Mexico Qualifying",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Qualifying/2302895204.webp"
-     },
-     "id": "e18e4ea059221d64",
-     "published": "2026-11-01T02:19+00:00",
-     "text": "Norris admits McLaren are ‘too slow’ after he was unable to repeat 'magical' Q2 lap\nLando Norris was left sixth on the grid for the Mexico City Grand Prix after being unable to repeat the lap that had taken him to the top of Q2.\nLando Norris and McLaren had shown flashes of front-running pace throughout the Mexico City Grand Prix weekend, but when it mattered in Q3 the 2025 World Champion had to settle for sixth on the grid.\nSecond fastest on Friday and quickest in FP3, Norris then topped Q2 with what he described as a rare 'magical' lap where everything came together.\nBut he was unable to repeat it in the crucial final session.\nTeam mate Oscar Piastri's struggles offered further evidence of the McLaren's difficulties, with the Australian eliminated in Q2 after qualifying 13th.\n“I don't think anything slipped away,” said Norris when asked about Q3 not working out for him. “I think just the lap I did was pretty phenomenal in the car that we have. I think it shows also with where Oscar is and the struggles, we've been having how difficult it is to put just a lap together in this car, so I'm pretty happy with a P6, honestly.\n“You never really know what you're going to get, and after I did a good lap in Q2, I knew I was screwed for Q3, because the chance of me repeating that lap is impossible.\n“So, it's just we're too slow. Every now and then, I can put a magical lap together, and everyone has a bit of hope – which is not a good thing, because then we see the reality in Q3 once again.”\nNorris painted a vivid picture of how difficult it is to find that perfect lap.\n“You just always have to keep trying,” Norris said. “You never know when things are just going to suddenly go your way.\n\"Like my Q2 lap, I just had an amazing headwind in Turn 12 again, one and a half tenths, just because the car grips. The next lap, I try and go the same speed in, I lose the rear, I lose a tenth. So, I’ve got a two and a half tenths delta to my previous.\n“It's too difficult, especially when I just look at the onboards from others, it baffles me how we can be quick sometimes.\n“It always feels like there's a little bit of hope, which is also as much as I say it wasn't a good thing, it's a good thing at the same time that the speed can be there if things just somehow come together. But you never know when they're going to come together.”\nAnd Norris offered a blunt assessment when asked where McLaren were losing time to their rivals.\n“Every corner,” the Brit said. “I mean, just look at the GPS. You'll see how bad we are in Sector 1, Turn 1, Turn 2, Turn 3. It's like two-tenths every single lap.\n“If we're two-tenths off in the first three corners, it's impossible that you think we can even be close to the rest of the lap. I think the only corner I'm good at is Turn 7. That's it.”\nNext Up"
-    }
-   ]
-  },
-  {
-   "id": "cb56c10b3af",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever",
+   "distinct_sites": 3,
+   "title_hint": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
    "official_image": null,
    "sources": [
     {
-     "source": "CNBC Tech",
-     "trust": 2,
-     "url": "https://cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
-     "title": "Reddit stock plunges 29% after weak outlook, wrapping its worst day ever",
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724006",
+     "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
      "lang": "en",
-     "extra": {
-      "page_image": "https://image.cnbcfm.com/api/v1/image/108481451-1793291105939-gettyimages-2287300231-img_2667.jpeg?v=1793291205&w=1920&h=1080"
-     },
-     "id": "b56c10b3af7616d9",
-     "published": "2026-10-30T20:11+00:00",
-     "text": "Shares of Reddit cratered 29.22% on Friday, the worst drop since becoming a public company in 2024, after the company forecast weak fourth-quarter sales in its latest earnings report.\nThe previous record low was set on July 31, when the stock dropped 20.99%.\nThe social media company on Thursday projected fourth-quarter sales between $1 billion and $1.03 billion, below analysts' estimates of $1.05 billion. Reddit reported Q3 sales growth of 53% over a year ago, weaker than previous quarters, but beat Wall Street expectations on both earnings and revenue.\nThe report comes as the company has seen a shift in its search referral traffic with the rise of Google's AI Overview. In an interview with CNBC, Reddit CEO Steve Huffman said search-referral traffic from Google went \"down meaningfully in this quarter\" due to AI.\nReddit announced on Thursday that it plans to test requiring users to log in to access content, a dramatic change from a site whose community-based discussion content has become synonymous with the open internet. Google's shift towards pushing AI overviews in search results coincided with the change, intended to help boost the number of logged-in users that are more active on the platform, which in turn helps the company's advertising business, according to Huffman.\n\"Reddit is the last platform to provide basically unfettered logged-out access, and that's largely because of me. I've been holding that line,\" Huffman said. \"I think users will probably go through the same understanding that I have, which is that it's a sign of the times. It's an evolution of how these platforms work.\"\nMultiple analysts downgraded the stock following Reddit's disappointing results, with Citizens noting that \"search changes highlight the problem with selling content to Google\" and that as referral problems worsen, uncertainty around user growth amid the login requirement switch \"puts more pressure on user monetization.\"\n— CNBC's Jonathan Vanian contributed to this report."
+     "extra": {},
+     "id": "1bd9c01cc2b3c7ab",
+     "published": "2026-10-31T23:40+00:00",
+     "text": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.\nDigital Foundry’s analysis of the performance of the Switch 2 version of Modern Warfare 4 — the first Call of Duty released on a Nintendo console since 2013’s Ghosts — found that the input lag on Switch 2 can be two times longer than on PS5 at 60fps.\nIn competitive Multiplayer, Switch 2 aims for 60fps and, according to DF, hits that target most of the time (although some things do cause the frame rate to drop, including looking through the transparent visor of a riot shield).\nCall of Duty Multiplayer prides itself on rock solid 60fps gameplay, which provides a smooth, responsive experience for those who fuss over their K/D ratio in, for example, 6v6. It’s crucial that all platforms the game is available on offer at least 60fps to provide a level playing field for Multiplayer fans — although the debate about the advantage PC players have over console has dogged Call of Duty since the dawn of crossplay.\nDF reports that Variable Refresh Rate (VRR) support “helps smooth out” framerate drops on supported displays, although you’ll have a harder time of it in terms of performance playing through portable mode.\nAnd then we come to responsiveness. DF’s tests show 81ms in docked mode and 100ms in portable mode, the latter of which is double the PS5’s 49.1. In fact, DF found that Multiplayer in portable mode ranged from 83ms at best to 125ms at worst. DF called this \"actually deleterious to performance.”\nDF seems generally happy with the Switch 2 version, which was handled by port specialist Digital Legends with support from Infinity Ward. But if you’re into Multiplayer, the inescapable fact is you are at a disadvantage. No matter how fast your trigger finger, the Switch 2 will take longer to respond.\nOutside of Multiplayer it’s a different story. The Campaign runs at 30fps, which was good enough for IGN’s Simon Cardy when he played the Switch 2 version of Modern Warfare 4.\n“Granted, the textures are nowhere near as detailed, with flat surfaces and faces smoothed over to give the impression of plasticine versions of the campaign’s characters,” he said. “It's by no means a looker, but considering the reduced horsepower Nintendo’s latest console is working with, the gameplay itself was smooth, running at 30fps at 4K while docked.”\n“Yes, it's quite a visual downgrade when compared to the likes of PC, PS5, and Xbox Series X, but that comes with the territory,” he continued. “And if you’re solely a Nintendo owner who’s been locked out of Call of Duty for over a decade, you’re getting a version of Modern Warfare 4 that feels every bit as snappy as the series usually is, even if it’s a bit muddier than Nintendo’s own crisp visuals.”\nWhy is Call of Duty releasing on a Nintendo console now, 14 years after the last time? It has to do with Microsoft’s $69 billion acquisition of Activision Blizzard. Back when Microsoft was facing regulatory hurdles, one announcement designed to help convince the powers that be to green light the buyout was a 10-year commitment to bring Call of Duty to Nintendo following the merger.\n“Microsoft is committed to helping bring more games to more people — however they choose to play,” then Xbox boss Phil Spencer said in December 2022. Four years later, and with the Activision Blizzard buyout done and dusted, Call of Duty is on Switch"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
+     "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+     "lang": "en",
+     "extra": {},
+     "id": "3baa2722028704e7",
+     "published": "2026-10-31T23:32+00:00",
+     "text": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.\nDigital Foundry’s analysis of the performance of the Switch 2 version of Modern Warfare 4 — the first Call of Duty released on a Nintendo console since 2013’s Ghosts — found that the input lag on Switch 2 can be two times longer than on PS5 at 60fps.\nIn competitive Multiplayer, Switch 2 aims for 60fps and, according to DF, hits that target most of the time (although some things do cause the frame rate to drop, including looking through the transparent visor of a riot shield).\nCall of Duty Multiplayer prides itself on rock solid 60fps gameplay, which provides a smooth, responsive experience for those who fuss over their K/D ratio in, for example, 6v6. It’s crucial that all platforms the game is available on offer at least 60fps to provide a level playing field for Multiplayer fans — although the debate about the advantage PC players have over console has dogged Call of Duty since the dawn of crossplay.\nDF reports that Variable Refresh Rate (VRR) support “helps smooth out” framerate drops on supported displays, although you’ll have a harder time of it in terms of performance playing through portable mode.\nAnd then we come to responsiveness. DF’s tests show 81ms in docked mode and 100ms in portable mode, the latter of which is double the PS5’s 49.1. In fact, DF found that Multiplayer in portable mode ranged from 83ms at best to 125ms at worst. DF called this \"actually deleterious to performance.”\nDF seems generally happy with the Switch 2 version, which was handled by port specialist Digital Legends with support from Infinity Ward. But if you’re into Multiplayer, the inescapable fact is you are at a disadvantage. No matter how fast your trigger finger, the Switch 2 will take longer to respond.\nOutside of Multiplayer it’s a different story. The Campaign runs at 30fps, which was good enough for IGN’s Simon Cardy when he played the Switch 2 version of Modern Warfare 4.\n“Granted, the textures are nowhere near as detailed, with flat surfaces and faces smoothed over to give the impression of plasticine versions of the campaign’s characters,” he said. “It's by no means a looker, but considering the reduced horsepower Nintendo’s latest console is working with, the gameplay itself was smooth, running at 30fps at 4K while docked.”\n“Yes, it's quite a visual downgrade when compared to the likes of PC, PS5, and Xbox Series X, but that comes with the territory,” he continued. “And if you’re solely a Nintendo owner who’s been locked out of Call of Duty for over a decade, you’re getting a version of Modern Warfare 4 that feels every bit as snappy as the series usually is, even if it’s a bit muddier than Nintendo’s own crisp visuals.”\nWhy is Call of Duty releasing on a Nintendo console now, 14 years after the last time? It has to do with Microsoft’s $69 billion acquisition of Activision Blizzard. Back when Microsoft was facing regulatory hurdles, one announcement designed to help convince the powers that be to green light the buyout was a 10-year commitment to bring Call of Duty to Nintendo following the merger.\n“Microsoft is committed to helping bring more games to more people — however they choose to play,” then Xbox boss Phil Spencer said in December 2022. Four years later, and with the Activision Blizzard buyout done and dusted, Call of Duty is on Switch"
+    },
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Call-of-Duty-Modern-Warfare-2-appears-set-for-re-release-on-modern-consoles.1439055.0.html",
+     "title": "Call of Duty: Modern Warfare 2 appears set for re-release on modern consoles",
+     "lang": "en",
+     "extra": {},
+     "id": "ff06dcd8d2d3db81",
+     "published": "2026-11-01T02:17+00:00",
+     "text": "A new Australian classification for 2009’s Call of Duty: Modern Warfare 2 has fuelled speculation about a re-release on modern consoles, following Activision’s recent ports of Black Ops and Black Ops 2. A new release may restore the multiplayer omitted from the Campaign Remastered edition, but an official confirmation is yet to be made."
     }
    ]
   },
@@ -2713,6 +2691,39 @@
      "id": "ef63da5bd5b128b4",
      "published": "2026-10-31T03:22+00:00",
      "text": "submitted by\n/u/audai-i\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
+   "id": "ce5dc9ecf16",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Block",
+     "trust": 2,
+     "url": "https://theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
+     "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+     "lang": "en",
+     "extra": {},
+     "id": "e5dc9ecf160c20c6",
+     "published": "2026-10-30T21:06+00:00",
+     "text": "Following the $6.3 billion hack of the world's largest crypto exchange, Binance, calls are growing for legislation."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/americas/trump-says-us-could-discuss-6b-binance-hack-with-north-korea/4107804",
+     "title": "Trump says US could discuss $6B Binance hack with North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "945f3b22cbdcd650",
+     "published": "2026-11-01T08:14+00:00",
+     "text": "FBI attributes $6.3B cryptocurrency theft to North Korean hackers, but US president says Washington is still examining responsibility"
     }
    ]
   },
@@ -3267,37 +3278,37 @@
    ]
   },
   {
-   "id": "ce345dfb5b9",
+   "id": "c28074ca5c8",
    "kind": "news",
    "score": 11.0,
-   "sensitive": true,
+   "sensitive": false,
    "distinct_sites": 2,
-   "title_hint": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
+   "title_hint": "تصعيد قضائي حاد في انتخابات التجديد النصفي بأميركا",
    "official_image": null,
    "sources": [
     {
-     "source": "PBS NewsHour",
+     "source": "Sky News Arabia",
      "trust": 2,
-     "url": "https://pbs.org/newshour/politics/attorneys-for-alaska-say-meritless-trump-demand-to-set-aside-senate-ballots-not-even-possible",
-     "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
-     "lang": "en",
+     "url": "https://skynewsarabia.com/world/1901851-%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D9%82%D8%B6%D8%A7%D8%A6%D9%8A-%D8%AD%D8%A7%D8%AF-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D9%86%D8%B5%D9%81%D9%8A-%D8%A8%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7",
+     "title": "تصعيد قضائي حاد في انتخابات التجديد النصفي بأميركا",
+     "lang": "ar",
      "extra": {},
-     "id": "e345dfb5b96f0465",
-     "published": "2026-10-31T22:22+00:00",
-     "text": "The Department of Justice on Friday added a request that the judge separate all ballots showing votes for the second Dan Sullivan until it can be determined whether voters were fooled into wasting their votes for a spoiler candidate."
+     "id": "28074ca5c8ddbc06",
+     "published": "2026-11-01T01:54+00:00",
+     "text": "دخلت حملات انتخابات التجديد النصفي الأميركي عطلة نهاية الأسبوع الأخيرة وسط تصعيد قانوني غير مسبوق، إذ صعدت إدارة الرئيس دونالد ترامب تحقيقا جنائيا في سباق حاسم لمجلس الشيوخ في ولاية ألاسكا، وأعلنت عزمها رفع نزاع بشأن بطاقات الاقتراع بالبريد في كاليفورنيا إلى المحكمة العليا.\nوتتجه الأنظار إلى 35 مقعدا في مجلس الشيوخ و435 مقعدا في مجلس النواب، في اقتراع يحدد ما إذا كان الجمهوريون سيحافظون على سيطرتهم على الكونغرس، حيث يمتلكون أغلبية 53 مقابل 47 في الشيوخ، وأفضلية ضئيلة في النواب.\nتحقيق ألاسكا\nفي ولاية ألاسكا، يحقق مدعون اتحاديون فيما إذا كان مساعدون للمرشحة الديمقراطية ماري بيلتولا قد ساعدوا في استقطاب المعلم المتقاعد دانيال جيه سوليفان جونيور للترشح، لأن اسمه يتشابه مع اسم السناتور الجمهوري الحالي دان إس سوليفان.\nوقد دفع مقال نشرته صحيفة \"نيويورك تايمز\" المدعي العام الأميركي في ألاسكا مايكل هايمان، إلى زيادة كبيرة في الموارد المخصصة للتحقيق. ونفت بيلتولا وحملتها الانتخابية أي دور لهما في هذا الأمر، كما نفى المعلم التنسيق مع الحملة، فيما قلل ناخبون في الولاية من أهمية النزاع.\nكاليفورنيا والمحكمة العليا\nوفي كاليفورنيا، قال ترينت مكوتر، القائم بأعمال نائب المدعي العام، إن المحكمة العليا ستكون على الأرجح المحطة التالية في نزاع بطاقات الاقتراع بالبريد، مضيفا أن أي طلب لنظر القضية سيقدم قبل التصويت يوم الثلاثاء.\nوكانت محكمة استئناف اتحادية قد قضت بأغلبية 2 مقابل 1 بأن وزارة العدل أخفقت في تبرير طلبها الطارئ لاستبعاد بطاقات أكثر من 20 ألف ناخب مسجل، تزعم الوزارة أنهم على الأرجح ليسوا مواطنين أميركيين.\nوأمر قاض اتحادي الوزارة بالتوقف عن تهديد مسؤولي الانتخابات في الولاية بملاحقتهم قضائيا. وحذر الحاكم الديمقراطي غافين نيوسم من أن الوزارة قد تسعى للحصول على أوامر قضائية لمصادرة البطاقات قبل التصديق على النتائج.\nتوترات ميشيغان\nوفي ميشيغان، اشتعل الخلاف مجددا في سباق الشيوخ بين الديمقراطي عبد الرحمن (عبدول) السيد والجمهوري مايك روجرز، إذ طلبت حملة السيد من النائبة هيلي ستيفنز عدم حضور فعالياته حتى يوم الانتخابات.\nوعلى الصعيد الوطني، رفعت الإدارة دعاوى على نحو 30 ولاية و مقاطعة كولومبيا للحصول على سجلات الناخبين الكاملة دون تنقيح، وهي خطوات يرى خبراء أنها تهدف إلى \"إثارة الضبابية ونشر الخوف والفوضى\".\nورغم هذه التوترات، أظهر استطلاع لرويترز وإبسوس أن 76% من الناخبين الأميركيين واثقون من دقة احتساب أصواتهم.\nالتصويت المبكر..أرقام قياسية\nوسجل الإقبال على التصويت المبكر رقما قياسيا، إذ أدلى أكثر من 51 مليون أميركي بأصواتهم بالفعل بالحضور أو عبر البريد، مقارنة بنحو 46 مليونا في الانتخابات الماضية عام 2022. ويقضي ترامب اليوم في ناديه بولاية فلوريدا، على أن يعود غدا للحملة في ولايتي كانساس وأيوا."
     },
     {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/2026-election/alaska-officials-ask-judge-deny-trump-administrations-impossible-deman-rcna606765",
-     "title": "Alaska officials ask judge to deny Trump administration’s ‘impossible’ demand to set aside Senate ballots",
-     "lang": "en",
+     "source": "Google News World AR",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxObC1ReVN2WjZyWUlMQ0psVjRCQ0MzOWJDWnVxUjc3Rlh3bUVyUldzR19uLUE1V19QdmtMd1RaNDUwZUEtQWVraHBVQ3NJMnV5TlBZcm5YR1BDT1B3amZCclliUkh4N3ZZSl94TktJQVlSSjFzSnNOMmtTa291OE53YmhpYXNzcTJZcHVsWVBVZHQ0TUc3anktTkdTRlIwTVJ1N1lwaDl6S1RqUXg4ZkpPbTFYOXdBbWw1WUNLYnVSMnZxWV8zX241R3A1MS1od2NVUTBWLUZ0bDhMLUpNeGw5RUpYelJNLUtZY3p4VUVVMUYxQXBSSC1uVUVTeXBYbzhvemYyLTNlb0JLbTJRS0FWNDY1dkhvdTNfenRTeXRwMjcxNnlDaTBNY2FxZ0FaMkwweU94dWlGaGxaY2JXd0FnWEthSlhEZUVNR3ZyZlNfckZyQ0VLQmUyTTdIMnJZRURrLXVGTTRweUdlVXRpQXFaVnZHYmZBLUNTeWxPTDhSRC1ud3J5NndZVEJSY1ZRUTlVamNqUGY0dHp2OTBNM3J0VUwweVFPZknSAawDQVVfeXFMUHFxbW13VkxBcXg0akVFMGR4SkxhWjkyQzFRQVhsdnhjbHVBNTJsVGpmV2NLQWtEMHFqcEpBbXRleF83NENRUTd6eGluX29SZ3l4VksxbEg5SFBxQVlsTkdvbElrYmJvLW1GUGFBdy04YzlmU0F3SnpOd0tvcjhXdVJ3b2hhS3BDNndHbF95LVhwYzk2cEt1cjBhdzM4QkRINWt3NXBLSXV1VWhNaVFSSld0aWpkaW54SFM1VUhkb2Y3TEJpOUgyX0NXN0dfWGxOU05KUFZ0by1laXF1QWpLaGc1c3FZZ3U3dkdHdFBzYjlnUUgxWGx3SkpDaGZsYkQtNVcyWTl0aHNxWVpKSUJENU5WMndNSFkwVjJWN0xSeGRLbTNzS3ZjUkJmSWF1VjBWcjY2Qm5fVGV3QXlGbHVRc3ZBTHdjcGdEUGxzeENFQWFnaWVSSVcxVGNkSk96aTgtSEZVa2xkeURMRHJxcUtvUjlnY2dDc1M3NFE0a09mWktBbl9CQTJ6RjRISkE0b1NqWV81U0dudzVuN3VRVXd5TjF3ZUptMnhqeVU5Tjc?oc=5",
+     "title": "تصعيد قضائي حاد في انتخابات التجديد النصفي بأميركا - سكاي نيوز عربية",
+     "lang": "ar",
      "extra": {
-      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-dan-sullivan-alaska-w-1507-797575.jpg"
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
      },
-     "id": "6bf3f1c6501d1377",
-     "published": "2026-11-01T02:00+00:00",
-     "text": "The Republican-led state government in Alaska implored a federal judge on Saturday to permanently dismiss the Trump administration’s lawsuit that seeks to block the certification of the Alaska Senate race if GOP Sen. Dan S. Sullivan loses.\n“The United States’ opposition provides no reason for this Court to entertain this meritless lawsuit any longer,” the filing said, adding that “the relief demanded is inappropriate and not even possible given Alaskan voters’ vital right to ballot secrecy.”\nThe filing from Alaska officials comes just three days before Election Day and as the judge is expected to rule soon on whether to dismiss the lawsuit or continue with it.\nThe Trump administration has claimed that Democratic Senate candidate Mary Peltola’s campaign was involved in recruiting a retired teacher with the same name as Sullivan to run in the race, creating confusion that it says will unfairly take away votes intended for the incumbent. Peltola has denied the allegations.\nThe Trump administration filed a lawsuit Oct. 22 against local election officials, arguing that the results of the competitive Senate race should not be certified unless Sen. Dan S. Sullivan is declared the winner.\nAlaska officials on Saturday criticized the legal basis on which the Trump administration has argued it has standing to intervene in the election, as election certification is left up to the states.\nThe filing noted that the Alaska Supreme Court approved the second Sullivan’s name to be on the ballot months ago and added that “state officials carefully designed the ballot to minimize voter confusion.”\nAlaska officials also took aim at the Justice Department’s proposal of “segregating” ballots that rank Dan J. Sullivan, writing, “this unexplained idea makes no sense.”\n“No matter how the ballots are physically stored, it will be easy to tell which ballots rank Daniel J.,” the filing said. “If the United States means something different — as it seems to — its ballot segregation proposal is both disturbing and impossible.”\nThe Alaska attorney general’s office asked the judge to “immediately dismiss this lawsuit with prejudice and allow state officials to conduct the general election — including ballot counting and certification — free from unwarranted federal interference.”\nThe Trump administration amended its complaint this week to cite new reporting from The New York Times, which alleged that Peltola’s campaign was involved in recruiting Dan J. Sullivan and that Peltola herself was aware of the situation. The Times story citied a former campaign manager who later attempted to retract her statements.\nAt a rally Friday night, Peltola told a crowd of her supporters that she was “so deeply offended by these accusations about having any involvement with anyone else’s candidacy.”\n“I want fewer candidates in the primary. I’m not out soliciting more competition,” Peltola said, adding she did “not need any help” defeating Sen. Dan S. Sullivan.\nSen. Dan S. Sullivan took aim at Peltola in a Fox News interview on Saturday, saying that “there’s no way Peltola doesn’t know about” the scheme to recruit Dan J. Sullivan.\n“It’s deception. But at its worst, it’s disdain for us Alaskans,” he said. “Think about what they did. They’re trying to make sure that Alaskans throw away their vote.”"
+     "id": "ddf7ee69d318d340",
+     "published": "2026-11-01T02:04+00:00",
+     "text": "- تصعيد قضائي حاد في انتخابات التجديد النصفي بأميركا سكاي نيوز عربية\n- انتخابات التجديد النصفي الأميركية.. آخر المستجدات سكاي نيوز عربية\n- معركة الفوز بأغلبية الكونغرس الأميركي تدخل منعطفها الأخير العربية\n- ترامب يتهم القضاء الأمريكى بعرقلة جهود كشف مخالفات انتخابية فى لوس أنجلوس اليوم السابع\n- محامون عن ولاية ألاسكا: طلب ترامب «الذي لا أساس له» باستبعاد أصوات في انتخابات مجلس الشيوخ مستحيل تماما بوابة الشروق"
     }
    ]
   },
@@ -3411,35 +3422,48 @@
    ]
   },
   {
-   "id": "c58d4c09870",
+   "id": "cf796811e08",
    "kind": "news",
-   "score": 10.5,
+   "score": 11.0,
    "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Leclerc 'angry with myself' after Mexico Qualifying",
+   "distinct_sites": 1,
+   "title_hint": "هل عاد ليفربول؟ مشروع إيراولا يواجه الاختبار الأصعب",
    "official_image": null,
    "sources": [
     {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/leclerc-angry-with-myself-after-losing-out-to-ferrari-team-mate-hamilton-in-mexico-city-qualifying.6C1Gik6c58NfUOcaLpJTeM",
-     "title": "Leclerc 'angry with myself' after Mexico Qualifying",
-     "lang": "en",
-     "extra": {},
-     "id": "106166fc649fe5cd",
-     "published": "2026-11-01T02:19+00:00",
-     "text": "Charles Leclerc will start the Mexico Grand Prix in P3 while Lewis Hamilton claimed a first pole since 2023."
-    },
-    {
-     "source": "Asharq Al-Awsat",
+     "source": "Independent Arabia",
      "trust": 2,
-     "url": "https://english.aawsat.com/node/5335885",
-     "title": "Leclerc Quickest in Mexico GP Practice",
-     "lang": "en",
+     "url": "https://independent.co.uk/sport/football/liverpool-arsenal-premier-league-preview-prediction-b3076568.html",
+     "title": "هل عاد ليفربول؟ مشروع إيراولا يواجه الاختبار الأصعب",
+     "lang": "ar",
      "extra": {},
-     "id": "58d4c0987097ab54",
-     "published": "2026-10-31T09:54+00:00",
-     "text": ""
+     "id": "f796811e08e11259",
+     "published": "2026-11-01T07:12+00:00",
+     "text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin todayAlready a member? Log in\nWhen Andoni Iraola and Mikel Arteta talked on 20 May, each could praise his boyhood friend for a historic achievement. While Arteta had just won Arsenal’s first Premier League title for 22 years, the kingmaker was Iraola, whose Bournemouth team had held Manchester City, leaving the Gunners four points clear with a game to go. “We spoke the next day just to congratulate each other because it was massive for us as we got Europe,” Iraola said.\nIf Iraola was an unwitting ally to Arteta then, now he assumes the role of obstacle to his fellow Basque’s ambitions. It is not merely because he has three victories in their last four meetings. “It doesn’t mean a lot,” said Iraola; now he has different players and a different team. Then he faced Arsenal as underdogs, now perhaps as equals.\nBut there is a school of thought that, if Arsenal do not retain their title, Liverpool are the likeliest champions. That mantle would rest with Manchester City, but the threat of a sizeable points deduction hangs over them. Liverpool have already lost to City at Anfield; beat Arsenal, as they did last year, and the gap between is reduced to three points. Lose and a nine-point deficit could look too big to overhaul.\nIt isn’t Iraola’s way to talk about the title. “It is too early to start looking at the standings,” he said, arguing they take on a greater meaning when everyone has played everyone else once.\nIt may be more instructive how few others contemplated the prospect of Liverpool winning the league, given that they were defending champions last year. That says something about how unsuccessful their defence of their crown was. They trailed in 25 points behind Arsenal. They then appointed a manager, in Iraola, with a track record of improving teams and players, but not of winning trophies. They stumbled out of the blocks this season.\n“In the first bunch of games, I think the two draws at the beginning condition everything else,” said Iraola. After being held by Newcastle and Nottingham Forest, and trailing to each, there were few predictions of imminent glory. Even now, when Liverpool have gathered momentum on a run of five straight wins, Iraola has noted only two have come in the Premier League. He is aware his side are more prolific in Europe. “In the [English] league, we have been less dangerous offensively,” he said.\nBut there are encouraging elements. Without quite reaching the levels he did at Newcastle, Alexander Isak has nevertheless scored six goals in his last six top-flight games. Iraola’s band of four wingers have shown a productivity, with eight goals and nine assists between them in all competitions. Despite all preferring the left, each has delivered when on the right; in a match-up with Arsenal, without Bukayo Saka and Max Dowman, possibly without Christos Tzolis or Noni Madueke, Iraola could seem to have the better options on the flanks.\nWhile his brand of football can seem more adventurous than Arteta’s, perhaps Iraola has borrowed from his old friend’s playbook. While Arsenal’s set-piece specialists had to wait until last Saturday’s win over Everton for their first goal from dead-ball situations this season, Liverpool, who kept conceding from corners in the first half of last season, have been frugal this year. “I think we have, touch w"
+    }
+   ]
+  },
+  {
+   "id": "c89934f9428",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Google Gemini now lets free users edit generated PDFs in chat",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Google-Gemini-now-lets-free-users-edit-generated-PDFs-in-chat.1439329.0.html",
+     "title": "Google Gemini now lets free users edit generated PDFs in chat",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/google-gemini-pdf-editor-ki-apps.jpg"
+     },
+     "id": "89934f94280ef707",
+     "published": "2026-11-01T07:56+00:00",
+     "text": "Google has added a file editor to the Gemini app. Documents, PDFs, presentations, spreadsheets and code that Gemini generates in a chat can now be opened and changed inside the conversation. There is no need to download them and fix them in another program. Google announced the feature on October 29 and says it is \"now available to all users in all languages where Gemini app is available.\" No subscription is required. We tested it on November 1 with a free Google account in Germany, and the editor was already live in the web version.\nHow the editor works\nAsk Gemini for a file and a preview appears directly below its reply. Our test file was a short PDF with a shopping list. Click into the text to change it yourself. Highlight a passage to have Gemini rewrite just that part or to ask a question about it. A full-screen button opens the file in a larger editing view, and the finished PDF can be exported or saved to Google Drive.\nFree accounts get the editor as well, even though Google has limited the models free users can pick since October 9. Google's own demo shows the intended use. You photograph handwritten lecture notes, have Gemini turn them into a PDF study guide, then edit it yourself or ask Gemini to make changes.\nOnly PDFs on phones\nMobile users get less. The Android and iOS apps can only edit PDFs. Google Docs, Google Sheets, slide decks, Markdown and TXT files and code work only in the web version at gemini.google.com, so reworking a presentation means switching to a computer. All of Google's examples also involve files that Gemini created itself. This is not a replacement for Acrobat.\nWhat to keep out of these files\nEditing in the chat does not change how Google handles your data. Anything you put in these files is part of the conversation and is treated like any other Gemini chat. Google's Gemini Apps Privacy Hub tells users: \"Please don't enter confidential information that you wouldn't want a reviewer to see or Google to use to improve our services, including machine-learning technologies.\" Chats that human reviewers have looked at are kept for up to three years even after you delete your activity, as we explained earlier. Bank statements, job applications and medical letters should stay out of Gemini files. The editor works well for shopping lists, study notes or the first draft of a presentation, and it saves you opening another app."
     }
    ]
   },
@@ -3547,37 +3571,26 @@
    ]
   },
   {
-   "id": "c2acb43e377",
+   "id": "ce18e4ea059",
    "kind": "news",
    "score": 10.5,
-   "sensitive": true,
+   "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Verstappen reveals what 'killed my lap' in Mexico Qualifying",
-   "official_image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/16x9%20single%20image%20-%202026-11-01T004942.181.webp",
+   "title_hint": "Norris admits McLaren are ‘too slow’ after Mexico Qualifying",
+   "official_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Qualifying/2302895204.webp",
    "sources": [
     {
      "source": "Formula 1",
      "trust": 3,
-     "url": "https://formula1.com/en/latest/article/verstappen-reveals-what-killed-my-lap-as-he-assesses-red-bulls-mexico-city-gp-qualifying-performance.6aGB9J2CrK0d9IyF2f7b6q",
-     "title": "Verstappen reveals what 'killed my lap' in Mexico Qualifying",
+     "url": "https://formula1.com/en/latest/article/norris-admits-mclaren-are-too-slow-after-he-was-unable-to-repeat-magical-q2-lap.27eAOnAt6RViOkqFEitAft",
+     "title": "Norris admits McLaren are ‘too slow’ after Mexico Qualifying",
      "lang": "en",
      "extra": {
-      "page_image": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/16x9%20single%20image%20-%202026-11-01T004942.181.webp"
+      "page_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Qualifying/2302895204.webp"
      },
-     "id": "2acb43e37794feac",
-     "published": "2026-11-01T01:17+00:00",
-     "text": "Verstappen reveals what 'killed my lap' as he assesses Red Bull's Mexico City GP Qualifying performance\nMax Verstappen looked like challenging for pole position ahead of the Mexico City Grand Prix before an error on his final attempt.\nMax Verstappen has detailed what \"killed his lap\" in Qualifying for the Mexico City Grand Prix, with the Red Bull driver ultimately set to start P5 for Sunday's race.\nThe four-time World Champion featured towards the front in Saturday's Qualifying session and sat second after the opening runs in Q3 at the Autódromo Hermanos Rodríguez.\nBut whereas others improved with their second attempts, Verstappen failed to go quicker after running deep at the Turn 13 hairpin through the stadium section having just passed Lando Norris' McLaren.\nIt left Verstappen fourth, with the Dutchman set to start fifth after earning himself a one-place grid penalty for a practice collision with Liam Lawson on Friday.\n\"Already going into Turn 12 I had a car very close to me, so I already lost time there with the dirty air,\" said Verstappen.\n\"Then going into the hairpin, instead of going on the left, I had one car on my right where you normally want to open up the corner.\n\"It's a bit of an awkward angle then how you have to go into the hairpin, plus you lose your reference on the right hand side where you are constantly looking, because it's a difficult corner to get right.\n\"That then killed my lap but I think for me the most promising thing is of course how we turned it around because in practice I was not very happy. Qualifying was good, we were fighting for pole for sure.\"\nRed Bull team mate Isack Hadjar will start from P7, despite the Frenchman having a difficult session, particularly with the brakes.\n\"I just don't know how to drive it. It's fast, it's just not really drivable and I just sucked really,\" said Hadjar.\n\"Very [frustrating] because the car is as competitive as the last couple of weekends and we produce a lap worthy of P-nowhere. To be P7, I'm lucky.\"\nNext Up"
-    },
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/vasseur-sets-out-ferraris-approach-to-mexico-city-gp-after-hamiltons-fantastic-job-in-qualifying.aeOT8LBw7vwfZXACZuZNh",
-     "title": "Vasseur on Hamilton’s ‘fantastic job’ in Mexico Qualifying",
-     "lang": "en",
-     "extra": {},
-     "id": "b931f8d4b1e3d646",
+     "id": "e18e4ea059221d64",
      "published": "2026-11-01T02:19+00:00",
-     "text": "Ferrari Team Principal Fred Vasseur has praised Lewis Hamilton for his Qualifying performance in Mexico City."
+     "text": "Norris admits McLaren are ‘too slow’ after he was unable to repeat 'magical' Q2 lap\nLando Norris was left sixth on the grid for the Mexico City Grand Prix after being unable to repeat the lap that had taken him to the top of Q2.\nLando Norris and McLaren had shown flashes of front-running pace throughout the Mexico City Grand Prix weekend, but when it mattered in Q3 the 2025 World Champion had to settle for sixth on the grid.\nSecond fastest on Friday and quickest in FP3, Norris then topped Q2 with what he described as a rare 'magical' lap where everything came together.\nBut he was unable to repeat it in the crucial final session.\nTeam mate Oscar Piastri's struggles offered further evidence of the McLaren's difficulties, with the Australian eliminated in Q2 after qualifying 13th.\n“I don't think anything slipped away,” said Norris when asked about Q3 not working out for him. “I think just the lap I did was pretty phenomenal in the car that we have. I think it shows also with where Oscar is and the struggles, we've been having how difficult it is to put just a lap together in this car, so I'm pretty happy with a P6, honestly.\n“You never really know what you're going to get, and after I did a good lap in Q2, I knew I was screwed for Q3, because the chance of me repeating that lap is impossible.\n“So, it's just we're too slow. Every now and then, I can put a magical lap together, and everyone has a bit of hope – which is not a good thing, because then we see the reality in Q3 once again.”\nNorris painted a vivid picture of how difficult it is to find that perfect lap.\n“You just always have to keep trying,” Norris said. “You never know when things are just going to suddenly go your way.\n\"Like my Q2 lap, I just had an amazing headwind in Turn 12 again, one and a half tenths, just because the car grips. The next lap, I try and go the same speed in, I lose the rear, I lose a tenth. So, I’ve got a two and a half tenths delta to my previous.\n“It's too difficult, especially when I just look at the onboards from others, it baffles me how we can be quick sometimes.\n“It always feels like there's a little bit of hope, which is also as much as I say it wasn't a good thing, it's a good thing at the same time that the speed can be there if things just somehow come together. But you never know when they're going to come together.”\nAnd Norris offered a blunt assessment when asked where McLaren were losing time to their rivals.\n“Every corner,” the Brit said. “I mean, just look at the GPS. You'll see how bad we are in Sector 1, Turn 1, Turn 2, Turn 3. It's like two-tenths every single lap.\n“If we're two-tenths off in the first three corners, it's impossible that you think we can even be close to the rest of the lap. I think the only corner I'm good at is Turn 7. That's it.”\nNext Up"
     }
    ]
   },
@@ -3626,65 +3639,6 @@
      "id": "0c2fd61086036c26",
      "published": "2026-11-01T03:18+00:00",
      "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
-    }
-   ]
-  },
-  {
-   "id": "c8314b5781f",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "MedicalXpress",
-     "trust": 2,
-     "url": "https://medicalxpress.com/news/2026-10-historic-measles-outbreak-pennsylvania-amish.html",
-     "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/measles-amish-country.jpg"
-     },
-     "id": "ad9bb65a76b2a9da",
-     "published": "2026-10-30T21:00+00:00",
-     "text": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines\nAmish and Mennonite shoppers in conservative dress mingled with shoppers from the wider public on a recent Friday at a vast outdoor market here, where vendors sold colorful pumpkins and mums, fry pies and squash, sports jerseys and Barbie accessories.\nSuch interactions are common in Lancaster County in central Pennsylvania, home to the largest Amish population in the U.S.—and the epicenter of the nation's worst measles outbreak in 35 years. While they avoid many types of civic engagement for religious reasons, the Amish—like many other groups vulnerable to measles across the nation—are not truly separate.\n\"We are all interconnected,\" said Dr. Diego Hijano of St. Jude Children's Research Hospital.\nRobust vaccination rates once protected Americans much better.\nBut rates among the general public are now falling, and rates have long been low among the Amish, creating the perfect conditions for the contagious virus—officially considered \"eliminated\" from the U.S. since 2000—to spread here and beyond.\nPennsylvania has the most U.S. cases, with over 1,350 this year, more than a third in Lancaster County alone, according to state figures. That's a big undercount, community leaders say, since many people with measles never see a doctor.\nThe state has recorded three measles-associated deaths in Lancaster and two in other counties.\nIn Amish country, a measles surge poses questions about vaccine acceptance\nThe outbreak has especially hit the \"Plain communities\" of Amish and conservative Mennonites—so named for their modest dress and limited use of technology. Vaccination rates, and attitudes about vaccines, range widely. But overall, they are less likely to be vaccinated than the general population, due more to culture and habit than doctrine.\nMany are now showing a new openness to vaccines, while members of the general public are also taking extra precautions.\nAll of this has underscored the interconnectedness of Plain and wider \"English\" populations.\nThe Plain People avoid such areas of civic participation as holding public office. Still, they regularly shop and do business with their neighbors in this growing county of half a million people, where an urban core is ringed by suburban subdivisions abutting Amish farms.\n\"There's no way to imagine that this is going to be an isolated community,\" said Dr. Anne-Marie Derrico, chief medical officer at the nonprofit Union Community Care. It has clinics in the city of Lancaster and outlying towns, along with a mobile unit operating a \"Plain Healthy\" outreach to the Amish and to Mennonites.\n\"We have Plain patients coming to the city, we have patients in the city who don't vaccinate, who are going to school, going to other programs with other children,\" Derrico said.\nPennsylvania's measles rates have declined from their September peak, but some doctors expect them to rise as winter brings more indoor gatherings.\nWhile most cases are mild, measles can cause serious and even fatal complications, such as pneumonia and encephalitis.\nUnion has held small-scale vaccine clinics to reach Plain populations, resulting in about 450 measles shots. \"That's hopefully made a significant impact,\" Derrico said.\nUnion's clinics are also offering vaccinations for infants earlier than normally scheduled, as health experts advise in areas experiencing measles outbreaks.\nLauren and Mason Spence brought their 10-month-old son, Bowen, t"
-    },
-    {
-     "source": "Google News Health EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3ZjWDhDdVlVeUdRRmFzbXNxU2NrdHhLOGZ3ZlVkcF9yLV9lOTYyZnBWWG1pdkNGX25jdDJwWEcteWhTUF8tYVUtODktdVpuaW83NzZ0eDltaEJxYnQyRUZRM2FUak1yRkdjazV3Wmkyazg1blJLUEdxQmNaNHFsVE0yamhmYjBoUmhMYU1CUDRNRzJMNnVwMFo0eXRkaEJKT1p6NEpzaDJ1V05EZHI3S0QxZ29ZOHPSAbwBQVVfeXFMT0luU0NzUVktejhPeVpia0hrbUk1UVFLa2JoQ2lnak9BajJETTRkVTRRdm92NklSWDZqblR2UUs0cl93WlV5b2dVUmZoM1dmT1VyR2dONHVvUW5hVl96ZmJnQ1ZSNlhvSmJhUWdCREdaRHlWdEstYlFXeUxKSjJqQU9ZNE1qMlAyUEdza2tUbjlXTndNZ0NmaERQUlJIbWtUYzBYWFltZ09mT25ZOURpV1NzaGtkcGNTWVhxdjI?oc=5",
-     "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - FOX 8 News",
-     "lang": "en",
-     "extra": {},
-     "id": "8314b5781fd5ab0c",
-     "published": "2026-10-30T20:19+00:00",
-     "text": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines\nFOX 8 News\nSee more headlines & perspectives on Google News"
-    }
-   ]
-  },
-  {
-   "id": "cd76c89e8e6",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "BYD reveals a flashy new feature on its upcoming luxury EV",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Electrek",
-     "trust": 2,
-     "url": "https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev",
-     "title": "BYD reveals a flashy new feature on its upcoming luxury EV",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://electrek.co/wp-content/uploads/sites/3/2026/10/BYD-luxury-EV-suicide-doors.jpeg?quality=82&strip=all&resize=1200,628"
-     },
-     "id": "d76c89e8e6d9053c",
-     "published": "2026-10-30T20:19+00:00",
-     "text": "BYD is moving upmarket with its new flagship EV, featuring suicide doors, a gemstone grille, and possibly solid-state batteries.\nBYD previews Yangwang Altior suicide doors and grille\nYangwang is like BMW’s Rolls-Royce and Mercedes-Maybach, sitting at the very top of BYD’s brand hierarchy.\nThe ultra-luxury brand offers BYD’s most high-end and technically advanced vehicles, including the U7 sedan, the U8, a hardcore off-road SUV, and the U9, an electric supercar.\nYangwang vehicles have previously debuted with BYD’s latest breakthrough tech, including its quad-motor e4 platform (delivering over 1,300 hp), its second-generation Blade Batteries and Flash Charging, and its DiSus-X intelligent body control system.\nIts next model will push further into the elite segment. After BYD revealed the name of its new flagship executive sedan earlier this week, the Yangwang Altior, the company has released several new details ahead of its official debut.\nYangwang general manager Hu Xiaoqing confirmed on Friday that the new Yangwang Altior will feature suicide doors, a first for a BYD model.\nThe new door design swings open nearly 90 degrees, Hu said, creating a dramatic, wide-open entrance.\nHu also posted a preview of the vehicle’s front fascia, complete with a dot-matrix Gemstrone grille and crystal-inspired headlights.\nBYD has not confirmed many details, but the ultra-luxury sedan is expected to be about 5,500 mm (216″) in length.\nImages of the disguised vehicle released last month show a similar shape and size to the Mercedes-Benz Maybach S-Class or Rolls-Royce Phantom.\nHU said last week that the global launch of the new flagship sedan will take place in the UAE, not in BYD’s home market of China.\nBYD has not revealed an official date, but according to CarNewsChina, citing “sources familiar with the project,” BYD aims to unveil the new flagship model in Dubai, UAE, around November 5.\nThe Yangwang Altrio will feature “unprecedented disruptive technology,” Zheng Yu, Yangwang’s executive general manager, said.\nIn one image, the vehicle was charging at a BYD Flash Charge station, suggesting it will use its Blade Battery 2.0 and 5-minute Flash Charging technology.\nTop comment by Andrea\nThere are companies showcasing flying cars designed specifically for circus-style shows, while others are launching solid-state batteries that can recharge in five minutes.\nI find myself wondering—though perhaps not too deeply—which of these technologies will secure the largest customer base and generate the greatest returns for shareholders.\nOutside of the suicide doors, rumors suggest the flagship model will be BYD’s first vehicle to use solid-state batteries. Executive vice president Stella Li said during an interview with Carwow.es last month that BYD’s first vehicle to use solid-state batteries will debut in 2027.\nThe executive sedan is expected to debut around November 5. Prices are rumored to start in the 2 million yuan range, or about $300,000.\nYangwang’s current electric sedan, the U7, starts at 658,000 yuan ($98,000). The extended U8L, on the other hand, is the brand’s highest-priced mass-produced vehicle, starting at 1.45 million yuan ($217,000).\nComments"
     }
    ]
   },
@@ -4035,6 +3989,83 @@
    ]
   },
   {
+   "id": "c7e2dbf777b",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Apple Reveals New iPad Mini's Battery Capacity",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "MacRumors",
+     "trust": 2,
+     "url": "https://macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh",
+     "title": "Apple Reveals New iPad Mini's Battery Capacity",
+     "lang": "en",
+     "extra": {},
+     "id": "7e2dbf777b979d1f",
+     "published": "2026-10-31T14:24+00:00",
+     "text": "Apple has published an EU energy label for the iPad mini 8 that reveals the device has a battery capacity of 4,900 mAh, which is slightly lower than the 5,034 mAh capacity of the previous model's battery.\nApple's website lists identical battery life estimates for both models, so it appears that the improved power efficiency of the A20 Pro chip in the new iPad mini helps to offset its slightly smaller battery. The new model is also equipped with an OLED display, which can be more power efficient than an LCD when displaying darker content, as there is no backlight and individual pixels turn off completely for the color black.\nFor those who prefer watt-hour figures, Apple's tech specs show the new iPad mini has an 18.9 Wh battery, down from 19.3 Wh for the previous model.\nModel |\nBattery Capacity (mAh) |\nBattery Capacity (Wh) |\niPad mini 8 |\n4,900 mAh |\n18.9 Wh |\niPad mini 7 |\n5,034 mAh |\n19.3 Wh |\nThe new iPad mini features an 8.5-inch OLED display, a new Acoustic Display audio system instead of speaker holes, Wi-Fi 7 support, a 15% thinner and lighter design compared to the previous model, and more. The device is available to pre-order now and launches on Friday, November 6, with U.S. pricing starting at $699.\nThis article, \"Apple Reveals New iPad Mini's Battery Capacity\" first appeared on MacRumors.com\nDiscuss this article in our forums"
+    },
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Apple-reveals-battery-capacity-downgrade-for-new-OLED-iPad-mini.1439320.0.html",
+     "title": "Apple reveals battery capacity downgrade for new OLED iPad mini",
+     "lang": "en",
+     "extra": {},
+     "id": "cc1693597ab4d2ba",
+     "published": "2026-11-01T06:30+00:00",
+     "text": "The newly announced iPad mini 8 brings a handful of upgrades over the last-gen tablet. For instance, it's notably thinner and lighter, but this design improvement may have taken a toll on the battery, as Apple has just confirmed that the new model has a smaller rated capacity."
+    }
+   ]
+  },
+  {
+   "id": "cde508d8ec7",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Nintendo Reveals Surprise Pikmin Day Direct",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct",
+     "title": "Nintendo Reveals Surprise Pikmin Day Direct",
+     "lang": "en",
+     "extra": {},
+     "id": "de508d8ec7e1c2d8",
+     "published": "2026-10-31T14:26+00:00",
+     "text": "Nintendo has revealed a surprise Nintendo Direct for Pikmin Day because it has apparently decided that's a thing now.\nInstead of spooky game announcements or horror movie memes, video game fans woke up to on Halloween 2026 was Mario creator Shigeru Miyamoto's face. That's because Nintendo has declared November 1 as Pikmin Day, and it's got a brand-new Direct to celebrate the occasion.\nYes, really. None of this is a joke. There's a little more than nine minutes of announcements to go over. Although there's no Pikmin 5 reveal or anything else too groundbreaking here, Miyamoto did take the time to share new information about Pikmin 4 and promised that, \"going forward, I want people to know more about Pikmin.\"\nTomorrow is Pikmin Day!\n— Nintendo of America (@NintendoAmerica) October 31, 2026\nJoin in on the fun by playing Pikmin games on Nintendo Switch 2 and Nintendo Switch. https://t.co/iYxZldya7p\nSo, to start, why is the first of November Pikmin Day? Nintendo's miniaturized franchise launched in Japan in October 2001 before coming to North America in December, so there's no tie to a release date like you might have guessed. Instead, Miyamoto explained that November 1 is Pikmin Day because there were originally only three Pikmin, which, when standing next to each other, kinda looks like \"11.1.\"\nReady to test your skills at Dandori Academy?\n— Nintendo of America (@NintendoAmerica) October 31, 2026\nA free demo of #Pikmin4 – Nintendo Switch 2 Edition + Dandori Academy will be available on Nov 2. https://t.co/rNHNq35RMT\nYou gotta give 'em credit for creativity, as Pikmin Day is probably one of the last things anyone expected to see today. Still, it served as a nice opportunity to offer an update on Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy ahead of its release November 12, 2026. Players will be able to use the new consoles built-in microphone to Oatchi, controlling them by using commands like 'rush' and 'go to work.'\nThe Dandori Academy mode, meanwhile, comes with new challenges, including exams that take place on Fridays, Saturdays, and Sundays, that give players timed tasks and an opportunity to earn medals. A demo for the Switch 2 version of Pikimin 4 will be available starting November 2, with save data available to transfer to the full launch. It offers access to the Sun-Speckled Terrace opening area, as well as two Dandori Academy stages.\nSecret Caves are coming this winter!\n— Nintendo of America (@NintendoAmerica) October 31, 2026\nGet ready to explore Secret Caves, face off against familiar creatures, and uncover hidden treasures along the way in @PikminBloom on your smartphone. https://t.co/Nx6Lzba6v4\nNintendo first brought its augmented-reality game, Pikmin Bloom, to smartphone devices in 2021, but five years on, and it's still got more to give. As shown in a teaser video featuring a group of the colorful plant-like creatures battling a Bulborb, an update scheduled to arrive this winter will add a new mechanic called Secret Caves. These battle-focused exploration events allow players to take their crew into caves to battle creatures and earn rewards.\nBefore a cave is explored, players must collect a cave map, which feature information about a cave and can be found on things like Postcards. Then, Pikmin are sent into the cave to search for treasures, with some of the items highlighted during the Direct including a rubber duck, a sword, a cookie, and a chef hat. Should a battle ensue, you'll command your army by sending them"
+    },
+    {
+     "source": "Kotaku",
+     "trust": 2,
+     "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
+     "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct",
+     "lang": "en",
+     "extra": {},
+     "id": "7f99b18d3af193ff",
+     "published": "2026-10-31T15:21+00:00",
+     "text": "While there were no new games announced, the Direct provided updates for the upcoming edition of\nPikmin 4,\nPikmin Bloom\nand crocheted hats"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbk1GRE5FVDFRdmNPWFJKQVVQSWdQbF9TN0xsQTNyRGVvYnJnaF9TWmNWT3ZiWkkyMmg3RXgtZEdBLXBWNGpWTDVvUnFGQUEwQnRfQ2VLVmRLWUN5UzRfdk1rNWxsLVg0eFpNREVoR2tYVGhmQ3Nvd1dmcmh4c3B2RzlkM1JDZm9YZEV1Y3hxVXJSOUpmT2hXN3h4X285dTlhMElnd2cwak81NDA?oc=5",
+     "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct - Kotaku",
+     "lang": "en",
+     "extra": {},
+     "id": "4d0620044247281e",
+     "published": "2026-10-31T15:21+00:00",
+     "text": "- Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct Kotaku\n- A Treasure Hunt Awaits in Pikmin Bloom’s Secret Caves! pikminbloom.com\n- Everything Announced at Nintendo's Inaugural Pikmin Day Direct IGN\n- Shigeru Miyamoto Proclaims November 1 is Pikmin Day, Pikmin 4 Demo Coming To Switch 2 Soon Game Informer\n- Happy Pikmin Day Eve The Verge"
+    }
+   ]
+  },
+  {
    "id": "market-2026-11-01",
    "kind": "market",
    "score": 0,
@@ -4046,15 +4077,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-01/07",
+     "url": "https://market.local/crypto/2026-11-01/08",
      "title": "Market snapshot crypto 2026-11-01",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T07:55+00:00",
-     "text": "Bitcoin: $77,814 (+0.7% 24h)\nEthereum: $2,268 (+1.2% 24h)\nSolana: $95.45 (-0.1% 24h)\nToncoin: $1.22 (+3.8% 24h)"
+     "published": "2026-11-01T08:26+00:00",
+     "text": "Bitcoin: $77,845 (+0.7% 24h)\nEthereum: $2,268 (+1.2% 24h)\nSolana: $95.33 (-0.1% 24h)\nToncoin: $1.22 (+3.3% 24h)"
     }
    ]
   },
@@ -4146,91 +4177,90 @@
    ]
   },
   {
-   "id": "lib-app-google-lens",
+   "id": "lib-app-snapseed",
    "kind": "library",
    "library_kind": "app",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Google Lens",
+   "title_hint": "Snapseed",
    "logos": [
     {
-     "slug": "google",
-     "name": "Google Lens",
-     "domain": "lens.google",
-     "wiki": "Google Lens"
+     "name": "Snapseed",
+     "domain": "snapseed.online",
+     "wiki": "Snapseed"
     }
    ],
    "sources": [
     {
-     "id": "app-google-lens",
+     "id": "app-snapseed",
      "source": "library",
      "trust": 3,
-     "url": "https://play.google.com/store/apps/details?id=com.google.ar.lens",
-     "title": "Google Lens",
+     "url": "https://play.google.com/store/apps/details?id=com.niksoftware.snapseed",
+     "title": "Snapseed",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Google Lens uses the phone camera to translate text in real time, copy text from paper, identify plants and products, and help solve homework, for free. Official link: https://play.google.com/store/apps/details?id=com.google.ar.lens"
+     "text": "Snapseed is a free professional photo editor made by Google, with tools like selective adjustments, healing to remove objects, curves and filters. No ads and no paid features. Official link: https://play.google.com/store/apps/details?id=com.niksoftware.snapseed"
     }
    ]
   },
   {
-   "id": "lib-app-perplexity",
+   "id": "lib-app-adobe-scan",
    "kind": "library",
    "library_kind": "app",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "Perplexity",
+   "title_hint": "Adobe Scan",
    "logos": [
     {
-     "slug": "perplexity",
-     "name": "Perplexity",
-     "domain": "perplexity.ai",
-     "wiki": "Perplexity AI"
+     "slug": "adobe",
+     "name": "Adobe",
+     "domain": "adobe.com",
+     "wiki": "Adobe Inc."
     }
    ],
    "sources": [
     {
-     "id": "app-perplexity",
+     "id": "app-adobe-scan",
      "source": "library",
      "trust": 3,
-     "url": "https://play.google.com/store/apps/details?id=ai.perplexity.app.android",
-     "title": "Perplexity",
+     "url": "https://play.google.com/store/apps/details?id=com.adobe.scan.android",
+     "title": "Adobe Scan",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "Perplexity is an AI search app that answers questions in full sentences and lists the web sources it used, so you can check them. It has a free plan. Official link: https://play.google.com/store/apps/details?id=ai.perplexity.app.android"
+     "text": "Adobe Scan is a free app from Adobe that turns phone photos of documents, receipts and notes into clean PDF files, with automatic edge detection and text recognition. Official link: https://play.google.com/store/apps/details?id=com.adobe.scan.android"
     }
    ]
   },
   {
-   "id": "lib-app-localsend",
+   "id": "lib-app-photomath",
    "kind": "library",
    "library_kind": "app",
    "score": 0,
    "sensitive": false,
    "distinct_sites": 1,
-   "title_hint": "LocalSend",
+   "title_hint": "Photomath",
    "logos": [
     {
-     "name": "LocalSend",
-     "domain": "localsend.org",
-     "wiki": "LocalSend"
+     "name": "Photomath",
+     "domain": "photomath.com",
+     "wiki": "Photomath"
     }
    ],
    "sources": [
     {
-     "id": "app-localsend",
+     "id": "app-photomath",
      "source": "library",
      "trust": 3,
-     "url": "https://localsend.org",
-     "title": "LocalSend",
+     "url": "https://play.google.com/store/apps/details?id=com.microblink.photomath",
+     "title": "Photomath",
      "lang": "en",
      "extra": {},
      "published": "",
-     "text": "LocalSend is a free, open-source app to send files and photos between nearby devices over the local Wi-Fi network, without internet and without an account. It works on Android, iOS, Windows, macOS and Linux. Official link: https://localsend.org Download: https://play.google.com/store/apps/details?id=org.localsend.localsend_app"
+     "text": "Photomath, owned by Google, solves math problems from a photo of the exercise, including handwritten ones, and shows step-by-step solutions. Basic solutions are free; some detailed explanations need the paid Plus plan. Official link: https://play.google.com/store/apps/details?id=com.microblink.photomath"
     }
    ]
   },
