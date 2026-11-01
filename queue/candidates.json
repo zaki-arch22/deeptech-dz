@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T06:54:57+00:00",
+ "generated_at": "2026-11-01T07:25:53+00:00",
  "clusters": [
   {
    "id": "c154d6ff5e1",
@@ -346,9 +346,75 @@
    ]
   },
   {
+   "id": "c2b51d8c5bc",
+   "kind": "news",
+   "score": 20.5,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724000",
+     "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+     "lang": "en",
+     "extra": {},
+     "id": "deefe447917d915a",
+     "published": "2026-10-31T22:40+00:00",
+     "text": "Anthropic has issued an update for Claude that puts a stop to the AI-generated game clones that have filled platforms like Steam.\nThe term 'AI slop' is something we've heard a lot in the past few years, but it became especially prevalent in the gaming community after Valve launched Steam Next Fest earlier this month. PC users quickly launched complaints that their feeds had been filled with low-effort clones not only of pre-existing games but even some titles that had only just released their own demos.\nAs players trudged through the slop, developers faced a reality that threw months or even years of hard work into jeopardy. Some, including Drunken Goddess Reflux developer Alliance Arts and Who You, even took action by canceling their Steam demo plans in favor of private playtests. It's a situation that rapidly spun out of control, prompting a response from Valve itself as it said it would be \"thinking about how to solve this problem.\"\nANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨\nClaude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\". There’s no setting to turn it off.\nThe full rule: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\nIs this the end of game rewrites, modding and everything in between?\n— chasm (@chasmmmmmmmmmmm) October 30, 2026\nAs reported by Game Developer, X/Twitter user Chasm was one of the first to share evidence of tech company Anthropic taking action against video game copycats. Based on their findings, Claude, the company's AI assistant, recently received an update featuring a new rule. The full rule can be read below:\n\"Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.\"\nWhen reached for comment by Game Developer, Anthropic pointed to a post shared by Addy Osmani, a member of its technical staff. Osmani's explanation can be read below:\n\"We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy. Original games, genre games, and games built from your own designs and assets are meant to keep working. We'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way.\"\nWhether there was a specific event or reason that prompted Anthropic to make these changes is unclear.\nGame developers and game enjoyers will no doubt find comfort in Anthropic's changes, though it's worth noting that how impactful any of this will be remains to be seen. At the very least, those who use Claude to rip ideas directly from those who used their minds and time to bring them to life should have a tougher time trying to profit off of the work of others.\nThe industry is struggling to come to grips with artificial intelligence. Some, such as Epic Games' Tim Sweeney, have insisted that Valve should stray from asking developers to disclose games utilizing generative AI materials. Others, including Super Smash Bros. mastermind Masahiro Sakurai, have compared AI-generated games to \"low-quality goods.\" The developers behind VRChat, meanwhile, recently came under fire for how they are handling AI content.\n"
+    },
+    {
+     "source": "Tom's Hardware",
+     "trust": 2,
+     "url": "https://tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+     "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+     "lang": "en",
+     "extra": {},
+     "id": "2b51d8c5bce73301",
+     "published": "2026-10-31T12:20+00:00",
+     "text": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a teen, Bruno co-founded a web development outfit where he was for 17 years before moving on to spend nearly a decade at The Tech Report as a writer, editor, and (of course) developer. In this decade, he's been at Asus, MLCommons, and HotHardware, among others. When not fiddling with computers and games, his love for music and production sends him off to live shows and festivals. Occasionally, he pretends he can play the guitar and bass.</p>"
+    },
+    {
+     "source": "Mashable",
+     "trust": 2,
+     "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+     "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+     "lang": "en",
+     "extra": {},
+     "id": "71145972f162b48a",
+     "published": "2026-10-31T14:28+00:00",
+     "text": "According to reporting from Tom's Hardware, Anthropic's Claude AI has quietly started restricting the kinds of work it will do, including modding, decompiling, or reverse-engineering video game code. And though there has as yet been no official announcement about why, the reason is still pretty obvious.\nThe video game community has been in the news a lot lately, first because of the GTA6 leaks that went mega-viral and spurred Take-Two Interactive into getting subpoenas against both Microsoft and Discord in the hopes of finding the responsible parties, and next because the hacking and modding community discovered how much easier AI makes their job.\nFirst, game decompilers went into overdrive, playing around with the source code of multiple different video games to, for example, put Nintendo's Mario inside the dark gothic world of Elden Ring, or import Spider-Man into the Batman: Arkham City game, seamlessly blending the mechanics of one character into the world of another. Next came the ports: World of Warcraft, Call of Duty, and Grand Theft Auto: Vice City made playable in a browser, without the original developers or copyright owners having any say in the matter.\nThese initial modifications and ports were already giving gaming companies nightmares, teasing a future without system gatekeeping, but things really got out of hand with the PlayStation 5 jailbreak, which resulted in everything from backward compatibility with older-gen PlayStation games to cross-platform play, with users figuring out how to run Xbox-exclusive titles like Halo 2 and acclaimed Nintendo titles like Zelda: Breath of the Wild on a jailbroken PS5.\nGiven the potential number of lawsuits these jailbreaks could cause, and the astronomically high nature of the monetary damages, it's no surprise that AI companies are scrambling to shut down or severely restrict these pathways, but it's also deeply ironic. As Tom's Hardware reporter Bruno Ferreira notes, this sudden concern for copyright \"highlights the irony of frontier AI companies that copied the world's information and art for their training sets and are now concerned with copyright infringement.\"\nThere's also the ugly truth that, if one company makes a gesture toward respecting copyright law or basic ethics, the bad actors can find another LLM that won't (or hasn't yet) taken the same precautions, creating a kind of AI arms race driven by perverse incentives: the least ethical AI might be poised to become the most popular."
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+     "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+     "lang": "en",
+     "extra": {},
+     "id": "722c861c5fddad21",
+     "published": "2026-10-31T21:46+00:00",
+     "text": "Anthropic has issued an update for Claude that puts a stop to the AI-generated game clones that have filled platforms like Steam.\nThe term 'AI slop' is something we've heard a lot in the past few years, but it became especially prevalent in the gaming community after Valve launched Steam Next Fest earlier this month. PC users quickly launched complaints that their feeds had been filled with low-effort clones not only of pre-existing games but even some titles that had only just released their own demos.\nAs players trudged through the slop, developers faced a reality that threw months or even years of hard work into jeopardy. Some, including Drunken Goddess Reflux developer Alliance Arts and Who You, even took action by canceling their Steam demo plans in favor of private playtests. It's a situation that rapidly spun out of control, prompting a response from Valve itself as it said it would be \"thinking about how to solve this problem.\"\nANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨\n— chasm (@chasmmmmmmmmmmm) October 30, 2026\nClaude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\". There’s no setting to turn it off.\nThe full rule: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\nIs this the end of game rewrites, modding and everything in between?\nAs reported by Game Developer, X/Twitter user Chasm was one of the first to share evidence of tech company Anthropic taking action against video game copycats. Based on their findings, Claude, the company's AI assistant, recently received an update featuring a new rule. The full rule can be read below:\n\"Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.\"\nWhen reached for comment by Game Developer, Anthropic pointed to a post shared by Addy Osmani, a member of its technical staff. Osmani's explanation can be read below:\n\"We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy. Original games, genre games, and games built from your own designs and assets are meant to keep working. We'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way.\"\nWhether there was a specific event or reason that prompted Anthropic to make these changes is unclear.\nGame developers and game enjoyers will no doubt find comfort in Anthropic's changes, though it's worth noting that how impactful any of this will be remains to be seen. At the very least, those who use Claude to rip ideas directly from those who used their minds and time to bring them to life should have a tougher time trying to profit off of the work of others.\nThe industry is struggling to come to grips with artificial intelligence. Some, such as Epic Games' Tim Sweeney, have insisted that Valve should stray from asking developers to disclose games utilizing generative AI materials. Others, including Super Smash Bros. mastermind Masahiro Sakurai, have compared AI-generated games to \"low-quality goods.\" The developers behind VRChat, meanwhile, recently came under fire for how they are handling AI content.\n"
+    },
+    {
+     "source": "Reddit technology",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning",
+     "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+     "lang": "en",
+     "extra": {},
+     "id": "7be786ab681149c1",
+     "published": "2026-10-31T12:37+00:00",
+     "text": "submitted by\n/u/Miserable_Phase_2519\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
    "id": "ca1c01ba106",
    "kind": "news",
-   "score": 21.0,
+   "score": 20.0,
    "sensitive": true,
    "distinct_sites": 5,
    "title_hint": "$6.3 billion Binance hack likely work of North Korea, experts say",
@@ -414,72 +480,6 @@
      "id": "aa099f38eae6d838",
      "published": "2026-11-01T01:10+00:00",
      "text": ""
-    }
-   ]
-  },
-  {
-   "id": "c2b51d8c5bc",
-   "kind": "news",
-   "score": 20.5,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Anthropic Blocks AI Game Clones in Claude Opus Update",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724000",
-     "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
-     "lang": "en",
-     "extra": {},
-     "id": "deefe447917d915a",
-     "published": "2026-10-31T22:40+00:00",
-     "text": "Anthropic has issued an update for Claude that puts a stop to the AI-generated game clones that have filled platforms like Steam.\nThe term 'AI slop' is something we've heard a lot in the past few years, but it became especially prevalent in the gaming community after Valve launched Steam Next Fest earlier this month. PC users quickly launched complaints that their feeds had been filled with low-effort clones not only of pre-existing games but even some titles that had only just released their own demos.\nAs players trudged through the slop, developers faced a reality that threw months or even years of hard work into jeopardy. Some, including Drunken Goddess Reflux developer Alliance Arts and Who You, even took action by canceling their Steam demo plans in favor of private playtests. It's a situation that rapidly spun out of control, prompting a response from Valve itself as it said it would be \"thinking about how to solve this problem.\"\nANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨\nClaude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\". There’s no setting to turn it off.\nThe full rule: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\nIs this the end of game rewrites, modding and everything in between?\n— chasm (@chasmmmmmmmmmmm) October 30, 2026\nAs reported by Game Developer, X/Twitter user Chasm was one of the first to share evidence of tech company Anthropic taking action against video game copycats. Based on their findings, Claude, the company's AI assistant, recently received an update featuring a new rule. The full rule can be read below:\n\"Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.\"\nWhen reached for comment by Game Developer, Anthropic pointed to a post shared by Addy Osmani, a member of its technical staff. Osmani's explanation can be read below:\n\"We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy. Original games, genre games, and games built from your own designs and assets are meant to keep working. We'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way.\"\nWhether there was a specific event or reason that prompted Anthropic to make these changes is unclear.\nGame developers and game enjoyers will no doubt find comfort in Anthropic's changes, though it's worth noting that how impactful any of this will be remains to be seen. At the very least, those who use Claude to rip ideas directly from those who used their minds and time to bring them to life should have a tougher time trying to profit off of the work of others.\nThe industry is struggling to come to grips with artificial intelligence. Some, such as Epic Games' Tim Sweeney, have insisted that Valve should stray from asking developers to disclose games utilizing generative AI materials. Others, including Super Smash Bros. mastermind Masahiro Sakurai, have compared AI-generated games to \"low-quality goods.\" The developers behind VRChat, meanwhile, recently came under fire for how they are handling AI content.\n"
-    },
-    {
-     "source": "Tom's Hardware",
-     "trust": 2,
-     "url": "https://tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-     "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-     "lang": "en",
-     "extra": {},
-     "id": "2b51d8c5bce73301",
-     "published": "2026-10-31T12:20+00:00",
-     "text": "<p>Bruno Ferreira's journey kicked off with the venerable ZX Spectrum, a cassette player, and his hopes and dreams. He quickly realized he had more fun figuring out how computers work than he did actually using the things. Kicking off a developer career with C and Assembly before moving to scripting languages, he's worn many hats, including both database architect and systems administration. As a teen, Bruno co-founded a web development outfit where he was for 17 years before moving on to spend nearly a decade at The Tech Report as a writer, editor, and (of course) developer. In this decade, he's been at Asus, MLCommons, and HotHardware, among others. When not fiddling with computers and games, his love for music and production sends him off to live shows and festivals. Occasionally, he pretends he can play the guitar and bass.</p>"
-    },
-    {
-     "source": "Mashable",
-     "trust": 2,
-     "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-     "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-     "lang": "en",
-     "extra": {},
-     "id": "71145972f162b48a",
-     "published": "2026-10-31T14:28+00:00",
-     "text": "According to reporting from Tom's Hardware, Anthropic's Claude AI has quietly started restricting the kinds of work it will do, including modding, decompiling, or reverse-engineering video game code. And though there has as yet been no official announcement about why, the reason is still pretty obvious.\nThe video game community has been in the news a lot lately, first because of the GTA6 leaks that went mega-viral and spurred Take-Two Interactive into getting subpoenas against both Microsoft and Discord in the hopes of finding the responsible parties, and next because the hacking and modding community discovered how much easier AI makes their job.\nFirst, game decompilers went into overdrive, playing around with the source code of multiple different video games to, for example, put Nintendo's Mario inside the dark gothic world of Elden Ring, or import Spider-Man into the Batman: Arkham City game, seamlessly blending the mechanics of one character into the world of another. Next came the ports: World of Warcraft, Call of Duty, and Grand Theft Auto: Vice City made playable in a browser, without the original developers or copyright owners having any say in the matter.\nThese initial modifications and ports were already giving gaming companies nightmares, teasing a future without system gatekeeping, but things really got out of hand with the PlayStation 5 jailbreak, which resulted in everything from backward compatibility with older-gen PlayStation games to cross-platform play, with users figuring out how to run Xbox-exclusive titles like Halo 2 and acclaimed Nintendo titles like Zelda: Breath of the Wild on a jailbroken PS5.\nGiven the potential number of lawsuits these jailbreaks could cause, and the astronomically high nature of the monetary damages, it's no surprise that AI companies are scrambling to shut down or severely restrict these pathways, but it's also deeply ironic. As Tom's Hardware reporter Bruno Ferreira notes, this sudden concern for copyright \"highlights the irony of frontier AI companies that copied the world's information and art for their training sets and are now concerned with copyright infringement.\"\nThere's also the ugly truth that, if one company makes a gesture toward respecting copyright law or basic ethics, the bad actors can find another LLM that won't (or hasn't yet) taken the same precautions, creating a kind of AI arms race driven by perverse incentives: the least ethical AI might be poised to become the most popular."
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
-     "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
-     "lang": "en",
-     "extra": {},
-     "id": "722c861c5fddad21",
-     "published": "2026-10-31T21:46+00:00",
-     "text": "Anthropic has issued an update for Claude that puts a stop to the AI-generated game clones that have filled platforms like Steam.\nThe term 'AI slop' is something we've heard a lot in the past few years, but it became especially prevalent in the gaming community after Valve launched Steam Next Fest earlier this month. PC users quickly launched complaints that their feeds had been filled with low-effort clones not only of pre-existing games but even some titles that had only just released their own demos.\nAs players trudged through the slop, developers faced a reality that threw months or even years of hard work into jeopardy. Some, including Drunken Goddess Reflux developer Alliance Arts and Who You, even took action by canceling their Steam demo plans in favor of private playtests. It's a situation that rapidly spun out of control, prompting a response from Valve itself as it said it would be \"thinking about how to solve this problem.\"\nANTHROPIC IS CRACKING DOWN ON VIDEO GAME REWRITES 🚨\n— chasm (@chasmmmmmmmmmmm) October 30, 2026\nClaude Code picked up a new rule around Oct 27, sent from Anthropic’s servers under a flag called \"tengu_heron_brook\". There’s no setting to turn it off.\nThe full rule: “Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.”\nIs this the end of game rewrites, modding and everything in between?\nAs reported by Game Developer, X/Twitter user Chasm was one of the first to share evidence of tech company Anthropic taking action against video game copycats. Based on their findings, Claude, the company's AI assistant, recently received an update featuring a new rule. The full rule can be read below:\n\"Do build original games, games in a genre, and games from the user’s own designs and assets. Don’t build a recreation of a specific existing game, even if it is renamed or called original.\"\nWhen reached for comment by Game Developer, Anthropic pointed to a post shared by Addy Osmani, a member of its technical staff. Osmani's explanation can be read below:\n\"We added two sentences to Claude Code's prompt on Opus 5.5 to steer it away from recreating someone else's specific game because using Claude to infringe IP is against our usage policy. Original games, genre games, and games built from your own designs and assets are meant to keep working. We'll continue to iterate to ensure we're striking the right balance. In the meantime, if Claude turns down something that's yours, send it my way.\"\nWhether there was a specific event or reason that prompted Anthropic to make these changes is unclear.\nGame developers and game enjoyers will no doubt find comfort in Anthropic's changes, though it's worth noting that how impactful any of this will be remains to be seen. At the very least, those who use Claude to rip ideas directly from those who used their minds and time to bring them to life should have a tougher time trying to profit off of the work of others.\nThe industry is struggling to come to grips with artificial intelligence. Some, such as Epic Games' Tim Sweeney, have insisted that Valve should stray from asking developers to disclose games utilizing generative AI materials. Others, including Super Smash Bros. mastermind Masahiro Sakurai, have compared AI-generated games to \"low-quality goods.\" The developers behind VRChat, meanwhile, recently came under fire for how they are handling AI content.\n"
-    },
-    {
-     "source": "Reddit technology",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xk94u4/anthropics_claude_ai_blocks_video_game_cloning",
-     "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-     "lang": "en",
-     "extra": {},
-     "id": "7be786ab681149c1",
-     "published": "2026-10-31T12:37+00:00",
-     "text": "submitted by\n/u/Miserable_Phase_2519\n[link]\n[comments]"
     }
    ]
   },
@@ -565,43 +565,6 @@
    ]
   },
   {
-   "id": "cd15b79a959",
-   "kind": "news",
-   "score": 17.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Antonelli ‘feeling more tense than usual’ in Mexico City",
-   "official_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp",
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/i-didnt-do-a-good-enough-job-antonelli-admits-feeling-more-tense-than-usual-in-mexico-city-qualifying.2DHPy7wRU0Qymi79OMvZyy",
-     "title": "Antonelli ‘feeling more tense than usual’ in Mexico City",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp"
-     },
-     "id": "e11a39483d48ebc2",
-     "published": "2026-11-01T01:17+00:00",
-     "text": "‘I didn’t do a good enough job’ – Antonelli admits feeling ‘more tense than usual’ in Mexico City Qualifying\nOn what could potentially be a historic weekend for Kimi Antonelli, the Mercedes driver will line up in P4 for the Mexico City Grand Prix.\nKimi Antonelli has conceded that feeling “more tense than usual” at the Mexico City Grand Prix – a weekend in which he could potentially seal his maiden World Championship – played a factor in his Qualifying performance, with the Italian not satisfied by his outing en route to P4.\nWhile the other Mercedes of George Russell looked to be in the fight for pole position – the Briton ultimately ending the session in P2 behind Lewis Hamilton – Antonelli had to settle for fifth place, which will subsequently become fourth on the grid due to a one-place penalty for Max Verstappen ahead.\nTwenty-four hours ahead of what might be a momentous day for the youngster – with a P9 finish being enough to secure the title – Antonelli admitted when reflecting back on the session that it had not been the most straightforward outing amid low-grip conditions.\n“It was tricky for everyone, I think,” the championship leader explained. “I just feel like I didn't do a good enough job out there and didn't have the most confidence. Definitely I've been a bit more tense this weekend than usual, but yeah, still a lot to play for tomorrow.”\nPushed on what his mindset is entering into Sunday’s race, Antonelli acknowledged that approaching it as normal has been a challenge.\n“I mean, it hasn't been easy this weekend, to be fair,” the 20-year-old said. “It hasn't been easy, especially to keep my emotions flat, and definitely I've been a bit more tense than usual so also that played a big factor.\n“But I'll try to enjoy the evening with family and friends and then focus onto tomorrow.”\nShould Antonelli clinch the crown, the driver from Italy will become the sport’s youngest-ever World Champion.\nNext Up"
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/f1/news/12040/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
-     "title": "Antonelli feeling 'tense' amid effort to seal F1 title",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-f1-kimi-antonelli_7393584.jpg?20261101003807"
-     },
-     "id": "d15b79a9597969c0",
-     "published": "2026-11-01T00:45+00:00",
-     "text": "Kimi Antonelli: Mercedes driver admits to feeling 'tense' amid effort to seal F1 title at Mexico City Grand Prix\nKimi Antonelli needs top-nine finish to become world champion at Mexico City Grand Prix; he only qualified fifth and was off the pace compared to Mercedes team-mate George Russell; watch Sunday's race at 8pm (build-up from 6.30pm), live on Sky Sports F1\nSunday 1 November 2026 00:48, UK\nKimi Antonelli has admitted to feeling \"more tense than usual\" ahead of attempting to seal the Formula 1 world championship at Sunday's Mexico City Grand Prix.\nThe 20-year-old only needs to finish ninth in the race to become the sport's youngest world champion.\nAntonelli qualified fifth on Saturday but will start from fourth on the grid due to a penalty for Max Verstappen.\n- How Kimi Antonelli can win world title in Mexico on Sunday\n- Mexico City GP schedule | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts\n- Latest Sky Sports deals or stream F1 with no contract\nSpeaking after the session, the Italian revealed that he is not feeling his best as he continues to recover from an illness that caused him to miss his media duties on Thursday.\nHe told Sky Sports F1: \"It has not been the easiest weekend to be fair.\n\"Definitely still not feeling 100 per cent. There is talk of what could happen [with the championship] and definitely I'm a bit more tense than usual.\n\"Definitely I don't feel as relaxed but I try to have a good sleep tonight and focus on tomorrow.\"\nDespite his condition, Antonelli was still able to produce a decent final lap in qualifying as he finished within two tenths of pole-sitter Lewis Hamilton.\nHowever, the fact that his team-mate George Russell was only marginally behind Hamilton in second perhaps reflected the Italian not being able to summon his best level.\nAntonelli added: \"I struggled to get a good feeling from the tyres in Q3. I just didn't have the most confidence. I was a bit tense, I am not going to lie.\n\"It was a poor lap, many mistakes here and there. Overall, still P4 and a lot to play for tomorrow.\"\n'It's insane!' - Norris happy to pass No 1 onto Antonelli\nLando Norris says he is \"more than happy\" to pass the number one he has had on his McLaren this year to Antonelli when the Mercedes driver replaces him as world champion.\nAntonelli has massively exceeded expectations during just his second season in F1 to comprehensively outperform Russell, who began the year as the clear title favourite.\n\"He's done an incredible job and done it in a pretty incredible way,\" Norris said ahead of the race weekend in Mexico.\n\"People are saying he hasn't had any tough competition this year. That proves the point that he's done such an incredible job.\n\"He's got a very, very talented team-mate that he's beaten through the whole season.\n\"I have nothing but respect for Kimi. He's a very nice guy. We get along very well and I'm more than happy to pass the No 1 over to him.\n\"He deserves it. He's done an incredible job, especially in his second year in Formula 1. Youngest world champion, it's pretty insane.\n\"I enjoy other people having that kind of success. It's nice to see.\"\nSunday November 1\n6.30pm: Grand Prix Sunday: Mexico City GP build-up\n8pm: THE MEXICO CITY GRAND PRIX*\n10pm: Chequered Flag: Mexico City GP reaction\n11pm: Ted's Notebook\n*also on Sky Sports Main Event\nFormula 1 is in Mexico City where Kimi Antonelli could win the Drivers' Championship in Sunday's race at 8pm (build-up from 6.30pm), "
-    }
-   ]
-  },
-  {
    "id": "c8703aea988",
    "kind": "news",
    "score": 17.0,
@@ -644,6 +607,43 @@
      "id": "dc9fd0e56b91bd47",
      "published": "2026-11-01T01:34+00:00",
      "text": "\"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%,\" Binance co-CEO Richard Teng posted on X, adding that \"Our users will not bear the financial impact of this incident.\"\n\"Binance said it was able to replace the funds taken in the record hack by using company money to buy new tokens,\" reports NBC News:\nThe remaining 10% consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X... Binance said it has set aside around $6.34 billion of company funds internally to cover the losses. The money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nNBC News reports that the FBI blames the breach on a North Korea-sponsored group known as TraderTraitor:\nMembers of [TraderTraitor] were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology... After the hack, the exchange stopped allowing customers to withdraw their funds, but it said Saturday it was still on track to reopen withdrawals Sunday.\nCNBC reports:\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\nThe New York Times describes what happened when Binance first spotted \"a multibillion-dollar deluge of digital coins\" pouring out of its accounts:\nAs the news spread, Binance's top executives put together an informal war room on Wea, the company's internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel. They eventually transitioned to a mass conference call, with 100 boxes on the screen, where employees took turns muting and then unmuting, communicating in a mixture of English and Chinese. Among them was He Yi, Binance's co-chief executive, who is seven months pregnant, and worked through the night from her base in Abu Dhabi, taking a call at 3 a.m. local time....\nMuch of the drama played out in public. Almost all crypto transactions are recorded on the blockchain, a ledger of money movements that anyone can look up. That meant crypto analysts could see funds leaving Binance in real time... North Koreans have targeted crypto companies for years, using the proceeds of those thefts to fund its nuclear program, according to Western officials. The hackers have developed increasingly complex strategies to steal crypto and launder the proceeds, a painstaking endeavor that can take months to complete. In a blog post on Friday, Chainalysis said the attackers had deployed \"laundering patterns we have not seen before,\" conducting thousands of transactions over a short period, probably with the help of automation.\nAt the same time, Binance's colleagues in the industry mobilized to intercept some of the laundered crypto. Certain digital coin issuers can freeze funds, allowing them to halt a money-laundering operation in its tracks. Soon after the hack, T"
+    }
+   ]
+  },
+  {
+   "id": "cd15b79a959",
+   "kind": "news",
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Antonelli ‘feeling more tense than usual’ in Mexico City",
+   "official_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp",
+   "sources": [
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/i-didnt-do-a-good-enough-job-antonelli-admits-feeling-more-tense-than-usual-in-mexico-city-qualifying.2DHPy7wRU0Qymi79OMvZyy",
+     "title": "Antonelli ‘feeling more tense than usual’ in Mexico City",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/antonellimexicosaturday.webp"
+     },
+     "id": "e11a39483d48ebc2",
+     "published": "2026-11-01T01:17+00:00",
+     "text": "‘I didn’t do a good enough job’ – Antonelli admits feeling ‘more tense than usual’ in Mexico City Qualifying\nOn what could potentially be a historic weekend for Kimi Antonelli, the Mercedes driver will line up in P4 for the Mexico City Grand Prix.\nKimi Antonelli has conceded that feeling “more tense than usual” at the Mexico City Grand Prix – a weekend in which he could potentially seal his maiden World Championship – played a factor in his Qualifying performance, with the Italian not satisfied by his outing en route to P4.\nWhile the other Mercedes of George Russell looked to be in the fight for pole position – the Briton ultimately ending the session in P2 behind Lewis Hamilton – Antonelli had to settle for fifth place, which will subsequently become fourth on the grid due to a one-place penalty for Max Verstappen ahead.\nTwenty-four hours ahead of what might be a momentous day for the youngster – with a P9 finish being enough to secure the title – Antonelli admitted when reflecting back on the session that it had not been the most straightforward outing amid low-grip conditions.\n“It was tricky for everyone, I think,” the championship leader explained. “I just feel like I didn't do a good enough job out there and didn't have the most confidence. Definitely I've been a bit more tense this weekend than usual, but yeah, still a lot to play for tomorrow.”\nPushed on what his mindset is entering into Sunday’s race, Antonelli acknowledged that approaching it as normal has been a challenge.\n“I mean, it hasn't been easy this weekend, to be fair,” the 20-year-old said. “It hasn't been easy, especially to keep my emotions flat, and definitely I've been a bit more tense than usual so also that played a big factor.\n“But I'll try to enjoy the evening with family and friends and then focus onto tomorrow.”\nShould Antonelli clinch the crown, the driver from Italy will become the sport’s youngest-ever World Champion.\nNext Up"
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/f1/news/12040/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
+     "title": "Antonelli feeling 'tense' amid effort to seal F1 title",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-f1-kimi-antonelli_7393584.jpg?20261101003807"
+     },
+     "id": "d15b79a9597969c0",
+     "published": "2026-11-01T00:45+00:00",
+     "text": "Kimi Antonelli: Mercedes driver admits to feeling 'tense' amid effort to seal F1 title at Mexico City Grand Prix\nKimi Antonelli needs top-nine finish to become world champion at Mexico City Grand Prix; he only qualified fifth and was off the pace compared to Mercedes team-mate George Russell; watch Sunday's race at 8pm (build-up from 6.30pm), live on Sky Sports F1\nSunday 1 November 2026 00:48, UK\nKimi Antonelli has admitted to feeling \"more tense than usual\" ahead of attempting to seal the Formula 1 world championship at Sunday's Mexico City Grand Prix.\nThe 20-year-old only needs to finish ninth in the race to become the sport's youngest world champion.\nAntonelli qualified fifth on Saturday but will start from fourth on the grid due to a penalty for Max Verstappen.\n- How Kimi Antonelli can win world title in Mexico on Sunday\n- Mexico City GP schedule | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts\n- Latest Sky Sports deals or stream F1 with no contract\nSpeaking after the session, the Italian revealed that he is not feeling his best as he continues to recover from an illness that caused him to miss his media duties on Thursday.\nHe told Sky Sports F1: \"It has not been the easiest weekend to be fair.\n\"Definitely still not feeling 100 per cent. There is talk of what could happen [with the championship] and definitely I'm a bit more tense than usual.\n\"Definitely I don't feel as relaxed but I try to have a good sleep tonight and focus on tomorrow.\"\nDespite his condition, Antonelli was still able to produce a decent final lap in qualifying as he finished within two tenths of pole-sitter Lewis Hamilton.\nHowever, the fact that his team-mate George Russell was only marginally behind Hamilton in second perhaps reflected the Italian not being able to summon his best level.\nAntonelli added: \"I struggled to get a good feeling from the tyres in Q3. I just didn't have the most confidence. I was a bit tense, I am not going to lie.\n\"It was a poor lap, many mistakes here and there. Overall, still P4 and a lot to play for tomorrow.\"\n'It's insane!' - Norris happy to pass No 1 onto Antonelli\nLando Norris says he is \"more than happy\" to pass the number one he has had on his McLaren this year to Antonelli when the Mercedes driver replaces him as world champion.\nAntonelli has massively exceeded expectations during just his second season in F1 to comprehensively outperform Russell, who began the year as the clear title favourite.\n\"He's done an incredible job and done it in a pretty incredible way,\" Norris said ahead of the race weekend in Mexico.\n\"People are saying he hasn't had any tough competition this year. That proves the point that he's done such an incredible job.\n\"He's got a very, very talented team-mate that he's beaten through the whole season.\n\"I have nothing but respect for Kimi. He's a very nice guy. We get along very well and I'm more than happy to pass the No 1 over to him.\n\"He deserves it. He's done an incredible job, especially in his second year in Formula 1. Youngest world champion, it's pretty insane.\n\"I enjoy other people having that kind of success. It's nice to see.\"\nSunday November 1\n6.30pm: Grand Prix Sunday: Mexico City GP build-up\n8pm: THE MEXICO CITY GRAND PRIX*\n10pm: Chequered Flag: Mexico City GP reaction\n11pm: Ted's Notebook\n*also on Sky Sports Main Event\nFormula 1 is in Mexico City where Kimi Antonelli could win the Drivers' Championship in Sunday's race at 8pm (build-up from 6.30pm), "
     }
    ]
   },
@@ -710,126 +710,6 @@
      "id": "4ce76ed343cf59e0",
      "published": "2026-10-31T22:20+00:00",
      "text": "Washington D.C. and Virginia are asking a judge to block the president's Triumphal Arch."
-    }
-   ]
-  },
-  {
-   "id": "c47bfbaf0fa",
-   "kind": "news",
-   "score": 15.5,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "2026 Mini LED(M80H) : Feature Film | Samsung",
-   "official_image": "https://www.youtube.com/v/y5-ZJ125bWw?version=3",
-   "sources": [
-    {
-     "source": "YouTube Samsung",
-     "trust": 3,
-     "url": "https://youtube.com/watch?v=y5-ZJ125bWw",
-     "title": "2026 Mini LED(M80H) : Feature Film | Samsung",
-     "lang": "en",
-     "extra": {
-      "image": "https://www.youtube.com/v/y5-ZJ125bWw?version=3"
-     },
-     "id": "47bfbaf0fa74719a",
-     "published": "2026-10-31T00:01+00:00",
-     "text": "What makes Samsung Mini LED M80H different?\nSmaller light sources deliver precise control and refined efficiency.\nMini LED HDR enhances contrast with deeper detail and clarity.\nSmooth motion up to 4K 144Hz keeps every scene fluid—\nwith AI assistance that’s more visual, contextual, and seamlessly integrated into what you’re watching.\nAll coming together as the answer to your thrilling moments.\nIntroducing Samsung’s Mini LED—M80H.\n00:00 Mini LED & Mini LED HDR\n00:32 Color Booster Pro\n00:50 Motion Xcelerator 144Hz\n01:07 Enhanced viewing experience with Vision AI Companion\n#SamsungVisionAI #MiniLED #M80H #SamsungTV"
-    },
-    {
-     "source": "YouTube Samsung",
-     "trust": 3,
-     "url": "https://youtube.com/watch?v=Whh_-qLwUuA",
-     "title": "2026 OLED(S90H): Feature Film | Samsung",
-     "lang": "en",
-     "extra": {
-      "image": "https://www.youtube.com/v/Whh_-qLwUuA?version=3"
-     },
-     "id": "c4ad6c6e5163a295",
-     "published": "2026-10-31T01:01+00:00",
-     "text": "How does the Samsung OLED S90H elevate your viewing, gaming, and personalized entertainment?\nWith Samsung OLED, you get deeper blacks and vibrant color through VDE-certified Real Black and OLED HDR+. Game at your best with the Ultimate Gaming Pack, and enjoy AI-enhanced picture and sound. Plus, Vision AI Companion helps you find your favorite content 👀\n00:00 What’s New in the 2026 S90H OLED TV? – Glare Free\n00:19 OLED HDR+\n00:29 Ultimate Gaming Pack\n00:40 Vision AI Companion\n00:50 The Answer to Ultimate Immersion\n#OLED #SamsungVisionAI #SamsungTV"
-    },
-    {
-     "source": "YouTube Samsung",
-     "trust": 3,
-     "url": "https://youtube.com/watch?v=vKY4ccHm5cU",
-     "title": "2026 Neo QLED: Feature Film | Samsung",
-     "lang": "en",
-     "extra": {
-      "image": "https://www.youtube.com/v/vKY4ccHm5cU?version=3"
-     },
-     "id": "c7ee86716f80065c",
-     "published": "2026-10-31T02:01+00:00",
-     "text": "What makes Samsung Neo QLED QN80H so immersive?\nQuantum Mini LED enhances contrast with refined precision, while 100% Color Volume brings every scene to life.\nPowered by the NQ4 AI Gen2 Processor, every moment is intelligently optimized—while Vision AI Companion delivers more visual, context-aware AI help, making your TV a smarter way to explore every moment.\nIt all moves as one seamless experience, with Motion Xcelerator 144Hz keeping every scene smooth.\nAll coming together as the answer to true immersion.\nExperience Neo QLED—QN80H.\n00:00 Real QLED with 100% Color Volume\n00:23 Quantum Mini LED\n00:53 Motion Xcelerator 144Hz\n01:17 Immersive viewing with Vision AI Companion\n#SamsungVisionAI #NeoQLED #QN80H #SamsungTV"
-    },
-    {
-     "source": "TechRadar",
-     "trust": 2,
-     "url": "https://techradar.com/televisions/i-put-lg-and-samsungs-latest-mid-range-oled-tv-side-by-side-and-tested-them-with-reference-4k-blu-ray-scenes-heres-the-one-id-buy-myself",
-     "title": "LG C6 vs Samsung S90H: which of these 2026 OLED TVs comes out on top?",
-     "lang": "en",
-     "extra": {},
-     "id": "c2fecd15ddf326ba",
-     "published": "2026-10-31T19:00+00:00",
-     "text": "<p>James is the TV Hardware Staff Writer at TechRadar. After studying English Literature and Creative Writing at Bath Spa University, he rekindled a childhood love for writing and creating stories that soon translated into the world of freelance writing, primarily for music blogs. Eventually getting into the world of TV and hi-fi, James honed a knowledge and passion for all things audio and visual. He is now bringing this experience to Tech Radar to write about the latest TV- related tech and give readers all the info they need. When not writing and reading about the latest audio and visual goodies, James can be found gaming, reading, watching rugby or coming up with another idea for a novel. </p>"
-    }
-   ]
-  },
-  {
-   "id": "cf33d51281f",
-   "kind": "news",
-   "score": 15.5,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Persona 1 Remake Footage Seemingly Leaks Online",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723990",
-     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
-     "lang": "en",
-     "extra": {},
-     "id": "9263f0dba98cfec2",
-     "published": "2026-10-31T20:40+00:00",
-     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
-     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
-     "lang": "en",
-     "extra": {},
-     "id": "f33d51281fd2f187",
-     "published": "2026-10-31T20:21+00:00",
-     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXFZdDZ1Uld6d0lqc2k5d0phQkE5MXJ4dXZ4aWVxT2ZSTWExNzlBZ2NyZmxkRnNFX2x3MGJubHNBd0IyYXBiSl84blR3YzJ5NEkxbVFRWkxJZVRXOEthd2I0RDRTM2xwWTJiSHBKbGg2QW9ZcXlhYUZrdERsV1R4RW53?oc=5",
-     "title": "Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online - IGN",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "c331f4a376395fd2",
-     "published": "2026-10-31T20:21+00:00",
-     "text": "- Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online IGN\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Rumor: Persona remake footage appears online Gematsu"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWRqdF9Za2VyV3NPX1RSMGdsQVl4Ukd1OWVTTzNJT3FQazR4NWltLVE4VjVudTVnSmF3aDFnVlBSTEo3U2p4bE5KdUYyXzlob3hhckdZb3ZUZXZfTTItOTRrZzFnNGRSWW01ZEVWbFhZNDFmN3RFRm1vSlpjS3Z2UXRFMk5TRnprREI1TnFMVmVUcFVKX2F0Vw?oc=5",
-     "title": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online - Push Square",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "d194961c9a297212",
-     "published": "2026-11-01T01:00+00:00",
-     "text": "- Rumour: Alleged Persona 1 Remake Gameplay Leaks Online Push Square\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Persona 1 Remake Leak: Fans React to 2-Min Clip [2026] shattered.io\n- Persona 1 Remake Trailer Leak: 360p, Unconfirmed [2026] https://tech-insider.org/\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
     }
    ]
   },
@@ -972,6 +852,67 @@
    ]
   },
   {
+   "id": "c47bfbaf0fa",
+   "kind": "news",
+   "score": 14.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "2026 Mini LED(M80H) : Feature Film | Samsung",
+   "official_image": "https://www.youtube.com/v/y5-ZJ125bWw?version=3",
+   "sources": [
+    {
+     "source": "YouTube Samsung",
+     "trust": 3,
+     "url": "https://youtube.com/watch?v=y5-ZJ125bWw",
+     "title": "2026 Mini LED(M80H) : Feature Film | Samsung",
+     "lang": "en",
+     "extra": {
+      "image": "https://www.youtube.com/v/y5-ZJ125bWw?version=3"
+     },
+     "id": "47bfbaf0fa74719a",
+     "published": "2026-10-31T00:01+00:00",
+     "text": "What makes Samsung Mini LED M80H different?\nSmaller light sources deliver precise control and refined efficiency.\nMini LED HDR enhances contrast with deeper detail and clarity.\nSmooth motion up to 4K 144Hz keeps every scene fluid—\nwith AI assistance that’s more visual, contextual, and seamlessly integrated into what you’re watching.\nAll coming together as the answer to your thrilling moments.\nIntroducing Samsung’s Mini LED—M80H.\n00:00 Mini LED & Mini LED HDR\n00:32 Color Booster Pro\n00:50 Motion Xcelerator 144Hz\n01:07 Enhanced viewing experience with Vision AI Companion\n#SamsungVisionAI #MiniLED #M80H #SamsungTV"
+    },
+    {
+     "source": "YouTube Samsung",
+     "trust": 3,
+     "url": "https://youtube.com/watch?v=Whh_-qLwUuA",
+     "title": "2026 OLED(S90H): Feature Film | Samsung",
+     "lang": "en",
+     "extra": {
+      "image": "https://www.youtube.com/v/Whh_-qLwUuA?version=3"
+     },
+     "id": "c4ad6c6e5163a295",
+     "published": "2026-10-31T01:01+00:00",
+     "text": "How does the Samsung OLED S90H elevate your viewing, gaming, and personalized entertainment?\nWith Samsung OLED, you get deeper blacks and vibrant color through VDE-certified Real Black and OLED HDR+. Game at your best with the Ultimate Gaming Pack, and enjoy AI-enhanced picture and sound. Plus, Vision AI Companion helps you find your favorite content 👀\n00:00 What’s New in the 2026 S90H OLED TV? – Glare Free\n00:19 OLED HDR+\n00:29 Ultimate Gaming Pack\n00:40 Vision AI Companion\n00:50 The Answer to Ultimate Immersion\n#OLED #SamsungVisionAI #SamsungTV"
+    },
+    {
+     "source": "YouTube Samsung",
+     "trust": 3,
+     "url": "https://youtube.com/watch?v=vKY4ccHm5cU",
+     "title": "2026 Neo QLED: Feature Film | Samsung",
+     "lang": "en",
+     "extra": {
+      "image": "https://www.youtube.com/v/vKY4ccHm5cU?version=3"
+     },
+     "id": "c7ee86716f80065c",
+     "published": "2026-10-31T02:01+00:00",
+     "text": "What makes Samsung Neo QLED QN80H so immersive?\nQuantum Mini LED enhances contrast with refined precision, while 100% Color Volume brings every scene to life.\nPowered by the NQ4 AI Gen2 Processor, every moment is intelligently optimized—while Vision AI Companion delivers more visual, context-aware AI help, making your TV a smarter way to explore every moment.\nIt all moves as one seamless experience, with Motion Xcelerator 144Hz keeping every scene smooth.\nAll coming together as the answer to true immersion.\nExperience Neo QLED—QN80H.\n00:00 Real QLED with 100% Color Volume\n00:23 Quantum Mini LED\n00:53 Motion Xcelerator 144Hz\n01:17 Immersive viewing with Vision AI Companion\n#SamsungVisionAI #NeoQLED #QN80H #SamsungTV"
+    },
+    {
+     "source": "TechRadar",
+     "trust": 2,
+     "url": "https://techradar.com/televisions/i-put-lg-and-samsungs-latest-mid-range-oled-tv-side-by-side-and-tested-them-with-reference-4k-blu-ray-scenes-heres-the-one-id-buy-myself",
+     "title": "LG C6 vs Samsung S90H: which of these 2026 OLED TVs comes out on top?",
+     "lang": "en",
+     "extra": {},
+     "id": "c2fecd15ddf326ba",
+     "published": "2026-10-31T19:00+00:00",
+     "text": "<p>James is the TV Hardware Staff Writer at TechRadar. After studying English Literature and Creative Writing at Bath Spa University, he rekindled a childhood love for writing and creating stories that soon translated into the world of freelance writing, primarily for music blogs. Eventually getting into the world of TV and hi-fi, James honed a knowledge and passion for all things audio and visual. He is now bringing this experience to Tech Radar to write about the latest TV- related tech and give readers all the info they need. When not writing and reading about the latest audio and visual goodies, James can be found gaming, reading, watching rugby or coming up with another idea for a novel. </p>"
+    }
+   ]
+  },
+  {
    "id": "ccf533f4094",
    "kind": "news",
    "score": 14.5,
@@ -1006,6 +947,65 @@
      "id": "cf533f4094ed65e6",
      "published": "2026-10-31T05:24+00:00",
      "text": "SpaceX celebrated Halloween with an early-morning launch from California.\nA Falcon 9 rocket lifted off from Vandenberg Space Force Base today (Oct. 31) at 12:04 a.m. EDT (0404 GMT; 9:04 p.m. on Oct. 30 local time), sending 27 of the company's Starlink internet satellites to low Earth orbit (LEO).\nThe Falcon 9's first stage came back to Earth as planned, touching down about 8.5 minutes after launch on the SpaceX drone ship \"Of Course I Still Love You,\" which was stationed in the Pacific Ocean.\nIt was the 18th flight for this particular booster, which is designated B1093. The record for a SpaceX first stage is 37, set this past August by the booster B1067.\nThe Falcon 9's upper stage did its job as well today, deploying the 27 Starlink satellites into LEO about 62 minutes after launch. They're joining more than 11,000 spacecraft in the Starlink megaconstellation, which is by far the largest satellite network ever assembled.\nToday's launch was the 118th Falcon 9 flight of 2026 so far. More than 70% of these missions have been devoted to building out the Starlink network.\nSpaceX has also launched its Falcon Heavy and Starship rockets three times apiece this year. Falcon Heavy is an operational vehicle, but Starship remains in the test-flight phase. The company is currently gearing up for another Starship launch, which is expected to take place sometime in November.\nMichael Wall is the Spaceflight and Tech Editor for Space.com and joined the team in 2010. He primarily covers human and robotic spaceflight, military space, and exoplanets, but has been known to dabble in the space art beat. His book about the search for alien life, \"Out There,\" was published on Nov. 13, 2018. Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist. He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelor's degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz. To find out what his latest project is, you can follow Michael on Twitter.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
+    }
+   ]
+  },
+  {
+   "id": "cf33d51281f",
+   "kind": "news",
+   "score": 14.5,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Persona 1 Remake Footage Seemingly Leaks Online",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723990",
+     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
+     "lang": "en",
+     "extra": {},
+     "id": "9263f0dba98cfec2",
+     "published": "2026-10-31T20:40+00:00",
+     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
+     "title": "Persona 1 Remake Footage Seemingly Leaks Online",
+     "lang": "en",
+     "extra": {},
+     "id": "f33d51281fd2f187",
+     "published": "2026-10-31T20:21+00:00",
+     "text": "What appears to be gameplay footage from an unannounced Persona 1 remake has leaked online.\nA little less than two minutes of video depicting what looks a lot like a modern version of Sega and Atlus' original Persona game was first published on Reddit before being spread around various social media platforms today. The developers behind the RPG franchise have broached the topic of remakes for early installments in the past but never confirmed work was underway, meaning this could be our first look at the series' next remake.\nThe original post says the footage is tied to a Persona: Be Your True Mind remake. In the age of AI-generated fakes, you can never be too skeptical about things like this, but fans generally seem to be under the impression that the footage is authentic. We won't share it here, but you don't have to look too hard on places like X/Twitter or YouTube to see what everyone's talking about.\nYea that Persona 1 remake leaked footage gotta be 100% real. I refuse to believe someone would do that much work to make a fake leak.\n— Johnny 🔥 (@JohnnyLockson) October 31, 2026\nThere are a few reasons players suspect this to be our first glimpse at a not-so-secret Persona 1 remake from Atlus. Aside from the music, effects, and art, which all fall right in line with much of the studio's recent work, the video on display is much longer and more detailed than any fake leak would typically be. The smoking gun for many, though, is the character animations.\nIt's specifically Eriko that people are calling out, as she seems to share a summoning animation with Persona 4 Revival's version of Yukiko. Atlus' Persona 4 remake, of course, won't be out until February 18, 2027. There's also the issue of the appearance of Persona 2 protagonist Tatsuya, who seems to be standing in for what may be an unfinished character model.\nSo, what can we make of all of this? Well, unfortunately, without confirmation from Sega or Atlus, not much. There is always the chance this could be an elaborate fake, with some of these odd details serving as evidence for that argument. On the other hand, it's possible placeholder assets and familiar animations are here specifically because the alleged Persona 1 remake is still very much in development.\nPersona 1 leak looks credible, not sure why people are reporting Tatsuya is replacing Masao, that's just complete bogus.\n— MeovvCAT (@osu_MeovvCAT) October 31, 2026\nThis is most likely an internal investor pitch for remakes of Persona 1 and 2, and not actually Persona 1.\nThere are Persona 4 Revival animations in the gameplay footage, which definitely helps the case of it being real.\nThat sure is a persona 1 remake trailer. Why is tatsuya there\n— julie (@droolvana) October 31, 2026\nWe don't know when this footage would have been captured, even if it does turn out to be real. That means this could be from yesterday or years ago, with some speculating that the video we've seen today is little more than a proof-of-concept or pitch video.\nIGN has reached out to Sega for comment.\nIf the Persona: Be Your True Mind remake footage is authentic, it wouldn't be the biggest surprise to see it announced. Sega released its Persona 3 remake, Persona 3 Reload, in 2024, and will release Persona 4 Revival in just a few months. Atlus' P-Studio producer, Kazuhisa Wada, stopped short of confirming development for Persona 1 and 2 remakes in August of this year but still admitted that, as far as he's concerned, it's something \"we have to do.\"\nMeanwhi"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXFZdDZ1Uld6d0lqc2k5d0phQkE5MXJ4dXZ4aWVxT2ZSTWExNzlBZ2NyZmxkRnNFX2x3MGJubHNBd0IyYXBiSl84blR3YzJ5NEkxbVFRWkxJZVRXOEthd2I0RDRTM2xwWTJiSHBKbGg2QW9ZcXlhYUZrdERsV1R4RW53?oc=5",
+     "title": "Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online - IGN",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "c331f4a376395fd2",
+     "published": "2026-10-31T20:21+00:00",
+     "text": "- Persona Fans Share Their Excitement After Alleged Persona 1 Remake Gameplay Leaks Online IGN\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Rumor: Persona remake footage appears online Gematsu"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWRqdF9Za2VyV3NPX1RSMGdsQVl4Ukd1OWVTTzNJT3FQazR4NWltLVE4VjVudTVnSmF3aDFnVlBSTEo3U2p4bE5KdUYyXzlob3hhckdZb3ZUZXZfTTItOTRrZzFnNGRSWW01ZEVWbFhZNDFmN3RFRm1vSlpjS3Z2UXRFMk5TRnprREI1TnFMVmVUcFVKX2F0Vw?oc=5",
+     "title": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online - Push Square",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "d194961c9a297212",
+     "published": "2026-11-01T01:00+00:00",
+     "text": "- Rumour: Alleged Persona 1 Remake Gameplay Leaks Online Push Square\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Persona 1 Remake Leak: Fans React to 2-Min Clip [2026] shattered.io\n- Persona 1 Remake Trailer Leak: 360p, Unconfirmed [2026] https://tech-insider.org/\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
     }
    ]
   },
@@ -1085,65 +1085,6 @@
      "id": "0c00ac5fd56edec9",
      "published": "2026-11-01T03:37+00:00",
      "text": "Starved and exhausted residents of the Russian-occupied Ukrainian town of Oleshky have crossed into Ukraine in a major evacuation operation of civilians, under the first humanitarian truce of its kind in more than four years of Moscow’s war.\nThe six-day ceasefire covering the town was reached with mediation efforts by US First Lady Melania Trump and help from Pope Leo XIV. It is the longest local pause in fighting since Russia’s full-scale invasion of its neighbour in 2022.\nRecommended Stories\nlist of 3 items- list 1 of 3Ukraine invests in firepower as it inflicts a new Russian casualty record\n- list 2 of 3US greenlights $2.1bn Patriot missile sale to Ukraine\n- list 3 of 3Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks\n“Ukrainian citizens from Oleshky have crossed the Ukrainian border in the Chernihiv region. All of them will receive the assistance they need,” Ukrainian President Volodymyr Zelenskyy wrote on X, thanking the United States and the first lady for mediating.\n“Further steps toward de-escalation and real progress toward peace are also needed,” he added.\nEvacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members.\nUkrainian officials met the evacuees with posters reading “You’re not alone” and “We embrace with our hearts”, while residents from nearby villages lined the highway waving flags and flashlights to greet them.\nForced to eat grass\nSupply routes to Oleshky had been disrupted by fighting and drones. According to some residents, food deliveries were stopped in May, pushing hundreds of people into starvation.\nOne evacuee, an elderly man in a wheelchair, told the Reuters news agency that he had lost 20kg (44lbs) over the past year, becoming so weak he required hospital treatment.\nAnother evacuee, Svitlana Yermakova, told Reuters they had to eat grass to survive.\n“We chopped grass and squash… just to hold on,” she said, adding that she risked riding by bicycle through minefields to a nearby village to get food for herself and her dog.\nTo reach Ukrainian-held territory, Oleshky residents had to take a complicated route to leave the devastated town just a few kilometres from the front line.\nThey first crossed Crimea by bus to the Russian town of Anapa before flying to Belarus, from where they crossed into Ukraine.\nAmbulances lined the street, and several large military tents were erected, where hot meals, tea and medical aid were provided.\nRussian and Ukrainian officials say the ceasefire in Oleshky has held since Tuesday, allowing them to de-mine the roads and bring food, medicines and other supplies into the town again.\nThe truce is due to end on Sunday evening.\nSome stay behind\nSome residents have decided to remain in Oleshky, despite the ongoing lack of gas, electricity and running water.\nRussian Human Rights Commissioner Yana Lantratova said living conditions in the occupied Oleshky remained difficult, pledging she would continue to work with her Ukrainian counterpart, Dmytro Lubinets, to help those who stayed.\n“The mission has come to an end,” she said on Telegram. “We have agreed to carry out regular humanitarian missions, which is a very important step.”\nOleshky had a pre-war population of about 24,000, which plunged to an estimated 1,700 before the evacuation.\nUkrainian officials have not said exactly how many residents were evacuated or how many remained.\nDespite the ceasefire in Oleshky, fighting rages on in other par"
-    }
-   ]
-  },
-  {
-   "id": "c6376b050fb",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Iran's Khamenei warns US and Israel against new attacks",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
-     "title": "Iran's Khamenei warns US and Israel against new attacks",
-     "lang": "en",
-     "extra": {},
-     "id": "6376b050fbd723e2",
-     "published": "2026-10-31T17:00+00:00",
-     "text": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened military action on the Islamic republic but US Secretary of State Marco Rubio said Trump had not yet made a decision about fresh strikes."
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks",
-     "title": "Iran's supreme leader warns U.S., Israel against new attacks",
-     "lang": "en",
-     "extra": {},
-     "id": "e146fa31649e8341",
-     "published": "2026-10-31T22:10+00:00",
-     "text": "Secretary of State Marco Rubio said Saturday no decision has yet been made on whether to renew hostilities with Iran."
-    },
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/news/2026/11/01/world/iran-warns-us-israel",
-     "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571605.jpg?v=3.1"
-     },
-     "id": "a9e56fb5e1d7da27",
-     "published": "2026-11-01T00:55+00:00",
-     "text": "Tehran – Iran’s supreme leader warned the United States and Israel on Saturday of fresh attacks following their threats to resume strikes after crucial elections, as fears increased over a return to fighting.\nU.S. President Donald Trump suggested he could launch fresh military action after the United States holds its midterm elections.\nBut U.S. Secretary of State Marco Rubio said Saturday: “If there is a diplomatic solution, we would be open to it.”\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ?oc=5",
-     "title": "Iran's Khamenei warns US and Israel against new attacks - France 24",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "b69d3e87ad0db537",
-     "published": "2026-10-31T17:00+00:00",
-     "text": "- Iran's Khamenei warns US and Israel against new attacks France 24\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News\n- Iran’s Khamenei Orders Military to Expand US Retaliation Plans Bloomberg.com"
     }
    ]
   },
@@ -1562,6 +1503,65 @@
    ]
   },
   {
+   "id": "c6376b050fb",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Iran's Khamenei warns US and Israel against new attacks",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/middle-east/20261031-iran-s-khamenei-warns-us-and-israel-against-new-attacks",
+     "title": "Iran's Khamenei warns US and Israel against new attacks",
+     "lang": "en",
+     "extra": {},
+     "id": "6376b050fbd723e2",
+     "published": "2026-10-31T17:00+00:00",
+     "text": "Iran's Supreme Leader Mojtaba Khamenei warned the United States and Israel on Saturday against further strikes as fears mount over a resumption of fighting in the Middle East. US President Donald Trump and his Israeli ally Benjamin Netanyahu have recently threatened military action on the Islamic republic but US Secretary of State Marco Rubio said Trump had not yet made a decision about fresh strikes."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks",
+     "title": "Iran's supreme leader warns U.S., Israel against new attacks",
+     "lang": "en",
+     "extra": {},
+     "id": "e146fa31649e8341",
+     "published": "2026-10-31T22:10+00:00",
+     "text": "Secretary of State Marco Rubio said Saturday no decision has yet been made on whether to renew hostilities with Iran."
+    },
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/news/2026/11/01/world/iran-warns-us-israel",
+     "title": "Iran warns U.S. and Israel against new attacks after Trump and Netanyahu threats",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571605.jpg?v=3.1"
+     },
+     "id": "a9e56fb5e1d7da27",
+     "published": "2026-11-01T00:55+00:00",
+     "text": "Tehran – Iran’s supreme leader warned the United States and Israel on Saturday of fresh attacks following their threats to resume strikes after crucial elections, as fears increased over a return to fighting.\nU.S. President Donald Trump suggested he could launch fresh military action after the United States holds its midterm elections.\nBut U.S. Secretary of State Marco Rubio said Saturday: “If there is a diplomatic solution, we would be open to it.”\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ?oc=5",
+     "title": "Iran's Khamenei warns US and Israel against new attacks - France 24",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "b69d3e87ad0db537",
+     "published": "2026-10-31T17:00+00:00",
+     "text": "- Iran's Khamenei warns US and Israel against new attacks France 24\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News\n- Iran’s Khamenei Orders Military to Expand US Retaliation Plans Bloomberg.com"
+    }
+   ]
+  },
+  {
    "id": "cdee63ca0aa",
    "kind": "news",
    "score": 13.0,
@@ -1863,54 +1863,6 @@
      "id": "f0fa178628aa18cb",
      "published": "2026-11-01T05:00+00:00",
      "text": "The Moon is at its Third Quarter phase tonight, meaning only half of its visible surface is lit as we head towards the next New Moon.\nAs of Sunday, Nov. 1, NASA's Daily Moon Guide tracker tells us the Moon is in the Third Quarter phase, with 56% of its surface visible.\nTonight, without the use of visual aids you should be able to spot the Tycho Crater, Kepler Crater, and the Mare Imbrium. Binoculars will also help you see the Alphonsus Crater, the Clavius Crater, and the Mare Humorum. And, if you have access to a telescope, you'll also see the Apollo 14 and 15 landing spots and the Schiller Crater.\nThe next Full Moon will take place on November 24.\nThe Moon takes approximately 29.5 days to complete an orbit around Earth, going through a series of phases along the way. Depending on its position relative to Earth and the Sun, the amount of its illuminated surface we can see changes, creating the familiar sequence of crescents, quarter moons and the Full Moon. Once the cycle is complete, the pattern repeats, as explained by NASA.\nThe eight phases are:\nNew Moon - The Moon is between Earth and the sun, so the side we see is dark (in other words, it's invisible to the eye).\nWaxing Crescent - A small sliver of light appears on the right side (Northern Hemisphere).\nFirst Quarter - Half of the Moon is lit on the right side. It looks like a half-Moon.\nWaxing Gibbous - More than half is lit up, but it's not quite full yet.\nFull Moon - The whole face of the Moon is illuminated and fully visible.\nWaning Gibbous - The Moon starts losing light on the right side. (Northern Hemisphere)\nThird Quarter (or Last Quarter) - Another half-Moon, but now the left side is lit.\nWaning Crescent - A thin sliver of light remains on the left side before going dark again."
-    }
-   ]
-  },
-  {
-   "id": "c8a5c1d88ba",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Digital Trends",
-     "trust": 2,
-     "url": "https://digitaltrends.com/computing/north-korean-hackers-pull-6-3-billion-crypto-heist-in-binance-one-of-the-biggest-thefts-so-far",
-     "title": "North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/binance-crypto-theft.jpg?resize=1200%2C630&ssl=1"
-     },
-     "id": "8a5c1d88baae3ee5",
-     "published": "2026-10-30T19:19+00:00",
-     "text": "North Korean hackers have stolen a staggering $6.36 billion in cryptocurrency from Binance, according to blockchain intelligence firm TRM Labs. On October 29 the attack reportedly drained funds across 10 different blockchains in roughly 20 minutes. TRM attributes the operation to TraderTraitor, a North Korean state-sponsored hacking group.\nHow did hackers steal $6.3 billion from Binance?\nOn Ethereum, the hackers exploited a mechanism involving Ethereum’s EIP-7702 standard to hijack a Binance hot wallet and turn it into a contract they fully controlled. They used one of 50 pre prepared authorizations that happened to match the wallet’s transaction count.\nOn the other nine blockchains, they simply moved funds using ordinary signed transfers. TRM believes Binance’s wallet signing system itself was likely compromised, though Binance has not confirmed exactly how it happened.\nThe group reportedly started preparing at least 36 hours earlier, running test transactions and funding an operator wallet through small withdrawals from Tornado Cash. TRM Labs says the North Korean hacking group TraderTraitor is also tied to last year’s $1.5 billion Bybit hack, making this one about four times bigger.\nThe stolen assets included Bitcoin, Ethereum, XRP, Solana, and stablecoins. Binance confirmed the security incident and temporarily suspended withdrawals across several networks. It said user funds were safe, although the investigation is ongoing.\nHow much of the stolen cryptocurrency has been recovered?\nThe good news is that companies like Tether, Circle, Ripple, and World Liberty Financial managed to freeze about $2.7 billion of the stolen funds pretty quickly. The bad news is that the hackers still hold around $2.4 billion worth of assets, including over 420,000 ETH and more than 18,000 bitcoin, sitting safely outside anyone’s reach.\nHackers have already started laundering some of it, selling tokens likely to get frozen to market makers at a discount and routing funds through multiple wallets to cover their tracks. TRM expects the next stage to involve bridges and swap services, so this story is far from over.\nThe incident highlights how dangerous compromised transaction-signing systems can be for cryptocurrency exchanges. Even with billions frozen, recovering the remaining funds could prove difficult.\nRELATED COVERAGE:\n- Fold’s CEO spills on the real future of everyday bitcoin\n- OpenAI’s agent ran out of crypto while completing a task, so it stole from another wallet\n- Lost access to your crypto wallet? Don’t Google your way out of it\n- A billionaire crypto bro will lead humanity to Mars atop Musk’s Starship\n- Your smart home devices could be part of a cybercrime network without you knowing"
-    },
-    {
-     "source": "NYT World",
-     "trust": 2,
-     "url": "https://nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-     "lang": "en",
-     "extra": {},
-     "id": "a99c268c18cb3a6c",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime."
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5",
-     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist. - The New York Times",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "065dd641f6c3eba6",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.\nThe New York Times\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -2593,107 +2545,6 @@
    ]
   },
   {
-   "id": "c7640a38290",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "OpenAI sociopath Sam Altman says it's \"terrible\" that your PC, Xbox, etc. have RAM that could be used for his AI",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Windows Central",
-     "trust": 2,
-     "url": "https://windowscentral.com/artificial-intelligence/you-dont-hate-him-enough-openai-sociopath-sam-altman-says-its-terrible-that-your-pc-xbox-etc-have-ram-that-could-be-used-for-ai",
-     "title": "OpenAI sociopath Sam Altman says it's \"terrible\" that your PC, Xbox, etc. have RAM that could be used for his AI",
-     "lang": "en",
-     "extra": {},
-     "id": "7640a3829097fe9d",
-     "published": "2026-10-30T18:58+00:00",
-     "text": "<p>Jez Corden is a life-long content creator and internet personality, known for exclusive reporting on the Xbox ecosystem and Microsoft-adjacent platforms. </p><p>Jez has a large presence on X at <a href=\"http://www.twitter.com/jezcorden\">X.com/JezCorden,</a> co-hosts a leading gaming podcast over at <a href=\"https://www.TheXB2.com\" target=\"_blank\">TheXB2.com</a>, also on Spotify and iTunes, while maintaining a position as Executive Editor at Windows Central. </p><p>Before leaving high school, Jez had already built and contributed to a variety of web communities in the animation space, adjacent to websites like Newgrounds and Explosm. After high school, Jez began a career in IT, corporate network infrastructure, and web design. </p><p>Jez's Microsoft ecosystem hobby-blogging side gig eventually landed him a role at Windows Central, where he has spent the past decade breaking world exclusive news alongside analytical features on Xbox, Windows, AI, and the wider tech industry. Jez also drinks way too much tea.</p>"
-    },
-    {
-     "source": "Kotaku",
-     "trust": 2,
-     "url": "https://kotaku.com/sam-altman-thinks-its-good-if-you-cant-afford-ram-for-your-pc-2000751732",
-     "title": "Sam Altman Thinks It’s Good If You Can’t Afford RAM For Your PC",
-     "lang": "en",
-     "extra": {},
-     "id": "f4d4e94db125868d",
-     "published": "2026-10-30T22:30+00:00",
-     "text": "The OpenAI boss wants all the RAM for himself, seriously"
-    },
-    {
-     "source": "Slashdot",
-     "trust": 1,
-     "url": "https://hardware.slashdot.org/story/26/10/30/2017206/sam-altman-thinks-your-pc-is-wasting-precious-ram",
-     "title": "Sam Altman Thinks Your PC Is Wasting Precious RAM",
-     "lang": "en",
-     "extra": {},
-     "id": "972e20cfde0c18d6",
-     "published": "2026-10-30T21:00+00:00",
-     "text": "\"Looks like OpenAI CEO Sam Altman wants to own all the computing resources and rent out terminals to the world as a way of propping up his business plan, now that debt-ridden AI companies are teetering on the edge,\" writes ancient Slashdot reader Gilmoure. Tom's Hardware reports: In an interview over beers with the YouTube channel Cheeky Pint, Altman said that local inference, and, by extension, people having DRAM in computers at home, is \"quite terrible.\" When discussing local inference on home computers with open-source models, Altman discussed the assumption that people will be able to run local AI on their own computers, the ones they may already own or want to build.\nThen he explained why that's a bad idea (at the 29-minute mark): \"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\"\nWhile OpenAI does have some open-source models, its primary business is in closed-source models that run in data centers, so he's really defending the company's business model. OpenAI isn't exactly threatened by some laptops and gaming rigs just yet, but local AI could mean people one day paying less for subscriptions to models like GPT-6 Luna if they have the power to run them at home. Altman's talk suggests that the company would prefer that more RAM go to OpenAI's data centers rather than home computers, which also sparks enthusiast fears of not being able to own your own hardware or software, but rather rent an agent and a computer in the cloud.Read more of this story at Slashdot."
-    },
-    {
-     "source": "Reddit technology",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xjzoi1/sam_altman_thinks_its_good_if_you_cant_afford_ram",
-     "title": "Sam Altman Thinks It’s Good If You Can’t Afford RAM For Your PC",
-     "lang": "en",
-     "extra": {},
-     "id": "ef63da5bd5b128b4",
-     "published": "2026-10-31T03:22+00:00",
-     "text": "submitted by\n/u/audai-i\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "c5e3aa82dc4",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "MacBook Pro With Touch Display: 15 More Details Revealed",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "MacRumors",
-     "trust": 2,
-     "url": "https://macrumors.com/2026/10/30/macbook-pro-proled-xdr-details",
-     "title": "MacBook Pro With Touch Display: 15 More Details Revealed",
-     "lang": "en",
-     "extra": {},
-     "id": "5e3aa82dc4b4889b",
-     "published": "2026-10-30T18:59+00:00",
-     "text": "Apple on Wednesday unveiled new 14-inch and 16-inch MacBook Pro models with touch-enabled OLED displays, and more details about them continue to be shared by tech reporters who were invited to Apple's hands-on experience in Los Angeles.\nNicolas Lellouche of the French website Numerama shared 15 details about the new MacBook Pro models in an article and a social media post. Some of this information has already surfaced, but he provided a useful summary:\n- Apple said the keyboard and trackpad remain the primary input methods, with touch input available as an additional option for those who want it.\n- Apple said there is now a generation of young creators who grew up using touchscreens, so it felt the timing was right to bring the functionality to the Mac.\n- Apple said music creators prefer touch over trackpads for controlling virtual instruments.\n- \"Traffic light\" controls in the top-left corner of macOS windows expand when pressed.\n- Items in a list become more spaced out when touched.\n- A swipe up from the bottom of the screen brings up the Dock.\n- A swipe down from the top of the screen brings up Spotlight/Siri AI.\n- A long press is equivalent to a right click.\n- Holding a window and quickly moving it left or right triggers Split View.\n- If you close your Mac while your finger is touching the display, touch input is temporarily deactivated to prevent accidental touches.\n- The camera is stabilized so it does not shake on video calls when you touch the screen.\n- You cannot wake the MacBook Pro by touching the screen.\n- Multi-touch supports up to 10 fingers at the same time. No word yet on toes (kidding).\n- Live Activities from iPhone apps can appear in the Dynamic Island.\n- There are settings that allow you to turn off touch input and the illuminated Apple logo on the MacBook Pro's lid.\nThe new MacBook Pro models can be pre-ordered now and launch Friday, November 6.\nThis article, \"MacBook Pro With Touch Display: 15 More Details Revealed\" first appeared on MacRumors.com\nDiscuss this article in our forums"
-    },
-    {
-     "source": "9to5Mac",
-     "trust": 2,
-     "url": "https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate",
-     "title": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch",
-     "lang": "en",
-     "extra": {},
-     "id": "898c5560f4a9d8d3",
-     "published": "2026-10-31T19:49+00:00",
-     "text": "Apple just unveiled the new MacBook Pro with PROLED XDR, its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year, there’s also a number of new optimizations that were unveiled alongside the new MacBook Pro. Here’s what Apple worked on.\nmore…"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlk0QzlIMXEyRWtpQVBDOFNRX1VJSWk3YV9oNVFJbUItNm1SVDJIRVZEWjc1WFFBNDY2eVd6cHVCV3pWU1pyaWVDVnpoZE9tOHN2dk13R3QxaVpLclNncU50M0w3VmlocGcxdld0ZVVJbnJsNXBnRXp3TGRnNDdkZkZxb2RRTnV4b1IzWQ?oc=5",
-     "title": "Here’s how the new MacBook Pro and macOS 27 are optimized for touch - 9to5Mac",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "3d68b2d33e50943f",
-     "published": "2026-10-31T20:49+00:00",
-     "text": "- Here’s how the new MacBook Pro and macOS 27 are optimized for touch 9to5Mac\n- Apple’s new laptop supports one of the coolest features for color pros The Verge\n- The Touchscreen MacBook Is Here. For Me, It’s Wait Till Next Year CNET\n- Steve Jobs Told Tim Cook Never to Ask This 1 Question. Apple's New Touchscreen Mac Explains Why Inc.com\n- Apple releases new touch screen laptop: Here's what consumers need to know ABC News - Breaking News, Latest News and Videos"
-    }
-   ]
-  },
-  {
    "id": "ccc9df4f7ae",
    "kind": "news",
    "score": 11.0,
@@ -2826,6 +2677,50 @@
      "id": "949d19b77e1be202",
      "published": "2026-10-31T12:23+00:00",
      "text": "submitted by\n/u/Logical_Welder3467\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
+   "id": "c972e20cfde",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Sam Altman Thinks It’s Good If You Can’t Afford RAM For Your PC",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Kotaku",
+     "trust": 2,
+     "url": "https://kotaku.com/sam-altman-thinks-its-good-if-you-cant-afford-ram-for-your-pc-2000751732",
+     "title": "Sam Altman Thinks It’s Good If You Can’t Afford RAM For Your PC",
+     "lang": "en",
+     "extra": {},
+     "id": "f4d4e94db125868d",
+     "published": "2026-10-30T22:30+00:00",
+     "text": "The OpenAI boss wants all the RAM for himself, seriously"
+    },
+    {
+     "source": "Slashdot",
+     "trust": 1,
+     "url": "https://hardware.slashdot.org/story/26/10/30/2017206/sam-altman-thinks-your-pc-is-wasting-precious-ram",
+     "title": "Sam Altman Thinks Your PC Is Wasting Precious RAM",
+     "lang": "en",
+     "extra": {},
+     "id": "972e20cfde0c18d6",
+     "published": "2026-10-30T21:00+00:00",
+     "text": "\"Looks like OpenAI CEO Sam Altman wants to own all the computing resources and rent out terminals to the world as a way of propping up his business plan, now that debt-ridden AI companies are teetering on the edge,\" writes ancient Slashdot reader Gilmoure. Tom's Hardware reports: In an interview over beers with the YouTube channel Cheeky Pint, Altman said that local inference, and, by extension, people having DRAM in computers at home, is \"quite terrible.\" When discussing local inference on home computers with open-source models, Altman discussed the assumption that people will be able to run local AI on their own computers, the ones they may already own or want to build.\nThen he explained why that's a bad idea (at the 29-minute mark): \"From a global allocation perspective, actually, it's quite terrible to have everybody have a bunch of the world's limited supply of DRAM sitting in their own computer and being used 5% of the time,\" Altman said. \"You want maximum utilization in the cloud if you're trying to deal with this very supply-constrained environment. And somehow many people's intuition is the opposite of that.\"\nWhile OpenAI does have some open-source models, its primary business is in closed-source models that run in data centers, so he's really defending the company's business model. OpenAI isn't exactly threatened by some laptops and gaming rigs just yet, but local AI could mean people one day paying less for subscriptions to models like GPT-6 Luna if they have the power to run them at home. Altman's talk suggests that the company would prefer that more RAM go to OpenAI's data centers rather than home computers, which also sparks enthusiast fears of not being able to own your own hardware or software, but rather rent an agent and a computer in the cloud.Read more of this story at Slashdot."
+    },
+    {
+     "source": "Reddit technology",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xjzoi1/sam_altman_thinks_its_good_if_you_cant_afford_ram",
+     "title": "Sam Altman Thinks It’s Good If You Can’t Afford RAM For Your PC",
+     "lang": "en",
+     "extra": {},
+     "id": "ef63da5bd5b128b4",
+     "published": "2026-10-31T03:22+00:00",
+     "text": "submitted by\n/u/audai-i\n[link]\n[comments]"
     }
    ]
   },
@@ -3152,41 +3047,6 @@
    ]
   },
   {
-   "id": "c3853d37388",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Senegal set for opening ceremony of Youth Olympic Games",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Africanews",
-     "trust": 2,
-     "url": "https://africanews.com/2026/10/31/senegal-set-for-opening-ceremony-of-youth-olympic-games",
-     "title": "Senegal set for opening ceremony of Youth Olympic Games",
-     "lang": "en",
-     "extra": {},
-     "id": "3853d3738843095e",
-     "published": "2026-10-31T14:21+00:00",
-     "text": "About 2,700 young athletes aged 14 to 17 will compete through Nov. 13 in the capital, Dakar, the nearby city of Diamniadio and the beach resort of Saly"
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
-     "title": "🔴Senegal kicks off Africa's first ever Olympics with Youth Games",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s.france24.com/media/display/a1fd18bc-d55e-11f1-bc0b-695cb59fade5/w:1280/p:16x9/2026-10-31T185551Z-1026728015-UP1EMAV1GL175-RTRMADP-3-OLYMPICS-YOUTH-OPENING.jpg"
-     },
-     "id": "82268199c7be6c1f",
-     "published": "2026-10-31T19:15+00:00",
-     "text": "Senegal kicks off Africa's first ever Olympics with Youth Games\nThe 2026 Youth Olympic Games opened on Saturday in the Senegalese capital Dakar in the first ever Olympics to be held on African soil. It comes as the continent seeks a bigger role in international sporting competitions.\nIssued on: Modified:\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nThe 2026 Youth Olympic Games opened in Senegal on Saturday, the first Olympic event in Africa as the continent seeks a bigger role in international sports competitions.\nTens of thousands of spectators cheered on the opening ceremony in the Diamniadio Olympic Stadium near the capital Dakar. Hundreds of drummers and dancers celebrated Senegalese and African culture in line with the Games motto, “Africa welcomes, Dakar celebrates\".\nWatch moreOlympic fever grips Senegal as Dakar hosts Youth Olympic Games\nA giant map of Africa was created by performers dressed in yellow, black and white traditional Senegalese gowns, dancing in unison, in a grandiose ceremony that saw West African oral storytelling, a concert by Senegalese singer Obree Daman and athletes parading.\nSenegalese President Bassirou Diomaye Faye declared the Games open.\n“This is a historic event and it was so important for me to be here,” said Aby Diouf, 25, a Senegalese spectator at the stadium. “It’s a marvellous celebration and we are all here to bring the energy and get people hyped.\"\nAbout 2,700 athletes aged 14 to 17 will compete through November 13 in the Dakar, the nearby city of Diamniadio and the beach resort of Saly.\nWatch moreFirst Youth Olympic Games in Africa\nRussia’s delegation of 13 athletes is competing under its national flag for the first time at an Olympic event since the full-scale invasion of Ukraine in 2022 led to its suspension.\nThe first refugee team at a Youth Olympics will field six athletes based in Kenya and Uganda in track and field, judo and taekwondo.\nAthletes overall will compete in 153 medal events across 25 sports.\nSingapore hosted the first summer Youth Games in 2010. Dakar was initially due to host in 2022 but the coronavirus pandemic delayed the Games.\nWatch moreKenya's female athletes make their mark as Youth Olympic Games approach\n“This is a historic moment for Senegal, for Africa and for our entire Olympic family” IOC President Kirsty Coventry said at the opening ceremony. Coventry, a former swimming gold medalist from Zimbabwe, became the first female and African boss of the International Olympic Committee last year.\nThe Games come as African countries increasingly see sports as a tool for diplomacy and development, analysts say.\nSouth Africa hosted the continent’s first soccer FIFA World Cup in 2010. Morocco will co-host the 2030 tournament with Spain and Portugal. Rwanda hosted Africa’s first road cycling world championships last year and Formula 1 is returning to Africa with a grand prix in Rwanda early next decade. Botswana also staged the World Athletics Relays in May.\n(FRANCE 24 with AP)"
-    }
-   ]
-  },
-  {
    "id": "c32cdc35418",
    "kind": "news",
    "score": 11.0,
@@ -3450,30 +3310,6 @@
    ]
   },
   {
-   "id": "ce88f55a042",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "عروض التبوريدة تفتتح موسم طانطان",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Hespress",
-     "trust": 2,
-     "url": "https://hespress.com/%d8%b9%d8%b1%d9%88%d8%b6-%d8%a7%d9%84%d8%aa%d8%a8%d9%88%d8%b1%d9%8a%d8%af%d8%a9-%d8%aa%d9%81%d8%aa%d8%aa%d8%ad-%d9%85%d9%88%d8%b3%d9%85-%d8%b7%d8%a7%d9%86%d8%b7%d8%a7%d9%86-1832645.html",
-     "title": "عروض التبوريدة تفتتح موسم طانطان",
-     "lang": "ar",
-     "extra": {
-      "page_image": "https://i1.hespress.com/wp-content/overlay/2026/11/tbourida-tantan.jpg"
-     },
-     "id": "e88f55a042cd5131",
-     "published": "2026-11-01T01:24+00:00",
-     "text": "-\n01:27\nغلمان يدعو إلى تعزيز السيادة المعرفية\n-\n01:22\n\"مغاربة الإمارات\" يحتفلون بـ\"الوحدة\"\n-\n00:48\nهولندا تدعم رصد طيور مائية بالمغرب\n-\n00:17\nالخنوس يُسجل ويقود شتوتغارت للفوز\n-\n23:30\n\"وكالة الدم\" تعلن عن تشخيص وطني\n-\n23:04\nبنسعيد يمثل الملك في أولمبياد دكار\n-\n22:44\nالفتح يهزم حسنية أكادير بهدف نظيف\n-\n22:25\nبنجلون: \"مُركب الناظور\" قاطرة للتنمية\n-\n22:08\n\"حمد الله\" يقترب من رقم قياسي كبير\n-\n21:16\nتفاصيل حادث مميت بـ\"أطوروت أكادير\"\n-\n21:05\nالاتحاد المغربي للشغل يدعو إلى التعبئة\n-\n20:17\nالوداد يحقق فوزا صعبا على تطوان\nأضف تعليقك\nمن شروط النشر : عدم الإساءة للكاتب أو للأشخاص أو للمقدسات أو مهاجمة الأديان أو الذات الإلهية، والابتعاد عن التحريض العنصري والشتائم."
-    }
-   ]
-  },
-  {
    "id": "c40f58cdf45",
    "kind": "news",
    "score": 11.0,
@@ -3542,6 +3378,43 @@
      "id": "37438fb4ad6bc916",
      "published": "2026-11-01T04:39+00:00",
      "text": "Pyongyang says warhead can devastate target area of nearly 32 acres"
+    }
+   ]
+  },
+  {
+   "id": "c78b9415399",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://arabnews.com/world/russia-says-drone-hit-industrial-enterprise-near-moscow-kyiv-claims-hit-major-refinery-3009214",
+     "title": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793513777615-4a617f9a6a315336.jpg"
+     },
+     "id": "78b94153992533fd",
+     "published": "2026-11-01T06:17+00:00",
+     "text": "- Drone strikes reported near Moscow and on a major refinery\n- Over 100 drones reportedly involved overnight\nMOSCOW: Russia said Sunday that a drone had struck an “industrial enterprise” east of Moscow overnight, after Ukraine claimed it had hit a major oil refinery.\nGleb Nikitin, governor of Nizhny Novgorod region, reported a “massive drone attack” during the night, during which an “industrial enterprise in the Kstovo district sustained significant damage.”\n“More than 100 drones destroyed,” and “according to preliminary information, there are no casualties,” he added in a statement, without specifying the plant’s activities.\nUkrainian media reported an attack on the Kstovo oil refinery, calling it “one of Russia’s largest oil refineries, producing fuel and lubricants.”\nMoscow said Friday that Ukraine had resumed its strikes on Russian oil refineries after a “pause” of several days.\nSenior Russian official Alexander Novak told a reporter from state TV that Ukraine had resumed attacks on Russian plants, hitting three oil refineries and one gas-chemical complex.\nKyiv has repeatedly struck Russian oil and gas sites in retaliation for Russian attacks on Ukrainian energy infrastructure since Moscow began its offensive there in February 2022.\nUS President Donald Trump had been pressuring Kyiv for weeks to stop such attacks, blaming them for the rising cost of diesel."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-",
+     "title": "Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://images.euronews.com/articles/stories/09/97/51/55/1200x675_cmsv2_0d798eb6-8273-54e9-813c-571131c771ee-9975155.jpg"
+     },
+     "id": "99494afc9f7e5776",
+     "published": "2026-11-01T07:13+00:00",
+     "text": "Telegram war monitoring channels said an attack had targeted the Kstovo oil refinery - also known as the Lukoil-Nizhegorodnefteorgsintez refinery, thought to be one of Russia's largest such facilities.\nRussian authorities said a major drone attack had targeted an \"industrial enterprise\" in the Nizhny Novgorod Oblast overnight, amid reports that a key oil refinery had been struck in the region.\nIn a post on Telegram, regional governor Gleb Nikitin said a \"massive UAV attack\" had resulted in \"significant damage\" to an industrial facility in the Kstovsky district.\n\"More than 100 drones have been destroyed,\" he wrote, adding that early information suggested there had been no casualties and that emergency crews were working at the scene.\n\"Whilst restoration work is underway, there may be temporary power cuts, as well as reduced hot water and heating supplies in certain sections of the utility networks serving residential buildings,\" Nikitin said.\nTelegram war monitoring channels said an attack had targeted the Kstovo oil refinery - also known as the Lukoil-Nizhegorodnefteorgsintez refinery, thought to be one of Russia's largest such facilities.\nAccording to Lukoil, the site is involved in the production of diesel and aviation fuel, among other things.\nEarlier this week, a major fire reportedly broke out at another oil refinery in Russia's Samara region following a drone attack, with dramatic images and video footage posted on social media showing multiple towering columns of black smoke filling the skyline.\nThat incident followed reports that Ukraine had paused strikes on Russian refineries amid pressure from Washington, which has blamed the attacks on rising global diesel prices as it has sought to shift blame from its war in Iran.\nUkraine had been ramping up attacks on Russian energy infrastructure this year, particularly targeting facilities such as oil refineries, terminals and depots, in a bid to hit a critical Russian economic driver and grind down the Kremlin's war machine.\nThe latest reported attack comes after Ukrainian President Volodymyr Zelenskyy said around 280,000 Ukrainian households had been left without power after Russian strikes on Ukraine on Friday night.\n\"Russian strikes have created a difficult situation with electricity supplies across our regions,\" Zelenskyy wrote in a post on X on Saturday, saying that around 200,000 households in Dnipro and the wider region were without electricity while a further 80,000 or more in the Kyiv region were also without power.\nThe Ukrainian leader said Russian forces had hit a \"combined heat and power plant\" in Kyiv as well as four electrical substations in the eastern Dnipro region, among other targets."
     }
    ]
   },
@@ -3776,67 +3649,6 @@
    ]
   },
   {
-   "id": "cb741f4188a",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "A new vulnerability can brick your Android phone when receiving the SMS of Death",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "GSMArena",
-     "trust": 2,
-     "url": "https://gsmarena.com/a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288.php",
-     "title": "A new vulnerability can brick your Android phone when receiving the SMS of Death",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://fdn.gsmarena.com/imgroot/news/25/02/google-messages-whatsapp-video-call/-952x498w6/gsmarena_000.jpg"
-     },
-     "id": "b741f4188acf0967",
-     "published": "2026-10-30T20:03+00:00",
-     "text": "Security researcher Mark Blaszczyk found a new scary vulnerability that affects phones running Android 12 or later. It involves receiving a specially crafted WAP Push SMS message that Android's telephony framework cannot properly process.\nThe tricky part is that instead of displaying the message in the inbox, Android tries to process it in the background. This triggers an error that can cause all sorts of issues. Active phone calls start to disconnect, the device temporarily loses cellular service, and when receiving multiple messages like this, the device can even become unusable. Recovery is also very hard, requiring technical support.\nThe worst part is that the user doesn't have to do anything. This isn't some sort of phishing attack. It's an attack that doesn't require the user's involvement at all.\nSo far, researchers have found the issue to be present on Google Pixel and Samsung Galaxy phones, although all devices running Android 12 or later are vulnerable.\nAlthough Google has denied the security issue when researchers reported it in May, Android's engineering team came up with a solution and has included a fix with the latest October security patch for all devices running Android 14 or later. Older phones, unfortunately, remain vulnerable.\nThe fix itself is very simple, though. The system recognizes one of the 20 potentially malicious messages, and instead of trying to process it, Android removes the message on the spot.\nSo what can you do? If you are running an Android 13-powered phone or older, there's nothing much you can do. But if you have a more modern handset as a daily driver, check for the October security patch from Google and install it.\nPeople \"with common sense\" don't buy >mobile< phones to not use mobile networks :p\nGrapheme IS its not affected! Graphene avertismet the user SmS isn't Private and use anodor App like Signal for Sensitive information. His ha\nTip us\n2.1m 180k\nRSS\nEV\nMerch\nLog in I forgot my password Sign up"
-    },
-    {
-     "source": "BleepingComputer",
-     "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones",
-     "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-     "lang": "en",
-     "extra": {},
-     "id": "74dc1ad06d2d1d6d",
-     "published": "2026-10-31T15:35+00:00",
-     "text": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]"
-    },
-    {
-     "source": "Digital Trends",
-     "trust": 2,
-     "url": "https://digitaltrends.com/phones/android-sms-of-death-vulnerability",
-     "title": "Android’s new ‘SMS of Death’ exploit can crash your phone without you doing anything",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/06/samsung-galaxy-s26-ultra-smartphone-16.jpg?resize=1200%2C630&ssl=1"
-     },
-     "id": "faec0f17f94bdf1e",
-     "published": "2026-11-01T01:50+00:00",
-     "text": "A security researcher has uncovered a serious vulnerability in Android that allows an attacker to remotely crash a smartphone using a specially crafted text message. Dubbed “SMS of Death,” the flaw can disrupt cellular services, disconnect ongoing calls, and even leave a phone stuck in a reboot loop. The troubling part is that the recipient doesn’t have to interact with it at all.\nThe flaw, tracked as CVE-2026-58882, was discovered by security researcher Mark Blaszczyk, who first notified Google about it in May. On October 29, he published his findings alongside a working demonstration, after successfully reproducing the attack on Google Pixel and Samsung Galaxy smartphones. Google has already developed a fix, but its availability across Android devices is another matter.\nShould every Android user be worried?\nThe pool of affected devices is not limited to a particular Android brand, as what matters here is the version of Android running on the phone and whether it has received the necessary security patch. Blaszczyk says the fix has already reached Android 14 through 17 as part of Google’s October 2026 security updates. However, the company didn’t mention the vulnerability in its October security bulletin.\nThe researcher emphasized that older Android phones running Android 12 and 13 haven’t received the fix, which leaves those without ongoing security support exposed to the attack. For everyone else, checking the security patch level and installing the latest available Android update is the best precaution. The information can usually be found in the Settings menu, although the exact location differs depending on the manufacturer.\nIt’s also worth clarifying that this is a denial-of-service vulnerability, and not an exploit designed to steal passwords or personal information. So far, there is no confirmed evidence of widespread attacks targeting Android users.\nHow can a text message crash an Android phone?\nThe issue at heart is how Android processes WAP Push messages, which are handled by the operating system without appearing in the regular SMS inbox. Ordinarily, the user doesn’t have to do anything with these messages. But Blaszczyk found that a malformed message can trigger an error in Android’s telephony framework, bringing down the process responsible for cellular connectivity.\nIn this case, the crash can disconnect an ongoing phone call, including one made to emergency services. Moreover, if the carrier attempts to deliver the same message again, the phone can end up crashing repeatedly. During testing, around 20 malicious messages were enough to leave a smartphone stuck in a reboot loop.\nA factory reset isn’t the only way to recover the device. However, the alternative involves using Android Debug Bridge (ADB) to clear the offending messages, which isn’t something an average smartphone user would be familiar with.\nRELATED COVERAGE:\n- Galaxy S21 support is winding down, what it means for your security updates\n- This Android lock screen bug lets anyone text using Gemini without knowing your PIN\n- North Korean hackers pull off a $6.3 billion crypto heist in one of the biggest thefts so far\n- Your search engine could be hijacked by a Chrome extension that barely does anything"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEJHR1JnVFhNRWc5bzlQTVRDU3pKUDNubGl2QTZUNmZ0VlJNRWdzT0ZBN1RvaDhGZWNiYUg4X0RWV3BRNUQ2d2ZubzlXNDdYRDRBTWh6cWFZcmdxWVE0OWxfc2ZQZ19WSjhLUlpvd04xNFpEdjIyOVMtUnppOWpJVmtXOGhhM1JMMThRdDdlaU5JRzVxR0xvbWVka3kzNktWQzJTQmxQTldrRHBXVEgzdW9vNnZHVEU?oc=5",
-     "title": "New Android SMS of Death exploit can remotely crash unpatched phones - BleepingComputer",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "bffcdd0c631ea341",
-     "published": "2026-10-31T15:35+00:00",
-     "text": "- New Android SMS of Death exploit can remotely crash unpatched phones BleepingComputer\n- A simple text message can instantly ruin your phone — here’s how to stop it PhoneArena\n- Invisible “SMS of Death” crashes Android phone, traps victim in reboot loop until factory reset Cybernews\n- A new vulnerability can brick your Android phone when receiving the SMS of Death - GSMArena.com news GSMArena.com\n- A vulnerability has been discovered that allows calls to be disconnected simply by sending an SMS message to an Android device, potentially affecting emergency calls as well. GIGAZINE"
-    }
-   ]
-  },
-  {
    "id": "c8314b5781f",
    "kind": "news",
    "score": 10.0,
@@ -4001,6 +3813,144 @@
    ]
   },
   {
+   "id": "c287c5e419f",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NASASpaceflight",
+     "trust": 2,
+     "url": "https://nasaspaceflight.com/2026/10/spacex-static-fires-flight-15",
+     "title": "SpaceX Completes Three Static Fires in Three Days for Flight 15",
+     "lang": "en",
+     "extra": {},
+     "id": "287c5e419f8124f1",
+     "published": "2026-10-30T21:53+00:00",
+     "text": "In eight days, SpaceX completed all engine testing for Flight 15, some cryo-proof and catch testing for Flight 16, and lifted the top deck deluge plates onto Pad 1’s Launch Mount. This past week has been one of the busiest in Starship program history.\nhttps://www.youtube.com/watch?v=vKqb6w5FeE\nFlight 16\nProgress toward Flight 16 has been strong this past week. Ship 43 rolled out to Massey’s on Oct. 22 and completed both cryo-proof tests on Oct. 23. The ship then rolled back to Mega Bay 2 on Oct. 26 to be swapped to a transport stand.\nOnce on the transport stand, the team rolled Ship 43 out to Pad 2 for ship catch testing. This entailed lifting Ship 43 to catch height, then lowering it to bring in the Ship Quick Disconnect (SQD). Once in line, SpaceX hooked up the SQD plate to the ship to test safing procedures for when they eventually catch a ship.\nSpaceX also performed this testing with Ship 42 in mid-September. This testing helps controllers gain experience in ship safing operations and write operations as teams progress.\nThe next catch test SpaceX performed moved the ship to the middle of the chopsticks while it was on the transport stand. Then the chopsticks lifted the ship without the stabilizers, and the pushers on the landing rails pushed the ship to line up with the stabilizers before hooking in.\nThis operation is how SpaceX lined up Boosters 12, 14, and 15 when those were caught; teams just haven’t caught a ship yet, so they are practicing with non-flown ships.\nAfter all of that testing, Ship 43 was rolled back to Mega Bay 2 on Oct. 27 and placed on the back left work stand. Ship 43 will now receive its engines installed before heading back out for its static fire campaign.\nBooster 23 rolled back out to Massey’s on Oct. 27, but after spending over two full days at the cryo station, the booster did no visible testing. It could’ve done an ambient pressure test, but there were no noticeable vents to show either way. Booster 23 then rolled back to Mega Bay 1 early on Oct. 30.\nFlight 15\nSpaceX made significant progress on Flight 15 in the past week, with both vehicles completing their respective static fire campaigns. On Oct. 24, Booster 22 was rolled out to Pad 2 and installed on the launch mount early that morning. After completing preparations on Saturday, SpaceX ignited all 33 Raptor engines early Sunday morning, Oct. 25, for a full-duration 15-second static fire.\nAfterward, Booster 22 was rolled back to Mega Bay 1 in the early morning hours of Oct. 26 and placed on the back right work stand for final preparations before flight.\nFull duration 33-engine static fire for the Super Heavy booster preparing for Flight 15 pic.twitter.com/7eqbC4h0Fh\n— SpaceX (@SpaceX) October 25, 2026\nShip 42 was rolled out to Massey’s during the late-night to early-morning hours of the 26th; during that night, there were multiple closures, and SpaceX rolled Ship 43 back from Massey’s, Ship 42 out to Massey’s, and Booster 22 back from the Launch Site. So, three separate vehicle rolls in about seven hours.\nOnce at Massey’s, Ship 42 completed a single-engine header tank static fire on Oct. 26 to simulate an in-space deorbit burn. To simulate this, SpaceX loads the ship with the required propellant; once the propellant load is finished, teams let it sit in the tanks and warm to the desired temperature before completing a static fire.\nThen, on Oct. 27, Ship 42 completed a 60-second six-engine static fire, the normal duration for Block 3 ships. With this eng"
+    }
+   ]
+  },
+  {
+   "id": "cb6a979e61a",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Google's First Data Center Satellite Is Online and Writing Poetry",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Slashdot",
+     "trust": 1,
+     "url": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry",
+     "title": "Google's First Data Center Satellite Is Online and Writing Poetry",
+     "lang": "en",
+     "extra": {},
+     "id": "b6a979e61a522d8a",
+     "published": "2026-10-31T07:00+00:00",
+     "text": "Google's first experimental space-based data center is operational after launching earlier this month, successfully running its Gemma 4 AI model aboard a satellite and generating a haiku about being in orbit. TechCrunch reports: The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However, the power demands of the TPU mean it can only turn one on for about 20 minutes at a time, complicating the already tricky business of space-to-ground communications.\nAfter a commissioning process that tested out the satellite's subsystems over about three weeks, the spacecraft was ready to work. When engineers on the ground sent their first prompt this week, they asked the model pre-loaded onto the satellite, Google DeepMind's Gemma 4, to write a haiku about being in space. And thus:\nBlue marble below\nData streams in silent grace\nStarlight feeds my core.\nThe ongoing test campaign will examine how the chips perform under thermal stress and in the space radiation environment. [...] If the TPUs onboard this spacecraft prove capable, the next step will be launching two more satellites equipped with the advanced chips in 2027. Those spacecraft will support higher power generation and demonstrate inter-satellite optical links.Read more of this story at Slashdot."
+    }
+   ]
+  },
+  {
+   "id": "c0cf772317c",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Launch of NVS-03: PM Modi congratulates scientists, engineers at ISRO",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Hindu Sci-Tech",
+     "trust": 2,
+     "url": "https://thehindu.com/sci-tech/science/pm-modi-congratulates-isro-scientists-on-gslv-f18-launch-of-nvs-03/article71648465.ece",
+     "title": "Launch of NVS-03: PM Modi congratulates scientists, engineers at ISRO",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://th-i.thgim.com/public/news/national/xa7nzd/article71648565.ece/alternates/LANDSCAPE_1200/gslv%20f18%20nvs%2003%20nabin.png"
+     },
+     "id": "0cf772317cd5f670",
+     "published": "2026-10-31T07:22+00:00",
+     "text": "Prime Minister Narendra Modi on Saturday (October 31, 2026) congratulated scientists and engineers at ISRO on the successful launch of GSLV-F18 carrying NVS-03 and said the mission marks an important step in strengthening NavIC, the country's indigenous satellite navigation system.\nMr. Modi also said that equipped with enhanced capabilities, NVS-03 will further India's pursuit of self-reliance in critical technologies and support navigation services that benefit the people.\n\"Congratulations to our scientists and engineers at ISRO on the successful launch of GSLV-F18 carrying NVS-03. This mission marks an important step in strengthening NavIC, our indigenous satellite navigation system,\" he said in a post on X.\nThe Prime Minister said the dedication and ingenuity of India's space scientists continue to make the nation proud.\nIndia's independent regional navigation satellite system NavIC was restored to its minimum operational configuration of four satellites on Friday (October 30, 2026) as ISRO successfully launched its navigation satellite NVS-03, which was placed into the designated injection orbit by a GSLV rocket.\nThe second-generation navigation satellite NVS-03, with indigenous and procured atomic clock, has a wide array of applications, including civilian use like real-time tracking of trains, vehicles and shipping vessels.\nPublished - October 31, 2026 12:52 pm IST\nYou are logged in\nLoading...\nYou don’t have any Active Subscription.\nSubscribe nowSubscribed with another email? Logout and Login with that one.\nYour active subscription(s)\nAccount subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription\nProducts you've access to\nAdditional Subscription Benefits\nAccount Settings\nNeed help with your subscription?"
+    },
+    {
+     "source": "The Hindu Sci-Tech",
+     "trust": 2,
+     "url": "https://thehindu.com/sci-tech/science/isro-nvs-03-launch-navic-constellation-5-things-to-know-about-india-next-generation-satellite/article71648294.ece",
+     "title": "ISRO NVS-03 launch: 5 things to know about India’s new navigation satellite",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://th-i.thgim.com/public/incoming/a4l0z0/article71646826.ece/alternates/LANDSCAPE_1200/PTI10_31_2026_000005A.jpg"
+     },
+     "id": "ef08274d62a66712",
+     "published": "2026-10-31T10:29+00:00",
+     "text": "India’s independent regional navigation satellite system NavIC (Navigation with Indian Constellation) was restored to its minimum operational configuration of four satellites on Friday (October 30, 2026) as ISRO successfully launched its 2,250 kg navigation satellite NVS-03 from the Satish Dhawan Space Centre in Sriharikota.\nThe satellite successfully separated from the launch vehicle and was injected into its intended Geosynchronous Transfer Orbit (GTO). The satellite is the third in ISRO's next-generation navigation satellite series, envisaged to ensure continuity of navigation services under the Indian Regional Navigation Satellite System (IRNSS). This mission aims to revive and modernise NavIC.\nHere’s what to know about India’s new navigation satellite, NVS-03, with a mission life of 12 years.\nRestoring a weakened NavIC network\nNavIC requires at least 4 active satellites to provide positioning, navigation and timing (PNT) services. Following clock failures on older satellites and failure of NVS-02 to reach its final orbit, the operational fleet shrank to just 3 satellites. Placing NVS-03 into orbit provided the fourth satellite needed to restore standalone navigation services.\nAlso read: NVS-03 launch highlights\nUpgraded indegenous atomic clocks\nAtomic clocks are central to satellite navigation and helps calculate exact distances by measuring signal travel time.\nOlder IRNSS satellites relied on imported Swiss clocks that repeatedly failed. NVS-03 carries a indigenously developed Rubidium atomic clock (developed by ISRO’s Space Applications Centre) alongside imported ones. This moves India closer to full self reliance in high precision space timing.\nL1 Brand integration for common smartphones\nNVS-03 transmits on the L1 frequency band in addition to the existing L5 and S bands. The L1 band is widely used in commercial GPS receivers, which will make it easier for everyday mobile chipsets to access Indian Standard Time and NavIC positioning signals. The system is designed to provide coverage over India’s landmass and an area extending 1,500 kilometres beyond its geopolitical boundary.\nCivilian and Defence applications\nNavIC offers two main services: an open signal for public navigation, mapping and logistics, and an encrypted restricted service for the military.\nThe latter provides high-precision data essential for guiding missiles, tracking troop movements and operating defence platforms safely, practically acting as a strategic asset for India.\nElaborating on NavIC’s civilian applications, the ISRO chief V. Narayanan said 10,400 locomotives and 64,000 fishing vessels are currently tracked in real time. Under the Pradhan Mantri Matsya Sampada Yojana, the agency aims to expand this to 1 lakh fishing vessels within the next six months. In total, 15 lakh tracking devices have been fitted across vehicles. When asked when NavIC would be available on civilian mobile phones, Narayanan stated this would happen once the full seven-satellite constellation is completed.\nHistory\nIndia began developing NavIC after Global Positioning System (GPS) access was restricted by the U.S. during the 1999 Kargil War. The first-generation IRNSS satellites were launched between 2013 and 2018, with nine satellites launched during that period. The newly launched NVS-03 brings the total of the entire NavIC programme to 12 satellites.\nOperating an independent regional satellite system will ensure India’s positioning and timing capabilities remain secure during geop"
+    }
+   ]
+  },
+  {
+   "id": "c113f43d2da",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "MedicalXpress",
+     "trust": 2,
+     "url": "https://medicalxpress.com/news/2026-10-congo-ebola-deaths-continent-wide.html",
+     "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+     "lang": "en",
+     "extra": {},
+     "id": "113f43d2da486562",
+     "published": "2026-10-31T11:00+00:00",
+     "text": "Deaths in Congo's Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of the disease and cases are recorded in other African countries, the latest government data on Saturday shows."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/congos-ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts",
+     "title": "Congo's Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+     "lang": "en",
+     "extra": {},
+     "id": "f825b2e27b20cc28",
+     "published": "2026-10-31T15:25+00:00",
+     "text": "Data from the Congolese Ministry of Health showed that the disease has killed 5,026 people out of 10,351 infected, at a nearly 50% lethality rate."
+    },
+    {
+     "source": "Africanews",
+     "trust": 2,
+     "url": "https://africanews.com/2026/10/31/ebola-deaths-top-5000-as-fear-of-continent-wide-spread-mounts",
+     "title": "Ebola deaths top 5,000 as fear of continent-wide spread mounts",
+     "lang": "en",
+     "extra": {},
+     "id": "29ee9a673bf56539",
+     "published": "2026-10-31T16:36+00:00",
+     "text": "Deaths in Congo’s Ebola outbreak have topped 5,000 as the country grapples with the relentless spread of the disease and cases are recorded in other African countries, the latest government data on Saturday shows"
+    },
+    {
+     "source": "Google News Health EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWlyam1sUmtaTno0Rk1sTmsycG5wNXh1UkFpRzBzZFduTkFpdHVpNGtYQlExbW5VTHh2bk9RbkxtVUEybkc4ZThKYTBieVRaTm5aQXhtSW9pUWdhZlRiR3c1ckQyZ0FoUXFpM0pNbEl1bDdyRHJUNWFDWW9PYTFVTVFHSVNtNkRUQ3NuZzl1V0xkRkNDU25JR3A0bDIzS0hNa3ZpX3JGLVZSdmVDRFlnSFM0T3FRb2lKVGc?oc=5",
+     "title": "Congo Ebola outbreak deaths top 5,000 as fear of continent-wide spread mounts - NBC News",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "68fd0757627c1303",
+     "published": "2026-10-31T12:16+00:00",
+     "text": "- Congo Ebola outbreak deaths top 5,000 as fear of continent-wide spread mounts NBC News\n- More than 5,000 die from Ebola in DR Congo's deadliest outbreak BBC\n- Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official The Guardian\n- Ebola death toll in DR Congo passes 5,000 Al Jazeera\n- 'No one is safe' as Ebola outbreak surges to more than 10,000 cases, Africa's top doctor warns Canada CBC"
+    }
+   ]
+  },
+  {
    "id": "market-2026-11-01",
    "kind": "market",
    "score": 0,
@@ -4012,15 +3962,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-01/06",
+     "url": "https://market.local/crypto/2026-11-01/07",
      "title": "Market snapshot crypto 2026-11-01",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T06:54+00:00",
-     "text": "Bitcoin: $77,857 (+0.7% 24h)\nEthereum: $2,268 (+1.0% 24h)\nSolana: $95.56 (-0.4% 24h)\nToncoin: $1.22 (+2.5% 24h)"
+     "published": "2026-11-01T07:25+00:00",
+     "text": "Bitcoin: $77,768 (+0.5% 24h)\nEthereum: $2,264 (+1.0% 24h)\nSolana: $95.28 (-0.6% 24h)\nToncoin: $1.22 (+3.0% 24h)"
     }
    ]
   },
