@@ -68,7 +68,7 @@ async def one(c, sem, src):
         if src.get("home"):
             roots.insert(0, src["home"])
         path_dir = old.rsplit("/", 1)[0]
-        cands = [old]
+        cands = [old] + ALT.get(src["name"], [])
         for r in roots[:3]:
             cands += await announced(c, r + "/")
         for r in roots[:2]:
@@ -92,12 +92,26 @@ async def one(c, sem, src):
                           "tried": len(tried)}, ensure_ascii=False), flush=True)
 
 
+ALT = json.load(open("tools/alt_feeds.json", encoding="utf-8"))
+
+
+async def gnews(c, sem, src):
+    """Check the Google News fallback the collector uses when the site's own feed fails."""
+    import sys as _s; _s.path.insert(0, ".")
+    from dtdz.collect import fallback_url
+    async with sem:
+        u = fallback_url({**src, "parser": src.get("parser", "rss"), "grp": src.get("grp", "")})
+        res = await feed_ok(c, u) if u else None
+        print(json.dumps({"gnews": src["name"], "url": u, **(res or {"entries": 0})}, ensure_ascii=False), flush=True)
+
+
 async def main(names):
     data = yaml.safe_load(open("sources.yaml", encoding="utf-8"))
-    srcs = [dict(s) for g in data.values() for s in (g or []) if s.get("name") in names]
+    srcs = [dict(s, grp=gname) for gname, g in data.items() for s in (g or []) if s.get("name") in names]
     sem = asyncio.Semaphore(12)
     async with httpx.AsyncClient(headers=H, timeout=15, follow_redirects=True) as c:
         await asyncio.gather(*(one(c, sem, s) for s in srcs))
+        await asyncio.gather(*(gnews(c, sem, s) for s in srcs))
 
 
 if __name__ == "__main__":
