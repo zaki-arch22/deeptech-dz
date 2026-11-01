@@ -130,7 +130,7 @@ google_news:
   - {name: Google News World FR, url: "https://news.google.com/rss/headlines/section/topic/WORLD?hl=fr&gl=FR&ceid=FR:fr", trust: 1, verify: true}
   - {name: Google News Algeria, url: "https://news.google.com/rss/search?q=Algérie+OR+الجزائر&hl=ar&gl=DZ&ceid=DZ:ar", trust: 1, verify: true}
 world_press:
-  - {name: Reuters Tech, url: "https://www.reutersagency.com/feed/?best-topics=tech&post_type=best", trust: 2, verify: true}
+  - {name: Reuters Tech, url: "https://www.reutersagency.com/feed/?best-topics=tech&post_type=best", trust: 2, verify: true, site: reuters.com}
   - {name: Guardian Tech, url: "https://www.theguardian.com/technology/rss", trust: 2, verify: true}
   - {name: Guardian World, url: "https://www.theguardian.com/world/rss", trust: 2, verify: true}
   - {name: Guardian Science, url: "https://www.theguardian.com/science/rss", trust: 2, verify: true}
@@ -197,30 +197,11 @@ arabic_press:
   - {name: Arageek, url: "https://www.arageek.com/feed", trust: 2, verify: true}
   - {name: Unlimit Tech, url: "https://www.unlimit-tech.com/feed/", trust: 2, verify: true}
 social:
-  - {name: Reddit technology, url: "https://www.reddit.com/r/technology/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit worldnews, url: "https://www.reddit.com/r/worldnews/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit Futurology, url: "https://www.reddit.com/r/Futurology/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit gadgets, url: "https://www.reddit.com/r/gadgets/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit space, url: "https://www.reddit.com/r/space/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit science, url: "https://www.reddit.com/r/science/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit interestingasfuck, url: "https://www.reddit.com/r/interestingasfuck/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit nextfuckinglevel, url: "https://www.reddit.com/r/nextfuckinglevel/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit movies, url: "https://www.reddit.com/r/movies/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit television, url: "https://www.reddit.com/r/television/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit soccer, url: "https://www.reddit.com/r/soccer/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit gaming, url: "https://www.reddit.com/r/gaming/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit Android, url: "https://www.reddit.com/r/Android/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit apple, url: "https://www.reddit.com/r/apple/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit OpenAI, url: "https://www.reddit.com/r/OpenAI/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit artificial, url: "https://www.reddit.com/r/artificial/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit cybersecurity, url: "https://www.reddit.com/r/cybersecurity/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit dataisbeautiful, url: "https://www.reddit.com/r/dataisbeautiful/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit todayilearned, url: "https://www.reddit.com/r/todayilearned/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit FREE, url: "https://www.reddit.com/r/FREE/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit freebies, url: "https://www.reddit.com/r/freebies/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit GameDeals, url: "https://www.reddit.com/r/GameDeals/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit eFreebies, url: "https://www.reddit.com/r/eFreebies/top/.rss?t=day", trust: 1, verify: true}
-  - {name: Reddit learnprogramming, url: "https://www.reddit.com/r/learnprogramming/top/.rss?t=day", trust: 1, verify: true}
+  - {name: "Reddit tech & AI", url: "https://www.reddit.com/r/technology+gadgets+Android+apple+OpenAI+artificial+cybersecurity+learnprogramming/top/.rss?t=day&limit=50", trust: 1, per_feed: 40}
+  - {name: "Reddit science & space", url: "https://www.reddit.com/r/space+science+Futurology+dataisbeautiful+todayilearned/top/.rss?t=day&limit=50", trust: 1, per_feed: 40}
+  - {name: "Reddit wow", url: "https://www.reddit.com/r/interestingasfuck+nextfuckinglevel+worldnews/top/.rss?t=day&limit=50", trust: 1, per_feed: 40}
+  - {name: "Reddit films, TV, games & football", url: "https://www.reddit.com/r/movies+television+gaming+soccer/top/.rss?t=day&limit=50", trust: 1, per_feed: 40}
+  - {name: "Reddit free stuff", url: "https://www.reddit.com/r/FREE+freebies+GameDeals+eFreebies/top/.rss?t=day&limit=50", trust: 1, per_feed: 40}
   - {name: Hacker News Best, url: "https://hnrss.org/best", trust: 1}
   - {name: YouTube Google, url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCK8sQmJBp8GCxrOtXWBpyEA", trust: 3, verify: true}
   - {name: YouTube Apple, url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCE_M8A5yxnLfW0KghEeajjw", trust: 3, verify: true}
@@ -390,7 +371,7 @@ official_companies:
   - {name: "Duolingo Blog", url: "https://blog.duolingo.com/rss/", trust: 3, verify: true}
 institutions:
   - {name: "UN News", url: "https://news.un.org/feed/subscribe/en/news/all/rss.xml", trust: 3, verify: true}
-  - {name: "UN News Arabic", url: "https://news.un.org/feed/subscribe/ar/news/all/rss.xml", trust: 3, verify: true}
+  - {name: "UN News Arabic", url: "https://news.un.org/feed/subscribe/ar/news/all/rss.xml", trust: 3, verify: true, lang: ar}
   - {name: "World Bank", url: "https://www.worldbank.org/en/news/all?format=rss", trust: 3, verify: true}
   - {name: "IMF", url: "https://www.imf.org/en/News/RSS?language=eng", trust: 3, verify: true}
   - {name: "ITU", url: "https://www.itu.int/en/mediacentre/Pages/rss.aspx", trust: 3, verify: true}
@@ -446,7 +427,7 @@ trusted_tech:
   - {name: "Rotten Tomatoes News", url: "https://editorial.rottentomatoes.com/feed/", trust: 2, verify: true}
   - {name: "What's on Netflix", url: "https://www.whats-on-netflix.com/feed/", trust: 2, verify: true}
   - {name: "ESPN FC", url: "https://www.espn.com/espn/rss/soccer/news", trust: 2, verify: true}
-  - {name: "The Athletic Football", url: "https://theathletic.com/football/rss/", trust: 2, verify: true}
+  - {name: "The Athletic Football", url: "https://theathletic.com/football/rss/", trust: 2, verify: true, site: nytimes.com/athletic}
   - {name: "FIFA", url: "https://www.fifa.com/rss-feeds/news", trust: 3, verify: true}
   - {name: "UEFA", url: "https://www.uefa.com/rssfeed/news/rss.xml", trust: 3, verify: true}
   - {name: "CAF", url: "https://www.cafonline.com/rss", trust: 3, verify: true}

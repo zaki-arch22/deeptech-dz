@@ -26,6 +26,12 @@ from .text import canon_url, is_arabic
 log = logging.getLogger("dtdz.collect")
 
 UA = "Mozilla/5.0 (compatible; DeeptechDZ/1.0; +https://t.me/)"
+BROWSER = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                         "Chrome/124.0 Safari/537.36",
+           "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.8, */*;q=0.5",
+           "Accept-Language": "en-US,en;q=0.9,fr;q=0.8,ar;q=0.7"}
+TEMPORARY = (429, 500, 502, 503, 504, 520, 521, 522, 524)   # site busy / rate limit: try again later
+RETRY_DISABLED_H = 24   # a disabled source is tried again once a day
 MAX_AGE_H = 36
 PER_FEED = 15
 MIN_TEXT = 700          # shorter feed content -> fetch the article page
@@ -71,7 +77,7 @@ def parse_rss(src: dict, body: bytes, now: float) -> list[Item]:
     if feed.bozo and not feed.entries:
         raise ValueError(f"not a feed: {feed.bozo_exception}")
     items = []
-    for e in feed.entries[:PER_FEED]:
+    for e in feed.entries[:src.get("per_feed", PER_FEED)]:
         url = e.get("link")
         title = (e.get("title") or "").strip()
         if not url or not title:
@@ -98,6 +104,8 @@ def parse_rss(src: dict, body: bytes, now: float) -> list[Item]:
                 extra["image"] = img
         if "hnrss" in src["url"]:
             extra["comments"] = e.get("comments")
+        if "news.google.com" in url and " - " in title:       # Google News appends " - Publisher"
+            title = title.rsplit(" - ", 1)[0].strip()
         items.append(Item(src["name"], src["grp"], src["trust"], canon_url(url), title,
                           content[:MAX_TEXT], published, "ar" if is_arabic(title) else "en", extra))
     return items
@@ -191,32 +199,106 @@ PARSERS = {"rss": parse_rss, "epic": parse_epic, "gamerpower": parse_gamerpower,
 # ---------- run ----------
 
 async def _get(client: httpx.AsyncClient, url: str) -> bytes:
-    r = await client.get(url)
-    r.raise_for_status()
-    return r.content
+    """Browser headers first (many sites refuse bot user-agents), then the bot identity."""
+    last = None
+    for headers in (BROWSER, {"User-Agent": UA}):
+        try:
+            r = await client.get(url, headers=headers)
+            r.raise_for_status()
+            return r.content
+        except httpx.HTTPStatusError as exc:
+            last = exc
+            if exc.response.status_code not in (401, 403, 406, 419, 429):
+                break
+    raise last
+
+
+def is_temporary(exc: Exception) -> bool:
+    if isinstance(exc, httpx.HTTPStatusError):
+        return exc.response.status_code in TEMPORARY
+    return isinstance(exc, (httpx.TimeoutException, httpx.TransportError))
+
+
+def site_of(src: dict) -> str | None:
+    """Domain used for the Google News fallback ("site:" search)."""
+    if src.get("site"):
+        return src["site"]
+    from urllib.parse import urlparse
+    h = urlparse(src["url"]).netloc.lower().split(":")[0]
+    if any(x in h for x in ("reddit.com", "youtube.com", "news.google.com", "arxiv.org", "hnrss", "ycombinator")):
+        return None
+    for pre in ("www.", "feeds.", "feed.", "rss.", "rssfeeds.", "syndication.", "export."):
+        h = h.removeprefix(pre)
+    return h or None
+
+
+def fallback_url(src: dict) -> str | None:
+    """Google News search restricted to the source's site: same stories, through a feed that works
+    from any server. Used when the site's own feed is missing, blocked or broken."""
+    site = site_of(src)
+    if not site or src.get("parser", "rss") != "rss":
+        return None
+    from urllib.parse import quote
+    lang = src.get("lang") or ("ar" if src.get("grp") in ("news_ar", "arabic_press") else
+                               "fr" if src.get("grp") == "algeria" else "en")
+    loc = {"ar": "hl=ar&gl=DZ&ceid=DZ:ar", "fr": "hl=fr&gl=FR&ceid=FR:fr"}.get(lang, "hl=en-US&gl=US&ceid=US:en")
+    return f"https://news.google.com/rss/search?q={quote('site:' + site + ' when:2d')}&{loc}"
 
 
 async def collect(sources_path: str | Path, db_path: str | Path, now: float | None = None) -> dict:
     now = now or time.time()
     store = Store(db_path)
-    sources = [s for s in load_sources(sources_path) if not store.disabled(s["name"])]
+    if not store.get("reenable:v2")[0]:          # one-time: give every source a second chance
+        store.db.execute("UPDATE sources SET disabled=0, fails=0")
+        store.db.commit()
+        store.put("reenable:v2", 1)
+    sources = []
+    for s in load_sources(sources_path):
+        if store.disabled(s["name"]):
+            last = store.get(f"retry:{s['name']}")[0] or 0
+            if now - last < RETRY_DISABLED_H * 3600:
+                continue
+            store.put(f"retry:{s['name']}", now)
+        sources.append(s)
     stats = {"sources": len(sources), "new": 0, "failed": [], "disabled": [], "articles": 0}
     sem = asyncio.Semaphore(24)
     async with httpx.AsyncClient(headers={"User-Agent": UA}, timeout=20, follow_redirects=True) as client:
 
+        reddit_lock = asyncio.Lock()
+
         async def one(src):
+            if "reddit.com" in src["url"]:          # Reddit rate-limits bursts: one request at a time
+                async with reddit_lock:
+                    await asyncio.sleep(4)
+                    return await _one(src)
+            return await _one(src)
+
+        async def _one(src):
             async with sem:
                 try:
                     body = await _get(client, src["url"])
                     items = PARSERS[src["parser"]](src, body, now)
                     store.source_ok(src["name"])
                     return items
-                except Exception as exc:  # noqa: BLE001 — any failure counts against the source
-                    log.warning("source %s failed: %s", src["name"], exc)
-                    stats["failed"].append(src["name"])
-                    if store.source_fail(src["name"], repr(exc), DISABLE_AFTER if src.get("verify") else None):
-                        stats["disabled"].append(src["name"])
+                except Exception as exc:  # noqa: BLE001
+                    err = exc
+                fb = fallback_url(src)
+                if fb:
+                    try:
+                        items = parse_rss(src, await _get(client, fb), now)
+                        store.source_ok(src["name"])
+                        stats.setdefault("via_fallback", []).append(src["name"])
+                        log.info("source %s via Google News (%s)", src["name"], err)
+                        return items
+                    except Exception as exc2:  # noqa: BLE001
+                        log.info("fallback failed %s: %s", src["name"], exc2)
+                log.warning("source %s failed: %s", src["name"], err)
+                stats["failed"].append(src["name"])
+                if is_temporary(err):          # busy or rate-limited today is not broken: never disable
                     return []
+                if store.source_fail(src["name"], repr(err), DISABLE_AFTER if src.get("verify") else None):
+                    stats["disabled"].append(src["name"])
+                return []
 
         batches = await asyncio.gather(*(one(s) for s in sources))
         new = [it for batch in batches for it in batch if not store.has(it.id) or it.extra.get("market")]
