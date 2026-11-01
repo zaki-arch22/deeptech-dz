@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T01:18:55+00:00",
+ "generated_at": "2026-11-01T01:49:26+00:00",
  "clusters": [
   {
    "id": "c154d6ff5e1",
@@ -139,10 +139,12 @@
      "url": "https://bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg"
+     },
      "id": "5d418554a770d850",
      "published": "2026-10-31T02:12+00:00",
-     "text": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+     "text": "- Published\nTwo major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange.\nThe Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis.\nThis incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.\nExperts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.\nThough not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview. The film involves a plot to assassinate Kim.\nThe resulting hack exposed thousands of embarrassing emails exchanged among the studio's top executives.\nLast year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange.\nIn the aftermath of that incident, the agency said TraderTraitor had moved to quickly launder and disperse the stolen assets, converting them to Bitcoin and other digital assets with a goal of eventually turning them into hard currency.\nThe FBI has broadly accused North Korea of \"illicit cybercrime and virtual asset theft activities\".\nThe nation has systematically developed its cyber operations, recruiting the most promising students from universities and channeling them into hacker groups overseen by North Korea's intelligence agency, according to reports.\nSome of the cyberwarfare conducted takes place just over the nation's border in China, according to analysis from tech groups.\nMuch of its hacking activity has centred on monetary gain.\nNorth Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022.\nIn this most recent heist, North Korean agents are accused of using a special authorisation to turn a Binance hot wallet, which is connected to the internet, into one that moved funds automatically to the attacker.\nTRM said it's likely the attacker gained access to Binance's hot wallet signing system as part of the scheme.\nBinance has not directly responded to the BBC's queries about the incident's potential links to the area.\nThe company had initially said it thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.\n\"Our subsequent investigation has uncovered additional points of breach,\" Binance's co-CEO Richard Teng said.\nSome 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.\nIf the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become – a sign that the tools of the hacking trade have grown sharper.\nExperts say the rise of artificial intelligence has also given threat actors new ways to carry out crime, through automation and other means.\nIn this case, it's plausible that AI was used to infiltrate Binance's systems.\nAs Chainalysis put it, the attacker used laundering patterns \"we have not seen before\"."
     },
     {
      "source": "Bloomberg Tech",
@@ -415,72 +417,6 @@
    ]
   },
   {
-   "id": "cab02bae0a4",
-   "kind": "news",
-   "score": 18.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "What we know about the $6.3bn Binance hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Financial Times Tech",
-     "trust": 2,
-     "url": "https://ft.com/content/58fee10f-8a99-4e8b-835d-ddba5e434ce3?syn-25a6b1a6=1",
-     "title": "What we know about the $6.3bn Binance hack",
-     "lang": "en",
-     "extra": {},
-     "id": "ab02bae0a402dd9c",
-     "published": "2026-10-30T13:23+00:00",
-     "text": "Analysis suggests hackers bypassed standard methods used in crypto thefts"
-    },
-    {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece",
-     "title": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
-     "lang": "en",
-     "extra": {},
-     "id": "f9eb1ed0175e30f0",
-     "published": "2026-10-31T07:23+00:00",
-     "text": "While the facts are still emerging, the Binance cyberattack could go down as the largest cryptocurrency hack on record"
-    },
-    {
-     "source": "Phys.org Tech",
-     "trust": 2,
-     "url": "https://techxplore.com/news/2026-10-63b-hack-binance-biggest-crypto.html",
-     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
-     "lang": "en",
-     "extra": {},
-     "id": "ecf19abee85dd6a0",
-     "published": "2026-10-31T10:32+00:00",
-     "text": "Binance, the world's biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. Blockchain firms have pointed to the attack coming from a North Korean hacking unit."
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
-     "title": "Binance hit by 6.3 billion dollar crypto theft",
-     "lang": "en",
-     "extra": {},
-     "id": "2e8385a7cb01e943",
-     "published": "2026-10-31T11:16+00:00",
-     "text": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from users, with analysts pointing the finger at North Korea. The attack far surpasses the previous record set in February 2025, when hackers stole $1.5 billion from crypto exchange Bybit."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/world/what-to-know-about-the-6-3b-hack-on-binance-likely-the-biggest-ever-crypto-theft",
-     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
-     "lang": "en",
-     "extra": {},
-     "id": "2ae9b6177f8a418c",
-     "published": "2026-10-31T15:14+00:00",
-     "text": "Here's what we know about the hack, possible North Korean involvement and Binance's investigation."
-    }
-   ]
-  },
-  {
    "id": "cd15b79a959",
    "kind": "news",
    "score": 17.5,
@@ -672,6 +608,63 @@
      "id": "5f7f039e8200a24e",
      "published": "2026-11-01T00:40+00:00",
      "text": "Lewis Hamilton says it's a 'dream' to emulate Michael Schumacher after claiming his first Ferrari pole at the Mexico City GP\nLewis Hamilton became F1's oldest pole-sitter in 44 years after claiming his first Ferrari pole at the Mexico City Grand Prix; the result secured a record-extending 105th career pole for the Brit; watch Sunday's race at 8pm (build-up from 6.30pm), live on Sky Sports F1\nSunday 1 November 2026 00:48, UK\nLewis Hamilton said he had achieved his \"dream\" of emulating Michael Schumacher after claiming his first pole position for Ferrari at the Mexico City Grand Prix.\nThe 41-year-old unexpectedly snatched pole from Mercedes' George Russell in a thrilling end to qualifying to take his first pole in over three years and extend his record career pole tally to 105.\nHamilton and Schumacher share the sport's record for the most Drivers' Championships with seven each, but while the Brit won one title with McLaren and the other six with Mercedes, the bulk of Schumacher's success came at Ferrari as he won five in a row from 2000 to 2004.\n- How Antonelli can win world title at Mexico City GP on Sunday\n- Mexico City GP Schedule | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts\n- Not got Sky? Latest Sky Sports deals or stream F1 with no contract 📺\nHamilton told Sky Sports F1: \"To get the pole, finally get a pole for Ferrari, just takes me back to when I was a kid and sitting on the sofa and watching Michael get those poles, thinking 'how cool would it be to do that?'\"\n\"It was a dream my family have shared with me and I know so many people in the world grew up watching Michael.\n\"To be at this point of my career and still have this special feeling - 105 [poles], the number doesn't mean much in a sense, it feels like the first.\n\"I spoke a couple years ago about getting to have a first. It feels like when you get to 40 they are all gone, but I'm having those firsts this year and I'm in a really good place.\"\n2009 F1 world champion and Hamilton's former team-mate Jenson Button said he noticed how confident the Ferrari driver looked in Q3.\nHamilton had been four tenths off the pace of his team-mate Charles Leclerc after the first runs in Q3, but then produced his best lap of the weekend when it mattered most.\n\"Watching that lap back, he was so smooth,\" Button said.\n\"There was one moment were he got a bit of oversteer but apart from that he is driving within the limits. I think that's the big positive.\"\nCan Hamilton win the Mexico City GP?\nHamilton, who is the oldest pole-sitter since Mario Andretti in 1982, starts on the front row alongside Russell - the only two drivers who can prevent Kimi Antonelli from becoming world champion on Sunday.\nAntonelli only needs to finish in the top nine to become champion but, should he come 10th or fail to score any points, victory for Hamilton or Russell would delay the inevitable for another round.\nThe long run down to Turn 1 at the Autodromo Hermanos Rodriguez always creates jeopardy and the pole-sitter has the disadvantage of towing trailing cars down the long straight.\nHamilton, whose only Grand Prix win for Ferrari came in Barcelona earlier this year, says it will be a \"big challenge\" to keep Russell and Leclerc behind, but that he will make his car \"as wide as possible\".\n\"It's a long run down to Turn 1 - very tough,\" he said.\n\"It's not a bad place to be in first but people can tow you. Lando did a really good job last year so I have to try and do what he d"
+    }
+   ]
+  },
+  {
+   "id": "cf9eb1ed017",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Hindu Sci-Tech",
+     "trust": 2,
+     "url": "https://thehindu.com/sci-tech/technology/what-we-know-about-binances-multi-billion-dollar-crypto-hack-explained/article71648484.ece",
+     "title": "What we know about Binance’s multi-billion-dollar crypto hack | Explained",
+     "lang": "en",
+     "extra": {},
+     "id": "f9eb1ed0175e30f0",
+     "published": "2026-10-31T07:23+00:00",
+     "text": "While the facts are still emerging, the Binance cyberattack could go down as the largest cryptocurrency hack on record"
+    },
+    {
+     "source": "Phys.org Tech",
+     "trust": 2,
+     "url": "https://techxplore.com/news/2026-10-63b-hack-binance-biggest-crypto.html",
+     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/binance-security-incid-1.jpg"
+     },
+     "id": "ecf19abee85dd6a0",
+     "published": "2026-10-31T10:32+00:00",
+     "text": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft\nBinance, the world's biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. Blockchain firms have pointed to the attack coming from a North Korean hacking unit.\nThe company said it has reserved more than $6.34 billion of company funds to cover the stolen assets and was beginning to recover assets for users. Binance worked with blockchain partners to freeze roughly $3 billion in affected assets.\nThe cryptocurrency exchange has promised to cover all losses, and it has been sharing regular updates on its social media channels as it uncovers more information about the hack.\n\"We are working nonstop to resolve this,\" Binance's co-CEO Richard Teng said Friday in a video posted to X.\nIn an exchange Friday with reporters at the White House, President Donald Trump said U.S. officials were investigating the Binance hack. Asked whether North Korea was involved, Trump said, \"We're looking at that.\"\nHere's what we know about the hack, possible North Korean involvement and Binance's investigation.\nNorth Korean hackers are suspected in the attack\nBinance said on X that an initial investigation suggested the incident may have involved a compromised laptop, but that a subsequent investigation uncovered additional \"points of breach.\"\nU.S.-based blockchain intelligence firm TRM, in a post on its website late Thursday, attributed the attack to TraderTraitor, which it described as North Korea's elite hacking unit. \"We make this judgment with high confidence,\" the firm said.\n\"An attacker moved approximately $6.36 billion out of Binance wallets on 10 blockchains, most of it in about 20 minutes,\" TRM said. \"Several features of this attack match earlier North Korea-linked heists.\"\nBlockchain analysis company Chainalysis also believed the Binance hack was likely carried out by TraderTraitor, its co-founder and CEO Jonathan Levin wrote on X.\nAsked about the potential ties to North Korea, a Binance spokesperson said only that the company is \"working closely with our law enforcement partners to confirm the identity of the criminals and bring them to justice.\"\nExperts have said that North Korea turned to crypto hacking and other illicit cyber activities in recent years as a source of badly needed foreign currency to support its troubled economy and fund its nuclear program in the wake of tough U.N. sanctions and other difficulties.\nIn December 2022, South Korea's spy agency said North Korean hackers had stolen an estimated 1.5 trillion won ($1.1 billion) in cryptocurrency and other virtual assets over the past five years, more than half of it in 2022 alone. It said North Korea's capacity to steal digital assets was considered among the world's best.\nMany are calling this the biggest crypto theft on record\nWhile about half of the stolen assets were frozen, there is evidence that the hackers already are transferring and converting some of what wasn't recovered, said Garrick Hileman, an independent cryptocurrency analyst.\n\"Like in money laundering, you bring in the stolen goods and launder those through a mixer or tumbler,\" he said. \"You mix it in with other cryptos, and it's harder to track.\"\nHow long it will take the hackers to turn that into something usable isn't clear, he said. \"The bottom line is there are places in the world where you can take your bitcoin and get that converted,\" Hilema"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/binance-hit-by-6-3-billion-dollar-crypto-theft",
+     "title": "Binance hit by 6.3 billion dollar crypto theft",
+     "lang": "en",
+     "extra": {},
+     "id": "2e8385a7cb01e943",
+     "published": "2026-10-31T11:16+00:00",
+     "text": "Binance executives are scrambling to recover billions of dollars after the crypto platform was hit by what is being described as the biggest heist in cryptocurrency history. Hackers reportedly stole $6.3 billion from users, with analysts pointing the finger at North Korea. The attack far surpasses the previous record set in February 2025, when hackers stole $1.5 billion from crypto exchange Bybit."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/what-to-know-about-the-6-3b-hack-on-binance-likely-the-biggest-ever-crypto-theft",
+     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+     "lang": "en",
+     "extra": {},
+     "id": "2ae9b6177f8a418c",
+     "published": "2026-10-31T15:14+00:00",
+     "text": "Here's what we know about the hack, possible North Korean involvement and Binance's investigation."
     }
    ]
   },
@@ -935,72 +928,6 @@
    ]
   },
   {
-   "id": "c3cd2efd8fc",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723980",
-     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
-     "lang": "en",
-     "extra": {},
-     "id": "2a80d7bbc1f321da",
-     "published": "2026-10-31T19:40+00:00",
-     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nSave $100 Off Apple Watch Ultra 4\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSave $10 off Ocarina of Time Remake Physical Copies\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nPikmin 4 for $39.88\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 + Expansion Pass Bundle for $39.94\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload (Switch 2) for $24.99\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nFinal Fantasy XIV: Dawntrail Art Book for $19.18\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales On Sale for the First Time\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nDragon Quest III HD-2D Remake for $19.99\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with t"
-    },
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/deal-apple-watch-ultra-3-2-3730301",
-     "title": "Score a $150 discount the Apple Watch Ultra 3",
-     "lang": "en",
-     "extra": {},
-     "id": "3cd2efd8fc135473",
-     "published": "2026-10-30T19:44+00:00",
-     "text": "Amazon just knocked $150 off the Apple Watch Ultra 3, dropping it from its $799 recommended retail price to $649. That’s a 19% discount relative to the RRP, and it’s a strong chance to grab Apple’s top adventure watch for a lot less.\nSee the deal at Amazon"
-    },
-    {
-     "source": "Android Authority",
-     "trust": 2,
-     "url": "https://androidauthority.com/apple-watch-ultra-4-deal-3730321",
-     "title": "Apple Watch Ultra 4 falls to $699.99 in first major price cut",
-     "lang": "en",
-     "extra": {},
-     "id": "c8ce7d7806b0baee",
-     "published": "2026-10-30T21:36+00:00",
-     "text": "The Apple Watch Ultra 4 just got its first big price cut since launch, and it’s a strong one. On Amazon, you can grab it for $699.99 instead of its $799 RRP, which is a 12% discount and a savings of $99.\nSee the deal at Amazon"
-    },
-    {
-     "source": "MacRumors",
-     "trust": 2,
-     "url": "https://macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts",
-     "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
-     "lang": "en",
-     "extra": {},
-     "id": "008ce375e96b3575",
-     "published": "2026-10-31T15:54+00:00",
-     "text": "The Apple Watch Ultra 4 has dropped to $699.99 on Amazon, down from $799.00. This is a match of the all-time low price on the new Ultra 4, which just launched in September.\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\nIf you're shopping for a Milanese Loop model, Amazon also has a $99 discount on one of these devices. You can get the Black Apple Watch Ultra 4 with Black Milanese Loop (Large) for $799.99, down from $899.00. Most of these watches have an estimated delivery date of early November, and some are offering same-day shipping for Prime members as well.\nIf you're on the hunt for more discounts, be sure to visit our Apple Deals roundup where we recap the best Apple-related bargains of the past week.\nDeals Newsletter\nInterested in hearing more about the best deals you can find as we head into the holidays? You can sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/best-deals-for-october-31-2026",
-     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
-     "lang": "en",
-     "extra": {},
-     "id": "6545c619b821c4bc",
-     "published": "2026-10-31T19:34+00:00",
-     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with the HD-2D art style that breathes new life into the adventure of Erdrick. Numerous quality-of-life features make this a game that's much more digestible than ever for genre newcomers, and the orchestrated soundtrack is a treat, too. Pick up a PS5 copy today for just $19.99.\nStar Wars Zero Company is one of the biggest sleeper hits of the year, and you can save $12 o"
-    }
-   ]
-  },
-  {
    "id": "cc2b146d77d",
    "kind": "news",
    "score": 14.5,
@@ -1041,6 +968,65 @@
      "id": "dd49dec0342b3a9d",
      "published": "2026-10-31T18:46+00:00",
      "text": "- F1 Mexico GP: Norris tops final practice by 0.001s from Antonelli Autosport\n- Norris pips Antonelli to top spot in Mexico City FP3 Formula 1\n- Mexican Grand Prix qualifying: Lewis Hamilton takes pole – as it happened The Guardian\n- LIVE: F1 Mexico GP updates - Norris tops FP3, Hirakawa in for Ocon at Haas | Live text Autosport\n- Mexico City Grand Prix: Charles Leclerc sets pace in first practice for Ferrari ESPN"
+    }
+   ]
+  },
+  {
+   "id": "c824106f63d",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8",
+     "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-z-fold-8-iphone-duo-crackgate.jpg?quality=82&strip=all&resize=1200,628"
+     },
+     "id": "824106f63d9658e3",
+     "published": "2026-10-31T01:20+00:00",
+     "text": "Samsung isn’t holding back when it comes to the iPhone Duo’s messy start. In new ads, the company mocks iPhone Duo’s “crackgate” with a push for customers to buy the Galaxy Z Fold 8 instead, and there’s not an ounce of subtlety here.\nFollowing the debut of Apple’s first foldable, an unfortunate trend has emerged among early buyers. A number of users found that their display “cracked” with the display panel dying in the center, all in the exact same way, implying there’s a flaw within Apple’s hinge design.\nApple is replacing affected devices, but it is a somewhat harrowing reminder that this is the company’s first attempt at this hardware.\nAnd Samsung is happy to point that out.\nIn an ad for the Galaxy Z Fold 8 on Instagram, Samsung says that “folding is nothing new to us” and that “we know a thing or eight.” It cuts right to the chase: “Switch to Galaxy Z Fold8.” The attached imagery then depicts the iPhone Duo’s well-known screen “crack.\nTop comment by Morgrain\nIt's kind of funny that Apple had 8 years to copy the competition, and still failed spectacularly in such a serious way. The hinge section in question either suffers from material failure (metal breaks when it shouldn't) or its a design failure where the hinge simply breaks under a certain pressure (that a foldable should survive).\nEither way this doesn't bode well for Apples QA.\nThat one was posted to Samsung Canada’s account, while another ad from Samsung Malaysia further takes that up a notch:\nFeeling a little FOMO seeing all this talk about durability… oops, we’ve just been busy folding and getting on with our day\nSamsung Australia similarly poked fun at Apple’s durability woes with a post about “how life sounds when your screen doesn’t break when opening your phone.”\nAnother post from Samsung Saudi Arabia puts the iPhone Duo crack on a Galaxy Z Fold 8 before revealing it’s just a wallpaper.\nMore on Samsung:\nFollow Ben: Twitter/X, Threads, Bluesky, and Instagram\nComments"
+    },
+    {
+     "source": "GSMArena",
+     "trust": 2,
+     "url": "https://gsmarena.com/samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295.php",
+     "title": "Samsung Galaxy Z Fold9 to bring back a long-lost feature the iPhone Duo has",
+     "lang": "en",
+     "extra": {},
+     "id": "cad6c9ec394c02ea",
+     "published": "2026-10-31T12:31+00:00",
+     "text": "Samsung put an under-display camera on the inner screen of its book-style foldables for four generations, starting with the Galaxy Z Fold3 back in 2021 and ending with the Galaxy Z Fold6. The Galaxy Z Fold7 switched to a regular punch hole last year, and this year's Galaxy Z Fold8 Ultra and wide Galaxy Z Fold8 stuck with it. Now, the under-display camera will reportedly make a comeback next year. According to a tipster on X, Samsung will unveil a device with an under-display camera, \"major internal changes\", and minimal changes to its overall thickness and design. Earlier this month, the..."
+    },
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Samsung-now-mocks-Apple-iPhone-Duo-with-crackgate-memes-too.1439057.0.html",
+     "title": "Samsung now mocks Apple iPhone Duo with crackgate memes too",
+     "lang": "en",
+     "extra": {},
+     "id": "b0fd75b0bba0ba74",
+     "published": "2026-10-31T22:25+00:00",
+     "text": "One company's misfortune is another's delight. Samsung has a long history of mocking Apple's decisions and products. Even the now quite viral mishap involving broken hinges and damaged displays is being exploited by the South Korean company's international marketing teams for their own purposes."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbFB3WWNhc1dIQlZaQ3dIUkctc0twcFcxdWNuTkJYLS1aR2ZlZmFBcmhpbUR0Y254dEtPX3VwZzVFM3VRelc0c2prZEc4T1pVZ0dsWDNOQWJ6SzJCcjBhMkVhaFJrZTFOWmNWZUo2REpTZ2JQeGZsLVYtSUlwTlI1NU52RGZIZFdPdkY5Mzh3?oc=5",
+     "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video] - 9to5Google",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "715938a843359a75",
+     "published": "2026-10-31T02:20+00:00",
+     "text": "- Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video] 9to5Google\n- ‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke. WSJ\n- Apple responds to user reports of broken iPhone Duo screens on new foldable phone CNBC\n- iPhone Duo owners say Apple's new foldable phone broke within hours of purchase CBS News\n- Samsung Slices at Apple’s iPhone Duo With Its Z Fold 8 Ad CNET"
     }
    ]
   },
@@ -1199,6 +1185,72 @@
      "id": "8164a263926326a6",
      "published": "2026-11-01T00:41+00:00",
      "text": "- Lewis Hamilton won pole position at the Mexico City Grand Prix, marking his first pole with Ferrari\n- At 41 years old, Hamilton became the oldest driver to secure an F1 pole position since Mario Andretti in 1982\nMEXICO CITY: Upon his arrival at the Mexico City Grand Prix, British driver Lewis Hamilton claimed there has never been a driver like him in the history of motorsport.\nPerhaps his assertion is not entirely off the mark.\nThe seven-time world champion Hamilton rebounded from a wretched Friday practice to capture pole position on Saturday. Hamilton edged out Mercedes’ George Russell and Ferrari teammate Charles Leclerc.\n“I feel great, that feels good, I am at a loss of words,” Hamilton said. “We did a pretty good job with the setup in the weekend. It feels special for me in Mexico, my first pole for Ferrari here.”\nHe has extended his own record for Formula 1 pole positions to 105.\n“Wow, to have pole here, I mean, I don’t even know if I’ve had a pole here before,”said Hamilton, who had pole position in Mexico in 2016. “It feels special to be in Mexico and get that. My first, I think this is my first pole with Ferrari. And 105... I like that number.”\nFurthermore, at 41 years and some months Hamilton was the fifth oldest driver to secure an F1 pole position and the oldest since Mario Andretti did it in 1982 at age 42. Nino Farina holds the record at 47 years, two months.\n“When there’s a will, there’s a way, I think it’s all in the mind. For sure, you might feel aches and pains but I do all those different things that you can do to try and keep yourself young and fit,” Hamilton said. “But I love what I do. And that love is not gone. I wake up every day thinking about it. I dream about it.”\nThis marks the Italian team’s first pole position since Hungary last year, 30 races ago.\nHamilton, who has crowned himself world champion twice in Mexico, will aim to become the first Ferrari driver to win a race from pole position since Carlos Sainz in Mexico in 2024.\nOn Friday during the second practice, he suffered a loss of power that forced him to retire.\n“Embarking on this journey with Ferrari, and all the challenges and ups and downs we’ve had. Even yesterday was challenging, when the car stopped on track and we lost the long runs that everyone got to do.” Hamilton said. “I didn’t get to do a long run. But we’ve really done a good job with the set-up over the weekend.”\nKimi Antonelli could become the youngest world champion in F1 history. He qualified fifth, demonstrating his car’s setup was optimal.\nThe 20-year-old Italian, who missed Thursday’s media session because of a viral infection, said he was still recovering but hoped to be at his best for what could be a special Sunday.\n“I’m going to bombard myself with melatonin, so I hope I can sleep about 10 hours, with any luck,” said Antonelli, who will start fourth after Red Bull’s Max Verstappen received a one-place grid penalty Saturday for an incident involving Liam Lawson.\n“It’s a new one, that penalty, but yeah, we’ll keep inventing new ones, I guess,” Verstappen said.\nAntonelli, who won the United States Grand Prix last week from pole, can finish as low as ninth on Sunday at the Autódromo Hermanos Rodríguez to surpass the record set by Sebastian Vettel, who became world champion the first time at 23.\nRussell began the season as Mercedes’ No. 1 driver and won the first race of the year in Australia, but Antonelli has since won nine grands prix.\nAntonelli can also become the first Italia"
+    }
+   ]
+  },
+  {
+   "id": "c3cd2efd8fc",
+   "kind": "news",
+   "score": 13.5,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075723980",
+     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+     "lang": "en",
+     "extra": {},
+     "id": "2a80d7bbc1f321da",
+     "published": "2026-10-31T19:40+00:00",
+     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nSave $100 Off Apple Watch Ultra 4\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSave $10 off Ocarina of Time Remake Physical Copies\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nPikmin 4 for $39.88\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 + Expansion Pass Bundle for $39.94\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload (Switch 2) for $24.99\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nFinal Fantasy XIV: Dawntrail Art Book for $19.18\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales On Sale for the First Time\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nDragon Quest III HD-2D Remake for $19.99\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with t"
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/deal-apple-watch-ultra-3-2-3730301",
+     "title": "Score a $150 discount the Apple Watch Ultra 3",
+     "lang": "en",
+     "extra": {},
+     "id": "3cd2efd8fc135473",
+     "published": "2026-10-30T19:44+00:00",
+     "text": "Amazon just knocked $150 off the Apple Watch Ultra 3, dropping it from its $799 recommended retail price to $649. That’s a 19% discount relative to the RRP, and it’s a strong chance to grab Apple’s top adventure watch for a lot less.\nSee the deal at Amazon"
+    },
+    {
+     "source": "Android Authority",
+     "trust": 2,
+     "url": "https://androidauthority.com/apple-watch-ultra-4-deal-3730321",
+     "title": "Apple Watch Ultra 4 falls to $699.99 in first major price cut",
+     "lang": "en",
+     "extra": {},
+     "id": "c8ce7d7806b0baee",
+     "published": "2026-10-30T21:36+00:00",
+     "text": "The Apple Watch Ultra 4 just got its first big price cut since launch, and it’s a strong one. On Amazon, you can grab it for $699.99 instead of its $799 RRP, which is a 12% discount and a savings of $99.\nSee the deal at Amazon"
+    },
+    {
+     "source": "MacRumors",
+     "trust": 2,
+     "url": "https://macrumors.com/2026/10/31/apple-watch-ultra-4-99-discounts",
+     "title": "Apple Watch Ultra 4 Hits All-Time Low Price With Amazon's $99 Discount",
+     "lang": "en",
+     "extra": {},
+     "id": "008ce375e96b3575",
+     "published": "2026-10-31T15:54+00:00",
+     "text": "The Apple Watch Ultra 4 has dropped to $699.99 on Amazon, down from $799.00. This is a match of the all-time low price on the new Ultra 4, which just launched in September.\nNote: MacRumors is an affiliate partner with some of these vendors. When you click a link and make a purchase, we may receive a small payment, which helps us keep the site running.\nIf you're shopping for a Milanese Loop model, Amazon also has a $99 discount on one of these devices. You can get the Black Apple Watch Ultra 4 with Black Milanese Loop (Large) for $799.99, down from $899.00. Most of these watches have an estimated delivery date of early November, and some are offering same-day shipping for Prime members as well.\nIf you're on the hunt for more discounts, be sure to visit our Apple Deals roundup where we recap the best Apple-related bargains of the past week.\nDeals Newsletter\nInterested in hearing more about the best deals you can find as we head into the holidays? You can sign up for our Deals Newsletter and we'll keep you updated so you don't miss the biggest deals of the season!"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/best-deals-for-october-31-2026",
+     "title": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+     "lang": "en",
+     "extra": {},
+     "id": "6545c619b821c4bc",
+     "published": "2026-10-31T19:34+00:00",
+     "text": "A new weekend has arrived, and today, you can save big on Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, The Adventures of Elliot, Final Fantasy VII Rebirth, Star Wars Zero Company, and more. Check out our top picks for Saturday, October 31, below.\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nThe Adventures of Elliot: The Millennium Tales was released this June, and for the first time, you can pick up a copy of the game on sale! Amazon has copies for all platforms discounted to $44.99 today, which is a great price for this action-based HD-2D game. In our 8/10 review, we wrote, \"The Adventures of Elliot: The Millennium Tales isn’t without blemishes, but it’s still a great action-adventure game that continues to prove why the HD-2D art style is among the best around.\"\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with the HD-2D art style that breathes new life into the adventure of Erdrick. Numerous quality-of-life features make this a game that's much more digestible than ever for genre newcomers, and the orchestrated soundtrack is a treat, too. Pick up a PS5 copy today for just $19.99.\nStar Wars Zero Company is one of the biggest sleeper hits of the year, and you can save $12 o"
     }
    ]
   },
@@ -1668,52 +1720,6 @@
    ]
   },
   {
-   "id": "c046414c907",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
-   "official_image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg",
-   "sources": [
-    {
-     "source": "UN News",
-     "trust": 3,
-     "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
-     "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
-     "lang": "en",
-     "extra": {
-      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg"
-     },
-     "id": "046414c907391a3f",
-     "published": "2026-10-31T12:00+00:00",
-     "text": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened."
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336066",
-     "title": "UN Demands Probe into Death of Its Employee in Houthi Custody",
-     "lang": "en",
-     "extra": {},
-     "id": "1ee6689bdc4e04bb",
-     "published": "2026-10-31T17:59+00:00",
-     "text": ""
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/middle-east/un-demands-probe-into-death-of-its-employee-in-houthi-custody",
-     "title": "UN demands probe into death of its employee in Houthi custody",
-     "lang": "en",
-     "extra": {},
-     "id": "34bc350b8fe7f75b",
-     "published": "2026-10-31T19:33+00:00",
-     "text": "Over 70 UN personnel are being held by the Houthis."
-    }
-   ]
-  },
-  {
    "id": "c4d04d67d10",
    "kind": "news",
    "score": 12.5,
@@ -1756,50 +1762,6 @@
      "id": "4d04d67d10e9eba8",
      "published": "2026-10-31T18:39+00:00",
      "text": "- F1 LIVE: Mexico City Grand Prix 2026 UK time, start time, grid, radio & updates BBC\n- Norris pips Antonelli to top spot in Mexico City FP3 Formula 1\n- Charles Leclerc dominates second practice from Lando Norris at Mexico City Grand Prix ESPN\n- LIVE: F1 Mexico GP updates - Norris tops FP3, Hirakawa in for Ocon at Haas | Live text Autosport\n- Mexico City GP: Lando Norris pips Kimi Antonelli in final practice to set up thrilling Mexico qualifying Sky Sports"
-    }
-   ]
-  },
-  {
-   "id": "c79690bcc07",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "EA reportedly closed BioWare because it was forced to choose between Mass Effect 5 and Star Wars Battlefront 3",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Eurogamer",
-     "trust": 2,
-     "url": "https://eurogamer.net/ea-closed-bioware-because-star-wars-battlefront-3",
-     "title": "EA reportedly closed BioWare because it was forced to choose between Mass Effect 5 and Star Wars Battlefront 3",
-     "lang": "en",
-     "extra": {},
-     "id": "79690bcc078ab193",
-     "published": "2026-10-30T14:54+00:00",
-     "text": "A new report has revealed that EA closed BioWare because it was forced to choose between investing in one of two sci-fi projects: a new Mass Effect game or a new Star Wars Battlefront game. And it chose the latter.\nRead more"
-    },
-    {
-     "source": "GameSpot",
-     "trust": 2,
-     "url": "https://gamespot.com/articles/ea-reportedly-chose-an-unannounced-star-wars-game-over-biowares-next-mass-effect",
-     "title": "EA Reportedly Chose An Unannounced Star Wars Game Over BioWare’s Next Mass Effect",
-     "lang": "en",
-     "extra": {},
-     "id": "f81ace03e278de63",
-     "published": "2026-10-30T15:29+00:00",
-     "text": "EA recently announced it was shutting down BioWare, ending a studio responsible for multiple hit games over 30 years. According to a new report, EA's decision was driven by economics, as it had to choose between funding a new Mass Effect and backing the safer bet, Star Wars: Battlefront 3.\nBloomberg's Jason Schreier reported that EA had to choose between two costly projects, and with the added pressure of paying off $18 billion in leveraged debt after its sale to a business consortium and Saudi Arabia's investment fund, Battlefront 3 made more financial sense. To add insult to injury, Battlefront 3 isn't even in development yet, and it hasn't been officially announced.\n\"They chose to invest in Star Wars and shut down BioWare as a result, said the people familiar, speaking anonymously because they were not authorized to talk to the press,\" Schreier wrote. \"Star Wars: Battlefront 3 has not even begun development yet, but EA executives saw it as a less risky, more predictable bet than a new Mass Effect--and the publisher behind Battlefield has always been more comfortable with shooters than RPGs.\"\nSchreier added that \"corporate politics\" may have also influenced the decision, as one of the studio's key advocates, senior EA exec Laura Miele, was reportedly sidelined when EA Sports veterans David Tinson and Cam Weber were promoted. BioWare also experienced several flops over the last decade, with Mass Effect: Andromeda, Anthem, and Dragon Age: The Veilguard failing to meet sales expectations, which further influenced EA's decision to shut down the studio.\nAfter BioWare's closure, more details on its Mass Effect project have emerged. A trailer for Mass Effect: Universe was posted online last week; the game's details made it sound like a sci-fi version of John Wick, and video game composer Austin Wintory shared an experimental score as part of his Mass Effect audition tape."
-    },
-    {
-     "source": "Windows Central",
-     "trust": 2,
-     "url": "https://windowscentral.com/gaming/ea-reportedly-chose-star-wars-battlefront-3-over-mass-effect-killing-biowares-final-game-in-the-process",
-     "title": "EA reportedly killed Mass Effect and BioWare to bet on Star Wars Battlefront 3 instead",
-     "lang": "en",
-     "extra": {},
-     "id": "75a0fa199771d63e",
-     "published": "2026-10-31T13:38+00:00",
-     "text": "Time has passed since EA shut down the legendary RPG studio BioWare, and people are speculating about the reasons why the publisher did it. Bloomberg offers its own take in a report claiming EA closed down BioWare and cancelled the next Mass Effect game to invest in Star Wars: Battlefront 3."
     }
    ]
   },
@@ -1899,10 +1861,12 @@
      "url": "https://gsmarena.com/whatsapp_group_status-news-75298.php",
      "title": "WhatsApp announces new features, including Group Status",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://fdn.gsmarena.com/imgroot/news/26/10/whatsapp-group-status/-952x498w6/gsmarena_001.jpg"
+     },
      "id": "40d2c0fb00cfed19",
      "published": "2026-10-31T09:31+00:00",
-     "text": "WhatsApp has announced new features. First is Group Status, which, as the name suggests, lets you share Status updates visible only to group members, who can view, react to, and like the statuses, and add their own. Group Statuses, like regular statuses, disappear after 24 hours. WhatsApp already lets group admins share a group's message history with new members when they are being added to the group. Now, you can also share old messages with new members after they join the group. Just tap their name in the group chat. Speaking of messages, WhatsApp now lets you pin messages in a..."
+     "text": "WhatsApp has announced new features. First is Group Status, which, as the name suggests, lets you share Status updates visible only to group members, who can view, react to, and like the statuses, and add their own. Group Statuses, like regular statuses, disappear after 24 hours.\nWhatsApp already lets group admins share a group's message history with new members when they are being added to the group. Now, you can also share old messages with new members after they join the group. Just tap their name in the group chat.\nSpeaking of messages, WhatsApp now lets you pin messages in a group chat permanently, with no time limit.\nWhatsApp has also introduced a new chat filter that shows you every unread group chat where you were either mentioned or received a direct reply, including @all messages.\nTip us\n2.1m 180k\nRSS\nEV\nMerch\nLog in I forgot my password Sign up"
     },
     {
      "source": "Digital Trends",
@@ -1914,52 +1878,6 @@
      "id": "dc444c5911856593",
      "published": "2026-10-31T16:05+00:00",
      "text": "WhatsApp is introducing four new features to group conversations, aimed at making it easier for users to manage important messages and catch up on conversations they may have missed. The latest additions include Group Status, permanent message pinning, a dedicated filter for mentions and replies, and the ability to share recent message history even after […]"
-    }
-   ]
-  },
-  {
-   "id": "c824106f63d",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8",
-     "title": "Samsung mercilessly mocks iPhone Duo ‘crackgate’ in Galaxy Z Fold 8 ads [Video]",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/galaxy-z-fold-8-iphone-duo-crackgate.jpg?quality=82&strip=all&resize=1200,628"
-     },
-     "id": "824106f63d9658e3",
-     "published": "2026-10-31T01:20+00:00",
-     "text": "Samsung isn’t holding back when it comes to the iPhone Duo’s messy start. In new ads, the company mocks iPhone Duo’s “crackgate” with a push for customers to buy the Galaxy Z Fold 8 instead, and there’s not an ounce of subtlety here.\nFollowing the debut of Apple’s first foldable, an unfortunate trend has emerged among early buyers. A number of users found that their display “cracked” with the display panel dying in the center, all in the exact same way, implying there’s a flaw within Apple’s hinge design.\nApple is replacing affected devices, but it is a somewhat harrowing reminder that this is the company’s first attempt at this hardware.\nAnd Samsung is happy to point that out.\nIn an ad for the Galaxy Z Fold 8 on Instagram, Samsung says that “folding is nothing new to us” and that “we know a thing or eight.” It cuts right to the chase: “Switch to Galaxy Z Fold8.” The attached imagery then depicts the iPhone Duo’s well-known screen “crack.\nTop comment by Morgrain\nIt's kind of funny that Apple had 8 years to copy the competition, and still failed spectacularly in such a serious way. The hinge section in question either suffers from material failure (metal breaks when it shouldn't) or its a design failure where the hinge simply breaks under a certain pressure (that a foldable should survive).\nEither way this doesn't bode well for Apples QA.\nThat one was posted to Samsung Canada’s account, while another ad from Samsung Malaysia further takes that up a notch:\nFeeling a little FOMO seeing all this talk about durability… oops, we’ve just been busy folding and getting on with our day\nSamsung Australia similarly poked fun at Apple’s durability woes with a post about “how life sounds when your screen doesn’t break when opening your phone.”\nAnother post from Samsung Saudi Arabia puts the iPhone Duo crack on a Galaxy Z Fold 8 before revealing it’s just a wallpaper.\nMore on Samsung:\nFollow Ben: Twitter/X, Threads, Bluesky, and Instagram\nComments"
-    },
-    {
-     "source": "GSMArena",
-     "trust": 2,
-     "url": "https://gsmarena.com/samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295.php",
-     "title": "Samsung Galaxy Z Fold9 to bring back a long-lost feature the iPhone Duo has",
-     "lang": "en",
-     "extra": {},
-     "id": "cad6c9ec394c02ea",
-     "published": "2026-10-31T12:31+00:00",
-     "text": "Samsung put an under-display camera on the inner screen of its book-style foldables for four generations, starting with the Galaxy Z Fold3 back in 2021 and ending with the Galaxy Z Fold6. The Galaxy Z Fold7 switched to a regular punch hole last year, and this year's Galaxy Z Fold8 Ultra and wide Galaxy Z Fold8 stuck with it. Now, the under-display camera will reportedly make a comeback next year. According to a tipster on X, Samsung will unveil a device with an under-display camera, \"major internal changes\", and minimal changes to its overall thickness and design. Earlier this month, the..."
-    },
-    {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Samsung-now-mocks-Apple-iPhone-Duo-with-crackgate-memes-too.1439057.0.html",
-     "title": "Samsung now mocks Apple iPhone Duo with crackgate memes too",
-     "lang": "en",
-     "extra": {},
-     "id": "b0fd75b0bba0ba74",
-     "published": "2026-10-31T22:25+00:00",
-     "text": "One company's misfortune is another's delight. Samsung has a long history of mocking Apple's decisions and products. Even the now quite viral mishap involving broken hinges and damaged displays is being exploited by the South Korean company's international marketing teams for their own purposes."
     }
    ]
   },
@@ -2324,6 +2242,74 @@
    ]
   },
   {
+   "id": "cdc9fd0e56b",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Slashdot",
+     "trust": 1,
+     "url": "https://news.slashdot.org/story/26/11/01/0129237/binance-replenishes-90-of-stolen-63b-pledges-theyll-cover-it-all-reopen-sunday",
+     "title": "Binance Replenishes 90% of Stolen $6.3B, Pledges They'll Cover It All, Reopen Sunday",
+     "lang": "en",
+     "extra": {},
+     "id": "dc9fd0e56b91bd47",
+     "published": "2026-11-01T01:34+00:00",
+     "text": "\"We've now replenished 90% of the stolen assets, and we're committed to covering the remaining 10%,\" Binance co-CEO Richard Teng posted on X, adding that \"Our users will not bear the financial impact of this incident.\"\n\"Binance said it was able to replace the funds taken in the record hack by using company money to buy new tokens,\" reports NBC News:\nThe remaining 10% consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X... Binance said it has set aside around $6.34 billion of company funds internally to cover the losses. The money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users, a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nNBC News reports that the FBI blames the breach on a North Korea-sponsored group known as TraderTraitor:\nMembers of [TraderTraitor] were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology... After the hack, the exchange stopped allowing customers to withdraw their funds, but it said Saturday it was still on track to reopen withdrawals Sunday.\nCNBC reports:\nThe world's largest crypto exchange initially said the hack may involve \"a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.\" However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.\nThe New York Times describes what happened when Binance first spotted \"a multibillion-dollar deluge of digital coins\" pouring out of its accounts:\nAs the news spread, Binance's top executives put together an informal war room on Wea, the company's internal messaging system, with about 100 participants, including specialized cryptocurrency tracers and security personnel. They eventually transitioned to a mass conference call, with 100 boxes on the screen, where employees took turns muting and then unmuting, communicating in a mixture of English and Chinese. Among them was He Yi, Binance's co-chief executive, who is seven months pregnant, and worked through the night from her base in Abu Dhabi, taking a call at 3 a.m. local time....\nMuch of the drama played out in public. Almost all crypto transactions are recorded on the blockchain, a ledger of money movements that anyone can look up. That meant crypto analysts could see funds leaving Binance in real time... North Koreans have targeted crypto companies for years, using the proceeds of those thefts to fund its nuclear program, according to Western officials. The hackers have developed increasingly complex strategies to steal crypto and launder the proceeds, a painstaking endeavor that can take months to complete. In a blog post on Friday, Chainalysis said the attackers had deployed \"laundering patterns we have not seen before,\" conducting thousands of transactions over a short period, probably with the help of automation.\nAt the same time, Binance's colleagues in the industry mobilized to intercept some of the laundered crypto. Certain digital coin issuers can freeze funds, allowing them to halt a money-laundering operation in its tracks. Soon after the hack, T"
+    }
+   ]
+  },
+  {
+   "id": "c046414c907",
+   "kind": "news",
+   "score": 11.5,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+   "official_image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg",
+   "sources": [
+    {
+     "source": "UN News",
+     "trust": 3,
+     "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+     "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+     "lang": "en",
+     "extra": {
+      "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/27-02-2026-HRC-Volker-Turk.jpg/image560x340cropped.jpg"
+     },
+     "id": "046414c907391a3f",
+     "published": "2026-10-31T12:00+00:00",
+     "text": "The UN human rights chief on Saturday demanded an independent investigation into the death of a Yemeni colleague held by the Houthis for more than two years, whose family learned of his death only weeks after it happened."
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336066",
+     "title": "UN Demands Probe into Death of Its Employee in Houthi Custody",
+     "lang": "en",
+     "extra": {},
+     "id": "1ee6689bdc4e04bb",
+     "published": "2026-10-31T17:59+00:00",
+     "text": ""
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/middle-east/un-demands-probe-into-death-of-its-employee-in-houthi-custody",
+     "title": "UN demands probe into death of its employee in Houthi custody",
+     "lang": "en",
+     "extra": {},
+     "id": "34bc350b8fe7f75b",
+     "published": "2026-10-31T19:33+00:00",
+     "text": "Over 70 UN personnel are being held by the Houthis."
+    }
+   ]
+  },
+  {
    "id": "cc403f39860",
    "kind": "news",
    "score": 11.5,
@@ -2381,35 +2367,46 @@
    ]
   },
   {
-   "id": "c3a41990c4f",
+   "id": "c79690bcc07",
    "kind": "news",
    "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Anthropic manager stops coding interviews because Claude beats most candidates",
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "EA reportedly closed BioWare because it was forced to choose between Mass Effect 5 and Star Wars Battlefront 3",
    "official_image": null,
    "sources": [
     {
-     "source": "TechSpot",
+     "source": "Eurogamer",
      "trust": 2,
-     "url": "https://techspot.com/news/114391-anthropic-manager-drops-coding-interviews-after-realizing-claude.html",
-     "title": "Anthropic manager stops coding interviews because Claude beats most candidates",
+     "url": "https://eurogamer.net/ea-closed-bioware-because-star-wars-battlefront-3",
+     "title": "EA reportedly closed BioWare because it was forced to choose between Mass Effect 5 and Star Wars Battlefront 3",
      "lang": "en",
      "extra": {},
-     "id": "3a41990c4fc7d3a6",
-     "published": "2026-10-30T13:41+00:00",
-     "text": "That manager is Felix Rieseberg. He's led engineering on Claude.ai and the Claude Code desktop app, among other things. Earlier this week, he posted on X that the coding interview no longer tells him anything useful. So he pulled it from his team's hiring loops this month.\nRead Entire Article"
+     "id": "79690bcc078ab193",
+     "published": "2026-10-30T14:54+00:00",
+     "text": "A new report has revealed that EA closed BioWare because it was forced to choose between investing in one of two sci-fi projects: a new Mass Effect game or a new Star Wars Battlefront game. And it chose the latter.\nRead more"
     },
     {
-     "source": "TechRadar",
+     "source": "GameSpot",
      "trust": 2,
-     "url": "https://techradar.com/pro/anthropic-hiring-manager-says-he-stopped-giving-coding-interviews-because-claude-is-better-at-them-and-tells-junior-engineers-that-hunger-beats-tenure",
-     "title": "Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them — and tells junior engineers that 'hunger beats tenure'",
+     "url": "https://gamespot.com/articles/ea-reportedly-chose-an-unannounced-star-wars-game-over-biowares-next-mass-effect",
+     "title": "EA Reportedly Chose An Unannounced Star Wars Game Over BioWare’s Next Mass Effect",
      "lang": "en",
      "extra": {},
-     "id": "22fe29503302cf8c",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "<p>Christian Cawley has extensive experience as a writer and editor in consumer electronics, IT and entertainment media. He has contributed to TechRadar since 2017 and has been published in Computer Weekly, Linux Format, ComputerActive, and other publications. </p><p>Beyond TechRadar, he heads up the team at smart home website Matter Alpha, and writes about retro gaming at Gaming Retro. </p><p>Formerly the editor responsible for Linux, Security, Programming, and DIY at MakeUseOf, Christian previously worked as a desktop and software support specialist in the public and private sectors.<br></p>"
+     "id": "f81ace03e278de63",
+     "published": "2026-10-30T15:29+00:00",
+     "text": "EA recently announced it was shutting down BioWare, ending a studio responsible for multiple hit games over 30 years. According to a new report, EA's decision was driven by economics, as it had to choose between funding a new Mass Effect and backing the safer bet, Star Wars: Battlefront 3.\nBloomberg's Jason Schreier reported that EA had to choose between two costly projects, and with the added pressure of paying off $18 billion in leveraged debt after its sale to a business consortium and Saudi Arabia's investment fund, Battlefront 3 made more financial sense. To add insult to injury, Battlefront 3 isn't even in development yet, and it hasn't been officially announced.\n\"They chose to invest in Star Wars and shut down BioWare as a result, said the people familiar, speaking anonymously because they were not authorized to talk to the press,\" Schreier wrote. \"Star Wars: Battlefront 3 has not even begun development yet, but EA executives saw it as a less risky, more predictable bet than a new Mass Effect--and the publisher behind Battlefield has always been more comfortable with shooters than RPGs.\"\nSchreier added that \"corporate politics\" may have also influenced the decision, as one of the studio's key advocates, senior EA exec Laura Miele, was reportedly sidelined when EA Sports veterans David Tinson and Cam Weber were promoted. BioWare also experienced several flops over the last decade, with Mass Effect: Andromeda, Anthem, and Dragon Age: The Veilguard failing to meet sales expectations, which further influenced EA's decision to shut down the studio.\nAfter BioWare's closure, more details on its Mass Effect project have emerged. A trailer for Mass Effect: Universe was posted online last week; the game's details made it sound like a sci-fi version of John Wick, and video game composer Austin Wintory shared an experimental score as part of his Mass Effect audition tape."
+    },
+    {
+     "source": "Windows Central",
+     "trust": 2,
+     "url": "https://windowscentral.com/gaming/ea-reportedly-chose-star-wars-battlefront-3-over-mass-effect-killing-biowares-final-game-in-the-process",
+     "title": "EA reportedly killed Mass Effect and BioWare to bet on Star Wars Battlefront 3 instead",
+     "lang": "en",
+     "extra": {},
+     "id": "75a0fa199771d63e",
+     "published": "2026-10-31T13:38+00:00",
+     "text": "Time has passed since EA shut down the legendary RPG studio BioWare, and people are speculating about the reasons why the publisher did it. Bloomberg offers its own take in a report claiming EA closed down BioWare and cancelled the next Mass Effect game to invest in Star Wars: Battlefront 3."
     }
    ]
   },
@@ -2719,41 +2716,6 @@
    ]
   },
   {
-   "id": "ca32cec60e2",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "U.S., South Korea and Japan vow ‘complete’ denuclearization of North Korea",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/news/2026/10/31/asia-pacific/politics/north-korea-denuclearization-vow",
-     "title": "U.S., South Korea and Japan vow ‘complete’ denuclearization of North Korea",
-     "lang": "en",
-     "extra": {},
-     "id": "a32cec60e2a42b46",
-     "published": "2026-10-31T05:31+00:00",
-     "text": "The joint pledge comes as Pyongyang continues to reject disarmament ahead of possible talks with Washington."
-    },
-    {
-     "source": "Nikkei Asia",
-     "trust": 2,
-     "url": "https://asia.nikkei.com/business/companies/japan-bamboo-chopsticks-catch-on-in-south-korea",
-     "title": "Japan bamboo chopsticks catch on in South Korea",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F2%2F4%2F9%2F13329428-1-eng-GB%2F37dd68b1dfa1-photo_SXM2026091700007832.jpg?fit=cover&gravity=faces&dpr=2&quality=medium&source=nar-cms&format=jpg&width=1260&height=630"
-     },
-     "id": "b411d6a5b54793ab",
-     "published": "2026-11-01T01:17+00:00",
-     "text": "FUKUOKA, Japan -- Bamboo chopsticks made in Japan have gained something of a following in South Korea, with one maker selling more than 100,000 pairs in a little more than half an hour on a TV shopping program.\nTV shopping appearance moves 140,000 pairs in 40 minutes\nYamachiku's chopsticks are made from natural bamboo grown in Kumamoto prefecture. (Yamachiku)\nFUKUOKA, Japan -- Bamboo chopsticks made in Japan have gained something of a following in South Korea, with one maker selling more than 100,000 pairs in a little more than half an hour on a TV shopping program."
-    }
-   ]
-  },
-  {
    "id": "c48d67ea6be",
    "kind": "news",
    "score": 11.0,
@@ -2842,6 +2804,30 @@
      "id": "0200ff14a8fa5d24",
      "published": "2026-10-31T13:00+00:00",
      "text": "- Motorola Signature 27 specs detailed in new video, including Tandem OLED display 9to5Google\n- Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch - GSMArena.com news GSMArena.com\n- Here's exactly when you'll find out everything there is to know about the Motorola Signature 27 PhoneArena\n- The Signature 27 is Motorola's last chance to get Android updates right Android Authority\n- November 2026 tech launches: Motorola Signature 27, Asus Zenbook 14 and Vivo X500 Series CNBC TV18"
+    }
+   ]
+  },
+  {
+   "id": "c7aa45f1c05",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Americans Lost Nearly $18 Billion Last Year to Cyberscams. Is Washington Doing Enough to Help Them Get It Back?",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Time",
+     "trust": 2,
+     "url": "https://time.com/article/2026/10/31/americans-lost-nearly-18-billion-last-year-to-cyberscams-is-washington-doing-enough-to-help-them-get-it-back-",
+     "title": "Americans Lost Nearly $18 Billion Last Year to Cyberscams. Is Washington Doing Enough to Help Them Get It Back?",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt39be7cc1b8b06346/6ae4e559376c360bbd0d1310/GettyImages-2288050691.jpg?branch=production&width=1024&quality=75&auto=webp&crop=16:9"
+     },
+     "id": "7aa45f1c05b9c2f1",
+     "published": "2026-10-31T12:30+00:00",
+     "text": "The United States government’s response to escalating cyberscams is fragmented, leaving victims with limited options to recover lost funds, according to an investigation conducted by Democrats on Congress’s Joint Economic Committee (JEC).\nThe investigation, led by Sen. Maggie Hassan of New Hampshire and Rep. Don Beyer of Virginia, found that federal agencies do not have a consolidated or comprehensive record of how much money has been lost to cyberfraud, how much has been seized from overseas scam compounds, or how much has been returned to victims.\nThe report, published Tuesday, also concludes that the government does not “incentivize” private sector actors—such as financial institutions and social media companies—to “proactively detect and address abuse of the services that they provide while also protecting user privacy.”\nOnline scam operations are not new, and neither is the knowledge that the issue is escalating. The FBI released an April report showing that Americans lost nearly $18 billion in 2025, amounting to more than $2 million an hour. Overall reported internet-crime losses—a broader category—reached $20.9 billion, up 26% from 2024 and roughly triple the 2021 total.\nWhile the problem grows worse, the response to these crimes has not scaled along with it. The Congressional investigation demonstrates that only a fraction of the money lost to scams is recovered. It also points to the fact that the government fails to fully report on its existing repatriation measures.\nThe FBI told the committee that it returned $336 million to scam victims in 2025, and the Secret Service returned more than $770 million in seized assets to fraud victims in fiscal years 2024 and 2025—though that money had come from a range of fraud schemes, not just cyber threats.\nSuzanne Sando, a fraud analyst at Javelin Strategy & Research, points out that “fragmentation” in the reporting system—including the differing time periods and fraud categories demonstrated above—complicates the government’s ability to grasp the full extent of the problem.\n“Many of the groups and entities that scam victims report their losses to operate on disparate systems,” Sando says. “The fragmented nature of these reporting entities means there’s a lack of true accounting of losses—which also means that our grasp of overall scam losses is likely less than the truth of the situation.”\nThe Congressional report calls on the federal government to enact new legislation to address the rising issue, including the ReportScams.Gov Act, a bipartisan bill co-sponsored by Hassan and Florida Republican Sen. Rick Scott “to mandate a unified federal strategy to combat scams and establish a central location for Americans to find information and assistance regarding scams.”\nA more coordinated reporting system could help researchers and advocates better assess the scale of the problem. Another benefit would be helping the public stay informed about potential schemes, allowing advocacy groups to develop preventive strategies and educational materials for at-risk populations, like senior citizens and minors.\nAccording to the FBI’s 2025 Internet Crime Report, Americans ages 60 and older reported losses of about $7.7 billion, a 60% increase from 2024. They reported the highest total losses of any age group, the report showed.\nIndividuals under 18 reported nearly $13 million in losses across 13,168 internet-crime complaints in 2025, according to the same report.\nBut the true extent of the losses is hard "
     }
    ]
   },
@@ -3079,6 +3065,30 @@
    ]
   },
   {
+   "id": "ce88f55a042",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "عروض التبوريدة تفتتح موسم طانطان",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Hespress",
+     "trust": 2,
+     "url": "https://hespress.com/%d8%b9%d8%b1%d9%88%d8%b6-%d8%a7%d9%84%d8%aa%d8%a8%d9%88%d8%b1%d9%8a%d8%af%d8%a9-%d8%aa%d9%81%d8%aa%d8%aa%d8%ad-%d9%85%d9%88%d8%b3%d9%85-%d8%b7%d8%a7%d9%86%d8%b7%d8%a7%d9%86-1832645.html",
+     "title": "عروض التبوريدة تفتتح موسم طانطان",
+     "lang": "ar",
+     "extra": {
+      "page_image": "https://i1.hespress.com/wp-content/overlay/2026/11/tbourida-tantan.jpg"
+     },
+     "id": "e88f55a042cd5131",
+     "published": "2026-11-01T01:24+00:00",
+     "text": "-\n01:27\nغلمان يدعو إلى تعزيز السيادة المعرفية\n-\n01:22\n\"مغاربة الإمارات\" يحتفلون بـ\"الوحدة\"\n-\n00:48\nهولندا تدعم رصد طيور مائية بالمغرب\n-\n00:17\nالخنوس يُسجل ويقود شتوتغارت للفوز\n-\n23:30\n\"وكالة الدم\" تعلن عن تشخيص وطني\n-\n23:04\nبنسعيد يمثل الملك في أولمبياد دكار\n-\n22:44\nالفتح يهزم حسنية أكادير بهدف نظيف\n-\n22:25\nبنجلون: \"مُركب الناظور\" قاطرة للتنمية\n-\n22:08\n\"حمد الله\" يقترب من رقم قياسي كبير\n-\n21:16\nتفاصيل حادث مميت بـ\"أطوروت أكادير\"\n-\n21:05\nالاتحاد المغربي للشغل يدعو إلى التعبئة\n-\n20:17\nالوداد يحقق فوزا صعبا على تطوان\nأضف تعليقك\nمن شروط النشر : عدم الإساءة للكاتب أو للأشخاص أو للمقدسات أو مهاجمة الأديان أو الذات الإلهية، والابتعاد عن التحريض العنصري والشتائم."
+    }
+   ]
+  },
+  {
    "id": "cbdf5b95537",
    "kind": "news",
    "score": 10.5,
@@ -3303,6 +3313,41 @@
    ]
   },
   {
+   "id": "c37da1ade84",
+   "kind": "news",
+   "score": 10.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
+   "official_image": "https://cdn.mos.cms.futurecdn.net/LxcS4vFnPo4sKYRXgXRKZM-1920-80.jpg",
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/1850/view/693150463100455333",
+     "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/LxcS4vFnPo4sKYRXgXRKZM-1920-80.jpg"
+     },
+     "id": "c52eb57cc9abf7be",
+     "published": "2026-11-01T01:37+00:00",
+     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
+    },
+    {
+     "source": "PC Gamer",
+     "trust": 2,
+     "url": "https://pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more",
+     "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
+     "lang": "en",
+     "extra": {},
+     "id": "37da1ade84c34412",
+     "published": "2026-11-01T01:30+00:00",
+     "text": "<p>Jody's first computer was a Commodore 64, so he remembers having to use a code wheel to play Pool of Radiance. A former music journalist who interviewed everyone from Giorgio Moroder to Trent Reznor, Jody also co-hosted Australia's first radio show about videogames, <a href=\"https://zedgamesau.net/tag/jody-macgregor\" target=\"_blank\">Zed Games</a>. He's written for <a href=\"https://www.rockpapershotgun.com/authors/jody-macgregor\" target=\"_blank\">Rock Paper Shotgun</a>, The Big Issue, <a href=\"https://www.gamesradar.com/author/jody-macgregor/\" target=\"_blank\">GamesRadar</a>, <a href=\"http://www.zam.com/author/jody-macgregor\" target=\"_blank\">Zam</a>, <a href=\"https://web.archive.org/web/20170606042647/http://www.glixel.com/contributor/jody-macgregor\" target=\"_blank\">Glixel</a>, <a href=\"https://fiveoutoftenmagazine.com/downloads/issue-16-identity/\" target=\"_blank\">Five Out of Ten Magazine</a>, and <a href=\"https://web.archive.org/web/20171009125722/https://www.playboy.com/authors/jody-macgregor\" target=\"_blank\">Playboy.com</a>, whose cheques with the bunny logo made for fun conversations at the bank. Jody's first article for PC Gamer was about the <a href=\"https://www.pcgamer.com/the-audio-of-alien-isolation/\">audio of Alien Isolation</a>, published in 2015, and since then he's written about <a href=\"https://www.pcgamer.com/why-silent-hill-belongs-on-pc/\">why Silent Hill belongs on PC</a>, <a href=\"https://www.pcgamer.com/10-years-on-recettear-an-item-shops-tale-is-still-the-best-fantasy-shopkeeper-tycoon-game/\">why Recettear: An Item Shop's Tale is the best fantasy shopkeeper tycoon game</a>, and <a href=\"https://www.pcgamer.com/there-is-so-so-much-weird-shit-in-lost-ark/\">how weird Lost Ark can get</a>. Jody edited PC Gamer Indie from 2017 to 2018, and he eventually lived up to his promise to play every Warhammer videogame.</p>"
+    }
+   ]
+  },
+  {
    "id": "cd746f8602a",
    "kind": "news",
    "score": 10.0,
@@ -3382,39 +3427,6 @@
    ]
   },
   {
-   "id": "c6b23b51d02",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Samsung’s Intelligent Eyewear AI glasses may go on sale in the US and Korea this December",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "SamMobile",
-     "trust": 2,
-     "url": "https://sammobile.com/news/samsungs-intelligent-eyewear-ai-glasses-may-go-on-sale-in-the-us-and-korea-this-december",
-     "title": "Samsung’s Intelligent Eyewear AI glasses may go on sale in the US and Korea this December",
-     "lang": "en",
-     "extra": {},
-     "id": "6b23b51d02c9a17e",
-     "published": "2026-10-30T15:28+00:00",
-     "text": "Samsung's first Intelligent Eyewear AI smart glasses, unveiled this past spring, may finally go on sale in December. However, the initial launch will reportedly be limited to South Korea and the U.S.\nSamsung initially scheduled its audio-only smart glasses for release in Fall 2026 but didn't specify a day, a week, or even a month. A later report from Korea said Samsung could release its AI smart glasses in November. However, that launch window may have been overly optimistic.\nAccording to a new report (via BigGo), Samsung may have pushed the launch back by a few weeks. Intelligent Eyewear products may go on sale in South Korea and the USA this December. Other markets will follow in 2027.\nSamsung's first Intelligent Eyewear wearables were developed in partnership with Google and co-created with fashion eyewear brands Gentle Monster and Warby Parker.\nAndroid XR and Gemini power the smart glasses. They feature microphones for voice commands and cameras for image recognition. Unlike Samsung's Galaxy XR headset, these Intelligent Eyewear products don't have displays. They are essentially voice-based and benefit from extra awareness thanks to their built-in cameras.\nSamsung's Intelligent Eyewear glasses will compete with the Ray-Ban Meta AI glasses. Prices have not yet been revealed, but the company did say they'll be reasonable."
-    },
-    {
-     "source": "Digital Trends",
-     "trust": 2,
-     "url": "https://digitaltrends.com/wearables/samsungs-first-ai-glasses-could-arrive-in-december-but-only-in-two-countries",
-     "title": "Samsung’s first AI glasses could arrive in December, but only in two countries",
-     "lang": "en",
-     "extra": {},
-     "id": "2c143f8432a5a204",
-     "published": "2026-10-31T19:33+00:00",
-     "text": "Samsung‘s first AI-powered smart glasses are finally getting closer to store shelves. According to a new report from South Korea’s ChosunBiz, the company is planning to launch its Intelligent Eyewear in mid-December, and if you’re waiting to get your hands on them outside the US or South Korea, you might be disappointed. For those catching […]"
-    }
-   ]
-  },
-  {
    "id": "cb3f5e32588",
    "kind": "news",
    "score": 10.0,
@@ -3470,39 +3482,6 @@
    ]
   },
   {
-   "id": "c6d90d95fc8",
-   "kind": "news",
-   "score": 10.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
-     "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
-     "lang": "en",
-     "extra": {},
-     "id": "6d90d95fc817fd43",
-     "published": "2026-10-30T16:31+00:00",
-     "text": ""
-    },
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
-     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-     "lang": "en",
-     "extra": {},
-     "id": "8703aea9881e82c3",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades."
-    }
-   ]
-  },
-  {
    "id": "c0b4eb98dfa",
    "kind": "free",
    "score": 2.0,
@@ -3543,8 +3522,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T01:17+00:00",
-     "text": "Bitcoin: $77,615 (+0.2% 24h)\nEthereum: $2,264 (+0.7% 24h)\nSolana: $95.67 (-1.1% 24h)\nToncoin: $1.20 (+1.6% 24h)"
+     "published": "2026-11-01T01:48+00:00",
+     "text": "Bitcoin: $77,675 (+0.4% 24h)\nEthereum: $2,268 (+1.0% 24h)\nSolana: $95.70 (-1.2% 24h)\nToncoin: $1.20 (+1.1% 24h)"
     }
    ]
   },
