@@ -4,11 +4,12 @@ name: Deeptech DZ bot
 # No computer needed. Public repository => GitHub Actions minutes are free.
 on:
   schedule:
-    - cron: "*/5 * * * *"        # GitHub may delay scheduled runs by a few minutes
+    - cron: "*/15 * * * *"       # backup only: each run loops ~55 min and then restarts itself
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: deeptech-bot
@@ -17,7 +18,7 @@ concurrency:
 jobs:
   tick:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 75
     env:
       TZ: Africa/Algiers
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
@@ -43,8 +44,26 @@ jobs:
           key: bot-data-${{ github.run_id }}
           restore-keys: bot-data-
 
-      - name: Tick
-        run: python -m dtdz.cloud
+      - name: Run (a tick every minute for ~55 minutes)
+        # GitHub's own scheduler is irregular (runs can be 30+ min apart), so one run stays alive and
+        # ticks every minute: posts go out on time and admin buttons answer within a minute.
+        run: |
+          git config user.name "Deeptech DZ bot"
+          git config user.email "bot@deeptech-dz.local"
+          end=$(( $(date +%s) + 55*60 ))
+          while [ "$(date +%s)" -lt "$end" ]; do
+            git pull -q --rebase -X theirs origin main || git rebase --abort || true
+            python -m dtdz.cloud || echo "tick failed"
+            git add queue cloud.enabled 2>/dev/null || true
+            if ! git diff --cached --quiet; then
+              git commit -q -m "cloud tick"
+              for i in 1 2 3; do
+                git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && break
+                sleep 5
+              done
+            fi
+            sleep 60
+          done
 
       - name: Save bot state
         if: always()
@@ -52,6 +71,14 @@ jobs:
         with:
           path: data
           key: bot-data-${{ github.run_id }}
+
+      - name: Start the next run
+        if: always()
+        run: |
+          curl -s -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/bot.yml/dispatches" \
+            -d '{"ref":"main"}'
 
       - name: Commit queue
         if: always()
