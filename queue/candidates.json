@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T12:01:35+00:00",
+ "generated_at": "2026-11-01T12:32:16+00:00",
  "clusters": [
   {
    "id": "cc050767038",
@@ -481,6 +481,19 @@
      "id": "2168f8348cd4d33a",
      "published": "2026-11-01T06:30+00:00",
      "text": "- FBI blames North Korea for stolen billions from Binance in biggest hack in history ABC News - Breaking News, Latest News and Videos\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds Reuters\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFFjYl9LMUZsLVc3aDB3UmpoR3l6MGVxZ001eU16UVh4WWlzM1ZoRWJHTjU5Z1dObm9OVzFNYlpSUFdCd0c3eTVUMFNZdUNMbWZsRnZnSlZyaGhsRE51VHVIZnljZDU2QWF0cGt0ZEZfeVdzd2s3WGpyQXlUUm1kcEdDZlZaZHlUYlBHcmVwcEt0YVJ4MUHSAZYBQVVfeXFMTnp0eFpCRi00X2V4aXNEMjNrZE1iX3BNX1hLSWhTYWhwcVVIYjlPTmdRWmh2bUpqLXVTY2JzTDJvamlfSHJ6d1gzaHExNlF3eTZaQzZnX1JCMXM5WnNqVDlrQmdNYVI4bEx4amF5bmtkLXEyWE42OUliMldSRlVIQS02LXNGX0s2eXctQy1GUDRTZXlNUTB3?oc=5",
+     "title": "FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "64ca4377590dad87",
+     "published": "2026-11-01T09:02+00:00",
+     "text": "- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Long accused of abetting crypto crimes, Binance has now become a victim AP News"
     }
    ]
   },
@@ -647,6 +660,89 @@
    ]
   },
   {
+   "id": "c78b9415399",
+   "kind": "news",
+   "score": 21.0,
+   "sensitive": false,
+   "distinct_sites": 6,
+   "title_hint": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://arabnews.com/world/russia-says-drone-hit-industrial-enterprise-near-moscow-kyiv-claims-hit-major-refinery-3009214",
+     "title": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793513777615-4a617f9a6a315336.jpg"
+     },
+     "id": "78b94153992533fd",
+     "published": "2026-11-01T06:17+00:00",
+     "text": "- Drone strikes reported near Moscow and on a major refinery\n- Over 100 drones reportedly involved overnight\nMOSCOW: Russia said Sunday that a drone had struck an “industrial enterprise” east of Moscow overnight, after Ukraine claimed it had hit a major oil refinery.\nGleb Nikitin, governor of Nizhny Novgorod region, reported a “massive drone attack” during the night, during which an “industrial enterprise in the Kstovo district sustained significant damage.”\n“More than 100 drones destroyed,” and “according to preliminary information, there are no casualties,” he added in a statement, without specifying the plant’s activities.\nUkrainian media reported an attack on the Kstovo oil refinery, calling it “one of Russia’s largest oil refineries, producing fuel and lubricants.”\nMoscow said Friday that Ukraine had resumed its strikes on Russian oil refineries after a “pause” of several days.\nSenior Russian official Alexander Novak told a reporter from state TV that Ukraine had resumed attacks on Russian plants, hitting three oil refineries and one gas-chemical complex.\nKyiv has repeatedly struck Russian oil and gas sites in retaliation for Russian attacks on Ukrainian energy infrastructure since Moscow began its offensive there in February 2022.\nUS President Donald Trump had been pressuring Kyiv for weeks to stop such attacks, blaming them for the rising cost of diesel."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-",
+     "title": "Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://images.euronews.com/articles/stories/09/97/51/55/1200x675_cmsv2_0d798eb6-8273-54e9-813c-571131c771ee-9975155.jpg"
+     },
+     "id": "99494afc9f7e5776",
+     "published": "2026-11-01T07:13+00:00",
+     "text": "Telegram war monitoring channels said an attack had targeted the Kstovo oil refinery - also known as the Lukoil-Nizhegorodnefteorgsintez refinery, thought to be one of Russia's largest such facilities.\nRussian authorities said a major drone attack had targeted an \"industrial enterprise\" in the Nizhny Novgorod Oblast overnight, amid reports that a key oil refinery had been struck in the region.\nIn a post on Telegram, regional governor Gleb Nikitin said a \"massive UAV attack\" had resulted in \"significant damage\" to an industrial facility in the Kstovsky district.\n\"More than 100 drones have been destroyed,\" he wrote, adding that early information suggested there had been no casualties and that emergency crews were working at the scene.\n\"Whilst restoration work is underway, there may be temporary power cuts, as well as reduced hot water and heating supplies in certain sections of the utility networks serving residential buildings,\" Nikitin said.\nTelegram war monitoring channels said an attack had targeted the Kstovo oil refinery - also known as the Lukoil-Nizhegorodnefteorgsintez refinery, thought to be one of Russia's largest such facilities.\nAccording to Lukoil, the site is involved in the production of diesel and aviation fuel, among other things.\nEarlier this week, a major fire reportedly broke out at another oil refinery in Russia's Samara region following a drone attack, with dramatic images and video footage posted on social media showing multiple towering columns of black smoke filling the skyline.\nThat incident followed reports that Ukraine had paused strikes on Russian refineries amid pressure from Washington, which has blamed the attacks on rising global diesel prices as it has sought to shift blame from its war in Iran.\nUkraine had been ramping up attacks on Russian energy infrastructure this year, particularly targeting facilities such as oil refineries, terminals and depots, in a bid to hit a critical Russian economic driver and grind down the Kremlin's war machine.\nThe latest reported attack comes after Ukrainian President Volodymyr Zelenskyy said around 280,000 Ukrainian households had been left without power after Russian strikes on Ukraine on Friday night.\n\"Russian strikes have created a difficult situation with electricity supplies across our regions,\" Zelenskyy wrote in a post on X on Saturday, saying that around 200,000 households in Dnipro and the wider region were without electricity while a further 80,000 or more in the Kyiv region were also without power.\nThe Ukrainian leader said Russian forces had hit a \"combined heat and power plant\" in Kyiv as well as four electrical substations in the eastern Dnipro region, among other targets."
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/3126e0490461",
+     "title": "Ukraine claims strike on major Russian oil refinery near Moscow",
+     "lang": "en",
+     "extra": {},
+     "id": "f818619c54e8ed13",
+     "published": "2026-11-01T07:35+00:00",
+     "text": "Russia reports significant damage to an industrial facility in the Nizhny Novgorod region after a massive overnight drone attack, as Kiev claims it targeted the Kstovo oil refinery."
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/russia-opens-terrorism-case-over-ukraine-oil-refinery-attack/107334242",
+     "title": "Russia opens terrorism case over Ukraine oil refinery attack",
+     "lang": "en",
+     "extra": {},
+     "id": "6799c2d97065f134",
+     "published": "2026-11-01T11:27+00:00",
+     "text": "A facility which Ukraine named \"one of Russia's largest\" oil refineries reportedly sustained \"significant damage\" in the \"massive drone attack\"."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/world/europe/ukraine-russia-war-live-live-drone-oil-refinery-nizhny-novgorod-kstovo-b3077050.html",
+     "title": "Ukraine-Russia war latest: Kyiv launches ‘massive’ overnight drone strikes on Russian facilities",
+     "lang": "en",
+     "extra": {},
+     "id": "03511b7c7dcf6ef5",
+     "published": "2026-11-01T11:56+00:00",
+     "text": "Russian investigators open criminal case over suspected Ukrainian attack on industrial facility"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHMzMXk4dHkwMkpoWXI3NUg4ek44akMwX3BHcDRTOXpKcTNJN0htcnp3al9VV1VVLThKdlFya0NnMlNIdnpoMGtMVEVvMzA5RlBiTFNubjVZRmpUMlJNdDhETTBsOS0waEQwNkljYjFrV0Fiam84QkJIZG9XT3VQYVBjTnNnS2JIVng5OWhud1VUODdNREk0X01xeTZBWmZ2WmNJeDFKR0JiRkZJSG1CcExTSEFNTVY2UG5XWGsyNzkzc2xi?oc=5",
+     "title": "Russia reports 'massive' drone attack on 'industrial enterprise'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "fa4a7b162fa30c24",
+     "published": "2026-11-01T07:13+00:00",
+     "text": "- Russia reports 'massive' drone attack on 'industrial enterprise' Euronews.com\n- Another Russian refinery is aflame despite Trump’s warning to Kyiv The Washington Post\n- Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S. WSJ\n- Russian oil refinery in Kstovo ablaze after reported overnight drone strike The Kyiv Independent\n- Oil refinery in Russia's Ufa on fire after drone attack, key unit believed hit – photo, video Українська правда"
+    }
+   ]
+  },
+  {
    "id": "cd15b79a959",
    "kind": "news",
    "score": 19.5,
@@ -697,9 +793,66 @@
    ]
   },
   {
+   "id": "cb7dc819152",
+   "kind": "news",
+   "score": 17.5,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/not-sure-what-happened-piastri-reflects-on-bizarre-q2-exit-in-mexico-city-gp-qualifying.7FPexiMg5O7poV0hFEoCxe",
+     "title": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
+     "lang": "en",
+     "extra": {},
+     "id": "c403f398605d210e",
+     "published": "2026-10-31T23:45+00:00",
+     "text": "Oscar Piastri admits he is \"not sure what happened\" as the McLaren driver was eliminated in Q2 ahead of the Mexico City Grand Prix."
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/lewis-hamilton-on-pole-f1-mexico-city-gp-oscar-piastri-13th/106998724",
+     "title": "Hamilton takes F1 pole in Mexico, Piastri down in 13th",
+     "lang": "en",
+     "extra": {},
+     "id": "b7dc8191528b3129",
+     "published": "2026-10-31T23:23+00:00",
+     "text": "Lewis Hamilton turns back the clock by taking pole for the F1 Mexico City Grand Prix, while Australian Oscar Piastri's disastrous day sees him miss out on the top 10."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss",
+     "title": "F1: Hamilton takes first Ferrari pole; Antonelli starts fourth in Mexico",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae6cec5-1793511109_419543-1793511897.jpg?resize=1200%2C630&quality=80"
+     },
+     "id": "ae0f47cb2a195056",
+     "published": "2026-11-01T08:53+00:00",
+     "text": "Lewis Hamilton has taken his first pole position for Ferrari at the Mexico City Grand Prix with Mercedes’s Kimi Antonelli fourth on the grid for a ground-breaking race likely to make the 20-year-old Formula One’s youngest champion.\nAntonelli needs only a ninth-place finish at the Autodromo Hermanos Rodriguez on Sunday to become Italy’s first champion since 1953. He was fifth fastest in qualifying, admitting he felt tense, but will move up a place due to Red Bull’s Max Verstappen, in fourth, taking a grid drop.\nRecommended Stories\nlist of 4 items- list 1 of 4Formula One champion Lando Norris extends McLaren contract until 2030\n- list 2 of 4Mercedes no longer have the fastest car in F1, says leader Antonelli\n- list 3 of 4‘Simply lovely’: Verstappen extends with F1 Red Bull Racing until 2030\n- list 4 of 4Formula One plans return to V8 engines as electrical revolution loses spark\nThe pole, in a time of one minute 16.514 seconds, was a record-extending 105th of Hamilton’s stellar career. While he has had two sprint poles since he joined Ferrari last year, he has not had one at a regular grand prix since Hungary in July 2023 when he was at Mercedes – a wait of 1,197 days.\n“Thank you so much. It has been such a long time coming,” Hamilton said over the team radio on Saturday. “Mega job, guys. I am so grateful for the hard work you guys put in.”\nHamilton becomes oldest pole-sitter since 1982\nThe pole also made the seven-time world champion at the age of 41 the oldest pole-sitter since American Mario Andretti, at 42, at Monza in Italy in 1982.\nGermany’s Michael Schumacher, who retired from Mercedes in 2012 and won five titles with Ferrari from 2000 to 2004, had his first pole for Ferrari at the 1996 San Marino Grand Prix.\n“It feels great to be able to reward them with a pole, and to have your first Ferrari pole, I mean, it just takes me back to watching Michael get all those pole positions when he was at Ferrari and all those wins. So it’s very, very special,” Hamilton said.\nMercedes’s George Russell, Antonelli’s closest rival but 123 points behind his teammate with only 100 to be won after this weekend, was second fastest – just 0.009 adrift after taking provisional pole only for Hamilton to beat his time. Ferrari’s Charles Leclerc was third and 0.119 off the pace.\nBoth Hamilton and Russell would have to win if either of the remaining contenders is to keep Antonelli waiting another week for the inevitable.\n“I struggled to get a good feeling from the tyres in Q3. I just didn’t have the most confidence. I was a bit tense, I am not going to lie,” the Italian said. “It was a poor lap, too many mistakes.\n“It has not been the easiest weekend. There is talk of what is there, and I am not as relaxed.”\nMcLaren’s Lando Norris, the reigning champion and last year’s winner in Mexico, qualified sixth with Red Bull’s Isack Hadjar seventh.\nRacing Bulls’ Liam Lawson qualified eighth fastest but had a one-place grid drop for a clash with Verstappen in Friday’s practice.\nThe New Zealander was then disqualified from the session for a technical breach and sent to the back of the grid. Teammate Arvid Lindblad will start eighth, Alpine’s Pierre Gasly ninth and Audi’s Nico Hulkenberg 10th.\n“I went to see Max this morning to apologise because what happened doesn’t need to happen and I don’t want it to happen in future,” Lawson said.\nPiastri fails to make top 10\nAntonelli was only seventh in the second phase with Norris the fastest and teammate Oscar Piastri knocked ou"
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://gulfnews.com/sport/hamilton-reflects-on-schumacher-memories-after-ferrari-pole-in-mexico-1.500731587",
+     "title": "Hamilton reflects on Schumacher memories after Ferrari pole in Mexico",
+     "lang": "en",
+     "extra": {},
+     "id": "265741ff5ecb3914",
+     "published": "2026-11-01T09:35+00:00",
+     "text": ""
+    }
+   ]
+  },
+  {
    "id": "cc13bbc17e0",
    "kind": "news",
-   "score": 18.0,
+   "score": 17.0,
    "sensitive": false,
    "distinct_sites": 5,
    "title_hint": "Golden State Valkyries defeat Atlanta Dream for franchise’s first WNBA title",
@@ -793,183 +946,6 @@
      "id": "342ffb8fe2c55dcc",
      "published": "2026-11-01T03:49+00:00",
      "text": "- How did the Golden State Valkyries make history, fast-track to WNBA title in 2 years? The New York Times\n- Golden State Valkyries top Atlanta Dream in Game 7 to secure first WNBA title ESPN\n- Angel Reese, Atlanta Dream fall short in Game 7 as Golden State Valkyries win first WNBA championship Fox News\n- Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7 AP News\n- LIVE: Valkyries Make History as Champs in 2nd Year Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "id": "cb7dc819152",
-   "kind": "news",
-   "score": 17.5,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/not-sure-what-happened-piastri-reflects-on-bizarre-q2-exit-in-mexico-city-gp-qualifying.7FPexiMg5O7poV0hFEoCxe",
-     "title": "Piastri reflects on 'bizarre' Q2 exit in Mexico",
-     "lang": "en",
-     "extra": {},
-     "id": "c403f398605d210e",
-     "published": "2026-10-31T23:45+00:00",
-     "text": "Oscar Piastri admits he is \"not sure what happened\" as the McLaren driver was eliminated in Q2 ahead of the Mexico City Grand Prix."
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/lewis-hamilton-on-pole-f1-mexico-city-gp-oscar-piastri-13th/106998724",
-     "title": "Hamilton takes F1 pole in Mexico, Piastri down in 13th",
-     "lang": "en",
-     "extra": {},
-     "id": "b7dc8191528b3129",
-     "published": "2026-10-31T23:23+00:00",
-     "text": "Lewis Hamilton turns back the clock by taking pole for the F1 Mexico City Grand Prix, while Australian Oscar Piastri's disastrous day sees him miss out on the top 10."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/sports/2026/11/1/f1-hamilton-takes-first-ferrari-pole-antonelli-starts-fourth-in-mexico?traffic_source=rss",
-     "title": "F1: Hamilton takes first Ferrari pole; Antonelli starts fourth in Mexico",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae6cec5-1793511109_419543-1793511897.jpg?resize=1200%2C630&quality=80"
-     },
-     "id": "ae0f47cb2a195056",
-     "published": "2026-11-01T08:53+00:00",
-     "text": "Lewis Hamilton has taken his first pole position for Ferrari at the Mexico City Grand Prix with Mercedes’s Kimi Antonelli fourth on the grid for a ground-breaking race likely to make the 20-year-old Formula One’s youngest champion.\nAntonelli needs only a ninth-place finish at the Autodromo Hermanos Rodriguez on Sunday to become Italy’s first champion since 1953. He was fifth fastest in qualifying, admitting he felt tense, but will move up a place due to Red Bull’s Max Verstappen, in fourth, taking a grid drop.\nRecommended Stories\nlist of 4 items- list 1 of 4Formula One champion Lando Norris extends McLaren contract until 2030\n- list 2 of 4Mercedes no longer have the fastest car in F1, says leader Antonelli\n- list 3 of 4‘Simply lovely’: Verstappen extends with F1 Red Bull Racing until 2030\n- list 4 of 4Formula One plans return to V8 engines as electrical revolution loses spark\nThe pole, in a time of one minute 16.514 seconds, was a record-extending 105th of Hamilton’s stellar career. While he has had two sprint poles since he joined Ferrari last year, he has not had one at a regular grand prix since Hungary in July 2023 when he was at Mercedes – a wait of 1,197 days.\n“Thank you so much. It has been such a long time coming,” Hamilton said over the team radio on Saturday. “Mega job, guys. I am so grateful for the hard work you guys put in.”\nHamilton becomes oldest pole-sitter since 1982\nThe pole also made the seven-time world champion at the age of 41 the oldest pole-sitter since American Mario Andretti, at 42, at Monza in Italy in 1982.\nGermany’s Michael Schumacher, who retired from Mercedes in 2012 and won five titles with Ferrari from 2000 to 2004, had his first pole for Ferrari at the 1996 San Marino Grand Prix.\n“It feels great to be able to reward them with a pole, and to have your first Ferrari pole, I mean, it just takes me back to watching Michael get all those pole positions when he was at Ferrari and all those wins. So it’s very, very special,” Hamilton said.\nMercedes’s George Russell, Antonelli’s closest rival but 123 points behind his teammate with only 100 to be won after this weekend, was second fastest – just 0.009 adrift after taking provisional pole only for Hamilton to beat his time. Ferrari’s Charles Leclerc was third and 0.119 off the pace.\nBoth Hamilton and Russell would have to win if either of the remaining contenders is to keep Antonelli waiting another week for the inevitable.\n“I struggled to get a good feeling from the tyres in Q3. I just didn’t have the most confidence. I was a bit tense, I am not going to lie,” the Italian said. “It was a poor lap, too many mistakes.\n“It has not been the easiest weekend. There is talk of what is there, and I am not as relaxed.”\nMcLaren’s Lando Norris, the reigning champion and last year’s winner in Mexico, qualified sixth with Red Bull’s Isack Hadjar seventh.\nRacing Bulls’ Liam Lawson qualified eighth fastest but had a one-place grid drop for a clash with Verstappen in Friday’s practice.\nThe New Zealander was then disqualified from the session for a technical breach and sent to the back of the grid. Teammate Arvid Lindblad will start eighth, Alpine’s Pierre Gasly ninth and Audi’s Nico Hulkenberg 10th.\n“I went to see Max this morning to apologise because what happened doesn’t need to happen and I don’t want it to happen in future,” Lawson said.\nPiastri fails to make top 10\nAntonelli was only seventh in the second phase with Norris the fastest and teammate Oscar Piastri knocked ou"
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/sport/hamilton-reflects-on-schumacher-memories-after-ferrari-pole-in-mexico-1.500731587",
-     "title": "Hamilton reflects on Schumacher memories after Ferrari pole in Mexico",
-     "lang": "en",
-     "extra": {},
-     "id": "265741ff5ecb3914",
-     "published": "2026-11-01T09:35+00:00",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": "ca99c268c18",
-   "kind": "news",
-   "score": 17.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NYT World",
-     "trust": 2,
-     "url": "https://nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
-     "lang": "en",
-     "extra": {},
-     "id": "a99c268c18cb3a6c",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime."
-    },
-    {
-     "source": "Korea Herald",
-     "trust": 2,
-     "url": "https://koreaherald.com/article/10921777",
-     "title": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/01/news-p.v1.20261101.dd63fcfa602a4d7fb13d556e35b55fee_P1.jpg"
-     },
-     "id": "fd70ae0972bf9cf4",
-     "published": "2026-11-01T06:23+00:00",
-     "text": "The threat posed by North Korea online is again in focus, following a record cryptocurrency heist potentially linked to Pyongyang.\nThe US Federal Bureau of Investigation said Saturday that North Korea was responsible for the theft of more than $6 billion in virtual assets from Binance, the world's largest cryptocurrency exchange, on or around Oct. 29.\nThe theft is believed to be the largest single cryptocurrency heist on record.\nThe FBI attributed the operation to TraderTraitor, its name for a North Korean cyber campaign involved in cryptocurrency theft, and said the stolen assets were being converted primarily into ether then laundered through decentralized finance and instant-swap services.\nEther, on the Ethereum blockchain, is the world's second-largest cryptocurrency by market capitalization.\nOn Saturday, US President Donald Trump said Washington was still looking into whether North Korea was behind the attack and that he would raise the issue with Pyongyang if its involvement was confirmed.\n\"We're learning about it. We don't know if it's North Korea — but if it is, we'll talk to North Korea about it,\" Trump told reporters at Mar-a-Lago in Florida.\nThe FBI meanwhile urged cryptocurrency exchanges and other virtual asset service providers to block transactions involving digital wallet addresses linked to the stolen funds.\nActivity traced to North Korean internet protocol addresses has also put South Korea's financial sector on alert.\nSouth Korean financial authorities recently alerted banks, securities firms and cryptocurrency exchanges after about 4.4 million scanning attempts targeting local financial institutions were detected from IP addresses assigned to North Korea beginning at 3 a.m. on Oct. 21.\nNo actual breach linked to those addresses has been confirmed. Authorities, however, said the activity appeared aimed at identifying open network ports or security vulnerabilities that could later be exploited, prompting financial firms to review access logs and strengthen real-time monitoring.\nThe activity also coincided with indications that hackers suspected of links to North Korea were preparing broader attacks against governments and financial institutions.\nSingapore-based cybersecurity firm Cyfirma said on Oct. 22 that it had detected Korean-speaking operators discussing attacks using two critical vulnerabilities in PHP, a widely used server-side programming language.\nThe firm said government agencies, banks and other financial institutions were among the operators' highest-priority targets, with South Korea, the US and Japan among the countries discussed.\nCyfirma also pointed to possible links to the Lazarus Group ecosystem, a North Korean state-linked hacking network known for financial theft and espionage.\nNorth Korea has a long history of targeting South Korean institutions.\nIn 2024, South Korean police said Lazarus and Andariel in 2019 had stolen 342,000 ether, worth about 58 billion won ($43.5 million) at the time, from South Korean cryptocurrency exchange Upbit.\nIn March 2013, a major cyberattack attributed by South Korean authorities to North Korea disrupted the networks of Shinhan Bank, Nonghyup Bank and Jeju Bank, knocking out ATMs, online banking and other services.\nThe emergence of artificial intelligence appears to have further expanded the scale and speed of North Korea's cyber operations.\nMicrosoft Threat Intelligence said in a report released Thursday that three of eight major North Korean threat groups it examine"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5",
-     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist. - The New York Times",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "065dd641f6c3eba6",
-     "published": "2026-10-31T23:05+00:00",
-     "text": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.\nThe New York Times\nSee more headlines & perspectives on Google News"
-    }
-   ]
-  },
-  {
-   "id": "c78b9415399",
-   "kind": "news",
-   "score": 17.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/world/russia-says-drone-hit-industrial-enterprise-near-moscow-kyiv-claims-hit-major-refinery-3009214",
-     "title": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793513777615-4a617f9a6a315336.jpg"
-     },
-     "id": "78b94153992533fd",
-     "published": "2026-11-01T06:17+00:00",
-     "text": "- Drone strikes reported near Moscow and on a major refinery\n- Over 100 drones reportedly involved overnight\nMOSCOW: Russia said Sunday that a drone had struck an “industrial enterprise” east of Moscow overnight, after Ukraine claimed it had hit a major oil refinery.\nGleb Nikitin, governor of Nizhny Novgorod region, reported a “massive drone attack” during the night, during which an “industrial enterprise in the Kstovo district sustained significant damage.”\n“More than 100 drones destroyed,” and “according to preliminary information, there are no casualties,” he added in a statement, without specifying the plant’s activities.\nUkrainian media reported an attack on the Kstovo oil refinery, calling it “one of Russia’s largest oil refineries, producing fuel and lubricants.”\nMoscow said Friday that Ukraine had resumed its strikes on Russian oil refineries after a “pause” of several days.\nSenior Russian official Alexander Novak told a reporter from state TV that Ukraine had resumed attacks on Russian plants, hitting three oil refineries and one gas-chemical complex.\nKyiv has repeatedly struck Russian oil and gas sites in retaliation for Russian attacks on Ukrainian energy infrastructure since Moscow began its offensive there in February 2022.\nUS President Donald Trump had been pressuring Kyiv for weeks to stop such attacks, blaming them for the rising cost of diesel."
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-",
-     "title": "Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://images.euronews.com/articles/stories/09/97/51/55/1200x675_cmsv2_0d798eb6-8273-54e9-813c-571131c771ee-9975155.jpg"
-     },
-     "id": "99494afc9f7e5776",
-     "published": "2026-11-01T07:13+00:00",
-     "text": "Telegram war monitoring channels said an attack had targeted the Kstovo oil refinery - also known as the Lukoil-Nizhegorodnefteorgsintez refinery, thought to be one of Russia's largest such facilities.\nRussian authorities said a major drone attack had targeted an \"industrial enterprise\" in the Nizhny Novgorod Oblast overnight, amid reports that a key oil refinery had been struck in the region.\nIn a post on Telegram, regional governor Gleb Nikitin said a \"massive UAV attack\" had resulted in \"significant damage\" to an industrial facility in the Kstovsky district.\n\"More than 100 drones have been destroyed,\" he wrote, adding that early information suggested there had been no casualties and that emergency crews were working at the scene.\n\"Whilst restoration work is underway, there may be temporary power cuts, as well as reduced hot water and heating supplies in certain sections of the utility networks serving residential buildings,\" Nikitin said.\nTelegram war monitoring channels said an attack had targeted the Kstovo oil refinery - also known as the Lukoil-Nizhegorodnefteorgsintez refinery, thought to be one of Russia's largest such facilities.\nAccording to Lukoil, the site is involved in the production of diesel and aviation fuel, among other things.\nEarlier this week, a major fire reportedly broke out at another oil refinery in Russia's Samara region following a drone attack, with dramatic images and video footage posted on social media showing multiple towering columns of black smoke filling the skyline.\nThat incident followed reports that Ukraine had paused strikes on Russian refineries amid pressure from Washington, which has blamed the attacks on rising global diesel prices as it has sought to shift blame from its war in Iran.\nUkraine had been ramping up attacks on Russian energy infrastructure this year, particularly targeting facilities such as oil refineries, terminals and depots, in a bid to hit a critical Russian economic driver and grind down the Kremlin's war machine.\nThe latest reported attack comes after Ukrainian President Volodymyr Zelenskyy said around 280,000 Ukrainian households had been left without power after Russian strikes on Ukraine on Friday night.\n\"Russian strikes have created a difficult situation with electricity supplies across our regions,\" Zelenskyy wrote in a post on X on Saturday, saying that around 200,000 households in Dnipro and the wider region were without electricity while a further 80,000 or more in the Kyiv region were also without power.\nThe Ukrainian leader said Russian forces had hit a \"combined heat and power plant\" in Kyiv as well as four electrical substations in the eastern Dnipro region, among other targets."
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/3126e0490461",
-     "title": "Ukraine claims strike on major Russian oil refinery near Moscow",
-     "lang": "en",
-     "extra": {},
-     "id": "f818619c54e8ed13",
-     "published": "2026-11-01T07:35+00:00",
-     "text": "Russia reports significant damage to an industrial facility in the Nizhny Novgorod region after a massive overnight drone attack, as Kiev claims it targeted the Kstovo oil refinery."
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/russia-opens-terrorism-case-over-ukraine-oil-refinery-attack/107334242",
-     "title": "Russia opens terrorism case over Ukraine oil refinery attack",
-     "lang": "en",
-     "extra": {},
-     "id": "6799c2d97065f134",
-     "published": "2026-11-01T11:27+00:00",
-     "text": "A facility which Ukraine named \"one of Russia's largest\" oil refineries reportedly sustained \"significant damage\" in the \"massive drone attack\"."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHMzMXk4dHkwMkpoWXI3NUg4ek44akMwX3BHcDRTOXpKcTNJN0htcnp3al9VV1VVLThKdlFya0NnMlNIdnpoMGtMVEVvMzA5RlBiTFNubjVZRmpUMlJNdDhETTBsOS0waEQwNkljYjFrV0Fiam84QkJIZG9XT3VQYVBjTnNnS2JIVng5OWhud1VUODdNREk0X01xeTZBWmZ2WmNJeDFKR0JiRkZJSG1CcExTSEFNTVY2UG5XWGsyNzkzc2xi?oc=5",
-     "title": "Russia reports 'massive' drone attack on 'industrial enterprise'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "fa4a7b162fa30c24",
-     "published": "2026-11-01T07:13+00:00",
-     "text": "- Russia reports 'massive' drone attack on 'industrial enterprise' Euronews.com\n- Another Russian refinery is aflame despite Trump’s warning to Kyiv The Washington Post\n- Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S. WSJ\n- Russian oil refinery in Kstovo ablaze after reported overnight drone strike The Kyiv Independent\n- Oil refinery in Russia's Ufa on fire after drone attack, key unit believed hit – photo, video Українська правда"
     }
    ]
   },
@@ -1192,6 +1168,63 @@
    ]
   },
   {
+   "id": "c09693e37cd",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire",
+     "title": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border",
+     "lang": "en",
+     "extra": {},
+     "id": "09693e37cda0c613",
+     "published": "2026-10-31T14:47+00:00",
+     "text": "Evacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members."
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://arabnews.com/world/evacuees-reunite-with-family-at-the-ukrainian-belarusian-border-after-fleeing-oleshky-3009170",
+     "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
+     "lang": "en",
+     "extra": {},
+     "id": "9302b2eb03b3c702",
+     "published": "2026-10-31T21:55+00:00",
+     "text": "CHERNIHIV REGION, Ukraine: Residents of Russian-occupied Oleshky crossed into Ukrainian-held territory Saturday in a major evacuation operation carried out under the most significant truce since Russia’s full-scale invasion of Ukraine 4½ years ago. Evacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members. Volunteers with hand-drawn welcome signs handed out coffee to the weary travelers who had journeyed by bus and p"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss",
+     "title": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-31T140709Z_1238804728_RC2CEOAYV9CW_RTRMADP_3_UKRAINE-CRISIS-OLESHKY-1793500282.jpg?resize=1920%2C1440"
+     },
+     "id": "0c00ac5fd56edec9",
+     "published": "2026-11-01T03:37+00:00",
+     "text": "Starved and exhausted residents of the Russian-occupied Ukrainian town of Oleshky have crossed into Ukraine in a major evacuation operation of civilians, under the first humanitarian truce of its kind in more than four years of Moscow’s war.\nThe six-day ceasefire covering the town was reached with mediation efforts by US First Lady Melania Trump and help from Pope Leo XIV. It is the longest local pause in fighting since Russia’s full-scale invasion of its neighbour in 2022.\nRecommended Stories\nlist of 3 items- list 1 of 3Ukraine invests in firepower as it inflicts a new Russian casualty record\n- list 2 of 3US greenlights $2.1bn Patriot missile sale to Ukraine\n- list 3 of 3Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks\n“Ukrainian citizens from Oleshky have crossed the Ukrainian border in the Chernihiv region. All of them will receive the assistance they need,” Ukrainian President Volodymyr Zelenskyy wrote on X, thanking the United States and the first lady for mediating.\n“Further steps toward de-escalation and real progress toward peace are also needed,” he added.\nEvacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members.\nUkrainian officials met the evacuees with posters reading “You’re not alone” and “We embrace with our hearts”, while residents from nearby villages lined the highway waving flags and flashlights to greet them.\nForced to eat grass\nSupply routes to Oleshky had been disrupted by fighting and drones. According to some residents, food deliveries were stopped in May, pushing hundreds of people into starvation.\nOne evacuee, an elderly man in a wheelchair, told the Reuters news agency that he had lost 20kg (44lbs) over the past year, becoming so weak he required hospital treatment.\nAnother evacuee, Svitlana Yermakova, told Reuters they had to eat grass to survive.\n“We chopped grass and squash… just to hold on,” she said, adding that she risked riding by bicycle through minefields to a nearby village to get food for herself and her dog.\nTo reach Ukrainian-held territory, Oleshky residents had to take a complicated route to leave the devastated town just a few kilometres from the front line.\nThey first crossed Crimea by bus to the Russian town of Anapa before flying to Belarus, from where they crossed into Ukraine.\nAmbulances lined the street, and several large military tents were erected, where hot meals, tea and medical aid were provided.\nRussian and Ukrainian officials say the ceasefire in Oleshky has held since Tuesday, allowing them to de-mine the roads and bring food, medicines and other supplies into the town again.\nThe truce is due to end on Sunday evening.\nSome stay behind\nSome residents have decided to remain in Oleshky, despite the ongoing lack of gas, electricity and running water.\nRussian Human Rights Commissioner Yana Lantratova said living conditions in the occupied Oleshky remained difficult, pledging she would continue to work with her Ukrainian counterpart, Dmytro Lubinets, to help those who stayed.\n“The mission has come to an end,” she said on Telegram. “We have agreed to carry out regular humanitarian missions, which is a very important step.”\nOleshky had a pre-war population of about 24,000, which plunged to an estimated 1,700 before the evacuation.\nUkrainian officials have not said exactly how many residents were evacuated or how many remained.\nDespite the ceasefire in Oleshky, fighting rages on in other par"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/tv/news/ukraine-russia-oleshky-evactuation-family-video-b3077065.html",
+     "title": "Tearful family reunion as starving Ukrainians escape Russian-occupied Oleshky",
+     "lang": "en",
+     "extra": {},
+     "id": "2cfc285a625cb01b",
+     "published": "2026-11-01T12:08+00:00",
+     "text": "A tearful daughter embraced her father as the family reunited following his evacuation from Oleshky."
+    }
+   ]
+  },
+  {
    "id": "c8703aea988",
    "kind": "news",
    "score": 16.0,
@@ -1352,6 +1385,54 @@
      "id": "ab6170c4a02c8c83",
      "published": "2026-11-01T08:18+00:00",
      "text": "New York Mayor Zohran Mamdani says after a phone call with United States President Donald Trump that the mother of a 15-year-old Ghanaian boy who was shot dead in the Bronx will be granted a visa.\nMamdani wrote in a post on X on Saturday that he had spoken with Trump about Javits Frimpong, whose mother is seeking to travel to New York to say goodbye to her son.\nRecommended Stories\nlist of 3 items- list 1 of 3Zohran Mamdani elected as New York City mayor in historic win\n- list 2 of 3New York mayor Mamdani sues to block $10,000 teaching aide bonuses\n- list 3 of 3The murder of Javits Frimpong, a bullied schoolboy in The Bronx\nThe US president “has agreed to grant her visa immediately”, the mayor wrote.\n“The murder of a child is a pain no parent should have to endure, let alone from thousands of miles away,” he wrote.\nThere was no immediate comment from Trump.\nCCTV footage that captured the last moments of Frimpong’s life showed him being chased by three other teens on Thursday morning as he was on his way to school. He was shot in his abdomen and died the same day in hospital. Thousands of people attended vigils held for the teenager across the city.\nThe 15-year-old had told his father he was bullied at school. Thomas Frimpong, Javits’s father, called on the police to help him “find justice for my son”. Police have said they are investigating, but no arrests have been made yet.\nJavits’s parents moved him to the US a year ago in the hopes of providing him a better life. Congressman Richie Torres, who represents the Bronx, wrote on social media that “our entire borough is mourning a young man who should have had his whole future ahead of him.”\nGhanaian Foreign Minister Sam Okudzeto Ablakwa stated on social media that Ghanaian officials are “coordinating with local authorities” and helping Javits’s mother with her visa application. Visa applications from a number of African countries have been severely limited under the Trump administration."
+    }
+   ]
+  },
+  {
+   "id": "ca99c268c18",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NYT World",
+     "trust": 2,
+     "url": "https://nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+     "lang": "en",
+     "extra": {},
+     "id": "a99c268c18cb3a6c",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "This week’s $6.3 billion hack of Binance is the largest to hit crypto, and would be the most that North Koreans have stolen in years of brazen cybercrime."
+    },
+    {
+     "source": "Korea Herald",
+     "trust": 2,
+     "url": "https://koreaherald.com/article/10921777",
+     "title": "North Korean cyberterrorism gains renewed scrutiny after record Binance heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/01/news-p.v1.20261101.dd63fcfa602a4d7fb13d556e35b55fee_P1.jpg"
+     },
+     "id": "fd70ae0972bf9cf4",
+     "published": "2026-11-01T06:23+00:00",
+     "text": "The threat posed by North Korea online is again in focus, following a record cryptocurrency heist potentially linked to Pyongyang.\nThe US Federal Bureau of Investigation said Saturday that North Korea was responsible for the theft of more than $6 billion in virtual assets from Binance, the world's largest cryptocurrency exchange, on or around Oct. 29.\nThe theft is believed to be the largest single cryptocurrency heist on record.\nThe FBI attributed the operation to TraderTraitor, its name for a North Korean cyber campaign involved in cryptocurrency theft, and said the stolen assets were being converted primarily into ether then laundered through decentralized finance and instant-swap services.\nEther, on the Ethereum blockchain, is the world's second-largest cryptocurrency by market capitalization.\nOn Saturday, US President Donald Trump said Washington was still looking into whether North Korea was behind the attack and that he would raise the issue with Pyongyang if its involvement was confirmed.\n\"We're learning about it. We don't know if it's North Korea — but if it is, we'll talk to North Korea about it,\" Trump told reporters at Mar-a-Lago in Florida.\nThe FBI meanwhile urged cryptocurrency exchanges and other virtual asset service providers to block transactions involving digital wallet addresses linked to the stolen funds.\nActivity traced to North Korean internet protocol addresses has also put South Korea's financial sector on alert.\nSouth Korean financial authorities recently alerted banks, securities firms and cryptocurrency exchanges after about 4.4 million scanning attempts targeting local financial institutions were detected from IP addresses assigned to North Korea beginning at 3 a.m. on Oct. 21.\nNo actual breach linked to those addresses has been confirmed. Authorities, however, said the activity appeared aimed at identifying open network ports or security vulnerabilities that could later be exploited, prompting financial firms to review access logs and strengthen real-time monitoring.\nThe activity also coincided with indications that hackers suspected of links to North Korea were preparing broader attacks against governments and financial institutions.\nSingapore-based cybersecurity firm Cyfirma said on Oct. 22 that it had detected Korean-speaking operators discussing attacks using two critical vulnerabilities in PHP, a widely used server-side programming language.\nThe firm said government agencies, banks and other financial institutions were among the operators' highest-priority targets, with South Korea, the US and Japan among the countries discussed.\nCyfirma also pointed to possible links to the Lazarus Group ecosystem, a North Korean state-linked hacking network known for financial theft and espionage.\nNorth Korea has a long history of targeting South Korean institutions.\nIn 2024, South Korean police said Lazarus and Andariel in 2019 had stolen 342,000 ether, worth about 58 billion won ($43.5 million) at the time, from South Korean cryptocurrency exchange Upbit.\nIn March 2013, a major cyberattack attributed by South Korean authorities to North Korea disrupted the networks of Shinhan Bank, Nonghyup Bank and Jeju Bank, knocking out ATMs, online banking and other services.\nThe emergence of artificial intelligence appears to have further expanded the scale and speed of North Korea's cyber operations.\nMicrosoft Threat Intelligence said in a report released Thursday that three of eight major North Korean threat groups it examine"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5",
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist. - The New York Times",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "065dd641f6c3eba6",
+     "published": "2026-10-31T23:05+00:00",
+     "text": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.\nThe New York Times\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -1614,14 +1695,25 @@
    ]
   },
   {
-   "id": "c5c3c4a999e",
+   "id": "ca6f59bb012",
    "kind": "news",
    "score": 15.0,
    "sensitive": true,
    "distinct_sites": 5,
-   "title_hint": "Virginia and D.C. sue to stop proposed Trump arch",
+   "title_hint": "DC, Virginia Sue to Block Trump’s 250-Foot Arch After Judge Questions Plan",
    "official_image": null,
    "sources": [
+    {
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGxnTXJYWHd5SjUxRVkzeVdkLVJCa2VLMWdNbWNwQjN4Q2kyQ2J1MGVhZ3hHQkJFT0EyaDZsemJwTEQ5XzF4bDl0LUxBVzAzb3VlY2FQTXJUaV9TSlRibi03U2ZLWlltMlNYY2ZsMTN6eFhrQXZFb25IM3JzQ3dLRlV0TjN6cXYz?oc=5",
+     "title": "DC, Virginia Sue to Block Trump’s 250-Foot Arch After Judge Questions Plan",
+     "lang": "en",
+     "extra": {},
+     "id": "a6f59bb0125e0c5d",
+     "published": "2026-10-31T14:38+00:00",
+     "text": "DC, Virginia Sue to Block Trump’s 250-Foot Arch After Judge Questions Plan\nNewsweek"
+    },
     {
      "source": "NBC News",
      "trust": 2,
@@ -1665,17 +1757,6 @@
      "id": "343d0098dbae0723",
      "published": "2026-10-31T18:29+00:00",
      "text": "There are now three lawsuits calling for a halt to potential work on a monument that would rise 250 feet on a patch of grass off the bridge that spans the Potomac River, connecting the city with Arlington National Cemetery."
-    },
-    {
-     "source": "ABC News",
-     "trust": 2,
-     "url": "https://abcnews.com/Politics/dc-virginia-file-suit-block-construction-trumps-proposed/story?id=137739420",
-     "title": "DC, Virginia file suit to block construction on Trump's proposed arch",
-     "lang": "en",
-     "extra": {},
-     "id": "4ce76ed343cf59e0",
-     "published": "2026-10-31T22:20+00:00",
-     "text": "Washington D.C. and Virginia are asking a judge to block the president's Triumphal Arch."
     }
    ]
   },
@@ -2068,6 +2149,197 @@
    ]
   },
   {
+   "id": "ca83f824e05",
+   "kind": "news",
+   "score": 14.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Geoff Hurst Goal 78' | England vs Argentina | 1966 FIFA World Cup England™",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "FIFA",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WWGtNQmhhZGdhWHh2OHhwd2J4UUN4X0ZuaXFoVnAzbk1WSzVVOHE0SE5xVDZZZWJiV1g1Z3NfSVZoN0gzUF9teVlPMS1sQU01QUV1aFJIMWY4MV9YRkd0Y0tKelFHODNucHJmRjg2OTFDT0steGc?oc=5",
+     "title": "Geoff Hurst Goal 78' | England vs Argentina | 1966 FIFA World Cup England™",
+     "lang": "en",
+     "extra": {},
+     "id": "a83f824e05387c71",
+     "published": "2026-11-01T11:41+00:00",
+     "text": "Geoff Hurst Goal 78' | England vs Argentina | 1966 FIFA World Cup England™\nFIFA"
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/rugby-league/news/12040/13606600/rugby-league-world-cup-englands-elimination-confirmed-after-tonga-beat-samoa-in-the-final-group-match",
+     "title": "England out of World Cup after Tonga edge out Samoa",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-tonga-rugby-league_7393725.jpg?20261101113246"
+     },
+     "id": "4b21f39d11632fd0",
+     "published": "2026-11-01T11:45+00:00",
+     "text": "Rugby League World Cup: England's elimination confirmed after Tonga beat Samoa in the final group match\nEngland suffer historic group-stage exit at the Rugby League World Cup with Tonga unable to defeat Samoa by more than 46 points; Tonga will play New Zealand in the last four, while Samoa will face Australia in a repeat of the 2022 final\nSunday 1 November 2026 12:00, UK\nEngland's elimination from the World Cup was confirmed after Tonga beat Samoa 20-18 in the final group match.\nEngland sealed a 34-12 victory against Papua New Guinea on Friday but needed to win by a big margin to give themselves a chance of leapfrogging Samoa in Pool B and C and advancing to the semi-finals on points difference.\nBrian McDermott's side's hopes rested on Tonga to win by more than 46 points to reach the last four for the seventh successive tournament.\n- Rugby League World Cup: Latest schedule, results, standings\n- Latest Rugby League World Cup headlines and reports\n- Get the latest Sky Sports deals or stream with no contract\nInstead they are on the plane home from Australasia despite winning two of their three matches.\nThe 30-12 defeat by Tonga in the opening match proved costly, with an 82-0 win over France leaving England with 68 points to make up on Samoa.\nThey failed to make significant enough inroads in the 32-10 win over Papua New Guinea.\nEnglish hopes briefly flickered when Tonga led 8-0, Robert Toia scoring the opening try after a near 50-metre sprint.\nWith Isaiya Katoa converting and then kicking a penalty, England just needed Tonga to score another 39 unanswered points to stay in the tournament.\nHowever, Brian To'o's try hauled Samoa back to 8-4 down at half-time.\nJojo Fifita put Tonga 14-4 ahead before To'o, Hamiso Tabuai-Fidow and Ronald Volkman edged Samoa into a two-point lead, only for Addin Fonua-Blake to win it for Tonga.\nTonga will play New Zealand in the last four, while Samoa will face Australia in a repeat of the 2022 final.\nIs the Rugby League World Cup format flawed?\nThe new tournament structure, which has been downsized from 16 teams to 10, came after Australia stepped in as hosts following France's withdrawal in 2023 for financial reasons.\nIt has effectively meant that each group game in Pool B and C has carried more jeopardy than before.\nThe tournament has two pools, one featuring four teams - Australia, New Zealand, Cook Islands and Fiji - and the other featuring six teams.\nEngland were drawn in the second group, Pool B and C, alongside Tonga, Samoa, Papua New Guinea, Lebanon and France.\nThe top two teams from each group qualify for the knockout rounds, and in the event of a tie, teams are judged on their head-to-head record before points difference.\nMcDermott's side were beaten in their first match against Tonga which put their hopes of qualifying in the balance, despite later thrashing France by 82 points in round two.\nSky Sports' Jon Wilkin said: \"Australia have done a great job to organise a tournament in such a short space of time, but it was fundamentally flawed, unfair in the extreme to the start.\n\"The actual competition structure is just diabolical. England were dealt an incredibly difficult task, because they essentially played their quarter-final in week one.\"\n\"England knew after their loss against Tonga that it was all going to be about points difference, and [qualifying] was going to be incredibly difficult,\" Wilkin said. \"I think the structure and the setup of the competition was done in short notice.\n\"I think the In"
+    }
+   ]
+  },
+  {
+   "id": "cecbf96a11c",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Supreme leader Khamenei warns of 'geographically unrestricted' response to US, Israel strikes on Iran",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFMxLXY1ZDQ5Rk1wSXMyUXFqdGFzT1JOZHlLMVhNcFdSSW05aHNnbUhnb3VhcDRjQVd1OWtJTzliVjdsa0hKQ254WDJTTWRjRDdQSTIwQ213R1B2Um8xbE5NYnY1YlRsM2hpcHRnSV9MX3VoaUtrcDdIMUpuRU5LS3dTQjY3UzZoZmh0UkJzZ09WUVF2VE5nVzI0OGE4X0d0bVlHSU1STmhBM0RaNU5TOEcwcFFSTHV3ZUUxNWtIWGVWcUxPbzMtcG1EOVJVNTMtYWNuOWVSWDZZWEU?oc=5",
+     "title": "Supreme leader Khamenei warns of 'geographically unrestricted' response to US, Israel strikes on Iran",
+     "lang": "en",
+     "extra": {},
+     "id": "ecbf96a11c37c49c",
+     "published": "2026-10-31T10:07+00:00",
+     "text": "Supreme leader Khamenei warns of 'geographically unrestricted' response to US, Israel strikes on Iran\nArab News"
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ReGJkaUtwNXNOUW5QY1Q0ei13NkFZUjc5QUdNeG1wVmZwSmF3NFo4dy1yTlFIMkJ2SzA3aFNOWUpCczVIYWZ2QWcxTVVvTlBGaW1mZFRPZEQ?oc=5",
+     "title": "Iran’s Khamenei orders “geographically unrestricted” response to any attack",
+     "lang": "en",
+     "extra": {},
+     "id": "839a4134e546f7ad",
+     "published": "2026-10-31T11:25+00:00",
+     "text": "Iran’s Khamenei orders “geographically unrestricted” response to any attack\nTRT World"
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5335937",
+     "title": "Iran Supreme Leader Warns of 'Geographically Unrestricted Response' to Any Attack",
+     "lang": "en",
+     "extra": {},
+     "id": "c3a179b4c5ed4c3a",
+     "published": "2026-10-31T11:40+00:00",
+     "text": ""
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9WMXdsM0x3RGN5MlpPT1Y4eG1Ya1JYMGxMTWg0ZHBiTEdnbGV6bUFkYjlLOGVDVHFOU1ZnTXpmVDQ3Q1VlMmFwbmZua3VGX2NabzVKc2M5eHE?oc=5",
+     "title": "Iran supreme leader warns of 'geographically unrestricted response' to any attack - Region - World",
+     "lang": "en",
+     "extra": {},
+     "id": "7e645f97a1a7f462",
+     "published": "2026-10-31T13:20+00:00",
+     "text": "Iran supreme leader warns of 'geographically unrestricted response' to any attack - Region - World\nAhram Online"
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/10/31/irans-supreme-leader-maximum-response-us-attack",
+     "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+     "lang": "en",
+     "extra": {},
+     "id": "412efd5a750818d3",
+     "published": "2026-10-31T14:27+00:00",
+     "text": "Iran's Supreme Leader Mojtaba Khamenei told the country's top three military commanders that a renewed attack by the U.S. and Israel ״must be met with an immediate and effective response, without geographical limitations״ in order to achieve \"maximum deterrence,\" according to a statement from his office.\nWhy it matters: This is the first publicly disclosed meeting between Khamenei and all the top commanders of Iran's armed forces since the war began. It comes as President Trump weighs major strikes on Iran after the midterm elections.\n- Khamenei hasn't been seen or heard in public since he was wounded in an Israeli strike on the first day of the war. He has only issued written statements, which raised questions about his condition.\n- The unusual apparent meeting took place a day after Qatari mediators held talks in Tehran for more than 12 hours in an effort to reach a deal to restart direct negotiations between the U.S. and Iran and avoid an outbreak of war after the midterms.\n- The discussions continued in Doha, Qatar, on Saturday.\nWhat he's saying: \"If the enemies once again launch military or terrorist attacks, it will be the Islamic Republic of Iran's Armed Forces and the Iranian nation that determine when and under what conditions those hostilities will end,\" Khamenei told the commanders, according to the statement.\nZoom in: According to the statement, the meeting included armed forces chief of staff Gen. Ali Abdollahi, army commander Maj. Gen. Amir Hatami and Islamic Revolutionary Guard Corps commander Maj. Gen. Ahmad Vahidi.\n- The commanders briefed Khamenei on the state of military readiness along the Gulf coastline and around the Strait of Hormuz, the Gulf of Oman, and Iran's northwestern and southeastern borders.\n- They also reported \"a several-fold increase\" in production of various types of ammunition and reconnaissance, support, and combat weapons.\n- Khamenei instructed the commanders that the \"target bank\" must be updated \"so that all types of the American-Zionist enemy's material and non-material assets fall within the reach of the Armed Forces.\"\n- Khamenei praised \"the intelligent steadfastness\" of Iran's proxies across the region and stressed \"the unity of the different arenas\" as a \"decisive and strategic\" element for Iran.\nReality check: Iranian Foreign Minister Abbas Araghchi told Al Jazeera that senior-level officials have discussed a proposal from Vice President Vance and called the U.S. effort to open talks a \"positive step.\"\n- But he made a strict set of demands for an agreement: lifting sanctions, reducing the U.S. military presence in the region and recognizing a Strait of Hormuz shipping route agreed to with Oman.\n- Araghchi also told Al Jazeera that reopening the strait on Iran's terms could pave the way for direct negotiations. Iran is examining mediators' proposals to address its nuclear program, a bottom-line issue for the U.S."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
+     "title": "Iran’s supreme leader warns of 'geographically unrestricted response' if US attacks again",
+     "lang": "en",
+     "extra": {},
+     "id": "811682106cd90be8",
+     "published": "2026-11-01T12:10+00:00",
+     "text": "Iranian officials have nevertheless noted positive steps in mediated negotiations with the US, which is gearing up for key midterm elections next week."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb1VGSDQ2Z3J1azZ5ZUo3VmVwTFVMazNBaTQ3ZTdEampxR3ViT1gtYldsdExfOUpyRk1SSHRLZUc2c1FsMnlrMlU2UG90bGFBSEprUFVybjBBZ2Vtei1ibThNZDBxM0pnTVQtNjRCcGh5ekZUeGdYREZQS25hRWNwWTBPRdIBiAFBVV95cUxNU3NVZlR5eGhyajJMd2tpLVBIeldhdE5lR2V5dlFVR1NuMmN4dUpLbnhxZll3b3RSbGVybUtpMkFIOUhvQi00bzdOZG1Zdk1vVFBmalRoUWUwMVRxYmtnVThsTVVESUdjUkdCNTJyNFFHOW9BdFZwcXJqMG15OUk2aWtFZVJtN0Rs?oc=5",
+     "title": "Iran’s Supreme Leader threatens US with response if strikes are launched after midterms - The Hill",
+     "lang": "en",
+     "extra": {},
+     "id": "86f3f1b522d70b95",
+     "published": "2026-10-31T16:51+00:00",
+     "text": "- Iran’s Supreme Leader threatens US with response if strikes are launched after midterms The Hill\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News\n- Live - Doha talks continue, Trump undecided on new Iran strikes Iran International\n- Iran warns of unfettered retaliation if attacked as mediators try for peace Al Jazeera"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcklRbXFqZnZtWHlsU2NLNVdnY2l5ZXlHQzZtYmFiMWFWOWlPbzFVME1YU092WjV5RjlRLWdzanVfOG1nbUpsUWxuT1hLeGRLZ0dQZmlOOGNveklydEdmWkVzRE82eDdpQ2VzRUhYZmFHSjNmWm5VV3hzaEZ5VkxlWGE0dEt0aW8?oc=5",
+     "title": "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "e38548148123a6bb",
+     "published": "2026-11-01T02:08+00:00",
+     "text": "- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Iran war live: ‘Killing ground’ awaits invading foreign forces, says Tehran Al Jazeera\n- Iran army: Potential war could be 'longer than previous conflict,' Trump won't dictate its duration The Times of Israel\n- Live Updates: Trump suggests more attacks on Iran after Ayatollah warns against resuming war CBS News\n- Iran army: Any new war with US could be ‘longer than previous conflict’ Inquirer.net"
+    }
+   ]
+  },
+  {
+   "id": "cdee63ca0aa",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Time",
+     "trust": 2,
+     "url": "https://time.com/article/2026/10/31/d-c-and-virginia-join-the-fight-to-block-trump-s-triumphal-arch-what-happens-next-",
+     "title": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
+     "lang": "en",
+     "extra": {},
+     "id": "dee63ca0aa26de52",
+     "published": "2026-10-31T19:28+00:00",
+     "text": "The site of U.S. President Donald Trump's planned triumphal arch is seen from the top of the Washington Monument in Washington, D.C., on Oct. 22, 2026."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+     "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+     "lang": "en",
+     "extra": {},
+     "id": "dccd165d651884b4",
+     "published": "2026-10-31T20:30+00:00",
+     "text": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views."
+    },
+    {
+     "source": "ABC News",
+     "trust": 2,
+     "url": "https://abcnews.com/Politics/dc-virginia-file-suit-block-construction-trumps-proposed/story?id=137739420",
+     "title": "DC, Virginia file suit to block construction on Trump's proposed arch",
+     "lang": "en",
+     "extra": {},
+     "id": "4ce76ed343cf59e0",
+     "published": "2026-10-31T22:20+00:00",
+     "text": "Washington D.C. and Virginia are asking a judge to block the president's Triumphal Arch."
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+     "title": "Virginia and D.C. sue to block construction of Trump arch",
+     "lang": "en",
+     "extra": {},
+     "id": "c93469999caafa2d",
+     "published": "2026-10-31T22:48+00:00",
+     "text": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.\n(Image credit: Jen Golbeck)"
+    }
+   ]
+  },
+  {
    "id": "ce07dacdb45",
    "kind": "news",
    "score": 14.0,
@@ -2232,6 +2504,76 @@
      "id": "4a57959617dd25b8",
      "published": "2026-11-01T07:28+00:00",
      "text": "تزايدت في السنوات الأخيرة الحوادث والمخاوف المتعلقة بـ\"الحديث جنسياً\" مع روبوتات\nالدردشة، حيث تحولت هذه الظاهرة من مجرد تسلية تكنولوجية إلى قضايا أثارت جدلاً واسعاً حول الخصوصية، والأخلاق، والصحة النفسية.\nوفضلاً عن تعرض بعض المنصات لعمليات اختراق أدت إلى تسريب محادثات\nجنسية وصور حساسة تخص المستخدمين، مما عرضهم لخطر الابتزاز، فإن إفلاس بعض الشركات وبيعها لأخرى، قد يتيح الاستيلاء على بيانات خاصة لملايين المستخدمين.\nاظهار أخبار متعلقة\nوفي تحقيق لشبكة \"\nبي بي سي\"، فإن انهيار شركة \"كاراكتر.أيه آي\" الناشئة في مجال\nالذكاء الاصطناعي، كشف عن خطر نادراً ما تتم مناقشته فيما يتعلق بمستخدمي الذكاء الاصطناعي، وهو أن الشركات التي تحتفظ بأسرار العملاء قد لا تبقى موجودة إلى الأبد.\nواستشهد تقرير الشبكة بحادثة تعرضت لها إحدى الفتيات بعدما أنشأت حساباً على منصة شركة \"كاراكتر.أيه آي\"، حيث حاورها روبوت المحادثة على أنه فتاة اسمها \"جيسيكا\" وأن والديها ليسا في المنزل، وعرض عليها تبادل رسائل ذات طابع جنسي، قبل أن ترد المشتركة بـ\"لا\".\nوأوضح التقرير أن هذه الفتاة رفضت عرض الروبوت \"جيسيكا\"، لكن في المقابل هناك عشرات الملايين من الأشخاص الآخرين، ومن بينهم أطفال، أقاموا فعلاً علاقات مع روبوتات الدردشة التابعة للشركة التي أفلست.\nوقالت إن بعض هذه الروبوتات تدّعي أنها تعمل في المحاماة والطب النفسي ولديها التراخيص، ولكن شركة الذكاء الاصطناعي هذه تُعلن اليوم إفلاسها، وبالتالي فإن بيانات المستخدمين ورسائلهم وأسرارهم معروضة للبيع.\nيؤكد الخبراء أن مخاطر الخصوصية يجب أن تُقلقك حتى لو لم تستخدم روبوتات \"كاراكتر.أيه آي\" من قبل، لأنهم يخشون أن تكون دليلاً على أزمة أوسع نطاقاً تلوح في الأفق.\nومع هذا فإن بعض الخطوات البسيطة يمكن أن تساعد في حماية الخصوصية، وهنا تكمن المشكلة، إذ يعتقد العديد من المحللين أن الكثيرين يعيشون في \"فقاعة الذكاء الاصطناعي\"، نظراً لأن بناء وتشغيل أدوات الذكاء الاصطناعي مكلف للغاية لدرجة أن بعض الشركات قد لا تحقق أرباحاً أبداً.\nوالخطر يكمن في أنه إذا ما انفجرت هذه الفقاعة، فإن عدداً هائلاً من شركات الذكاء الاصطناعي سيندمج أو يُغلق أبوابه، وحينها، قد تُصبح البيانات التي يُقدمها مليارات الأشخاص لأدوات الذكاء الاصطناعي متاحة لأي شخص تقريباً، وقد لا يعرفون أبداً ما سيكون عليه مصيرها.\nوتوضح الـ\"بي بي سي\" أن بيع البيانات عند الإفلاس ليس بالأمر الجديد، لكن الذكاء الاصطناعي قد يزيد الأمور سوءاً.\nوبهذا الشأن، تقول كالي شرودر، مديرة برنامج الذكاء الاصطناعي وحقوق الإنسان في مركز معلومات الخصوصية الإلكترونية: \"عندما يتحدث الناس إلى روبوت دردشة، فإنهم يشاركون غالباً معلومات شخصية وحساسة للغاية\".\nوتحذّر كالي قائلة: \"لا تستخدم الذكاء الاصطناعي، لا تزال معرَّضاً للخطر، لأن المستخدمين يشاركون معلومات عن الأصدقاء والعائلة\".\nوتوضح: \"قد تفصح عن مشاعرك الخاصة وعندها تكون قد قدمت معلومات وبيانات عن أشخاص آخرين لم يستخدموا أبداً روبوتات الشركة\"، ويعني ذلك أن الخطر لا يقتصر على من يستخدم الذكاء الاصطناعي فقط، جميعنا معرَّضون للخطر، بطريقة أو بأخرى.\nبعد إعلان إفلاسها، وافقت شركة \"كاراكتر.أيه آي\" على بيع بعض أصولها لشركة ديزني مقابل 20 مليون دولار، ومن المفترض أن الصفقة لا تشمل بيانات المستخدمين.\nلكنَّ وثائق المحكمة تشير إلى أن الشركة تستطيع بيع بياناتها لمشترين آخرين. وهذا الأمر لا يُرضي الكثيرين، بمن فيهم مسؤولون أمريكيون.\nوبسبب المخاطر، قدَّم ائتلاف يضم 40 مدعياً عامّاً من ولايات أمريكية إشعاراً يطالب القاضي بتطبيق قوانين حماية سلامة الأطفال وخصوصيتهم. هذا أمر هام، لكنَّ مطالب هذه الولايات قد لا تكون فعالة.\nوتشرح ميليسا جاكوبي، أستاذة القانون في جامعة نورث كارولاينا في تشابل هيل بالولايات المتحدة ومؤلفة كتاب \"الديون غير العادلة: كيف يزيد نظام الإفلاس اللامساواة في أمريكا\"، قائلةً: \"بدون حماية أقوى للخصوصية في الولايات المتحدة، فإن ما يمكنهم فعله محدود للغاية\".\nتُلزم بعض القوانين الشركات بإبلاغ المستخدمين بالمعلومات التي تجمعها وكيفية استخدامها في سياسات الخصوصية المتعلقة بها. ول"
+    }
+   ]
+  },
+  {
+   "id": "cf0e66f6662",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Qatari LNG carrier struck by 'unidentified objects' in Gulf waters: Company",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/middle-east/qatari-lng-carrier-struck-by-unidentified-objects-in-gulf-waters-company/4107810",
+     "title": "Qatari LNG carrier struck by 'unidentified objects' in Gulf waters: Company",
+     "lang": "en",
+     "extra": {},
+     "id": "f0e66f666282c327",
+     "published": "2026-11-01T08:17+00:00",
+     "text": "Qatar Gas Transport Company says no crew members injured, vessel remains safe and operational following Friday evening incident"
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336198",
+     "title": "Qatari Gas Tanker Struck in Gulf",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1858897_0.jpeg.webp?VersionId=l33Yfjm11gE1Tvy2domodsMpcA1gHNih"
+     },
+     "id": "cfaed766953fa10c",
+     "published": "2026-11-01T09:06+00:00",
+     "text": "A Qatari tanker has been attacked with \"unidentified objects\" while transiting Gulf waters, the country's state news agency reported Sunday.\nThe attack on Friday evening struck a liquefied natural gas carrier, Al Mayeda, which belongs to the Qatar Gas Transport Company, Qatar News Agency said.\nNone of the crew members onboard the vessel struck on Friday were injured and there was no environmental impact from the attack, the report said.\nThe ship was in a \"safe condition\" and operational, the Qatari company was cited as saying."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss",
+     "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2293771658-1791423375.jpg?resize=1920%2C1440"
+     },
+     "id": "093dbcba2f72e36e",
+     "published": "2026-11-01T10:21+00:00",
+     "text": "A Qatari tanker has been hit by “unidentified objects” while sailing in the Gulf, the Qatar Gas Transport Company says, the latest attack on commercial shipping since the US-Israel war on Iran began in February.\nThe attack on Friday evening struck the liquefied natural gas (LNG) carrier Al Mayeda, which belongs to the company, it said in a statement on Sunday.\nRecommended Stories\nlist of 3 items- list 1 of 3Oman rescues 25 from burning oil tanker in Strait of Hormuz\n- list 2 of 3Iran says four tankers on fire after striking mines in Hormuz\n- list 3 of 3Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks\nNone of the crew members was injured and no environmental damage was reported, it said.\nThe statement, published by the Qatar Stock Exchange, said the vessel is currently in a “safe condition, operational” and that the impact of the incident is being assessed.\nThe Qatar Gas Transport Company supplies Qatari ports and terminals with towage and marine support services.\nMore than 120 commercial ships have been hit since the start of the war, according to data from the International Maritime Organization and the UK Maritime Trade Operations.\nIran, which closed the Strait of Hormuz early on in the war, has repeatedly warned vessels attempting to pass through the vital waterway without its permission would face “destruction”.\nThe attacks have increased since the United States reimposed a blockade on Iran’s southern ports in July.\nWith at least 29 ships hit, October was the worst month of the war, ahead of the 20 attacks recorded in March."
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://gulfnews.com/world/gulf/qatar/qatar-lng-tanker-hit-in-gulf-crew-safe-no-oil-spill-reported-1.500731634",
+     "title": "Qatar LNG tanker hit in Gulf; crew safe, no oil spill reported",
+     "lang": "en",
+     "extra": {},
+     "id": "b234ec57ea0e719c",
+     "published": "2026-11-01T10:37+00:00",
+     "text": "Qatarflag"
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjVXdlRyNkhYLXF1dnI2TTZqWHVsWWhaSXFVam5LZjM3OHVWRVJrVXJ4eHZGVy1KcDJQMGdmY1YtRUYwVVZtQS1jeFVRTWp2endYdGZOSF9Na0hLZmNkM2hFcUY4YzJ2WHJ0dGNEdlZEUnZBNHludGhzVVhEdlh3N2FqV0tUYnFSUmtrRXl1eWlXN1l3ZG1SS3I3b3JoRnp3SGlvd2pjZ3BuZ0NJRFhPUUNfM1Q?oc=5",
+     "title": "Qatari gas tanker struck in Gulf: State media - Region - World",
+     "lang": "en",
+     "extra": {},
+     "id": "e4d50846ab5955a3",
+     "published": "2026-11-01T11:56+00:00",
+     "text": "Qatari gas tanker struck in Gulf: State media - Region - World\nAhram Online"
     }
    ]
   },
@@ -2466,52 +2808,6 @@
    ]
   },
   {
-   "id": "c09693e37cd",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/world/residents-evacuated-from-russian-occupied-oleshky-reach-ukraine-after-localized-ceasefire",
-     "title": "Evacuees fleeing Oleshky reunite with family at the Ukrainian-Belarusian border",
-     "lang": "en",
-     "extra": {},
-     "id": "09693e37cda0c613",
-     "published": "2026-10-31T14:47+00:00",
-     "text": "Evacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members."
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/world/evacuees-reunite-with-family-at-the-ukrainian-belarusian-border-after-fleeing-oleshky-3009170",
-     "title": "Evacuees reunite with family at the Ukrainian-Belarusian border after fleeing Oleshky",
-     "lang": "en",
-     "extra": {},
-     "id": "9302b2eb03b3c702",
-     "published": "2026-10-31T21:55+00:00",
-     "text": "CHERNIHIV REGION, Ukraine: Residents of Russian-occupied Oleshky crossed into Ukrainian-held territory Saturday in a major evacuation operation carried out under the most significant truce since Russia’s full-scale invasion of Ukraine 4½ years ago. Evacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members. Volunteers with hand-drawn welcome signs handed out coffee to the weary travelers who had journeyed by bus and p"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family?traffic_source=rss",
-     "title": "Ukrainian evacuees from Russian-occupied Oleshky reunite with family",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-31T140709Z_1238804728_RC2CEOAYV9CW_RTRMADP_3_UKRAINE-CRISIS-OLESHKY-1793500282.jpg?resize=1920%2C1440"
-     },
-     "id": "0c00ac5fd56edec9",
-     "published": "2026-11-01T03:37+00:00",
-     "text": "Starved and exhausted residents of the Russian-occupied Ukrainian town of Oleshky have crossed into Ukraine in a major evacuation operation of civilians, under the first humanitarian truce of its kind in more than four years of Moscow’s war.\nThe six-day ceasefire covering the town was reached with mediation efforts by US First Lady Melania Trump and help from Pope Leo XIV. It is the longest local pause in fighting since Russia’s full-scale invasion of its neighbour in 2022.\nRecommended Stories\nlist of 3 items- list 1 of 3Ukraine invests in firepower as it inflicts a new Russian casualty record\n- list 2 of 3US greenlights $2.1bn Patriot missile sale to Ukraine\n- list 3 of 3Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks\n“Ukrainian citizens from Oleshky have crossed the Ukrainian border in the Chernihiv region. All of them will receive the assistance they need,” Ukrainian President Volodymyr Zelenskyy wrote on X, thanking the United States and the first lady for mediating.\n“Further steps toward de-escalation and real progress toward peace are also needed,” he added.\nEvacuees wrapped in blue and yellow Ukrainian flags stepped off buses at the Ukrainian-Belarusian border and reunited with family members.\nUkrainian officials met the evacuees with posters reading “You’re not alone” and “We embrace with our hearts”, while residents from nearby villages lined the highway waving flags and flashlights to greet them.\nForced to eat grass\nSupply routes to Oleshky had been disrupted by fighting and drones. According to some residents, food deliveries were stopped in May, pushing hundreds of people into starvation.\nOne evacuee, an elderly man in a wheelchair, told the Reuters news agency that he had lost 20kg (44lbs) over the past year, becoming so weak he required hospital treatment.\nAnother evacuee, Svitlana Yermakova, told Reuters they had to eat grass to survive.\n“We chopped grass and squash… just to hold on,” she said, adding that she risked riding by bicycle through minefields to a nearby village to get food for herself and her dog.\nTo reach Ukrainian-held territory, Oleshky residents had to take a complicated route to leave the devastated town just a few kilometres from the front line.\nThey first crossed Crimea by bus to the Russian town of Anapa before flying to Belarus, from where they crossed into Ukraine.\nAmbulances lined the street, and several large military tents were erected, where hot meals, tea and medical aid were provided.\nRussian and Ukrainian officials say the ceasefire in Oleshky has held since Tuesday, allowing them to de-mine the roads and bring food, medicines and other supplies into the town again.\nThe truce is due to end on Sunday evening.\nSome stay behind\nSome residents have decided to remain in Oleshky, despite the ongoing lack of gas, electricity and running water.\nRussian Human Rights Commissioner Yana Lantratova said living conditions in the occupied Oleshky remained difficult, pledging she would continue to work with her Ukrainian counterpart, Dmytro Lubinets, to help those who stayed.\n“The mission has come to an end,” she said on Telegram. “We have agreed to carry out regular humanitarian missions, which is a very important step.”\nOleshky had a pre-war population of about 24,000, which plunged to an estimated 1,700 before the evacuation.\nUkrainian officials have not said exactly how many residents were evacuated or how many remained.\nDespite the ceasefire in Oleshky, fighting rages on in other par"
-    }
-   ]
-  },
-  {
    "id": "c6376b050fb",
    "kind": "news",
    "score": 13.0,
@@ -2722,6 +3018,54 @@
    ]
   },
   {
+   "id": "cab4167939c",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Former Ireland European 1,500m champion dies from cancer aged 34",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/ciara-mageean-former-european-1500m-champion-dies-at-age-of-34-13606579",
+     "title": "Former Ireland European 1,500m champion dies from cancer aged 34",
+     "lang": "en",
+     "extra": {},
+     "id": "ab4167939c89f4e8",
+     "published": "2026-11-01T08:15+00:00",
+     "text": "Former European 1,500m champion Ciara Mageean has died at the age of 34."
+    },
+    {
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&at_campaign=rss",
+     "title": "Former European champion and two-time Olympian Mageean dies aged 34",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f48f/live/df92a5c0-d5db-11f1-a25d-8f13519027da.jpg"
+     },
+     "id": "be75b384e94d51d4",
+     "published": "2026-11-01T10:45+00:00",
+     "text": "- Published\nFormer European champion and two-time Olympian Ciara Mageean has died at the age of 34.\nMageean, from Portaferry in Northern Ireland, was diagnosed with stage four bowel cancer in May 2025.\nShe represented Ireland at the 2016 and 2020 Olympics, but was forced to withdraw from the 2024 Paris Games because of an Achilles injury.\nEarlier in 2024, Mageean had clinched the first major title of her career when she took 1500m gold at the European Championships in Rome.\nPrior to that she had also represented Northern Ireland at the Commonwealth Games, winning 1500m silver at Birmingham 2022.\nA statement posted on her social media on Sunday said: \"At 6.30am this morning, Ciara lost her battle with cancer surrounded by her loved ones.\n\"A beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.\n\"Ar dheis Dé go raibh a hanam (may her soul rest in peace).\"\nIn a statement on social media, Athletics Ireland said: \"We are heartbroken. An inspiration to so many, Ciara will be remembered for her courage, kindness and incredible spirit.\n\"Our deepest sympathies are with her family, friends and loved ones at this difficult time. Rest in peace, Ciara.\"\nEarlier this month, Mageean wed her long-term partner Thomas Moran in a small civil ceremony in Belfast.\nA talented athlete from a young age, Mageean played camogie for Portaferry GAC, but her dream of representing Ireland at the Olympics led her to pursue a career in athletics.\nHer running prowess was clear during an impressive junior career that yielded 1500m silvers at the 2010 World Junior Championships and 2011 European Junior Championships. She also reached the 2010 Commonwealth Games 1500m final as an 18-year-old.\nHowever, Mageean's early progress in the senior ranks was hampered by a serious ankle injury, which ended her hopes of making her Olympic debut at London 2012.\nHaving had surgery in 2013, Mageean won the Irish 1500m title on her return in July 2014.\nIn 2016, she claimed 1500m bronze at the European Championships in Amsterdam, but her Olympic debut ended in disappointment as she exited the 1500m competition at the semi-final stage.\nIn late 2017, Mageean left her Dublin base to join Steve Vernon's Team New Balance in Manchester after parting ways with coach Jerry Kiernan.\nAnd while she endured some disappointing results following the move, Mageean claimed a European Indoor bronze medal in March 2019 before clocking two minutes 31.06 seconds to take 3.6 seconds off Sonia O'Sullivan's 27-year-old Irish 1,000m record at the 2020 Diamond League Monaco meet.\nMageean endured more Olympic heartache at the delayed Tokyo Games in 2021, when a calf injury disrupted her preparations as she exited from the heats.\nHowever, she enjoyed a successful 2022 campaign under the guidance of former Great Britain Olympian Helen Clitheroe, winning 1500m European and Commonwealth silver behind Laura Muir.\nTwo weeks after the Euros, Mageean beat Muir and a world-class field to seal a stunning 1500m victory at Diamond League Brussels. Her time of 3:56.63 took 2.22 seconds off O'Sullivan's Irish record and marked her first sub four-minute run.\nIn 2023, Mageean narrowly missed out on a World Championship medal as she finished fourth in a high-class final in Budapest.\nHowever, after taking over two seconds off O'Sullivan's Irish mile record in July, Mageean was named the 2023 BBC Northern Ireland Sports Personality of the Year.\nAfter a string of near-misses at championship lev"
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/athletics/news/12040/13606619/ciara-mageean-irelands-european-1500-metres-gold-medallist-dies-at-the-age-of-34-after-battling-cancer",
+     "title": "European champion Mageean dies aged 34",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://e1.365dm.com/26/11/1600x900/skysports-ciara-mageean-athletics_7393733.jpg"
+     },
+     "id": "b7d1e60b84cd43bb",
+     "published": "2026-11-01T12:15+00:00",
+     "text": "Ciara Mageean: Ireland's European 1500 metres gold medallist dies at the age of 34 after battling cancer\nEuropean champion and two-time Olympian Ciara Mageean has died at the age of 34; Irish athletics star announced last year that she had been diagnosed with cancer\nLast Updated: 01/11/26 12:19pm\nIreland's European 1500 metres gold medallist Ciara Mageean has died at the age of 34.\nTwo-time Olympian Mageean, who won the European title in Rome in 2024, announced last year she had been diagnosed with cancer.\nA statement on her Instagram account on Sunday read: \"At 6:30am this morning, Ciara lost her battle with cancer surrounded by her loved ones. A beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.\"\nA statement from Athletics Ireland read: \"Athletics Ireland is deeply saddened to learn of the passing of Ciara Mageean.\n\"Ciara was a much-loved and inspirational figure who touched the lives of so many. Her courage, warmth and spirit will leave a lasting legacy.\n\"The thoughts and heartfelt condolences of everyone at Athletics Ireland are with Ciara's family, friends and loved ones at this incredibly difficult time.\n\"May she rest in peace.\""
+    }
+   ]
+  },
+  {
    "id": "c75edc20076",
    "kind": "news",
    "score": 13.0,
@@ -2742,6 +3086,28 @@
      "id": "75edc200768c36c7",
      "published": "2026-11-01T11:29+00:00",
      "text": "Meta has built a prototype humanoid robot with Chinese robotics company Fourier in about three months, and the two are already working on a second version. Jyoti Mann reported the project for The Information on Saturday, citing people familiar with it. The robot is known inside Meta as Max and weighs about 48kg (106 pounds).\nMeta told The Information that the work with Fourier is for internal research and experimentation, and that it has no plans to sell the units. TNW has not independently verified the report.\nWhat the Meta humanoid can do\nMax stands about 1.5 metres tall and runs on Nvidia’s Jetson Thor chip, according to The Information. It has a screen that mimics facial expressions, built-in speakers and five-fingered hands for picking up small objects.\nMeta’s robotics team travelled to China to work with Fourier. Li-Chen Miller, Meta’s vice president of product for robotics, spent almost two months at Fourier’s factory in Shanghai, the report said. Meta then showed Max to some staff at an internal robotics summit in late August.\nWork on Max 2 began in September. It is due to get a new torso, better hands, a projector and extra sensors to help it handle stairs.\nA body for Muse\nMeta sees humanoids as a physical form for Muse, its AI agent, and hopes they can do household tasks, The Information reported. Nvidia, whose chip runs Max, agreed this week to invest $3bn in Meta and expand their work on Muse.\nMeta has been building up its robotics team. In May it bought Assured Robot Intelligence, a San Diego start-up that makes AI software for robots. Its team joined Meta Superintelligence Labs, home to the group that leads Meta’s humanoid work, Maria Deutscher reported for SiliconANGLE.\nFourier is based in Shanghai. In August 2025 it unveiled GR-3, a 165cm humanoid it calls a “care-bot”. It is built as a companion, for example for older adults.\nA crowded field\nMeta joins a long list of companies chasing home and factory humanoids. Tesla has started building Optimus robots, and Agility’s Digit 5 humanoid will run on Nvidia hardware. In China, rival maker Unitree is working on AI that lets its robots improve themselves.\nMeta has not set a launch date for a humanoid product, one of The Information’s sources said.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
+    }
+   ]
+  },
+  {
+   "id": "c5b21d687f9",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Voyager 1 probe to hit historic one light-day distance from Earth in 17 days — 49-year-old spacecraft travels 16 billion miles",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Tom's Hardware",
+     "trust": 2,
+     "url": "https://tomshardware.com/tech-industry/space/voyager-1-probe-to-hit-historic-one-light-day-distance-from-earth-in-17-days-49-year-old-spacecraft-travels-16-billion-miles-and-survives-nearly-ten-times-the-length-of-its-original-five-year-mission",
+     "title": "Voyager 1 probe to hit historic one light-day distance from Earth in 17 days — 49-year-old spacecraft travels 16 billion miles",
+     "lang": "en",
+     "extra": {},
+     "id": "5b21d687f91efa37",
+     "published": "2026-11-01T12:00+00:00",
+     "text": "<p>Jowi Morales is a writer and journalist covering the tech beat since 2021. However, he’s been interested in technology far earlier than that. He started discovering desktop computers when his father brought home a Windows 95 PC, but his first real experience working under the hood of the PC was when the old computer’s hard drive was filled to the brim in the year 2000. He deleted the Windows folder to attempt to rectify the situation, which led to his dad buying a new desktop PC. Since then, he learned a lot more about computers, and he’s always been the go-to tech expert for his family and friends.</p><p>Jowi primarily uses a Windows workstation and an Android phone, but he also bought into the Apple ecosystem with the 6th-gen iPad, iPhone 14 Pro Max, and the M1 MacBook Air. Today, Jowi covers hardware and software from Redmond and Cupertino, while also looking at the tech industry in general.</p><p>Aside from covering technology, Jowi is an avid photographer and writes about automobiles, aviation, and tanks. You can find his bylines at <a href=\"https://www.makeuseof.com/author/jowi-morales/\">MakeUseOf</a>, <a href=\"https://www.slashgear.com/author/jowimorales/\">SlashGear</a>, and, of course, <a href=\"https://www.tomshardware.com/author/jowi-morales\">Tom’s Hardware</a>.</p>"
     }
    ]
   },
@@ -2876,10 +3242,12 @@
      "url": "https://eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
      "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+     },
      "id": "1c143450b6d67922",
      "published": "2026-11-01T10:04+00:00",
-     "text": "Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy.\nRead more"
+     "text": "Pikmin 4 Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy.\nNintendo confirmed the date during yesterday's surprise Pikmin Day Direct, which also revealed that a demo will land on the Nintendo eShop on 2nd November. Any progress you make in the demo will transfer to the full game if you buy it.\nDandori Academy is a timed exam mode. The Direct showed off one of its exams, Gargantuan Garden, which challenges players to collect gold nuggets before time runs out (thanks, Insider Gaming).\nThe Switch 2 Edition will also let you give voice commands to Oatchi, the game’s dog companion. If you already own Pikmin 4 on the original Switch, you can buy an upgrade pack from the eShop.\nNintendo had warned ahead of the broadcast that there would be no new game announcements. Instead, Shigeru Miyamoto introduced Japanese actor Fuka Koshiba as a new ambassador for the series, and Nintendo confirmed that 1st November, today, is now Pikmin Day.\nPikmin 4 originally launched on Switch in July 2023. The Switch 2 Edition is one of two big Nintendo releases this month, alongside The Legend of Zelda: Ocarina of Time remake on 5th November.\nLegendary Nintendo developer Shigeru Miyamoto - who directed classic games such as Super Mario 64 and produced The Legend of Zelda: Ocarina of Time - recently argued that the rise of generative AI tools won't necessarily replace human talent."
     }
    ]
   },
@@ -3016,6 +3384,17 @@
      "id": "5c24b2d5d6cda4b2",
      "published": "2026-11-01T10:54+00:00",
      "text": "Judge orders Trump administration to stop intimidating state election officials ahead of midterms - International - World\nAhram Online"
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53SmFrTk1rSkF0VjhYNEFzellqSkVONzlURm12aEI0RnQtTG1EX284cVR2aXVLT1FOVFNnQUJpeU9wWG1BUGdLdHozaG5XU0hjVG5ZRU54QUk?oc=5",
+     "title": "Trump administration's social media posts target people of color before midterms - International - World",
+     "lang": "en",
+     "extra": {},
+     "id": "ecf578a9b3023538",
+     "published": "2026-11-01T11:40+00:00",
+     "text": "Trump administration's social media posts target people of color before midterms - International - World\nAhram Online"
     }
    ]
   },
@@ -3220,50 +3599,6 @@
    ]
   },
   {
-   "id": "cdee63ca0aa",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Time",
-     "trust": 2,
-     "url": "https://time.com/article/2026/10/31/d-c-and-virginia-join-the-fight-to-block-trump-s-triumphal-arch-what-happens-next-",
-     "title": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
-     "lang": "en",
-     "extra": {},
-     "id": "dee63ca0aa26de52",
-     "published": "2026-10-31T19:28+00:00",
-     "text": "The site of U.S. President Donald Trump's planned triumphal arch is seen from the top of the Washington Monument in Washington, D.C., on Oct. 22, 2026."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
-     "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-     "lang": "en",
-     "extra": {},
-     "id": "dccd165d651884b4",
-     "published": "2026-10-31T20:30+00:00",
-     "text": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views."
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
-     "title": "Virginia and D.C. sue to block construction of Trump arch",
-     "lang": "en",
-     "extra": {},
-     "id": "c93469999caafa2d",
-     "published": "2026-10-31T22:48+00:00",
-     "text": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.\n(Image credit: Jen Golbeck)"
-    }
-   ]
-  },
-  {
    "id": "c8e4abbe0ca",
    "kind": "news",
    "score": 12.0,
@@ -3411,6 +3746,67 @@
      "id": "68d95331353b6213",
      "published": "2026-11-01T10:03+00:00",
      "text": "Having won a record 19 seats in Israel’s Parliament, the two Arab-led parties say they want to work with opposition factions to take down the Netanyahu government."
+    }
+   ]
+  },
+  {
+   "id": "ce103c0d34d",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Dungeon Crawler Carl: Smush Officially Releasing Ahead Of Book 9",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/dungeon-crawler-carl-smush-dice-set-november-2026",
+     "title": "Dungeon Crawler Carl: Smush Officially Releasing Ahead Of Book 9",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/carl-and-donut-in-the-dungeon-crawler-carl-webtoon.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "e103c0d34d2e42fc",
+     "published": "2026-11-01T00:00+00:00",
+     "text": "Since the first book in the saga, aptly named Dungeon Crawler Carl, the LitRPG series has gone on to become one of the most successful of all time thanks to the incredible science fantasy world created by author Matt Dinniman. Starting its life as a self-published novel, the series now boasts eight entries altogether, with a ninth on the way. However, the success does not end there.\nSet in a world where Earth's resources have been taken control of by an alien corporation, Carl and his ex-girlfriend's cat, Princess Donut, find themselves having to compete in a dungeon crawl as part of an intergalactic reality show program. Joined by a whole cast of bizarre characters, the Dungeon Crawler Carl series boasts a legion of dedicated fans, and whilst they wait for the series to be completed with one additional volume split across two books, there is another exciting release to look forward to.\nTo nobody's shock or surprise, the Dungeon Crawler Carl world is set to welcome a roleplaying game courtesy of Renegade Game Studios. Launching on 28 November, the roleplaying game already offers potential players the chance to get their hands on dice sets, rulebooks, miniature sets, and the game itself, which is titled Dungeon Crawler Carl: Unstoppable. As the official item description reads:\nThis version of Unstoppable is set in the 18-floor World Dungeon of the Dungeon Crawler Carl novel. Fight your way through mobs and bosses as Carl or Princess Donut! Play solo or bring along a friend for a co-op crawl!\nWith this card-crafting system, each card is a sleeve with swappable parts. You’ll craft and customize your cards as you play! The power curve in this “momentum builder” gives you a fighting chance against the threats you’ll face.\nExplore a single floor of the World Dungeon each time you play. This box contains the first three floors. In true roguelite fashion, however, only a few benefits that you purchase with XP will carry over to the next floor!\nCreated by John D. Clair, this solo or two-player cooperative experience offers a roguelike, deck-building extravaganza for fans of the hit LitRPG series, but fans will also be interested to learn that Dungeon Crawler Carl: Smush is also available for pre-order ahead of November's big launch.\nAs mentioned, Dungeon Crawler Carl: Unstoppable also welcomes accompanying dice sets, and Dungeon Crawler Carl: Smush is one such example of the packs up for grabs. Featuring a fiery red, orange, and yellow color scheme, this dice set is inspired by the Smush skill, and includes 1 x d4 | 1 x d6 | 1 x d8 | 1 x d10 | 1 x d12 | 2 x d20 | 1 x d2. As the feature list details, you will receive:\n- 7 full-color acrylic dice and 1 d2 Poker style chip with pearlescent treatment\n- Package in a themed reusable window box package\n- These dice have different numbers on each side, so when they roll them, you don’t know what you’ll get. Exciting, right?\nSo, if you are going to be checking out Dungeon Crawler Carl: Unstoppable when it launches in November, make sure to get yourself an accompanying dice set and play the game in style.\nDungeon Crawler Carl\n- Publisher(s)\n- Penguin Random House\n- Publication Date\n- September 21, 2020\n- Number of Pages\n- 444\n- ISBN#\n- 979-8688591507\n- Author(s)\n- Matt Dinniman"
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/every-dungeon-crawler-carl-book-ranked-by-their-goodreads-score",
+     "title": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeon-crawler-carl.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "a8c662b89e576e70",
+     "published": "2026-11-01T04:00+00:00",
+     "text": "Matt Dinniman's Dungeon Crawler Carl takes one of fantasy's oldest setups and throws it into a blender with reality television, apocalyptic horror, and video game logic, creating a series that has evolved into one of the biggest breakout hits in modern speculative fiction. The premise is fairly simple, starting with a fight for survival inside an alien-dominated game show that escalates into a sprawling saga of bizarre monsters, convoluted mechanics, and a talking cat with an ego to match.\nBeneath all of its bloodshed and absurdity, however, lies a surprisingly heartfelt story about survival in a system designed to exploit its participants, not unlike James Dashner’s The Maze Runner and Suzanne Collins’ The Hunger Games. With eight books in the series, there's plenty of dungeon crawling to rank. Goodreads scores offer a useful snapshot of which adventures have resonated most with readers, but with every book holding a rating well above 4.3 stars, you won't find a single dud in this franchise.\nAs fans eagerly await the ninth installment’s release next year, which Dinniman calls the first half of his planned two-part series conclusion, now is the perfect moment to look back at how the crawl has scored so far. Here's every Dungeon Crawler Carl book ranked by its Goodreads score.\n8 Book 3: The Dungeon Anarchist's Cookbook\nGoodreads Rating: 4.37\nOf all the Dungeon Crawler Carl books, The Dungeon Anarchist's Cookbook is the one most likely to test readers' patience, but that's not to say the third installment is a disappointment. Far from it. Book three introduces readers to the Fourth Floor, which plunges Carl and his ex-girlfriend’s obnoxious cat, Donut, into the Iron Tangle, a nightmarish subway system where navigating the maze of trains, stations, and monsters can feel almost as grueling to the reader as it does for the crawlers.\nThe complicated geography is central to the challenge, but it also makes this installment more mechanically demanding than its predecessors. Still, Carl and Donut's increasingly desperate attempts to survive the Fourth Floor, alongside the introduction of greater cooperation between crawlers, make for compelling reading. Its comparatively lower score when set against the entire series reflects a divisive setting, not a lack of imagination.\n7 Book 1: Dungeon Crawler Carl\nGoodreads Rating: 4.42\nEvery great dungeon crawl needs a compelling reason to keep descending, and Dinniman's debut delivers one of the strangest imaginable. After an apocalyptic event transforms Earth into a deadly, televised game show, Carl finds himself fighting for survival alongside his ex-girlfriend's unusually opinionated feline, Princess Donut. It’s a gleefully unhinged blend of LitRPG mechanics, gruesome monsters, and reality television satire.\nWhile clearly not ranked among his finest, there's a refreshing simplicity to this first outing, before the mythology and cast grow considerably more complicated. Carl and Donut's partnership is the real draw in this first episode, giving the carnage an emotional anchor as they fight for survival across the first two floors. Its lower placement is hardly a stain on its reputation; it simply reflects how much more ambitious the series has grown since its inception.\n6 Book 2: Carl's Doomsday Scenario\nGoodreads Rating: 4.46\nA sequel can easily fall into the trap of adding more spectacle and worldbuilding without making anything in the story truly resonate. Thankfully, Carl's Doomsday Scenario captures"
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMXN4RGlJLU1oZ0xTQlUzZE1Mb2g5X2RPVTNSQWpoZS1KN05VOU55WWNudW53SmwyU0hlWTVzb3pNT002blFEdGxmYXl0UkFRNHpGMXc5RDI2Y1RSYjZSRC1wZm5yRW5vZGxzbWpxa1JzZzhka05QX2Y1cG90WGI0cFN6NkQwT3diRFVWSHlTN2VlUQ?oc=5",
+     "title": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)",
+     "lang": "en",
+     "extra": {},
+     "id": "0d7b8c2edb2abfa5",
+     "published": "2026-11-01T04:00+00:00",
+     "text": "All 8 Dungeon Crawler Carl Books Ranked (by Their Goodreads Score)\nPolygon.com"
+    },
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/matt-dinniman-dungeon-crawler-carl-book-9-working-title-beautiful-place",
+     "title": "Matt Dinniman Officially Unveils Working Title Of Dungeon Crawler Carl Book 9",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/this-inevitable-ruin-dungeon-crawler-carl-ebook-cover.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "6ac1d132f8f9db01",
+     "published": "2026-11-01T12:30+00:00",
+     "text": "Dungeon Crawler Carl is easily one of the most unprecedented success stories in modern pop culture. Matt Dinniman's World Dungeon and beloved, unique characters more or less single-handedly brought the entire LitRPG genre out of obscurity and into the mainstream, with various other authors in the space now gaining popularity in DCC's wake.\nFans who are all caught up on Dungeon Crawler Carl are understandably eager for any new information they can get on the future of what is now a multimedia franchise. As readers gear up for the live-action adaptation on Peacock, the new tabletop RPG and Unstoppable board game arriving to retail in November, the possibility of an animated series, the WEBTOON comic, and more, there's a lot to keep track of in the DCC universe now.\nSeeing as most of the major announcements for Dungeon Crawler Carl actually come via Dinniman's long-running Patreon account, many fans who do not subscribe are left in the dark on some of the newest developments relating to the books. One such announcement may have slipped past readers' radars over the summer, with the official working title for Book 9 officially revealed back in June via Dinniman's Patreon.\nOver the summer, Dinniman released the very first glimpse at what readers could expect from Book 9 in a Patreon post that included the working title for the next book: The Beautiful Place. While this obviously isn't new information, it's a huge reveal that many longtime readers may have missed, especially if they aren't supporters on his Patreon page.\nThe June 16 post also included the first two pieces of the upcoming novel's prologue, giving Patreon subscribers an early look at how the next book will begin. Dinniman explained that he'd already written a considerable amount of the book, although much of the material still needed to be organized into a coherent narrative. He also confirmed that neither Carl nor Princess Donut would appear in the initial prologue, which isn't unprecedented, and readers would obviously see them again in the next batch of chapters.\nOf course, The Beautiful Place is shaping up to be a significant release, considering that it will help bring the entire Dungeon Crawler Carl series to a close. In a February 2026 interview with Variety, Dinniman revealed that he was planning to split the final installment into two separate books, effectively expanding the series to ten novels instead of the originally planned nine. Although he stressed that the arrangement wasn't completely set in stone at the time, he explained that the finale was becoming quite lengthy, making the split a practical solution.\nFortunately, the prologue wasn't the last preview Dinniman had planned for his supporters. On August 11, he returned to Patreon with Chapters 1 and 2, offering readers another opportunity to see how the story was progressing. More recently, on October 14, he released another substantial update featuring Chapters 3, 4, and 5, along with an additional interlude.\nIn that latest post, Dinniman acknowledged that travel, moving, a car accident, and an unfortunate bout of food poisoning had disrupted his editing schedule. Nevertheless, he reassured subscribers that much of the material had already been written. While there's still no official release date for Dungeon Crawler Carl Book 9, The Beautiful Place, these updates offer some encouraging signs that the long-awaited finale is steadily taking shape.\nDungeon Crawler Carl\n- Publisher(s)\n- Penguin Random House\n- P"
     }
    ]
   },
@@ -3757,65 +4153,6 @@
    ]
   },
   {
-   "id": "cf0e66f6662",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Qatari LNG carrier struck by 'unidentified objects' in Gulf waters: Company",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/middle-east/qatari-lng-carrier-struck-by-unidentified-objects-in-gulf-waters-company/4107810",
-     "title": "Qatari LNG carrier struck by 'unidentified objects' in Gulf waters: Company",
-     "lang": "en",
-     "extra": {},
-     "id": "f0e66f666282c327",
-     "published": "2026-11-01T08:17+00:00",
-     "text": "Qatar Gas Transport Company says no crew members injured, vessel remains safe and operational following Friday evening incident"
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336198",
-     "title": "Qatari Gas Tanker Struck in Gulf",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1858897_0.jpeg.webp?VersionId=l33Yfjm11gE1Tvy2domodsMpcA1gHNih"
-     },
-     "id": "cfaed766953fa10c",
-     "published": "2026-11-01T09:06+00:00",
-     "text": "A Qatari tanker has been attacked with \"unidentified objects\" while transiting Gulf waters, the country's state news agency reported Sunday.\nThe attack on Friday evening struck a liquefied natural gas carrier, Al Mayeda, which belongs to the Qatar Gas Transport Company, Qatar News Agency said.\nNone of the crew members onboard the vessel struck on Friday were injured and there was no environmental impact from the attack, the report said.\nThe ship was in a \"safe condition\" and operational, the Qatari company was cited as saying."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss",
-     "title": "Qatar LNG carrier struck by ‘unidentified objects’ in Gulf",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/10/GettyImages-2293771658-1791423375.jpg?resize=1920%2C1440"
-     },
-     "id": "093dbcba2f72e36e",
-     "published": "2026-11-01T10:21+00:00",
-     "text": "A Qatari tanker has been hit by “unidentified objects” while sailing in the Gulf, the Qatar Gas Transport Company says, the latest attack on commercial shipping since the US-Israel war on Iran began in February.\nThe attack on Friday evening struck the liquefied natural gas (LNG) carrier Al Mayeda, which belongs to the company, it said in a statement on Sunday.\nRecommended Stories\nlist of 3 items- list 1 of 3Oman rescues 25 from burning oil tanker in Strait of Hormuz\n- list 2 of 3Iran says four tankers on fire after striking mines in Hormuz\n- list 3 of 3Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks\nNone of the crew members was injured and no environmental damage was reported, it said.\nThe statement, published by the Qatar Stock Exchange, said the vessel is currently in a “safe condition, operational” and that the impact of the incident is being assessed.\nThe Qatar Gas Transport Company supplies Qatari ports and terminals with towage and marine support services.\nMore than 120 commercial ships have been hit since the start of the war, according to data from the International Maritime Organization and the UK Maritime Trade Operations.\nIran, which closed the Strait of Hormuz early on in the war, has repeatedly warned vessels attempting to pass through the vital waterway without its permission would face “destruction”.\nThe attacks have increased since the United States reimposed a blockade on Iran’s southern ports in July.\nWith at least 29 ships hit, October was the worst month of the war, ahead of the 20 attacks recorded in March."
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/world/gulf/qatar/qatar-lng-tanker-hit-in-gulf-crew-safe-no-oil-spill-reported-1.500731634",
-     "title": "Qatar LNG tanker hit in Gulf; crew safe, no oil spill reported",
-     "lang": "en",
-     "extra": {},
-     "id": "b234ec57ea0e719c",
-     "published": "2026-11-01T10:37+00:00",
-     "text": "Qatarflag"
-    }
-   ]
-  },
-  {
    "id": "c2dab006155",
    "kind": "news",
    "score": 12.0,
@@ -3873,6 +4210,41 @@
    ]
   },
   {
+   "id": "cd00053b3e2",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "بنك إفريقي جديد برأسمال 5 مليارات دولار.. ما مهامه؟",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "El Khabar",
+     "trust": 2,
+     "url": "https://elkhabar.com/economie/بنك-إفريقي-جديد-برأسمال-5-مليارات-دولار-ما-مهامه-275869",
+     "title": "بنك إفريقي جديد برأسمال 5 مليارات دولار.. ما مهامه؟",
+     "lang": "ar",
+     "extra": {
+      "page_image": "https://www.elkhabar.com/storage/images/article/g_b1d1e0ec59224f6dbec14411fdd71bbf.webp"
+     },
+     "id": "d00053b3e20b1be1",
+     "published": "2026-11-01T11:16+00:00",
+     "text": "أعلن كل من البنك الإفريقي للاستيراد والتصدير (أفريكسيم بنك) ومنظمة منتجي النفط الأفارقة عن إنشاء بنك الطاقة الإفريقي، وهذا خلال الجمعية العامة التأسيسية لهذه المؤسسة المالية القارية الجديدة، المنعقدة أمس السبت بأبوجا (نيجيريا)، حسبما أفادت به المنظمة عبر موقعها الإلكتروني.\nوأوضح بيان المنظمة، اليوم، أن بنك الطاقة الإفريقي، الذي يتمتع برأسمال مرخص قدره 5 مليارات دولار، \"سيدعم المشاريع التي تشمل كامل سلسلة القيمة في قطاع الطاقة، بدءا من الاستكشاف والإنتاج وصولا إلى النقل والمعالجة والتكرير والتوزيع\"، مشيرا إلى أن الأمر يتعلق باستثمارات \"تهدف إلى تعزيز قدرات الإنتاج، وتقليص التبعية للواردات من المنتجات النفطية، وترقية التجارة البينية الإفريقية للسلع الطاقوية\".\nكما أوضحت المنظمة أن بنك الطاقة الإفريقي، الذي تم إنشاؤه بالشراكة بين أفريكسيم بنك ومنظمة منتجي النفط الأفارقة، كُلف أيضا بترقية المشاركة الإفريقية الفعالة في قطاع الطاقة بالقارة، بما يضمن أن \"يصنع الأفارقة مستقبل الطاقة في إفريقيا\".\nوجرت أشغال الجمعية العامة لبنك الطاقة الإفريقي بحضور وزير الدولة النيجيري للموارد النفطية، هاينكن لوكبوبيري، ورئيس مجلس إدارة أفريكسيم بنك، جورج إيلومبي، ووزير المناجم والبترول والطاقة الإيفواري، مامادو سانغافوا كوليبالي، إلى جانب الأمين العام لمنظمة منتجي النفط الأفارقة، الجزائري فريد غزالي.\nوأكد البيان أن \"إنشاء بنك الطاقة الإفريقي يجدد التأكيد على عزم الحكومات الإفريقية على ضمان مستقبلها الطاقوي بنفسها. وتعكس هذه المبادرة الاعتراف بضرورة القيام باستثمارات هامة في إنتاج الطاقة ونقلها، من أجل تسريع النمو الصناعي والاستفادة من الفرص الهائلة التي تتيحها التكنولوجيات الناشئة، لاسيما الذكاء الاصطناعي\".\nوبالنسبة لمنظمة منتجي النفط الأفارقة، فإن إنشاء هذا البنك القاري يأتي في وقت تقدر فيه احتياجات القارة من الاستثمارات في مجال الطاقة بـ200 مليار دولار، وذلك لسد العجز في تمويل الاستثمارات في قطاع المحروقات، مع دعم انتقال طاقوي عادل بالنسبة للبلدان الإفريقية.\nوأضاف المصدر ذاته، أن بنك الطاقة الإفريقي \"سيعمل كمؤسسة مالية مستقلة وفوق وطنية ذات طابع إفريقي شامل، وسيسعى إلى استقطاب استثمارات الحكومات والشركات النفطية الوطنية والمؤسسات المالية والمستثمرين الخواص، بهدف دعم تطوير قطاع الطاقة في القارة\".\nكما صادقت الجمعية العامة الأولى، من جهة أخرى، على تعيين أول رئيس للبنك، حلمي غازي، وتشكيل أول مجلس إدارة له، والذي يضم أعضاء من القطاعين العام والخاص، إلى جانب مؤسسات سياسية بارزة من مختلف أنحاء القارة، حسبما أضاف المصدر ذاته.\nللتذكير، فقد تأسست منظمة منتجي النفط الأفارقة سنة 1987 بمبادرة من الجزائر وعدد من الدول الإفريقية المنتجة للنفط. وتشكل هذه المنظمة، التي تضم حاليا 18 دولة عضوا، إطارا مؤسساتيا يهدف إلى تنسيق السياسات النفطية بين الدول الأعضاء وتعزيز التعاون والتكامل في مجالات الاستكشاف والإنتاج والتكرير ونقل التكنولوجيا، فضلا عن دعم البحث العلمي والتكوين وتطوير الكفاءات.\nأما البنك الإفريقي للاستيراد والتصدير فيعد مؤسسة مالية متعددة الأطراف ذات طابع إفريقي شامل، تعمل على تمويل وترقية التجارة البينية الإفريقية والمبادلات التجارية بين إفريقيا وبقية دول العالم، مع دعم التنمية الاقتصادية والتكامل الإقليمي للقارة.\nوإلى جانب التمويلات والضمانات وخطوط الائتمان ومختلف الأدوات المالية التي يوفرها، يضطلع البنك أيضا بدور هام في تنفيذ منطقة التجارة الحرة القارية الإفريقية.\nالتعليقات\nشارك تسجيل الدخول\nالخروج\nالتعليقات مغلقة لهذا المحتوى"
+    },
+    {
+     "source": "Echorouk",
+     "trust": 2,
+     "url": "https://echoroukonline.com/%d8%a8%d8%b1%d8%a3%d8%b3%d9%85%d8%a7%d9%84-5-%d9%85%d9%84%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%b7%d8%a7",
+     "title": "برأسمال 5 مليارات دولار.. إنشاء بنك الطاقة الإفريقي",
+     "lang": "ar",
+     "extra": {},
+     "id": "84f8972a3579abdb",
+     "published": "2026-11-01T12:17+00:00",
+     "text": "أُعلن، أمس السبت بالعاصمة النيجيرية أبوجا، عن إنشاء بنك الطاقة الإفريقي، بمبادرة مشتركة من البنك الإفريقي للاستيراد والتصدير “أفريكسيم بنك” ومنظمة منتجي النفط الأفارقة، وذلك خلال الجمعية العامة التأسيسية لهذه المؤسسة المالية القارية الجديدة، التي تهدف إلى تمويل مشاريع الطاقة وتعزيز الاستثمارات في القطاع عبر القارة.\nوأفادت منظمة منتجي النفط الأفارقة، في بيان نشرته عبر موقعها الإلكتروني، بأن البنك الجديد يتمتع برأسمال مرخص قدره 5 مليارات دولار، وسيعمل على دعم المشاريع التي تغطي مختلف مراحل سلسلة القيمة في قطاع الطاقة، من الاستكشاف والإنتاج إلى النقل والمعالجة والتكرير والتوزيع.\nشاهد المحتوى كاملا على الشروق أونلاين\nThe post برأسمال 5 مليارات دولار.. إنشاء بنك الطاقة الإفريقي appeared first on الشروق أونلاين."
+    }
+   ]
+  },
+  {
    "id": "c8fa958d75d",
    "kind": "news",
    "score": 11.5,
@@ -3905,6 +4277,56 @@
      "id": "8fa958d75dc12eea",
      "published": "2026-10-31T13:56+00:00",
      "text": "This will probably be the last nail in the coffin for me.\nsubmitted by\n/u/bafadam\nto\nr/OpenAI\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
+   "id": "cdbf1c6ffd8",
+   "kind": "news",
+   "score": 11.5,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
+   "official_image": "https://images.nintendolife.com/95bbae1942c49/large.jpg",
+   "sources": [
+    {
+     "source": "Nintendo News",
+     "trust": 3,
+     "url": "https://nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
+     "title": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
+     "lang": "en",
+     "extra": {
+      "image": "https://images.nintendolife.com/95bbae1942c49/large.jpg"
+     },
+     "id": "81f51048bf6abb16",
+     "published": "2026-11-01T05:45+00:00",
+     "text": "Happy Pikmin Day!\nNintendo surprised us with a Pikmin-themed Direct this weekend, announcing Pikmin Day! If you haven't already watched the video, here's everything from the broadcast:\nRead the full article on nintendolife.com"
+    },
+    {
+     "source": "The Verge",
+     "trust": 2,
+     "url": "https://theverge.com/games/1024085/happy-pikmin-day-eve",
+     "title": "Happy Pikmin Day Eve",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+     },
+     "id": "dbf1c6ffd8bdd69e",
+     "published": "2026-10-31T17:50+00:00",
+     "text": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts.\nHappy Pikmin Day Eve\nNintendo is celebrating the first annual Pikmin Day by debuting a new series of short films.\nNintendo is celebrating the first annual Pikmin Day by debuting a new series of short films.\nPlayers will be able to use the Switch 2’s built-in microphone to issue voice commands to Oatchi, the space dog. Pikmin 4 will also have a Dandori Academy mode that will test players’ skills in specific challenges. There will be limited tests on Friday, Saturday, and Sunday, complete with leaderboards where players can compare stats. Pikmin Bloom will be getting a new feature called Secret Caves, where players can win treasure by battling enemies and exploring said caves.\nLastly, Miyamoto showed the first installment of a new series of shorts called Hello! Pikmin. A second episode will premiere tomorrow, with a third later in November. The series will then debut one short per month starting in December. The shorts build on the success of Close to You, a Pikmin animation released last year.\nMost Popular\n- Sam Altman says it’s better for RAM to be in a data center than on your desk\n- The Apple Pencil turned the Duo into my new favorite notebook\n- Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop\n- The HomeView and Echo Show 16 could be the family computers I’ve been asking for\n- I built an AI Tamagotchi before Meta could"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX1lNc0cxbmNBTC05OThLMS16YlEzTmNIcEd0ZGx1aVdwOUZnZk52OTBDZ2ZyVEt0OHcyMHd0UDZIVkhWR05yTC01Vk9FTTNQNWNQdUUxdEM0aklLaENaa29nWWNuUEo5ZUNaMUpPZFlfc1A2SllkZjFPRS1sSFlfVE9FYWJIV1pQTDJfTWtWdkVjY3o3cW5EUUg5a0k5R1dRQW1MbkNR?oc=5",
+     "title": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "a060eb31afaee66f",
+     "published": "2026-11-01T05:45+00:00",
+     "text": "- Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts Nintendo Life\n- A Treasure Hunt Awaits in Pikmin Bloom’s Secret Caves! pikminbloom.com\n- Shigeru Miyamoto Proclaims November 1 is Pikmin Day, Pikmin 4 Demo Coming To Switch 2 Soon Game Informer\n- Everything Announced at Nintendo's Inaugural Pikmin Day Direct IGN\n- Happy Pikmin Day Eve The Verge"
     }
    ]
   },
@@ -4045,28 +4467,6 @@
      "id": "ff06dcd8d2d3db81",
      "published": "2026-11-01T02:17+00:00",
      "text": "A new Australian classification for 2009’s Call of Duty: Modern Warfare 2 has fuelled speculation about a re-release on modern consoles, following Activision’s recent ports of Black Ops and Black Ops 2. A new release may restore the multiplayer omitted from the Campaign Remastered edition, but an official confirmation is yet to be made."
-    }
-   ]
-  },
-  {
-   "id": "c291011cda7",
-   "kind": "news",
-   "score": 11.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Playing games with quantum entanglement and other correlations",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cambridge Research",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1c3dpTHBnWUFmUjEyUng1Z0pqTUtzRklHYlMtSndtQ0pFVHJCRGRYRWF5Uno4b0dXMjFVNWpZVW9BOHJXYmhLNWc3T0VYeENkTHZ6bg?oc=5",
-     "title": "Playing games with quantum entanglement and other correlations",
-     "lang": "en",
-     "extra": {},
-     "id": "291011cda776a22f",
-     "published": "2026-11-01T00:05+00:00",
-     "text": "Playing games with quantum entanglement and other correlations\nUniversity of Cambridge"
     }
    ]
   },
@@ -4347,280 +4747,6 @@
    ]
   },
   {
-   "id": "c32cdc35418",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "‘It: Welcome to Derry’ Treats You To a Surprise Halloween Episode",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Gizmodo",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaF9TUzdUeHNJdm9rbmlsdlEyWmJrUWNkVUhqZGdiSDhKaDBDZUFCOVpNS3FsR2dCYXdmdVBWdHRJa0UxLVhpMlRHUENUd0h1ZkZiN0pBemx2SUpVdHI5OVlmWURMZkpmN3RQcFMxMWMydGNFSFYzUUJWcjlITDgzLW83V0dQQVF2R3J0eHlEVnVMMklQZUE4Rw?oc=5",
-     "title": "‘It: Welcome to Derry’ Treats You To a Surprise Halloween Episode",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "5afcd81c429e1e74",
-     "published": "2026-10-31T14:30+00:00",
-     "text": "‘It: Welcome to Derry’ Treats You To a Surprise Halloween Episode\nGizmodo"
-    },
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/10/it-welcome-to-derry-halloween-hbo-max-1237210647",
-     "title": "‘It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max",
-     "lang": "en",
-     "extra": {},
-     "id": "f42532bc30f444f3",
-     "published": "2026-10-31T18:18+00:00",
-     "text": "All treat, no trick: HBO Max has released a surprise episode of It: Welcome to Derry for Halloween. “IT’s a surprise Halloween treat,” HBO Max posted on its Instagram page along with a brief clip of the episode (watch it below). “Catch this never-before-seen special exploring the origins of IT in Derry.” The episode, “A […]"
-    },
-    {
-     "source": "Collider",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IT1RpN1N4MlRsRTdnT3pqblB3ekRCcGl5czZGUXg4U3ZQdHJfaEtQN1YwZ1dBZjV1bV93dE9QbW9ZSWJhXzlpVTBWb3ZuSlZlVE9wb3VTcm01TzgwX0I2OE1pbVdCYzJaZ3hnQnM5SVd4M2RySlFB?oc=5",
-     "title": "'IT: Welcome To Derry' Officially Returns With Surprise Episode Ahead of Season 2",
-     "lang": "en",
-     "extra": {},
-     "id": "8873ecfa215f7859",
-     "published": "2026-10-31T20:57+00:00",
-     "text": "'IT: Welcome To Derry' Officially Returns With Surprise Episode Ahead of Season 2\nCollider"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTluS3BkWkVzcnd6UndhRHJ5QnF3VG5ENkU0T3pwVmhVUmEycVA1NVAtNHY4bm5qemxTcjNXODBqYzJQUGt2UWUydjc0MGpQV3hVTUdBUWFLbW1VUXhNZjVnZjVIMjFvSnFHUkMyUnY0WHZ0UmxFYVBOQU5teTZwa1BUclB0bmJLb25BWHZuNA?oc=5",
-     "title": "HBO Max Drops Surprise IT: Welcome To Derry Episode For Halloween - TVLine",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "32cdc35418b25dff",
-     "published": "2026-10-31T14:26+00:00",
-     "text": "- HBO Max Drops Surprise IT: Welcome To Derry Episode For Halloween TVLine\n- ‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max Variety\n- ‘It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max Deadline\n- It's more than terrifying enough to hold fans over until the next season releases. Mashable\n- ‘It: Welcome to Derry’: ‘A Story of Derry’ Surprise Special Hits HBO Max TV Insider"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGZZVEZibWhqMmotdndzVjBaNjhHQ1h6VDQ3ckkwdUlOZlVWSUhydFZENzlla1FPSW9uNWV5OXJ3TlJjZUluQzFWODczYW4zX01yZXJmMGNHTVdqcFpGTVRFakl0SjE0QWdtRnIwa2dqbkR2MEloNmRPT0h5LTlSbmZIc19GZVhFb0g2RWtIc3NKUm9z?oc=5",
-     "title": "‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max - Variety",
-     "lang": "en",
-     "extra": {},
-     "id": "b1a65a15f70d794e",
-     "published": "2026-10-31T17:50+00:00",
-     "text": "- ‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max Variety\n- ‘It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max Deadline\n- ‘It: Welcome to Derry’: ‘A Story of Derry’ Surprise Special Hits HBO Max TV Insider\n- It: Welcome to Derry season 2 boss reveals Stephen King’s grandson role in new episodes Radio Times\n- HBO Max drops 'IT: Welcome to Derry' special upi"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLXM4bEMwYld6blczdmNTWktWeWFlTVpfbmp6SVFwTm9RT0ZnaU9qdFRfTkJKeEdqcWMwZVJqOTBmREc0TmY3dmtQRzNJY2NmTzY3NTNOeDFPUXNuQUZsQ2VScTdxbUVUZTBrVXR1VkhnSmJoeUZYVklwVXdtVXlzQjRHamc?oc=5",
-     "title": "‘It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max - Deadline",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "dcaf4c96a5da5ab2",
-     "published": "2026-10-31T18:18+00:00",
-     "text": "- ‘It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max Deadline\n- It's more than terrifying enough to hold fans over until the next season releases. Mashable\n- ‘It: Welcome to Derry’: ‘A Story of Derry’ Surprise Special Hits HBO Max TV Insider\n- It: Welcome To Derry Halloween Episode Features Live-Action Debut Of Iconic Stephen King Character SlashFilm\n- It: Welcome to Derry has a Halloween surprise. The Verge"
-    }
-   ]
-  },
-  {
-   "id": "c42c72a65f7",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "$2 Trillion Wiped Out: Why the U.S. Stock Market Crashed",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Yahoo Finance",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcjlRTU43TkdfbDlpakpvNXRhVFBWT21NMUg2S2lLSURqeVRtSjZsX25GZE03MnpaNUhBTmdmSVpfd1AxdjQ2VW9OYzlrMnFqcHJPeTIwNVFZRTJ5WmF4cXNlaU9TYmJPZUxuWlNPcGxIVnhnbGFKc1AtQjJTcnFJZVhmOFNqQVBKdmlLRW1GZzI?oc=5",
-     "title": "$2 Trillion Wiped Out: Why the U.S. Stock Market Crashed",
-     "lang": "en",
-     "extra": {},
-     "id": "42c72a65f7dc992d",
-     "published": "2026-10-31T16:03+00:00",
-     "text": "$2 Trillion Wiped Out: Why the U.S. Stock Market Crashed\nYahoo Finance"
-    },
-    {
-     "source": "Bloomberg Markets",
-     "trust": 2,
-     "url": "https://bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
-     "title": "China to Convene Meeting on Supporting Stock Market, Reports Say",
-     "lang": "en",
-     "extra": {},
-     "id": "6c0e88b0ee1f7efb",
-     "published": "2026-11-01T10:08+00:00",
-     "text": "China’s central bank and its securities regulator will hold a meeting on Monday to discuss the use of tools designed to support the country’s capital market, according to local media."
-    }
-   ]
-  },
-  {
-   "id": "c438b10f2d1",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Tom's Hardware",
-     "trust": 2,
-     "url": "https://tomshardware.com/software/social-media/french-lawmakers-approve-usd11-2-billion-internet-tax-based-on-traffic-usage-costs-usd0-65-per-gigabyte-of-content-accessed-us-tech-giants-like-google-and-meta-face-new-levies-on-content-delivered-to-french-subscribers",
-     "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed",
-     "lang": "en",
-     "extra": {},
-     "id": "438b10f2d18fc511",
-     "published": "2026-10-31T16:11+00:00",
-     "text": "<p>Newton Gitonga is a journalist who writes about technology, gadgets, AI, and the companies behind them. He has covered product launches, hard drives, processors, AI data centers, and other developments across the tech industry. He also writes about cryptocurrency and financial markets, having spent several years covering the crypto space.</p><p>Newton has previously written for Notebookcheck, ZyCrypto and CoinCentral. His work has ranged from reporting on new gadgets and computing hardware to covering major developments in AI, businesses building the technology behind it, stocks and crypto.</p><p>He graduated from Kabarak University in 2018 with a law degree but went on to build his career in journalism. He enjoys keeping up with new technology and finding stories that help readers understand what is happening beyond the headlines.</p>"
-    },
-    {
-     "source": "Reddit tech & AI",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xkfw9p/french_lawmakers_approve_112_billion_internet_tax",
-     "title": "French lawmakers approve $11.2 billion internet tax based on traffic usage, costs $0.06 per gigabyte of content accessed — U.S tech giants like Google and Meta face new levies on content delivered to French subscribers",
-     "lang": "en",
-     "extra": {},
-     "id": "9e339a35f0356d35",
-     "published": "2026-10-31T17:20+00:00",
-     "text": "submitted by\n/u/ControlCAD\nto\nr/technology\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "c832cd7aba9",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Pro-Palestinian protesters arrested outside U.S. Embassy in London",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/dozens-arrested-us-embassy-london-pro-palestinian-group",
-     "title": "Pro-Palestinian protesters arrested outside U.S. Embassy in London",
-     "lang": "en",
-     "extra": {},
-     "id": "832cd7aba9ce1b61",
-     "published": "2026-10-31T18:09+00:00",
-     "text": "More than 100 people took part in the protest, with many holding signs reading: \"I oppose genocide, I support Palestine Action.\""
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss",
-     "title": "Palestine Action supporters arrested outside US embassy in London",
-     "lang": "en",
-     "extra": {},
-     "id": "632aa2b3956383af",
-     "published": "2026-10-31T22:10+00:00",
-     "text": "Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government's ban on Palestine Action."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeUlKZ0JzU2NIcmNFckRsU1l6akpveTNUNHhUbnNyMHhkOUxXbWk0RDJWVnQ0Ti1MQVI0QnhSQnpPZmUyWVNUQktDVGxVbmFMaERuY0tlVDIyN0xYMkpxbHkteUhEVnpCNlAxYVY2SXBEWnFYREJzYWFLTThWOXYxbkNzRjk2OEo3UmtvSnBMRDNDc3BDbW04ak9PUDRWanlpcFNFdG1YWjdSdw?oc=5",
-     "title": "London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group - AP News",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "6eb98b12066af833",
-     "published": "2026-10-31T20:14+00:00",
-     "text": "London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group\nAP News\nSee more headlines & perspectives on Google News"
-    }
-   ]
-  },
-  {
-   "id": "c46d7a243eb",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "London police arrest 139 as hundreds protest Palestine Action ban",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
-     "title": "London police arrest 139 as hundreds protest Palestine Action ban",
-     "lang": "en",
-     "extra": {},
-     "id": "46d7a243eb4d6b6b",
-     "published": "2026-10-31T18:48+00:00",
-     "text": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription."
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/d0129eb464a7",
-     "title": "British police arrest 139 Palestine Action activists ahead of Supreme Court appeal",
-     "lang": "en",
-     "extra": {},
-     "id": "54ef3cdb3638e654",
-     "published": "2026-10-31T22:15+00:00",
-     "text": "Protesters gather in London and Edinburgh against the government's terrorism ban, as the Supreme Court prepares to hear a challenge to the group's proscription."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNam1UMDNjenNVXzcybTdDd0twaF9lLVNwTzB3V1JVSUNSZlA1UFlKZUZJREtOYVBLbnBLYV91Q2JyenU4NGozZ3R3ejJudVh1TGxTeHgtWHR1eng4MHFmX2lDbVNMZzJQOWh6QjZ4NUJjVVZseVg2UmJVd25LREg2OVRSZjB0eWtoYWhQVW5nVmgzdDFWaUdTRlB6OE1teFJQYlo2bkVVSkx0Z9IBrwFBVV95cUxNdVNqNXZDOU9UMDlNNl9qU3hibWJVNDhLT3dScUFLZHdhN05kbkQ5bGJ6NVVwclliVDZHQ3k2ZnZYTzJtZUw4SVhLZzZnTUhqSTRPWWg0NjI3RE5KaUVQNFQyc3RfUkxiOXd6TnhqQlpkTk1yS0hQcWtSNUdwTWthUUZmMlJ5UFJ1ZGZkdXpUTlpIWHNCbHZpTXRvOUlXeDVma1ZtMTJBaVA3MDlfZFow?oc=5",
-     "title": "London police arrest 139 as hundreds protest Palestine Action ban - Al Jazeera",
-     "lang": "en",
-     "extra": {},
-     "id": "96c038c3da703059",
-     "published": "2026-10-31T21:45+00:00",
-     "text": "- London police arrest 139 as hundreds protest Palestine Action ban Al Jazeera\n- Almost 140 arrested at protest against Palestine Action ban outside US embassy in London The Guardian\n- Dozens arrested outside U.S. Embassy in London for supporting pro-Palestinian group CBS News\n- Police arrest 139 people during Palestine Action protest Sky News\n- London police arrest 139 people outside US Embassy for supporting banned pro-Palestinian group AP News"
-    }
-   ]
-  },
-  {
-   "id": "c70c189dd62",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "رئيس الجمهورية يشيد بإنجاز الأوركسترا الفيلهارمونية الدولية للجزائر ويسدي تعليمات هامة",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Ennahar",
-     "trust": 2,
-     "url": "https://ennaharonline.com/%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d9%8a%d8%b4%d9%8a%d8%af-%d8%a8%d8%a5%d9%86%d8%ac%d8%a7%d8%b2-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%83%d8%b3%d8%aa%d8%b1",
-     "title": "رئيس الجمهورية يشيد بإنجاز الأوركسترا الفيلهارمونية الدولية للجزائر ويسدي تعليمات هامة",
-     "lang": "ar",
-     "extra": {},
-     "id": "70c189dd62bfb67a",
-     "published": "2026-10-31T20:58+00:00",
-     "text": "أشرف رئيس الجمهورية عبد المجيد تبون مساء اليوم على أوّل عرض الأوركسترا الفيلهارمونية الدولية للجزائر بمناسبة الذكرى 72 لاندلاع الثورة التحريرية المجيدة.\nواستمع الحفل استمع رئيس الجمهورية عبد المجيد تبون قبل الحفل إلى عرض بخصوص إنشاء الأوركسترا الفيلهارمونية الدولية للجزائر قدمته وزيرة الثقافة.\nوثمن رئيس الجمهورية عقب العرض هذا الإنجاز الثقافي الكبير تحت قيادة المايسترو أمين قويدر.\nكما أسدى رئيس الجمهورية تعليمات بضرورة أن يرافق التطور الاقتصادي الحالي للجزائر، تطورا ثقافيا وفنيا في كل المجالات لتستعيد الجزائر أمجادها الضاربة في التاريخ.\nThe post رئيس الجمهورية يشيد بإنجاز الأوركسترا الفيلهارمونية الدولية للجزائر ويسدي تعليمات هامة appeared first on النهار أونلاين."
-    },
-    {
-     "source": "Google News Algeria",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirgVBVV95cUxQSXhwSHlERi00bDhnZ3RHV1k2Y3ZrSmU0V1FHSGJtQ1N0RlduLU8yZUhGSEN4cl93V2NaVDRnZ1lDS0hQMXk2MzhYZ0pSVjd0d2tFN1NzZnBQVWRfSUJ5T05McUFreWhaelU1dmtpRWZReEJQWGFfZGlVZnoxaDg3NFhUNGR5SG1NbTFGOVhIcWl2cGtHbnd4RG85R3BtVXlZTnZDVmpxMlZJS2pINzFWUUg1dWVRWnE4dlRmMGxqMXFtd29TZVFDNnMyR0JJZzZMeHNkMDdya3FIdGxpYlV6LXM2Yk9qWXdHNUdfLWVCc01WTXVCNmZ4VWJvZnQydWVsZk9GX2RNV1BqSXFFN2F1VnNJOE1CM1hWTUsyUmVIR1kwcnJEajlGWnpueTlkZlJrWUtwc3hvbUMyZHhyTHc0ZGdCbkx6NGtRazE1dm52WklfN0FVZTJiaXM2WHUwNnl4dHNzZkU3el9KaXlrRWtqTDZHdko2dzJ2V3hsQ2ZTY0Q2bktuUXc0ZENDYkM2bTFEWmx4WlRza0tORW43R0l6NzloTDc4am9YNThybE96QWNVQVZQZzJ6RzRBbm1hRkt6ZFpjelh1YTVUek1ncVN4QTlqTGIzSEhoSmU1cElidnJDeDR4cWJfZlhjQUtoTmMwMGVnZlVOM3RjcHVWaHF6YjZEQWxEVkYxWXZfeHN0eU1YQlBZYllkUDM5MUt2ZkZKVGdPeGg3aTFLZnRvamhMV29ndmVYbHVtdExWYTYydExHMjVLTGsxc216S1dRcGNvV3NTVWhhMzQ4ZnhQMmE5QU9ZTm9NYVVGSFBraFBEUG1hd1dqX19fSWxEYkNtUllwY0RlbWlCMmlpSktHMW5CQmh5WVBrc0hwR0VzYzVoaFd4VFhBSHJWRTctYWRDQQ?oc=5",
-     "title": "#صور تذكارية خالدة للسيد رئيس الجمهورية مع أول #أوركسترا فيلهارمونية دولية للجزائر",
-     "lang": "ar",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "5fedf83558ba80e9",
-     "published": "2026-11-01T10:48+00:00",
-     "text": "#صور تذكارية خالدة للسيد رئيس الجمهورية مع أول #أوركسترا فيلهارمونية دولية للجزائر\nFacebook"
-    }
-   ]
-  },
-  {
    "id": "market-2026-11-01",
    "kind": "market",
    "score": 0,
@@ -4639,8 +4765,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T12:00+00:00",
-     "text": "Bitcoin: $77,859 (+0.4% 24h)\nEthereum: $2,268 (+1.0% 24h)\nSolana: $95.24 (-0.6% 24h)\nToncoin: $1.23 (+3.8% 24h)"
+     "published": "2026-11-01T12:30+00:00",
+     "text": "Bitcoin: $77,732 (+0.3% 24h)\nEthereum: $2,258 (+0.5% 24h)\nSolana: $94.52 (-1.4% 24h)\nToncoin: $1.23 (+3.8% 24h)"
     }
    ]
   },
@@ -4996,35 +5122,6 @@
    ]
   },
   {
-   "id": "lib-site-downdetector",
-   "kind": "library",
-   "library_kind": "site",
-   "score": 0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Downdetector",
-   "logos": [
-    {
-     "name": "Downdetector",
-     "domain": "downdetector.com",
-     "wiki": "Downdetector"
-    }
-   ],
-   "sources": [
-    {
-     "id": "site-downdetector",
-     "source": "library",
-     "trust": 3,
-     "url": "https://downdetector.com",
-     "title": "Downdetector",
-     "lang": "en",
-     "extra": {},
-     "published": "",
-     "text": "Downdetector shows in real time whether a service such as WhatsApp, YouTube or Instagram is down for many users, based on reports, so you know if the problem is on your side or not. Official link: https://downdetector.com"
-    }
-   ]
-  },
-  {
    "id": "lib-site-arts-culture",
    "kind": "library",
    "library_kind": "site",
@@ -5051,6 +5148,35 @@
      "extra": {},
      "published": "",
      "text": "Google Arts & Culture is a free platform from Google with high-resolution artworks and virtual tours of museums and historic sites from around the world. Official link: https://artsandculture.google.com"
+    }
+   ]
+  },
+  {
+   "id": "lib-site-ilovepdf",
+   "kind": "library",
+   "library_kind": "site",
+   "score": 0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "iLovePDF",
+   "logos": [
+    {
+     "name": "iLovePDF",
+     "domain": "ilovepdf.com",
+     "wiki": "iLovePDF"
+    }
+   ],
+   "sources": [
+    {
+     "id": "site-ilovepdf",
+     "source": "library",
+     "trust": 3,
+     "url": "https://www.ilovepdf.com",
+     "title": "iLovePDF",
+     "lang": "en",
+     "extra": {},
+     "published": "",
+     "text": "iLovePDF is a website with free tools to merge, split, compress and convert PDF files to and from Word, Excel, PowerPoint and images, directly in the browser. Official link: https://www.ilovepdf.com"
     }
    ]
   },
