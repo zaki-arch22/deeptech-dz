@@ -1,0 +1,141 @@
+[
+ {
+  "id": "2026-11-01-0813-news-sms-of-death",
+  "slot": "2026-11-01T08:13:00+01:00",
+  "type": "news",
+  "category": "news",
+  "cluster_id": "cb741f4188a",
+  "headline": "رسالة نصية واحدة قد تعطّل هاتفك الأندرويد",
+  "photo": {
+   "url": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/06/samsung-galaxy-s26-ultra-smartphone-16.jpg?resize=1200%2C630&ssl=1"
+  },
+  "photo_candidates": [
+   "https://cdn.dtmg.xyz/uploads/2026/06/samsung-galaxy-s26-ultra-smartphone-16.jpg",
+   "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/06/samsung-galaxy-s26-ultra-smartphone-16.jpg"
+  ],
+  "photo_query": "Samsung Galaxy Android smartphone screen",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Android",
+    "domain": "android.com"
+   }
+  ],
+  "text": "⚡ **رسالة نصية واحدة يمكنها أن تعطّل هاتفك الأندرويد دون أن تفتحها.**\n\nباحث أمني كشف ثغرة سمّاها **رسالة الموت**. تصل رسالة مصممة بطريقة خاصة، فلا تظهر في صندوق الرسائل، لكن النظام يعالجها في الخلفية فيتعطّل.\n\nالنتيجة:\n• **قطع المكالمات** الجارية.\n• **فقدان شبكة الهاتف** مؤقتاً.\n• مع عدة رسائل، قد يعلق الهاتف في **إعادة تشغيل متكررة**.\n\nالثغرة تصيب أندرويد 12 وما بعده، وجرّبها الباحث على هواتف بيكسل وسامسونج غالاكسي.\n\nجوجل أصلحتها في **تحديث الأمان لشهر أكتوبر 2026** لإصدارات أندرويد 14 إلى 17، أما أندرويد 12 و13 فلم يصلهما الإصلاح بعد.\n\nافتح الإعدادات ثم تحديث النظام، وثبّت آخر تحديث أمان متوفر.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-01-0827-news-reddit",
+  "slot": "2026-11-01T08:27:00+01:00",
+  "type": "news",
+  "category": "news",
+  "cluster_id": "ccc9df4f7ae",
+  "headline": "سهم ريديت يخسر 30% بسبب بحث جوجل الذكي",
+  "photo": {
+   "url": "https://cdn.decrypt.co/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg"
+  },
+  "photo_candidates": [
+   "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/reddit-decrypt-style-01-gID_7.jpg",
+   "https://media.thenextweb.com/2026/06/reddit-video-comments-launch.jpg"
+  ],
+  "photo_query": "Reddit logo smartphone app",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Reddit",
+    "domain": "reddit.com"
+   }
+  ],
+  "text": "⚡ **سهم ريديت يخسر 30% في يوم واحد، والسبب بحث جوجل بالذكاء الاصطناعي.**\n\nالسهم هبط يوم الجمعة إلى **90.15 دولار**، وخسر **44%** من قيمته في أسبوع واحد. هذا أسوأ يوم له منذ دخوله البورصة في 2024.\n\nالسبب أن الناس صاروا يجدون الجواب في ملخصات جوجل الذكية، فلا يضغطون على روابط ريديت. الزيارات القادمة من جوجل **تراجعت بأكثر من مليون في الأسبوع** خلال أكتوبر.\n\nإيرادات الشركة ارتفعت 53% في الربع الثالث، لكن توقعاتها للربع الأخير جاءت أقل مما انتظره المستثمرون.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-01-0844-sport-mexico-gp",
+  "slot": "2026-11-01T08:44:00+01:00",
+  "type": "news",
+  "category": "sport",
+  "cluster_id": "web-mexico-gp-antonelli",
+  "sources": [
+   {
+    "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-mexico-city-grand-prix-and-how-can-i-watch-it.7ugr1iuBkVF1pD5fqJHNA3",
+    "title": "What time is the Formula 1 2026 Mexico City Grand Prix and how can I watch it?",
+    "text": "Mexico City Grand Prix race start 1400 local time on Sunday 01 November 2026 (Mexico City is UTC-6, so 20:00 UTC, which is 21:00 in Algeria, UTC+1)."
+   },
+   {
+    "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-mexico-city-grand-prix.3qhXiCGvBjL6deUeE7qpvT",
+    "title": "IT'S RACE WEEK: 5 storylines ahead of the 2026 Mexico City Grand Prix",
+    "text": "A top-nine finish in Sunday's race will confirm him as World Champion. He will still be champion if neither Russell nor Hamilton win the race. Tenth will even be enough if it's Hamilton who wins. Antonelli could become the youngest World Champion."
+   },
+   {
+    "url": "https://formula1.com/en/latest/article/hamilton-clinches-first-pole-with-ferrari-in-qualifying-at-the-mexico-city-gp",
+    "title": "Hamilton claims first pole for Ferrari at Mexico City GP",
+    "text": "Lewis Hamilton clinched his first pole position with Ferrari in qualifying at the Mexico City Grand Prix at the Autodromo Hermanos Rodriguez. Kimi Antonelli of Mercedes leads the championship."
+   }
+  ],
+  "headline": "أنتونيلي قد يصبح الليلة أصغر بطل للفورمولا 1",
+  "photo": {
+   "url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Mexico/Mexico%20header%20SEO.webp"
+  },
+  "photo_candidates": [
+   "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Qualifying/2302907765.webp",
+   "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Mexico___Qualifying/2302907765.webp"
+  ],
+  "photo_query": "Autodromo Hermanos Rodriguez Formula 1 race",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Formula 1",
+    "domain": "formula1.com"
+   }
+  ],
+  "text": "⚡ **كيمي أنتونيلي قد يصبح الليلة أصغر بطل للعالم في تاريخ الفورمولا 1.**\n\nأنتونيلي، سائق مرسيدس، يحسم اللقب إن أنهى سباق جائزة المكسيك الكبرى **ضمن التسعة الأوائل**. وحتى إن حلّ عاشراً أو أبعد، يبقى بطلاً إن لم يفز راسل أو هاميلتون بالسباق.\n\nلويس هاميلتون ينطلق من **المركز الأول**، في أول انطلاقة أولى له مع فيراري.\n\nالسباق اليوم الأحد على **الساعة 21:00 بتوقيت الجزائر**، في حلبة الإخوة رودريغيز بمدينة مكسيكو.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-01-0856-market-crypto",
+  "slot": "2026-11-01T08:56:00+01:00",
+  "type": "market",
+  "category": "market",
+  "cluster_id": "market-2026-11-01",
+  "headline": "بيتكوين ترتفع إلى 77,848 دولار صباح الأحد",
+  "photo": {
+   "url": "https://images.pexels.com/photos/6770513/pexels-photo-6770513.jpeg?auto=compress&cs=tinysrgb&w=2000"
+  },
+  "photo_candidates": [
+   "https://images.pexels.com/photos/6770513/pexels-photo-6770513.jpeg?cs=srgb&dl=pexels-alesiakozik-6770513.jpg&fm=jpg",
+   "https://images.pexels.com/photos/6770513/pexels-photo-6770513.jpeg?auto=compress&cs=tinysrgb&h=627&fit=crop&w=1200"
+  ],
+  "photo_query": "Bitcoin physical coin",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Bitcoin",
+    "domain": "bitcoin.org"
+   }
+  ],
+  "text": "📈 **بيتكوين ترتفع إلى 77,848 دولار صباح الأحد، والسوق أهدأ بعد أسبوع سرقة بينانس.**\n\nالعملات الكبرى خلال آخر 24 ساعة:\n\nبيتكوين: 77,848 دولار، بارتفاع 0.8%\nإيثريوم: 2,269 دولار، بارتفاع 1.2%\nسولانا: 95.67 دولار، بتراجع 0.2%\nتون كوين: 1.22 دولار، بارتفاع 2.6%\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-01-0909-app-google-lens",
+  "slot": "2026-11-01T09:09:00+01:00",
+  "type": "app",
+  "category": "app",
+  "cluster_id": "lib-app-google-lens",
+  "headline": "جوجل لنز: كاميرا هاتفك تترجم وتشرح كل شيء",
+  "sources": [
+   {
+    "url": "https://blog.google/products/google-lens/google-lens-features/",
+    "title": "8 ways Google Lens can help make your life easier",
+    "text": "Identify landmarks, plants and animals. Translate text on signs and menus. Homework help: snap a picture of a problem to get step-by-step guidance. Shop for products from photos."
+   }
+  ],
+  "photo": {
+   "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/lens_update_hero.width-1300.jpg"
+  },
+  "photo_candidates": [
+   "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/lens_update_hero.width-2000.format-webp.webp",
+   "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/lens_update_hero.width-1600.format-webp.webp"
+  ],
+  "photo_query": "Google Lens app smartphone camera translation",
+  "gallery": [],
+  "logos": [],
+  "text": "⚡ **وجّه كاميرا هاتفك نحو أي شيء، وجوجل لنز يترجمه ويشرحه لك مجاناً.**\n\nتطبيق من جوجل يحوّل الكاميرا إلى محرك بحث:\n• **ترجمة فورية** للافتات وقوائم الطعام وأي نص أمامك.\n• **نسخ النص** من ورقة أو كتاب ولصقه في هاتفك.\n• **مساعدة في الواجبات**: صوّر التمرين فيعطيك الشرح خطوة بخطوة.\n• **التعرّف على النباتات** والحيوانات والمعالم والمنتجات.\n\nمجاني على أندرويد، وموجود على آيفون داخل تطبيق جوجل.\n\n🔗 play.google.com/store/apps/details?id=com.google.ar.lens\n\n◆ @DeeptechDZ"
+ }
+]
