@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T16:35:08+00:00",
+ "generated_at": "2026-11-01T17:05:32+00:00",
  "clusters": [
   {
    "id": "caac949def3",
@@ -557,74 +557,6 @@
    ]
   },
   {
-   "id": "cada8d8f1b1",
-   "kind": "news",
-   "score": 21.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Binance says it covered 90% of losses in cyberattack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/economy/binance-says-it-covered-90-of-losses-in-cyberattack/4107700",
-     "title": "Binance says it covered 90% of losses in cyberattack",
-     "lang": "en",
-     "extra": {},
-     "id": "94e05348543cd20e",
-     "published": "2026-11-01T00:24+00:00",
-     "text": "Company says remaining 10% consisted of lower-liquidity tokens"
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
-     "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
-     "lang": "en",
-     "extra": {},
-     "id": "fd04b66f83a2c86b",
-     "published": "2026-11-01T06:20+00:00",
-     "text": ""
-    },
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-     "lang": "en",
-     "extra": {},
-     "id": "6823fce0faaead9f",
-     "published": "2026-11-01T10:35+00:00",
-     "text": ""
-    },
-    {
-     "source": "Reddit tech & AI",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xkpdbd/binance_says_90_of_63_billion_hack_losses_are_now",
-     "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-     "lang": "en",
-     "extra": {},
-     "id": "ada8d8f1b1c9e59e",
-     "published": "2026-11-01T00:13+00:00",
-     "text": "submitted by\n/u/Logical_Welder3467\nto\nr/technology\n[link]\n[comments]"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2YyTGwzbUNaa2oxcUJoeDZoTTZOaDB0MENBc3Ewa2JURFRCVG00cDVxbW1BczVGNzBaa2hUUHFQSXlGaFl3WjdTUUUzbDJCUnZvdW9nZmczZVllNHV1QldfYnZjYVN2SU5wOXJqRVI4ejRYZUMteG1yWnUtMVdXbERMREh0bDIyTE9wTllxaGFGMWstM29NM3EtOGM0N1dObHBUQzMyWHVpZkNoSzlz?oc=5",
-     "title": "Binance to Resume Customer Withdrawals in Phases After Hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "dab83e80ea2ec1ae",
-     "published": "2026-11-01T10:28+00:00",
-     "text": "Binance to Resume Customer Withdrawals in Phases After Hack\nBloomberg.com\nSee more headlines & perspectives on Google News"
-    }
-   ]
-  },
-  {
    "id": "c78b9415399",
    "kind": "news",
    "score": 21.0,
@@ -870,6 +802,74 @@
      "id": "efd2157682651e0f",
      "published": "2026-11-01T09:53+00:00",
      "text": "Federal judge rules president failed to establish ‘actual malice’ in newspaper’s reporting on alleged letter to Jeffrey Epstein, media reports"
+    }
+   ]
+  },
+  {
+   "id": "cada8d8f1b1",
+   "kind": "news",
+   "score": 20.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Binance says it covered 90% of losses in cyberattack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/economy/binance-says-it-covered-90-of-losses-in-cyberattack/4107700",
+     "title": "Binance says it covered 90% of losses in cyberattack",
+     "lang": "en",
+     "extra": {},
+     "id": "94e05348543cd20e",
+     "published": "2026-11-01T00:24+00:00",
+     "text": "Company says remaining 10% consisted of lower-liquidity tokens"
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
+     "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
+     "lang": "en",
+     "extra": {},
+     "id": "fd04b66f83a2c86b",
+     "published": "2026-11-01T06:20+00:00",
+     "text": ""
+    },
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+     "lang": "en",
+     "extra": {},
+     "id": "6823fce0faaead9f",
+     "published": "2026-11-01T10:35+00:00",
+     "text": ""
+    },
+    {
+     "source": "Reddit tech & AI",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xkpdbd/binance_says_90_of_63_billion_hack_losses_are_now",
+     "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+     "lang": "en",
+     "extra": {},
+     "id": "ada8d8f1b1c9e59e",
+     "published": "2026-11-01T00:13+00:00",
+     "text": "submitted by\n/u/Logical_Welder3467\nto\nr/technology\n[link]\n[comments]"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2YyTGwzbUNaa2oxcUJoeDZoTTZOaDB0MENBc3Ewa2JURFRCVG00cDVxbW1BczVGNzBaa2hUUHFQSXlGaFl3WjdTUUUzbDJCUnZvdW9nZmczZVllNHV1QldfYnZjYVN2SU5wOXJqRVI4ejRYZUMteG1yWnUtMVdXbERMREh0bDIyTE9wTllxaGFGMWstM29NM3EtOGM0N1dObHBUQzMyWHVpZkNoSzlz?oc=5",
+     "title": "Binance to Resume Customer Withdrawals in Phases After Hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "dab83e80ea2ec1ae",
+     "published": "2026-11-01T10:28+00:00",
+     "text": "Binance to Resume Customer Withdrawals in Phases After Hack\nBloomberg.com\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -1863,6 +1863,274 @@
    ]
   },
   {
+   "id": "cbb59421aee",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/scene/news/heidi-klum-halloween-2026-severed-human-hand-costume-1236935653",
+     "title": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/10/2302926100.jpg?crop=0px%2C505px%2C3155px%2C1776px&resize=1000%2C563"
+     },
+     "id": "bb59421aeee3022f",
+     "published": "2026-11-01T03:12+00:00",
+     "text": "Is it really Halloween without Heidi Klum?\nThe supermodel, who has become known for her over-the-top costumes, has returned for another year of her annual Halloween party, this year opting to dress as a severed human hand.\nAt last year’s party, Klum dressed as the mythological monster Medusa, which featured a headpiece decorated with writhing snakes and a trailing tail, while her husband, Tom Kaulitz, went as an ancient Greek soldier she had turned to stone. It ultimately took a team of 15 artists to create her costume, Klum told Variety at the 2025 event.\n“There still needs to be people that create moments with real people … to me, it’s like a beautiful art,” she said. When asked about her elaborate look, she shared, “This is only good for the night. Tonight. Everything goes down the drain, so to speak, in the shower.”\nThis year’s celebration marked the 25th year of Klum’s Halloween party. Some of her past looks include notable characters such as E.T., Fiona from “Shrek,” Jessica Rabbit and the werewolf from Michael Jackson’s “Thriller,” as well as creatures like a peacock, worm and butterfly.\nEarlier this year, Klum hosted the 22nd season of “Project Runway,” where she also served as a judge alongside Nina Garcia and Law Roach. Klum returned to the fashion competition series last year after previously exiting in 2018. Prior to her departure, she hosted the show for 16 seasons since its 2004 debut on Bravo.\nAlongside Tim Gunn, Klum created a new fashion competition show titled “Making the Cut” for Prime Video in 2020, which ran for three seasons."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/heidi-klum-halloween-2026-costume-hand",
+     "title": "Heidi Klum reveals a giant severed hand as 2026 Halloween costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/01/e21a7b8a-1d55-430b-81d3-127441e41c91/thumbnail/1200x630/406a0eb7885c20c752ba755c8d752c1e/gettyimages-2302926241.jpg"
+     },
+     "id": "cbf2661b69f9fed6",
+     "published": "2026-11-01T07:28+00:00",
+     "text": "Heidi Klum underwent a bloody transformation to become a giant, gruesome severed hand for her annual Halloween party in New York on Saturday, 25 years after she began hosting the much-anticipated event.\nKlum was unrecognizable, with only her eyes and mouth showing, blood dripping from her mouth as she stuck her tongue out. The top of the hand ended in a gory assortment of dangling ligaments and tendons. She had an ensemble of helpers in blood-stained hazmat suits.\nThe idea came to her last year to be a giant hand - specifically her own left hand, with long red nails, a thumb ring, and her engagement ring and wedding band.\n\"I looked at my hand and I thought, 'Hey, I think I could fit my body in this somehow,'\" Klum said.\nThe supermodel-turned-TV personality went viral in 2022 when she arrived at the party on the end of a fishing line, encased in a slithering worm costume.\nIn past years, Klum has come dressed as the Greek myth Medusa, a peacock, an 8-foot-tall (2.4-meter-tall) \"Transformer,\" a werewolf from Michael Jackson's \"Thriller\" music video, a clone accompanied by several Klum-lookalikes, and Kali, the multiarmed Hindu goddess of death and destruction.\nKlum said it took about five to six hours to get into her hand costume this year, but making it took a lot longer. She posted hints on her Instagram earlier in the day as bloodied prosthetics were applied to her face.\n\"Hands down, the hardest thing is carrying it,\" Klum said. \"It's quite heavy.\"\nHer husband, musician Tom Kaulitz, did not attend this year because he was on tour. But the details on her costume include a tattoo of his name on her ring finger, along with her palm lines and veins.\n\"A little bit of Tom is with me,\" she said."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/tv/lifestyle/heidi-klum-halloween-costume-hand-video-b3077046.html",
+     "title": "Heidi Klum reveals inspiration for her most gruesome Halloween costume yet",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.ex.co/video-uploads/production/0010J000028qYZgQAM/e5a84466-3fe6-4ed7-9f90-b69f2e8c9c93-thumbnail.jpeg?cb=1793522537034"
+     },
+     "id": "db4169cf069a7420",
+     "published": "2026-11-01T11:55+00:00",
+     "text": "Showing now | Lifestyle\n01:25\nHeidi Klum reveals inspiration for her most gruesome Halloween costume yet\nHeidi Klum has revealed the inspiration behind her most gruesome Halloween costume yet.\nThe “Queen of Halloween” was unrecognisable as she unveiled her latest creation, a severed hand, at her 25th edition of the much-anticipated annual party.\nAs for what inspired the grisly costume, the model told the Associated Press: “My left hand inspired it. I looked at my hand, and I thought, ‘Hey, I think that I can fit my body inside of this somehow’, you know? And they did. They fit it inside.\n“Every year I always try and come up with something that is unusual. I don't think I've seen an actual person walking around like a hand.”\nBookmark popover\nRemoved from bookmarks"
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/video/2026/11/01/heidi-klum-turns-herself-into-a-giant-severed-hand-for-halloween",
+     "title": "Heidi Klum turns herself into a giant severed hand for Halloween",
+     "lang": "en",
+     "extra": {},
+     "id": "5500fc8e5b95cf5c",
+     "published": "2026-11-01T13:11+00:00",
+     "text": "Celebrities gathered in New York for Heidi Klum’s 25th annual Halloween party, with the host transforming herself into a gruesome severed hand and guests arriving in an array of elaborate costumes."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/heidi-klums-2026-halloween-party-costume-a-giant-bloody-replica-of-her-own-hand",
+     "title": "Heidi Klum's 2026 Halloween party costume: a giant bloody replica of her own hand",
+     "lang": "en",
+     "extra": {},
+     "id": "db7420b86ddf15d9",
+     "published": "2026-11-01T16:05+00:00",
+     "text": "“I looked at my hand and I thought, ‘Hey, I think I could fit my body in this somehow,’” Klum said of the inspiration for the costume, per the Associated Press."
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2phUjE2MXJ5OFp3RWNxWFZyNTgyUFpHQ1VYV2w4X2kwekxJVnlzMEZKNnVfdk1IcjN6MXBhVWRvS3k2VmhwQVVkV0pfbkVodXBkaVVkN3VQanB1UFprUUtXcEY5aGxOQUdzOElLZzIwTTBhMUxNN1diQkh5ZHUxakVIUXM2aWp6OUlDcUc0clIwUjBic051MDZ2SkFNNzhVVWc?oc=5",
+     "title": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party - Variety",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "f151c939c93a4a42",
+     "published": "2026-11-01T04:12+00:00",
+     "text": "- Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party Variety\n- Heidi Klum, the 'Queen of Halloween,' reveals 2026 costume WUSA9\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times\n- Heidi Klum kicks off Halloween with her kids, Sofia Vergara, more – Photos USA Today\n- Heidi Klum’s 25 Best Halloween Costumes, Ranked By How Much Time I Assume They Took To Put On BuzzFeed"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHFUY0puMk0zTDE1Z3BZc2Y0UklsUmNTT3FEUTFTcWFTU21hQ3o3eC04dHdGcUJPeFhsNGxpdE1RR2pCa2g4Umc2UmpjTGR2eUxwQ291RmE2cndyV0xrSjd3MGloNEtuWlRoSjB4dXRBNHdCaG5uSTJCOVNHZW5TRTRfckZwZEtZd0xXaUUwbjQtWmYzcGdUYWg2cUdYRWpt?oc=5",
+     "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years - AP News",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "02f8418784aea4be",
+     "published": "2026-11-01T05:19+00:00",
+     "text": "- Heidi Klum reveals Halloween costume as her iconic party marks 25 years AP News\n- Heidi Klum, the 'Queen of Halloween,' reveals 2026 costume WUSA9\n- Taylor Momsen, James Charles & More Celebrities Who Scared Up a Good Time at Heidi Klum’s Halloween Party E! News\n- Heidi Klum kicks off Halloween with her kids, Sofia Vergara, more – Photos USA Today\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xU2NoQXJXdllsekJ5aDJPVEVwX1RZamtsRERWRmFTRHUzU0xITERGcnNOQmlwV1Q3UlE5XzdKdzN1U2p4dTdrT0NValVTaHBlSy1WalM2S2hPeE1hd3VhanBfVDk4cld1anNZa0JNcTRWZ1daUl9v?oc=5",
+     "title": "Heidi Klum reveals a giant severed hand as 2026 Halloween costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "c707ee0f97efe302",
+     "published": "2026-11-01T07:28+00:00",
+     "text": "- Heidi Klum reveals a giant severed hand as 2026 Halloween costume CBS News\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times\n- Heidi Klum reveals Halloween costume as her iconic party marks 25 years ABC7 New York\n- Heidi Klum’s 2026 Halloween Party Photos Deadline\n- Heidi Klum Dresses as Her Own Giant Severed Hand for Halloween—Complete With Wedding Rings and Husband’s Name Tattoo Yahoo"
+    }
+   ]
+  },
+  {
+   "id": "c294dba0c45",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 6,
+   "title_hint": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "IndieWire",
+     "trust": 2,
+     "url": "https://indiewire.com/news/breaking-news/michael-mann-accidentally-shoots-himself-in-leg-hospitalized-1235224943",
+     "title": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range",
+     "lang": "en",
+     "extra": {},
+     "id": "8eb8973b71e03178",
+     "published": "2026-11-01T14:55+00:00",
+     "text": "The Oscar-nominated director of \"Heat\" and \"The Insider\" is in \"stable condition.\""
+    },
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/michael-mann-gun-accident-injury-report",
+     "title": "Michael Mann Hospitalized After Accidentally Shooting Himself In The Leg",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/michael-mann.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "36a2e8045073eaad",
+     "published": "2026-11-01T14:57+00:00",
+     "text": "Rianna is the Movie News Editor for ScreenRant. After earning her BA in Film Studies, she began her career as an entertainment writer, contributing to several publications before joining ScreenRant. Her dissertation on the impact of streaming on traditional cinema sharpened her focus on the ever-evolving world of film and media. With 10 years in the industry, Rianna continues to cover the stories she loves while also advocating for awareness and representation of rare disabilities, such as Moebius Syndrome, which she lives with.\nDirector Michael Mann was recently hospitalized.\nTMZ has reported that the filmmaker known for Heat has been hospitalized after accidentally shooting himself in the leg at a gun range in Los Angeles. According to TMZ's sources, Mann had been attempting to holster his weapon when the firearm went off. The LAPD confirmed the incident, which is understood to be completely accidental. Mann's rep has not yet responded to the reports.\nMore to come..."
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/film/news/michael-mann-shot-himself-gun-range-accident-1236936667",
+     "title": "Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg at Los Angeles Gun Range",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-1650946167.jpg?w=1000&h=563&crop=1"
+     },
+     "id": "e2c8bdf6baffbfbe",
+     "published": "2026-11-01T15:16+00:00",
+     "text": "Michael Mann was hospitalized after he accidentally shot himself in the leg on Saturday a Los Angeles gun range, according to the L.A. Police Department.\nThe director was reportedly injured while trying to holster the firearm when the weapon accidentally went off, per TMZ, which first reported the news. The incident occurred around 4 p.m. at the Range L.A., and L.A. PD confirmed he was in stable condition at the time of the call.\n“On Saturday, at a gun range, a weapon accidentally discharged while holstered resulting in a superficial injury to film director Michael Mann. He was treated and is being released,” Mann’s reps said in a statement.\nMann is best known for directing such movies as “Heat,” “Thief,” “Manhunter,” “Collateral” and “The Insider.” He last directed 2023’s “Ferrari,” a sports biopic starring Adam Driver as Enzo Ferrari and Penelope Cruz as his wife Laura.\nThe 83-year-old filmmaker is currently working on “Heat 2,” the long-awaited sequel to his 1995 crime drama starring Al Pacino and Robert De Niro. The first film, a box office hit, follows an explosive face-off between Los Angeles Police Department detective Lieutenant Vincent Hanna (Pacino) and professional thief Neil McCauley (De Niro). Mann adapted the screenplay for “Heat 2” from the 2022 novel of the same name that he co-wrote with Meg Gardiner. Described as a sequel and prequel to the original, the follow-up looks at the early lives of Pacino and De Niro’s characters. The cast is expected to include Leonardo DiCaprio, Christian Bale and Adam Driver.\n“The characters of ‘Heat’ are so alive to me,” Mann said during a 2025 masterclass at Lumiere Festival in France. “An idea occurred to me, based on the rapport between two lethal adversaries, Pacino’s Hannah and De Niro’s McCauley, about how to do both before the events of ‘Heat’ and after.”"
+    },
+    {
+     "source": "Hollywood Reporter",
+     "trust": 2,
+     "url": "https://hollywoodreporter.com/news/general-news/michael-mann-accidentally-shoots-himself-l-a-gun-range-1236744347",
+     "title": "Michael Mann Accidentally Shoots Himself at L.A. Gun Range",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Michael-Mann-getty-H-2026.png?w=1296&h=730&crop=1"
+     },
+     "id": "20ca834f921d3708",
+     "published": "2026-11-01T16:16+00:00",
+     "text": "Michael Mann was hospitalized on Saturday after accidentally shooting himself at a gun range in Los Angeles, The Hollywood Reporter has learned.\n“On Saturday, at a gun range, a weapon accidentally discharged while holstered resulting in a superficial injury to film director Michael Mann. He was treated and is being released,” a rep for the four-time Oscar-nominated filmmaker shared in a statement.\nThe Los Angeles Police Department said officers responded to The Range LA at around 4 p.m. for a call about shots fired. “Responding units’ investigation determined the shooting to be accidental. The subject was transported to a local hospital in stable condition,” authorities said.\nRelated Stories\nSources told TMZ that Mann was apparently trying to holster his gun during target practice at a sanctioned gun range when the firearm went off. He was later taken to a local hospital for minor injuries. Mann has been an experienced target shooter for decades.\nMann is currently in pre-production on Heat 2, which reportedly has Leonardo DiCaprio, Stephen Graham and Christian Bale attached to star. The film comes more than three decades after the 1995 crime drama Heat that starred Al Pacino, Robert De Niro, Val Kilmer and Jon Voight.\nHe’s also best known for directing 1981’s Thief, 1999’s The Insider, 2001’s Ali, 2004’s Collateral, 2006’s Miami Vice, 2009’s Public Enemies and 2023’s Ferrari, among others. Throughout his career, he’s received four Academy Award nominations, including best director, best picture and best adapted screenplay for The Insider, and best picture for 2005’s The Aviator."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/michael-mann-heat-los-angeles-hollywood-adam-driver-b3077140.html",
+     "title": "‘Heat’ director Michael Mann sustains ‘superficial injury’ at gun range",
+     "lang": "en",
+     "extra": {},
+     "id": "23e4c0152b8b1e7f",
+     "published": "2026-11-01T16:20+00:00",
+     "text": "Filmmaker Michael Mann was injured at a gun range in Los Angeles"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVB5cGIzWUZRTXZDVUthU0lPSUQ1RXpNSzJVOGtXTm1NTkdrWVRDUHB2eEdNcV82XzJnWVNuc0V3cVgzQnBndE1wMTZEMXF4ZGZ2cGhCRlZjQmFkVFlGckZ5LTVwTFRNVHRiTnJOYno5Wmg0RkR5Q0d6SnIxRjQ4ZDVvdEY1UQ?oc=5",
+     "title": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "294dba0c45520b79",
+     "published": "2026-11-01T13:09+00:00",
+     "text": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range\nTMZ\nSee more headlines & perspectives on Google News"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTRzcDA4RlRQLXVXT1lvUGVZREFUVW1odklPTWdRVXlwTndIaDYzaW9nYWxKU3RKRjlyLVNNMHFSc0dHUWJRRHVrc1R3RjJmOWJ3RG1aNThBQzVSV3RtMWdTU1pXaWRkWXBmYXI3VEZqbU9WR1VUSG1fSzdlcWYwemwtelVoVjFINWF3cHdEU3pJbG1nOGJlaXNTckFhNDc3S1VvSlFSYksyT0pLaU40S0Rn?oc=5",
+     "title": "Director Michael Mann Accidentally Shoots Himself, Taken to Hospital (Report)",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "fd8e50478e1b2f1f",
+     "published": "2026-11-01T13:28+00:00",
+     "text": "Director Michael Mann Accidentally Shoots Himself, Taken to Hospital (Report)\nJust Jared\nSee more headlines & perspectives on Google News"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcTVyZWticlJzNUR1TmFTUW1zTEcwLURGRFk1QXRvZ2pqampDallXdVBoMHFGUkc1T0llR2JGMVZoaVJSeGdZODI2NHduXzdxSjdibzNmZ3NtSUNOcUhmUDZMbzJMU2hHS3NHMk91NHp3UDdfOHp2VkNubjRZRjlRVFJR?oc=5",
+     "title": "Michael Mann Accidentally Shoots Himself at Firing Range: Report",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "9398a5ef382ab9d1",
+     "published": "2026-11-01T13:55+00:00",
+     "text": "- Michael Mann Accidentally Shoots Himself at Firing Range: Report Consequence of Sound\n- ‘Heat’ director Michael Mann sustains ‘superficial injury’ at gun range AP News\n- Michael Mann Injured When Weapon Accidentally Discharges; Filmmaker OK Deadline\n- Michael Mann Accidentally Shoots Himself at L.A. Gun Range The Hollywood Reporter\n- Director Michael Mann, 83, Accidentally Shoots Himself at L.A. Gun Range People.com"
+    }
+   ]
+  },
+  {
+   "id": "c36dd9be99f",
+   "kind": "news",
+   "score": 15.5,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Two minutes of Persona 1 remake footage seemingly leaks online",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/38509069/view/668380665149917725",
+     "title": "Two minutes of Persona 1 remake footage seemingly leaks online",
+     "lang": "en",
+     "extra": {},
+     "id": "04b88c2a94168224",
+     "published": "2026-11-01T14:10+00:00",
+     "text": "Two minutes of footage from an unannounced turn-based RPG recently spilled online, and yep, it very much looks like a remake of the very first Persona game.\nA YouTube account aptly called 'P1REMAKE' only yesterday posted a little under two minutes of footage from what appears to be a Persona 1 remake. As expected, eagle-eyed fans quickly spotted the clip and soon spread it across several other social media platforms, with the footage since appearing on Reddit and X.\nOf course, you should take all leaks with an unhealthily huge handful of salt no matter how convincing they look - especially in the age of generative-AI videos and such. At the same time, there are quite a few good reasons to let yourself be a little hopeful for this remake.\nFor one, the two-minute clip is longer and more elaborate than gen-AI videos typically are. Several series fans have also pointed out the video shows Eriko summoning her Persona in combat, while using the exact same animation as Persona 4 Revival's version of bestie Yukiko. Revival doesn't actually launch until next year, which makes the pose quite suspicious.\nThen there's the fact that this type of leak isn't exactly new territory for Atlus' popular role-playing franchise. In 2023, footage from what ended up being called Persona 3 Reload leaked online and showed very similarly rough, clearly in-development scenes from the game's dungeons.\nOne other curiosity is the inclusion of Tatsuya, the protagonist from Persona 2 Innocent Sin, who doesn't actually show up in the series' first game. Some folks are speculating that the video might have been created as an internal proof-of-concept pitch for Sega and Atlus management, so Tatsuya would serve as a placeholder model in that case.\nA Persona 1 remake isn't entirely unlikely with or without this potential leak, either. Persona series producer Kazuhisa Wada recently said remakes of the first two games are \"probably eventually\" happening at some point in the future.\nPersona 4 Revival's new character isn't a Social Link after all, Atlus clarifies, but something else entirely: \"We apologize for the confusion\"\n[/url]"
+    },
+    {
+     "source": "Eurogamer",
+     "trust": 2,
+     "url": "https://eurogamer.net/persona-1-remake-be-your-true-mind-leak",
+     "title": "Footage of a Persona 1 remake has seemingly leaked online",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-16.28.57.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+     },
+     "id": "d3eb5479de58885b",
+     "published": "2026-11-01T16:35+00:00",
+     "text": "Almost two minutes of footage from what appears to be a remake of the original Persona has leaked online.\nThe clip, which seemingly gives the remake the subtitle Be Your True Mind, was shared on the GamingLeaksAndRumours subreddit. It was uploaded to file-sharing site Gofile on 31st October under a Japanese filename that translates as \"Megami Ibunroku Persona Remake\".\nInterestingly, the footage looks a lot like Atlus' more recent entries. It shows off stylish menus and a brief look at combat that closely resembles Persona 5 and Persona 3 Reload. There's also a short social link cutscene in a noticeably different, almost graphic novel art style.\nFans digging through the clip believe they have spotted several details that lend it credibility. These include what looks like Unreal Engine debug text in the top left corner during battle (Atlus switched to Unreal Engine for Persona 3 Reload), a new remix of the original PlayStation game's Pandora theme, and the protagonist being referred to as \"Boy With Earring\", which is how he is named in Persona 2: Eternal Punishment.\nAtlus has not announced a Persona 1 remake, and we can't verify the footage, so treat all of this with the usual caveats.\nHow do you solve a problem like Persona 4? At Gamescom, we sat down with series director Kazuhisa Wada to talk about the Persona 4 Remake, and ask about how Atlus is approaching the original text for the remake."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDBvRkxwak9Bd1Y2MlJWRnEwOGx5Zi1SV0d4Q0ZYbndjUGZzSnlXbHRxNkFHbE9tbnBxbFBZNW9BelFLMVZjRVk0NWQxSFRNZXp6NkV3TVZ4V2UxZTVXb1liT3FSLTNiVXFtUnZsd0N1YXZReUJQMTFIRE11WEYycg?oc=5",
+     "title": "Rumor: Persona remake footage appears online - Gematsu",
+     "lang": "en",
+     "extra": {},
+     "id": "36dd9be99f7c0cac",
+     "published": "2026-10-31T22:35+00:00",
+     "text": "- Rumor: Persona remake footage appears online Gematsu\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
+    }
+   ]
+  },
+  {
    "id": "cf9eb1ed017",
    "kind": "news",
    "score": 15.0,
@@ -2513,6 +2781,65 @@
    ]
   },
   {
+   "id": "c46294f822b",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Russia's FSB says minor detained over park attack threat after US tip-off",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/europe/russias-fsb-says-minor-detained-over-park-attack-threat-after-us-tip-off",
+     "title": "Russia's FSB says minor detained over park attack threat after US tip-off",
+     "lang": "en",
+     "extra": {},
+     "id": "46294f822bc5394f",
+     "published": "2026-11-01T14:57+00:00",
+     "text": "Nov 1 - Russia's Federal Security Service (FSB) said on Sunday that a Russian minor had been detained over a threat to carry out a terrorist attack in a Moscow park following a tip-off from the United States, news agency Interfax reported."
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/52c1cce961a1",
+     "title": "Russia foils Moscow attack plot after US tip-off",
+     "lang": "en",
+     "extra": {},
+     "id": "6ba83658857133ac",
+     "published": "2026-11-01T15:10+00:00",
+     "text": "Russia’s FSB says it detained a minor who shared photos from the palace and park complex, thanking Washington for providing information."
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVEpDUVhCYWticTBIZEZxaHVlMXBZbFp0ODd6RVB2c1VzNllrVFpHRk5SR3E4Uk9YeWRJVFVoVGhlLS10ckliNzkyTzdjNi1KRU85UG9UQXpvcjlteTdLcm5iTERreDNqaF9jSU1ndTBwN2pBcXdGNlhEYTRmTFpKOXVOMUl3Q21fQW9DS2gxUWpkYjdfYnlJWmROR3VEQk5KUVhNSGFMNFFHcUZmNTZ2UENLWks?oc=5",
+     "title": "Russia's FSB says minor detained over park attack threat after US tip-off",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "a6ffa26a0d6d9c81",
+     "published": "2026-11-01T15:32+00:00",
+     "text": "Russia's FSB says minor detained over park attack threat after US tip-off\nReuters"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/russia-detains-minor-over-alleged-moscow-attack-plot-after-us-warning?traffic_source=rss",
+     "title": "Russia detains minor over alleged Moscow attack plot after US warning",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae75dc9-1793547721.jpg?resize=1920%2C1440"
+     },
+     "id": "ee56b049e3f70ed3",
+     "published": "2026-11-01T16:24+00:00",
+     "text": "Russian authorities have detained a teenager suspected of planning an attack at a popular Moscow park after receiving a warning from the United States, according to Russia’s Interfax news agency, citing the Federal Security Service (FSB).\nThe FSB said the suspect, a Russian citizen, posted photos on TikTok wearing a balaclava and tactical clothing and holding what appeared to be an automatic weapon, Interfax reported on Sunday.\nRecommended Stories\nlist of 4 items- list 1 of 4Ukrainian evacuees from Russian-occupied Oleshky reunite with family\n- list 2 of 4A Gulf non-aggression pact could be the path forward\n- list 3 of 4Bulgarians vote in presidential run-off amid Black Sea tensions\n- list 4 of 4Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?\nThe suspect, who has not been identified, also reportedly shared photos taken at the Tsaritsyno Museum Reserve in southern Moscow with the caption: “I found a place.”\nThe FSB said a search of the suspect’s home uncovered the clothing and accessories seen in the photos, Interfax reported. The security service also said that the teen’s phone showed searches related to terrorist attacks and mass killings, as well as a subscription to a neo-Nazi Telegram channel.\nThe detention came after the US embassy in Moscow issued a security alert on Saturday warning of a “credible threat of a mass casualty event” at the Tsaritsyno Museum Reserve, a popular palace and park complex.\nThe embassy urged people to avoid the area and said the US government was coordinating with Russian authorities on a response.\nThe park was temporarily closed on Saturday following the warning.\n“We are grateful to the American side for providing the information,” the FSB said in its statement.\nRussia’s Investigative Committee is now considering what legal action to take against the suspect, the FSB said.\nThe US has previously warned Russia about potential attacks, including in March 2024, weeks before an attack on a Moscow concert hall by an affiliate of the ISIL group that killed more than 140 people.\nThe latest warning comes despite longstanding tensions between Washington and Moscow over Russia’s war in Ukraine."
+    }
+   ]
+  },
+  {
    "id": "cd7d362c557",
    "kind": "news",
    "score": 14.5,
@@ -3032,104 +3359,6 @@
    ]
   },
   {
-   "id": "cbb59421aee",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/scene/news/heidi-klum-halloween-2026-severed-human-hand-costume-1236935653",
-     "title": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/10/2302926100.jpg?crop=0px%2C505px%2C3155px%2C1776px&resize=1000%2C563"
-     },
-     "id": "bb59421aeee3022f",
-     "published": "2026-11-01T03:12+00:00",
-     "text": "Is it really Halloween without Heidi Klum?\nThe supermodel, who has become known for her over-the-top costumes, has returned for another year of her annual Halloween party, this year opting to dress as a severed human hand.\nAt last year’s party, Klum dressed as the mythological monster Medusa, which featured a headpiece decorated with writhing snakes and a trailing tail, while her husband, Tom Kaulitz, went as an ancient Greek soldier she had turned to stone. It ultimately took a team of 15 artists to create her costume, Klum told Variety at the 2025 event.\n“There still needs to be people that create moments with real people … to me, it’s like a beautiful art,” she said. When asked about her elaborate look, she shared, “This is only good for the night. Tonight. Everything goes down the drain, so to speak, in the shower.”\nThis year’s celebration marked the 25th year of Klum’s Halloween party. Some of her past looks include notable characters such as E.T., Fiona from “Shrek,” Jessica Rabbit and the werewolf from Michael Jackson’s “Thriller,” as well as creatures like a peacock, worm and butterfly.\nEarlier this year, Klum hosted the 22nd season of “Project Runway,” where she also served as a judge alongside Nina Garcia and Law Roach. Klum returned to the fashion competition series last year after previously exiting in 2018. Prior to her departure, she hosted the show for 16 seasons since its 2004 debut on Bravo.\nAlongside Tim Gunn, Klum created a new fashion competition show titled “Making the Cut” for Prime Video in 2020, which ran for three seasons."
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/heidi-klum-halloween-2026-costume-hand",
-     "title": "Heidi Klum reveals a giant severed hand as 2026 Halloween costume",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/01/e21a7b8a-1d55-430b-81d3-127441e41c91/thumbnail/1200x630/406a0eb7885c20c752ba755c8d752c1e/gettyimages-2302926241.jpg"
-     },
-     "id": "cbf2661b69f9fed6",
-     "published": "2026-11-01T07:28+00:00",
-     "text": "Heidi Klum underwent a bloody transformation to become a giant, gruesome severed hand for her annual Halloween party in New York on Saturday, 25 years after she began hosting the much-anticipated event.\nKlum was unrecognizable, with only her eyes and mouth showing, blood dripping from her mouth as she stuck her tongue out. The top of the hand ended in a gory assortment of dangling ligaments and tendons. She had an ensemble of helpers in blood-stained hazmat suits.\nThe idea came to her last year to be a giant hand - specifically her own left hand, with long red nails, a thumb ring, and her engagement ring and wedding band.\n\"I looked at my hand and I thought, 'Hey, I think I could fit my body in this somehow,'\" Klum said.\nThe supermodel-turned-TV personality went viral in 2022 when she arrived at the party on the end of a fishing line, encased in a slithering worm costume.\nIn past years, Klum has come dressed as the Greek myth Medusa, a peacock, an 8-foot-tall (2.4-meter-tall) \"Transformer,\" a werewolf from Michael Jackson's \"Thriller\" music video, a clone accompanied by several Klum-lookalikes, and Kali, the multiarmed Hindu goddess of death and destruction.\nKlum said it took about five to six hours to get into her hand costume this year, but making it took a lot longer. She posted hints on her Instagram earlier in the day as bloodied prosthetics were applied to her face.\n\"Hands down, the hardest thing is carrying it,\" Klum said. \"It's quite heavy.\"\nHer husband, musician Tom Kaulitz, did not attend this year because he was on tour. But the details on her costume include a tattoo of his name on her ring finger, along with her palm lines and veins.\n\"A little bit of Tom is with me,\" she said."
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/video/2026/11/01/heidi-klum-turns-herself-into-a-giant-severed-hand-for-halloween",
-     "title": "Heidi Klum turns herself into a giant severed hand for Halloween",
-     "lang": "en",
-     "extra": {},
-     "id": "5500fc8e5b95cf5c",
-     "published": "2026-11-01T13:11+00:00",
-     "text": "Celebrities gathered in New York for Heidi Klum’s 25th annual Halloween party, with the host transforming herself into a gruesome severed hand and guests arriving in an array of elaborate costumes."
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/01/heidi-klums-2026-halloween-party-costume-a-giant-bloody-replica-of-her-own-hand",
-     "title": "Heidi Klum's 2026 Halloween party costume: a giant bloody replica of her own hand",
-     "lang": "en",
-     "extra": {},
-     "id": "db7420b86ddf15d9",
-     "published": "2026-11-01T16:05+00:00",
-     "text": "“I looked at my hand and I thought, ‘Hey, I think I could fit my body in this somehow,’” Klum said of the inspiration for the costume, per the Associated Press."
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ2phUjE2MXJ5OFp3RWNxWFZyNTgyUFpHQ1VYV2w4X2kwekxJVnlzMEZKNnVfdk1IcjN6MXBhVWRvS3k2VmhwQVVkV0pfbkVodXBkaVVkN3VQanB1UFprUUtXcEY5aGxOQUdzOElLZzIwTTBhMUxNN1diQkh5ZHUxakVIUXM2aWp6OUlDcUc0clIwUjBic051MDZ2SkFNNzhVVWc?oc=5",
-     "title": "Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party - Variety",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "f151c939c93a4a42",
-     "published": "2026-11-01T04:12+00:00",
-     "text": "- Heidi Klum Dressed Up as a Severed Human Hand for Her Annual Halloween Party Variety\n- Heidi Klum, the 'Queen of Halloween,' reveals 2026 costume WUSA9\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times\n- Heidi Klum kicks off Halloween with her kids, Sofia Vergara, more – Photos USA Today\n- Heidi Klum’s 25 Best Halloween Costumes, Ranked By How Much Time I Assume They Took To Put On BuzzFeed"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHFUY0puMk0zTDE1Z3BZc2Y0UklsUmNTT3FEUTFTcWFTU21hQ3o3eC04dHdGcUJPeFhsNGxpdE1RR2pCa2g4Umc2UmpjTGR2eUxwQ291RmE2cndyV0xrSjd3MGloNEtuWlRoSjB4dXRBNHdCaG5uSTJCOVNHZW5TRTRfckZwZEtZd0xXaUUwbjQtWmYzcGdUYWg2cUdYRWpt?oc=5",
-     "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years - AP News",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "02f8418784aea4be",
-     "published": "2026-11-01T05:19+00:00",
-     "text": "- Heidi Klum reveals Halloween costume as her iconic party marks 25 years AP News\n- Heidi Klum, the 'Queen of Halloween,' reveals 2026 costume WUSA9\n- Taylor Momsen, James Charles & More Celebrities Who Scared Up a Good Time at Heidi Klum’s Halloween Party E! News\n- Heidi Klum kicks off Halloween with her kids, Sofia Vergara, more – Photos USA Today\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xU2NoQXJXdllsekJ5aDJPVEVwX1RZamtsRERWRmFTRHUzU0xITERGcnNOQmlwV1Q3UlE5XzdKdzN1U2p4dTdrT0NValVTaHBlSy1WalM2S2hPeE1hd3VhanBfVDk4cld1anNZa0JNcTRWZ1daUl9v?oc=5",
-     "title": "Heidi Klum reveals a giant severed hand as 2026 Halloween costume",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "c707ee0f97efe302",
-     "published": "2026-11-01T07:28+00:00",
-     "text": "- Heidi Klum reveals a giant severed hand as 2026 Halloween costume CBS News\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times\n- Heidi Klum reveals Halloween costume as her iconic party marks 25 years ABC7 New York\n- Heidi Klum’s 2026 Halloween Party Photos Deadline\n- Heidi Klum Dresses as Her Own Giant Severed Hand for Halloween—Complete With Wedding Rings and Husband’s Name Tattoo Yahoo"
-    }
-   ]
-  },
-  {
    "id": "cadf803a13e",
    "kind": "news",
    "score": 14.0,
@@ -3327,93 +3556,6 @@
    ]
   },
   {
-   "id": "c294dba0c45",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "IndieWire",
-     "trust": 2,
-     "url": "https://indiewire.com/news/breaking-news/michael-mann-accidentally-shoots-himself-in-leg-hospitalized-1235224943",
-     "title": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range",
-     "lang": "en",
-     "extra": {},
-     "id": "8eb8973b71e03178",
-     "published": "2026-11-01T14:55+00:00",
-     "text": "The Oscar-nominated director of \"Heat\" and \"The Insider\" is in \"stable condition.\""
-    },
-    {
-     "source": "Screen Rant",
-     "trust": 2,
-     "url": "https://screenrant.com/michael-mann-gun-accident-injury-report",
-     "title": "Michael Mann Hospitalized After Accidentally Shooting Himself In The Leg",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/michael-mann.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "36a2e8045073eaad",
-     "published": "2026-11-01T14:57+00:00",
-     "text": "Rianna is the Movie News Editor for ScreenRant. After earning her BA in Film Studies, she began her career as an entertainment writer, contributing to several publications before joining ScreenRant. Her dissertation on the impact of streaming on traditional cinema sharpened her focus on the ever-evolving world of film and media. With 10 years in the industry, Rianna continues to cover the stories she loves while also advocating for awareness and representation of rare disabilities, such as Moebius Syndrome, which she lives with.\nDirector Michael Mann was recently hospitalized.\nTMZ has reported that the filmmaker known for Heat has been hospitalized after accidentally shooting himself in the leg at a gun range in Los Angeles. According to TMZ's sources, Mann had been attempting to holster his weapon when the firearm went off. The LAPD confirmed the incident, which is understood to be completely accidental. Mann's rep has not yet responded to the reports.\nMore to come..."
-    },
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/film/news/michael-mann-shot-himself-gun-range-accident-1236936667",
-     "title": "Michael Mann Hospitalized After Accidentally Shooting Himself in the Leg at Los Angeles Gun Range",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/11/GettyImages-1650946167.jpg?w=1000&h=563&crop=1"
-     },
-     "id": "e2c8bdf6baffbfbe",
-     "published": "2026-11-01T15:16+00:00",
-     "text": "Michael Mann was hospitalized after he accidentally shot himself in the leg on Saturday a Los Angeles gun range, according to the L.A. Police Department.\nThe director was reportedly injured while trying to holster the firearm when the weapon accidentally went off, per TMZ, which first reported the news. The incident occurred around 4 p.m. at the Range L.A., and L.A. PD confirmed he was in stable condition at the time of the call.\n“On Saturday, at a gun range, a weapon accidentally discharged while holstered resulting in a superficial injury to film director Michael Mann. He was treated and is being released,” Mann’s reps said in a statement.\nMann is best known for directing such movies as “Heat,” “Thief,” “Manhunter,” “Collateral” and “The Insider.” He last directed 2023’s “Ferrari,” a sports biopic starring Adam Driver as Enzo Ferrari and Penelope Cruz as his wife Laura.\nThe 83-year-old filmmaker is currently working on “Heat 2,” the long-awaited sequel to his 1995 crime drama starring Al Pacino and Robert De Niro. The first film, a box office hit, follows an explosive face-off between Los Angeles Police Department detective Lieutenant Vincent Hanna (Pacino) and professional thief Neil McCauley (De Niro). Mann adapted the screenplay for “Heat 2” from the 2022 novel of the same name that he co-wrote with Meg Gardiner. Described as a sequel and prequel to the original, the follow-up looks at the early lives of Pacino and De Niro’s characters. The cast is expected to include Leonardo DiCaprio, Christian Bale and Adam Driver.\n“The characters of ‘Heat’ are so alive to me,” Mann said during a 2025 masterclass at Lumiere Festival in France. “An idea occurred to me, based on the rapport between two lethal adversaries, Pacino’s Hannah and De Niro’s McCauley, about how to do both before the events of ‘Heat’ and after.”"
-    },
-    {
-     "source": "Hollywood Reporter",
-     "trust": 2,
-     "url": "https://hollywoodreporter.com/news/general-news/michael-mann-accidentally-shoots-himself-l-a-gun-range-1236744347",
-     "title": "Michael Mann Accidentally Shoots Himself at L.A. Gun Range",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Michael-Mann-getty-H-2026.png?w=1296&h=730&crop=1"
-     },
-     "id": "20ca834f921d3708",
-     "published": "2026-11-01T16:16+00:00",
-     "text": "Michael Mann was hospitalized on Saturday after accidentally shooting himself at a gun range in Los Angeles, The Hollywood Reporter has learned.\n“On Saturday, at a gun range, a weapon accidentally discharged while holstered resulting in a superficial injury to film director Michael Mann. He was treated and is being released,” a rep for the four-time Oscar-nominated filmmaker shared in a statement.\nThe Los Angeles Police Department said officers responded to The Range LA at around 4 p.m. for a call about shots fired. “Responding units’ investigation determined the shooting to be accidental. The subject was transported to a local hospital in stable condition,” authorities said.\nRelated Stories\nSources told TMZ that Mann was apparently trying to holster his gun during target practice at a sanctioned gun range when the firearm went off. He was later taken to a local hospital for minor injuries. Mann has been an experienced target shooter for decades.\nMann is currently in pre-production on Heat 2, which reportedly has Leonardo DiCaprio, Stephen Graham and Christian Bale attached to star. The film comes more than three decades after the 1995 crime drama Heat that starred Al Pacino, Robert De Niro, Val Kilmer and Jon Voight.\nHe’s also best known for directing 1981’s Thief, 1999’s The Insider, 2001’s Ali, 2004’s Collateral, 2006’s Miami Vice, 2009’s Public Enemies and 2023’s Ferrari, among others. Throughout his career, he’s received four Academy Award nominations, including best director, best picture and best adapted screenplay for The Insider, and best picture for 2005’s The Aviator."
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVB5cGIzWUZRTXZDVUthU0lPSUQ1RXpNSzJVOGtXTm1NTkdrWVRDUHB2eEdNcV82XzJnWVNuc0V3cVgzQnBndE1wMTZEMXF4ZGZ2cGhCRlZjQmFkVFlGckZ5LTVwTFRNVHRiTnJOYno5Wmg0RkR5Q0d6SnIxRjQ4ZDVvdEY1UQ?oc=5",
-     "title": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "294dba0c45520b79",
-     "published": "2026-11-01T13:09+00:00",
-     "text": "Michael Mann Accidentally Shoots Himself in Leg at Los Angeles Gun Range\nTMZ\nSee more headlines & perspectives on Google News"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTRzcDA4RlRQLXVXT1lvUGVZREFUVW1odklPTWdRVXlwTndIaDYzaW9nYWxKU3RKRjlyLVNNMHFSc0dHUWJRRHVrc1R3RjJmOWJ3RG1aNThBQzVSV3RtMWdTU1pXaWRkWXBmYXI3VEZqbU9WR1VUSG1fSzdlcWYwemwtelVoVjFINWF3cHdEU3pJbG1nOGJlaXNTckFhNDc3S1VvSlFSYksyT0pLaU40S0Rn?oc=5",
-     "title": "Director Michael Mann Accidentally Shoots Himself, Taken to Hospital (Report)",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "fd8e50478e1b2f1f",
-     "published": "2026-11-01T13:28+00:00",
-     "text": "Director Michael Mann Accidentally Shoots Himself, Taken to Hospital (Report)\nJust Jared\nSee more headlines & perspectives on Google News"
-    }
-   ]
-  },
-  {
    "id": "cf33d51281f",
    "kind": "news",
    "score": 13.5,
@@ -3469,39 +3611,6 @@
      "id": "d194961c9a297212",
      "published": "2026-11-01T01:00+00:00",
      "text": "- Rumour: Alleged Persona 1 Remake Gameplay Leaks Online Push Square\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Persona 1 Remake Leak: Fans React to 2-Min Clip [2026] shattered.io\n- Persona 1 Remake Trailer Leak: 360p, Unconfirmed [2026] https://tech-insider.org/\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
-    }
-   ]
-  },
-  {
-   "id": "c36dd9be99f",
-   "kind": "news",
-   "score": 13.5,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Two minutes of Persona 1 remake footage seemingly leaks online",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38509069/view/668380665149917725",
-     "title": "Two minutes of Persona 1 remake footage seemingly leaks online",
-     "lang": "en",
-     "extra": {},
-     "id": "04b88c2a94168224",
-     "published": "2026-11-01T14:10+00:00",
-     "text": "Two minutes of footage from an unannounced turn-based RPG recently spilled online, and yep, it very much looks like a remake of the very first Persona game.\nA YouTube account aptly called 'P1REMAKE' only yesterday posted a little under two minutes of footage from what appears to be a Persona 1 remake. As expected, eagle-eyed fans quickly spotted the clip and soon spread it across several other social media platforms, with the footage since appearing on Reddit and X.\nOf course, you should take all leaks with an unhealthily huge handful of salt no matter how convincing they look - especially in the age of generative-AI videos and such. At the same time, there are quite a few good reasons to let yourself be a little hopeful for this remake.\nFor one, the two-minute clip is longer and more elaborate than gen-AI videos typically are. Several series fans have also pointed out the video shows Eriko summoning her Persona in combat, while using the exact same animation as Persona 4 Revival's version of bestie Yukiko. Revival doesn't actually launch until next year, which makes the pose quite suspicious.\nThen there's the fact that this type of leak isn't exactly new territory for Atlus' popular role-playing franchise. In 2023, footage from what ended up being called Persona 3 Reload leaked online and showed very similarly rough, clearly in-development scenes from the game's dungeons.\nOne other curiosity is the inclusion of Tatsuya, the protagonist from Persona 2 Innocent Sin, who doesn't actually show up in the series' first game. Some folks are speculating that the video might have been created as an internal proof-of-concept pitch for Sega and Atlus management, so Tatsuya would serve as a placeholder model in that case.\nA Persona 1 remake isn't entirely unlikely with or without this potential leak, either. Persona series producer Kazuhisa Wada recently said remakes of the first two games are \"probably eventually\" happening at some point in the future.\nPersona 4 Revival's new character isn't a Social Link after all, Atlus clarifies, but something else entirely: \"We apologize for the confusion\"\n[/url]"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDBvRkxwak9Bd1Y2MlJWRnEwOGx5Zi1SV0d4Q0ZYbndjUGZzSnlXbHRxNkFHbE9tbnBxbFBZNW9BelFLMVZjRVk0NWQxSFRNZXp6NkV3TVZ4V2UxZTVXb1liT3FSLTNiVXFtUnZsd0N1YXZReUJQMTFIRE11WEYycg?oc=5",
-     "title": "Rumor: Persona remake footage appears online - Gematsu",
-     "lang": "en",
-     "extra": {},
-     "id": "36dd9be99f7c0cac",
-     "published": "2026-10-31T22:35+00:00",
-     "text": "- Rumor: Persona remake footage appears online Gematsu\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
     }
    ]
   },
@@ -4154,28 +4263,6 @@
    ]
   },
   {
-   "id": "cc095008d09",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Block",
-     "trust": 2,
-     "url": "https://theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
-     "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-     "lang": "en",
-     "extra": {},
-     "id": "c095008d09170437",
-     "published": "2026-11-01T16:32+00:00",
-     "text": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike."
-    }
-   ]
-  },
-  {
    "id": "cc2b146d77d",
    "kind": "news",
    "score": 12.5,
@@ -4321,39 +4408,6 @@
    ]
   },
   {
-   "id": "c1996ff3024",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "CAF Beach Soccer AFCON : Angola - Making a historic debut",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CAF",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcmpQaWNaV1JtTHBja1p6SG53R2cwZGRQOU1TQ0M5VExLWmtYQVMyV21XMU9kOTctMHhJWE4zMU1uZVlfM0MwYi1Kem0tMDZvcE5sUWNGb3QtaVVQd1NXelE5WEQtNndTZUlTeDljSTJZNXZVR1lOTklDRWw1a2owTTFEcktkOFF2LXQ1eXJRNWVlemNpNDlacmt0SmNDcnM3ZEl6dWNfX2RjVW55RzBtUkFyakZsT3BBUF8ySTBILW1odw?oc=5",
-     "title": "CAF Beach Soccer AFCON : Angola - Making a historic debut",
-     "lang": "en",
-     "extra": {},
-     "id": "1996ff30245e73b3",
-     "published": "2026-11-01T08:41+00:00",
-     "text": "CAF Beach Soccer AFCON : Angola - Making a historic debut\nCAFOnline.com"
-    },
-    {
-     "source": "CAF",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSTRWZzlYNnhKcmRhakdPUjZsS1o3SHA0U3FEMlRJN2E2Z21BUEhpRHIwdExXMzRXVURMWE9wOF8tTHhVZ1pMbFExX1I5Tndua1pnMWluUDBYb2hZTm1HeDBYRGR2aXNCSU1fTTNlc0UwTXpxUi1KeTV6YVdjRzd6ZmtjUFBmazlxYWZuWmtDSTJrT295ZTl3Ym1QTW93TDdYeGhEOFZxbVkxcThqeGg1OWRZLWgzVmJCSjZ2X0tSRmFnOEVBREdZT1Q2ZWU5M1V3QjVjU0tlZllqV1k?oc=5",
-     "title": "The seven challengers set to test Senegal’s Beach Soccer AFCON supremacy",
-     "lang": "en",
-     "extra": {},
-     "id": "41febf63da422224",
-     "published": "2026-11-01T10:56+00:00",
-     "text": "The seven challengers set to test Senegal’s Beach Soccer AFCON supremacy\nCAFOnline.com"
-    }
-   ]
-  },
-  {
    "id": "c029d2eed83",
    "kind": "news",
    "score": 12.5,
@@ -4398,28 +4452,6 @@
      "id": "029d2eed83eeec5e",
      "published": "2026-11-01T10:44+00:00",
      "text": "- Fortnite Pirate Shop Explained: How to Unlock Access and Get Free Items Beebom\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- Fortnite is giving free skins if you win big: How to access the Pirate Shop Yahoo Tech\n- New Fortnite Item Makes Everything on the Item Shop Completely Free Polygon.com\n- Fortnite Pirate Shop Token Explained - Big Giveaway Hotspawn"
-    }
-   ]
-  },
-  {
-   "id": "c89db651591",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "F1’s longest pole career spans as Hamilton returns to top",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/f1s-longest-pole-position-career-spans-as-hamilton-returns-to-the-top-with-ferrari.6YDBxkSvAtUCaNxNQBAk8Z",
-     "title": "F1’s longest pole career spans as Hamilton returns to top",
-     "lang": "en",
-     "extra": {},
-     "id": "89db65159167650c",
-     "published": "2026-11-01T10:59+00:00",
-     "text": "Lewis Hamilton scored the 105th pole position at the Mexico City Grand Prix, extending his own record as the longest pole position career spans, coming over 19 years after his maiden top spot in Formula 1. We take a look at the top 10 drivers with the longest career spans between their first and last poles."
     }
    ]
   },
@@ -4705,6 +4737,54 @@
      "id": "0ccde8dacef0179f",
      "published": "2026-11-01T14:22+00:00",
      "text": "While there is new content being released to Netflix on a weekly basis, there are some movies and TV shows that cut through to become sensations. This includes dramatic shows like Squid Game, a Korean-language drama that took the world by storm. Movie-wise, some of its most successful films in recent years have including conspiracy thrillers like Carry-On, or last year's family-friendly animated sensation KPop Demon Hunters. It takes a lot for a Netflix title to set records for streaming, but those that come out on top say a lot about audiences' interests.\nThe current buzzworthy movie on Netflix is Collision Course. Like many of the platform's previous hit movies (Troll and Under Paris being the other big ones), this is a non-English-language film, the majority of it being in Spanish. Collision Course is a crime-thriller about a group of robbers that take over a Madrid bank during a major economic crisis, which subsequently triggers a battle for survival where the stakes could not be higher. The Spanish-language feature is helmed by Daniel Sánchez Arévalo, and features a leading cast of Laia Costa, Karra Elejalde, Tamar Novas, and Luis Zahera.\nCollision Course Is Netflix's #1 Movie In The World\nNow, just two days after its October 30 release on the platform, Collision Course has become a huge success on Netflix. The movie has opened to become the no. 1 film in the world, according to recent streaming data. This includes particular success across Spanish-speaking regions including Argentina, Costa Rica, Colombia, and Spain, all of which currently have Collision Course as their no.1 movie. The film also reached no. 3 status in the United States, and is on top 5 lists globally.\nThe movie is not popular enough yet to have amassed a Rotten Tomatoes score, but it is clear that audiences are responding positively, at least in their interest. It is too early to reach Netflix's list for their weekly Tudum rankings, but at this point it seems certain that Collision Course will be towards the top of the lists for the platform, in many markets.\nCollision Course Is A Perfect Money Heist Replacement\nCollision Course is an appealing title to fans of Netflix's popular Spanish-language series Money Heist. This series, now a multi-show franchise, also involves bank robbery in high-stakes situations. The show was a big hit when originally running on Netflix, and will likely have a lot of crossover viewership with fans of Collision Course, making the movie a great one for such fans to check out."
+    }
+   ]
+  },
+  {
+   "id": "c87e45987cf",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPclQyRzh6MGdSbUg3em9XODNmbWg3SUE1dXd6V2hpcDAySHRvRkEtUkZaSXFuUl92a2tBZjNsNldCcjVXOFhTbmNwNVdzUC1weldwSkdEZkFURmFVeXVKaFBMZzlUY0R3WGpqVjRiQVBpVld3aEhfck55TjNWT253QUhhR2QyTndvZ1E?oc=5",
+     "title": "'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart",
+     "lang": "en",
+     "extra": {},
+     "id": "87e45987cf7525ab",
+     "published": "2026-10-31T15:18+00:00",
+     "text": "'No Man's Sky' Players Pay Homage To Star Trek's Patrick Stewart\nPolygon.com"
+    },
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/star-trek-patrick-stewart-official-canon-proof",
+     "title": "Patrick Stewart Officially Exists In Star Trek Canon & A Trek Expert Proved It",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/picard-smiling-on-the-bridge-arch.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "aed9d1e155829c1f",
+     "published": "2026-11-01T11:00+00:00",
+     "text": "A Star Trek expert proved that Patrick Stewart officially exists in canon and, in a way, even appeared on Star Trek: The Next Generation in scenes with Captain Jean-Luc Picard. Stewart tragically passed away on October 26, 2026, at 86 years old. Among Sir Patrick Stewart's myriad accomplishments, he can lay claim to being the only Star Trek actor who existed in canon centuries before the character he plays was born.\nIn Star Trek, the general recognized rule is that something becomes official canon only if it appears or is mentioned in a TV series or movie. The 12 Star Trek TV shows, 14 feature films, and everything contained within them are considered \"official canon,\" although there are occasional exceptions and supplements like Star Trek: Short Treks (but not the animated Star Trek: very Short Treks).\nIn Patrick Stewart's case, the mission to prove the beloved actor officially joined Star Trek canon began with a book called The Globe Illustrated Shakespeare: The Complete Works, which appeared in episodes of Star Trek: The Next Generation. Q (John de Lancie) even threw this book at Captain Picard in TNG season 1's \"Hide & Q.\" This sparked a journey to discover a photo of Sir Patrick Stewart that appeared on-screen.\nProof That Patrick Stewart Officially Exists In Star Trek Canon\nJörg Hillebrand, a renowned researcher who worked on Star Trek: Picard season 3, spent years doing the work to prove that Patrick Stewart appeared on-screen in Star Trek: The Next Generation, thus making him officially part of canon. In a series of posts on his social media, Hillebrand (who sadly never met Stewart in real life) painstakingly described his process and discovery:\nHillebrand not only tracked down a physical copy of The Globe Illustrated Shakespeare, but took screencaps from DVDs of every time the book and its contents appeared in Star Trek: The Next Generation. However, Jörg eventually realized that TNG switched Shakespeare books and used a different in later episodes. That's when Hillebrand discovered a photo of a young, bearded Sir Patrick Stewart on pages 354/355 of Volume I of The Annotated Shakespeare:\nThe image of the mustachioed Patrick Stewart playing Touchstone in the 1968 Royal Shakespeare Company production of \"As You Like It\" was displayed in Captain Picard's ready room. Encased in glass, the double-page spread with Patrick Stewart is seen on-screen in Star Trek: The Next Generation episodes \"QPid,\" \"Silicon Avatar,\" \"True Q,\" and \"Descent, Part I.\"\nAs Hillebrand explains, this information isn't found in the many guides and compendiums about Star Trek. This was Jörg's discovery after years of research and determination. Not only does Hillebrand feel that it brought him closer to Sir Patrick Stewart, but to the best of his knowledge and expertise, Sir Patrick is the only Star Trek actor to be part of official canon, joining real-world luminaries like Mark Twain, Sir Isaac Newton, Leonardo Da Vinci, and Stephen Hawking.\nPatrick Stewart’s Picard Made Star Trek Shakespearean\nStar Trek has always had Shakespearean qualities in the characters' spoken dialogue and storytelling style, and many Star Trek actors have performed Shakespeare on stage. The Bard and his works have been part of the final frontier since Star Trek: The Original Series season 1's \"The Conscience of the King,\" when a company of actors brought murder aboard the Starship Enterprise.\nHowever, Sir Patrick Stewart elevated the Shakespearean qualities of Star Trek. Stewart's ped"
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/best-patrick-stewart-picard-star-trek-episodes",
+     "title": "6 Perfect Star Trek Episodes to Watch to Say Goodbye to Patrick Stewart",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/star-trek-capatain-picard.jpg?w=1200&h=675&fit=crop"
+     },
+     "id": "82ca82e874f13992",
+     "published": "2026-11-01T17:00+00:00",
+     "text": "Star Trek wouldn’t be the cultural phenomenon it is today without Patrick Stewart. Sure, William Shatner launched the franchise by playing the USS Enterprise Captain James T. Kirk in 79 episodes. But Stewart led the United Federation of Planets’ flagship as Captain Jean-Luc Picard in 178 episodes over seven seasons of Star Trek: The Next Generation, and then returned to the role for 30 more episodes in Star Trek: Picard.\nEven more significant than the quantity of Star Trek that Stewart made was the quality. Kirk is in many ways a classic pulp action hero. He faces conflicts head on, never afraid to throw a punch or flirt with a sexy alien. Picard represents a different form of masculinity, valuing compassion, knowledge, and communication above all else. He is the endlessly patient father figure for his crew, and for the next generation of Star Trek viewers, presiding over one of the most beautiful visions of what the future could look like. It’s that connection that has left fans in mourning following his death on Thursday at the age of 86.\nAny list of Stewart’s best episodes will closely mirror a general list of TNG’s best moments. Stewart brought incredible gravitas to the show’s most emotionally brutal scenes and gentle humor to its silliest scenarios. Stewart’s death is devastating, but TNG already taught fans how to deal with loss and embrace the best parts of life. Celebrate Stewart by reliving some of his finest moments in TNG’s six best Picard episodes.\n6 The Best of Both Worlds (Season 3, Episode 26 and Season 4, Episode 1)\nWriter Michael Piller and director Cliff Bole shocked fans with a rare cliffhanger, where the Borg capture and assimilate Picard. The Borg had only been teased in a single episode before establishing themselves as one of the series’ most devastating villains by using Picard’s knowledge to wipe out Starfleet’s entire armada. Stewart absolutely sells his transformation into the Borg emissary Locutus, bringing new menace to his dynamic with first officer William Riker (Jonathan Frakes), and pure heartbreak to the moment where Locutus sheds a single tear to show Picard was still locked in there somewhere.\n5 Chain of Command (Season 6, Episodes 10-11)\nStar Trek repeated the tactic of introducing a new villain by having them capture Picard in the two-parter Chain of Command, which set up the Cardassians ahead of the premiere of Star Trek: Deep Space Nine. Stewart brings the full weight of his Shakespearean training to his performance as he’s brutally tortured. While the episode’s most famous moment is Picard defiantly screaming at his captor as he’s freed, its most powerful scene is the ending, where the Captain admits to Counselor Troi (Marina Sirtis) just how close he was to breaking. It’s a profound demonstration of the character’s strength and his very human fragility.\n4 All Good Things… (Season 7, Episodes 25-26)\nTNG has one of the best series finales of all time, perfectly tying together the show’s first and last episodes by testing Picard’s ingenuity. Stewart does a phenomenal job portraying a man on the brink of madness as his consciousness is pulled between three timelines by Q (John de Lancie). The episode is a perfect encapsulation of the show’s values as Picard has to rely on the deep trust of his crew and demonstrates his willingness to do what’s right, no matter the cost. The series ends with a cosmic promise from Q to continue to follow humanity’s evolution. But just as profound is the far more mund"
     }
    ]
   },
@@ -5207,78 +5287,98 @@
    ]
   },
   {
-   "id": "c5a294ce805",
+   "id": "c92116f74b7",
    "kind": "news",
    "score": 12.0,
-   "sensitive": true,
+   "sensitive": false,
    "distinct_sites": 3,
-   "title_hint": "Inde Navarrette Takes Swipe at Shane Gillis During ‘SNL’ Monologue",
+   "title_hint": "North Korea tests cluster bomb warheads in latest ‘major’ weapons test",
    "official_image": null,
    "sources": [
     {
-     "source": "Variety",
+     "source": "Japan Times",
      "trust": 2,
-     "url": "https://variety.com/2026/tv/news/inde-navarrette-snl-shane-gillis-gym-monologue-1236936565",
-     "title": "Inde Navarrette Takes Swipe at Shane Gillis During ‘SNL’ Monologue",
+     "url": "https://japantimes.co.jp/news/2026/11/01/asia-pacific/north-korea-cluster-bomb-warhead",
+     "title": "North Korea tests cluster bomb warheads in latest ‘major’ weapons test",
      "lang": "en",
      "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-11.48.31-PM.png?crop=0px%2C72px%2C1673px%2C942px&resize=1000%2C563"
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571673.JPG?v=3.1"
      },
-     "id": "5a294ce80541c2be",
-     "published": "2026-11-01T03:52+00:00",
-     "text": "Following a Trump-centric cold open that featured the return of Tom Hanks’ David S. Pumpkins, “Saturday Night Live” host Inde Navarrette took the stage at Studio 8H for her first opening monologue. It was a fitting choice to have the star of the year’s breakout horror hit “Obsession” (and the internet’s apparent obsession) make her hosting debut on Halloween night, and the 25-year-old rising star seemed more than up for the occasion, unlike a certain stand-up comedian.\n“You probably know me from the movie ‘Obsession.’ And a lot of people ask me if I’m anything like my character Nikki and I’m like, ‘No… no, no, don’t do that!’” she joked, sliding into Nikki’s cadence. “But the thing is, is I’m nothing like my character in ‘Obsession.’ Like, my boyfriend is here tonight to support me and we have such a chill relationship, right?”\nThe camera then cut to Navarrette’s boyfriend, Nick Aiello, in the crowd bound and gagged to a chair. Then, the actress took a shot at Shane Gillis’ “SNL” monologue from earlier this month.\n“I can’t believe I’m saying this, but I’m going to be in a Marvel movie,” said Navarrette, who will be playing Rogue in the new “X-Men” movie. “And I know it’s really important for Marvel that you get really fit, so I’ve been working out a lot, so every morning I put on my little whore outfit and I hit the gym.”\nGillis got a lot of flak for a lame, lazy joke about how women dress like “whores” now when they go to the gym in “neon, like, artificial bait”-colored shorts."
+     "id": "92116f74b7ce406d",
+     "published": "2026-11-01T04:12+00:00",
+     "text": "North Korea said Sunday that it had tested cluster-bomb warheads for its tactical ballistic missiles a day earlier, the latest in a spate of weapons tests by the nuclear-armed country.\nDefense officials said the test “confirmed that the Standard Type 2 cluster-bomb warhead is capable of turning into ashes a target area of 12 to 13 hectares with its highest-density power,” the North’s official Korean Central News Agency said in a report.\nImages accompanying the report — which framed the event as a “major” weapons test — showed Hwasong-11D short-range ballistic missiles being fired, with the cluster warheads slamming into an island target.\nThe North’s Missile Administration called the test “a part of regular scientific research activities aimed at boosting the power of combat systems.”\n“We classify the cluster-bomb warheads into four categories according to special and standard purposes. Within this year we will enable units to select and use all those types according to operational aims and specific features of targets,” KCNA cited the unnamed general director of the North’s Missile Administration as saying.\nNorth Korean leader Kim Jong Un did not attend the test, which was overseen by Gen. Kim Jong Sik, a high-ranking official involved in developing the country’s munitions program.\nLast week, the North Korean leader called for his country to seize “absolute superiority” in drone technology as he attended an exhibition and demonstration of uncrewed aeronautical technology, including advanced tech that Pyongyang says employs artificial intelligence.\nEarlier this month, the North said it had tested a “new-type” precision-guided torpedo system that uses AI for target detection and guidance after claiming a successful test of two types of cruise missiles from a submarine.\nThe cluster warhead test also came amid heightened tensions between the two Koreas, with South Korea confirming the unusual conspicuous presence of a North Korean artillery piece positioned at the heavily armed border last week.\nPyongyang could be looking to build up its leverage by conducting the weapons tests ahead of any potential meeting between leader Kim and U.S. President Donald Trump at the Asia-Pacific Economic Cooperation summit in Shenzhen, China, later this month.\nTrump has repeatedly raised the prospect of such talks, though Kim has yet to publicly respond to his entreaties.\nOn Saturday, the United States, South Korea and Japan reaffirmed their commitment to the North’s “complete denuclearization,” as Pyongyang continues to reject its disarmament.\nNorth Korea has enshrined its status as a nuclear-armed state in law, and Kim and other top officials have said the idea of relinquishing its nukes is off the table.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
     },
     {
-     "source": "Hollywood Reporter",
+     "source": "Anadolu",
      "trust": 2,
-     "url": "https://hollywoodreporter.com/tv/tv-news/inde-navarrette-snl-shane-gillis-whore-gym-tom-hanks-1236744238",
-     "title": "‘SNL’: Inde Navarrette Digs at Shane Gillis’ Joke About Women Dressing Like “Whores” at the Gym as Tom Hanks Crashes Cold Open",
+     "url": "https://aa.com.tr/en/asia-pacific/north-korea-tests-tactical-ballistic-missile-cluster-warhead/4107710",
+     "title": "North Korea tests tactical ballistic missile cluster warhead",
      "lang": "en",
-     "extra": {
-      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-8.46.13-PM-e1793504811583.png?w=1440&h=810&crop=1"
-     },
-     "id": "6c7769d95e409f2f",
-     "published": "2026-11-01T03:54+00:00",
-     "text": "Inde Navarrette made her Saturday Night Live hosting debut on the show’s Halloween episode, and kicked things off with a dig at the most recent host of the late night series.\nThe actress began her monologue by referencing her star-making role in Obsession: “You probably know me from the movie Obsession. People ask me if I’m anything like my character Nikki, and I’m like, No. No, no, don’t do that.”\n“But the thing is, I’m nothing like my character in Obsession. Like, my boyfriend is here tonight to support me,” she said, as the camera panned over to her boyfriend, Nick Aiello, duck-taped in the audience. “We have such a chill relationship, right?”\nRelated Stories\nNavarrette went on to discuss how she’ll be next portraying Rogue in Marvel Studios’ X-Men reboot. The role requires a lot of working out, she noted. “I can’t believe I’m saying this, but I’m gonna be in a Marvel movie. I know it’s really important for Marvel that you get really fit, so I’ve been working out a lot.”\n“So every morning, I put on my little whore outfit, and I hit the gym,” she said, in a callback to Shane Gillis’ controversial monologue on the most recent episode of SNL on Oct. 10.\nDuring his SNL appearance, he said at the top of the episode, “I haven’t been to the gym in so long, I didn’t know women just dress like whores now. Look, I’m sorry, there’s no other way to describe. Have you seen it? I’ve seen it. You’ve seen the shorts? They’re those neon, like, artificial vape-colored [shorts], and the wrinkles go around the cheeks and all combine at the butthole. And don’t look, you’re not allowed to look!”\nContinuing with her monologue, Navarrette invited the SNL cast to the stage to show off their Halloween costumes “since none of the cast could go out tonight.” Marcello Hernandez appeared as “a sexy TSA agent,” as Kam Patterson portrayed Elizabeth Holmes.\nJeremy Culhane also joined, using his time during Navarrette’s monologue as an audition for Jake Schreier’s upcoming X-Men movie.\n“I know you were cast as Rogue in the new X-Men movie, and I randomly heard they, like, I guess they haven’t even cast Wolverine yet,” Culhane said, to which Navarrette replied, “Oh, I’m so sorry. I can’t comment on that.”\n“Well, I can, and I’d love to be in the movie with you,” Culhane, dressed as Wolverine, said. Grace Reiter then joined dressed up as none other than the bird at the center of the viral Kelly Clarkson, Art of Play controversy.\n“It’s actually a group costume,” Reiter said, as Veronika Slowikowska popped in dressed like American Idol winner. “I want to buy the bird,” she said. “Sell me the damn bird!”\n“I am not for sale!” Reiter as the bird said.\nTom Hanks’ classic Halloween character David S. Pumpkins made a surprise appearance in the cold open, opened by Reiter and Culhane as they embarked on a spooky ride.\nJames Austin Johnson’s Trump, of course, crashed the party to discuss the upcoming midterms.\n“Are you sad you don’t get to see your third David Pumpkins scene? I’ll send you four minutes. He keeps popping up and confusing the people on the ride. ‘But you don’t actually have a lot in common with Mr. Pumpkins.’ We both appeared in 2016. We’re both very loud, very orange, and very frankly annoying,” Johnson’s Trump said.\n“Good acting, great ass. A great ass on Hanks — something that I’ve enjoyed lately admiring,” he added. “Not that there’s anything wrong with that. Just that I might be gay.”\nHe was joined by Nicki Minaj (“my friend and future press secretary”), portr"
+     "extra": {},
+     "id": "37438fb4ad6bc916",
+     "published": "2026-11-01T04:39+00:00",
+     "text": "Pyongyang says warhead can devastate target area of nearly 32 acres"
     },
     {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVjQyakhobVQzWm1mOE11TXdfVDVWTEJkR3JjYlVkZ1BuclRNMDZiX0FQTktNYk9teWprZXlzQ0dLQ1FBUzI5Q0NDbng1WGNJaC1yNFoyTWtFLWtSVzliakE0ZU5RUTJJSkJFVEgzR2puU0VwbUtuV3N4NFFwZWlMbHBvX21jckQxR1ZIQWRTcktWc2NGQ1VjdloycUJmbmFyZGVhNVRpcw?oc=5",
-     "title": "Inde Navarrette Makes Shane Gillis Quip 'SNL' Opening Monologue - Deadline",
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/bd9f417dd102",
+     "title": "North Korea tests cluster warhead for tactical ballistic missile",
      "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "1a356b09c5820e03",
-     "published": "2026-11-01T03:58+00:00",
-     "text": "- Inde Navarrette Makes Shane Gillis Quip 'SNL' Opening Monologue Deadline\n- 'SNL' reveals host, musical guest ahead of Halloween show. Guess who? USA Today\n- ‘Obsession’ star Inde Navarrette hosts ‘SNL’ tonight — How to watch for free Page Six\n- 'SNL': Inde Navarrette Takes Swipe at Shane Gillis During Monologue Variety\n- ‘SNL’ Host Takes Brutal Shot at MAGA-Friendly Controversy The Daily Beast"
-    },
+     "extra": {},
+     "id": "5f85868eb69c29f2",
+     "published": "2026-11-01T05:36+00:00",
+     "text": "Pyongyang says the warhead can devastate up to 32 acres, as it plans to equip military units with four types of cluster warheads by year-end."
+    }
+   ]
+  },
+  {
+   "id": "c0c86c0807f",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "MotoGP keeps Qatar GP on track after meeting with teams but Yamaha withdraw",
+   "official_image": null,
+   "sources": [
     {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaVBPYlBmTDFOclUwLTlIbVlwdUpYOHBXZVdDellITnh6ZkR6ZHZFbzhCeDdVNjZrd1JqWTRiNTB4anhhR0Z0OFdBRVRXUjRKc2hZQThJMll3VTJrdGo1LXVvaEFwLTNVZHVfZVhrVVM0ZUFySF9PcWVFVTdFcTk4Q2QxSFRlODZjb3ZDbVhkdGd2ZldBZlBuWHVERjV4VmJpS3QwaGNFdkJ4bFlucS1NMVNOTG9ZWUNfSHhR?oc=5",
-     "title": "‘SNL’ Cold Open: Trump Crashes Tom Hanks’ Halloween to Praise His ‘Great A**’",
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR05GTVc3cEktM2pja2NRVmgxRDJDd0pfeU9kblJqQmxMMUlWTFBoMFhqUzdfOGpzb1g1S3RfeTNDN0YzaTl5alJZcFBLWDJuT2Q1akVLYThycmFxVmdJdy1kYUhzMC1WcjJTeGJoblJVS21Sa05nSGJ2aXB3SGZXMUJ4ODYxQnNNUXAwNVdVQVdyTlpMWS1uSzNVU05OeGJxLTZGdDB1OA?oc=5",
+     "title": "MotoGP keeps Qatar GP on track after meeting with teams but Yamaha withdraw",
      "lang": "en",
      "extra": {
       "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "c8512838eb87b89a",
-     "published": "2026-11-01T04:37+00:00",
-     "text": "- ‘SNL’ Cold Open: Trump Crashes Tom Hanks’ Halloween to Praise His ‘Great A**’ Rolling Stone\n- Tom Hanks Returns As David S. Pumpkins For 'SNL' Opener Deadline\n- ‘S.N.L.’ Plays Trick-or-Treat When Trump Interrupts David S. Pumpkins The New York Times\n- ‘SNL’ Cold Open Crashed by Tom Hanks as David S. Pumpkins, Nicki Minaj and Donald Trump, Who Admits He ‘Might Be Gay’ Variety\n- 'SNL' cold open brought back a beloved all-time Halloween character Yahoo"
+     "id": "0c86c0807f241072",
+     "published": "2026-11-01T04:14+00:00",
+     "text": "MotoGP keeps Qatar GP on track after meeting with teams but Yamaha withdraw\nReuters"
     },
     {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT3BvanN3RjlvcUh1S1huaUF4X1ExTWc0RmpBTHoydWNmbEZ0N2FhRzkxT3J5S0JnLUJqeF9KS3hMajcyVXpQXzc1aW9ielozMHFtd1hOdTFOSWJFMHRkbnN3MzNyV0tSS19OcmppSDd4VVQ1OXlMeUpydDZCY0lVZjllQjBzdEtfd2pRM2wtUlVEU1RsbHc?oc=5",
-     "title": "'SNL': Inde Navarrette Takes Swipe at Shane Gillis During Monologue - Variety",
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/11/1/yamaha-pulls-out-of-qatar-motogp-over-situation-in-the-middle-east?traffic_source=rss",
+     "title": "Yamaha pulls out of Qatar MotoGP over ‘situation in the Middle East’",
      "lang": "en",
      "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-03-09T160539Z_1341723459_UP1EK3918PDHE_RTRMADP_3_MOTOR-MOTOGP-QATAR-1793535777.jpg?resize=1920%2C1440"
      },
-     "id": "db0b27ebb3d82962",
-     "published": "2026-11-01T04:52+00:00",
-     "text": "- 'SNL': Inde Navarrette Takes Swipe at Shane Gillis During Monologue Variety\n- Inde Navarrette Makes Shane Gillis Quip 'SNL' Opening Monologue Deadline\n- Is ‘Saturday Night Live’ New Tonight? Here Are The Next Three Hosts For ‘SNL’ Season 52 Yahoo\n- How to watch ‘Obsession’ on Peacock after Inde Navarrette hosts SNL USA Today\n- ‘Obsession’ star Inde Navarrette hosts ‘SNL’ tonight — How to watch for free Page Six"
+     "id": "0fd9ad2809d9e580",
+     "published": "2026-11-01T12:32+00:00",
+     "text": "Yamaha has withdrawn its MotoGP team from next weekend’s race in Qatar, citing “the situation in the Middle East”.\nThe Japanese manufacturer announced its decision shortly after the Malaysian Grand Prix on Sunday.\n“Yamaha has not identified sufficient grounds to change its existing company-wide travel restrictions,” Yamaha said in a statement.\nAmong the racers on the MotoGP grid riding Yamaha bikes is France’s Fabio Quartararo, the 2021 world champion. Alex Rins of Spain is the other racer on the Yamaha team.\nThe sport’s governing body, the MotoGP Group, said it was “disappointed” by the decision and “Yamaha’s non-participation also carries sporting implications”.\n“While we recognise the team is subject to a broader corporate policy restricting travel to the Middle East, we do not believe this decision reflects the extensive assurances provided to all championship stakeholders,” it said.\nMotoGP said talks with the organisers in Qatar and safety advisers had not flagged any reasons to change plans for the event, which will run from Friday to November 8 at the Lusail International Circuit outside Qatar’s capital, Doha.\n“We communicated that position, together with the latest available information, to all manufacturers and teams today and welcome the confirmation from the remainder of the grid that they will compete in Qatar, and we thank them for that commitment,” the MotoGP Group said.\nThe statements were released shortly after the Malaysian MotoGP in Sepang, after which there are just three races left in the season.\nDucati’s reigning seven-time world champion, Marc Marquez, won the race at Sepang and could clinch the title in Doha.\nQatar was subject to Iranian attacks from February to April after the United States and Israel began a war on Iran. On Friday, a Qatari liquefied natural gas tanker was hit by unidentified objects in the Gulf, and in September 2025, Israel carried out an air strike on Doha that killed and injured Hamas leaders.\nAl Jazeera has requested a comment from the Qatar Motor and Motorcycle Federation."
+    },
+    {
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/formula1/articles/cm98z2966128o?at_medium=RSS&at_campaign=rss",
+     "title": "Yamaha will not travel to Qatar for MotoGP race",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5de7/live/5ff9c220-d5fa-11f1-b437-279121eb1cd9.jpg"
+     },
+     "id": "15aecff4222e191f",
+     "published": "2026-11-01T13:51+00:00",
+     "text": "- Published\nJapanese MotoGP team Yamaha have withdrawn from the Qatar Grand Prix because of the ongoing conflict in the Middle East.\nThe event at the Lusail International Circuit is set to take place on 6-8 November, having been postponed from April.\nMotoGP is going ahead with the race, despite reports 19 of 22 riders have signed a letter raising concerns, external about competing in Qatar during the US-Israeli war on Iran.\nIn February, the United States and Israel launched air strikes against Iran, which in return fired missiles at Israel, and at other countries in the region with links to the US.\nYamaha said it has \"not identified sufficient grounds to change its existing company-wide travel restrictions\" on travelling to the Middle East, with the Japanese government advising its citizens against non-essential travel to the region.\nMotoGP said it is \"disappointed\" by Yamaha's decision, which it says does not reflect the \"extensive assurances\" it has been given by Qatar and independent safety advisors that the race can go ahead.\nQatar has said it can guarantee teams would not be stranded in case of any escalation in the conflict.\nHow Israel resolves its political deadlock following recent elections and the results of Tuesday's US midterms could have significant impacts on the situation in the Middle East.\nMotoGP added there will be \"sporting implications\" for Yamaha's withdrawal. Fellow Japanese outfit Honda and Yamaha's satellite team Pramac Racing are currently set to compete in Qatar.\nWhat could this mean for F1?\nMotoGP is organised by Liberty Media, which also own Formula 1.\nThe F1 season is currently set to culminate in the Qatar GP from 27-29 November, followed by the Abu Dhabi GP on 4-6 December.\nF1 is continuing with plans to stage both races, having been given what it considers suitable security guarantees and reassurances, despite it being understood this is causing some disquiet in the paddock.\nF1 is being advised there have been no attacks on civilian infrastructure in Qatar or the United Arab Emirates since May.\nImola in Italy is being readied as a potential host for the final grand prix of the season on 4-6 December if the two races in Qatar and Abu Dhabi cannot be held."
     }
    ]
   },
@@ -5418,15 +5518,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-01/16",
+     "url": "https://market.local/crypto/2026-11-01/17",
      "title": "Market snapshot crypto 2026-11-01",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T16:33+00:00",
-     "text": "Bitcoin: $78,038 (+0.7% 24h)\nEthereum: $2,268 (+0.8% 24h)\nSolana: $94.67 (-1.3% 24h)\nToncoin: $1.22 (+0.4% 24h)"
+     "published": "2026-11-01T17:04+00:00",
+     "text": "Bitcoin: $78,088 (+0.7% 24h)\nEthereum: $2,268 (+0.9% 24h)\nSolana: $94.65 (-1.2% 24h)\nToncoin: $1.23 (+1.0% 24h)"
     }
    ]
   },
