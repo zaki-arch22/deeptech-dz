@@ -126,6 +126,9 @@ def main() -> int:
         sender = TelegramSender(bot, channel)
         for i in range(MAX_POSTS_PER_TICK):
             stats = run_once(ROOT, sender)
+            from .facebook import maybe_share
+            for post, image in stats.get("sent_posts", []):
+                maybe_share(bot, channel, store, post, image)
             for pid in stats["rejected"]:
                 tell(bot, admin, f"⛔ رفضت البوابة المنشور {pid}. الأسباب في queue/rejected.jsonl")
             if stats["skipped"]:

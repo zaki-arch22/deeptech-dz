@@ -86,7 +86,7 @@ def run_once(root: str | Path, sender: Sender, now: float | None = None) -> dict
     now = now or time.time()
     q = root / "queue"
     hist_p, rej_p = q / "history.jsonl", q / "rejected.jsonl"
-    stats = {"sent": [], "rejected": [], "skipped": [], "paused": False}
+    stats = {"sent": [], "rejected": [], "skipped": [], "paused": False, "sent_posts": []}
     if (root / "data" / "PAUSED").exists():
         stats["paused"] = True
         return stats
@@ -140,6 +140,7 @@ def run_once(root: str | Path, sender: Sender, now: float | None = None) -> dict
         _append(hist_p, entry)
         history.append(entry)
         stats["sent"].append(post["id"])
+        stats["sent_posts"].append((post, image))
         break  # at most one post per minute, even if several slots are due
     return stats
 

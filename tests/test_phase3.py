@@ -141,3 +141,20 @@ def test_admin_cancel_and_now(tmp_path):
     assert s["sent"] == [] or s["sent"] == ["later"]
     assert "cancelled by admin" in (root / "queue" / "rejected.jsonl").read_text(encoding="utf-8")
     assert "تقرير" in daily_report(root)
+
+
+def test_facebook_selection_and_caption(tmp_path, monkeypatch):
+    from dtdz import facebook as fb
+    from dtdz.store import Store
+    st = Store(tmp_path / "s.sqlite")
+    now = 1793500000.0
+    p = {"id": "x", "category": "course", "text": "🎁 **دورة مجانية**\n\nنص\n\n◆ @DeeptechDZ"}
+    assert fb.should_share(p, st, now)
+    st.put("fb:last", now - 600)
+    assert not fb.should_share(p, st, now)                       # 60-min gap
+    assert fb.should_share({**p, "breaking": True}, st, now)     # breaking skips the gap
+    assert not fb.should_share({**p, "category": "market"}, st, now - 7200 + 7200 * 2)
+    cap = fb.caption(p, "https://t.me/+abc")
+    assert "**" not in cap and "◆" not in cap and cap.endswith("https://t.me/+abc")
+    monkeypatch.delenv("FB_PAGE_ID", raising=False)
+    assert fb.maybe_share(None, "@c", st, p, tmp_path / "a.png") is None   # not configured: no-op

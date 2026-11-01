@@ -186,6 +186,9 @@ def maybe_daily_report(bot, root: Path, admin: int, store) -> None:
     if admin and now.hour >= 8 and not store.get(key)[0]:
         store.put(key, 1)
         try:
-            bot.send_message(admin, daily_report(root))
+            from .facebook import joins_report
+            import os
+            extra = joins_report(bot, os.environ.get("CHANNEL", ""), store)
+            bot.send_message(admin, daily_report(root) + (f"\n{extra}" if extra else ""))
         except Exception as exc:  # noqa: BLE001
             log.warning("report failed: %s", exc)

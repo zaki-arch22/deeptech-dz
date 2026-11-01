@@ -24,6 +24,8 @@ jobs:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
       CHANNEL: ${{ vars.CHANNEL || '@DeeptechDZ' }}
       ADMIN_ID: ${{ vars.ADMIN_ID || '5248230907' }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
     steps:
       - uses: actions/checkout@v4
 
