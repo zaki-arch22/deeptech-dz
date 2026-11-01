@@ -1,0 +1,82 @@
+[
+ {
+  "id": "2026-11-01-1902-market-evening",
+  "slot": "2026-11-01T19:02:00+01:00",
+  "type": "market",
+  "category": "market",
+  "cluster_id": "market-2026-11-01",
+  "headline": "بيتكوين ثابتة عند 78,068 دولار رغم أزمة بينانس",
+  "photo": {
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin_coins.jpg?width=2000"
+  },
+  "photo_candidates": [
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Bitcoin_BTC_golden_coin_with_the_symbol.jpg?width=2000",
+   "https://images.pexels.com/photos/6770513/pexels-photo-6770513.jpeg?auto=compress&cs=tinysrgb&w=2000"
+  ],
+  "photo_query": "Bitcoin physical coins close-up",
+  "gallery": [],
+  "logos": [],
+  "text": "📈 **بيتكوين ثابتة عند 78,068 دولار مساء الأحد، رغم موجة السحب الكبيرة من بينانس.**\n\nيوم إعادة فتح السحب على أكبر منصة عملات في العالم مرّ دون هزة في الأسعار. التغير في آخر 24 ساعة:\n\n• بيتكوين: 78,068 دولار، بارتفاع **0.7%**\n• إيثيريوم: 2,268 دولار، بارتفاع 0.8%\n• سولانا: 94.76 دولار، بتراجع **1.2%**\n• تون كوين: 1.23 دولار، بارتفاع 1.1%\n\nالموعد الذي ينتظره السوق هو الإثنين، حين تنشر بينانس تقريراً محدثاً عن احتياطاتها بعد السرقة.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-01-1921-sport-valkyries",
+  "slot": "2026-11-01T19:21:00+01:00",
+  "type": "sport",
+  "category": "sport",
+  "cluster_id": "cc13bbc17e0",
+  "headline": "فريق في موسمه الثاني يفوز بلقب الدوري الأمريكي للسيدات",
+  "photo": {
+   "url": "https://cdn.wnba.com/sites/4/2026/11/atl_gsv_recap_10312026.png"
+  },
+  "photo_candidates": [
+   "https://cdn.wnba.com/sites/4/2026/10/atl_gsv_recap_10262026_full.png",
+   "https://cdn.wnba.com/sites/4/2026/10/gsv_atl_recap_10242026-full.png"
+  ],
+  "photo_query": "Golden State Valkyries Chase Center WNBA game",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "WNBA",
+    "domain": "wnba.com"
+   }
+  ],
+  "text": "🏀 **فريق في موسمه الثاني فقط يفوز بلقب دوري كرة السلة الأمريكي للسيدات.**\n\nغولدن ستايت فالكيريز هزم أتلانتا دريم **68-63** ليلة أمس، في أول مباراة سابعة في تاريخ نهائيات الدوري، وحسم السلسلة 4-3.\n\nنجمة الفريق **غابي ويليامز** سجلت 30 نقطة ونالت لقب أفضل لاعبة في النهائي، مع أنها لم تسجل سوى نقطتين في النصف الأول.\n\nفي موسمه الأول خرج الفريق من الدور الأول، وهذا الموسم أنهى المرحلة العادية بـ32 فوزاً مقابل 12 هزيمة.\n\nالموسم كله حطم رقم الحضور في الدوري: **3.8 مليون** متفرج في 330 مباراة.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-01-1946-tool-ollama",
+  "slot": "2026-11-01T19:46:00+01:00",
+  "type": "tool",
+  "category": "tool",
+  "cluster_id": "lib-ollama",
+  "sources": [
+   {
+    "url": "https://ollama.com/blog/new-app",
+    "title": "Ollama's new app",
+    "text": "Ollama's new app is available for macOS and Windows. Download models and chat with them in the app. Drag and drop files, including text files and PDFs. Adjust context length to process large documents, which may use more memory. Multimodal: send images to models that support it, such as Google DeepMind's Gemma 3. Pure CLI versions are on GitHub releases."
+   },
+   {
+    "url": "https://ollama.com",
+    "title": "Ollama",
+    "text": "Run open models with zero data retention. Available for macOS, Windows and Linux. Ollama is a free tool to download and run open AI language models locally on your own computer, without sending your data to the internet once the model is downloaded."
+   }
+  ],
+  "headline": "شغّل الذكاء الاصطناعي على حاسوبك دون إنترنت",
+  "photo": {
+   "url": "https://files.ollama.com/ollama-app-screenshot.png"
+  },
+  "photo_candidates": [
+   "https://ollama.com/public/og.png",
+   "https://files.ollama.com/new.png",
+   "https://files.ollama.com/context_length.png"
+  ],
+  "photo_query": "Ollama app chat interface screenshot",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Ollama",
+    "domain": "ollama.com"
+   }
+  ],
+  "text": "⚡ **ذكاء اصطناعي يعمل على حاسوبك دون إنترنت، وملفاتك لا تخرج منه: هذا هو Ollama.**\n\nبرنامج **مجاني** تحمّل به نماذج ذكاء اصطناعي مفتوحة، مثل جيما من جوجل، ثم تحادثها على جهازك مثل شات جي بي تي.\n\n• تطبيق بواجهة محادثة على ويندوز وماك، ونسخة للينكس.\n• تسحب إليه ملف PDF أو نصاً طويلاً، فيلخصه ويجيب عن أسئلتك حوله.\n• يفهم الصور أيضاً مع النماذج التي تدعمها.\n• بعد تحميل النموذج يعمل **دون اتصال**، فلا تُرسل بياناتك إلى أي خادم.\n\nكلما كبر النموذج احتاج ذاكرة أكبر في جهازك، فابدأ بنموذج صغير.\n\n🔗 ollama.com\n\n◆ @DeeptechDZ"
+ }
+]
