@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T00:17:38+00:00",
+ "generated_at": "2026-11-01T00:48:13+00:00",
  "clusters": [
   {
    "id": "c154d6ff5e1",
@@ -125,6 +125,83 @@
    ]
   },
   {
+   "id": "c5d418554a7",
+   "kind": "news",
+   "score": 23.0,
+   "sensitive": true,
+   "distinct_sites": 6,
+   "title_hint": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC Tech",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+     "lang": "en",
+     "extra": {},
+     "id": "5d418554a770d850",
+     "published": "2026-10-31T02:12+00:00",
+     "text": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
+    },
+    {
+     "source": "Bloomberg Tech",
+     "trust": 2,
+     "url": "https://bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+     "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
+     "lang": "en",
+     "extra": {},
+     "id": "eee7e85f90847398",
+     "published": "2026-10-31T21:59+00:00",
+     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance."
+    },
+    {
+     "source": "Financial Times Tech",
+     "trust": 2,
+     "url": "https://ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+     "title": "FBI blames North Korean group for $6.3bn Binance cyber heist",
+     "lang": "en",
+     "extra": {},
+     "id": "bce01cdef721f4cc",
+     "published": "2026-10-31T22:34+00:00",
+     "text": "Crypto exchanges move to tighten security after record theft from world’s biggest digital assets venue"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/binance-hack-north-korea",
+     "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
+     "lang": "en",
+     "extra": {},
+     "id": "a1c01ba106a31b8e",
+     "published": "2026-10-31T23:20+00:00",
+     "text": "A cyberattack on Binance, the world's largest crypto exchange, was likely carried out by North Korea, according to a blockchain intelligence firm."
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack",
+     "title": "FBI blames North Korea for US$6 billion Binance crypto hack",
+     "lang": "en",
+     "extra": {},
+     "id": "ff3e7a45d1ce8dd6",
+     "published": "2026-10-31T23:33+00:00",
+     "text": ""
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "473bd658979d7399",
+     "published": "2026-11-01T00:38+00:00",
+     "text": ""
+    }
+   ]
+  },
+  {
    "id": "c2b51d8c5bc",
    "kind": "news",
    "score": 21.5,
@@ -187,72 +264,6 @@
      "id": "7be786ab681149c1",
      "published": "2026-10-31T12:37+00:00",
      "text": "submitted by\n/u/Miserable_Phase_2519\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "cac0dec14ef",
-   "kind": "news",
-   "score": 21.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NYT Technology",
-     "trust": 2,
-     "url": "https://nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
-     "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
-     "lang": "en",
-     "extra": {},
-     "id": "ac0dec14efaa95fc",
-     "published": "2026-10-30T15:16+00:00",
-     "text": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”"
-    },
-    {
-     "source": "Bloomberg Tech",
-     "trust": 2,
-     "url": "https://bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
-     "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-     "lang": "en",
-     "extra": {},
-     "id": "eee7e85f90847398",
-     "published": "2026-10-31T21:59+00:00",
-     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance."
-    },
-    {
-     "source": "Financial Times Tech",
-     "trust": 2,
-     "url": "https://ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
-     "title": "FBI blames North Korean group for $6.3bn Binance cyber heist",
-     "lang": "en",
-     "extra": {},
-     "id": "bce01cdef721f4cc",
-     "published": "2026-10-31T22:34+00:00",
-     "text": "Crypto exchanges move to tighten security after record theft from world’s biggest digital assets venue"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/binance-hack-north-korea",
-     "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
-     "lang": "en",
-     "extra": {},
-     "id": "a1c01ba106a31b8e",
-     "published": "2026-10-31T23:20+00:00",
-     "text": "A cyberattack on Binance, the world's largest crypto exchange, was likely carried out by North Korea, according to a blockchain intelligence firm."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack",
-     "title": "FBI blames North Korea for US$6 billion Binance crypto hack",
-     "lang": "en",
-     "extra": {},
-     "id": "ff3e7a45d1ce8dd6",
-     "published": "2026-10-31T23:33+00:00",
-     "text": ""
     }
    ]
   },
@@ -400,25 +411,14 @@
    ]
   },
   {
-   "id": "c5c182c89bd",
+   "id": "cab02bae0a4",
    "kind": "news",
-   "score": 20.0,
+   "score": 18.0,
    "sensitive": true,
-   "distinct_sites": 6,
-   "title_hint": "What we know about Binance's $6.3bn hack",
+   "distinct_sites": 5,
+   "title_hint": "What we know about the $6.3bn Binance hack",
    "official_image": null,
    "sources": [
-    {
-     "source": "BBC Business",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-     "title": "What we know about Binance's $6.3bn hack",
-     "lang": "en",
-     "extra": {},
-     "id": "5c182c89bda244a7",
-     "published": "2026-10-30T12:27+00:00",
-     "text": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history."
-    },
     {
      "source": "Financial Times Tech",
      "trust": 2,
@@ -473,72 +473,6 @@
      "id": "2ae9b6177f8a418c",
      "published": "2026-10-31T15:14+00:00",
      "text": "Here's what we know about the hack, possible North Korean involvement and Binance's investigation."
-    }
-   ]
-  },
-  {
-   "id": "cf05576c5f5",
-   "kind": "news",
-   "score": 19.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "HBO teases a new season of It: Welcome to Derry with 30-minute Halloween special",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Mashable",
-     "trust": 2,
-     "url": "https://mashable.com/entertainment/hbo-teases-a-new-season-of-it-welcome-to-derry-with-30-minute-halloween",
-     "title": "HBO teases a new season of It: Welcome to Derry with 30-minute Halloween special",
-     "lang": "en",
-     "extra": {},
-     "id": "f05576c5f57be68c",
-     "published": "2026-10-31T15:25+00:00",
-     "text": "After the success of HBO's horror TV show It: Welcome to Derry, released one year ago this month, it was no surprise that the network would renew the show for a second season, but nobody predicted that it would launch with a surprise special episode, released right on time for Halloween.\n\"A Story of Derry\" is a 30-minute bonus episode that simultaneously points fans to the season ahead and takes them back in time to the very origins of the entity that would become Pennywise the Clown.\nTwo YouTube/TikTok shorts were used to announce the special episode, the first more of a tease than the second, but both give us insight into the likely timeline of the series: sometime in the distant past, before the American founding.\nThe episode itself follows three children venturing alone into the Western Wood, where they encounter not only a malevolent, terrifying spirit but also something cosmic and beautiful, a counterweight to the horror and violence of Pennywise.\nFans of the series will love this mini-episode, but they will also surely be disappointed because the second season of It: Welcome to Derry isn't in production yet and therefore has no release window, let alone a release date. In a recent interview with the New York Post, showrunner Brad Caleb Kane promised that the new season would exceed the terror and suspense of the last, and indicated that they're actively writing it now, so a late-2027 or early-2028 release date is still a possibility.\nIn the meantime, horror fans should definitely check out \"A Story of Derry,\" not only for its own merits but for the additional backstory it brings to the Pennywise lore."
-    },
-    {
-     "source": "Variety TV",
-     "trust": 2,
-     "url": "https://variety.com/2026/tv/news/it-welcome-to-derry-halloween-special-hbo-max-1236936137",
-     "title": "‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max",
-     "lang": "en",
-     "extra": {},
-     "id": "eb0d26f83b567df9",
-     "published": "2026-10-31T16:50+00:00",
-     "text": "Happy Halloween, indeed! Just in time for the spooky holiday, HBO has released a surprise episode of “It: Welcome to Derry” on the streaming platform. Titled “A Story of Derry,” the special comes in at 30 minutes and is set hundreds of years before the show’s events and the introduction of Pennywise. The timing is […]"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/it-welcome-to-derry-drops-surprise-halloween-episode",
-     "title": "It: Welcome to Derry Drops Surprise Halloween Episode",
-     "lang": "en",
-     "extra": {},
-     "id": "07e77db60dff33a7",
-     "published": "2026-10-31T18:01+00:00",
-     "text": "HBO has jump-scared subscribers with a surprise episode of It: Welcome to Derry to help celebrate Halloween.\nLog in to HBO Max now, and you'll see a one-off story in Pennywise's playground that no one saw coming headlining the streamer's new arrivals. Titled \"A Story of Derry,\" the episode is only 30 minutes long and takes place hundreds of years before the events of Season 1, meaning you won't have to ditch any trick-or-treating or party prep to get the full picture.\nYou can read an official description for It: Welcome to Derry's A Story of Derry episode here: \"Hundreds of years before Pennywise, three youngsters venture into the Western Wood…where they encounter a terrifying ancient spirit.\"\nIT's a surprise Halloween treat.\n— HBO Max (@hbomax) October 31, 2026\nCatch this never-before-seen special exploring the origins of IT in Derry. #AStoryOfDerry is streaming now on HBO Max. 🎈 https://t.co/NH3NcMLt8n\nIt's the kind of shadow-drop Stranger Things fans can only dream of. Despite coming in at about half the length of Welcome to Derry's usual hour-long runtime, It fans will no doubt be happy to see any new content, considering there was no prior announcement that anything was in the works. After all, Season 1 came out just one year ago, and although Season 2 is greenlit, we probably won't get to see it until late 2027 at the earliest.\nStill, that didn't stop hardcore Stephen King fans from speculating that a surprise episode was slated to drop sometime around Halloween. In the weeks leading up to today's maybe not-so-unexpected announcement, there were some rumors that HBO had secretly shot a bonus episode.\nAfter Stranger Things left thousands of fans in the dark when their surprise finale episode theories didn't pan out, most Welcome to Derry watchers justifiably thought the rumors were nonsense. You can even see that hesitation in some of their comments.\n\"Completely fake,\" one fan said earlier this month.\n\"I’d be impressed they could keep a whole production with cast and crew under wraps in this day and age so doubting this but would be impressed to learn otherwise,\" another added.\nWell, anyway, A Story of Derry was directed by Reservation Dogs and The Paper alum Tazbah Chavez. It was written by Welcome to Derry producer Cherie Dimaline and the show's writer and editor, Jasmyne Flournoy.\nThe episode serves as an early, early look at its world, which is something the minds behind the show have teased they've wanted to do for years. Season 1 was set before the events of Bill Skarsgård's Pennywise-led movies, with a story that took place during the Cold War, and Season 2 is expected to follow events from 1935, with the planned third season previously said to be set in 1908.\nA Story of Derry turns back the clock earlier than anyone may have anticipated, and that only helps its surprise drop's shock factor. This is unlike anything It fans expected to see on Halloween today, but it'll almost certainly carve out some time in everyone's nights now. Meanwhile, the episode opens up with a bit more text about its premise. You can read it below:\n\"Generations ago, when the Kollu first preyed on our people, we left warnings for those who would come after. But we hid the truth inside a gentler tale, one our children could carry. This is the story we do not teach. This is the part we left out.\"\nIGN gave It: Welcome to Derry Season 1's premiere an 8/10 and its finale a 7/10. While we wait to see how A Story of Derry fits into King's big picture, you ca"
-    },
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/10/it-welcome-to-derry-halloween-hbo-max-1237210647",
-     "title": "‘It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max",
-     "lang": "en",
-     "extra": {},
-     "id": "f42532bc30f444f3",
-     "published": "2026-10-31T18:18+00:00",
-     "text": "All treat, no trick: HBO Max has released a surprise episode of It: Welcome to Derry for Halloween. “IT’s a surprise Halloween treat,” HBO Max posted on its Instagram page along with a brief clip of the episode (watch it below). “Catch this never-before-seen special exploring the origins of IT in Derry.” The episode, “A […]"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGZZVEZibWhqMmotdndzVjBaNjhHQ1h6VDQ3ckkwdUlOZlVWSUhydFZENzlla1FPSW9uNWV5OXJ3TlJjZUluQzFWODczYW4zX01yZXJmMGNHTVdqcFpGTVRFakl0SjE0QWdtRnIwa2dqbkR2MEloNmRPT0h5LTlSbmZIc19GZVhFb0g2RWtIc3NKUm9z?oc=5",
-     "title": "‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max - Variety",
-     "lang": "en",
-     "extra": {},
-     "id": "b1a65a15f70d794e",
-     "published": "2026-10-31T17:50+00:00",
-     "text": "- ‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max Variety\n- ‘It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max Deadline\n- ‘It: Welcome to Derry’: ‘A Story of Derry’ Surprise Special Hits HBO Max TV Insider\n- It: Welcome to Derry season 2 boss reveals Stephen King’s grandson role in new episodes Radio Times\n- HBO Max drops 'IT: Welcome to Derry' special upi"
     }
    ]
   },
@@ -1022,105 +956,6 @@
    ]
   },
   {
-   "id": "c10d80ba426",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Hamilton clinches first pole with Ferrari at Mexico City GP",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/hamilton-clinches-first-pole-with-ferrari-in-qualifying-at-the-mexico-city-gp.4GffzFhlnOxOjbHHMc0AJI",
-     "title": "Hamilton clinches first pole with Ferrari at Mexico City GP",
-     "lang": "en",
-     "extra": {},
-     "id": "0186ae649b60f8c5",
-     "published": "2026-10-31T23:45+00:00",
-     "text": "Lewis Hamilton has ended a three-year pole position drought in Qualifying at the Mexico City Grand Prix."
-    },
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/live-coverage-qualifying-in-mexico-city-2026.7rsM0FXrllMkwPI44GSR58",
-     "title": "AS IT HAPPENED: Hamilton claims scintillating pole in Mexico City",
-     "lang": "en",
-     "extra": {},
-     "id": "887b18171a9341ee",
-     "published": "2026-10-31T23:45+00:00",
-     "text": "Live coverage of the Formula 1 Qualifying session for the 2026 Mexico City Grand Prix."
-    },
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/live-coverage-third-practice-in-mexico-city-2026.3Ud38VpRJjlYJc5Gae4PGd",
-     "title": "AS IT HAPPENED: FP3 for the Mexico City Grand Prix",
-     "lang": "en",
-     "extra": {},
-     "id": "7602ce202e6c62ec",
-     "published": "2026-10-31T23:45+00:00",
-     "text": "Live coverage of the third Formula 1 practice session for the 2026 Mexico City Grand Prix."
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/f1/news/12040/13606015/mexico-city-gp-qualifying-lewis-hamilton-claims-first-pole-position-for-ferrari-by-edging-out-mercedes-george-russell",
-     "title": "Hamilton claims first pole for Ferrari at Mexico City GP",
-     "lang": "en",
-     "extra": {},
-     "id": "10d80ba426300aaa",
-     "published": "2026-10-31T22:10+00:00",
-     "text": "Lewis Hamilton claimed his first pole position for Ferrari by edging out Mercedes' George Russell in qualifying for the Mexico City Grand Prix."
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/watch/video/13606516/mexico-city-grand-prix-qualifying-highlights",
-     "title": "Mexico City Grand Prix - Qualifying Highlights",
-     "lang": "en",
-     "extra": {},
-     "id": "ada81da04d0f6645",
-     "published": "2026-10-31T22:23+00:00",
-     "text": "Highlights from qualifying for the 2026 Mexico City Grand Prix."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/f1/lewis-hamilton-lando-norris-hungary-george-russell-kimi-antonelli-b3076970.html",
-     "title": "Lewis Hamilton storms to first pole position in three years in Mexico",
-     "lang": "en",
-     "extra": {},
-     "id": "c4e966e0971c0ae4",
-     "published": "2026-10-31T22:33+00:00",
-     "text": "Hamilton showed every bit of that with a stunning display to take his first Ferrari pole and his first since Hungary in 2023 – 1,197 days ago."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/f1/lewis-hamilton-f1-pole-position-ferrari-mexican-grand-prix-b3076973.html",
-     "title": "Lewis Hamilton claims shock first Ferrari pole – and first in three years: ‘Lost for words’",
-     "lang": "en",
-     "extra": {},
-     "id": "bdd4b021d1b9b59e",
-     "published": "2026-10-31T22:39+00:00",
-     "text": "The 41-year-old claimed his first grand prix pole in Ferrari red at the Mexico City Grand Prix"
-    },
-    {
-     "source": "BBC Sport",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
-     "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
-     "lang": "en",
-     "extra": {},
-     "id": "93db889f9c195cfb",
-     "published": "2026-10-31T23:07+00:00",
-     "text": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix."
-    }
-   ]
-  },
-  {
    "id": "c935b3df5c6",
    "kind": "news",
    "score": 14.0,
@@ -1262,39 +1097,6 @@
      "id": "b7dc8191528b3129",
      "published": "2026-10-31T23:23+00:00",
      "text": "Lewis Hamilton turns back the clock by taking pole for the F1 Mexico City Grand Prix, while Australian Oscar Piastri's disastrous day sees him miss out on the top 10."
-    }
-   ]
-  },
-  {
-   "id": "c5e4ab4f104",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
-     "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
-     "lang": "en",
-     "extra": {},
-     "id": "5e4ab4f104e41af9",
-     "published": "2026-10-30T12:22+00:00",
-     "text": "Both firms blame the group behind the Bybit hack, as Binance says it has set aside $6.34 billion of its own funds to cover user losses."
-    },
-    {
-     "source": "BBC Tech",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "lang": "en",
-     "extra": {},
-     "id": "5d418554a770d850",
-     "published": "2026-10-31T02:12+00:00",
-     "text": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become."
     }
    ]
   },
@@ -1574,6 +1376,50 @@
      "id": "e07dacdb45dcc75e",
      "published": "2026-10-31T21:17+00:00",
      "text": "A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit accusing the SpaceX-owned company of failing to obtain permits needed to operate the gas turbines powering its Colossus data center outside Memphis.\nSuing on behalf of the NAACP, the Southern Environmental Law Center said the AI company had “installed and operated at least 35 combustion turbines and other sources of air pollution at the Colossus site without ever obtaining the necessary preconstruction or operating air permits.” It also accused xAI of violating the Clean Air Act.\nxAI sought to have the lawsuit dismissed, claiming that the turbines are exempt from permitting requirements because they’re mobile. The company also argued that the plaintiffs did not have the standing to sue.\n“Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not ‘mobile sources’ under Mississippi’s [State Implementation Plan], and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs’ claims will proceed,” Judge Debra M. Brown wrote in her decision.\nFocusing on xAI’s claim that these kinds of citizen lawsuits are unconstitutional, Judge Brown wrote, “Because citizen suit plaintiffs sue on their own behalf, in their own name, and seek penalties that redress harm to themselves, they are not exercising the federal government’s executive power.”\nTechCrunch has reached out to SpaceX for comment.\nIn a statement, the NAACP’s director of environmental and climate justice Abre’ Connor described this as “another important victory in our effort to hold xAI accountable.” (A similar motion to dismiss from the Department of Justice was denied earlier this month)\n“The courts have repeatedly rejected attempts by xAI and the DOJ to dismiss the NAACP’s Clean Air Act case, affirming our right to pursue justice for communities impacted by pollution,” Connor said. “Our position has been clear: xAI cannot operate gas turbines without the required permits.”\nThe NAACP lawsuit is moving forward as public opinion seems to have turned sharply against data centers, with New York recently passing a moratorium on new data centers and other state and local governments considering similar measures.\nThe backlash also prompted Amazon and Microsoft to promise to stop using NDAs in their dealings with government agencies, and it could be a significant factor in the imminent U.S. midterm elections."
+    }
+   ]
+  },
+  {
+   "id": "cfaeac0cce3",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+     "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+     "lang": "en",
+     "extra": {},
+     "id": "faeac0cce375b384",
+     "published": "2026-10-31T22:36+00:00",
+     "text": "Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting."
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+     "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+     "lang": "en",
+     "extra": {},
+     "id": "cded5e70f6fdf8c8",
+     "published": "2026-10-31T23:00+00:00",
+     "text": ""
+    },
+    {
+     "source": "Le Monde International",
+     "trust": 2,
+     "url": "https://lemonde.fr/international/article/2026/11/01/lettre-a-jeffrey-epstein-la-justice-rejette-la-plainte-en-diffamation-de-donald-trump-contre-le-wall-street-journal_6803834_3210.html",
+     "title": "La justice rejette la plainte en diffamation de Donald Trump contre le « Wall Street Journal » au sujet d’une lettre à Jeffrey Epstein",
+     "lang": "en",
+     "extra": {},
+     "id": "cdece7c24222184c",
+     "published": "2026-11-01T00:34+00:00",
+     "text": "Dans sa décision, le juge Darrin P. Gayles, en charge du dossier, se garde de trancher sur l’authenticité du courrier aux tonalités salaces, daté de 2003 et attribué au milliardaire républicain par le média. Il considère en revanche que les journalistes ont dûment enquêté et agi de bonne foi, en publiant son contenu."
     }
    ]
   },
@@ -1940,52 +1786,6 @@
    ]
   },
   {
-   "id": "c28c5d8bbb7",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on",
-     "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-hands-on-2.jpg?quality=82&strip=all&resize=1200,628"
-     },
-     "id": "28c5d8bbb7df7f4f",
-     "published": "2026-10-31T12:00+00:00",
-     "text": "Ahead of its launch next week, a new video offers a closer look at the Motorola Signature 27 as well as confirming some key specs.\nA video hands-on from Danny Winget on YouTube offers a closer look at Motorola’s upcoming flagship, and only makes its arrival all the more enticing.\nThere are several key specs mentioned in the video, with the most interesting being the “Extreme AMOLED Duo” display which makes use of Tandem OLED technology. Tandem OLED isn’t a new idea, with the tech stacking multiple layers of diodes on top of each other to improve contrast and brightness. Tandem OLED can be found on Apple’s new “PROLED” MacBook Pro, as well as 2024’s Honor Magic 6 RSR. But Motorola’s use of it in the Signature 27 is certainly nice to see, especially given the other spec shared. 12,000 nits of brightness. That rather insane figure is apparently the peak brightness on this new flagship.\nHardware shots of the phone also show the textured backs on the two color variants as well as the curved glass around the display.\nTop comment by Dave\nI haven't had a Motorola phone since the Star Tac and then the Droid Bionic. This one might possibly draw me away from all the Samsungs that I have had\nOther specs shared in the video include:\n- 6.8-inch Extreme AMOLED Duo display, 120Hz, LTPO, Tandem OLED, 12,000 nits max brightness\n- Snapdragon 8 Elite Extreme Gen 6\n- 16GB RAM\n- Up to 1TB UFS 4.1 storage\n- Android 17 with 7 years of OS updates\n- Cameras: 50MP Lytia 910 main, 200MP periscope telephoto, 50MP ultrawide, “dedicated action sensor” for motion capture improvements\nThe battery capacity isn’t revealed, but Winget says that it is “sizable.” Similarly, the vapor chamber is described as “40% larger” but a point of comparison wasn’t given.\nIt’s all shaping up for a powerful flagship in every sense of the word. Motorola has confirmed that Signature 27 will launch on November 5, and I don’t know about you, but I’m only getting more excited about it.\nMore on Motorola:\nFollow Ben: Twitter/X, Threads, Bluesky, and Instagram\nComments"
-    },
-    {
-     "source": "Digital Trends",
-     "trust": 2,
-     "url": "https://digitaltrends.com/phones/motorola-signature-27-is-bringing-a-12000-nit-display-because-apparently-sunlight-wasnt-enough",
-     "title": "Motorola Signature 27 specifications revealed in a new hands-on video, shows off a Tandem OLED 12,000-nit display",
-     "lang": "en",
-     "extra": {},
-     "id": "19f295fe3efd35d8",
-     "published": "2026-10-31T18:33+00:00",
-     "text": "Motorola's upcoming Signature 27 could feature a 12,000-nit Tandem OLED display, Snapdragon flagship chipset, 200MP periscope camera and seven years of Android updates."
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FSGsxUTRRb1RYUE0wd3Q0aHJNa3FtdGFkOEFSdk5OVndrdW8tWk5jeW9IdTdCWndkdkpmZEZmeFVxYjk3YjNwNXpuQ2N6VUVXMGZteVZ3Vm42UVdtU0lRQVJYdXdmQUtrR1lBVXZiZ0R0b19pa05JazBncw?oc=5",
-     "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display - 9to5Google",
-     "lang": "en",
-     "extra": {},
-     "id": "0200ff14a8fa5d24",
-     "published": "2026-10-31T13:00+00:00",
-     "text": "- Motorola Signature 27 specs detailed in new video, including Tandem OLED display 9to5Google\n- Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch - GSMArena.com news GSMArena.com\n- Here's exactly when you'll find out everything there is to know about the Motorola Signature 27 PhoneArena\n- The Signature 27 is Motorola's last chance to get Android updates right Android Authority\n- November 2026 tech launches: Motorola Signature 27, Asus Zenbook 14 and Vivo X500 Series CNBC TV18"
-    }
-   ]
-  },
-  {
    "id": "c09b253e8c4",
    "kind": "news",
    "score": 12.0,
@@ -2068,32 +1868,12 @@
      "url": "https://france24.com/en/africa/20261031-senegal-hosts-africa-s-first-ever-youth-olympic-games",
      "title": "🔴Senegal kicks off Africa's first ever Olympics with Youth Games",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://s.france24.com/media/display/a1fd18bc-d55e-11f1-bc0b-695cb59fade5/w:1280/p:16x9/2026-10-31T185551Z-1026728015-UP1EMAV1GL175-RTRMADP-3-OLYMPICS-YOUTH-OPENING.jpg"
+     },
      "id": "82268199c7be6c1f",
      "published": "2026-10-31T19:15+00:00",
-     "text": ""
-    }
-   ]
-  },
-  {
-   "id": "c225f8afe85",
-   "kind": "news",
-   "score": 12.0,
-   "sensitive": true,
-   "distinct_sites": 1,
-   "title_hint": "Bitcoin turns 18: Has the original rebel grown up?",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up",
-     "title": "Bitcoin turns 18: Has the original rebel grown up?",
-     "lang": "en",
-     "extra": {},
-     "id": "225f8afe8530864b",
-     "published": "2026-10-31T14:27+00:00",
-     "text": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history."
+     "text": "Senegal kicks off Africa's first ever Olympics with Youth Games\nThe 2026 Youth Olympic Games opened on Saturday in the Senegalese capital Dakar in the first ever Olympics to be held on African soil. It comes as the continent seeks a bigger role in international sporting competitions.\nIssued on: Modified:\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nThe 2026 Youth Olympic Games opened in Senegal on Saturday, the first Olympic event in Africa as the continent seeks a bigger role in international sports competitions.\nTens of thousands of spectators cheered on the opening ceremony in the Diamniadio Olympic Stadium near the capital Dakar. Hundreds of drummers and dancers celebrated Senegalese and African culture in line with the Games motto, “Africa welcomes, Dakar celebrates\".\nWatch moreOlympic fever grips Senegal as Dakar hosts Youth Olympic Games\nA giant map of Africa was created by performers dressed in yellow, black and white traditional Senegalese gowns, dancing in unison, in a grandiose ceremony that saw West African oral storytelling, a concert by Senegalese singer Obree Daman and athletes parading.\nSenegalese President Bassirou Diomaye Faye declared the Games open.\n“This is a historic event and it was so important for me to be here,” said Aby Diouf, 25, a Senegalese spectator at the stadium. “It’s a marvellous celebration and we are all here to bring the energy and get people hyped.\"\nAbout 2,700 athletes aged 14 to 17 will compete through November 13 in the Dakar, the nearby city of Diamniadio and the beach resort of Saly.\nWatch moreFirst Youth Olympic Games in Africa\nRussia’s delegation of 13 athletes is competing under its national flag for the first time at an Olympic event since the full-scale invasion of Ukraine in 2022 led to its suspension.\nThe first refugee team at a Youth Olympics will field six athletes based in Kenya and Uganda in track and field, judo and taekwondo.\nAthletes overall will compete in 153 medal events across 25 sports.\nSingapore hosted the first summer Youth Games in 2010. Dakar was initially due to host in 2022 but the coronavirus pandemic delayed the Games.\nWatch moreKenya's female athletes make their mark as Youth Olympic Games approach\n“This is a historic moment for Senegal, for Africa and for our entire Olympic family” IOC President Kirsty Coventry said at the opening ceremony. Coventry, a former swimming gold medalist from Zimbabwe, became the first female and African boss of the International Olympic Committee last year.\nThe Games come as African countries increasingly see sports as a tool for diplomacy and development, analysts say.\nSouth Africa hosted the continent’s first soccer FIFA World Cup in 2010. Morocco will co-host the 2030 tournament with Spain and Portugal. Rwanda hosted Africa’s first road cycling world championships last year and Formula 1 is returning to Africa with a grand prix in Rwanda early next decade. Botswana also staged the World Athletics Relays in May.\n(FRANCE 24 with AP)"
     }
    ]
   },
@@ -2197,6 +1977,39 @@
    ]
   },
   {
+   "id": "cb1a65a15f7",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "‘It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/10/it-welcome-to-derry-halloween-hbo-max-1237210647",
+     "title": "‘It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max",
+     "lang": "en",
+     "extra": {},
+     "id": "f42532bc30f444f3",
+     "published": "2026-10-31T18:18+00:00",
+     "text": "All treat, no trick: HBO Max has released a surprise episode of It: Welcome to Derry for Halloween. “IT’s a surprise Halloween treat,” HBO Max posted on its Instagram page along with a brief clip of the episode (watch it below). “Catch this never-before-seen special exploring the origins of IT in Derry.” The episode, “A […]"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGZZVEZibWhqMmotdndzVjBaNjhHQ1h6VDQ3ckkwdUlOZlVWSUhydFZENzlla1FPSW9uNWV5OXJ3TlJjZUluQzFWODczYW4zX01yZXJmMGNHTVdqcFpGTVRFakl0SjE0QWdtRnIwa2dqbkR2MEloNmRPT0h5LTlSbmZIc19GZVhFb0g2RWtIc3NKUm9z?oc=5",
+     "title": "‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max - Variety",
+     "lang": "en",
+     "extra": {},
+     "id": "b1a65a15f70d794e",
+     "published": "2026-10-31T17:50+00:00",
+     "text": "- ‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max Variety\n- ‘It: Welcome to Derry’ Surprise Halloween Episode Now Streaming On HBO Max Deadline\n- ‘It: Welcome to Derry’: ‘A Story of Derry’ Surprise Special Hits HBO Max TV Insider\n- It: Welcome to Derry season 2 boss reveals Stephen King’s grandson role in new episodes Radio Times\n- HBO Max drops 'IT: Welcome to Derry' special upi"
+    }
+   ]
+  },
+  {
    "id": "cae8732c13e",
    "kind": "news",
    "score": 12.0,
@@ -2250,6 +2063,85 @@
      "id": "ae8732c13e973b57",
      "published": "2026-10-31T22:01+00:00",
      "text": "- 'Green Room' Writer/Director Says Patrick Stewart \"Saved The Day\" Deadline\n- What Patrick Stewart’s ‘brief’ dementia journey reveals about lifespans after diagnosis The Washington Post\n- Patrick Stewart’s Death Shows Dementia Is More Than Memory Loss Forbes\n- Patrick Stewart taught us what good men do with power Vox\n- ‘Star Trek’ Actor Wil Wheaton Tells Stephen Miller to Keep Patrick Stewart’s Name Out of His ‘Nazi Mouth’ Yahoo"
+    }
+   ]
+  },
+  {
+   "id": "c10d80ba426",
+   "kind": "news",
+   "score": 12.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Hamilton claims first pole for Ferrari at Mexico City GP",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/f1/news/12040/13606015/mexico-city-gp-qualifying-lewis-hamilton-claims-first-pole-position-for-ferrari-by-edging-out-mercedes-george-russell",
+     "title": "Hamilton claims first pole for Ferrari at Mexico City GP",
+     "lang": "en",
+     "extra": {},
+     "id": "10d80ba426300aaa",
+     "published": "2026-10-31T22:10+00:00",
+     "text": "Lewis Hamilton claimed his first pole position for Ferrari by edging out Mercedes' George Russell in qualifying for the Mexico City Grand Prix."
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/watch/video/13606516/mexico-city-grand-prix-qualifying-highlights",
+     "title": "Mexico City Grand Prix - Qualifying Highlights",
+     "lang": "en",
+     "extra": {},
+     "id": "ada81da04d0f6645",
+     "published": "2026-10-31T22:23+00:00",
+     "text": "Highlights from qualifying for the 2026 Mexico City Grand Prix."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/f1/lewis-hamilton-lando-norris-hungary-george-russell-kimi-antonelli-b3076970.html",
+     "title": "Lewis Hamilton storms to first pole position in three years in Mexico",
+     "lang": "en",
+     "extra": {},
+     "id": "c4e966e0971c0ae4",
+     "published": "2026-10-31T22:33+00:00",
+     "text": "Hamilton showed every bit of that with a stunning display to take his first Ferrari pole and his first since Hungary in 2023 – 1,197 days ago."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/f1/lewis-hamilton-f1-pole-position-ferrari-mexican-grand-prix-b3076973.html",
+     "title": "Lewis Hamilton claims shock first Ferrari pole – and first in three years: ‘Lost for words’",
+     "lang": "en",
+     "extra": {},
+     "id": "bdd4b021d1b9b59e",
+     "published": "2026-10-31T22:39+00:00",
+     "text": "The 41-year-old claimed his first grand prix pole in Ferrari red at the Mexico City Grand Prix"
+    },
+    {
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
+     "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+     "lang": "en",
+     "extra": {},
+     "id": "93db889f9c195cfb",
+     "published": "2026-10-31T23:07+00:00",
+     "text": "Lewis Hamilton takes his first pole position for Ferrari and his first for more than three years at the Mexico City Grand Prix."
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://arabnews.com/motorsport/lewis-hamilton-wins-pole-for-ferrari-at-the-mexico-city-grand-prix-3009202",
+     "title": "Lewis Hamilton wins pole for Ferrari at the Mexico City Grand Prix",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793493289501-917400099c984f0d.jpg"
+     },
+     "id": "8164a263926326a6",
+     "published": "2026-11-01T00:41+00:00",
+     "text": "- Lewis Hamilton won pole position at the Mexico City Grand Prix, marking his first pole with Ferrari\n- At 41 years old, Hamilton became the oldest driver to secure an F1 pole position since Mario Andretti in 1982\nMEXICO CITY: Upon his arrival at the Mexico City Grand Prix, British driver Lewis Hamilton claimed there has never been a driver like him in the history of motorsport.\nPerhaps his assertion is not entirely off the mark.\nThe seven-time world champion Hamilton rebounded from a wretched Friday practice to capture pole position on Saturday. Hamilton edged out Mercedes’ George Russell and Ferrari teammate Charles Leclerc.\n“I feel great, that feels good, I am at a loss of words,” Hamilton said. “We did a pretty good job with the setup in the weekend. It feels special for me in Mexico, my first pole for Ferrari here.”\nHe has extended his own record for Formula 1 pole positions to 105.\n“Wow, to have pole here, I mean, I don’t even know if I’ve had a pole here before,”said Hamilton, who had pole position in Mexico in 2016. “It feels special to be in Mexico and get that. My first, I think this is my first pole with Ferrari. And 105... I like that number.”\nFurthermore, at 41 years and some months Hamilton was the fifth oldest driver to secure an F1 pole position and the oldest since Mario Andretti did it in 1982 at age 42. Nino Farina holds the record at 47 years, two months.\n“When there’s a will, there’s a way, I think it’s all in the mind. For sure, you might feel aches and pains but I do all those different things that you can do to try and keep yourself young and fit,” Hamilton said. “But I love what I do. And that love is not gone. I wake up every day thinking about it. I dream about it.”\nThis marks the Italian team’s first pole position since Hungary last year, 30 races ago.\nHamilton, who has crowned himself world champion twice in Mexico, will aim to become the first Ferrari driver to win a race from pole position since Carlos Sainz in Mexico in 2024.\nOn Friday during the second practice, he suffered a loss of power that forced him to retire.\n“Embarking on this journey with Ferrari, and all the challenges and ups and downs we’ve had. Even yesterday was challenging, when the car stopped on track and we lost the long runs that everyone got to do.” Hamilton said. “I didn’t get to do a long run. But we’ve really done a good job with the set-up over the weekend.”\nKimi Antonelli could become the youngest world champion in F1 history. He qualified fifth, demonstrating his car’s setup was optimal.\nThe 20-year-old Italian, who missed Thursday’s media session because of a viral infection, said he was still recovering but hoped to be at his best for what could be a special Sunday.\n“I’m going to bombard myself with melatonin, so I hope I can sleep about 10 hours, with any luck,” said Antonelli, who will start fourth after Red Bull’s Max Verstappen received a one-place grid penalty Saturday for an incident involving Liam Lawson.\n“It’s a new one, that penalty, but yeah, we’ll keep inventing new ones, I guess,” Verstappen said.\nAntonelli, who won the United States Grand Prix last week from pole, can finish as low as ninth on Sunday at the Autódromo Hermanos Rodríguez to surpass the record set by Sebastian Vettel, who became world champion the first time at 23.\nRussell began the season as Mercedes’ No. 1 driver and won the first race of the year in Australia, but Antonelli has since won nine grands prix.\nAntonelli can also become the first Italia"
     }
    ]
   },
@@ -2345,10 +2237,12 @@
      "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
      "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/06/el_classic-gID_5-pID_4.png"
+     },
      "id": "6b1be1f91ba0e7c6",
      "published": "2026-10-30T14:17+00:00",
-     "text": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works."
+     "text": "In brief\n- EIP-7702 is an Ethereum upgrade, activated in May 2025, that lets standard wallets temporarily take on the abilities of smart contracts.\n- It enables batched transactions, gas sponsorship and limited-permission keys, but delegated code gets full access to the wallet's funds.\n- An attacker used EIP-7702 in October 2026 to drain a Binance hot wallet during a $6.4 billion hack that analysts attributed to North Korea.\nEthereum has two kinds of accounts. Externally owned accounts (EOAs), the standard wallets most people use, are controlled by a private key and can do little more than send transactions. Smart contract accounts can run code, enabling features like spending limits, account recovery and paying fees in tokens other than ETH, but most users never moved to them.\nEIP-7702 is an attempt to bridge that gap. Instead of asking users to migrate to new wallets, it lets existing EOAs borrow the code of a smart contract while keeping their address and funds.\nThis guide explains what EIP-7702 is, how it works, why developers wanted it, and how attackers used it in the largest crypto theft on record.\nWhat is EIP-7702?\nEIP-7702, titled \"Set Code for EOAs,\" is an Ethereum Improvement Proposal written in May 2024 by Ethereum co-founder Vitalik Buterin and developers Sam Wilson, Ansgar Dietrichs and lightclient, according to the official specification.\nIt was one of the headline changes in Pectra, a major Ethereum upgrade that went live on May 7, 2025.\n\"EIP-7702 lays the foundation we've needed for a long time,\" Ethereum core developer Preston Van Loon told Decrypt at the time. \"While full abstraction won't be immediately available to end users with Pectra, this upgrade gives Ethereum the infrastructure to support it moving forward.\"\nEIP-7702 is a change to Ethereum's core protocol, not a token or a separate blockchain, so there is nothing to buy.\nHow does EIP-7702 work?\nEIP-7702 adds a new type of Ethereum transaction, the \"set code transaction.\" It carries a list of authorizations, each signed with the private key of the account being upgraded, that names the address of a smart contract the account wants to use.\nOnce the transaction is processed, the account stores a small pointer, called a delegation indicator, to that contract. From then on, whenever anyone calls the account, Ethereum runs the contract's code as if it belonged to the account, with full access to its funds.\nThe delegation lasts until the account owner signs a new authorization, either pointing to a different contract or clearing the pointer to restore a plain EOA.\nDid you know?\nEIP-7702 marks delegated accounts using the byte 0xef, a code value that was banned in earlier upgrades so it could be reserved for special purposes like this.\nWhat's so special about EIP-7702?\nThe specification names three main features it was designed to deliver:\n- Batching: combining several actions, such as approving a token and then swapping it, into a single transaction.\n- Sponsorship: letting another account, such as an app, pay transaction fees on a user's behalf, with the user possibly reimbursing it in another token.\n- Privilege de-escalation: creating sub-keys with limited permissions, such as spending only a certain token or only 1% of a balance per day.\nThe security risks\nThose same features carry risks. Because delegated code gets \"unrestricted access to the account,\" apps should never ask users to sign an EIP-7702 authorization, and wallets should not offer an interface for it,"
     },
     {
      "source": "NYT Technology",
@@ -2645,28 +2539,6 @@
    ]
   },
   {
-   "id": "ca35ff71b59",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Google’s parent company Alphabet’s shares plunge 12.6%, loses almost $500 billion in market value",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/videos/googles-parent-company-alphabets-shares-plunge-126-loses-almost-500-billion-in-market-value/article71648940.ece",
-     "title": "Google’s parent company Alphabet’s shares plunge 12.6%, loses almost $500 billion in market value",
-     "lang": "en",
-     "extra": {},
-     "id": "a35ff71b59628539",
-     "published": "2026-10-31T09:55+00:00",
-     "text": "Alphabet shares plunged a record 12.64% on Thursday—wiping out $482 billion in market value—and fell another 0.42% in Friday pre-market trading, following quarterly earnings that fueled investor anxiety over whether massive AI investments will pay off."
-    }
-   ]
-  },
-  {
    "id": "c48d67ea6be",
    "kind": "news",
    "score": 11.0,
@@ -2709,6 +2581,52 @@
      "id": "e4e9cdb729b33e6f",
      "published": "2026-10-31T11:07+00:00",
      "text": "The way people celebrate the spooky season has evolved over the decades, from homemade costumes and neighborhood parties to school parades and elaborate haunted houses.\nFor instance, if you went to a Halloween party in the 1940s, chances are you'd be bobbing for apples. In the 1970s, you'd probably be covered in glitter paint.\nEach year, the amount of money Americans spend celebrating the holiday seems to grow, too. This Halloween, Americans are expected to spend a record $13.5 billion, the National Retail Federation reported, citing its annual survey.\nHowever, while spending is up from last year, respondents said they were more likely to shop for a costume at discount stores versus specialty Halloween costume stores or online.\nHere are 20 vintage photos that show how Halloween celebrations have changed through the years."
+    }
+   ]
+  },
+  {
+   "id": "c28c5d8bbb7",
+   "kind": "news",
+   "score": 11.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "9to5Google",
+     "trust": 2,
+     "url": "https://9to5google.com/2026/10/31/motorola-signature-27-specs-hands-on",
+     "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-hands-on-2.jpg?quality=82&strip=all&resize=1200,628"
+     },
+     "id": "28c5d8bbb7df7f4f",
+     "published": "2026-10-31T12:00+00:00",
+     "text": "Ahead of its launch next week, a new video offers a closer look at the Motorola Signature 27 as well as confirming some key specs.\nA video hands-on from Danny Winget on YouTube offers a closer look at Motorola’s upcoming flagship, and only makes its arrival all the more enticing.\nThere are several key specs mentioned in the video, with the most interesting being the “Extreme AMOLED Duo” display which makes use of Tandem OLED technology. Tandem OLED isn’t a new idea, with the tech stacking multiple layers of diodes on top of each other to improve contrast and brightness. Tandem OLED can be found on Apple’s new “PROLED” MacBook Pro, as well as 2024’s Honor Magic 6 RSR. But Motorola’s use of it in the Signature 27 is certainly nice to see, especially given the other spec shared. 12,000 nits of brightness. That rather insane figure is apparently the peak brightness on this new flagship.\nHardware shots of the phone also show the textured backs on the two color variants as well as the curved glass around the display.\nTop comment by Dave\nI haven't had a Motorola phone since the Star Tac and then the Droid Bionic. This one might possibly draw me away from all the Samsungs that I have had\nOther specs shared in the video include:\n- 6.8-inch Extreme AMOLED Duo display, 120Hz, LTPO, Tandem OLED, 12,000 nits max brightness\n- Snapdragon 8 Elite Extreme Gen 6\n- 16GB RAM\n- Up to 1TB UFS 4.1 storage\n- Android 17 with 7 years of OS updates\n- Cameras: 50MP Lytia 910 main, 200MP periscope telephoto, 50MP ultrawide, “dedicated action sensor” for motion capture improvements\nThe battery capacity isn’t revealed, but Winget says that it is “sizable.” Similarly, the vapor chamber is described as “40% larger” but a point of comparison wasn’t given.\nIt’s all shaping up for a powerful flagship in every sense of the word. Motorola has confirmed that Signature 27 will launch on November 5, and I don’t know about you, but I’m only getting more excited about it.\nMore on Motorola:\nFollow Ben: Twitter/X, Threads, Bluesky, and Instagram\nComments"
+    },
+    {
+     "source": "Digital Trends",
+     "trust": 2,
+     "url": "https://digitaltrends.com/phones/motorola-signature-27-is-bringing-a-12000-nit-display-because-apparently-sunlight-wasnt-enough",
+     "title": "Motorola Signature 27 specifications revealed in a new hands-on video, shows off a Tandem OLED 12,000-nit display",
+     "lang": "en",
+     "extra": {},
+     "id": "19f295fe3efd35d8",
+     "published": "2026-10-31T18:33+00:00",
+     "text": "Motorola's upcoming Signature 27 could feature a 12,000-nit Tandem OLED display, Snapdragon flagship chipset, 200MP periscope camera and seven years of Android updates."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FSGsxUTRRb1RYUE0wd3Q0aHJNa3FtdGFkOEFSdk5OVndrdW8tWk5jeW9IdTdCWndkdkpmZEZmeFVxYjk3YjNwNXpuQ2N6VUVXMGZteVZ3Vm42UVdtU0lRQVJYdXdmQUtrR1lBVXZiZ0R0b19pa05JazBncw?oc=5",
+     "title": "Motorola Signature 27 specs detailed in new video, including Tandem OLED display - 9to5Google",
+     "lang": "en",
+     "extra": {},
+     "id": "0200ff14a8fa5d24",
+     "published": "2026-10-31T13:00+00:00",
+     "text": "- Motorola Signature 27 specs detailed in new video, including Tandem OLED display 9to5Google\n- Motorola Signature 27 flexes muscle on Geekbench ahead of November 5 launch - GSMArena.com news GSMArena.com\n- Here's exactly when you'll find out everything there is to know about the Motorola Signature 27 PhoneArena\n- The Signature 27 is Motorola's last chance to get Android updates right Android Authority\n- November 2026 tech launches: Motorola Signature 27, Asus Zenbook 14 and Vivo X500 Series CNBC TV18"
     }
    ]
   },
@@ -2775,39 +2693,6 @@
      "id": "0747ff0d7149d6f2",
      "published": "2026-10-31T15:36+00:00",
      "text": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite.\nThe company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to \"Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you.\"\nTravis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its \"Hello World\" milestone by sending an inference response from orbit.\n\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space,\" wrote Beals in a blog post.\nAnd as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink:\nBlue marble below,\nData streams in silent grace,\nStarlight feeds my core. ✨\nThose roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs.\nAdd in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku.\nAccording to Google's calculations, if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year).\nGoogle predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening.\nAfter the haiku, Beals said, \"we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems.\" Next up: tests for evaluating how TPUs perform under thermal stress and radiation.\nGoogle has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam.\nThe system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si).\n\"For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second,\" Google researchers said in a paper published earlier this month.\n\"While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy of system-level mitigations, requires further study.\"\nIndeed, the study will continue. Next year, the plan is to test a pair of interconnected satellites. Rather than lofting large satellites into orbit, Google anticipates sending a constellation of many smaller satellites that communicate with one another. ®"
-    }
-   ]
-  },
-  {
-   "id": "c9d9ef16909",
-   "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "الصحراء الغربية: الجزائر تأسف لعدم تجديد ولاية البعثة الأممية والمغرب يرحب",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "France 24 Arabic",
-     "trust": 2,
-     "url": "https://france24.com/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9/20261031-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B9%D8%AB%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%85-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D9%81%D9%8A%D8%AA%D9%88-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7",
-     "title": "الصحراء الغربية: الجزائر تأسف لعدم تجديد ولاية البعثة الأممية والمغرب يرحب",
-     "lang": "ar",
-     "extra": {},
-     "id": "548ac90d7abb04e8",
-     "published": "2026-10-31T18:25+00:00",
-     "text": "أعربت الجزائر السبت عن أسفها تجاه عدم تجديد ولاية بعثة الأمم المتحدة في الصحراء الغربية، وانتقدت ما اعتبرته \"بالانحياز المفرط\" لصالح لرباط، فيما رحب المغرب بذلك، قائلا إنه ينبغي لأفراد البعثة المغادرة في الأيام المقبلة. وكانت روسيا استخدمت الجمعة حق النقض ضد مشروع قرار صاغته الولايات المتحدة بشأن مستقبل المنطقة. وبررت موسكو اعتراضها على المشروع الأمريكي بأنه \"تمادى في تأييد الموقف المغربي\" بحسبها."
-    },
-    {
-     "source": "Google News Algeria",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPazIxWG9HWk9uamdNcnNiOG5CeEREY3ZTb0tkT2ZrbVotRXVrcGxQTUhYNFJwanFqalJ5MUZ0UFlSU3FYX2Q2bUdEekR5V3pVaEUtSGdtU1kyNWlJdUJLMHh2WW4zdUhrYU1lNjBIRTg1WjRkTWRTY3Y0ekxySlBQZUF3UGU1ck1LV1p0eHRqa055RkJVZ1Z2MmhpZ3V5dkJsdXhnSlA1a3J2MUtHR05lcm04WFZyZ1l1SEZUUnlUeXNqejRMbVYzV21EMjQ5NE9CYkJjcTNuc3BXbXdOS1JyWFBXajZyUnlnd1Y5SGNXZW9oSm42bDItTnpSTEJNbUdQVmtBNTlTMlY5QWlBeFpmWUF3TkgzSnRnOUtKeEtzalBTQ2FmUUdtWFI4WFFoX2lqTUFyNW9feVNWWW1TQmR5cnUtNnZmaUtVZkVPdnR3VktBUHU5bEVSOGhHeElwbzVvZzAySXFFc01va0treDJqZWJpaExmUGhnZGt6Uk1xMFV0M21IQlIwZ0JDd2RsOTV4d3RyUlgtNUZlSWhnaF9felFVbHBGYkJuZGhIQW9PbGY4V3R1VWpCWXRtc0h6ODlvbTlNbm5jbHVQb2dxVXlLbA?oc=5",
-     "title": "الجزائر تأسف لعدم تجديد ولاية \"مينورسو\" في الصحراء الغربية - العربي الجديد",
-     "lang": "ar",
-     "extra": {},
-     "id": "9d9ef16909908858",
-     "published": "2026-10-31T16:43+00:00",
-     "text": "الجزائر تأسف لعدم تجديد ولاية \"مينورسو\" في الصحراء الغربية\nالعربي الجديد"
     }
    ]
   },
@@ -2922,35 +2807,39 @@
    ]
   },
   {
-   "id": "cfaeac0cce3",
+   "id": "c43191684c9",
    "kind": "news",
-   "score": 11.0,
-   "sensitive": true,
+   "score": 10.5,
+   "sensitive": false,
    "distinct_sites": 2,
-   "title_hint": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
-   "official_image": null,
+   "title_hint": "What’s new on Prime Video in November 2026, including ‘The Lord of the Rings: The Rings of Power’ Season 3 and ‘Campus Drivers’",
+   "official_image": "https://assets.aboutamazon.com/dims4/default/a63edd6/2147483647/strip/true/crop/2000x1125+0+0/resize/767x431!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fb1%2F6a%2Fb9d9c68a4ad68c3ea6e8639a6613%2Fcampus-drivers-trop-november-hero-prime-video.jpeg",
    "sources": [
     {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
-     "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+     "source": "Amazon News",
+     "trust": 3,
+     "url": "https://aboutamazon.com/news/entertainment/prime-video-november-films-shows-sports-2026",
+     "title": "What’s new on Prime Video in November 2026, including ‘The Lord of the Rings: The Rings of Power’ Season 3 and ‘Campus Drivers’",
      "lang": "en",
-     "extra": {},
-     "id": "faeac0cce375b384",
-     "published": "2026-10-31T22:36+00:00",
-     "text": "Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting."
+     "extra": {
+      "image": "https://assets.aboutamazon.com/dims4/default/a63edd6/2147483647/strip/true/crop/2000x1125+0+0/resize/767x431!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fb1%2F6a%2Fb9d9c68a4ad68c3ea6e8639a6613%2Fcampus-drivers-trop-november-hero-prime-video.jpeg"
+     },
+     "id": "43191684c9a3c551",
+     "published": "2026-10-30T13:00+00:00",
+     "text": "From the first authorized Muhammad Ali series to ‘Blade Runner 2099,’ here is everything coming to Prime Video this month, including NFL, NBA, and NHL games."
     },
     {
-     "source": "Investing.com",
+     "source": "Screen Rant",
      "trust": 2,
-     "url": "https://investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
-     "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+     "url": "https://screenrant.com/rings-of-power-season-3-orc-change-no-win",
+     "title": "The Rings Of Power's Big Season 3 Tolkien Change Is A No-Win Scenario",
      "lang": "en",
-     "extra": {},
-     "id": "cded5e70f6fdf8c8",
-     "published": "2026-10-31T23:00+00:00",
-     "text": ""
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/10/the-lord-of-the-rings-the-rings-of-power_9cajzj-1.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "ba72793ed057b6c8",
+     "published": "2026-11-01T00:30+00:00",
+     "text": "It really looks as if The Lord of the Rings: The Rings of Power has backed itself into a corner with a significant change in season 3. The prequel series already has a reputation for altering author J.R.R. Tolkien's canon, but in many ways this couldn't be avoided. Rings of Power is set in the Second Age of Middle-earth, which Tolkien didn't describe in the same sort of narrative detail as he did Bilbo or Frodo's adventures. What we do know is described more as a broad history, which means Rings of Power really has to take creative liberties.\nThis hasn't stopped the show's changes from being divisive, however. Just as we can't completely blame Rings of Power for its presentation of the Second Age, we also can't be surprised that people take issue with certain overt shifts. A prime example is the new character that is being introduced in The Rings of Power season 3—an orc named Marnûkh, played by Adam Young.\nThere have been plenty of orc characters with names in The Lord of the Rings over the years, so Marnûkh isn't controversial for that reason. The issue is that he is being presented as a defector. In the trailer for season 3, and according to showrunners J.D. Payne and Patrick McKay, Marnûkh comes to Rivendell to offer help to the Elves there. This is certainly not something that Tolkien ever wrote about, but we can't get too mad yet. After all, we don't know how that character's story will conclude. The trouble is that there are only so many options, and they all sound concerning.\nNeither Likely Outcome For Rings Of Power's 'Good Arc' Will Go Over Well\nThe big question about Rings of Power's new orc character is whether he is genuinely trying to help the Elves or is thoroughly evil, manipulating them as part of Sauron's scheme. Prospective viewers are bound to have their own opinion regarding which option is better or less problematic than the other. However, when it really comes down to it, neither is ideal. No matter how Rings of Power proceeds, there are bound to be complaints.\nRings of Power season 2 was accused of trying too hard to make the orcs sympathetic. We saw an orc family—a mother, father, and baby—in a loving embrace, which hasn't been shown before in the Lord of the Rings franchise. Adar's entire arc also seemed to encourage this idea that orcs weren't all bad. If Rings of Power season 3 were to reveal that Marnûkh is tricking the Elves, it might cool things down a bit.\nThis wouldn't be a complete fix, though.The trouble with Marnûkh being a big old deceiver is that Rings of Power has already done this plotline repeatedly. Sauron's whole game is deceiving people, and we saw that in seasons 1 and 2. Even aside from this Dark Lord, we've seen a lot of characters pretend to be friends only to later reveal they are enemies. At a certain point, the concept loses its appeal, shock, or general interest.\nOf course, on the other side of things, if Marnûkh is revealed to be genuinely eager to help the Elves, it will definitively confirm that Rings of Power aims to draw sympathy for Tolkien's orcs. Whether this is right or wrong is difficult to say. However, it will absolutely be unpopular. Rings of Power is damned if it does, and damned if it doesn't.\nWhat Would Tolkien Think Of Rings Of Power's Orcs?\nNo matter what Rings of Power does at this point, it's going to upset somebody. So, all we can really do is take a moment to consider what J.R.R. Tolkien might have thought of all this. Naturally, we can never know for certain. Tol"
     }
    ]
   },
@@ -3151,6 +3040,39 @@
      "id": "bbca7839709faf10",
      "published": "2026-10-31T23:10+00:00",
      "text": "The seven-time world champion became the oldest F1 pole-sitter since 42-year-old Mario Andretti in 1982."
+    }
+   ]
+  },
+  {
+   "id": "c3baa272202",
+   "kind": "news",
+   "score": 10.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724006",
+     "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+     "lang": "en",
+     "extra": {},
+     "id": "1bd9c01cc2b3c7ab",
+     "published": "2026-10-31T23:40+00:00",
+     "text": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.\nDigital Foundry’s analysis of the performance of the Switch 2 version of Modern Warfare 4 — the first Call of Duty released on a Nintendo console since 2013’s Ghosts — found that the input lag on Switch 2 can be two times longer than on PS5 at 60fps.\nIn competitive Multiplayer, Switch 2 aims for 60fps and, according to DF, hits that target most of the time (although some things do cause the frame rate to drop, including looking through the transparent visor of a riot shield).\nCall of Duty Multiplayer prides itself on rock solid 60fps gameplay, which provides a smooth, responsive experience for those who fuss over their K/D ratio in, for example, 6v6. It’s crucial that all platforms the game is available on offer at least 60fps to provide a level playing field for Multiplayer fans — although the debate about the advantage PC players have over console has dogged Call of Duty since the dawn of crossplay.\nDF reports that Variable Refresh Rate (VRR) support “helps smooth out” framerate drops on supported displays, although you’ll have a harder time of it in terms of performance playing through portable mode.\nAnd then we come to responsiveness. DF’s tests show 81ms in docked mode and 100ms in portable mode, the latter of which is double the PS5’s 49.1. In fact, DF found that Multiplayer in portable mode ranged from 83ms at best to 125ms at worst. DF called this \"actually deleterious to performance.”\nDF seems generally happy with the Switch 2 version, which was handled by port specialist Digital Legends with support from Infinity Ward. But if you’re into Multiplayer, the inescapable fact is you are at a disadvantage. No matter how fast your trigger finger, the Switch 2 will take longer to respond.\nOutside of Multiplayer it’s a different story. The Campaign runs at 30fps, which was good enough for IGN’s Simon Cardy when he played the Switch 2 version of Modern Warfare 4.\n“Granted, the textures are nowhere near as detailed, with flat surfaces and faces smoothed over to give the impression of plasticine versions of the campaign’s characters,” he said. “It's by no means a looker, but considering the reduced horsepower Nintendo’s latest console is working with, the gameplay itself was smooth, running at 30fps at 4K while docked.”\n“Yes, it's quite a visual downgrade when compared to the likes of PC, PS5, and Xbox Series X, but that comes with the territory,” he continued. “And if you’re solely a Nintendo owner who’s been locked out of Call of Duty for over a decade, you’re getting a version of Modern Warfare 4 that feels every bit as snappy as the series usually is, even if it’s a bit muddier than Nintendo’s own crisp visuals.”\nWhy is Call of Duty releasing on a Nintendo console now, 14 years after the last time? It has to do with Microsoft’s $69 billion acquisition of Activision Blizzard. Back when Microsoft was facing regulatory hurdles, one announcement designed to help convince the powers that be to green light the buyout was a 10-year commitment to bring Call of Duty to Nintendo following the merger.\n“Microsoft is committed to helping bring more games to more people — however they choose to play,” then Xbox boss Phil Spencer said in December 2022. Four years later, and with the Activision Blizzard buyout done and dusted, Call of Duty is on Switch"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
+     "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+     "lang": "en",
+     "extra": {},
+     "id": "3baa2722028704e7",
+     "published": "2026-10-31T23:32+00:00",
+     "text": "If you’re playing Call of Duty: Modern Warfare 4 on Nintendo Switch 2, beware: you’re at a disadvantage in competitive Multiplayer due to crushing input lag that is much worse than the other platforms.\nDigital Foundry’s analysis of the performance of the Switch 2 version of Modern Warfare 4 — the first Call of Duty released on a Nintendo console since 2013’s Ghosts — found that the input lag on Switch 2 can be two times longer than on PS5 at 60fps.\nIn competitive Multiplayer, Switch 2 aims for 60fps and, according to DF, hits that target most of the time (although some things do cause the frame rate to drop, including looking through the transparent visor of a riot shield).\nCall of Duty Multiplayer prides itself on rock solid 60fps gameplay, which provides a smooth, responsive experience for those who fuss over their K/D ratio in, for example, 6v6. It’s crucial that all platforms the game is available on offer at least 60fps to provide a level playing field for Multiplayer fans — although the debate about the advantage PC players have over console has dogged Call of Duty since the dawn of crossplay.\nDF reports that Variable Refresh Rate (VRR) support “helps smooth out” framerate drops on supported displays, although you’ll have a harder time of it in terms of performance playing through portable mode.\nAnd then we come to responsiveness. DF’s tests show 81ms in docked mode and 100ms in portable mode, the latter of which is double the PS5’s 49.1. In fact, DF found that Multiplayer in portable mode ranged from 83ms at best to 125ms at worst. DF called this \"actually deleterious to performance.”\nDF seems generally happy with the Switch 2 version, which was handled by port specialist Digital Legends with support from Infinity Ward. But if you’re into Multiplayer, the inescapable fact is you are at a disadvantage. No matter how fast your trigger finger, the Switch 2 will take longer to respond.\nOutside of Multiplayer it’s a different story. The Campaign runs at 30fps, which was good enough for IGN’s Simon Cardy when he played the Switch 2 version of Modern Warfare 4.\n“Granted, the textures are nowhere near as detailed, with flat surfaces and faces smoothed over to give the impression of plasticine versions of the campaign’s characters,” he said. “It's by no means a looker, but considering the reduced horsepower Nintendo’s latest console is working with, the gameplay itself was smooth, running at 30fps at 4K while docked.”\n“Yes, it's quite a visual downgrade when compared to the likes of PC, PS5, and Xbox Series X, but that comes with the territory,” he continued. “And if you’re solely a Nintendo owner who’s been locked out of Call of Duty for over a decade, you’re getting a version of Modern Warfare 4 that feels every bit as snappy as the series usually is, even if it’s a bit muddier than Nintendo’s own crisp visuals.”\nWhy is Call of Duty releasing on a Nintendo console now, 14 years after the last time? It has to do with Microsoft’s $69 billion acquisition of Activision Blizzard. Back when Microsoft was facing regulatory hurdles, one announcement designed to help convince the powers that be to green light the buyout was a 10-year commitment to bring Call of Duty to Nintendo following the merger.\n“Microsoft is committed to helping bring more games to more people — however they choose to play,” then Xbox boss Phil Spencer said in December 2022. Four years later, and with the Activision Blizzard buyout done and dusted, Call of Duty is on Switch"
     }
    ]
   },
@@ -3476,27 +3398,61 @@
    ]
   },
   {
-   "id": "c35ca5beb6f",
-   "kind": "free",
-   "score": 3.0,
+   "id": "c8314b5781f",
+   "kind": "news",
+   "score": 10.0,
    "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "My Darkest Witch (IndieGala) Giveaway",
+   "distinct_sites": 2,
+   "title_hint": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines",
    "official_image": null,
    "sources": [
     {
-     "source": "GamerPower",
-     "trust": 1,
-     "url": "https://gamerpower.com/my-darkest-witch-pc-giveaway",
-     "title": "My Darkest Witch (IndieGala) Giveaway",
+     "source": "MedicalXpress",
+     "trust": 2,
+     "url": "https://medicalxpress.com/news/2026-10-historic-measles-outbreak-pennsylvania-amish.html",
+     "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines",
      "lang": "en",
      "extra": {
-      "ends": "N/A",
-      "needs_official_link": true
+      "page_image": "https://scx2.b-cdn.net/gfx/news/hires/2026/measles-amish-country.jpg"
      },
-     "id": "35ca5beb6f0528b2",
-     "published": "2026-10-30T12:33+00:00",
-     "text": "My Darkest Witch (IndieGala) Giveaway. Worth: $4.99. Platforms: PC, DRM-Free. Ends: N/A. Score My Darkest Witch for free on IndieGala! My Darkest Witch is a 2d survival arena game with endless waves of enemies. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Login into your free IndieGala account.\r\n3. Scroll down and click the \"Add to Your Library\" button to add the game to your library.\r\n4. Go to \"My Library\" to find your game."
+     "id": "ad9bb65a76b2a9da",
+     "published": "2026-10-30T21:00+00:00",
+     "text": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines\nAmish and Mennonite shoppers in conservative dress mingled with shoppers from the wider public on a recent Friday at a vast outdoor market here, where vendors sold colorful pumpkins and mums, fry pies and squash, sports jerseys and Barbie accessories.\nSuch interactions are common in Lancaster County in central Pennsylvania, home to the largest Amish population in the U.S.—and the epicenter of the nation's worst measles outbreak in 35 years. While they avoid many types of civic engagement for religious reasons, the Amish—like many other groups vulnerable to measles across the nation—are not truly separate.\n\"We are all interconnected,\" said Dr. Diego Hijano of St. Jude Children's Research Hospital.\nRobust vaccination rates once protected Americans much better.\nBut rates among the general public are now falling, and rates have long been low among the Amish, creating the perfect conditions for the contagious virus—officially considered \"eliminated\" from the U.S. since 2000—to spread here and beyond.\nPennsylvania has the most U.S. cases, with over 1,350 this year, more than a third in Lancaster County alone, according to state figures. That's a big undercount, community leaders say, since many people with measles never see a doctor.\nThe state has recorded three measles-associated deaths in Lancaster and two in other counties.\nIn Amish country, a measles surge poses questions about vaccine acceptance\nThe outbreak has especially hit the \"Plain communities\" of Amish and conservative Mennonites—so named for their modest dress and limited use of technology. Vaccination rates, and attitudes about vaccines, range widely. But overall, they are less likely to be vaccinated than the general population, due more to culture and habit than doctrine.\nMany are now showing a new openness to vaccines, while members of the general public are also taking extra precautions.\nAll of this has underscored the interconnectedness of Plain and wider \"English\" populations.\nThe Plain People avoid such areas of civic participation as holding public office. Still, they regularly shop and do business with their neighbors in this growing county of half a million people, where an urban core is ringed by suburban subdivisions abutting Amish farms.\n\"There's no way to imagine that this is going to be an isolated community,\" said Dr. Anne-Marie Derrico, chief medical officer at the nonprofit Union Community Care. It has clinics in the city of Lancaster and outlying towns, along with a mobile unit operating a \"Plain Healthy\" outreach to the Amish and to Mennonites.\n\"We have Plain patients coming to the city, we have patients in the city who don't vaccinate, who are going to school, going to other programs with other children,\" Derrico said.\nPennsylvania's measles rates have declined from their September peak, but some doctors expect them to rise as winter brings more indoor gatherings.\nWhile most cases are mild, measles can cause serious and even fatal complications, such as pneumonia and encephalitis.\nUnion has held small-scale vaccine clinics to reach Plain populations, resulting in about 450 measles shots. \"That's hopefully made a significant impact,\" Derrico said.\nUnion's clinics are also offering vaccinations for infants earlier than normally scheduled, as health experts advise in areas experiencing measles outbreaks.\nLauren and Mason Spence brought their 10-month-old son, Bowen, t"
+    },
+    {
+     "source": "Google News Health EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3ZjWDhDdVlVeUdRRmFzbXNxU2NrdHhLOGZ3ZlVkcF9yLV9lOTYyZnBWWG1pdkNGX25jdDJwWEcteWhTUF8tYVUtODktdVpuaW83NzZ0eDltaEJxYnQyRUZRM2FUak1yRkdjazV3Wmkyazg1blJLUEdxQmNaNHFsVE0yamhmYjBoUmhMYU1CUDRNRzJMNnVwMFo0eXRkaEJKT1p6NEpzaDJ1V05EZHI3S0QxZ29ZOHPSAbwBQVVfeXFMT0luU0NzUVktejhPeVpia0hrbUk1UVFLa2JoQ2lnak9BajJETTRkVTRRdm92NklSWDZqblR2UUs0cl93WlV5b2dVUmZoM1dmT1VyR2dONHVvUW5hVl96ZmJnQ1ZSNlhvSmJhUWdCREdaRHlWdEstYlFXeUxKSjJqQU9ZNE1qMlAyUEdza2tUbjlXTndNZ0NmaERQUlJIbWtUYzBYWFltZ09mT25ZOURpV1NzaGtkcGNTWVhxdjI?oc=5",
+     "title": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines - FOX 8 News",
+     "lang": "en",
+     "extra": {},
+     "id": "8314b5781fd5ab0c",
+     "published": "2026-10-30T20:19+00:00",
+     "text": "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines\nFOX 8 News\nSee more headlines & perspectives on Google News"
+    }
+   ]
+  },
+  {
+   "id": "cab6a3d6f8f",
+   "kind": "news",
+   "score": 10.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "India launches next-gen navigation satellite to orbit (video)",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Space.com",
+     "trust": 2,
+     "url": "https://space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket",
+     "title": "India launches next-gen navigation satellite to orbit (video)",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/tSwfy5XpAPEB3fe7ucbgqR-2560-80.jpg"
+     },
+     "id": "ab6a3d6f8f007f8e",
+     "published": "2026-10-30T20:29+00:00",
+     "text": "India bolstered its homegrown satellite-navigation system today (Oct. 30).\nA GSLV Mark II rocket launched the nation's NVS-03 satellite from Satish Dhawan Space Centre today at 2:21 p.m. EDT (1821 GMT and 11:51 p.m. India Standard Time).\nEverything went well: The rocket deployed NVS-03 into geostationary transfer orbit as planned, officials with the Indian Space Research Organisation (ISRO) announced on X about 30 minutes after liftoff.\nNVS-03 is the third next-gen satellite that India has launched for the Navigation with Indian Constellation (NavIC), its version of the United States' Global Positioning System (GPS).\nNavIC operates on a smaller scale than its American counterpart, however. It's \"a regional navigation satellite system designed to provide accurate Position, Navigation and Timing (PNT) service to users in India as well as the region extending about 1,500 km [930 miles] beyond the Indian landmass, which is its primary service area,\" ISRO officials wrote in the NVS-03 launch brochure.\nThe Indian constellation currently consists of three fully functioning satellites, and it requires four to provide PNT services. So today's launch was a big deal — and a lot of eyes will be watching NVS-03's commissioning and checkout phase.\nToday's launch was the 14th to date for the GSLV (Geosynchronous Satellite Launch Vehicle) Mark II, a three-stage rocket that stands 170 feet (52 meters) tall. Twelve of those 14 liftoffs have been successful.\nThe GSLV Mark II debuted in 2010, the same year its predecessor retired. That previous launchers, the Mark I, flew a total of six times, with two failures.\nNVS-03 was the fourth Indian launch of 2026 and the third operated by ISRO. The fourth was mounted by Skyroot Aerospace, which in July became the first Indian company ever to successfully reach orbit.\nMichael Wall is the Spaceflight and Tech Editor for Space.com and joined the team in 2010. He primarily covers human and robotic spaceflight, military space, and exoplanets, but has been known to dabble in the space art beat. His book about the search for alien life, \"Out There,\" was published on Nov. 13, 2018. Before becoming a science writer, Michael worked as a herpetologist and wildlife biologist. He has a Ph.D. in evolutionary biology from the University of Sydney, Australia, a bachelor's degree from the University of Arizona, and a graduate certificate in science writing from the University of California, Santa Cruz. To find out what his latest project is, you can follow Michael on Twitter.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
     }
    ]
   },
@@ -3541,8 +3497,8 @@
       "market": "crypto",
       "day": "2026-11-01"
      },
-     "published": "2026-11-01T00:16+00:00",
-     "text": "Bitcoin: $77,457 (+0.2% 24h)\nEthereum: $2,254 (+0.4% 24h)\nSolana: $95.35 (-1.0% 24h)\nToncoin: $1.21 (+2.9% 24h)"
+     "published": "2026-11-01T00:47+00:00",
+     "text": "Bitcoin: $77,566 (+0.3% 24h)\nEthereum: $2,258 (+0.5% 24h)\nSolana: $95.59 (-1.0% 24h)\nToncoin: $1.21 (+2.5% 24h)"
     }
    ]
   },
