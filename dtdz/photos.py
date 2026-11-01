@@ -120,7 +120,7 @@ def commons_search(query: str, limit: int = 12):
     for p in pages:
         info = (p.get("imageinfo") or [{}])[0]
         w, h = info.get("width", 0), info.get("height", 0)
-        if info.get("mime") != "image/jpeg" or w < 1600 or h < 800 or LOGOISH.search(p.get("title", "")):
+        if info.get("mime") != "image/jpeg" or w < 1600 or h < 800 or not 1.0 <= w / h <= 2.1 or LOGOISH.search(p.get("title", "")):
             continue
         ok.append((p.get("index", 99), -(w / max(h, 1) >= 1.2), info.get("thumburl") or info["url"]))
     for _, _, url in sorted(ok, key=lambda t: (t[1], t[0]))[:4]:      # landscape first, then relevance
@@ -162,15 +162,14 @@ def _from_sources(post, cluster, official):
 
 
 def _fallback_query(post: dict) -> str | None:
-    from .brands import detect_topic
+    """A generic photo is only honest for markets (a trading floor, a coin). For anything else a
+    random 'related' image misleads, so the logo card is better and the writer must supply photos."""
     text = (post.get("headline") or "") + "\n" + post.get("text", "")
-    cat = post.get("category") or post.get("type")
-    if cat in CATEGORY_QUERY and cat not in ("discovery",):
-        if cat == "market" and re.search(r"بيتكوين|إيثيريوم|عملات رقمية|كريبتو|بينانس", text):
-            return CATEGORY_QUERY["crypto"]
-        return CATEGORY_QUERY[cat]
-    topic = detect_topic(text, post.get("type", "news"))
-    return CATEGORY_QUERY.get(topic) or CATEGORY_QUERY.get(cat)
+    if (post.get("category") or post.get("type")) != "market":
+        return None
+    if re.search(r"بيتكوين|إيثيريوم|عملات رقمية|كريبتو|بينانس", text):
+        return CATEGORY_QUERY["crypto"]
+    return CATEGORY_QUERY["market"]
 
 
 def resolve(post: dict, cluster: dict | None = None):
