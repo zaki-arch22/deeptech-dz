@@ -1,178 +1,6 @@
 {
- "generated_at": "2026-11-02T00:10:53+00:00",
+ "generated_at": "2026-11-02T00:41:25+00:00",
  "clusters": [
-  {
-   "id": "c949d19b77e",
-   "kind": "news",
-   "score": 29.0,
-   "sensitive": true,
-   "distinct_sites": 10,
-   "title_hint": "FBI links North Korea to theft of $6 billion from Binance",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
-     "title": "FBI links North Korea to theft of $6 billion from Binance",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "aac949def3afc17f",
-     "published": "2026-10-31T21:44+00:00",
-     "text": "FBI links North Korea to theft of $6 billion from Binance\nReuters"
-    },
-    {
-     "source": "Bloomberg Tech",
-     "trust": 2,
-     "url": "https://bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
-     "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-     "lang": "en",
-     "extra": {},
-     "id": "eee7e85f90847398",
-     "published": "2026-10-31T21:59+00:00",
-     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance."
-    },
-    {
-     "source": "Financial Times Tech",
-     "trust": 2,
-     "url": "https://ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
-     "title": "FBI blames North Korean group for $6.3bn Binance cyber heist",
-     "lang": "en",
-     "extra": {},
-     "id": "bce01cdef721f4cc",
-     "published": "2026-10-31T22:34+00:00",
-     "text": "Crypto exchanges move to tighten security after record theft from world’s biggest digital assets venue"
-    },
-    {
-     "source": "CBC",
-     "trust": 2,
-     "url": "https://cbc.ca/news/world/binance-hack-north-korea-9.7404502?cmp=rss",
-     "title": "Binance says billions replaced from hack that FBI blames on North Korea",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.cbc.ca/ais/581192e9-8083-4595-b397-23d96042b29a,1793486349003/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C263%2C4000%2C2250%29%3BResize%3D620"
-     },
-     "id": "7eeb63a23a3d4bcb",
-     "published": "2026-10-31T22:54+00:00",
-     "text": "Binance says billions replaced from hack that FBI blames on North Korea\n'We've now replenished 90% of the stolen assets,' says cryptocurrency exchange\nCrypto exchange Binance said on Saturday it has been able to replace 90 per cent of the amount stolen after a record $6.3-billion US hack of its platform by using company money to buy new tokens.\nThe remaining 10 per cent consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X.\n\"We've now replenished 90 per cent of the stolen assets, and we're committed to covering the remaining 10 per cent. Our users will not bear the financial impact of this incident,\" co-CEO Richard Teng said on X on Saturday.\nCrypto prices fell on Friday, while Binance — the world's biggest crypto exchange — sought to reassure customers that their funds were safe after losing more than $6 billion worth of crypto in a hack that analysts and the FBI blamed on North Korea.\nThe FBI on Saturday said the North Korean state-sponsored unit known as TraderTraitor was responsible for the attack. Members of the unit were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology.\nTeng said on Friday that the breach was a \"complex attack\" involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nAfter the hack, the exchange stopped allowing customers to withdraw their funds, but it said on Saturday it was still on track to reopen withdrawals on Sunday.\nBinance says $6.3B US hacked in what could be largest cryptocurrency theft ever\nTrump pardons Canadian Binance CEO who failed to stop illegal activity on crypto platform\nBinance said it has set aside around $6.34 billion of company funds internally to cover the losses.\nThe money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users (SAFU), a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nBinance also said it had taken a new snapshot of assets held on its platform as of 00:00 GMT on Oct. 31, as part of its proof-of-reserves process.\nUsers holding the 10 listed tokens — BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC — would be able to verify that their assets were backed at a minimum ratio of 1:1 once the full proof was available, it said."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/news/fbi-north-korea-new-york-b3076979.html",
-     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
-     "lang": "en",
-     "extra": {},
-     "id": "7a2e28b9917357a8",
-     "published": "2026-10-31T23:03+00:00",
-     "text": "The FBI says the billions of dollars stolen from Binance within minutes in the biggest crypto heist in history was orchestrated by North Korean hackers"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/binance-hack-north-korea",
-     "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/23/da771d5f-c037-4b4a-b168-c7fafdec9da3/thumbnail/1200x630/2f49750673e563e6283f5c83343305bf/ap23325643193246.jpg"
-     },
-     "id": "a1c01ba106a31b8e",
-     "published": "2026-10-31T23:20+00:00",
-     "text": "A U.S.-based blockchain intelligence firm said a\ncyber unit was likely behind an attack that stole $6.3 billion from Binance, the world's biggest cryptocurrency exchange.Binance said on Friday that deposits were unaffected, while withdrawals were suspended and are expected to resume in the next day or two. The company, which worked with blockchain partners to freeze roughly $3 billion in affected assets, also said it will cover all customer losses.\nIn a social media post, Binance said that an initial investigation suggested the incident may have involved a compromised laptop, while a subsequent probe uncovered additional \"points of breach.\"\nCrypto industry analysts say the hack against Binance is the largest cyber heist ever.\nWhat is TraderTraitor?\nIn a post on its website Thursday, tech security firm TRM Labs attributed the attack to TraderTraitor, which it described as North Korea's elite hacking unit. \"We make this judgment with high confidence,\" TRM said.\n\"An attacker moved approximately USD 6.36 billion out of Binance wallets on ten blockchains, most of it in about 20 minutes,\" the firm said. That would make the hack the largest cryptocurrency theft on record, it said.\nThe FBI on Saturday also accused TraderTraitor of being behind the attack, saying the hackers have been converting the stolen funds into Ethereum, a popular cryptocurrency.\nThe hackers are preparing the funds for \"further laundering stages,\" the FBI said in a statement.\nIn 2025, TraderTraitor also targeted another crypto exchange, Bybit, in an attack resulting in a $1.5 billion loss, according to the FBI.\n\"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack,\" TRM said.\nJonathan Levin, co-founder and CEO of blockchain research firm Chainalysis, also said on social media that the Binance hack was \"likely done\" by TraderTraitor.\nAnalysts believe that TraderTraitor members are part of a wider North Korean hacking unit known as Lazarus Group, which targets multiple institutions across government, finance and other fields, according to the U.S. Treasury Department.\nThe Justice Department alleged in 2018 that the for an attack on Sony Pictures Entertainment four years earlier that leaked a massive amount of sensitive company data online.\nWorking \"around the clock\"\nBinance said on social media that its \"teams are working around the clock to resolve this issue safely and thoroughly. We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice.\"\nExperts say North Korea has turned to crypto hacking and other illicit cyber activities as a source of badly needed foreign currency to support its troubled economy and fund its nuclear program in the wake of tough U.N. sanctions and other difficulties.\nIn December 2022, South Korea's spy agency said North Korean hackers had stolen an estimated 1.5 trillion won ($1.1 billion) in cryptocurrency and other virtual assets in the past five years, more than half of it in 2022 alone. It said North Korea's capacity to steal digital assets was considered among the best in the world.\nChangpeng Zhao, also known as CZ, founded Binance in 2017. In 2023, he pleaded guilty to a felony linked to failing to prevent money laundering on the platform and stepped down as the company's CEO. President Trump\n.Zhao posted Thursday on social media that \"User funds are safe!\" but added that the theft \"does look like a hack on Binance.\" He added that, wh"
-    },
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/business/2026/11/01/tech/binance-hack-fbi-north-korea",
-     "title": "FBI blames North Korea for $6 billion Binance crypto hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571606.jpg?v=3.1"
-     },
-     "id": "0430f3ab4b2e2e18",
-     "published": "2026-10-31T23:21+00:00",
-     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said Saturday in a statement, referring to the U.S. Secret Service and the criminal division of the Internal Revenue Service. “It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the $6.3 billion and plans to restore withdrawals by Sunday, making progress on a pledge to fully reimburse customers.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/world/fbi-blames-north-korea-for-stolen-billions-from-binance-in-biggest-hack-in-history-3009195",
-     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793489320529-f42bdd23393fe4e0.jpg"
-     },
-     "id": "157a22580da58bfb",
-     "published": "2026-10-31T23:29+00:00",
-     "text": "- The FBI expects that TraderTraitor will now attempt to convert the assets using DeFi and “instant swap services”\nNEW YORK: The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI said Saturday.\nThe bureau said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called ethereum. The FBI expects that TraderTraitor will now attempt to convert the assets using DeFi and “instant swap services.”\nOn Thursday, $6.3 billion in bitcoin and other digital currency was stolen from Binance, the world’s largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe company said Saturday that it had enough set aside in the same digital currency that was stolen to cover 90 percent of the missing assets and promised that customers would be fully reimbursed."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack",
-     "title": "FBI blames North Korea for US$6 billion Binance crypto hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/36b2e258e0d2f9a1fac6bcb5182b18cdde5334f79066ddd842e1d2f17c983c4a?w=1200"
-     },
-     "id": "ff3e7a45d1ce8dd6",
-     "published": "2026-10-31T23:33+00:00",
-     "text": "FBI blames North Korea for US$6 billion Binance crypto hack\nAI generated\nWASHINGTON - The FBI said that North Korea was responsible for stealing more than US$6 billion (S$7.67 billion) in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said on Oct 31 in a statement, referring to the US Secret Service and the criminal division of the Internal Revenue Service.\n“It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the US$6.3 billion and plans to restore withdrawals by Nov 1, making progress on a pledge to fully reimburse customers.\nIn a social media post on Oct 31, the world’s biggest crypto exchange reiterated that it will absorb the full impact of the theft so that users won’t suffer any losses.\nThe Binance hack is the largest in cryptocurrency’s history, as well as one of the largest cyber incidents more generally, according to experts. It sent shockwaves through the industry, which has been trying to gain more mainstream adoption.\nNorth Korean hackers are well known for their past attacks against crypto exchanges. They’ve been accused by the FBI and cybersecurity experts of some of the biggest crypto heists in recent years, including the US$1.5 billion Bybit attack in 2025 and the 2022 theft of about US$620 million in cryptocurrency.\nTraderTraitor is an elite North Korean hacking unit that the FBI previously blamed for the Bybit hack.\nEarlier, President Donald Trump had said the US was looking into whether North Korea was involved in the Binance attack.\n“They’re saying they’re guaranteeing it or something,” Trump told reporters on Oct 30 in the Oval Office. “It was a hack. That’s the problem. You know the old-fashioned way when you used to sign a check, take it out. These are different people. Never see the money anymore. So I’ve always felt it was a little bit dangerous.”\nTrump in recent weeks has floated new US outreach to North Korea, suggesting that a potential meeting with its leader, Kim Jong Un, could happen in 2026. Earlier in October, however, Trump downplayed those expectations, saying he was “not sure that anybody’s asking for a meeting.” BLOOMBERG"
-    },
-    {
-     "source": "Reddit technology",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xk8uwo/north_korea_has_stolen_usd_128_billion_in_crypto",
-     "title": "North Korea Has Stolen USD 12.8 Billion in Crypto, USD 7.4 Billion of It in 2026",
-     "lang": "en",
-     "extra": {},
-     "id": "949d19b77e1be202",
-     "published": "2026-10-31T12:23+00:00",
-     "text": "submitted by\n/u/Logical_Welder3467\n[link]\n[comments]"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkM3dmhycV92Tk5Oa2xmTVhpMUI3RnluVVRpV1dlUGtIVXo4NjBqX0RDcjlLVW5FaGN4TGhZOXpEMlhBbzhzZ0gteVMwWUx2dVFoVzhnMzkxeU5tZzlDaHpZZE5LUVMxYllLTVBfTzhTcEZMaTl4eXhKT2l4ekwxWFFWOHc3bjJrWXhHRkVQQTFhOUNXMzlJSGQyZw?oc=5",
-     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history - AP News",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "f83ed08647ad06e5",
-     "published": "2026-11-01T01:28+00:00",
-     "text": "- FBI blames North Korea for stolen billions from Binance in biggest hack in history AP News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post\n- Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday CNBC"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFhVSjcwbUp5T0xhdUREenVPRkh0T29TOGREZlFzUlpsQzI0TWMtWUtYQjlVMmtXVHNiRzFBYkYtTGE5RXJhOUxuMWtFV3Q0M0JYRThweW42WkdQUVdPajItanZLNENtcVMwNU9XcFYtLXJvU3EwWHlIVU5WUDVBQlROY2dnaUlNRGNSdS11MFUtUXRZSzhFYnQtS1ZvOVAzZjIwc2lB0gGrAUFVX3lxTE42dV95Y20wTW8ya0xnRXhhNXhNT3VQQW8xTlUtNXNqdm5tUmVBZWE1ZXpxUlZEMmxrTVRBT05xS3R3SGJ4dmtGOHR4Q3NOVHBmdHJmMlM0YkJmTXZxX09adVN2NkltN0N6RHk0cFhzTUtHV0dJUmhuN3I1NEw2TXpCRFRZY0o5V3hudkh4cFY0Q05EYjRpYURPU2RXcVZXN19SSC1mZ18xc29pMA?oc=5",
-     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history - ABC News - Breaking News, Latest News and Videos",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "2168f8348cd4d33a",
-     "published": "2026-11-01T06:30+00:00",
-     "text": "- FBI blames North Korea for stolen billions from Binance in biggest hack in history ABC News - Breaking News, Latest News and Videos\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds Reuters\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFFjYl9LMUZsLVc3aDB3UmpoR3l6MGVxZ001eU16UVh4WWlzM1ZoRWJHTjU5Z1dObm9OVzFNYlpSUFdCd0c3eTVUMFNZdUNMbWZsRnZnSlZyaGhsRE51VHVIZnljZDU2QWF0cGt0ZEZfeVdzd2s3WGpyQXlUUm1kcEdDZlZaZHlUYlBHcmVwcEt0YVJ4MUHSAZYBQVVfeXFMTnp0eFpCRi00X2V4aXNEMjNrZE1iX3BNX1hLSWhTYWhwcVVIYjlPTmdRWmh2bUpqLXVTY2JzTDJvamlfSHJ6d1gzaHExNlF3eTZaQzZnX1JCMXM5WnNqVDlrQmdNYVI4bEx4amF5bmtkLXEyWE42OUliMldSRlVIQS02LXNGX0s2eXctQy1GUDRTZXlNUTB3?oc=5",
-     "title": "FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "64ca4377590dad87",
-     "published": "2026-11-01T09:02+00:00",
-     "text": "- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Long accused of abetting crypto crimes, Binance has now become a victim AP News"
-    }
-   ]
-  },
   {
    "id": "cb8087c5f39",
    "kind": "news",
@@ -661,6 +489,154 @@
    ]
   },
   {
+   "id": "caac949def3",
+   "kind": "news",
+   "score": 23.0,
+   "sensitive": true,
+   "distinct_sites": 7,
+   "title_hint": "FBI links North Korea to theft of $6 billion from Binance",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT0F3bEEtREZiMG5WVnJMQlVHUDdaaHJQTno1VUJJRENOT2MySEZDcmpCYm41YnpkMS1Ub1l1ZThqSUJSa214ay1Gb3E3NFFNNWRZZDJtVjZSWU91M1NFVkRWZjJPdG9nN2ZCTm12RnhFVWFTTkhpMnBnRU5XZDhmRTRYNFZ0V1lKSkc3N1htMnRLbHhFWlo0?oc=5",
+     "title": "FBI links North Korea to theft of $6 billion from Binance",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "aac949def3afc17f",
+     "published": "2026-10-31T21:44+00:00",
+     "text": "FBI links North Korea to theft of $6 billion from Binance\nReuters"
+    },
+    {
+     "source": "Bloomberg Tech",
+     "trust": 2,
+     "url": "https://bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+     "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
+     "lang": "en",
+     "extra": {},
+     "id": "eee7e85f90847398",
+     "published": "2026-10-31T21:59+00:00",
+     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance."
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+     },
+     "id": "0629994f454de1d9",
+     "published": "2026-10-31T22:11+00:00",
+     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
+    },
+    {
+     "source": "Financial Times Tech",
+     "trust": 2,
+     "url": "https://ft.com/content/c7062e37-86fd-45ef-8f58-573de0fcaaf0?syn-25a6b1a6=1",
+     "title": "FBI blames North Korean group for $6.3bn Binance cyber heist",
+     "lang": "en",
+     "extra": {},
+     "id": "bce01cdef721f4cc",
+     "published": "2026-10-31T22:34+00:00",
+     "text": "Crypto exchanges move to tighten security after record theft from world’s biggest digital assets venue"
+    },
+    {
+     "source": "CBC",
+     "trust": 2,
+     "url": "https://cbc.ca/news/world/binance-hack-north-korea-9.7404502?cmp=rss",
+     "title": "Binance says billions replaced from hack that FBI blames on North Korea",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i.cbc.ca/ais/581192e9-8083-4595-b397-23d96042b29a,1793486349003/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C263%2C4000%2C2250%29%3BResize%3D620"
+     },
+     "id": "7eeb63a23a3d4bcb",
+     "published": "2026-10-31T22:54+00:00",
+     "text": "Binance says billions replaced from hack that FBI blames on North Korea\n'We've now replenished 90% of the stolen assets,' says cryptocurrency exchange\nCrypto exchange Binance said on Saturday it has been able to replace 90 per cent of the amount stolen after a record $6.3-billion US hack of its platform by using company money to buy new tokens.\nThe remaining 10 per cent consists of tokens that are less liquid, meaning they may take longer to buy, it said in a statement posted on X.\n\"We've now replenished 90 per cent of the stolen assets, and we're committed to covering the remaining 10 per cent. Our users will not bear the financial impact of this incident,\" co-CEO Richard Teng said on X on Saturday.\nCrypto prices fell on Friday, while Binance — the world's biggest crypto exchange — sought to reassure customers that their funds were safe after losing more than $6 billion worth of crypto in a hack that analysts and the FBI blamed on North Korea.\nThe FBI on Saturday said the North Korean state-sponsored unit known as TraderTraitor was responsible for the attack. Members of the unit were observed by law enforcement converting stolen assets into the cryptocurrency ethereum, the FBI said in a statement, adding that it expects \"further laundering\" of the assets through the use of related technology.\nTeng said on Friday that the breach was a \"complex attack\" involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nAfter the hack, the exchange stopped allowing customers to withdraw their funds, but it said on Saturday it was still on track to reopen withdrawals on Sunday.\nBinance says $6.3B US hacked in what could be largest cryptocurrency theft ever\nTrump pardons Canadian Binance CEO who failed to stop illegal activity on crypto platform\nBinance said it has set aside around $6.34 billion of company funds internally to cover the losses.\nThe money spent re-buying tokens came from using part of its $1 billion Secure Asset Fund for Users (SAFU), a bitcoin reserve it holds to protect customers in the event of security breaches, as well as some of its Futures Insurance Fund, and the company's own corporate treasury, it said on X.\nBinance also said it had taken a new snapshot of assets held on its platform as of 00:00 GMT on Oct. 31, as part of its proof-of-reserves process.\nUsers holding the 10 listed tokens — BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC — would be able to verify that their assets were backed at a minimum ratio of 1:1 once the full proof was available, it said."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/fbi-north-korea-new-york-b3076979.html",
+     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+     "lang": "en",
+     "extra": {},
+     "id": "7a2e28b9917357a8",
+     "published": "2026-10-31T23:03+00:00",
+     "text": "The FBI says the billions of dollars stolen from Binance within minutes in the biggest crypto heist in history was orchestrated by North Korean hackers"
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://arabnews.com/world/fbi-blames-north-korea-for-stolen-billions-from-binance-in-biggest-hack-in-history-3009195",
+     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793489320529-f42bdd23393fe4e0.jpg"
+     },
+     "id": "157a22580da58bfb",
+     "published": "2026-10-31T23:29+00:00",
+     "text": "- The FBI expects that TraderTraitor will now attempt to convert the assets using DeFi and “instant swap services”\nNEW YORK: The theft of billions of dollars from Binance within a matter of minutes, the biggest crypto heist in history, was orchestrated by North Korean hackers, the FBI said Saturday.\nThe bureau said in a statement that this week’s attack was tied to “malicious cyber activity” by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.\nThe FBI asked crypto exchanges, blockchain analytics companies and others to block transactions linked to various addresses to make sure the money is not laundered to cover up its origins.\nIt also said its probe found that TraderTraitor was converting stolen assets primarily into a cryptocurrency called ethereum. The FBI expects that TraderTraitor will now attempt to convert the assets using DeFi and “instant swap services.”\nOn Thursday, $6.3 billion in bitcoin and other digital currency was stolen from Binance, the world’s largest crypto exchange, in what several crypto experts said bore the hallmarks of a North Korean hack.\nThe company said Saturday that it had enough set aside in the same digital currency that was stolen to cover 90 percent of the missing assets and promised that customers would be fully reimbursed."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkM3dmhycV92Tk5Oa2xmTVhpMUI3RnluVVRpV1dlUGtIVXo4NjBqX0RDcjlLVW5FaGN4TGhZOXpEMlhBbzhzZ0gteVMwWUx2dVFoVzhnMzkxeU5tZzlDaHpZZE5LUVMxYllLTVBfTzhTcEZMaTl4eXhKT2l4ekwxWFFWOHc3bjJrWXhHRkVQQTFhOUNXMzlJSGQyZw?oc=5",
+     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history - AP News",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "f83ed08647ad06e5",
+     "published": "2026-11-01T01:28+00:00",
+     "text": "- FBI blames North Korea for stolen billions from Binance in biggest hack in history AP News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post\n- Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday CNBC"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFhVSjcwbUp5T0xhdUREenVPRkh0T29TOGREZlFzUlpsQzI0TWMtWUtYQjlVMmtXVHNiRzFBYkYtTGE5RXJhOUxuMWtFV3Q0M0JYRThweW42WkdQUVdPajItanZLNENtcVMwNU9XcFYtLXJvU3EwWHlIVU5WUDVBQlROY2dnaUlNRGNSdS11MFUtUXRZSzhFYnQtS1ZvOVAzZjIwc2lB0gGrAUFVX3lxTE42dV95Y20wTW8ya0xnRXhhNXhNT3VQQW8xTlUtNXNqdm5tUmVBZWE1ZXpxUlZEMmxrTVRBT05xS3R3SGJ4dmtGOHR4Q3NOVHBmdHJmMlM0YkJmTXZxX09adVN2NkltN0N6RHk0cFhzTUtHV0dJUmhuN3I1NEw2TXpCRFRZY0o5V3hudkh4cFY0Q05EYjRpYURPU2RXcVZXN19SSC1mZ18xc29pMA?oc=5",
+     "title": "FBI blames North Korea for stolen billions from Binance in biggest hack in history - ABC News - Breaking News, Latest News and Videos",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "2168f8348cd4d33a",
+     "published": "2026-11-01T06:30+00:00",
+     "text": "- FBI blames North Korea for stolen billions from Binance in biggest hack in history ABC News - Breaking News, Latest News and Videos\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Binance to resume withdrawals after recovering bulk of $6 billion in stolen funds Reuters\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNFFjYl9LMUZsLVc3aDB3UmpoR3l6MGVxZ001eU16UVh4WWlzM1ZoRWJHTjU5Z1dObm9OVzFNYlpSUFdCd0c3eTVUMFNZdUNMbWZsRnZnSlZyaGhsRE51VHVIZnljZDU2QWF0cGt0ZEZfeVdzd2s3WGpyQXlUUm1kcEdDZlZaZHlUYlBHcmVwcEt0YVJ4MUHSAZYBQVVfeXFMTnp0eFpCRi00X2V4aXNEMjNrZE1iX3BNX1hLSWhTYWhwcVVIYjlPTmdRWmh2bUpqLXVTY2JzTDJvamlfSHJ6d1gzaHExNlF3eTZaQzZnX1JCMXM5WnNqVDlrQmdNYVI4bEx4amF5bmtkLXEyWE42OUliMldSRlVIQS02LXNGX0s2eXctQy1GUDRTZXlNUTB3?oc=5",
+     "title": "FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "64ca4377590dad87",
+     "published": "2026-11-01T09:02+00:00",
+     "text": "- FBI blames North Korea for $6 billion Binance Heist — Biggest cryptocurrency theft in history DW.com\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Long accused of abetting crypto crimes, Binance has now become a victim AP News"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "5c29874acc90c064",
+     "published": "2026-11-01T09:28+00:00",
+     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
+    }
+   ]
+  },
+  {
    "id": "cdc879ed06a",
    "kind": "news",
    "score": 21.0,
@@ -775,6 +751,113 @@
      "id": "0b2ccfd507074910",
      "published": "2026-11-01T13:00+00:00",
      "text": "- Netflix’s New Releases Coming in November 2026 The Hollywood Reporter\n- New on Netflix: The 8 best new movies and shows in November, plus ‘Bridesmaids,’ ‘Whiplash’ and more streaming now Yahoo\n- The 7 Best New Movies Streaming on Netflix in November 2026 IndieWire\n- 8 Shows You Need to Watch on Netflix This November 2026 People.com\n- Everything New on Streaming in November: Netflix, HBO Max and More TheWrap"
+    }
+   ]
+  },
+  {
+   "id": "c94e0534854",
+   "kind": "news",
+   "score": 21.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Binance says it covered 90% of losses in cyberattack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/economy/binance-says-it-covered-90-of-losses-in-cyberattack/4107700",
+     "title": "Binance says it covered 90% of losses in cyberattack",
+     "lang": "en",
+     "extra": {},
+     "id": "94e05348543cd20e",
+     "published": "2026-11-01T00:24+00:00",
+     "text": "Company says remaining 10% consisted of lower-liquidity tokens"
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/d6dc16a65f8e",
+     "title": "Binance says it covered 90% of cyberattack losses as FBI links theft to North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "50616e3d00924617",
+     "published": "2026-11-01T00:32+00:00",
+     "text": "The crypto exchange company says the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\""
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "473bd658979d7399",
+     "published": "2026-11-01T00:38+00:00",
+     "text": ""
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
+     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
+     "lang": "en",
+     "extra": {},
+     "id": "3b6bb0c06269b687",
+     "published": "2026-11-01T07:33+00:00",
+     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers",
+     "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg"
+     },
+     "id": "db22ed3811171686",
+     "published": "2026-11-01T19:57+00:00",
+     "text": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record.\nIn a security alert published Saturday, the agency attributed the attack to TraderTraitor, a North Korean hacking group also tracked as Lazarus Group, Jade Sleet, and APT38, linked to numerous cryptocurrency thefts.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the FBI said.\nThis official attribution follows blockchain intelligence firms TRM Labs and Chainalysis, which had already linked the theft to TraderTraitor.\nAs previously reported, Binance linked the breach to a compromised DevOps engineer's laptop, which allowed the attackers to access a service container and submit unauthorized withdrawal transactions.\nThe attackers stole approximately $6.36 billion in cryptocurrency across ten blockchains, with most of the funds transferred in just 20 minutes.\nThe FBI says it has observed TraderTraitor converting stolen assets primarily into Ethereum (ETH), which it expects will be further laundered through decentralized finance (DeFi) platforms and instant cryptocurrency swap services.\nThe FBI, U.S. Secret Service, and IRS Criminal Investigation are now asking cryptocurrency exchanges, blockchain operators, and other virtual asset service providers to block transactions linked to addresses the hackers used to launder stolen funds.\nThe agency also published a list of 628 cryptocurrency addresses associated with the theft, including 608 Ethereum addresses, 19 Bitcoin addresses, and one Solana address.\nTraderTraitor has a long history of targeting cryptocurrency companies and their employees, with North Korean hackers linked to numerous crypto-theft attacks, including the $387.5 million Bitget theft in September 2026, the $280 million Drift hack in April 2026, $1.5 billion Bybit heist in February 2025, and the $308 million DMM Bitcoin theft in May 2024.\nOne tactic used by North Korean Lazarus hackers is a long-running campaign known as 'Operation DreamJob,' in which they impersonate recruiters and approach software developers and cryptocurrency employees with fake job offers to trick them into installing malware.\nBoth the DMM and Bybit attacks involved compromising computers belonging to employees or developers with access to cryptocurrency infrastructure.\nIn the DMM Bitcoin attack, hackers impersonated a recruiter on LinkedIn and tricked an employee at the cryptocurrency wallet company Ginco into running malicious Python code disguised as a pre-employment test.\nThe Bybit heist also stemmed from a compromised Safe{Wallet} developer's computer, which let hackers access the wallet platform and manipulate a legitimate transaction request by a DMM employee, redirecting $1.5 billion in cryptocurrency to wallets they controlled.\nMore recently, the April 2026 Drift attack involved a six-month social engineering operation in which individuals posing as representatives of a cryptocurrency trading firm met Drift contributors in person at multiple industry conferences.\nThe attackers spent months building relationships, and are believed to have compromised employees' devices through a malicious code repository or a TestFlight appli"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81S2VuSVhqVExKRkVHY2RjU2hDZ2JCdGlaNk5OTE9HeUxEbnAwWFpoUDhqNktpTVFMNE16SkR3azlIT2xFZW0xMTREaFIxOUVuWWNXRml3d2tyMG9aeTZ5ZVd1c3RZdHAzNlluVnMzSTZsbWhsQnc?oc=5",
+     "title": "How North Korea perfected the crypto heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "612cf9d910ac1878",
+     "published": "2026-11-01T01:48+00:00",
+     "text": "- How North Korea perfected the crypto heist Axios\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history PBS\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered CNBC"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjBKNHBsSy1EQlN4NnM4QXQ0OXNDeFlzUnY1bVVtYVB3RU9ZSk5vOGU0MzFkLWFlMXIzYS1hNnpzOHNjX3BLa1JjMTZIUUppT0JVVk9QeUR6X3pkSXVCOU53VmhtYXRQV0dQX05WclZGYlgwSWlTZnpUYUVFVzVKZko2UDdXeGRXOWllT3FNTHMxNGJTMlgyNy1BcnVYaDIzaWRUNFZpUG9EQ3JSZEHSAbMBQVVfeXFMTXBHdjctTGNMSU5XZUVxTGFsZFBlN1A3Y0pDRHp5dDItMk9aZW9DcXA4b3RTWXpQbnc2U0VJRk1QRjk0T21iMzJoV0hXQlBkWlBFS2hKeFRhVXZ5ODc0ZVhULUJzMGxmLXFxaGtIZlVSV1I2a3NDcjJTSVJTU25UZ1kySGtJaVZheGxqRVAyVWNLTGlBWlZpMVV2LW5DV29yUVF6YjVvazF5NGhhMzRLRTY5T0U?oc=5",
+     "title": "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says - Fox Business",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "99e140d5cb43eb74",
+     "published": "2026-11-01T05:37+00:00",
+     "text": "- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stolen billions from Binance in biggest hack in history KCRA\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmVOUTJ5cEo0bUU2Unp2V093dXNIN3hEaHB5VXRrZlBYRjc5RkVzM2lraGRpZGNIM0s0Uk15bVdPOHNSNGJsN29Ma3lVTzBleWd2WHRuSGlzOXVtV193RE8wbXgyaGNjdGdJRkUxdkR2ajN0MGh2STQ2T2p3YTVMTnRVME8?oc=5",
+     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "fe9a6ec2b57b5e87",
+     "published": "2026-11-01T06:48+00:00",
+     "text": "- FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist The Hacker News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals following $6.3 billion breach TechCrunch\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
     }
    ]
   },
@@ -963,6 +1046,19 @@
      "id": "191edd0339087eff",
      "published": "2026-11-01T21:24+00:00",
      "text": "Trump administration seeks to delay results if Republican incumbent Dan Sullivan loses to Democrat Mary Peltola."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/nightly-news/video/judge-dismisses-trump-lawsuit-in-alaska-senate-race-272667717592",
+     "title": "Judge dismisses Trump lawsuit in Alaska Senate race",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/mpx/2704722219/2026_11/1793577154453_wnn_spa_alaska_senate_261101_S3_1920x1080-sy1heb.jpg"
+     },
+     "id": "5612bec6b1f725c6",
+     "published": "2026-11-01T23:52+00:00",
+     "text": "Steve Kornacki breaks down final NBC News poll before midterm elections\n01:56Fiery plane crash in Florida\n01:39Trump says more military action “still possible” as the Iran War continues\n00:54Legal battles heat up ahead of critical midterm elections\n00:59Good News: Philadelphia Eagles broadcaster celebrates 50 seasons behind the mic\n01:58Halloween weekend shootings nationwide\n01:17- Now Playing\nJudge dismisses Trump lawsuit in Alaska Senate race\n01:45 - UP NEXT\nPope Leo helps kick off U.S. college basketball season in Rome\n01:16 Video shows immigration officer pointing gun at bystander\n01:15New twist in critical Michigan Senate race\n03:06Great Americans: A conversation with former NFL star and retired Minnesota Supreme Court Justice Alan Page\n02:30ICE officer indicted for allegedly hitting man with car\n01:32Market drop wipes out more than a trillion dollars in value\n02:08Violent clashes in Italy as demonstrators protest the cost of living\n01:37FBI investigating Alaska Democrat’s campaign\n01:56Trump’s travel shake-up with four days until midterms\n02:30Botched execution survivor speaks out\n01:20New details on Rep. Ilhan Omar investigation\n01:31Death toll rises from train collision\n01:31Houston grandmother forced to unretire to make ends meet\n03:02\nNightly News\n- UP NEXT\nSteve Kornacki breaks down final NBC News poll before midterm elections\n01:56 Fiery plane crash in Florida\n01:39Trump says more military action “still possible” as the Iran War continues\n00:54Legal battles heat up ahead of critical midterm elections\n00:59Good News: Philadelphia Eagles broadcaster celebrates 50 seasons behind the mic\n01:58Halloween weekend shootings nationwide\n01:17"
     }
    ]
   },
@@ -1035,6 +1131,135 @@
      "id": "4611f35e636c5236",
      "published": "2026-11-01T10:35+00:00",
      "text": "- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance hack spotlights North Korea’s multibillion-dollar crypto theft operation NBC News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack WSJ"
+    }
+   ]
+  },
+  {
+   "id": "ce871959dc9",
+   "kind": "news",
+   "score": 20.0,
+   "sensitive": false,
+   "distinct_sites": 8,
+   "title_hint": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFRBVkdFd1REUGNsaWd3Z2lRUzVQdEwtczZmOUtvZHBiWmVmSkUyMGdURWVNSV9SbV9Oa0hPRW5iV0hXS2JtN1JIYTdqcjJBeXJzOVpGSTYtYVNFM3FHUVdDSU9TcnpoNVF0XzNPTVVsclNPa3JabVlEVEZVbEFYdnA4U1Z1YWxSQ2lkU01lM0YwbHd4dWxqRjNodV8tUDUxWmk3MGxFMHVNLVFRV1FWaWVVUQ?oc=5",
+     "title": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "e871959dc9e33530",
+     "published": "2026-11-01T17:47+00:00",
+     "text": "Democratic Senator Murphy hospitalized after stroke, chief of staff says\nReuters"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/chris-murphy-stroke-hospitalized",
+     "title": "Sen. Chris Murphy hospitalized following stroke",
+     "lang": "en",
+     "extra": {},
+     "id": "df3769b1fe0650fd",
+     "published": "2026-11-01T17:52+00:00",
+     "text": "Democratic Sen. Chris Murphy of Connecticut was hospitalized on Saturday after experiencing a stroke, his office said."
+    },
+    {
+     "source": "Washington Post Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZC1FLW8wYndWZjJyYl9IbTZLY3IxdzZEU1dodVA5eWR2WndWQUg1dnU0WnFlWjdsRUVOR08wNmtCbjhnb0s3Q0VxZFRTTm1jNk4yYjF5X1h6T2g1NzgzaEZwbzk1NUlzd3MyekdiQ2s1ZmlQTDE5VlNtM0N0NXk3X1NBdkdDU1FfbWkyM3ROLWdTUQ?oc=5",
+     "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "a406e45528f27a96",
+     "published": "2026-11-01T17:57+00:00",
+     "text": "Sen. Chris Murphy hospitalized for stroke, his office says\nThe Washington Post"
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/congress/chris-murphy-hospitalized-stroke-recovery-rcna606834",
+     "title": "Sen. Chris Murphy hospitalized after stroke",
+     "lang": "en",
+     "extra": {},
+     "id": "bfec9c70d9540a83",
+     "published": "2026-11-01T18:01+00:00",
+     "text": "Sen. Chris Murphy, D-Conn., was hospitalized Saturday after a stroke, a spokesperson for the senator said Sunday."
+    },
+    {
+     "source": "ABC News",
+     "trust": 2,
+     "url": "https://abcnews.com/Politics/sen-chris-murphy-hospitalized-after-suffering-stroke-chief/story?id=137751743",
+     "title": "Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i.abcnewsfe.com/a/9bc5dddf-9664-44ff-95b7-5c2406e0aaed/chris-murphy-abc-jm-250209_1739113572108_hpMain_16x9.jpg?w=1600"
+     },
+     "id": "e9ffefb028c3c3e3",
+     "published": "2026-11-01T18:28+00:00",
+     "text": "Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says\n\"We are optimistic he will make a full recovery,\" Murphy's chief of staff said.\nU.S. Sen. Chris Murphy has been hospitalized after suffering a stroke, his chief of staff said in a statement on Sunday.\nThe 53-year-old Democrat was taken to a hospital on Saturday after he started to feel numbness in his arm while attending his son's hockey game, said Allison Herwitt, Murphy's chief of staff.\nUpon examining Murphy, doctors determined he had suffered a stroke, Herwitt said, adding that the senator has been transferred to Johns Hopkins Hospital in Baltimore.\n\"The doctors are encouraged by his progress, he is awake and alert, and we are optimistic he will make a full recovery,\" Herwitt said.\nThis is a developing story. Please check back for updates."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGhwUW5MN01vUUdlOEFMTERYTzFPSzVDZVpScENONFhkMzhIVmZKRVpfVjh4d0F2ZXZwUkZpbjRXT0wyQ0RIdE9JdGtRblNGbExpVW82YVlpcnBzcTQ4eVVIYTFsZi1nOUdCTXpkd1Z5bHRSbkpJaFZNQkhiSnJXcVdRYTVDaVZZcGQteTNVSENJS0hIT1Rsd1ZHOHE3YllKYTIyLVFJcDJwbXNCQ1J2cXlUM0laYktsM0ViMA?oc=5",
+     "title": "Sen. Chris Murphy, 53, suffers stroke during son's hockey game",
+     "lang": "en",
+     "extra": {},
+     "id": "cdd2ef48f53335bc",
+     "published": "2026-11-01T18:39+00:00",
+     "text": "Sen. Chris Murphy, 53, suffers stroke during son's hockey game\nThe Independent"
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
+     "title": "Sen. Chris Murphy hospitalized after suffering stroke",
+     "lang": "en",
+     "extra": {},
+     "id": "f335a0e0d3b22374",
+     "published": "2026-11-01T19:00+00:00",
+     "text": "Sen. Chris Murphy (D-Conn.) suffered a stroke Saturday and is being treated at Johns Hopkins Hospital, his office said Sunday.\nThe big picture: Murphy is one of the Senate's more visible Democrats and has been traveling the country campaigning ahead of Tuesday's midterms.\nDriving the news: Murphy, 53, began experiencing numbness in his arm while attending his son's hockey game Saturday, according to a statement from his chief of staff, Allison Herwitt.\nWhat they're saying: \"The doctors are encouraged by his progress, he is awake and alert, and we are optimistic he will make a full recovery,\" Herwitt said in a statement.\nWhat's next: The statement did not specify the severity of the stroke or when Murphy might be discharged."
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+     "lang": "en",
+     "extra": {},
+     "id": "22cce6b72a945134",
+     "published": "2026-11-01T19:00+00:00",
+     "text": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.\n(Image credit: Chip Somodevilla)"
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
+     "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-05-20T171608Z_1562033459_RC23DLAAI7R2_RTRMADP_3_USA-CONGRESS-AMBASSADORS-1024x683.jpg"
+     },
+     "id": "d34c7c501b388d02",
+     "published": "2026-11-01T21:20+00:00",
+     "text": "Murphy's chief of staff, Allison Herwitt, said in a statement the 53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/americas/us-sen-chris-murphy-hospitalized-after-suffering-stroke/4108250",
+     "title": "US Sen. Chris Murphy hospitalized after suffering stroke",
+     "lang": "en",
+     "extra": {},
+     "id": "41e8c5995d3f39f7",
+     "published": "2026-11-02T00:31+00:00",
+     "text": "Democratic lawmaker undergoes monitoring at Johns Hopkins Hospital"
     }
    ]
   },
@@ -1253,161 +1478,6 @@
      "id": "efd2157682651e0f",
      "published": "2026-11-01T09:53+00:00",
      "text": "Federal judge rules president failed to establish ‘actual malice’ in newspaper’s reporting on alleged letter to Jeffrey Epstein, media reports"
-    }
-   ]
-  },
-  {
-   "id": "c94e0534854",
-   "kind": "news",
-   "score": 19.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Binance says it covered 90% of losses in cyberattack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/economy/binance-says-it-covered-90-of-losses-in-cyberattack/4107700",
-     "title": "Binance says it covered 90% of losses in cyberattack",
-     "lang": "en",
-     "extra": {},
-     "id": "94e05348543cd20e",
-     "published": "2026-11-01T00:24+00:00",
-     "text": "Company says remaining 10% consisted of lower-liquidity tokens"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/d6dc16a65f8e",
-     "title": "Binance says it covered 90% of cyberattack losses as FBI links theft to North Korea",
-     "lang": "en",
-     "extra": {},
-     "id": "50616e3d00924617",
-     "published": "2026-11-01T00:32+00:00",
-     "text": "The crypto exchange company says the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\""
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
-     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
-     "lang": "en",
-     "extra": {},
-     "id": "473bd658979d7399",
-     "published": "2026-11-01T00:38+00:00",
-     "text": ""
-    },
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-     "lang": "en",
-     "extra": {},
-     "id": "aa099f38eae6d838",
-     "published": "2026-11-01T01:10+00:00",
-     "text": ""
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjBKNHBsSy1EQlN4NnM4QXQ0OXNDeFlzUnY1bVVtYVB3RU9ZSk5vOGU0MzFkLWFlMXIzYS1hNnpzOHNjX3BLa1JjMTZIUUppT0JVVk9QeUR6X3pkSXVCOU53VmhtYXRQV0dQX05WclZGYlgwSWlTZnpUYUVFVzVKZko2UDdXeGRXOWllT3FNTHMxNGJTMlgyNy1BcnVYaDIzaWRUNFZpUG9EQ3JSZEHSAbMBQVVfeXFMTXBHdjctTGNMSU5XZUVxTGFsZFBlN1A3Y0pDRHp5dDItMk9aZW9DcXA4b3RTWXpQbnc2U0VJRk1QRjk0T21iMzJoV0hXQlBkWlBFS2hKeFRhVXZ5ODc0ZVhULUJzMGxmLXFxaGtIZlVSV1I2a3NDcjJTSVJTU25UZ1kySGtJaVZheGxqRVAyVWNLTGlBWlZpMVV2LW5DV29yUVF6YjVvazF5NGhhMzRLRTY5T0U?oc=5",
-     "title": "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says - Fox Business",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "99e140d5cb43eb74",
-     "published": "2026-11-01T05:37+00:00",
-     "text": "- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stolen billions from Binance in biggest hack in history KCRA\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
-    }
-   ]
-  },
-  {
-   "id": "c612cf9d910",
-   "kind": "news",
-   "score": 19.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "Five things to know about North Korea’s TraderTraitor hackers",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/five-things-to-know-about-north-koreas-tradertraitor-hackers",
-     "title": "Five things to know about North Korea’s TraderTraitor hackers",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/e30c0266d101e44dcb3459cb1aa2b7930d31a65e9338c28368107970e175b47d?w=1200"
-     },
-     "id": "84f1668f480b50da",
-     "published": "2026-11-01T03:23+00:00",
-     "text": "Five things to know about North Korea’s TraderTraitor hackers\nAI generated\nSEOUL – North Korea’s TraderTraitor hacking group has been blamed by US authorities for stealing more than US$6 billion (S$7.7 billion) in virtual assets from Binance, in what is believed to be the largest crypto heist in history.\nThe Oct 29 attack is the latest in a string of high-profile cyber thefts linked to Pyongyang, which has built a formidable hacking operation, generating funds believed to help finance its weapons programme.\nHere are five things to know about the group and its place in North Korea’s cyber warfare programme:\nWho are they?\nTraderTraitor is the name given to a North Korean hacking operation linked to the broader Lazarus Group, which gained notoriety in 2014 when it hacked Sony Pictures in retaliation for The Interview, a satirical film that mocked North Korean leader Kim Jong Un.\nPyongyang has invested heavily in developing its cyber capabilities since at least the mid-1990s, building a formidable force that South Korean intelligence estimated in 2024 comprised around 8,400 personnel.\n“North Korea has built a capable cyber force, funnelling many of the country’s top students into computer science and IT training,” the FBI said on its website.\nMuch of the hacking activity is known to have been directed by Pyongyang’s Reconnaissance General Bureau, its primary foreign intelligence agency.\n“The top two students in my class were recruited to the hacking unit,” South Korean MP Park Choong-kwon, who studied at the North’s elite National Defense University before his defection, told AFP in a 2024 interview.\nHow do they operate?\nTraderTraitor actors have been known to pose as recruiters offering lucrative jobs to trick victims into downloading malicious software.\nThe malware can allow hackers to infiltrate victims’ computer systems and steal sensitive information and digital assets.\nIn a 2024 heist involving the theft of US$308 million from Japanese cryptocurrency exchange DMM Bitcoin, a North Korean hacker posing as a recruiter on LinkedIn contacted an employee of a separate virtual currency wallet software company.\nThey sent the employee what appeared to be a pre-employment test, which actually contained a malicious line of code.\nThat allowed the hacker to compromise their system and impersonate the employee, the FBI said.\nWhat have North Korean hackers done?\nHigh-profile cyberattacks attributed to North Korean hackers include the theft of US$81 million from Bangladesh’s central bank in 2016 and the WannaCry ransomware attack that disrupted computers worldwide in 2017.\nIn 2022, US authorities blamed Lazarus-linked hackers for stealing around US$620 million from the Ronin blockchain network.\nThe FBI subsequently attributed three more cryptocurrency heists in 2023 to TraderTraitor actors, involving the theft of nearly US$200 million from Atomic Wallet, Alphapo and CoinsPaid.\nThe scale of the thefts increased dramatically in February 2025, when the FBI blamed TraderTraitor for stealing around US$1.5 billion in virtual assets from cryptocurrency exchange Bybit.\n“TraderTraitor actors are proceeding rapidly and have converted some of the stolen assets,” the FBI said at the time.\nHow does North Korea use stolen funds?\nThe North Korean regime launders stolen cryptocurrency and converts it into cash “through mixing services or private exchanges”, Lim Eul-chul, a professor at the Institute for Far Eastern Studies at Kyungnam University, told AFP.\n“The proc"
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history",
-     "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
-     "lang": "en",
-     "extra": {},
-     "id": "08fa2f6ec2d3f343",
-     "published": "2026-11-01T16:20+00:00",
-     "text": "The bureau said in a statement that the attack was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year."
-    },
-    {
-     "source": "BleepingComputer",
-     "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers",
-     "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg"
-     },
-     "id": "db22ed3811171686",
-     "published": "2026-11-01T19:57+00:00",
-     "text": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record.\nIn a security alert published Saturday, the agency attributed the attack to TraderTraitor, a North Korean hacking group also tracked as Lazarus Group, Jade Sleet, and APT38, linked to numerous cryptocurrency thefts.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the FBI said.\nThis official attribution follows blockchain intelligence firms TRM Labs and Chainalysis, which had already linked the theft to TraderTraitor.\nAs previously reported, Binance linked the breach to a compromised DevOps engineer's laptop, which allowed the attackers to access a service container and submit unauthorized withdrawal transactions.\nThe attackers stole approximately $6.36 billion in cryptocurrency across ten blockchains, with most of the funds transferred in just 20 minutes.\nThe FBI says it has observed TraderTraitor converting stolen assets primarily into Ethereum (ETH), which it expects will be further laundered through decentralized finance (DeFi) platforms and instant cryptocurrency swap services.\nThe FBI, U.S. Secret Service, and IRS Criminal Investigation are now asking cryptocurrency exchanges, blockchain operators, and other virtual asset service providers to block transactions linked to addresses the hackers used to launder stolen funds.\nThe agency also published a list of 628 cryptocurrency addresses associated with the theft, including 608 Ethereum addresses, 19 Bitcoin addresses, and one Solana address.\nTraderTraitor has a long history of targeting cryptocurrency companies and their employees, with North Korean hackers linked to numerous crypto-theft attacks, including the $387.5 million Bitget theft in September 2026, the $280 million Drift hack in April 2026, $1.5 billion Bybit heist in February 2025, and the $308 million DMM Bitcoin theft in May 2024.\nOne tactic used by North Korean Lazarus hackers is a long-running campaign known as 'Operation DreamJob,' in which they impersonate recruiters and approach software developers and cryptocurrency employees with fake job offers to trick them into installing malware.\nBoth the DMM and Bybit attacks involved compromising computers belonging to employees or developers with access to cryptocurrency infrastructure.\nIn the DMM Bitcoin attack, hackers impersonated a recruiter on LinkedIn and tricked an employee at the cryptocurrency wallet company Ginco into running malicious Python code disguised as a pre-employment test.\nThe Bybit heist also stemmed from a compromised Safe{Wallet} developer's computer, which let hackers access the wallet platform and manipulate a legitimate transaction request by a DMM employee, redirecting $1.5 billion in cryptocurrency to wallets they controlled.\nMore recently, the April 2026 Drift attack involved a six-month social engineering operation in which individuals posing as representatives of a cryptocurrency trading firm met Drift contributors in person at multiple industry conferences.\nThe attackers spent months building relationships, and are believed to have compromised employees' devices through a malicious code repository or a TestFlight appli"
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81S2VuSVhqVExKRkVHY2RjU2hDZ2JCdGlaNk5OTE9HeUxEbnAwWFpoUDhqNktpTVFMNE16SkR3azlIT2xFZW0xMTREaFIxOUVuWWNXRml3d2tyMG9aeTZ5ZVd1c3RZdHAzNlluVnMzSTZsbWhsQnc?oc=5",
-     "title": "How North Korea perfected the crypto heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "612cf9d910ac1878",
-     "published": "2026-11-01T01:48+00:00",
-     "text": "- How North Korea perfected the crypto heist Axios\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history PBS\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered CNBC"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmVOUTJ5cEo0bUU2Unp2V093dXNIN3hEaHB5VXRrZlBYRjc5RkVzM2lraGRpZGNIM0s0Uk15bVdPOHNSNGJsN29Ma3lVTzBleWd2WHRuSGlzOXVtV193RE8wbXgyaGNjdGdJRkUxdkR2ajN0MGh2STQ2T2p3YTVMTnRVME8?oc=5",
-     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "fe9a6ec2b57b5e87",
-     "published": "2026-11-01T06:48+00:00",
-     "text": "- FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist The Hacker News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals following $6.3 billion breach TechCrunch\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUNSTU9VSmpLOHdYajBxZ1hpTXJyOW0zSUNFQnlseE1seEFvSTBKTmNXR0dXek8yMGxyMHo3cFpBVW1lQ1BLV19wUjFqZVRwVlJ2OERUVzlzWWlHUC1iR0FoNXY0dWd6RUxXZ3BVOG1EOE1Fek41R2ZsQ2xXbWFDRWhEZWNPRndWdUtkeEN0cGRDTXBPcmtRUzB4LVdaVTdVNnJpVDNrNzJTRk5FYVFYMWtzVjRKXzRRQ1RGR01xTUxvWW4tTHfSAcsBQVVfeXFMTXNlR0FBQ2cwaTYyaU9uLUdhWjVPQnBnVGRta09veExETi12S3o4NV91cWtJbnRyQjdtajFMcVRtMHBoYjhwMDN3MEhiYzNXVk1oU2o0YUwwTGNMRExwX3dOQldha191YjJuLXVMOGdaYkxOZ3AxX1U3cmVfUV9tVHBIeHVReW5RTW95TG9yWU0yUHBPQ1QwZDlENU1SZFhfMURpRkZndXpYWERaYzROc1JJbG9HejFyZDRkQnRsYWFPWlVVWFZ0dE1IVkE?oc=5",
-     "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "8d1a5684115f2809",
-     "published": "2026-11-01T16:20+00:00",
-     "text": "- FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history PBS\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance Restarts Withdrawals After Record Hack Bloomberg\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist Reuters"
     }
    ]
   },
@@ -2001,120 +2071,81 @@
    ]
   },
   {
-   "id": "ce871959dc9",
+   "id": "c3863b3cc67",
    "kind": "news",
    "score": 18.0,
    "sensitive": false,
-   "distinct_sites": 7,
-   "title_hint": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
+   "distinct_sites": 5,
+   "title_hint": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
    "official_image": null,
    "sources": [
     {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFRBVkdFd1REUGNsaWd3Z2lRUzVQdEwtczZmOUtvZHBiWmVmSkUyMGdURWVNSV9SbV9Oa0hPRW5iV0hXS2JtN1JIYTdqcjJBeXJzOVpGSTYtYVNFM3FHUVdDSU9TcnpoNVF0XzNPTVVsclNPa3JabVlEVEZVbEFYdnA4U1Z1YWxSQ2lkU01lM0YwbHd4dWxqRjNodV8tUDUxWmk3MGxFMHVNLVFRV1FWaWVVUQ?oc=5",
-     "title": "Democratic Senator Murphy hospitalized after stroke, chief of staff says",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "e871959dc9e33530",
-     "published": "2026-11-01T17:47+00:00",
-     "text": "Democratic Senator Murphy hospitalized after stroke, chief of staff says\nReuters"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/chris-murphy-stroke-hospitalized",
-     "title": "Sen. Chris Murphy hospitalized following stroke",
-     "lang": "en",
-     "extra": {},
-     "id": "df3769b1fe0650fd",
-     "published": "2026-11-01T17:52+00:00",
-     "text": "Democratic Sen. Chris Murphy of Connecticut was hospitalized on Saturday after experiencing a stroke, his office said."
-    },
-    {
-     "source": "Washington Post Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZC1FLW8wYndWZjJyYl9IbTZLY3IxdzZEU1dodVA5eWR2WndWQUg1dnU0WnFlWjdsRUVOR08wNmtCbjhnb0s3Q0VxZFRTTm1jNk4yYjF5X1h6T2g1NzgzaEZwbzk1NUlzd3MyekdiQ2s1ZmlQTDE5VlNtM0N0NXk3X1NBdkdDU1FfbWkyM3ROLWdTUQ?oc=5",
-     "title": "Sen. Chris Murphy hospitalized for stroke, his office says",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "a406e45528f27a96",
-     "published": "2026-11-01T17:57+00:00",
-     "text": "Sen. Chris Murphy hospitalized for stroke, his office says\nThe Washington Post"
-    },
-    {
      "source": "NBC News",
      "trust": 2,
-     "url": "https://nbcnews.com/politics/congress/chris-murphy-hospitalized-stroke-recovery-rcna606834",
-     "title": "Sen. Chris Murphy hospitalized after stroke",
+     "url": "https://nbcnews.com/sports/formula-1/kimi-antonelli-becomes-youngest-formula-1-champion-ever-20-years-old-rcna606726",
+     "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
      "lang": "en",
      "extra": {},
-     "id": "bfec9c70d9540a83",
-     "published": "2026-11-01T18:01+00:00",
-     "text": "Sen. Chris Murphy, D-Conn., was hospitalized Saturday after a stroke, a spokesperson for the senator said Sunday."
+     "id": "3863b3cc67e3ac3e",
+     "published": "2026-11-01T22:25+00:00",
+     "text": "Kimi Antonelli clinched the Formula 1 world championship Sunday, becoming the youngest driver in the sport’s history to win the title at just 20."
     },
     {
-     "source": "ABC News",
+     "source": "The Athletic Football",
      "trust": 2,
-     "url": "https://abcnews.com/Politics/sen-chris-murphy-hospitalized-after-suffering-stroke-chief/story?id=137751743",
-     "title": "Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says",
+     "url": "https://nytimes.com/athletic/7724261/2026/11/01/kimi-antonelli-f1-champion-2026",
+     "title": "Fearless and ahead of schedule, Kimi Antonelli is Formula 1’s youngest world champion",
+     "lang": "en",
+     "extra": {},
+     "id": "5b5536e91d8214eb",
+     "published": "2026-11-01T22:47+00:00",
+     "text": "At 20 years and two months old, Kimi Antonelli is now the youngest F1 world champion, surpassing the record a 23-year-old Sebastian Vettel set in 2010."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/sports/kimi-antonelli-becomes-youngest-f1-world-champion-with-3rd-place-finish-in-mexico/4108242",
+     "title": "Kimi Antonelli becomes youngest F1 world champion with 3rd-place finish in Mexico",
+     "lang": "en",
+     "extra": {},
+     "id": "16679e1ec68ed3e4",
+     "published": "2026-11-01T22:49+00:00",
+     "text": "20-year-old Italian clinches title in only his 2nd season as Verstappen wins Mexican Grand Prix ahead of Hamilton"
+    },
+    {
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/7723425/2026/11/01/kimi-antonelli-f1-championship-season-inside-story",
+     "title": "How Kimi Antonelli became Formula 1’s youngest champion, surprising even himself",
+     "lang": "en",
+     "extra": {},
+     "id": "6d2c395f1b13c06d",
+     "published": "2026-11-01T22:57+00:00",
+     "text": "Kimi Antonelli has sealed the 2026 F1 world title in just his second season. The story of his campaign is just as sensational."
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/ba2559891a4e",
+     "title": "Antonelli becomes youngest F1 world champion with Mexico City podium finish",
+     "lang": "en",
+     "extra": {},
+     "id": "47ac42c4e7465299",
+     "published": "2026-11-02T00:00+00:00",
+     "text": "20-year-old Mercedes driver breaks Sebastian Vettel's record with four rounds remaining, becoming Italy's first Formula 1 world champion since 1953."
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQWhXOGNVbHNkZkhIdDd3MVFpaTZtVTV1WF9SbGRURFpIekVnV2l2SGdQSkpBX1BXNXF6YWQtaG10U2tQQ01EeFF2UE9wa0NZQlBOWkNPNThVZW5GUDNFa1Vnd0RhM0FpdVpoVjFuTzBWZ2tTelRib0M2VEtpVzU5NlpnQU1xc24yOUpMRnE4OVR0SmpiS3cwUWY4RFhyUVR6WENWMVRpUmkwb1BtQnFFbFd6bTJXaEtPUVIxaw?oc=5",
+     "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
      "lang": "en",
      "extra": {
-      "page_image": "https://i.abcnewsfe.com/a/9bc5dddf-9664-44ff-95b7-5c2406e0aaed/chris-murphy-abc-jm-250209_1739113572108_hpMain_16x9.jpg?w=1600"
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "e9ffefb028c3c3e3",
-     "published": "2026-11-01T18:28+00:00",
-     "text": "Sen. Chris Murphy hospitalized after suffering a stroke, chief of staff says\n\"We are optimistic he will make a full recovery,\" Murphy's chief of staff said.\nU.S. Sen. Chris Murphy has been hospitalized after suffering a stroke, his chief of staff said in a statement on Sunday.\nThe 53-year-old Democrat was taken to a hospital on Saturday after he started to feel numbness in his arm while attending his son's hockey game, said Allison Herwitt, Murphy's chief of staff.\nUpon examining Murphy, doctors determined he had suffered a stroke, Herwitt said, adding that the senator has been transferred to Johns Hopkins Hospital in Baltimore.\n\"The doctors are encouraged by his progress, he is awake and alert, and we are optimistic he will make a full recovery,\" Herwitt said.\nThis is a developing story. Please check back for updates."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGhwUW5MN01vUUdlOEFMTERYTzFPSzVDZVpScENONFhkMzhIVmZKRVpfVjh4d0F2ZXZwUkZpbjRXT0wyQ0RIdE9JdGtRblNGbExpVW82YVlpcnBzcTQ4eVVIYTFsZi1nOUdCTXpkd1Z5bHRSbkpJaFZNQkhiSnJXcVdRYTVDaVZZcGQteTNVSENJS0hIT1Rsd1ZHOHE3YllKYTIyLVFJcDJwbXNCQ1J2cXlUM0laYktsM0ViMA?oc=5",
-     "title": "Sen. Chris Murphy, 53, suffers stroke during son's hockey game",
-     "lang": "en",
-     "extra": {},
-     "id": "cdd2ef48f53335bc",
-     "published": "2026-11-01T18:39+00:00",
-     "text": "Sen. Chris Murphy, 53, suffers stroke during son's hockey game\nThe Independent"
-    },
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
-     "title": "Sen. Chris Murphy hospitalized after suffering stroke",
-     "lang": "en",
-     "extra": {},
-     "id": "f335a0e0d3b22374",
-     "published": "2026-11-01T19:00+00:00",
-     "text": "Sen. Chris Murphy (D-Conn.) suffered a stroke Saturday and is being treated at Johns Hopkins Hospital, his office said Sunday.\nThe big picture: Murphy is one of the Senate's more visible Democrats and has been traveling the country campaigning ahead of Tuesday's midterms.\nDriving the news: Murphy, 53, began experiencing numbness in his arm while attending his son's hockey game Saturday, according to a statement from his chief of staff, Allison Herwitt.\nWhat they're saying: \"The doctors are encouraged by his progress, he is awake and alert, and we are optimistic he will make a full recovery,\" Herwitt said in a statement.\nWhat's next: The statement did not specify the severity of the stroke or when Murphy might be discharged."
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-     "lang": "en",
-     "extra": {},
-     "id": "22cce6b72a945134",
-     "published": "2026-11-01T19:00+00:00",
-     "text": "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery.\n(Image credit: Chip Somodevilla)"
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/politics/connecticut-sen-chris-murphy-is-in-the-hospital-after-having-a-stroke-his-office-says",
-     "title": "Connecticut Sen. Chris Murphy is in the hospital after having a stroke, his office says",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-05-20T171608Z_1562033459_RC23DLAAI7R2_RTRMADP_3_USA-CONGRESS-AMBASSADORS-1024x683.jpg"
-     },
-     "id": "d34c7c501b388d02",
-     "published": "2026-11-01T21:20+00:00",
-     "text": "Murphy's chief of staff, Allison Herwitt, said in a statement the 53-year-old senator \"started experiencing numbness in his arm while at his son's hockey game\" on Saturday."
+     "id": "fdce20de20226f76",
+     "published": "2026-11-01T23:29+00:00",
+     "text": "- Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old NBC News\n- Kimi Antonelli makes F1 history as youngest world champion with maiden title ESPN\n- Kimi Antonelli becomes F1 world champion as Max Verstappen wins Mexico City Grand Prix BBC\n- Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20 AP News\n- Fearless and ahead of schedule, Kimi Antonelli is Formula 1’s youngest world champion The New York Times"
     }
    ]
   },
@@ -2388,6 +2419,41 @@
    ]
   },
   {
+   "id": "c64d68ea72a",
+   "kind": "news",
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Samsung Champions Young Olympians at Dakar 2026, First-Ever Olympic Event on African Continent",
+   "official_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/01203229/Samsung-Mobile-Dakar-2026-Victory-Selfie-Galaxy-Technology_Thumb932-728x410.jpg",
+   "sources": [
+    {
+     "source": "Samsung Newsroom",
+     "trust": 3,
+     "url": "https://news.samsung.com/global/samsung-champions-young-olympians-at-dakar-2026-first-ever-olympic-event-on-african-continent",
+     "title": "Samsung Champions Young Olympians at Dakar 2026, First-Ever Olympic Event on African Continent",
+     "lang": "en",
+     "extra": {
+      "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/11/01203229/Samsung-Mobile-Dakar-2026-Victory-Selfie-Galaxy-Technology_Thumb932-728x410.jpg"
+     },
+     "id": "6ba6b9028a941ba5",
+     "published": "2026-11-02T08:00+00:00",
+     "text": "Samsung Electronics, a Worldwide Olympic and Paralympic Partner, today announced that it is bringing Galaxy technology and athlete-centered programming to the Youth Olympic Games Dakar 2026 to enrich the experience of young athletes during an important stage in their Olympic journeys.\nTaking place in Senegal from Oct. 31 to Nov. 13, Dakar 2026 is bringing together more than 2,700 young athletes from 207 countries across 25 sports. It also marks a historic milestone as the first Olympic sporting event to be held on the African continent. Additionally, Samsung is drawing on nearly four decades of experience within the Olympic Movement to further strengthen its commitment to the Youth Olympic Games, which dates back to the inaugural edition, Singapore 2010.\n“The Youth Olympic Games represent an important stage in a young athlete’s journey — where competition, connection, and personal growth come together,” said Stephanie Choi, Executive Vice President and Head of Global Brand Center at Samsung Electronics. “At Dakar 2026, we are committed to bringing the Games to more people and enriching the experience for the athletes who take part through purposeful Galaxy innovation and programs designed around their needs.”\nHaving introduced sports technology integrations at Paris 2024 and Milano Cortina 2026, Samsung is now bringing these innovations to the Youth Olympic Games for the first time.\nGalaxy S26 Ultra devices are being incorporated into skateboarding and taekwondo coverage alongside existing broadcast cameras, enabling handheld, close-up, and vertical perspectives that can complement traditional production. Dakar 2026 is also serving as an opportunity to test and learn from these applications as Samsung continues exploring how mobile technology can support future Games experiences — including on the road to the LA28 Games.\nThe Olympic Victory Selfie is making its Youth Olympic Games debut at Dakar 2026, extending a program that has become an iconic expression of athlete celebration at the Olympic and Paralympic Games since its debut at Paris 2024. Centered on connection, emotion, and self-expression, Victory Selfie gives athletes a more personal way to capture and share the moments that define their journey.\nUsing Galaxy Z Flip7 Olympic Edition devices, medalists across disciplines will have the opportunity to commemorate their winning moments as part of Victory Selfie activations around medal ceremonies to create lasting memories of their achievement that are sharable with friends, family, and supporters around the world.\nAt the Samsung Open Station inside the Youth Olympic Village, Samsung is creating a welcoming, relaxed space where athletes can step away from competition, meet peers from around the world, and explore new ways to express themselves through Galaxy technology. Inspired by Dakar’s coastal environment, the space brings together interactive activities designed to help athletes celebrate their individuality, create lasting memories, and reflect on where their journeys may take them next. These activities include:\nDakar 2026 marks a milestone as both the first Olympic sporting event held on the African continent and as a new chapter in Samsung’s support of the Youth Olympic Games, which dates back to Singapore 2010. Alongside its athlete-facing programs, Samsung is extending the excitement of the Games into communities across Senegal through local media, digital, retail, and consumer activations designed to help more people t"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/senegal-hosts-first-olympic-event-on-african-continent",
+     "title": "Senegal hosts first Olympic event on African continent",
+     "lang": "en",
+     "extra": {},
+     "id": "64d68ea72a4b0534",
+     "published": "2026-11-01T09:58+00:00",
+     "text": "Youth Olympics make history with first African Games in over 130 years, opened by Senegal’s president in Dakar. 136 Senegalese athletes are competing, supported by 6,000 local volunteers."
+    }
+   ]
+  },
+  {
    "id": "c84346e5eb9",
    "kind": "news",
    "score": 16.5,
@@ -2452,6 +2518,65 @@
      "id": "9c38bbb19c425e71",
      "published": "2026-11-01T17:38+00:00",
      "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
+    }
+   ]
+  },
+  {
+   "id": "cd081c8674a",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Decrypt",
+     "trust": 2,
+     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
+     },
+     "id": "d081c8674a69f198",
+     "published": "2026-10-31T15:01+00:00",
+     "text": "In brief\n- Attackers stole roughly $6.4 billion from Binance on Thursday in the largest crypto hack ever, more than four times the previous record.\n- Binance says it will cover all losses with company funds and its emergency reserve, having set aside more than $6.34 billion.\n- Here's how it happened and what's being done about it.\nCrypto just suffered the largest hack in its history.\nOn Thursday, attackers drained roughly $6.4 billion from Binance, the world’s largest cryptocurrency exchange, in a breach that dwarfs every theft before it and has triggered a cross-border law-enforcement investigation, a scramble by stablecoin issuers to freeze funds, and a tense wait for millions of users.\nHere’s what’s known about the Binance hack so far.\nWhat happened\nThe theft began at about 4:05 p.m. ET on Thursday, after U.S. markets had closed, when attackers moved funds out of Binance hot wallets across roughly 10 blockchains, most of it within about 20 minutes.\nBlockchain analytics firms Chainalysis and TRM Labs put the total at around $6.4 billion, more than four times the previous record, February 2025’s $1.5 billion Bybit heist.\nCrucially, the attack targeted Binance’s own infrastructure, not the blockchains themselves. Binance initially traced the breach to a compromised laptop belonging to a DevOps engineer, which may have let the attacker reach a service container and submit unauthorized withdrawals.\nThe exchange has since said its investigation uncovered “additional points of breach,” with CEO Richard Teng describing “a more complex attack process” that “did not simply use one engineer’s permissions.” Binance said it found no evidence that wallet private keys were leaked, and that the attacker used a self-destruct mechanism to wipe tooling and traces along the way.\nThe Ethereum wrinkle\nOn Ethereum, the attacker leaned on EIP-7702, a feature introduced in 2025 that lets ordinary wallets temporarily run smart-contract code.\nUsing 50 pre-signed authorizations, the attacker turned a Binance hot wallet into a “sweeper” contract and drained its assets, according to TRM Labs.\nTeng said that delegation “did not pass through our normal approval controls.” The episode didn’t expose a flaw in Ethereum itself, but rather, TRM said, pointed to a compromise of Binance’s signing infrastructure.\nWho’s behind it\nTRM Labs and Chainalysis both attributed the hack to TraderTraitor, a North Korean state-linked group also blamed for the Bybit heist.\nAfter that attack, the group converted roughly 84% of the stolen Ethereum into Bitcoin via the cross-chain network Thorchain. The attribution pushes North Korea’s 2026 crypto haul well past $1 billion, and the Binance figure alone would dwarf the rest.\nWhat Binance is doing\nTeng said Binance will cover every dollar of the losses with company funds and its Secure Asset Fund for Users, an emergency reserve, stressing that customer assets were never touched.\nThe exchange has set aside more than $6.34 billion, about $5 billion of it already held in the exact tokens stolen, including BTC, ETH, BNB, USDC, and USDT, and is buying the rest on the open market and over the counter.\nBinance paused withdrawals to rebuild and retest its systems, is running a full security review, and aims to restore withdrawals by Sunday while publishing a complete proof of reserves by Monday. Deposits are operating normally.\nThe freeze, and what’s still loose\nStablecoin issuers moved fast following the initial reports of a suspected attack, unl"
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/what-to-know-about-the-6-3b-hack-on-binance-likely-the-biggest-ever-crypto-theft",
+     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+     "lang": "en",
+     "extra": {},
+     "id": "2ae9b6177f8a418c",
+     "published": "2026-10-31T15:14+00:00",
+     "text": "Here's what we know about the hack, possible North Korean involvement and Binance's investigation."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history",
+     "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
+     "lang": "en",
+     "extra": {},
+     "id": "08fa2f6ec2d3f343",
+     "published": "2026-11-01T16:20+00:00",
+     "text": "The bureau said in a statement that the attack was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUNSTU9VSmpLOHdYajBxZ1hpTXJyOW0zSUNFQnlseE1seEFvSTBKTmNXR0dXek8yMGxyMHo3cFpBVW1lQ1BLV19wUjFqZVRwVlJ2OERUVzlzWWlHUC1iR0FoNXY0dWd6RUxXZ3BVOG1EOE1Fek41R2ZsQ2xXbWFDRWhEZWNPRndWdUtkeEN0cGRDTXBPcmtRUzB4LVdaVTdVNnJpVDNrNzJTRk5FYVFYMWtzVjRKXzRRQ1RGR01xTUxvWW4tTHfSAcsBQVVfeXFMTXNlR0FBQ2cwaTYyaU9uLUdhWjVPQnBnVGRta09veExETi12S3o4NV91cWtJbnRyQjdtajFMcVRtMHBoYjhwMDN3MEhiYzNXVk1oU2o0YUwwTGNMRExwX3dOQldha191YjJuLXVMOGdaYkxOZ3AxX1U3cmVfUV9tVHBIeHVReW5RTW95TG9yWU0yUHBPQ1QwZDlENU1SZFhfMURpRkZndXpYWERaYzROc1JJbG9HejFyZDRkQnRsYWFPWlVVWFZ0dE1IVkE?oc=5",
+     "title": "FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "8d1a5684115f2809",
+     "published": "2026-11-01T16:20+00:00",
+     "text": "- FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history PBS\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance Restarts Withdrawals After Record Hack Bloomberg\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance sees spike in withdrawals as exchange returns online after $6.3 billion heist Reuters"
     }
    ]
   },
@@ -2858,74 +2983,6 @@
      "id": "8fd36b94569d6b20",
      "published": "2026-11-01T19:51+00:00",
      "text": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية\nسكاي نيوز عربية"
-    }
-   ]
-  },
-  {
-   "id": "c3863b3cc67",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/sports/formula-1/kimi-antonelli-becomes-youngest-formula-1-champion-ever-20-years-old-rcna606726",
-     "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
-     "lang": "en",
-     "extra": {},
-     "id": "3863b3cc67e3ac3e",
-     "published": "2026-11-01T22:25+00:00",
-     "text": "Kimi Antonelli clinched the Formula 1 world championship Sunday, becoming the youngest driver in the sport’s history to win the title at just 20."
-    },
-    {
-     "source": "The Athletic Football",
-     "trust": 2,
-     "url": "https://nytimes.com/athletic/7724261/2026/11/01/kimi-antonelli-f1-champion-2026",
-     "title": "Fearless and ahead of schedule, Kimi Antonelli is Formula 1’s youngest world champion",
-     "lang": "en",
-     "extra": {},
-     "id": "5b5536e91d8214eb",
-     "published": "2026-11-01T22:47+00:00",
-     "text": "At 20 years and two months old, Kimi Antonelli is now the youngest F1 world champion, surpassing the record a 23-year-old Sebastian Vettel set in 2010."
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/sports/kimi-antonelli-becomes-youngest-f1-world-champion-with-3rd-place-finish-in-mexico/4108242",
-     "title": "Kimi Antonelli becomes youngest F1 world champion with 3rd-place finish in Mexico",
-     "lang": "en",
-     "extra": {},
-     "id": "16679e1ec68ed3e4",
-     "published": "2026-11-01T22:49+00:00",
-     "text": "20-year-old Italian clinches title in only his 2nd season as Verstappen wins Mexican Grand Prix ahead of Hamilton"
-    },
-    {
-     "source": "The Athletic Football",
-     "trust": 2,
-     "url": "https://nytimes.com/athletic/7723425/2026/11/01/kimi-antonelli-f1-championship-season-inside-story",
-     "title": "How Kimi Antonelli became Formula 1’s youngest champion, surprising even himself",
-     "lang": "en",
-     "extra": {},
-     "id": "6d2c395f1b13c06d",
-     "published": "2026-11-01T22:57+00:00",
-     "text": "Kimi Antonelli has sealed the 2026 F1 world title in just his second season. The story of his campaign is just as sensational."
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQWhXOGNVbHNkZkhIdDd3MVFpaTZtVTV1WF9SbGRURFpIekVnV2l2SGdQSkpBX1BXNXF6YWQtaG10U2tQQ01EeFF2UE9wa0NZQlBOWkNPNThVZW5GUDNFa1Vnd0RhM0FpdVpoVjFuTzBWZ2tTelRib0M2VEtpVzU5NlpnQU1xc24yOUpMRnE4OVR0SmpiS3cwUWY4RFhyUVR6WENWMVRpUmkwb1BtQnFFbFd6bTJXaEtPUVIxaw?oc=5",
-     "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "fdce20de20226f76",
-     "published": "2026-11-01T23:29+00:00",
-     "text": "- Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old NBC News\n- Kimi Antonelli makes F1 history as youngest world champion with maiden title ESPN\n- Kimi Antonelli becomes F1 world champion as Max Verstappen wins Mexico City Grand Prix BBC\n- Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20 AP News\n- Fearless and ahead of schedule, Kimi Antonelli is Formula 1’s youngest world champion The New York Times"
     }
    ]
   },
@@ -3916,87 +3973,6 @@
    ]
   },
   {
-   "id": "cf19ddba504",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": true,
-   "distinct_sites": 6,
-   "title_hint": "Youth-led protests sweep across France, Europe for a 3rd weekend",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CBC",
-     "trust": 2,
-     "url": "https://cbc.ca/news/world/france-student-protests-europe-9.7404105?cmp=rss",
-     "title": "Youth-led protests sweep across France, Europe for a 3rd weekend",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.cbc.ca/ais/bff689b2-2e91-4155-8f26-b2f54174b1ca,1793466744987/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3BResize%3D620"
-     },
-     "id": "f19ddba504594edd",
-     "published": "2026-10-31T12:27+00:00",
-     "text": "Youth-led protests sweep across France, Europe for a 3rd weekend\nFrance's government estimated that 320,000 people protested nationwide\nHundreds of thousands of mostly young protesters took to the streets across France on Saturday in a third consecutive weekend of demonstrations over living costs and education.\nAbout 70,000 police and gendarmes were deployed across the country, and Paris marches were rerouted to the capital's edge. Youth-led demonstrations were also reported in Germany and Italy.\nFrance's government estimated that 320,000 people protested nationwide Saturday, fewer than in previous protests but still a significant turnout.\nMass protests on Oct. 17 that deteriorated into some of France's worst rioting in years drew more than 500,000 people around France, and demonstrations on Oct. 24 drew 410,000, according to government estimates. Organizers' turnout estimates are much higher.\nFrench Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween.\nPolice clash with protesters in Marseille, France, on Saturday. About 70,000 police and gendarmes were deployed across the country. (Miguel Medina/AFP/Getty Images)\nAuthorities in France reported more than 560 arrests nationwide by Saturday night.\nPolice had arrested thousands of people following riots and looting that marred marches the previous two Saturdays.\nDiverse grievances\nAt Porte de Bagnolet, on the eastern edge of Paris, thousands gathered behind a line of students who led the march hand in hand. Security agents from the CGT, one of France's largest labour unions, were keeping watch at the front of the gathering, while police were massed on side streets.\nThe marchers' grievances are diverse.\nEach group carried its own banner: high school students, climate activists and people angry about the cost of living.\nA few Halloween costumes stood out in the crowd, including a zombie Michael Jackson from Thriller, a pirate and a Spider-Man. Protesters waited calmly, chanting and singing through megaphones.\nCorentin Cabreux, a 21-year-old student, said that he lives in a state-run student residence where \"there are damp stains all along the bottom of my walls, whole sections peeling off, cockroaches everywhere, rats.\"\nHe said that he hoped Saturday's protest would be festive in honour of Halloween, to counter the image of violence that has attached itself to France's protests.\nPolice impose curfew, other measures\nThe rallies started last month as a movement of high school students protesting neglected buildings, teacher shortages and a university admissions system seen as unfair to disadvantaged students. Labour unions and others angry at French President Emmanuel Macron joined in with a variety of demands.\nWhile the vast majority of protesters have been peaceful, groups of troublemakers routinely target police with fireworks and projectiles. Some protests have degenerated into rioting and looting — including unrest on Oct. 17 that appeared to take the government by surprise. Police have responded with tear gas, dispersion grenades, water cannons and other tactics that have resulted in severe injuries.\nA protester ignites a firework in Paris on Saturday. France's government estimated that 320,000 people protested nationwide Saturday. (Pedro Nunes/Reuters)\nMacron said that Saturday's marches would stay out of city centres to protect shops. Police also barred people from entering Place de la République and Les Halles from 11 p.m. to 6 "
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/world/a-third-weekend-of-protests-in-france-as-youth-led-rallies-sweep-europe",
-     "title": "A third weekend of protests in France as youth-led rallies sweep Europe",
-     "lang": "en",
-     "extra": {},
-     "id": "9280e35c6edf18a2",
-     "published": "2026-10-31T17:14+00:00",
-     "text": "About 70,000 police and gendarmes were deployed across the country after French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween."
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-     "title": "France seethes again as youth-led protests sweep Europe",
-     "lang": "en",
-     "extra": {},
-     "id": "354e8865507a494e",
-     "published": "2026-10-31T19:30+00:00",
-     "text": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.\n(Image credit: Aurelien Morissard)"
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/germany-france-europe-youth-protests/107333208",
-     "title": "Third weekend of protests in France as youth-led rallies sweep Europe",
-     "lang": "en",
-     "extra": {},
-     "id": "b63957a633d50a5e",
-     "published": "2026-10-31T23:56+00:00",
-     "text": "Hundreds of thousands of protesters, inspired by frustrated high school students, take to the streets across France in demonstrations over living costs and education."
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/youth-led-rallies-sweep-europe",
-     "title": "Youth-led rallies sweep Europe",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s.france24.com/media/display/7b7566f6-d5d4-11f1-94ac-bf1914cabd52/w:1280/p:16x9/EN-20261101-090621-090756-CS.jpg"
-     },
-     "id": "7918e1b482b9279c",
-     "published": "2026-11-01T09:38+00:00",
-     "text": "Protests in France have helped inspire youth demonstrations elsewhere in Europe, from Portugal and Italy to Germany. Germany saw particularly large rallies on Saturday, led by a youth initiative whose name roughly translates as “Gen Z has got this”. Demonstrators called for better education and healthcare, stronger climate protection and a more affordable cost of living, while also opposing any return to compulsory military service. However, protests in several major German cities turned violent towards the end of the day, particularly in the financial hub of Frankfurt. Charlotte Hughes reports on the demonstrations across Europe."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdGZ3VDBMUUphN0oxbExCLXh4eUdKSG5tMTVXMUN6bDVuN0pWSkFVUTFYN2Z2Qm9jcTh3OVFmVWR1ZzZXMHVXUjV2LXdqUndkc2piSDlNTHRTTzRRYzc4V0VyVmUtbTNadFdjMDhHSHRvclBIdlRENUp1VnBRTXhiSjRNMy1xZFFrRWJRTktCWEVIazd1aTV6eXRQelVKQnk1TUpmTw?oc=5",
-     "title": "A third weekend of protests in France as youth-led rallies sweep Europe - AP News",
-     "lang": "en",
-     "extra": {},
-     "id": "3f52ba3c342a2c7d",
-     "published": "2026-10-31T21:17+00:00",
-     "text": "A third weekend of protests in France as youth-led rallies sweep Europe\nAP News\nSee more headlines & perspectives on Google News"
-    }
-   ]
-  },
-  {
    "id": "c8d24e29fe3",
    "kind": "news",
    "score": 14.0,
@@ -4856,6 +4832,72 @@
    ]
   },
   {
+   "id": "cb664c2c464",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Iran army says any new war with US could be ‘longer than previous conflict’",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSGJIMlROdTg2TGRWSVVzN0RpWm9IZHJpMERid2lMSklpVkZpRzIyNjZBNk1tU2FfRGpuWTV4S1liZWs0MTVyalpTUTVac1JHZEVURlIzMFUyMTc3S0lfM0VUcFlkbFlBX2V0eXk3bE5oRjY3NXdmUVFBUWNGbjV1VXprVGxoQm5jSE50Ukt5N3l6MGE2M1BxaVNJSWxOaUNKa2dNQTBUaXBYVHJWWDhUNk1fTy1BNDE3N0E?oc=5",
+     "title": "Iran army says any new war with US could be ‘longer than previous conflict’",
+     "lang": "en",
+     "extra": {},
+     "id": "b664c2c464308151",
+     "published": "2026-11-01T10:06+00:00",
+     "text": "Iran army says any new war with US could be ‘longer than previous conflict’\nArab News"
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336233",
+     "title": "Iran Army: Any New War with US Could be 'Longer Than Previous Conflict'",
+     "lang": "en",
+     "extra": {},
+     "id": "861e201cb71cf5e9",
+     "published": "2026-11-01T11:00+00:00",
+     "text": ""
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/middle-east/irans-army-warns-that-any-new-war-with-us-could-be-longer-than-previous-conflict",
+     "title": "Iran’s army warns that any new war with US could be ‘longer than previous conflict’",
+     "lang": "en",
+     "extra": {},
+     "id": "f2ec23da414ba55e",
+     "published": "2026-11-01T11:28+00:00",
+     "text": "Trump says the US still has to “take care of” one or two targets \"but we can do that in 10 minutes\"."
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://gulfnews.com/world/mena/iran-warns-next-war-with-us-could-last-even-longer-1.500731779",
+     "title": "Iran warns next war with US could last even longer",
+     "lang": "en",
+     "extra": {},
+     "id": "47acb77492ca4814",
+     "published": "2026-11-01T13:21+00:00",
+     "text": ""
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/middle-east/20261102-iran-warns-renewed-war-with-us-could-outlast-previous-conflict",
+     "title": "Iran warns renewed war with US could outlast previous conflict",
+     "lang": "en",
+     "extra": {},
+     "id": "6719588df001cade",
+     "published": "2026-11-02T00:23+00:00",
+     "text": "Iran warned on Sunday that a renewed war with the United States could last longer than the previous conflict, as President Donald Trump suggested Washington still had targets to strike. Tehran threatened retaliation without geographical limits while diplomatic efforts continued to avert a fresh escalation ahead of Tuesday's US midterm elections."
+    }
+   ]
+  },
+  {
    "id": "c5308bb89f0",
    "kind": "news",
    "score": 14.0,
@@ -5220,6 +5262,76 @@
    ]
   },
   {
+   "id": "cf5f96a3213",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Jet from Texas crashes near homes in Palm Beach, Florida, FAA says",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/texas-jet-florida-crash-11-1-2026",
+     "title": "Jet from Texas crashes near homes in Palm Beach, Florida, FAA says",
+     "lang": "en",
+     "extra": {},
+     "id": "f5f96a321335b165",
+     "published": "2026-11-01T20:43+00:00",
+     "text": "Details about what may have caused the crash had not yet been shared."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/news/us-news/jet-crashes-florida-nine-people-board-rcna606874",
+     "title": "Jet crashes in Florida with nine people on board",
+     "lang": "en",
+     "extra": {},
+     "id": "0ae23a05761fdc9e",
+     "published": "2026-11-01T20:43+00:00",
+     "text": "A Learjet 60 jet heading for the Bahamas crashed in Florida Sunday afternoon with nine people on board, the Federal Aviation Administration said."
+    },
+    {
+     "source": "ABC News",
+     "trust": 2,
+     "url": "https://abcnews.com/US/learjet-9-aboard-crashes-palm-beach-florida-faa/story?id=137753599",
+     "title": "Learjet with 9 aboard crashes in Palm Beach, Florida: FAA",
+     "lang": "en",
+     "extra": {},
+     "id": "44fd18455b338c85",
+     "published": "2026-11-01T20:55+00:00",
+     "text": "The jet had taken off from Austin, Texas, and was headed to the Bahamas, according to the FAA."
+    },
+    {
+     "source": "Business Insider",
+     "trust": 2,
+     "url": "https://businessinsider.com/private-jet-crash-florida-2026-11",
+     "title": "9 killed after private jet crashes near Palm Beach, authorities say",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i.insider.com/6ae7ad32f3bee449b3d2a0b7?width=800&format=jpeg"
+     },
+     "id": "bc0b9f04e5bace97",
+     "published": "2026-11-01T21:18+00:00",
+     "text": "Nine people aboard a private jet were killed when it crashed and exploded in a fireball near Palm Beach Sunday afternoon.\nThe plane, a Learjet, had departed from Austin and was on its way to the Bahamas, Transportation Secretary Sean Duffy said on X.\nDuffy said the plane crashed in \"a neighborhood near Cresthaven, FL,\" which is about 10 miles from Palm Beach.\n\"Please join me in praying for the families and loved ones of those we lost,\" he said.\nThe identities of those on board were not immediately available.\nThis is a developing story. Check back for updates."
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTXAwdVdXLUJnR3JHYmUzeFlIQjFKeVB4RmR3QWVoS1F5bVFJaXpaN0JFS05hTFV2THZCUlgtY1JMS2lmWHMxdWNxMWRQRldTZThyZUdJSmJrMVhpRWQ2dTcwSFQ2by1SbXBma1JqckV3U3FtTE9ZZ0ZFN0ZzUHItXy14WTlGY3hwVEU5T0k4TEVZbXZCQ2ZaeExtWGpJV2xYRUFHZFE4cldUMVB0VDlWYU1vLXU0T0xnZzZMb1lB?oc=5",
+     "title": "Nine people dead in Learjet crash in south Florida, officials say",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "04af19fc997511f3",
+     "published": "2026-11-01T21:59+00:00",
+     "text": "Nine people dead in Learjet crash in south Florida, officials say\nReuters"
+    }
+   ]
+  },
+  {
    "id": "cf33d51281f",
    "kind": "news",
    "score": 13.5,
@@ -5399,62 +5511,14 @@
    ]
   },
   {
-   "id": "cba2772ba96",
+   "id": "c5ce5bd7c7c",
    "kind": "news",
    "score": 13.0,
    "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record",
+   "distinct_sites": 3,
+   "title_hint": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
    "official_image": null,
    "sources": [
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbnR3cWJ4N0d6YThVNThCSlgtOVgxMGdPemZPNXRkeE4xV1lHc3JXb2NxRFdzRzJWVkhTdWlwX01rQTA4UUdjaWVtc2RjczJSa0hZVzBfdGxncEZUSFNvbGRyYy1lYzQ4eTQyQjRCbGM5X05jX0xJTnFCX1JiUzF6c0VTRERHMWZ3cDQ3S2ljZnJIMHhOWmhWcGZ0ck1kZWdkb1RydGQ5dw?oc=5",
-     "title": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record",
-     "lang": "en",
-     "extra": {},
-     "id": "ba2772ba96ae86f1",
-     "published": "2026-10-31T12:15+00:00",
-     "text": "Democrats Leading in Ballots As Early Voting Surges To Midterms Record\nNewsweek"
-    },
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://newsweek.com/map-reveals-states-where-early-voting-is-surging-days-before-midterms-12646178",
-     "title": "Map Reveals States Where Early Voting Is Surging Days Before Midterms",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.newsweek.com/wp-content/uploads/2026/11/Untitled-Design-2026-11-01T141253-553.jpg?w=1200&crop=1"
-     },
-     "id": "82755c907e4d6c1f",
-     "published": "2026-11-01T14:36+00:00",
-     "text": "Millions of Americans have already cast ballots in midterm elections that will determine control of Congress, with several states reporting especially high turnout as early in-person voting enters its final days.\nBy Saturday night, more than 52.7 million early votes had been cast nationally, including approximately 29.1 million in-person votes, according to the University of Florida Election Lab.\nWhich States Have Cast the Most Early Votes?\nRead More on Politics\nTexas, California, and Florida lead the pack in terms of early votes, with 7,630,789, 5,504,307 and 5,148,276 cast in each state respectively, according to the Election Lab’s most recent figures.\nGeorgia and North Carolina follow, with 2,823,265 and 2,612,250, respectively.\nSome states have seen early voting reach record levels. More than 2.8 million voted early in Georgia before its period ended on Friday, the Election Lab’s figures show, surpassing a previous midterm record set in 2022 of roughly 2.5 million early ballots.\nIn South Carolina, the state’s Election Commission announced Monday a new record had been set for early voting in a gubernatorial election, with the nearly 564,000 ballots cast as of 3 p.m. local time that day surpassing the 561,563 cast early in 2022. The state’s all-time record was set in the 2024 Presidential election, when 1,471,663 ballots were cast early, according to South Carolina’s Election Commission.\nThe Election Lab’s latest figures for South Carolina show 986,460 early votes have been cast.\nEarly voting has already reached a national midterm record, with the 52.7 million ballots cast before Election Day, surpassing the previous high of 45.9 million set in 2022.\nAs Newsweek previously reported, registered Democrats lead among early voters in the available data, although only slightly more than half of states report registration breakdowns, limiting how far the figures can be treated as representative of nationwide trends.\nThe figures come as early voting deadlines arrive across the country, and in some states they have already ended. Forty-seven states and the District of Columbia allow for universal early voting, with Alabama, Mississippi and New Hampshire the exceptions.\nEarly in-person voting schedules vary considerably by state, according to the Center for Election Innovation & Research (CEIR). Some concluded on October 27, while 14 states continue through November 2. Eight states allow or require some local early-voting sites to remain open on Election Day, according to CEIR.\nReading the Early-Voting Numbers\nMichael McDonald, the University of Florida political science professor who runs the Election Lab, cautioned in comments to TIME against treating early-voting data as a predictor of election outcomes. He said the figures can nevertheless offer valuable information about voting behavior.\n\"Once you start seeing consistency across multiple days of voting and across multiple states, it starts giving us more confidence that whatever we're seeing in terms of relative engagement, that's likely going to carry through to election day,\" he said.\nContact Newsweek editors on this story: Daniel Orton and Trevor Davies"
-    }
-   ]
-  },
-  {
-   "id": "cb2b043f5a0",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/europe/20261031-burnham-says-uk-open-to-slavery-apology-but-rules-out-financial-reparations",
-     "title": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s.france24.com/media/display/0a003486-d527-11f1-b75d-bf1914cabd52/w:1280/p:16x9/74706f6624812bdb75973570d6ce3acdf7330c24.jpg"
-     },
-     "id": "b2b043f5a027c5b2",
-     "published": "2026-10-31T12:31+00:00",
-     "text": "UK PM Burnham says 'open' to slavery apology but rules out financial reparations\nBritish Prime Minister Andy Burnham said Saturday he was \"open\" to the UK apologising for the first time for its role in the transatlantic slave trade but rejected calls for financial reparations. Issues around Britain's colonial history have loomed large over King Charles' ongoing visit to three Caribbean nations ahead of Commonwealth summit.\nPrime Minister Andy Burnham said Saturday he was \"open\" to the UK issuing a formal apology for its role in the transatlantic slave trade, but ruled out financial reparations.\nWriting in The Guardian days before attending a Commonwealth leaders summit in the Caribbean, and as King Charles III tours the region, the British premier argued that \"we need to face up to the past\".\nRead moreKing Charles confronts calls for slavery apology during Caribbean tour\nWith London under pressure to formally apologise for its pivotal part in the trade and compensate Caribbean nations, he pledged to have \"difficult conversations to safeguard the Commonwealth for the future\".\nBurnham said he wanted to \"express my sorrow and regret for the pain and suffering of so many millions and to recognise the way it still shapes our world today\", but insisted reparations were not \"the right answer\".\n\"I do not think that British people today can be held liable for historical wrongs, however heinous, that happened in a different age under different laws and in which they played no personal part,\" he wrote in the op-ed.\nThe transatlantic slave trade was a \"brutal and barbaric violation\" of enslaved people's rights, the UK leader added, offering a \"structured dialogue with those affected\".\n\"Listening to calls for a formal apology on behalf of the British state will form an important part of this process and I am open to them.\"\nBurnham also revealed he planned to launch a new debt restructuring drive for the poorest Commonwealth countries, led by former Labour prime minister Gordon Brown.\nHe vowed to work with \"global partners\" to help those countries repay \"over a longer time period and with better rates\".\nAcknowledging 'the great suffering of the past'\nThe issues around slavery have loomed large over King Charles's ongoing nine-day visit to three Caribbean countries, which will include an address to the Commonwealth summit.\nBurnham is also set to attend the gathering that runs from Sunday to Wednesday in St John's, the capital of Antigua and Barbuda.\nThe 56-member Commonwealth – which Charles, 77, helms – is mainly composed of British ex-colonies, with the UK's central role in slavery and the treatment of its former subjects long a contentious issue within the organisation.\nIn the Bahamas on Tuesday, the monarch acknowledged \"the great suffering of the past\" during the first leg of his visit.\nMeanwhile in Guyana on Friday he visited an execution site of local people during British colonial rule, pausing to reflect in a gesture seen as indicating his awareness of that past injustice.\nBritain has never formally apologised for slavery or agreed to pay reparations.\nThe country profited for centuries from colonialism and the slave trade, but argues it also led the way in the latter's abolition.\nIn 1833, the UK parliament passed a law to abolish slavery in most of the British Empire.\nRead moreFrance votes unanimously to abolish Code Noir, a colonial-era slavery law\nDenis O'Brien, founder of The Repair Campaign, which advocates for reparations for slavery for"
-    },
     {
      "source": "Investing.com",
      "trust": 2,
@@ -5506,96 +5570,63 @@
    ]
   },
   {
-   "id": "cd081c8674a",
+   "id": "ca1c01ba106",
    "kind": "news",
    "score": 13.0,
    "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+   "distinct_sites": 4,
+   "title_hint": "$6.3 billion Binance hack likely work of North Korea, experts say",
    "official_image": null,
    "sources": [
     {
-     "source": "Decrypt",
+     "source": "CBS News",
      "trust": 2,
-     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
-     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+     "url": "https://cbsnews.com/news/binance-hack-north-korea",
+     "title": "$6.3 billion Binance hack likely work of North Korea, experts say",
      "lang": "en",
      "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
+      "page_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/23/da771d5f-c037-4b4a-b168-c7fafdec9da3/thumbnail/1200x630/2f49750673e563e6283f5c83343305bf/ap23325643193246.jpg"
      },
-     "id": "d081c8674a69f198",
-     "published": "2026-10-31T15:01+00:00",
-     "text": "In brief\n- Attackers stole roughly $6.4 billion from Binance on Thursday in the largest crypto hack ever, more than four times the previous record.\n- Binance says it will cover all losses with company funds and its emergency reserve, having set aside more than $6.34 billion.\n- Here's how it happened and what's being done about it.\nCrypto just suffered the largest hack in its history.\nOn Thursday, attackers drained roughly $6.4 billion from Binance, the world’s largest cryptocurrency exchange, in a breach that dwarfs every theft before it and has triggered a cross-border law-enforcement investigation, a scramble by stablecoin issuers to freeze funds, and a tense wait for millions of users.\nHere’s what’s known about the Binance hack so far.\nWhat happened\nThe theft began at about 4:05 p.m. ET on Thursday, after U.S. markets had closed, when attackers moved funds out of Binance hot wallets across roughly 10 blockchains, most of it within about 20 minutes.\nBlockchain analytics firms Chainalysis and TRM Labs put the total at around $6.4 billion, more than four times the previous record, February 2025’s $1.5 billion Bybit heist.\nCrucially, the attack targeted Binance’s own infrastructure, not the blockchains themselves. Binance initially traced the breach to a compromised laptop belonging to a DevOps engineer, which may have let the attacker reach a service container and submit unauthorized withdrawals.\nThe exchange has since said its investigation uncovered “additional points of breach,” with CEO Richard Teng describing “a more complex attack process” that “did not simply use one engineer’s permissions.” Binance said it found no evidence that wallet private keys were leaked, and that the attacker used a self-destruct mechanism to wipe tooling and traces along the way.\nThe Ethereum wrinkle\nOn Ethereum, the attacker leaned on EIP-7702, a feature introduced in 2025 that lets ordinary wallets temporarily run smart-contract code.\nUsing 50 pre-signed authorizations, the attacker turned a Binance hot wallet into a “sweeper” contract and drained its assets, according to TRM Labs.\nTeng said that delegation “did not pass through our normal approval controls.” The episode didn’t expose a flaw in Ethereum itself, but rather, TRM said, pointed to a compromise of Binance’s signing infrastructure.\nWho’s behind it\nTRM Labs and Chainalysis both attributed the hack to TraderTraitor, a North Korean state-linked group also blamed for the Bybit heist.\nAfter that attack, the group converted roughly 84% of the stolen Ethereum into Bitcoin via the cross-chain network Thorchain. The attribution pushes North Korea’s 2026 crypto haul well past $1 billion, and the Binance figure alone would dwarf the rest.\nWhat Binance is doing\nTeng said Binance will cover every dollar of the losses with company funds and its Secure Asset Fund for Users, an emergency reserve, stressing that customer assets were never touched.\nThe exchange has set aside more than $6.34 billion, about $5 billion of it already held in the exact tokens stolen, including BTC, ETH, BNB, USDC, and USDT, and is buying the rest on the open market and over the counter.\nBinance paused withdrawals to rebuild and retest its systems, is running a full security review, and aims to restore withdrawals by Sunday while publishing a complete proof of reserves by Monday. Deposits are operating normally.\nThe freeze, and what’s still loose\nStablecoin issuers moved fast following the initial reports of a suspected attack, unl"
+     "id": "a1c01ba106a31b8e",
+     "published": "2026-10-31T23:20+00:00",
+     "text": "A U.S.-based blockchain intelligence firm said a\ncyber unit was likely behind an attack that stole $6.3 billion from Binance, the world's biggest cryptocurrency exchange.Binance said on Friday that deposits were unaffected, while withdrawals were suspended and are expected to resume in the next day or two. The company, which worked with blockchain partners to freeze roughly $3 billion in affected assets, also said it will cover all customer losses.\nIn a social media post, Binance said that an initial investigation suggested the incident may have involved a compromised laptop, while a subsequent probe uncovered additional \"points of breach.\"\nCrypto industry analysts say the hack against Binance is the largest cyber heist ever.\nWhat is TraderTraitor?\nIn a post on its website Thursday, tech security firm TRM Labs attributed the attack to TraderTraitor, which it described as North Korea's elite hacking unit. \"We make this judgment with high confidence,\" TRM said.\n\"An attacker moved approximately USD 6.36 billion out of Binance wallets on ten blockchains, most of it in about 20 minutes,\" the firm said. That would make the hack the largest cryptocurrency theft on record, it said.\nThe FBI on Saturday also accused TraderTraitor of being behind the attack, saying the hackers have been converting the stolen funds into Ethereum, a popular cryptocurrency.\nThe hackers are preparing the funds for \"further laundering stages,\" the FBI said in a statement.\nIn 2025, TraderTraitor also targeted another crypto exchange, Bybit, in an attack resulting in a $1.5 billion loss, according to the FBI.\n\"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack,\" TRM said.\nJonathan Levin, co-founder and CEO of blockchain research firm Chainalysis, also said on social media that the Binance hack was \"likely done\" by TraderTraitor.\nAnalysts believe that TraderTraitor members are part of a wider North Korean hacking unit known as Lazarus Group, which targets multiple institutions across government, finance and other fields, according to the U.S. Treasury Department.\nThe Justice Department alleged in 2018 that the for an attack on Sony Pictures Entertainment four years earlier that leaked a massive amount of sensitive company data online.\nWorking \"around the clock\"\nBinance said on social media that its \"teams are working around the clock to resolve this issue safely and thoroughly. We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice.\"\nExperts say North Korea has turned to crypto hacking and other illicit cyber activities as a source of badly needed foreign currency to support its troubled economy and fund its nuclear program in the wake of tough U.N. sanctions and other difficulties.\nIn December 2022, South Korea's spy agency said North Korean hackers had stolen an estimated 1.5 trillion won ($1.1 billion) in cryptocurrency and other virtual assets in the past five years, more than half of it in 2022 alone. It said North Korea's capacity to steal digital assets was considered among the best in the world.\nChangpeng Zhao, also known as CZ, founded Binance in 2017. In 2023, he pleaded guilty to a felony linked to failing to prevent money laundering on the platform and stepped down as the company's CEO. President Trump\n.Zhao posted Thursday on social media that \"User funds are safe!\" but added that the theft \"does look like a hack on Binance.\" He added that, wh"
     },
     {
-     "source": "PBS NewsHour",
+     "source": "Japan Times",
      "trust": 2,
-     "url": "https://pbs.org/newshour/world/what-to-know-about-the-6-3b-hack-on-binance-likely-the-biggest-ever-crypto-theft",
-     "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
-     "lang": "en",
-     "extra": {},
-     "id": "2ae9b6177f8a418c",
-     "published": "2026-10-31T15:14+00:00",
-     "text": "Here's what we know about the hack, possible North Korean involvement and Binance's investigation."
-    }
-   ]
-  },
-  {
-   "id": "c0629994f45",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "url": "https://japantimes.co.jp/business/2026/11/01/tech/binance-hack-fbi-north-korea",
+     "title": "FBI blames North Korea for $6 billion Binance crypto hack",
      "lang": "en",
      "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/571606.jpg?v=3.1"
      },
-     "id": "0629994f454de1d9",
-     "published": "2026-10-31T22:11+00:00",
-     "text": "- Published\nBinance, the world's largest cryptocurrency exchange, says it has covered 90% of the $6.3bn (£4.7bn) assets stolen in a hack on Thursday.\nThe remaining 10% may take longer to source in the required amounts, the company added.\nBinance has consistently pledged to cover 100% of the losses from what is suspected to be crypto's biggest hack on record and said it has set aside more than $6.34bn in company funds to do so.\n\"Binance will absorb the financial impact of these stolen funds, not our users,\" the company said in a statement on Saturday.\nThe Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the hack.\nTwo analytics firms previously told the BBC they had robust intelligence pointing to North Korean state-backed hacking unit the Lazarus Group, also known as TraderTraitor - which was specifically named by the FBI - as the likely culprits.\nBinance said it had replenished the stolen assets using various funds and its own corporate treasury.\nAll holdings of the cryptocurrencies bitcoin, ethereum and Tether are covered, along with seven other widely-traded crypto assets, the company said.\nThe company said its next goal is resuming withdrawal services for users, saying it remained on track to reopen withdrawals on Sunday 1 November and would provide a further update once details were confirmed.\nThe hack is believed to be the largest in history, eclipsing the record of a $1.5bn heist on the Bybit exchange in 2025 - for which the FBI also said North Korea was responsible.\nNorth Korea has always denied involvement in these attacks.\nBinance's initial investigation suggested an engineer's laptop was compromised, which allowed access to unauthorised withdrawals, but a later update said they had uncovered \"additional points of breach\".\nRichard Teng, Binance's co-chief executive officer, said the hack was carried out by more than one person, and the hackers used sophisticated methods to hide their tracks, such as a \"self-destruct mechanism\".\nOn Friday, the company said it had frozen around $3bn of stolen assets after working with law enforcement, intelligence firms and partners.\nThe investigation is ongoing, it added. The US Secret Service said on Friday it is \"working around the clock\" with private sector partners \"to identify, freeze, trace, and recover funds\" stolen from Binance.\nBinance, founded in China in 2017, lets users buy, sell and trade digital assets - it is estimated to have hundreds of millions of users worldwide.\nCrypto is a digital asset, which doesn't exist physically and is instead accessed via digital wallets or computers."
+     "id": "0430f3ab4b2e2e18",
+     "published": "2026-10-31T23:21+00:00",
+     "text": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said Saturday in a statement, referring to the U.S. Secret Service and the criminal division of the Internal Revenue Service. “It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the $6.3 billion and plans to restore withdrawals by Sunday, making progress on a pledge to fully reimburse customers.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
     },
     {
-     "source": "Ahram Online",
+     "source": "Straits Times",
      "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
-     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
-     "lang": "en",
-     "extra": {},
-     "id": "3b6bb0c06269b687",
-     "published": "2026-11-01T07:33+00:00",
-     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
-    },
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVB4SGN0azE1enBQUEpTNWZVQlpBamVDQ2N5ZmdDRDk1dVNrUGI0OVBFRjZCZDFQZ2Q5U1RMUFdpeXFEb29fV1llQ0F4bkhNbV90OVlPbHh0N0MwY3ZzNzVmTFB4cGFJbE5TVm9WZTlnQWdMUVdMQnk4VlJXNm02eXUzcURNWDhpTERZeW1QclZubU10RFh6MFhpVjhRaENO?oc=5",
-     "title": "Business - Tech",
-     "lang": "en",
-     "extra": {},
-     "id": "13ba1829bd10fa9f",
-     "published": "2026-11-01T07:48+00:00",
-     "text": "Business - Tech\nAhram Online"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "url": "https://straitstimes.com/world/united-states/fbi-blames-north-korea-for-us6-billion-binance-crypto-hack",
+     "title": "FBI blames North Korea for US$6 billion Binance crypto hack",
      "lang": "en",
      "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/36b2e258e0d2f9a1fac6bcb5182b18cdde5334f79066ddd842e1d2f17c983c4a?w=1200"
      },
-     "id": "5c29874acc90c064",
-     "published": "2026-11-01T09:28+00:00",
-     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
+     "id": "ff3e7a45d1ce8dd6",
+     "published": "2026-10-31T23:33+00:00",
+     "text": "FBI blames North Korea for US$6 billion Binance crypto hack\nAI generated\nWASHINGTON - The FBI said that North Korea was responsible for stealing more than US$6 billion (S$7.67 billion) in cryptocurrencies in a brazen hacking attack on Binance.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum,” the FBI said on Oct 31 in a statement, referring to the US Secret Service and the criminal division of the Internal Revenue Service.\n“It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nEarlier, Binance said it has covered about 90% of the US$6.3 billion and plans to restore withdrawals by Nov 1, making progress on a pledge to fully reimburse customers.\nIn a social media post on Oct 31, the world’s biggest crypto exchange reiterated that it will absorb the full impact of the theft so that users won’t suffer any losses.\nThe Binance hack is the largest in cryptocurrency’s history, as well as one of the largest cyber incidents more generally, according to experts. It sent shockwaves through the industry, which has been trying to gain more mainstream adoption.\nNorth Korean hackers are well known for their past attacks against crypto exchanges. They’ve been accused by the FBI and cybersecurity experts of some of the biggest crypto heists in recent years, including the US$1.5 billion Bybit attack in 2025 and the 2022 theft of about US$620 million in cryptocurrency.\nTraderTraitor is an elite North Korean hacking unit that the FBI previously blamed for the Bybit hack.\nEarlier, President Donald Trump had said the US was looking into whether North Korea was involved in the Binance attack.\n“They’re saying they’re guaranteeing it or something,” Trump told reporters on Oct 30 in the Oval Office. “It was a hack. That’s the problem. You know the old-fashioned way when you used to sign a check, take it out. These are different people. Never see the money anymore. So I’ve always felt it was a little bit dangerous.”\nTrump in recent weeks has floated new US outreach to North Korea, suggesting that a potential meeting with its leader, Kim Jong Un, could happen in 2026. Earlier in October, however, Trump downplayed those expectations, saying he was “not sure that anybody’s asking for a meeting.” BLOOMBERG"
+    },
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+     "lang": "en",
+     "extra": {},
+     "id": "aa099f38eae6d838",
+     "published": "2026-11-01T01:10+00:00",
+     "text": ""
     }
    ]
   },
@@ -5736,41 +5767,6 @@
      "id": "192a1b45d6727e96",
      "published": "2026-11-01T23:59+00:00",
      "text": "Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries.\nAll news, reviews, and analyses are produced with full journalistic independence and integrity. For more details on our standards and processes, please read our Editorial Policy."
-    }
-   ]
-  },
-  {
-   "id": "c96ef9c57ad",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "DeepSeek developing AI agent requiring less human input: Report",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report",
-     "title": "DeepSeek developing AI agent requiring less human input: Report",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6BNBCY09X57GCM10X7FBK0P/make-ai-great1-1.jpg"
-     },
-     "id": "96ef9c57adf76cc1",
-     "published": "2026-11-01T13:40+00:00",
-     "text": "DeepSeek developing AI agent requiring less human input: Report\nThe proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said.\nChinese artificial intelligence company DeepSeek has revealed a design to increase the autonomy of AI coding assistants so they can perform multiple tasks with less human intervention.\nThe aim is to reduce human input in coordinating and monitoring multiple AI agents, according to a paper published by the company’s DeepSeek Harness team and reported by Singapore’s South China Morning Post on Sunday.\nManaging multiple agents demands human attention, the team said, noting that “single-task limits depend on model capabilities, while multitask limits depend on human attention.”\nThe DeepSeek paper said a person can oversee only three to five active AI agent sessions simultaneously. Its proposed system would distribute tasks among agents and coordinate their work, leaving humans free to review results and make decisions.\nThe proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, according to the SCMP.\nCointelegraph reported last October that Chinese artificial intelligence models were outperforming US counterparts in cryptocurrency trading, according to data from blockchain analytics platform CoinGlass.\nAI chatbot DeepSeek led a crypto trading experiment, being the only AI model to generate a positive unrealized return of 9.1%. The results surprised crypto traders, given that DeepSeek was developed at a fraction of the cost of its US rivals."
-    },
-    {
-     "source": "Interesting Engineering",
-     "trust": 2,
-     "url": "https://interestingengineering.com/ai-robotics/china-deepseek-architecture-multi-agent-ai",
-     "title": "China’s DeepSeek plans super agent to coordinate multiple AI assistants, reduce human supervision",
-     "lang": "en",
-     "extra": {},
-     "id": "860d2c034520ffac",
-     "published": "2026-11-01T18:40+00:00",
-     "text": "Chinese AI company DeepSeek has unveiled an experimental architecture for a more autonomous AI agent designed to coordinate multiple assistants, distribute tasks and complete complex workflows with less human supervision.\nThe proposed system, called a “super agent”, aims to address a growing limitation in AI automation: while individual agents are becoming more capable, managing several of them at once still requires considerable human attention. The proposal comes as competition intensifies between DeepSeek and US rivals OpenAI and Anthropic to develop AI systems that can take on increasingly complex software engineering tasks.\nRather than simply responding to individual prompts, the next generation of coding assistants is expected to manage longer workflows, react to new information and coordinate multiple operations with limited intervention.\nDeepSeek argues that the growing capabilities of AI models have enabled agents to automate tasks ranging from managing calendars and drafting emails to preparing reports and writing software. However, coordinating multiple agents remains difficult because humans must still assign tasks, monitor progress and resolve conflicts between their outputs.\nThe team estimates that a person can typically supervise only three to five active AI agent sessions at a time. That creates a practical limit on how much work organizations can delegate, even when individual agents are capable of completing tasks independently.\nThe proposed super agent is also intended to address that constraint through a central coordinating system. It would break down larger assignments, distribute them among multiple agents working in parallel and track their progress without requiring a person to manage each session separately.\nThe system would also be designed to respond proactively to events, rather than waiting for explicit instructions. For example, an agent could detect a software bug reported in a group chat, attempt to reproduce the problem and develop a fix. If it found a viable solution, it could submit a proposed code change for human review. Additionally, if it failed, it would remain silent rather than generate unnecessary notifications.\nDeepSeek’s latest proposal also reflects a broader shift in the AI industry, where developers are competing to build systems capable of handling entire software development workflows rather than isolated coding requests.\nAnthropic’s Claude Code and OpenAI’s Codex have both expanded the capabilities of AI coding assistants, allowing them to work across codebases, execute tasks and assist with more complex development processes. DeepSeek’s proposed architecture takes a different angle by focusing on how multiple agents can coordinate their work and respond to changing conditions.\nIn experimental tests described by the company, the approach completed one task in just under 16 minutes, compared with more than 29 minutes using a conventional approach. The result suggests that parallel execution and automated coordination could reduce the time required for certain workflows.\nHowever, the benchmark alone does not establish that the system is more effective than competing coding agents. The technical article did not provide enough detail to determine how broadly the result applies, how task quality was measured or whether the approach performs consistently across different software development scenarios."
     }
    ]
   },
@@ -5930,6 +5926,30 @@
      "id": "305cc0066f6bef56",
      "published": "2026-11-02T00:00+00:00",
      "text": "The two public record labels are struggling to excite investors"
+    }
+   ]
+  },
+  {
+   "id": "c5823b31f2e",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 1,
+   "title_hint": "Binance users withdraw billions after record crypto hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC Tech",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+     "title": "Binance users withdraw billions after record crypto hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
+     },
+     "id": "5823b31f2e92bfce",
+     "published": "2026-11-02T00:26+00:00",
+     "text": "- Published\nBinance customers withdrew more than $3.6bn (£2.7bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.\nThe firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.\nMajor organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber attack, which is said to be the largest hack in history.\nThe company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source. Binance has repeatedly said it would cover all of the losses linked to the attack.\nThere was an \"initial spike\" in withdrawals, which later declined and \"are stabilising as expected\", Binance posted on X.\nIt added that withdrawals for major cryptocurrencies like Bitcoin and Ethereum have resumed and that more services will resume in phases once security checks are completed."
     }
    ]
   },
@@ -6515,8 +6535,8 @@
       "market": "crypto",
       "day": "2026-11-02"
      },
-     "published": "2026-11-02T00:09+00:00",
-     "text": "Bitcoin: $78,394 (+1.2% 24h)\nEthereum: $2,276 (+1.0% 24h)\nSolana: $94.54 (-1.0% 24h)\nToncoin: $1.21 (+0.6% 24h)"
+     "published": "2026-11-02T00:39+00:00",
+     "text": "Bitcoin: $78,054 (+0.6% 24h)\nEthereum: $2,269 (+0.5% 24h)\nSolana: $93.92 (-1.8% 24h)\nToncoin: $1.21 (+0.2% 24h)"
     }
    ]
   },
