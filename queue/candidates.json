@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T08:48:52+00:00",
+ "generated_at": "2026-11-02T09:19:30+00:00",
  "clusters": [
   {
    "id": "c9a863fd677",
@@ -114,6 +114,137 @@
      "id": "5c3f1b55f9107816",
      "published": "2026-11-01T23:57+00:00",
      "text": "- Kimi Antonelli becomes youngest F1 champion with third place in Mexican GP The Guardian\n- Kimi Antonelli makes F1 history as youngest world champion with maiden title ESPN\n- ‘He makes himself stronger’ – Kimi Antonelli’s dad reflects on son’s ‘important’ title triumph Formula 1\n- Kimi Antonelli becomes F1 world champion as Max Verstappen wins Mexico City Grand Prix BBC\n- Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old NBC News"
+    }
+   ]
+  },
+  {
+   "id": "cac3da7fa79",
+   "kind": "news",
+   "score": 25.0,
+   "sensitive": true,
+   "distinct_sites": 10,
+   "title_hint": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
+     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
+     "lang": "en",
+     "extra": {},
+     "id": "ac3da7fa79157764",
+     "published": "2026-10-31T21:32+00:00",
+     "text": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/bulletin/news/trump-epstein-birthday-card-lawsuit-dismissed-wsj-b3076951.html",
+     "title": "Trump's $10bn lawsuit over Epstein birthday card dismissed by judge",
+     "lang": "en",
+     "extra": {},
+     "id": "23109de18e5107e1",
+     "published": "2026-10-31T21:38+00:00",
+     "text": ""
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
+     "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
+     "lang": "en",
+     "extra": {},
+     "id": "faeac0cce375b384",
+     "published": "2026-10-31T22:36+00:00",
+     "text": "Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting."
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
+     "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
+     "lang": "en",
+     "extra": {},
+     "id": "cded5e70f6fdf8c8",
+     "published": "2026-10-31T23:00+00:00",
+     "text": ""
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423",
+     "title": "Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2280583841.jpg?w=1000&h=563&crop=1"
+     },
+     "id": "0254b054c7e4646d",
+     "published": "2026-10-31T23:23+00:00",
+     "text": "A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein was purportedly written by Trump.\nTrump’s lawsuit “falls short of pleading actual malice,” wrote U.S. District Judge Darrin P. Gayles in his opinion on Saturday. “Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.” Judge Gayles dismissed the lawsuit with prejudice, meaning Trump cannot refile the claim.\nIn April, Judge Gayles ruled that the lawsuit “fails to adequately allege actual malice,” a legal standard in the U.S. for proving defamation. At the time, the court dismissed the complaint “without prejudice,” since he had only made one attempt to state his claims.\nTrump sought at least $20 billion in damages on two counts of defamation in the initial suit, filed in July 2025. He sued the WSJ, its parent companies Dow Jones & Co. and News Corp, the reporters on the story and Rupert Murdoch.\n“We have just filed a POWERHOUSE Lawsuit against everyone involved in publishing the false, malicious, defamatory, FAKE NEWS ‘article’ in the useless ‘rag’ that is, The Wall Street Journal,” Trump wrote at the time on Truth Social. “I hope Rupert and his ‘friends’ are looking forward to the many hours of depositions and testimonies they will have to provide in this case.”"
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/united-states/us-judge-dismisses-trump-lawsuit-against-wall-steet-journal-over-epstein-letter",
+     "title": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/c4adb64fe041071d878167fe1d846565d403150f97ca8e5f1fd959d887e45702?w=1200"
+     },
+     "id": "885718a3596fc006",
+     "published": "2026-10-31T23:31+00:00",
+     "text": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter\nAI generated\nWASHINGTON – A US judge on Oct 31 dismissed President Donald Trump’s defamation lawsuit against The Wall Street Journal and media magnate Rupert Murdoch over a report that Trump sent a bawdy birthday letter to notorious sex offender Jeffrey Epstein.\nTrump had sued for US$10 billion (S$12.8 billion) after the newspaper’s story was published in July 2025 detailing the President’s alleged 2003 letter to Epstein, which apparently featured a drawing of a naked woman.\nMurdoch is the founder of News Corp, which owns The Wall Street Journal.\nThe report piled scrutiny on Trump from both Democrats and his own Republican Party, who rejected the President’s attempts to downplay the saga as a hoax and called for a full release of legal files on Epstein.\nIn the ruling on Oct 31, Judge Darrin Gayles dismissed Trump’s lawsuit with prejudice, meaning Trump cannot file an amended version of the suit, as he did when Gayles turned down an initial version of it back in April.\nThe judge wrote that in bringing his defamation claim, Trump had both times failed to establish that the defendants “acted with actual malice”.\nThe House Oversight Committee in 2025 published a copy of Trump’s alleged birthday note to Epstein, which consists of a short dialogue between “Donald” and “Jeffrey”.\n“We have certain things in common,” says Donald, to which Jeffrey responds: “Yes, we do, come to think of it.”\n“Enigmas never age, have you noticed that?” asks Donald.\n“As a matter of fact, it was clear to me the last time I saw you,” says Jeffrey.\n“A pal is a wonderful thing. Happy Birthday – and may every day be another wonderful secret,” the note ends, followed by Trump’s signature, which takes the place of pubic hair on the nude outline.\nEpstein files\nTrump’s supporters have been obsessed with the Epstein case for years and held as an article of faith that “deep state” elites were protecting a sex ring of Epstein associates, particularly in the Democratic Party and Hollywood.\nThe President fought for months to prevent the Department of Justice from releasing the so-called “Epstein Files”, but eventually signed a law passed by Congress requiring their publication.\nTrump’s name appears repeatedly in the documents, but he denies any wrongdoing and has not been charged with any criminal offences connected to the affair.\nHigh-profile figures including Britain’s former prince Andrew have been publicly disgraced for their associations with Epstein.\nAhead of the Nov 3 US midterm elections which will decide control of Congress, Democrats have reportedly spent more than US$35 million on Epstein-related advertisements.\nWith a Republican majority in the House and Senate, Trump has so far enjoyed relatively little political opposition since taking office in January 2025, giving the courts a key role in limiting him.\nIn a separate case on Oct 31, a new suit was filed to prevent Trump’s attempt to erect a huge triumphal arch in front of the iconic military cemetery outside Washington.\nThat is one of a number of projects launched by Trump in a bid to put his personal stamp on the capital, including a ballroom at the White House and a laborious renovation of the Reflecting Pool on the National Mall.\nOn Oct 30, a US federal judge pushed back on government assertions that the planned arch – which Trump has said would house drones and snipers – was needed for national security.\n“It’s something (the) regio"
+    },
+    {
+     "source": "Hollywood Reporter",
+     "trust": 2,
+     "url": "https://hollywoodreporter.com/news/politics-news/trump-lawsuit-wall-street-journal-epstein-dismissed-1236744244",
+     "title": "Trump Lawsuit Against Wall Street Journal Over Epstein Story Dismissed by Judge",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/FotoJet-2026-07-17T104215.210.jpg?w=1440&h=810&crop=1"
+     },
+     "id": "f5694ff772f14886",
+     "published": "2026-11-01T00:01+00:00",
+     "text": "Saying the president was “grasping at straws,” a federal judge on Saturday threw out Donald Trump’s $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.\nU.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law. The ruling said the lawsuit had attempted to “manufacture” flaws in the Journal’s investigative reporting.\nRelated Stories\nWhen a case is thrown out “with prejudice,” it cannot be refiled again and the dismissal is permanent and incontrovertible.\nThe dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term. In addition to the Journal, he is embroiled in lawsuits involving the BBC, The Associated Press and — most recently — CNN, MS NOW and Politico, which are suing him for restored access after he banished them from the White House in mid-September.\nTrump has denounced media outlets that write things to which he objects and frequently calls them “fake news” and insults their journalists.\nTrump called the reporting ‘malicious’\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Trump’s name and was included in a 2003 album compiled for Epstein’s 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Trump.\nThe letter bearing Trump’s name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, “Happy Birthday — and may every day be another wonderful secret,” according to the newspaper.\nTrump denied writing it and called the story “false, malicious, and defamatory.”\nThe lawsuit, filed in federal court in Miami, accused the paper and its reporters of having “knowingly and recklessly” published “numerous false, defamatory, and disparaging statements,” which, it alleged, caused “overwhelming financial and reputational harm” to the president.\nEpstein died by suicide in a New York jail cell in August 2019 while awaiting trial on federal sex trafficking charges.\nThe lawsuit was dismissed once, then refiled\nGayles previously dismissed the suit in April, saying Trump had failed to make the argument that the article was published with the intent to be malicious. But he gave the president a chance to file an amended complaint, which he did in May.\nIn Saturday’s ruling, the judge cited the Supreme Court’s landmark 1964 ruling in New York Times Co. v. Sullivan. That decision made it harder for public figures to win libel lawsuits because it requires proof that a media outlet knowingly published something false or showed a reckless disregard for the truth.\n“The Amended Complaint falls short of pleading actual malice,” Gayles wrote. “Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.”\nThe judge also noted that the Journal’s story did not ignore or minimize Trump’s denial, “Rather, it informed readers that President Trump decried the Letter as a fake and d"
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+     "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg"
+     },
+     "id": "33237a7f3e197769",
+     "published": "2026-11-01T00:41+00:00",
+     "text": "- Published\nA US judge has thrown out President Donald Trump's $10bn (£7.4bn) lawsuit against The Wall Street Journal, ruling the suit was \"grasping at straws\".\nTrump had sued the media outlet's parent company Dow Jones and its leader Rupert Murdoch last year after it reported on a letter allegedly written by Trump to disgraced financier and sex offender Jeffrey Epstein as part of a birthday book in 2003, before Epstein was charged with sex crimes.\nTrump has denied writing or signing the letter, which included suggestive language and a drawing of the outline of a woman's body.\nJudge Darrin Gayles threw out the case, finding the suit runs counter to the First Amendment, which protects freedom of the press.\nGayles had already once dismissed the defamation lawsuit, which sought $20 billion in damages. Trump's team refiled the suit seeking $10 billion, and this time, the judge threw out the case \"with prejudice,\" meaning the suit cannot be filed again.\nThe news outlet's story about Epstein's 50th birthday book, external - and the letter with Trump's name - came as the Trump administration battled intense bipartisan criticism over the summer for its handling of Epstein documents.\nTrump had said the newspaper had slandered him and violated libel laws in publishing the article.\nIn his 20-page ruling, Gayles noted the paper's \"thoughtful and detailed investigation\" that led to the story and said the lawsuit was \"grasping at straws\" to \"manufacture flaws\" in their work.\nThe judge wrote that Trump's legal team did not prove that the defendants made defamatory statements with \"actual malice\", which the law requires be proven.\nActual malice is high bar to meet, as it requires proof that the defendant knew the defamatory statement was false or acted with reckless disregard for whether it was true or not.\nTrump alleged that the letter obtained and released by the Journal, which features his signature at the bottom, was \"fake\" and that the defendants devised the story in order to defame him.\nTrump's legal team had argued that because Trump denied writing the letter when contacted by the Journal, the paper should have \"disregarded everything else they learned in their investigation and not published the story\", Gayles wrote.\n\"But that is not what the actual malice standard requires and runs afoul of the First Amendment,\" Gayles wrote.\nIf that were the law, he wrote, then \"any time a public figure or his team denies an accusation, journalists would be immediately blocked from publishing negative or contradictory press—a result that flies in the face of the 'American privilege to speak one's mind'\".\nAccording to the Wall Street Journal story, a letter bearing Trump's name \"contained several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker\".\nIt reportedly contained a joking reference that \"enigmas never age\" and allegedly ended with the words: \"A pal is a wonderful thing. Happy Birthday - and may every day be another wonderful secret\"."
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/judge-dismisses-trump-lawsuit-against-wsj-over-epstein-cartoon/107333268",
+     "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein cartoon",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/56b310068afd4b0f0d73a23e56026a03?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic"
+     },
+     "id": "f3b985eb7998ab57",
+     "published": "2026-11-01T01:59+00:00",
+     "text": "A federal judge has thrown out US President Donald Trump's $US10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to convicted sex offender Jeffrey Epstein.\nUS District Judge Darrin Gayles dismissed the lawsuit filed in Miami, saying the president was \"grasping at straws\".\nJudge Gayles ruled the president did not prove the defendants made defamatory statements with actual malice as required by law and the suit had attempted to \"manufacture\" flaws in the newspaper's reporting.\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Mr Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Mr Trump.\nMr Trump denied writing it and called the story \"false, malicious, and defamatory\".\nThe case was thrown out \"with prejudice\", which means it cannot be refiled again and the dismissal is permanent.\nThe Wall Street Journal (WSJ) published a story that said a Dow Jones spokesperson said the company was pleased with the decision.\nA spokesman for Mr Trump's legal team told the WSJ the president would appeal the ruling.\n\"The president will continue to hold those who mislead the American people with fake news and smears accountable for their actions,\" the spokesman said.\nTrump calls out 'malicious' reporting\nThe letter bearing Mr Trump's name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, \"Happy Birthday — and may every day be another wonderful secret\", according to the newspaper.\nIn his lawsuit, Mr Trump called the alleged birthday greeting \"fake\" and sought $US10 billion ($14 billion) for what he called damage to his reputation.\nNews Corp's Dow Jones, the Journal's parent, defended the accuracy of its July 17, 2025, article.\nThe lawsuit was one of several Mr Trump has filed in his second term against major media outlets over reporting he has characterised as unfair or false.\nIn asking Judge Gayles to dismiss the case in September, lawyers for the Journal and its billionaire owner Rupert Murdoch wrote that the lawsuit threatened to chill the speech of those who publish content that Mr Trump does not like.\nWasn't the case already dismissed?\nYes.\nDonald Trump's case, originally filed July 18, 2025 against The Wall Street Journal (WSJ), was thrown out by the same judge, Darrin Gayles, in April of this year.\nHe said the article did not meet the \"actual malice\" standard that public figures must clear in defamation.\nThey must prove not only that a public statement about them was false but also that the media outlet or person who made the statement knew or should have known that it was false.\n\"This complaint comes nowhere close to this standard,\" Judge Gayles wrote.\n\"Quite the opposite.\"\nMr Trump was then allowed to refile the lawsuit which he did later that month.\nAccording to the amended lawsuit, Mr Trump called Mr Murdoch on July 15, 2025, after WSJ reporters contacted the White House about the story.\n\"In response, Murdoch stated, 'I will handle it,' which President Trump reasonably interpreted as meaning that Murdoch believed President Trump, and that the article would not be published,\" the lawsuit says.\nRepresent"
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
+     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+     "lang": "en",
+     "extra": {},
+     "id": "c6374034fd181c47",
+     "published": "2026-11-01T08:20+00:00",
+     "text": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.\n(Image credit: Jacquelyn Martin)"
     }
    ]
   },
@@ -895,126 +1026,6 @@
    ]
   },
   {
-   "id": "c3d4796b06b",
-   "kind": "news",
-   "score": 21.0,
-   "sensitive": true,
-   "distinct_sites": 8,
-   "title_hint": "Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/donald-trump/judge-dismisses-trump-10-billion-defamation-suit-jeffrey-epstein-wsj-rcna591049",
-     "title": "Judge dismisses Trump’s $10 billion defamation suit over Jeffrey Epstein birthday card story",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260731-president-trump-vsb-1806-87d55f.jpg"
-     },
-     "id": "3d4796b06b002f37",
-     "published": "2026-10-31T21:09+00:00",
-     "text": "A federal judge in Florida has tossed a revised version of President Donald Trump’s $10 billion defamation suit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein more than two decades ago.\nU.S. District Judge Darrin Gayles found Trump’s amended suit suffered from the same fatal flaw as his first attempt — it fell far short of the high legal bar to show the paper had published the story with “actual malice.”\n“As President Trump has not plausibly alleged that each Defendant made defamatory statements with actual malice, the Amended Complaint must be dismissed. And because this is President Trump’s second attempt to allege his claims, the Court finds that dismissal with prejudice is appropriate,” the judge wrote.\nTrump first sued the paper last July, shortly after the Journal published a story about a birthday book that Ghislaine Maxwell had assembled for Epstein’s 50th birthday in 2003. The book appeared to include a card from Trump, who had been friends with Epstein around that time.\nThe card contained a hand-drawn outline of a naked woman with what appeared to be Trump’s first name signed in the pubic area. It included a typewritten note depicting an imaginary conversation with Epstein, who would later be charged with sex trafficking.\nTrump denied having anything to do with the card, and his suit accused the paper of having made it up and that no such note existed.\nEpstein’s estate later released a copy of a card matching the Journal’s description. Trump and the White House maintain the document is a fake.\nTrump’s suit alleged the writers of the article “falsely represent as fact that President Trump drew the naked woman’s breasts and signed his name ‘Donald’ below her waist, ‘mimicking pubic hair,’” and that the article caused him “overwhelming financial and reputational harm.”\nTrump’s suit also criticized the paper for not publishing an image of the card in the initial story, saying that shows “no authentic letter or drawing exists” — even though the House Oversight Committee publicly released the card after getting it from the Epstein estate.\nThe suit says the Journal should have known the story was bogus because Trump said it was not true. It also chided the paper for failing to interview Epstein co-conspirator Maxwell, who’s serving 20 years in prison on sex trafficking charges. The story said Journal reporters wrote her a letter asking for an interview and included a comment from her attorney.\nThe paper’s attorneys argued that like the original suit, Trump’s revised suit came “nowhere close” to demonstrating the paper acted with actual malice, in which “the false statement was made with knowledge that it was false or with reckless disregard of whether it was false or not.”\nDespite Trump’s claim the paper failed to properly investigate the card before publishing the story, “the Article itself established that the Journal not only investigated” but also “informed readers that President Trump decried the Letter as a fake and denied writing it,” the paper said in its motion to dismiss the suit.\nFurther, the attorneys argued, alleging that someone sent another person a birthday card is not defamatory.\n“There is nothing inherently defamatory about sending a bawdy letter to a friend,” the attorneys wrote, and the article “emphasizes that the Birthday Book was created before Epstein was first arrested” and “makes clear that President Trump’s friendship with Epstein ended years before Epst"
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/bulletin/news/trump-epstein-birthday-card-lawsuit-dismissed-wsj-b3076951.html",
-     "title": "Trump's $10bn lawsuit over Epstein birthday card dismissed by judge",
-     "lang": "en",
-     "extra": {},
-     "id": "23109de18e5107e1",
-     "published": "2026-10-31T21:38+00:00",
-     "text": ""
-    },
-    {
-     "source": "Hollywood Reporter",
-     "trust": 2,
-     "url": "https://hollywoodreporter.com/news/politics-news/trump-lawsuit-wall-street-journal-epstein-dismissed-1236744244",
-     "title": "Trump Lawsuit Against Wall Street Journal Over Epstein Story Dismissed by Judge",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/FotoJet-2026-07-17T104215.210.jpg?w=1440&h=810&crop=1"
-     },
-     "id": "f5694ff772f14886",
-     "published": "2026-11-01T00:01+00:00",
-     "text": "Saying the president was “grasping at straws,” a federal judge on Saturday threw out Donald Trump’s $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.\nU.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law. The ruling said the lawsuit had attempted to “manufacture” flaws in the Journal’s investigative reporting.\nRelated Stories\nWhen a case is thrown out “with prejudice,” it cannot be refiled again and the dismissal is permanent and incontrovertible.\nThe dismissal is a blow to Trump and his administration, which have both pursued adversarial relationships with news organizations during his second term. In addition to the Journal, he is embroiled in lawsuits involving the BBC, The Associated Press and — most recently — CNN, MS NOW and Politico, which are suing him for restored access after he banished them from the White House in mid-September.\nTrump has denounced media outlets that write things to which he objects and frequently calls them “fake news” and insults their journalists.\nTrump called the reporting ‘malicious’\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Trump’s name and was included in a 2003 album compiled for Epstein’s 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Trump.\nThe letter bearing Trump’s name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, “Happy Birthday — and may every day be another wonderful secret,” according to the newspaper.\nTrump denied writing it and called the story “false, malicious, and defamatory.”\nThe lawsuit, filed in federal court in Miami, accused the paper and its reporters of having “knowingly and recklessly” published “numerous false, defamatory, and disparaging statements,” which, it alleged, caused “overwhelming financial and reputational harm” to the president.\nEpstein died by suicide in a New York jail cell in August 2019 while awaiting trial on federal sex trafficking charges.\nThe lawsuit was dismissed once, then refiled\nGayles previously dismissed the suit in April, saying Trump had failed to make the argument that the article was published with the intent to be malicious. But he gave the president a chance to file an amended complaint, which he did in May.\nIn Saturday’s ruling, the judge cited the Supreme Court’s landmark 1964 ruling in New York Times Co. v. Sullivan. That decision made it harder for public figures to win libel lawsuits because it requires proof that a media outlet knowingly published something false or showed a reckless disregard for the truth.\n“The Amended Complaint falls short of pleading actual malice,” Gayles wrote. “Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.”\nThe judge also noted that the Journal’s story did not ignore or minimize Trump’s denial, “Rather, it informed readers that President Trump decried the Letter as a fake and d"
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-     "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg"
-     },
-     "id": "33237a7f3e197769",
-     "published": "2026-11-01T00:41+00:00",
-     "text": "- Published\nA US judge has thrown out President Donald Trump's $10bn (£7.4bn) lawsuit against The Wall Street Journal, ruling the suit was \"grasping at straws\".\nTrump had sued the media outlet's parent company Dow Jones and its leader Rupert Murdoch last year after it reported on a letter allegedly written by Trump to disgraced financier and sex offender Jeffrey Epstein as part of a birthday book in 2003, before Epstein was charged with sex crimes.\nTrump has denied writing or signing the letter, which included suggestive language and a drawing of the outline of a woman's body.\nJudge Darrin Gayles threw out the case, finding the suit runs counter to the First Amendment, which protects freedom of the press.\nGayles had already once dismissed the defamation lawsuit, which sought $20 billion in damages. Trump's team refiled the suit seeking $10 billion, and this time, the judge threw out the case \"with prejudice,\" meaning the suit cannot be filed again.\nThe news outlet's story about Epstein's 50th birthday book, external - and the letter with Trump's name - came as the Trump administration battled intense bipartisan criticism over the summer for its handling of Epstein documents.\nTrump had said the newspaper had slandered him and violated libel laws in publishing the article.\nIn his 20-page ruling, Gayles noted the paper's \"thoughtful and detailed investigation\" that led to the story and said the lawsuit was \"grasping at straws\" to \"manufacture flaws\" in their work.\nThe judge wrote that Trump's legal team did not prove that the defendants made defamatory statements with \"actual malice\", which the law requires be proven.\nActual malice is high bar to meet, as it requires proof that the defendant knew the defamatory statement was false or acted with reckless disregard for whether it was true or not.\nTrump alleged that the letter obtained and released by the Journal, which features his signature at the bottom, was \"fake\" and that the defendants devised the story in order to defame him.\nTrump's legal team had argued that because Trump denied writing the letter when contacted by the Journal, the paper should have \"disregarded everything else they learned in their investigation and not published the story\", Gayles wrote.\n\"But that is not what the actual malice standard requires and runs afoul of the First Amendment,\" Gayles wrote.\nIf that were the law, he wrote, then \"any time a public figure or his team denies an accusation, journalists would be immediately blocked from publishing negative or contradictory press—a result that flies in the face of the 'American privilege to speak one's mind'\".\nAccording to the Wall Street Journal story, a letter bearing Trump's name \"contained several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker\".\nIt reportedly contained a joking reference that \"enigmas never age\" and allegedly ended with the words: \"A pal is a wonderful thing. Happy Birthday - and may every day be another wonderful secret\"."
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/judge-dismisses-trump-lawsuit-against-wsj-over-epstein-cartoon/107333268",
-     "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein cartoon",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/56b310068afd4b0f0d73a23e56026a03?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic"
-     },
-     "id": "f3b985eb7998ab57",
-     "published": "2026-11-01T01:59+00:00",
-     "text": "A federal judge has thrown out US President Donald Trump's $US10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to convicted sex offender Jeffrey Epstein.\nUS District Judge Darrin Gayles dismissed the lawsuit filed in Miami, saying the president was \"grasping at straws\".\nJudge Gayles ruled the president did not prove the defendants made defamatory statements with actual malice as required by law and the suit had attempted to \"manufacture\" flaws in the newspaper's reporting.\nThe lawsuit against the Journal was over a story it published last year describing a sexually suggestive letter and drawing that the paper said bore Mr Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.\nThe letter was reportedly collected by disgraced British socialite Ghislaine Maxwell as part of a birthday album for Epstein years before he was first arrested in 2006 and subsequently had a falling-out with Mr Trump.\nMr Trump denied writing it and called the story \"false, malicious, and defamatory\".\nThe case was thrown out \"with prejudice\", which means it cannot be refiled again and the dismissal is permanent.\nThe Wall Street Journal (WSJ) published a story that said a Dow Jones spokesperson said the company was pleased with the decision.\nA spokesman for Mr Trump's legal team told the WSJ the president would appeal the ruling.\n\"The president will continue to hold those who mislead the American people with fake news and smears accountable for their actions,\" the spokesman said.\nTrump calls out 'malicious' reporting\nThe letter bearing Mr Trump's name includes text framed by the outline of what appears to be a hand-drawn naked woman and ends with, \"Happy Birthday — and may every day be another wonderful secret\", according to the newspaper.\nIn his lawsuit, Mr Trump called the alleged birthday greeting \"fake\" and sought $US10 billion ($14 billion) for what he called damage to his reputation.\nNews Corp's Dow Jones, the Journal's parent, defended the accuracy of its July 17, 2025, article.\nThe lawsuit was one of several Mr Trump has filed in his second term against major media outlets over reporting he has characterised as unfair or false.\nIn asking Judge Gayles to dismiss the case in September, lawyers for the Journal and its billionaire owner Rupert Murdoch wrote that the lawsuit threatened to chill the speech of those who publish content that Mr Trump does not like.\nWasn't the case already dismissed?\nYes.\nDonald Trump's case, originally filed July 18, 2025 against The Wall Street Journal (WSJ), was thrown out by the same judge, Darrin Gayles, in April of this year.\nHe said the article did not meet the \"actual malice\" standard that public figures must clear in defamation.\nThey must prove not only that a public statement about them was false but also that the media outlet or person who made the statement knew or should have known that it was false.\n\"This complaint comes nowhere close to this standard,\" Judge Gayles wrote.\n\"Quite the opposite.\"\nMr Trump was then allowed to refile the lawsuit which he did later that month.\nAccording to the amended lawsuit, Mr Trump called Mr Murdoch on July 15, 2025, after WSJ reporters contacted the White House about the story.\n\"In response, Murdoch stated, 'I will handle it,' which President Trump reasonably interpreted as meaning that Murdoch believed President Trump, and that the article would not be published,\" the lawsuit says.\nRepresent"
-    },
-    {
-     "source": "Washington Post Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWxidk9abngtS1IyYmpxZ1lHM0dGYW9uT0NwazJJZ3dWT0F0aVNkcElHNVplQkhzNWttMDViUFF1bzBGZHNXODFMNXdrQ0pMb1N4NTJzZ2JFU3pvcXp6emJXNEpWN0Y1RldBNFB5aTNtbUZYMFJ4WEsyREFuMl9Wd0dvUFYyWnVPRXdCeENScEZzbEFjemtIeFdrdTUwWDhVeTBHdHUzYmpRTEg0NW5OZFA5TnhSZkpYQzNrdElB?oc=5",
-     "title": "Judge tosses Trump’s lawsuit over Wall Street Journal’s Epstein article",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "87fedf76b8214f4c",
-     "published": "2026-11-01T03:34+00:00",
-     "text": "Judge tosses Trump’s lawsuit over Wall Street Journal’s Epstein article\nThe Washington Post"
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
-     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-     "lang": "en",
-     "extra": {},
-     "id": "c6374034fd181c47",
-     "published": "2026-11-01T08:20+00:00",
-     "text": "Saying the president was \"grasping at straws,\" a federal judge on Saturday threw out Donald Trump's $10 billion lawsuit against The Wall Street Journal and media mogul Rupert Murdoch over a story reporting on his ties to Jeffrey Epstein.\n(Image credit: Jacquelyn Martin)"
-    },
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc2hjYzJWOGV2akttWDhLZ2VIZVdxc0ZfTlktbFQ0b3NocVphb09paVU5SkFtT2ZEOVJmQ1ZMS2JYRUdWVzFpN01KbG0zWUVadzViTUJUSWtYZjVKclFiM21xczdlMVh3TzJEWUs2N1E3NEs2RWZQMGFBYTA3X0hxSjdsOEpZS3FLbk1WZnJaallYV1duaHlUWnZYQ29SNF9qZDRPLTYySlJnMGEwVWg4UTNB?oc=5",
-     "title": "US judge dismisses Trump lawsuit against Wall Street Journal over Epstein letter - International - World",
-     "lang": "en",
-     "extra": {},
-     "id": "194c5a47a4a2c5f2",
-     "published": "2026-11-01T09:14+00:00",
-     "text": "US judge dismisses Trump lawsuit against Wall Street Journal over Epstein letter - International - World\nAhram Online"
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/americas/us-judge-permanently-dismisses-trump-s-defamation-lawsuit-against-wall-street-journal/4107894",
-     "title": "US judge permanently dismisses Trump’s defamation lawsuit against Wall Street Journal",
-     "lang": "en",
-     "extra": {},
-     "id": "efd2157682651e0f",
-     "published": "2026-11-01T09:53+00:00",
-     "text": "Federal judge rules president failed to establish ‘actual malice’ in newspaper’s reporting on alleged letter to Jeffrey Epstein, media reports"
-    }
-   ]
-  },
-  {
    "id": "ca1c01ba106",
    "kind": "news",
    "score": 21.0,
@@ -1524,185 +1535,6 @@
      "id": "afbbbd438930a007",
      "published": "2026-11-01T23:29+00:00",
      "text": "- UN warns of security risks in Western Sahara as peacekeeping mission ends Al Jazeera\n- UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says Reuters\n- UN's peacekeeping mission in disputed Western Sahara ends after 35 years NPR\n- Why is Morocco celebrating the defeat of a UN resolution on Western Sahara? Al Jazeera\n- Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council AP News"
-    }
-   ]
-  },
-  {
-   "id": "cf6e255e38d",
-   "kind": "news",
-   "score": 19.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
-     "title": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
-     "lang": "en",
-     "extra": {},
-     "id": "f6e255e38d2b85c0",
-     "published": "2026-10-31T20:56+00:00",
-     "text": ""
-    },
-    {
-     "source": "NYT Technology",
-     "trust": 2,
-     "url": "https://nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-     "title": "How Binance’s $6.3 Billion Hack Went Down",
-     "lang": "en",
-     "extra": {},
-     "id": "0f24b9066b4e8103",
-     "published": "2026-10-31T22:19+00:00",
-     "text": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange."
-    },
-    {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-     "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg"
-     },
-     "id": "1078f846b2095338",
-     "published": "2026-11-01T16:01+00:00",
-     "text": "In brief\n- U.S. spot Bitcoin ETFs shed $643.2 million on Friday, their biggest outflow of October, in the first session after Thursday’s $6.4 billion Binance hack.\n- Ethereum ETFs extended a five-day outflow streak to about $431 million, and Solana ETFs lost about $72 million over the week.\n- Bitcoin fell about 4% Friday before steadying near $77,520 Saturday, while Myriad traders turned bearish on Ethereum and Solana.\nThe first real test of how ETF investors would react to the largest crypto hack in history came back red.\nU.S. spot Bitcoin ETFs shed $643.2 million on Friday, according to Decrypt’s ETF tracker, their biggest single-day outflow of October. It was the funds’ first full session since attackers began draining roughly $6.4 billion from Binance at 4:05 p.m. ET Thursday, after U.S. markets had closed. Thursday’s $17.2 million in inflows predated the theft.\nThe selling erased a four-day, $441 million inflow run, leaving the funds down about $202 million for the week and roughly $516 million for October. Cumulative net inflows since launch slipped to $57.4 billion, with total net assets at $103.2 billion.\nEthereum and Solana ETFs fared worse relative to their size. Ethereum funds lost $155.7 million on Friday, extending a five-day outflow streak to about $431 million and pushing October losses to roughly $1.61 billion. Solana ETFs shed $10.8 million, their fifth straight day of outflows, totaling about $72 million for the week. They logged net inflows on just two days all month.\nSpot crypto ETFs hold the underlying asset, such as Bitcoin or Ethereum, and trade on stock exchanges like ordinary shares, giving investors exposure through a regular brokerage account.\nBitcoin funds have drawn $57.4 billion in net inflows since debuting in January 2024, and Ethereum funds have taken in $12.2 billion since launching that July. Because issuers report flows daily and much of the money comes from institutions and financial advisers, the figures have become a closely watched gauge of investor sentiment.\nCrypto markets initially appeared to take the Binance hack largely in stride, considering the scale of the theft. Bitcoin fell about 4% to roughly $76,400 on Friday, and more than $1.3 billion in leveraged positions were liquidated. It’s a sharp drop, but a far smaller one than the nearly 11% plunge after a failed attack on Binance in 2018.\nBinance has pledged to cover all losses with company funds and an emergency reserve, while Tether and Circle froze more than $2.3 billion in stolen stablecoins. Some Wall Street firms even urged clients to buy crypto-linked stocks on the potential weakness in markets.\nBy Saturday, Bitcoin had steadied at about $77,520, up 0.5% over 24 hours but down 3.3% on the week. Ethereum traded near $2,251, down 3.9% for the week, and Solana near $96, down 4.5%. Total crypto market cap held at about $2.7 trillion.\nMacro headwinds remain in play. The Federal Reserve held rates at 3.75% to 4% on Wednesday, but two officials voted for a hike, and traders had priced odds above 70% for an increase in December.\nTraders on Myriad, a prediction market developed by Decrypt’s parent company Dastan, have turned bearish on Ethereum and Solana. They now give Ethereum a 51.3% chance of falling to $1,500 before reaching $3,000, flipping a market that favored the upside at 61.3% a week ago. Solana’s odds of sinking to $40 before hitting $160 rose to 53.7%."
-    },
-    {
-     "source": "Guardian Tech",
-     "trust": 2,
-     "url": "https://theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions",
-     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.guim.co.uk/img/media/1cc5d516bf0f48d67707a1c8812e46fedebccb84/960_0_4742_3794/master/4742.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1a0fd60d38676d45153f0d508f96b4c"
-     },
-     "id": "d330bf6486d2efdb",
-     "published": "2026-11-01T18:53+00:00",
-     "text": "Investors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen from customer accounts.\nThe platform was hit by a $6.3bn theft on Thursday, which has since been described as the biggest heist in history. Experts identified North Korea as the probable culprit.\nBinance initially froze withdrawals as it investigated the breach but on Sunday announced it had begun a phased reopening.\nBy Sunday afternoon, the platform had processed $4.6bn in withdrawals and $1bn in deposits, resulting in a net outflow of about $3.6bn – representing 2.1% of its $171bn in total assets under management.\nThe numbers were confirmed by the company in its latest proof of reserves snapshot. A full report is expected on Monday.\nBinance said: “After an initial spike, withdrawal volumes have declined and are stabilising as expected, while deposit volumes have remained substantial.”\nThe crypto exchange told its customers that market conditions were stable and that its team was “testing rigorously the remaining networks and assets”.\n“We know how important safe and reliable access to your funds is and will share details of the next phase as soon as we can,” it said on X.\nIn the first phase Binance restored withdrawals for 15 networks and assets, including ethereum, USDT and USDC tokens on the ethereum blockchain, as well as some others held on the BNB Smart Chain blockchain. Later on Sunday, dealing in the Dogecoin and Avalanche currencies resumed on their own platforms.\nThe platform said it had replenished 90% of the amount stolen. The remaining 10% of tokens were less liquid, meaning they may take longer to buy, the company said in a post on X on Saturday.\nRichard Teng, Binance’s co-chief executive, said separately that the company was “committed to covering the remaining 10%” and users would not bear the financial impact of the hack.\nOn Saturday the FBI confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked the North Korean leader Kim Jong-un.\n“The Federal Bureau of Investigation is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6bn in virtual assets from cryptocurrency exchange Binance, on or about October 29,” the law enforcement agency said.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into ethereum, and expected those assets to be laundered further by converting them using decentralised finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors” were “using to launder these stolen assets”.\nTeng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nBinance said it had set aside about $6.34bn of company funds to cover the losses. “Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said.\nThe money spent rebuying tokens came from using part of its $1bn secure asset fund for u"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSnprMkpxQl9VWV83VFNZZU5JOGdPVk9NYldCQW5vZzdNQ2ZEMmJoTk5DWjlic1VDZ0JVdmhlUGR6bXJieEpMbVJ1UnRXdUduX0l6c3BRT1h4OEJXZDhHeERvY016VzAtRmJZZW5OeWJvUzZSc0VQLUtkbnZkbmxxNUFmeUVsY2ljSUE?oc=5",
-     "title": "How Binance’s $6.3 Billion Hack Went Down - The New York Times",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "1eac712db1dab6d3",
-     "published": "2026-10-31T22:19+00:00",
-     "text": "- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stolen billions from Binance in biggest hack in history ABC News - Breaking News, Latest News and Videos\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post\n- A Very Bad 24 Hours for Crypto The Atlantic\n- FBI says North Korea behind $6 billion crypto theft from Binance Yahoo"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaENiZkNSRGNUNkQ5SWhKRTE1dkhMVUVCM3dSVWY4X2EzWFl2WkN1SnhKb3g0S0pCOW1YNWU4Und2MDdPenZRdUJoTWpaNzUzRGZkNWRCeWlOU0xITHQ4WTlLR2Z6dGhCMlZzSDl3YWFWYURqX0RBWEtWVlNWMXhuMnllWk13ckMxTEFwMkVWY1J1dmR5V1otVGVTUnVjLVlCT2dwaE1ILWktVXJia1pSbEtiNE1FM0JFenp0SW5na1M?oc=5",
-     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "22e0397f734ec8a6",
-     "published": "2026-11-01T18:08+00:00",
-     "text": "- Investors pull billions in funds from Binance after record $6.3bn hack The Guardian\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last CNN\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
-    }
-   ]
-  },
-  {
-   "id": "c021b9f5547",
-   "kind": "news",
-   "score": 19.0,
-   "sensitive": true,
-   "distinct_sites": 7,
-   "title_hint": "Judge dismisses with prejudice Trump lawsuit against Wall Street Journal",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/trump-lawsuit-wall-street-journal-epstein-birthday-letter-dismissed",
-     "title": "Judge dismisses with prejudice Trump lawsuit against Wall Street Journal",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/31/78c81397-ef85-4623-ba9f-44a01355ca0d/thumbnail/1200x630/586db8bb34ef2ec7591086b018d905c6/gettyimages-2302269863.jpg"
-     },
-     "id": "021b9f5547a31d58",
-     "published": "2026-10-31T20:59+00:00",
-     "text": "A multimillion-dollar defamation lawsuit by President Trump against The Wall Street Journal over a story reporting his ties to a birthday book for Jeffrey Epstein has been thrown out.\nIn a 20-page ruling, U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice on Saturday, ruling that Mr. Trump did not prove the defendants made defamatory statements with actual malice.\nHe said the lawsuit was \"grasping at straws\" as it attempted to \"manufacture\" flaws in the WSJ's investigative reporting.\nActual malice requires that plaintiffs prove that statements made about a public figure were published with the knowledge that they were false, or with disregard for whether they are true or not.\nWhen a case is thrown out \"with prejudice,\" it cannot be refiled again, and the dismissal is permanent and incontrovertible.\n\"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants,\" a spokesperson for Mr. Trump's legal team told CBS News in a statement. \"The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions.\"\nA source familiar with Mr. Trump's legal strategy said that the decision will likely be appealed.\nThe lawsuit was over a story the WSJ published last year describing a sexually suggestive letter that the paper said bore Mr. Trump's name and was included in a 2003 album compiled for Epstein's 50th birthday.\nThe president dismissed the story as \"FAKE\" and\nagainst the paper, its parent company News Corp, the company's CEO, the reporters who wrote the story and Rupert Murdoch, News Corp's chairman emeritus.House lawmakers later subpoenaed and said: \"It's very clear President Trump did not draw this picture, and he did not sign it.\"\na redacted version of the birthday book from Epstein's estate, which at the center of Mr. Trump's lawsuit. Then-White House press secretary Karoline LeavittIn April, Gayles\n, saying the president's legal team failed to clear the legal bar needed to establish their claim. He ruled that the president came \"nowhere close\" to showing the paper acted with \"actual malice\" toward him, the standard for bringing a defamation suit as a public figure.Mr. Trump's legal team refiled the lawsuit."
-    },
-    {
-     "source": "Sky News World",
-     "trust": 2,
-     "url": "https://news.sky.com/story/judge-dismisses-trumps-wall-street-journal-lawsuit-13606496",
-     "title": "Judge dismisses Trump's Wall Street Journal lawsuit",
-     "lang": "en",
-     "extra": {},
-     "id": "3429a973bb78c06f",
-     "published": "2026-10-31T21:17+00:00",
-     "text": "A US judge has dismissed President Donald Trump's lawsuit against The Wall Street Journal over a story about a birthday card he allegedly sent Jeffrey Epstein."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/politics/judge-dismisses-trump-suit-against-wall-street-journal-over-epstein-birthday-letter",
-     "title": "Judge dismisses Trump suit against Wall Street Journal over Epstein birthday letter",
-     "lang": "en",
-     "extra": {},
-     "id": "ac3da7fa79157764",
-     "published": "2026-10-31T21:32+00:00",
-     "text": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that the president did not prove the defendants made defamatory statements with actual malice as required by law."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case?traffic_source=rss",
-     "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
-     "lang": "en",
-     "extra": {},
-     "id": "faeac0cce375b384",
-     "published": "2026-10-31T22:36+00:00",
-     "text": "Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting."
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/stock-market-news/us-judge-dismisses-trumps-lawsuit-against-wall-street-journal-with-prejudice-4989324",
-     "title": "Judge ends Trump’s attempts to sue Wall Street Journal over Epstein reporting",
-     "lang": "en",
-     "extra": {},
-     "id": "cded5e70f6fdf8c8",
-     "published": "2026-10-31T23:00+00:00",
-     "text": ""
-    },
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/biz/news/judge-dismisses-trump-wsj-defamation-lawsuit-epstein-1236936423",
-     "title": "Judge Dismisses Trump’s Wall Street Journal Defamation Lawsuit Over Published Epstein ‘Birthday Book’ for a Second Time",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/10/GettyImages-2280583841.jpg?w=1000&h=563&crop=1"
-     },
-     "id": "0254b054c7e4646d",
-     "published": "2026-10-31T23:23+00:00",
-     "text": "A federal judge has once again dismissed President Donald Trump’s defamation claims against the Wall Street Journal over a 2025 report by the paper that a 2003 birthday letter to convicted sex offender Jeffrey Epstein was purportedly written by Trump.\nTrump’s lawsuit “falls short of pleading actual malice,” wrote U.S. District Judge Darrin P. Gayles in his opinion on Saturday. “Indeed, the allegations regarding malice are conclusory, vague, sometimes inconsistent with the Article, and often irrelevant to whether Defendants knew or should have known that the statements in the Article were purportedly false.” Judge Gayles dismissed the lawsuit with prejudice, meaning Trump cannot refile the claim.\nIn April, Judge Gayles ruled that the lawsuit “fails to adequately allege actual malice,” a legal standard in the U.S. for proving defamation. At the time, the court dismissed the complaint “without prejudice,” since he had only made one attempt to state his claims.\nTrump sought at least $20 billion in damages on two counts of defamation in the initial suit, filed in July 2025. He sued the WSJ, its parent companies Dow Jones & Co. and News Corp, the reporters on the story and Rupert Murdoch.\n“We have just filed a POWERHOUSE Lawsuit against everyone involved in publishing the false, malicious, defamatory, FAKE NEWS ‘article’ in the useless ‘rag’ that is, The Wall Street Journal,” Trump wrote at the time on Truth Social. “I hope Rupert and his ‘friends’ are looking forward to the many hours of depositions and testimonies they will have to provide in this case.”"
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/us-judge-dismisses-trump-lawsuit-against-wall-steet-journal-over-epstein-letter",
-     "title": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/c4adb64fe041071d878167fe1d846565d403150f97ca8e5f1fd959d887e45702?w=1200"
-     },
-     "id": "885718a3596fc006",
-     "published": "2026-10-31T23:31+00:00",
-     "text": "US judge dismisses Trump lawsuit against Wall Steet Journal over Epstein letter\nAI generated\nWASHINGTON – A US judge on Oct 31 dismissed President Donald Trump’s defamation lawsuit against The Wall Street Journal and media magnate Rupert Murdoch over a report that Trump sent a bawdy birthday letter to notorious sex offender Jeffrey Epstein.\nTrump had sued for US$10 billion (S$12.8 billion) after the newspaper’s story was published in July 2025 detailing the President’s alleged 2003 letter to Epstein, which apparently featured a drawing of a naked woman.\nMurdoch is the founder of News Corp, which owns The Wall Street Journal.\nThe report piled scrutiny on Trump from both Democrats and his own Republican Party, who rejected the President’s attempts to downplay the saga as a hoax and called for a full release of legal files on Epstein.\nIn the ruling on Oct 31, Judge Darrin Gayles dismissed Trump’s lawsuit with prejudice, meaning Trump cannot file an amended version of the suit, as he did when Gayles turned down an initial version of it back in April.\nThe judge wrote that in bringing his defamation claim, Trump had both times failed to establish that the defendants “acted with actual malice”.\nThe House Oversight Committee in 2025 published a copy of Trump’s alleged birthday note to Epstein, which consists of a short dialogue between “Donald” and “Jeffrey”.\n“We have certain things in common,” says Donald, to which Jeffrey responds: “Yes, we do, come to think of it.”\n“Enigmas never age, have you noticed that?” asks Donald.\n“As a matter of fact, it was clear to me the last time I saw you,” says Jeffrey.\n“A pal is a wonderful thing. Happy Birthday – and may every day be another wonderful secret,” the note ends, followed by Trump’s signature, which takes the place of pubic hair on the nude outline.\nEpstein files\nTrump’s supporters have been obsessed with the Epstein case for years and held as an article of faith that “deep state” elites were protecting a sex ring of Epstein associates, particularly in the Democratic Party and Hollywood.\nThe President fought for months to prevent the Department of Justice from releasing the so-called “Epstein Files”, but eventually signed a law passed by Congress requiring their publication.\nTrump’s name appears repeatedly in the documents, but he denies any wrongdoing and has not been charged with any criminal offences connected to the affair.\nHigh-profile figures including Britain’s former prince Andrew have been publicly disgraced for their associations with Epstein.\nAhead of the Nov 3 US midterm elections which will decide control of Congress, Democrats have reportedly spent more than US$35 million on Epstein-related advertisements.\nWith a Republican majority in the House and Senate, Trump has so far enjoyed relatively little political opposition since taking office in January 2025, giving the courts a key role in limiting him.\nIn a separate case on Oct 31, a new suit was filed to prevent Trump’s attempt to erect a huge triumphal arch in front of the iconic military cemetery outside Washington.\nThat is one of a number of projects launched by Trump in a bid to put his personal stamp on the capital, including a ballroom at the White House and a laborious renovation of the Reflecting Pool on the National Mall.\nOn Oct 30, a US federal judge pushed back on government assertions that the planned arch – which Trump has said would house drones and snipers – was needed for national security.\n“It’s something (the) regio"
     }
    ]
   },
@@ -2566,6 +2398,87 @@
    ]
   },
   {
+   "id": "c3713202808",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "‘Klara and the Sun’ Director Taika Waititi Calls Critics “Sad Lost Souls” Over Negative Reviews",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Hollywood Reporter",
+     "trust": 2,
+     "url": "https://hollywoodreporter.com/movies/movie-news/klara-and-the-sun-taika-waititi-slams-critics-reviews-1236744227",
+     "title": "‘Klara and the Sun’ Director Taika Waititi Calls Critics “Sad Lost Souls” Over Negative Reviews",
+     "lang": "en",
+     "extra": {},
+     "id": "3713202808be821b",
+     "published": "2026-10-31T22:41+00:00",
+     "text": "Set in a dystopian future, the film stars Jenna Ortega and Amy Adams."
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/10/taika-waititi-calls-klara-and-the-sun-critics-irrelevant-1237210687",
+     "title": "Taika Waititi Calls ‘Klara and the Sun’ Critics “Irrelevant, Out Of Touch, Obsolete”",
+     "lang": "en",
+     "extra": {},
+     "id": "6fb9ae24fc08bb30",
+     "published": "2026-10-31T23:28+00:00",
+     "text": "As Taika Waititi’s latest directorial effort gets its time in the sun, he has some choice words for critics attempting to rain on his parade. On Saturday, the Oscar winner boasted about Klara and the Sun‘s 78% Rotten Tomatoes audience score (now at 73%), while slamming the “sad lost souls” who gave the movie a […]"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/taika-waititi-blasts-critics-as-irrelevant-out-of-touch-obsolete-following-klara-and-the-suns-negative-reviews",
+     "title": "Taika Waititi Blasts Critics as 'Irrelevant, Out of Touch, Obsolete' Following Klara and the Sun's Negative Reviews",
+     "lang": "en",
+     "extra": {},
+     "id": "89a7749bf9e6027e",
+     "published": "2026-11-01T17:50+00:00",
+     "text": "Marvel filmmaker Taika Waititi has called critics \"sad lost souls who couldn't achieve their dreams\" after his latest film, Klara and the Sun, premiered with negative reviews.\nThe director behind projects like Jojo Rabbit and Thor: Love and Thunder unleashed his true feelings in a post on Instagram. Tied to an image shared by ScreenRant earlier this week that reflects audience reception to the live-action book adaptation, Waititi posted an emoji-filled message taking aim at the reviewers who walked away from his new movie unimpressed.\n\"I haven't read a review of anything aimed at me or my peers in almost 15 years,\" he said, along with a series of emojis. \"But I do listen to the people.\"\nKlara and the Sun's critical reception has struggled in the wake of its October 23, 2026, release date. While Rotten Tomatoes has recorded mostly positive reactions from viewers at 74% favorability, its Tomatometer has sunk to a 'rotten' 26%. Its IMDb Metascore is similarly dire at a negative 30 out of 100 after 27 reviews. IGN did not review the movie.\nWaititi said he's strayed from reading reviews for years, but that didn't stop him from pointing his 2.8 million Instagram followers to those who didn't enjoy the story his Klara and the Sun was trying to tell.\n\"So, this Halloween, let's spare a thought for those sad lost souls who couldn't achieve their dreams of becoming artists, and thus settled, and became critics. The same people who also hated Jojo Rabbit,\" he added with a laughing-crying-face and shrug emoji.\nJojo Rabbit is Waititi's 2019 project and his first since turning heads with Thor: Ragnarok in 2017. The writer, director, actor, and producer suggested critics weren't fond of the World War II-era dark comedy, though what negative reaction he's referring to here isn't quite clear.\nJojo Rabbit boasts an impressive 81% critical rating on Rotten Tomatoes. Although its IMDb score isn't quite as high at a middling 58, some of the reviews listed there are extremely positive, including an A- from Entertainment Weekly and an 85 from The Wrap. IGN gave the film an 8.5/10.\n\"Klara and the Sun introduces audiences to Klara (Jenna Ortega), an Artificial Friend who wants nothing more than to find the perfect home,\" an official description for the film from Sony Pictures said. \"When Klara meets Josie (Mia Tharia), each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother (Amy Adams) and they’ve suffered great loss, but Klara’s innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie’s complicated world.\"\nWhile Waititi has had much to say about how critics have responded to Klara and the Sun, the films seems to have struggled to grab the attention of the average moviegoer, even if those who have seen it generally had a decent experience. According to Box Office Mojo, the movie adaptation of Kazuo Ishiguro's novel of the same name has only managed to pull in a dismal 1.7 million worldwide after two weekends in theaters.\nKlara and the Sun was also expected to debut in around 2,000 theaters last week before Sony seemingly rolled back that plan with an 800-theater debut, per Collider. Deadline reported that the company chose to stop reporting box office earnings for the film this weekend, too, with its budget reportedly set somewhere around $20 million - $40 million.\nWaititi signed off his Instagram post, saying, \"Irrelevant. Out of touch. Obsolete. In the bin.\" He added a trash can em"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/arts-entertainment/films/news/taika-waititi-klara-and-the-sun-critics-failed-artists-reviews-b3077271.html",
+     "title": "Taika Waititi dismisses Klara and the Sun critics as ‘failed artists’ after scathing reviews",
+     "lang": "en",
+     "extra": {},
+     "id": "6fc628f24a419ff3",
+     "published": "2026-11-02T06:04+00:00",
+     "text": "The film has been described by critics as a ‘downgrade’ from the Kazuo Ishiguro novel it is adapted from"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzhCSFZPN3V4aS1NMzYxWUZDYVBIV09vQmo1WjZLVTNrcm5WVVZPSnZIZXVQYVV1MVN3UGtuVTN1b3VaQnR1WWdjSnN6YVRUd3NHdVRQZnBwRjQ1aFdRbnlGX1VZTGdoVjlsekRSaDc2cElzcmVDTDdfTERlVUlzRXZZSVZVMjhrS0JRV0NoTVZwMklldE9hRnR4WlMxUQ?oc=5",
+     "title": "Taika Waititi Calls ‘Klara And The Sun’ Critics “Irrelevant, Out Of Touch, Obsolete”",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "b3415db8403c6893",
+     "published": "2026-10-31T23:28+00:00",
+     "text": "- Taika Waititi Calls ‘Klara And The Sun’ Critics “Irrelevant, Out Of Touch, Obsolete” Deadline\n- Taika Waititi Adapted a Strange and Beautiful Novel. The Result Is Shaping Up to Be a Legendary Bomb. Slate\n- Jenna Ortega’s New Dystopian Sci-Fi Movie Cancels International Release After Box Office Flop MovieWeb\n- Spain Scraps \"Klara and the Sun\" Release Dark Horizons\n- Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’ Variety"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTNaSnZ3aGE0Q2JyY051MmtJWG1Xc3prbEQ1eHRaSk5WZnVVbU9nd2N2ZjhKUGVNanp3aU9PUVlTLVdfaHgzZjd6SS1ubWdNdnItcFRqRnlrLVJIb2tRVjZsTWJaUHNaamhPN1RKUGhQWFZfN18xcGZicXh2Z0VCVXh6REE2cWoyczhLZW51UFFKcUFR?oc=5",
+     "title": "Taika Waititi is Soooo Not Mad About ‘Klara and the Sun,’ Y’all",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "90a40b2cf8350720",
+     "published": "2026-11-01T15:30+00:00",
+     "text": "- Taika Waititi is Soooo Not Mad About ‘Klara and the Sun,’ Y’all Gizmodo\n- Taika Waititi Adapted a Strange and Beautiful Novel. The Result Is Shaping Up to Be a Legendary Bomb. Slate\n- Jenna Ortega’s New Dystopian Sci-Fi Movie Cancels International Release After Box Office Flop MovieWeb\n- How ‘Klara and the Sun’ Got Blotted Out at the Box Office Deadline\n- Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’ Variety"
+    }
+   ]
+  },
+  {
    "id": "c26799aefe9",
    "kind": "news",
    "score": 17.0,
@@ -3102,6 +3015,41 @@
    ]
   },
   {
+   "id": "c796ecddce4",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "South Korea to pour billions into AI",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
+     "title": "South Korea to pour billions into AI",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79825218_6.jpg"
+     },
+     "id": "796ecddce47f80ed",
+     "published": "2026-11-02T05:01+00:00",
+     "text": "South Korea will aim to invest nearly $16 billion on artificial intelligence and semiconductors, Lee Jae Myung said in his annual budget address to parliament.\n\"We will invest 21.3 trillion won (€14.3 billion, $15.97 billion), nearly twice this year's amount, in AI and the three megaprojects of semiconductors, physical AI and AI data centres,\" Lee said on Monday.\nHe added that 4.7 trillion won will be invested to bolster \"frontier AI development projects, with the aim of achieving world-leading performance for our own AI model, a national strategic asset.\"\nSouth Korea unveils record budget proposal for 2027\nThe Lee administration has unveiled a record budget proposal for next year, featuring a 12.8% increase in government spending to 820.9 trillion won (€551.5 billion, $615.62 billion).\nThe proposal needs parliamentary approval, and Lee's party, the Democratic Party of Korea (DPK), currently holds the majority.\nSouth Korea is Asia's fourth-largest economy and home to two of the world's biggest memory chip makers — Samsung Electronics and SK Hynix.\nThe AI boom has sent demand for memory chips soaring.\nSouth Korea recorded faster-than-expected economic growth in the third quarter, driven by chip exports and investment.\nExports totalled $930 billion from January to October and are on track to surpass $1 trillion this year, making South Korea the fourth country to achieve the milestone after the United States, China and Germany."
+    },
+    {
+     "source": "Nikkei Asia",
+     "trust": 2,
+     "url": "https://asia.nikkei.com/business/telecommunication/eu-steps-up-subsea-cable-buildout-to-japan-and-south-korea",
+     "title": "EU steps up subsea cable buildout to Japan and South Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "c7e7ee6c8a3195cd",
+     "published": "2026-11-02T09:17+00:00",
+     "text": ""
+    }
+   ]
+  },
+  {
    "id": "c36dd9be99f",
    "kind": "news",
    "score": 16.5,
@@ -3553,74 +3501,6 @@
    ]
   },
   {
-   "id": "cbb11ab35d0",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/film/news/taika-waititi-defends-klara-and-the-sun-1236936368",
-     "title": "Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’",
-     "lang": "en",
-     "extra": {},
-     "id": "bb11ab35d07f99f6",
-     "published": "2026-10-31T21:15+00:00",
-     "text": "Taika Waititi has taken to social media to defend “Klara and the Sun,” his latest directorial effort, amid poor reviews and bleak box office numbers, sharing an Instagram post featuring the film’s poster and its Rotten Tomatoes audience score of 78%. (In contrast, the critic score is 28% — the “Jojo Rabbit” director’s lowest yet). […]"
-    },
-    {
-     "source": "Hollywood Reporter",
-     "trust": 2,
-     "url": "https://hollywoodreporter.com/movies/movie-news/klara-and-the-sun-taika-waititi-slams-critics-reviews-1236744227",
-     "title": "‘Klara and the Sun’ Director Taika Waititi Calls Critics “Sad Lost Souls” Over Negative Reviews",
-     "lang": "en",
-     "extra": {},
-     "id": "3713202808be821b",
-     "published": "2026-10-31T22:41+00:00",
-     "text": "Set in a dystopian future, the film stars Jenna Ortega and Amy Adams."
-    },
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/10/taika-waititi-calls-klara-and-the-sun-critics-irrelevant-1237210687",
-     "title": "Taika Waititi Calls ‘Klara and the Sun’ Critics “Irrelevant, Out Of Touch, Obsolete”",
-     "lang": "en",
-     "extra": {},
-     "id": "6fb9ae24fc08bb30",
-     "published": "2026-10-31T23:28+00:00",
-     "text": "As Taika Waititi’s latest directorial effort gets its time in the sun, he has some choice words for critics attempting to rain on his parade. On Saturday, the Oscar winner boasted about Klara and the Sun‘s 78% Rotten Tomatoes audience score (now at 73%), while slamming the “sad lost souls” who gave the movie a […]"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/taika-waititi-blasts-critics-as-irrelevant-out-of-touch-obsolete-following-klara-and-the-suns-negative-reviews",
-     "title": "Taika Waititi Blasts Critics as 'Irrelevant, Out of Touch, Obsolete' Following Klara and the Sun's Negative Reviews",
-     "lang": "en",
-     "extra": {},
-     "id": "89a7749bf9e6027e",
-     "published": "2026-11-01T17:50+00:00",
-     "text": "Marvel filmmaker Taika Waititi has called critics \"sad lost souls who couldn't achieve their dreams\" after his latest film, Klara and the Sun, premiered with negative reviews.\nThe director behind projects like Jojo Rabbit and Thor: Love and Thunder unleashed his true feelings in a post on Instagram. Tied to an image shared by ScreenRant earlier this week that reflects audience reception to the live-action book adaptation, Waititi posted an emoji-filled message taking aim at the reviewers who walked away from his new movie unimpressed.\n\"I haven't read a review of anything aimed at me or my peers in almost 15 years,\" he said, along with a series of emojis. \"But I do listen to the people.\"\nKlara and the Sun's critical reception has struggled in the wake of its October 23, 2026, release date. While Rotten Tomatoes has recorded mostly positive reactions from viewers at 74% favorability, its Tomatometer has sunk to a 'rotten' 26%. Its IMDb Metascore is similarly dire at a negative 30 out of 100 after 27 reviews. IGN did not review the movie.\nWaititi said he's strayed from reading reviews for years, but that didn't stop him from pointing his 2.8 million Instagram followers to those who didn't enjoy the story his Klara and the Sun was trying to tell.\n\"So, this Halloween, let's spare a thought for those sad lost souls who couldn't achieve their dreams of becoming artists, and thus settled, and became critics. The same people who also hated Jojo Rabbit,\" he added with a laughing-crying-face and shrug emoji.\nJojo Rabbit is Waititi's 2019 project and his first since turning heads with Thor: Ragnarok in 2017. The writer, director, actor, and producer suggested critics weren't fond of the World War II-era dark comedy, though what negative reaction he's referring to here isn't quite clear.\nJojo Rabbit boasts an impressive 81% critical rating on Rotten Tomatoes. Although its IMDb score isn't quite as high at a middling 58, some of the reviews listed there are extremely positive, including an A- from Entertainment Weekly and an 85 from The Wrap. IGN gave the film an 8.5/10.\n\"Klara and the Sun introduces audiences to Klara (Jenna Ortega), an Artificial Friend who wants nothing more than to find the perfect home,\" an official description for the film from Sony Pictures said. \"When Klara meets Josie (Mia Tharia), each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother (Amy Adams) and they’ve suffered great loss, but Klara’s innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie’s complicated world.\"\nWhile Waititi has had much to say about how critics have responded to Klara and the Sun, the films seems to have struggled to grab the attention of the average moviegoer, even if those who have seen it generally had a decent experience. According to Box Office Mojo, the movie adaptation of Kazuo Ishiguro's novel of the same name has only managed to pull in a dismal 1.7 million worldwide after two weekends in theaters.\nKlara and the Sun was also expected to debut in around 2,000 theaters last week before Sony seemingly rolled back that plan with an 800-theater debut, per Collider. Deadline reported that the company chose to stop reporting box office earnings for the film this weekend, too, with its budget reportedly set somewhere around $20 million - $40 million.\nWaititi signed off his Instagram post, saying, \"Irrelevant. Out of touch. Obsolete. In the bin.\" He added a trash can em"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzhCSFZPN3V4aS1NMzYxWUZDYVBIV09vQmo1WjZLVTNrcm5WVVZPSnZIZXVQYVV1MVN3UGtuVTN1b3VaQnR1WWdjSnN6YVRUd3NHdVRQZnBwRjQ1aFdRbnlGX1VZTGdoVjlsekRSaDc2cElzcmVDTDdfTERlVUlzRXZZSVZVMjhrS0JRV0NoTVZwMklldE9hRnR4WlMxUQ?oc=5",
-     "title": "Taika Waititi Calls ‘Klara And The Sun’ Critics “Irrelevant, Out Of Touch, Obsolete”",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "b3415db8403c6893",
-     "published": "2026-10-31T23:28+00:00",
-     "text": "- Taika Waititi Calls ‘Klara And The Sun’ Critics “Irrelevant, Out Of Touch, Obsolete” Deadline\n- Taika Waititi Adapted a Strange and Beautiful Novel. The Result Is Shaping Up to Be a Legendary Bomb. Slate\n- Jenna Ortega’s New Dystopian Sci-Fi Movie Cancels International Release After Box Office Flop MovieWeb\n- Spain Scraps \"Klara and the Sun\" Release Dark Horizons\n- Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’ Variety"
-    }
-   ]
-  },
-  {
    "id": "ca99c268c18",
    "kind": "news",
    "score": 15.0,
@@ -4016,6 +3896,63 @@
    ]
   },
   {
+   "id": "c3b6bb0c062",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
+     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
+     "lang": "en",
+     "extra": {},
+     "id": "3b6bb0c06269b687",
+     "published": "2026-11-01T07:33+00:00",
+     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVB4SGN0azE1enBQUEpTNWZVQlpBamVDQ2N5ZmdDRDk1dVNrUGI0OVBFRjZCZDFQZ2Q5U1RMUFdpeXFEb29fV1llQ0F4bkhNbV90OVlPbHh0N0MwY3ZzNzVmTFB4cGFJbE5TVm9WZTlnQWdMUVdMQnk4VlJXNm02eXUzcURNWDhpTERZeW1QclZubU10RFh6MFhpVjhRaENO?oc=5",
+     "title": "Business - Tech",
+     "lang": "en",
+     "extra": {},
+     "id": "13ba1829bd10fa9f",
+     "published": "2026-11-01T07:48+00:00",
+     "text": "Business - Tech\nAhram Online"
+    },
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+     "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+     "lang": "en",
+     "extra": {},
+     "id": "ca1bd2182eea5b2b",
+     "published": "2026-11-02T09:04+00:00",
+     "text": ""
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "5c29874acc90c064",
+     "published": "2026-11-01T09:28+00:00",
+     "text": "- Crypto firm Binance covers 90% of losses after $6.3bn hack BBC\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ"
+    }
+   ]
+  },
+  {
    "id": "c35b6705ae2",
    "kind": "news",
    "score": 15.0,
@@ -4086,6 +4023,56 @@
      "id": "d06198a035b3f30d",
      "published": "2026-11-01T17:17+00:00",
      "text": "- Juan Atkins, Techno Music Pioneer, Dead at 64 Rolling Stone\n- Juan Atkins, techno pioneer and Belleville Three member, dies aged 64 · News ⟋ RA Resident Advisor\n- Juan Atkins, co-creator of the techno music genre, has died NBC News\n- Juan Atkins, Detroit techno music trailblazer, dies at 64 Detroit Free Press\n- Legendary DJ, techno music pioneer dies at 64: ‘A true visionary’ Syracuse.com"
+    }
+   ]
+  },
+  {
+   "id": "c1078f846b2",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Decrypt",
+     "trust": 2,
+     "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+     "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg"
+     },
+     "id": "1078f846b2095338",
+     "published": "2026-11-01T16:01+00:00",
+     "text": "In brief\n- U.S. spot Bitcoin ETFs shed $643.2 million on Friday, their biggest outflow of October, in the first session after Thursday’s $6.4 billion Binance hack.\n- Ethereum ETFs extended a five-day outflow streak to about $431 million, and Solana ETFs lost about $72 million over the week.\n- Bitcoin fell about 4% Friday before steadying near $77,520 Saturday, while Myriad traders turned bearish on Ethereum and Solana.\nThe first real test of how ETF investors would react to the largest crypto hack in history came back red.\nU.S. spot Bitcoin ETFs shed $643.2 million on Friday, according to Decrypt’s ETF tracker, their biggest single-day outflow of October. It was the funds’ first full session since attackers began draining roughly $6.4 billion from Binance at 4:05 p.m. ET Thursday, after U.S. markets had closed. Thursday’s $17.2 million in inflows predated the theft.\nThe selling erased a four-day, $441 million inflow run, leaving the funds down about $202 million for the week and roughly $516 million for October. Cumulative net inflows since launch slipped to $57.4 billion, with total net assets at $103.2 billion.\nEthereum and Solana ETFs fared worse relative to their size. Ethereum funds lost $155.7 million on Friday, extending a five-day outflow streak to about $431 million and pushing October losses to roughly $1.61 billion. Solana ETFs shed $10.8 million, their fifth straight day of outflows, totaling about $72 million for the week. They logged net inflows on just two days all month.\nSpot crypto ETFs hold the underlying asset, such as Bitcoin or Ethereum, and trade on stock exchanges like ordinary shares, giving investors exposure through a regular brokerage account.\nBitcoin funds have drawn $57.4 billion in net inflows since debuting in January 2024, and Ethereum funds have taken in $12.2 billion since launching that July. Because issuers report flows daily and much of the money comes from institutions and financial advisers, the figures have become a closely watched gauge of investor sentiment.\nCrypto markets initially appeared to take the Binance hack largely in stride, considering the scale of the theft. Bitcoin fell about 4% to roughly $76,400 on Friday, and more than $1.3 billion in leveraged positions were liquidated. It’s a sharp drop, but a far smaller one than the nearly 11% plunge after a failed attack on Binance in 2018.\nBinance has pledged to cover all losses with company funds and an emergency reserve, while Tether and Circle froze more than $2.3 billion in stolen stablecoins. Some Wall Street firms even urged clients to buy crypto-linked stocks on the potential weakness in markets.\nBy Saturday, Bitcoin had steadied at about $77,520, up 0.5% over 24 hours but down 3.3% on the week. Ethereum traded near $2,251, down 3.9% for the week, and Solana near $96, down 4.5%. Total crypto market cap held at about $2.7 trillion.\nMacro headwinds remain in play. The Federal Reserve held rates at 3.75% to 4% on Wednesday, but two officials voted for a hike, and traders had priced odds above 70% for an increase in December.\nTraders on Myriad, a prediction market developed by Decrypt’s parent company Dastan, have turned bearish on Ethereum and Solana. They now give Ethereum a 51.3% chance of falling to $1,500 before reaching $3,000, flipping a market that favored the upside at 61.3% a week ago. Solana’s odds of sinking to $40 before hitting $160 rose to 53.7%."
+    },
+    {
+     "source": "Guardian Tech",
+     "trust": 2,
+     "url": "https://theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions",
+     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://i.guim.co.uk/img/media/1cc5d516bf0f48d67707a1c8812e46fedebccb84/960_0_4742_3794/master/4742.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b1a0fd60d38676d45153f0d508f96b4c"
+     },
+     "id": "d330bf6486d2efdb",
+     "published": "2026-11-01T18:53+00:00",
+     "text": "Investors have pulled $3.6bn (£2.7bn) in funds from the cryptocurrency exchange Binance as it recovers from a record hack in which billions were stolen from customer accounts.\nThe platform was hit by a $6.3bn theft on Thursday, which has since been described as the biggest heist in history. Experts identified North Korea as the probable culprit.\nBinance initially froze withdrawals as it investigated the breach but on Sunday announced it had begun a phased reopening.\nBy Sunday afternoon, the platform had processed $4.6bn in withdrawals and $1bn in deposits, resulting in a net outflow of about $3.6bn – representing 2.1% of its $171bn in total assets under management.\nThe numbers were confirmed by the company in its latest proof of reserves snapshot. A full report is expected on Monday.\nBinance said: “After an initial spike, withdrawal volumes have declined and are stabilising as expected, while deposit volumes have remained substantial.”\nThe crypto exchange told its customers that market conditions were stable and that its team was “testing rigorously the remaining networks and assets”.\n“We know how important safe and reliable access to your funds is and will share details of the next phase as soon as we can,” it said on X.\nIn the first phase Binance restored withdrawals for 15 networks and assets, including ethereum, USDT and USDC tokens on the ethereum blockchain, as well as some others held on the BNB Smart Chain blockchain. Later on Sunday, dealing in the Dogecoin and Avalanche currencies resumed on their own platforms.\nThe platform said it had replenished 90% of the amount stolen. The remaining 10% of tokens were less liquid, meaning they may take longer to buy, the company said in a post on X on Saturday.\nRichard Teng, Binance’s co-chief executive, said separately that the company was “committed to covering the remaining 10%” and users would not bear the financial impact of the hack.\nOn Saturday the FBI confirmed earlier suspicions from private investigators and analysts that a North Korea-affiliated group called TraderTraitor was behind the hack.\nTraderTraitor is believed to be part of the Lazarus Group, which gained notoriety in 2014 when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked the North Korean leader Kim Jong-un.\n“The Federal Bureau of Investigation is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6bn in virtual assets from cryptocurrency exchange Binance, on or about October 29,” the law enforcement agency said.\nThe FBI added that it had observed “TraderTraitor actors” converting stolen assets into ethereum, and expected those assets to be laundered further by converting them using decentralised finance and instant swap services.\nIt said it was urging private sector entities “to block transactions with or derived from addresses TraderTraitor actors” were “using to launder these stolen assets”.\nTeng said on Friday that the breach was a “complex attack” involving a compromised laptop and malicious software designed to delete evidence of its activity, making it harder to trace and investigate.\nBinance said it had set aside about $6.34bn of company funds to cover the losses. “Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,” the company said.\nThe money spent rebuying tokens came from using part of its $1bn secure asset fund for u"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaENiZkNSRGNUNkQ5SWhKRTE1dkhMVUVCM3dSVWY4X2EzWFl2WkN1SnhKb3g0S0pCOW1YNWU4Und2MDdPenZRdUJoTWpaNzUzRGZkNWRCeWlOU0xITHQ4WTlLR2Z6dGhCMlZzSDl3YWFWYURqX0RBWEtWVlNWMXhuMnllWk13ckMxTEFwMkVWY1J1dmR5V1otVGVTUnVjLVlCT2dwaE1ILWktVXJia1pSbEtiNE1FM0JFenp0SW5na1M?oc=5",
+     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "22e0397f734ec8a6",
+     "published": "2026-11-01T18:08+00:00",
+     "text": "- Investors pull billions in funds from Binance after record $6.3bn hack The Guardian\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last CNN\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
     }
    ]
   },
@@ -4329,30 +4316,6 @@
      "id": "cc8bcb85347d5c0e",
      "published": "2026-11-02T05:00+00:00",
      "text": "arXiv:2610.40886v1 Announce Type: new\nAbstract: We show that the problem of synthesizing a quantum circuit for a given Clifford operator using at most a specified amount of resources is NP-complete for several resource models of practical interest.\nSpecifically, we study synthesis of a given Clifford operator using single-qubit Clifford gates and two-qubit Clifford gates, with full qubit connectivity and no additional ancilla qubits. With single-qubit gates free and CNOT as the only two-qubit gate, we show that deciding whether a given target admits an implementation using at most a specified number of CNOT gates is NP-complete, and we show that the problem remains NP-complete when any two-qubit Clifford gate is allowed and the budget counts all such gates. Moreover, we show that both results continue to hold when SWAP gates may be inserted for free, and when single-qubit gates are also considered part of the budget.\nIn each case, we build on recent work by Li and Guan and show that there are polynomial-time reductions from Hamiltonian path in grid graphs to these decision problems, using a number of qubits quadratic in the number of grid vertices."
-    }
-   ]
-  },
-  {
-   "id": "c796ecddce4",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "South Korea to pour billions into AI",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
-     "title": "South Korea to pour billions into AI",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79825218_6.jpg"
-     },
-     "id": "796ecddce47f80ed",
-     "published": "2026-11-02T05:01+00:00",
-     "text": "South Korea will aim to invest nearly $16 billion on artificial intelligence and semiconductors, Lee Jae Myung said in his annual budget address to parliament.\n\"We will invest 21.3 trillion won (€14.3 billion, $15.97 billion), nearly twice this year's amount, in AI and the three megaprojects of semiconductors, physical AI and AI data centres,\" Lee said on Monday.\nHe added that 4.7 trillion won will be invested to bolster \"frontier AI development projects, with the aim of achieving world-leading performance for our own AI model, a national strategic asset.\"\nSouth Korea unveils record budget proposal for 2027\nThe Lee administration has unveiled a record budget proposal for next year, featuring a 12.8% increase in government spending to 820.9 trillion won (€551.5 billion, $615.62 billion).\nThe proposal needs parliamentary approval, and Lee's party, the Democratic Party of Korea (DPK), currently holds the majority.\nSouth Korea is Asia's fourth-largest economy and home to two of the world's biggest memory chip makers — Samsung Electronics and SK Hynix.\nThe AI boom has sent demand for memory chips soaring.\nSouth Korea recorded faster-than-expected economic growth in the third quarter, driven by chip exports and investment.\nExports totalled $930 billion from January to October and are on track to surpass $1 trillion this year, making South Korea the fourth country to achieve the milestone after the United States, China and Germany."
     }
    ]
   },
@@ -5797,6 +5760,17 @@
     {
      "source": "The Independent",
      "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSXdfNnoydG9FU0VIRDdTdUppUEpka19peU9NMTlnbG5ka0FpVG9xR0RBeWxybldlTGEtbTJCd19UYlFwYjFSVWRnck1NVHhqa2tEdFc4U1ZjRE1CSVZVcG15bk1zZ25wWUx6N2FFWkQxZUxmT2JCYVRMd3NOYzFIVTNieTNOWERoYjBhRXh4eVhLcy1yNEd6djU4aDhpRkxDWXQ4?oc=5",
+     "title": "How Ferrari missed out on Italy’s F1 world champion Kimi Antonelli",
+     "lang": "en",
+     "extra": {},
+     "id": "6fcbcf31c8c7775a",
+     "published": "2026-11-02T07:59+00:00",
+     "text": "How Ferrari missed out on Italy’s F1 world champion Kimi Antonelli\nThe Independent"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
      "url": "https://independent.co.uk/f1/kimi-antonelli-ferrari-f1-2026-world-champion-mercedes-b3077311.html",
      "title": "How Ferrari missed out on Italy’s F1 world champion Kimi Antonelli",
      "lang": "en",
@@ -5804,6 +5778,52 @@
      "id": "6142f795d5eb59a5",
      "published": "2026-11-02T07:59+00:00",
      "text": "As Antonelli, 20, becomes the youngest champion in the 76-year history of Formula 1 – and Italy’s first winner since Alberto Ascari in 1963 – Kieran Jackson reveals just how Italy’s team, Ferrari, contrived to miss out on one of their own to Mercedes"
+    }
+   ]
+  },
+  {
+   "id": "ce829b0d6b8",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Antonelli heads list of F1's youngest champions",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/formula1/articles/cjy56wkdk3nko?at_medium=RSS&at_campaign=rss",
+     "title": "Antonelli heads list of F1's youngest champions",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/18c8/live/7dea6970-d00e-11f1-b441-2b33b063138f.png"
+     },
+     "id": "e829b0d6b8ce19a7",
+     "published": "2026-11-01T22:28+00:00",
+     "text": "- Published\nKimi Antonelli has made history by becoming the youngest title winner in the 77th year of the Formula 1 World Championship.\nThe Italian, at 20 years and 68 days, has beaten the record of Sebastian Vettel, who was 23 years and 133 days old when he won the first of his four drivers' championships in 2010.\nAntonelli, who was still a teenager until 25 August, has secured the title in his second season in the sport.\nWe take a look at F1's other young champions and how Antonelli's achievement compares with theirs.\nKimi Antonelli\nFirst championship: 2026\nAge: 20 years and 68 days\nStage of his F1 career when title was won: Second full season\nF1 debut: 2025 Australian Grand Prix (aged 18)\nAntonelli has already broken a number of records on the way to becoming F1's youngest champion.\nIn his second season, he became the youngest driver to achieve a pole position in China and the youngest to lead the championship at the next race in Japan.\nIn Monaco, he became the youngest driver to complete a 'grand slam' of pole position, fastest lap, leading every lap and winning the race.\nAll this after a rookie season in 2025 in which there were occasional highs but plenty of errors, and his final total of 150 points was less than half of the 319 accumulated by Mercedes team-mate George Russell.\nSebastian Vettel\nFirst championship: 2010\nAge: 23 years and 133 days\nStage of his F1 career when title was won: Third full season\nF1 debut: 2007 US Grand Prix (aged 19)\nVettel was one of four drivers who could win the title going into the season-ending 2010 Abu Dhabi Grand Prix.\nHe was far from the best placed, though, trailing Ferrari's Fernando Alonso by 15 points before the race and his Red Bull team-mate Mark Webber by seven.\nThe German did what he had to do by winning the grand prix and Alonso could only finish seventh, having become stuck behind the Renault of Vitaly Petrov.\nWith Webber in eighth, Vettel won the championship by four points from Alonso.\nIt was yet another F1 record for Vettel. He had become the youngest F1 points scorer on his debut for BMW Sauber in Indianapolis in 2007, before becoming the then youngest pole sitter and race winner at the 2008 Italian Grand Prix for Toro Rosso.\nLewis Hamilton\nFirst championship: 2008\nAge: 23 years and 300 days\nStage of his F1 career when title was won: Second full season\nF1 debut: 2007 Australian Grand Prix (aged 22)\nLewis Hamilton's debut season in 2007 almost delivered a fairytale title but he faltered in the final two races of the year.\nHe failed to score in China and finished seventh in Brazil, which allowed Ferrari's Kimi Raikkonen to pip both Hamilton and fellow McLaren driver Fernando Alonso by a single point.\nSomehow the climax to the 2008 championship, also in Brazil, was even more dramatic.\nHamilton was battling for the title with Ferrari's home favourite Felipe Massa and the Briton's fourth place was going to be enough to secure the crown when a late rain shower changed everything.\nLeader Massa and Hamilton were among those who changed to intermediate tyres but Toyota's Timo Glock stayed out, which lifted him up to fourth.\nHamilton, now in fifth, had Toro Rosso's Vettel right behind him and couldn't afford to lose another position. With just over two laps to go, he ran wide and Vettel was through.\nMassa crossed the line to win the race with Hamilton still sixth. The Ferrari pit crew, Massa's family and the Brazilian fans celebrated but with the rain intensifying, Glock was slowing on his dr"
+    },
+    {
+     "source": "The Telegraph Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVXBETTd3c256RHNSVWZiQVlncWF6b2l5YkpMRGJLek5LN1BYQk5mN2w4QUNOenRPUl9jQVZQY1RfUlJPa3NiWkZiYUkxQ1VWUkdtTmh4MkQwelAwdFFtSGJlTFZqTnpOWlZlUUlEWEl1ZUFBTnFIUWRYdXJJa2daYkdmUHhBMHp1WTRaMDVpdnhSZkM5ME15NlFvYUlrSEN5X1NhX3E4dmlTQWs?oc=5",
+     "title": "Where Kimi Antonelli ranks among F1’s 10 youngest world champions",
+     "lang": "en",
+     "extra": {},
+     "id": "e48caf770fa1b087",
+     "published": "2026-11-01T22:34+00:00",
+     "text": "Where Kimi Antonelli ranks among F1’s 10 youngest world champions\nThe Telegraph"
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/sports/profile-kimi-antonelli-formula-1-s-youngest-world-champion/4108497",
+     "title": "PROFILE – Kimi Antonelli: Formula 1’s youngest world champion",
+     "lang": "en",
+     "extra": {},
+     "id": "8506db869c4e339b",
+     "published": "2026-11-02T08:56+00:00",
+     "text": "20-year-old Italian wins title in only his second Formula One season after replacing seven-time champion Lewis Hamilton at Mercedes"
     }
    ]
   },
@@ -5994,6 +6014,39 @@
    ]
   },
   {
+   "id": "ce0cadb9c12",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Steve Jobs avait dit non, Apple l’a fait : voici son nouveau MacBook  Pro tactile (vidéo)",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Frandroid",
+     "trust": 2,
+     "url": "https://frandroid.com/marques/apple/3306311_steve-jobs-avait-dit-non-apple-la-fait-voici-son-nouveau-macbook-pro-tactile-video",
+     "title": "Steve Jobs avait dit non, Apple l’a fait : voici son nouveau MacBook  Pro tactile (vidéo)",
+     "lang": "en",
+     "extra": {},
+     "id": "0fdc851435835989",
+     "published": "2026-11-02T08:51+00:00",
+     "text": "Pour ne rater aucun bon plan, rejoignez notre nouveau channel WhatsApp Frandroid Bons Plans, garanti sans spam !\nPour nous soutenir gratuitement, dites simplement à Google d’ajouter Frandroid à vos sources préférées en cliquant ici."
+    },
+    {
+     "source": "Reddit technology",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xkmob8/apple_launches_touchscreen_macbook_users_say",
+     "title": "Apple Launches Touchscreen MacBook, Users Say 'Steve Jobs Wouldn’t Approve'",
+     "lang": "en",
+     "extra": {},
+     "id": "e0cadb9c122167af",
+     "published": "2026-10-31T22:04+00:00",
+     "text": "submitted by\n/u/Hi_all_hwru\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
    "id": "ca5b7e71797",
    "kind": "news",
    "score": 13.0,
@@ -6106,6 +6159,91 @@
      "id": "4d97b234b340a565",
      "published": "2026-11-02T02:34+00:00",
      "text": "Mohammed Ibrahim al-Shami, detained since June 2024, is second UN employee to die in Houthi custody"
+    }
+   ]
+  },
+  {
+   "id": "cc044daa7bb",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Patrick Stewart's Perfect 'Simpsons' Episode Reveals the Beloved Actor's Secret Weapon",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYUXhoeXRpOXFlcnpOMm1kOU1jcTAweWxfVk13VlNEdFpOUWRneWkxMnJHYnpPOWVFV1RvMWtOZUMwZlBnUnhuMWxza3NLVk1aYzFZWFA4Z1ZhQU1BRDhzc2w1U3I5V0VpUGdiVHVyRHctQQ?oc=5",
+     "title": "Patrick Stewart's Perfect 'Simpsons' Episode Reveals the Beloved Actor's Secret Weapon",
+     "lang": "en",
+     "extra": {},
+     "id": "c044daa7bb819bce",
+     "published": "2026-11-01T03:00+00:00",
+     "text": "Patrick Stewart's Perfect 'Simpsons' Episode Reveals the Beloved Actor's Secret Weapon\nPolygon.com"
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/patrick-stewart-the-simpsons-guest-star",
+     "title": "Patrick Stewart's Perfect 'Simpsons' Episode Reveals the Beloved Actor's Secret Weapon",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/msdsttr_pa117.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "f3db027b4e48f18c",
+     "published": "2026-11-01T03:00+00:00",
+     "text": "Yesterday, news broke that Sir Patrick Stewart died at age 86. With his background performing Shakespeare and his incredible sense of dignity and gravitas, Stewart is being celebrated primarily for his work as Captain Jean-Luc Picard on Star Trek: The Next Generation, as well as being the perfect man to portray Professor Charles Xavier in the X-Men films. But while he was beloved for the dramatic weight he brought to his roles, it's worth acknowledging that the man pulled off some incredibly memorable comedic performances, one of the first was on The Simpsons, where he guest-starred in the season 6 episode, “Homer the Great.”\nWritten by Simpsons legend Jon Swartzwelder, “Homer the Great” is about Homer (Dan Castellaneta) joining a Freemason-like secret society called the Stonecutters. The episode begins with Homer finding out about the organization and begging to be a member. He’s finally able to join when he finds out his father is already a part of the group. Eventually, because of a birthmark Homer has which resembles the Stonecutters logo, he is elevated to the head of the organization, but prior to that, the Springfield chapter of the Stonecutters is led by the mysterious “Number One,” voiced by Patrick Stewart.\nNumber One is the highly dignified leader of the Stonecutters, who runs their meetings and oversees the initiation of new members, but he’s also one of the guys. After Homer is initiated into the organization with a series of humiliating rituals, Number One exclaims, “Now let’s all get drunk and play ping pong!”\nThat was just one of several silly lines given to Stewart. Another memorable one came during Homer’s initiation, when he says, “And now, the final ordeal, the Paddling of the Swollen Ass — with paddles.” Stewart, being the professional he is, delivered those lines with the same dramatic weight he would apply to Shakespeare, which is why the Simpsons writers on the old DVD commentary for “Homer the Great” praised Stewart so deeply.\n“Patrick Stewart, one of my all-time favorite guest stars on this show,” said Dave Mirkin, who was the showrunner at the time and came up with the premise for this episode. “It’s probably one of our best guest performances, if not the best guest performance because he’s so committed to this character and these jokes and he was just making me roar the entire time. He was so into it. He was so excited to do this. He was having such a great time. He played a very serious character on the Star Trek series and he just so enjoyed this and I just so enjoyed working with him.”\nA little later in the commentary, after the ass-paddling line was delivered, Mirkin further explained why Stewart was so good. “We gave him all these undignified things to say and yet he filled them with dignity and such commitment. He did it so deadly serious. That’s what I mean by commitment, there was no sign that anything is a joke. He did everything really really real.”\nThe impressive thing about the performance is that this appearance was one of the first pieces of comedy Stewart ever did. While he hosted Saturday Night Live the year before, The Simpsons was only his second comedic role. After The Simpsons, however, he seemed to enjoy the occasional foray into comedy, making memorable appearances on Frasier, Family Guy, and American Dad. He also played the narrator on the two Ted films. Perhaps his best comedic performance, however, came on the Ricky Gervais series Extras, where he played a deeply perverted version of "
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/10/snl-pays-tribute-patrick-stewart-1237210812",
+     "title": "‘SNL’ Pays Tribute To Patrick Stewart With Clip From His 1994 Episode",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-10.00.23-PM.png?w=1024"
+     },
+     "id": "b757f9c037ea48bd",
+     "published": "2026-11-01T05:11+00:00",
+     "text": "As the world mourns Patrick Stewart, Saturday Night Live paid tribute to the late former host on this weekend’s episode.\nBefore the goodnights, the NBC sketch comedy show played an archive clip of the 3x Oscar nominee introducing musical guest Salt-N-Pepa during their 1994 episode, in addition to sharing one of his promo photos from his appearance.\nStewart’s rep announced that the X-Men and Star Trek: The Next Generation actor died at age 86 on Wednesday at his Los Angeles home, with wife Sunny Ozell by his side.\n“We announce with great sorrow the passing of Sir Patrick Stewart yesterday at his home in Los Angeles, in the loving care of his beloved wife Sunny, following a brief and poignant journey with Alzheimer’s Disease and Lewy Body Dementia,” the statement reads.\nWatch on Deadline\n“He has been held in the warm embrace of family and friends, surrounded by live music, prayer, tears, laughter, and the kind of profound emotion that only he could inspire after a lifetime of devotion to us all,” they added. “We will forever cherish the peaceful ease and reflection on his face, an enduring reminder of his invincible grace.”\nIn addition to marking Navarrette’s first time hosting Saturday Night Live, this weekend’s episode also served as Gracie Abrams’ second time as musical guest after her 2024 debut."
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PMG81bGt2cFl2NHNpcmo5OHJzYktRaVJMNkVaR3RRekVJWm82SmZyeTRFd2VGUE5uREFQZ25oaUdhb3dmYi1RdWlmcjBjeWNFQTU1TUxkWkpqTHg0N3V5QUJFN2pET0NUVzRFV2NfcHNvUFU5ZTZpS1FxMkwtdw?oc=5",
+     "title": "‘SNL’ Pays Tribute To Patrick Stewart With Clip From His 1994 Episode - Deadline",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "2d50669408ecfda7",
+     "published": "2026-11-01T05:11+00:00",
+     "text": "- ‘SNL’ Pays Tribute To Patrick Stewart With Clip From His 1994 Episode Deadline\n- What Patrick Stewart’s ‘brief’ dementia journey reveals about lifespans after diagnosis The Washington Post\n- Dafne Keen and Harriet Walter on working with Patrick Stewart: ‘I’ve never seen anyone so ecstatic’ The Guardian\n- ‘Star Trek’ Actor Wil Wheaton Tells Stephen Miller to Keep Patrick Stewart’s Name Out of His ‘Nazi Mouth’ Yahoo\n- How Patrick Stewart Brought Shakespeare to ‘Star Trek’ Fans The New York Times"
+    },
+    {
+     "source": "Reddit films, TV, games & football",
+     "trust": 1,
+     "url": "https://reddit.com/r/television/comments/1xkurt8/snl_pays_tribute_to_patrick_stewart_with_clip",
+     "title": "‘SNL’ Pays Tribute To Patrick Stewart With Clip From His 1994 Episode",
+     "lang": "en",
+     "extra": {},
+     "id": "c55ae3a322fda6e3",
+     "published": "2026-11-01T05:12+00:00",
+     "text": "submitted by\n/u/Turbostrider27\nto\nr/television\n[link]\n[comments]"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFFuek9HMDlyMHdsbG12UG80NXFORXlBWmZzQ0w3RzEyWXVWZ0xqSVZRUklSX2hOTWUxSFp3bUt0bExCamROM2hsNmJSbXZtQmViX3BrWHNocnQyTFNvRlRGNGJKX0xQVmY5Y3cwOVFvVy1WSmxVc1BnSGJab0lFRUxabFZJOVRMOHQ2V2ZiUmhJQm92QTVUNDhsME5oVWU1TEVZTDU2em1pYWpoYU44OHlrOEJkOVRzZFB4VVFUUHg?oc=5",
+     "title": "‘SNL’ honors Patrick Stewart with emotional tribute days after his death at 86",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "5be50580f27c052e",
+     "published": "2026-11-01T22:48+00:00",
+     "text": "- ‘SNL’ honors Patrick Stewart with emotional tribute days after his death at 86 Page Six\n- Patrick Stewart taught us what good men do with power Vox\n- What Patrick Stewart’s ‘brief’ dementia journey reveals about lifespans after diagnosis The Washington Post\n- ‘SNL’ Pays Tribute To Patrick Stewart With Clip From His 1994 Episode Deadline\n- Patrick Stewart Was Regal, Stately and Quite Hilarious The New York Times"
     }
    ]
   },
@@ -6280,135 +6418,81 @@
    ]
   },
   {
-   "id": "ce7538b083e",
+   "id": "c19922d0c67",
    "kind": "news",
    "score": 13.0,
    "sensitive": false,
    "distinct_sites": 2,
-   "title_hint": "Inde Navarrette mocks Shane Gillis gym joke in SNL monologue",
+   "title_hint": "Ditch monthly AI bills — compare answers from ChatGPT, Claude, and more for $30",
    "official_image": null,
    "sources": [
     {
      "source": "Mashable",
      "trust": 2,
-     "url": "https://mashable.com/entertainment/snl-inde-navarrette-shane-gillis-monologue-gym-joke-1",
-     "title": "Inde Navarrette mocks Shane Gillis gym joke in SNL monologue",
+     "url": "https://mashable.com/tech/nov-1-askanymodel-ai-pro-plan-lifetime-subscription",
+     "title": "Ditch monthly AI bills — compare answers from ChatGPT, Claude, and more for $30",
      "lang": "en",
      "extra": {},
-     "id": "a6f98606b4f8046f",
-     "published": "2026-11-01T20:49+00:00",
-     "text": "Inde Navarrette has been hitting the gym for Marvel. She also had a little something to say to Shane Gillis in her opening monologue.\nThe Obsession star made her Saturday Night Live hosting debut on Halloween, slipping a jab at the show's previous host into an otherwise straightforward update about playing Rogue in the upcoming X-Men movie.\n\"I know it’s really important for Marvel that you get really fit, so I’ve been working out a lot,\" she said. \"So every morning I put on my little whore outfit and I hit the gym.\"\nThe audience caught the reference, breaking into laughter and applause. Three weeks earlier, Gillis had stood on the same stage and complained that women \"dress like whores now\" at the gym, following it with a bit about revealing shorts and being told not to stare.\nThe comments prompted criticism from Dan Levy and former SNL cast members Cecily Strong and Ego Nwodim, who posted a gym selfie on Instagram Stories captioned \"Whore reporting for duty.\"\nNavarrette also had a less reassuring update about her love life. Addressing fans who wondered whether she resembled Nikki, her character in Obsession, Navarrette insisted that the similarities ended onscreen.\n\"My boyfriend is here tonight to support me and we have such a chill relationship, right?\" she said.\nThe camera cut to her boyfriend, Nick Aiello, bound and gagged in his audience seat.\nThe monologue ended with cast members showing off their Halloween costumes, including Marcello Hernandez as a sexy TSA agent and Kam Patterson as Elizabeth Holmes. Jeremy Culhane turned up as Wolverine, hoping Navarrette could get him into her Marvel movie. Apparently, he'd come prepared for an audition.\nWant more of the best of late night? Sign up for Mashable's Top Stories newsletter."
+     "id": "19922d0c6797db10",
+     "published": "2026-11-01T08:00+00:00",
+     "text": "TL;DR: Stop all your AI subscriptions with this lifetime subscription to AskAnyModel AI Pro Plan for $29.97 (reg. $499), code SAVE10, until Nov. 1.\nWhen you’re making an important decision, you probably don’t just ask for one person’s opinion. So why do you settle for one answer when you’re working with AI? Give yourself extra peace of mind with help from AskAnyModel AI. This helpful tool lets you compare answers from more than 50 AI models, all in one convenient window.\nRight now, you can score a lifetime subscription to AskAnyModel AI Pro Plan for just $29.97 with code SAVE10 until Nov. 1.\nAI is great for saving you time, but it kind of defeats the purpose when you have to tab-hop to get a second opinion. AskAnyModel AI Pro serves up answers from dozens of models in one spot, so you can stop second-guessing and rest easy knowing you picked the best results for your query.\nGone are the days of memorizing each individual AI model’s unique strengths — AskAnyModel AI streamlines your workflow by showing you answers from six AI models of your choice in one spot. Compare them and pick the best response for your request — whether it be help with coding, generating images, or just answering a basic question.\nWith the AskAnyModel AI Pro Plan, you have unlimited access to non-flagship AI models. You’ll also have 500 premium monthly credits that grant you access to 20 advanced models, like OpenAI, Anthropic, Mistral, and Perplexity, when you need a more powerful model for your query. You can also swap between different models mid-conversation if needed.\nYou can use AskAnyModel AI on any device; you just need access to a web browser.\nLock in this lifetime subscription to AskAnyModel AI Pro Plan for $29.97 with code SAVE10 through Nov. 1.\nStackSocial prices subject to change."
     },
     {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmpNZW5jbWxUQW5HUlNWMldNZWNhb19rNzVMTWhaa0JGcmdaQnZ4RVU0T1k4Q19UQWZWc1dtSUtZZGRmbTVsaDctc2RVX2dheEt6MkJUN0hzRkpkdTVQR25ZNGpjNVZfaWYyaFNmYndjRkYwN01VTDZmM0E0cDZJaFdCQTJGSnF6WWRjaW9Wd1ZsMW5MeWtFLVllNks3R3hYSWF0V09mOHlRTWdyS0pPLThFQmFEdW5KdmRhNmVvb3FzUQ?oc=5",
-     "title": "'SNL' host Inde Navarrette claps back at Shane Gillis in monologue",
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/ChatGPT-vs-Gemini-vs-Claude-What-AI-subscriptions-cost-now.1439605.0.html",
+     "title": "ChatGPT vs Gemini vs Claude: What AI subscriptions cost now",
      "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "e7538b083e03036c",
-     "published": "2026-11-01T06:38+00:00",
-     "text": "- 'SNL' host Inde Navarrette claps back at Shane Gillis in monologue USA Today\n- 'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife' Variety\n- Inde Navarrette Makes Shane Gillis Quip In 'SNL' Opening Monologue Deadline\n- Saturday Night Live: Obsession breakout Inde Navarrette fronts a scary good Halloween episode The Guardian\n- 'SNL' reveals host, musical guest ahead of Halloween show. Guess who? USA Today"
+     "extra": {},
+     "id": "48e43f7d5ebe2b41",
+     "published": "2026-11-02T09:10+00:00",
+     "text": "OpenAI, Google and Anthropic reworked their plans in October. We compared the US pricing for ChatGPT, Gemini, Claude and Microsoft Copilot. Entry plans start at $4.99 for Google AI Plus, standard plans cost about $20, and the top tiers start at around $100. We also look at what the free tiers still offer."
     }
    ]
   },
   {
-   "id": "ca60704bfe7",
+   "id": "c945f3b22cb",
    "kind": "news",
    "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Trump says US could discuss $6B Binance hack with North Korea",
    "official_image": null,
    "sources": [
     {
-     "source": "Reuters Tech",
+     "source": "Anadolu",
      "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeXRrWGZCWmZwTWdSSnFYMmVQTDc1eVhwLVdCaHREN0xiRmdyUk91bldUN2NzVnRDZlJLUTFCdEZ4bWRQOFBQWFlFTnNyVVQ2ci12eVEtUnNLREFqSE84OEFTeVJhNzlLUGZuRGhnMGZ5Y1k0X3dNYU5fWmR2ajM1REw3dVF3eGx6WXg4ZHBjdERtX3R1MllSVjFncjZtLXg5dHNMbmNFdTRpTHBra0NuRHVmdUpfaTdWYTVZQ0FZYW4?oc=5",
-     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "a60704bfe7ce95b2",
-     "published": "2026-11-01T11:35+00:00",
-     "text": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility\nReuters"
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/europe/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility",
-     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+     "url": "https://aa.com.tr/en/americas/trump-says-us-could-discuss-6b-binance-hack-with-north-korea/4107804",
+     "title": "Trump says US could discuss $6B Binance hack with North Korea",
      "lang": "en",
      "extra": {},
-     "id": "a5b747a8f13973d1",
-     "published": "2026-11-01T11:36+00:00",
-     "text": "Nov 1 - Russian strikes left hundreds of thousands of Ukrainians without power on Sunday, President Volodymyr Zelenskiy said, while Russian authorities reported major damage to an industrial site following Ukrainian drone attacks on Nizhny Novgorod region."
+     "id": "945f3b22cbdcd650",
+     "published": "2026-11-01T08:14+00:00",
+     "text": "FBI attributes $6.3B cryptocurrency theft to North Korean hackers, but US president says Washington is still examining responsibility"
     },
     {
-     "source": "DW English",
+     "source": "The Next Web",
      "trust": 2,
-     "url": "https://dw.com/en/ukraine-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
-     "title": "Ukraine: Russian attacks leave tens of thousands without power",
+     "url": "https://thenextweb.com/news/binance-hack-north-korea-fbi-tradertraitor",
+     "title": "FBI says North Korea stole more than $6bn in the Binance hack",
      "lang": "en",
      "extra": {
-      "page_image": "https://static.dw.com/image/79822757_6.jpg"
+      "page_image": "https://media.thenextweb.com/2026/10/binance-logo-yellow-diamond-pattern.jpg"
      },
-     "id": "2dc7dbffc3b9d3e2",
-     "published": "2026-11-01T14:13+00:00",
-     "text": "What you need to know\n-\nRussian strikes leave tens of thousands across Ukraine without power\n-\nMelania Trump-brokered ceasefire limited to Kherson region set to expire\n-\nOleshky civilians arrive in Ukrainian territory from Belarus\n-\nUkrainian President Volodymyr Zelenskyy in Istanbul for talks with Turkey's Recep Tayyip Erdogan\nHere is a roundup of events from Russia's war in Ukraine on Saturday and Sunday, October 31 and November 1:\nMelania Trump-brokered ceasefire for Kherson set to expire\nA ceasefire limited to the Kherson region in eastern Ukraine that was brokered by US First Lady Melania Trump was set to expire on Sunday evening, after neither Russia nor Ukraine announced an extension.\nThe rare truce, which began on Tuesday, is the longest since Russia launched its full-scale invasion of Ukraine in February 2022.\nThe ceasefire allowed for a humanitarian mission to the Russian-occupied city of Oleshky.\nWhile neither side reported violations of the ceasefire, Russian strikes continued overnight, with fresh power outages reported across Ukraine on Sunday, its energy ministry and president Volodymyr Zelenskyy said.\nUkrainian strikes on the Russian-occupied region of Luhansk killed at least four people since Sunday evening, Russian-backed local authorities said.\nRussian strikes leave vast numbers of Ukrainian homes without power\nHundreds of thousands of households lost electricity after overnight Russian strikes hit energy infrastructure in four Ukrainian regions, President Volodymyr Zelenskyy has said.\nIn a post on X, the Ukrainian president said energy infrastructure in four regions — Dnipro, Vinnytsia, Zhytomyr, and Khmelnytskyi — had been struck.\n\"Substations, transformers, and power lines that supply electricity to our people's homes were targeted. Repair crews are working everywhere. As of now, hundreds of thousands of families remain without power,\" Zelenskyy said Sunday.\nHe added that \"massive Russian attacks on Ukraine's other critical infrastructure are also continuing unabated.\"\n\"The intensity of the strikes is very high,\" he said, accusing Russia of seeking to exploit Ukraine's shortage of interceptors used to shoot down ballistic missiles.\nZelenskyy repeated his call to the US, Europe and Ukraine's other partners to do more to deliver missiles and other weaponry to better defend against the Russian attacks.\n\"These deliveries cannot take years. Russia is destroying infrastructure and killing our people right now, and it is betting on ballistic missiles this winter. Accordingly, decisions on air defense must also be implemented now,\" the Ukrainian president said.\nKremlin wants initial Ukraine talks without Europe\nRussia wants the opening rounds of renewed peace negotiations to involve only Moscow, Kyiv and Washington, Kremlin aide Yuri Ushakov said.\nAsked whether European countries should participate, Ushakov pointed to Russia's existing contacts with the United States.\n\"We have working contacts with the Americans,\" Interfax quoted him as saying. It was therefore \"logical\" for at least the first rounds to take place in a trilateral format, he added.\nRussia reports major damage after drone attack near refinery\nA drone attack caused \"significant damage\" to an industrial facility east of Moscow, a Russian governor said, following Ukrainian reports of a strike on a major oil refinery.\nNizhny Novgorod Governor Gleb Nikitin reported a \"massive drone attack\" overnight, saying more than 100 drones were destroyed. Preliminary informa"
+     "id": "d6784a14ad023a41",
+     "published": "2026-11-01T09:54+00:00",
+     "text": "The FBI has blamed the Binance hack on North Korea. On Saturday, the bureau said North Korea stole more than $6bn in virtual assets from Binance, the world’s largest crypto exchange. The theft happened on or about 29 October.\nIn its statement, the FBI named the activity “TraderTraitor”. The FBI is working with the US Secret Service and the tax agency’s criminal investigators (IRS-CI). Together they have seen TraderTraitor actors converting the stolen assets mainly into ether (ETH), the Ethereum network’s token.\n“It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages,” the FBI said in a statement.\nThe three agencies want crypto firms to block transactions linked to the hackers. They named THORNode operators, RPC node operators, instant exchanges, DeFi services and blockchain analytics firms. The FBI listed hundreds of Ethereum addresses, 19 Bitcoin addresses and one Solana address that hold or held the funds.\nThe FBI is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange, Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\nHow You Can Help:\nFBI, USSS, and IRS-CI are urging private sector entities including THORNode operators, RPC node operators, instant exchanges, DeFi services, blockchain analytics firms, and other virtual asset service providers to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.A list of addresses associated with this activity is available here: https://t.co/g0oIWx0WeD\n— FBI Cyber Branch (@FBICyberBranch) October 31, 2026\nThe group the FBI blamed for Bybit\nThe FBI previously blamed TraderTraitor for the theft of about $1.5bn from the Bybit exchange in February 2025. On Thursday, the analytics firms TRM Labs and Chainalysis had already tied the Binance theft to the same group.\nElliptic, another blockchain analytics firm, puts the haul at $6.43bn in its analysis. Binance’s own estimate is about $6.3bn.\n“This single incident almost doubles the total cryptoassets stolen by the regime,” Elliptic wrote.\nElliptic believes actors linked to North Korea have stolen more than $6.5bn in cryptoassets in recent years. That includes more than $1bn it tracked in 2026 before the Binance hack.\nIn September, Bitget blamed suspected North Korean hackers for a $351.6m theft from its hot wallets. This month, the US charged 14 people over a scheme placing North Korean IT workers at over 70 companies. The country’s hackers are also building their own AI tools.\nA day before the FBI statement, President Donald Trump said the US was looking into a North Korean link. Kevin Whitelaw reported his remarks for Bloomberg.\n“I’ve always felt it was a little bit dangerous,” Trump told reporters in the Oval Office.\nNorth Korea has denied involvement in hacks in the past, Osmond Chia and Angus Thompson reported for the BBC.\nWithdrawals restart\nBinance began restor"
     },
     {
-     "source": "DW English",
+     "source": "SecurityWeek",
      "trust": 2,
-     "url": "https://dw.com/en/ukraine-news-oleshky-ceasefire-ends-as-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-rdf",
-     "title": "Ukraine news: Oleshky ceasefire ends as Russian attacks leave tens of thousands without power",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79822757_6.jpg"
-     },
-     "id": "b825e1cb8b9893a6",
-     "published": "2026-11-01T14:13+00:00",
-     "text": "What you need to know\n-\nLocalized Oleshy ceasefire ended at 11 p.m. local time (10 p.m. CET)\n-\nOleshky evacuees arrive in Ukrainian territory from Belarus\n-\nRussian strikes leave tens of thousands across Ukraine without power, including in the capital Kyiv\n-\nUkrainian President Volodymyr Zelenskyy says preparations for talks with US and Russia underway after meeting with Turkey's Recep Tayyip Erdogan\nHere is a roundup of events from Russia's war in Ukraine on Saturday and Sunday, October 31 and November 1:\nUkraine: Localized Oleshky ceasefire ends\nThe longest truce in Russia's invasion of Ukraine, which was limited to the southern Kherson region in and around the Russian-occupied town of Oleshky, ended on Sunday after Russia refused the offer of an extension, Ukrainian officials said.\n\"The ceasefire, which was in effect from October 27 to November 1, has ended,\" confirmed Ukraine's Parliament Commissioner for Human Rights, Dmytro Lubinets, who called the temporary truce \"an important step in our joint humanitarian efforts\" with Russia.\nNeither side reported violations of the truce which was one Ukrainian lawmaker described to the AFP news agency as the \"biggest de-escalation since 2022.\"\nKherson: 167 more people evacuated as end of ceasefire draws near\nThe Ukrainian military evacuated a further 167 civilians from the partially occupied southern region of Kherson on Sunday, the army's general staff confirmed shortly before a localized six-day ceasefire was due to expire.\nAmong the evacuees were 22 children and 21 people with limited mobility, according to the announcement.\nThe temporary truce in and around the Russian-occupied town of Oleshky is set to expire at 11 p.m. local time (10 p.m. CET).\nLocal governor Olexander Prokudin called on residents in the region to remain alert and warned people not to enter or approach areas close to the Dnipro river which flows through Kherson.\nUkrainian officials said the intensity of Russian drone and artillery strikes remained high in those areas.\nRussia refused to extend Kherson ceasefire, Ukrainian official says\nUkraine offered to extend the US-brokered ceasefire for the Kherson region but Russia refused, a senior Ukrainian official told the AFP news agency.\nThe truce, which only applied to the southeastern region of Kherson, expires at 10:59 p.m. local time (2059 GMT) on Sunday evening.\nThe official told AFP that the Ukrainian Foreign Ministry had made the offer but \"the Russians don't want to.\"\nThe ceasefire, which the White House says was brokered by First Lady Melania Trump, began on Tuesday and has allowed for a humanitarian mission to the Russian-occupied city of Oleshky.\nAround 2,000 civilians were in Oleshky when the ceasefire took effect this week. They were given the choice of leaving the area to territory controlled by Ukraine or Russia, or of staying in the city, which has been resupplied during the truce.\nUS President Donald Trump called for the ceasefire to become the \"starting point for lasting peace.\"\n\"The ceasefire across Oleshky and the surrounding Kherson region has provided residents with the freedom to move, access to food, clean water, medicine, plus a renewed sense of dignity without the constant threat of attack,\" Trump said on social media. \"Let Oleshky become the starting point for lasting peace.\"\nRussian drone attacks in central Ukraine kills three, injures 4\nA Russian drone attack on Koziatyn in central Ukraine has killed at least three people and injured four others, i"
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8e6/live/7871d270-d627-11f1-a947-0507737f09b2.jpg"
-     },
-     "id": "8f9ac44728b0b565",
-     "published": "2026-11-01T19:48+00:00",
-     "text": "- Published\nA humanitarian ceasefire in Ukraine's Kherson region that has allowed civilians to evacuate the Russian-occupied city of Oleshky is due to end on Sunday night.\nWhile the localised ceasefire on the front line has held since it was implemented last week, fighting has continued elsewhere.\nUkrainian President Volodymyr Zelensky said Russia had struck energy infrastructure in four regions overnight on Saturday into Sunday, leaving hundreds of thousands without power.\nAnother overnight strike killed two people, including a 13-year-old girl, in the Vinnytsia region, the State Emergency Service of Ukraine said.\nMeanwhile, Ukraine hit a major missile fuel producer in Russia's Rostov region, which caused a fire and damaged four production facilities, Zelensky said.\nIn Ukraine, repair works to restore power continued throughout the day. Most customers in the Dnipropetrovsk region had their connections restored by early evening, but more than 60,000 were still without power, the governor said.\nBecause of regular attacks on energy infrastructure, emergency power cuts have been introduced across the country. Even in the capital Kyiv, electricity is cut off for most of the day. Water supplies are also disrupted.\nZelensky said in a social media post that the intensity of Russian strikes has been \"extremely high\" over the past week, adding that Russia was \"trying to take maximum advantage of the shortage of ballistic missile interceptors\".\nHe added that \"every day\" Ukraine communicated its need for Patriot missiles - the only effective weapon for downing Russia's deadly ballistic missiles - to the US, Europe and other partners. He thanked countries for their support so far and longer-term commitments, but calling for more immediate aid.\nOn the front line, a localised ceasefire in the Kherson region was due to end at 22:59 Ukrainian time (21:00 GMT) on Sunday.\nThe limited pause in hostilities, which started on Tuesday, was brokered with the help of US First Lady Melania Trump along with Pope Leo XIV.\nIt was originally confined to the city of Oleshky, which has been occupied by Russia since the first days of the country's full-scale invasion of Ukraine in February 2022, and was soon after expanded across the wider region of Kherson.\nOleshky had been trapped on one side by the Dnipro river and the other by Russian forces, with routes out mined and subject to drone attack. Residents stuck there were suffering shortages of food, water and electricity.\nThe truce allowed for Oleskhy residents to evacuate if they wanted, and there were emotional scenes on Saturday when Ukrainians who had been trapped in the city were reunited with loved ones they had not seen for years.\nThere are Ukrainian military positions just 5km (3.1 miles) from Oleshky, but evacuees had to travel through Russian-occupied territory to southern Russia, where they flew to Belarus, before finally being driven across Ukraine's northern border.\nThe oldest evacuee was 94 years old, while the youngest was one, according to Dmytro Lubinets, Ukraine's human rights ombudsman."
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/commodities-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility-4989707",
-     "title": "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+     "url": "https://securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist",
+     "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
      "lang": "en",
      "extra": {},
-     "id": "47753301e2217d4c",
-     "published": "2026-11-01T20:12+00:00",
-     "text": ""
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENHI1LTZhR1pHYUFaTjhiQ1VyTy04ODc0dzdaYTk0QkFZdDRPa1RIZ0hoUy0xdzBBOUhMSGdjbFgzWDdyZmJXV0hSSVpZRVBlVDcxUmFVRjhZVVk?oc=5",
-     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "d994f6cd63fecf8b",
-     "published": "2026-11-01T21:01+00:00",
-     "text": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends\nBBC\nSee more headlines & perspectives on Google News"
+     "id": "2ae9110b4f58a2b6",
+     "published": "2026-11-02T08:40+00:00",
+     "text": "The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto.\nThe post FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist appeared first on SecurityWeek."
     }
    ]
   },
@@ -6442,56 +6526,6 @@
      "id": "1307951bc28fe8ac",
      "published": "2026-11-01T17:34+00:00",
      "text": "CNBC reports:\nA month after President Donald Trump ordered that \"super intelligence\" replace the term artificial intelligence within executive branch departments and agencies, his leading tech allies, Elon Musk and Mark Zuckerberg, followed suit on earnings calls. Their fellow tech CEOs were less eager to do the same... SpaceX and Tesla adhered to Trump's wishes on earnings calls last week after Musk, earlier in October, changed the name of his rocket company's AI division to SpaceXSI. Speaking on Tesla's call about his work on humanoid robots, Musk said, \"Some of them look very impressive, but they're not really using any kind of advanced AI or SI.\" Zuckerberg was equally compliant on Meta's earnings call on Oct. 21, emphasizing his company's \"goal of delivering personal superintelligence to everyone.\" However, Meta was already using the term, having created a unit called Meta Superintelligence Labs last year....\n[Some other tech CEOs are holding out.] Amazon CEO Andy Jassy peppered his call with use of \"AI\" on Thursday, uttering the abbreviation well over a dozen times in his introductory remarks. A day earlier, Microsoft CEO Satya Nadella said one of the company's three points of focus is \"designing AI to empower people.\" And Alphabet CEO Sundar Pichai was seconds into his quarterly earnings commentary when he said the search giant's \"AI investments are driving increased usage and overall user growth....\"\nTrump's preferred term is seeping into other correspondence and documents. Microsoft's annual report, filed last week, included eight mentions of \"super intelligence,\" starting at the top of the letter to shareholders...\nIBM CEO Arvind Krishna, who didn't attend Trump's September lunch, used \"SI\" alongside \"AI\" during his company's earnings call last week.... Lip-Bu Tan, CEO of chipmaker Intel, said Thursday the supply shortage the chip industry is navigating has been \"driven by the unprecedented demand for super intelligence.\"\nSome in the tech industry have been explicit in their support of Trump's terminology ahead of their forthcoming earnings reports next month. Palo Alto Networks CEO Nikesh Arora repeatedly referred to \"SI\" on CNBC, and posted on X on Sept. 30, \"The meeting at the WH on SI was an epic moment....\" Like Arora, [Nvidia CEO Jensen] Huang took to X after last month's AI meeting to praise the \"White House Accord on Super Intelligence.\"Read more of this story at Slashdot."
-    }
-   ]
-  },
-  {
-   "id": "c46f908a134",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Harry Styles Closes Out 30-Night Madison Square Garden Residency With Two ‘Harryween’ Shows, Dressed as Elvis and Pizza Rat, and a Jalen Brunson Guest Appearance",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/music/news/harry-styles-closes-madison-square-garden-harryween-1236936778",
-     "title": "Harry Styles Closes Out 30-Night Madison Square Garden Residency With Two ‘Harryween’ Shows, Dressed as Elvis and Pizza Rat, and a Jalen Brunson Guest Appearance",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/11/PHAM_NYC_NT30_HS_35-1-e1793550789789.jpg?w=703&h=470&crop=1"
-     },
-     "id": "08cb55af69ab0f60",
-     "published": "2026-11-01T16:38+00:00",
-     "text": "Harry Styles record-setting 30-night residency at New York’s Madison Square Garden came to a close over the weekend, with a pair of Styles’ recurring “Harryween” concerts that saw the star, his band and much of the audience dressed for the occasion — in his case as 1970s-era Elvis Presley on the first night and the notorious “Pizza Rat” on the second, which also included an onstage appearance from basketball star Jalen Brunson, captain of the world champion New York Knicks, presenting Styles with a banner commemorating the residency.\nThe themed costumes were not limited to the singer: On Friday, Styles’ band was dressed in his own iconic looks, rocking outfits based on his Coachella, Met Gala and Grammy appearances. “The theme on stage tonight was favorite sequined king,” he joked, later thanking the audience for considering him part of that group. For the encore, the arena was taken back in time as he emerged in his 2010 “X-Factor” audition outfit, singing Stevie Wonder’s “Isn’t She Lovely.” His version of the song was what clinched the then-bakery-worker a spot in One Direction over 15 years ago.\nThe final show on Saturday was, in its entirety, a tribute to New York City. The band took the stage first, all dressed as local icons including the Statue of Liberty, Andy Warhol and Anna Wintour, before Styles himself appeared as “Pizza Rat,” based on a notorious 2015 meme showing a large rat dragging a slice of pizza down the stairs of a New York City subway station. In another nod to the city, this time in the form of music history, the pop star delivered a compelling cover of Talking Heads’ “Psycho Killer” before reverting to the standard setlist.\nThe capstone of the evening came as New York Knicks captain Jalen Brunson took the stage to present Styles with a banner commemorating his record-breaking achievement. “I just wanted to appear and congratulate you on your 30th night,” said Brunson. “A couple weeks ago, Harry was so kind to join me and my team on our banner night, and I thought I, on behalf of MSG and the Knicks, would do the same.”\nOver the course of the nine-week residency, whether it was the occasional fan encounter on the Williamsburg Bridge or one of many fan-organized events (including One Direction karaoke and a post-Harryween bar crawl), the singer’s presence could be felt across the city, thanks in part to tour sponsor AmEx, which ran pop-up shops across lower Manhattan through the full nine-week block, and, halfway through the residency, invited ten randomly selected fans to experience “Together, Together” live for the first time.\nAs the final show ended, Styles addressed the audience, saying: “You’ve been wonderful tonight — you’ve been wonderful every night. Thank you for showing up, for dressing up, for making us feel so loved and being so wonderful to us. Thank you so much. You’ve changed my life over and over again, and I get to remember every moment in here. I have loved it so much… Thank you for dancing with me. When I wrote this album, I wanted it to feel exactly like this.”\nThe “Together, Together” tour will head to Australia later this month, where Styles will perform his final shows of the year, later resuming in the U.S. in April 2027 and slated to conclude in August with three consecutive shows at Wembley Stadium."
-    },
-    {
-     "source": "Hollywood Reporter",
-     "trust": 2,
-     "url": "https://hollywoodreporter.com/music/music-features/harry-styles-rat-halloween-final-msg-show-jalen-brunson-1236744359",
-     "title": "Harry Styles Goes Full Pizza Rat for Halloween at Final MSG Show, Jalen Brunson Makes Surprise Visit",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/harry-styles-msg-.jpg?w=940&h=529&crop=1"
-     },
-     "id": "0642bf45a0bffb5b",
-     "published": "2026-11-01T21:01+00:00",
-     "text": "“I thought I would use this momentous occasion in my career to dress like a rodent,” Harry Styles said Saturday night, explaining his costume for the second night of his traditional “Harryween” concerts.\nThe singer’s Halloween getup was just one of the highlights of the final night of his 30-show run at Madison Square Garden, which also featured a surprise appearance by New York Knicks star Jalen Brunson, a new cover added to the setlist, his fiancée Zoë Kravitz in attendance and an emotional goodbye from Styles, as fans filled the sold-out arena in an array of creative costumes.\nRelated Stories\nFor night two of Harryween, Styles dressed as “Pizza Rat,” wearing a full rat suit and bringing a pizza slice onstage as an accessory. The costume appeared to take inspiration from the viral 2015 “Pizza Rat” video, which showed a rat dragging a slice of pizza down the stairs of a New York City subway station. Styles fully committed to the look, even playing guitar with his rat-claw nails.\nHis bandmates also got in on the New York theme, dressing as city landmarks and icons, including the Statue of Liberty, Andy Warhol and Anna Wintour. The previous night’s Harryween concert saw Styles transform into Elvis Presley before changing into the outfit he wore for his 2010 The X Factor UK audition.\nConcertgoers also embraced the Halloween spirit on Saturday, with The Hollywood Reporter spotting attendees dressed as Nikki from Curry Barker’s Obsession, painter Bob Ross, dancing lobsters and even Kravitz’s plastic takeout bag outfit with the words “have a nice day” — seemingly a nod to the bag in Styles’ “Aperture” music video.\nStyles eventually had to make a costume change of his own, however, after finding the full rat suit too hot to perform in. He stayed on theme, swapping it for rat ears, a tail and an “I’m a rat” T-shirt.\nThe night’s biggest surprise came while Styles was in his second costume, when Brunson walked onstage to present the Grammy winner with a banner commemorating his record-breaking 30-show achievement.\n“I just wanted to appear and congratulate you on your 30th night,” Brunson said. “A couple weeks ago, Harry was so kind to join me and my team on our banner night, and I thought I, on behalf of MSG and the Knicks, would do the same.”\nBrunson then joked, “But this is my third show; he’s only been to one game, so he has some catching up to do.”\nMusically, Styles delivered the familiar setlist that fans have come to know throughout his residency, opening with “Dance No More” and closing with “Aperture,” from his latest album, Kiss All the Time. Disco, Occasionally. The show also featured fan favorites including “Satellite,” “Watermelon Sugar,” “As It Was” and “Sign of the Times.”\nBut he had one more surprise for the audience, adding a performance of Talking Heads’ 1977 classic “Psycho Killer” to the setlist.\nStyles also made time for some of his comedic crowd interactions. During one exchange, he spotted a woman holding a sign that read that her crush just got engaged. He joked that she appeared to have missed her chance to confess her feelings, while also suggesting that perhaps the newly engaged couple might break up.\nIn a sweeter moment, Styles noticed a young boy holding a sign that read, “I skipped trick or treating for my first concert.” He encouraged him to do two things: have as good a time as possible and brush his teeth before going to bed.\nAs the night drew to a close, Styles thanked the audience for their support throughout th"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcEVrVDdLdVhZaWhkT05EUGZ3N1czbnI2WXdQVm5WVHdlaC1FRU11TUFibWJqc3Jsc1hQcmdUblZiVzdIM1NZMjZZblFZZHNDMHNfZF9acjhhaVN4bm9sM05Ea3l2MFhscUxUTlFrSW5tNExRR2piUzJpWHg5WEFkZEh1Rk5FUjh4ek5YcFVNMWxDYmIyQkpDS2xQNnZZc09yd20zSUVkYlhtR0V1Z3RpaG43QnFyZ05BRmR2UkJsOElGdVcyX1E?oc=5",
-     "title": "Harry Styles Wraps Up MSG Residency With Pizza Rat Costume, “Psycho Killer” Cover, Jalen Brunson",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "46f908a134e5de05",
-     "published": "2026-11-01T14:31+00:00",
-     "text": "- Harry Styles Wraps Up MSG Residency With Pizza Rat Costume, “Psycho Killer” Cover, Jalen Brunson Stereogum\n- For Harry Styles and His Fans, a ‘Harryween’ Farewell to New York The New York Times\n- Harry Styles Dresses as Viral N.Y.C. ‘Pizza Rat’ for Harryween Night 2 People.com\n- Harry Styles Closes Madison Square Garden Run With 'Harryween' Shows Variety\n- Zoë Kravitz and Harry Styles Had Very Different Costumes for His Harryween Concert ELLE"
     }
    ]
   },
@@ -6603,52 +6637,6 @@
    ]
   },
   {
-   "id": "cbf3c90b7c9",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Eisenkot says Netanyahu’s bid to discredit Israeli election results has ‘failed’",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/middle-east/eisenkot-says-netanyahu-s-bid-to-discredit-israeli-election-results-has-failed-/4108248",
-     "title": "Eisenkot says Netanyahu’s bid to discredit Israeli election results has ‘failed’",
-     "lang": "en",
-     "extra": {},
-     "id": "bf3c90b7c96be656",
-     "published": "2026-11-01T23:55+00:00",
-     "text": "Yashar party leader welcomes election chief’s assurances on integrity of vote as neither main bloc secures governing majority"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
-     "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae72d243514-1793535268.jpg?resize=1920%2C1440"
-     },
-     "id": "38412da741a4c49c",
-     "published": "2026-11-02T00:29+00:00",
-     "text": "The head of Israel’s elections commission has said the results of the country’s general election would still stand even if claims of foreign interference were substantiated.\n“Our position is that even if the suspicions are substantiated, this would not undermine the integrity of the electoral process or the election results as a whole,” Central Elections Committee head Noam Sohlberg said in a video on Sunday, in which he appeared with the head of the Shin Bet, Israel’s internal security agency, and the attorney general.\nRecommended Stories\nlist of 4 items- list 1 of 4Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu\n- list 2 of 4‘Arab voice doesn’t count’: Jewish Israeli blocs reject Palestinian support\n- list 3 of 4Coalition wrangling, a second election: How Israel could break the deadlock\n- list 4 of 4Israel election: When will government be formed, who will lead it?\nPrime Minister Benyamin Netanyahu’s Likud party had questioned the results after saying, without providing evidence, that Arab-led parties, which made significant gains in Tuesday’s elections, “stole” the vote and accepted funding from Qatar to do it.\nQatar has rejected the allegations, calling it a disinformation campaign.\nAlso on Sunday, Israeli police released two out of three political activists arrested before Tuesday’s polls opened. They were carrying envelopes of cash, allegedly to bribe voters, police said.\nOne was released on unspecified conditions, while another was ordered to remain on house arrest.\nPolice said the suspects were connected to the Arab-led Ra’am party, which won eight seats.\nIts leader, Mansour Abbas, denounced the arrests as undemocratic and “an attempt to influence the election results”.\n‘Orchestrated and organised campaign’\nMain opposition leader Eisenkot on Sunday accused Netanyahu of launching an “orchestrated and organised campaign to delegitimise the results”.\nEisenkot has previously ruled out forming a coalition with Arab parties, but a deadlock in Tuesday’s elections means siding with the parties could help him form a government.\nNetanyahu’s bloc won 53 seats in Tuesday’s elections, while the opposition bloc, led by Gadi Eisenkot, won 48, meaning neither side can form a government in Israel’s 120-seat parliament alone.\nIsrael’s three Arab-led parties, including the Ra’am party, won a record 19 seats.\nA coalition of Arab parties with Eisenkot would provide a comfortable majority of 67 in parliament. However, for many in Israel, the idea of siding with Arab parties is politically unpalatable.\nThe results are due to be officially certified this week, after which President Isaac Herzog must nominate a candidate to form a new government."
-    },
-    {
-     "source": "Korea Herald",
-     "trust": 2,
-     "url": "https://koreaherald.com/article/10922665",
-     "title": "Israeli officials say election will stand after Netanyahu claims Arabs stole vote",
-     "lang": "en",
-     "extra": {},
-     "id": "d90d9f9a03836a00",
-     "published": "2026-11-02T02:51+00:00",
-     "text": "TEL AVIV, Israel (AP) -- Israeli Prime Minister Benjamin Netanyahu's efforts to question last week's election appeared to weaken Sunday as officials said the vote would not be undermined by the allegations and a court ordered suspects in one case released. In a show of unity, the head of Israel's elections committee appeared alongside the attorney general and the head of the Shin Bet security service in a statement making clear that even if allegations of foreign interference raised last week ar"
-    }
-   ]
-  },
-  {
    "id": "c5a74816df3",
    "kind": "news",
    "score": 13.0,
@@ -6695,54 +6683,6 @@
      "id": "489e37177d1b3aca",
      "published": "2026-11-02T01:44+00:00",
      "text": "- Russia says emergency alert app under cyber-attack after apparent hack on Ukraine's warning system BBC\n- Ukraine says air alert system hacked after false radiation warning in Kyiv Fox News\n- Ukraine blames Russia after air alert app sends out false warnings Al Jazeera\n- Russian emergencies ministry's mobile app hit by cyberattack, TASS says Reuters\n- Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts The Guardian"
-    }
-   ]
-  },
-  {
-   "id": "c9e1cb9926a",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Binance sees outflows stabilising as exchange returns online after $6.3 billion heist",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdXY4a011WkVOZHRKb3FKU2lMRzNwbGlwOUFPWFdMWVcycnhkeVd2aDZpc0tfclNqYTFsS1lkR1JGT1dqYXJkU1pIeDhITThrWm43QldpMFEwNnItS0k2a1hSckF4TU5rdlkxMnBjUnRfTThHY1AyVDlkaFFrRElKOUppaDU1NXg3a0dEUmY1VWtCNDVKM3pHLUlyOHV1TjZHdElqRUUzR1g5VThQcDYyV3NQSTNkYkFZMEVzM0ZHV2dYRGFsV1NLWWpWeGxyQQ?oc=5",
-     "title": "Binance sees outflows stabilising as exchange returns online after $6.3 billion heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "9e1cb9926a8e292b",
-     "published": "2026-11-02T01:53+00:00",
-     "text": "Binance sees outflows stabilising as exchange returns online after $6.3 billion heist\nReuters"
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/stock-market-news/binance-sees-outflows-stabilising-as-exchange-returns-online-after-63-billionheist-4989802",
-     "title": "Binance sees outflows stabilising as exchange returns online after $6.3 billion heist",
-     "lang": "en",
-     "extra": {},
-     "id": "04d54f133f93eee5",
-     "published": "2026-11-02T02:18+00:00",
-     "text": ""
-    },
-    {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/sci-tech/technology/binance-sees-outflows-stabilising-as-exchange-returns-online-after-63-billionheist/article71655210.ece",
-     "title": "Binance sees outflows stabilising as exchange returns online after $6.3 billion heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://th-i.thgim.com/public/incoming/myh09w/article71655212.ece/alternates/LANDSCAPE_1200/2026-10-30T080124Z_904714742_RC2JDOA5ZZ50_RTRMADP_3_FINTECH-CRYPTO-BINANCE-HACK.JPG"
-     },
-     "id": "6207627414e0e3a6",
-     "published": "2026-11-02T05:07+00:00",
-     "text": "Binance customers pulled $3.64 billion, or 2.1% of its assets, as the world’s biggest cryptocurrency exchange resumed service after a security breach linked to North Korea saw $6.3 billion stolen from the platform last week.\nThe exchange moved to reassure crypto investors and said withdrawals were stabilising after an initial spike and deposit volumes had remained “substantial” after, what analysts believe, may be the world’s biggest financial robbery ever.\nAfter hitting a six-week low on Friday, bitcoin prices recovered slightly through the weekend to trade above $78,000 on Monday. Ether hit a two-month low on Friday and also recovered a little to $2,287.\nBinance, which allows users to buy, sell and trade digital assets, has 335 million registered users globally. It said on Sunday it had $171 billion in total assets under management as of October 28.\nThe Binance theft adds to a string of recent crypto thefts. Attackers stole $2.9 billion worth of cryptocurrency across nearly 150 incidents last year, according to researchers at TRM Labs.\nWithdrawal levels are an early test of whether customers still trust Binance with their money after the attack. The exchange said it had covered 95% of the assets stolen in the heist.\nStablecoin market capitalisations tend to fall when money is leaving cryptocurrencies and they have dropped since Friday. The combined capitalisation of the two largest stablecoins, USDT and USDC, has dropped by about $1.2 billion since Friday, according to Coinmarketcap.com.\nSpot bitcoin ETFs shed $643 million on Friday, the largest daily outflow of October, and more than $1.3 billion in leveraged positions were liquidated, said Ari Redbord, global head of policy at US blockchain analysis firm TRM Labs.\n“I get why, for conservative institutional investors, this is unsettling,” Redbord said.\n“A hack at a financial institution means stolen usernames and passwords. A hack at a crypto exchange is bank robbery at the speed of the internet, which creates an unstable risk profile for anyone responsible for other people’s capital.”\nBinance said on Sunday it had covered $6 billion of stolen cryptocurrencies by using its money to buy replacement tokens. The remaining 5% of stolen tokens consist of less liquid assets and may take longer to source, it said.\nDespite those measures, some users were weighing options to hedge risks.\nJay Koh, vice president at the Asia Web3 AI Association, said he had not withdrawn any of his holdings from Binance, as most of his funds were held in a cold wallet, which was not impacted by the hack.\n“I would not necessarily withdraw everything from Binance ... However, I do think it is prudent to review exposure, diversify custody arrangements and avoid keeping more assets on any single platform than necessary.”\nBinance, which was founded in China, said the rollout for withdrawals would be carried out in stages, prioritising user demand. The first phase covered 15 tokens including bitcoin, ether and those involving some USDC and USDT stablecoins and dogecoin.\n“We are taking a phased approach by prioritizing tokens based on the past week data of user demand,” Binance said in an earlier article posted on X.\nIt added, “Rest assured that market conditions are stable.”\nBinance said the net outflows reflected what clients had withdrawn and deposited after the event.\nCrypto analytics platform DefiLlama said on its dashboard that outflows were higher, at $5.81 billion, up from the $4.36 billion it showed earlier. "
     }
    ]
   },
@@ -7115,15 +7055,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-02/08",
+     "url": "https://market.local/crypto/2026-11-02/09",
      "title": "Market snapshot crypto 2026-11-02",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-02"
      },
-     "published": "2026-11-02T08:47+00:00",
-     "text": "Bitcoin: $78,216 (+0.2% 24h)\nEthereum: $2,296 (+1.0% 24h)\nSolana: $94.70 (-1.0% 24h)\nToncoin: $1.20 (-1.6% 24h)"
+     "published": "2026-11-02T09:17+00:00",
+     "text": "Bitcoin: $78,194 (+0.1% 24h)\nEthereum: $2,297 (+1.1% 24h)\nSolana: $94.71 (-1.0% 24h)\nToncoin: $1.20 (-1.5% 24h)"
     }
    ]
   },
