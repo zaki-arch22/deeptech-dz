@@ -1,0 +1,103 @@
+[
+ {
+  "id": "2026-11-02-0704-ukraine-alert-hack",
+  "slot": "2026-11-02T07:04:00+01:00",
+  "type": "news",
+  "category": "breaking",
+  "breaking": true,
+  "cluster_id": "c0fe6975481",
+  "headline": "قراصنة يرسلون إنذاراً نووياً كاذباً إلى هواتف الأوكرانيين",
+  "photo": {
+   "url": "https://assets.kyivindependent.com/content/images/2026/11/Screenshot-2026-11-01-at-4_25_12-PM_20261101-212549.png"
+  },
+  "photo_candidates": [
+   "https://storage.stfalcon.com/uploads/images/9a9d9604c79c10b75aa6f66923195b0a.jpeg",
+   "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3608/live/1d2513e0-d646-11f1-b441-2b33b063138f.jpg"
+  ],
+  "photo_query": "Ukraine air raid alert siren Kyiv",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Air Alert",
+    "domain": "ajax.systems"
+   }
+  ],
+  "text": "🚨 **قراصنة اخترقوا تطبيق الإنذار الرسمي في أوكرانيا، فوصلت الناس تحذيرات كاذبة من هجوم نووي وكيميائي.**\n\nبدأت الرسائل قرابة **22:47 بتوقيت كييف** مساء الأحد: خطر إشعاعي في العاصمة، ثم إنذار نووي في كل البلاد، ثم هجوم كيميائي، ثم معارك في الشوارع.\n\nإحدى الرسائل كُتبت بالروسية، وصفارات الإنذار دوّت فعلاً في شوارع عدة مناطق، ثم وصلت رسائل تلغي كل تحذير على حدة.\n\nفي الليلة نفسها، قالت روسيا إن تطبيق الطوارئ عندها تعرّض هو أيضاً لهجوم إلكتروني ضخم.\n\nسلاح الجو الأوكراني أكد أن **التطبيق اختُرق** وأنه **لا يوجد أي خطر إشعاعي**، والمسؤولون نصحوا الناس بعدم الضغط على أي رابط داخل تلك الرسائل.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-02-0723-shenlong-photo",
+  "slot": "2026-11-02T07:23:00+01:00",
+  "type": "discovery",
+  "category": "discovery",
+  "cluster_id": "web-shenlong-spaceplane-photo",
+  "headline": "أول صورة واضحة للطائرة الفضائية الصينية السرية في المدار",
+  "photo": {
+   "url": "https://cdn.mos.cms.futurecdn.net/JpmpruDZZZWpvqmMs3f8F7-1920-80.jpg"
+  },
+  "photo_candidates": [
+   "https://cdn.mos.cms.futurecdn.net/JpmpruDZZZWpvqmMs3f8F7.jpg",
+   "https://cdn.mos.cms.futurecdn.net/JpmpruDZZZWpvqmMs3f8F7-1200-80.jpg"
+  ],
+  "photo_query": "Shenlong Chinese reusable spaceplane in orbit WorldView-3",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Vantor",
+    "domain": "vantor.com"
+   }
+  ],
+  "text": "⚡ **لأول مرة، صورة واضحة للطائرة الفضائية الصينية السرية وهي تدور حول الأرض.**\n\nالتقطها قمر صناعي أمريكي تملكه شركة فانتور، من مسافة **90 كيلومتراً** فقط، وبدقة **4.5 سنتيمتر** لكل نقطة في الصورة.\n\nتظهر فيها المركبة الصينية شينلونغ بجناحين نحيفين وأبواب مخزنها مفتوحة، وهي ملتصقة بقمر صناعي مجهول له لوحان شمسيان كبيران.\n\nالصورة أُخذت في **2024**، ونشرتها استخبارات الدفاع الأمريكية الآن داخل تقرير عن التهديدات العسكرية في الفضاء.\n\nالصين أرسلت هذه المركبة في **4 مهمات** دون أن تشرح ماذا تفعل هناك، ورصد الخبراء أجساماً غامضة تنفصل عنها في 3 منها على الأقل. شبيهتها الأمريكية هي المركبة العسكرية إكس-37 بي.\n\n◆ @DeeptechDZ",
+  "sources": [
+   {
+    "url": "https://space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military",
+    "title": "China's secretive space plane caught on camera in incredible new photo released by US military",
+    "text": "The Defense Intelligence Agency (DIA) released the photo in a report on threats to security in space. Vantor's WorldView-3 satellite took the image in 2024, from 56 miles (90 km) away, at 4.5 cm (1.8 in) per pixel. It shows China's reusable Shenlong space plane docked to another satellite with its solar panels deployed, payload bay doors open. Fourth mission launched in February 2026; in June 2026 LeoLabs assessed with high confidence that an object was released from the Chinese space plane. The third mission ended in 2024 and also released an object. The second mission (2023) released an object. The U.S. counterpart is the Boeing-built X-37B."
+   },
+   {
+    "url": "https://skynewsarabia.com/world/1901998",
+    "title": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية",
+    "text": "التقط الصورة قمر اصطناعي تابع لشركة فانتور الأميركية المعروفة سابقا باسم ماكسار. تظهر مركبة ذات جناحين نحيفين وإلى جوارها جسم يبدو كأنه قمر اصطناعي ملتحم بها مزود بمصفوفتين كبيرتين من الألواح الشمسية. بكين نفذت أربع مهمات للمركبة خلال السنوات الست الماضية دون الكشف عن تفاصيلها. تشابه مع المركبة العسكرية الأميركية إكس-37 بي."
+   }
+  ]
+ },
+ {
+  "id": "2026-11-02-0746-anthropic-ipo-zero",
+  "slot": "2026-11-02T07:46:00+01:00",
+  "type": "news",
+  "category": "news",
+  "cluster_id": "web-anthropic-ipo-stock-zero",
+  "headline": "أنثروبيك تسأل المرشحين: ماذا لو صار سهمنا صفراً؟",
+  "photo": {
+   "url": "https://www.nasdaq.com/sites/acquia.prod/files/2023/10/24/StudioB_IPOSetup9.jpeg?1853691200"
+  },
+  "photo_candidates": [
+   "https://www.nasdaq.com/sites/acquia.prod/files/2023/10/24/StudioB_IPOSetup9.jpeg",
+   "https://www.nasdaq.com/sites/acquia.prod/files/2023/10/24/StudioB_IPOSetup9.jpeg?1853691200"
+  ],
+  "photo_query": "Nasdaq MarketSite Times Square tower",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Anthropic",
+    "domain": "anthropic.com"
+   },
+   {
+    "name": "Nasdaq",
+    "domain": "nasdaq.com"
+   }
+  ],
+  "text": "⚡ **أنثروبيك، صانعة المساعد كلود، تستعد لدخول البورصة بقيمة قد تصل إلى 2 تريليون دولار.**\n\nقدّمت الشركة ملف طرح أسهمها في **26 أكتوبر**، وتستهدف الإدراج في بورصة ناسداك خلال نوفمبر.\n\nإيراداتها بلغت **16.3 مليار دولار** في النصف الأول من 2026، مقابل 1.2 مليار في الفترة نفسها من 2025. لكنها سجّلت خسارة صافية قدرها 80.7 مليار، معظمها قيود محاسبية.\n\nالطرح قد يجعل كثيراً من موظفيها، وهم أكثر من **2,500**، مليونيرات. لذلك تطرح الشركة على المرشحين للعمل سؤالاً غريباً: **كيف ستشعر لو أوقفنا تطوير ذكائنا الاصطناعي لأسباب تخص الأمان، فهبط سعر السهم إلى صفر؟**\n\n◆ @DeeptechDZ",
+  "sources": [
+   {
+    "url": "https://fortune.com/article/anthropic-ipo-could-create-millionaires-but-company-worried-about-money-over-mission-ai-firm-billionaire-ceo-dario-amodei",
+    "title": "Anthropic's potential $2 trillion IPO could turn staff into millionaires—but the AI firm is asking candidates what they'd do if stock fell to zero",
+    "text": "As Anthropic targets a November IPO at a $1.5 trillion to $2 trillion valuation, the debut could mint a new class of wealthy tech workers among its more than 2,500 employees. Anthropic is reportedly asking job candidates during culture interviews how they would feel if the company someday abandoned its AI ambitions for safety reasons and that decision caused its stock to fall to zero, according to Axios."
+   },
+   {
+    "url": "https://builtin.com/articles/anthropic-ipo-filing-s1",
+    "title": "Anthropic IPO Filing: Valuation, Finances and Key Details",
+    "text": "Anthropic filed paperwork to go public with the SEC on October 26, 2026. Proposed listing on the Nasdaq under ticker ANT. Reportedly targeting a debut in November 2026. Revenue $16.3 billion for the first half of 2026, up from $1.2 billion in the same period of 2025. Net loss of $80.7 billion for the first half of 2026; about $72 billion came from noncash accounting adjustments tied to convertible notes."
+   }
+  ]
+ }
+]
