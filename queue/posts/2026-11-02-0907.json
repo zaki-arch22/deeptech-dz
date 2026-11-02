@@ -1,0 +1,101 @@
+[
+ {
+  "id": "2026-11-02-0907-xai-naacp-turbines",
+  "slot": "2026-11-02T09:07:00+01:00",
+  "type": "news",
+  "category": "news",
+  "cluster_id": "ce07dacdb45",
+  "headline": "شركة ماسك للذكاء الاصطناعي تخسر جولة في قضية تلوث",
+  "photo": {
+   "url": "https://earthjustice.org/wp-content/uploads/2026/04/8l9a3574_2k.jpg"
+  },
+  "photo_candidates": [
+   "https://earthjustice.org/wp-content/uploads/2026/04/dji_0137-3_2k.jpg",
+   "https://media.thenextweb.com/2026/11/gas-turbines-power-plant-southaven-mississippi-aerial.jpg",
+   "https://www.engadget.com/img/gallery/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/l-intro-1793560530.jpg"
+  ],
+  "photo_query": "xAI Southaven gas turbines exhaust stacks",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "xAI",
+    "domain": "x.ai"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
+    "title": "Judge denies xAI motion to dismiss NAACP lawsuit over gas turbines",
+    "text": "A federal judge in Mississippi has refused to throw out the NAACP's Clean Air Act lawsuit against xAI. The case is over the gas turbines that power its Colossus 2 data centre. Judge Debra M. Brown ruled that the turbines are not exempt from air permits as mobile sources. The complaint says the companies installed gas turbines at the Southaven plant between August and December 2025 without permits. By April there were at least 27 turbines. Together they can generate at least 495 megawatts. The NAACP says they could emit about 1,700 tons of nitrogen oxides a year, a main cause of smog. It also seeks civil penalties of up to $124,426 a day for each violation. Mississippi's regulator called them mobile, because each sat on a trailer. xAI has offered to buy nearby homes from owners who drop their claims. On Tuesday, voters in 10 US states will decide on measures to limit data centers."
+   },
+   {
+    "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "text": "A federal judge denied a motion by xAI seeking to dismiss an NAACP lawsuit accusing the SpaceX-owned company of failing to obtain permits needed to operate the gas turbines powering its Colossus data center outside Memphis. New York recently passed a moratorium on new data centers."
+   }
+  ],
+  "text": "⚡ **قاضية أمريكية ترفض إسقاط دعوى ضد شركة إيلون ماسك للذكاء الاصطناعي بسبب توربينات غاز تلوّث الهواء.**\n\nالشركة تشغّل **27 توربيناً** على الأقل دون تراخيص، لتزويد حواسيب الذكاء الاصطناعي العملاقة بالكهرباء في ولاية ميسيسيبي.\n\n• الدفاع قال إنها معفاة لأنها متحركة، فكل توربين موضوع على مقطورة. القاضية رفضت ذلك.\n• التوربينات قد تطلق نحو **1,700 طن** سنوياً من غازات تسبب الضباب الدخاني.\n• الغرامة المطلوبة تصل إلى **124,426 دولاراً عن كل يوم** لكل مخالفة.\n\nيوم الثلاثاء يصوّت سكان **10 ولايات أمريكية** على قوانين تحدّ من بناء مراكز البيانات.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-02-0926-aegis",
+  "slot": "2026-11-02T09:26:00+01:00",
+  "type": "app",
+  "category": "app",
+  "cluster_id": "web-aegis-authenticator",
+  "headline": "تطبيق مجاني يحمي رموز التحقق ولا يضيعها عند تغيير الهاتف",
+  "photo": {
+   "url": "https://img.helpnetsecurity.com/wp-content/uploads/2025/07/01135800/aegis_authenticator-1500.webp"
+  },
+  "photo_candidates": [
+   "https://img2.helpnetsecurity.com/posts2025/aegis_authenticator-650.webp",
+   "https://commons.wikimedia.org/wiki/Special:FilePath/Aegis_Authenticator_logo.svg?width=2000"
+  ],
+  "photo_query": "Aegis Authenticator Android app screenshot",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Aegis",
+    "domain": "getaegis.app"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.helpnetsecurity.com/2025/07/07/aegis-2fa-authenticator-free-open-source-android/",
+    "title": "Aegis Authenticator: Free, open-source 2FA app for Android",
+    "text": "Aegis Authenticator is a free, open-source 2FA app for Android with strong encryption. It lets you back up your data, with support for automatic backups, and supports export and import from a wide variety of 2FA apps. It supports both HOTP and TOTP."
+   }
+  ],
+  "text": "⚡ **رموز التحقق بخطوتين في تطبيق مجاني ومشفّر، ولا تضيع منك عند تغيير الهاتف: هذا هو Aegis.**\n\nرمز التحقق من تطبيق أكثر أماناً من رمز يصلك في رسالة SMS، لأن القراصنة يستطيعون تحويل رسائلك إلى شريحة أخرى.\n\n• يحفظ رموزك داخل **خزنة مشفّرة** على هاتفك.\n• **نسخ احتياطي تلقائي ومشفّر**، فتنقل رموزك إلى هاتف جديد دون أن تفقد حساباتك.\n• يستورد رموزك من تطبيقات التحقق الأخرى.\n• **مجاني ومفتوح المصدر**، على أندرويد فقط.\n\n🔗 play.google.com/store/apps/details?id=com.beemdevelopment.aegis\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-02-0945-black-doves-s2",
+  "slot": "2026-11-02T09:45:00+01:00",
+  "type": "film",
+  "category": "film",
+  "cluster_id": "web-black-doves-season-2",
+  "headline": "الموسم الثاني من مسلسل الجاسوسية Black Doves يوم 5 نوفمبر",
+  "photo": {
+   "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/08/black-doves-season-2-gets-netflix-release-date.jpg"
+  },
+  "photo_candidates": [
+   "https://cultbox.co.uk/wp-content/uploads/2026/08/Black-Doves-2.jpg",
+   "https://www.whats-on-netflix.com/wp-content/uploads/covers-2024/blackdoves.jpeg"
+  ],
+  "photo_query": "Black Doves Netflix Keira Knightley Ben Whishaw",
+  "gallery": [],
+  "logos": [],
+  "sources": [
+   {
+    "url": "https://www.whats-on-netflix.com/news/black-doves-season-2-netflix-release-date/",
+    "title": "Black Doves Season 2 Sets November 2026 Return Date on Netflix",
+    "text": "Season 2 is set to release in full on November 5th. Keira Knightley (Helen), Ben Whishaw (Sam), Sarah Lancashire (Mrs. Reed) return. New cast: Ambika Mod, Neve Campbell, Babou Ceesay, Sam Riley, Sylvia Hoeks. Helen keeps passing national secrets to the Black Doves, but her husband Wallace is preparing to become prime minister. Season 1 was added to Netflix on December 5th, 2024."
+   },
+   {
+    "url": "https://collider.com/everything-coming-to-netflix-november-2026",
+    "title": "Everything coming to Netflix in November 2026",
+    "text": "Black Doves Season 2, arriving on November 5, 2026. The series begins with Helen Webb, an undercover spy from the titular agency, living as an influential politician's wife. When Black Doves first premiered, the British series exploded on the streaming charts and earned rave reviews. In the second season, Helen's husband is elected the Prime Minister."
+   }
+  ],
+  "text": "🎬 **الموسم الثاني من مسلسل الجاسوسية البريطاني Black Doves يصل إلى نتفليكس يوم 5 نوفمبر.**\n\nكيرا نايتلي تعود في دور هيلين، الجاسوسة التي تعيش متخفية كزوجة سياسي نافذ في لندن، ومعها بن ويشو في دور زميلها سام.\n\nفي الموسم الجديد يُنتخب زوجها **رئيساً للوزراء**، فيصبح سرّها أخطر من أي وقت مضى.\n\n• الحلقات تنزل **كاملة دفعة واحدة**.\n• نيف كامبل وأمبيكا مود ينضمان إلى الطاقم.\n• الموسم الأول متاح الآن على نتفليكس، وكان قد تصدّر قوائم المشاهدة عند صدوره في ديسمبر 2024.\n\n◆ @DeeptechDZ"
+ }
+]
