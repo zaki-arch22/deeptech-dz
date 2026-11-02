@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T01:41:52+00:00",
+ "generated_at": "2026-11-02T02:12:33+00:00",
  "clusters": [
   {
    "id": "cb8087c5f39",
@@ -860,113 +860,6 @@
    ]
   },
   {
-   "id": "c94e0534854",
-   "kind": "news",
-   "score": 21.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Binance says it covered 90% of losses in cyberattack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/economy/binance-says-it-covered-90-of-losses-in-cyberattack/4107700",
-     "title": "Binance says it covered 90% of losses in cyberattack",
-     "lang": "en",
-     "extra": {},
-     "id": "94e05348543cd20e",
-     "published": "2026-11-01T00:24+00:00",
-     "text": "Company says remaining 10% consisted of lower-liquidity tokens"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/d6dc16a65f8e",
-     "title": "Binance says it covered 90% of cyberattack losses as FBI links theft to North Korea",
-     "lang": "en",
-     "extra": {},
-     "id": "50616e3d00924617",
-     "published": "2026-11-01T00:32+00:00",
-     "text": "The crypto exchange company says the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\""
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
-     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
-     "lang": "en",
-     "extra": {},
-     "id": "473bd658979d7399",
-     "published": "2026-11-01T00:38+00:00",
-     "text": ""
-    },
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
-     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
-     "lang": "en",
-     "extra": {},
-     "id": "3b6bb0c06269b687",
-     "published": "2026-11-01T07:33+00:00",
-     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
-    },
-    {
-     "source": "BleepingComputer",
-     "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers",
-     "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg"
-     },
-     "id": "db22ed3811171686",
-     "published": "2026-11-01T19:57+00:00",
-     "text": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record.\nIn a security alert published Saturday, the agency attributed the attack to TraderTraitor, a North Korean hacking group also tracked as Lazarus Group, Jade Sleet, and APT38, linked to numerous cryptocurrency thefts.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the FBI said.\nThis official attribution follows blockchain intelligence firms TRM Labs and Chainalysis, which had already linked the theft to TraderTraitor.\nAs previously reported, Binance linked the breach to a compromised DevOps engineer's laptop, which allowed the attackers to access a service container and submit unauthorized withdrawal transactions.\nThe attackers stole approximately $6.36 billion in cryptocurrency across ten blockchains, with most of the funds transferred in just 20 minutes.\nThe FBI says it has observed TraderTraitor converting stolen assets primarily into Ethereum (ETH), which it expects will be further laundered through decentralized finance (DeFi) platforms and instant cryptocurrency swap services.\nThe FBI, U.S. Secret Service, and IRS Criminal Investigation are now asking cryptocurrency exchanges, blockchain operators, and other virtual asset service providers to block transactions linked to addresses the hackers used to launder stolen funds.\nThe agency also published a list of 628 cryptocurrency addresses associated with the theft, including 608 Ethereum addresses, 19 Bitcoin addresses, and one Solana address.\nTraderTraitor has a long history of targeting cryptocurrency companies and their employees, with North Korean hackers linked to numerous crypto-theft attacks, including the $387.5 million Bitget theft in September 2026, the $280 million Drift hack in April 2026, $1.5 billion Bybit heist in February 2025, and the $308 million DMM Bitcoin theft in May 2024.\nOne tactic used by North Korean Lazarus hackers is a long-running campaign known as 'Operation DreamJob,' in which they impersonate recruiters and approach software developers and cryptocurrency employees with fake job offers to trick them into installing malware.\nBoth the DMM and Bybit attacks involved compromising computers belonging to employees or developers with access to cryptocurrency infrastructure.\nIn the DMM Bitcoin attack, hackers impersonated a recruiter on LinkedIn and tricked an employee at the cryptocurrency wallet company Ginco into running malicious Python code disguised as a pre-employment test.\nThe Bybit heist also stemmed from a compromised Safe{Wallet} developer's computer, which let hackers access the wallet platform and manipulate a legitimate transaction request by a DMM employee, redirecting $1.5 billion in cryptocurrency to wallets they controlled.\nMore recently, the April 2026 Drift attack involved a six-month social engineering operation in which individuals posing as representatives of a cryptocurrency trading firm met Drift contributors in person at multiple industry conferences.\nThe attackers spent months building relationships, and are believed to have compromised employees' devices through a malicious code repository or a TestFlight appli"
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81S2VuSVhqVExKRkVHY2RjU2hDZ2JCdGlaNk5OTE9HeUxEbnAwWFpoUDhqNktpTVFMNE16SkR3azlIT2xFZW0xMTREaFIxOUVuWWNXRml3d2tyMG9aeTZ5ZVd1c3RZdHAzNlluVnMzSTZsbWhsQnc?oc=5",
-     "title": "How North Korea perfected the crypto heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "612cf9d910ac1878",
-     "published": "2026-11-01T01:48+00:00",
-     "text": "- How North Korea perfected the crypto heist Axios\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history PBS\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered CNBC"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjBKNHBsSy1EQlN4NnM4QXQ0OXNDeFlzUnY1bVVtYVB3RU9ZSk5vOGU0MzFkLWFlMXIzYS1hNnpzOHNjX3BLa1JjMTZIUUppT0JVVk9QeUR6X3pkSXVCOU53VmhtYXRQV0dQX05WclZGYlgwSWlTZnpUYUVFVzVKZko2UDdXeGRXOWllT3FNTHMxNGJTMlgyNy1BcnVYaDIzaWRUNFZpUG9EQ3JSZEHSAbMBQVVfeXFMTXBHdjctTGNMSU5XZUVxTGFsZFBlN1A3Y0pDRHp5dDItMk9aZW9DcXA4b3RTWXpQbnc2U0VJRk1QRjk0T21iMzJoV0hXQlBkWlBFS2hKeFRhVXZ5ODc0ZVhULUJzMGxmLXFxaGtIZlVSV1I2a3NDcjJTSVJTU25UZ1kySGtJaVZheGxqRVAyVWNLTGlBWlZpMVV2LW5DV29yUVF6YjVvazF5NGhhMzRLRTY5T0U?oc=5",
-     "title": "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says - Fox Business",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "99e140d5cb43eb74",
-     "published": "2026-11-01T05:37+00:00",
-     "text": "- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stolen billions from Binance in biggest hack in history KCRA\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmVOUTJ5cEo0bUU2Unp2V093dXNIN3hEaHB5VXRrZlBYRjc5RkVzM2lraGRpZGNIM0s0Uk15bVdPOHNSNGJsN29Ma3lVTzBleWd2WHRuSGlzOXVtV193RE8wbXgyaGNjdGdJRkUxdkR2ajN0MGh2STQ2T2p3YTVMTnRVME8?oc=5",
-     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "fe9a6ec2b57b5e87",
-     "published": "2026-11-01T06:48+00:00",
-     "text": "- FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist The Hacker News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals following $6.3 billion breach TechCrunch\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
-    }
-   ]
-  },
-  {
    "id": "c78b9415399",
    "kind": "news",
    "score": 21.0,
@@ -1168,6 +1061,113 @@
    ]
   },
   {
+   "id": "c94e0534854",
+   "kind": "news",
+   "score": 20.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Binance says it covered 90% of losses in cyberattack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/economy/binance-says-it-covered-90-of-losses-in-cyberattack/4107700",
+     "title": "Binance says it covered 90% of losses in cyberattack",
+     "lang": "en",
+     "extra": {},
+     "id": "94e05348543cd20e",
+     "published": "2026-11-01T00:24+00:00",
+     "text": "Company says remaining 10% consisted of lower-liquidity tokens"
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/d6dc16a65f8e",
+     "title": "Binance says it covered 90% of cyberattack losses as FBI links theft to North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "50616e3d00924617",
+     "published": "2026-11-01T00:32+00:00",
+     "text": "The crypto exchange company says the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\""
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "473bd658979d7399",
+     "published": "2026-11-01T00:38+00:00",
+     "text": ""
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
+     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
+     "lang": "en",
+     "extra": {},
+     "id": "3b6bb0c06269b687",
+     "published": "2026-11-01T07:33+00:00",
+     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers",
+     "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg"
+     },
+     "id": "db22ed3811171686",
+     "published": "2026-11-01T19:57+00:00",
+     "text": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record.\nIn a security alert published Saturday, the agency attributed the attack to TraderTraitor, a North Korean hacking group also tracked as Lazarus Group, Jade Sleet, and APT38, linked to numerous cryptocurrency thefts.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the FBI said.\nThis official attribution follows blockchain intelligence firms TRM Labs and Chainalysis, which had already linked the theft to TraderTraitor.\nAs previously reported, Binance linked the breach to a compromised DevOps engineer's laptop, which allowed the attackers to access a service container and submit unauthorized withdrawal transactions.\nThe attackers stole approximately $6.36 billion in cryptocurrency across ten blockchains, with most of the funds transferred in just 20 minutes.\nThe FBI says it has observed TraderTraitor converting stolen assets primarily into Ethereum (ETH), which it expects will be further laundered through decentralized finance (DeFi) platforms and instant cryptocurrency swap services.\nThe FBI, U.S. Secret Service, and IRS Criminal Investigation are now asking cryptocurrency exchanges, blockchain operators, and other virtual asset service providers to block transactions linked to addresses the hackers used to launder stolen funds.\nThe agency also published a list of 628 cryptocurrency addresses associated with the theft, including 608 Ethereum addresses, 19 Bitcoin addresses, and one Solana address.\nTraderTraitor has a long history of targeting cryptocurrency companies and their employees, with North Korean hackers linked to numerous crypto-theft attacks, including the $387.5 million Bitget theft in September 2026, the $280 million Drift hack in April 2026, $1.5 billion Bybit heist in February 2025, and the $308 million DMM Bitcoin theft in May 2024.\nOne tactic used by North Korean Lazarus hackers is a long-running campaign known as 'Operation DreamJob,' in which they impersonate recruiters and approach software developers and cryptocurrency employees with fake job offers to trick them into installing malware.\nBoth the DMM and Bybit attacks involved compromising computers belonging to employees or developers with access to cryptocurrency infrastructure.\nIn the DMM Bitcoin attack, hackers impersonated a recruiter on LinkedIn and tricked an employee at the cryptocurrency wallet company Ginco into running malicious Python code disguised as a pre-employment test.\nThe Bybit heist also stemmed from a compromised Safe{Wallet} developer's computer, which let hackers access the wallet platform and manipulate a legitimate transaction request by a DMM employee, redirecting $1.5 billion in cryptocurrency to wallets they controlled.\nMore recently, the April 2026 Drift attack involved a six-month social engineering operation in which individuals posing as representatives of a cryptocurrency trading firm met Drift contributors in person at multiple industry conferences.\nThe attackers spent months building relationships, and are believed to have compromised employees' devices through a malicious code repository or a TestFlight appli"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81S2VuSVhqVExKRkVHY2RjU2hDZ2JCdGlaNk5OTE9HeUxEbnAwWFpoUDhqNktpTVFMNE16SkR3azlIT2xFZW0xMTREaFIxOUVuWWNXRml3d2tyMG9aeTZ5ZVd1c3RZdHAzNlluVnMzSTZsbWhsQnc?oc=5",
+     "title": "How North Korea perfected the crypto heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "612cf9d910ac1878",
+     "published": "2026-11-01T01:48+00:00",
+     "text": "- How North Korea perfected the crypto heist Axios\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history PBS\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered CNBC"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjBKNHBsSy1EQlN4NnM4QXQ0OXNDeFlzUnY1bVVtYVB3RU9ZSk5vOGU0MzFkLWFlMXIzYS1hNnpzOHNjX3BLa1JjMTZIUUppT0JVVk9QeUR6X3pkSXVCOU53VmhtYXRQV0dQX05WclZGYlgwSWlTZnpUYUVFVzVKZko2UDdXeGRXOWllT3FNTHMxNGJTMlgyNy1BcnVYaDIzaWRUNFZpUG9EQ3JSZEHSAbMBQVVfeXFMTXBHdjctTGNMSU5XZUVxTGFsZFBlN1A3Y0pDRHp5dDItMk9aZW9DcXA4b3RTWXpQbnc2U0VJRk1QRjk0T21iMzJoV0hXQlBkWlBFS2hKeFRhVXZ5ODc0ZVhULUJzMGxmLXFxaGtIZlVSV1I2a3NDcjJTSVJTU25UZ1kySGtJaVZheGxqRVAyVWNLTGlBWlZpMVV2LW5DV29yUVF6YjVvazF5NGhhMzRLRTY5T0U?oc=5",
+     "title": "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says - Fox Business",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "99e140d5cb43eb74",
+     "published": "2026-11-01T05:37+00:00",
+     "text": "- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stolen billions from Binance in biggest hack in history KCRA\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmVOUTJ5cEo0bUU2Unp2V093dXNIN3hEaHB5VXRrZlBYRjc5RkVzM2lraGRpZGNIM0s0Uk15bVdPOHNSNGJsN29Ma3lVTzBleWd2WHRuSGlzOXVtV193RE8wbXgyaGNjdGdJRkUxdkR2ajN0MGh2STQ2T2p3YTVMTnRVME8?oc=5",
+     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "fe9a6ec2b57b5e87",
+     "published": "2026-11-01T06:48+00:00",
+     "text": "- FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist The Hacker News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals following $6.3 billion breach TechCrunch\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    }
+   ]
+  },
+  {
    "id": "c4c11af85a3",
    "kind": "news",
    "score": 20.0,
@@ -1365,6 +1365,19 @@
      "id": "41e8c5995d3f39f7",
      "published": "2026-11-02T00:31+00:00",
      "text": "Democratic lawmaker undergoes monitoring at Johns Hopkins Hospital"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/video/sen-chris-murphy-recovering-from-stroke",
+     "title": "Connecticut Sen. Chris Murphy reportedly \"awake\" and recovering from stroke",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/02/64e2e1ff-5179-4a60-b858-3b2182b0aa0e/thumbnail/1200x630/1d3e40d6e80fe29caf6cb867bf94c175/cbsn-fusion-sen-chris-murphy-recovering-from-stroke-thumbnail.jpg"
+     },
+     "id": "8ce883f8151bb800",
+     "published": "2026-11-02T02:03+00:00",
+     "text": "Connecticut Sen. Chris Murphy's office said the 53-year-old Democrat began feeling numbness in his arms while attending his son's hockey game, and he was taken to the hospital. It was discovered there that he had experienced a stroke."
     }
    ]
   },
@@ -1763,6 +1776,126 @@
    ]
   },
   {
+   "id": "c938b7f7f0a",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": true,
+   "distinct_sites": 8,
+   "title_hint": "Haley Stevens’ Fiancé Escalates Abdul El-Sayed Feud in Michigan Senate Race",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmxMQ0lsQnphQXhaX1VFODdKVkI2aVRfdnRHc3o1R1VZSkRlZEE4R3N2NE1hYnpobzBkSmJkS0VJR0FXZ3FPbDJrczh3cmtjYWw1UTB4dUljTVV4SU94ZjZRdnZVQm13OGVlcGVVR19LNzVEbHZ6cVRndUZtdVNkWVpabEZvdTJVZndrRUJic0VJV3E1WGUyZ2NYa29KQzBT?oc=5",
+     "title": "Haley Stevens’ Fiancé Escalates Abdul El-Sayed Feud in Michigan Senate Race",
+     "lang": "en",
+     "extra": {},
+     "id": "938b7f7f0a9fba49",
+     "published": "2026-10-31T18:35+00:00",
+     "text": "Haley Stevens’ Fiancé Escalates Abdul El-Sayed Feud in Michigan Senate Race\nNewsweek"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/michigan-race-all-you-need-to-know-about-abdul-el-sayed-v-mike-rogers?traffic_source=rss",
+     "title": "Michigan race: All you need to know about Abdul El-Sayed v Mike Rogers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae64207bce1-1793475079.jpg?resize=1920%2C1440"
+     },
+     "id": "f5844a8dcbfcbc17",
+     "published": "2026-11-01T13:03+00:00",
+     "text": "Dearborn, Michigan – Chadi Abdulrazek, an Arab American political activist who has been volunteering to help elect Democratic Senate candidate Abdul El-Sayed, says he’s spoken in recent days to journalists from Denmark, Sweden, the Netherlands, France and the United Kingdom.\nThe United States Senate race between El-Sayed and his Republican rival Mike Rogers is attracting national and international attention, reflecting the potent political symbolism that belies its outcome, which extends far beyond one seat in the upper chamber of Congress.\nSupporters in each camp paint the contest as a crucial fight that could shape the political direction of the state and the nation for years.\nAbdulrazek, a small business owner, said the election is a chance to hold Trump accountable for breaking his promises to pursue peace in the world and focus on the needs of Americans.\nFor Arab and Muslim communities that have been facing Islamophobic attacks as part of the Senate race, the vote is pivotal, he added.\n“What’s on the line is they have to stand up for themselves and say, ‘We are part of this country, and we’re going to be voting, and we will actually make a change’,” Abdulrazek told Al Jazeera.\nHere, Al Jazeera looks at the US Senate race in Michigan and why it has gained so much attention.\nWho are the candidates?\nEl-Sayed is a public health advocate who previously led the health department in Detroit and Wayne County in southeast Michigan. He is 42.\nIf elected, the Democrat of Egyptian descent would become the first-ever Muslim US senator.\nEl-Sayed ran for governor in 2018 but fell short in the Democratic primary against eventual winner Gretchen Whitmer. The Democratic nominee has embraced progressive policies, especially Medicare for All – a plan to expand government-funded healthcare to everyone in the US.\nRogers is a 63-year-old former US Congress member and state legislator. The Republican nominee ran for the Senate in 2024 and narrowly lost to centrist Democratic Senator Elissa Slotkin.\nHe is a close ally of Donald Trump, but has sought to create some distance between his campaign and the unpopular president.\nFor example, Rogers has supported Trump’s decision to join Israel in launching the war against Iran, while also calling for an end to the conflict.\nThe Republican candidate also backs tax cuts, increasing domestic energy production and deregulation.\nWhy is the race so important?\nIt will be difficult for Democrats to gain control of the Senate if they lose Michigan. The seat is currently held by retiring Democrat Gary Peters.\nA Rogers win would hand the swing state Senate seat to Republicans for at least six years.\nThe race, however, is not just about the partisan math in the Senate. It is a test of the electoral viability of progressive ideas, including sharp criticism of Israel, in a swing state.\nWhile the Senate has many progressive members, most come from coastal states considered Democratic strongholds.\nA victory for El-Sayed in Michigan would show that his message can attract a winning coalition, which could influence how Democratic presidential candidates may go about their campaigning in 2028.\nThere is also the factor of El-Sayed’s Muslim faith, which had become the subject of near daily attacks by Rogers and Trump.\nThe race has raised questions about whether Michigan and the US are ready for a Muslim senator.\nWhy has Israel become a major issue in the race?\nEl-Sayed has accused Israel of carrying out a genocide in Gaza, echoing th"
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+     "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
+     "lang": "en",
+     "extra": {},
+     "id": "9f907efba68e8247",
+     "published": "2026-11-01T17:36+00:00",
+     "text": "Rep. Haley Stevens (D-Mich.) appeared Sunday at Detroit's Perfecting Church alongside Republican Senate candidate Mike Rogers, praising his support for Black-owned businesses just two days before he faces the Democratic nominee she previously endorsed.\nWhy it matters: The appearance gives Rogers a striking moment as his party tries to peel away Black and Jewish voters in a tight race that could determine control of the Senate.\nDriving the news: Stevens' appearance with Rogers came after plans for her to attend a Detroit church service alongside Democratic nominee Abdul El-Sayed and Rep. Jim Clyburn (D-S.C.) collapsed.\nThe intrigue: A video posted by Detroit journalist Sam Robinson showed Stevens entering the church and praising Rogers.\nCatch up quick: The bitter primary rivalry erupted again last week when Stevens' fiancé, Jason Turkish, announced he would vote for Rogers, citing concerns about El-Sayed's rhetoric on Israel.\nWhat we're watching: Michigan voters choose between Rogers and El-Sayed on Tuesday, with Democrats facing a crucial test of whether they can reunite their coalition."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/turmoil-in-michigans-senate-race-as-democrat-haley-stevens-appears-with-republican-mike-rogers",
+     "title": "Turmoil in Michigan's Senate race as Democrat Haley Stevens appears with Republican Mike Rogers",
+     "lang": "en",
+     "extra": {},
+     "id": "afd0b8113bb8e510",
+     "published": "2026-11-01T17:37+00:00",
+     "text": "Stevens' show of support for President Donald Trump's endorsed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election",
+     "title": "Democrat Haley Stevens endorses GOP's Mike Rogers in Michigan Senate race 2 days before election",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP26305620559752-1024x682.jpg"
+     },
+     "id": "04c42a27dddd8a57",
+     "published": "2026-11-01T17:37+00:00",
+     "text": "The remarkable show of support for President Donald Trump's backed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/2026-election/haley-stevens-endorses-gop-mike-rogers-michigan-senate-race-el-sayed-rcna606831",
+     "title": "Rep. Haley Stevens endorses GOP candidate Mike Rogers in Michigan Senate race",
+     "lang": "en",
+     "extra": {},
+     "id": "354d3d4636b9ec8f",
+     "published": "2026-11-01T17:49+00:00",
+     "text": "Rep. Haley Stevens, D-Mich., endorsed Republican Senate candidate Mike Rogers on Sunday, a major shakeup in the final stages of a top battleground race that could determine which party controls the Senate."
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/359f/live/2470c810-d61e-11f1-905f-4bb31135b4e2.jpg"
+     },
+     "id": "56794dc3088759e0",
+     "published": "2026-11-01T18:24+00:00",
+     "text": "- Published\nA Democrat in Michigan has endorsed the Republican candidate in the state's closely-fought US Senate contest, as a spat with her own party's candidate Abdul El-Sayed escalated just days before the vote.\nHaley Stevens, a former congresswomen who lost out on the Democratic nomination to El-Sayed, made a surprise appearance alongside the Republican candidate Mike Rogers at a church on Sunday.\n\"I don't belong in Abdul's campaign,\" she said in a video posted to X shortly after that appearance. \"Who we are as Michiganders is not hate and is not what we are getting out from our Democratic nominee right now.\"\n\"That's why I am endorsing Mike Rogers,\" Stevens said.\nStevens also said El-Sayed had told her she was no longer welcome in his campaign.\nThe pair had been scheduled to appear together at an event on Sunday, but El-Sayed reportedly asked her not to come.\nThey had clashed publicly over a campaign advert from a liberal group which blamed Israel for high food prices.\nEl-Sayed, who has not commented on Stevens's endorsement of his opponent, criticised the advert and said he had nothing to do with its contents.\nThe Michigan Senate race is considered by analysts to be one of the tightest in Tuesday's midterm elections, which will decide which party controls Congress for the next two years.\nIt is one of a handful of battleground contests that will ultimately decide control of the Senate.\nThis breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\nYou can receive Breaking News on a smartphone or tablet via the BBC News App. You can also follow @BBCBreaking on X, external to get the latest alerts."
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+     "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2Fec%2Fd4ef79ea4b0b9ee9e052fef67bfb%2Fap26305686634346.jpg"
+     },
+     "id": "4bc244a8bbb2b7dd",
+     "published": "2026-11-01T19:49+00:00",
+     "text": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed\nDETROIT — After months of proclaiming support for the Democratic ticket, Rep. Haley Stevens has endorsed GOP Michigan Senate candidate Mike Rogers over her former primary rival Abdul El-Sayed, less than 48 hours before Election Day.\n\"As you may have seen, our Democratic nominee for U.S. Senate, Abdul, said I was no longer welcome in his campaign and that I should stay away, and he's right,\" Stevens said in a video she posted to social media on Sunday. \"And that's why I am endorsing Mike Rogers for the U.S. Senate today.\"\nHer statement followed a surprise appearance with Rogers at a church in Detroit.\nOutside a \"Souls to the Polls\" event at a church in Detroit, El-Sayed told reporters that he doesn't think about Stevens and said voters do not either.\n\"None of this matters,\" El-Sayed said. \"You know what matters. You can go, like, 15 minutes that way, or 15 minutes that way, or 15 minutes that way. And there are families who are preparing to send their kids to schools tomorrow that look like they did 50 years ago. They're worried about what they're going to feed their kids for lunch. They're worried that if one of their kids gets sick, they're not going to be able to pay the bills.\"\nIn her endorsement, Stevens said she does \"not stand with Hasan Piker,\" a streamer that El-Sayed campaigned with during the primary. In August, after Piker implied that Jews' support for Israel puts them at risk of personal violence, El-Sayed sought to distance himself from the controversy, saying Piker did not speak for the campaign. He stopped short of disavowing Piker.\nStevens had been critical that El-Sayed was not doing enough to reassure Jewish and Black voters who supported her during the primary. Even though relations between the pair had been publicly disintegrating for weeks, Stevens' announcement was a surprise.\nTensions accelerated after Stevens' fiance, Jason Turkish, said he planned to vote for Rogers. In a subsequent TV appearance, Stevens maintained she was still planning to support the Democratic nominee. She urged El-Sayed to denounce a recent ad by Cenk Uygur, of Young Turks, that blamed Israel for high grocery prices in the United States.\n\"The ad tells Michigan families they cannot afford groceries because their money has to be set aside 'for killing Palestinians,' and it blames our close ally Israel for everything Michiganders cannot afford,\" she wrote.\nEl-Sayed's campaign had said he had nothing to do with the ad and criticized the contents of the ad on Saturday.\nStevens said she was originally scheduled to attend a different church event in Detroit on Sunday alongside El-Sayed and Rep. James Clyburn, D-S.C. The planned joint appearance was meant to be a unifying event for the party ahead of the election. But on Friday, Stevens set a condition for her participation in the event — that El-Sayed reject the ad and apologize for rhetoric she considered to be inflammatory and offensive.\nThe event with El-Sayed and Clyburn went ahead as planned, without Stevens.\nStevens' announcement has sent shockwaves through the Democratic Party.\nSenate Minority Leader Chuck Schumer, D-N.Y., called it a \"despicable betrayal.\"\n\"Haley Stevens' decision to campaign with Rogers — a man who has repeatedly sold out Michigan's working class, wants to pass a national abortion ban, and has pledged to be a loyal vote for Trump's agenda — shows that she has abandoned everything she cl"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/video/fallout-of-michigan-democratic-rift",
+     "title": "Madness in Michigan after Democratic Rep. Haley Stevens endorses GOP candidate Mike Rogers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/5e10dc30-ba24-4f3a-b1b8-77585879d79c/thumbnail/1200x630/3dbe38c2a61d1e016af50d46f026834d/cbsn-fusion-fallout-of-michigan-democratic-rift-thumbnail.jpg"
+     },
+     "id": "da2671fdb0e7e18e",
+     "published": "2026-11-02T01:55+00:00",
+     "text": "Democrats are furious at Rep. Haley Stevens after she endorsed the GOP Senate candidate in Michigan, Mike Rogers, over Democrat Abdul El-Sayed. Nikole Killion is in Lansing with details on how it all unfolded."
+    }
+   ]
+  },
+  {
    "id": "ce07dacdb45",
    "kind": "news",
    "score": 18.0,
@@ -1903,6 +2036,93 @@
      "id": "789581ca127e7eca",
      "published": "2026-11-01T17:09+00:00",
      "text": "- Binance withdrawals resume following $6 billion hack CNN\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- A simple explainer of the massive $6.3 billion crypto heist at Binance NPR\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
+    }
+   ]
+  },
+  {
+   "id": "c13137ee7b3",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": true,
+   "distinct_sites": 6,
+   "title_hint": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-02/france-launches-attempted-murder-probe-into-petrol-bomb-attack/107334294",
+     "title": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
+     "lang": "en",
+     "extra": {},
+     "id": "13137ee7b3f2cb72",
+     "published": "2026-11-01T14:17+00:00",
+     "text": "A French officer described \"skin that stings\" after being set alight by a molotov cocktail during another weekend of protests in Paris."
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
+     "title": "France opens attempted murder probe after protest attack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79823013_6.jpg"
+     },
+     "id": "cc86e8190b9adf2c",
+     "published": "2026-11-01T14:50+00:00",
+     "text": "Paris prosecutors opened an attempted murder investigation Sunday after a Molotov cocktail was thrown at security forces during a demonstration in the French capital.\nProsecutors said explosive projectiles targeted about 15 gendarmes as well as police officers. No suspects have been arrested over the attack, and investigators were still establishing the number and severity of injuries.\nWhat happened in Paris?\nThe attack took place at Porte de Charenton, where Saturday's march ended. Photographs and video from the AFP news agency showed an incendiary device exploding at a gendarme's feet and setting his protective equipment alight.\nProsecutors said reported injuries included second-degree burns and tinnitus, although those details remained provisional. Interior Minister Laurent Nunez described the attack as an attempted murder.\nHow many people were arrested?\nThe Interior Ministry reported 779 arrests nationwide during the demonstrations and Halloween night. The figure includes both events, updating Saturday evening's provisional total of 565. Authorities said the later part of the night passed without major incidents.\nParis prosecutors separately reported 105 arrests in the capital: 88 linked to the demonstrations and 17 to Halloween night. They said 89 people remained in custody, including at least 22 minors.\nThe protests focused on high living costs and government policies. The ministry put nationwide turnout at 320,000, while unions estimated nearly 500,000 participants.\nThe nationwide arrest total was below the 1,314 recorded during the previous Saturday's mobilization and the 2,628 on October 17, when widespread rioting and looting broke out. Authorities had increased security ahead of Halloween amid online calls for violence."
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/europe/france-launches-attempted-murder-probe-after-petrol-bomb-attack-on-security-forces",
+     "title": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/136c36717e45469303c0d628d5e22333a97fb5fbf9cf732a1158b972fadfc92f?w=1200"
+     },
+     "id": "743087b2c2b803cb",
+     "published": "2026-11-01T14:53+00:00",
+     "text": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces\nAI generated\nPARIS – France has launched an attempted murder investigation after petrol bombs were thrown at security forces during a weekend protest in Paris, prosecutors told AFP on Nov 1.\nOn Oct 31, clashes erupted in the capital and some other cities after hundreds of thousands of people staged a third weekend of protests against soaring living costs.\nThe Paris police prefecture said that several hundred rioters had attacked security forces with projectiles, including a Molotov cocktail. Interior Minister Laurent Nunez has decried an “extraordinary” level of violence from some rioters.\n“Explosive devices were thrown at around 15 gendarmes as well as police officers,” the prosecutor’s office said on Nov 1.\nGendarmes are military police officers who are part of the French armed forces.\nProsecutors said an investigation had been opened for “attempted murder of persons vested with public authority”.\nDramatic images, including AFP photos and video, showed a homemade incendiary device exploding at the feet of a security officer in eastern Paris, engulfing his lower body in flames.\nAn assessment of the injured was ongoing, prosecutors said, adding that the reported injuries include second-degree burns.\nInitial complaints were expected to be filed on Nov 1.\nThe gendarme struck by the Molotov cocktail told French television of the burns he suffered, describing “skin that stings” and a “rain” of projectiles thrown at his unit.\nFewer shops damaged\nNo suspects “have been arrested at this stage in connection with the incident”, the prosecutor’s office said, adding that investigators were working to identify those responsible.\nFar-right leader Marine le Pen said those responsible for the firebomb attack must be “punished with the utmost severity”, in a post on X, describing images of the officer in flames as “unbearable”.\nMore than 770 people were arrested during weekend protests in France, the Interior Ministry said on Nov 1. It added that there had been “no major incidents” late on Oct 31.\nThe number of shops damaged on the sidelines of the Oct 31 protests was significantly lower than during previous weekends, with some 20 businesses affected, according to France’s Chambers of Commerce and Industry (CCI).\nBut CCI France voiced concern about the impact of the protests on retail activity ahead of the year-end holiday season, a peak period for businesses. AFP"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
+     "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae780295f69-1793556521.jpg?resize=1920%2C1440"
+     },
+     "id": "4706f4e1a514e668",
+     "published": "2026-11-01T18:58+00:00",
+     "text": "Prosecutors in France have launched an investigation into attempted murder after petrol bombs were thrown at security forces during protests in Paris, as video of an officer in flames provoked outrage.\nThe probe announced on Sunday came after the Paris police prefecture said several hundred rioters had attacked security forces with projectiles, including a Molotov cocktail.\nRecommended Stories\nlist of 4 items- list 1 of 4Why has France struggled to address students’ demands?\n- list 2 of 4Why are French youth rioting?\n- list 3 of 4France braces for ‘very high risk’ of disorder at Halloween protests\n- list 4 of 4France protests enter third week as police fire tear gas\nOn Saturday, clashes erupted in Paris and other cities as hundreds of thousands of people staged a third weekend of protests against soaring living costs and deteriorating public services.\nVideo and images from the demonstrations showed a homemade incendiary device exploding at the feet of a security officer in protective gear, engulfing his lower body in flames.\nProsecutors said the investigation was opened for “attempted murder of persons vested with public authority”.\n“Explosive devices were thrown at around 15 gendarmes as well as police officers,” the prosecutor’s office said, referring to military police officers who are part of the French armed forces.\nWhile riots were less widespread than two weeks ago, when France experienced some of its worst unrest in years, Interior Minister Laurent Nunez said on Saturday that the level of violence perpetrated by some was “extraordinary”.\nAn assessment of the injured was ongoing, prosecutors said, adding that the reported injuries included second-degree burns.\nNo suspects arrested yet\nThe gendarme struck said his unit was “under assault”, with glass bottles, paving stones, shards of glass and firebombs thrown at them.\n“We were hit by several significant incendiary devices,” he told broadcaster RTL on condition of anonymity.\n“The flammable substance was so greasy that I could feel it spreading across my skin,” he said. “I kept wondering when it would stop because I really felt as though I had been coated by the heat itself.”\nThe officer, who received minor injuries, said the leg and shin protections on his riot uniform melted.\nThe gendarmerie said 13 members of the officer’s unit were injured, according to RTL.\nNo suspects “have been arrested at this stage in connection with the incident”, the prosecutor’s office said, adding that investigators were working to identify those responsible.\nMore than 770 people were arrested across France, the interior ministry said.\nA total of 159 members of law enforcement were injured during protests and Halloween celebrations, it added.\nThe protests come in a tense political climate, with presidential elections six months away and far-right frontrunner Marine Le Pen vowing to restore law and order if elected next year.\nLe Pen, the leader of the far-right National Rally party, said on X that those responsible for the firebomb attack must be “punished with the utmost severity”."
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+     "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg"
+     },
+     "id": "960bbd6ecc754ab7",
+     "published": "2026-11-02T00:15+00:00",
+     "text": "- Published\nProsecutors in France have launched an attempted murder investigation after petrol bombs were thrown at police during unrest, French media reported.\nAn image of a police officer with his leg on fire during a clash with protesters in Paris on Saturday has prompted outrage and follows weeks of street protests in France that have also seen demonstrators injured.\nThe officer, who suffered burns to his ankle and minor injures to his hand, told French newspaper Le Figaro it was a \"particularly sophisticated\" incendiary device.\nInterior Minister Laurent Nuñez said throwing a molotov cocktail at a police line was \"what I call a murder attempt\", adding officers were working to find the perpetrators.\nHundreds of thousands of people demonstrated across France in largely peaceful protests on Saturday, the latest in a series of youth-led protests that began in late September demanding action on the high cost of living and poor public services, especially schools.\nFollowing previous clashes and looting, thousands of police officers were deployed across the country over the weekend, and officers fired tear gas at demonstrators in some cities.\nThere were more than 770 arrests on Saturday, roughly half as many as the previous week's protests, the French interior ministry said.\nBut police said no one had been arrested for the attack caught on camera that set a police officer on fire, AFP reported.\nThe officer - part of the National Gendarmerie, a national law enforcement force that is technically part of the military but under the control of the interior ministry - said his unit \"suddenly found ourselves facing several hundred hostile, well equipped adversaries\".\nSpeaking to French newspaper Le Figaro, he said police were yet to identify the liquid used but that the incendiary device \"had a far greater burning capacity than a standard Molotov cocktail\".\n\"We faced hostile individuals who are not protesters,\" he said. \"These adversaries are there with the intent to harm those who represent the state.\"\nFourteen other officers sustained wounds ranging from minor to serious, he said, adding some were struck by paving stones. The unit was supposed to be on leave but had been urgently recalled to police the weekend protests, he said.\nFrench protest organisers, the Gilets Jaunes, or Yellow Vests, have said dozens of protesters have been seriously injured during recent demonstrations across the country, with many hurt by \"grenades\".\nFrance suspended the use of one type of stun grenade while policing student protests in early October after a 15-year-old's hand was blown off, but French newspaper Le Monde has reported that police have continued to use a different model in subsequent protests.\nProtests also took place in Germany and Italy over the weekend, as mainly youth-led protests continue across parts of Europe, with varying demands but broadly linked to a focus on cost-of-living issues and public services."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41V0xneml3Vm91VHN3bTVkbzNhNVFBb09qM1BQR29ZNHlKeGhvZlA2cFFrM1dRQXNRWWYyZ0tKVjZPUV9GM0d0bjZxNW90TXJhdXpFZTFpMlowSWc?oc=5",
+     "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "1b4199374a254132",
+     "published": "2026-11-02T00:15+00:00",
+     "text": "- France launches attempted murder investigation after petrol bomb thrown at police BBC\n- Massive protests sweep Europe over cost of living and strained public services NBC News\n- Clashes Erupt Again in France, After Festive Start to Day of Protest The New York Times\n- From teargas in Paris to gen Z in Germany: protests across Europe – in pictures The Guardian\n- Europe’s youth return to the streets for another weekend of protests, in photos AP News"
     }
    ]
   },
@@ -2209,6 +2429,17 @@
      "id": "ebc36dee8d5361f4",
      "published": "2026-11-01T12:49+00:00",
      "text": "The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and Apple’s new HomeView. We have AirPods Pro 3 at $50 off, all-time lows on AirTag 2 starting at just $17.50 a pop, and nearly $100 off the new Apple Watch Ultra 4.\nMoving over to the Mac, the latest M6 Mac mini is $150 off, the M5 MacBook Air has returned to the lowest prices in months at $200 off, and we have pre-order offers on the new M6 MacBook Pro, M6 iMac, and the MacBook Pro with PROLED XDR Display. All of that joins Apple’s new OLED iPad mini and the next-gen World Travel Kit, as well as this deal on Apple Pencil USB-C for iPhone Duo users. Check it all out below.\nThis weekend’s Apple deals\n- AirPods\n- New Apple TV 4K\n- HomeView\n- AirTag 2\n- Apple Pencil USB-C\n- M6 Mac mini\n- MacBook Air\n- M6 MacBook\n- PROLED XDR MacBook Pro with Touch\n- M5 Pro MacBook Pro\n- M5 Max Mac Studio\n- OLED iPad mini\n- Apple Watch Ultra 4\n- Apple Magic Keyboard (NEW 2026 model)\n- New Apple accessories\n- Apple MagSafe Battery\n- M6 iMac\n- Apple iPhone 18 Pro Cases\n- Apple iPhone 18 Pro Max Cases\nAirPods\n- AirPods Pro 3 $199 (Reg. $249)\n- AirPods Max 2 $449 (Reg. $549)\nNew Apple TV 4K\n- NEW Apple TV 4K (4th Generation) $289 (Reg. $300)\nHomeView\n- Apple HomeView $289 (Reg. $299)\n- Apple HomeView (Wall mounted) $299\n- Apple HomeView (Wall Mounted) with USB-C Wall Connector Power Mount $359\n- Apple HomeView (Wall Mounted) with AC-Wired Power Mount $379\nAirTag 2\n- AirTag 2 $24 (Reg. $29) – Matching all-time low\n- AirTag 2 4-pack $70 (Reg. $99) – Matching all-time low\nApple Pencil USB-C\n- Apple Pencil USB-C $69 (Reg. $79)\nM6 Mac mini\n- M6 Mac mini 16GB/256GB $780 (Reg. $899)\n- M6 Mac mini 16GB/512GB $950 (Reg. $1,099)\n- M6 Mac mini 24GB/512GB $1,150 (Reg. $1,299)\n- M5 Pro Mac mini 24GB/512GB $1,550 (Reg. $1,699)\nMacBook Air\n- 13-inch M5 MacBook Air 16GB/512GB $1,099 (Reg. $1,299) – Matching Prime Day\n- 13-inch M5 MacBook Air 16GB/1TB $1,399 (Reg. $1,599) – Matching Prime Day\n- 13-inch M5 MacBook Air 24GB/1TB $1,599 (Reg. $1,799) – Matching Prime Day\n- 15-inch M5 MacBook Air 16GB/512GB $1,339 (Reg. $1,499)\n- 15-inch M5 MacBook Air 16GB/1TB $1,599 (Reg. $1,799) – Matching Prime Day\n- 15-inch M5 MacBook Air 24GB/1TB $1,799 (Reg. $1,999) – Matching Prime Day\nM6 MacBook\n- 14-inch M6 MacBook Pro 16GB/1TB $1,999 at Amazon\n- 14-inch M6 MacBook Pro 24GB/1TB $2,199 at Amazon\n- 14-inch M6 MacBook Pro 32GB/1TB $2,399 at Amazon\n- 14-inch M6 MacBook Pro 16GB/1TB $1,999 + $100 Best Buy gift card\n- 14-inch M6 MacBook Pro 24GB/1TB $2,199 + $100 Best Buy gift card\n- 14-inch M6 MacBook Pro 32GB/1TB $2,399 + $100 Best Buy gift card\nPROLED XDR MacBook Pro with Touch\n- 14-inch M5 Pro MacBook Pro with PROLED XDR Display $2,899 at Amazon\n- 16-inch M5 Pro MacBook Pro with PROLED XDR Display $3,399 at Amazon\n- 14-inch M5 Pro MacBook Pro PROLED XDR 24GB/1TB $2,899 + $100 Best Buy gift card\n- 14-inch M5 Pro MacBook Pro PROLED XDR 48GB/1TB $3,699 + $100 Best Buy gift card\n- 16-inch M5 Pro MacBook Pro PROLED XDR 48GB/1TB $3,999 + $100 Best Buy gift card\n- 16-inch M5 Pro MacBook Pro PROLED XDR 48GB/2TB $5,399 + $100 Best Buy gift card\nM5 Pro MacBook Pro\n- 14-inch M5 Pro MacBook Pro 24GB/2TB $2,649 (Reg. $2,999)\n- 16-inch M5 Max MacBook Pro 36GB/2TB $3,499 (Reg. $4,399)\nM5 Max Mac Studio\n- 2026 M5 Max Mac Studio $2,299 (Reg. $2,499) – All-time low\nOLED iPad mini\n- OLED iPad mini 128GB $699 at Amazon\n- OLED iPad mi"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/best-deals-for-november-1-2026",
+     "title": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+     "lang": "en",
+     "extra": {},
+     "id": "60022ce9e9863280",
+     "published": "2026-11-01T23:24+00:00",
+     "text": "A new weekend has arrived, and today, you can save big on Gears of War: E-Day, Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, Star Wars Zero Company, and more. Check out our top picks for Sunday, November 1, below.\nGears of War: E-Day is one of the best games of the year, and today, you can save a few dollars on a physical Xbox copy at Amazon. We gave the game a 9/10 in our review, writing, \"Gears of War: E-Day’s stellar story campaign is complemented by an excellent multiplayer suite, particularly its evolved Horde Siege PvE mode.\"\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nPhysical PS5 copies of Dune: Awakening are on sale for $39.99 right now at Amazon. This is the perfect time to jump in, especially with Dune: Part Three just a few months away. In our 8/10 review, we wrote, \"Dune: Awakening is an excellent survival MMO that captures Frank Herbet’s sci-fi world incredibly well, mostly to its advantage and occasionally to its detriment. The survival climb from dehydrated peasant to powerful warlord of Arrakis is a joy almost every step of the way, and the story and worldbuilding filled this nerd with absolute joy.\"\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with the HD-2"
     },
     {
      "source": "Google News Technology EN",
@@ -2558,113 +2789,6 @@
    ]
   },
   {
-   "id": "c938b7f7f0a",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 7,
-   "title_hint": "Haley Stevens’ Fiancé Escalates Abdul El-Sayed Feud in Michigan Senate Race",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmxMQ0lsQnphQXhaX1VFODdKVkI2aVRfdnRHc3o1R1VZSkRlZEE4R3N2NE1hYnpobzBkSmJkS0VJR0FXZ3FPbDJrczh3cmtjYWw1UTB4dUljTVV4SU94ZjZRdnZVQm13OGVlcGVVR19LNzVEbHZ6cVRndUZtdVNkWVpabEZvdTJVZndrRUJic0VJV3E1WGUyZ2NYa29KQzBT?oc=5",
-     "title": "Haley Stevens’ Fiancé Escalates Abdul El-Sayed Feud in Michigan Senate Race",
-     "lang": "en",
-     "extra": {},
-     "id": "938b7f7f0a9fba49",
-     "published": "2026-10-31T18:35+00:00",
-     "text": "Haley Stevens’ Fiancé Escalates Abdul El-Sayed Feud in Michigan Senate Race\nNewsweek"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/michigan-race-all-you-need-to-know-about-abdul-el-sayed-v-mike-rogers?traffic_source=rss",
-     "title": "Michigan race: All you need to know about Abdul El-Sayed v Mike Rogers",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae64207bce1-1793475079.jpg?resize=1920%2C1440"
-     },
-     "id": "f5844a8dcbfcbc17",
-     "published": "2026-11-01T13:03+00:00",
-     "text": "Dearborn, Michigan – Chadi Abdulrazek, an Arab American political activist who has been volunteering to help elect Democratic Senate candidate Abdul El-Sayed, says he’s spoken in recent days to journalists from Denmark, Sweden, the Netherlands, France and the United Kingdom.\nThe United States Senate race between El-Sayed and his Republican rival Mike Rogers is attracting national and international attention, reflecting the potent political symbolism that belies its outcome, which extends far beyond one seat in the upper chamber of Congress.\nSupporters in each camp paint the contest as a crucial fight that could shape the political direction of the state and the nation for years.\nAbdulrazek, a small business owner, said the election is a chance to hold Trump accountable for breaking his promises to pursue peace in the world and focus on the needs of Americans.\nFor Arab and Muslim communities that have been facing Islamophobic attacks as part of the Senate race, the vote is pivotal, he added.\n“What’s on the line is they have to stand up for themselves and say, ‘We are part of this country, and we’re going to be voting, and we will actually make a change’,” Abdulrazek told Al Jazeera.\nHere, Al Jazeera looks at the US Senate race in Michigan and why it has gained so much attention.\nWho are the candidates?\nEl-Sayed is a public health advocate who previously led the health department in Detroit and Wayne County in southeast Michigan. He is 42.\nIf elected, the Democrat of Egyptian descent would become the first-ever Muslim US senator.\nEl-Sayed ran for governor in 2018 but fell short in the Democratic primary against eventual winner Gretchen Whitmer. The Democratic nominee has embraced progressive policies, especially Medicare for All – a plan to expand government-funded healthcare to everyone in the US.\nRogers is a 63-year-old former US Congress member and state legislator. The Republican nominee ran for the Senate in 2024 and narrowly lost to centrist Democratic Senator Elissa Slotkin.\nHe is a close ally of Donald Trump, but has sought to create some distance between his campaign and the unpopular president.\nFor example, Rogers has supported Trump’s decision to join Israel in launching the war against Iran, while also calling for an end to the conflict.\nThe Republican candidate also backs tax cuts, increasing domestic energy production and deregulation.\nWhy is the race so important?\nIt will be difficult for Democrats to gain control of the Senate if they lose Michigan. The seat is currently held by retiring Democrat Gary Peters.\nA Rogers win would hand the swing state Senate seat to Republicans for at least six years.\nThe race, however, is not just about the partisan math in the Senate. It is a test of the electoral viability of progressive ideas, including sharp criticism of Israel, in a swing state.\nWhile the Senate has many progressive members, most come from coastal states considered Democratic strongholds.\nA victory for El-Sayed in Michigan would show that his message can attract a winning coalition, which could influence how Democratic presidential candidates may go about their campaigning in 2028.\nThere is also the factor of El-Sayed’s Muslim faith, which had become the subject of near daily attacks by Rogers and Trump.\nThe race has raised questions about whether Michigan and the US are ready for a Muslim senator.\nWhy has Israel become a major issue in the race?\nEl-Sayed has accused Israel of carrying out a genocide in Gaza, echoing th"
-    },
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
-     "title": "Haley Stevens endorses Mike Rogers amid Michigan Democratic feud",
-     "lang": "en",
-     "extra": {},
-     "id": "9f907efba68e8247",
-     "published": "2026-11-01T17:36+00:00",
-     "text": "Rep. Haley Stevens (D-Mich.) appeared Sunday at Detroit's Perfecting Church alongside Republican Senate candidate Mike Rogers, praising his support for Black-owned businesses just two days before he faces the Democratic nominee she previously endorsed.\nWhy it matters: The appearance gives Rogers a striking moment as his party tries to peel away Black and Jewish voters in a tight race that could determine control of the Senate.\nDriving the news: Stevens' appearance with Rogers came after plans for her to attend a Detroit church service alongside Democratic nominee Abdul El-Sayed and Rep. Jim Clyburn (D-S.C.) collapsed.\nThe intrigue: A video posted by Detroit journalist Sam Robinson showed Stevens entering the church and praising Rogers.\nCatch up quick: The bitter primary rivalry erupted again last week when Stevens' fiancé, Jason Turkish, announced he would vote for Rogers, citing concerns about El-Sayed's rhetoric on Israel.\nWhat we're watching: Michigan voters choose between Rogers and El-Sayed on Tuesday, with Democrats facing a crucial test of whether they can reunite their coalition."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/politics/turmoil-in-michigans-senate-race-as-democrat-haley-stevens-appears-with-republican-mike-rogers",
-     "title": "Turmoil in Michigan's Senate race as Democrat Haley Stevens appears with Republican Mike Rogers",
-     "lang": "en",
-     "extra": {},
-     "id": "afd0b8113bb8e510",
-     "published": "2026-11-01T17:37+00:00",
-     "text": "Stevens' show of support for President Donald Trump's endorsed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/politics/democrat-haley-stevens-endorses-gops-mike-rogers-in-michigan-senate-race-2-days-before-election",
-     "title": "Democrat Haley Stevens endorses GOP's Mike Rogers in Michigan Senate race 2 days before election",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/AP26305620559752-1024x682.jpg"
-     },
-     "id": "04c42a27dddd8a57",
-     "published": "2026-11-01T17:37+00:00",
-     "text": "The remarkable show of support for President Donald Trump's backed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary."
-    },
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/2026-election/haley-stevens-endorses-gop-mike-rogers-michigan-senate-race-el-sayed-rcna606831",
-     "title": "Rep. Haley Stevens endorses GOP candidate Mike Rogers in Michigan Senate race",
-     "lang": "en",
-     "extra": {},
-     "id": "354d3d4636b9ec8f",
-     "published": "2026-11-01T17:49+00:00",
-     "text": "Rep. Haley Stevens, D-Mich., endorsed Republican Senate candidate Mike Rogers on Sunday, a major shakeup in the final stages of a top battleground race that could determine which party controls the Senate."
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-     "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/359f/live/2470c810-d61e-11f1-905f-4bb31135b4e2.jpg"
-     },
-     "id": "56794dc3088759e0",
-     "published": "2026-11-01T18:24+00:00",
-     "text": "- Published\nA Democrat in Michigan has endorsed the Republican candidate in the state's closely-fought US Senate contest, as a spat with her own party's candidate Abdul El-Sayed escalated just days before the vote.\nHaley Stevens, a former congresswomen who lost out on the Democratic nomination to El-Sayed, made a surprise appearance alongside the Republican candidate Mike Rogers at a church on Sunday.\n\"I don't belong in Abdul's campaign,\" she said in a video posted to X shortly after that appearance. \"Who we are as Michiganders is not hate and is not what we are getting out from our Democratic nominee right now.\"\n\"That's why I am endorsing Mike Rogers,\" Stevens said.\nStevens also said El-Sayed had told her she was no longer welcome in his campaign.\nThe pair had been scheduled to appear together at an event on Sunday, but El-Sayed reportedly asked her not to come.\nThey had clashed publicly over a campaign advert from a liberal group which blamed Israel for high food prices.\nEl-Sayed, who has not commented on Stevens's endorsement of his opponent, criticised the advert and said he had nothing to do with its contents.\nThe Michigan Senate race is considered by analysts to be one of the tightest in Tuesday's midterm elections, which will decide which party controls Congress for the next two years.\nIt is one of a handful of battleground contests that will ultimately decide control of the Senate.\nThis breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version.\nYou can receive Breaking News on a smartphone or tablet via the BBC News App. You can also follow @BBCBreaking on X, external to get the latest alerts."
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-     "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2Fec%2Fd4ef79ea4b0b9ee9e052fef67bfb%2Fap26305686634346.jpg"
-     },
-     "id": "4bc244a8bbb2b7dd",
-     "published": "2026-11-01T19:49+00:00",
-     "text": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed\nDETROIT — After months of proclaiming support for the Democratic ticket, Rep. Haley Stevens has endorsed GOP Michigan Senate candidate Mike Rogers over her former primary rival Abdul El-Sayed, less than 48 hours before Election Day.\n\"As you may have seen, our Democratic nominee for U.S. Senate, Abdul, said I was no longer welcome in his campaign and that I should stay away, and he's right,\" Stevens said in a video she posted to social media on Sunday. \"And that's why I am endorsing Mike Rogers for the U.S. Senate today.\"\nHer statement followed a surprise appearance with Rogers at a church in Detroit.\nOutside a \"Souls to the Polls\" event at a church in Detroit, El-Sayed told reporters that he doesn't think about Stevens and said voters do not either.\n\"None of this matters,\" El-Sayed said. \"You know what matters. You can go, like, 15 minutes that way, or 15 minutes that way, or 15 minutes that way. And there are families who are preparing to send their kids to schools tomorrow that look like they did 50 years ago. They're worried about what they're going to feed their kids for lunch. They're worried that if one of their kids gets sick, they're not going to be able to pay the bills.\"\nIn her endorsement, Stevens said she does \"not stand with Hasan Piker,\" a streamer that El-Sayed campaigned with during the primary. In August, after Piker implied that Jews' support for Israel puts them at risk of personal violence, El-Sayed sought to distance himself from the controversy, saying Piker did not speak for the campaign. He stopped short of disavowing Piker.\nStevens had been critical that El-Sayed was not doing enough to reassure Jewish and Black voters who supported her during the primary. Even though relations between the pair had been publicly disintegrating for weeks, Stevens' announcement was a surprise.\nTensions accelerated after Stevens' fiance, Jason Turkish, said he planned to vote for Rogers. In a subsequent TV appearance, Stevens maintained she was still planning to support the Democratic nominee. She urged El-Sayed to denounce a recent ad by Cenk Uygur, of Young Turks, that blamed Israel for high grocery prices in the United States.\n\"The ad tells Michigan families they cannot afford groceries because their money has to be set aside 'for killing Palestinians,' and it blames our close ally Israel for everything Michiganders cannot afford,\" she wrote.\nEl-Sayed's campaign had said he had nothing to do with the ad and criticized the contents of the ad on Saturday.\nStevens said she was originally scheduled to attend a different church event in Detroit on Sunday alongside El-Sayed and Rep. James Clyburn, D-S.C. The planned joint appearance was meant to be a unifying event for the party ahead of the election. But on Friday, Stevens set a condition for her participation in the event — that El-Sayed reject the ad and apologize for rhetoric she considered to be inflammatory and offensive.\nThe event with El-Sayed and Clyburn went ahead as planned, without Stevens.\nStevens' announcement has sent shockwaves through the Democratic Party.\nSenate Minority Leader Chuck Schumer, D-N.Y., called it a \"despicable betrayal.\"\n\"Haley Stevens' decision to campaign with Rogers — a man who has repeatedly sold out Michigan's working class, wants to pass a national abortion ban, and has pledged to be a loyal vote for Trump's agenda — shows that she has abandoned everything she cl"
-    }
-   ]
-  },
-  {
    "id": "cbb11ab35d0",
    "kind": "news",
    "score": 16.0,
@@ -2816,115 +2940,6 @@
      "id": "20e384df1ab7a825",
      "published": "2026-11-01T16:02+00:00",
      "text": "The action genre has been led by some Hollywood royalty, and that includes Denzel Washington. With movies such as Taken and John Wick, the genre continues to evolve, but there are some movies that have paved the way for what is known as action in 2026. Washington has had a lengthy career spanning over five decades, winning two Academy Awards, a Tony Award, and box office earnings surpassing $5.1 billion.\nWith Washington's extensive and impressive career, the actor has a long list of impressive and award-winning movies under his belt. One of those includes the star-studded action thriller Man on Fire released in 2004. The movie follows John Creasy, an assassin in Mexico, who is hired as a bodyguard, a job he does not want to accept. However, he agrees and promises to take revenge on the kidnapper of the child from the family he is protecting. The cast includes Dakota Fanning, Christopher Walken, Radha Mitchell, Mickey Rourke, Marc Anthony, and many more.\nDenzel Washington's Man On Fire Is Now Free To Stream\nMan on Fire, directed by Tony Scott, is based on the 1980 novel written by A.J. Quinnell. The original was set in Italy and highlighted the area, which was a major hotspot for kidnappings at the time. Washington's adaptation is the second to stem from Quinnell's novel, and the first was released in 1987. The first movie was directed by Élie Chouraqui and starring Scott Glenn as John Creasy and Joe Pesci.\nAfter seemingly being unavailable to stream on any of the major streaming giants, Man on Fire is back in action. The action thriller is now available on Pluto TV and is available to watch for free with ads. Pluto TV has 100s of free live TV channels and 1000s of free popular movies and shows that you can stream at any time, making it the perfect home for those who want to watch Washington's movies again and again.\nMan On Fire's Reboot Proves It's An Action Worth Remembering\nThe story of Man on Fire didn't end with Washington's adaptation as Netflix recently revisited the action movie in a seven-episode series starring Yahya Abdul-Mateen II as John Creasy. The Netflix series was created and showrun by Kyle Killen and does not serve as a direct remake of the 2004 movie, and is simply a third adaptation of Quinnell's novel that has generated an entire franchise. The series was set in Rio de Janeiro, Brazil and focuses on local politics, class divides, and criminal conspiracies.\nNetflix's Man on Fire became a global streaming success and reached over 11 million views within its first four days on the streaming giant and was the top most-watched TV series on Netflix across 22 countries.\nWashington's Man on Fire is available to stream for free now on Pluto TV.\nMan on Fire follows John Creasy, an ex-CIA operative turned bodyguard, who is hired to protect a young girl in Mexico City. Initially struggling to connect, they form a bond, and when she is abducted, Creasy embarks on a relentless mission to ensure her safety."
-    }
-   ]
-  },
-  {
-   "id": "c13137ee7b3",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-02/france-launches-attempted-murder-probe-into-petrol-bomb-attack/107334294",
-     "title": "France opens 'attempted murder' probe after riot police attacked with petrol bomb",
-     "lang": "en",
-     "extra": {},
-     "id": "13137ee7b3f2cb72",
-     "published": "2026-11-01T14:17+00:00",
-     "text": "A French officer described \"skin that stings\" after being set alight by a molotov cocktail during another weekend of protests in Paris."
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf",
-     "title": "France opens attempted murder probe after protest attack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79823013_6.jpg"
-     },
-     "id": "cc86e8190b9adf2c",
-     "published": "2026-11-01T14:50+00:00",
-     "text": "Paris prosecutors opened an attempted murder investigation Sunday after a Molotov cocktail was thrown at security forces during a demonstration in the French capital.\nProsecutors said explosive projectiles targeted about 15 gendarmes as well as police officers. No suspects have been arrested over the attack, and investigators were still establishing the number and severity of injuries.\nWhat happened in Paris?\nThe attack took place at Porte de Charenton, where Saturday's march ended. Photographs and video from the AFP news agency showed an incendiary device exploding at a gendarme's feet and setting his protective equipment alight.\nProsecutors said reported injuries included second-degree burns and tinnitus, although those details remained provisional. Interior Minister Laurent Nunez described the attack as an attempted murder.\nHow many people were arrested?\nThe Interior Ministry reported 779 arrests nationwide during the demonstrations and Halloween night. The figure includes both events, updating Saturday evening's provisional total of 565. Authorities said the later part of the night passed without major incidents.\nParis prosecutors separately reported 105 arrests in the capital: 88 linked to the demonstrations and 17 to Halloween night. They said 89 people remained in custody, including at least 22 minors.\nThe protests focused on high living costs and government policies. The ministry put nationwide turnout at 320,000, while unions estimated nearly 500,000 participants.\nThe nationwide arrest total was below the 1,314 recorded during the previous Saturday's mobilization and the 2,628 on October 17, when widespread rioting and looting broke out. Authorities had increased security ahead of Halloween amid online calls for violence."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/europe/france-launches-attempted-murder-probe-after-petrol-bomb-attack-on-security-forces",
-     "title": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/136c36717e45469303c0d628d5e22333a97fb5fbf9cf732a1158b972fadfc92f?w=1200"
-     },
-     "id": "743087b2c2b803cb",
-     "published": "2026-11-01T14:53+00:00",
-     "text": "France launches ‘attempted murder’ probe after petrol bomb attack on security forces\nAI generated\nPARIS – France has launched an attempted murder investigation after petrol bombs were thrown at security forces during a weekend protest in Paris, prosecutors told AFP on Nov 1.\nOn Oct 31, clashes erupted in the capital and some other cities after hundreds of thousands of people staged a third weekend of protests against soaring living costs.\nThe Paris police prefecture said that several hundred rioters had attacked security forces with projectiles, including a Molotov cocktail. Interior Minister Laurent Nunez has decried an “extraordinary” level of violence from some rioters.\n“Explosive devices were thrown at around 15 gendarmes as well as police officers,” the prosecutor’s office said on Nov 1.\nGendarmes are military police officers who are part of the French armed forces.\nProsecutors said an investigation had been opened for “attempted murder of persons vested with public authority”.\nDramatic images, including AFP photos and video, showed a homemade incendiary device exploding at the feet of a security officer in eastern Paris, engulfing his lower body in flames.\nAn assessment of the injured was ongoing, prosecutors said, adding that the reported injuries include second-degree burns.\nInitial complaints were expected to be filed on Nov 1.\nThe gendarme struck by the Molotov cocktail told French television of the burns he suffered, describing “skin that stings” and a “rain” of projectiles thrown at his unit.\nFewer shops damaged\nNo suspects “have been arrested at this stage in connection with the incident”, the prosecutor’s office said, adding that investigators were working to identify those responsible.\nFar-right leader Marine le Pen said those responsible for the firebomb attack must be “punished with the utmost severity”, in a post on X, describing images of the officer in flames as “unbearable”.\nMore than 770 people were arrested during weekend protests in France, the Interior Ministry said on Nov 1. It added that there had been “no major incidents” late on Oct 31.\nThe number of shops damaged on the sidelines of the Oct 31 protests was significantly lower than during previous weekends, with some 20 businesses affected, according to France’s Chambers of Commerce and Industry (CCI).\nBut CCI France voiced concern about the impact of the protests on retail activity ahead of the year-end holiday season, a peak period for businesses. AFP"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss",
-     "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae780295f69-1793556521.jpg?resize=1920%2C1440"
-     },
-     "id": "4706f4e1a514e668",
-     "published": "2026-11-01T18:58+00:00",
-     "text": "Prosecutors in France have launched an investigation into attempted murder after petrol bombs were thrown at security forces during protests in Paris, as video of an officer in flames provoked outrage.\nThe probe announced on Sunday came after the Paris police prefecture said several hundred rioters had attacked security forces with projectiles, including a Molotov cocktail.\nRecommended Stories\nlist of 4 items- list 1 of 4Why has France struggled to address students’ demands?\n- list 2 of 4Why are French youth rioting?\n- list 3 of 4France braces for ‘very high risk’ of disorder at Halloween protests\n- list 4 of 4France protests enter third week as police fire tear gas\nOn Saturday, clashes erupted in Paris and other cities as hundreds of thousands of people staged a third weekend of protests against soaring living costs and deteriorating public services.\nVideo and images from the demonstrations showed a homemade incendiary device exploding at the feet of a security officer in protective gear, engulfing his lower body in flames.\nProsecutors said the investigation was opened for “attempted murder of persons vested with public authority”.\n“Explosive devices were thrown at around 15 gendarmes as well as police officers,” the prosecutor’s office said, referring to military police officers who are part of the French armed forces.\nWhile riots were less widespread than two weeks ago, when France experienced some of its worst unrest in years, Interior Minister Laurent Nunez said on Saturday that the level of violence perpetrated by some was “extraordinary”.\nAn assessment of the injured was ongoing, prosecutors said, adding that the reported injuries included second-degree burns.\nNo suspects arrested yet\nThe gendarme struck said his unit was “under assault”, with glass bottles, paving stones, shards of glass and firebombs thrown at them.\n“We were hit by several significant incendiary devices,” he told broadcaster RTL on condition of anonymity.\n“The flammable substance was so greasy that I could feel it spreading across my skin,” he said. “I kept wondering when it would stop because I really felt as though I had been coated by the heat itself.”\nThe officer, who received minor injuries, said the leg and shin protections on his riot uniform melted.\nThe gendarmerie said 13 members of the officer’s unit were injured, according to RTL.\nNo suspects “have been arrested at this stage in connection with the incident”, the prosecutor’s office said, adding that investigators were working to identify those responsible.\nMore than 770 people were arrested across France, the interior ministry said.\nA total of 159 members of law enforcement were injured during protests and Halloween celebrations, it added.\nThe protests come in a tense political climate, with presidential elections six months away and far-right frontrunner Marine Le Pen vowing to restore law and order if elected next year.\nLe Pen, the leader of the far-right National Rally party, said on X that those responsible for the firebomb attack must be “punished with the utmost severity”."
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
-     "title": "France launches attempted murder investigation after petrol bomb thrown at police",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/30b9/live/175c0e10-d62c-11f1-b085-b9e65bc8bfff.jpg"
-     },
-     "id": "960bbd6ecc754ab7",
-     "published": "2026-11-02T00:15+00:00",
-     "text": "- Published\nProsecutors in France have launched an attempted murder investigation after petrol bombs were thrown at police during unrest, French media reported.\nAn image of a police officer with his leg on fire during a clash with protesters in Paris on Saturday has prompted outrage and follows weeks of street protests in France that have also seen demonstrators injured.\nThe officer, who suffered burns to his ankle and minor injures to his hand, told French newspaper Le Figaro it was a \"particularly sophisticated\" incendiary device.\nInterior Minister Laurent Nuñez said throwing a molotov cocktail at a police line was \"what I call a murder attempt\", adding officers were working to find the perpetrators.\nHundreds of thousands of people demonstrated across France in largely peaceful protests on Saturday, the latest in a series of youth-led protests that began in late September demanding action on the high cost of living and poor public services, especially schools.\nFollowing previous clashes and looting, thousands of police officers were deployed across the country over the weekend, and officers fired tear gas at demonstrators in some cities.\nThere were more than 770 arrests on Saturday, roughly half as many as the previous week's protests, the French interior ministry said.\nBut police said no one had been arrested for the attack caught on camera that set a police officer on fire, AFP reported.\nThe officer - part of the National Gendarmerie, a national law enforcement force that is technically part of the military but under the control of the interior ministry - said his unit \"suddenly found ourselves facing several hundred hostile, well equipped adversaries\".\nSpeaking to French newspaper Le Figaro, he said police were yet to identify the liquid used but that the incendiary device \"had a far greater burning capacity than a standard Molotov cocktail\".\n\"We faced hostile individuals who are not protesters,\" he said. \"These adversaries are there with the intent to harm those who represent the state.\"\nFourteen other officers sustained wounds ranging from minor to serious, he said, adding some were struck by paving stones. The unit was supposed to be on leave but had been urgently recalled to police the weekend protests, he said.\nFrench protest organisers, the Gilets Jaunes, or Yellow Vests, have said dozens of protesters have been seriously injured during recent demonstrations across the country, with many hurt by \"grenades\".\nFrance suspended the use of one type of stun grenade while policing student protests in early October after a 15-year-old's hand was blown off, but French newspaper Le Monde has reported that police have continued to use a different model in subsequent protests.\nProtests also took place in Germany and Italy over the weekend, as mainly youth-led protests continue across parts of Europe, with varying demands but broadly linked to a focus on cost-of-living issues and public services."
-    }
-   ]
-  },
-  {
-   "id": "ced1adfa4c9",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Sky News Arabia",
-     "trust": 2,
-     "url": "https://skynewsarabia.com/world/1901998-%D9%82%D9%85%D8%B1-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D8%B5%D9%88%D8%B1-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D8%A7%D8%A6%D9%82%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A9",
-     "title": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية",
-     "lang": "ar",
-     "extra": {},
-     "id": "ed1adfa4c981f310",
-     "published": "2026-11-01T19:48+00:00",
-     "text": "بعد سنوات من الاختباء في أعماق الفضاء، ظهرت أخيرا ملامح مركبة صينية غامضة ظلت تثير فضول مراقبي الأقمار الاصطناعية، بعدما نجح قمر صناعي أميركي في التقاط صورة نادرة لها.\nوبحسب تقرير نشره موقع \"فيوتشرزم\"، كشفت الصورة، التي التقطت في عام 2024 ولم يُعلن عنها إلا مؤخرا، عن طائرة فضائية صينية فائقة السرية تُعرف باسم \"شينلونغ\"، أثناء تحليقها في مدار حول الأرض.\nوالتقط الصورة قمر اصطناعي تابع لشركة \"فانتور\" الأميركية، المعروفة سابقا باسم \"ماكسار\"، في اختراق لسرية المركبة التي ظلت طبيعة أنشطتها تثير تساؤلات واسعة.\nوتُظهر اللقطة مركبة ذات جناحين نحيفين، وإلى جوارها جسم يبدو كأنه قمر اصطناعي ملتحم بها، مزود بمصفوفتين كبيرتين من الألواح الشمسية.\nويحمل تصميم الطائرة الصينية تشابها لافتا مع المركبة العسكرية الأميركية \"إكس-37 بي\"، التابعة لقوة الفضاء، والتي طورتها شركة \"بوينغ\" لتنفيذ مهمات فضائية سرية.\nمهمات غامضة في الفضاء\nجاء الكشف عن الصورة ضمن تقييم استخباراتي حديث لوكالة استخبارات الدفاع الأميركية، رفع البنتاغون السرية عنه، ويتناول التهديدات العسكرية المتزايدة المرتبطة بالأنشطة الفضائية.\nورغم أهمية الصورة، لم يقدم التقييم الأميركي إجابات حاسمة بشأن طبيعة المهام التي تنفذها \"شينلونغ\"، أو الأهداف الحقيقية وراء وجودها المستمر في المدار.\nوتحيط بكثير من تفاصيل البرنامج الصيني سرية مشددة، خصوصا أن بكين نفذت أربع مهمات للمركبة خلال السنوات الست الماضية دون الكشف عن تفاصيلها.\nوكانت وكالة الفضاء الصينية قد قالت سابقا إن المركبة ستساعد على تطوير وسائل أكثر سهولة وأقل تكلفة للرحلات الفضائية ذهابا وإيابا مستقبلا.\nلكن إطلاق أجسام غامضة خلال تحليقها أثار شكوك الخبراء، الذين يرجح بعضهم أن المركبة قد تنفذ عمليات لالتقاط أجسام فضائية باستخدام أذرع روبوتية.\nسباق المركبات الفضائية العسكرية\nوفي الولايات المتحدة، تواصل المركبة \"إكس-37 بي\" تنفيذ مهماتها المدارية، بعدما أمضت آلاف الأيام في الفضاء على مدار السنوات الست عشرة الماضية.\nوانطلقت أحدث مهماتها في أغسطس 2025، فيما سبق أن نفذت عام 2024 مناورة كبح هوائي خطرة لخفض ارتفاعها من مدار شديد الاستطالة.\nولم تتوقف المخاوف الأميركية عند المركبة الصينية، إذ حذر البنتاغون من امتلاك الجيش الصيني أسلحة ليزر أرضية قادرة على التشويش على الأقمار الاصطناعية وإلحاق أضرار بها.\nوتوقع التقييم أن تطور الصين، بحلول النصف الثاني من العقد الحالي، أنظمة طاقة موجهة في الفضاء وأسلحة أرضية أكثر قوة، بما يهدد الأقمار الاصطناعية في المدارات المرتفعة."
-    },
-    {
-     "source": "Google News Science AR",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNdHFxSUZUTjMyMjZqMFFRVlQwYUlqanUzbE5VeTVYbEwyYmpwRVNsRnhSUXZpYXpZeXJSR1QxRUJRTUlMNzRWX2xWZUxoVHFaT3hGWERDSzRsTXQ2ZFlvN2VjMmJjRVlqc3V4YVJKdzlxeGJrdXlTLVJESlFxV2NueGR6VHZKa3NkT3pLaWxSZ2F4bTg4UnVhcEZvNE9yeXlsSHpjLUVBTl91b0tlNC1DUkRlR0p1MVBzOXVKcWhvZnk2bnJOMl9EUm1ZcDdCR2Jwc0hHOWVxcUxqRzZvbnVwLWNncVpnb0UtQkp0UldyX1YxNHVaQUVEQWczQkxPTHM1SV84c2x0cW9rTmMyYnJNcjR5RVB0Y2NwUzFJYzlkMVItTFlKQUtudWJCdUpQUGlHX2pHbjFsWkt1dmEwQU5BNDdUcktiXzNVZTV4QWZlRUpSRXpaY3RhLWQ1Z25WY2hSLWVmcXk1VmtfTFk3Vjc2M2ktcDVKVk1jX0dpUTNSUDh2Tm8zLWVFUXFCc01wUEIwc1Q1UFBsRnk5U1dHTGVsZ9IBpgNBVV95cUxOQ2N0d2RicHA2Y3ZDLS1wZU4zU1dxa1RYcUhQX3dWTjEzcWl3UjJXdk9mRi1jQ3V0dEtsRXBSejF5RWY0ei02VVRYNENBTHQ5dUVreV9oUXVyYUpBQkEyUEFKNTZ0N0dCaW5tV0ItSGZCWXdnVm1wRzRqZ0FFUXdXd0drUFJ2OVlBbHpCNnRxVGY4bFd1dld1dWE0M3FrUlpHanBxX1hWZ0RXckZjYjRCbDNZQUNNWlQxdWVTQXdFWlJnWWdPUElnaTZKbmFpZFBxTmt6T3lnaGwzT1AwQ3hCSVc5bTZOOXVOMzhhT1d2YTlqd0QtVGxYQmtaYzdhMHI2Qnh6cGNXaFVjSFQ3eDZrQVJxa0ZGMnFFUjRGTEZVUndXWXZtcXo3aHd0aGpmZ3lIWTc0b1ozWjJsejlTNGxoS1lNVHpMUFNmQW1RSU53SFJoMVY1VERoc3RqUnBNMGxBYy1QbW85Tk9HbkNMaWIwcnEtMXRkUHMydU52bHNabVNfOU1Rak9RWjl0RTZ4Q29OWC1zZUZVQ3NOODVrbHdkQ0NONnUzQQ?oc=5",
-     "title": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية",
-     "lang": "ar",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "8fd36b94569d6b20",
-     "published": "2026-11-01T19:51+00:00",
-     "text": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية\nسكاي نيوز عربية"
     }
    ]
   },
@@ -4031,6 +4046,41 @@
    ]
   },
   {
+   "id": "ced1adfa4c9",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Sky News Arabia",
+     "trust": 2,
+     "url": "https://skynewsarabia.com/world/1901998-%D9%82%D9%85%D8%B1-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%8A%D8%B5%D9%88%D8%B1-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9-%D8%B5%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D8%A7%D8%A6%D9%82%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%A9",
+     "title": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية",
+     "lang": "ar",
+     "extra": {},
+     "id": "ed1adfa4c981f310",
+     "published": "2026-11-01T19:48+00:00",
+     "text": "بعد سنوات من الاختباء في أعماق الفضاء، ظهرت أخيرا ملامح مركبة صينية غامضة ظلت تثير فضول مراقبي الأقمار الاصطناعية، بعدما نجح قمر صناعي أميركي في التقاط صورة نادرة لها.\nوبحسب تقرير نشره موقع \"فيوتشرزم\"، كشفت الصورة، التي التقطت في عام 2024 ولم يُعلن عنها إلا مؤخرا، عن طائرة فضائية صينية فائقة السرية تُعرف باسم \"شينلونغ\"، أثناء تحليقها في مدار حول الأرض.\nوالتقط الصورة قمر اصطناعي تابع لشركة \"فانتور\" الأميركية، المعروفة سابقا باسم \"ماكسار\"، في اختراق لسرية المركبة التي ظلت طبيعة أنشطتها تثير تساؤلات واسعة.\nوتُظهر اللقطة مركبة ذات جناحين نحيفين، وإلى جوارها جسم يبدو كأنه قمر اصطناعي ملتحم بها، مزود بمصفوفتين كبيرتين من الألواح الشمسية.\nويحمل تصميم الطائرة الصينية تشابها لافتا مع المركبة العسكرية الأميركية \"إكس-37 بي\"، التابعة لقوة الفضاء، والتي طورتها شركة \"بوينغ\" لتنفيذ مهمات فضائية سرية.\nمهمات غامضة في الفضاء\nجاء الكشف عن الصورة ضمن تقييم استخباراتي حديث لوكالة استخبارات الدفاع الأميركية، رفع البنتاغون السرية عنه، ويتناول التهديدات العسكرية المتزايدة المرتبطة بالأنشطة الفضائية.\nورغم أهمية الصورة، لم يقدم التقييم الأميركي إجابات حاسمة بشأن طبيعة المهام التي تنفذها \"شينلونغ\"، أو الأهداف الحقيقية وراء وجودها المستمر في المدار.\nوتحيط بكثير من تفاصيل البرنامج الصيني سرية مشددة، خصوصا أن بكين نفذت أربع مهمات للمركبة خلال السنوات الست الماضية دون الكشف عن تفاصيلها.\nوكانت وكالة الفضاء الصينية قد قالت سابقا إن المركبة ستساعد على تطوير وسائل أكثر سهولة وأقل تكلفة للرحلات الفضائية ذهابا وإيابا مستقبلا.\nلكن إطلاق أجسام غامضة خلال تحليقها أثار شكوك الخبراء، الذين يرجح بعضهم أن المركبة قد تنفذ عمليات لالتقاط أجسام فضائية باستخدام أذرع روبوتية.\nسباق المركبات الفضائية العسكرية\nوفي الولايات المتحدة، تواصل المركبة \"إكس-37 بي\" تنفيذ مهماتها المدارية، بعدما أمضت آلاف الأيام في الفضاء على مدار السنوات الست عشرة الماضية.\nوانطلقت أحدث مهماتها في أغسطس 2025، فيما سبق أن نفذت عام 2024 مناورة كبح هوائي خطرة لخفض ارتفاعها من مدار شديد الاستطالة.\nولم تتوقف المخاوف الأميركية عند المركبة الصينية، إذ حذر البنتاغون من امتلاك الجيش الصيني أسلحة ليزر أرضية قادرة على التشويش على الأقمار الاصطناعية وإلحاق أضرار بها.\nوتوقع التقييم أن تطور الصين، بحلول النصف الثاني من العقد الحالي، أنظمة طاقة موجهة في الفضاء وأسلحة أرضية أكثر قوة، بما يهدد الأقمار الاصطناعية في المدارات المرتفعة."
+    },
+    {
+     "source": "Google News Science AR",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNdHFxSUZUTjMyMjZqMFFRVlQwYUlqanUzbE5VeTVYbEwyYmpwRVNsRnhSUXZpYXpZeXJSR1QxRUJRTUlMNzRWX2xWZUxoVHFaT3hGWERDSzRsTXQ2ZFlvN2VjMmJjRVlqc3V4YVJKdzlxeGJrdXlTLVJESlFxV2NueGR6VHZKa3NkT3pLaWxSZ2F4bTg4UnVhcEZvNE9yeXlsSHpjLUVBTl91b0tlNC1DUkRlR0p1MVBzOXVKcWhvZnk2bnJOMl9EUm1ZcDdCR2Jwc0hHOWVxcUxqRzZvbnVwLWNncVpnb0UtQkp0UldyX1YxNHVaQUVEQWczQkxPTHM1SV84c2x0cW9rTmMyYnJNcjR5RVB0Y2NwUzFJYzlkMVItTFlKQUtudWJCdUpQUGlHX2pHbjFsWkt1dmEwQU5BNDdUcktiXzNVZTV4QWZlRUpSRXpaY3RhLWQ1Z25WY2hSLWVmcXk1VmtfTFk3Vjc2M2ktcDVKVk1jX0dpUTNSUDh2Tm8zLWVFUXFCc01wUEIwc1Q1UFBsRnk5U1dHTGVsZ9IBpgNBVV95cUxOQ2N0d2RicHA2Y3ZDLS1wZU4zU1dxa1RYcUhQX3dWTjEzcWl3UjJXdk9mRi1jQ3V0dEtsRXBSejF5RWY0ei02VVRYNENBTHQ5dUVreV9oUXVyYUpBQkEyUEFKNTZ0N0dCaW5tV0ItSGZCWXdnVm1wRzRqZ0FFUXdXd0drUFJ2OVlBbHpCNnRxVGY4bFd1dld1dWE0M3FrUlpHanBxX1hWZ0RXckZjYjRCbDNZQUNNWlQxdWVTQXdFWlJnWWdPUElnaTZKbmFpZFBxTmt6T3lnaGwzT1AwQ3hCSVc5bTZOOXVOMzhhT1d2YTlqd0QtVGxYQmtaYzdhMHI2Qnh6cGNXaFVjSFQ3eDZrQVJxa0ZGMnFFUjRGTEZVUndXWXZtcXo3aHd0aGpmZ3lIWTc0b1ozWjJsejlTNGxoS1lNVHpMUFNmQW1RSU53SFJoMVY1VERoc3RqUnBNMGxBYy1QbW85Tk9HbkNMaWIwcnEtMXRkUHMydU52bHNabVNfOU1Rak9RWjl0RTZ4Q29OWC1zZUZVQ3NOODVrbHdkQ0NONnUzQQ?oc=5",
+     "title": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية",
+     "lang": "ar",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "8fd36b94569d6b20",
+     "published": "2026-11-01T19:51+00:00",
+     "text": "قمر أميركي يصور طائرة فضائية صينية فائقة السرية\nسكاي نيوز عربية"
+    }
+   ]
+  },
+  {
    "id": "c0fe6975481",
    "kind": "news",
    "score": 15.0,
@@ -4071,10 +4121,12 @@
      "url": "https://france24.com/en/europe/20261102-ukraine-suspects-nationwide-air-raid-alert-app-has-been-hacked",
      "title": "Ukraine suspects nationwide air raid alert app has been hacked",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://s.france24.com/media/display/01e27286-d5fa-11f1-9fb6-695cb59fade5/w:1280/p:16x9/6a3c233d865056dcf34ec2006538c9fc902893e3.jpg"
+     },
      "id": "15c430807603e732",
      "published": "2026-11-02T01:20+00:00",
-     "text": "Ukraine's air force said on Sunday that its nationwide air raid alert application had probably been hacked, warning that threat notifications no longer reflected the situation on the ground. The suspected interference came just minutes after the end of a local ceasefire with Russia in the eastern Kherson region."
+     "text": "Ukraine suspects nationwide air raid alert app has been hacked\nUkraine's air force said on Sunday that its nationwide air raid alert application had probably been hacked, warning that threat notifications no longer reflected the situation on the ground. The suspected interference came just minutes after the end of a local ceasefire with Russia in the eastern Kherson region.\nUkraine's air force said Sunday it suspected the country's air raid alert system had been hacked.\n\"The Air Alarm application has probably been subjected to hostile interference,\" the force said in a message. \"There is no radiation threat! Stay calm and follow our updates on our channel.\"\nContacted by AFP to establish if the application had been hacked, air force spokesperson Yuriy Ignat said: \"Yes, it has been.\"\nThe announcement came minutes after the end of the truce between Moscow and Kyiv in the eastern region of Kherson. The localised ceasefire, which started on Tuesday, was the longest of the war.\nRead moreCeasefire in Ukraine's Kherson region ends after Russia refuses extension\n\"Currently, the information broadcast (on this application) about threat levels does not correspond to reality,\" the Ukrainian Centre for Countering Disinformation warned in a statement.\nThe app is used across Ukraine to warn people in real time of the threat of air strikes from Russia. People often have only minutes to find shelter in the case of, for example, a ballistic missile attack.\nSPRAVDI, Ukraine's Centre for Strategic Communications, blamed Russia for the hack in a post on its X account.\nA separate app, which deals specifically with the Ukrainian capital, is still working normally, the Kyiv city authorities said.\n(FRANCE 24 with AFP)"
     },
     {
      "source": "Google News World EN",
@@ -4157,11 +4209,12 @@
      "title": "Nintendo Drops Surprise 'Pikmin Day' Direct",
      "lang": "en",
      "extra": {
-      "image": "https://images.nintendolife.com/8aca49f180cac/large.jpg"
+      "image": "https://images.nintendolife.com/8aca49f180cac/large.jpg",
+      "page_image": "https://images.nintendolife.com/8aca49f180cac/1280x720.jpg"
      },
      "id": "d7d362c5572ee0ea",
      "published": "2026-10-31T14:15+00:00",
-     "text": "Yes, Pikmin Day.\nSurprise! Nintendo had shadow dropped a Nintendo Direct presentation for Pikmin Day. Yes, that’s right, Pikmin day.\nAs of this year, Nintendo is officially referring to 1st November as ‘Pikmin Day’ - three ones like three Pikmin, get it? We don’t, really, but yay! Pikmin!\nRead the full article on nintendolife.com"
+     "text": "Surprise! Nintendo had shadow dropped a Nintendo Direct presentation for Pikmin Day. Yes, that’s right, Pikmin day.\nAs of this year, Nintendo is officially referring to 1st November as ‘Pikmin Day’ - three ones like three Pikmin, get it? We don’t, really, but yay! Pikmin!\nThere’s nothing in the way of game news to report in this one, with the Direct showcasing another look at Pikmin 4 - Nintendo Switch 2 Edition, Pikmin Bloom goodness and more.\nIt also gave us our first look at Hello Pikmin, a new series of short films that Nintendo will release monthly, the first of which arrives tomorrow.\nHonestly, it’s a bit of a nothing burger, but if you are anything like as big of a Pikmin fan as us, then there’s plenty of smiles to be found here. You can watch the full presentation above."
     },
     {
      "source": "Nintendo News",
@@ -4361,50 +4414,6 @@
    ]
   },
   {
-   "id": "c8d24e29fe3",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "OpenAI CEO Sam Altman meets with 50 Samsung executives to discuss AI",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "SamMobile",
-     "trust": 2,
-     "url": "https://sammobile.com/news/openai-ceo-sam-altman-meets-with-50-samsung-executives-to-discuss-ai",
-     "title": "OpenAI CEO Sam Altman meets with 50 Samsung executives to discuss AI",
-     "lang": "en",
-     "extra": {},
-     "id": "8d24e29fe3ebe634",
-     "published": "2026-10-31T13:44+00:00",
-     "text": "Everyone's chasing after Samsung to secure adequate memory chip supplies, and OpenAI CEO Sam Altman is the latest to make that trip to South Korea.\nFollowing reports of his trip, Samsung has itself confirmed that the CEO of ChatGPT-maker OpenAI has made a visit to its home country and met with the company's top executives.\nBloomberg first reported that OpenAI CEO Sam Altman met with Samsung Group's top executives in South Korea on Saturday, October 30, to deepen cooperation on memory chips and AI infrastructure.\nThe trip appears to have been rescheduled, as he was previously expected to visit South Korea a few months ago, but that trip was reportedly canceled due to personal reasons.\nSamsung hosted the talks in Yongin, south of Seoul, with about 50 executives from its electronics, financial and biotechnology affiliates, the company said in a statement. They discussed how AI can reshape industries, corporate decision-making and business opportunities over the next decade.\nWhile no new deals for memory chip supply were announced, it's hard to imagine that this wasn't a part of the conversation. Altman previously visited South Korea last year, back when memory chip prices had only just started to go on a tear.\nSamsung obviously hasn't confirmed this, but other reports from local media suggest that Altman met with executives at SK Hynix as well, another top memory chip supplier that has also become crucial to the AI supply chain."
-    },
-    {
-     "source": "Tom's Hardware",
-     "trust": 2,
-     "url": "https://tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
-     "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
-     "lang": "en",
-     "extra": {},
-     "id": "72e90052d9632ce1",
-     "published": "2026-11-01T14:21+00:00",
-     "text": "<p>Newton Gitonga is a journalist who writes about technology, gadgets, AI, and the companies behind them. He has covered product launches, hard drives, processors, AI data centers, and other developments across the tech industry. He also writes about cryptocurrency and financial markets, having spent several years covering the crypto space.</p><p>Newton has previously written for Notebookcheck, ZyCrypto and CoinCentral. His work has ranged from reporting on new gadgets and computing hardware to covering major developments in AI, businesses building the technology behind it, stocks and crypto.</p><p>He graduated from Kabarak University in 2018 with a law degree but went on to build his career in journalism. He enjoys keeping up with new technology and finding stories that help readers understand what is happening beyond the headlines.</p>"
-    },
-    {
-     "source": "Reddit tech & AI",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xl5c3g/sam_altman_meets_with_samsung_leadership_to",
-     "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages — OpenAI CEO travels to South Korea to meet Samsung leadership to discuss future AI data centers",
-     "lang": "en",
-     "extra": {},
-     "id": "7d5292ca0ec0e059",
-     "published": "2026-11-01T15:06+00:00",
-     "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
    "id": "c09693e37cd",
    "kind": "news",
    "score": 14.0,
@@ -4458,6 +4467,63 @@
      "id": "2cfc285a625cb01b",
      "published": "2026-11-01T12:08+00:00",
      "text": "A tearful daughter embraced her father as the family reunited following his evacuation from Oleshky."
+    }
+   ]
+  },
+  {
+   "id": "ca398f80dbb",
+   "kind": "news",
+   "score": 14.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Sam Altman says it's \"terrible\" for RAM to sit inside PCs instead of data centers",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "TechSpot",
+     "trust": 2,
+     "url": "https://techspot.com/news/114398-sam-altman-terrible-ram-sit-inside-pcs-instead.html",
+     "title": "Sam Altman says it's \"terrible\" for RAM to sit inside PCs instead of data centers",
+     "lang": "en",
+     "extra": {},
+     "id": "a398f80dbba56e69",
+     "published": "2026-10-31T15:04+00:00",
+     "text": "In an interview on the YouTube channel Cheeky Pint, OpenAI CEO Sam Altman argued that it's more efficient to direct the world's tightening supply of memory to AI data centers than to local devices. The comments drew immediate backlash as hardware prices continue to climb.\nRead Entire Article"
+    },
+    {
+     "source": "Tom's Hardware",
+     "trust": 2,
+     "url": "https://tomshardware.com/tech-industry/data-centers/sam-altman-travels-to-south-korea-to-meet-samsung-leadership-to-secure-more-ram-for-data-centers-amid-crushing-shortages-openai-ceo-meets-samsung-leadership-to-discuss-future-ai-data-centers",
+     "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages",
+     "lang": "en",
+     "extra": {},
+     "id": "72e90052d9632ce1",
+     "published": "2026-11-01T14:21+00:00",
+     "text": "<p>Newton Gitonga is a journalist who writes about technology, gadgets, AI, and the companies behind them. He has covered product launches, hard drives, processors, AI data centers, and other developments across the tech industry. He also writes about cryptocurrency and financial markets, having spent several years covering the crypto space.</p><p>Newton has previously written for Notebookcheck, ZyCrypto and CoinCentral. His work has ranged from reporting on new gadgets and computing hardware to covering major developments in AI, businesses building the technology behind it, stocks and crypto.</p><p>He graduated from Kabarak University in 2018 with a law degree but went on to build his career in journalism. He enjoys keeping up with new technology and finding stories that help readers understand what is happening beyond the headlines.</p>"
+    },
+    {
+     "source": "Hacker News Front",
+     "trust": 1,
+     "url": "https://tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization",
+     "title": "Sam Altman says DRAM capacity should go to data centers, not personal computers",
+     "lang": "en",
+     "extra": {
+      "comments": "https://news.ycombinator.com/item?id=50324267"
+     },
+     "id": "4ae4c030e2ce9115",
+     "published": "2026-11-01T10:28+00:00",
+     "text": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization\nComments URL: https://news.ycombinator.com/item?id=50324267\nPoints: 32\n# Comments: 37"
+    },
+    {
+     "source": "Reddit tech & AI",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xl5c3g/sam_altman_meets_with_samsung_leadership_to",
+     "title": "Sam Altman meets with Samsung leadership to secure more RAM for data centers amid crushing shortages — OpenAI CEO travels to South Korea to meet Samsung leadership to discuss future AI data centers",
+     "lang": "en",
+     "extra": {},
+     "id": "7d5292ca0ec0e059",
+     "published": "2026-11-01T15:06+00:00",
+     "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
     }
    ]
   },
@@ -6170,30 +6236,6 @@
    ]
   },
   {
-   "id": "cd4552f02c1",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Binance opens transactions after historic crypto heist ‘north’ of six billion dollars",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Digital Trends",
-     "trust": 2,
-     "url": "https://digitaltrends.com/computing/binance-opens-transactions-after-historic-crypto-heist-north-of-six-billion-dollars",
-     "title": "Binance opens transactions after historic crypto heist ‘north’ of six billion dollars",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/10/binance-crypto-theft.jpg?resize=1200%2C630&ssl=1"
-     },
-     "id": "d4552f02c1369d94",
-     "published": "2026-11-01T20:01+00:00",
-     "text": "Binance has started allowing cryptocurrency withdrawals again after losing $6.3 billion worth of digital assets in one of the biggest crypto heists so far.\nFor those catching up, the $6.3 billion theft reportedly took place in around 20 minutes on October 29, following which Binance suspended withdrawals across several networks.\nBinance is gradually reopening withdrawals\nIn what is a phased reopening of its services, Binance is initially allowing withdrawals for 15 cryptocurrencies, including Bitcoin, Ether, Dogecoin, and certain USDC and USDT stablecoins. The exchange says it is prioritizing tokens based on customer demand over the past week. As for the stolen assets, Binance has used its Secure Asset Fund for Users (SAFU), Futures Insurance Fund, and corporate treasury to purchase replacements. The remaining 5% consists of cryptocurrencies that are harder to obtain in large quantities.\nAs reported by Reuters, the reopening saw customers pulling billions of dollars from the exchange, with crypto analytics platform DefiLlama recording more than $3.5 billion in net outflows on Sunday. Binance, however, says the initial rush of withdrawals has started to settle down. The company has also managed to replace around 95% of the stolen cryptocurrency using its own money, although the original assets haven’t necessarily been recovered from the hackers.\nBinance also claims that the withdrawals account for a small portion of its total managed assets, while customer deposits have remained significant.\nThe FBI has identified a North Korean hacking group\nThe FBI has attributed the attack to TraderTraitor, a North Korean state-sponsored hacking group. Blockchain analysis firms had previously identified the same group as being responsible for the heist. US President Donald Trump, however, said on Saturday that North Korea’s involvement wasn’t certain.\nThe company has promised to cover the financial losses itself, instead of passing them on to customers. However, with billions already being withdrawn from the platform, it remains to be seen how quickly Binance can regain the confidence of its users.\nRELATED COVERAGE:\n- Lost access to your crypto wallet? Don’t Google your way out of it\n- Your smart home devices could be part of a cybercrime network without you knowing\n- OpenAI’s agent ran out of crypto while completing a task, so it stole from another wallet\n- Scammers are now cloning trusted news websites to steal your money"
-    }
-   ]
-  },
-  {
    "id": "c416254d665",
    "kind": "news",
    "score": 13.0,
@@ -6339,113 +6381,6 @@
    ]
   },
   {
-   "id": "c7cc57aed36",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Set Sail for Fortnite Treasure Hunters: The Greatest Adventure of All Time",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Epic Newsroom",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUXZINzFYS1ZSdXFfa2FYY0NQdzR5cjlRV2JDU3RNazhFODJMZ0tYakhBSlRNQ2d3Sjg2azktYW1CcXdIdS1zV1VPdUE3VzVWMmlNMXJwa3M2QVFyV0N0MDJHdlNTdDJVOFBCSkgtUDBYb1k0clg1YjF4QmY5RDJzcjhYSHVpZUpqVTdLQ1FZcFdrcjZsdTJHV3E5QmI1ZG9EVm5qUVJlcjVxM2lta1ZoeXlnTFBMNDBZamlZ?oc=5",
-     "title": "Set Sail for Fortnite Treasure Hunters: The Greatest Adventure of All Time",
-     "lang": "en",
-     "extra": {},
-     "id": "7cc57aed36fde4a3",
-     "published": "2026-11-01T05:24+00:00",
-     "text": "Set Sail for Fortnite Treasure Hunters: The Greatest Adventure of All Time\nFortnite Communities"
-    },
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38204750/view/719046160957835616",
-     "title": "All Sprites and abilities in Fortnite Treasure Hunters",
-     "lang": "en",
-     "extra": {},
-     "id": "6d5da972bae38b99",
-     "published": "2026-11-01T14:10+00:00",
-     "text": "Plundarggh Sprite\nGet increased pickaxe and movement speed by opening chests.\nSweet Dreams\nGet a random item drop at each level. Loot value also rises at every level.\nTransponder Snail\nGet extra resource from pickups for yourself and all party members. Amount of bonus resources increases when you level up.\nLil’ Uzi Vert Jr.\nWhen you restore shields, it generates a Chug Splash Effect.\nLil’ Flacko\nKnocks back enemies with a shockwave when you land. The effect increases with every level.\nKepler\nYou’ll restore health when you’re in water.\nExmarks\nRevels location of Wanted Posters and Treasure Maps. Drops an extra Treasure Map at max level.\nChester\nGives boosted chance to drop extra loot from Treasure Chests and eliminates fall damage.\nLil’ Squibbly Sprite\nGives you bonus loot when you jump into fishing hole.\nWayfinder\nReveals nearby sprites and get more items when opening buried chests from all locations.\nHalfpeel’d Sprite\nMarks all eliminations on the map.\nRe-Pete\nRaises the reload speed, and offers a chance to refund ammo.\nBarry O’Fish Sprite\nReduces stamina drain during tactical sprint when you’re in water.\nAll the Sprites also have their respective Cursed and Fortune Sprites that appear with bonus abilities. Plundarggh Sprite\nGet increased pickaxe and movement speed by opening chests.\nReveals nearby chests.\nSweet Dreams\nGet a random item drop at each level. Loot value also rises at every level.\nReveals nearby chests.\nTransponder Snail\nGet extra resource from pickups for yourself and all party members. Amount of bonus resources increases when you level up.\nReveals nearby chests.\nLil’ Uzi Vert Jr.\nWhen you restore shields, it generates a Chug Splash Effect.\nReveals nearby chests.\nLil’ Flacko\nKnocks back enemies with a shockwave when you land. The effect increases with every level.\nReveals nearby chests.\nKepler\nYou’ll restore health when you’re in water.\nReveals nearby chests.\nExmarks\nRevels location of Wanted Posters and Treasure Maps. Drops an extra Treasure Map at max level.\nReveals nearby chests.\nChester\nGives boosted chance to drop extra loot from Treasure Chests and eliminates fall damage.\nReveals nearby chests.\nLil’ Squibbly Sprite\nGives you bonus loot when you jump into fishing hole.\nReveals nearby chests.\nWayfinder\nReveals nearby sprites and get more items when opening buried chests from all locations.\nReveals nearby chests.\nHalfpeel’d Sprite\nMarks all eliminations on the map.\nReveals nearby chests.\nRe-Pete\nRaises the reload speed, and offers a chance to refund ammo.\nReveals nearby chests.\nBarry O’Fish Sprite\nReduces stamina drain during tactical sprint when you’re in water.\nReveals nearby chests."
-    },
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38204750/view/719046160957835618",
-     "title": "All Pirate Chest loot and rewards in Fortnite Treasure Hunters",
-     "lang": "en",
-     "extra": {},
-     "id": "98b1d66aef7160c9",
-     "published": "2026-11-01T14:10+00:00",
-     "text": "Solid Gold A$AP Rocky Gauntlets\nPickaxe\nSolid Gold A$AP Rocky\nOutfit\nPlunder in Paradise\nLoading Screen\nGolden Firework\nSprite Dust\nExtraction Accelerator\nGizmo\nPirate Shop Access (2026)\nItem Shop Token\nPirate Shop Access (2027)\nItem Shop Token\nGolden Llama Crew\nVehicle Decal\nMercedes-AMG G 63 G-Wagon\nVehicle"
-    },
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38204750/view/719046160957835644",
-     "title": "All NPC locations in Fortnite Treasure Hunters (Chapter 7 Mini-Season 1)",
-     "lang": "en",
-     "extra": {},
-     "id": "1fd8f3976aca33c2",
-     "published": "2026-11-01T18:00+00:00",
-     "text": "NPC\nLocation\nServices offered\n1. Charlotte-Sensei\nThe $.$. Rocky. She’s located right by where the ship is docked (not on the ship).\nSupply Specialist and Rift\n2. Buccaneer Brigand Jones\nWindmill Village. Just drop slightly south from where you find the POI’s name on the map.\nHeavy Specialist and Rift\n3. Kawaii Team Leader\nOnly NPC located in the north, you’ll find her at Fortune’s Fort.\nMedic Specialist and Rift\n4. Nami\nWindmill Village. Travel south from the central point of the POI until you reach the beach.\nRift\n5. Zoro\nArlong Park. Travel to the western tip of the map.\nRift\n6. Luffy\nLoguetown. He is one of two NPCs that you’ll find at this location.\nRift\n7. Sanji\nBusy Bay. Located on the eastern part of the southernmost island at the POI.\nRift\n8. Usopp\nSame location as Luffy.\nRift\nAll NPCs can be hired for free, but that’s not all. You’ll also have the chance to acquire all shop items for free (that costs V-Bucks) if you manage to find the"
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-chapter-7-mini-season-pirate-battle-pass-skins-outfits",
-     "title": "All battle pass skins in the Fortnite Chapter 7 mini season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/hvuc5u1amaatzos.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "129c65027beb13a8",
-     "published": "2026-11-01T18:47+00:00",
-     "text": "Fortnite's Chapter 7 mini season, \"Treasure Hunters,\" has kicked off, bringing a smaller battle pass alongside it (as one would expect from a shorter season). This battle pass is full of goodies, including two outfits featuring characters from One Piece and some anime-styled Fortnite characters.\nIn case you were wondering, there are only two One Piece skins as part of this battle pass. If you want the outfits of Luffy, Nami, and the rest of the gang, you'll need to buy them from the shop for V-bucks once they're available.\nIf you're pondering whether you should cop this mini season battle pass, we list out all the currently available outfits and styles below, along with what they look like.\nFortnite Chapter 7 mini season battle pass skins list\nHere's all the skins available as part of the Chapter 7 mini season battle pass:\n- Miss All Sunday (Nico Robin)\n- Kawaii Team Leader\n- Buccaneer Brigand Jones\n- Charlotte-sensei\n- Portgas D. Ace\n- Captain X\nIf you gift or are gifted the battle pass during this mini season, you'll get the Dark Kawaii Team Leader outfit and the matching accessories.\nWe list all the skins with their styles below.\nMiss All Sunday (Nico Robin) skin and styles\nThe Miss All Sunday skin is the outfit you unlock right away when you buy the battle pass.\nMiss All Sunday has two styles:\n- Miss All Sunday: Buy the battle pass (available at level 1).\n- Nico Robin: Claim all page 2 rewards.\nYou can also toggle whether or not she wears her cowboy hat.\nKawaii Team Leader skin and styles\nKawaii Team Leader is available starting at level 10 and has three styles:\n- Kawaii Team Leader: Claim all page 1 rewards.\n- Kigurumi Team Leader: Claim all page 2 rewards.\n- Dark Kawaii Team Leader: Gift the battle pass to a friend, or get a friend to gift you the battle pass.\nAdditionally, you can toggle on her helmet, hood, face mask, and cel shading for the various styles.\nBuccaneer Brigand Jones skin and styles\nBuccaneer Brigand Jones is available starting at level 10 and has three styles:\n- Buccaneer Brigand Jones: Claim all page 1 rewards.\n- Camo Cammodore Jones: Claim all page 2 rewards.\n- Treasure Hunter Jones: Claim all rewards from the battle pass and claim all page 1 bonus rewards.\nCharlotte-sensei skin and styles\nCharlotte-sensei is available starting at level 35 and has two styles:\n- Charlotte-sensei: Claim all page 1 rewards.\n- Crimson Charlotte: Claim all page 2 rewards.\nPortgas D. Ace skin and styles\nPortgas D. Ace is available starting at level 35 and has two styles:\n- Portgas D. Ace: Claim all page 1 rewards.\n- Fiery Ace: Claim all page 2 rewards.\nCaptain X skin and styles\nCaptain X will be available starting on Nov. 21."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities",
-     "title": "All sprites in the Fortnite Chapter 7 mini season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_sprites.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "d6038c405d15da63",
-     "published": "2026-11-01T18:51+00:00",
-     "text": "Sprites have taken over another season with their inclusion in the Fortnite Chapter 7 mini season, \"Treasure Hunters.\" These sprites work functionally the same way as they did in the last seasons: find them around the island, level them up, and extract them to master them. Mastering sprites will unlock different rewards, like sprite dust and cosmetics.\nThe sprites from previous seasons are not usable this season, but you can interact with them in the Sprite Garden game mode, and you can use them as decorative back bling styles (if you mastered the sprite).\nBelow we list the new sprites added as part of the Fortnite Chapter 7 mini season's \"Treasure Hunters\" update.\nAll sprites in the Fortnite Chapter 7 mini season\nThere are quite a few sprites to collect this season, and the bulk of them come in different variants. Just like last season, variants are slightly harder to come by, and they have extra effects:\n- Fortune: Reveals nearby chests.\n- Cursed: Increases your chance of finding rare Sprite variants, but water damages you.\nMore variants will be released as the season progresses.\nBelow, we've listed all the Fortnite Chapter 7 mini season sprites, along with their abilities.\n|\nSprite |\nAbility |\n|---|---|\n|\nHalfpeel'd |\nMarks elims on the map. Detection range grows with each level. |\n|\nRe-Pete |\nFaster reloads with a chance to refund ammo. |\n|\nBarry O'Fish |\nSpend less stamina while sprinting in water. Gain Slap effect at max level. |\n|\nExmarks |\nReveals nearby Treasure Maps and Wanted Posters. Spawns a Treasure Map at max level. |\n|\nPlundarrgh |\nOpen Chests for increased Pickaxe and movement speed. |\n|\nChester |\nMay spawn extra loot from chests and cancels fall damage. |\n|\nWayfinder |\nReveals nearby Sprites and spawns extra loot from Buried Chests. |\n|\nKelper |\nRestores health over time while in water. Bigger heals with each level. |\n|\nLil' Squibbly |\nJump into fishing holes to catch fish and score bonus loot. |\n|\nLil’ Flacko |\nCreates a small shockwave on landing, knocking back opponents. |\n|\nSweet Dreams |\nDream Sprite’s distant cousin. Grants a random item with each level-up, bursting with Mythic loot at max level. |\nTable images: Epic Games"
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-chapter-7-mini-season-map-weapons-loot-pool-poi",
-     "title": "All map and weapon loot pool changes in the Fortnite Chapter 7 mini season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fortnite-treasure-hunters-key-art_en.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "630e83d542bcf57a",
-     "published": "2026-11-01T18:55+00:00",
-     "text": "The Fortnite Chapter 7 mini season, titled \"Treasure Hunters,\" puts you on an island with several warring pirate crews. There's new map POIs, weapons, and items waiting as your treasure to claim as characters like Kasane Teto and Monkey D. Luffy make their Fortnite debuts.\nHere's everything new in the Fortnite Chapter 7 mini season, including the map, weapon loot pool, and more.\nFortnite Chapter 7 mini season map and POIs\nThis Fortnite mini season has dramatically changed the map. It features less POIs, but there's still a lot to explore. Here are the POIs for this mini season:\n- Rubber Resort\n- The Chest\n- Arlong Park\n- Windmill Village\n- Loot Lagoon\n- Lantern Landing\n- Loguetown\n- Lil' Uzi's Stronghold\n- Cursed Cavern\n- The $.$. Rocky\n- Busy Bay\n- Plunder Port\nFortnite Chapter 7 Season 4 weapons and items\nThis mini season also has quite a few new items based on the One Piece crew and from A$AP Rocky's own stash.\n- Zoro’s Three Sword Style: Wield three katanas at once. Slash through close encounters and dash in to keep the pressure on.\n- A$AP Rocky’s Shock Rocket: Take the high ground. Use its Shock Rock charges to get airborne, then rain rockets down on anyone below. Available in non-Competitive play.\n- Usopp’s Slingshot: Pull back, line up your target, and let fly. Heavy rounds make this slingshot a marksman’s best friend.\n- Bundlebuss Repeater Rifle: Send a volley of bullets downrange. This fully automatic, fast-firing rifle is at its best at medium range.\n- Gilded Dragoon Shotgun: Make one good blast count. This single-fire shotgun trades mag size for big damage.\nThese guns have also been unvaulted:\n- Sentinel Pump Shotgun\n- Auto Shotgun\n- Flint-Knock Pistol\n- Sidearm Pistol\n- Machine SMG\n- Tactical SMG\n- Hammer Assault Rifle\nAnd these are the new items available right away:\n- Gum-Gum Fruit: Transform into Luffy and stretch into battle. Throw long-range rubber punches, foot slams or charge up and send yourself flying.\n- Flame-Flame Fruit: Become Ace and turn up the heat. Pepper the competition with rapid shots, then finish with a Fire Fist.\n- Explosive Cannon Ball: A big explosive cannon ball you can throw at your opponents or load into a Cannon. Available in non-Competitive play.\n- Nami’s Tangerine: Restore health and shields while getting a boost when moving through water. A little vitamin C goes a long way!\n- Meat on a Stick: Take a bite to heal up and keep healing for a short while after. Nothing like it to keep you going.\n- Wanted Poster: Spot one on a wall and tear it down - it turns into a Sprite Treasure Map that leads you to a buried Sprite Chest.\nAdditionally, these items have also been unvaulted:\n- Zipline Deployer\n- Overdrive Grenade\n- Slurp Juice\n- Shield Fish\n- Jellyfish\n- Slurpfish\n- Hop Flopper\n- Spicy Fish\nWhat else is new in the Fortnite Chapter 7 mini season?\nAs you take to the seas in this season, you'll notice that this mini season hosts a mini island. With that in mind, there'll only be 80 players in each match, rather than the usual 100.\nThe biggest news of this season is the inclusion of the Pirate Shop Token, which grants you full access to the shop for two weeks, allowing you to pick up any cosmetics you want for free. You'll have to be both a lucky player and an expert pirate to find this item in chests, but definitely keep your eyes peeled and crack open any chests you see.\nThe new content for this season will roll out on a weekly basis, with Lil Uzi Vert debuting on Nov. 7, Hatsune Miku and Kasane Teto "
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations",
-     "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_mapfragment0.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "4a3678b24f9485c8",
-     "published": "2026-11-01T20:11+00:00",
-     "text": "Fortnite's Chapter 7 mini season, \"Treasure Hunters,\" has added a new collectible to find throughout the season: map fragments. These map fragments will be added periodically during the season, and you'll get a special reward for finding them all.\nFinding all six map fragments (which will be added throughout the season in updates) will unlock the \"X Marks the Zero Point Sliver\" loading screen.\nBelow, we list where to find all of the map fragments available so far in Fortnite Chapter 7's mini season.\nMap fragment #1 location in Fortnite\nThe first map fragment, made available on Nov. 1, is at The $.$. Rocky:\nAs you get closer to the ship, you should see the usual exclamation-point-inside-a-diamond shape on your screen, pointing you where to go. The map itself is just sitting on the floor of the ship, on the bottom-most floor at the tip of the ship. If you're having a hard time finding stairs to this area, you can break the ship walls on the outside to get in.\nWe'll update this guide as more map fragments get added to the game."
-    }
-   ]
-  },
-  {
    "id": "ca3e6e43d61",
    "kind": "news",
    "score": 12.5,
@@ -6467,6 +6402,115 @@
      "id": "a3e6e43d619845f8",
      "published": "2026-11-01T08:00+00:00",
      "text": "Capcom continues to build excitement for Mega Man: Dual Override, and following the official reveal of Tank Man earlier this week, it's now lifted the lid on Cook Man.\nHe is one of the many Robot Masters coming to the game. This master chef is ready to slice and dice Proto Man and the Blue Bomber when his game launches on the Switch 1 & 2 in 2027.\nHere's an official description, and you can see this robot master in action in the video above (courtesy of Rockman Corner):\nA wandering chef seeking recognition for his culinary prowess, Cook Man prepares to slice and dice our heroes with his Kung Fu Cooking style in Mega Man: Dual Override.\nCan you take the heat, or will you get out of his kitchen?\nIf you're not familiar with Mega Man, these Robot Masters will pop up at the end of each stage and attempt to stop Mega Man and Proto Man in their tracks.\nOnce again, Cook Man will join Tank Man, Twinkle Girl and Jet Man, with more Robot Master reveals on the way."
+    }
+   ]
+  },
+  {
+   "id": "c85e216bdfc",
+   "kind": "news",
+   "score": 12.5,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "How to access the Pirate Shop and get Tokens in Fortnite",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/38204750/view/719046160957835605",
+     "title": "How to access the Pirate Shop and get Tokens in Fortnite",
+     "lang": "en",
+     "extra": {},
+     "id": "a6e7d10f3b05f9e9",
+     "published": "2026-11-01T12:30+00:00",
+     "text": "One of the biggest features of the Treasure Hunters season in Fortnite is now live, and we can finally access the Pirate Shop. While it might look like the standard shop, there’s a key difference: everything you find inside is available for free. That’s right, you can pick anything you want without any additional resources.\nBut first, you’ll need to get access to the shop.\nTable of contents\nhttps://embeds.beehiiv.com/a8d62108-86ed-4039-bf49-44877ba62c15 How to access the Pirate Shop in Fortnite Treasure Hunters\nThe Pirate Shop can be obtained between Nov. 1 and Dec. 5, throughout the course of the season. Any item you find inside that requires you to spend V-Bucks can be obtained for free. To gain access, you’ll need to find Pirate Shop Tokens.\nThese are special tokens that are of two types. One of them allows you to activate anytime between now and Dec. 15 of this year. The other one can be activated anything between Jan. 1 and Dec. 15 of next year.\nImage via Epic Games Once you activate a token, you have 14 days to claim everything you can find in the Item Shop. Only bundles and items that cost real-life money will be an exception to this rule, but it’s still a wonderful opportunity.\nHow to get Pirate Shop Tokens in Fortnite Treasure Hunters\nTo find these valuable tokens, you’ll need to watch out for special chests. These chests don’t have fixed locations, and their odds appear to be quite low. Once you manage to find one, open them. If you’re lucky, you’ll receive access to the Pirate Shop as a treasure.\nIf you’re playing as a squad, you just need to find one treasure. Access will be granted to all members of a squad as long as one of them has managed to get the tokens. This also incentivizes you to play the season in squads since you’ll have higher chances (theoretically).\nThe post How to access the Pirate Shop and get Tokens in Fortnite appeared first on Destructoid."
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/fortnite-pirate-item-shop-access-token-free-how-to-get",
+     "title": "New Fortnite Item Makes Everything on the Item Shop Completely Free",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fortnite-one-piece-collab.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "f2d79b3d27059d45",
+     "published": "2026-11-01T15:14+00:00",
+     "text": "Fortnite Treasure Hunters is here at last. This season is all about pirates and plundering treasure. Players can look the part using the Straw Hat Pirates skins from One Piece. It can get expensive to purchase cosmetics in Fortnite, but this season, there's an in-game item that makes everything in the Item Shop free. It almost sounds too good to be true, but it's real, and it's out there on the Battle Royale island.\nOne Piece was the perfect crossover for this year's mini-season, as Fortnite Treasure Hunters is all about anime and pirates. The Battle Pass features Ace and Robin, but there are more skins to collect in the Item Shop. The first released bundle includes Luffy, Nami, and Usopp, and it costs 4,000 V-Bucks, about $30. It's already quite expensive, and the number of One Piece skins in the shop will only grow as the season continues. Thankfully, Epic Games has introduced the Pirate Shop Access token, an item that grants players everything in the shop for free.\nHow to get the Pirate Shop Access token in Fortnite and how it works\nThis season, there are Treasure-Hunt chests in Fortnite. These special loot containers grant a free gizmo, a cosmetic item, or a token. The Pirate Shop Access token is a rare reward that can be found in these chests. If players are lucky enough to get it, the entire team will be able to plunder the Item Shop for two weeks, meaning that during this window of time, they can claim every item for free. This means they can get the One Piece bundle and any other skin, emote, or jam track in the shop. Exceptions include sidekicks that have already been purchased once and real-money purchases, such as special bundles and the Fortnite Crew.\nThe Pirate Shop Access token can be activated twice: once before Dec. 15, and once again in 2027. The effect lasts two weeks, so players must choose the right time. Once an item has been claimed, it is added to the player's locker permanently, even after the token expires.\nAlthough the Pirate Shop Access token is rare, there are ways to increase your chances of finding it. Since this item is shared among a team, playing Squads increases search efficiency, thanks to the extra pairs of hands. Visiting named locations with a higher loot concentration increases your chances of coming across Treasure-Hunt chests. Treasure Hours will begin next Sunday and are rumored to increase the spawn rate of the Pirate Shop Access token.\nThere are other items that can be found inside the Treasure-Hunt chests, and they change weekly. For Week 1 of the season, players have the chance to find the Solid Gold A$AP Rocky skin. Next week, the chests may contain the Solid Gold Lil Uzi Vert skin instead."
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get",
+     "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/treasure-chest_fn.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "2db211a17fef7501",
+     "published": "2026-11-01T20:18+00:00",
+     "text": "The Pirate Shop Access Token is a new item introduced in the Fortnite Chapter 7 mini season, and it allows you to get anything from the Shop for free for a 14-day period.\nAnything sold for V-Bucks in the Fortnite item shop can be claimed for free, meaning any outfit, pickaxe, back bling, sidekick, kicks, and more are yours to have forever. The item is too good to be true, so of course, it's extremely difficult to get your hands on.\nHere's how to get the Pirate Shop Token in Fortnite Chapter 7 mini season.\nHow to get the Pirate Shop Token in Fortnite Chapter 7 mini season\nThe process of getting the Pirate Shop Token is just like every other item in Fortnite, you need to open a treasure chest. Regular chests have been transformed into treasure chests in the mini season, so you don't need to be on the hunt for anything special. However, when you open a treasure chest, you have a small chance of finding special loot for yourself and everyone in your party. In most cases, your special loot will be a gizmo, like the Sprite Locator or the Portable Extractor. For the lucky few, your special loot will be a Pirate Shop Access Token.\nIn the tweet above from user Snowslept, you'll see that the chest will have a unique animation featuring a gold explosion, and a banner will appear on your screen saying that you found pirate shop access. You'll gain two Pirate Shop Access Tokens, one for 2026 and the other for 2027. When you activate the token, you'll have 14 days to claim anything from the Fortnite item shop for free. Essentially, any cosmetic is yours for the taking, but you can only claim sidekicks once. The only things you cannot purchase are real money offers (like V-Bucks and bundles), gifts, and pass levels/rewards.\nIf you're hunting for the Pirate Shop Access token, your best bet is to land in any of the following locations:\n- Arlong Park\n- Lantern Landing\n- Rubber Resort\n- Fortune's Fort\n- Loguetown\n- Plunder Port\n- Busy Bay\nWe personally recommend landing at Arlong Park or Lantern Landing as they're fairly close to one another, and you can quickly make your way down to Windmill Village and Loguetown. If you're quick, you can open upwards of 50 chests a game."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQallhSDVqbEZiTFRuLXc4dkM1LUtfUkFKY0NxSTlLMlV0TVlUa0VJWXdTUm90OFF3TGJtZ1owbmg3RHdZUXJJa25NR29TZlVUcUotcFhKY01HNkdRcGRodlk1VC1xNThuNHUwS3MtdVRBSDNZQTdDZ3lCU0ZHOWk1aU5KLU9XbGN4d1l6Q3RxNEpLZw?oc=5",
+     "title": "Fortnite Players Can Get Item Shop Skins For Free with the Pirate Shop Token",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "85e216bdfc5cf05e",
+     "published": "2026-11-01T10:07+00:00",
+     "text": "- Fortnite Players Can Get Item Shop Skins For Free with the Pirate Shop Token GameRant\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- ‘Fortnite’ Treasure Chest Prize Lets You Get Every Store Item For Free Forbes\n- Fortnite is giving free skins if you win big: How to access the Pirate Shop Yahoo Tech\n- Fortnite's rare Pirate Shop: free Item Shop cosmetics for 14 days games.gg"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aYmtEWUtjc2JpTklCaXQzcURYNHlpektTU2N0NE9zQWpGc2hwOHhHUnZMVWZYZ1ZuQ2IzSFczTFlLYWQ1Zm5wT2lualhpODBGR092cTlpZTRoQdIBX0FVX3lxTE9pNG5qT293Y3NOMEtjM3JVbmJNbG1uM0ZrTUhJRmdPQ290QnlBOEJlOWthNnpvakRqQVJWSXk2Vk5vYV91UUJOX3JfZmtUbW54ZU50VmktSzIwOEUxZVQw?oc=5",
+     "title": "Fortnite Pirate Shop Explained: How to Unlock Access and Get Free Items",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "029d2eed83eeec5e",
+     "published": "2026-11-01T10:44+00:00",
+     "text": "- Fortnite Pirate Shop Explained: How to Unlock Access and Get Free Items Beebom\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- Fortnite is giving free skins if you win big: How to access the Pirate Shop Yahoo Tech\n- New Fortnite Item Makes Everything on the Item Shop Completely Free Polygon.com\n- Fortnite Pirate Shop Token Explained - Big Giveaway Hotspawn"
+    }
+   ]
+  },
+  {
+   "id": "c36d86bbf7b",
+   "kind": "news",
+   "score": 12.5,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/38509069/view/668380665149917734",
+     "title": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
+     "lang": "en",
+     "extra": {},
+     "id": "f6b8abd2ab8d3a04",
+     "published": "2026-11-01T15:30+00:00",
+     "text": "GTA 6 doesn't have to be romantic if you don't choose to engage with it that way, and we can thank the best man in video games, Red Dead Redemption 2's Arthur Morgan, for that.\nWhile Grand Theft Auto 6 follows the two central characters of Jason and Lucia, the game never really forces their relationship in directions that aren't steered by the player. Jason and Lucia can become romantically tangled if you choose or they can remain partners in crime. Or they can become a romantic couple and then break up entirely.\n\"We start them wanting to be together, and wanting to give this relationship of theirs another shot. But, as the game progresses, it's yours to keep or yours to lose,\" co-studio head and lead developer Rob Nelson explained while speaking to the latest issue of Edge Magazine.\nA huge part of GTA 6 is also having these characters feel like they have interiority separate from the player themselves. \"These games, maybe some people think 'oh, they're power fantasies'. Sure,\" Nelson said. \"But what if these characters want something else?\"\nAccording to the developer, that question first popped up during the development of Red Dead Redemption 2. Rockstar Games' huge open worlds almost always throw excessive amounts of in-game money at the player, but the studio's Western sequel made players think a little harder about where they want to spend that cash.\n\"Do I go and spend it on myself, on cool outfits and horses and saddles? Or do I go and give it to my adopted family in the gang?\" Nelson explained that the devs wanted people to feel Arthur Morgan's internal \"selfishness versus selflessness\" struggle wherever they were, even outside of cutscenes - Arthur Morgan can't escape himself, he's Arthur Morgan \"all the time.\"\nAnd that's eventually how Rockstar landed on the push and pull between GTA 6's central couple. You can nudge these characters closer together by holding hands and such, but ignore one too many late-night phone calls from your partner and things may go awry.\nGTA 6 map size is so big it rivals GTA 4, GTA 5, and Red Dead Redemption 2's combined – and Rockstar devs are still discovering places they've never seen\n[/url]"
+    },
+    {
+     "source": "Collider",
+     "trust": 2,
+     "url": "https://collider.com/rockstar-new-game-after-grand-theft-auto-6",
+     "title": "Rockstar Needs to Forget Red Dead and GTA for its Next Game",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/jason_and_lucia_beach_landscape.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "36d86bbf7bd59217",
+     "published": "2026-11-01T12:36+00:00",
+     "text": "Rockstar Games’ most anticipated title is releasing in just under a month, and yet speculation on the future of the studio has only skyrocketed. It’s rather unsurprising, since Grand Theft Auto VI is expected to be the most important video game release in the modern gaming industry. Additionally, Grand Theft Auto VI’s existence is projected to negatively impact the U.S. economy through loss of workplace productivity, costing approximately $1 billion a day.\nSo, considering Grand Theft Auto VI’s estimated 2 billion dollar budget, it's safe to say that a lot is riding on the game's success, even if many believe it to be a certifiable hit. What comes after the Grand Theft Auto VI release is another thing entirely, but that game’s success will undeniably influence Rockstar. Still, rumors persist about what Rockstar Games’ next title will be. However, seeing the trends among the current mainstream gaming audience, it might be in Rockstar Games’ best interest to have Grand Theft Auto VI's influence on future titles left to the side.\nRockstar Games Has a New Hurdle To Climb\nThe gaming industry and its audience have changed rapidly in the past ten years alone. Most modern games include some form of live-service features, microtransactions, free-to-play, or heavy reliance on online connectivity. It's a change that many gamers hate, and that can be easily seen in what titles turn out to be successful: AAA single-player games like Resident Evil: Requiem, but also an interesting rise in indie games like Hollow Knight: Silksong. Grand Theft Auto VI feels like a culmination of everything that makes that series so iconic and of what players want AAA single-player games to be like.\nRockstar Games' next new title will no doubt be expected to be another single-player adventure. However, the massive shadow cast by Grand Theft Auto VI could very well lead to their next game being rather low-stakes. A common rumor or wish from dedicated Rockstar Games fans is for the studio to revive its other classic franchises like Max Payne and Bully. This sentiment has persisted since the beginning of Grand Theft Auto VI's development and, while understandable, especially for the older gaming crowd, old franchise revival might not be in Rockstar Games' best interest.\nThe Debatable Firepower of Nostalgic Franchises\nMax Payne as a franchise had done relatively well for itself, with its third installment, Max Payne 3 in 2012, earning only $4 million in revenue in its first year but gradually able to eventually make its break-even goal through the help of digital storefronts like Steam. It was this slow revenue stream that caused its then publisher, Take-Two Interactive, and even certain Rockstar Games executives to consider Max Payne 3 a commercial failure. There is definitely a place for a franchise like Max Payne in the current gaming industry. Well-thought-out noir games have their niche, and the nostalgia factor will certainly give it an audience. The same can be said for Bully, a standalone Rockstar Games title that was successful in its initial PlayStation 2 era. Bully has managed to hang on relatively well in the modern gaming landscape, helped out by Steam and other online storefronts. Additionally, online content creators have also done the series a service in pushing it out to a wider audience and introducing it to a newer generation of players. Like Max Payne, Bully would also have a respectably sized audience who would definitely buy. Unfortunately, these old fr"
     }
    ]
   },
@@ -6681,15 +6725,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-02/01",
+     "url": "https://market.local/crypto/2026-11-02/02",
      "title": "Market snapshot crypto 2026-11-02",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-02"
      },
-     "published": "2026-11-02T01:40+00:00",
-     "text": "Bitcoin: $78,534 (+1.1% 24h)\nEthereum: $2,294 (+1.1% 24h)\nSolana: $95.15 (-0.6% 24h)\nToncoin: $1.21 (+1.0% 24h)"
+     "published": "2026-11-02T02:10+00:00",
+     "text": "Bitcoin: $78,339 (+0.9% 24h)\nEthereum: $2,291 (+1.1% 24h)\nSolana: $94.94 (-0.6% 24h)\nToncoin: $1.21 (+1.2% 24h)"
     }
    ]
   },
