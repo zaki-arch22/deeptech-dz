@@ -1,0 +1,174 @@
+[
+ {
+  "id": "2026-11-02-1358-freezer-hack-europe",
+  "slot": "2026-11-02T13:58:00+01:00",
+  "type": "news",
+  "category": "breaking",
+  "breaking": true,
+  "cluster_id": "web-europe-supermarket-freezer-hack",
+  "headline": "قراصنة يرفعون حرارة مجمدات المتاجر إلى 50 درجة في أوروبا",
+  "photo": {
+   "url": "https://www.irishtimes.com/resizer/v2/FZVXMUA3YBIUHMKVD3ARJMLH5A.jpg?auth=3cc4932ca717ba5c598b146eb99dab40c9683690e36911d734e3d91ca258cb01&smart=true&width=1600&height=1066"
+  },
+  "photo_candidates": [
+   "https://www.irishtimes.com/resizer/v2/FZVXMUA3YBIUHMKVD3ARJMLH5A.jpg?auth=3cc4932ca717ba5c598b146eb99dab40c9683690e36911d734e3d91ca258cb01&smart=true&width=1024&height=682",
+   "https://www.irishtimes.com/resizer/v2/FZVXMUA3YBIUHMKVD3ARJMLH5A.jpg?smart=true&auth=3cc4932ca717ba5c598b146eb99dab40c9683690e36911d734e3d91ca258cb01&width=1200&height=630"
+  ],
+  "photo_query": "supermarket freezer aisle frozen food",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Delhaize",
+    "domain": "delhaize.be"
+   },
+   {
+    "name": "Carrefour",
+    "domain": "carrefour.com"
+   },
+   {
+    "name": "SuperValu",
+    "domain": "supervalu.ie"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://bbc.co.uk/news/articles/cq1kd1nee80eo",
+    "title": "Supermarket freezers in Belgium and Sweden hit by suspected cyber-attack",
+    "text": "Dozens of supermarkets in Belgium and Sweden have been hit by a suspected cyber-attack affecting its refrigerators and freezers. Around 40 Delhaize supermarkets and 15 Carrefour stores were affected in Belgium, while several ICA and Coop shops in Sweden were hit. Thirteen SuperValu shops have also been impacted in Ireland. Thousands of euros worth of food has had to be thrown away. One ICA store in Sweden said temperatures for its freezers had been set to 50 C. It is not clear who is behind the attack, which follows a similar incident last month that affected hundreds of French supermarkets."
+   },
+   {
+    "url": "https://www.irishtimes.com/technology/data-security/2026/11/02/supervalu-removes-frozen-and-chilled-food-from-13-stores-after-cyber-attack-on-fridges/",
+    "title": "Supervalu removes frozen and chilled food from 13 stores after cyber attack on fridges",
+    "text": "13 stores had chilled and frozen products removed from shelves on Monday morning as a precaution. Musgrave called it a cyber incident limited to a specific model of refrigerator. A similar attack last month affected about 700 stores in France, including Intermarché, Coopérative and Carrefour. Attackers manipulated internet-connected fridge controllers, triggering defrost cycles that heated refrigerators and freezers."
+   },
+   {
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/supermarket-freezers-across-europe-struck-in-second-crippling-cyberattack-hackers-raise-temperatures-to-50-degrees-celsius-in-belgium-and-sweden-destroying-food-stocks",
+    "title": "Supermarket freezers across Europe struck in second crippling cyberattack",
+    "text": "Hackers remotely raised freezer temperatures to 50 degrees Celsius in online-controlled freezers in Belgium and Sweden. The attack began around midnight on Sunday night. Hackers activated each freezer's built-in defrost mode, overriding its temperature and timing, the same method used in the French attack. Targets: Delhaize, Carrefour, Spar in Belgium; ICA and Coop in Sweden."
+   }
+  ],
+  "text": "🚨 **قراصنة يرفعون حرارة مجمدات المتاجر إلى 50 درجة في عدة دول أوروبية، وأطعمة بآلاف اليوروهات تُرمى.**\n\nالهجوم بدأ منتصف ليلة الأحد، وأصاب مجمدات متصلة بالإنترنت في سلاسل متاجر كبرى:\n\n• في بلجيكا: نحو **40 متجراً لديليز** و**15 متجراً لكارفور**.\n• في أيرلندا: **13 متجراً** لسوبرفاليو سحبت كل الأطعمة المجمدة والمبردة من رفوفها.\n• في السويد: متاجر ICA وCoop، وأحدها وجد مجمداته مضبوطة على **50 درجة**.\n\nالقراصنة شغّلوا عن بُعد وضع **إذابة الثلج** في المجمدات، فسخنت بدل أن تبرد.\n\nإنه الهجوم الثاني في أسابيع، بعد هجوم بالطريقة نفسها أصاب نحو **700 متجر في فرنسا** الشهر الماضي، ولم يُعرف الفاعل حتى الآن.\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-02-1413-dakar-2026-yog",
+  "slot": "2026-11-02T14:13:00+01:00",
+  "type": "news",
+  "category": "sport",
+  "cluster_id": "web-dakar-2026-youth-olympics",
+  "headline": "أول ألعاب أولمبية في تاريخ إفريقيا تجري الآن في داكار",
+  "photo": {
+   "url": "https://img.olympics.com/images/image/private/f_auto/primary/umiz7gzkhu0ijq5917na"
+  },
+  "photo_candidates": [
+   "https://img.olympics.com/images/image/private/f_auto/primary/cihvifqchcwzm5g7hepk",
+   "https://img.olympics.com/images/image/private/f_auto/primary/feiutvfogkxju0bt3bhp",
+   "https://test.afriksoir.net/wp-content/uploads/2026/11/1-22.jpeg"
+  ],
+  "photo_query": "Dakar 2026 Youth Olympic Games opening ceremony",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Dakar 2026",
+    "domain": "olympics.com"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://www.olympics.com/ioc/dakar-2026",
+    "title": "Dakar 2026 - Youth Olympic Games",
+    "text": "Taking place from 31 October to 13 November 2026, the first Olympic sports event to take place on African soil. Africa Welcomes, Dakar Celebrates. First edition of the Youth Olympic Games to feature a Refugee Olympic Team."
+   },
+   {
+    "url": "https://en.wikipedia.org/wiki/2026_Summer_Youth_Olympics",
+    "title": "2026 Summer Youth Olympics",
+    "text": "Opening 31 October 2026, closing 13 November 2026, Dakar, Senegal. Athletes: 2,654. A total of 204 countries sent at least one athlete. 25 sports. Three areas: Dakar, Diamniadio, and Saly. Algeria: 41 athletes."
+   },
+   {
+    "url": "https://www.aps.dz/en/sports/individual-sports/mvf5w68y-algeria-fields-41-athletes-in-17-sports",
+    "title": "Algeria fields 41 athletes in 17 sports",
+    "text": "The Youth Olympic Games are scheduled to take place in Dakar, Senegal, from October 31 to November 13, 2026. Algeria: 41 athletes competing in 17 sports; delegation of 72 members."
+   },
+   {
+    "url": "https://afriksoir.net/joj-dakar-2026-legyptien-ali-zain-offre-a-lafrique-sa-premiere-medaille-dor/",
+    "title": "JOJ Dakar 2026 : l'Égyptien Ali Zain offre à l'Afrique sa première médaille d'or",
+    "text": "Swimming, 100 m butterfly final, Sunday 1 November 2026. Ali Zain, Egypt, age 17, won Africa's first gold medal at these Games in 52.16 seconds."
+   }
+  ],
+  "text": "⚡ **أول ألعاب أولمبية في تاريخ إفريقيا تجري الآن في السنغال، و41 رياضياً جزائرياً يتنافسون فيها.**\n\nهي **الألعاب الأولمبية للشباب داكار 2026**، وتستمر حتى **13 نوفمبر**.\n\n• **2,654 رياضياً** من 204 دول.\n• **25 رياضة** موزعة على داكار وديامنياديو وسالي.\n• الجزائر حاضرة بـ**41 رياضياً في 17 رياضة**.\n\nأول ذهبية إفريقية جاءت أمس من المصري **علي زين** (17 سنة) في سباحة 100 متر فراشة، بزمن 52.16 ثانية.\n\nالبرنامج والنتائج يوماً بيوم على الموقع الرسمي:\n🔗 olympics.com/en/dakar-2026\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-02-1431-organic-maps",
+  "slot": "2026-11-02T14:31:00+01:00",
+  "type": "app",
+  "category": "app",
+  "cluster_id": "web-app-organic-maps",
+  "headline": "خرائط كاملة تعمل دون إنترنت ومجاناً",
+  "photo": {
+   "url": "https://organicmaps.app/images/screenshots/hiking.jpg"
+  },
+  "photo_candidates": [
+   "https://organicmaps.app/images/screenshots/prague.jpg",
+   "https://organicmaps.app/images/screenshots/search.jpg",
+   "https://organicmaps.app/images/screenshots/dark.jpg"
+  ],
+  "photo_query": "Organic Maps app screenshot",
+  "gallery": [
+   {
+    "url": "https://organicmaps.app/images/screenshots/prague.jpg"
+   },
+   {
+    "url": "https://organicmaps.app/images/screenshots/dark.jpg"
+   }
+  ],
+  "logos": [
+   {
+    "name": "Organic Maps",
+    "domain": "organicmaps.app"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://organicmaps.app/",
+    "title": "Organic Maps: Offline Hike, Bike, Trails and Navigation",
+    "text": "Detailed offline maps with places that don't exist on other maps, thanks to OpenStreetMap. Cycling routes, hiking trails, and walking paths. Turn-by-turn walking, cycling, and car navigation with voice guidance. Metro/subway maps. Fast offline search on the downloaded maps. Dark Mode. Free and open-source. Absolutely free. No ads. No tracking. No data collection. No annoying registration. Available on the App Store, Google Play, F-Droid."
+   }
+  ],
+  "text": "⚡ **خرائط كاملة تعمل دون إنترنت، بلا إعلانات ولا تتبّع: هذا هو Organic Maps.**\n\nتحمّل خريطة بلدك أو المدينة التي تسافر إليها مرة واحدة، ثم تستعملها في الصحراء أو الجبل أو خارج الوطن دون أي اتصال.\n\n• **ملاحة صوتية** خطوة بخطوة للسيارة والدراجة والمشي.\n• مسارات المشي في الجبال، وخرائط **المترو**، وبحث سريع دون إنترنت.\n• **مجاني بالكامل** ومفتوح المصدر، بلا تسجيل ولا جمع لبياناتك.\n\nمتوفر على أندرويد وآيفون.\n\n🔗 organicmaps.app\n\n◆ @DeeptechDZ"
+ },
+ {
+  "id": "2026-11-02-1449-anthropic-ai-fluency-students",
+  "slot": "2026-11-02T14:49:00+01:00",
+  "type": "course",
+  "category": "course",
+  "cluster_id": "web-anthropic-ai-fluency-students",
+  "headline": "دورة مجانية من صانعة Claude للطلاب بشهادة إتمام",
+  "photo": {
+   "url": "https://cdn.sanity.io/images/4zrzovbb/website/c4bd33e7c8e809a2f9a9a5896ee13961e2a738ec-2400x1260.png"
+  },
+  "photo_candidates": [
+   "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "https://www-cdn.anthropic.com/images/4zrzovbb/website/c4bd33e7c8e809a2f9a9a5896ee13961e2a738ec-2400x1260.png"
+  ],
+  "photo_query": "Anthropic Claude logo",
+  "gallery": [],
+  "logos": [
+   {
+    "name": "Anthropic",
+    "domain": "anthropic.com"
+   }
+  ],
+  "sources": [
+   {
+    "url": "https://anthropic.skilljar.com/ai-fluency-for-students",
+    "title": "AI Fluency for students - Anthropic Courses",
+    "text": "This course empowers students to develop AI Fluency skills. Topics: AI Fluency Framework applications for students, AI as a learning partner, AI in career planning, Being the human in the loop. Final assessment, then receive a certificate of completion. Register | FREE."
+   },
+   {
+    "url": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
+    "title": "Higher education advisory board and AI Fluency courses",
+    "text": "AI Fluency for Students teaches responsible AI collaboration for coursework and career planning. Students build critical thinking skills and write a personal commitment to responsible AI use."
+   }
+  ],
+  "text": "🎁 **أنثروبيك، الشركة التي صنعت Claude، تقدم للطلاب دورة مجانية في استعمال الذكاء الاصطناعي، مع شهادة إتمام.**\n\nاسمها **AI Fluency for students**، وتعلّمك كيف تجعل الذكاء الاصطناعي مساعداً في دراستك دون أن يفكّر بدلاً منك:\n\n• استعماله **شريكاً في التعلّم** والمراجعة.\n• الاستعانة به في **التخطيط لمسارك المهني**.\n• كيف تبقى أنت صاحب القرار وتتحقق مما يقوله.\n\nفي آخر الدورة اختبار نهائي، ومن ينجح فيه يحصل على **شهادة إتمام مجانية**. الدورة بالإنجليزية.\n\n🔗 anthropic.skilljar.com/ai-fluency-for-students\n\n◆ @DeeptechDZ"
+ }
+]
