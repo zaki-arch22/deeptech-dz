@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T02:12:33+00:00",
+ "generated_at": "2026-11-02T02:42:57+00:00",
  "clusters": [
   {
    "id": "cb8087c5f39",
@@ -1061,6 +1061,140 @@
    ]
   },
   {
+   "id": "c1c3b8a8b0a",
+   "kind": "news",
+   "score": 20.5,
+   "sensitive": true,
+   "distinct_sites": 7,
+   "title_hint": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "UN News",
+     "trust": 3,
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzV2t5R2VZeHNZMHEtbzJPTHFZYUVQenI1V3pocEU4eUJlUHl5LXpGN0dpUFdjVDhTUFRtclJJbnNIU045ZERIelplUGtjMEtPeU9fU2hZWQ?oc=5",
+     "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+     "lang": "en",
+     "extra": {},
+     "id": "19cda478a7cbfe89",
+     "published": "2026-10-31T19:30+00:00",
+     "text": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody\nUN News"
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORko1UkVaMUROMU1yUjRTd3I5V3FoQm9FSW83OHAxVmR4ZmROQUh5QVpnOHR6VTBRdlQzVjI3RzlMVFA3NWVlVDVxZWdISmZ6ZlJ3N3hMUmNncGRyeTZVRTR3RUtPT1BWNGh3N0s5aXFpcWktdFU2WEgxU3M1RGlDRllVZHlwNmx2OE4tOENlYnFKZDA3TEFZdEJGLWt1R0pyaGhKYWhGcUl5c1VYWXFzdGl5SlJwREN1aE55NzdiMEI?oc=5",
+     "title": "UN rights chief demands probe after Yemeni staff member dies in Houthi custody",
+     "lang": "en",
+     "extra": {},
+     "id": "1c3b8a8b0a1b0753",
+     "published": "2026-10-31T17:00+00:00",
+     "text": "UN rights chief demands probe after Yemeni staff member dies in Houthi custody\nArab News"
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336066",
+     "title": "UN Demands Probe into Death of Its Employee in Houthi Custody",
+     "lang": "en",
+     "extra": {},
+     "id": "1ee6689bdc4e04bb",
+     "published": "2026-10-31T17:59+00:00",
+     "text": ""
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/middle-east/un-demands-probe-into-death-of-its-employee-in-houthi-custody",
+     "title": "UN demands probe into death of its employee in Houthi custody",
+     "lang": "en",
+     "extra": {},
+     "id": "34bc350b8fe7f75b",
+     "published": "2026-10-31T19:33+00:00",
+     "text": "Over 70 UN personnel are being held by the Houthis."
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/middle-east/un-says-yemeni-staff-member-dies-in-houthi-custody-demands-investigation",
+     "title": "UN says Yemeni staff member dies in Houthi custody, demands investigation",
+     "lang": "en",
+     "extra": {},
+     "id": "0c74a22d20d6edb0",
+     "published": "2026-10-31T19:42+00:00",
+     "text": "Oct 31 - A Yemeni staff member of the UN Human Rights Office has died in Houthi custody after being arbitrarily detained for more than two years, the UN human rights chief said on Saturday, calling for an independent investigation and the release of other detained personnel."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/middle-east/un-employee-dies-after-over-2-years-in-houthi-custody-in-yemen-minister/4107680",
+     "title": "UN employee dies after over 2 years in Houthi custody in Yemen: Minister",
+     "lang": "en",
+     "extra": {},
+     "id": "b3a7089dfa1e5f76",
+     "published": "2026-10-31T21:37+00:00",
+     "text": "Death underscores UN’s responsibilities toward abducted employees, says Mashdal Mohammed Omar"
+    },
+    {
+     "source": "Sky News World",
+     "trust": 2,
+     "url": "https://news.sky.com/story/un-demands-investigation-into-death-of-staff-member-in-houthi-custody-13606554",
+     "title": "UN demands investigation into death of staff member in Houthi custody",
+     "lang": "en",
+     "extra": {},
+     "id": "ff328fe4afffaa75",
+     "published": "2026-11-01T01:17+00:00",
+     "text": "A Yemeni staff member of the UN Human Rights Office has died in Houthi custody after being arbitrarily held for more than two years, the UN human rights chief has said."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
+     "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9e7acf478de-1788771023.jpg?resize=1920%2C1440"
+     },
+     "id": "d5552815116f588b",
+     "published": "2026-11-01T04:49+00:00",
+     "text": "The United Nations has demanded an investigation into the death of an employee in Houthi detention in Yemen.\nMohammad el-Shami, a staff member of the Office of the United Nations High Commissioner for Human Rights (OHCHR) in Yemen, died more than a month ago, but his family was only recently informed, the UN said in a statement on Saturday.\nRecommended Stories\nlist of 3 items- list 1 of 3Yemen’s Houthis detain 20 UN staff in latest raid\n- list 2 of 3Yemen’s Houthis say arrested UN staff will be tried over Israeli links\n- list 3 of 3Houthis detain 10 more United Nations staff in Yemen, bringing total to 69\nThe Houthis did not say how he died, but his family “deserve to know the truth”, said UN High Commissioner for Human Rights Volker Turk.\nThe human rights chief also demanded “full transparency” from the Houthi authorities and an “urgent, independent and thorough investigation” into el-Shami’s death.\nEl-Shami had been arbitrarily held in Houthi custody since June 2024, when he and more than 60 people working with the UN and other NGOs were detained and accused of being part of an “American-Israeli spy network”.\n“I am also gravely concerned” for the seven other OHCHR personnel who were detained alongside el-Shami and are still being held, Turk said. “I appeal again for their immediate and unconditional release.”\nUN Secretary-General Antonio Guterres said in a separate statement on Saturday that he was “appalled” by el-Shami’s death and echoed Turk’s calls for an investigation.\nThe UN is “urgently seeking answers” from the group about the circumstances of his death, Guterres added.\nEl-Shami is the second UN staff member to die in Houthi detention, following the death of a World Food Programme staffer in February 2025.\nA total of 72 UN staffers and NGO workers, including el-Shami, have been detained by the Houthis.\nThe UN paused operations in parts of Houthi-held Yemen in February 2025 over concerns for the safety of its employees.\nThe rebel group has previously paraded some detainees on television channels, presenting them as collaborators with Western intelligence agencies and Israel.\nOn October 6, the UN announced that a World Food Programme employee had been released after being “arbitrarily detained” by the Iran-backed group."
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KNUVhZmxVTUJrazdTU3VlTTB1cmRObE9qcHd4X1NaTFdkYkRjYVpXbjB2Y2ZCdU1yYjdOMnhnVHB2ZUE1ZDl1MndpVUFOLURLUjlfbUhNdWc?oc=5",
+     "title": "UN demands probe into death of its employee in Houthi custody - Region - World",
+     "lang": "en",
+     "extra": {},
+     "id": "fd6ef928b6745725",
+     "published": "2026-11-01T07:40+00:00",
+     "text": "UN demands probe into death of its employee in Houthi custody - Region - World\nAhram Online"
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/un-demands-investigation-after-death-of-staff-member-held-in-houthi-custody-in-yemen",
+     "title": "UN demands urgent investigation after death of staff member held in Houthi custody",
+     "lang": "en",
+     "extra": {},
+     "id": "74693f0f943c503a",
+     "published": "2026-11-01T10:23+00:00",
+     "text": "Yemeni Prime Minister Shaya al-Zindani said more than 70 UN staff members and dozens of humanitarian workers remain in Houthi custody."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/middle-east/un-chief-condemns-death-of-staff-member-in-houthi-detention-in-yemen/4108262",
+     "title": "UN chief condemns death of staff member in Houthi detention in Yemen",
+     "lang": "en",
+     "extra": {},
+     "id": "4d97b234b340a565",
+     "published": "2026-11-02T02:34+00:00",
+     "text": "Mohammed Ibrahim al-Shami, detained since June 2024, is second UN employee to die in Houthi custody"
+    }
+   ]
+  },
+  {
    "id": "c94e0534854",
    "kind": "news",
    "score": 20.0,
@@ -1535,175 +1669,6 @@
      "id": "efd2157682651e0f",
      "published": "2026-11-01T09:53+00:00",
      "text": "Federal judge rules president failed to establish ‘actual malice’ in newspaper’s reporting on alleged letter to Jeffrey Epstein, media reports"
-    }
-   ]
-  },
-  {
-   "id": "c1c3b8a8b0a",
-   "kind": "news",
-   "score": 18.5,
-   "sensitive": true,
-   "distinct_sites": 7,
-   "title_hint": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "UN News",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBzV2t5R2VZeHNZMHEtbzJPTHFZYUVQenI1V3pocEU4eUJlUHl5LXpGN0dpUFdjVDhTUFRtclJJbnNIU045ZERIelplUGtjMEtPeU9fU2hZWQ?oc=5",
-     "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
-     "lang": "en",
-     "extra": {},
-     "id": "19cda478a7cbfe89",
-     "published": "2026-10-31T19:30+00:00",
-     "text": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody\nUN News"
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORko1UkVaMUROMU1yUjRTd3I5V3FoQm9FSW83OHAxVmR4ZmROQUh5QVpnOHR6VTBRdlQzVjI3RzlMVFA3NWVlVDVxZWdISmZ6ZlJ3N3hMUmNncGRyeTZVRTR3RUtPT1BWNGh3N0s5aXFpcWktdFU2WEgxU3M1RGlDRllVZHlwNmx2OE4tOENlYnFKZDA3TEFZdEJGLWt1R0pyaGhKYWhGcUl5c1VYWXFzdGl5SlJwREN1aE55NzdiMEI?oc=5",
-     "title": "UN rights chief demands probe after Yemeni staff member dies in Houthi custody",
-     "lang": "en",
-     "extra": {},
-     "id": "1c3b8a8b0a1b0753",
-     "published": "2026-10-31T17:00+00:00",
-     "text": "UN rights chief demands probe after Yemeni staff member dies in Houthi custody\nArab News"
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336066",
-     "title": "UN Demands Probe into Death of Its Employee in Houthi Custody",
-     "lang": "en",
-     "extra": {},
-     "id": "1ee6689bdc4e04bb",
-     "published": "2026-10-31T17:59+00:00",
-     "text": ""
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/middle-east/un-demands-probe-into-death-of-its-employee-in-houthi-custody",
-     "title": "UN demands probe into death of its employee in Houthi custody",
-     "lang": "en",
-     "extra": {},
-     "id": "34bc350b8fe7f75b",
-     "published": "2026-10-31T19:33+00:00",
-     "text": "Over 70 UN personnel are being held by the Houthis."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/middle-east/un-says-yemeni-staff-member-dies-in-houthi-custody-demands-investigation",
-     "title": "UN says Yemeni staff member dies in Houthi custody, demands investigation",
-     "lang": "en",
-     "extra": {},
-     "id": "0c74a22d20d6edb0",
-     "published": "2026-10-31T19:42+00:00",
-     "text": "Oct 31 - A Yemeni staff member of the UN Human Rights Office has died in Houthi custody after being arbitrarily detained for more than two years, the UN human rights chief said on Saturday, calling for an independent investigation and the release of other detained personnel."
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/middle-east/un-employee-dies-after-over-2-years-in-houthi-custody-in-yemen-minister/4107680",
-     "title": "UN employee dies after over 2 years in Houthi custody in Yemen: Minister",
-     "lang": "en",
-     "extra": {},
-     "id": "b3a7089dfa1e5f76",
-     "published": "2026-10-31T21:37+00:00",
-     "text": "Death underscores UN’s responsibilities toward abducted employees, says Mashdal Mohammed Omar"
-    },
-    {
-     "source": "Sky News World",
-     "trust": 2,
-     "url": "https://news.sky.com/story/un-demands-investigation-into-death-of-staff-member-in-houthi-custody-13606554",
-     "title": "UN demands investigation into death of staff member in Houthi custody",
-     "lang": "en",
-     "extra": {},
-     "id": "ff328fe4afffaa75",
-     "published": "2026-11-01T01:17+00:00",
-     "text": "A Yemeni staff member of the UN Human Rights Office has died in Houthi custody after being arbitrarily held for more than two years, the UN human rights chief has said."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/un-demands-investigation-after-staffers-death-in-houthi-custody-in-yemen?traffic_source=rss",
-     "title": "UN demands investigation after staffer’s death in Houthi custody in Yemen",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6a9e7acf478de-1788771023.jpg?resize=1920%2C1440"
-     },
-     "id": "d5552815116f588b",
-     "published": "2026-11-01T04:49+00:00",
-     "text": "The United Nations has demanded an investigation into the death of an employee in Houthi detention in Yemen.\nMohammad el-Shami, a staff member of the Office of the United Nations High Commissioner for Human Rights (OHCHR) in Yemen, died more than a month ago, but his family was only recently informed, the UN said in a statement on Saturday.\nRecommended Stories\nlist of 3 items- list 1 of 3Yemen’s Houthis detain 20 UN staff in latest raid\n- list 2 of 3Yemen’s Houthis say arrested UN staff will be tried over Israeli links\n- list 3 of 3Houthis detain 10 more United Nations staff in Yemen, bringing total to 69\nThe Houthis did not say how he died, but his family “deserve to know the truth”, said UN High Commissioner for Human Rights Volker Turk.\nThe human rights chief also demanded “full transparency” from the Houthi authorities and an “urgent, independent and thorough investigation” into el-Shami’s death.\nEl-Shami had been arbitrarily held in Houthi custody since June 2024, when he and more than 60 people working with the UN and other NGOs were detained and accused of being part of an “American-Israeli spy network”.\n“I am also gravely concerned” for the seven other OHCHR personnel who were detained alongside el-Shami and are still being held, Turk said. “I appeal again for their immediate and unconditional release.”\nUN Secretary-General Antonio Guterres said in a separate statement on Saturday that he was “appalled” by el-Shami’s death and echoed Turk’s calls for an investigation.\nThe UN is “urgently seeking answers” from the group about the circumstances of his death, Guterres added.\nEl-Shami is the second UN staff member to die in Houthi detention, following the death of a World Food Programme staffer in February 2025.\nA total of 72 UN staffers and NGO workers, including el-Shami, have been detained by the Houthis.\nThe UN paused operations in parts of Houthi-held Yemen in February 2025 over concerns for the safety of its employees.\nThe rebel group has previously paraded some detainees on television channels, presenting them as collaborators with Western intelligence agencies and Israel.\nOn October 6, the UN announced that a World Food Programme employee had been released after being “arbitrarily detained” by the Iran-backed group."
-    },
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5KNUVhZmxVTUJrazdTU3VlTTB1cmRObE9qcHd4X1NaTFdkYkRjYVpXbjB2Y2ZCdU1yYjdOMnhnVHB2ZUE1ZDl1MndpVUFOLURLUjlfbUhNdWc?oc=5",
-     "title": "UN demands probe into death of its employee in Houthi custody - Region - World",
-     "lang": "en",
-     "extra": {},
-     "id": "fd6ef928b6745725",
-     "published": "2026-11-01T07:40+00:00",
-     "text": "UN demands probe into death of its employee in Houthi custody - Region - World\nAhram Online"
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/01/un-demands-investigation-after-death-of-staff-member-held-in-houthi-custody-in-yemen",
-     "title": "UN demands urgent investigation after death of staff member held in Houthi custody",
-     "lang": "en",
-     "extra": {},
-     "id": "74693f0f943c503a",
-     "published": "2026-11-01T10:23+00:00",
-     "text": "Yemeni Prime Minister Shaya al-Zindani said more than 70 UN staff members and dozens of humanitarian workers remain in Houthi custody."
-    }
-   ]
-  },
-  {
-   "id": "c0747ff0d71",
-   "kind": "news",
-   "score": 18.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Google's AI satellite sends a very expensive haiku to Earth",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Register",
-     "trust": 2,
-     "url": "https://theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-     "title": "Google's AI satellite sends a very expensive haiku to Earth",
-     "lang": "en",
-     "extra": {},
-     "id": "0747ff0d7149d6f2",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite.\nThe company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to \"Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you.\"\nTravis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its \"Hello World\" milestone by sending an inference response from orbit.\n\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space,\" wrote Beals in a blog post.\nAnd as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink:\nBlue marble below,\nData streams in silent grace,\nStarlight feeds my core. ✨\nThose roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs.\nAdd in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku.\nAccording to Google's calculations, if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year).\nGoogle predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening.\nAfter the haiku, Beals said, \"we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems.\" Next up: tests for evaluating how TPUs perform under thermal stress and radiation.\nGoogle has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam.\nThe system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si).\n\"For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second,\" Google researchers said in a paper published earlier this month.\n\"While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy of system-level mitigations, requires further study.\"\nIndeed, the study will continue. Next year, the plan is to test a pair of interconnected satellites. Rather than lofting large satellites into orbit, Google anticipates sending a constellation of many smaller satellites that communicate with one another. ®"
-    },
-    {
-     "source": "The Register",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5",
-     "title": "Google's AI satellite sends a very expensive haiku to Earth",
-     "lang": "en",
-     "extra": {},
-     "id": "cc2c009a3e8d417f",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Google's AI satellite sends a very expensive haiku to Earth\nThe Register"
-    },
-    {
-     "source": "The Next Web",
-     "trust": 2,
-     "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
-     "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.thenextweb.com/2026/11/project-suncatcher-logo-yellow-orange-blue-gradient.jpg"
-     },
-     "id": "9c5905ac74d8c89d",
-     "published": "2026-11-01T14:35+00:00",
-     "text": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Friday.\nThe satellite launched on 1 October for Project Suncatcher, Google’s research effort to run AI computing in space. Google called the haiku the first AI response from a data centre class TPU, its own AI chip, in orbit.\n“Blue marble below / Data streams in silent grace / Starlight feeds my core.” Gemma 4, on the Suncatcher satellite, as published by Google\nGoogle sent the prompt during a pass over a ground station. The poem came back as the satellite flew over Svalbard, Norway. The team then tried space-themed limericks and prompts asking the satellite to report on its own systems. The prompt asked for a haiku written as a TPU orbiting Earth, Thomas Claburn reported for The Register.\nWhat the satellite carries\nThe satellite holds four TPUs and generates up to 1 kilowatt of power, Tim Fernholz reported for TechCrunch. Because of that power limit, it can run only one TPU at a time, for about 20 minutes. Testing its systems took about three weeks, and a Google spokesperson told TechCrunch the satellite was working normally.\nOmar Sanseviero, who works on Gemma at Google DeepMind, wrote on X that the model ran on stored solar energy.\nThe next tests\nGoogle will now test how the TPUs cope with heat and radiation in orbit. Radiation can flip bits in a chip’s memory and corrupt data without warning. Google’s tests on the ground suggested this matters less for running models than for training them, according to TechCrunch.\nIf the chips hold up, Google plans to launch two linked satellites in 2027. They will make more power and test laser links between satellites, TechCrunch reported.\nGoogle announced the launch in September. Startups also plan data centres in orbit, and Starcloud raised $250M in August. SpaceX has told investors its own orbital data centres may never work. Google’s plans also depend on SpaceX making its Starship rocket fully reusable, TechCrunch reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
     }
    ]
   },
@@ -2219,6 +2184,109 @@
      "id": "2c04f6d4184a8846",
      "published": "2026-11-01T20:31+00:00",
      "text": "- UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff AP News\n- UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says Reuters\n- Why is Morocco celebrating the defeat of a UN resolution on Western Sahara? Al Jazeera\n- Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends UN News\n- Statement on a U.S.-Drafted UN Security Council Resolution on the Western Sahara Vetoed by the Russian Federation United States Mission to the United Nations (.gov)"
+    }
+   ]
+  },
+  {
+   "id": "c36dd9be99f",
+   "kind": "news",
+   "score": 17.5,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Two minutes of Persona 1 remake footage seemingly leaks online",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/38509069/view/668380665149917725",
+     "title": "Two minutes of Persona 1 remake footage seemingly leaks online",
+     "lang": "en",
+     "extra": {},
+     "id": "04b88c2a94168224",
+     "published": "2026-11-01T14:10+00:00",
+     "text": "Two minutes of footage from an unannounced turn-based RPG recently spilled online, and yep, it very much looks like a remake of the very first Persona game.\nA YouTube account aptly called 'P1REMAKE' only yesterday posted a little under two minutes of footage from what appears to be a Persona 1 remake. As expected, eagle-eyed fans quickly spotted the clip and soon spread it across several other social media platforms, with the footage since appearing on Reddit and X.\nOf course, you should take all leaks with an unhealthily huge handful of salt no matter how convincing they look - especially in the age of generative-AI videos and such. At the same time, there are quite a few good reasons to let yourself be a little hopeful for this remake.\nFor one, the two-minute clip is longer and more elaborate than gen-AI videos typically are. Several series fans have also pointed out the video shows Eriko summoning her Persona in combat, while using the exact same animation as Persona 4 Revival's version of bestie Yukiko. Revival doesn't actually launch until next year, which makes the pose quite suspicious.\nThen there's the fact that this type of leak isn't exactly new territory for Atlus' popular role-playing franchise. In 2023, footage from what ended up being called Persona 3 Reload leaked online and showed very similarly rough, clearly in-development scenes from the game's dungeons.\nOne other curiosity is the inclusion of Tatsuya, the protagonist from Persona 2 Innocent Sin, who doesn't actually show up in the series' first game. Some folks are speculating that the video might have been created as an internal proof-of-concept pitch for Sega and Atlus management, so Tatsuya would serve as a placeholder model in that case.\nA Persona 1 remake isn't entirely unlikely with or without this potential leak, either. Persona series producer Kazuhisa Wada recently said remakes of the first two games are \"probably eventually\" happening at some point in the future.\nPersona 4 Revival's new character isn't a Social Link after all, Atlus clarifies, but something else entirely: \"We apologize for the confusion\"\n[/url]"
+    },
+    {
+     "source": "Eurogamer",
+     "trust": 2,
+     "url": "https://eurogamer.net/persona-1-remake-be-your-true-mind-leak",
+     "title": "Footage of a Persona 1 remake has seemingly leaked online",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-16.28.57.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+     },
+     "id": "d3eb5479de58885b",
+     "published": "2026-11-01T16:35+00:00",
+     "text": "Almost two minutes of footage from what appears to be a remake of the original Persona has leaked online.\nThe clip, which seemingly gives the remake the subtitle Be Your True Mind, was shared on the GamingLeaksAndRumours subreddit. It was uploaded to file-sharing site Gofile on 31st October under a Japanese filename that translates as \"Megami Ibunroku Persona Remake\".\nInterestingly, the footage looks a lot like Atlus' more recent entries. It shows off stylish menus and a brief look at combat that closely resembles Persona 5 and Persona 3 Reload. There's also a short social link cutscene in a noticeably different, almost graphic novel art style.\nFans digging through the clip believe they have spotted several details that lend it credibility. These include what looks like Unreal Engine debug text in the top left corner during battle (Atlus switched to Unreal Engine for Persona 3 Reload), a new remix of the original PlayStation game's Pandora theme, and the protagonist being referred to as \"Boy With Earring\", which is how he is named in Persona 2: Eternal Punishment.\nAtlus has not announced a Persona 1 remake, and we can't verify the footage, so treat all of this with the usual caveats.\nHow do you solve a problem like Persona 4? At Gamescom, we sat down with series director Kazuhisa Wada to talk about the Persona 4 Remake, and ask about how Atlus is approaching the original text for the remake."
+    },
+    {
+     "source": "PC Gamer",
+     "trust": 2,
+     "url": "https://pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked",
+     "title": "Footage of what sure looks like a Persona 1 remake has leaked",
+     "lang": "en",
+     "extra": {},
+     "id": "b6d20d393ff75692",
+     "published": "2026-11-02T02:06+00:00",
+     "text": "<p>Jody's first computer was a Commodore 64, so he remembers having to use a code wheel to play Pool of Radiance. A former music journalist who interviewed everyone from Giorgio Moroder to Trent Reznor, Jody also co-hosted Australia's first radio show about videogames, <a href=\"https://zedgamesau.net/tag/jody-macgregor\" target=\"_blank\">Zed Games</a>. He's written for <a href=\"https://www.rockpapershotgun.com/authors/jody-macgregor\" target=\"_blank\">Rock Paper Shotgun</a>, The Big Issue, <a href=\"https://www.gamesradar.com/author/jody-macgregor/\" target=\"_blank\">GamesRadar</a>, <a href=\"http://www.zam.com/author/jody-macgregor\" target=\"_blank\">Zam</a>, <a href=\"https://web.archive.org/web/20170606042647/http://www.glixel.com/contributor/jody-macgregor\" target=\"_blank\">Glixel</a>, <a href=\"https://fiveoutoftenmagazine.com/downloads/issue-16-identity/\" target=\"_blank\">Five Out of Ten Magazine</a>, and <a href=\"https://web.archive.org/web/20171009125722/https://www.playboy.com/authors/jody-macgregor\" target=\"_blank\">Playboy.com</a>, whose cheques with the bunny logo made for fun conversations at the bank. Jody's first article for PC Gamer was about the <a href=\"https://www.pcgamer.com/the-audio-of-alien-isolation/\">audio of Alien Isolation</a>, published in 2015, and since then he's written about <a href=\"https://www.pcgamer.com/why-silent-hill-belongs-on-pc/\">why Silent Hill belongs on PC</a>, <a href=\"https://www.pcgamer.com/10-years-on-recettear-an-item-shops-tale-is-still-the-best-fantasy-shopkeeper-tycoon-game/\">why Recettear: An Item Shop's Tale is the best fantasy shopkeeper tycoon game</a>, and <a href=\"https://www.pcgamer.com/there-is-so-so-much-weird-shit-in-lost-ark/\">how weird Lost Ark can get</a>. Jody edited PC Gamer Indie from 2017 to 2018, and he eventually lived up to his promise to play every Warhammer videogame.</p>"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDBvRkxwak9Bd1Y2MlJWRnEwOGx5Zi1SV0d4Q0ZYbndjUGZzSnlXbHRxNkFHbE9tbnBxbFBZNW9BelFLMVZjRVk0NWQxSFRNZXp6NkV3TVZ4V2UxZTVXb1liT3FSLTNiVXFtUnZsd0N1YXZReUJQMTFIRE11WEYycg?oc=5",
+     "title": "Rumor: Persona remake footage appears online - Gematsu",
+     "lang": "en",
+     "extra": {},
+     "id": "36dd9be99f7c0cac",
+     "published": "2026-10-31T22:35+00:00",
+     "text": "- Rumor: Persona remake footage appears online Gematsu\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
+    }
+   ]
+  },
+  {
+   "id": "c0747ff0d71",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Google's AI satellite sends a very expensive haiku to Earth",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+     "title": "Google's AI satellite sends a very expensive haiku to Earth",
+     "lang": "en",
+     "extra": {},
+     "id": "0747ff0d7149d6f2",
+     "published": "2026-10-31T15:36+00:00",
+     "text": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite.\nThe company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to \"Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you.\"\nTravis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its \"Hello World\" milestone by sending an inference response from orbit.\n\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space,\" wrote Beals in a blog post.\nAnd as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink:\nBlue marble below,\nData streams in silent grace,\nStarlight feeds my core. ✨\nThose roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs.\nAdd in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku.\nAccording to Google's calculations, if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year).\nGoogle predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening.\nAfter the haiku, Beals said, \"we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems.\" Next up: tests for evaluating how TPUs perform under thermal stress and radiation.\nGoogle has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam.\nThe system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si).\n\"For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second,\" Google researchers said in a paper published earlier this month.\n\"While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy of system-level mitigations, requires further study.\"\nIndeed, the study will continue. Next year, the plan is to test a pair of interconnected satellites. Rather than lofting large satellites into orbit, Google anticipates sending a constellation of many smaller satellites that communicate with one another. ®"
+    },
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5",
+     "title": "Google's AI satellite sends a very expensive haiku to Earth",
+     "lang": "en",
+     "extra": {},
+     "id": "cc2c009a3e8d417f",
+     "published": "2026-10-31T15:36+00:00",
+     "text": "Google's AI satellite sends a very expensive haiku to Earth\nThe Register"
+    },
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
+     "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.thenextweb.com/2026/11/project-suncatcher-logo-yellow-orange-blue-gradient.jpg"
+     },
+     "id": "9c5905ac74d8c89d",
+     "published": "2026-11-01T14:35+00:00",
+     "text": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Friday.\nThe satellite launched on 1 October for Project Suncatcher, Google’s research effort to run AI computing in space. Google called the haiku the first AI response from a data centre class TPU, its own AI chip, in orbit.\n“Blue marble below / Data streams in silent grace / Starlight feeds my core.” Gemma 4, on the Suncatcher satellite, as published by Google\nGoogle sent the prompt during a pass over a ground station. The poem came back as the satellite flew over Svalbard, Norway. The team then tried space-themed limericks and prompts asking the satellite to report on its own systems. The prompt asked for a haiku written as a TPU orbiting Earth, Thomas Claburn reported for The Register.\nWhat the satellite carries\nThe satellite holds four TPUs and generates up to 1 kilowatt of power, Tim Fernholz reported for TechCrunch. Because of that power limit, it can run only one TPU at a time, for about 20 minutes. Testing its systems took about three weeks, and a Google spokesperson told TechCrunch the satellite was working normally.\nOmar Sanseviero, who works on Gemma at Google DeepMind, wrote on X that the model ran on stored solar energy.\nThe next tests\nGoogle will now test how the TPUs cope with heat and radiation in orbit. Radiation can flip bits in a chip’s memory and corrupt data without warning. Google’s tests on the ground suggested this matters less for running models than for training them, according to TechCrunch.\nIf the chips hold up, Google plans to launch two linked satellites in 2027. They will make more power and test laser links between satellites, TechCrunch reported.\nGoogle announced the launch in September. Startups also plan data centres in orbit, and Starcloud raised $250M in August. SpaceX has told investors its own orbital data centres may never work. Google’s plans also depend on SpaceX making its Starship rocket fully reusable, TechCrunch reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
     }
    ]
   },
@@ -3183,72 +3251,6 @@
    ]
   },
   {
-   "id": "ca6f59bb012",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "DC, Virginia Sue to Block Trump’s 250-Foot Arch After Judge Questions Plan",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGxnTXJYWHd5SjUxRVkzeVdkLVJCa2VLMWdNbWNwQjN4Q2kyQ2J1MGVhZ3hHQkJFT0EyaDZsemJwTEQ5XzF4bDl0LUxBVzAzb3VlY2FQTXJUaV9TSlRibi03U2ZLWlltMlNYY2ZsMTN6eFhrQXZFb25IM3JzQ3dLRlV0TjN6cXYz?oc=5",
-     "title": "DC, Virginia Sue to Block Trump’s 250-Foot Arch After Judge Questions Plan",
-     "lang": "en",
-     "extra": {},
-     "id": "a6f59bb0125e0c5d",
-     "published": "2026-10-31T14:38+00:00",
-     "text": "DC, Virginia Sue to Block Trump’s 250-Foot Arch After Judge Questions Plan\nNewsweek"
-    },
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
-     "title": "Virginia and D.C. sue to stop proposed Trump arch",
-     "lang": "en",
-     "extra": {},
-     "id": "5c3c4a999e937eeb",
-     "published": "2026-10-31T17:03+00:00",
-     "text": "Virginia and the District of Columbia filed a lawsuit in federal court Saturday in a last-ditch effort to stop the construction of the triumphal arch planned for Memorial Circle in Washington."
-    },
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/10/31/trump-arch-dc-virginia",
-     "title": "D.C., Virginia sue to block Trump's 250-foot arch",
-     "lang": "en",
-     "extra": {},
-     "id": "2f420f34fee0047b",
-     "published": "2026-10-31T17:32+00:00",
-     "text": "The governments of Washington D.C. and Virginia asked a federal court to block construction of President Trump's planned \"triumphal arch,\" claiming it's unlawfully tall and would snarl traffic for years.\nWhy it matters: It's a last-minute gambit to stop construction before the multi-year project begins, potentially as soon as this coming week.\nWhat they're saying: \"This project is flagrantly unlawful,\" the two governments said in a Saturday filing in D.C. federal court, first reported by the Washington Post.\nZoom out: The proposed 250-foot arch would be one of the largest such monuments in the world, sparking concerns that it could interfere with other national symbols, block views and even complicate landings for pilots at nearby airports. (The FAA found otherwise.)\nThe other side: The administration has argued it will be a major tourist attraction — but also vital to national security, serving as a base for snipers and drones.\nWhat's next: A federal judge held a hearing Friday on a separate challenge to the arch, and indicated she may block construction at least temporarily."
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/trump-arch-lawsuits-virginia-dc-politics",
-     "title": "Virginia and D.C. sue over Trump's planned arch",
-     "lang": "en",
-     "extra": {},
-     "id": "f1dbe8f3a2df7f66",
-     "published": "2026-10-31T17:42+00:00",
-     "text": "There are now three lawsuits calling for a halt to potential work on a monument that would rise 250 feet over Washington, D.C."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
-     "title": "Virginia and D.C. sue over Trump's arch, adding to legal challenges as government wants work to begin",
-     "lang": "en",
-     "extra": {},
-     "id": "343d0098dbae0723",
-     "published": "2026-10-31T18:29+00:00",
-     "text": "There are now three lawsuits calling for a halt to potential work on a monument that would rise 250 feet on a patch of grass off the bridge that spans the Potomac River, connecting the city with Arlington National Cemetery."
-    }
-   ]
-  },
-  {
    "id": "c43efe0fc75",
    "kind": "news",
    "score": 15.0,
@@ -3562,6 +3564,72 @@
      "id": "b232b0d50fed55f0",
      "published": "2026-11-01T15:09+00:00",
      "text": "- Iran warns of 'geographically unrestricted response' if US attacks Euronews.com\n- Iran war live: US response awaited on new proposal to reopen Hormuz: Tehran Al Jazeera\n- Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios\n- Iran army: Potential war could be ‘longer than previous conflict,’ Trump won’t dictate its duration The Times of Israel\n- Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News"
+    }
+   ]
+  },
+  {
+   "id": "c5c3c4a999e",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Virginia and D.C. sue to stop proposed Trump arch",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/white-house/dc-virginia-lawsuit-stop-proposed-trump-arch-construction-rcna606705",
+     "title": "Virginia and D.C. sue to stop proposed Trump arch",
+     "lang": "en",
+     "extra": {},
+     "id": "5c3c4a999e937eeb",
+     "published": "2026-10-31T17:03+00:00",
+     "text": "Virginia and the District of Columbia filed a lawsuit in federal court Saturday in a last-ditch effort to stop the construction of the triumphal arch planned for Memorial Circle in Washington."
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/10/31/trump-arch-dc-virginia",
+     "title": "D.C., Virginia sue to block Trump's 250-foot arch",
+     "lang": "en",
+     "extra": {},
+     "id": "2f420f34fee0047b",
+     "published": "2026-10-31T17:32+00:00",
+     "text": "The governments of Washington D.C. and Virginia asked a federal court to block construction of President Trump's planned \"triumphal arch,\" claiming it's unlawfully tall and would snarl traffic for years.\nWhy it matters: It's a last-minute gambit to stop construction before the multi-year project begins, potentially as soon as this coming week.\nWhat they're saying: \"This project is flagrantly unlawful,\" the two governments said in a Saturday filing in D.C. federal court, first reported by the Washington Post.\nZoom out: The proposed 250-foot arch would be one of the largest such monuments in the world, sparking concerns that it could interfere with other national symbols, block views and even complicate landings for pilots at nearby airports. (The FAA found otherwise.)\nThe other side: The administration has argued it will be a major tourist attraction — but also vital to national security, serving as a base for snipers and drones.\nWhat's next: A federal judge held a hearing Friday on a separate challenge to the arch, and indicated she may block construction at least temporarily."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/trump-arch-lawsuits-virginia-dc-politics",
+     "title": "Virginia and D.C. sue over Trump's planned arch",
+     "lang": "en",
+     "extra": {},
+     "id": "f1dbe8f3a2df7f66",
+     "published": "2026-10-31T17:42+00:00",
+     "text": "There are now three lawsuits calling for a halt to potential work on a monument that would rise 250 feet over Washington, D.C."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/politics/virginia-and-d-c-sue-over-trumps-arch-adding-to-legal-challenges-as-government-wants-work-to-begin",
+     "title": "Virginia and D.C. sue over Trump's arch, adding to legal challenges as government wants work to begin",
+     "lang": "en",
+     "extra": {},
+     "id": "343d0098dbae0723",
+     "published": "2026-10-31T18:29+00:00",
+     "text": "There are now three lawsuits calling for a halt to potential work on a monument that would rise 250 feet on a patch of grass off the bridge that spans the Potomac River, connecting the city with Arlington National Cemetery."
+    },
+    {
+     "source": "ABC News",
+     "trust": 2,
+     "url": "https://abcnews.com/Politics/dc-virginia-file-suit-block-construction-trumps-proposed/story?id=137739420",
+     "title": "DC, Virginia file suit to block construction on Trump's proposed arch",
+     "lang": "en",
+     "extra": {},
+     "id": "4ce76ed343cf59e0",
+     "published": "2026-10-31T22:20+00:00",
+     "text": "Washington D.C. and Virginia are asking a judge to block the president's Triumphal Arch."
     }
    ]
   },
@@ -4194,176 +4262,26 @@
    ]
   },
   {
-   "id": "cd7d362c557",
+   "id": "c8c9dde7e32",
    "kind": "news",
-   "score": 14.5,
+   "score": 15.0,
    "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Nintendo Drops Surprise 'Pikmin Day' Direct",
-   "official_image": "https://images.nintendolife.com/8aca49f180cac/large.jpg",
-   "sources": [
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct",
-     "title": "Nintendo Drops Surprise 'Pikmin Day' Direct",
-     "lang": "en",
-     "extra": {
-      "image": "https://images.nintendolife.com/8aca49f180cac/large.jpg",
-      "page_image": "https://images.nintendolife.com/8aca49f180cac/1280x720.jpg"
-     },
-     "id": "d7d362c5572ee0ea",
-     "published": "2026-10-31T14:15+00:00",
-     "text": "Surprise! Nintendo had shadow dropped a Nintendo Direct presentation for Pikmin Day. Yes, that’s right, Pikmin day.\nAs of this year, Nintendo is officially referring to 1st November as ‘Pikmin Day’ - three ones like three Pikmin, get it? We don’t, really, but yay! Pikmin!\nThere’s nothing in the way of game news to report in this one, with the Direct showcasing another look at Pikmin 4 - Nintendo Switch 2 Edition, Pikmin Bloom goodness and more.\nIt also gave us our first look at Hello Pikmin, a new series of short films that Nintendo will release monthly, the first of which arrives tomorrow.\nHonestly, it’s a bit of a nothing burger, but if you are anything like as big of a Pikmin fan as us, then there’s plenty of smiles to be found here. You can watch the full presentation above."
-    },
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Yb1o4SllaS3JCRDJabVJMakVpZEl4bk1XNVNPcVd5ZmE3YlN4UHFTbVJ4eGY0bzZCOGVfTW9vTlg1dnBET3RteDZrbU1RS0VSU0JLOFJDWDZSbHI2ZzlKOUlmaUU?oc=5",
-     "title": "Pikmin Day Direct 11.1",
-     "lang": "en",
-     "extra": {},
-     "id": "e5f42f637bdb9f43",
-     "published": "2026-10-31T15:05+00:00",
-     "text": "Pikmin Day Direct 11.1\nNintendo"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct",
-     "title": "Nintendo Reveals Surprise Pikmin Day Direct",
-     "lang": "en",
-     "extra": {},
-     "id": "de508d8ec7e1c2d8",
-     "published": "2026-10-31T14:26+00:00",
-     "text": "Nintendo has revealed a surprise Nintendo Direct for Pikmin Day because it has apparently decided that's a thing now.\nInstead of spooky game announcements or horror movie memes, video game fans woke up to on Halloween 2026 was Mario creator Shigeru Miyamoto's face. That's because Nintendo has declared November 1 as Pikmin Day, and it's got a brand-new Direct to celebrate the occasion.\nYes, really. None of this is a joke. There's a little more than nine minutes of announcements to go over. Although there's no Pikmin 5 reveal or anything else too groundbreaking here, Miyamoto did take the time to share new information about Pikmin 4 and promised that, \"going forward, I want people to know more about Pikmin.\"\nTomorrow is Pikmin Day!\n— Nintendo of America (@NintendoAmerica) October 31, 2026\nJoin in on the fun by playing Pikmin games on Nintendo Switch 2 and Nintendo Switch. https://t.co/iYxZldya7p\nSo, to start, why is the first of November Pikmin Day? Nintendo's miniaturized franchise launched in Japan in October 2001 before coming to North America in December, so there's no tie to a release date like you might have guessed. Instead, Miyamoto explained that November 1 is Pikmin Day because there were originally only three Pikmin, which, when standing next to each other, kinda looks like \"11.1.\"\nReady to test your skills at Dandori Academy?\n— Nintendo of America (@NintendoAmerica) October 31, 2026\nA free demo of #Pikmin4 – Nintendo Switch 2 Edition + Dandori Academy will be available on Nov 2. https://t.co/rNHNq35RMT\nYou gotta give 'em credit for creativity, as Pikmin Day is probably one of the last things anyone expected to see today. Still, it served as a nice opportunity to offer an update on Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy ahead of its release November 12, 2026. Players will be able to use the new consoles built-in microphone to Oatchi, controlling them by using commands like 'rush' and 'go to work.'\nThe Dandori Academy mode, meanwhile, comes with new challenges, including exams that take place on Fridays, Saturdays, and Sundays, that give players timed tasks and an opportunity to earn medals. A demo for the Switch 2 version of Pikimin 4 will be available starting November 2, with save data available to transfer to the full launch. It offers access to the Sun-Speckled Terrace opening area, as well as two Dandori Academy stages.\nSecret Caves are coming this winter!\n— Nintendo of America (@NintendoAmerica) October 31, 2026\nGet ready to explore Secret Caves, face off against familiar creatures, and uncover hidden treasures along the way in @PikminBloom on your smartphone. https://t.co/Nx6Lzba6v4\nNintendo first brought its augmented-reality game, Pikmin Bloom, to smartphone devices in 2021, but five years on, and it's still got more to give. As shown in a teaser video featuring a group of the colorful plant-like creatures battling a Bulborb, an update scheduled to arrive this winter will add a new mechanic called Secret Caves. These battle-focused exploration events allow players to take their crew into caves to battle creatures and earn rewards.\nBefore a cave is explored, players must collect a cave map, which feature information about a cave and can be found on things like Postcards. Then, Pikmin are sent into the cave to search for treasures, with some of the items highlighted during the Direct including a rubber duck, a sword, a cookie, and a chef hat. Should a battle ensue, you'll command your army by sending them"
-    },
-    {
-     "source": "Kotaku",
-     "trust": 2,
-     "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
-     "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct",
-     "lang": "en",
-     "extra": {},
-     "id": "7f99b18d3af193ff",
-     "published": "2026-10-31T15:21+00:00",
-     "text": "While there were no new games announced, the Direct provided updates for the upcoming edition of\nPikmin 4,\nPikmin Bloom\nand crocheted hats"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbk1GRE5FVDFRdmNPWFJKQVVQSWdQbF9TN0xsQTNyRGVvYnJnaF9TWmNWT3ZiWkkyMmg3RXgtZEdBLXBWNGpWTDVvUnFGQUEwQnRfQ2VLVmRLWUN5UzRfdk1rNWxsLVg0eFpNREVoR2tYVGhmQ3Nvd1dmcmh4c3B2RzlkM1JDZm9YZEV1Y3hxVXJSOUpmT2hXN3h4X285dTlhMElnd2cwak81NDA?oc=5",
-     "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct - Kotaku",
-     "lang": "en",
-     "extra": {},
-     "id": "4d0620044247281e",
-     "published": "2026-10-31T15:21+00:00",
-     "text": "- Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct Kotaku\n- A Treasure Hunt Awaits in Pikmin Bloom’s Secret Caves! pikminbloom.com\n- Everything Announced at Nintendo's Inaugural Pikmin Day Direct IGN\n- Shigeru Miyamoto Proclaims November 1 is Pikmin Day, Pikmin 4 Demo Coming To Switch 2 Soon Game Informer\n- Happy Pikmin Day Eve The Verge"
-    }
-   ]
-  },
-  {
-   "id": "c6c864aeb80",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Final Fantasy 14 Reveals Evercold Release Date and New Job",
-   "official_image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-14-reveals-evercold-release-date-and-new-job.jpg",
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/1450625/view/693150463100455303",
-     "title": "Final Fantasy 14 Reveals Evercold Release Date and New Job",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-14-reveals-evercold-release-date-and-new-job.jpg"
-     },
-     "id": "918eb9df0e3cb9cd",
-     "published": "2026-10-31T20:10+00:00",
-     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
-    },
-    {
-     "source": "Eurogamer",
-     "trust": 2,
-     "url": "https://eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
-     "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-14.21.52.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-     },
-     "id": "6c864aeb807452e0",
-     "published": "2026-10-31T14:39+00:00",
-     "text": "Final Fantasy 14's next expansion, Evercold, will launch on 23rd February 2027, and its second new job is zephyr, a physical ranged DPS that fights with a crossbow and a bird.\nProducer and director Naoki Yoshida revealed the job during the opening keynote of the Final Fantasy 14 Fan Festival 2026 in Tokyo. Zephyr pairs crossbow shots with support from an avian familiar called Nephele, and joins Bastion, the greatshield-wielding tank revealed as Evercold's first new job at Fan Festival Berlin earlier this year.\nPre-orders for Evercold and the previously announced Collector's Box open on Wednesday 4th November at 9am GMT. Anyone who pre-orders gets early access, plus a Wind-Up Köttr minion and Halone's Earring, which boosts EXP from defeating enemies by 30 percent. The in-game items are delivered as soon as you pre-order, so you can use the earring to level jobs before Evercold arrives.\nThe Collector's Box is physical goods only. It doesn't include the game, in-game items or pre-order bonuses. Inside you'll find an art box featuring an Evercold illustration by Yoshitaka Amano, a figure of the Warrior of Light as a reaper, an Ethos metal keychain, a Köttr mini plush, and a Tapestry of the Fourth.\nThe Square Enix Store is also selling a limited Collector's Bundle that pairs the box with a code for the Digital Collector's Edition on Windows or Mac. Players on PS5, PS4, Xbox Series X/S, Switch 2, and Steam can buy the box on its own and pre-order the Digital Collector's Edition separately. The digital edition adds a Valhallar Odin mount, an Entreat Crystal emote, and a Crystal Skyltborg weapon for Bastion.\nSquare Enix also used the keynote to reveal a new Fierce raid difficulty, sitting between Normal and Savage; a new trailer for the Evangelion: Ghosts of Desire alliance raid crossover, plus tougher eight-player battles built around some of its bosses; and new Tetsuya Nomura artwork for Beyond the Lifestream, a raid series crossover with the Final Fantasy 7 Remake series.\nWe can also expect Evolved Combat Mode, which Square Enix says highlights each job's unique identity; Seasons, a new system that changes how item rewards are earned; and expanded character creation with new Character Action Skins. Expanded housing features, PvP updates, and a revamped companion chocobo system will follow from patch 8.1.\nFinal Fantasy 14 has passed 35 million registered accounts.\nYou can watch the full keynote on Twitch, and there's more on the official Evercold site.\nFinal Fantasy 14 is now available on Switch 2. The port was announced at the end of June."
-    },
-    {
-     "source": "PC Gamer",
-     "trust": 2,
-     "url": "https://pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week",
-     "title": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
-     "lang": "en",
-     "extra": {},
-     "id": "172ba6a7cd790d10",
-     "published": "2026-10-31T18:57+00:00",
-     "text": "Surely, one of these is the actual, no joke, FINAL fantasy?"
-    },
-    {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Release-date-of-Final-Fantasy-XIV-Evercold-pushed-back.1439025.0.html",
-     "title": "Release date of Final Fantasy XIV: Evercold pushed back",
-     "lang": "en",
-     "extra": {},
-     "id": "8815ab967a0df1cc",
-     "published": "2026-10-31T19:52+00:00",
-     "text": "Square Enix has delayed Final Fantasy XIV: Evercold from January to February, with early access beginning February 19 and pre-orders opening November 4. The publisher has also unveiled new footage of a new job, which joins the tank-focused Bastion in an expansion featuring new areas, raids and a higher level cap."
-    }
-   ]
-  },
-  {
-   "id": "c36dd9be99f",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Two minutes of Persona 1 remake footage seemingly leaks online",
+   "distinct_sites": 1,
+   "title_hint": "SK Square eyes record W4.3tr payout from SK hynix dividends",
    "official_image": null,
    "sources": [
     {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38509069/view/668380665149917725",
-     "title": "Two minutes of Persona 1 remake footage seemingly leaks online",
-     "lang": "en",
-     "extra": {},
-     "id": "04b88c2a94168224",
-     "published": "2026-11-01T14:10+00:00",
-     "text": "Two minutes of footage from an unannounced turn-based RPG recently spilled online, and yep, it very much looks like a remake of the very first Persona game.\nA YouTube account aptly called 'P1REMAKE' only yesterday posted a little under two minutes of footage from what appears to be a Persona 1 remake. As expected, eagle-eyed fans quickly spotted the clip and soon spread it across several other social media platforms, with the footage since appearing on Reddit and X.\nOf course, you should take all leaks with an unhealthily huge handful of salt no matter how convincing they look - especially in the age of generative-AI videos and such. At the same time, there are quite a few good reasons to let yourself be a little hopeful for this remake.\nFor one, the two-minute clip is longer and more elaborate than gen-AI videos typically are. Several series fans have also pointed out the video shows Eriko summoning her Persona in combat, while using the exact same animation as Persona 4 Revival's version of bestie Yukiko. Revival doesn't actually launch until next year, which makes the pose quite suspicious.\nThen there's the fact that this type of leak isn't exactly new territory for Atlus' popular role-playing franchise. In 2023, footage from what ended up being called Persona 3 Reload leaked online and showed very similarly rough, clearly in-development scenes from the game's dungeons.\nOne other curiosity is the inclusion of Tatsuya, the protagonist from Persona 2 Innocent Sin, who doesn't actually show up in the series' first game. Some folks are speculating that the video might have been created as an internal proof-of-concept pitch for Sega and Atlus management, so Tatsuya would serve as a placeholder model in that case.\nA Persona 1 remake isn't entirely unlikely with or without this potential leak, either. Persona series producer Kazuhisa Wada recently said remakes of the first two games are \"probably eventually\" happening at some point in the future.\nPersona 4 Revival's new character isn't a Social Link after all, Atlus clarifies, but something else entirely: \"We apologize for the confusion\"\n[/url]"
-    },
-    {
-     "source": "Eurogamer",
+     "source": "Korea Herald",
      "trust": 2,
-     "url": "https://eurogamer.net/persona-1-remake-be-your-true-mind-leak",
-     "title": "Footage of a Persona 1 remake has seemingly leaked online",
+     "url": "https://koreaherald.com/article/10922564",
+     "title": "SK Square eyes record W4.3tr payout from SK hynix dividends",
      "lang": "en",
      "extra": {
-      "page_image": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-16.28.57.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/02/news-p.v1.20261102.070297f6896146b78a82a11f2b7fcd9f_P1.png"
      },
-     "id": "d3eb5479de58885b",
-     "published": "2026-11-01T16:35+00:00",
-     "text": "Almost two minutes of footage from what appears to be a remake of the original Persona has leaked online.\nThe clip, which seemingly gives the remake the subtitle Be Your True Mind, was shared on the GamingLeaksAndRumours subreddit. It was uploaded to file-sharing site Gofile on 31st October under a Japanese filename that translates as \"Megami Ibunroku Persona Remake\".\nInterestingly, the footage looks a lot like Atlus' more recent entries. It shows off stylish menus and a brief look at combat that closely resembles Persona 5 and Persona 3 Reload. There's also a short social link cutscene in a noticeably different, almost graphic novel art style.\nFans digging through the clip believe they have spotted several details that lend it credibility. These include what looks like Unreal Engine debug text in the top left corner during battle (Atlus switched to Unreal Engine for Persona 3 Reload), a new remix of the original PlayStation game's Pandora theme, and the protagonist being referred to as \"Boy With Earring\", which is how he is named in Persona 2: Eternal Punishment.\nAtlus has not announced a Persona 1 remake, and we can't verify the footage, so treat all of this with the usual caveats.\nHow do you solve a problem like Persona 4? At Gamescom, we sat down with series director Kazuhisa Wada to talk about the Persona 4 Remake, and ask about how Atlus is approaching the original text for the remake."
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaDBvRkxwak9Bd1Y2MlJWRnEwOGx5Zi1SV0d4Q0ZYbndjUGZzSnlXbHRxNkFHbE9tbnBxbFBZNW9BelFLMVZjRVk0NWQxSFRNZXp6NkV3TVZ4V2UxZTVXb1liT3FSLTNiVXFtUnZsd0N1YXZReUJQMTFIRE11WEYycg?oc=5",
-     "title": "Rumor: Persona remake footage appears online - Gematsu",
-     "lang": "en",
-     "extra": {},
-     "id": "36dd9be99f7c0cac",
-     "published": "2026-10-31T22:35+00:00",
-     "text": "- Rumor: Persona remake footage appears online Gematsu\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
+     "id": "8c9dde7e32475ec4",
+     "published": "2026-11-02T02:17+00:00",
+     "text": "SK Square said Monday it plans to return at least 4.3 trillion won ($3.2 billion) to shareholders, its largest shareholder return commitment since its launch in 2021, as surging dividends from SK hynix fuel a major expansion of its payout policy.\nThe investment holding company expects to receive more than 6.2 trillion won in dividend income from SK hynix, based on the chipmaker's plan to allocate over 30 trillion won to cash dividends for the 2026 fiscal year and SK Square's ownership stake.\nUnder the revised policy, SK Square will return at least 60 percent of its recurring dividend income to shareholders through 2028, doubling its previous minimum target of 30 percent.\nIt will also distribute 100 percent of the special dividend income linked to SK hynix's investment gains from Japanese memory chipmaker Kioxia, as outlined in SK hynix's shareholder return plan announced Wednesday.\nThe new commitment marks a substantial increase from SK Square's previous 2026-28 policy, which called for returning at least 30 percent of recurring dividend income and a portion of investment gains to shareholders.\nThe company said the final payout amount and details will be determined after its 2026 financial statements are finalized and the necessary procedures are completed.\nEarlier this year, SK Square transferred 5.89 trillion won from capital reserves to retained earnings to establish a more sustainable framework for shareholder returns.\n\"The announcement reflects the board's firm commitment to enhancing shareholder value,\" SK Square said in a statement.\nThe company added that it would take a disciplined approach to new investments based on prudent capital allocation principles.\nyeeun@heraldcorp.com"
     }
    ]
   },
@@ -4572,61 +4490,6 @@
      "id": "5899aea02d1d9156",
      "published": "2026-10-31T16:26+00:00",
      "text": "- NASA’s Begging the Commercial Space Industry to Save the Doomed Hubble Telescope Gizmodo\n- Once again, NASA is asking for ideas to rescue Hubble from certain death Ars Technica\n- NASA seeks ideas for Hubble servicing mission SpaceNews\n- NASA Explores Potential Commercial Servicing for Hubble Telescope NASA Science (.gov)\n- NASA ponders a Hubble servicing mission or a controlled deorbit The Register"
-    }
-   ]
-  },
-  {
-   "id": "cdee63ca0aa",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Time",
-     "trust": 2,
-     "url": "https://time.com/article/2026/10/31/d-c-and-virginia-join-the-fight-to-block-trump-s-triumphal-arch-what-happens-next-",
-     "title": "D.C. and Virginia Join the Fight to Block Trump’s Triumphal Arch. What Happens Next?",
-     "lang": "en",
-     "extra": {},
-     "id": "dee63ca0aa26de52",
-     "published": "2026-10-31T19:28+00:00",
-     "text": "The site of U.S. President Donald Trump's planned triumphal arch is seen from the top of the Washington Monument in Washington, D.C., on Oct. 22, 2026."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
-     "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
-     "lang": "en",
-     "extra": {},
-     "id": "dccd165d651884b4",
-     "published": "2026-10-31T20:30+00:00",
-     "text": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views."
-    },
-    {
-     "source": "ABC News",
-     "trust": 2,
-     "url": "https://abcnews.com/Politics/dc-virginia-file-suit-block-construction-trumps-proposed/story?id=137739420",
-     "title": "DC, Virginia file suit to block construction on Trump's proposed arch",
-     "lang": "en",
-     "extra": {},
-     "id": "4ce76ed343cf59e0",
-     "published": "2026-10-31T22:20+00:00",
-     "text": "Washington D.C. and Virginia are asking a judge to block the president's Triumphal Arch."
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
-     "title": "Virginia and D.C. sue to block construction of Trump arch",
-     "lang": "en",
-     "extra": {},
-     "id": "c93469999caafa2d",
-     "published": "2026-10-31T22:48+00:00",
-     "text": "U.S. District Court Judge Tanya Chutkin ordered both sides to talk and to agree on a proposed briefing schedule on the motion for a temporary restraining order by Saturday evening.\n(Image credit: Jen Golbeck)"
     }
    ]
   },
@@ -6337,6 +6200,52 @@
    ]
   },
   {
+   "id": "c172ba6a7cd",
+   "kind": "news",
+   "score": 12.5,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Final Fantasy 14 Reveals Evercold Release Date and New Job",
+   "official_image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-14-reveals-evercold-release-date-and-new-job.jpg",
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/1450625/view/693150463100455303",
+     "title": "Final Fantasy 14 Reveals Evercold Release Date and New Job",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/final-fantasy-14-reveals-evercold-release-date-and-new-job.jpg"
+     },
+     "id": "918eb9df0e3cb9cd",
+     "published": "2026-10-31T20:10+00:00",
+     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
+    },
+    {
+     "source": "PC Gamer",
+     "trust": 2,
+     "url": "https://pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week",
+     "title": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
+     "lang": "en",
+     "extra": {},
+     "id": "172ba6a7cd790d10",
+     "published": "2026-10-31T18:57+00:00",
+     "text": "Surely, one of these is the actual, no joke, FINAL fantasy?"
+    },
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Release-date-of-Final-Fantasy-XIV-Evercold-pushed-back.1439025.0.html",
+     "title": "Release date of Final Fantasy XIV: Evercold pushed back",
+     "lang": "en",
+     "extra": {},
+     "id": "8815ab967a0df1cc",
+     "published": "2026-10-31T19:52+00:00",
+     "text": "Square Enix has delayed Final Fantasy XIV: Evercold from January to February, with early access beginning February 19 and pre-orders opening November 4. The publisher has also unveiled new footage of a new job, which joins the tank-focused Bastion in an expansion featuring new areas, raids and a higher level cap."
+    }
+   ]
+  },
+  {
    "id": "c11e5193975",
    "kind": "news",
    "score": 12.5,
@@ -6406,80 +6315,6 @@
    ]
   },
   {
-   "id": "c85e216bdfc",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "How to access the Pirate Shop and get Tokens in Fortnite",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38204750/view/719046160957835605",
-     "title": "How to access the Pirate Shop and get Tokens in Fortnite",
-     "lang": "en",
-     "extra": {},
-     "id": "a6e7d10f3b05f9e9",
-     "published": "2026-11-01T12:30+00:00",
-     "text": "One of the biggest features of the Treasure Hunters season in Fortnite is now live, and we can finally access the Pirate Shop. While it might look like the standard shop, there’s a key difference: everything you find inside is available for free. That’s right, you can pick anything you want without any additional resources.\nBut first, you’ll need to get access to the shop.\nTable of contents\nhttps://embeds.beehiiv.com/a8d62108-86ed-4039-bf49-44877ba62c15 How to access the Pirate Shop in Fortnite Treasure Hunters\nThe Pirate Shop can be obtained between Nov. 1 and Dec. 5, throughout the course of the season. Any item you find inside that requires you to spend V-Bucks can be obtained for free. To gain access, you’ll need to find Pirate Shop Tokens.\nThese are special tokens that are of two types. One of them allows you to activate anytime between now and Dec. 15 of this year. The other one can be activated anything between Jan. 1 and Dec. 15 of next year.\nImage via Epic Games Once you activate a token, you have 14 days to claim everything you can find in the Item Shop. Only bundles and items that cost real-life money will be an exception to this rule, but it’s still a wonderful opportunity.\nHow to get Pirate Shop Tokens in Fortnite Treasure Hunters\nTo find these valuable tokens, you’ll need to watch out for special chests. These chests don’t have fixed locations, and their odds appear to be quite low. Once you manage to find one, open them. If you’re lucky, you’ll receive access to the Pirate Shop as a treasure.\nIf you’re playing as a squad, you just need to find one treasure. Access will be granted to all members of a squad as long as one of them has managed to get the tokens. This also incentivizes you to play the season in squads since you’ll have higher chances (theoretically).\nThe post How to access the Pirate Shop and get Tokens in Fortnite appeared first on Destructoid."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-pirate-item-shop-access-token-free-how-to-get",
-     "title": "New Fortnite Item Makes Everything on the Item Shop Completely Free",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fortnite-one-piece-collab.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "f2d79b3d27059d45",
-     "published": "2026-11-01T15:14+00:00",
-     "text": "Fortnite Treasure Hunters is here at last. This season is all about pirates and plundering treasure. Players can look the part using the Straw Hat Pirates skins from One Piece. It can get expensive to purchase cosmetics in Fortnite, but this season, there's an in-game item that makes everything in the Item Shop free. It almost sounds too good to be true, but it's real, and it's out there on the Battle Royale island.\nOne Piece was the perfect crossover for this year's mini-season, as Fortnite Treasure Hunters is all about anime and pirates. The Battle Pass features Ace and Robin, but there are more skins to collect in the Item Shop. The first released bundle includes Luffy, Nami, and Usopp, and it costs 4,000 V-Bucks, about $30. It's already quite expensive, and the number of One Piece skins in the shop will only grow as the season continues. Thankfully, Epic Games has introduced the Pirate Shop Access token, an item that grants players everything in the shop for free.\nHow to get the Pirate Shop Access token in Fortnite and how it works\nThis season, there are Treasure-Hunt chests in Fortnite. These special loot containers grant a free gizmo, a cosmetic item, or a token. The Pirate Shop Access token is a rare reward that can be found in these chests. If players are lucky enough to get it, the entire team will be able to plunder the Item Shop for two weeks, meaning that during this window of time, they can claim every item for free. This means they can get the One Piece bundle and any other skin, emote, or jam track in the shop. Exceptions include sidekicks that have already been purchased once and real-money purchases, such as special bundles and the Fortnite Crew.\nThe Pirate Shop Access token can be activated twice: once before Dec. 15, and once again in 2027. The effect lasts two weeks, so players must choose the right time. Once an item has been claimed, it is added to the player's locker permanently, even after the token expires.\nAlthough the Pirate Shop Access token is rare, there are ways to increase your chances of finding it. Since this item is shared among a team, playing Squads increases search efficiency, thanks to the extra pairs of hands. Visiting named locations with a higher loot concentration increases your chances of coming across Treasure-Hunt chests. Treasure Hours will begin next Sunday and are rumored to increase the spawn rate of the Pirate Shop Access token.\nThere are other items that can be found inside the Treasure-Hunt chests, and they change weekly. For Week 1 of the season, players have the chance to find the Solid Gold A$AP Rocky skin. Next week, the chests may contain the Solid Gold Lil Uzi Vert skin instead."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get",
-     "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/treasure-chest_fn.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "2db211a17fef7501",
-     "published": "2026-11-01T20:18+00:00",
-     "text": "The Pirate Shop Access Token is a new item introduced in the Fortnite Chapter 7 mini season, and it allows you to get anything from the Shop for free for a 14-day period.\nAnything sold for V-Bucks in the Fortnite item shop can be claimed for free, meaning any outfit, pickaxe, back bling, sidekick, kicks, and more are yours to have forever. The item is too good to be true, so of course, it's extremely difficult to get your hands on.\nHere's how to get the Pirate Shop Token in Fortnite Chapter 7 mini season.\nHow to get the Pirate Shop Token in Fortnite Chapter 7 mini season\nThe process of getting the Pirate Shop Token is just like every other item in Fortnite, you need to open a treasure chest. Regular chests have been transformed into treasure chests in the mini season, so you don't need to be on the hunt for anything special. However, when you open a treasure chest, you have a small chance of finding special loot for yourself and everyone in your party. In most cases, your special loot will be a gizmo, like the Sprite Locator or the Portable Extractor. For the lucky few, your special loot will be a Pirate Shop Access Token.\nIn the tweet above from user Snowslept, you'll see that the chest will have a unique animation featuring a gold explosion, and a banner will appear on your screen saying that you found pirate shop access. You'll gain two Pirate Shop Access Tokens, one for 2026 and the other for 2027. When you activate the token, you'll have 14 days to claim anything from the Fortnite item shop for free. Essentially, any cosmetic is yours for the taking, but you can only claim sidekicks once. The only things you cannot purchase are real money offers (like V-Bucks and bundles), gifts, and pass levels/rewards.\nIf you're hunting for the Pirate Shop Access token, your best bet is to land in any of the following locations:\n- Arlong Park\n- Lantern Landing\n- Rubber Resort\n- Fortune's Fort\n- Loguetown\n- Plunder Port\n- Busy Bay\nWe personally recommend landing at Arlong Park or Lantern Landing as they're fairly close to one another, and you can quickly make your way down to Windmill Village and Loguetown. If you're quick, you can open upwards of 50 chests a game."
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQallhSDVqbEZiTFRuLXc4dkM1LUtfUkFKY0NxSTlLMlV0TVlUa0VJWXdTUm90OFF3TGJtZ1owbmg3RHdZUXJJa25NR29TZlVUcUotcFhKY01HNkdRcGRodlk1VC1xNThuNHUwS3MtdVRBSDNZQTdDZ3lCU0ZHOWk1aU5KLU9XbGN4d1l6Q3RxNEpLZw?oc=5",
-     "title": "Fortnite Players Can Get Item Shop Skins For Free with the Pirate Shop Token",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "85e216bdfc5cf05e",
-     "published": "2026-11-01T10:07+00:00",
-     "text": "- Fortnite Players Can Get Item Shop Skins For Free with the Pirate Shop Token GameRant\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- ‘Fortnite’ Treasure Chest Prize Lets You Get Every Store Item For Free Forbes\n- Fortnite is giving free skins if you win big: How to access the Pirate Shop Yahoo Tech\n- Fortnite's rare Pirate Shop: free Item Shop cosmetics for 14 days games.gg"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aYmtEWUtjc2JpTklCaXQzcURYNHlpektTU2N0NE9zQWpGc2hwOHhHUnZMVWZYZ1ZuQ2IzSFczTFlLYWQ1Zm5wT2lualhpODBGR092cTlpZTRoQdIBX0FVX3lxTE9pNG5qT293Y3NOMEtjM3JVbmJNbG1uM0ZrTUhJRmdPQ290QnlBOEJlOWthNnpvakRqQVJWSXk2Vk5vYV91UUJOX3JfZmtUbW54ZU50VmktSzIwOEUxZVQw?oc=5",
-     "title": "Fortnite Pirate Shop Explained: How to Unlock Access and Get Free Items",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "029d2eed83eeec5e",
-     "published": "2026-11-01T10:44+00:00",
-     "text": "- Fortnite Pirate Shop Explained: How to Unlock Access and Get Free Items Beebom\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- Fortnite is giving free skins if you win big: How to access the Pirate Shop Yahoo Tech\n- New Fortnite Item Makes Everything on the Item Shop Completely Free Polygon.com\n- Fortnite Pirate Shop Token Explained - Big Giveaway Hotspawn"
-    }
-   ]
-  },
-  {
    "id": "c36d86bbf7b",
    "kind": "news",
    "score": 12.5,
@@ -6511,6 +6346,63 @@
      "id": "36d86bbf7bd59217",
      "published": "2026-11-01T12:36+00:00",
      "text": "Rockstar Games’ most anticipated title is releasing in just under a month, and yet speculation on the future of the studio has only skyrocketed. It’s rather unsurprising, since Grand Theft Auto VI is expected to be the most important video game release in the modern gaming industry. Additionally, Grand Theft Auto VI’s existence is projected to negatively impact the U.S. economy through loss of workplace productivity, costing approximately $1 billion a day.\nSo, considering Grand Theft Auto VI’s estimated 2 billion dollar budget, it's safe to say that a lot is riding on the game's success, even if many believe it to be a certifiable hit. What comes after the Grand Theft Auto VI release is another thing entirely, but that game’s success will undeniably influence Rockstar. Still, rumors persist about what Rockstar Games’ next title will be. However, seeing the trends among the current mainstream gaming audience, it might be in Rockstar Games’ best interest to have Grand Theft Auto VI's influence on future titles left to the side.\nRockstar Games Has a New Hurdle To Climb\nThe gaming industry and its audience have changed rapidly in the past ten years alone. Most modern games include some form of live-service features, microtransactions, free-to-play, or heavy reliance on online connectivity. It's a change that many gamers hate, and that can be easily seen in what titles turn out to be successful: AAA single-player games like Resident Evil: Requiem, but also an interesting rise in indie games like Hollow Knight: Silksong. Grand Theft Auto VI feels like a culmination of everything that makes that series so iconic and of what players want AAA single-player games to be like.\nRockstar Games' next new title will no doubt be expected to be another single-player adventure. However, the massive shadow cast by Grand Theft Auto VI could very well lead to their next game being rather low-stakes. A common rumor or wish from dedicated Rockstar Games fans is for the studio to revive its other classic franchises like Max Payne and Bully. This sentiment has persisted since the beginning of Grand Theft Auto VI's development and, while understandable, especially for the older gaming crowd, old franchise revival might not be in Rockstar Games' best interest.\nThe Debatable Firepower of Nostalgic Franchises\nMax Payne as a franchise had done relatively well for itself, with its third installment, Max Payne 3 in 2012, earning only $4 million in revenue in its first year but gradually able to eventually make its break-even goal through the help of digital storefronts like Steam. It was this slow revenue stream that caused its then publisher, Take-Two Interactive, and even certain Rockstar Games executives to consider Max Payne 3 a commercial failure. There is definitely a place for a franchise like Max Payne in the current gaming industry. Well-thought-out noir games have their niche, and the nostalgia factor will certainly give it an audience. The same can be said for Bully, a standalone Rockstar Games title that was successful in its initial PlayStation 2 era. Bully has managed to hang on relatively well in the modern gaming landscape, helped out by Steam and other online storefronts. Additionally, online content creators have also done the series a service in pushing it out to a wider audience and introducing it to a newer generation of players. Like Max Payne, Bully would also have a respectably sized audience who would definitely buy. Unfortunately, these old fr"
+    }
+   ]
+  },
+  {
+   "id": "cc9fbefd3c4",
+   "kind": "news",
+   "score": 12.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "The Elder Scrolls: Valenwood Officially Announced",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/1450625/view/693150463100455393",
+     "title": "The Elder Scrolls: Valenwood Officially Announced",
+     "lang": "en",
+     "extra": {},
+     "id": "c9fbefd3c4da423d",
+     "published": "2026-11-01T18:41+00:00",
+     "text": "The Elder Scrolls: Valenwood\nis set to bring fans back to the home of the Bosmer for the first time in years. The release is coming sooner than expected, meaning fans don't have to wait long at all to get their hands on\nThe Elder Scrolls: Valenwood\n."
+    },
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/elder-scrolls-november-2026-genre-switch-betrayal",
+     "title": "The Elder Scrolls Is Officially Switching Genre For November 2026 Return",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/elder-scrolls-6-title-release-date-leak-roasted.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "a1fde67e0f8e4bfd",
+     "published": "2026-11-01T23:00+00:00",
+     "text": "The Elder Scrolls series is in something of a tricky spot at the time of writing due mainly to the ongoing delay with the launch of the next mainline entry, The Elder Scrolls VI. After all, it has been fifteen years since the most recent entry, The Elder Scrolls V: Skyrim, was released, and since then, only The Elder Scrolls IV: Oblivion Remastered has stopped the franchise from fading into the background.\nIt was way back in 2018 that Bethesda first confirmed that The Elder Scrolls VI would be the next installment in the much-loved franchise, but since then, updates and details surrounding its development have remained scarce, leading some fans to worry that it would be canceled altogether.\nWhilst that is not the case, at least at the time of writing, there is at least one The Elder Scrolls-related release on the way, and it is set to launch this November.\nOffering a complete genre change for the franchise, The Elder Scrolls: Betrayal of the Second Era Board Game is an upcoming tabletop experience from Zatu Games. Set to launch on 30 November 2026, it is now available for pre-order, but with a £187.75 price tag, it is quite the investment. The only good news here is that it is currently on offer from its RRP of £188.99.\nRecommended for 1-4 players with each game taking anything from 150-180 minutes, The Elder Scrolls: Betrayal of the Second Era Board Game's official synopsis reads as follows:\nThe Elder Scrolls: Betrayal of the Second Era is a cooperative tabletop adventure set during Tamriel's Second Era - specifically during the events of the Planemeld, as the Order of the Black Worm plots to secure the Amulet of Kings. As the dark cult schemes, however, one of its members is planning an even darker betrayal, one that will tie Tamriel in with Oblivion forever. Adventurers work to uncover her machinations and stop her plot amid a bevy of endlessly replayable content. As in The Elder Scrolls video games, players will travel on an epic journey, balancing exploration, character building, dungeon diving and close quarters combat.\nIn The Elder Scrolls: Betrayal of the Second Era Board Game, each game takes place over the course of three gameplay sessions, \"with sessions being roughly two hours plus an additional half hour per player in length.\" During this, players will be tasked with customizing and controlling a single hero throughout all three sessions as they \"manage multiple skill lines, classes and experience the many regions of Tamriel, each with their own unique flavor and mechanics.\"\nWith experience points handed out throughout the course of the game, players will be encouraged to build interesting and unique characters, each with their own skills and abilities. Luckily, as the description details, \"session to session progression is meaningful, but players are not required to remember complex narrative points or play with the same group forever.\"\nAs such, replayability is a big selling point for this upcoming The Elder Scrolls-inspired board game. So, if you are interested in The Elder Scrolls: Betrayal of the Second Era Board Game ahead of its launch in just over a month's time, make sure to secure your copy by pre-ordering now.\n- Video Game(s)\n- The Elder Scrolls: Arena, The Elder Scrolls II: Daggerfall, The Elder Scrolls III: Morrowind, The Elder Scrolls IV: Oblivion, The Elder Scrolls V: Skyrim, The Elder Scrolls Online, The Elder Scrolls: Legends, The Elder Scrolls: Blades, The Elder Scrolls 6\n- Cast\n- Patrick Stewart, Sean Bea"
+    }
+   ]
+  },
+  {
+   "id": "cae801e16e7",
+   "kind": "news",
+   "score": 12.5,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Antonelli’s dad reflects on son’s ‘important’ title triumph",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/he-makes-himself-stronger-antonellis-dad-reflects-on-sons-important-title-triumph.2jMjsfdy0bakm0FChw4Qk4",
+     "title": "Antonelli’s dad reflects on son’s ‘important’ title triumph",
+     "lang": "en",
+     "extra": {},
+     "id": "ae801e16e764f253",
+     "published": "2026-11-02T01:40+00:00",
+     "text": "Marco Antonelli has opened up about his son’s historic World Championship success at the Mexico City Grand Prix."
     }
    ]
   },
@@ -6732,8 +6624,8 @@
       "market": "crypto",
       "day": "2026-11-02"
      },
-     "published": "2026-11-02T02:10+00:00",
-     "text": "Bitcoin: $78,339 (+0.9% 24h)\nEthereum: $2,291 (+1.1% 24h)\nSolana: $94.94 (-0.6% 24h)\nToncoin: $1.21 (+1.2% 24h)"
+     "published": "2026-11-02T02:41+00:00",
+     "text": "Bitcoin: $78,424 (+1.0% 24h)\nEthereum: $2,291 (+1.2% 24h)\nSolana: $94.89 (-0.5% 24h)\nToncoin: $1.21 (+1.1% 24h)"
     }
    ]
   },
