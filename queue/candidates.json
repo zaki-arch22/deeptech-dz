@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T19:30:18+00:00",
+ "generated_at": "2026-11-02T20:00:18+00:00",
  "clusters": [
   {
    "id": "c2590b2301d",
@@ -3117,7 +3117,7 @@
    "id": "c33f372f7b2",
    "kind": "news",
    "score": 18.5,
-   "sensitive": false,
+   "sensitive": true,
    "distinct_sites": 3,
    "title_hint": "NASA’s CHAPEA Crew “Returns” to Earth",
    "official_image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg",
@@ -3152,10 +3152,12 @@
      "url": "https://cbsnews.com/news/nasa-telescope-swift-observatory-plunging-back-to-earth",
      "title": "NASA telescope is plunging back to Earth after 22 years in orbit",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/fbcc0008-f8f4-459d-b34b-3af63b2fbd9b/thumbnail/1200x630/37d6f9be233f356b1a623629316a25f2/swift-cq5dam-thumbnail-319-319.png"
+     },
      "id": "372613852090c976",
      "published": "2026-11-02T19:00+00:00",
-     "text": "The Swift Observatory is barely clinging to space after a failed rescue effort left it tottering lower and lower."
+     "text": "An said Monday it predicts the Swift Observatory will likely come crashing down on Wednesday.\nis barely clinging to space after a failed left it tottering lower and lower. The space agencyMost of the 1 ½-ton telescope is expected to burn up in the atmosphere. But a handful of pieces made of denser-than-lead tungsten and some mirror parts could survive reentry, according to NASA's Brad Cenko, the mission's chief scientist.\n\"As of Monday, the U.S. Space Force predicted that the roughly 3,200-pound spacecraft will re-enter the atmosphere at approximately 3:30 a.m. EST, Nov. 4, with an uncertainty of 11 hours,\" NASA said on Monday.\nAny surviving wreckage will most likely plunge into the ocean. But swaths of Africa, Australia, India, Southeast Asia, and Central and South America are within the reentry zone. The U.S. Space Force is tracking the telescope's dwindling path.\nIn a statement on Monday, NASA said the \"risk of harm coming to anyone on Earth is unlikely\" — roughly 1 in 2,100.\n\"NASA and Space Force will continue to monitor the re-entry and update predictions,\" the agency said.\nIts cosmic cremation has the Swift team mourning, yet full of gratitude, for the observations the telescope made during its 22 years in orbit. Swift blasted off on Nov. 20, 2004, to search for some of the biggest explosions in the universe: gamma-ray bursts and supernovas.\n\"We've known this day would come since before Swift was launched. At least in low-Earth orbit, what goes up must come down. And that end is catastrophic,\" said Pennsylvania State University's John Nousek, an astronomer who led the control team.\nIntense solar activity over the past few years dragged Swift down faster than usual. NASA hired Katalyst Space a year ago to mount a rush rescue. But the company's three-armed robot named Link ran into trouble after launching in July and got no closer than 7 miles to 9 miles to the telescope. Link plunged back to Earth in September.\nSwift resumed observations once the rescue attempt was called off, discovering even more gamma-ray bursts and other ultrahigh-energy events. But by late October, the telescope was too low to remain steady for observations, and its systems were shut down.\nIts final tally: more than 2,000 gamma-ray bursts and 1,400 exploding stars, not to mention a slew of comets, asteroids and star-shredding black holes. The telescope's superpower was its ability to swivel swiftly — thus its name — toward erupting celestial events.\nShawn Domagal-Goldman, Astrophysics Division director at NASA, told \"CBS Mornings\" in June that nothing pinpoints gamma-ray bursts like the Swift Observatory.\n\"A nuclear weapon going off doesn't even compare to the magnitude of energy that comes out of these things and it's literally the biggest explosions in the universe,\" Domagal-Goldman said.\nNASA considered Swift a first responder for the Hubble and Webb space telescopes and others that would follow its alerts and provide deeper investigations. Scientists are still figuring out how to fill the gap.\n\"Our fervent hope is that the lessons learned by the successes of Swift can be applied to new generations of space missions to accelerate our discoveries about the universe,\" Nousek said in an email."
     }
    ]
   },
@@ -3818,52 +3820,6 @@
    ]
   },
   {
-   "id": "c43394692d0",
-   "kind": "news",
-   "score": 18.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "South Korea to double spending on AI and chips in 2027",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/business/2026/11/02/south-korea-ai-chips-spending-2027",
-     "title": "South Korea to double spending on AI and chips in 2027",
-     "lang": "en",
-     "extra": {},
-     "id": "43394692d056a248",
-     "published": "2026-11-02T04:57+00:00",
-     "text": "President Lee Jae Myung pledged to use the technology to turn the military into a \"smart, elite force.\""
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
-     "title": "South Korea to pour billions into AI",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79825218_6.jpg"
-     },
-     "id": "796ecddce47f80ed",
-     "published": "2026-11-02T05:01+00:00",
-     "text": "South Korea will aim to invest nearly $16 billion on artificial intelligence and semiconductors, Lee Jae Myung said in his annual budget address to parliament.\n\"We will invest 21.3 trillion won (€14.3 billion, $15.97 billion), nearly twice this year's amount, in AI and the three megaprojects of semiconductors, physical AI and AI data centres,\" Lee said on Monday.\nHe added that 4.7 trillion won will be invested to bolster \"frontier AI development projects, with the aim of achieving world-leading performance for our own AI model, a national strategic asset.\"\nSouth Korea unveils record budget proposal for 2027\nThe Lee administration has unveiled a record budget proposal for next year, featuring a 12.8% increase in government spending to 820.9 trillion won (€551.5 billion, $615.62 billion).\nThe proposal needs parliamentary approval, and Lee's party, the Democratic Party of Korea (DPK), currently holds the majority.\nSouth Korea is Asia's fourth-largest economy and home to two of the world's biggest memory chip makers — Samsung Electronics and SK Hynix.\nThe AI boom has sent demand for memory chips soaring.\nSouth Korea recorded faster-than-expected economic growth in the third quarter, driven by chip exports and investment.\nExports totalled $930 billion from January to October and are on track to surpass $1 trillion this year, making South Korea the fourth country to achieve the milestone after the United States, China and Germany."
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336525",
-     "title": "South Korea to Double Spending on AI and Chips in 2027",
-     "lang": "en",
-     "extra": {},
-     "id": "f9ac1e71c6db6b2d",
-     "published": "2026-11-02T07:55+00:00",
-     "text": ""
-    }
-   ]
-  },
-  {
    "id": "c40a17acbb7",
    "kind": "news",
    "score": 18.0,
@@ -3952,6 +3908,17 @@
      "id": "53600b85124b3622",
      "published": "2026-11-02T18:54+00:00",
      "text": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.\n(Image credit: Craig Hudson)"
+    },
+    {
+     "source": "Washington Post Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY3JSRFpfcjhCNzNvNVgwRHozQVNnOG9aSXdEZGdEYkJuekpQRHA0a2ZmU2tLeXU3QTVrc09uZXBLRGluZU1hRk5jMUlZMldUMFljQXpzU1lCMHVOZk02NzlmYWxhelhTVldnclJBbUM1aWtyZ1g5UDJKWWRxOW8ydUtPdTFIYUhGLWNyZVZXbkZVM2ktdWJ5NjhLOVg0STFvamhlV040cWVYampLaGRBd01teVFpTjNzLUU2d3hqNVMxT3VOMjhCOVRrYVRlcjZpeXBF?oc=5",
+     "title": "Judge dismisses charges against FBI agents in Hunter Biden laptop investigation",
+     "lang": "en",
+     "extra": {},
+     "id": "b3aba1ecd814c88b",
+     "published": "2026-11-02T19:12+00:00",
+     "text": "Judge dismisses charges against FBI agents in Hunter Biden laptop investigation\nThe Washington Post"
     }
    ]
   },
@@ -4174,100 +4141,6 @@
    ]
   },
   {
-   "id": "c7c6085afa6",
-   "kind": "news",
-   "score": 17.0,
-   "sensitive": true,
-   "distinct_sites": 7,
-   "title_hint": "Nine dead after private jet crashes in Florida",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Telegraph Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnJXRGdjT1JXQ0xtaFEwb2lQX2lZS3F4WkQ3QTVCbnFELUdaUmc4aWpQMzJKejJNNnE2aXJyR3QtWnZSWXgyYjB4b2ZzWmtwSzlaS2R0amkxdnJvNmFoUmstWXJ3VC1FLWJBLUtyc3BJZ1NHVFNzMXVsdUZyMTRlUi1tMHp2UWp3anhwS3ZOZw?oc=5",
-     "title": "Nine dead after private jet crashes in Florida",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "7c6085afa62a058a",
-     "published": "2026-11-01T21:46+00:00",
-     "text": "Nine dead after private jet crashes in Florida\nThe Telegraph"
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-02/business-jet-carrying-9-people-crashes-in-florida-neighbourhood/107335094",
-     "title": "Nine dead as business jet crashes into Florida roadside: US official",
-     "lang": "en",
-     "extra": {},
-     "id": "8a39838d030b696e",
-     "published": "2026-11-01T21:56+00:00",
-     "text": "US officials say a small business jet has crashed into a southern Florida neighbourhood killing all nine people aboard."
-    },
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://newsweek.com/private-jet-crashes-into-florida-mobile-home-park-nine-dead-12647198",
-     "title": "9 Dead After Private Jet Crashes Into Florida Mobile Home Community",
-     "lang": "en",
-     "extra": {},
-     "id": "3d2d13a91e6fb1ca",
-     "published": "2026-11-01T22:28+00:00",
-     "text": "Nine people were killed when a Learjet 60 crashed into a Florida mobile home community while flying to the Bahamas."
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
-     "title": "Nine killed as business jet crashes into South Florida neighbourhood",
-     "lang": "en",
-     "extra": {},
-     "id": "e5293a21a3894214",
-     "published": "2026-11-01T23:45+00:00",
-     "text": "A business jet plunged into a South Florida neighbourhood on Sunday, killing all nine people aboard and exploding into a fireball near homes and a busy road. The pilot had reported icing, precipitation and severe turbulence before the Learjet entered a steep dive, according to air traffic control recordings."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
-     "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae7cc8a-1793576074.jpg?resize=1200%2C675"
-     },
-     "id": "94a4f5c34a7addf8",
-     "published": "2026-11-02T00:34+00:00",
-     "text": "Nine people have died after a business jet crashed into a residential neighbourhood in South Florida, the United States.\nAll on board were killed in the crash, which US Transportation Secretary Sean Duffy described as a “horrific tragedy” in a post on X on Sunday.\nRecommended Stories\nlist of 3 items- list 1 of 3Nine people dead after Learjet crashes in Florida\n- list 2 of 3Florida issues arrest warrant for Cuban leader Raul Castro\n- list 3 of 3Hurricane Isaias kills four, leaves 650,000 without power in Florida\nFederal Aviation Administration staff were on their way to the crash site to support a National Transportation Safety Board investigation into the incident, Duffy said.\nDisturbing recordings in the plane’s cockpit shortly before the crash, retained by LiveATC.net, captured the pilot talking about “manageable” ice issues, before later saying the plane was rapidly losing altitude.\nShortly after, the panicked crew said, “We’re going to crash into the ground”.\nThe plane was a Learjet 60 – a popular business jet – heading from Austin, Texas, to the Bahamas. Austin-Bergstrom International airport confirmed that the plane was a private jet, but not who was on board.\nVideos of the incident circulating online appear to show the jet striking the ground at high speed and on a sharp angle, followed by a huge explosion.\nFootage of the aftermath appears to show flames flickering around debris and chunks of pavement, with people milling around the area.\nThe plane looked to have fallen just metres from homes and cars, but Florida Governor Ron DeSantis told reporters that there appeared to be no casualties on the ground.\nSpeaking from the scene, DeSantis described the crash as “cataclysmic” and said the plane “looked like a missile going down, and left a big crater on the side of the road”."
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-     "title": "Nine killed as small jet crashes on Florida street",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg"
-     },
-     "id": "2567b1cc0ac4e2a3",
-     "published": "2026-11-02T02:59+00:00",
-     "text": "- Published\nA business jet crashed in a neighbourhood in Florida on Sunday, killing all nine people on board, the US transport secretary has said.\nThe crash happened near Cresthaven, some nine miles (14 km) from Mar-a-Lago, President Donald Trump's resort in the wealthy enclave of Palm Beach County, around 12:50 EST (17:50 GMT).\nImages from after the crash show a crater in the middle of a residential road, with patches of fire and pieces of concrete and debris from the Learjet 60 aircraft scattered.\nThe aircraft had departed from Austin, Texas, and was headed to the Bahamas, the Federal Aviation Administration (FAA) said in a statement.\nUS media reports and flight analysis indicate that the jet was plummeting hundreds of feet per second before crashing.\nIn air traffic control audio recorded moments before the crash, the pilot of the aircraft can be heard saying the plane was descending 10,000 feet per minute, according to the BBC's US partner CBS News.\nThen the pilot declared an emergency, yelling, \"We are in an overspeed condition descending 20,000 feet per minute,\" CBS reported.\n\"We're gonna crash ... We're out of time,\" the pilot told the tower.\nUnverified footage posted on social media shows what appears to be a dash-camera recording of the moment of the crash. It shows vehicles driving on a residential suburban street, when suddenly an aircraft nosedives into the ground almost vertically, and explodes into a large fireball.\n\"When you see that video, it's a jarring thing,\" Florida Governor Ron DeSantis told reporters at a news conference after the crash. \"It's like a missile coming down, and a massive explosion, debris going everywhere.\"\nIt is not yet clear who was aboard the jet when it crashed. DeSantis said \"as of now, we don't have any reports of anyone who was on the ground...who was killed or injured\".\nTransportation Secretary Sean Duffy described the crash as a \"horrific tragedy\", and said the FAA was sending a team to the scene to help an investigation by the National Transportation Safety Board.\n\"Please join me in praying for the families and loved ones of those we lost,\" Duffy added.\nPalm Beach County Fire Rescue has declared a \"mass casualty incident\".\nThe Palm Beach County Sheriff's Office said the crash happened on Military Trail, a six-lane road that features businesses and eateries.\nAt a news conference, DeSantis and local officials said that 600 local residents were being evacuated from a nearby trailer-park community.\nThe impact of the crash caused considerable damage to local infrastructure, including its water lines, they said, and it would be at least 30 days before the road re-opened.\nThunderstorms had been reported in the area at the time of the crash, and it was heavily raining as the news conference was held.\nTrump had been at Mar-a-Lago on Sunday morning, and departed from an airport nearby on Air Force One about an hour before the crash."
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/2a0cbb4c5eb5",
-     "title": "Nine killed as private jet crashes into Florida neighbourhood near Trump's house",
-     "lang": "en",
-     "extra": {},
-     "id": "f9f6f617ac967443",
-     "published": "2026-11-02T07:30+00:00",
-     "text": "The aircraft was travelling from Austin to the Bahamas when it crashed near a mobile home park, prompting the evacuation of about 600 residents."
-    }
-   ]
-  },
-  {
    "id": "c0dbf0226aa",
    "kind": "news",
    "score": 17.0,
@@ -4319,10 +4192,12 @@
      "url": "https://techradar.com/pro/openai-wants-to-rebrand-data-centers-as-compute-campuses-to-try-and-win-people-over",
      "title": "OpenAI wants to rebrand data centers as 'compute campuses' to try and win people over",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://cdn.mos.cms.futurecdn.net/be6mQuQvsgNEvog4VqJA76-1920-80.png"
+     },
      "id": "cbd95aec6bb5fa9b",
      "published": "2026-11-02T19:05+00:00",
-     "text": "OpenAI knows data centers aren't popular, and might rebrand them as AI compute campuses — but will that help?"
+     "text": "- OpenAI could call its data centers 'AI compute campuses'\n- Public perception is low as energy prices rise across the US\n- Stargate Project is about halfway to adding 10GW by 2029\nOpenAI is considering a new name for its biggest data centers as it looks to improve public perceptions of AI infrastructure amid ongoing political debate.\nInstead of calling them data centers, the ChatGPT maker is considering a rebrand to 'AI compute campuses' to give the facilities a name which sounds more economically positive.\nOpenAI hasn't directly announced these plans, however Axios reports that the changes could come as soon as this week, following US midterm elections on November 3 2026.\nOpenAI could rename data centers to 'AI compute campuses'\nIt seems that the company is anticipating major political changes and the possibility that the Democrats regain control of the House of Representatives, which would result in a more challenging regulatory environment.\nOpenAI Chief Global Affairs Officer Chris Lehane told Axios that he expects AI to be an ongoing political debate beyond the midterm elections.\n\"Communities should hold companies responsible and accountable so they really and truly get a transformative benefit from these projects,\" he added.\nOpenAI has already been making efforts to win communities over, promising to partner with local communities to understand local needs. \"We commit to paying our own way on energy, so that our operations don't increase your electricity prices,\" the company said at the start of 2026. Energy prices are a big sticking point for US citizens.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\nA May 2026 report revealed that US states could face energy price hikes of between 6% and 29% by the end of the decades, and the US is already on course to re-open disused nuclear facilities to keep up with demand.\nBut OpenAI's expansions are far from over. Stargate alone is a project anticipated to add 10GW of AI compute to the US by 2029, and it's still got just under halfway to go.\nFollow TechRadar on Google News and add us as a preferred source to get our expert news, reviews, and opinion in your feeds.\nWith several years’ experience freelancing in tech and automotive circles, Craig’s specific interests lie in technology that is designed to better our lives, including AI and ML, productivity aids, and smart fitness. He is also passionate about cars and the decarbonisation of personal transportation. As an avid bargain-hunter, you can be sure that any deal Craig finds is top value!\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
     },
     {
      "source": "Reddit tech & AI",
@@ -4452,6 +4327,52 @@
      "id": "3cfa809eaf453cad",
      "published": "2026-11-02T13:37+00:00",
      "text": "- Martha Stewart Apologizes for Homeless Halloween Costume The New York Times\n- Exclusive | Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing Page Six\n- Martha Stewart Issues Second Apology For Controversial Halloween Costume TODAY.com\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart says she 'really screwed up' with homeless Halloween costume BBC"
+    }
+   ]
+  },
+  {
+   "id": "c43394692d0",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "South Korea to double spending on AI and chips in 2027",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/business/2026/11/02/south-korea-ai-chips-spending-2027",
+     "title": "South Korea to double spending on AI and chips in 2027",
+     "lang": "en",
+     "extra": {},
+     "id": "43394692d056a248",
+     "published": "2026-11-02T04:57+00:00",
+     "text": "President Lee Jae Myung pledged to use the technology to turn the military into a \"smart, elite force.\""
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
+     "title": "South Korea to pour billions into AI",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79825218_6.jpg"
+     },
+     "id": "796ecddce47f80ed",
+     "published": "2026-11-02T05:01+00:00",
+     "text": "South Korea will aim to invest nearly $16 billion on artificial intelligence and semiconductors, Lee Jae Myung said in his annual budget address to parliament.\n\"We will invest 21.3 trillion won (€14.3 billion, $15.97 billion), nearly twice this year's amount, in AI and the three megaprojects of semiconductors, physical AI and AI data centres,\" Lee said on Monday.\nHe added that 4.7 trillion won will be invested to bolster \"frontier AI development projects, with the aim of achieving world-leading performance for our own AI model, a national strategic asset.\"\nSouth Korea unveils record budget proposal for 2027\nThe Lee administration has unveiled a record budget proposal for next year, featuring a 12.8% increase in government spending to 820.9 trillion won (€551.5 billion, $615.62 billion).\nThe proposal needs parliamentary approval, and Lee's party, the Democratic Party of Korea (DPK), currently holds the majority.\nSouth Korea is Asia's fourth-largest economy and home to two of the world's biggest memory chip makers — Samsung Electronics and SK Hynix.\nThe AI boom has sent demand for memory chips soaring.\nSouth Korea recorded faster-than-expected economic growth in the third quarter, driven by chip exports and investment.\nExports totalled $930 billion from January to October and are on track to surpass $1 trillion this year, making South Korea the fourth country to achieve the milestone after the United States, China and Germany."
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336525",
+     "title": "South Korea to Double Spending on AI and Chips in 2027",
+     "lang": "en",
+     "extra": {},
+     "id": "f9ac1e71c6db6b2d",
+     "published": "2026-11-02T07:55+00:00",
+     "text": ""
     }
    ]
   },
@@ -4826,6 +4747,78 @@
    ]
   },
   {
+   "id": "cebc36dee8d",
+   "kind": "news",
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724112",
+     "title": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+     "lang": "en",
+     "extra": {},
+     "id": "920cae79e18fad8d",
+     "published": "2026-11-01T23:51+00:00",
+     "text": "A new weekend has arrived, and today, you can save big on Gears of War: E-Day, Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, Star Wars Zero Company, and more. Check out our top picks for Sunday, November 1, below.\nGears of War: E-Day for $60.99\nGears of War: E-Day is one of the best games of the year, and today, you can save a few dollars on a physical Xbox copy at Amazon. We gave the game a 9/10 in our review, writing, \"Gears of War: E-Day’s stellar story campaign is complemented by an excellent multiplayer suite, particularly its evolved Horde Siege PvE mode.\"\nSave $100 Off Apple Watch Ultra 4\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSave $10 off Ocarina of Time Remake Physical Copies\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nPikmin 4 for $39.88\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nDune: Awakening for $39.99\nPhysical PS5 copies of Dune: Awakening are on sale for $39.99 right now at Amazon. This is the perfect time to jump in, especially with Dune: Part Three just a few months away. In our 8/10 review, we wrote, \"Dune: Awakening is an excellent survival MMO that captures Frank Herbet’s sci-fi world incredibly well, mostly to its advantage and occasionally to its detriment. The survival climb from dehydrated peasant to powerful warlord of Arrakis is a joy almost every step of the way, and the story and worldbuilding filled this nerd with absolute joy.\"\nXenoblade Chronicles 2 + Expansion Pass Bundle for $39.94\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload (Switch 2) for $24.99\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nFinal Fantasy XIV: Dawntrail Art Book for $19.18\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes ove"
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods",
+     "title": "Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-weekend-deals-early-black-friday.jpg?quality=82&strip=all&resize=1200,628"
+     },
+     "id": "ebc36dee8d5361f4",
+     "published": "2026-11-01T12:49+00:00",
+     "text": "The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and Apple’s new HomeView. We have AirPods Pro 3 at $50 off, all-time lows on AirTag 2 starting at just $17.50 a pop, and nearly $100 off the new Apple Watch Ultra 4.\nMoving over to the Mac, the latest M6 Mac mini is $150 off, the M5 MacBook Air has returned to the lowest prices in months at $200 off, and we have pre-order offers on the new M6 MacBook Pro, M6 iMac, and the MacBook Pro with PROLED XDR Display. All of that joins Apple’s new OLED iPad mini and the next-gen World Travel Kit, as well as this deal on Apple Pencil USB-C for iPhone Duo users. Check it all out below.\nThis weekend’s Apple deals\n- AirPods\n- New Apple TV 4K\n- HomeView\n- AirTag 2\n- Apple Pencil USB-C\n- M6 Mac mini\n- MacBook Air\n- M6 MacBook\n- PROLED XDR MacBook Pro with Touch\n- M5 Pro MacBook Pro\n- M5 Max Mac Studio\n- OLED iPad mini\n- Apple Watch Ultra 4\n- Apple Magic Keyboard (NEW 2026 model)\n- New Apple accessories\n- Apple MagSafe Battery\n- M6 iMac\n- Apple iPhone 18 Pro Cases\n- Apple iPhone 18 Pro Max Cases\nAirPods\n- AirPods Pro 3 $199 (Reg. $249)\n- AirPods Max 2 $449 (Reg. $549)\nNew Apple TV 4K\n- NEW Apple TV 4K (4th Generation) $289 (Reg. $300)\nHomeView\n- Apple HomeView $289 (Reg. $299)\n- Apple HomeView (Wall mounted) $299\n- Apple HomeView (Wall Mounted) with USB-C Wall Connector Power Mount $359\n- Apple HomeView (Wall Mounted) with AC-Wired Power Mount $379\nAirTag 2\n- AirTag 2 $24 (Reg. $29) – Matching all-time low\n- AirTag 2 4-pack $70 (Reg. $99) – Matching all-time low\nApple Pencil USB-C\n- Apple Pencil USB-C $69 (Reg. $79)\nM6 Mac mini\n- M6 Mac mini 16GB/256GB $780 (Reg. $899)\n- M6 Mac mini 16GB/512GB $950 (Reg. $1,099)\n- M6 Mac mini 24GB/512GB $1,150 (Reg. $1,299)\n- M5 Pro Mac mini 24GB/512GB $1,550 (Reg. $1,699)\nMacBook Air\n- 13-inch M5 MacBook Air 16GB/512GB $1,099 (Reg. $1,299) – Matching Prime Day\n- 13-inch M5 MacBook Air 16GB/1TB $1,399 (Reg. $1,599) – Matching Prime Day\n- 13-inch M5 MacBook Air 24GB/1TB $1,599 (Reg. $1,799) – Matching Prime Day\n- 15-inch M5 MacBook Air 16GB/512GB $1,339 (Reg. $1,499)\n- 15-inch M5 MacBook Air 16GB/1TB $1,599 (Reg. $1,799) – Matching Prime Day\n- 15-inch M5 MacBook Air 24GB/1TB $1,799 (Reg. $1,999) – Matching Prime Day\nM6 MacBook\n- 14-inch M6 MacBook Pro 16GB/1TB $1,999 at Amazon\n- 14-inch M6 MacBook Pro 24GB/1TB $2,199 at Amazon\n- 14-inch M6 MacBook Pro 32GB/1TB $2,399 at Amazon\n- 14-inch M6 MacBook Pro 16GB/1TB $1,999 + $100 Best Buy gift card\n- 14-inch M6 MacBook Pro 24GB/1TB $2,199 + $100 Best Buy gift card\n- 14-inch M6 MacBook Pro 32GB/1TB $2,399 + $100 Best Buy gift card\nPROLED XDR MacBook Pro with Touch\n- 14-inch M5 Pro MacBook Pro with PROLED XDR Display $2,899 at Amazon\n- 16-inch M5 Pro MacBook Pro with PROLED XDR Display $3,399 at Amazon\n- 14-inch M5 Pro MacBook Pro PROLED XDR 24GB/1TB $2,899 + $100 Best Buy gift card\n- 14-inch M5 Pro MacBook Pro PROLED XDR 48GB/1TB $3,699 + $100 Best Buy gift card\n- 16-inch M5 Pro MacBook Pro PROLED XDR 48GB/1TB $3,999 + $100 Best Buy gift card\n- 16-inch M5 Pro MacBook Pro PROLED XDR 48GB/2TB $5,399 + $100 Best Buy gift card\nM5 Pro MacBook Pro\n- 14-inch M5 Pro MacBook Pro 24GB/2TB $2,649 (Reg. $2,999)\n- 16-inch M5 Max MacBook Pro 36GB/2TB $3,499 (Reg. $4,399)\nM5 Max Mac Studio\n- 2026 M5 Max Mac Studio $2,299 (Reg. $2,499) – All-time low\nOLED iPad mini\n- OLED iPad mini 128GB $699 at Amazon\n- OLED iPad mi"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/best-deals-for-november-1-2026",
+     "title": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+     "lang": "en",
+     "extra": {},
+     "id": "60022ce9e9863280",
+     "published": "2026-11-01T23:24+00:00",
+     "text": "A new weekend has arrived, and today, you can save big on Gears of War: E-Day, Apple Watch Ultra 4, Xenoblade Chronicles 2, Persona 3 Reload, Pikmin 4, Star Wars Zero Company, and more. Check out our top picks for Sunday, November 1, below.\nGears of War: E-Day is one of the best games of the year, and today, you can save a few dollars on a physical Xbox copy at Amazon. We gave the game a 9/10 in our review, writing, \"Gears of War: E-Day’s stellar story campaign is complemented by an excellent multiplayer suite, particularly its evolved Horde Siege PvE mode.\"\nAmazon has the Apple Watch Ultra 4 smartwatch on sale for $799.99 this weekend. This saves you $100 off MSRP. You'll get the Black Titanium Case and the Black Titanium Milanese Loop with this watch, which can easily complement any outfit. If you've been on the hunt for a new smartwatch, the Ultra 4 is one of the best you can buy.\nSimilar to previous Nintendo Switch 2 physical releases, Amazon has The Legend of Zelda: Ocarina of Time available for $59.99 right now. This deal will end on release date, meaning this is the last weekend you have to score this deal. If you've yet to experience this masterpiece or are diving back into Hyrule, the Ocarina of Time remake is sure to be one of the most talked-about games of 2026.\nWalmart has digital copies of Pikmin 4 for Nintendo Switch on sale for $39.88 today. This is just in time before next week's release of Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy. If you grab a copy today, you'll be able to score the Switch 2 upgrade pack for $9.99. That beats paying $70 for a copy any day.\nPhysical PS5 copies of Dune: Awakening are on sale for $39.99 right now at Amazon. This is the perfect time to jump in, especially with Dune: Part Three just a few months away. In our 8/10 review, we wrote, \"Dune: Awakening is an excellent survival MMO that captures Frank Herbet’s sci-fi world incredibly well, mostly to its advantage and occasionally to its detriment. The survival climb from dehydrated peasant to powerful warlord of Arrakis is a joy almost every step of the way, and the story and worldbuilding filled this nerd with absolute joy.\"\nXenoblade Chronicles 2 is one of my favorite games of all time. The expansive world, gripping narrative, incredible cast, and spectacular soundtrack are just a few of the things you can look forward to in this adventure. Walmart has a digital bundle of both the base game and the Expansion Pass (which includes Torna: The Golden Country) on sale for $39.94. If you have a Switch 2, you can then upgrade your copy to the Switch 2 Edition for $10, which adds 4K and 60 FPS support. I cannot recommend this one enough, especially if you're a fan of JRPGs.\nPersona 3 Reload Switch 2 copies are available at Amazon for $24.99 this weekend. This is a pretty great price for an expansive RPG that you can easily sink 100 hours into. The Switch 2 version had a rocky launch with frame pacing issues, but those have been resolved. Atlus also did add support for 60 FPS in docked mode.\nAmazon has the Final Fantasy XIV: Dawntrail - The Art of Succession -Relics of Heritage- art book on sale for $19.18 today. This book includes over 300 pages of art from Dawntrail, and you can even score a exclusive code for a Wind-up Erenville minion in-game!\nMaybe I'm just a fan of classic JRPGs, but Dragon Quest III HD-2D Remake is still one of my favorite RPGs released in the last few years. Square Enix beautifully remade this classic with the HD-2"
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/11/02/deals-apple-watch-ultra-4-airtag-2-m6-mac-mini",
+     "title": "Deals: Apple Watch Ultra 4 nearly $100 off, AirTag 2 $17.50 each, M6 Mac mini $150 off, Apple chargers, more",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-Apple-Watch-Ultra-4-Mac-mini-Apple-TV-AirTag-2.jpg?quality=82&strip=all&resize=1200,628"
+     },
+     "id": "849f51cb5703ad9f",
+     "published": "2026-11-02T16:15+00:00",
+     "text": "Black Friday month has begun and the early deals are going live alongside the Apple TV 4K pre-order discount and the $50 price drop on AirPods Pro 3. Today’s deals are headlined by AirTag 2 back down at just $17.50 each again today and even more Apple Watch Ultra 4 configs returning to all-time low prices at nearly $100 off. We also have various M5 MacBook Air models starting down at $1,099 and deals on all of the 2026 Mac mini models at up to $150 off the list, Magic Keyboards at 20% off today and a deal on Apple’s Dynamic Power Adapter to fast charge your Duo. Scope it all out below.\nAmazon’s 2026 Apple TV 4K pre-order discount is now live again\nAmazon’s AirPods Pro 3 deal is back at over 20% off\n- AirPods Pro 3 $199 (Reg. $249)\n- AirPods Max 2 $449 (Reg. $549)\nVarious Apple Watch Ultra 4 configs now nearly $100 off as Black Friday month begins\nOne of the hottest early Black Friday deals we caught thus far is the 2026 Apple Watch Ultra 4 configs at nearly $100 off. We are moving into the first week of the biggest shopping season of the year with this deal still live on several configurations, including the new Translucent Ocean Band setup.\nWhile I love me an Alpine Loop personally, the new Translucent Ocean Band is calling my name this year and there are deals across various configurations right now, including both the Black and Natural Titanium case models:\n- Black Apple Watch Ultra 4 Milanese Loop $799 (Reg. $899)\n- Black Apple Watch Ultra 4 Burgundy Trail $699 (Reg. $799)\n- Black Apple Watch Ultra 4 Burgundy Alpine $699 (Reg. $799)\n- Natural Apple Watch Ultra 4 Translucent Gray Ocean $699 (Reg. $799)\n- Natural Apple Watch Ultra 4 Milanese Loop $799 (Reg. $899)\n- Natural Apple Watch Ultra 4 Desert Alpine $699 (Reg. $799)\nWhile it is still early in the month, if the Black Friday deal on the Ultra 3 last year is any indication, $100 off is as low as it will go. There is certainly a chance we see a lower price as move closer to Thanksgiving, but we can’t be sure.\nLast year’s Ultra deals were largely clearance offers on the then previous-gen model until the latest Ultra 3 hit the $100 off mark on various configurations. We expect much of the same this year, but we also expect prices on the various band options to be jumping around throughout the month and even once we hit Thanksgiving. Again, it is certainly possible to see something closer to $120 off on select models, but anything more than that would be a seriously surprising offer on a relatively new Apple Watch Ultra this soon after release.\nAirTag 2 just dropped back to all-time low pricing to kick off Black Friday month at $17.50 each\nItIt appeared as though the all-time low pricing on Apple’s AirTag 2 4-pack was on its way out with this past weekend’s early Halloween Doorbuster offers, it looks like Amazon is giving it an extended run – this puts AirTag 2 down at $17.50 each.\nEarly this morning Amazon’s list for the 4-pack jumped back up to $90, but as of the time of writing the deal down $70 shipped has returned.\n- AirTag 2 $24 (Reg. $29) – Matching all-time low\n- AirTag 2 4-pack $70 (Reg. $99) – Matching all-time low\nYou can still score a single AirTag 2 down at the $23 Amazon all-time low, but if you can make use of four of them, be it for yourself or to split up as gifts this year, this 4-pack deal puts the per-Tag price down at $17.50 a pop.\nThe 4-pack carries a $99 list price and is already a bit of a deal over paying the full $29 for a single one. But with the return of A"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQMzhVaWFWSVJJaXA2UlEtVEVBYllhbU85YVhxWFRLWnFMM3luYVFrMml4TVE3aU1XWWdqVjVQT2JoVGxydlRGYUhNZ3lHV2NQMko0a0dQX3lMU25IWTRUY1hrbEVTcXZPV3Rv?oc=5",
+     "title": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "127ea494b7a2b039",
+     "published": "2026-11-01T23:24+00:00",
+     "text": "- The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More IGN\n- The Apple Watch Ultra 4 is $100 off, matching its best price to date The Verge\n- Apple Watch Ultra 4 hits record-low price with $100 off AppleInsider\n- Apple Watch Ultra 4 Review: Good Enough for Triathlon? Triathlon Magazine Canada\n- The Apple Watch Ultra 4 just hit its lowest price ever ahead of Black Friday ZDNET"
+    }
+   ]
+  },
+  {
    "id": "c84346e5eb9",
    "kind": "news",
    "score": 16.5,
@@ -5018,7 +5011,7 @@
    ]
   },
   {
-   "id": "c55498a828e",
+   "id": "c71e2252376",
    "kind": "news",
    "score": 16.0,
    "sensitive": true,
@@ -5051,32 +5044,6 @@
      "id": "dbc9ad902ade4f59",
      "published": "2026-11-02T10:00+00:00",
      "text": "Ce samedi 31 octobre, deux jours après l’attaque éclair sur Binance, le FBI a officiellement attribué l’opération à la Corée du Nord. Dans un avis publié sur son site, l’agence fédérale américaine pointe du doigt TraderTraitor, une unité de pirates au service du gouvernement nord-coréen, et qui fait partie de l’organisation Lazarus.\n« La République populaire démocratique de Corée (Corée du Nord) est responsable du vol de plus de 6 milliards de dollars d’actifs virtuels sur la plateforme d’échange de cryptomonnaies Binance, aux alentours du 29 octobre 2026 », écrit le FBI.\nLa plupart des experts de la crypto et de la blockchain abondent dans le même sens que le FBI. C’est donc loin d’être une surprise. Dès le lendemain du vol, la société d’analyse TRM Labs attribuait l’attaque à TraderTraitor « avec une confiance élevée ». Chainalysis, autre spécialiste de la blockchain, a d’ailleurs remarqué que les fonds volés à Binance se sont mélangés à ceux dérobés à Bitget le mois dernier. Or, la plateforme avait été victime des pirates de TraiterTraitor.\nThe FBI is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange, Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\nHow You Can Help:\nFBI, USSS, and IRS-CI are urging private sector entities including THORNode operators, RPC node operators, instant exchanges, DeFi services, blockchain analytics firms, and other virtual asset service providers to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.A list of addresses associated with this activity is available here: https://t.co/g0oIWx0WeD\n— FBI Cyber Branch (@FBICyberBranch) October 31, 2026\nDes centaines d’adresses pour brouiller les pistes\nLe FBI a aussi publié la liste des adresses utilisées par les pirates pour déplacer les cryptomonnaies volées. Les enquêteurs ont débusqué plusieurs centaines d’adresses Ethereum, 19 adresses Bitcoin et une adresse sur la blockchain Solana. Le FBI demande aux géants de l’industrie crypto de bloquer toute transaction liée à ces adresses. Les plateformes d’échange, les services de finance décentralisée (DeFi), les sociétés d’analyse de la blockchain ou encore les opérateurs de THORChain, un service d’échange entre blockchains déjà utilisé par les pirates, sont encouragés à geler les fonds.\nTout le monde risque de ne pas coopérer. C’est le cas de THORChain. Après le hack de Bybit en 2025, les pirates nord-coréens y ont échangé plus d’un milliard de dollars d’ether contre du bitcoin. Les opérateurs ont envisagé de bloquer les transactions pour venir en aide aux autorités, mais un développeur du projet a démissionné en signe de protestation. Environ 2,8 milliards de dollars ont cependant déjà été gelés, selon les investigations menées par Chainalysis.\n« C’est un braquage de banque, à la vitesse d’Internet. Mais nous pouvons aussi suivre ces fonds à la trace en temps réel pour construire des enquêtes. C’est le jeu du chat et de la souris "
-    },
-    {
-     "source": "Google News World FR",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOa0UxZDZEUDc0MWRWSFRXSk9ZNWx0a0ZYMHZRMHJNdjdsc3Y0TjllTGpIUkdzQWZ6MDZVbEkyekRNazYyYTVWdkdHTWFxdDZsX1FfRTRtZGdzYk5aQTJWZE8xdFd5NlRGUHBkeUtmM0hETnpqaHE0bnNlc2JqbTQtVWlrTTVzQ1hFbTBWQkdhaG9OOG5zX1VVT2dhYUY1RlYtenFNbkRhdTZLN2hLaWE5NldUcnQwV3ZzU1ctUVUyT0ZYRTRMTVM4VzZnV3RVcUR0Q3VxRFdkbUx4UXhKbzdDQk1GLTlqek5fMGJGUlZiNDNRckk4QnUwSW1xbWJ3ZnlSMHRjQTkwTTdaWmhaX2hYetIBlgJBVV95cUxNS0tLQlJtOXFfT1RjSGJ1LWE5Tm8yVG5obDVlZDA1dDZhQVp1WkI1cjRlRWMwRTJaNFB0ZEVOTTA2OVNTbEt4a0ZaSmFKTlkwcTFXbEctZjEzV0lDMV9ON29PblNiNG0xanVpWmtETkY3U3lJQlVtTVZsOTFqUVRGdHpZdnRKOWJZMUc4SXF3MU5RbmFndG9wU19OQWthbUI5UWM5U2JiZDB4MG8yd2YyTDhCVzJqdnpndk9IU0p1RGJVQUs3QVY3Si02X2hSX05XamlIMkZucms2ZUFpRmpLRV9nNU9fMUJ1bXpFeXRMWHBUM1c0R3JVRDB3MXdzM3psTjZKMUNuR1pwSzkwS1pNcldRdDJ3QQ?oc=5",
-     "title": "Piratage de cryptomonnaies chez Binance: reprise des retraits, le FBI accuse la Corée du Nord",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "55498a828e5080d6",
-     "published": "2026-11-01T07:40+00:00",
-     "text": "- Piratage de cryptomonnaies chez Binance: reprise des retraits, le FBI accuse la Corée du Nord Boursorama\n- Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle » Le Monde.fr\n- Après le piratage record de Binance, l'industrie crypto face à l'éternel risque de tout perdre Les Echos\n- Casse du siècle… La Corée du Nord accusée d’un vol record chez Binance 20 Minutes\n- 6,3 milliards de dollars d'actifs numériques dérobés: la plateforme Binance annonce la reprise progressive des retraits pour ses clients, trois jours après le braquage numérique massif mené par la Corée du Nord selon le FBI BFM"
-    },
-    {
-     "source": "Google News World FR",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX2JfaWlkTVJ4UjlQMmpJYUJWUWM1ZHBXaVdYTjNkc3RQMXY4ejR3RUxhb0lmZ1c3VXVuZEtqRU01cVBKbEZWQjlFWEEtUUpFeVVTQ1hJT0dEYXVyZFd0SlhTZXVKNXdPVWUwQ3AwV0pTUGo1ZjNMSWh1VzM3dENsei0zMHZiQ3Jtcl9uelVDcFJfZERoLUtyMmU0eFhkakJIcDlfNE83S1EtcmM3RVlYNDhLd2JLZlozajBWMkxNUDh3U3FHbFF0TG41cjRza3lCOU5Ub0pVN3U?oc=5",
-     "title": "Piratage de cryptomonnaies chez Binance: reprise des retraits, le FBI accuse la Corée du Nord",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "02885ca3d1b874a6",
-     "published": "2026-11-01T07:40+00:00",
-     "text": "- Piratage de cryptomonnaies chez Binance: reprise des retraits, le FBI accuse la Corée du Nord tv5monde\n- Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle » Le Monde.fr\n- Piratage de cryptomonnaies chez Binance : reprise des retraits, le FBI accuse la Corée du Nord Le Nouvel Obs\n- Cyberattaque de Binance : «On est sans doute en face du plus grand braquage de l'histoire mondiale», estime Claude Moniquet CNews\n- Cyberattaque de Binance : le FBI accuse la Corée du Nord, Donald Trump met en doute Libération"
     },
     {
      "source": "Google News World FR",
@@ -5244,10 +5211,12 @@
      "url": "https://techspot.com/news/114412-nasa-swift-space-telescope-set-crash-back-earth.html",
      "title": "NASA's Swift Space Telescope is set to crash back to Earth this week",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-02-ts3_thumbs-3dc.jpg"
+     },
      "id": "a900dbb13d6e0a2c",
      "published": "2026-11-02T19:04+00:00",
-     "text": "The Swift Observatory could plunge back to Earth as early as this Friday, US authorities said. The telescope is expected to undergo an uncontrolled reentry after NASA and Katalyst Space Technologies tried – and failed – to correct the spacecraft's orbit using a robotic device in September.\nRead Entire Article"
+     "text": "Don't Look Up: After spending more than 20 years in space, the Neil Gehrels Swift Observatory is now expected to undergo a \"catastrophic\" reentry into Earth's atmosphere. Most of the telescope should burn up during the process, but a few surviving pieces could eventually reach the ground and pose a risk to people.\nThe Swift Observatory could plunge back to Earth as early as this Friday, US authorities said. The telescope is expected to undergo an uncontrolled reentry after NASA and Katalyst Space Technologies tried – and failed – to correct the spacecraft's orbit using a robotic device in September.\nAccording to US Space Force predictions, the Swift Observatory should burn up in the atmosphere during reentry. A few components, including tungsten-made parts and mirrors, might survive the atmospheric plunge and eventually reach the ground.\nThe Space Force is tracking Swift's orbit to determine where these components could land. Parts of Africa, Australia, India, Southeast Asia, Central America, and South America could potentially be affected. Most likely, however, the surviving debris will end up in the ocean.\nAccording to John Nousek, an astronomer at Pennsylvania State University who is in charge of Swift's control team, the aging telescope is going down with a bang.\n\"We've known this day would come since before Swift was launched. At least in low-Earth orbit, what goes up must come down,\" Nousek said.\nThe Neil Gehrels Swift Observatory launched on November 20, 2004, aboard a Delta II rocket. Led by astrophysicist Neil Gehrels, the mission was tasked with studying extremely energetic events known as gamma-ray bursts. Eventually, the orbiting observatory was also used as a \"general-purpose\" telescope to observe transient events across other parts of the electromagnetic spectrum.\nDespite its catastrophic end, Swift was an extremely successful mission. Its primary mission was expected to last just two years, but the telescope kept operating for 21 years and 11 months. Over the past few years, the spacecraft's orbit had been affected by the expansion of Earth's atmosphere caused by increased solar activity.\nNASA and Katalyst launched the \"Swift boost mission\" in July, sending a robotic probe to try to correct Swift's deteriorating orbit. The mission failed, and the probe returned to Earth in September 2026.\nLike other legendary space observatories, including Hubble and the James Webb Space Telescope, Swift made major contributions to astrophysics research. The telescope observed more than 2,000 gamma-ray bursts, 1,400 exploding stars, as well as comets, asteroids, and black holes."
     },
     {
      "source": "Google News Science EN",
@@ -5378,128 +5347,96 @@
    ]
   },
   {
-   "id": "ccfa590b490",
+   "id": "c7c6085afa6",
    "kind": "news",
    "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Martha Stewart Responds to Halloween Costume Backlash: ‘Homelessness’ Is ‘Something That I Care Deeply About’",
+   "sensitive": true,
+   "distinct_sites": 7,
+   "title_hint": "Nine dead after private jet crashes in Florida",
    "official_image": null,
    "sources": [
     {
-     "source": "Variety",
+     "source": "The Telegraph Tech",
      "trust": 2,
-     "url": "https://variety.com/2026/digital/news/martha-stewart-backlash-halloween-costume-homelessness-1236936874",
-     "title": "Martha Stewart Responds to Halloween Costume Backlash: ‘Homelessness’ Is ‘Something That I Care Deeply About’",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObnJXRGdjT1JXQ0xtaFEwb2lQX2lZS3F4WkQ3QTVCbnFELUdaUmc4aWpQMzJKejJNNnE2aXJyR3QtWnZSWXgyYjB4b2ZzWmtwSzlaS2R0amkxdnJvNmFoUmstWXJ3VC1FLWJBLUtyc3BJZ1NHVFNzMXVsdUZyMTRlUi1tMHp2UWp3anhwS3ZOZw?oc=5",
+     "title": "Nine dead after private jet crashes in Florida",
      "lang": "en",
      "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2024/11/GettyImages-2181838204.jpg?w=1000&h=563&crop=1"
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "7cbfa70234df4983",
-     "published": "2026-11-01T18:57+00:00",
-     "text": "Martha Stewart has issued a statement after drawing hefty backlash for dressing up as a homeless person for Halloween. The media mogul’s choice of costume for Saturday’s holiday, which included her dressed up in tattered clothing, dirt-inspired face makeup and a sign that read, “I am hungry. Help me!!,” was quickly deemed offensive and in poor taste by fans. (The photo she’d posted of the costume to Instagram was promptly deleted.)\n“I am distressed that my Halloween costume yesterday, which was intended to bring more awareness to the very serious subject of homelessness, has offended people, which was never my intention,” Stewart told Page Six in a statement issued on Sunday.\nShe continued: “Homelessness continues to remain one of America’s greatest challenges and ongoing crises, something that I care deeply about and I have spent a significant amount of time and effort supporting charities that combat this ongoing social epidemic.” The businesswoman also shared that she remains “committed to continuing to make a difference.”\nOn Saturday, Stewart also shared a carousel of images of her yard with festive decor captioned, “Halloween night Waiting for those who trick or treat!” In the days leading up to the holiday, Stewart appeared on “Today” to share Halloween entertaining ideas, “including my no-bake spiderweb cheesecake, witches’ brew, and a ghastly goulash,” she wrote on social media. “I always enjoy getting dressed up in fun and creative costumes when my busy schedule allows.”\nVariety previously reported that Cate Blanchett is set to star as Stewart in the upcoming biopic “Good Thing” about the career of the lifestyle media mogul, with “Zola” director Janicza Bravo helming the project."
+     "id": "7c6085afa62a058a",
+     "published": "2026-11-01T21:46+00:00",
+     "text": "Nine dead after private jet crashes in Florida\nThe Telegraph"
     },
     {
-     "source": "NBC News",
+     "source": "ABC Australia",
      "trust": 2,
-     "url": "https://nbcnews.com/news/us-news/martha-stewart-backlash-homeless-halloween-costume-rcna606837",
-     "title": "Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-martha-stewart-aa-113-9b7a05.jpg"
-     },
-     "id": "43f0bb5ae13e945a",
-     "published": "2026-11-01T19:00+00:00",
-     "text": "Martha Stewart on Sunday responded to backlash about her Halloween costume, saying she was “distressed” to learn that her outfit, which depicted a “hungry” homeless person, had caused offense.\nStewart, who built a lifestyle empire around cooking and home entertainment, shared a photo of herself in tattered clothing, holding a clipboard that read, “I AM HUNGRY HELP ME!!” She posed with a tired expression and makeup meant to look like dirt on her face.\nThe photo was the third slide in an Instagram carousel promoting her candle collection on QVC.\n“My QVC candles are perfect for Halloween!!!” she wrote in the caption. The post was removed shortly afterward, but the costume and backlash continued to circulate elsewhere online.\nMany interpreted the costume as mocking the poor, and some called it “out of touch” and “dystopian.”\n“I am distressed that my Halloween costume yesterday, which was intended to bring more awareness to the very serious subject of homelessness, has offended people, which was never my intention,” Stewart said Sunday in a statement to NBC News.\nShe added that homelessness “continues to remain one of America’s greatest challenges and ongoing crises, something that I care deeply about and I have spent a significant amount of time and effort supporting charities that combat this ongoing social epidemic.”\n“I am committed to continuing to make a difference,” she said.\nStewart wasn’t the only public figure to draw criticism over a Halloween costume.\nContent creator McCall DaPron, who is slated to star in the upcoming Orange County spinoff of “The Secret Lives of Mormon Wives,” faced similar backlash over the weekend for her family’s costumes.\nIn a since-deleted Instagram post, DaPron wore an all-pink blazer and skirt with a matching pillbox hat, the outfit that Jackie Kennedy wore the day her husband, President John F. Kennedy, was assassinated. DaPron held a bouquet of red roses as she posed beside her husband, Kirk DaPron, who dressed as John F. Kennedy. Two of their children were dressed as Caroline Kennedy and John F. Kennedy Jr., and two others as Secret Service agents.\n“Happy Halloween 🩷The Kennedy’s,” DaPron wrote in the caption before removing the post.\nCommenters on one Reddit discussion thread called the costume “gross” and “disrespectful.”\n“I’ve seen this costume a few times. Jackie O was a fashion icon and this is her most recognizable outfit,” one user wrote in the thread. “It’s pretty macabre. Including the children is really f-----g weird.”\nRepresentatives for DaPron did not immediately respond to a request for comment.\nThe reaction recalls the outrage that actor and model Julia Fox sparked last year when she dressed as Jackie Kennedy in the bloodstained suit.\nFox defended her decision, writing in an Instagram post that she wore the outfit “not as a costume, but as a statement. When her husband was assassinated, she refused to change out of her bloodstained clothes.”"
-    },
-    {
-     "source": "Hollywood Reporter",
-     "trust": 2,
-     "url": "https://hollywoodreporter.com/news/general-news/martha-stewart-responds-backlash-halloween-costume-homeless-1236745531",
-     "title": "Martha Stewart Responds to Backlash Over Halloween Costume Depicting Homeless Person: “Never My Intention”",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Martha-Stewart-getty-H-2026.png?w=1296&h=730&crop=1"
-     },
-     "id": "9ca06a33ed9e0c15",
-     "published": "2026-11-01T23:11+00:00",
-     "text": "Martha Stewart is addressing the backlash over a since-deleted photo of her Halloween costume, where she appears to be depicting a homeless person.\nIn the photo posted on Instagram before being quickly deleted, TMZ reported that the lifestyle guru and media mogul was seen in ripped clothing with dirt on her face. She was also holding a clipboard with a message that read “I AM HUNGRY HELP ME!!”\nIn a statement to People, Stewart said she’s “distressed” that her Halloween costume offended people, as she intended to raise awareness about homelessness.\nRelated Stories\n“I’ve spent decades teaching others how to celebrate Halloween — sharing fun, festive recipes, providing unique craft ideas and giving tips on entertaining and hosting to make the most of one of my favorite holidays of the year,” she said. “I am distressed that my Halloween costume yesterday, which was intended to bring more awareness to the very serious subject of homelessness, has offended people, which was never my intention.\n“Homelessness continues to remain one of America’s greatest challenges and ongoing crises, something that I care deeply about and I have spent a significant amount of time and effort supporting charities that combat this ongoing social epidemic,” Stewart continued. “I am committed to continuing to make a difference.”\nThe Hollywood Reporter has also reached out to Stewart’s rep for comment.\nTMZ reported that the photo was included in an Instagram carousel promoting candles she sells on QVC. “My QVC candles are perfect for Halloween!!!!!” the post’s caption read.\nAfter screenshots of the photo started circulating on social media, people didn’t hold back on their criticism. “Martha Stewart absolutely tone deaf and totally out of touch. Absolutely shameful,” one person wrote on X. Another person said, “Mocking homelessness is not okay or funny.”"
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/bulletin/news/martha-stewart-homeless-costume-backlash-b3077305.html",
-     "title": "Martha Stewart doubles down after backlash over Halloween costume mocking the unhoused",
+     "url": "https://abc.net.au/news/2026-11-02/business-jet-carrying-9-people-crashes-in-florida-neighbourhood/107335094",
+     "title": "Nine dead as business jet crashes into Florida roadside: US official",
      "lang": "en",
      "extra": {},
-     "id": "2765dfcb758d7dbc",
-     "published": "2026-11-02T07:35+00:00",
-     "text": ""
+     "id": "8a39838d030b696e",
+     "published": "2026-11-01T21:56+00:00",
+     "text": "US officials say a small business jet has crashed into a southern Florida neighbourhood killing all nine people aboard."
     },
     {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXRmN25nblJsVHZEdmhqYzVRODBvNHh3OEU5YnAzTkN1VlVUOXdDOW5pQnc3bVoydU1EaXlSSmFKb0dsWUtLb1dNM1poLVUtU2lxMlVmVWNoaVpjVmRGdWhfVlRHUVdvQUxLOHFlT29LWFAwUk93bDlzSmViTHRqUmg2ZzJ2TDBZYy13aXBpOEdVVF9pbC1CT1JWTVduS0hhYUtyQnB1emZtd2tlY3pKYUlaUExsZXRSYWlWN3c4M0o?oc=5",
-     "title": "Martha Stewart deletes ‘offensive’ Halloween costume photo after being accused of mocking homeless people",
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://newsweek.com/private-jet-crashes-into-florida-mobile-home-park-nine-dead-12647198",
+     "title": "9 Dead After Private Jet Crashes Into Florida Mobile Home Community",
      "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "cfa590b490ca3c16",
-     "published": "2026-11-01T15:03+00:00",
-     "text": "- Martha Stewart deletes ‘offensive’ Halloween costume photo after being accused of mocking homeless people Page Six\n- Martha Stewart Posts & Deletes Photo of Herself Dressed as ‘Hungry’ Person Yahoo\n- Martha Stewart Posts and Deletes 'Hungry' Poor Person Halloween Costume Photo TMZ\n- Martha Stewart faces backlash as Halloween 2026 promotional stunt backfires The News International\n- Martha Stewart Deletes Shocking Halloween Costume Photo, Faces Backlash Over Depiction of Poverty: See It Here Just Jared"
+     "extra": {},
+     "id": "3d2d13a91e6fb1ca",
+     "published": "2026-11-01T22:28+00:00",
+     "text": "Nine people were killed when a Learjet 60 crashed into a Florida mobile home community while flying to the Bahamas."
     },
     {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2VFZDhXdnNtRF9kYTF6aDVmUEpWb3JHLU55MWVHWW9BN1RfOFo5WVFCc0NacUEzRFEzdjE0NE1UZVJwNUtEMi15WlcyQXJkTTBaMFkwREhxNHo1VHdyUU04VXNZYWNOdElfclB2OXJQb1pRUTlkY2NHQlgycEJWNXVpQU9qa0J3SDhEWk9PSXFzdjZiWHVxMkpTWVk0MlVUZlVOODJjSV9tTlJy?oc=5",
-     "title": "Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume",
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/americas/20261101-nine-killed-as-business-jet-crashes-into-south-florida-neighbourhood",
+     "title": "Nine killed as business jet crashes into South Florida neighbourhood",
      "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "95aa3ce16d5509bc",
-     "published": "2026-11-01T18:31+00:00",
-     "text": "- Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume Yahoo\n- Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume NBC News\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart Slammed for Tone-Deaf Costume The Daily Beast\n- Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing Page Six"
+     "extra": {},
+     "id": "e5293a21a3894214",
+     "published": "2026-11-01T23:45+00:00",
+     "text": "A business jet plunged into a South Florida neighbourhood on Sunday, killing all nine people aboard and exploding into a fireball near homes and a busy road. The pilot had reported icing, precipitation and severe turbulence before the Learjet entered a steep dive, according to air traffic control recordings."
     },
     {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejVxTEFZcW1vZVRXTk9odnNkZUJsTERZWTFhcUVVUTZwd2xPbVpnZVI0eC1aYWpzMGVpS0k5dVJkVWVHWFJvbHItRmtXTjN6NkhhZ0g1d1VtSHdqTjZTeUZoS3VmSnlxaGNkcDA5QV9BWU8wYzVFYml3RWxiQlVxWGhhaDRxTm5wR2FMcW1aZUplTHdvTkpmQ2hFU19lYXR3VDBiTXBTdU54QUJzcnhlcV9CRTZtejdoMDM4VTJhUDQ?oc=5",
-     "title": "Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume",
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+     "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
      "lang": "en",
      "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae7cc8a-1793576074.jpg?resize=1200%2C675"
      },
-     "id": "9bfa23b676f7ec8e",
-     "published": "2026-11-01T18:31+00:00",
-     "text": "- Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume Rolling Stone\n- Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing Page Six\n- Martha Stewart’s Reason For Dressing Like A ‘Hungry’ Homeless Person For Halloween Backfires: ‘Tone Deaf’ Yahoo\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart Slammed for Tone-Deaf Costume The Daily Beast"
+     "id": "94a4f5c34a7addf8",
+     "published": "2026-11-02T00:34+00:00",
+     "text": "Nine people have died after a business jet crashed into a residential neighbourhood in South Florida, the United States.\nAll on board were killed in the crash, which US Transportation Secretary Sean Duffy described as a “horrific tragedy” in a post on X on Sunday.\nRecommended Stories\nlist of 3 items- list 1 of 3Nine people dead after Learjet crashes in Florida\n- list 2 of 3Florida issues arrest warrant for Cuban leader Raul Castro\n- list 3 of 3Hurricane Isaias kills four, leaves 650,000 without power in Florida\nFederal Aviation Administration staff were on their way to the crash site to support a National Transportation Safety Board investigation into the incident, Duffy said.\nDisturbing recordings in the plane’s cockpit shortly before the crash, retained by LiveATC.net, captured the pilot talking about “manageable” ice issues, before later saying the plane was rapidly losing altitude.\nShortly after, the panicked crew said, “We’re going to crash into the ground”.\nThe plane was a Learjet 60 – a popular business jet – heading from Austin, Texas, to the Bahamas. Austin-Bergstrom International airport confirmed that the plane was a private jet, but not who was on board.\nVideos of the incident circulating online appear to show the jet striking the ground at high speed and on a sharp angle, followed by a huge explosion.\nFootage of the aftermath appears to show flames flickering around debris and chunks of pavement, with people milling around the area.\nThe plane looked to have fallen just metres from homes and cars, but Florida Governor Ron DeSantis told reporters that there appeared to be no casualties on the ground.\nSpeaking from the scene, DeSantis described the crash as “cataclysmic” and said the plane “looked like a missile going down, and left a big crater on the side of the road”."
     },
     {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFN2dWNBeUJhLVJfUFdTc01PZWNNbXlNSDBTSndxYXJCckFpekx4T2xWbVphWWpkQ1BQQWRwMGJ1MU9iX09rS0JFTHVFclpWQmVuNkJZTWl3ZklLVTZYVUVCeWU5WEFGQXFNZGN2ZlZVSkxNdXZDUzRLbl9oMXlNelFYWUpXanktcWRkX0U0RFQyT2VEWFhHMmVNa3I5akE?oc=5",
-     "title": "Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume",
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+     "title": "Nine killed as small jet crashes on Florida street",
      "lang": "en",
      "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9fb5/live/43875670-d640-11f1-be6d-936c6c4b19c2.jpg"
      },
-     "id": "642a2cdf8379f111",
-     "published": "2026-11-01T19:00+00:00",
-     "text": "- Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume NBC News\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart Says Homeless Costume Was Meant to “Bring More Awareness,” Critics Aren’t Buying It Yahoo\n- Martha Stewart Posts and Deletes 'Hungry' Poor Person Halloween Costume Photo TMZ\n- Martha Stewart Slammed for Tone-Deaf Costume The Daily Beast"
+     "id": "2567b1cc0ac4e2a3",
+     "published": "2026-11-02T02:59+00:00",
+     "text": "- Published\nA business jet crashed in a neighbourhood in Florida on Sunday, killing all nine people on board, the US transport secretary has said.\nThe crash happened near Cresthaven, some nine miles (14 km) from Mar-a-Lago, President Donald Trump's resort in the wealthy enclave of Palm Beach County, around 12:50 EST (17:50 GMT).\nImages from after the crash show a crater in the middle of a residential road, with patches of fire and pieces of concrete and debris from the Learjet 60 aircraft scattered.\nThe aircraft had departed from Austin, Texas, and was headed to the Bahamas, the Federal Aviation Administration (FAA) said in a statement.\nUS media reports and flight analysis indicate that the jet was plummeting hundreds of feet per second before crashing.\nIn air traffic control audio recorded moments before the crash, the pilot of the aircraft can be heard saying the plane was descending 10,000 feet per minute, according to the BBC's US partner CBS News.\nThen the pilot declared an emergency, yelling, \"We are in an overspeed condition descending 20,000 feet per minute,\" CBS reported.\n\"We're gonna crash ... We're out of time,\" the pilot told the tower.\nUnverified footage posted on social media shows what appears to be a dash-camera recording of the moment of the crash. It shows vehicles driving on a residential suburban street, when suddenly an aircraft nosedives into the ground almost vertically, and explodes into a large fireball.\n\"When you see that video, it's a jarring thing,\" Florida Governor Ron DeSantis told reporters at a news conference after the crash. \"It's like a missile coming down, and a massive explosion, debris going everywhere.\"\nIt is not yet clear who was aboard the jet when it crashed. DeSantis said \"as of now, we don't have any reports of anyone who was on the ground...who was killed or injured\".\nTransportation Secretary Sean Duffy described the crash as a \"horrific tragedy\", and said the FAA was sending a team to the scene to help an investigation by the National Transportation Safety Board.\n\"Please join me in praying for the families and loved ones of those we lost,\" Duffy added.\nPalm Beach County Fire Rescue has declared a \"mass casualty incident\".\nThe Palm Beach County Sheriff's Office said the crash happened on Military Trail, a six-lane road that features businesses and eateries.\nAt a news conference, DeSantis and local officials said that 600 local residents were being evacuated from a nearby trailer-park community.\nThe impact of the crash caused considerable damage to local infrastructure, including its water lines, they said, and it would be at least 30 days before the road re-opened.\nThunderstorms had been reported in the area at the time of the crash, and it was heavily raining as the news conference was held.\nTrump had been at Mar-a-Lago on Sunday morning, and departed from an airport nearby on Air Force One about an hour before the crash."
     },
     {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWlJ4REZVVS1ieFU3c1daU2xjNGE5R3UtdzItWmpWS05keTFLYlRHVTNKTVZmenBBbjFCMWpvRWlQMEVXYzdDU2k2bEh0M1RhTTJUc0xkMWpubjlyNjZpWkZtbXlGZ1FuMjhfTWFUYjVmZkwyVFBUOEJ5NWljOGNnWlZXWkhKeVNmR1dtM3hHZi1QNkJIR2xvYm5XTUNkVHlyeGlfaHpmR3ZFMjZMSUd6azdEcGhVOUN0VGRYcHgtQjI?oc=5",
-     "title": "Martha Stewart Responds to Backlash Over Halloween Costume Depicting Homeless Person: “Never My Intention”",
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/2a0cbb4c5eb5",
+     "title": "Nine killed as private jet crashes into Florida neighbourhood near Trump's house",
      "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "f2da61b7edd4ed65",
-     "published": "2026-11-01T23:11+00:00",
-     "text": "- Martha Stewart Responds to Backlash Over Halloween Costume Depicting Homeless Person: “Never My Intention” The Hollywood Reporter\n- Exclusive | Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing Page Six\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume Yahoo\n- Martha Stewart Posts and Deletes 'Hungry' Poor Person Halloween Costume Photo TMZ"
+     "extra": {},
+     "id": "f9f6f617ac967443",
+     "published": "2026-11-02T07:30+00:00",
+     "text": "The aircraft was travelling from Austin to the Bahamas when it crashed near a mobile home park, prompting the evacuation of about 600 residents."
     }
    ]
   },
@@ -5585,6 +5522,85 @@
      "id": "2d676229be379cf4",
      "published": "2026-11-02T14:07+00:00",
      "text": "- The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike The Verge\n- Raspberry Pi 5 16 GB Hits $385 Following Latest Price Hikes TechPowerUp\n- Raspberry Pi NAS Setup: 13 Steps, 60 Min [2026] https://tech-insider.org/\n- Raspberry Pi 5 price goes up another $80 OMG! Ubuntu\n- Why the 16GB Raspberry Pi 5 costs $385 now – and your best alternative options ZDNET"
+    }
+   ]
+  },
+  {
+   "id": "ca02d5484b8",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Inside the chaos before Haley Stevens’s shocking Senate endorsement in Michigan",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Washington Post Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQkhpUTBqMVdCQjlEY0tObEtBOVo4eVhSZ2NjTmlWdE5HcTZwRmhkaDZOLVdLRng5TVFvMEd2cVhvMWNPNnBrLWtlbTVHUnZVVV9ZRTFSb2k4OWphNkwwbFc4dlBmRUhXdlhJdWwwRTl0NTAzS1V6M2trTlZJVDM5X3Mwbmp0Q0lzWVZ3a1F0WjhqM1FIRGVlMVNPVDZZUlFJbFZCV3dQUFV1eG1CamdxeHRjT0hCaGRia1NsMlFzMEtaM2JjcUE?oc=5",
+     "title": "Inside the chaos before Haley Stevens’s shocking Senate endorsement in Michigan",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "a02d5484b848b36f",
+     "published": "2026-11-02T02:11+00:00",
+     "text": "Inside the chaos before Haley Stevens’s shocking Senate endorsement in Michigan\nThe Washington Post"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race",
+     "title": "Michigan Democrat's endorsement of Republican ruffles critical Senate race",
+     "lang": "en",
+     "extra": {},
+     "id": "54a35eb617701d8c",
+     "published": "2026-11-02T07:55+00:00",
+     "text": "A prominent Michigan Democrat endorsed Republican Mike Rogers on Sunday, giving President Donald Trump's Republicans an unexpected boost in a critical US Senate race two days before midterm elections that will decide control of Congress. FRANCE 24's Caroline Baum brings us more with this report."
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
+     "title": "Michigan Democrat stuns party to back Republican candidate in critical Senate race",
+     "lang": "en",
+     "extra": {},
+     "id": "719c0ed676920375",
+     "published": "2026-11-02T08:20+00:00",
+     "text": "A high-profile Democratic defection shook Michigan's Senate race on the eve of US midterm elections as Representative Haley Stevens threw her support behind Republican Mike Rogers rather than backing the Democratic candidate, Abdul Al-Sayed, who beat her in the primary race. The move exposed divisions within the party as control of Congress hangs in the balance."
+    },
+    {
+     "source": "El País EN",
+     "trust": 2,
+     "url": "https://english.elpais.com/usa/2026-11-02/michigan-democrats-endorsement-of-abdul-elsayeds-republican-rival-causes-a-party-rupture.html",
+     "title": "Michigan Democrat’s endorsement of Abdul El‑Sayed’s Republican rival causes a party rupture",
+     "lang": "en",
+     "extra": {},
+     "id": "2414142a3239231e",
+     "published": "2026-11-02T09:23+00:00",
+     "text": "Haley Stevens lost in a primary in which voters favored the progressive candidate. Trump praised the ‘courage’ of the defector"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/video/20261102-michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race-1",
+     "title": "Michigan Democrat's endorsement of Republican ruffles critical Senate race",
+     "lang": "en",
+     "extra": {},
+     "id": "c8420f5eab1396b2",
+     "published": "2026-11-02T12:41+00:00",
+     "text": "A prominent Michigan Democrat endorsed Republican Mike Rogers on Sunday, giving President Donald Trump's Republicans an unexpected boost in a critical US Senate race two days before midterm elections that will decide control of Congress."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/world/americas/us-politics/haley-stevens-abdul-el-sayed-election-fundraising-b3077768.html",
+     "title": "Haley Stevens endorsement of Republican has been a financial windfall for Democrat Abdul El-Sayed",
+     "lang": "en",
+     "extra": {},
+     "id": "209972355325f429",
+     "published": "2026-11-02T18:44+00:00",
+     "text": "El-Sayed saw a record-breaking fundraising haul the same day Stevens ‘abandoned everything she claims to care about’"
     }
    ]
   },
@@ -6243,6 +6259,132 @@
    ]
   },
   {
+   "id": "ccfa590b490",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Martha Stewart Responds to Halloween Costume Backlash: ‘Homelessness’ Is ‘Something That I Care Deeply About’",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/digital/news/martha-stewart-backlash-halloween-costume-homelessness-1236936874",
+     "title": "Martha Stewart Responds to Halloween Costume Backlash: ‘Homelessness’ Is ‘Something That I Care Deeply About’",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2024/11/GettyImages-2181838204.jpg?w=1000&h=563&crop=1"
+     },
+     "id": "7cbfa70234df4983",
+     "published": "2026-11-01T18:57+00:00",
+     "text": "Martha Stewart has issued a statement after drawing hefty backlash for dressing up as a homeless person for Halloween. The media mogul’s choice of costume for Saturday’s holiday, which included her dressed up in tattered clothing, dirt-inspired face makeup and a sign that read, “I am hungry. Help me!!,” was quickly deemed offensive and in poor taste by fans. (The photo she’d posted of the costume to Instagram was promptly deleted.)\n“I am distressed that my Halloween costume yesterday, which was intended to bring more awareness to the very serious subject of homelessness, has offended people, which was never my intention,” Stewart told Page Six in a statement issued on Sunday.\nShe continued: “Homelessness continues to remain one of America’s greatest challenges and ongoing crises, something that I care deeply about and I have spent a significant amount of time and effort supporting charities that combat this ongoing social epidemic.” The businesswoman also shared that she remains “committed to continuing to make a difference.”\nOn Saturday, Stewart also shared a carousel of images of her yard with festive decor captioned, “Halloween night Waiting for those who trick or treat!” In the days leading up to the holiday, Stewart appeared on “Today” to share Halloween entertaining ideas, “including my no-bake spiderweb cheesecake, witches’ brew, and a ghastly goulash,” she wrote on social media. “I always enjoy getting dressed up in fun and creative costumes when my busy schedule allows.”\nVariety previously reported that Cate Blanchett is set to star as Stewart in the upcoming biopic “Good Thing” about the career of the lifestyle media mogul, with “Zola” director Janicza Bravo helming the project."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/news/us-news/martha-stewart-backlash-homeless-halloween-costume-rcna606837",
+     "title": "Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-martha-stewart-aa-113-9b7a05.jpg"
+     },
+     "id": "43f0bb5ae13e945a",
+     "published": "2026-11-01T19:00+00:00",
+     "text": "Martha Stewart on Sunday responded to backlash about her Halloween costume, saying she was “distressed” to learn that her outfit, which depicted a “hungry” homeless person, had caused offense.\nStewart, who built a lifestyle empire around cooking and home entertainment, shared a photo of herself in tattered clothing, holding a clipboard that read, “I AM HUNGRY HELP ME!!” She posed with a tired expression and makeup meant to look like dirt on her face.\nThe photo was the third slide in an Instagram carousel promoting her candle collection on QVC.\n“My QVC candles are perfect for Halloween!!!” she wrote in the caption. The post was removed shortly afterward, but the costume and backlash continued to circulate elsewhere online.\nMany interpreted the costume as mocking the poor, and some called it “out of touch” and “dystopian.”\n“I am distressed that my Halloween costume yesterday, which was intended to bring more awareness to the very serious subject of homelessness, has offended people, which was never my intention,” Stewart said Sunday in a statement to NBC News.\nShe added that homelessness “continues to remain one of America’s greatest challenges and ongoing crises, something that I care deeply about and I have spent a significant amount of time and effort supporting charities that combat this ongoing social epidemic.”\n“I am committed to continuing to make a difference,” she said.\nStewart wasn’t the only public figure to draw criticism over a Halloween costume.\nContent creator McCall DaPron, who is slated to star in the upcoming Orange County spinoff of “The Secret Lives of Mormon Wives,” faced similar backlash over the weekend for her family’s costumes.\nIn a since-deleted Instagram post, DaPron wore an all-pink blazer and skirt with a matching pillbox hat, the outfit that Jackie Kennedy wore the day her husband, President John F. Kennedy, was assassinated. DaPron held a bouquet of red roses as she posed beside her husband, Kirk DaPron, who dressed as John F. Kennedy. Two of their children were dressed as Caroline Kennedy and John F. Kennedy Jr., and two others as Secret Service agents.\n“Happy Halloween 🩷The Kennedy’s,” DaPron wrote in the caption before removing the post.\nCommenters on one Reddit discussion thread called the costume “gross” and “disrespectful.”\n“I’ve seen this costume a few times. Jackie O was a fashion icon and this is her most recognizable outfit,” one user wrote in the thread. “It’s pretty macabre. Including the children is really f-----g weird.”\nRepresentatives for DaPron did not immediately respond to a request for comment.\nThe reaction recalls the outrage that actor and model Julia Fox sparked last year when she dressed as Jackie Kennedy in the bloodstained suit.\nFox defended her decision, writing in an Instagram post that she wore the outfit “not as a costume, but as a statement. When her husband was assassinated, she refused to change out of her bloodstained clothes.”"
+    },
+    {
+     "source": "Hollywood Reporter",
+     "trust": 2,
+     "url": "https://hollywoodreporter.com/news/general-news/martha-stewart-responds-backlash-halloween-costume-homeless-1236745531",
+     "title": "Martha Stewart Responds to Backlash Over Halloween Costume Depicting Homeless Person: “Never My Intention”",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Martha-Stewart-getty-H-2026.png?w=1296&h=730&crop=1"
+     },
+     "id": "9ca06a33ed9e0c15",
+     "published": "2026-11-01T23:11+00:00",
+     "text": "Martha Stewart is addressing the backlash over a since-deleted photo of her Halloween costume, where she appears to be depicting a homeless person.\nIn the photo posted on Instagram before being quickly deleted, TMZ reported that the lifestyle guru and media mogul was seen in ripped clothing with dirt on her face. She was also holding a clipboard with a message that read “I AM HUNGRY HELP ME!!”\nIn a statement to People, Stewart said she’s “distressed” that her Halloween costume offended people, as she intended to raise awareness about homelessness.\nRelated Stories\n“I’ve spent decades teaching others how to celebrate Halloween — sharing fun, festive recipes, providing unique craft ideas and giving tips on entertaining and hosting to make the most of one of my favorite holidays of the year,” she said. “I am distressed that my Halloween costume yesterday, which was intended to bring more awareness to the very serious subject of homelessness, has offended people, which was never my intention.\n“Homelessness continues to remain one of America’s greatest challenges and ongoing crises, something that I care deeply about and I have spent a significant amount of time and effort supporting charities that combat this ongoing social epidemic,” Stewart continued. “I am committed to continuing to make a difference.”\nThe Hollywood Reporter has also reached out to Stewart’s rep for comment.\nTMZ reported that the photo was included in an Instagram carousel promoting candles she sells on QVC. “My QVC candles are perfect for Halloween!!!!!” the post’s caption read.\nAfter screenshots of the photo started circulating on social media, people didn’t hold back on their criticism. “Martha Stewart absolutely tone deaf and totally out of touch. Absolutely shameful,” one person wrote on X. Another person said, “Mocking homelessness is not okay or funny.”"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/bulletin/news/martha-stewart-homeless-costume-backlash-b3077305.html",
+     "title": "Martha Stewart doubles down after backlash over Halloween costume mocking the unhoused",
+     "lang": "en",
+     "extra": {},
+     "id": "2765dfcb758d7dbc",
+     "published": "2026-11-02T07:35+00:00",
+     "text": ""
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXRmN25nblJsVHZEdmhqYzVRODBvNHh3OEU5YnAzTkN1VlVUOXdDOW5pQnc3bVoydU1EaXlSSmFKb0dsWUtLb1dNM1poLVUtU2lxMlVmVWNoaVpjVmRGdWhfVlRHUVdvQUxLOHFlT29LWFAwUk93bDlzSmViTHRqUmg2ZzJ2TDBZYy13aXBpOEdVVF9pbC1CT1JWTVduS0hhYUtyQnB1emZtd2tlY3pKYUlaUExsZXRSYWlWN3c4M0o?oc=5",
+     "title": "Martha Stewart deletes ‘offensive’ Halloween costume photo after being accused of mocking homeless people",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "cfa590b490ca3c16",
+     "published": "2026-11-01T15:03+00:00",
+     "text": "- Martha Stewart deletes ‘offensive’ Halloween costume photo after being accused of mocking homeless people Page Six\n- Martha Stewart Posts & Deletes Photo of Herself Dressed as ‘Hungry’ Person Yahoo\n- Martha Stewart Posts and Deletes 'Hungry' Poor Person Halloween Costume Photo TMZ\n- Martha Stewart faces backlash as Halloween 2026 promotional stunt backfires The News International\n- Martha Stewart Deletes Shocking Halloween Costume Photo, Faces Backlash Over Depiction of Poverty: See It Here Just Jared"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2VFZDhXdnNtRF9kYTF6aDVmUEpWb3JHLU55MWVHWW9BN1RfOFo5WVFCc0NacUEzRFEzdjE0NE1UZVJwNUtEMi15WlcyQXJkTTBaMFkwREhxNHo1VHdyUU04VXNZYWNOdElfclB2OXJQb1pRUTlkY2NHQlgycEJWNXVpQU9qa0J3SDhEWk9PSXFzdjZiWHVxMkpTWVk0MlVUZlVOODJjSV9tTlJy?oc=5",
+     "title": "Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "95aa3ce16d5509bc",
+     "published": "2026-11-01T18:31+00:00",
+     "text": "- Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume Yahoo\n- Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume NBC News\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart Slammed for Tone-Deaf Costume The Daily Beast\n- Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing Page Six"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejVxTEFZcW1vZVRXTk9odnNkZUJsTERZWTFhcUVVUTZwd2xPbVpnZVI0eC1aYWpzMGVpS0k5dVJkVWVHWFJvbHItRmtXTjN6NkhhZ0g1d1VtSHdqTjZTeUZoS3VmSnlxaGNkcDA5QV9BWU8wYzVFYml3RWxiQlVxWGhhaDRxTm5wR2FMcW1aZUplTHdvTkpmQ2hFU19lYXR3VDBiTXBTdU54QUJzcnhlcV9CRTZtejdoMDM4VTJhUDQ?oc=5",
+     "title": "Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "9bfa23b676f7ec8e",
+     "published": "2026-11-01T18:31+00:00",
+     "text": "- Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume Rolling Stone\n- Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing Page Six\n- Martha Stewart’s Reason For Dressing Like A ‘Hungry’ Homeless Person For Halloween Backfires: ‘Tone Deaf’ Yahoo\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart Slammed for Tone-Deaf Costume The Daily Beast"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcFN2dWNBeUJhLVJfUFdTc01PZWNNbXlNSDBTSndxYXJCckFpekx4T2xWbVphWWpkQ1BQQWRwMGJ1MU9iX09rS0JFTHVFclpWQmVuNkJZTWl3ZklLVTZYVUVCeWU5WEFGQXFNZGN2ZlZVSkxNdXZDUzRLbl9oMXlNelFYWUpXanktcWRkX0U0RFQyT2VEWFhHMmVNa3I5akE?oc=5",
+     "title": "Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "642a2cdf8379f111",
+     "published": "2026-11-01T19:00+00:00",
+     "text": "- Martha Stewart responds to backlash over ‘hungry’ homeless Halloween costume NBC News\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart Says Homeless Costume Was Meant to “Bring More Awareness,” Critics Aren’t Buying It Yahoo\n- Martha Stewart Posts and Deletes 'Hungry' Poor Person Halloween Costume Photo TMZ\n- Martha Stewart Slammed for Tone-Deaf Costume The Daily Beast"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWlJ4REZVVS1ieFU3c1daU2xjNGE5R3UtdzItWmpWS05keTFLYlRHVTNKTVZmenBBbjFCMWpvRWlQMEVXYzdDU2k2bEh0M1RhTTJUc0xkMWpubjlyNjZpWkZtbXlGZ1FuMjhfTWFUYjVmZkwyVFBUOEJ5NWljOGNnWlZXWkhKeVNmR1dtM3hHZi1QNkJIR2xvYm5XTUNkVHlyeGlfaHpmR3ZFMjZMSUd6azdEcGhVOUN0VGRYcHgtQjI?oc=5",
+     "title": "Martha Stewart Responds to Backlash Over Halloween Costume Depicting Homeless Person: “Never My Intention”",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "f2da61b7edd4ed65",
+     "published": "2026-11-01T23:11+00:00",
+     "text": "- Martha Stewart Responds to Backlash Over Halloween Costume Depicting Homeless Person: “Never My Intention” The Hollywood Reporter\n- Exclusive | Martha Stewart addresses backlash over homeless Halloween costume — but stops short of apologizing Page Six\n- Martha Stewart Responds to Halloween Costume Backlash, Wasn’t Mocking Homelessness People.com\n- Martha Stewart ‘Distressed’ by Backlash to Her Homeless Halloween Costume Yahoo\n- Martha Stewart Posts and Deletes 'Hungry' Poor Person Halloween Costume Photo TMZ"
+    }
+   ]
+  },
+  {
    "id": "c1078f846b2",
    "kind": "news",
    "score": 15.0,
@@ -6620,6 +6762,76 @@
    ]
   },
   {
+   "id": "c999cfa10cb",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Oracle taps investors for $20 billion to finance AI expansion",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OVGUyeXVqQlVYMEx3TEhEVHY5ekZLX3paamdqNUF1ek80VE9RZVhuSFl2d3dsVkF6T2JyVFdJdF8xR1FuWU5EdU9OWG03SmRoLUloaEFCc3pGLXFxN0FyOUNnVkM3T3prb1NMYXBOanNGT2RMYjNxcTZsdUEwbGs?oc=5",
+     "title": "Oracle taps investors for $20 billion to finance AI expansion",
+     "lang": "en",
+     "extra": {},
+     "id": "0543bfd8b9897165",
+     "published": "2026-11-02T14:46+00:00",
+     "text": "Oracle taps investors for $20 billion to finance AI expansion\nReuters"
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/stock-market-news/oracle-to-offer-10-billion-in-bonds-4991687",
+     "title": "Oracle taps investors for $20 billion to finance AI expansion",
+     "lang": "en",
+     "extra": {},
+     "id": "45d530f9f8639b1d",
+     "published": "2026-11-02T15:00+00:00",
+     "text": ""
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/world/oracle-plans-20-billion-in-stock-bond-sales-to-fund-ai-expansion/4109007",
+     "title": "Oracle plans $20 billion in stock, bond sales to fund AI expansion",
+     "lang": "en",
+     "extra": {},
+     "id": "1967add5020dbac1",
+     "published": "2026-11-02T16:13+00:00",
+     "text": "Software giant seeks $10 billion each in equity, debt financing as it expands data centers to serve OpenAI, Meta, Nvidia"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd3QtV0VLODFaSmgzODZpOG05M1RUMEpZZTY2Y2lfc2RKUW96SmlCZ3l6NUVab3dJYzV3Q281WWV5WmJyYWNJRDA1OERtaTEzejI2cW9hN3dkX0lXRXZDQnZ4T3BSalNuNXlUOEZIRVdPc0lHcnllOWxMTFRNOG0tczFzT1hhaTlYMTViQXIzSUVHZDNhRTBhcUZpVHVhZUNIZWUzMlVpcEtTLWR3WnpR0gG0AUFVX3lxTE1TaVFyZXRhRUJfR3NJbVgxdFJZMkdkSWJqQXpSd0UwTmRVQTZPeHNmelVwanJvZ2hkRmp2Mjh0S0w0Q2hiZVBkZXc3OHp2aWFRUzcza3dGekduZ09IWDRPY2lwMVZzR1R6ZW9mS2h4V2N6c2JfZmlMcDl3MXVwRFdEand2LUdLQ1AzeGpxUzBMc2t0Vld5c25saXM3MXQteVFQMWt2X25mS0lvb2RBU3RoUTVYTA?oc=5",
+     "title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "999cfa10cb11534d",
+     "published": "2026-11-02T14:03+00:00",
+     "text": "- Oracle files to sell $20 billion in new stock, bonds to finance AI buildout CNBC\n- Oracle taps investors for $20 billion to finance AI expansion Reuters\n- Oracle Looks to Raise $20 Billion to Fund AI Ambitions WSJ\n- Oracle Is Offering $10 Billion of High-Grade Dollar Bonds Bloomberg.com\n- Oracle shares fall after $10 billion stock offering Yahoo Finance"
+    },
+    {
+     "source": "Hacker News Front",
+     "trust": 1,
+     "url": "https://cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+     "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+     "lang": "en",
+     "extra": {
+      "comments": "https://news.ycombinator.com/item?id=50342284"
+     },
+     "id": "755eea7f3c8e5174",
+     "published": "2026-11-02T19:27+00:00",
+     "text": "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html\nComments URL: https://news.ycombinator.com/item?id=50342284\nPoints: 11\n# Comments: 0"
+    }
+   ]
+  },
+  {
    "id": "c884d90a5ba",
    "kind": "news",
    "score": 15.0,
@@ -6745,17 +6957,78 @@
      "text": "Claude maker’s infrastructure costs rise faster than revenues, as investors scrutinise economics of AI boom"
     },
     {
-     "source": "The Next Web",
+     "source": "Phys.org Tech",
      "trust": 2,
-     "url": "https://thenextweb.com/news/anthropic-ipo-filing-17bn-revenue-commitments",
-     "title": "Anthropic’s amended IPO filing shows $17bn revenue, $895bn commitments",
+     "url": "https://techxplore.com/news/2026-11-anthropic-revenue-surged-ipo.html",
+     "title": "Anthropic says revenue surged 1,100% ahead of IPO",
+     "lang": "en",
+     "extra": {},
+     "id": "00db6bda205c27e7",
+     "published": "2026-11-02T19:40+00:00",
+     "text": "Anthropic, one of the world's leading artificial intelligence companies, on Monday reported a more than 1,100% surge in quarterly revenue and nearly $900 billion in spending commitments as it counts down to its Wall Street listing later this month."
+    }
+   ]
+  },
+  {
+   "id": "c2f9c0875a0",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Gavin Newsom Proposes Expanding California’s Movie and TV Tax Credit to at Least $1 Billion",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/film/news/gavin-newsom-california-movie-tv-tax-credit-billion-dollars-1236937395",
+     "title": "Gavin Newsom Proposes Expanding California’s Movie and TV Tax Credit to at Least $1 Billion",
      "lang": "en",
      "extra": {
-      "page_image": "https://media.thenextweb.com/2026/10/anthropic-logo-smartphone-laptop-purple.jpg"
+      "page_image": "https://variety.com/wp-content/uploads/2026/11/Gavin-Newsom.jpg?w=1000&h=563&crop=1"
      },
-     "id": "d2e59d569b68e441",
-     "published": "2026-11-02T16:58+00:00",
-     "text": "Anthropic generated nearly $17bn in revenue in the third quarter, around 12 times more than in the same period last year, according to an amended IPO prospectus filed with the SEC on Monday. Bloomberg reported the figures.\nThe updated filing adds the latest quarterly results to the prospectus the AI company published last week. We have previously reported that Anthropic told investors its revenue had reached $16.8bn in the quarter.\nThe new document makes that figure official, and the revenue for the first nine months of 2026 totalled $33.2bn, while the company reported a net loss of $104bn over the same period.\nThe filing also reveals the scale of Anthropic’s future spending commitments, as the company has committed $895.4bn to purchases, almost all related to computing power and infrastructure.\nAround $448bn is due by the end of 2030, including roughly $70bn over the next 12 months, according to Bloomberg.\nAnthropic recorded a net loss of $23.3bn in the third quarter, compared with $12.1bn a year earlier. However, much of that figure comes from an accounting charge rather than money leaving the business.\nThe expense is tied to convertible notes, most of which are held by Amazon. Anthropic revalues the notes every quarter, meaning their value rises as the company’s valuation increases.\nThat change is recorded as a loss on its accounts. The notes will convert into shares when Anthropic goes public, largely removing this accounting effect.\nIts underlying operations tell a different story. Operating expenses of around $17.5bn came close to matching quarterly revenue, leaving an operating loss of approximately $567m, according to reports on the filing.\nAnthropic had recorded an operating profit of about $974m in the second quarter, while its operations generated $3.9bn in cash during the first half of the year.\nThe company behind the Claude models plans to list on the Nasdaq under the ticker ANT before the end of November.\nInvestors have discussed a valuation of between $1.4tn and $1.5tn, Bloomberg reported. The offering could rank among the largest IPOs on record.\nBut the nearly $900bn in purchase commitments also puts the company’s growth into perspective. Anthropic is locking itself into years of spending on the computing infrastructure needed to train and run its models.\nThose commitments amount to almost 13 times its annualised revenue, raising questions about how quickly its income can catch up with the cost of expansion.\nAnthropic filed confidentially for an IPO in June. Its rival OpenAI has also submitted a confidential filing, although it is reportedly targeting a public listing in 2027.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
+     "id": "2f9c0875a0f33774",
+     "published": "2026-11-02T16:00+00:00",
+     "text": "California Gov. Gavin Newsom, on the eve of the 2026 midterm elections, is calling for another major expansion of the state’s Film and TV Tax Credit Program.\nNewsom is proposing an increase to California’s entertainment production incentive program from $750 million in annual tax credits to at least $1 billion, expanding what the governor’s office touts as already the largest capped film and TV tax credit in the U.S.\nThe proposed expansion, announced Monday (Nov. 2), would include credits for above-the-line talent, to cover spending on actors’ salaries; $100 million earmarked for independent productions; rewards for companies that commit to more than one production in California; and an extension of the tax credit through 2040.\nIn addition, Newsom reiterated his call for Congress to pass the federal Motion Picture, Television, and Entertainment Revitalization Act (MPTERA) by the end of 2026. The legislation — which has bipartisan support — would establish a 20% base tax credit for qualifying film, television and VFX projects that are produced in the U.S.\nNewsom’s proposal comes after California increased its film and TV tax credit from $330 million to $750 million last year — but production levels in the state have continued to fall. The hope is that the juiced-up $1 billion-plus incentives package will work to attract more productions (and therefore jobs) in the Golden State.\n“California created the modern entertainment industry; we’re the capital of entertainment and we’re going to keep it here. At least $1 billion in tax credits means more investment flowing into our economy and more opportunity across the industry,” Newsom said in announcing the program. He added, “But states can’t shoulder the cost alone, which is why I am calling on Congress to back up an expanded tax credit by passing national film and TV tax credit legislation already on the table.”\nDespite the overall decline of California productions in the past year, Newsom’s office said the $750 million tax credit has resulted in $8.24 billion in direct production spending to date, including $5.3 billion in qualified expenditures and $3.2 billion in qualified wages for more than 43,000 cast and crew jobs.\nThe governor’s proposed expanded program would:\n- Increase in annual tax credit funding to over $1 billion\n- Expand tax credit eligibility to above-the-line spending to “subject to appropriate funding caps”\n- Extend the tax credit sunset from five to 10 years to “provide more predictability and support long-term production investment”\n- Introduce an incentive for companies that commit to at least two distinct qualifying productions in California by providing a 5% boost in tax credits\n- Increase independent film funding to $100 million annually, up $26 million from the current program"
+    },
+    {
+     "source": "IndieWire",
+     "trust": 2,
+     "url": "https://indiewire.com/news/breaking-news/production-jobs-flee-california-governor-newsom-film-tax-credit-plan-1235225005",
+     "title": "As Production Jobs Flee California, Governor Gavin Newsom Pushes to Expand Film and TV Tax Credit to $1 Billion Annually",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.indiewire.com/wp-content/uploads/2026/07/SSDHOLL_EC002.jpg?w=650"
+     },
+     "id": "fddb0fb445e962b8",
+     "published": "2026-11-02T16:00+00:00",
+     "text": "By providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply.\nGovernor Gavin Newsom is proposing expanding California’s current film and television tax credit program from $750 million to at least $1 billion annually as the state is struggling to attract entertainment industry jobs. The move comes as a report last month by FilmLA found that production levels fell 3.7 percent in the third quarter even as California has continued to enhance its tax credits. Many of the major studios and streamers are headquartered in Los Angeles, which makes the contraction in production jobs more painful.\nLast year, Gov. Newsom pushed to increase California’s film and TV incentive from $330 million to $750 million annually, and the state’s film commission saw an initial rise in applications before the number of productions began falling again. California is not only grappling with increased competition from states like New Jersey, New York, and Georgia that offer richer incentives, but they are also facing off against foreign production hubs such as the United Kingdom and Hungary.\nIn a press release, Gov. Newsom said the proposed expansion would include credits for above-the-line talent, as well as rewards for companies that commit to fielding more than one production in California. If enacted, the tax credit will be extended through 2040, which would give companies more certainty about the incentives they can access. The previous incentives were scheduled to last through 2030. It would also increase independent film funding to $100 million annually, up $26 million from the current program.\n“California created the modern entertainment industry; we’re the capital of entertainment and we’re going to keep it here,” Newsom said in a statement. “At least $1 billion in tax credits means more investment flowing into our economy and more opportunity across the industry. Through this expansion, we will maintain the momentum and success of our historic expansion last year.”\nThe governor also urged national lawmakers to pass a federal film and television incentive, which could augment states’ efforts to bolster local production.\n“States can’t shoulder the cost alone, which is why I am calling on Congress to back up an expanded tax credit by passing national film and TV tax credit legislation already on the table,” Newsom said.\nBy providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply."
+    },
+    {
+     "source": "Hollywood Reporter",
+     "trust": 2,
+     "url": "https://hollywoodreporter.com/business/business-news/gavin-newsom-major-california-tax-credit-expansion-1236745913",
+     "title": "$1 Billion or Bust? Gavin Newsom Proposes Major California Film and TV Tax Credit Expansion",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/GettyImages-2181412325-H-2026.jpg?w=1296&h=730&crop=1"
+     },
+     "id": "f5bc58f0742cc1b9",
+     "published": "2026-11-02T16:20+00:00",
+     "text": "California Gov. Gavin Newsom is aiming for major expansion to the state’s film and TV tax credit program, proposing to dramatically increase the annual credit from $750 million to $1 billion. That incentive has proved crucial to keep Hollywood projects — The Pitt ($24.2 million in credits), a Snoop Dogg biopic ($17 million), Ice Cube sequel Last Friday ($11.4 million in credits), Ang Lee’s Gold Rush era drama ($7 million), among many others — filming in state.\nThe politician, who’s also eying the Democratic nomination for the 2028 presidential cycle, also backed a bipartisan effort in Congress championed by Donald Trump to create a national film and TV tax incentive, which would stack along with each state’s individual credits. The announcement on Monday threw fuel on the fire to push Sacramento politicians to do more to help out the Golden State’s most iconic industry. And that effort to push the next round of bulked up incentives will fall to the next governor of California, likely Democrat Xavier Becerra if he defeats Republican Steve Hilton on Election Day this Tuesday.\n“California created the modern entertainment industry; we’re the capital of entertainment and we’re going to keep it here,” Newsom stated on Monday. “At least $1 billion in tax credits means more investment flowing into our economy and more opportunity across the industry. Through this expansion, we will maintain the momentum and success of our historic expansion last year. But states can’t shoulder the cost alone, which is why I am calling on Congress to back up an expanded tax credit by passing national film and TV tax credit legislation already on the table.”\nNewsom and state officials are facing a dilemma. While California remains the top destination for Hollywood film and TV production spending, its reign is being threatened by other major hubs. That includes East coast markets like New York and New Jersey or numerous overseas locales including the United Kingdom, which has bulked up soundstage infrastructure. Meanwhile, film and TV shoot days in Hollywood’s historic home, Los Angeles, are in a downward spiral despite efforts being made to cut red tape and boost incentives offered to productions to shoot locally.\nThe California Film Commission, led by outgoing director Colleen Bell, oversees the film and TV credit program, distributing the $750 million annually to major studio projects as well as numerous indie productions, including many with California-flavored plotlines that prominently showcase locations. In a round of credits unveiled on Oct. 7, Pixar, Lionsgate and Paramount alone were granted about $100 million in California tax credits for projects including an untitled Pixar animated feature ($40.1 million), Lionsgate’s sequel to Michael ($30.8 million) and an untitled crime thriller from Paramount Pictures ($29.3 million).\n“I’m grateful for Governor Newsom’s leadership and his call to expand California’s Film and TV Tax Credit to over $1 billion,” said commission director Bell. “The California Film and TV Tax Credit has become one of our most important tools to increase production in California, support crews and strengthen the creative economy that makes this state the entertainment capital of the world.”\nThere’s no guarantee, however, that throwing more money at the problem will work. California has already upped its annual film and TV tax credit from $330 million to $750 million in a major legislative push in 2025 that saw Newsom describe the move a"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWlwVExwNmwwWDJIVkZEU29UUWIwV0NVRWs0eUVabm5zTF9lRlh0RzZsQmdqQUgtSEcwRVJ3R1A4NDlCd2tFemVFTVgwcl9PN01Wd01sY1FLQ3BfQVcwcXNmUkdtcXVZNHladFdIWDVXVmhSZzcxaW5oLUIyZGhKVmZUckhCN2tzR0ZJamk4NA?oc=5",
+     "title": "Newsom proposes $1 billion California film and TV tax credit",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "f283953855f2cc86",
+     "published": "2026-11-02T16:04+00:00",
+     "text": "- Newsom proposes $1 billion California film and TV tax credit Politico\n- Newsom’s November Surprise: Boost CA Film & TV Tax Incentives To $1B ASAP, Says Exiting Governor Deadline\n- Gavin Newsom Proposes Expanding California’s Movie and TV Tax Credit to at Least $1 Billion Variety\n- $1 Billion or Bust? Gavin Newsom Proposes Major California Film and TV Tax Credit Expansion The Hollywood Reporter\n- Newsom Proposes Expanding California’s Film Credit to $1 Billion Bloomberg.com"
     }
    ]
   },
@@ -6787,10 +7060,12 @@
      "url": "https://digitaltrends.com/phones/elon-musk-spacex-could-launch-its-carrier-service-after-buying-boost-mobile",
      "title": "Musk’s SpaceX could finally launch its carrier service after buying Boost Mobile",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/SpaceX-Boost-Mobile-deal.jpg?resize=1200%2C630&ssl=1"
+     },
      "id": "e6b2897b55cafba5",
      "published": "2026-11-02T19:28+00:00",
-     "text": "SpaceX is reportedly eyeing Boost Mobile after being turned down by Verizon, T-Mobile, and AT&T, hoping to buy its way into the $235 billion wireless market."
+     "text": "Elon Musk wants SpaceX to become more than a rocket and satellite internet company. After Verizon, T-Mobile, and AT&T all turned down SpaceX’s request to use their networks, the trillionaire is reportedly exploring a deal with Boost Mobile that could help the company enter the $235 billion US wireless market.\nSpaceX has discussed either acquiring Boost or gaining access to its existing cellular network through parent company EchoStar. Neither option has been finalized, but it could give Musk a shortcut into an industry dominated by Verizon, AT&T, and T-Mobile.\nHow Boost Mobile could open the door for SpaceX\nElon Musk met with EchoStar chairman Charlie Ergen last month to discuss the proposition. Boost leases its network from AT&T and T-Mobile, so landing this deal could hand SpaceX entry into a wireless market worth an estimated $235 billion.\nThere’s a catch, though. Those lease agreements typically can’t transfer to a new owner without the original carriers’ sign-off, so AT&T and T-Mobile could still block the move. SpaceX recently spent $8 billion on wireless spectrum built for areas satellites can’t reach, which Musk called the final piece needed for full phone coverage.\nCan SpaceX actually pull this off?\nNot entirely, at least not yet. SpaceX’s satellite signal isn’t strong enough yet to handle indoor or urban coverage, where most calls happen, so a deal with Boost would let it lean on traditional cell towers while it keeps improving.\nCarrier executives have publicly questioned whether SpaceX can build that kind of infrastructure quickly. Verizon’s CEO estimated it would take four to six years, though Musk thinks it could happen in about half that time. One analyst pointed to SpaceX’s massive Supercharger network as proof Musk shouldn’t be underestimated.\nCombining satellite connectivity with existing cellular infrastructure could let SpaceX offer broader coverage. The technology could also support Musk’s longer-term ambition of establishing communication networks for a human settlement on Mars.\nFor now, SpaceX still needs a deal and the necessary carrier approvals. But Boost Mobile could be the missing piece in Musk’s plan to challenge America’s biggest wireless providers.\nRELATED COVERAGE:\n- SpaceX may be exploring a Starlink phone, though Elon Musk says otherwise\n- SpaceX is giving away the Starlink Mini to cheaper subscribers, but there’s a catch\n- Elon Musk refutes report claiming that an AI device is in development at SpaceX\n- Starlink Mini may finally cut the cord with a battery-powered dish\n- SpaceX quietly whispers the risk of its ambitious AI data centers in space\n- T-Mobile’s new plans let you pick your own perks instead of a fixed bundle"
     }
    ]
   },
@@ -6881,50 +7156,6 @@
      "id": "a117cb9bb01075e1",
      "published": "2026-11-02T00:25+00:00",
      "text": "- Winners and losers from F1's record-breaking Mexico Grand Prix Motorsport.com\n- Kimi Antonelli becomes F1 world champion as Max Verstappen wins Mexico City Grand Prix BBC\n- Kimi Antonelli: How F1's youngest ever world champion went from crisis point during his debut campaign to dominating the 2026 season Sky Sports\n- Kimi Antonelli, a hidden Ferrari logo and the making of F1’s youngest champion The New York Times\n- Kimi Antonelli makes F1 history as youngest world champion with maiden title ESPN"
-    }
-   ]
-  },
-  {
-   "id": "c3dc729f9a7",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Phantom Blade Zero has sold over 4 million copies in 72 hours across PS5 and PC",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/6070552/view/679639664218343956",
-     "title": "Phantom Blade Zero has sold over 4 million copies in 72 hours across PS5 and PC",
-     "lang": "en",
-     "extra": {},
-     "id": "390231970b0851bc",
-     "published": "2026-11-02T13:59+00:00",
-     "text": "S-Game announces a major sales milestone within a few days of launching."
-    },
-    {
-     "source": "Wccftech",
-     "trust": 2,
-     "url": "https://wccftech.com/phantom-blade-zero-four-million-units-72-hours",
-     "title": "S-GAME Confirms Phantom Blade Zero Topped 4 Million Sales in 72 Hours, as PS5 Players Rate It Even Higher Than Critics",
-     "lang": "en",
-     "extra": {},
-     "id": "682c26cbb1708b30",
-     "published": "2026-11-02T09:00+00:00",
-     "text": "Chinese developer S-GAME has proudly announced on X that its debut console game, Phantom Blade Zero, has already sold over 4 million units across PlayStation 5 and PC in just 72 hours. The infographic also highlights the game's strong user reception, as evidenced by Metacritic scores (88 on PC, 93 on PS5), Steam (89%), and the PlayStation Store (4.71/5). The game also enjoyed very favorable reception from critics, with Metacritic scores of 87 on PS5 and 88 on PC. Our own 10 out of 10 review score contributes to the latter, with Francesco De Meo calling it one of the […]\nRead full article at https://wccftech.com/phantom-blade-zero-four-million-units-72-hours/"
-    },
-    {
-     "source": "Reddit films, TV, games & football",
-     "trust": 1,
-     "url": "https://reddit.com/r/gaming/comments/1xlm7sr/phantom_blade_0_has_sold_over_4_million_copies",
-     "title": "Phantom Blade 0 has sold over 4 million copies across all platforms in 72 hours",
-     "lang": "en",
-     "extra": {},
-     "id": "3dc729f9a70b876f",
-     "published": "2026-11-02T03:04+00:00",
-     "text": "submitted by\n/u/Hot-Cause-481\nto\nr/gaming\n[link]\n[comments]"
     }
    ]
   },
@@ -7067,156 +7298,7 @@
    ]
   },
   {
-   "id": "c5d02a53533",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Nagoshi Studio shuts down, officially dissolved as of October 31",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/6070552/view/679639664218343929",
-     "title": "Nagoshi Studio shuts down, officially dissolved as of October 31",
-     "lang": "en",
-     "extra": {},
-     "id": "7d081481db544c32",
-     "published": "2026-11-02T11:59+00:00",
-     "text": "Gang of Dragon's Steam page remains live as of this writing."
-    },
-    {
-     "source": "Wccftech",
-     "trust": 2,
-     "url": "https://wccftech.com/nagoshi-studio-dissolved-october-31-ma-dong-seok-gang-of-dragon",
-     "title": "Nagoshi Studio Is Officially Dissolved as of October 31, Ending Ma Dong-seok’s Gang of Dragon Before It Ever Got Close to Shipping",
-     "lang": "en",
-     "extra": {},
-     "id": "5d02a5353302e3d4",
-     "published": "2026-11-02T11:00+00:00",
-     "text": "The proverbial writing has been on the wall for some time, but it's now official: Nagoshi Studio has been shut down for good. The game development studio based in Shinjuku, Tokyo, was dissolved by a shareholders' resolution on October 31, as reported in the Japanese government's Kanpo Gazette. The studio was established in November 2021, following the departure of its titular founder, Toshihiro Nagoshi, from SEGA earlier that year. However, the studio was unveiled only in January 2022, when we learned that the developer had been created with funding from NetEase. Nagoshi Studio's debut game, Gang of Dragon, was presented […]\nRead full article at https://wccftech.com/nagoshi-studio-dissolved-october-31-ma-dong-seok-gang-of-dragon/"
-    },
-    {
-     "source": "Engadget",
-     "trust": 2,
-     "url": "https://engadget.com/2303975/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down",
-     "title": "Nagoshi Studio, from the creator of the Yakuza series, officially shuts down",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.engadget.com/img/gallery/nagoshi-studio-from-the-creator-of-the-yakuza-series-officially-shuts-down/l-intro-1793635351.jpg"
-     },
-     "id": "7a254c13a3c378ec",
-     "published": "2026-11-02T16:03+00:00",
-     "text": "Nagoshi Studio, from the creator of the Yakuza series, officially shuts down\nIt’s unclear what will happen to the studio’s work on Gang of Dragon.\nLess than a year after the announcement of its first game Gang of Dragon, Nagoshi Studio has officially closed its doors. The studio, which was founded by Toshihiro Nagoshi of Yakuza franchise fame, announced its conclusion in the Japan government's official gazette Kanpo, stating the company was dissolved on October 31 during a shareholders meeting.\nAfter the success of the Yakuza series, Nagoshi went on to create Nagoshi Studio and began work on Gang of Dragon, releasing the game's first trailer in December 2025. The upcoming game looked to be an evolution of the franchise that still covered the organized crime scene in Tokyo's Kabuchiko district through the lens of the new protagonist, Shin Ji-Seong, but potentially with a more serious tone. Despite the hype from the trailer, one of the game's backers, NetEase, decided to pull funding from the studio, according to a Bloomberg report. The game reportedly still needed more than $44 million to reach the finish line, so Nagoshi Studio was looking for financial support elsewhere to complete the game.\nHowever, now that the company has official shut down, Nagoshi Studio will start liquidating its assets and sorting out liabilities, according to its notice published in Kanpo. The game's Steam store page is still live, but it's unlikely that Gang of Dragon will make it out of development limbo anytime soon."
-    }
-   ]
-  },
-  {
-   "id": "c561f6a5af9",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Google's Ocarina Of Time Easter Egg Will Transport You Back To The Internet Of Old",
-   "official_image": "https://images.nintendolife.com/0687675011817/large.jpg",
-   "sources": [
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/news/2026/11/googles-ocarina-of-time-easter-egg-will-transport-you-back-to-the-internet-of-old",
-     "title": "Google's Ocarina Of Time Easter Egg Will Transport You Back To The Internet Of Old",
-     "lang": "en",
-     "extra": {
-      "image": "https://images.nintendolife.com/0687675011817/large.jpg"
-     },
-     "id": "561f6a5af93e6f3c",
-     "published": "2026-11-02T12:30+00:00",
-     "text": "Links to the past.\nWe love it when Google pulls out a little gaming Easter Egg. We had the inkable search engine screen for Splatoon 3, the various Pokémon collaborations, and even a Katamari crossover. But now, Google has delivered the most nostalgic one of them all.\nIf you Google 'Ocarina of Time', you'll now be met with a small Master Sword icon in the bottom right corner. Clicking on said icon pushes the sword back into its pedestal and transports the search engine into the past with it.\nRead the full article on nintendolife.com"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/zelda-ocarina-of-time-google-easter-egg",
-     "title": "Google Has a Cool The Legend of Zelda: Ocarina of Time Easter Egg That Transports Us Back to the 1998 Era of Search Results",
-     "lang": "en",
-     "extra": {},
-     "id": "cf7b17affbab1ee5",
-     "published": "2026-11-02T12:35+00:00",
-     "text": "Google just got a The Legend of Zelda: Ocarina of Time Easter egg that transports you back to the 1998 version of the search engine — complete with blue links for results.\nThe remake of the Nintendo 64 classic comes out this Thursday, November 5, but you can find the secret on Google now if you type “zelda” into the search bar and press enter. This makes the Master Sword appear in the bottom-right corner of the screen.\nClick the Master Sword and it gets shoved into its pedestal, an audio effect plays, and the screen distorts to pull you through time. Now you’re back at the old, useful, minimalist Google that showed search results as a series of blue links for people to click on.\nWhat you’re seeing is Google from 1998, the year the original Ocarina of Time launched. It was the year of the Saving Private Ryan movie, the rise of teen pop icons like Britney Spears and breakthrough television shows like Sex and the City. The Boy Is Mine by Brandy and Monica would have been blasting from the stereos of passing cars, kids would have been playing with Furbys, and everyone was rocking a Nokia. Ah, nostalgia. Google’s 1998 version even has the “I’m feeling lucky” option, which would just take you to a random search result.\nAs Nintendo has pulled back the curtain on The Legend of Zelda: Ocarina of Time remake, we’ve begun to get a better understanding of how this Nintendo Switch 2 exclusive will look and feel to play. IGN has already got you covered with an extensive hands-on preview, as well as a roundup of all the changes we’ve noticed so far compared to the N64 masterpiece.\nWhile you wait, check out a special episode of Nintendo Voice Chat where we dive deeper into our Zelda preview. Meanwhile, Eiji Aonuma, producer of the Zelda series at Nintendo, recently admitted some of the younger members of his team had never played the original game, but insisted that was very much a good thing for the development of the remake."
-    },
-    {
-     "source": "Kotaku",
-     "trust": 2,
-     "url": "https://kotaku.com/googles-the-legend-of-zelda-ocarina-of-time-easter-egg-makes-the-search-engine-what-it-always-shouldve-been-2000752340",
-     "title": "Google’s The Legend of Zelda: Ocarina Of Time Easter Egg Makes The Search Engine What It Always Should’ve Been",
-     "lang": "en",
-     "extra": {},
-     "id": "109e2d7457c9b371",
-     "published": "2026-11-02T15:00+00:00",
-     "text": "Remember when 'Don't Be Evil' was a thing?"
-    },
-    {
-     "source": "Engadget",
-     "trust": 2,
-     "url": "https://engadget.com/2303943/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible",
-     "title": "Google's Ocarina of Time Easter egg is a link to a past when Search wasn't horrible",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.engadget.com/img/gallery/googles-ocarina-of-time-easter-egg-is-a-link-to-a-past-when-search-wasnt-horrible/l-intro-1793634639.jpg"
-     },
-     "id": "e29e6c120cc7ffab",
-     "published": "2026-11-02T15:51+00:00",
-     "text": "Google's Ocarina of Time Easter egg is a link to a past when Search wasn't horrible\nTurn the clock back to 1998 ahead of Nintendo's remake of the classic Zelda game.\nNintendo's remake of The Legend of Zelda: Ocarina of Time is out this week and Google Search is marking the occasion with an appropriate Easter egg. If you search for \"Zelda\" or \"Ocarina of Time,\" you'll see an animation of the Master Sword pop up in the corner. Click or tap on this and a loading screen of sorts that features a Triforce will take over the tab for a moment.\nAfter that animation clears, the search results will look like they're from 1998, the year that the original version of Ocarina of Time debuted on the Nintendo 64. You'll see blue hyperlinks to relevant webpages and brief excerpts from them, listed in order of apparent relevance, which is how a search engine is supposed to work. The classic \"I'm Feeling Lucky\" button that takes you to a random page is there too.\nUnfortunately, this Easter egg only seems to work for searches related to the game. Looking up something else takes you back to the current, far worse Search results page. This is an Easter egg that's supposed to invoke nostalgia, though it's doing that in a way that Google perhaps didn't intend.\nAll it's really doing is reminding me of a time before Google made Search so much worse, from packing the results with ads to eventually foisting AI Mode and AI Overviews upon everyone. (Google said last week AI Mode is having an impact on how much it makes from ads in traditional Search. Its solution to eating its own lunch? More ads in AI Mode.)\nThere is a way to have more of a traditional Search experience on Google if you'd prefer not to decamp to an alternative search engine. If you click on the Web tab on a Google Search results page, you'll see actual webpages that are relevant to your query with none of the AI Overview cruft. You can set things up in your browser so that this is your default Google experience as well. The aptly named TenBlueLinks has easy-to-follow guides on how to do that."
-    }
-   ]
-  },
-  {
-   "id": "c7647b00ca2",
-   "kind": "news",
-   "score": 14.5,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "World of Warcraft Forever Preload and Global Release Times Confirmed",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724567",
-     "title": "World of Warcraft Forever Preload and Global Release Times Confirmed",
-     "lang": "en",
-     "extra": {},
-     "id": "38747b9c6491434e",
-     "published": "2026-11-02T16:52+00:00",
-     "text": "World of Warcraft Forever is just a few days away, and Blizzard has confirmed the global release times and preload details.\nWoW Forever launches on November 4, and has a global release scheduled, which means everyone will be able to start playing at the same time, no matter where they are. This is super important in an MMO like WoW, because it means that one region isn't able to get significantly further ahead than any other.\nWorld of Warcraft Forever Global Release Times\nBecause World of Warcraft Forever has a global release, all you really have to do is look at its official release time of 3pm PST and convert that to your own timezone. However, because of the nature of a global release, depending on where you are in the world, the game will either be launching on November 4 or on November 5.\n- Los Angeles: 3pm PST\n- Mexico City: 5pm CST\n- New York: 6pm PST\n- Brazil: 8pm BRT\n- London: 11pm GMT\n- Beijing: 7am CST (November 5)\n- Seoul: 8am KST (November 5)\n- Tokyo: 8am JST (November 5)\n- Melbourne: 10:00am AEST (November 5)\nWorld of Warcraft Forever Preload Details\nWorld of Warcraft Forever is available to preload now. Simply open or download the Battle.net launcher, then WoW Forever should show up in the 'Favorites' bar by default. If it doesn't, go to 'Games' and then search for 'World of Warcraft.' Then, click the WoW icon, go to 'game version' and ensure 'WoW Forever' is selected, and then hit the big blue 'Install' button.\nOnce it's downloaded you'll be good to log in when the servers go live on November 4 at 3pm PST.\nHow Much Space Will You Need For World of Warcraft Forever?\nAccording to Blizzard's system requirements, World of Warcraft Forever will need at least 128GB of available space, but I'd actually reserve a bit extra. Just like any version of WoW, there are going to be hundreds of mods available from day one, and unless you're looking to play the game entirely with the default UI, you're going to want to make sure you have some space for add-ons. I'd recommend having at least 150GB reserved for Forever, just in case. Note, as well, that Blizzard specifically calls out an SSD, rather than a harddrive.\nWorld of Warcraft Forever minimum PC requirements:\n- CPU: '4 cores, 3GHz processor (Intel Haswell or Ryzen Zen)' – think Intel Core i5 4460 / AMD Ryzen 5 1600X\n- RAM: 8GB\n- GPU: 'DirectX 12 Capable 4GB GPU, GTX 10-series or RDNA 1' – Think Nvidia GeForce GTX 1060 / AMD Radeon RX 5600\n- Storage: 128GB SSD\nWorld of Warcraft Forever recommended PC requirements:\n- CPU: '8 performance cores, 5.2GHz boost clock; Intel Core Ultra (series 2) or AMD Ryzen Zen 5' – think Intel Core Ultra 5 265K / AMD Ryzen 5 9600X\n- RAM: 16GB\n- GPU: 'DirectX 12 capable 8GB GPU; Nvidia RTX 40 series/AMD RDNA 3/Intel Arc B-Series' – think Nvidia GeForce RTX 4060 / AMD Radeon RX 7600 / Intel Arc B570\n- Storage: 128GB SSD\nWhile you wait to play, be sure to check out our big interview with Blizzard on its plans for World of Warcraft: Forever post-launch, which include update frequency and new locations."
-    },
-    {
-     "source": "Windows Central",
-     "trust": 2,
-     "url": "https://windowscentral.com/gaming/xbox/world-of-warcraft-forever-listed-among-xbox-releases",
-     "title": "Did Microsoft accidentally spoil World of Warcraft: Forever's Xbox port?",
-     "lang": "en",
-     "extra": {},
-     "id": "7647b00ca2fc3134",
-     "published": "2026-11-02T14:03+00:00",
-     "text": "Xbox UK has uploaded an image to its X account of a few Xbox games releasing this November, which strangely includes the upcoming PC-exclusive MMORPG World of Warcraft: Forever. Xbox UK quickly corrected this, but it's emboldened rumors of an alleged Xbox port of World of Warcraft being in the works."
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/world-of-warcraft-forever-preload-and-global-release-times-confirmed",
-     "title": "World of Warcraft Forever Preload and Global Release Times Confirmed",
-     "lang": "en",
-     "extra": {},
-     "id": "d45d64ec7f587bda",
-     "published": "2026-11-02T16:36+00:00",
-     "text": "World of Warcraft Forever is just a few days away, and Blizzard has confirmed the global release times and preload details.\nWoW Forever launches on November 4, and has a global release scheduled, which means everyone will be able to start playing at the same time, no matter where they are. This is super important in an MMO like WoW, because it means that one region isn't able to get significantly further ahead than any other.\nBecause World of Warcraft Forever has a global release, all you really have to do is look at its official release time of 3pm PST and convert that to your own timezone. However, because of the nature of a global release, depending on where you are in the world, the game will either be launching on November 4 or on November 5.\nWorld of Warcraft Forever is available to preload now. Simply open or download the Battle.net launcher, then WoW Forever should show up in the 'Favorites' bar by default. If it doesn't, go to 'Games' and then search for 'World of Warcraft.' Then, click the WoW icon, go to 'game version' and ensure 'WoW Forever' is selected, and then hit the big blue 'Install' button.\nOnce it's downloaded you'll be good to log in when the servers go live on November 4 at 3pm PST.\nAccording to Blizzard's system requirements, World of Warcraft Forever will need at least 128GB of available space, but I'd actually reserve a bit extra. Just like any version of WoW, there are going to be hundreds of mods available from day one, and unless you're looking to play the game entirely with the default UI, you're going to want to make sure you have some space for add-ons. I'd recommend having at least 150GB reserved for Forever, just in case. Note, as well, that Blizzard specifically calls out an SSD, rather than a harddrive.\nWhile you wait to play, be sure to check out our big interview with Blizzard on its plans for World of Warcraft: Forever post-launch, which include update frequency and new locations."
-    }
-   ]
-  },
-  {
-   "id": "c1cd5c0bb5d",
+   "id": "caeb7e2cd57",
    "kind": "free",
    "score": 8.5,
    "sensitive": false,
@@ -7224,28 +7306,6 @@
    "title_hint": "- Epic Games",
    "official_image": null,
    "sources": [
-    {
-     "source": "Epic Newsroom",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52V0VCTnozQTFGM1RPLS0yYUw1TDdGU0lQaXJfUEZ5QjNzaVZXYkhFdEwtWDNKanpyT1JKWDJtTEFveVpwbWQ0cWxERWU5c0RtNm5saVpkcUNRa0Z1RFduYzhsNTdXdkN3MjNUOWJEa3JkM21VSGRn?oc=5",
-     "title": "- Epic Games",
-     "lang": "en",
-     "extra": {},
-     "id": "1cd5c0bb5d779b40",
-     "published": "2026-11-01T07:32+00:00",
-     "text": "Epic Games"
-    },
-    {
-     "source": "Epic Newsroom",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0temRlSk03ZnNyRElXRHNOUEF0SGpsTFlrZU5pSXNzazY4d3FwdS14Rmt1cHJjM0RxRkRTeDM5QjJibF9CcGsxQUE3YVpLM3FOMlRpaHFVQVdpUGR6YnNIT0JwTHRaU29ueGx1T1ZBWEl5dHpVUFdqNGxkU08?oc=5",
-     "title": "- Epic Games",
-     "lang": "en",
-     "extra": {},
-     "id": "c5b8002eedf0c2e0",
-     "published": "2026-11-01T07:57+00:00",
-     "text": "Epic Games"
-    },
     {
      "source": "Epic Newsroom",
      "trust": 3,
@@ -7413,8 +7473,8 @@
       "market": "crypto",
       "day": "2026-11-02"
      },
-     "published": "2026-11-02T19:28+00:00",
-     "text": "Bitcoin: $76,838 (-1.1% 24h)\nEthereum: $2,245 (-0.6% 24h)\nSolana: $91.38 (-2.7% 24h)\nToncoin: $1.18 (-2.9% 24h)"
+     "published": "2026-11-02T19:58+00:00",
+     "text": "Bitcoin: $76,818 (-1.1% 24h)\nEthereum: $2,244 (-0.5% 24h)\nSolana: $91.16 (-2.9% 24h)\nToncoin: $1.18 (-3.4% 24h)"
     }
    ]
   },
