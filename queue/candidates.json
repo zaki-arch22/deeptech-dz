@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T15:25:07+00:00",
+ "generated_at": "2026-11-02T15:55:43+00:00",
  "clusters": [
   {
    "id": "cfd70ae0972",
@@ -668,6 +668,111 @@
    ]
   },
   {
+   "id": "c78b9415399",
+   "kind": "news",
+   "score": 23.0,
+   "sensitive": false,
+   "distinct_sites": 8,
+   "title_hint": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://arabnews.com/world/russia-says-drone-hit-industrial-enterprise-near-moscow-kyiv-claims-hit-major-refinery-3009214",
+     "title": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793513777615-4a617f9a6a315336.jpg"
+     },
+     "id": "78b94153992533fd",
+     "published": "2026-11-01T06:17+00:00",
+     "text": "- Drone strikes reported near Moscow and on a major refinery\n- Over 100 drones reportedly involved overnight\nMOSCOW: Russia said Sunday that a drone had struck an “industrial enterprise” east of Moscow overnight, after Ukraine claimed it had hit a major oil refinery.\nGleb Nikitin, governor of Nizhny Novgorod region, reported a “massive drone attack” during the night, during which an “industrial enterprise in the Kstovo district sustained significant damage.”\n“More than 100 drones destroyed,” and “according to preliminary information, there are no casualties,” he added in a statement, without specifying the plant’s activities.\nUkrainian media reported an attack on the Kstovo oil refinery, calling it “one of Russia’s largest oil refineries, producing fuel and lubricants.”\nMoscow said Friday that Ukraine had resumed its strikes on Russian oil refineries after a “pause” of several days.\nSenior Russian official Alexander Novak told a reporter from state TV that Ukraine had resumed attacks on Russian plants, hitting three oil refineries and one gas-chemical complex.\nKyiv has repeatedly struck Russian oil and gas sites in retaliation for Russian attacks on Ukrainian energy infrastructure since Moscow began its offensive there in February 2022.\nUS President Donald Trump had been pressuring Kyiv for weeks to stop such attacks, blaming them for the rising cost of diesel."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-",
+     "title": "Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://images.euronews.com/articles/stories/09/97/51/55/1200x675_cmsv2_0d798eb6-8273-54e9-813c-571131c771ee-9975155.jpg"
+     },
+     "id": "99494afc9f7e5776",
+     "published": "2026-11-01T07:13+00:00",
+     "text": "Telegram war monitoring channels said an attack had targeted the Kstovo oil refinery - also known as the Lukoil-Nizhegorodnefteorgsintez refinery, thought to be one of Russia's largest such facilities.\nRussian authorities said a major drone attack had targeted an \"industrial enterprise\" in the Nizhny Novgorod Oblast overnight, amid reports that a key oil refinery had been struck in the region.\nIn a post on Telegram, regional governor Gleb Nikitin said a \"massive UAV attack\" had resulted in \"significant damage\" to an industrial facility in the Kstovsky district.\n\"More than 100 drones have been destroyed,\" he wrote, adding that early information suggested there had been no casualties and that emergency crews were working at the scene.\n\"Whilst restoration work is underway, there may be temporary power cuts, as well as reduced hot water and heating supplies in certain sections of the utility networks serving residential buildings,\" Nikitin said.\nTelegram war monitoring channels said an attack had targeted the Kstovo oil refinery - also known as the Lukoil-Nizhegorodnefteorgsintez refinery, thought to be one of Russia's largest such facilities.\nAccording to Lukoil, the site is involved in the production of diesel and aviation fuel, among other things.\nEarlier this week, a major fire reportedly broke out at another oil refinery in Russia's Samara region following a drone attack, with dramatic images and video footage posted on social media showing multiple towering columns of black smoke filling the skyline.\nThat incident followed reports that Ukraine had paused strikes on Russian refineries amid pressure from Washington, which has blamed the attacks on rising global diesel prices as it has sought to shift blame from its war in Iran.\nUkraine had been ramping up attacks on Russian energy infrastructure this year, particularly targeting facilities such as oil refineries, terminals and depots, in a bid to hit a critical Russian economic driver and grind down the Kremlin's war machine.\nThe latest reported attack comes after Ukrainian President Volodymyr Zelenskyy said around 280,000 Ukrainian households had been left without power after Russian strikes on Ukraine on Friday night.\n\"Russian strikes have created a difficult situation with electricity supplies across our regions,\" Zelenskyy wrote in a post on X on Saturday, saying that around 200,000 households in Dnipro and the wider region were without electricity while a further 80,000 or more in the Kyiv region were also without power.\nThe Ukrainian leader said Russian forces had hit a \"combined heat and power plant\" in Kyiv as well as four electrical substations in the eastern Dnipro region, among other targets."
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/3126e0490461",
+     "title": "Ukraine claims strike on major Russian oil refinery near Moscow",
+     "lang": "en",
+     "extra": {},
+     "id": "f818619c54e8ed13",
+     "published": "2026-11-01T07:35+00:00",
+     "text": "Russia reports significant damage to an industrial facility in the Nizhny Novgorod region after a massive overnight drone attack, as Kiev claims it targeted the Kstovo oil refinery."
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-01/russia-opens-terrorism-case-over-ukraine-oil-refinery-attack/107334242",
+     "title": "Russia opens terrorism case over Ukraine oil refinery attack",
+     "lang": "en",
+     "extra": {},
+     "id": "6799c2d97065f134",
+     "published": "2026-11-01T11:27+00:00",
+     "text": "A facility which Ukraine named \"one of Russia's largest\" oil refineries reportedly sustained \"significant damage\" in the \"massive drone attack\"."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/world/europe/ukraine-russia-war-live-live-drone-oil-refinery-nizhny-novgorod-kstovo-b3077050.html",
+     "title": "Ukraine-Russia war latest: Kyiv launches ‘massive’ overnight drone strikes on Russian facilities",
+     "lang": "en",
+     "extra": {},
+     "id": "03511b7c7dcf6ef5",
+     "published": "2026-11-01T11:56+00:00",
+     "text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin todayAlready a member? Log in\nAuthorities in Russia's Nizhny Novgorod region are taking all necessary measures to ensure fuel remains available at petrol stations following a suspected Ukrainian drone attack that damaged an industrial facility in the region.\nRussian investigators opened a criminal case on terrorism charges over the attack on the industrial facility and civilian infrastructure in the Nizhny Novgorod region, governor Gleb Nikitin said.\nIn a post on Telegram, Nikitin said the \"massive” unmanned aerial vehicle (UAV) attack resulted in \"significant damage\" to the facility.\n\"More than 100 drones have been destroyed,\" he wrote. The region is home to the NORSI oil refinery, one of Russia's largest.\nThe targeted facility was not named but Ukrainian media reported that a large fire broke out at the Kstovo oil refinery in Nizhny Novgorod Oblast, and local residents reported explosions.\nZelensky says Russia struck power infrastructure in four Ukrainian regions. He said Ukraine, meanwhile, had hit the Kamensky plant in Russia's Rostov region, which he said was involved in the manufacture of Russian missiles.\nEarlier, the US warned grain and energy shortages are “threatening the world” as it said there is growing international interest in facilitating a temporary ceasefire in the Black Sea.\nUS warns Russia about ‘mass casualty event’ plot to attack Moscow\nThe United States has warned Russian authorities of a potential terror threat, pointing to an imminent “mass casualty event” targeting a landmark museum estate in Moscow.\nIn an urgent security alert issued on Saturday, the US Embassy named the Tsaritsyno Museum Reserve as the specific target of the planned attack, advising all American nationals in the Russian capital to avoid the site and stay clear of large crowds.\nThe museum was established in 1775 and after a restoration in the 1980s has remained a popular tourist destination in the city.\nUkrainian arms maker Fire Point says its systems can complete missions without SpaceX\nUkrainian arms manufacturer Fire Point has found ways to carry out long-range strikes in Russia and occupied areas of Ukraine without relying on SpaceX satellite services, its chief executive told Reuters.\nCEO Iryna Terekh also said a new tactical ballistic missile developed by Fire Point could help boost the protection of Ukrainian cities, which have been pounded by Russian forces as Ukraine's air defences run low.\nUkraine's military relies heavily on Elon Musk's SpaceX for satellite communications over its territory and Kyiv has asked the company to extend coverage over Russia.\nBut for 10 days this month, Ukraine faced speed limits on its use of SpaceX services, which hampered drone defences and mid-strike missions.\nTerekh, 34, said the company had found workarounds that allowed it to finish strike missions without using a satellite link.\n\"We have built with this in mind. Fire Point systems are designed to finish a mission without a satellite link,\" she said, discussing the recent SpaceX restrictions.\n\"Navigation that works without any external signal is a priority.\"\nKey questions around the Russian and Ukrainian evacuation of Oleshky\nResidents of the Russian-held town of Oleshky in southern Ukraine began evacuating on Friday as part of a joint relief operation by the two sides, t"
+    },
+    {
+     "source": "Kyiv Independent",
+     "trust": 2,
+     "url": "https://kyivindependent.com/ukraine-war-latest-russian-oil-refinery-in-kstovo-ablaze-after-reported-overnight-drone-strike",
+     "title": "Ukraine war latest: Russian oil refinery in Kstovo ablaze after reported overnight drone strike",
+     "lang": "en",
+     "extra": {},
+     "id": "c2e54b6b1bf2a540",
+     "published": "2026-11-01T16:59+00:00",
+     "text": "Key developments on Oct. 31-Nov. 1:\n- Russian oil refinery in Kstovo ablaze after reported overnight drone strike\n- Russian airstrike destroys Kramatorsk city council building that survived 2014 occupation\n- Russian attack hits Kyiv energy facility, leaving parts of the city without power and water\n- Ukraine hits plant producing fuel for Russian"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHMzMXk4dHkwMkpoWXI3NUg4ek44akMwX3BHcDRTOXpKcTNJN0htcnp3al9VV1VVLThKdlFya0NnMlNIdnpoMGtMVEVvMzA5RlBiTFNubjVZRmpUMlJNdDhETTBsOS0waEQwNkljYjFrV0Fiam84QkJIZG9XT3VQYVBjTnNnS2JIVng5OWhud1VUODdNREk0X01xeTZBWmZ2WmNJeDFKR0JiRkZJSG1CcExTSEFNTVY2UG5XWGsyNzkzc2xi?oc=5",
+     "title": "Russia reports 'massive' drone attack on 'industrial enterprise'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "fa4a7b162fa30c24",
+     "published": "2026-11-01T07:13+00:00",
+     "text": "- Russia reports 'massive' drone attack on 'industrial enterprise' Euronews.com\n- Another Russian refinery is aflame despite Trump’s warning to Kyiv The Washington Post\n- Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S. WSJ\n- Russian oil refinery in Kstovo ablaze after reported overnight drone strike The Kyiv Independent\n- Oil refinery in Russia's Ufa on fire after drone attack, key unit believed hit – photo, video Українська правда"
+    },
+    {
+     "source": "Reddit wow",
+     "trust": 1,
+     "url": "https://reddit.com/r/worldnews/comments/1xl10qe/russia_opens_terrorism_case_over_ukraine_oil",
+     "title": "Russia opens terrorism case over Ukraine oil refinery attack",
+     "lang": "en",
+     "extra": {},
+     "id": "cd3733c410be50ba",
+     "published": "2026-11-01T11:44+00:00",
+     "text": "submitted by\n/u/Cheese-Mastery\nto\nr/worldnews\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
    "id": "cab4167939c",
    "kind": "news",
    "score": 23.0,
@@ -1162,100 +1267,6 @@
      "id": "aece48f46686d1ad",
      "published": "2026-11-01T19:19+00:00",
      "text": "- Mexico City Grand Prix results: Max Verstappen wins as Kimi Antonelli crowned F1 champion - as it happened ESPN\n- Kimi Antonelli makes F1 history as youngest-ever world champion with maiden title ESPN\n- ‘He’s done an insane job’: Antonelli’s rivals united in praise for ‘incredible’ champion The Guardian\n- Antonelli crowned champion in Mexico as Verstappen wins race Formula 1\n- Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20 AP News"
-    }
-   ]
-  },
-  {
-   "id": "c78b9415399",
-   "kind": "news",
-   "score": 21.0,
-   "sensitive": false,
-   "distinct_sites": 7,
-   "title_hint": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/world/russia-says-drone-hit-industrial-enterprise-near-moscow-kyiv-claims-hit-major-refinery-3009214",
-     "title": "Russia says drone hit ‘industrial enterprise’ near Moscow, Kyiv claims hit major refinery",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793513777615-4a617f9a6a315336.jpg"
-     },
-     "id": "78b94153992533fd",
-     "published": "2026-11-01T06:17+00:00",
-     "text": "- Drone strikes reported near Moscow and on a major refinery\n- Over 100 drones reportedly involved overnight\nMOSCOW: Russia said Sunday that a drone had struck an “industrial enterprise” east of Moscow overnight, after Ukraine claimed it had hit a major oil refinery.\nGleb Nikitin, governor of Nizhny Novgorod region, reported a “massive drone attack” during the night, during which an “industrial enterprise in the Kstovo district sustained significant damage.”\n“More than 100 drones destroyed,” and “according to preliminary information, there are no casualties,” he added in a statement, without specifying the plant’s activities.\nUkrainian media reported an attack on the Kstovo oil refinery, calling it “one of Russia’s largest oil refineries, producing fuel and lubricants.”\nMoscow said Friday that Ukraine had resumed its strikes on Russian oil refineries after a “pause” of several days.\nSenior Russian official Alexander Novak told a reporter from state TV that Ukraine had resumed attacks on Russian plants, hitting three oil refineries and one gas-chemical complex.\nKyiv has repeatedly struck Russian oil and gas sites in retaliation for Russian attacks on Ukrainian energy infrastructure since Moscow began its offensive there in February 2022.\nUS President Donald Trump had been pressuring Kyiv for weeks to stop such attacks, blaming them for the rising cost of diesel."
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/01/russia-says-massive-drone-attack-targeted-industrial-enterprise-amid-reports-oil-refinery-",
-     "title": "Russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://images.euronews.com/articles/stories/09/97/51/55/1200x675_cmsv2_0d798eb6-8273-54e9-813c-571131c771ee-9975155.jpg"
-     },
-     "id": "99494afc9f7e5776",
-     "published": "2026-11-01T07:13+00:00",
-     "text": "Telegram war monitoring channels said an attack had targeted the Kstovo oil refinery - also known as the Lukoil-Nizhegorodnefteorgsintez refinery, thought to be one of Russia's largest such facilities.\nRussian authorities said a major drone attack had targeted an \"industrial enterprise\" in the Nizhny Novgorod Oblast overnight, amid reports that a key oil refinery had been struck in the region.\nIn a post on Telegram, regional governor Gleb Nikitin said a \"massive UAV attack\" had resulted in \"significant damage\" to an industrial facility in the Kstovsky district.\n\"More than 100 drones have been destroyed,\" he wrote, adding that early information suggested there had been no casualties and that emergency crews were working at the scene.\n\"Whilst restoration work is underway, there may be temporary power cuts, as well as reduced hot water and heating supplies in certain sections of the utility networks serving residential buildings,\" Nikitin said.\nTelegram war monitoring channels said an attack had targeted the Kstovo oil refinery - also known as the Lukoil-Nizhegorodnefteorgsintez refinery, thought to be one of Russia's largest such facilities.\nAccording to Lukoil, the site is involved in the production of diesel and aviation fuel, among other things.\nEarlier this week, a major fire reportedly broke out at another oil refinery in Russia's Samara region following a drone attack, with dramatic images and video footage posted on social media showing multiple towering columns of black smoke filling the skyline.\nThat incident followed reports that Ukraine had paused strikes on Russian refineries amid pressure from Washington, which has blamed the attacks on rising global diesel prices as it has sought to shift blame from its war in Iran.\nUkraine had been ramping up attacks on Russian energy infrastructure this year, particularly targeting facilities such as oil refineries, terminals and depots, in a bid to hit a critical Russian economic driver and grind down the Kremlin's war machine.\nThe latest reported attack comes after Ukrainian President Volodymyr Zelenskyy said around 280,000 Ukrainian households had been left without power after Russian strikes on Ukraine on Friday night.\n\"Russian strikes have created a difficult situation with electricity supplies across our regions,\" Zelenskyy wrote in a post on X on Saturday, saying that around 200,000 households in Dnipro and the wider region were without electricity while a further 80,000 or more in the Kyiv region were also without power.\nThe Ukrainian leader said Russian forces had hit a \"combined heat and power plant\" in Kyiv as well as four electrical substations in the eastern Dnipro region, among other targets."
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/3126e0490461",
-     "title": "Ukraine claims strike on major Russian oil refinery near Moscow",
-     "lang": "en",
-     "extra": {},
-     "id": "f818619c54e8ed13",
-     "published": "2026-11-01T07:35+00:00",
-     "text": "Russia reports significant damage to an industrial facility in the Nizhny Novgorod region after a massive overnight drone attack, as Kiev claims it targeted the Kstovo oil refinery."
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/2026-11-01/russia-opens-terrorism-case-over-ukraine-oil-refinery-attack/107334242",
-     "title": "Russia opens terrorism case over Ukraine oil refinery attack",
-     "lang": "en",
-     "extra": {},
-     "id": "6799c2d97065f134",
-     "published": "2026-11-01T11:27+00:00",
-     "text": "A facility which Ukraine named \"one of Russia's largest\" oil refineries reportedly sustained \"significant damage\" in the \"massive drone attack\"."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/news/world/europe/ukraine-russia-war-live-live-drone-oil-refinery-nizhny-novgorod-kstovo-b3077050.html",
-     "title": "Ukraine-Russia war latest: Kyiv launches ‘massive’ overnight drone strikes on Russian facilities",
-     "lang": "en",
-     "extra": {},
-     "id": "03511b7c7dcf6ef5",
-     "published": "2026-11-01T11:56+00:00",
-     "text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin todayAlready a member? Log in\nAuthorities in Russia's Nizhny Novgorod region are taking all necessary measures to ensure fuel remains available at petrol stations following a suspected Ukrainian drone attack that damaged an industrial facility in the region.\nRussian investigators opened a criminal case on terrorism charges over the attack on the industrial facility and civilian infrastructure in the Nizhny Novgorod region, governor Gleb Nikitin said.\nIn a post on Telegram, Nikitin said the \"massive” unmanned aerial vehicle (UAV) attack resulted in \"significant damage\" to the facility.\n\"More than 100 drones have been destroyed,\" he wrote. The region is home to the NORSI oil refinery, one of Russia's largest.\nThe targeted facility was not named but Ukrainian media reported that a large fire broke out at the Kstovo oil refinery in Nizhny Novgorod Oblast, and local residents reported explosions.\nZelensky says Russia struck power infrastructure in four Ukrainian regions. He said Ukraine, meanwhile, had hit the Kamensky plant in Russia's Rostov region, which he said was involved in the manufacture of Russian missiles.\nEarlier, the US warned grain and energy shortages are “threatening the world” as it said there is growing international interest in facilitating a temporary ceasefire in the Black Sea.\nUS warns Russia about ‘mass casualty event’ plot to attack Moscow\nThe United States has warned Russian authorities of a potential terror threat, pointing to an imminent “mass casualty event” targeting a landmark museum estate in Moscow.\nIn an urgent security alert issued on Saturday, the US Embassy named the Tsaritsyno Museum Reserve as the specific target of the planned attack, advising all American nationals in the Russian capital to avoid the site and stay clear of large crowds.\nThe museum was established in 1775 and after a restoration in the 1980s has remained a popular tourist destination in the city.\nUkrainian arms maker Fire Point says its systems can complete missions without SpaceX\nUkrainian arms manufacturer Fire Point has found ways to carry out long-range strikes in Russia and occupied areas of Ukraine without relying on SpaceX satellite services, its chief executive told Reuters.\nCEO Iryna Terekh also said a new tactical ballistic missile developed by Fire Point could help boost the protection of Ukrainian cities, which have been pounded by Russian forces as Ukraine's air defences run low.\nUkraine's military relies heavily on Elon Musk's SpaceX for satellite communications over its territory and Kyiv has asked the company to extend coverage over Russia.\nBut for 10 days this month, Ukraine faced speed limits on its use of SpaceX services, which hampered drone defences and mid-strike missions.\nTerekh, 34, said the company had found workarounds that allowed it to finish strike missions without using a satellite link.\n\"We have built with this in mind. Fire Point systems are designed to finish a mission without a satellite link,\" she said, discussing the recent SpaceX restrictions.\n\"Navigation that works without any external signal is a priority.\"\nKey questions around the Russian and Ukrainian evacuation of Oleshky\nResidents of the Russian-held town of Oleshky in southern Ukraine began evacuating on Friday as part of a joint relief operation by the two sides, t"
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcHMzMXk4dHkwMkpoWXI3NUg4ek44akMwX3BHcDRTOXpKcTNJN0htcnp3al9VV1VVLThKdlFya0NnMlNIdnpoMGtMVEVvMzA5RlBiTFNubjVZRmpUMlJNdDhETTBsOS0waEQwNkljYjFrV0Fiam84QkJIZG9XT3VQYVBjTnNnS2JIVng5OWhud1VUODdNREk0X01xeTZBWmZ2WmNJeDFKR0JiRkZJSG1CcExTSEFNTVY2UG5XWGsyNzkzc2xi?oc=5",
-     "title": "Russia reports 'massive' drone attack on 'industrial enterprise'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "fa4a7b162fa30c24",
-     "published": "2026-11-01T07:13+00:00",
-     "text": "- Russia reports 'massive' drone attack on 'industrial enterprise' Euronews.com\n- Another Russian refinery is aflame despite Trump’s warning to Kyiv The Washington Post\n- Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S. WSJ\n- Russian oil refinery in Kstovo ablaze after reported overnight drone strike The Kyiv Independent\n- Oil refinery in Russia's Ufa on fire after drone attack, key unit believed hit – photo, video Українська правда"
-    },
-    {
-     "source": "Reddit wow",
-     "trust": 1,
-     "url": "https://reddit.com/r/worldnews/comments/1xl10qe/russia_opens_terrorism_case_over_ukraine_oil",
-     "title": "Russia opens terrorism case over Ukraine oil refinery attack",
-     "lang": "en",
-     "extra": {},
-     "id": "cd3733c410be50ba",
-     "published": "2026-11-01T11:44+00:00",
-     "text": "submitted by\n/u/Cheese-Mastery\nto\nr/worldnews\n[link]\n[comments]"
     }
    ]
   },
@@ -1950,6 +1961,91 @@
      "id": "34318d415c7fd930",
      "published": "2026-11-02T12:16+00:00",
      "text": "A federal investigation is underway after a private jet traveling from Texas to the Bahamas crashed, killing all nine people on board. NBC’s Jesse Kirsch reports and Tom Costello joins TODAY with analysis of the accident. (Warning: Some of the air traffic control audio and crash video is disturbing.)"
+    }
+   ]
+  },
+  {
+   "id": "c3bb2c34d01",
+   "kind": "news",
+   "score": 20.0,
+   "sensitive": true,
+   "distinct_sites": 6,
+   "title_hint": "Doctor Who's K-9 Voice Actor John Leeson Dies At 83",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/john-leeson-death-obituary",
+     "title": "Doctor Who's K-9 Voice Actor John Leeson Dies At 83",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/475122507_938655415063036_2806812501094624418_n-2.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "0e6219f61ffa78b2",
+     "published": "2026-11-01T21:33+00:00",
+     "text": "Jennifer is a TV and Movie News Editor at ScreenRant. She started her journey in entertainment media in 2022 when she first joined Valnet at CBR before coming to ScreenRant.\nJennifer loves TV, especially science fiction. She also loves late-night talk shows, due to her insomnia. Alien: Earth is definitely one of her favorite shows, and she jumps on any chance she gets to write about it. Even on her days off, she will claim an Alien Earth article if one is available.\nJimmy Kimmel and Jimmy Fallon are two of her favorite late-night hosts, and Conan O'Brien before he left his show.\nHer Alien: Earth coverage for ScreenRant is by far the work that she is most proud of so far.\nShe was initially a finance and political editor, but her passion for pop culture convinced her to transition into entertainment journalism.\nDuring her off time, she loves to binge-watch cooking shows such as Kitchen Nightmares. Jennifer also loves spending time with her daughter and cherishes every moment of it.\nJohn Leeson, the actor behind one of the most iconic Doctor Who characters, has sadly passed away.\nLeeson, whose birth name was John Ducker, was best known for providing the voice of K-9, the beloved robotic dog from Doctor Who. The star has unfortunately died at the age of 83. The actor's family confirmed his death on Facebook on Sunday, November 1, 2026, after being ill for quite some time.\nLeeson's passing was announced by his son, Guy Ducker. According to the social media post, the actor died after experiencing health problems throughout the summer. His son shared the news alongside a heartfelt goodbye that included a reference to William Shakespeare's Hamlet.\nMore to come..."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/arts-entertainment/tv/news/john-leeson-death-doctor-who-k9-b3077307.html",
+     "title": "Doctor Who's K9 voice actor John Leeson dies aged 83",
+     "lang": "en",
+     "extra": {},
+     "id": "c10882285c6f8f1d",
+     "published": "2026-11-02T07:41+00:00",
+     "text": "Leeson first voiced Doctor Who’s robotic sidekick in 1977 and returned in 2006 for the modern revival"
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/tv/global/john-leeson-dead-voice-doctor-who-k9-1236937441",
+     "title": "John Leeson, Voice of K9 on ‘Doctor Who,’ Dies at 83",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/11/k9-doctor-who.jpg?w=1000&h=563&crop=1"
+     },
+     "id": "be59649730b77218",
+     "published": "2026-11-02T14:13+00:00",
+     "text": "John Leeson, the English actor who voiced “Doctor Who‘s” beloved robot dog K9, died on Sunday. He was 83.\nLeeson’s son, Guy Ducker, announced his death in a Facebook post. “I regret to announce the death of my father, John Ducker, aka John Leeson, at 3:03 p.m. today after a summer of illness. The end was peaceful,” he wrote, adding the William Shakespeare quote: “Good night sweet prince: And flights of angels sing thee to thy rest!”\nLeeson was best known for his voice work as the Doctor’s canine companion — who had the catchphrase “Affirmative, master” — on multiple seasons of British sci-fi series “Doctor Who,” spanning decades. He first voiced the character on the show from 1977-1981, when Tom Baker played the Doctor, and reprised the role in 1983 with Peter Davison in the lead; in 1993 for its 30th anniversary special; and in 2006 and 2008 during David Tennant’s reign.\nBorn John Ducker in Leicester, England, on March 16, 1943, Leeson attended the prestigious Royal Academy of Dramatic Art in London from 1962 to 1964, where he adopted his stage name. He started out in theater before transitioning to TV, guesting on sitcom “Dad’s Army” in 1969 and becoming a regular on the children’s program “Rainbow” as the furry bear Bungle.\nBut his work as K9 brought him the most success, resulting in several spinoffs including the TV movie “K-9 and Company” in 1981, sci-fi show “The Sarah Jane Adventures” from 2007 to 2010 and children’s series “K9” from 2009 to 2010.\nIn an Instagram post, “Doctor Who” writer and showrunner Russell T Davies remembered how when he decided to bring K9 back in 2006, “there was no question that we’d ask John to provide the voice, and it was impossible to imagine anyone else.”\n“And really, what a performance, what a character: a posh dog, uppity, haughty, wry, but somehow innocent too, and so funny,” Davies continued. “’Maximum defense mode!’ God he was good. Pitched perfectly so that kids could impersonate him. That’s not easy, that’s hell of a piece of acting. And he was wonderfully dedicated to that character for… gasp, six decades! He’d phone me up and chat sometimes — on the landline, I remember, those were the days. Including one time when he hadn’t been paid! But he was so gracious about it. A true gent, and a great loss. Sympathy to his family and friends. Good night, sir. Affirmative!”"
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/11/john-leeson-dead-doctor-who-k9-voice-actor-83-1237211265",
+     "title": "John Leeson Dies: Actor Who Voiced Iconic Role In ‘Doctor Who’ Was 83",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-823788384-1500.jpg?w=1024"
+     },
+     "id": "bee8fe093b12a3fa",
+     "published": "2026-11-02T15:34+00:00",
+     "text": "John Leeson, the British actor who voiced Doctor Who‘s iconic companion K9, has died aged 83, his family has confirmed.\nIn a Facebook post, Leeson’s son Guy Ducker said his father died yesterday “after a summer of illness.”\n“I regret to announce the death of my father, John Ducker, a.k.a. John Leeson, at 3:03pm today after a summer of illness,” read Ducker’s post. “The end was peaceful. Good night sweet prince: And flights of angels sing thee to thy rest!”\nIn a separate post, Ducker thanked the Whovians — a nickname for Doctor Who fans — “for the love they showed to my father over the decades.”\nRussell T. Davies, who has had two stints showrunning Doctor Who, called Leeson “a true gent and a great loss.”\nWatch on Deadline\nBorn in 1943, John Ducker, as he was known then, went to RADA before landing many theater and TV roles in the 1960s and 1970s.\nHe got his huge break in 1977 as the voice of K9 in Doctor Who, the hugely popular robot dog who accompanies the Doctor through various adventures and incarnations. He had further stints in the role before returning in The Sarah Jane Adventures and K9 spin-offs decades later in the late-2000s.\nLeeson also appeared in shows like Blake’s 7, Crossroads and Vanity Fair.\nHe married Judy Griffiths, who was then a producer’s assistant on hit BBC kids show Blue Peter, in 1969."
+    },
+    {
+     "source": "Hacker News Front",
+     "trust": 1,
+     "url": "https://doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+     "title": "John Leeson (the voice of K9) has died",
+     "lang": "en",
+     "extra": {
+      "comments": "https://news.ycombinator.com/item?id=50329707"
+     },
+     "id": "3bb2c34d01023b91",
+     "published": "2026-11-01T20:48+00:00",
+     "text": "Article URL: https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html\nComments URL: https://news.ycombinator.com/item?id=50329707\nPoints: 4\n# Comments: 1"
+    },
+    {
+     "source": "Reddit films, TV, games & football",
+     "trust": 1,
+     "url": "https://reddit.com/r/movies/comments/1xlj7z4/doctor_who_actor_john_leeson_voice_of_k9_passes",
+     "title": "Doctor Who Actor John Leeson, Voice of K-9, Passes Away at Age 83",
+     "lang": "en",
+     "extra": {},
+     "id": "33cdc7b8a859026c",
+     "published": "2026-11-02T00:37+00:00",
+     "text": "submitted by\n/u/Fan387\nto\nr/movies\n[link]\n[comments]"
     }
    ]
   },
@@ -2733,6 +2829,107 @@
    ]
   },
   {
+   "id": "c9ef89b6cb3",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": true,
+   "distinct_sites": 7,
+   "title_hint": "Short-range air defense systems with 360-degree turret installed at Trump’s Mar-a-Lago estate",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Interesting Engineering",
+     "trust": 2,
+     "url": "https://interestingengineering.com/military/air-defense-systems-trump-estate",
+     "title": "Short-range air defense systems with 360-degree turret installed at Trump’s Mar-a-Lago estate",
+     "lang": "en",
+     "extra": {},
+     "id": "9ef89b6cb3046608",
+     "published": "2026-11-01T15:51+00:00",
+     "text": "Amid the heightened concerns about President Donald J. Trump’s safety, the U.S. Secret Service has deployed AN/TWQ-1 Avenger short-range air defense systems (SHORADS) near his residence at the Mar-a-Lago estate in Palm Beach, Florida.\nThese systems, manufactured by Boeing, are mounted atop the U.S. Army’s 4X4 military trucks, the Heavy High Mobility Multipurpose Wheeled Vehicle (HMMWV), or Humvees, and were also installed about three miles west of Donald J. Trump International Airport.\nThe Avenger features a 360-degree rotating turret with two missile pods mounted on a Humvee’s heavy chassis and can fire FIM-92 Stinger missiles. Each launcher has a capacity to hold four of these heat-seeking surface-to-air missiles and operates day and night in all weather conditions.\nA gunner guards the Avenger from the firing station between the two missile pods and operates the launcher. The crew can also operate the weapon system from a remote control unit up to meters away from the firing line.\nAs operational requirements change, the highly mobile Avenger systems can be repositioned to defend against incoming aerial threats, offering air defense for the maneuver force.\nThe upgraded missile system provides on-the-go defensive protection for troops on the ground and in homeland security operations, countering aerial threats, including drones.\nThese infrared-guided weapons were originally designed to defeat helicopters, aircraft, cruise missiles, and larger unmanned aerial vehicles (UAVs). They engage aerial targets at low altitudes and are designed to protect specific locations rather than defend an entire region.\nAccording to photos shared on online platforms, two such Avengers have been deployed near the Trump International Airport.\nBesides the Avenger missile systems, North American Aerospace Defense Command (NORAD) and North American Aerospace Defense Command have also deployed Counter-Unmanned Aircraft System (UAS) capabilities to support the Secret Service, according to media reports.\nThese counter-drone flyaway kits that are rapidly deployable help to spot, classify, and track UAVs. The systems also have the ability to react to drone threats that are detected using both passive and active sensor systems, such as electro-optical and infrared cameras, or Ku-band radars.\nPulsar-based electronic warfare systems, part of the UAS, can use radio-frequency signals to detect and disrupt hostile drones. They rely on jamming the Global Positioning System (GPS) signals of hostile drones to neutralize or spoof them. However, if the jamming fails, the kits recruit kinetic interceptors or other defeat mechanisms.\nEarlier this week, soldiers in the United States tested rapidly deployable counter-drone systems. They trained on Trust Automation’s Rapidly Deployable Small-Unmanned Air Defense System, or RD-SUADS, a palletized counter-drone system.\nRD-SUADS is the air-transportable member of Trust Automation’s Small-Unmanned Air Defense System family, designed to detect, track, identify, and defeat small drones at bases and deployed sites. The company built it to be shipped and set up quickly without relying on local power."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1NHWjBjeVJQZkxwSnlHTzhSQXdlWjhJb1lzdW52amdidkNBRzNrRl9ERExmLXhHWkIzblV2NWpGazlGeERWTmg1UUhMNWRoTEVBLWdlMEtaTklhSDlfUlk3M2lPdFFhU2s3c2xXQUFPZmlqVGpIMWs4UkVQOExxclk4S3ducUJpUm1xZncwenVrTnR2QUJoVThXSFgxUWRhVF9WcmRqRQ?oc=5",
+     "title": "Nine dead in plane crash near Trump's Mar-a-Lago estate",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "79cd39c143c069dd",
+     "published": "2026-11-01T21:42+00:00",
+     "text": "Nine dead in plane crash near Trump's Mar-a-Lago estate\nThe Independent"
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/united-states/nine-dead-in-learjet-plane-crash-near-trumps-florida-home",
+     "title": "Nine dead in Learjet plane crash near Trump’s Florida home",
+     "lang": "en",
+     "extra": {},
+     "id": "386d6d21a3beb2c8",
+     "published": "2026-11-01T22:48+00:00",
+     "text": "Social media clips show an aircraft nearly vertical slamming at high speed into the ground and triggering a large fireball."
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://gulfnews.com/world/americas/nine-dead-in-small-plane-crash-near-trumps-florida-home-1.500732092",
+     "title": "Nine dead in small plane crash near Trump's Florida home",
+     "lang": "en",
+     "extra": {},
+     "id": "a0b9981915ab89c1",
+     "published": "2026-11-02T00:05+00:00",
+     "text": "Nine dead as Learjet slams into Florida roadside: US official"
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/02/all-nine-on-board-learjet-killed-in-florida-plane-crash-near-trumps-resort-home",
+     "title": "All nine on board Learjet killed in Florida plane crash near Trump's resort home",
+     "lang": "en",
+     "extra": {},
+     "id": "e5bc7ea942e6aa5b",
+     "published": "2026-11-02T07:30+00:00",
+     "text": "The crash occurred near Cresthaven, a neighbourhood in Palm Beach County that is less than 11 kilometres from Trump's resort home Mar-a-Lago."
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336520",
+     "title": "Nine Dead in Small Plane Crash Near Trump’s Florida Home",
+     "lang": "en",
+     "extra": {},
+     "id": "cb8b43504b0dffda",
+     "published": "2026-11-02T07:36+00:00",
+     "text": ""
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNanNBV1c3UGV4elYtYm1sMUZPMEJPaUtZcUo4UHNuTV82RFZqUWRfVWZhb3JzUElTSG05R1MxdE1IU0oyd2d1Z2U4MkJBX1ZfVlBibkJ2OWpxWHBocUNvalhQbW1zdzhuWm5wckd1dmJ4dGtDLWRnQk4wWmFvcjJabVNnbVJyZDdwdUVLTUNEOHQ3MlBnU2VLRDN1TW9NVHBRQ3d6X05ObnFKcGF5TW5ZR3BjTk5NcENIODRLMVNDMHhyZDljckE?oc=5",
+     "title": "Nine dead in small plane crash near Trump's Florida home - International - World",
+     "lang": "en",
+     "extra": {},
+     "id": "341d45c1e8fda460",
+     "published": "2026-11-02T07:43+00:00",
+     "text": "Nine dead in small plane crash near Trump's Florida home - International - World\nAhram Online"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/video/20261102-nine-dead-in-small-plane-crash-near-trump-s-florida-home",
+     "title": "Nine dead in small plane crash near Trump's Florida home",
+     "lang": "en",
+     "extra": {},
+     "id": "aa5b26b59b297f13",
+     "published": "2026-11-02T15:33+00:00",
+     "text": "Nine people were killed Sunday when the Learjet they were travelling in plummeted into a neighbourhood in southern Florida, just miles from US President Donald Trump's resort home of Mar-a-Lago, officials said."
+    }
+   ]
+  },
+  {
    "id": "ce871959dc9",
    "kind": "news",
    "score": 18.0,
@@ -2951,78 +3148,6 @@
    ]
   },
   {
-   "id": "c3bb2c34d01",
-   "kind": "news",
-   "score": 18.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Doctor Who's K-9 Voice Actor John Leeson Dies At 83",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Screen Rant",
-     "trust": 2,
-     "url": "https://screenrant.com/john-leeson-death-obituary",
-     "title": "Doctor Who's K-9 Voice Actor John Leeson Dies At 83",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/475122507_938655415063036_2806812501094624418_n-2.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "0e6219f61ffa78b2",
-     "published": "2026-11-01T21:33+00:00",
-     "text": "Jennifer is a TV and Movie News Editor at ScreenRant. She started her journey in entertainment media in 2022 when she first joined Valnet at CBR before coming to ScreenRant.\nJennifer loves TV, especially science fiction. She also loves late-night talk shows, due to her insomnia. Alien: Earth is definitely one of her favorite shows, and she jumps on any chance she gets to write about it. Even on her days off, she will claim an Alien Earth article if one is available.\nJimmy Kimmel and Jimmy Fallon are two of her favorite late-night hosts, and Conan O'Brien before he left his show.\nHer Alien: Earth coverage for ScreenRant is by far the work that she is most proud of so far.\nShe was initially a finance and political editor, but her passion for pop culture convinced her to transition into entertainment journalism.\nDuring her off time, she loves to binge-watch cooking shows such as Kitchen Nightmares. Jennifer also loves spending time with her daughter and cherishes every moment of it.\nJohn Leeson, the actor behind one of the most iconic Doctor Who characters, has sadly passed away.\nLeeson, whose birth name was John Ducker, was best known for providing the voice of K-9, the beloved robotic dog from Doctor Who. The star has unfortunately died at the age of 83. The actor's family confirmed his death on Facebook on Sunday, November 1, 2026, after being ill for quite some time.\nLeeson's passing was announced by his son, Guy Ducker. According to the social media post, the actor died after experiencing health problems throughout the summer. His son shared the news alongside a heartfelt goodbye that included a reference to William Shakespeare's Hamlet.\nMore to come..."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/arts-entertainment/tv/news/john-leeson-death-doctor-who-k9-b3077307.html",
-     "title": "Doctor Who's K9 voice actor John Leeson dies aged 83",
-     "lang": "en",
-     "extra": {},
-     "id": "c10882285c6f8f1d",
-     "published": "2026-11-02T07:41+00:00",
-     "text": "Leeson first voiced Doctor Who’s robotic sidekick in 1977 and returned in 2006 for the modern revival"
-    },
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/tv/global/john-leeson-dead-voice-doctor-who-k9-1236937441",
-     "title": "John Leeson, Voice of K9 on ‘Doctor Who,’ Dies at 83",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/11/k9-doctor-who.jpg?w=1000&h=563&crop=1"
-     },
-     "id": "be59649730b77218",
-     "published": "2026-11-02T14:13+00:00",
-     "text": "John Leeson, the English actor who voiced “Doctor Who‘s” beloved robot dog K9, died on Sunday. He was 83.\nLeeson’s son, Guy Ducker, announced his death in a Facebook post. “I regret to announce the death of my father, John Ducker, aka John Leeson, at 3:03 p.m. today after a summer of illness. The end was peaceful,” he wrote, adding the William Shakespeare quote: “Good night sweet prince: And flights of angels sing thee to thy rest!”\nLeeson was best known for his voice work as the Doctor’s canine companion — who had the catchphrase “Affirmative, master” — on multiple seasons of British sci-fi series “Doctor Who,” spanning decades. He first voiced the character on the show from 1977-1981, when Tom Baker played the Doctor, and reprised the role in 1983 with Peter Davison in the lead; in 1993 for its 30th anniversary special; and in 2006 and 2008 during David Tennant’s reign.\nBorn John Ducker in Leicester, England, on March 16, 1943, Leeson attended the prestigious Royal Academy of Dramatic Art in London from 1962 to 1964, where he adopted his stage name. He started out in theater before transitioning to TV, guesting on sitcom “Dad’s Army” in 1969 and becoming a regular on the children’s program “Rainbow” as the furry bear Bungle.\nBut his work as K9 brought him the most success, resulting in several spinoffs including the TV movie “K-9 and Company” in 1981, sci-fi show “The Sarah Jane Adventures” from 2007 to 2010 and children’s series “K9” from 2009 to 2010.\nIn an Instagram post, “Doctor Who” writer and showrunner Russell T Davies remembered how when he decided to bring K9 back in 2006, “there was no question that we’d ask John to provide the voice, and it was impossible to imagine anyone else.”\n“And really, what a performance, what a character: a posh dog, uppity, haughty, wry, but somehow innocent too, and so funny,” Davies continued. “’Maximum defense mode!’ God he was good. Pitched perfectly so that kids could impersonate him. That’s not easy, that’s hell of a piece of acting. And he was wonderfully dedicated to that character for… gasp, six decades! He’d phone me up and chat sometimes — on the landline, I remember, those were the days. Including one time when he hadn’t been paid! But he was so gracious about it. A true gent, and a great loss. Sympathy to his family and friends. Good night, sir. Affirmative!”"
-    },
-    {
-     "source": "Hacker News Front",
-     "trust": 1,
-     "url": "https://doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
-     "title": "John Leeson (the voice of K9) has died",
-     "lang": "en",
-     "extra": {
-      "comments": "https://news.ycombinator.com/item?id=50329707"
-     },
-     "id": "3bb2c34d01023b91",
-     "published": "2026-11-01T20:48+00:00",
-     "text": "Article URL: https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html\nComments URL: https://news.ycombinator.com/item?id=50329707\nPoints: 4\n# Comments: 1"
-    },
-    {
-     "source": "Reddit films, TV, games & football",
-     "trust": 1,
-     "url": "https://reddit.com/r/movies/comments/1xlj7z4/doctor_who_actor_john_leeson_voice_of_k9_passes",
-     "title": "Doctor Who Actor John Leeson, Voice of K-9, Passes Away at Age 83",
-     "lang": "en",
-     "extra": {},
-     "id": "33cdc7b8a859026c",
-     "published": "2026-11-02T00:37+00:00",
-     "text": "submitted by\n/u/Fan387\nto\nr/movies\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
    "id": "c43394692d0",
    "kind": "news",
    "score": 18.0,
@@ -3069,84 +3194,85 @@
    ]
   },
   {
-   "id": "c84346e5eb9",
+   "id": "c81ee657bff",
    "kind": "news",
-   "score": 17.5,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
-   "official_image": "https://images.nintendolife.com/6a092d6cb4101/large.jpg",
+   "score": 18.0,
+   "sensitive": true,
+   "distinct_sites": 6,
+   "title_hint": "Jake Paul to fight MMA star Cédric Doumbé in Dubai on Christmas Eve",
+   "official_image": null,
    "sources": [
     {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724060",
-     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/7747064/2026/11/02/jake-paul-cedric-doumbe-boxing",
+     "title": "Jake Paul to fight MMA star Cédric Doumbé in Dubai on Christmas Eve",
      "lang": "en",
      "extra": {},
-     "id": "286a06f727e44e01",
-     "published": "2026-11-01T17:51+00:00",
-     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
+     "id": "81ee657bff232cd2",
+     "published": "2026-11-02T11:50+00:00",
+     "text": "The contest marks Paul's return to the ring after having his jaw broken by Anthony Joshua last December."
     },
     {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/1450625/view/693150463100455410",
-     "title": "New Animal Crossing-Like Game Coming to Nintendo Switch 2",
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/boxing/news/12040/13606969/jake-paul-to-fight-kickboxing-champion-cedric-doumbe-on-christmas-eve-as-youtubers-opponent-is-revealed",
+     "title": "Jake Paul confirms opponent for Christmas Eve fight",
      "lang": "en",
      "extra": {},
-     "id": "4188903391c40b4f",
-     "published": "2026-11-01T21:41+00:00",
-     "text": "An upcoming Animal Crossing-like game has officially been confirmed for release on the Nintendo Switch 2, with Petit Planet revealing that it will arrive on the Nintendo platform in 2027. Petit Planet will be the newest game from Genshin Impact developer HoYoverse and has drawn positive comparisons to Nintendo's Animal Crossing series."
+     "id": "d2416e3d70863019",
+     "published": "2026-11-02T12:00+00:00",
+     "text": "Jake Paul has confirmed kickboxing champion Cedric Doumbe as his opponent for his return to the boxing ring in Dubai on Christmas Eve."
     },
     {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2",
-     "title": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2",
+     "source": "BBC Sport",
+     "trust": 2,
+     "url": "https://bbc.co.uk/sport/boxing/articles/cx98z22mz8r8o?at_medium=RSS&at_campaign=rss",
+     "title": "Paul to fight MMA star Doumbe on 24 December",
      "lang": "en",
      "extra": {
-      "image": "https://images.nintendolife.com/6a092d6cb4101/large.jpg",
-      "page_image": "https://images.nintendolife.com/6a092d6cb4101/1280x720.jpg"
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6405/live/0fa94ac0-d640-11f1-be6d-936c6c4b19c2.png"
      },
-     "id": "5498a22730a118f2",
-     "published": "2026-11-02T03:30+00:00",
-     "text": "HoYoverse, the company known for games like Genshin Impact and Zenless Zone Zero, has announced it's bringing the cosy free-to-play galactic life sim Petit Planet to the Switch 2 in 2027.\nHoYoverse shared this news about the Nintendo version of the game at the end of its latest \"pre-launch special program\" broadcast. Petit Planet is launching for other platforms on 4th December 2026.\nYou can see the Switch 2 version in motion around the 28 minute mark in the video above. Here's the announcement:\n\"We're excited to announce that Petit Planet is coming to Nintendo Switch 2 in 2027. We can't wait to welcome to you the Starsea.\"\nPetit Planet allows you to make your planet your own, live alongside fuzzy neighbours, farm, fish, cook, and even explore the vast Starsea, beyond your planet. Here's an official description and trailer:\n\"Your Little Planet. Your Own Universe. Petit Planet is HoYoverse's cozy galactic life sim, available as a free download on multiple platforms. Make a little planet your own, live alongside fuzzy Neighbors, and discover cozy wonders beneath the stars.Step into the Starsea and make a little planet your own. Shape the land and skies, befriend fuzzy Neighbors, explore new worlds, and visit a bustling bazaar where galactic travelers gather. Create, discover, build lasting friendships, and watch as your own planet begins to teem with life.\"\nWould you be interested in playing this game on the Switch 2? Let us know in the comments.\nComments 2\nAnd meanwhile Genshin is no where to be found.\nHow much do you guys wanna bet that is announcement will be like the Genshin Impact announcement for Switch 2.\nRegardless if this DOES come to Switch 2, I may try it out.\nThe day HoYoverse makes an actual game you can buy and “own” is the day I’ll give their games a glance. I don’t need to get caught up in this predatory, free-to-play, FOMO-inducing, live-service nonsense.\nLeave A Comment\nHold on there, you need to login to post a comment..."
+     "id": "02bc4abc8a0131e6",
+     "published": "2026-11-02T12:16+00:00",
+     "text": "- Published\nJake Paul has announced he will fight MMA star Cedric Doumbe on 24 December in Dubai.\nThe bout will be Paul's first fight since losing to former British heavyweight champion Anthony Joshua last December.\nAmerican Paul had to have two titanium plates fitted and some teeth removed after Joshua broke his jaw during the contest.\nThe 29-year-old influencer said in May that his boxing career was \"most definitely\" in doubt following the injury, but he will now return to action on Christmas Eve.\nThe event, which will take place at the Coca-Cola Arena, will be a professionally sanctioned eight-round cruiserweight bout with the fighters using 10oz gloves.\nCameroonian-born Frenchman Doumbe is a multi-time kickboxing world champion-turned MMA fighter.\nThe 34-year-old is signed to the Professional Fighters League (PFL) - an MMA promotion that Paul's Most Valuable Promotions (MVP) merged with in July.\nHe has won two of his three fights since joining the PFL in 2023, but has only one professional boxing bout to his name, which he won in 2015.\nPaul has won 12 of his 14 fights as a professional, with his two defeats coming against Tommy Fury and Joshua.\nIn July 2025, Paul earned a place in the WBA's cruiserweight rankings after beating former world champion Julio Cesar Chavez Jr, but he lost that ranking in January after defeat by Joshua.\nPaul was knocked down twice against the British two-time heavyweight world champion before being stopped in the sixth round."
     },
     {
-     "source": "Polygon",
+     "source": "Gulf News Tech",
      "trust": 2,
-     "url": "https://polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor",
-     "title": "Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027",
+     "url": "https://gulfnews.com/sport/jake-pauls-opponent-revealed-for-christmas-eve-dubai-fight-1.500732568",
+     "title": "Jake Paul’s opponent revealed for Christmas Eve Dubai fight",
+     "lang": "en",
+     "extra": {},
+     "id": "ad32de6c636ef65a",
+     "published": "2026-11-02T12:27+00:00",
+     "text": "Jake-Paul"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/sports/2026/11/2/jake-paul-to-fight-mma-star-cedric-doumbe?traffic_source=rss",
+     "title": "Jake Paul to fight MMA star Cedric Doumbe",
      "lang": "en",
      "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/petit-planet-switch-2.jpg?w=1600&h=900&fit=crop"
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251220__2252801756__v1__HighRes__JakePaulVAnthonyJoshuaFightNight-1766207475.jpg?resize=1920%2C1440"
      },
-     "id": "84346e5eb98621f0",
-     "published": "2026-11-01T14:27+00:00",
-     "text": "Many Animal Crossing competitors have emerged since New Horizons became a breakout success in 2020, but few have a chance to take on the popular Nintendo series like HoYoverse's Petit Planet. Now, we've learned that a showdown between the two games will take place on Nintendo Switch 2, as a release window for a port was recently confirmed.\nWhen will Petit Planet come to Nintendo Switch 2?\nWe already knew that Petit Planet would be released on PC, iOS, and Android on Dec. 4. At the end of a Pre-Launch Special Program livestream HoYoverse held for Petit Planet today, a brief trailer confirmed that a Nintendo Switch 2 port is in the works and has a 2027 release window. We also see a bit of gameplay footage that looks on par with the PC version and clearly supports both docked and handheld play.\nThe fit for Petit Planet on Nintendo Switch 2 is obvious, as cozy games like it dominate on Nintendo systems. Although it has more of a sci-fi aesthetic than Animal Crossing, the same gameplay loops of customizing a character and then building up a homestead (in this case a planet) were on full display in that latest livestream. Petit Planet doubles down on farming more than Animal Crossing: New Horizons, as it's clearly also inspired by cozy games like Stardew Valley.\nPolygon has previewed Petit Planet a couple of times and consistently enjoyed it, though we have had questions about how disruptive the gacha live service elements would be once the game exits pre-release playtesting. We'll get our answer in December, and then truly know whether Petit Planet has the potential to take on Animal Crossing by the time it launches on Switch 2.\nAnimal Crossing: New Horizons - Nintendo Switch 2 Edition released in January, but no brand-new Animal Crossing game has been announced for the latest Nintendo console yet. As such, it makes sense why HoYoverse would want to prioritize this version of Petit Planet over a PS5 or Xbox Series X port, as the Animal Crossing-like does have some real potential to catch on when it hits Nintendo Switch 2 next year."
+     "id": "76e5c8431c30cb6f",
+     "published": "2026-11-02T15:13+00:00",
+     "text": "Jake Paul is returning to the ring a year after the YouTuber-turned-boxer had his jaw broken in two places in a loss to former world heavyweight champion Anthony Joshua.\nThe 29-year-old Paul will face mixed martial arts (MMA) star Cedric Doumbe on December 24 in Dubai in what Paul’s promotion company – Most Valuable Promotions – called a “professionally sanctioned 8-round cruiserweight bout”.\nPaul slipped out of the World Boxing Association (WBA) cruiserweight rankings after the sixth-round knockout by Joshua in Miami last December, after which the American needed surgery.\nRecommended Stories\nlist of 4 items- list 1 of 4Canelo Alvarez ‘will fight in Riyadh’ despite Saudi airport attacks\n- list 2 of 4Boxing: Dubois forces second-round stoppage of Wardley to retain WBO belt\n- list 3 of 4UFC 333: Volkanovski knocks out Evloev to retain featherweight title\n- list 4 of 4YouTube star Jake Paul makes boxing comeback with Dubai Christmas Eve bout\nPaul has fought primarily at the 200-pound (90.7kg) cruiserweight class in the majority of his bouts in a pro boxing career that began in 2020. He has won 12 of his 14 fights, with one of his victories coming against 58-year-old Mike Tyson in 2024.\nDoumbe, a Cameroon-born Frenchman, was a kickboxing world champion and is now an MMA fighter."
     },
     {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Animal-Crossing-rival-coming-to-Nintendo-Switch-2.1439498.0.html",
-     "title": "Animal Crossing rival coming to Nintendo Switch 2",
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTT0FSbFpQZ1E1MjZ5WFg5bjgtN2k4d2xSX2ZNTTJXejB2S3JwWVNHZjlURThROHM0eFAteHRmMHM1aklSSEFUUkxURVRMMHNhNi1vZEtfQk5HRW5sSU9IbGJYblY1dw?oc=5",
+     "title": "Boxing: Jake Paul to fight MMA and kickboxing star Cedric Doumbe on 24 December",
      "lang": "en",
-     "extra": {},
-     "id": "c4d7f50ac7ec8201",
-     "published": "2026-11-01T16:42+00:00",
-     "text": "HoYoverse’s life simulation Petit Planet will arrive on Nintendo Switch 2 in 2027, following its December 4, 2026 launch on PC, iOS and Android. Players can develop a planet, farm, fish and build relationships with neighbors. Plans for other consoles remain unannounced."
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/petit-planet-switch-2-release-date",
-     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
-     "lang": "en",
-     "extra": {},
-     "id": "9c38bbb19c425e71",
-     "published": "2026-11-01T17:38+00:00",
-     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "16702a6cb7c89dda",
+     "published": "2026-11-02T12:16+00:00",
+     "text": "- Boxing: Jake Paul to fight MMA and kickboxing star Cedric Doumbe on 24 December BBC\n- Jake Paul to face former kickboxing champion Cedric Doumbe in return fight ESPN\n- Jake Paul reveals Christmas Eve opponent and makes admission on broken jaw Yahoo Sports\n- Jake Paul to make boxing return on Christmas Eve in Dubai with opponent to be revealed Sky Sports\n- Jake Paul to fight kickboxing champion Cedric Doumbe on Christmas Eve as YouTuber's opponent is revealed Sky Sports"
     }
    ]
   },
@@ -3599,6 +3725,63 @@
    ]
   },
   {
+   "id": "c53ce227b84",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Bloomberg Tech",
+     "trust": 2,
+     "url": "https://bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo",
+     "title": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO",
+     "lang": "en",
+     "extra": {},
+     "id": "53ce227b844e50b3",
+     "published": "2026-11-02T14:38+00:00",
+     "text": "Anthropic PBC reported third-quarter revenue of nearly $17 billion as of Sept. 30, a twelve-fold increase versus the same period a year ago that’s set to stoke anticipation for the artificial intelligence lab’s potentially record-breaking IPO."
+    },
+    {
+     "source": "Bloomberg Tech",
+     "trust": 2,
+     "url": "https://bloomberg.com/news/videos/2026-11-02/anthropic-revenue-nears-17-billion-ahead-of-ipo-video",
+     "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
+     "lang": "en",
+     "extra": {},
+     "id": "daefcd8696eacf89",
+     "published": "2026-11-02T15:15+00:00",
+     "text": "Anthropic PBC reported nearly $17 billion of revenue for the third quarter as of Sept. 30. The artificial intelligence lab saw a twelve-fold increase versus the same period a year ago ahead of their potentially record-breaking IPO. Bloomberg’s Bailey Lipschultz and Mandeep Singh of Bloomberg Intelligence have more. (Source: Bloomberg)"
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/world/claude-developer-anthropics-quarterly-revenue-surges-12-fold-to-nearly-17b-ahead-of-ipo/4108974",
+     "title": "Claude developer Anthropic's quarterly revenue surges 12-fold to nearly $17B ahead of IPO",
+     "lang": "en",
+     "extra": {},
+     "id": "266544046088814f",
+     "published": "2026-11-02T15:32+00:00",
+     "text": "Claude developer reports $23.3B net loss as it prepares for Nasdaq listing that could rival SpaceX's $86.2B market debut"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1J3NXRpRXlFZHZiUUotRlNhandEU19SQVVyM3c1SW0teWRrMGxhUnpzbjJYN0hyTUlOMGd2a3dqSDl3ZG9tMFIyVEhkN1BnVDdTcmNzUF94dExOZEMwN0VUMTBKbE52U2hma3BLOVp3T0VCRVh0ZE1mVWdvU0RiNjFIOWhRTHdfeElXZUJHMkppd0hHbFRuVzNiODBURVJLNzJyLXpRSkx1TTlsaVJvUDJnSUo?oc=5",
+     "title": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "35a75394104b8035",
+     "published": "2026-11-02T14:38+00:00",
+     "text": "- Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO Bloomberg.com\n- Anthropic's path to the Nasdaq just got a lot bumpier CNBC\n- Opinion | The Open Secret Buried in Anthropic’s 300-Page I.P.O. Filing The New York Times\n- Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows Reuters\n- Anthropic's IPO Is Also a Landmark Event for Ants Business Insider"
+    }
+   ]
+  },
+  {
    "id": "c22d324bba8",
    "kind": "news",
    "score": 16.5,
@@ -3643,6 +3826,88 @@
      "id": "61e07086ea651591",
      "published": "2026-11-02T10:00+00:00",
      "text": "Inde Navarrette is a name everyone will know by 2027, if they don't already. The horror genre's newest final girl hosted Saturday Night Live on Halloween, and is set to join the Marvel Cinematic Universe as Rogue in the upcoming X-Men reboot. She will star alongside Samara Weaving as Emma Frost, Sadie Sink as Jean Grey, Christopher Abbot as Professor X, Adam Driver as Mr. Sinister, and Kit Connor as Cyclops. As fans eagerly obsess over Navarrette's next career move, the film that launched her to stardom is about to find a new streaming home.\nYouTuber-turned-filmmaker Curry Barker's record-breaking horror film Obsession is coming to Netflix on November 17. After its run on Peacock, Netflix will introduce Freaky Nikki to a whole new audience, keeping the Halloween spirit alive a little longer. While the premise isn't exactly new — there have been many cursed object or wish-gone-wrong horror movies out there — Obsession breathes new life into a tired formula. Beneath the supernatural scares, the real (and timely) horror comes from the so-called \"nice guy,\" whose crush reveals a much nastier, misogynistic side. Barker's nuanced storytelling, especially his use of lighting effects, combined with what Collider's Hannah Hunt calls an Oscar-worthy performance by Navarrette, proves both deserve to be on Hollywood's rising A-list. Critics and audiences agree, both awarding the film highly at 93% and 94%, respectively, on Rotten Tomatoes.\nWhat's Next for Curry Barker?\nCurry Barker, only in his late 20s, is just getting started. On Halloween, the filmmaker returned to his YouTube roots with a short film called Mama Bear. He wrote, directed, and edited the 5-minute horror film, and it's available to watch for free now. In May 2027, Barker will release the horror-comedy Anything But Ghosts, which he says deserves a \"free pass\" after Obsession. The new film reunites Barker with his Obsession co-star Cooper Tomlinson along with heavy-hitters like Breaking Bad's Aaron Paul and Jurassic World's Bryce Dallas Howard. On top of that, Barker is tapped to direct the newest version of Texas Chainsaw Massacre for A24, as well as an untitled horror project from Universal and Blumhouse-Atomic Monster. Clearly both Barker and Navarrette aren't going anywhere anytime soon.\nObsession joins Netflix on November 17. Stay tuned for more updates on Inde Navarrette's and Curry Barker's upcoming projects.\n- Runtime\n- 108 minutes\n- Director\n- Curry Barker\n- Writers\n- Curry Barker\n- Producers\n- Haley Nicole Johnson, Christian Mercuri, James Harris, Roman Viaris"
+    }
+   ]
+  },
+  {
+   "id": "c84346e5eb9",
+   "kind": "news",
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+   "official_image": "https://images.nintendolife.com/6a092d6cb4101/large.jpg",
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724060",
+     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+     "lang": "en",
+     "extra": {},
+     "id": "286a06f727e44e01",
+     "published": "2026-11-01T17:51+00:00",
+     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
+    },
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/1450625/view/693150463100455410",
+     "title": "New Animal Crossing-Like Game Coming to Nintendo Switch 2",
+     "lang": "en",
+     "extra": {},
+     "id": "4188903391c40b4f",
+     "published": "2026-11-01T21:41+00:00",
+     "text": "An upcoming Animal Crossing-like game has officially been confirmed for release on the Nintendo Switch 2, with Petit Planet revealing that it will arrive on the Nintendo platform in 2027. Petit Planet will be the newest game from Genshin Impact developer HoYoverse and has drawn positive comparisons to Nintendo's Animal Crossing series."
+    },
+    {
+     "source": "Nintendo News",
+     "trust": 3,
+     "url": "https://nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2",
+     "title": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2",
+     "lang": "en",
+     "extra": {
+      "image": "https://images.nintendolife.com/6a092d6cb4101/large.jpg",
+      "page_image": "https://images.nintendolife.com/6a092d6cb4101/1280x720.jpg"
+     },
+     "id": "5498a22730a118f2",
+     "published": "2026-11-02T03:30+00:00",
+     "text": "HoYoverse, the company known for games like Genshin Impact and Zenless Zone Zero, has announced it's bringing the cosy free-to-play galactic life sim Petit Planet to the Switch 2 in 2027.\nHoYoverse shared this news about the Nintendo version of the game at the end of its latest \"pre-launch special program\" broadcast. Petit Planet is launching for other platforms on 4th December 2026.\nYou can see the Switch 2 version in motion around the 28 minute mark in the video above. Here's the announcement:\n\"We're excited to announce that Petit Planet is coming to Nintendo Switch 2 in 2027. We can't wait to welcome to you the Starsea.\"\nPetit Planet allows you to make your planet your own, live alongside fuzzy neighbours, farm, fish, cook, and even explore the vast Starsea, beyond your planet. Here's an official description and trailer:\n\"Your Little Planet. Your Own Universe. Petit Planet is HoYoverse's cozy galactic life sim, available as a free download on multiple platforms. Make a little planet your own, live alongside fuzzy Neighbors, and discover cozy wonders beneath the stars.Step into the Starsea and make a little planet your own. Shape the land and skies, befriend fuzzy Neighbors, explore new worlds, and visit a bustling bazaar where galactic travelers gather. Create, discover, build lasting friendships, and watch as your own planet begins to teem with life.\"\nWould you be interested in playing this game on the Switch 2? Let us know in the comments.\nComments 2\nAnd meanwhile Genshin is no where to be found.\nHow much do you guys wanna bet that is announcement will be like the Genshin Impact announcement for Switch 2.\nRegardless if this DOES come to Switch 2, I may try it out.\nThe day HoYoverse makes an actual game you can buy and “own” is the day I’ll give their games a glance. I don’t need to get caught up in this predatory, free-to-play, FOMO-inducing, live-service nonsense.\nLeave A Comment\nHold on there, you need to login to post a comment..."
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor",
+     "title": "Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/petit-planet-switch-2.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "84346e5eb98621f0",
+     "published": "2026-11-01T14:27+00:00",
+     "text": "Many Animal Crossing competitors have emerged since New Horizons became a breakout success in 2020, but few have a chance to take on the popular Nintendo series like HoYoverse's Petit Planet. Now, we've learned that a showdown between the two games will take place on Nintendo Switch 2, as a release window for a port was recently confirmed.\nWhen will Petit Planet come to Nintendo Switch 2?\nWe already knew that Petit Planet would be released on PC, iOS, and Android on Dec. 4. At the end of a Pre-Launch Special Program livestream HoYoverse held for Petit Planet today, a brief trailer confirmed that a Nintendo Switch 2 port is in the works and has a 2027 release window. We also see a bit of gameplay footage that looks on par with the PC version and clearly supports both docked and handheld play.\nThe fit for Petit Planet on Nintendo Switch 2 is obvious, as cozy games like it dominate on Nintendo systems. Although it has more of a sci-fi aesthetic than Animal Crossing, the same gameplay loops of customizing a character and then building up a homestead (in this case a planet) were on full display in that latest livestream. Petit Planet doubles down on farming more than Animal Crossing: New Horizons, as it's clearly also inspired by cozy games like Stardew Valley.\nPolygon has previewed Petit Planet a couple of times and consistently enjoyed it, though we have had questions about how disruptive the gacha live service elements would be once the game exits pre-release playtesting. We'll get our answer in December, and then truly know whether Petit Planet has the potential to take on Animal Crossing by the time it launches on Switch 2.\nAnimal Crossing: New Horizons - Nintendo Switch 2 Edition released in January, but no brand-new Animal Crossing game has been announced for the latest Nintendo console yet. As such, it makes sense why HoYoverse would want to prioritize this version of Petit Planet over a PS5 or Xbox Series X port, as the Animal Crossing-like does have some real potential to catch on when it hits Nintendo Switch 2 next year."
+    },
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Animal-Crossing-rival-coming-to-Nintendo-Switch-2.1439498.0.html",
+     "title": "Animal Crossing rival coming to Nintendo Switch 2",
+     "lang": "en",
+     "extra": {},
+     "id": "c4d7f50ac7ec8201",
+     "published": "2026-11-01T16:42+00:00",
+     "text": "HoYoverse’s life simulation Petit Planet will arrive on Nintendo Switch 2 in 2027, following its December 4, 2026 launch on PC, iOS and Android. Players can develop a planet, farm, fish and build relationships with neighbors. Plans for other consoles remain unannounced."
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/petit-planet-switch-2-release-date",
+     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+     "lang": "en",
+     "extra": {},
+     "id": "9c38bbb19c425e71",
+     "published": "2026-11-01T17:38+00:00",
+     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
     }
    ]
   },
@@ -3908,109 +4173,6 @@
      "id": "79d68d56c4499ec0",
      "published": "2026-11-01T18:48+00:00",
      "text": "- NASA’s Swift telescope expected to crash to Earth after failed rescue mission KTLA\n- NASA telescope is on the verge of plunging back to Earth after failed rescue mission ABC News - Breaking News, Latest News and Videos\n- NASA's Swift space telescope is about to crash to Earth. Where will it fall? Space\n- NASA satellite to plunge back to Earth after 22 years in space Scripps News\n- Aging NASA Telescope Expected to Crash Back to Earth in Days The Daily Beast"
-    }
-   ]
-  },
-  {
-   "id": "c06d4fbfeb8",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Saudi-led coalition launches military operation targeting Houthi resources",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-launches-military-operation-targeting-houthi-resources-1.500731798",
-     "title": "Saudi-led coalition launches military operation targeting Houthi resources",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.assettype.com/gulfnews%2F2026-10-08%2Fgdmn8l26%2Fgulfnews2026-10-081phshzixgulfnews2026-10-069pt8jg1ygulfnews2026-10-04sz2dtks7Riyadh.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
-     },
-     "id": "06d4fbfeb8db68e2",
-     "published": "2026-11-01T13:43+00:00",
-     "text": "Coalition says operation aims to curb Houthi attacks and threats to Red Sea shipping\nDubai: The Saudi-led coalition in Yemen announced on Sunday that it had carried out a military operation targeting resources used by the Houthi militia to support its war effort, following repeated attacks on civilians and threats to maritime navigation in the southern Red Sea.\nMajor General Turki Al Maliki, spokesman for the Coalition to Support Legitimacy in Yemen, said the operation was launched on Sunday morning to disrupt resources used by the Houthis to carry out what he described as repeated and indiscriminate attacks.\nIn a statement, Al Maliki accused the Houthis of continuing to mobilise resources to sustain their military operations and strengthen their capabilities, particularly ballistic missiles and drones.\nHe said the militia's use of these resources to support its hostile activities demonstrated what he described as its terrorist and brutal approach.\nAl Maliki said the continued Houthi attacks posed a direct threat to civilian lives and infrastructure in Yemen and Saudi Arabia, as well as to maritime shipping routes in the southern Red Sea.\nThe coalition said its Joint Forces Command had therefore conducted a targeted military operation aimed at limiting the resources available to the Houthis for further attacks.\nAl Maliki reaffirmed the coalition's commitment to taking necessary operational measures to deter what he described as the Houthis' terrorist activities and prevent the use of resources to support their war effort.\nHe also called on the Houthis to halt all hostile operations against civilians and civilian infrastructure, warning that the militia would bear responsibility for the consequences of its actions if the attacks continued."
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/middle-east/saudi-led-coalition-launches-operation-to-neutralize-houthi-military-resources-in-yemen/4108105",
-     "title": "Saudi-led coalition launches operation to ‘neutralize’ Houthi military resources in Yemen",
-     "lang": "en",
-     "extra": {},
-     "id": "40843f7f83691aea",
-     "published": "2026-11-01T15:29+00:00",
-     "text": "Coalition says operation targets resources supporting ballistic missile, drone capabilities, without identifying locations"
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/world/gulf/saudi/saudi-coalition-releases-footage-of-military-strikes-on-houthi-sites-in-yemen-1.500731901",
-     "title": "Saudi coalition releases footage of military strikes on Houthi sites in Yemen",
-     "lang": "en",
-     "extra": {},
-     "id": "76da209a75b43dab",
-     "published": "2026-11-01T15:41+00:00",
-     "text": ""
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-houthi-missile-drone-targeting-kingdom/4108159",
-     "title": "Saudi-led coalition intercepts Houthi missile, drone targeting kingdom",
-     "lang": "en",
-     "extra": {},
-     "id": "ebd7fcb18d626f92",
-     "published": "2026-11-01T16:56+00:00",
-     "text": "Coalition did not specify intended targets or reported casualties or damage"
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-southern-region/4108355",
-     "title": "Saudi-led coalition says it intercepted Houthi ballistic missile targeting southern region",
-     "lang": "en",
-     "extra": {},
-     "id": "3a4f34a93ddc9b7b",
-     "published": "2026-11-02T07:05+00:00",
-     "text": "Air defenses destroyed missile launched by Yemen’s Houthis, says coalition spokesman Turki al-Maliki"
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336514",
-     "title": "Coalition Intercepts Houthi Missile Targeting Saudi Arabia's Southern Region",
-     "lang": "en",
-     "extra": {},
-     "id": "21a77a2bf248a7a4",
-     "published": "2026-11-02T07:23+00:00",
-     "text": ""
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/4c423f5b9687",
-     "title": "Saudi-led coalition intercepts Houthi militia ballistic missile targeting southern Saudi Arabia",
-     "lang": "en",
-     "extra": {},
-     "id": "e3e87971f3b96f7b",
-     "published": "2026-11-02T07:53+00:00",
-     "text": "(FILE) In recent days, the coalition has reported intercepting several ballistic missiles targeting Riyadh and eastern Saudi Arabia. / Anadolu Agency"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
-     "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-09-15T161837Z_683006544_RC2SJNA85FI2_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHI-1793607431.jpg?resize=1920%2C1440"
-     },
-     "id": "eb068fa0589da6a9",
-     "published": "2026-11-02T09:43+00:00",
-     "text": "The Saudi-led coalition in Yemen says air defences intercepted a Houthi missile, while fighting continues to rage along key fronts between the armed group and forces loyal to the internationally recognised Yemeni government.\nDefences “intercepted and destroyed a ballistic missile” targeting Saudi Arabia’s southern region, said coalition spokesman Major General Turki al-Maliki in a statement on Monday.\nRecommended Stories\nlist of 4 items- list 1 of 4New Yemen fighting displaces 290,000, says UN, with pregnant women at risk\n- list 2 of 4UN demands investigation after staffer’s death in Houthi custody in Yemen\n- list 3 of 4Yemeni government forces seize strategic positions in al-Jawf\n- list 4 of 4UN staffer’s death in custody exposes Houthi ‘political extortion’ in Yemen\nEarlier, he said defences destroyed a drone launched toward the southern region on Sunday evening.\nAlso on Monday, the Saudi Civil Defence authority issued and then lifted alerts warning of “potential danger” in the city of Abha, as well as the provinces of Khamis Mushait, Taif and Najran.\nThe authority warned residents against “filming, publishing or sharing information” related to missile and drone attacks.\nIn Yemen, a media outlet affiliated with the Houthi armed group, also known as Ansar Allah (Arabic for Supporters of God), reported that seven people were wounded in Saudi-led coalition air strikes on Hodeidah on the Red Sea coast.\nFour people were wounded in the attacks on Ras Isa port dock, while three others suffered injuries in a strike on an oil company site in the governorate’s Bajil district, Houthi media reported.\nThere was no comment on the reports from the Saudi-led coalition.\nHumanitarian crisis\nThe latest clashes come as Yemeni government forces keep up their campaign to regain positions from the Iran-aligned Houthis in the strategic northern governorate of al-Jawf.\nYemeni army spokesman Colonel Majed Abdullah al-Nazili said on Sunday evening that government forces conducted 1,272 “targeting operations” against Houthi fighters, fortifications and weapons supplies over 24 hours.\nOperations are ongoing in al-Jawf, neighbouring Marib and al-Bayda to the south, added al-Nazili. Government forces killed roughly 500 Houthi fighters and destroyed or disabled nearly 170 vehicles, equipment or heavy weaponry.\nAl Jazeera could not independently verify the claims.\nIn southwest Yemen, the Houthis continue to besiege the city of Taiz, blocking the entry of food, fuel and medical supplies, in what authorities warn is a mounting humanitarian crisis.\nTaiz Governor Nabil Shamsan has called for urgent help for the city’s deteriorating health facilities. He said 120 health centres have stopped operating and another 66 are close to shutting down since the Houthis cut off supply routes to the city in early October.\nNour al-Din al-Mansouri, a member of the committee facilitating the work of the Taiz Siege Affairs Office, told Al Jazeera that at least 23 trucks were damaged or overturned in the past two weeks while seeking alternative routes to Taiz.\nThe city is Yemen’s third-largest and home to about one million of the country’s roughly 43 million people.\nFull-scale fighting reignited in Yemen in September, when the Houthis made crucial gains that tightened their grip on the Red Sea coast.\nYemen’s internationally recognised government launched a campaign called Operation Dawn of Yemen last month to regain Houthi-held sites and restore government control over other territories h"
     }
    ]
   },
@@ -4396,144 +4558,72 @@
    ]
   },
   {
-   "id": "cb8144e6364",
+   "id": "c8d65793785",
    "kind": "news",
    "score": 16.0,
    "sensitive": false,
    "distinct_sites": 5,
-   "title_hint": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports",
+   "title_hint": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
    "official_image": null,
    "sources": [
     {
-     "source": "Investing.com",
+     "source": "The Verge",
      "trust": 2,
-     "url": "https://investing.com/news/stock-market-news/spacex-in-talks-to-buy-boost-mobile-or-use-its-network-washington-post-reports-4990666",
-     "title": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports",
-     "lang": "en",
-     "extra": {},
-     "id": "b8144e63646c2e30",
-     "published": "2026-11-02T10:36+00:00",
-     "text": ""
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE5XcHI5ZDVTSTViS05jTG9pTGdTV2UxVUpuZkpLeF9Bc29MSWVza3VXeTQtNEc4VmtpMG02dWduN2dqUXFLT2N6WTZSd2g5S1VXVGY4TDB5dVpkSGZMYUttRm50U040WXJ0emt1dTZkTEFjQnI1YTRuVFpWV09jbGQ5M08tRllhM2hMZWM1ZGN5VVpnR2FpN3QySlZnWGtxYWZGV0JzbGRYR3NpZksycGFfeG5UVFlCUVROYXlqZlh1Snl0NmJOQmhlMA?oc=5",
-     "title": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports",
+     "url": "https://theverge.com/tech/1024342/raspberry-pi-5-16gb-price-hike-ram",
+     "title": "The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike",
      "lang": "en",
      "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824338/raspberrypi5_16GB.jpg?quality=90&strip=all&crop=0%2C10.717639621171%2C100%2C78.564720757659&w=1200"
      },
-     "id": "103303c5717f2326",
-     "published": "2026-11-02T11:20+00:00",
-     "text": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports\nReuters"
+     "id": "19841b6a889cc670",
+     "published": "2026-11-02T14:07+00:00",
+     "text": "The Raspberry Pi 5 with 16GB of RAM now costs $385 after an $80 price hike, the latest in a string of increases driven by the ongoing RAM shortage. This configuration launched at $120, and now costs over triple that price. The 16GB versions of the Raspberry Pi Compute Module 5 also got a $40 price hike, and now cost between $375 and $415.\nThe 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike\nThe top configuration of the Raspberry Pi 5 now costs three times more than its launch price.\nThe top configuration of the Raspberry Pi 5 now costs three times more than its launch price.\nAccording to Raspberry Pi CEO Eben Upton, these price hikes were driven specifically by a lack of “alternative supply” for 16GB DRAM, on top of shortages for other components. Upton says, “Though these increases are unavoidable, we know they are unwelcome news for our customers. We encourage you to make sure you’re not paying for more memory than you need.” Upton suggested using Pis with less memory or older Pi models, as alternatives to the pricey 16GB model. Unfortunately other Raspberry Pi 5 configurations have also gotten more expensive — the 2GB version got a price hike last month.\nAt $385, the 16GB Raspberry Pi 5 is nearing the price of a desktop mini PC. Upton reiterated the company’s plans to reverse the price hikes, saying, “the current memory landscape is difficult but ultimately temporary, and we look forward to rolling back our price increases when memory costs fall once again.”"
     },
     {
-     "source": "Wccftech",
+     "source": "Notebookcheck",
      "trust": 2,
-     "url": "https://wccftech.com/elon-musks-spacex-is-in-talks-to-buy-echostars-boost-mobile-a-way-around-the-mvno-wall-built-by-att-t-mobile-and-verizon-even-amid-a-threat-of-litigation",
-     "title": "Elon Musk’s SpaceX Is In Talks To Buy EchoStar’s Boost Mobile, A Way Around The MVNO Wall Built By AT&T, T-Mobile, And Verizon, Even Amid A Threat Of Litigation",
+     "url": "https://notebookcheck.net/DRAM-crisis-Raspberry-Pi-5-price-rises-by-another-80.1440379.0.html",
+     "title": "DRAM crisis: Raspberry Pi 5 price rises by another $80",
      "lang": "en",
      "extra": {},
-     "id": "16bc90e414d5fb89",
-     "published": "2026-11-02T11:39+00:00",
-     "text": "Elon Musk appears to have found a way to break through the MVNO-led firewall erected by AT&T, T-Mobile, and Verizon against SpaceX, albeit with a high likelihood of prolonged litigation. Even if Boost Mobile's existing MVNO agreements do not port over to SpaceX, EchoStar's bespoke wireless service does bring plenty of bells and whistles to the proverbial table, which should help Starlink Mobile expand its reach across the US. SpaceX and EchoStar already have a long and deep-seated relationship, which only increases the odds of an acquisition agreement for Boost Mobile When regulators approved T-Mobile's acquisition of Sprint, they expected […]\nRead full article at https://wccftech.com/elon-musks-spacex-is-in-talks-to-buy-echostars-boost-mobile-a-way-around-the-mvno-wall-built-by-att-t-mobile-and-verizon-even-amid-a-threat-of-litigation/"
+     "id": "731d295b22404725",
+     "published": "2026-11-02T15:08+00:00",
+     "text": "The top-of-the-line Raspberry Pi 5 is getting another $80 price increase. The Raspberry Pi Compute Module 5 is also getting a price increase, but the MSRP of the Raspberry Pi 500+ keyboard computer remains unchanged for now."
     },
     {
-     "source": "The Next Web",
+     "source": "XDA",
      "trust": 2,
-     "url": "https://thenextweb.com/news/spacex-boost-mobile-echostar-talks",
-     "title": "SpaceX reportedly in talks to buy EchoStar’s Boost Mobile",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.thenextweb.com/2026/10/spacex-logo-sign-office-building.jpg"
-     },
-     "id": "7c524efcd921c1d2",
-     "published": "2026-11-02T11:50+00:00",
-     "text": "SpaceX is in talks to buy Boost Mobile or secure access to its network, as Elon Musk looks to turn Starlink into a direct competitor to the major US mobile carriers, The Washington Post reported on Monday, citing people familiar with the discussions.\nThe potential deal would give SpaceX a way to sell its own mobile service in the US. Neither SpaceX nor EchoStar, Boost Mobile’s parent company, responded to requests for comment.\nAccording to the Post, Musk has been personally involved in the discussions and met EchoStar chairman Charlie Ergen last month. Boost Mobile does not operate its own network of cell towers. Instead, it leases capacity from AT&T and T-Mobile.\nThat arrangement could complicate any agreement. SpaceX may need approval from both carriers to use Boost’s network, since mobile network leases typically cannot be transferred to another company without the carrier’s consent, the Post reported.\nThe talks fit into SpaceX’s broader plans for Starlink Mobile, a service that would combine satellite connectivity with ground-based equipment to compete with AT&T, Verizon and T-Mobile.\nT-Mobile already offers SpaceX’s first satellite-to-phone service in the US, while SpaceX is also looking for cell sites across the country to host the equipment needed for its expansion.\nThe company has been increasingly clear about its ambitions. On SpaceX’s latest earnings call, chief financial officer Bret Johnsen said it wants to become a major mobile carrier in the US, Investing.com reported.\nIn October, SpaceX also agreed to buy low-band spectrum from investment firm Grain Management for around $8bn.\nSpaceX already has a substantial relationship with EchoStar. In September 2025, the companies agreed to a deal worth about $17bn, combining cash and stock, for EchoStar’s AWS-4 and H-block spectrum licences.\nAs part of that agreement, Boost Mobile customers were also expected to gain access to SpaceX’s planned satellite-to-phone service.\nThe market SpaceX wants to enter is worth an estimated $235bn in the US, according to research firm MoffettNathanson, cited by Investing.com.\nEchoStar shares rose around 4% in early trading on Monday following news of the discussions, before US markets opened.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
-    },
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/11/elon-musk-spacex-echostar-boost-mobile-1237211221",
-     "title": "Elon Musk’s SpaceX Reportedly Talking With EchoStar About A Boost Mobile Deal",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://deadline.com/wp-content/uploads/2026/11/SpaceX.jpg?w=1024"
-     },
-     "id": "61cad27442fce605",
-     "published": "2026-11-02T14:33+00:00",
-     "text": "Elon Musk‘s SpaceX has held talks with EchoStar about acquiring Boost Mobile or using its network, according to a report.\nThe move would bolster the standing of the company’s Starlink subsidiary, which had 13.6 million subscribers at the end of the third quarter, a 90% increase over the same period of 2025.\nThe Washington Post, which reported the negotiations, said SpaceX had also approached Verizon, AT&T and T-Mobile but was rebuffed.\nEchoStar sold wireless spectrum to SpaceX last year, attaining a minority stake in the company ahead of its blockbuster IPO in June.\nWatch on Deadline\nBoost Mobile, which was acquired by EchoStar subsidiary Dish Network in 2020 as part of a broader wireless play, ended 2025 with 7.5 million subscribers. It has historically focused on lower-income customers. As a mobile virtual network operator, or MVNO, it does not own its own wireless equipment but instead rents capacity from AT&T and T-Mobile.\nMusk has vast ambitions for SpaceX, which he is looking to position as a provider of a wide array of services. Starlink internet service has been a popular option in rural areas, but it has been heavily marketed across the U.S. and other countries. The rise of Starlink has put pressure on legacy broadband providers like Charter and Comcast, with the new report about Boost Mobile also rattling wireless carriers.\n“Veterans of the cellular industry look at the chess board of existing pieces and don’t see a solution,” the Post quoted Musk as saying recently. “They don’t understand that SpaceX is developing entirely new pieces that fundamentally alter the strategic landscape.”\nEchoStar shares rose 4% in early trading Monday, with AT&T, Verizon and T-Mobile stocks all losing ground."
-    }
-   ]
-  },
-  {
-   "id": "c81ee657bff",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Jake Paul to fight MMA star Cédric Doumbé in Dubai on Christmas Eve",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Athletic Football",
-     "trust": 2,
-     "url": "https://nytimes.com/athletic/7747064/2026/11/02/jake-paul-cedric-doumbe-boxing",
-     "title": "Jake Paul to fight MMA star Cédric Doumbé in Dubai on Christmas Eve",
+     "url": "https://xda-developers.com/the-latest-price-hike-for-the-16gb-raspberry-pi-5-makes-it-3x-more-expensive-than-on-launch",
+     "title": "The latest price hike for the 16GB Raspberry Pi 5 makes it 3x more expensive than at launch",
      "lang": "en",
      "extra": {},
-     "id": "81ee657bff232cd2",
-     "published": "2026-11-02T11:50+00:00",
-     "text": "The contest marks Paul's return to the ring after having his jaw broken by Anthony Joshua last December."
+     "id": "60035e34388c3aaf",
+     "published": "2026-11-02T15:29+00:00",
+     "text": "The RAM crisis has not been kind to the Raspberry Pi. Over the past year or two, we've seen gradual price increases for the boards as the Foundation tries to keep the hardware costs covered. Now, after another price hike, the Raspberry Pi 5 16 GB model is now $385, over triple its launch price back in January 2025."
     },
     {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/boxing/news/12040/13606969/jake-paul-to-fight-kickboxing-champion-cedric-doumbe-on-christmas-eve-as-youtubers-opponent-is-revealed",
-     "title": "Jake Paul confirms opponent for Christmas Eve fight",
-     "lang": "en",
-     "extra": {},
-     "id": "d2416e3d70863019",
-     "published": "2026-11-02T12:00+00:00",
-     "text": "Jake Paul has confirmed kickboxing champion Cedric Doumbe as his opponent for his return to the boxing ring in Dubai on Christmas Eve."
-    },
-    {
-     "source": "BBC Sport",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/boxing/articles/cx98z22mz8r8o?at_medium=RSS&at_campaign=rss",
-     "title": "Paul to fight MMA star Doumbe on 24 December",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6405/live/0fa94ac0-d640-11f1-be6d-936c6c4b19c2.png"
-     },
-     "id": "02bc4abc8a0131e6",
-     "published": "2026-11-02T12:16+00:00",
-     "text": "- Published\nJake Paul has announced he will fight MMA star Cedric Doumbe on 24 December in Dubai.\nThe bout will be Paul's first fight since losing to former British heavyweight champion Anthony Joshua last December.\nAmerican Paul had to have two titanium plates fitted and some teeth removed after Joshua broke his jaw during the contest.\nThe 29-year-old influencer said in May that his boxing career was \"most definitely\" in doubt following the injury, but he will now return to action on Christmas Eve.\nThe event, which will take place at the Coca-Cola Arena, will be a professionally sanctioned eight-round cruiserweight bout with the fighters using 10oz gloves.\nCameroonian-born Frenchman Doumbe is a multi-time kickboxing world champion-turned MMA fighter.\nThe 34-year-old is signed to the Professional Fighters League (PFL) - an MMA promotion that Paul's Most Valuable Promotions (MVP) merged with in July.\nHe has won two of his three fights since joining the PFL in 2023, but has only one professional boxing bout to his name, which he won in 2015.\nPaul has won 12 of his 14 fights as a professional, with his two defeats coming against Tommy Fury and Joshua.\nIn July 2025, Paul earned a place in the WBA's cruiserweight rankings after beating former world champion Julio Cesar Chavez Jr, but he lost that ranking in January after defeat by Joshua.\nPaul was knocked down twice against the British two-time heavyweight world champion before being stopped in the sixth round."
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/sport/jake-pauls-opponent-revealed-for-christmas-eve-dubai-fight-1.500732568",
-     "title": "Jake Paul’s opponent revealed for Christmas Eve Dubai fight",
-     "lang": "en",
-     "extra": {},
-     "id": "ad32de6c636ef65a",
-     "published": "2026-11-02T12:27+00:00",
-     "text": "Jake-Paul"
-    },
-    {
-     "source": "Google News Sports EN",
+     "source": "Reddit science & space",
      "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTT0FSbFpQZ1E1MjZ5WFg5bjgtN2k4d2xSX2ZNTTJXejB2S3JwWVNHZjlURThROHM0eFAteHRmMHM1aklSSEFUUkxURVRMMHNhNi1vZEtfQk5HRW5sSU9IbGJYblY1dw?oc=5",
-     "title": "Boxing: Jake Paul to fight MMA and kickboxing star Cedric Doumbe on 24 December",
+     "url": "https://reddit.com/r/dataisbeautiful/comments/1xljwhh/oc_the_price_of_an_16gb_ddr5_ram_stick_from",
+     "title": "[OC] The Price of an 16GB DDR5 RAM Stick from 2021-2026",
+     "lang": "en",
+     "extra": {},
+     "id": "8d65793785b004c1",
+     "published": "2026-11-02T01:09+00:00",
+     "text": "submitted by\n/u/TipSecure8834\nto\nr/dataisbeautiful\n[link]\n[comments]"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82OUVJRHc0X0V1NFdCZG53WnJ5U3NLdGE2WV9oZWpScHMySGxQUTZTaFlXdEN6TmRJWElPNXJROHB1VTY2ZzhDbENBanZ4RGVyNkhKaGd1OHMtTWdoY0lrNUlhNA?oc=5",
+     "title": "Raspberry Pi 5 16GB Price Rises To $385 USD",
      "lang": "en",
      "extra": {
       "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "16702a6cb7c89dda",
-     "published": "2026-11-02T12:16+00:00",
-     "text": "- Boxing: Jake Paul to fight MMA and kickboxing star Cedric Doumbe on 24 December BBC\n- Jake Paul to face former kickboxing champion Cedric Doumbe in return fight ESPN\n- Jake Paul reveals Christmas Eve opponent and makes admission on broken jaw Yahoo Sports\n- Jake Paul to make boxing return on Christmas Eve in Dubai with opponent to be revealed Sky Sports\n- Jake Paul to fight kickboxing champion Cedric Doumbe on Christmas Eve as YouTuber's opponent is revealed Sky Sports"
+     "id": "ea6465a071910d65",
+     "published": "2026-11-02T10:27+00:00",
+     "text": "- Raspberry Pi 5 16GB Price Rises To $385 USD Phoronix\n- Price rises for some 16GB Raspberry Pi products Raspberry Pi\n- The 16GB Raspberry Pi 5 got another ‘unavoidable’ RAM price hike The Verge\n- Raspberry Pi buyers face another price hike on high-memory hardware Neowin\n- Raspberry Pi 4 with 3 GB RAM Announced! Prices Have Increased! ShiftDelete.Net"
     }
    ]
   },
@@ -4976,6 +5066,109 @@
    ]
   },
   {
+   "id": "c06d4fbfeb8",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Saudi-led coalition launches military operation targeting Houthi resources",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://gulfnews.com/world/gulf/saudi/saudi-led-coalition-launches-military-operation-targeting-houthi-resources-1.500731798",
+     "title": "Saudi-led coalition launches military operation targeting Houthi resources",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.assettype.com/gulfnews%2F2026-10-08%2Fgdmn8l26%2Fgulfnews2026-10-081phshzixgulfnews2026-10-069pt8jg1ygulfnews2026-10-04sz2dtks7Riyadh.avif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+     },
+     "id": "06d4fbfeb8db68e2",
+     "published": "2026-11-01T13:43+00:00",
+     "text": "Coalition says operation aims to curb Houthi attacks and threats to Red Sea shipping\nDubai: The Saudi-led coalition in Yemen announced on Sunday that it had carried out a military operation targeting resources used by the Houthi militia to support its war effort, following repeated attacks on civilians and threats to maritime navigation in the southern Red Sea.\nMajor General Turki Al Maliki, spokesman for the Coalition to Support Legitimacy in Yemen, said the operation was launched on Sunday morning to disrupt resources used by the Houthis to carry out what he described as repeated and indiscriminate attacks.\nIn a statement, Al Maliki accused the Houthis of continuing to mobilise resources to sustain their military operations and strengthen their capabilities, particularly ballistic missiles and drones.\nHe said the militia's use of these resources to support its hostile activities demonstrated what he described as its terrorist and brutal approach.\nAl Maliki said the continued Houthi attacks posed a direct threat to civilian lives and infrastructure in Yemen and Saudi Arabia, as well as to maritime shipping routes in the southern Red Sea.\nThe coalition said its Joint Forces Command had therefore conducted a targeted military operation aimed at limiting the resources available to the Houthis for further attacks.\nAl Maliki reaffirmed the coalition's commitment to taking necessary operational measures to deter what he described as the Houthis' terrorist activities and prevent the use of resources to support their war effort.\nHe also called on the Houthis to halt all hostile operations against civilians and civilian infrastructure, warning that the militia would bear responsibility for the consequences of its actions if the attacks continued."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/middle-east/saudi-led-coalition-launches-operation-to-neutralize-houthi-military-resources-in-yemen/4108105",
+     "title": "Saudi-led coalition launches operation to ‘neutralize’ Houthi military resources in Yemen",
+     "lang": "en",
+     "extra": {},
+     "id": "40843f7f83691aea",
+     "published": "2026-11-01T15:29+00:00",
+     "text": "Coalition says operation targets resources supporting ballistic missile, drone capabilities, without identifying locations"
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://gulfnews.com/world/gulf/saudi/saudi-coalition-releases-footage-of-military-strikes-on-houthi-sites-in-yemen-1.500731901",
+     "title": "Saudi coalition releases footage of military strikes on Houthi sites in Yemen",
+     "lang": "en",
+     "extra": {},
+     "id": "76da209a75b43dab",
+     "published": "2026-11-01T15:41+00:00",
+     "text": ""
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/middle-east/saudi-led-coalition-intercepts-houthi-missile-drone-targeting-kingdom/4108159",
+     "title": "Saudi-led coalition intercepts Houthi missile, drone targeting kingdom",
+     "lang": "en",
+     "extra": {},
+     "id": "ebd7fcb18d626f92",
+     "published": "2026-11-01T16:56+00:00",
+     "text": "Coalition did not specify intended targets or reported casualties or damage"
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-southern-region/4108355",
+     "title": "Saudi-led coalition says it intercepted Houthi ballistic missile targeting southern region",
+     "lang": "en",
+     "extra": {},
+     "id": "3a4f34a93ddc9b7b",
+     "published": "2026-11-02T07:05+00:00",
+     "text": "Air defenses destroyed missile launched by Yemen’s Houthis, says coalition spokesman Turki al-Maliki"
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336514",
+     "title": "Coalition Intercepts Houthi Missile Targeting Saudi Arabia's Southern Region",
+     "lang": "en",
+     "extra": {},
+     "id": "21a77a2bf248a7a4",
+     "published": "2026-11-02T07:23+00:00",
+     "text": ""
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/4c423f5b9687",
+     "title": "Saudi-led coalition intercepts Houthi militia ballistic missile targeting southern Saudi Arabia",
+     "lang": "en",
+     "extra": {},
+     "id": "e3e87971f3b96f7b",
+     "published": "2026-11-02T07:53+00:00",
+     "text": "(FILE) In recent days, the coalition has reported intercepting several ballistic missiles targeting Riyadh and eastern Saudi Arabia. / Anadolu Agency"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/2/saudi-led-coalition-intercepts-a-missile-as-fighting-rages-in-yemens-al-jawf?traffic_source=rss",
+     "title": "Saudi-led coalition intercepts a missile as fighting rages in Yemen’s al-Jawf",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-09-15T161837Z_683006544_RC2SJNA85FI2_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHI-1793607431.jpg?resize=1920%2C1440"
+     },
+     "id": "eb068fa0589da6a9",
+     "published": "2026-11-02T09:43+00:00",
+     "text": "The Saudi-led coalition in Yemen says air defences intercepted a Houthi missile, while fighting continues to rage along key fronts between the armed group and forces loyal to the internationally recognised Yemeni government.\nDefences “intercepted and destroyed a ballistic missile” targeting Saudi Arabia’s southern region, said coalition spokesman Major General Turki al-Maliki in a statement on Monday.\nRecommended Stories\nlist of 4 items- list 1 of 4New Yemen fighting displaces 290,000, says UN, with pregnant women at risk\n- list 2 of 4UN demands investigation after staffer’s death in Houthi custody in Yemen\n- list 3 of 4Yemeni government forces seize strategic positions in al-Jawf\n- list 4 of 4UN staffer’s death in custody exposes Houthi ‘political extortion’ in Yemen\nEarlier, he said defences destroyed a drone launched toward the southern region on Sunday evening.\nAlso on Monday, the Saudi Civil Defence authority issued and then lifted alerts warning of “potential danger” in the city of Abha, as well as the provinces of Khamis Mushait, Taif and Najran.\nThe authority warned residents against “filming, publishing or sharing information” related to missile and drone attacks.\nIn Yemen, a media outlet affiliated with the Houthi armed group, also known as Ansar Allah (Arabic for Supporters of God), reported that seven people were wounded in Saudi-led coalition air strikes on Hodeidah on the Red Sea coast.\nFour people were wounded in the attacks on Ras Isa port dock, while three others suffered injuries in a strike on an oil company site in the governorate’s Bajil district, Houthi media reported.\nThere was no comment on the reports from the Saudi-led coalition.\nHumanitarian crisis\nThe latest clashes come as Yemeni government forces keep up their campaign to regain positions from the Iran-aligned Houthis in the strategic northern governorate of al-Jawf.\nYemeni army spokesman Colonel Majed Abdullah al-Nazili said on Sunday evening that government forces conducted 1,272 “targeting operations” against Houthi fighters, fortifications and weapons supplies over 24 hours.\nOperations are ongoing in al-Jawf, neighbouring Marib and al-Bayda to the south, added al-Nazili. Government forces killed roughly 500 Houthi fighters and destroyed or disabled nearly 170 vehicles, equipment or heavy weaponry.\nAl Jazeera could not independently verify the claims.\nIn southwest Yemen, the Houthis continue to besiege the city of Taiz, blocking the entry of food, fuel and medical supplies, in what authorities warn is a mounting humanitarian crisis.\nTaiz Governor Nabil Shamsan has called for urgent help for the city’s deteriorating health facilities. He said 120 health centres have stopped operating and another 66 are close to shutting down since the Houthis cut off supply routes to the city in early October.\nNour al-Din al-Mansouri, a member of the committee facilitating the work of the Taiz Siege Affairs Office, told Al Jazeera that at least 23 trucks were damaged or overturned in the past two weeks while seeking alternative routes to Taiz.\nThe city is Yemen’s third-largest and home to about one million of the country’s roughly 43 million people.\nFull-scale fighting reignited in Yemen in September, when the Houthis made crucial gains that tightened their grip on the Red Sea coast.\nYemen’s internationally recognised government launched a campaign called Operation Dawn of Yemen last month to regain Houthi-held sites and restore government control over other territories h"
+    }
+   ]
+  },
+  {
    "id": "ce81634522c",
    "kind": "news",
    "score": 15.0,
@@ -5013,100 +5206,10 @@
    ]
   },
   {
-   "id": "c9ef89b6cb3",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 6,
-   "title_hint": "Short-range air defense systems with 360-degree turret installed at Trump’s Mar-a-Lago estate",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Interesting Engineering",
-     "trust": 2,
-     "url": "https://interestingengineering.com/military/air-defense-systems-trump-estate",
-     "title": "Short-range air defense systems with 360-degree turret installed at Trump’s Mar-a-Lago estate",
-     "lang": "en",
-     "extra": {},
-     "id": "9ef89b6cb3046608",
-     "published": "2026-11-01T15:51+00:00",
-     "text": "Amid the heightened concerns about President Donald J. Trump’s safety, the U.S. Secret Service has deployed AN/TWQ-1 Avenger short-range air defense systems (SHORADS) near his residence at the Mar-a-Lago estate in Palm Beach, Florida.\nThese systems, manufactured by Boeing, are mounted atop the U.S. Army’s 4X4 military trucks, the Heavy High Mobility Multipurpose Wheeled Vehicle (HMMWV), or Humvees, and were also installed about three miles west of Donald J. Trump International Airport.\nThe Avenger features a 360-degree rotating turret with two missile pods mounted on a Humvee’s heavy chassis and can fire FIM-92 Stinger missiles. Each launcher has a capacity to hold four of these heat-seeking surface-to-air missiles and operates day and night in all weather conditions.\nA gunner guards the Avenger from the firing station between the two missile pods and operates the launcher. The crew can also operate the weapon system from a remote control unit up to meters away from the firing line.\nAs operational requirements change, the highly mobile Avenger systems can be repositioned to defend against incoming aerial threats, offering air defense for the maneuver force.\nThe upgraded missile system provides on-the-go defensive protection for troops on the ground and in homeland security operations, countering aerial threats, including drones.\nThese infrared-guided weapons were originally designed to defeat helicopters, aircraft, cruise missiles, and larger unmanned aerial vehicles (UAVs). They engage aerial targets at low altitudes and are designed to protect specific locations rather than defend an entire region.\nAccording to photos shared on online platforms, two such Avengers have been deployed near the Trump International Airport.\nBesides the Avenger missile systems, North American Aerospace Defense Command (NORAD) and North American Aerospace Defense Command have also deployed Counter-Unmanned Aircraft System (UAS) capabilities to support the Secret Service, according to media reports.\nThese counter-drone flyaway kits that are rapidly deployable help to spot, classify, and track UAVs. The systems also have the ability to react to drone threats that are detected using both passive and active sensor systems, such as electro-optical and infrared cameras, or Ku-band radars.\nPulsar-based electronic warfare systems, part of the UAS, can use radio-frequency signals to detect and disrupt hostile drones. They rely on jamming the Global Positioning System (GPS) signals of hostile drones to neutralize or spoof them. However, if the jamming fails, the kits recruit kinetic interceptors or other defeat mechanisms.\nEarlier this week, soldiers in the United States tested rapidly deployable counter-drone systems. They trained on Trust Automation’s Rapidly Deployable Small-Unmanned Air Defense System, or RD-SUADS, a palletized counter-drone system.\nRD-SUADS is the air-transportable member of Trust Automation’s Small-Unmanned Air Defense System family, designed to detect, track, identify, and defeat small drones at bases and deployed sites. The company built it to be shipped and set up quickly without relying on local power."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1NHWjBjeVJQZkxwSnlHTzhSQXdlWjhJb1lzdW52amdidkNBRzNrRl9ERExmLXhHWkIzblV2NWpGazlGeERWTmg1UUhMNWRoTEVBLWdlMEtaTklhSDlfUlk3M2lPdFFhU2s3c2xXQUFPZmlqVGpIMWs4UkVQOExxclk4S3ducUJpUm1xZncwenVrTnR2QUJoVThXSFgxUWRhVF9WcmRqRQ?oc=5",
-     "title": "Nine dead in plane crash near Trump's Mar-a-Lago estate",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "79cd39c143c069dd",
-     "published": "2026-11-01T21:42+00:00",
-     "text": "Nine dead in plane crash near Trump's Mar-a-Lago estate\nThe Independent"
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/nine-dead-in-learjet-plane-crash-near-trumps-florida-home",
-     "title": "Nine dead in Learjet plane crash near Trump’s Florida home",
-     "lang": "en",
-     "extra": {},
-     "id": "386d6d21a3beb2c8",
-     "published": "2026-11-01T22:48+00:00",
-     "text": "Social media clips show an aircraft nearly vertical slamming at high speed into the ground and triggering a large fireball."
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/world/americas/nine-dead-in-small-plane-crash-near-trumps-florida-home-1.500732092",
-     "title": "Nine dead in small plane crash near Trump's Florida home",
-     "lang": "en",
-     "extra": {},
-     "id": "a0b9981915ab89c1",
-     "published": "2026-11-02T00:05+00:00",
-     "text": "Nine dead as Learjet slams into Florida roadside: US official"
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/02/all-nine-on-board-learjet-killed-in-florida-plane-crash-near-trumps-resort-home",
-     "title": "All nine on board Learjet killed in Florida plane crash near Trump's resort home",
-     "lang": "en",
-     "extra": {},
-     "id": "e5bc7ea942e6aa5b",
-     "published": "2026-11-02T07:30+00:00",
-     "text": "The crash occurred near Cresthaven, a neighbourhood in Palm Beach County that is less than 11 kilometres from Trump's resort home Mar-a-Lago."
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336520",
-     "title": "Nine Dead in Small Plane Crash Near Trump’s Florida Home",
-     "lang": "en",
-     "extra": {},
-     "id": "cb8b43504b0dffda",
-     "published": "2026-11-02T07:36+00:00",
-     "text": ""
-    },
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNanNBV1c3UGV4elYtYm1sMUZPMEJPaUtZcUo4UHNuTV82RFZqUWRfVWZhb3JzUElTSG05R1MxdE1IU0oyd2d1Z2U4MkJBX1ZfVlBibkJ2OWpxWHBocUNvalhQbW1zdzhuWm5wckd1dmJ4dGtDLWRnQk4wWmFvcjJabVNnbVJyZDdwdUVLTUNEOHQ3MlBnU2VLRDN1TW9NVHBRQ3d6X05ObnFKcGF5TW5ZR3BjTk5NcENIODRLMVNDMHhyZDljckE?oc=5",
-     "title": "Nine dead in small plane crash near Trump's Florida home - International - World",
-     "lang": "en",
-     "extra": {},
-     "id": "341d45c1e8fda460",
-     "published": "2026-11-02T07:43+00:00",
-     "text": "Nine dead in small plane crash near Trump's Florida home - International - World\nAhram Online"
-    }
-   ]
-  },
-  {
    "id": "c28f04e632c",
    "kind": "news",
    "score": 15.0,
-   "sensitive": true,
+   "sensitive": false,
    "distinct_sites": 2,
    "title_hint": "A Tokyo, le Festival international du film affiche ses ambitions culturelles et financières",
    "official_image": null,
@@ -5130,10 +5233,12 @@
      "url": "https://indiewire.com/criticism/movies/earthlings-in-love-movie-review-microdrama-1235225000",
      "title": "‘Earthlings in Love’ Review: A Sentimental Sci-fi Journey Makes the Leap from TikTok to the Tokyo International Film Festival",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://www.indiewire.com/wp-content/uploads/2026/11/earthlings-in-love-ueda-1.webp?w=650"
+     },
      "id": "0954ba6a100af481",
      "published": "2026-11-02T15:15+00:00",
-     "text": "“One Cut of the Dead” director Shinichiro Ueda helms a project that’s better than a “vertical drama” has any right to be."
+     "text": "By providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply.\nIt’s a queasy proposition for cinephiles: Take a TikTok series, retrofit it into a feature film, and premiere it at a major international film festival. But that’s exactly what happened with “Earthlings in Love,” the latest project from Japanese director Shinichiro Ueda. It’s the first so-called “microdrama” (also known as a “vertical drama”) to premiere at the Tokyo International Film Festival, an unusual choice given that in Japan, as abroad, these short-form videos are designed for casual viewing on smartphones, not the formal atmosphere of a film festival. “Earthlings in Love” was originally released in 30 parts on social media, then recut for its TIFF debut; this version is significantly longer, going from a 76-minute runtime to an 102-minute one. It’s also — and this is crucial — much better than anyone might expect, given its provenance.\nIt’s not terribly surprising that Ueda in particular would be open-minded about working in a new media format: His “One Cut of the Dead” broke out internationally in large part because of its ingenious approach to low-budget storytelling. “Earthlings in Love” is similar in that it takes its limitations and turns them into strengths, thoughtfully incorporating the vertical-video format both into the film’s mise en scene and its structure. It would be disingenuous to say that you forget about the vertical framing after a while — I certainly didn’t — but Ueda makes the most of the tight 9:16 aspect ratio, shooting dialogue scenes from the waist up and composing shots so that they move the eye upwards rather than across the frame.\nEven more clever is the way that Ueda, who also wrote the script, incorporates the feeling of claustrophobic disconnection into the story itself. This is a movie about selective memory, centered on a fortysomething film director named Shinpei (Kato Shinsuke) whose career has been prematurely halted by early-onset dementia. Returning to his hometown for the funeral of a former classmate, Shinpei tries to recall why he and his friends never finished their zero-budget high-school sci-fi opus, “Earthlings in Love.” Shinpei remembers a dramatic classmate quitting the shoot because he felt the movie was beneath him, and his secret crush encouraging him to keep going. But is that what really happened?\nThat’s what we see in the first 20 minutes or so of the movie, as Ueda blends “Rashomon” with “Eternal Sunshine of the Spotless Mind” by having Shinpei consult a service that offers to recover his fading memories by feeding photos and diary entries into an AI-generated recreation of his own past. As we find out, the AI is reflecting Shinpei’s own faulty recollections back to him; Ueda insists that this isn’t a commentary on AI per se, but it does bring to mind the way that LLMs create feedback loops that have led to the pop-psychological phenomenon of AI psychosis. Luckily for him, Shinpei has Nagisa (Kiyose Yaeko), another former classmate with whom he reconnected on his trip back home, to keep him grounded in the present. Her role in Shinpei’s life is unclear at first, not least because he keeps forgetting where he knows her from. Over time, however, she becomes the story’s most tragic figure.\nAs with “One Cut,” "
     }
    ]
   },
@@ -5818,48 +5923,61 @@
    ]
   },
   {
-   "id": "c53ce227b84",
+   "id": "c1d6c89cd8b",
    "kind": "news",
    "score": 15.0,
    "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO",
+   "distinct_sites": 3,
+   "title_hint": "Marvell to acquire Lumentum in $115 billion AI connectivity deal",
    "official_image": null,
    "sources": [
     {
-     "source": "Bloomberg Tech",
+     "source": "CBS News",
      "trust": 2,
-     "url": "https://bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo",
-     "title": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO",
+     "url": "https://cbsnews.com/news/marvell-lumentum-acquisition-ai-connectivity",
+     "title": "Marvell to acquire Lumentum in $115 billion AI connectivity deal",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/087f6308-15ae-459f-b644-18244f9c66ad/thumbnail/1200x630/cde5ec04b83d37f7f5ada3023d8b12e5/gettyimages-2278853720.jpg"
+     },
+     "id": "23ce005b64c2e2a5",
+     "published": "2026-11-02T14:22+00:00",
+     "text": "Marvell Technology announced Monday that it would acquire Lumentum Holdings in a deal valued at $115 billion, one of the biggest tech industry deals ever.\nMarvell said the purchase of Lumentum, which manufactures lasers, circuit switches and other products used for data centers, would make the enlarged company a \"category leader in AI connectivity.\" Marvell, founded in 1995, makes data infrastructure semiconductor products.\n\"AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that comes along once in a generation,\" Marvell CEO Matt Murphy said in a statement. \"The companies that move first and help define this transition will set the standard for decades to come.\"\nNvidia earlier this year said it was buying a $2 billion stake in Lumentum, according to Bloomberg.\nMarvell, despite the aggressive pullback in AI stocks last week, believes the investment is still warranted. Markets appear less certain. Marvell shares slid more than 1% before the opening bell, and Lumentum fell almost 3% after the announcement of the all-stock deal.\nMarvell said that the merger will unite the companies' complementary technologies and engineering expertise, allowing it to create an end-to-end system that meets a broader set of customer needs.\nThe deal, subject to stockholder approval, is expected to close in the first half of 2028. It comes amid a boom in data center construction, which has\nnationwide."
+    },
+    {
+     "source": "Yahoo Finance",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWxRNVQxYzItQzBISTcwM2FVN2szd2w3dlZfVnp0eWxLb2RHOEM2RzR1SnVLczBYVWRDSzV3a3FxN0VscjZ2OGZPbTR5aWYwLUpIdVprU1ZOV1lRSTVGM1RRSTVPSDNYTDM3TTdDaVhoaXhBeEE5eXFqV2V6SzBUNkdxTUJYNXJGVjFzQ1VvRVR2Rk0zVGVlUGczb3M5ZlZkLUxBZFhJWFBLOEtucW5ncHFBd2N1SFoydlE?oc=5",
+     "title": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal",
      "lang": "en",
      "extra": {},
-     "id": "53ce227b844e50b3",
-     "published": "2026-11-02T14:38+00:00",
-     "text": "Anthropic PBC reported third-quarter revenue of nearly $17 billion as of Sept. 30, a twelve-fold increase versus the same period a year ago that’s set to stoke anticipation for the artificial intelligence lab’s potentially record-breaking IPO."
+     "id": "9c23183a93d39767",
+     "published": "2026-11-02T14:35+00:00",
+     "text": "Marvell to purchase Lumentum for $115 billion in record-breaking tech deal\nYahoo Finance"
     },
     {
      "source": "Bloomberg Tech",
      "trust": 2,
-     "url": "https://bloomberg.com/news/videos/2026-11-02/anthropic-revenue-nears-17-billion-ahead-of-ipo-video",
-     "title": "Anthropic Revenue Nears $17 Billion Ahead of IPO",
+     "url": "https://bloomberg.com/news/videos/2026-11-02/marvell-to-buy-lumentum-in-115-billion-deal-video",
+     "title": "Marvell to Buy Lumentum in $115 Billion Deal",
      "lang": "en",
      "extra": {},
-     "id": "daefcd8696eacf89",
-     "published": "2026-11-02T15:15+00:00",
-     "text": "Anthropic PBC reported nearly $17 billion of revenue for the third quarter as of Sept. 30. The artificial intelligence lab saw a twelve-fold increase versus the same period a year ago ahead of their potentially record-breaking IPO. Bloomberg’s Bailey Lipschultz and Mandeep Singh of Bloomberg Intelligence have more. (Source: Bloomberg)"
+     "id": "74f3fa47aa0dd877",
+     "published": "2026-11-02T15:38+00:00",
+     "text": "Marvell Technology Inc. has reached a deal to buy Lumentum Holdings Inc. at an enterprise value of $115 billion. Paul Sweeney breaks down the deal on Bloomberg Radio. (Source: Bloomberg)"
     },
     {
      "source": "Google News Business EN",
      "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1J3NXRpRXlFZHZiUUotRlNhandEU19SQVVyM3c1SW0teWRrMGxhUnpzbjJYN0hyTUlOMGd2a3dqSDl3ZG9tMFIyVEhkN1BnVDdTcmNzUF94dExOZEMwN0VUMTBKbE52U2hma3BLOVp3T0VCRVh0ZE1mVWdvU0RiNjFIOWhRTHdfeElXZUJHMkppd0hHbFRuVzNiODBURVJLNzJyLXpRSkx1TTlsaVJvUDJnSUo?oc=5",
-     "title": "Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYXA5MUoxXzhNcG1mNjh6b3RWQVcyc0FpV1Mxa2NGTkhZQjBuYjNWWEd4Ul8wZEZORGRFS09UcEc4RDVrU190Si1iYkVSLVdpZlBwR0s3MmdMWlUwWkRDNEtjNXNGeUZReklPaTJLRkVleXhieWZVM0xHNndyRXZkWHR2VDh0MzRGSzNHOVpJRll6ZVRLOHhJ?oc=5",
+     "title": "Marvell Could Be Making a $115 Billion Mistake With Lumentum Purchase",
      "lang": "en",
      "extra": {
       "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "35a75394104b8035",
-     "published": "2026-11-02T14:38+00:00",
-     "text": "- Anthropic Revenue Hits Nearly $17 Billion Before Blockbuster IPO Bloomberg.com\n- Anthropic's path to the Nasdaq just got a lot bumpier CNBC\n- Opinion | The Open Secret Buried in Anthropic’s 300-Page I.P.O. Filing The New York Times\n- Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows Reuters\n- Anthropic's IPO Is Also a Landmark Event for Ants Business Insider"
+     "id": "1d6c89cd8b38805e",
+     "published": "2026-11-02T14:10+00:00",
+     "text": "- Marvell Could Be Making a $115 Billion Mistake With Lumentum Purchase Barron's\n- Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity CNBC\n- Marvell to buy Lumentum in $115 billion deal in AI data-center bet Reuters\n- Chip Maker Marvell Agrees to Buy Lumentum in $80 Billion Deal WSJ\n- Marvell Is Said to Near Megadeal for Lumentum In AI Push Bloomberg.com"
     }
    ]
   },
@@ -6183,6 +6301,67 @@
    ]
   },
   {
+   "id": "cfb69f75558",
+   "kind": "news",
+   "score": 14.5,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Leclerc concedes he 'deserved penalty' over Hamilton clash",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/leclerc-concedes-he-deserved-penalty-over-hamilton-clash-in-mexico-city-gp.4rYJb2xww8myo1gtgBV5pV",
+     "title": "Leclerc concedes he 'deserved penalty' over Hamilton clash",
+     "lang": "en",
+     "extra": {},
+     "id": "a8b2b0f790449e08",
+     "published": "2026-11-02T01:40+00:00",
+     "text": "Charles Leclerc picked up a five-second time penalty after passing his team mate off track during an opening lap battle for the lead."
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/f1/news/12040/13606690/lewis-hamilton-hits-out-at-charles-leclerc-after-ferrari-drivers-mexico-city-gp-clash-and-first-lap-approach",
+     "title": "'It's a mentality thing' - Hamilton hits out at Leclerc after Mexico clash",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-charles-leclerc-lewis-hamilton_7394470.jpg?20261102022919"
+     },
+     "id": "fb69f7555856e294",
+     "published": "2026-11-01T22:30+00:00",
+     "text": "Lewis Hamilton hits out at Charles Leclerc after Ferrari drivers' Mexico City GP clash and first-lap approach\nFerrari drivers' lap-one squabble effectively lost them the race to Red Bull's Max Verstappen; Hamilton says of Leclerc: \"I don't think it's an age thing. I think it's a mentality thing\"; watch every session of the Sao Paulo GP from this Friday, live on Sky Sports F1\nMonday 2 November 2026 02:59, UK\nLewis Hamilton criticised Charles Leclerc over the lap-one incident that cost Ferrari likely victory in the Mexico City Grand Prix, suggesting his team-mate's driving came down to \"a mentality thing\".\nHamilton and Leclerc battled for the lead during the first four corners of Sunday's race at the Autodromo Hermanos Rodriguez in a duel that saw the latter cut across the second chicane to take over first place from the pole-sitting Briton.\nHaving also run slightly wide himself in defence of the position, Hamilton was overtaken on the exit of Turn Five by Max Verstappen.\n- Mexico City GP race result | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts📱\n- Not got Sky? Latest Sky Sports deals or stream F1 with no contract 📺\nThat proved significant as when Leclerc was handed a five-second penalty by stewards for running off track and gaining an advantage in the Turn Four incident, Verstappen took over the lead of the race when the lead Ferrari served the sanction at his pit stop.\nVerstappen went on to win, with Hamilton eventually finishing second after passing Leclerc at the second race start following a red-flag period for Valtteri Bottas' high-speed crash.\nA frustrated Hamilton, who had expressed unhappiness over the radio on several occasions with the fact Leclerc had only been handed a five-second sanction by stewards, said after the team's eventual two-four finish that they required \"serious talks behind the scenes\".\nSpeaking in the post-race press conference, Hamilton was asked about Leclerc and whether a different approach was required against a team-mate when it came to fighting for race wins.\n\"Before I joined this team, when I was in Mercedes, I watched and witnessed the back and forth between Charles and Carlos [Sainz] for several races where they were battling so much that the person ahead just pulled away, and they had the pace to actually win the race,\" said Hamilton, who is in his second season at Ferrari alongside Leclerc.\n\"But it's one thing when that's happening for fourth and fifth, as opposed to first and second, and you lose the win. That's significant.\n\"The guy's 28 years old, so I don't think it's an age thing. I think it's a mentality thing. It's like 'do or die. Like either I win or none of us do', and it shouldn't be that.\n\"It should be us having getting that one-two because it's still a good feeling.\n\"Silverstone, I could have gone all kamikaze on him and taken him off and lost us the win but instead it was first and third.\n\"For me, I'm happy to for the team to have experienced that. But I'm hopeful we'll work towards a better working place in the future.\"\n'Today we lost the win for the team'\nSpeaking to Sky Sports F1, Hamilton said Ferrari's wider interests on the first lap had not been put first.\n\"In the race, I gave it everything,\" he said after finishing within one second of Verstappen.\n\"Unfortunately the race was lost in the first few corners and it's a shame because we could have easily finished first and second in this race if we worked together as a team.\"\nAsked if "
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/f1/news/12040/13606690/lewis-hamilton-hits-out-at-charles-leclerc-after-ferrari-drivers-mexico-city-gp-clash-as-he-questions-team-mates-approach",
+     "title": "'It's a mentality thing' - Hamilton hits out at Leclerc after Mexico clash",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-charles-leclerc-lewis-hamilton_7394470.jpg?20261102022919"
+     },
+     "id": "0845352a51c3952b",
+     "published": "2026-11-01T22:30+00:00",
+     "text": "Lewis Hamilton hits out at Charles Leclerc after Ferrari drivers' Mexico City GP clash as he questions team-mate's approach\nFerrari drivers' lap-one squabble effectively lost them the race to Red Bull's Max Verstappen; Hamilton says of Leclerc: \"I don't think it's an age thing. I think it's a mentality thing\"; watch every session of the Sao Paulo GP from this Friday, live on Sky Sports F1\nMonday 2 November 2026 03:15, UK\nLewis Hamilton criticised Charles Leclerc over the lap-one incident that cost Ferrari likely victory in the Mexico City Grand Prix, suggesting his team-mate's driving came down to \"a mentality thing\".\nHamilton and Leclerc battled for the lead during the first four corners of Sunday's race at the Autodromo Hermanos Rodriguez in a duel that saw the latter cut across the second chicane to take over first place from the pole-sitting Briton.\nHaving also run slightly wide himself in defence of the position, Hamilton was overtaken on the exit of Turn Five by Max Verstappen.\n- Mexico City GP race result | F1 2026 standings | F1 2026 calendar\n- Got the Sky Sports app? Sign up for latest F1 alerts📱\n- Not got Sky? Latest Sky Sports deals or stream F1 with no contract 📺\nThat proved significant as when Leclerc was handed a five-second penalty by stewards for running off track and gaining an advantage in the Turn Four incident, Verstappen took over the lead of the race when the lead Ferrari served the sanction at his pit stop.\nVerstappen went on to win, with Hamilton eventually finishing second after passing Leclerc at the second race start following a red-flag period for Valtteri Bottas' high-speed crash.\nA frustrated Hamilton, who had expressed unhappiness over the radio on several occasions with the fact Leclerc had only been handed a five-second sanction by stewards, said after the team's eventual two-four finish that they required \"serious talks behind the scenes\" in a season that has contained other flashpoints between the team-mates.\nSpeaking in the post-race press conference, Hamilton was asked about Leclerc and whether a different approach was required against a team-mate when it came to fighting for race wins.\n\"Before I joined this team, when I was in Mercedes, I watched and witnessed the back and forth between Charles and Carlos [Sainz] for several races where they were battling so much that the person ahead just pulled away, and they had the pace to actually win the race,\" said Hamilton, who is in his second season at Ferrari alongside Leclerc.\n\"But it's one thing when that's happening for fourth and fifth, as opposed to first and second, and you lose the win. That's significant.\n\"The guy's 28 years old, so I don't think it's an age thing. I think it's a mentality thing. It's like 'do or die. Like either I win or none of us do', and it shouldn't be that.\n\"It should be us having getting that one-two because it's still a good feeling.\n\"Silverstone, I could have gone all kamikaze on him and taken him off and lost us the win but instead it was first and third.\n\"For me, I'm happy to for the team to have experienced that. But I'm hopeful we'll work towards a better working place in the future.\"\n'Today we lost the win for the team'\nSpeaking to Sky Sports F1, Hamilton said Ferrari's wider interests on the first lap had not been put first.\n\"In the race, I gave it everything,\" he said after finishing within one second of Verstappen.\n\"Unfortunately the race was lost in the first few corners and it's a shame because we could have eas"
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWVlVSmFFZGJVOHJ6ZmVzZEoycS1vMk9DeTV1Y0J6VXdzdHZ5VHhENzBBZVRxOGZhV185TC1HaVY2T2kyWlVtdG9vS2VYdjFaR0lveFFmVlE1ZlBwZVk4VzVReUd0bmtQVWRVclV0VFQ4WHItRElSbGlpemhrbWUzOTZ1WmROQmJrajYwZldkVzNLNkNSdEV5SDNfVDhleC0wUnBlYzBFbUpoMjVmVk0zeDNrY0RYYVRuaGFCeFlwb2c5eU41?oc=5",
+     "title": "Lewis Hamilton slams Charles Leclerc for \"do or die\" attitude after Mexico GP clash",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "5ac1381870228463",
+     "published": "2026-11-02T12:40+00:00",
+     "text": "- Lewis Hamilton slams Charles Leclerc for \"do or die\" attitude after Mexico GP clash Motorsport.com\n- Ferrari’s Lewis Hamilton and Charles Leclerc are free to race but that has come at a cost The New York Times\n- Hamilton demands ‘serious talks’ at Ferrari, questions Leclerc’s ‘mentality’ TSN\n- Where Ferrari drivers' Mexico clash crossed a new line The Race\n- Lewis Hamilton: Ferrari have 'big problems' after Charles Leclerc incident at Mexico City GP ESPN"
+    }
+   ]
+  },
+  {
    "id": "c5c2df10af0",
    "kind": "news",
    "score": 14.5,
@@ -6306,85 +6485,50 @@
    ]
   },
   {
-   "id": "c1420253cac",
+   "id": "c956668b5e8",
    "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Space.com",
-     "trust": 2,
-     "url": "https://space.com/space-exploration/on-this-day-in-space-november-2-2026",
-     "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.mos.cms.futurecdn.net/RzwirmhNNpEbPek9bATDg4-1920-80.png"
-     },
-     "id": "fb80ee9efb3d66ff",
-     "published": "2026-11-02T15:00+00:00",
-     "text": "On Nov. 2, 2000, the International Space Station welcomed its first long-term residents: NASA astronaut Bill Shepherd and two Russian cosmonauts, Yuri Gidzenko and Sergei Krikalev. The mission was called Expedition 1.\nBefore this expedition, NASA had launched five, one-week-long Space Shuttle missions to help build the space station and bring up supplies. But this time, the crew would be staying for four and a half months, and they weren't taking the shuttle. Instead, they took a Russian Soyuz spacecraft, and this was the first Soyuz to ever dock at the space station.\nDuring their stay at the space station, they unpacked supplies and installed new equipment, including the first solar arrays. They left on the space shuttle Discovery, which brought up the Expedition 2 crew that would take their place.\nWhy it mattered\nAs of today, there has been a continuous astronaut presence in space aboard the International Space Station for 26 years. For all of these years, not a day has gone by without someone living in space, orbiting our planet from aboard the space station.\nWhile the ISS was not the first space station, it has been the longest-running space statin by far. This first crew were pioneers, showing how humans could actually live and work aboard this station. This exploratory mission proved that the station could successfully support astronaut crews.\nSince this mission 26 years ago, there have been literally hundreds of astronauts from around the world who have flown to and lived aboard the ISS. While NASA has stated that the station might be decommissioned in the coming years, these accomplishments will remain forever in spaceflight history.\nWant more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube.\nHanneke Weitering is a multimedia journalist in the Pacific Northwest reporting on the future of aviation at FutureFlight.aero and Aviation International News and was previously the Editor for Spaceflight and Astronomy news here at Space.com. As an editor with over 10 years of experience in science journalism she has previously written for Scholastic Classroom Magazines, MedPage Today and The Joint Institute for Computational Sciences at Oak Ridge National Laboratory. After studying physics at the University of Tennessee in her hometown of Knoxville, she earned her graduate degree in Science, Health and Environmental Reporting (SHERP) from New York University. Hanneke joined the Space.com team in 2016 as a staff writer and producer, covering topics including spaceflight and astronomy. She currently lives in Seattle, home of the Space Needle, with her cat and two snakes. In her spare time, Hanneke enjoys exploring the Rocky Mountains, basking in nature and looking for dark skies to gaze at the cosmos.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
-    },
-    {
-     "source": "Reddit wow",
-     "trust": 1,
-     "url": "https://reddit.com/r/interestingasfuck/comments/1xkt6fz/astronaut_anil_menon_celebrating_halloween_on_the",
-     "title": "Astronaut Anil Menon celebrating Halloween on the International Space Station",
-     "lang": "en",
-     "extra": {},
-     "id": "1420253cac7c257d",
-     "published": "2026-11-01T03:39+00:00",
-     "text": "submitted by\n/u/Key-Spread-7513\nto\nr/interestingasfuck\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "c40f38ff5db",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
+   "score": 14.5,
+   "sensitive": true,
    "distinct_sites": 3,
-   "title_hint": "Inde Navarrette Kicks Off ‘Saturday Night Live’ Debut With Shane Gillis Quip About Her “Little Whore Outfit” For Getting Into Marvel Shape",
-   "official_image": null,
+   "title_hint": "Star Trek: Klingon Fury Officially Arrives On November 13",
+   "official_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/worf-in-first-contact.jpg",
    "sources": [
     {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/10/inde-navarrette-snl-debut-shane-gillis-quip-little-whore-outfit-1237210738",
-     "title": "Inde Navarrette Kicks Off ‘Saturday Night Live’ Debut With Shane Gillis Quip About Her “Little Whore Outfit” For Getting Into Marvel Shape",
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/38666666/view/719046160957835832",
+     "title": "Star Trek: Klingon Fury Officially Arrives On November 13",
      "lang": "en",
      "extra": {
-      "page_image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-8.39.49-PM.png?w=1024"
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/worf-in-first-contact.jpg"
      },
-     "id": "40f38ff5db0ed7f2",
-     "published": "2026-11-01T03:58+00:00",
-     "text": "Following her “scream queen” debut in Obsession, Inde Navarrette flexed her comedy muscle with her Saturday Night Live hosting debut.\nOn this weekend’s episode of the sketch comedy show, the actress teased her upcoming MCU role as Rogue in X-Men, noting that she has to get into Marvel shape while making a joke about Shane Gillis’ sexist opening monologue during the last episode.\n“So, every morning, I put on my little whore outfit and hit the gym,” quipped Navarrette to laughs from the audience.\nNavarrette also insisted she’s “nothing like Nikki” from Curry Barker’s Obsession, before revealing her boyfriend, who was taped to his studio audience chair.\nWatch on Deadline\nAlso during Navarrette’s opening monologue, Marcello Hernandez showed off his costume as a sexy TSA agent, Kam Patterson was Elizabeth Holmes, and Jeremy Culhane was Wolverine, pitching himself for the role in the upcoming Jake Schreier. Veronika Slowikowska and Grace Reiter nailed it as Kelly Clarkson and the mechanical singing bird from her online feud with the Brooklyn gift shop.\nIn her first sketch, Navarrette and Hernandez played the ghost of a couple of 1930s kids on the Queen Mary who keep distracting a tourist from hearing where another ghost’s treasure is hidden.\nIn a fake Delta commercial, they introduced “Delta Disruptive,” a new section exclusively for crazy people. “This plane is made out of Israel,” declares Mikey Day while trying to open the exit door. Navarrette gives a hilarious impersonation of the social media famous woman who insisted, “She is not real!”\nFor The Uninterested Woman Dating Show, Navarrette hilariously played Dane, one of the fuckboy contestants, along with Jane Wickline and Sarah Sherman.\nIn The Inventor, Navarrette played an inventor’s wife coming home to all his inventions after his funeral, finding a robot he made for her named PD-44. When she brings home a date (Ben Marshall) six years later, the robot rips off his penis and blows him up, as she realizes his name means “Penis Destroyer.”\n“He did love me. My husband did love me after all,” she says, covered in blood.\nTeaming up for another sketch, Navarrette and Hernandez play Spanish soap opera stars who are asked to work product placement for Sprite Cherry Lime Habanero into their scene, which goes disastrously for the brand. It ultimately ends with him urging her to drink the soda to kill her unborn baby, who was conceived by his brother.\nIn addition to marking Navarrette’s first time hosting Saturday Night Live, this weekend’s episode also served as Gracie Abrams’ musical guest debut."
+     "id": "09b7e95ac414953c",
+     "published": "2026-11-02T07:40+00:00",
+     "text": "Install Steam\nsign in\n|\n简体中文 (Simplified Chinese)\n繁體中文 (Traditional Chinese)\n日本語 (Japanese)\n한국어 (Korean)\nไทย (Thai)\nBahasa Indonesia (Indonesian)\nBahasa Melayu (Malay) BETA\nБългарски (Bulgarian)\nČeština (Czech)\nDansk (Danish)\nDeutsch (German)\nEspañol - España (Spanish - Spain)\nEspañol - Latinoamérica (Spanish - Latin America)\nΕλληνικά (Greek)\nFrançais (French)\nItaliano (Italian)\nMagyar (Hungarian)\nNederlands (Dutch)\nNorsk (Norwegian)\nPolski (Polish)\nPortuguês (Portuguese - Portugal)\nPortuguês - Brasil (Portuguese - Brazil)\nRomână (Romanian)\nРусский (Russian)\nSuomi (Finnish)\nSvenska (Swedish)\nTürkçe (Turkish)\nTiếng Việt (Vietnamese)\nУкраїнська (Ukrainian)\nReport a translation problem"
     },
     {
-     "source": "Reddit films, TV, games & football",
-     "trust": 1,
-     "url": "https://reddit.com/r/television/comments/1xktygv/inde_navarrette_kicks_off_saturday_night_live",
-     "title": "Inde Navarrette Kicks Off ‘Saturday Night Live’ Debut With Shane Gillis Quip About Her “Little Whore Outfit” For Getting Into Marvel Shape",
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/star-trek-klingon-fury-mtg-cards",
+     "title": "Star Trek: Klingon Fury Officially Arrives On November 13",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2025/12/worf-in-first-contact.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "956668b5e88408b0",
+     "published": "2026-11-02T07:30+00:00",
+     "text": "It's been a rough week for Star Trek fans after the passing of the legendary Sir Patrick Stewart, who died on October 28 at the age of 86. His portrayal of Captain Jean-Luc Picard in Star Trek: The Next Generation defined an entire era of science fiction and was unquestionably one of television's most beloved characters and actors.\nHis eventual return in Star Trek: Picard would end up being his final appearance in the franchise, giving longtime fans a chance to reunite with a character who had meant so much to them. His passing is especially poignant as Star Trek celebrates its 60th anniversary in 2026. Six decades after the original series debuted, the franchise remains a cultural phenomenon, with countless beloved characters and stories that continue to resonate with audiences across generations.\nFortunately, there's still plenty for fans to look forward to throughout the anniversary celebrations and honor the legend's memory, including a major November 13 release that brings Worf and several other iconic Klingon warriors back into the spotlight in an entirely new way.\nStar Trek fans have a major new release to look forward to on November 13, 2026, when Magic: The Gathering officially launches its Star Trek Universes Beyond crossover. Among the most exciting additions is Klingon Fury, a brand-new Commander deck headlined by Worf, one of the most beloved characters from Star Trek: The Next Generation and Deep Space Nine.\nThe red, white, and black deck features 100 cards celebrating the Klingon Empire, including legendary warriors, iconic spacecraft, and several characters with important connections to Worf's history. Its centerpiece is Worf, Defiant Commander, a legendary creature card that introduces the franchise's aggressive combat style through the new Battlefront ability, rewarding players for attacking multiple opponents.\nThere's also an alternative commander, Kor, Cause of Vengeance, who allows players to sacrifice creatures to strengthen their attacks. Between the two commanders, Klingon Fury embraces the Empire's warrior culture, emphasizing relentless aggression and overwhelming opponents. According to Wizards of the Coast's official decklist, some of the most exciting featured cards include:\n- Kor, Cause of Vengeance\n- Martok, Hero of the Empire\n- Alexander, Ship's Fool\n- Kurn, Son of Mogh\n- Ambassador K'Ehleyr\n- Chancellor Gorkon\n- Kang, Suspicious Captain\n- Koloth, Tribble Hunter\n- Grilka, Widowed Warrior\n- Curzon Dax, Bound by Blood\n- Voq, Torchbearer\n- Korok, Liberated Rage\n- I.K.S. Negh'Var, Imperial Flagship\n- K't'inga-Class Battle Cruiser\n- The Sword of Kahless\nLongtime fans will particularly appreciate the inclusion of Worf's son Alexander, his brother Kurn, and his former lover K'Ehleyr, alongside legendary Klingons like Martok and Kor. The collection draws from multiple eras of Star Trek, making it a substantial tribute to the Empire's history.\nKlingon Fury launches November 13, alongside three other Commander decks: Federation Fleet, featuring Jean-Luc Picard; Landing Party, featuring Spock; and We Are the Borg, featuring the Borg Queen. Each standard Commander deck includes 32 new-to-Magic cards, a foil commander, and double-sided tokens, with a suggested retail price of $74.99. Premium Collector's Editions feature surge foil versions of every card.\nThe larger crossover also introduces Play Boosters, Collector Boosters, and additional special releases, giving fans plenty of ways to celebrate Star Trek's 60th anni"
+    },
+    {
+     "source": "Collider",
+     "trust": 2,
+     "url": "https://collider.com/star-trek-starfleet-academy-lost-contact-paperback-release-date",
+     "title": "‘Star Trek: Starfleet Academy’ Officially Returns With 5 New Adventures",
      "lang": "en",
      "extra": {},
-     "id": "f2b0d83fe90c2950",
-     "published": "2026-11-01T04:23+00:00",
-     "text": "submitted by\n/u/j-helo85\nto\nr/television\n[link]\n[comments]"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPei1HQlZDN3c3cXNMbVRHcVRpcjR3VjR1Zld3ak9EeWN0N1NCN081WVhhQndON01KSGpqOVczUGtsaTcxa25GWE5ad3JvelMxdjB4clQySFJFVklVekdXSGtzV1JCVHp2T1kwY1pBQXJLNTNoVnhUZldHZHFMVEQxaU0xWjVNN1BmOU83eC1GUVozZlZxZEdaZEtfOXRRbmV5TGdBYQ?oc=5",
-     "title": "Saturday Night Live Recap: Inde Navarrette Leaves SNL Obsessed",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "8b69a2c7b90d9c2c",
-     "published": "2026-11-01T18:40+00:00",
-     "text": "- Saturday Night Live Recap: Inde Navarrette Leaves SNL Obsessed Vulture\n- Saturday Night Live: Obsession breakout Inde Navarrette fronts a scary good Halloween episode The Guardian\n- Inde Navarrette Makes Shane Gillis Quip In 'SNL' Opening Monologue Deadline\n- 'SNL' Host Inde Navarrette Wins Halloween With Penis-Destroying Robot Sketch 'The Inventor's Wife' Variety\n- 'SNL' reveals host, musical guest ahead of Halloween show. Guess who? USA Today"
+     "id": "a3f039b1ed67be3d",
+     "published": "2026-11-02T15:50+00:00",
+     "text": "Time is running out for Star Trek: Starfleet Academy. The newest series in Paramount+'s galaxy of Star Trek shows will debut its second and final season early next year. However, before that, you can see the faculty and students of Starfleet Academy one more time."
     }
    ]
   },
@@ -6937,76 +7081,6 @@
    ]
   },
   {
-   "id": "c90a40b2cf8",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Taika Waititi Blasts Critics as 'Irrelevant, Out of Touch, Obsolete' Following Klara and the Sun's Negative Reviews",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/taika-waititi-blasts-critics-as-irrelevant-out-of-touch-obsolete-following-klara-and-the-suns-negative-reviews",
-     "title": "Taika Waititi Blasts Critics as 'Irrelevant, Out of Touch, Obsolete' Following Klara and the Sun's Negative Reviews",
-     "lang": "en",
-     "extra": {},
-     "id": "89a7749bf9e6027e",
-     "published": "2026-11-01T17:50+00:00",
-     "text": "Marvel filmmaker Taika Waititi has called critics \"sad lost souls who couldn't achieve their dreams\" after his latest film, Klara and the Sun, premiered with negative reviews.\nThe director behind projects like Jojo Rabbit and Thor: Love and Thunder unleashed his true feelings in a post on Instagram. Tied to an image shared by ScreenRant earlier this week that reflects audience reception to the live-action book adaptation, Waititi posted an emoji-filled message taking aim at the reviewers who walked away from his new movie unimpressed.\n\"I haven't read a review of anything aimed at me or my peers in almost 15 years,\" he said, along with a series of emojis. \"But I do listen to the people.\"\nKlara and the Sun's critical reception has struggled in the wake of its October 23, 2026, release date. While Rotten Tomatoes has recorded mostly positive reactions from viewers at 74% favorability, its Tomatometer has sunk to a 'rotten' 26%. Its IMDb Metascore is similarly dire at a negative 30 out of 100 after 27 reviews. IGN did not review the movie.\nWaititi said he's strayed from reading reviews for years, but that didn't stop him from pointing his 2.8 million Instagram followers to those who didn't enjoy the story his Klara and the Sun was trying to tell.\n\"So, this Halloween, let's spare a thought for those sad lost souls who couldn't achieve their dreams of becoming artists, and thus settled, and became critics. The same people who also hated Jojo Rabbit,\" he added with a laughing-crying-face and shrug emoji.\nJojo Rabbit is Waititi's 2019 project and his first since turning heads with Thor: Ragnarok in 2017. The writer, director, actor, and producer suggested critics weren't fond of the World War II-era dark comedy, though what negative reaction he's referring to here isn't quite clear.\nJojo Rabbit boasts an impressive 81% critical rating on Rotten Tomatoes. Although its IMDb score isn't quite as high at a middling 58, some of the reviews listed there are extremely positive, including an A- from Entertainment Weekly and an 85 from The Wrap. IGN gave the film an 8.5/10.\n\"Klara and the Sun introduces audiences to Klara (Jenna Ortega), an Artificial Friend who wants nothing more than to find the perfect home,\" an official description for the film from Sony Pictures said. \"When Klara meets Josie (Mia Tharia), each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother (Amy Adams) and they’ve suffered great loss, but Klara’s innocent wonder and unwavering loyalty begin to heal the family and bring light to Josie’s complicated world.\"\nWhile Waititi has had much to say about how critics have responded to Klara and the Sun, the films seems to have struggled to grab the attention of the average moviegoer, even if those who have seen it generally had a decent experience. According to Box Office Mojo, the movie adaptation of Kazuo Ishiguro's novel of the same name has only managed to pull in a dismal 1.7 million worldwide after two weekends in theaters.\nKlara and the Sun was also expected to debut in around 2,000 theaters last week before Sony seemingly rolled back that plan with an 800-theater debut, per Collider. Deadline reported that the company chose to stop reporting box office earnings for the film this weekend, too, with its budget reportedly set somewhere around $20 million - $40 million.\nWaititi signed off his Instagram post, saying, \"Irrelevant. Out of touch. Obsolete. In the bin.\" He added a trash can em"
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/arts-entertainment/films/news/taika-waititi-klara-and-the-sun-critics-failed-artists-reviews-b3077271.html",
-     "title": "Taika Waititi dismisses Klara and the Sun critics as ‘failed artists’ after scathing reviews",
-     "lang": "en",
-     "extra": {},
-     "id": "6fc628f24a419ff3",
-     "published": "2026-11-02T06:04+00:00",
-     "text": "The film has been described by critics as a ‘downgrade’ from the Kazuo Ishiguro novel it is adapted from"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTNaSnZ3aGE0Q2JyY051MmtJWG1Xc3prbEQ1eHRaSk5WZnVVbU9nd2N2ZjhKUGVNanp3aU9PUVlTLVdfaHgzZjd6SS1ubWdNdnItcFRqRnlrLVJIb2tRVjZsTWJaUHNaamhPN1RKUGhQWFZfN18xcGZicXh2Z0VCVXh6REE2cWoyczhLZW51UFFKcUFR?oc=5",
-     "title": "Taika Waititi is Soooo Not Mad About ‘Klara and the Sun,’ Y’all",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "90a40b2cf8350720",
-     "published": "2026-11-01T15:30+00:00",
-     "text": "- Taika Waititi is Soooo Not Mad About ‘Klara and the Sun,’ Y’all Gizmodo\n- Taika Waititi Adapted a Strange and Beautiful Novel. The Result Is Shaping Up to Be a Legendary Bomb. Slate\n- Jenna Ortega’s New Dystopian Sci-Fi Movie Cancels International Release After Box Office Flop MovieWeb\n- How ‘Klara and the Sun’ Got Blotted Out at the Box Office Deadline\n- Taika Waititi Slams ‘Klara and the Sun’ Critics as ‘Irrelevant,’ ‘Sad Lost Souls’ and Says He Hasn’t ‘Read a Review’ in 15 Years: ‘But I Do Listen to the People’ Variety"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb1VkN1VkOXRYZTZOck5kZGkzajh2ZUZZTWVfNUNBTnNIVExTY1hmYmFtZFFWWWNnU2pHcEtlWmc5ZUlKZVQzTGhJVjR2Q0h6Q1JHdlM1MkdPWkxpMkhnY0M1akF3UGVEUEFjRDg2MHRObmxBYTVKRlNDc042dTBpTmYtbkdydzZNR3lfNHE2YTFIYmZvcVdyZTNPWlRCOXIzUmpGS1JCT3FTdzhJZXRWd3dVMFR0N0VRSDlMT1JzUU1PcUx0MFlpVlkxa2NEZGZWRkE?oc=5",
-     "title": "Taika Waititi dismisses Klara and the Sun critics as ‘failed artists’ after scathing reviews",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "188486716442c5cd",
-     "published": "2026-11-02T06:04+00:00",
-     "text": "- Taika Waititi dismisses Klara and the Sun critics as ‘failed artists’ after scathing reviews The Independent\n- Taika Waititi Calls ‘Klara And The Sun’ Critics “Irrelevant, Out Of Touch, Obsolete” Deadline\n- ‘Klara and the Sun’ Director Taika Waititi Calls Critics “Sad Lost Souls” Over Negative Reviews IMDb\n- Taika Waititi is Soooo Not Mad About ‘Klara and the Sun,’ Y’all Gizmodo\n- 'In the bin': Taika slams critics after Klara and the Sun panning NZ Herald"
-    },
-    {
-     "source": "Reddit films, TV, games & football",
-     "trust": 1,
-     "url": "https://reddit.com/r/movies/comments/1xlrhwj/taika_waititi_dismisses_klara_and_the_sun_critics",
-     "title": "Taika Waititi dismisses Klara and the Sun critics as ‘failed artists’ after scathing reviews",
-     "lang": "en",
-     "extra": {},
-     "id": "3e1faf389bdc7b9a",
-     "published": "2026-11-02T08:08+00:00",
-     "text": "submitted by\n/u/tylerthe-theatre\nto\nr/movies\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
    "id": "c29d076a281",
    "kind": "free",
    "score": 8.5,
@@ -7294,8 +7368,8 @@
       "market": "crypto",
       "day": "2026-11-02"
      },
-     "published": "2026-11-02T15:23+00:00",
-     "text": "Bitcoin: $77,832 (-0.2% 24h)\nEthereum: $2,288 (+0.8% 24h)\nSolana: $94.26 (-0.7% 24h)\nToncoin: $1.20 (-2.1% 24h)"
+     "published": "2026-11-02T15:54+00:00",
+     "text": "Bitcoin: $77,745 (-0.3% 24h)\nEthereum: $2,282 (+0.7% 24h)\nSolana: $93.78 (-1.1% 24h)\nToncoin: $1.19 (-2.4% 24h)"
     }
    ]
   },
