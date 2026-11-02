@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T03:12:44+00:00",
+ "generated_at": "2026-11-02T03:43:49+00:00",
  "clusters": [
   {
    "id": "cb8087c5f39",
@@ -594,25 +594,14 @@
    ]
   },
   {
-   "id": "ccecf37c22f",
+   "id": "ce207e0cfa1",
    "kind": "news",
    "score": 23.0,
    "sensitive": true,
    "distinct_sites": 6,
-   "title_hint": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+   "title_hint": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
    "official_image": null,
    "sources": [
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
-     "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
-     "lang": "en",
-     "extra": {},
-     "id": "cecf37c22f0f01d1",
-     "published": "2026-10-31T15:24+00:00",
-     "text": ""
-    },
     {
      "source": "NPR",
      "trust": 2,
@@ -647,6 +636,19 @@
      "id": "08fa2f6ec2d3f343",
      "published": "2026-11-01T16:20+00:00",
      "text": "The bureau said in a statement that the attack was tied to \"malicious cyber activity\" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year."
+    },
+    {
+     "source": "BleepingComputer",
+     "trust": 2,
+     "url": "https://bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers",
+     "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg"
+     },
+     "id": "db22ed3811171686",
+     "published": "2026-11-01T19:57+00:00",
+     "text": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record.\nIn a security alert published Saturday, the agency attributed the attack to TraderTraitor, a North Korean hacking group also tracked as Lazarus Group, Jade Sleet, and APT38, linked to numerous cryptocurrency thefts.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the FBI said.\nThis official attribution follows blockchain intelligence firms TRM Labs and Chainalysis, which had already linked the theft to TraderTraitor.\nAs previously reported, Binance linked the breach to a compromised DevOps engineer's laptop, which allowed the attackers to access a service container and submit unauthorized withdrawal transactions.\nThe attackers stole approximately $6.36 billion in cryptocurrency across ten blockchains, with most of the funds transferred in just 20 minutes.\nThe FBI says it has observed TraderTraitor converting stolen assets primarily into Ethereum (ETH), which it expects will be further laundered through decentralized finance (DeFi) platforms and instant cryptocurrency swap services.\nThe FBI, U.S. Secret Service, and IRS Criminal Investigation are now asking cryptocurrency exchanges, blockchain operators, and other virtual asset service providers to block transactions linked to addresses the hackers used to launder stolen funds.\nThe agency also published a list of 628 cryptocurrency addresses associated with the theft, including 608 Ethereum addresses, 19 Bitcoin addresses, and one Solana address.\nTraderTraitor has a long history of targeting cryptocurrency companies and their employees, with North Korean hackers linked to numerous crypto-theft attacks, including the $387.5 million Bitget theft in September 2026, the $280 million Drift hack in April 2026, $1.5 billion Bybit heist in February 2025, and the $308 million DMM Bitcoin theft in May 2024.\nOne tactic used by North Korean Lazarus hackers is a long-running campaign known as 'Operation DreamJob,' in which they impersonate recruiters and approach software developers and cryptocurrency employees with fake job offers to trick them into installing malware.\nBoth the DMM and Bybit attacks involved compromising computers belonging to employees or developers with access to cryptocurrency infrastructure.\nIn the DMM Bitcoin attack, hackers impersonated a recruiter on LinkedIn and tricked an employee at the cryptocurrency wallet company Ginco into running malicious Python code disguised as a pre-employment test.\nThe Bybit heist also stemmed from a compromised Safe{Wallet} developer's computer, which let hackers access the wallet platform and manipulate a legitimate transaction request by a DMM employee, redirecting $1.5 billion in cryptocurrency to wallets they controlled.\nMore recently, the April 2026 Drift attack involved a six-month social engineering operation in which individuals posing as representatives of a cryptocurrency trading firm met Drift contributors in person at multiple industry conferences.\nThe attackers spent months building relationships, and are believed to have compromised employees' devices through a malicious code repository or a TestFlight appli"
     },
     {
      "source": "Semafor Tech",
@@ -1276,181 +1278,85 @@
    ]
   },
   {
-   "id": "c94e0534854",
+   "id": "cfd04b66f83",
    "kind": "news",
    "score": 20.0,
    "sensitive": true,
    "distinct_sites": 5,
-   "title_hint": "Binance says it covered 90% of losses in cyberattack",
+   "title_hint": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
    "official_image": null,
    "sources": [
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/economy/binance-says-it-covered-90-of-losses-in-cyberattack/4107700",
-     "title": "Binance says it covered 90% of losses in cyberattack",
-     "lang": "en",
-     "extra": {},
-     "id": "94e05348543cd20e",
-     "published": "2026-11-01T00:24+00:00",
-     "text": "Company says remaining 10% consisted of lower-liquidity tokens"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/d6dc16a65f8e",
-     "title": "Binance says it covered 90% of cyberattack losses as FBI links theft to North Korea",
-     "lang": "en",
-     "extra": {},
-     "id": "50616e3d00924617",
-     "published": "2026-11-01T00:32+00:00",
-     "text": "The crypto exchange company says the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\""
-    },
     {
      "source": "Investing.com",
      "trust": 2,
-     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
-     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
+     "url": "https://investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
+     "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
      "lang": "en",
      "extra": {},
-     "id": "473bd658979d7399",
-     "published": "2026-11-01T00:38+00:00",
+     "id": "fd04b66f83a2c86b",
+     "published": "2026-11-01T06:20+00:00",
      "text": ""
     },
     {
-     "source": "Ahram Online",
+     "source": "Yahoo Finance",
      "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
-     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzl1TE9YTS1nMnBUenZ5X185WjBkMG1fZm9JSEJXM1lDV2hDTHI3bWFLS1hxaEo1ZHA5ZXNiYVQ0d2E5cTMzWmZQRkYzVDItTml5cTlwd0lzcG5ZZG5pcW9iTUZHajdLc2JLTjNJRUhNc3c3ZlZCTEowUFVZN1JPYWNRV3lDOGNEOWhWUkY0bFdlcDZQd1FGRy0xa3FYY3BiTUNtUWJoSQ?oc=5",
+     "title": "Binance says resuming withdrawals after major hack",
      "lang": "en",
      "extra": {},
-     "id": "3b6bb0c06269b687",
-     "published": "2026-11-01T07:33+00:00",
-     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
+     "id": "e884367c1056111d",
+     "published": "2026-11-01T06:58+00:00",
+     "text": "Binance says resuming withdrawals after major hack\nYahoo Finance"
     },
     {
-     "source": "BleepingComputer",
+     "source": "France 24 EN",
      "trust": 2,
-     "url": "https://bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers",
-     "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+     "url": "https://france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
+     "title": "Binance says resuming withdrawals after major hack",
      "lang": "en",
      "extra": {
-      "page_image": "https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg"
+      "page_image": "https://s.france24.com/media/display/ac356662-d401-11f1-8552-d18c5759e759/w:1280/p:16x9/Part-GTY-1496426886-1-1-2.jpg"
      },
-     "id": "db22ed3811171686",
-     "published": "2026-11-01T19:57+00:00",
-     "text": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record.\nIn a security alert published Saturday, the agency attributed the attack to TraderTraitor, a North Korean hacking group also tracked as Lazarus Group, Jade Sleet, and APT38, linked to numerous cryptocurrency thefts.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the FBI said.\nThis official attribution follows blockchain intelligence firms TRM Labs and Chainalysis, which had already linked the theft to TraderTraitor.\nAs previously reported, Binance linked the breach to a compromised DevOps engineer's laptop, which allowed the attackers to access a service container and submit unauthorized withdrawal transactions.\nThe attackers stole approximately $6.36 billion in cryptocurrency across ten blockchains, with most of the funds transferred in just 20 minutes.\nThe FBI says it has observed TraderTraitor converting stolen assets primarily into Ethereum (ETH), which it expects will be further laundered through decentralized finance (DeFi) platforms and instant cryptocurrency swap services.\nThe FBI, U.S. Secret Service, and IRS Criminal Investigation are now asking cryptocurrency exchanges, blockchain operators, and other virtual asset service providers to block transactions linked to addresses the hackers used to launder stolen funds.\nThe agency also published a list of 628 cryptocurrency addresses associated with the theft, including 608 Ethereum addresses, 19 Bitcoin addresses, and one Solana address.\nTraderTraitor has a long history of targeting cryptocurrency companies and their employees, with North Korean hackers linked to numerous crypto-theft attacks, including the $387.5 million Bitget theft in September 2026, the $280 million Drift hack in April 2026, $1.5 billion Bybit heist in February 2025, and the $308 million DMM Bitcoin theft in May 2024.\nOne tactic used by North Korean Lazarus hackers is a long-running campaign known as 'Operation DreamJob,' in which they impersonate recruiters and approach software developers and cryptocurrency employees with fake job offers to trick them into installing malware.\nBoth the DMM and Bybit attacks involved compromising computers belonging to employees or developers with access to cryptocurrency infrastructure.\nIn the DMM Bitcoin attack, hackers impersonated a recruiter on LinkedIn and tricked an employee at the cryptocurrency wallet company Ginco into running malicious Python code disguised as a pre-employment test.\nThe Bybit heist also stemmed from a compromised Safe{Wallet} developer's computer, which let hackers access the wallet platform and manipulate a legitimate transaction request by a DMM employee, redirecting $1.5 billion in cryptocurrency to wallets they controlled.\nMore recently, the April 2026 Drift attack involved a six-month social engineering operation in which individuals posing as representatives of a cryptocurrency trading firm met Drift contributors in person at multiple industry conferences.\nThe attackers spent months building relationships, and are believed to have compromised employees' devices through a malicious code repository or a TestFlight appli"
+     "id": "adf803a13e4e4d99",
+     "published": "2026-11-01T07:01+00:00",
+     "text": "Binance says resuming withdrawals after major hack\nBinance said Sunday that it had resumed withdrawals after a major hack that affected more than $6 billion in funds.\nBinance, which is the world's largest crypto exchange by daily trading volumes, had suspended user withdrawals after the attack.\n\"First batch network now opened in phase one of withdrawals is $BTC bitcoin network,\" Binance said on X.\nThe company said in an earlier update that it was preparing to resume the first phase of withdrawals between 0600 and 0900 GMT on Sunday.\n\"We are taking a phased approach by prioritizing tokens based on the past week data of user demand, so that each network and asset pair can be restored carefully, with stability and security checks completed before access is reopened,\" it said.\nBinance said Saturday that it has set aside more than $6.34 billion in company funds to cover losses in the hack, which is thought to be the biggest-ever crypto heist.\n\"User funds remain safe. Binance will absorb the financial impact of the stolen funds, not our users,\" it said on X.\nThe FBI accused North Korea of being behind the attack on Saturday, confirming earlier suspicions from private investigators and analysts that a Pyongyang-affiliated group called TraderTraitor was behind the hack.\nThe hack is the latest in a string of high-profile cyber thefts linked to North Korea, which has built a formidable hacking operation, generating funds believed to help finance its weapons program.\nNews of the cyberattack caused the prices of most major cryptocurrencies to fall sharply on Friday.\n(FRANCE 24 with AFP)"
     },
     {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81S2VuSVhqVExKRkVHY2RjU2hDZ2JCdGlaNk5OTE9HeUxEbnAwWFpoUDhqNktpTVFMNE16SkR3azlIT2xFZW0xMTREaFIxOUVuWWNXRml3d2tyMG9aeTZ5ZVd1c3RZdHAzNlluVnMzSTZsbWhsQnc?oc=5",
-     "title": "How North Korea perfected the crypto heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "612cf9d910ac1878",
-     "published": "2026-11-01T01:48+00:00",
-     "text": "- How North Korea perfected the crypto heist Axios\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history PBS\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered CNBC"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjBKNHBsSy1EQlN4NnM4QXQ0OXNDeFlzUnY1bVVtYVB3RU9ZSk5vOGU0MzFkLWFlMXIzYS1hNnpzOHNjX3BLa1JjMTZIUUppT0JVVk9QeUR6X3pkSXVCOU53VmhtYXRQV0dQX05WclZGYlgwSWlTZnpUYUVFVzVKZko2UDdXeGRXOWllT3FNTHMxNGJTMlgyNy1BcnVYaDIzaWRUNFZpUG9EQ3JSZEHSAbMBQVVfeXFMTXBHdjctTGNMSU5XZUVxTGFsZFBlN1A3Y0pDRHp5dDItMk9aZW9DcXA4b3RTWXpQbnc2U0VJRk1QRjk0T21iMzJoV0hXQlBkWlBFS2hKeFRhVXZ5ODc0ZVhULUJzMGxmLXFxaGtIZlVSV1I2a3NDcjJTSVJTU25UZ1kySGtJaVZheGxqRVAyVWNLTGlBWlZpMVV2LW5DV29yUVF6YjVvazF5NGhhMzRLRTY5T0U?oc=5",
-     "title": "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says - Fox Business",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-     },
-     "id": "99e140d5cb43eb74",
-     "published": "2026-11-01T05:37+00:00",
-     "text": "- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stolen billions from Binance in biggest hack in history KCRA\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmVOUTJ5cEo0bUU2Unp2V093dXNIN3hEaHB5VXRrZlBYRjc5RkVzM2lraGRpZGNIM0s0Uk15bVdPOHNSNGJsN29Ma3lVTzBleWd2WHRuSGlzOXVtV193RE8wbXgyaGNjdGdJRkUxdkR2ajN0MGh2STQ2T2p3YTVMTnRVME8?oc=5",
-     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "fe9a6ec2b57b5e87",
-     "published": "2026-11-01T06:48+00:00",
-     "text": "- FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist The Hacker News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals following $6.3 billion breach TechCrunch\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
-    }
-   ]
-  },
-  {
-   "id": "c4c11af85a3",
-   "kind": "news",
-   "score": 20.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Binance restarts customer withdrawals after $6.3bn heist",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Financial Times Tech",
+     "source": "CoinDesk",
      "trust": 2,
-     "url": "https://ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
-     "title": "Binance restarts customer withdrawals after $6.3bn heist",
+     "url": "https://coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
      "lang": "en",
      "extra": {},
-     "id": "4c11af85a3c5c86a",
-     "published": "2026-11-01T09:38+00:00",
-     "text": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/binance-crypto-heist-withdrawals",
-     "title": "Binance resumes withdrawals for some cryptocurrencies after heist",
-     "lang": "en",
-     "extra": {},
-     "id": "1cbd128f711078b5",
+     "id": "6823fce0faaead9f",
      "published": "2026-11-01T10:35+00:00",
-     "text": "The exchange said it would resume withdrawals in phases, pending security checks."
+     "text": ""
     },
     {
-     "source": "Al Jazeera",
+     "source": "Decrypt",
      "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss",
-     "title": "Binance restarts withdrawals after $6.3bn heist",
+     "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
+     "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
      "lang": "en",
      "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae7290a-1793534218.jpg?resize=1920%2C1440"
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg"
      },
-     "id": "968de158efb65131",
-     "published": "2026-11-01T12:50+00:00",
-     "text": "Binance has begun restoring customer withdrawals after hackers stole about $6.3bn in cryptocurrency in a record theft that United States authorities have blamed on North Korea.\nThe world’s largest cryptocurrency exchange resumed some of its services on Sunday, following a suspension imposed after Thursday’s attack as the company investigated the breach and carried out security checks.\nRecommended Stories\nlist of 4 items- list 1 of 4Photos: Youth-led rallies sweep Germany\n- list 2 of 4Bulgarians vote in presidential run-off amid Black Sea tensions\n- list 3 of 4Mediators continue US-Iran negotiations amid war rhetoric: What we know\n- list 4 of 4Thousands rally in New Delhi to demand India’s election chief resign\nBinance said it had replaced approximately 95 percent of the affected assets. “Binance will absorb the financial impact of the stolen funds, not our users,” the company said in a statement on X on Sunday.\nWithdrawals are being restored in stages, with major cryptocurrencies such as Bitcoin and Ether, along with some stablecoin services, being reopened.\nThe exchange warned that high demand could cause delays as services return, advising customers whose transactions fail to try again after a short wait.\nIt said further services would reopen as security checks were completed, while teams continued working with law enforcement and industry partners to trace and recover the stolen assets.\nFBI blames North Korea\nThe FBI said on Saturday that North Korea was responsible for the theft, identifying the operation as cyber-activity it tracks under the name TraderTraitor.\nInvestigators had observed the attackers converting stolen assets primarily into ether, the cryptocurrency used on the Ethereum network, the agency said. It warned that further laundering was expected through decentralised finance platforms and instant cryptocurrency exchange services.\nThe FBI previously attributed the theft of approximately $1.5bn from cryptocurrency exchange Bybit in February 2025 to the same actors.\nBinance initially said a compromised employee laptop might have enabled the intrusion, but later reported that investigators had also uncovered additional points of breach.\nThe company said its investigation remained ongoing and that it would publish a detailed report once the inquiry was complete."
-    },
-    {
-     "source": "TechCrunch",
-     "trust": 2,
-     "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach",
-     "title": "Binance resumes withdrawals following $6.3 billion breach",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800"
-     },
-     "id": "419b7664b21650f6",
-     "published": "2026-11-01T16:20+00:00",
-     "text": "Cryptocurrency exchange Binance announced early on Sunday that it would begin allowing withdrawals in a phased process.\nThe company froze all deposits and withdrawals after hackers stole $6.3 billion worth of crypto from Binance wallets. In its latest update, Binance said it has now covered 95% of the stolen assets, and it’s still working to buy the “remaining affected assets,” which are “less liquid in the market and take longer time to source at the required scale.”\n“Our commitment remains unchanged: Binance will bear the financial impact of the stolen funds,” the company added. “These losses will not be passed on to users.”\nAs for the withdrawal freeze, Binance said it did not make the decision lightly, as it understands “how important reliable access to withdrawals is for our users.” Nonetheless, the company said this was a necessary “precaution while our teams worked to contain the incident loss, assess its impact, restore affected services, and complete security checks.”\nBinance will resume supporting withdrawals in phases, depending on network and asset type. As of Sunday morning, the company’s network status page showed a mix of normal, partially suspended, and fully suspended statuses — for example, Bitcoin withdrawals and deposits are still listed as partially suspended, while Ethereum deposits are normal and withdrawals are partially suspended.\nThe company also said users should expect “temporary delays or longer processing times due to traffic volume.”\n“Resuming withdrawals is a major milestone, but our work continues,” Binance said. “We will continue strengthening our safeguards, completing the recovery process, and providing updates as progress continues.”\nThe company also said it will publish a more in-depth incident report when its investigation is complete.\nBinance previously blamed North Korea hackers for the breach. On Saturday, the FBI said that a North Korean group known as TraderTraitor was responsible, and that the group was converting the assets primarily into Ethereum, with further laundering likely."
+     "id": "1078f846b2095338",
+     "published": "2026-11-01T16:01+00:00",
+     "text": "In brief\n- U.S. spot Bitcoin ETFs shed $643.2 million on Friday, their biggest outflow of October, in the first session after Thursday’s $6.4 billion Binance hack.\n- Ethereum ETFs extended a five-day outflow streak to about $431 million, and Solana ETFs lost about $72 million over the week.\n- Bitcoin fell about 4% Friday before steadying near $77,520 Saturday, while Myriad traders turned bearish on Ethereum and Solana.\nThe first real test of how ETF investors would react to the largest crypto hack in history came back red.\nU.S. spot Bitcoin ETFs shed $643.2 million on Friday, according to Decrypt’s ETF tracker, their biggest single-day outflow of October. It was the funds’ first full session since attackers began draining roughly $6.4 billion from Binance at 4:05 p.m. ET Thursday, after U.S. markets had closed. Thursday’s $17.2 million in inflows predated the theft.\nThe selling erased a four-day, $441 million inflow run, leaving the funds down about $202 million for the week and roughly $516 million for October. Cumulative net inflows since launch slipped to $57.4 billion, with total net assets at $103.2 billion.\nEthereum and Solana ETFs fared worse relative to their size. Ethereum funds lost $155.7 million on Friday, extending a five-day outflow streak to about $431 million and pushing October losses to roughly $1.61 billion. Solana ETFs shed $10.8 million, their fifth straight day of outflows, totaling about $72 million for the week. They logged net inflows on just two days all month.\nSpot crypto ETFs hold the underlying asset, such as Bitcoin or Ethereum, and trade on stock exchanges like ordinary shares, giving investors exposure through a regular brokerage account.\nBitcoin funds have drawn $57.4 billion in net inflows since debuting in January 2024, and Ethereum funds have taken in $12.2 billion since launching that July. Because issuers report flows daily and much of the money comes from institutions and financial advisers, the figures have become a closely watched gauge of investor sentiment.\nCrypto markets initially appeared to take the Binance hack largely in stride, considering the scale of the theft. Bitcoin fell about 4% to roughly $76,400 on Friday, and more than $1.3 billion in leveraged positions were liquidated. It’s a sharp drop, but a far smaller one than the nearly 11% plunge after a failed attack on Binance in 2018.\nBinance has pledged to cover all losses with company funds and an emergency reserve, while Tether and Circle froze more than $2.3 billion in stolen stablecoins. Some Wall Street firms even urged clients to buy crypto-linked stocks on the potential weakness in markets.\nBy Saturday, Bitcoin had steadied at about $77,520, up 0.5% over 24 hours but down 3.3% on the week. Ethereum traded near $2,251, down 3.9% for the week, and Solana near $96, down 4.5%. Total crypto market cap held at about $2.7 trillion.\nMacro headwinds remain in play. The Federal Reserve held rates at 3.75% to 4% on Wednesday, but two officials voted for a hike, and traders had priced odds above 70% for an increase in December.\nTraders on Myriad, a prediction market developed by Decrypt’s parent company Dastan, have turned bearish on Ethereum and Solana. They now give Ethereum a 51.3% chance of falling to $1,500 before reaching $3,000, flipping a market that favored the upside at 61.3% a week ago. Solana’s odds of sinking to $40 before hitting $160 rose to 53.7%."
     },
     {
      "source": "Google News Business EN",
      "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ldjZIQkxhcjB1X0hJNVVKTHNWNTZtNXNBc0lJdllqcWZXQ0lHbFMzdWFJcnlWOU9YNl9DYmswZlJGQTAtc3ZkMXQ2bFpSV2xxQ3laRVpaNkRMUTFjM2Yzc2s3RHVnQnI0V0xPQmJ1NA?oc=5",
-     "title": "Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2YyTGwzbUNaa2oxcUJoeDZoTTZOaDB0MENBc3Ewa2JURFRCVG00cDVxbW1BczVGNzBaa2hUUHFQSXlGaFl3WjdTUUUzbDJCUnZvdW9nZmczZVllNHV1QldfYnZjYVN2SU5wOXJqRVI4ejRYZUMteG1yWnUtMVdXbERMREh0bDIyTE9wTllxaGFGMWstM29NM3EtOGM0N1dObHBUQzMyWHVpZkNoSzlz?oc=5",
+     "title": "Binance to Resume Customer Withdrawals in Phases After Hack",
      "lang": "en",
      "extra": {
       "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "4611f35e636c5236",
-     "published": "2026-11-01T10:35+00:00",
-     "text": "- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance hack spotlights North Korea’s multibillion-dollar crypto theft operation NBC News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack WSJ"
+     "id": "dab83e80ea2ec1ae",
+     "published": "2026-11-01T10:28+00:00",
+     "text": "Binance to Resume Customer Withdrawals in Phases After Hack\nBloomberg.com\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -1754,6 +1660,88 @@
    ]
   },
   {
+   "id": "c84346e5eb9",
+   "kind": "news",
+   "score": 18.5,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+   "official_image": "https://images.nintendolife.com/6a092d6cb4101/large.jpg",
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724060",
+     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+     "lang": "en",
+     "extra": {},
+     "id": "286a06f727e44e01",
+     "published": "2026-11-01T17:51+00:00",
+     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
+    },
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/1450625/view/693150463100455410",
+     "title": "New Animal Crossing-Like Game Coming to Nintendo Switch 2",
+     "lang": "en",
+     "extra": {},
+     "id": "4188903391c40b4f",
+     "published": "2026-11-01T21:41+00:00",
+     "text": "An upcoming Animal Crossing-like game has officially been confirmed for release on the Nintendo Switch 2, with Petit Planet revealing that it will arrive on the Nintendo platform in 2027. Petit Planet will be the newest game from Genshin Impact developer HoYoverse and has drawn positive comparisons to Nintendo's Animal Crossing series."
+    },
+    {
+     "source": "Nintendo News",
+     "trust": 3,
+     "url": "https://nintendolife.com/news/2026/11/hoyoverse-announces-cosy-galactic-life-sim-petit-planet-for-switch-2",
+     "title": "HoYoverse Announces Cosy Galactic Life Sim 'Petit Planet' For Switch 2",
+     "lang": "en",
+     "extra": {
+      "image": "https://images.nintendolife.com/6a092d6cb4101/large.jpg",
+      "page_image": "https://images.nintendolife.com/6a092d6cb4101/1280x720.jpg"
+     },
+     "id": "5498a22730a118f2",
+     "published": "2026-11-02T03:30+00:00",
+     "text": "HoYoverse, the company known for games like Genshin Impact and Zenless Zone Zero, has announced it's bringing the cosy free-to-play galactic life sim Petit Planet to the Switch 2 in 2027.\nHoYoverse shared this news about the Nintendo version of the game at the end of its latest \"pre-launch special program\" broadcast. Petit Planet is launching for other platforms on 4th December 2026.\nYou can see the Switch 2 version in motion around the 28 minute mark in the video above. Here's the announcement:\n\"We're excited to announce that Petit Planet is coming to Nintendo Switch 2 in 2027. We can't wait to welcome to you the Starsea.\"\nPetit Planet allows you to make your planet your own, live alongside fuzzy neighbours, farm, fish, cook, and even explore the vast Starsea, beyond your planet. Here's an official description and trailer:\n\"Your Little Planet. Your Own Universe. Petit Planet is HoYoverse's cozy galactic life sim, available as a free download on multiple platforms. Make a little planet your own, live alongside fuzzy Neighbors, and discover cozy wonders beneath the stars.Step into the Starsea and make a little planet your own. Shape the land and skies, befriend fuzzy Neighbors, explore new worlds, and visit a bustling bazaar where galactic travelers gather. Create, discover, build lasting friendships, and watch as your own planet begins to teem with life.\"\nWould you be interested in playing this game on the Switch 2? Let us know in the comments.\nComments 2\nAnd meanwhile Genshin is no where to be found.\nHow much do you guys wanna bet that is announcement will be like the Genshin Impact announcement for Switch 2.\nRegardless if this DOES come to Switch 2, I may try it out.\nThe day HoYoverse makes an actual game you can buy and “own” is the day I’ll give their games a glance. I don’t need to get caught up in this predatory, free-to-play, FOMO-inducing, live-service nonsense.\nLeave A Comment\nHold on there, you need to login to post a comment..."
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor",
+     "title": "Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/petit-planet-switch-2.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "84346e5eb98621f0",
+     "published": "2026-11-01T14:27+00:00",
+     "text": "Many Animal Crossing competitors have emerged since New Horizons became a breakout success in 2020, but few have a chance to take on the popular Nintendo series like HoYoverse's Petit Planet. Now, we've learned that a showdown between the two games will take place on Nintendo Switch 2, as a release window for a port was recently confirmed.\nWhen will Petit Planet come to Nintendo Switch 2?\nWe already knew that Petit Planet would be released on PC, iOS, and Android on Dec. 4. At the end of a Pre-Launch Special Program livestream HoYoverse held for Petit Planet today, a brief trailer confirmed that a Nintendo Switch 2 port is in the works and has a 2027 release window. We also see a bit of gameplay footage that looks on par with the PC version and clearly supports both docked and handheld play.\nThe fit for Petit Planet on Nintendo Switch 2 is obvious, as cozy games like it dominate on Nintendo systems. Although it has more of a sci-fi aesthetic than Animal Crossing, the same gameplay loops of customizing a character and then building up a homestead (in this case a planet) were on full display in that latest livestream. Petit Planet doubles down on farming more than Animal Crossing: New Horizons, as it's clearly also inspired by cozy games like Stardew Valley.\nPolygon has previewed Petit Planet a couple of times and consistently enjoyed it, though we have had questions about how disruptive the gacha live service elements would be once the game exits pre-release playtesting. We'll get our answer in December, and then truly know whether Petit Planet has the potential to take on Animal Crossing by the time it launches on Switch 2.\nAnimal Crossing: New Horizons - Nintendo Switch 2 Edition released in January, but no brand-new Animal Crossing game has been announced for the latest Nintendo console yet. As such, it makes sense why HoYoverse would want to prioritize this version of Petit Planet over a PS5 or Xbox Series X port, as the Animal Crossing-like does have some real potential to catch on when it hits Nintendo Switch 2 next year."
+    },
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Animal-Crossing-rival-coming-to-Nintendo-Switch-2.1439498.0.html",
+     "title": "Animal Crossing rival coming to Nintendo Switch 2",
+     "lang": "en",
+     "extra": {},
+     "id": "c4d7f50ac7ec8201",
+     "published": "2026-11-01T16:42+00:00",
+     "text": "HoYoverse’s life simulation Petit Planet will arrive on Nintendo Switch 2 in 2027, following its December 4, 2026 launch on PC, iOS and Android. Players can develop a planet, farm, fish and build relationships with neighbors. Plans for other consoles remain unannounced."
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/petit-planet-switch-2-release-date",
+     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
+     "lang": "en",
+     "extra": {},
+     "id": "9c38bbb19c425e71",
+     "published": "2026-11-01T17:38+00:00",
+     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
+    }
+   ]
+  },
+  {
    "id": "c7e7e382587",
    "kind": "news",
    "score": 18.0,
@@ -1818,6 +1806,80 @@
      "id": "4391a0563143342f",
      "published": "2026-11-01T17:06+00:00",
      "text": "Russia’s Federal Security Service says detainee posted TikTok videos showing object resembling weapon at Moscow museum-reserve"
+    }
+   ]
+  },
+  {
+   "id": "c0d85441fe1",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Binance resumes withdrawals following $6.3 billion breach",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "TechCrunch",
+     "trust": 2,
+     "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach",
+     "title": "Binance resumes withdrawals following $6.3 billion breach",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800"
+     },
+     "id": "419b7664b21650f6",
+     "published": "2026-11-01T16:20+00:00",
+     "text": "Cryptocurrency exchange Binance announced early on Sunday that it would begin allowing withdrawals in a phased process.\nThe company froze all deposits and withdrawals after hackers stole $6.3 billion worth of crypto from Binance wallets. In its latest update, Binance said it has now covered 95% of the stolen assets, and it’s still working to buy the “remaining affected assets,” which are “less liquid in the market and take longer time to source at the required scale.”\n“Our commitment remains unchanged: Binance will bear the financial impact of the stolen funds,” the company added. “These losses will not be passed on to users.”\nAs for the withdrawal freeze, Binance said it did not make the decision lightly, as it understands “how important reliable access to withdrawals is for our users.” Nonetheless, the company said this was a necessary “precaution while our teams worked to contain the incident loss, assess its impact, restore affected services, and complete security checks.”\nBinance will resume supporting withdrawals in phases, depending on network and asset type. As of Sunday morning, the company’s network status page showed a mix of normal, partially suspended, and fully suspended statuses — for example, Bitcoin withdrawals and deposits are still listed as partially suspended, while Ethereum deposits are normal and withdrawals are partially suspended.\nThe company also said users should expect “temporary delays or longer processing times due to traffic volume.”\n“Resuming withdrawals is a major milestone, but our work continues,” Binance said. “We will continue strengthening our safeguards, completing the recovery process, and providing updates as progress continues.”\nThe company also said it will publish a more in-depth incident report when its investigation is complete.\nBinance previously blamed North Korea hackers for the breach. On Saturday, the FBI said that a North Korean group known as TraderTraitor was responsible, and that the group was converting the assets primarily into Ethereum, with further laundering likely."
+    },
+    {
+     "source": "Phys.org Tech",
+     "trust": 2,
+     "url": "https://techxplore.com/news/2026-11-binance-resumes-billion-stolen-hack.html",
+     "title": "Binance resumes withdrawals after more than $6 billion stolen in hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://scx2.b-cdn.net/gfx/news/2026/binance-is-the-worlds-1.jpg"
+     },
+     "id": "a2bedae0cff36743",
+     "published": "2026-11-01T19:08+00:00",
+     "text": "Binance resumes withdrawals after more than $6 billion stolen in hack\nBinance said that it had seen withdrawals of around $4.7 billion on Sunday, after more than $6 billion in virtual assets were stolen from the cryptocurrency exchange in a major hack the FBI said North Korea was responsible for.\nBinance is the world's largest crypto exchange by daily trading volumes. News of the hacking attack, which is thought to be the biggest-ever crypto heist, caused the prices of most major cryptocurrencies to fall sharply on Friday.\nThe company has offered reassurances it will cover the losses from the attack, saying it has used company funds to buy tokens to replenish 90% of what was stolen.\nBinance suspended user withdrawals after the attack but said they would be resumed in phases, the first of which began on Sunday.\nBetween 6 a.m. GMT and 3:30 p.m. GMT, the platform said it had processed $4.65 billion in withdrawals and $1.01 billion in deposits.\nThe net outflow of $3.64 billion amounted to about 2.1% of the total assets the company manages.\nThe U.S. Federal Bureau of Investigation accused North Korea of being behind the hack in a statement on Saturday, confirming earlier suspicions from private investigators and analysts that a Pyongyang-affiliated group called TraderTraitor was responsible.\nTraderTraitor is the same group blamed for a $1.5 billion theft from the Bybit platform in February last year.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about Oct. 29, 2026,\" the statement said.\nThe FBI added that it had observed \"TraderTraitor actors\" converting stolen assets into Ethereum, and expected those assets to be laundered further by converting them using decentralized finance and instant swap services.\nIt said it was urging private-sector entities \"to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.\"\nU.S. President Donald Trump cast doubt on North Korea's involvement in the hack.\n\"I'm not concerned. We're learning about it. We don't know if it's North Korea,\" Trump told reporters at his residence in Florida late Saturday.\nThe president often reflects with pride on summits he held with North Korean leader Kim Jong Un during his first term.\n'Commitment' to cover losses\nBinance said Saturday it has set aside more than $6.34 billion in company funds to cover losses in the hack.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said it has used company money to buy tokens to replenish 90% of the stolen funds, while the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\"\nThe attack on Binance came as many observers express worries that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% after the news of the hack, while Ethereum dropped nearly 6% and BNB, native to Binance, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on the capacity of North Korea—which faces extensive international sanctions over its nuclear and missile programs—to find illicit means to capture funds.\nTraderTraitor is believed to be part of t"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDA1ck9VUktfdWl0NkxvRWlCdjYxLU1CdDdjNmxkbXRObGN4d2phU2xaSWJFRWdtOHlWOFhTSUZfRlJQbjhSZGJBYVFOOTVkTkhqb0I5ZHJZelcwdVFWSmlGRjNyU203cGMxRzMyeFhKQVhxaEFIdHFmdGtMLUp1ZUhR0gGHAUFVX3lxTFBiTEZkazA0N0NudVJaM0ZGb0pQLWJ5QkFzd1N2UkJFZzkwYll3aTdFZC1ZOEIyS0FPOHRONVNMejR3RjRFdFpRVnZ6eTRmQ0FDZEg5TndvN1ZNM3pxNWZQcWo2MlN6MWxGRk10b19UVFgtd3M5dUVKVlBGZFBFNnZaQ2dtVWtaTQ?oc=5",
+     "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "0d85441fe13a9c6b",
+     "published": "2026-10-31T16:03+00:00",
+     "text": "- Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered CNBC\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance withdrawals resume following $6 billion hack CNN\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    },
+    {
+     "source": "Reddit tech & AI",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xkpdbd/binance_says_90_of_63_billion_hack_losses_are_now",
+     "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+     "lang": "en",
+     "extra": {},
+     "id": "ada8d8f1b1c9e59e",
+     "published": "2026-11-01T00:13+00:00",
+     "text": "submitted by\n/u/Logical_Welder3467\nto\nr/technology\n[link]\n[comments]"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lWHJoMDVuMklnaGFNNUhaa0lYX2pSTHVCVS00ZUZxUlNjSFRYWjdTOWtFYzB6NzFsTm1KbXBrN1A0b0o5WUU5NmpJenpuLTNiV0pPek50LWxJajF3Q2V6aU5nbWU0MlF2YTA1VGFjOVZHT0pVRTlWcjE3SVo?oc=5",
+     "title": "Binance withdrawals resume following $6 billion hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "789581ca127e7eca",
+     "published": "2026-11-01T17:09+00:00",
+     "text": "- Binance withdrawals resume following $6 billion hack CNN\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- A simple explainer of the massive $6.3 billion crypto heist at Binance NPR\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
     }
    ]
   },
@@ -1999,89 +2061,6 @@
      "id": "d2658a474082c0d5",
      "published": "2026-11-01T01:04+00:00",
      "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "cfd04b66f83",
-   "kind": "news",
-   "score": 18.0,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
-     "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
-     "lang": "en",
-     "extra": {},
-     "id": "fd04b66f83a2c86b",
-     "published": "2026-11-01T06:20+00:00",
-     "text": ""
-    },
-    {
-     "source": "Yahoo Finance",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzl1TE9YTS1nMnBUenZ5X185WjBkMG1fZm9JSEJXM1lDV2hDTHI3bWFLS1hxaEo1ZHA5ZXNiYVQ0d2E5cTMzWmZQRkYzVDItTml5cTlwd0lzcG5ZZG5pcW9iTUZHajdLc2JLTjNJRUhNc3c3ZlZCTEowUFVZN1JPYWNRV3lDOGNEOWhWUkY0bFdlcDZQd1FGRy0xa3FYY3BiTUNtUWJoSQ?oc=5",
-     "title": "Binance says resuming withdrawals after major hack",
-     "lang": "en",
-     "extra": {},
-     "id": "e884367c1056111d",
-     "published": "2026-11-01T06:58+00:00",
-     "text": "Binance says resuming withdrawals after major hack\nYahoo Finance"
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
-     "title": "Binance says resuming withdrawals after major hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s.france24.com/media/display/ac356662-d401-11f1-8552-d18c5759e759/w:1280/p:16x9/Part-GTY-1496426886-1-1-2.jpg"
-     },
-     "id": "adf803a13e4e4d99",
-     "published": "2026-11-01T07:01+00:00",
-     "text": "Binance says resuming withdrawals after major hack\nBinance said Sunday that it had resumed withdrawals after a major hack that affected more than $6 billion in funds.\nBinance, which is the world's largest crypto exchange by daily trading volumes, had suspended user withdrawals after the attack.\n\"First batch network now opened in phase one of withdrawals is $BTC bitcoin network,\" Binance said on X.\nThe company said in an earlier update that it was preparing to resume the first phase of withdrawals between 0600 and 0900 GMT on Sunday.\n\"We are taking a phased approach by prioritizing tokens based on the past week data of user demand, so that each network and asset pair can be restored carefully, with stability and security checks completed before access is reopened,\" it said.\nBinance said Saturday that it has set aside more than $6.34 billion in company funds to cover losses in the hack, which is thought to be the biggest-ever crypto heist.\n\"User funds remain safe. Binance will absorb the financial impact of the stolen funds, not our users,\" it said on X.\nThe FBI accused North Korea of being behind the attack on Saturday, confirming earlier suspicions from private investigators and analysts that a Pyongyang-affiliated group called TraderTraitor was behind the hack.\nThe hack is the latest in a string of high-profile cyber thefts linked to North Korea, which has built a formidable hacking operation, generating funds believed to help finance its weapons program.\nNews of the cyberattack caused the prices of most major cryptocurrencies to fall sharply on Friday.\n(FRANCE 24 with AFP)"
-    },
-    {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-     "lang": "en",
-     "extra": {},
-     "id": "6823fce0faaead9f",
-     "published": "2026-11-01T10:35+00:00",
-     "text": ""
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2YyTGwzbUNaa2oxcUJoeDZoTTZOaDB0MENBc3Ewa2JURFRCVG00cDVxbW1BczVGNzBaa2hUUHFQSXlGaFl3WjdTUUUzbDJCUnZvdW9nZmczZVllNHV1QldfYnZjYVN2SU5wOXJqRVI4ejRYZUMteG1yWnUtMVdXbERMREh0bDIyTE9wTllxaGFGMWstM29NM3EtOGM0N1dObHBUQzMyWHVpZkNoSzlz?oc=5",
-     "title": "Binance to Resume Customer Withdrawals in Phases After Hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "dab83e80ea2ec1ae",
-     "published": "2026-11-01T10:28+00:00",
-     "text": "Binance to Resume Customer Withdrawals in Phases After Hack\nBloomberg.com\nSee more headlines & perspectives on Google News"
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lWHJoMDVuMklnaGFNNUhaa0lYX2pSTHVCVS00ZUZxUlNjSFRYWjdTOWtFYzB6NzFsTm1KbXBrN1A0b0o5WUU5NmpJenpuLTNiV0pPek50LWxJajF3Q2V6aU5nbWU0MlF2YTA1VGFjOVZHT0pVRTlWcjE3SVo?oc=5",
-     "title": "Binance withdrawals resume following $6 billion hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "789581ca127e7eca",
-     "published": "2026-11-01T17:09+00:00",
-     "text": "- Binance withdrawals resume following $6 billion hack CNN\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- A simple explainer of the massive $6.3 billion crypto heist at Binance NPR\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
     }
    ]
   },
@@ -2361,6 +2340,98 @@
    ]
   },
   {
+   "id": "c3863b3cc67",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/sports/formula-1/kimi-antonelli-becomes-youngest-formula-1-champion-ever-20-years-old-rcna606726",
+     "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
+     "lang": "en",
+     "extra": {},
+     "id": "3863b3cc67e3ac3e",
+     "published": "2026-11-01T22:25+00:00",
+     "text": "Kimi Antonelli clinched the Formula 1 world championship Sunday, becoming the youngest driver in the sport’s history to win the title at just 20."
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWlF3LWRIYVMxZS0xZm1wSmREYk96bUVnTnNsbEprRU5BWXNNRS1DOXR6X09PSW5UX0c4dE5WbU5TeUdwX19ueTNWYTRfcmF4UVQwZWc3Y2V1cXJlbzFWTDdMVW84RVNVeUcxZV9JOERiUU5ha2twX2xNLW45dDhGYmZ4VXdOTS1oSlZUZTQyZFJOV25ldXd5Sk1oaldURXJLX0VIeXdn?oc=5",
+     "title": "Antonelli makes history as youngest F1 champion at 20 years old",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "2e20a735a01f1e3a",
+     "published": "2026-11-01T22:32+00:00",
+     "text": "Antonelli makes history as youngest F1 champion at 20 years old\nReuters"
+    },
+    {
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/7724261/2026/11/01/kimi-antonelli-f1-champion-2026",
+     "title": "Fearless and ahead of schedule, Kimi Antonelli is Formula 1’s youngest world champion",
+     "lang": "en",
+     "extra": {},
+     "id": "5b5536e91d8214eb",
+     "published": "2026-11-01T22:47+00:00",
+     "text": "At 20 years and two months old, Kimi Antonelli is now the youngest F1 world champion, surpassing the record a 23-year-old Sebastian Vettel set in 2010."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/sports/kimi-antonelli-becomes-youngest-f1-world-champion-with-3rd-place-finish-in-mexico/4108242",
+     "title": "Kimi Antonelli becomes youngest F1 world champion with 3rd-place finish in Mexico",
+     "lang": "en",
+     "extra": {},
+     "id": "16679e1ec68ed3e4",
+     "published": "2026-11-01T22:49+00:00",
+     "text": "20-year-old Italian clinches title in only his 2nd season as Verstappen wins Mexican Grand Prix ahead of Hamilton"
+    },
+    {
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/7723425/2026/11/01/kimi-antonelli-f1-championship-season-inside-story",
+     "title": "How Kimi Antonelli became Formula 1’s youngest champion, surprising even himself",
+     "lang": "en",
+     "extra": {},
+     "id": "6d2c395f1b13c06d",
+     "published": "2026-11-01T22:57+00:00",
+     "text": "Kimi Antonelli has sealed the 2026 F1 world title in just his second season. The story of his campaign is just as sensational."
+    },
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/sports/2026/11/02/more-sports/kimi-antonelli-youngest-f1-champion",
+     "title": "Kimi Antonelli makes history as youngest-ever Formula One champion at 20",
+     "lang": "en",
+     "extra": {},
+     "id": "e92bff764abb66c1",
+     "published": "2026-11-02T00:42+00:00",
+     "text": "The previous youngest champion was Germany's Sebastian Vettel, who took the first of his four titles with Red Bull at 23 years and 134 days in 2010."
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQWhXOGNVbHNkZkhIdDd3MVFpaTZtVTV1WF9SbGRURFpIekVnV2l2SGdQSkpBX1BXNXF6YWQtaG10U2tQQ01EeFF2UE9wa0NZQlBOWkNPNThVZW5GUDNFa1Vnd0RhM0FpdVpoVjFuTzBWZ2tTelRib0M2VEtpVzU5NlpnQU1xc24yOUpMRnE4OVR0SmpiS3cwUWY4RFhyUVR6WENWMVRpUmkwb1BtQnFFbFd6bTJXaEtPUVIxaw?oc=5",
+     "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "fdce20de20226f76",
+     "published": "2026-11-01T23:29+00:00",
+     "text": "- Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old NBC News\n- Kimi Antonelli makes F1 history as youngest world champion with maiden title ESPN\n- Kimi Antonelli becomes F1 world champion as Max Verstappen wins Mexico City Grand Prix BBC\n- Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20 AP News\n- Fearless and ahead of schedule, Kimi Antonelli is Formula 1’s youngest world champion The New York Times"
+    }
+   ]
+  },
+  {
    "id": "c36dd9be99f",
    "kind": "news",
    "score": 17.5,
@@ -2414,52 +2485,6 @@
      "id": "36dd9be99f7c0cac",
      "published": "2026-10-31T22:35+00:00",
      "text": "- Rumor: Persona remake footage appears online Gematsu\n- [Rumor] Persona 1 Remake Footage Leaked Persona Central\n- Unannounced Persona Remake Gameplay Footage Leaks Online TwistedVoxel\n- Persona 1 Remake Trailer Leaked Online OpenCritic\n- Persona Remake Footage Looks Too Good To Be Real DualShockers"
-    }
-   ]
-  },
-  {
-   "id": "c0747ff0d71",
-   "kind": "news",
-   "score": 17.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Google's AI satellite sends a very expensive haiku to Earth",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Register",
-     "trust": 2,
-     "url": "https://theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
-     "title": "Google's AI satellite sends a very expensive haiku to Earth",
-     "lang": "en",
-     "extra": {},
-     "id": "0747ff0d7149d6f2",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Google on Friday celebrated receiving a poem from its first experimental orbital AI datacenter satellite.\nThe company's Suncatcher satellite, launched at the start of the month and put into low Earth orbit, has responded to a ground station prompt to \"Write a haiku from the perspective of a TPU orbiting Earth, with the wonderful world spinning beneath you.\"\nTravis Beals, senior director of Google's interdisciplinary Paradigms of Intelligence research team, said that with Suncatcher's host and TPU trays powered up and machine learning tests completed, the onboard Gemma 4 model achieved its \"Hello World\" milestone by sending an inference response from orbit.\n\"During a ground-station pass, we uplinked our first prompt to our onboard Gemma 4 open model, asking it to generate a haiku about being in space,\" wrote Beals in a blog post.\nAnd as the satellite passed over Svalbard, Norway, the orbiting AI model responded over the downlink:\nBlue marble below,\nData streams in silent grace,\nStarlight feeds my core. ✨\nThose roughly 20 tokens would cost about $0.000012 if generated through the Google Cloud API, based on Gemma 4 26B's pricing of $0.15 per million input tokens and $0.60 per million output tokens, excluding input costs.\nAdd in a satellite weighing perhaps 500 kg, based on the mass of SpaceX's Starlink satellites, and a retail launch price of around $7,000 per kg, and you have a very expensive haiku.\nAccording to Google's calculations, if the cost of getting a satellite into low Earth orbit can be brought down to $200/kg, the launch cost amortized over the satellite's useful life (~$810–7,500/kW/year) could be comparable to current electricity spending for terrestrial datacenters in the US (~$570–3,000/kW/year).\nGoogle predicts that SpaceX could achieve that by 2035, more or less, and considers it strategically beneficial to prototype well in advance of that actually happening.\nAfter the haiku, Beals said, \"we tested space-themed limericks and telemetry prompts reporting the technical status of the payload systems.\" Next up: tests for evaluating how TPUs perform under thermal stress and radiation.\nGoogle has already done some laboratory testing of its Trillium Cloud TPU and AMD host server to see how well they can withstand a 67 MeV proton beam.\nThe system's high-bandwidth memory shows the most sensitivity in terms of the total ionizing dose – it exhibits irregularities after a cumulative dose of 2 krad(Si), which is about 3× Google's minimum requirement for TID survival of 750 rad(Si).\n\"For typical transformer workloads, the observed SDC [silent data corruption] rate of approximately one event/17 rad, at an estimated orbital dose of 150 rad(Si)/year, translates to a very low failure probability on the order of 1 per 3 million inferences, assuming 1 inference per second,\" Google researchers said in a paper published earlier this month.\n\"While this error rate is likely acceptable for inference, the impact of SEEs on training jobs, and the efficacy of system-level mitigations, requires further study.\"\nIndeed, the study will continue. Next year, the plan is to test a pair of interconnected satellites. Rather than lofting large satellites into orbit, Google anticipates sending a constellation of many smaller satellites that communicate with one another. ®"
-    },
-    {
-     "source": "The Register",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZVNOU0ZZbExuc2dJdktyT25oQ1VicHF4NzRmM19GSlpPNVNKSk5YRmYxR0xERlFLc0NwUGQtNWZvNTJ6alN5UHBlQm5DUDM3RmFNdVl6ZHRIOFlkVVQzd3dGR2hlNVh6OWxuRXdkelp5TXdiOTMzVXBBdXhSU3lwOWptcWZnUnQ2SHdkTkFXMXpQQktjSVhNYTJ3R0tlVUl1SS1TRloxbnp5d1N6X0EwX0hyNGRLUQ?oc=5",
-     "title": "Google's AI satellite sends a very expensive haiku to Earth",
-     "lang": "en",
-     "extra": {},
-     "id": "cc2c009a3e8d417f",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Google's AI satellite sends a very expensive haiku to Earth\nThe Register"
-    },
-    {
-     "source": "The Next Web",
-     "trust": 2,
-     "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
-     "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.thenextweb.com/2026/11/project-suncatcher-logo-yellow-orange-blue-gradient.jpg"
-     },
-     "id": "9c5905ac74d8c89d",
-     "published": "2026-11-01T14:35+00:00",
-     "text": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Friday.\nThe satellite launched on 1 October for Project Suncatcher, Google’s research effort to run AI computing in space. Google called the haiku the first AI response from a data centre class TPU, its own AI chip, in orbit.\n“Blue marble below / Data streams in silent grace / Starlight feeds my core.” Gemma 4, on the Suncatcher satellite, as published by Google\nGoogle sent the prompt during a pass over a ground station. The poem came back as the satellite flew over Svalbard, Norway. The team then tried space-themed limericks and prompts asking the satellite to report on its own systems. The prompt asked for a haiku written as a TPU orbiting Earth, Thomas Claburn reported for The Register.\nWhat the satellite carries\nThe satellite holds four TPUs and generates up to 1 kilowatt of power, Tim Fernholz reported for TechCrunch. Because of that power limit, it can run only one TPU at a time, for about 20 minutes. Testing its systems took about three weeks, and a Google spokesperson told TechCrunch the satellite was working normally.\nOmar Sanseviero, who works on Gemma at Google DeepMind, wrote on X that the model ran on stored solar energy.\nThe next tests\nGoogle will now test how the TPUs cope with heat and radiation in orbit. Radiation can flip bits in a chip’s memory and corrupt data without warning. Google’s tests on the ground suggested this matters less for running models than for training them, according to TechCrunch.\nIf the chips hold up, Google plans to launch two linked satellites in 2027. They will make more power and test laser links between satellites, TechCrunch reported.\nGoogle announced the launch in September. Startups also plan data centres in orbit, and Starcloud raised $250M in August. SpaceX has told investors its own orbital data centres may never work. Google’s plans also depend on SpaceX making its Starship rocket fully reusable, TechCrunch reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
     }
    ]
   },
@@ -2556,6 +2581,159 @@
      "id": "9d891301ee206f8f",
      "published": "2026-11-01T15:58+00:00",
      "text": "- Box Office: ‘You Can See Everything’ and ‘Clayface’ Battle for No. 1 With $10.5 Million in Sleepy Halloween Weekend Variety\n- Box Office: 'You Can See Everything' & 'Clayface' In Staring Contest Deadline\n- Weekend Preview: YOU CAN SEE EVERYTHING Looking to Claim Top Spot Over Quiet Halloween Frame Boxoffice Pro\n- Connecting with “Clayface” DC Comics\n- It's Only Been 8 Days, but New 108-Minute Thriller is Already Dominating the Box Office in 3,400 Theaters MovieWeb"
+    }
+   ]
+  },
+  {
+   "id": "c94e0534854",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Binance says it covered 90% of losses in cyberattack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/economy/binance-says-it-covered-90-of-losses-in-cyberattack/4107700",
+     "title": "Binance says it covered 90% of losses in cyberattack",
+     "lang": "en",
+     "extra": {},
+     "id": "94e05348543cd20e",
+     "published": "2026-11-01T00:24+00:00",
+     "text": "Company says remaining 10% consisted of lower-liquidity tokens"
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/d6dc16a65f8e",
+     "title": "Binance says it covered 90% of cyberattack losses as FBI links theft to North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "50616e3d00924617",
+     "published": "2026-11-01T00:32+00:00",
+     "text": "The crypto exchange company says the remaining 10% of tokens are \"less liquid, which means they may take longer to source in the required amounts.\""
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353",
+     "title": "FBI links record $6.3 billion Binance crypto theft to North Korea",
+     "lang": "en",
+     "extra": {},
+     "id": "473bd658979d7399",
+     "published": "2026-11-01T00:38+00:00",
+     "text": ""
+    },
+    {
+     "source": "Ahram Online",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORmttd3lGQV9ZZ2J4RUp1bTZIaFFLOXA3bGpFME1jODNBTHZZaE1qaVkxVHFFZE8tMGMwMnllUzdrTjZBZ1VFTmloV3dMNDN6bmRKN2hPWFlTOFlDRVkwQ0h4b2F5Szc2Q3pXWUtXVHdJWk9fWlZ6QThaZTBMZVZWTVJXS2g3NHVZeUJwekpBSG5OX0F3bG96RGVRSmdaWTFvQVdwdm42Rm1BY1ZyRmc?oc=5",
+     "title": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business",
+     "lang": "en",
+     "extra": {},
+     "id": "3b6bb0c06269b687",
+     "published": "2026-11-01T07:33+00:00",
+     "text": "Binance says has covered 90% of $6.3 bn hack losses - Tech - Business\nAhram Online"
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81S2VuSVhqVExKRkVHY2RjU2hDZ2JCdGlaNk5OTE9HeUxEbnAwWFpoUDhqNktpTVFMNE16SkR3azlIT2xFZW0xMTREaFIxOUVuWWNXRml3d2tyMG9aeTZ5ZVd1c3RZdHAzNlluVnMzSTZsbWhsQnc?oc=5",
+     "title": "How North Korea perfected the crypto heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "612cf9d910ac1878",
+     "published": "2026-11-01T01:48+00:00",
+     "text": "- How North Korea perfected the crypto heist Axios\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- FBI says North Korea was behind $6.3 billion Binance heist, the biggest crypto hack in history PBS\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered CNBC"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjBKNHBsSy1EQlN4NnM4QXQ0OXNDeFlzUnY1bVVtYVB3RU9ZSk5vOGU0MzFkLWFlMXIzYS1hNnpzOHNjX3BLa1JjMTZIUUppT0JVVk9QeUR6X3pkSXVCOU53VmhtYXRQV0dQX05WclZGYlgwSWlTZnpUYUVFVzVKZko2UDdXeGRXOWllT3FNTHMxNGJTMlgyNy1BcnVYaDIzaWRUNFZpUG9EQ3JSZEHSAbMBQVVfeXFMTXBHdjctTGNMSU5XZUVxTGFsZFBlN1A3Y0pDRHp5dDItMk9aZW9DcXA4b3RTWXpQbnc2U0VJRk1QRjk0T21iMzJoV0hXQlBkWlBFS2hKeFRhVXZ5ODc0ZVhULUJzMGxmLXFxaGtIZlVSV1I2a3NDcjJTSVJTU25UZ1kySGtJaVZheGxqRVAyVWNLTGlBWlZpMVV2LW5DV29yUVF6YjVvazF5NGhhMzRLRTY5T0U?oc=5",
+     "title": "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says - Fox Business",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "99e140d5cb43eb74",
+     "published": "2026-11-01T05:37+00:00",
+     "text": "- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- How Binance’s $6.3 Billion Hack Went Down The New York Times\n- FBI blames North Korea for stolen billions from Binance in biggest hack in history KCRA\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmVOUTJ5cEo0bUU2Unp2V093dXNIN3hEaHB5VXRrZlBYRjc5RkVzM2lraGRpZGNIM0s0Uk15bVdPOHNSNGJsN29Ma3lVTzBleWd2WHRuSGlzOXVtV193RE8wbXgyaGNjdGdJRkUxdkR2ajN0MGh2STQ2T2p3YTVMTnRVME8?oc=5",
+     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "fe9a6ec2b57b5e87",
+     "published": "2026-11-01T06:48+00:00",
+     "text": "- FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist The Hacker News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance resumes withdrawals following $6.3 billion breach TechCrunch\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
+    }
+   ]
+  },
+  {
+   "id": "c4c11af85a3",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Binance restarts customer withdrawals after $6.3bn heist",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Financial Times Tech",
+     "trust": 2,
+     "url": "https://ft.com/content/1d4dd7b2-9dee-433b-ac2a-e8022af1dd07?syn-25a6b1a6=1",
+     "title": "Binance restarts customer withdrawals after $6.3bn heist",
+     "lang": "en",
+     "extra": {},
+     "id": "4c11af85a3c5c86a",
+     "published": "2026-11-01T09:38+00:00",
+     "text": "Crypto exchange to reimburse users whose assets were stolen in hack blamed on North Korea-linked group"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/binance-crypto-heist-withdrawals",
+     "title": "Binance resumes withdrawals for some cryptocurrencies after heist",
+     "lang": "en",
+     "extra": {},
+     "id": "1cbd128f711078b5",
+     "published": "2026-11-01T10:35+00:00",
+     "text": "The exchange said it would resume withdrawals in phases, pending security checks."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist?traffic_source=rss",
+     "title": "Binance restarts withdrawals after $6.3bn heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae7290a-1793534218.jpg?resize=1920%2C1440"
+     },
+     "id": "968de158efb65131",
+     "published": "2026-11-01T12:50+00:00",
+     "text": "Binance has begun restoring customer withdrawals after hackers stole about $6.3bn in cryptocurrency in a record theft that United States authorities have blamed on North Korea.\nThe world’s largest cryptocurrency exchange resumed some of its services on Sunday, following a suspension imposed after Thursday’s attack as the company investigated the breach and carried out security checks.\nRecommended Stories\nlist of 4 items- list 1 of 4Photos: Youth-led rallies sweep Germany\n- list 2 of 4Bulgarians vote in presidential run-off amid Black Sea tensions\n- list 3 of 4Mediators continue US-Iran negotiations amid war rhetoric: What we know\n- list 4 of 4Thousands rally in New Delhi to demand India’s election chief resign\nBinance said it had replaced approximately 95 percent of the affected assets. “Binance will absorb the financial impact of the stolen funds, not our users,” the company said in a statement on X on Sunday.\nWithdrawals are being restored in stages, with major cryptocurrencies such as Bitcoin and Ether, along with some stablecoin services, being reopened.\nThe exchange warned that high demand could cause delays as services return, advising customers whose transactions fail to try again after a short wait.\nIt said further services would reopen as security checks were completed, while teams continued working with law enforcement and industry partners to trace and recover the stolen assets.\nFBI blames North Korea\nThe FBI said on Saturday that North Korea was responsible for the theft, identifying the operation as cyber-activity it tracks under the name TraderTraitor.\nInvestigators had observed the attackers converting stolen assets primarily into ether, the cryptocurrency used on the Ethereum network, the agency said. It warned that further laundering was expected through decentralised finance platforms and instant cryptocurrency exchange services.\nThe FBI previously attributed the theft of approximately $1.5bn from cryptocurrency exchange Bybit in February 2025 to the same actors.\nBinance initially said a compromised employee laptop might have enabled the intrusion, but later reported that investigators had also uncovered additional points of breach.\nThe company said its investigation remained ongoing and that it would publish a detailed report once the inquiry was complete."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ldjZIQkxhcjB1X0hJNVVKTHNWNTZtNXNBc0lJdllqcWZXQ0lHbFMzdWFJcnlWOU9YNl9DYmswZlJGQTAtc3ZkMXQ2bFpSV2xxQ3laRVpaNkRMUTFjM2Yzc2s3RHVnQnI0V0xPQmJ1NA?oc=5",
+     "title": "Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "4611f35e636c5236",
+     "published": "2026-11-01T10:35+00:00",
+     "text": "- Binance resumes withdrawals for some major cryptocurrencies after $6 billion heist CBS News\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance hack spotlights North Korea’s multibillion-dollar crypto theft operation NBC News\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN\n- Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack WSJ"
     }
    ]
   },
@@ -2803,122 +2981,6 @@
    ]
   },
   {
-   "id": "c84346e5eb9",
-   "kind": "news",
-   "score": 16.5,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724060",
-     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
-     "lang": "en",
-     "extra": {},
-     "id": "286a06f727e44e01",
-     "published": "2026-11-01T17:51+00:00",
-     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
-    },
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/1450625/view/693150463100455410",
-     "title": "New Animal Crossing-Like Game Coming to Nintendo Switch 2",
-     "lang": "en",
-     "extra": {},
-     "id": "4188903391c40b4f",
-     "published": "2026-11-01T21:41+00:00",
-     "text": "An upcoming Animal Crossing-like game has officially been confirmed for release on the Nintendo Switch 2, with Petit Planet revealing that it will arrive on the Nintendo platform in 2027. Petit Planet will be the newest game from Genshin Impact developer HoYoverse and has drawn positive comparisons to Nintendo's Animal Crossing series."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/petit-planet-switch-2-release-date-animal-crossing-competitor",
-     "title": "Animal Crossing Is Finally Getting Some Real Competition With Petit Planet for Switch 2 In 2027",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/petit-planet-switch-2.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "84346e5eb98621f0",
-     "published": "2026-11-01T14:27+00:00",
-     "text": "Many Animal Crossing competitors have emerged since New Horizons became a breakout success in 2020, but few have a chance to take on the popular Nintendo series like HoYoverse's Petit Planet. Now, we've learned that a showdown between the two games will take place on Nintendo Switch 2, as a release window for a port was recently confirmed.\nWhen will Petit Planet come to Nintendo Switch 2?\nWe already knew that Petit Planet would be released on PC, iOS, and Android on Dec. 4. At the end of a Pre-Launch Special Program livestream HoYoverse held for Petit Planet today, a brief trailer confirmed that a Nintendo Switch 2 port is in the works and has a 2027 release window. We also see a bit of gameplay footage that looks on par with the PC version and clearly supports both docked and handheld play.\nThe fit for Petit Planet on Nintendo Switch 2 is obvious, as cozy games like it dominate on Nintendo systems. Although it has more of a sci-fi aesthetic than Animal Crossing, the same gameplay loops of customizing a character and then building up a homestead (in this case a planet) were on full display in that latest livestream. Petit Planet doubles down on farming more than Animal Crossing: New Horizons, as it's clearly also inspired by cozy games like Stardew Valley.\nPolygon has previewed Petit Planet a couple of times and consistently enjoyed it, though we have had questions about how disruptive the gacha live service elements would be once the game exits pre-release playtesting. We'll get our answer in December, and then truly know whether Petit Planet has the potential to take on Animal Crossing by the time it launches on Switch 2.\nAnimal Crossing: New Horizons - Nintendo Switch 2 Edition released in January, but no brand-new Animal Crossing game has been announced for the latest Nintendo console yet. As such, it makes sense why HoYoverse would want to prioritize this version of Petit Planet over a PS5 or Xbox Series X port, as the Animal Crossing-like does have some real potential to catch on when it hits Nintendo Switch 2 next year."
-    },
-    {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Animal-Crossing-rival-coming-to-Nintendo-Switch-2.1439498.0.html",
-     "title": "Animal Crossing rival coming to Nintendo Switch 2",
-     "lang": "en",
-     "extra": {},
-     "id": "c4d7f50ac7ec8201",
-     "published": "2026-11-01T16:42+00:00",
-     "text": "HoYoverse’s life simulation Petit Planet will arrive on Nintendo Switch 2 in 2027, following its December 4, 2026 launch on PC, iOS and Android. Players can develop a planet, farm, fish and build relationships with neighbors. Plans for other consoles remain unannounced."
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/petit-planet-switch-2-release-date",
-     "title": "Hoyoverse’s Cozy Sim Petit Planet Coming to Nintendo Switch 2 in 2027",
-     "lang": "en",
-     "extra": {},
-     "id": "9c38bbb19c425e71",
-     "published": "2026-11-01T17:38+00:00",
-     "text": "Rejoice, Nintendo Switch 2 owners with a taste for the cozy, because Hoyoverse, the studio behind Genshin Impact and Honkai: Star Rail, is bringing its new intergalactic life sim Petit Planet to Nintendo Switch 2 in 2027. The free-to-play game is already releasing on PC, iOS, and Android on December 4, 2026, but it never hurts to have more cute and cozy content on your Switch.\nThe news came as part of a special update on the game from Hoyoverse, which also gave us a deep dive into some of the Petit Planet neighbors you can encounter, the home decor features, and some of the mini-games available as you live your life in Starsea. You start out taking care of your own planet, but can then explore the little islands in the skies around Starsea or visit the hub-style Galactic Bazaar for things like in-game auctions and community features.\nPetit Planet was announced back in September 2025, and IGN got to play it a few months later, with our writer describing it as Animal Crossing meets The Little Prince.\n\"In my short time of about five hours with a preview of the closed beta, Petit Planet offered a charming, \"The Little Prince\"-themed take on Animal Crossing: New Horizons with an emphasis on clear progression and multiplayer. While these are two things some seemed to crave and were left empty in ACNH, the Genshin Impact and Honkai: Star Rail studio may offer an answer – with potential caveats.\"\nThe special update also revealed a bunch of chances for players to score pre-registration prizes as well as a \"Launch a Planet\" event on the game's official website that starts today."
-    }
-   ]
-  },
-  {
-   "id": "cb8b130f491",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo",
-     "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-     "lang": "en",
-     "extra": {},
-     "id": "b8b130f491190308",
-     "published": "2026-10-31T15:26+00:00",
-     "text": "Binance hack exceeds the next nine largest crypto exploits combined. Source: Glassnode\nBy comparison, following the Bybit hack in 2025, Bitcoin fell roughly 5% from nearly $100,000 to around $95,000 amid the breach and broader market volatility, according to a Bitfinex market report.\nAnchorage Digital data cited by CNBC put Bitcoin’s average decline in the first 24 hours after previous crypto exchange exploits at 8.3%.\nBlockaid CEO Ido Ben-Natan said the attackers appeared to have compromised Binance’s transaction signing process. Binance said Friday that it had found no evidence of leaked wallet private keys, though its investigation remained ongoing.\nBlockaid’s analysis identified an Ethereum transaction containing 50 signed authorizations covering different transaction counts. A matching authorization allowed attacker-controlled code to operate through the wallet. Ben-Natan argued that checks before signing could have blocked the malicious authorization.\nMagazine: Tampered Ledger reported in Singapore a month before news broke: Asia Express"
-    },
-    {
-     "source": "Decrypt",
-     "trust": 2,
-     "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
-     "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg"
-     },
-     "id": "1078f846b2095338",
-     "published": "2026-11-01T16:01+00:00",
-     "text": "In brief\n- U.S. spot Bitcoin ETFs shed $643.2 million on Friday, their biggest outflow of October, in the first session after Thursday’s $6.4 billion Binance hack.\n- Ethereum ETFs extended a five-day outflow streak to about $431 million, and Solana ETFs lost about $72 million over the week.\n- Bitcoin fell about 4% Friday before steadying near $77,520 Saturday, while Myriad traders turned bearish on Ethereum and Solana.\nThe first real test of how ETF investors would react to the largest crypto hack in history came back red.\nU.S. spot Bitcoin ETFs shed $643.2 million on Friday, according to Decrypt’s ETF tracker, their biggest single-day outflow of October. It was the funds’ first full session since attackers began draining roughly $6.4 billion from Binance at 4:05 p.m. ET Thursday, after U.S. markets had closed. Thursday’s $17.2 million in inflows predated the theft.\nThe selling erased a four-day, $441 million inflow run, leaving the funds down about $202 million for the week and roughly $516 million for October. Cumulative net inflows since launch slipped to $57.4 billion, with total net assets at $103.2 billion.\nEthereum and Solana ETFs fared worse relative to their size. Ethereum funds lost $155.7 million on Friday, extending a five-day outflow streak to about $431 million and pushing October losses to roughly $1.61 billion. Solana ETFs shed $10.8 million, their fifth straight day of outflows, totaling about $72 million for the week. They logged net inflows on just two days all month.\nSpot crypto ETFs hold the underlying asset, such as Bitcoin or Ethereum, and trade on stock exchanges like ordinary shares, giving investors exposure through a regular brokerage account.\nBitcoin funds have drawn $57.4 billion in net inflows since debuting in January 2024, and Ethereum funds have taken in $12.2 billion since launching that July. Because issuers report flows daily and much of the money comes from institutions and financial advisers, the figures have become a closely watched gauge of investor sentiment.\nCrypto markets initially appeared to take the Binance hack largely in stride, considering the scale of the theft. Bitcoin fell about 4% to roughly $76,400 on Friday, and more than $1.3 billion in leveraged positions were liquidated. It’s a sharp drop, but a far smaller one than the nearly 11% plunge after a failed attack on Binance in 2018.\nBinance has pledged to cover all losses with company funds and an emergency reserve, while Tether and Circle froze more than $2.3 billion in stolen stablecoins. Some Wall Street firms even urged clients to buy crypto-linked stocks on the potential weakness in markets.\nBy Saturday, Bitcoin had steadied at about $77,520, up 0.5% over 24 hours but down 3.3% on the week. Ethereum traded near $2,251, down 3.9% for the week, and Solana near $96, down 4.5%. Total crypto market cap held at about $2.7 trillion.\nMacro headwinds remain in play. The Federal Reserve held rates at 3.75% to 4% on Wednesday, but two officials voted for a hike, and traders had priced odds above 70% for an increase in December.\nTraders on Myriad, a prediction market developed by Decrypt’s parent company Dastan, have turned bearish on Ethereum and Solana. They now give Ethereum a 51.3% chance of falling to $1,500 before reaching $3,000, flipping a market that favored the upside at 61.3% a week ago. Solana’s odds of sinking to $40 before hitting $160 rose to 53.7%."
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaENiZkNSRGNUNkQ5SWhKRTE1dkhMVUVCM3dSVWY4X2EzWFl2WkN1SnhKb3g0S0pCOW1YNWU4Und2MDdPenZRdUJoTWpaNzUzRGZkNWRCeWlOU0xITHQ4WTlLR2Z6dGhCMlZzSDl3YWFWYURqX0RBWEtWVlNWMXhuMnllWk13ckMxTEFwMkVWY1J1dmR5V1otVGVTUnVjLVlCT2dwaE1ILWktVXJia1pSbEtiNE1FM0JFenp0SW5na1M?oc=5",
-     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "22e0397f734ec8a6",
-     "published": "2026-11-01T18:08+00:00",
-     "text": "- Investors pull billions in funds from Binance after record $6.3bn hack The Guardian\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last CNN\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
-    }
-   ]
-  },
-  {
    "id": "cbb11ab35d0",
    "kind": "news",
    "score": 16.0,
@@ -3074,74 +3136,6 @@
    ]
   },
   {
-   "id": "c3863b3cc67",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/sports/formula-1/kimi-antonelli-becomes-youngest-formula-1-champion-ever-20-years-old-rcna606726",
-     "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
-     "lang": "en",
-     "extra": {},
-     "id": "3863b3cc67e3ac3e",
-     "published": "2026-11-01T22:25+00:00",
-     "text": "Kimi Antonelli clinched the Formula 1 world championship Sunday, becoming the youngest driver in the sport’s history to win the title at just 20."
-    },
-    {
-     "source": "The Athletic Football",
-     "trust": 2,
-     "url": "https://nytimes.com/athletic/7724261/2026/11/01/kimi-antonelli-f1-champion-2026",
-     "title": "Fearless and ahead of schedule, Kimi Antonelli is Formula 1’s youngest world champion",
-     "lang": "en",
-     "extra": {},
-     "id": "5b5536e91d8214eb",
-     "published": "2026-11-01T22:47+00:00",
-     "text": "At 20 years and two months old, Kimi Antonelli is now the youngest F1 world champion, surpassing the record a 23-year-old Sebastian Vettel set in 2010."
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/sports/kimi-antonelli-becomes-youngest-f1-world-champion-with-3rd-place-finish-in-mexico/4108242",
-     "title": "Kimi Antonelli becomes youngest F1 world champion with 3rd-place finish in Mexico",
-     "lang": "en",
-     "extra": {},
-     "id": "16679e1ec68ed3e4",
-     "published": "2026-11-01T22:49+00:00",
-     "text": "20-year-old Italian clinches title in only his 2nd season as Verstappen wins Mexican Grand Prix ahead of Hamilton"
-    },
-    {
-     "source": "The Athletic Football",
-     "trust": 2,
-     "url": "https://nytimes.com/athletic/7723425/2026/11/01/kimi-antonelli-f1-championship-season-inside-story",
-     "title": "How Kimi Antonelli became Formula 1’s youngest champion, surprising even himself",
-     "lang": "en",
-     "extra": {},
-     "id": "6d2c395f1b13c06d",
-     "published": "2026-11-01T22:57+00:00",
-     "text": "Kimi Antonelli has sealed the 2026 F1 world title in just his second season. The story of his campaign is just as sensational."
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQWhXOGNVbHNkZkhIdDd3MVFpaTZtVTV1WF9SbGRURFpIekVnV2l2SGdQSkpBX1BXNXF6YWQtaG10U2tQQ01EeFF2UE9wa0NZQlBOWkNPNThVZW5GUDNFa1Vnd0RhM0FpdVpoVjFuTzBWZ2tTelRib0M2VEtpVzU5NlpnQU1xc24yOUpMRnE4OVR0SmpiS3cwUWY4RFhyUVR6WENWMVRpUmkwb1BtQnFFbFd6bTJXaEtPUVIxaw?oc=5",
-     "title": "Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "fdce20de20226f76",
-     "published": "2026-11-01T23:29+00:00",
-     "text": "- Kimi Antonelli becomes youngest Formula 1 champion ever at 20 years old NBC News\n- Kimi Antonelli makes F1 history as youngest world champion with maiden title ESPN\n- Kimi Antonelli becomes F1 world champion as Max Verstappen wins Mexico City Grand Prix BBC\n- Mercedes driver Kimi Antonelli becomes youngest champion in F1 history at age 20 AP News\n- Fearless and ahead of schedule, Kimi Antonelli is Formula 1’s youngest world champion The New York Times"
-    }
-   ]
-  },
-  {
    "id": "c2a8cc158ef",
    "kind": "news",
    "score": 15.5,
@@ -3171,54 +3165,6 @@
      "id": "2a8cc158ef0e0467",
      "published": "2026-10-31T18:00+00:00",
      "text": "SCUF's premium controllers have mostly remained out of reach due to hefty price tags, but they bring their own advantages compared to similar offerings by most vendors. With the launch of SCUF's Nemesis Pro 8K PC controller, enthusiasts can now get their hands on the more affordable wired version, which was released at $119. While still more expensive than some of the best wireless mid-range PC controllers, the Nemesis Pro 8K PC tries something that only a handful of controllers have tried to do. Based on the SCUF's Valor Xbox controller, the Nemesis Pro is the company's first-ever 8K offering […]\nRead full article at https://wccftech.com/review/scuf-nemesis-pro-8k-pc-review/"
-    }
-   ]
-  },
-  {
-   "id": "c8703aea988",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
-     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png"
-     },
-     "id": "8703aea9881e82c3",
-     "published": "2026-10-31T15:36+00:00",
-     "text": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals\nLess-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.\nBinance said Saturday it had replenished 90% of the assets stolen in its $6.3 billion hack, up from 80% a day earlier, and remained on track to resume withdrawals Sunday.\nThe exchange is using a combination of its corporate treasury, a partial deployment of its Secure Asset Fund for Users (SAFU) and a portion of its futures insurance fund, a spokesperson told Cointelegraph.\n“Binance will absorb the financial impact of the stolen funds, not users,” the spokesperson said, adding that the insurance fund would remain above required risk management levels.\nThe update follows Thursday’s theft, the largest cryptocurrency hack on record, which TRM Labs has since attributed to North Korea’s TraderTraitor hacker group.\nFollowing the hack, Binance said Friday it had set aside $6.34 billion to cover losses, including $5 billion in the affected cryptocurrencies. Industry partners like Tether and Circle froze about $3 billion in affected assets after the hack, but those funds are separate from Binance’s replacement of stolen tokens.\nStill, CertiK told Cointelegraph on Friday that it needed more information to verify Binance’s claimed $5 billion in replacement cryptocurrencies. Binance has since published a new reserves snapshot, but says the full cryptographic proof is still being generated. “The full zero-knowledge proof takes approximately 40 to 50 hours to generate due to the computational workload,” the exchange’s update reads.\nBinance said in its update on X that customer balances in Bitcoin (BTC), Ether (ETH) and eight other assets were fully backed. The remaining shortfall consists of less liquid tokens that it continues to buy through market and over-the-counter transactions, the update reads.\nThe spokesperson’s statement did not specify how much each funding source contributed or disclose the insurance fund’s minimum required balance. It also did not quantify how much stolen crypto had been recovered.\nRead Cointelegraph’s full coverage of the Binance hack here.\nMagazine: Binance hackers raced to move billions before it could be frozen"
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDA1ck9VUktfdWl0NkxvRWlCdjYxLU1CdDdjNmxkbXRObGN4d2phU2xaSWJFRWdtOHlWOFhTSUZfRlJQbjhSZGJBYVFOOTVkTkhqb0I5ZHJZelcwdVFWSmlGRjNyU203cGMxRzMyeFhKQVhxaEFIdHFmdGtMLUp1ZUhR0gGHAUFVX3lxTFBiTEZkazA0N0NudVJaM0ZGb0pQLWJ5QkFzd1N2UkJFZzkwYll3aTdFZC1ZOEIyS0FPOHRONVNMejR3RjRFdFpRVnZ6eTRmQ0FDZEg5TndvN1ZNM3pxNWZQcWo2MlN6MWxGRk10b19UVFgtd3M5dUVKVlBGZFBFNnZaQ2dtVWtaTQ?oc=5",
-     "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "0d85441fe13a9c6b",
-     "published": "2026-10-31T16:03+00:00",
-     "text": "- Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered CNBC\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance withdrawals resume following $6 billion hack CNN\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- How suspected North Korean hackers swiped billions in crypto in only minutes The Washington Post"
-    },
-    {
-     "source": "Reddit tech & AI",
-     "trust": 1,
-     "url": "https://reddit.com/r/technology/comments/1xkpdbd/binance_says_90_of_63_billion_hack_losses_are_now",
-     "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-     "lang": "en",
-     "extra": {},
-     "id": "ada8d8f1b1c9e59e",
-     "published": "2026-11-01T00:13+00:00",
-     "text": "submitted by\n/u/Logical_Welder3467\nto\nr/technology\n[link]\n[comments]"
     }
    ]
   },
@@ -3939,6 +3885,130 @@
    ]
   },
   {
+   "id": "c35b6705ae2",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Mort de Juan Atkins, père fondateur de la techno",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Libération",
+     "trust": 2,
+     "url": "https://liberation.fr/culture/musique/mort-de-juan-atkins-pere-fondateur-de-la-techno-20261101_NMPXUNVMHNGEFFVBR6KZIVVS4E",
+     "title": "Mort de Juan Atkins, père fondateur de la techno",
+     "lang": "en",
+     "extra": {},
+     "id": "5e704ae08e4a9697",
+     "published": "2026-11-01T17:25+00:00",
+     "text": "Pionnier central de la scène techno, le musicien américain originaire de Détroit est mort dimanche 1er novembre à 64 ans."
+    },
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/news/obituaries/juan-atkins-co-creator-techno-music-genre-dies-rcna606930",
+     "title": "Juan Atkins, co-creator of the techno music genre, has died",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261101-Juan-Atkins-obit-w-1641-f6a4aa.jpg"
+     },
+     "id": "8ae560d4e41e4db2",
+     "published": "2026-11-02T03:22+00:00",
+     "text": "Juan Atkins, who helped create the techno music genre with school friends in suburban Detroit in the 1980s, has died, his booking agency said Sunday.\nHe was 64.\nCollaborator Kevin Saunderson also shared the news on his Facebook page, saying, “Juan was the originator of Techno, a true visionary who opened the door for so many of us, myself included.”\nAtkins, who played techno records as a noted club and festival DJ, was scheduled to perform Saturday at club Yu Yu in Mexico City, but the appearance was canceled, the club said on Instagram before news of his death broke.\nIn 1981, the artist formed a duo, Cybotron, with Richard Davis, a friend he met at a Detroit-area community college, and in 1983 released “Clear,” a robotic, futuristic dance track that resonated in clubland and in breakdancers’ boomboxes, according to the duo’s Discogs biography.\nThe foundations of techno — Kraftwerk, Afrika Bambaataa, breakdancing hip-hop known as electro, and the post-disco sound of house music — were present as Atkins and friends from Belleville High School, about 35 miles west of downtown Detroit, tinkered with electronic music and listened to the weird, wild sounds of radio DJ The Electrifying Mojo.\nAtkins, Saunderson and Derrick May were nicknamed the Belleville Three. May told the Detroit Metro Times last year that the trio, along with Atkins’ brother, Aaron, would skip school and listen to jazz.\n“I was so impressed and enamored with Juan and Aaron that I just followed them, man — I just became Juan’s disciple,” May told the outlet.\nSaunderson had the biggest early success when his act, Inner City, released “Big Fun” and “Good Life,” which became club hits in the U.S. and U.K. in 1988.\nAtkins became the genre’s wiseman.\nTechno’s origin story as a rebel sound rooted in visions of a dystopian, digital future were born of Atkins’ fascination with author Alvin Toffler’s “The Third Wave,” according to author Dan Sicko’s “Techno Rebels.”\nCybotron’s 1984 release, “Techno City,” is a bittersweet ode to a Detroit that was collapsing in places as the U.S. economy recovered from recession.\nInner City’s subsequent success helped make the Belleville Three stars in Europe, just as the Berlin Wall fell. Berlin would take over as techno’s capital.\nThe Belleville Three found fans and gigs in Europe but bemoaned dance music fans who believe techno was created there. (“Techno is Black,” the Detroit Metro Times declared last year).\nMissy Elliott put Detroit techno on pop music’s map by sampling Cybotron’s “Clear” for 2005’s “Lose Control.” And in 2023, Atkins revived Cybotron with the help of Berlin producer Laurens von Oswald by releasing new music on the Tresor label.\nTechno’s Detroit roots found reinforcement from the city’s Movement Festival (“Experience the birthplace of Techno,” it said), and the NBA’s Pistons’ release of clothing that pays homage to the Belleville Three.\n“Detroit is home,” the trio said in a joint statement about the clothing release in January. “Everything we’ve ever made started with this city, its people, its clubs, and its energy.”\nIn the trio’s wake came techno’s telltale, “boom-tss” sound, as performed by Jeff Mills, Richie Hawtin, the Underground Resistance crew, DJ Hell and Carl Cox.\n“It’s with a heavy heart to hear about the passing of Juan Atkins,” Cox said Sunday on Facebook, adding that Cybotron’s “Clear” “never left my soul.”\nGerman techno star Sven Väth called the news of Atkins’ death “heartbreaking.”\n“His vision inspired generat"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmVybEdJUk9CUS1TVW5ndmdiOF9VN2tXZkl2VjdmYVlZSnY4WGdGeS02SDNlNWx0TTVvbXlObEpJdXVPZnV3aF9wcHZucjFacWZfSWFqQ2xvMkszdHAwQmtSbzZaMU9Fbnd5blhxUGtBNFhpYkJjdGlfeTVJVU5Ob1o4Ulo?oc=5",
+     "title": "Juan Atkins, Co-Founder of Techno Music, Dies at 64",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "35b6705ae25ba383",
+     "published": "2026-11-01T15:49+00:00",
+     "text": "- Juan Atkins, Co-Founder of Techno Music, Dies at 64 Pitchfork\n- Juan Atkins, techno pioneer and Belleville Three member, dies aged 64 · News ⟋ RA Resident Advisor\n- Juan Atkins, pioneer of Detroit techno sound, dies aged 64 The Guardian\n- Juan Atkins, Detroit pioneer who coined term 'techno,' dies at 64 The Detroit News\n- Juan Atkins, Detroit techno music trailblazer, dies at 64 Detroit Free Press"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEWVhzRlAwdUYxbmxuYzA2cjF5V0JITFhLMnVoRkNBTHVPQ2hPOGU0d2RxVHJFWnJ6LVFnZUlVU3JnR2ViMFNYSDEzUFdhWHZxYldKRklNOHM0TVJvYkpwVkg1ZDY3YnJVaUM1dHlIXzJqYkhJ?oc=5",
+     "title": "Juan Atkins, Detroit techno pioneer, has died",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "04c3b1db7f33c1a0",
+     "published": "2026-11-01T16:51+00:00",
+     "text": "- Juan Atkins, Detroit techno pioneer, has died DJ Mag\n- Juan Atkins, techno pioneer and Belleville Three member, dies aged 64 · News ⟋ RA Resident Advisor\n- Juan Atkins, pioneer of Detroit techno sound, dies aged 64 The Guardian\n- Juan Atkins, Techno Pioneer and Cybotron Co-Founder, Dies at 64 Billboard\n- Juan Atkins, Co-Founder of Techno Music, Dies at 64 Pitchfork"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdGxJdjVQNTNRcS1MWUZEb3RDX0xGUkVacElzZ0cyYTM5anhNNW9hNjhDYk5HbjQyMjlKak8xUzVfYmd0Q2pHMl9jeVAtaGVVQllrQVpvSjRHUmFZSGQ5dFBZQVNpUWFEcmU5YVdTc0Z0SkJlVFlXSm51c0JweldsVEtIRHBlM25STy1HVi1GbXd4MjNpeXZ3bzRIOElHQ3pfUnR4ZERfX283Tk5uV1N3YnRybw?oc=5",
+     "title": "Juan Atkins, Techno Music Pioneer, Dead at 64",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "d06198a035b3f30d",
+     "published": "2026-11-01T17:17+00:00",
+     "text": "- Juan Atkins, Techno Music Pioneer, Dead at 64 Rolling Stone\n- Juan Atkins, techno pioneer and Belleville Three member, dies aged 64 · News ⟋ RA Resident Advisor\n- Juan Atkins, co-creator of the techno music genre, has died NBC News\n- Juan Atkins, Detroit techno music trailblazer, dies at 64 Detroit Free Press\n- Legendary DJ, techno music pioneer dies at 64: ‘A true visionary’ Syracuse.com"
+    }
+   ]
+  },
+  {
+   "id": "c22e0397f73",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": true,
+   "distinct_sites": 2,
+   "title_hint": "Binance users withdraw billions after record crypto hack",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "BBC Tech",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+     "title": "Binance users withdraw billions after record crypto hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
+     },
+     "id": "5823b31f2e92bfce",
+     "published": "2026-11-02T00:26+00:00",
+     "text": "- Published\nBinance customers withdrew more than $3.6bn (£2.7bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.\nThe firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.\nMajor organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber attack, which is said to be the largest hack in history.\nThe company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source. Binance has repeatedly said it would cover all of the losses linked to the attack.\nThere was an \"initial spike\" in withdrawals, which later declined and \"are stabilising as expected\", Binance posted on X.\nIt added that withdrawals for major cryptocurrencies like Bitcoin and Ethereum have resumed and that more services will resume in phases once security checks are completed."
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaENiZkNSRGNUNkQ5SWhKRTE1dkhMVUVCM3dSVWY4X2EzWFl2WkN1SnhKb3g0S0pCOW1YNWU4Und2MDdPenZRdUJoTWpaNzUzRGZkNWRCeWlOU0xITHQ4WTlLR2Z6dGhCMlZzSDl3YWFWYURqX0RBWEtWVlNWMXhuMnllWk13ckMxTEFwMkVWY1J1dmR5V1otVGVTUnVjLVlCT2dwaE1ILWktVXJia1pSbEtiNE1FM0JFenp0SW5na1M?oc=5",
+     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "22e0397f734ec8a6",
+     "published": "2026-11-01T18:08+00:00",
+     "text": "- Investors pull billions in funds from Binance after record $6.3bn hack The Guardian\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last CNN\n- From Bangladesh Bank To Binance: The North Korean Cybercrime Wave Forbes"
+    },
+    {
+     "source": "Google News Business EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ?oc=5",
+     "title": "Binance users withdraw billions after record crypto hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "0f5ef4aa1b09a3b6",
+     "published": "2026-11-02T00:26+00:00",
+     "text": "- Binance users withdraw billions after record crypto hack BBC\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack CNBC\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN"
+    }
+   ]
+  },
+  {
    "id": "ced1adfa4c9",
    "kind": "news",
    "score": 15.0,
@@ -4050,39 +4120,50 @@
    ]
   },
   {
-   "id": "c5823b31f2e",
+   "id": "cf5f3bc587e",
    "kind": "news",
    "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Binance users withdraw billions after record crypto hack",
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "China's robot makers have mastered the moves. Now comes the race for brains",
    "official_image": null,
    "sources": [
     {
-     "source": "BBC Tech",
+     "source": "Reuters Tech",
      "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-     "title": "Binance users withdraw billions after record crypto hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg"
-     },
-     "id": "5823b31f2e92bfce",
-     "published": "2026-11-02T00:26+00:00",
-     "text": "- Published\nBinance customers withdrew more than $3.6bn (£2.7bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.\nThe firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.\nMajor organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber attack, which is said to be the largest hack in history.\nThe company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source. Binance has repeatedly said it would cover all of the losses linked to the attack.\nThere was an \"initial spike\" in withdrawals, which later declined and \"are stabilising as expected\", Binance posted on X.\nIt added that withdrawals for major cryptocurrencies like Bitcoin and Ethereum have resumed and that more services will resume in phases once security checks are completed."
-    },
-    {
-     "source": "Google News Business EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ?oc=5",
-     "title": "Binance users withdraw billions after record crypto hack",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c?oc=5",
+     "title": "China's robot makers have mastered the moves. Now comes the race for brains",
      "lang": "en",
      "extra": {
       "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "0f5ef4aa1b09a3b6",
-     "published": "2026-11-02T00:26+00:00",
-     "text": "- Binance users withdraw billions after record crypto hack BBC\n- North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says Fox Business\n- Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack CNBC\n- Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist WSJ\n- Notorious hacker says stolen crypto is like ‘holding a hot potato’ CNN"
+     "id": "f5f3bc587e7cff72",
+     "published": "2026-11-01T23:08+00:00",
+     "text": "China's robot makers have mastered the moves. Now comes the race for brains\nReuters"
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
+     "title": "China’s robot makers have mastered the moves. Now comes the race for brains",
+     "lang": "en",
+     "extra": {},
+     "id": "416254d6658eaf6f",
+     "published": "2026-11-01T23:12+00:00",
+     "text": ""
+    },
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains",
+     "title": "China’s robot makers have mastered the moves. Now comes the race for brains.",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571742.JPG?v=3.1"
+     },
+     "id": "a63914a2f39882cf",
+     "published": "2026-11-02T00:29+00:00",
+     "text": "Beijing – After years of building humanoid robots capable of running, dancing and performing backflips, Chinese companies are pouring resources into a different challenge: developing the artificial intelligence that could make those machines useful across a wider range of jobs.\nThe shift is fueling an investment boom in embodied AI, a field focused on software that allows robots to understand their surroundings, learn unfamiliar tasks and adapt without having to be programmed for every job.\nChinese embodied AI companies raised 93.5 billion yuan ($13 billion) across 322 deals in the first half of 2026, five times the amount a year earlier, according to data research firm ITjuzi. Funding is increasingly reaching specialist developers of robot intelligence alongside manufacturers.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
     }
    ]
   },
@@ -5431,65 +5512,6 @@
    ]
   },
   {
-   "id": "c5ce5bd7c7c",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/economy-news/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations-4989219",
-     "title": "UK PM Burnham says he is ’open’ to formal apology for slavery, but rules out reparations",
-     "lang": "en",
-     "extra": {},
-     "id": "5ce5bd7c7cd0c9ab",
-     "published": "2026-10-31T22:00+00:00",
-     "text": ""
-    },
-    {
-     "source": "Ahram Online",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oT1RkWDNmWHFOVjlCSlBCWTNBVi1PSlVaMUFCM3VuV1R3NFhaZ0xaMzFpUFpxaTVPQjI3R2VqWk5HQWZtdzZOS2hRMDgtS1V6VEsxOXl3Nzg?oc=5",
-     "title": "Burnham hints at apology for UK's role in slave trade but rejects reparations - International - World",
-     "lang": "en",
-     "extra": {},
-     "id": "080f92498a788c95",
-     "published": "2026-11-01T09:12+00:00",
-     "text": "Burnham hints at apology for UK's role in slave trade but rejects reparations - International - World\nAhram Online"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/1/burnham-open-to-uk-slavery-apology-but-not-reparations-why-now?traffic_source=rss",
-     "title": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acc13498aea-1791759177.jpg?resize=1920%2C1440"
-     },
-     "id": "ea005877177f0739",
-     "published": "2026-11-01T15:24+00:00",
-     "text": "The United Kingdom’s Prime Minister Andy Burnham has said his country is open to apologising for Britain’s role in the transatlantic slave trade but ruled out reparations, which campaigners have for years called for.\nBurnham wrote in an opinion article in The Guardian on Friday that Britain would also work on debt restructuring for the poorest countries, marking an historic turn in London’s stance.\nRecommended Stories\nlist of 4 items- list 1 of 4Burnham opens door to formal apology for Britain’s slave trade\n- list 2 of 4King Charles’s Caribbean tour: Will he discuss slavery reparations?\n- list 3 of 4King Charles on Caribbean tour as calls grow for slavery reparations\n- list 4 of 4Ghana slavery apology: Why many descendants say words are not enough\nThe move comes ahead of a four-day summit starting Sunday of the 50-plus Commonwealth nations formerly colonised by Britain. The UK’s King Charles, who arrived in the Caribbean last week, is hosting the leaders in St John’s, the capital of Antigua and Barbuda.\n“I want to express my sorrow and regret for the pain and suffering of so many millions of people, and to recognise the way it still shapes our world today,” Burnham wrote, in what amounted to a personal apology.\nCaribbean nations that have more forcefully demanded reparations in recent years said they expect more from Britain, while opposition Conservative Party leader Kemi Badenoch has criticised Burnham’s move as “navel-gazing”.\nHere’s what we know:\nWhat was Britain’s role in slavery?\nTransatlantic slavery lasted between the 16th and 19th centuries and saw some 12 million enslaved Africans torn from their homes and forcibly transported on ships to the Americas with the help of local warlords. Enslaved people were sold on plantations and as domestic workers, and their labour produced goods that built wealth in Europe.\nBritain and Portugal accounted for about 70 percent of all Africans exported to the Americas, while France, Spain and the Netherlands also traded in significant numbers of enslaved people. Britain alone transported 3.1 million Africans to British colonies in the Caribbean, the Americas and other countries, according to its national archives. Only 2.7 million arrived, as many perished in treacherous sea journeys.\nBritish abolitionists began campaigning against slavery in 1787, particularly in cities like Manchester. In 1807, Parliament passed the Slave Trade Act, essentially banning new enslavement. More than three decades later, in 1834, Britain banned slavery in its entirety, although the practice continued for several years.\nAmid calls for accountability in 2006, then-Prime Minister Tony Blair expressed “deep sorrow” for Britain’s role in the slave trade, but fell short of apologising or speaking about reparations.\nWhy now?\nBurnham’s apology came during Britain’s Black History Month and as the Commonwealth is meeting in Antigua and Barbuda.\nIn his article, the British prime minister said London wants to keep diplomatic and trade ties with its Commonwealth allies.\n“In an increasingly divided and dangerous world, our family of nations in the Commonwealth is vital to our interests,” he wrote, adding that Britain “can seize opportunities for trade and economic collaboration”.\nBritain will allow the most vulnerable countries to repay their debts over a longer period, he added, with former Chancellor of the Exchequer Gordon Brown, who spearheaded the UK’s 1991 initiative to reduce debt for poorer countries, leading the charge."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdnZQcmNMXzlyVUs3cWNpZWVFMnotblIwVEhMaGxKcGFCc2l5cnc2ZHFEVjNNc1JZVlhBekNJNzRRMzFUZ1FlOTg3M3JLWXIwMkNIVFI0dzdVdS0wUTdJSUtvQzlBNkMxajFLdEZUX1NFUWFTVXoxQTJkU2Z2MGVyOEhvTmVnRGlvbERLVzdvRFFMbkxnYUFNUnJNS1lQcnBpdnBjY0pR0gGrAUFVX3lxTE0wb2VIcE5QZjdLZGtGYjcyTUpqVzktWGNCRVJLc1NPOHNSNDR4dUtZMWNTU1lrQmVBOXFXVGZoZXhjeFdYUkFlTHhNVnAtY3lfZ1JzbzFiOTBwU3FMVWtWZG0ySEdqeWxGM3JYYWxZNmVLeVJZMTRLZWFZczJZanZuQXJkOEs2VmFRaExpdktXbTFuSGZKUmJYOXhzVU9mX3NmMFpfV2dBazJuNA?oc=5",
-     "title": "Burnham ‘open’ to UK slavery apology, but not reparations: Why now?",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "5078bff145fefad7",
-     "published": "2026-11-01T15:28+00:00",
-     "text": "- Burnham ‘open’ to UK slavery apology, but not reparations: Why now? Al Jazeera\n- King to address slavery in Antigua as PM says he is open to possible UK apology BBC\n- Burnham open to slavery payouts The Telegraph\n- British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian\n- U.K. PM Andy Burnham open to apologizing for slave trade but rules out financial reparations NBC News"
-    }
-   ]
-  },
-  {
    "id": "ca1c01ba106",
    "kind": "news",
    "score": 13.0,
@@ -5959,6 +5981,30 @@
    ]
   },
   {
+   "id": "c9c5905ac74",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 1,
+   "title_hint": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/google-suncatcher-satellite-first-ai-response-gemma-haiku",
+     "title": "Google’s Suncatcher satellite runs AI in orbit and sends a haiku home",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.thenextweb.com/2026/11/project-suncatcher-logo-yellow-orange-blue-gradient.jpg"
+     },
+     "id": "9c5905ac74d8c89d",
+     "published": "2026-11-01T14:35+00:00",
+     "text": "Google’s prototype data centre satellite has run an AI model in orbit and sent its answer back to Earth. The onboard Gemma 4 model wrote a haiku about being in space, Travis Beals, a senior director at Google, wrote in a blog post on Friday.\nThe satellite launched on 1 October for Project Suncatcher, Google’s research effort to run AI computing in space. Google called the haiku the first AI response from a data centre class TPU, its own AI chip, in orbit.\n“Blue marble below / Data streams in silent grace / Starlight feeds my core.” Gemma 4, on the Suncatcher satellite, as published by Google\nGoogle sent the prompt during a pass over a ground station. The poem came back as the satellite flew over Svalbard, Norway. The team then tried space-themed limericks and prompts asking the satellite to report on its own systems. The prompt asked for a haiku written as a TPU orbiting Earth, Thomas Claburn reported for The Register.\nWhat the satellite carries\nThe satellite holds four TPUs and generates up to 1 kilowatt of power, Tim Fernholz reported for TechCrunch. Because of that power limit, it can run only one TPU at a time, for about 20 minutes. Testing its systems took about three weeks, and a Google spokesperson told TechCrunch the satellite was working normally.\nOmar Sanseviero, who works on Gemma at Google DeepMind, wrote on X that the model ran on stored solar energy.\nThe next tests\nGoogle will now test how the TPUs cope with heat and radiation in orbit. Radiation can flip bits in a chip’s memory and corrupt data without warning. Google’s tests on the ground suggested this matters less for running models than for training them, according to TechCrunch.\nIf the chips hold up, Google plans to launch two linked satellites in 2027. They will make more power and test laser links between satellites, TechCrunch reported.\nGoogle announced the launch in September. Startups also plan data centres in orbit, and Starcloud raised $250M in August. SpaceX has told investors its own orbital data centres may never work. Google’s plans also depend on SpaceX making its Starship rocket fully reusable, TechCrunch reported.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
+    }
+   ]
+  },
+  {
    "id": "ce81634522c",
    "kind": "news",
    "score": 13.0,
@@ -5979,41 +6025,6 @@
      "id": "e81634522c513a92",
      "published": "2026-11-01T14:50+00:00",
      "text": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet.\nWhile it did end up flying by Mars, the mission was not exactly a success. After it separated from the rocket, it deployed its solar panels and started cruising toward Mars.\nWhen mission controllers were checking out the telemetry it transmitted back to Earth, they found out that Mars 1 had sprung a leak in one of the gas valves that controls the spacecraft's orientation. And without a working orientation system, Mars 1 would have a hard time pointing its antennas in the right direction. It lost contact with Earth when it was about halfway to Mars.\nWhy it mattered\nEver since Galileo Galilei pointed his telescope to the red-tinted star and identified as a planet, Mars has captivated scientists' interests as to its nature. So it was of no surprise that as soon as we gained the ability to send missions into space, that the focus turned to the \"fourth rock from the Sun.\"\nAs it turned out, though, reaching Mars, let alone entering its orbit or landing on its surface,, was and continues to be difficult.\nMars 1, despite its name, was actually the Soviet Union's fourth attempt at sending a probe to the planet. The first three ended in launch failures. Similar problems faced the United States, as well, but it was NASA's Mariner IV mission that became the first to successfully fly by Mars two years later.\nStill, as humanity continues to push forward to the day people land on, explore and live on Mars, the 1962 Soviet mission stands as the first to get close to revealing the first details about the planet.\nWant more space history? Check out our full On This Day In Space Story archive and watch our On This Day In Space videos on YouTube.\nHanneke Weitering is a multimedia journalist in the Pacific Northwest reporting on the future of aviation at FutureFlight.aero and Aviation International News and was previously the Editor for Spaceflight and Astronomy news here at Space.com. As an editor with over 10 years of experience in science journalism she has previously written for Scholastic Classroom Magazines, MedPage Today and The Joint Institute for Computational Sciences at Oak Ridge National Laboratory. After studying physics at the University of Tennessee in her hometown of Knoxville, she earned her graduate degree in Science, Health and Environmental Reporting (SHERP) from New York University. Hanneke joined the Space.com team in 2016 as a staff writer and producer, covering topics including spaceflight and astronomy. She currently lives in Seattle, home of the Space Needle, with her cat and two snakes. In her spare time, Hanneke enjoys exploring the Rocky Mountains, basking in nature and looking for dark skies to gaze at the cosmos.\nYou must confirm your public display name before commenting\nPlease logout and then login again, you will then be prompted to enter your display name."
-    }
-   ]
-  },
-  {
-   "id": "c416254d665",
-   "kind": "news",
-   "score": 13.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "China’s robot makers have mastered the moves. Now comes the race for brains",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/stock-market-news/chinas-robot-makers-have-mastered-the-moves-now-comes-the-race-for-brains-4989782",
-     "title": "China’s robot makers have mastered the moves. Now comes the race for brains",
-     "lang": "en",
-     "extra": {},
-     "id": "416254d6658eaf6f",
-     "published": "2026-11-01T23:12+00:00",
-     "text": ""
-    },
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/business/2026/11/02/china-robot-makers-race-brains",
-     "title": "China’s robot makers have mastered the moves. Now comes the race for brains.",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571742.JPG?v=3.1"
-     },
-     "id": "a63914a2f39882cf",
-     "published": "2026-11-02T00:29+00:00",
-     "text": "Beijing – After years of building humanoid robots capable of running, dancing and performing backflips, Chinese companies are pouring resources into a different challenge: developing the artificial intelligence that could make those machines useful across a wider range of jobs.\nThe shift is fueling an investment boom in embodied AI, a field focused on software that allows robots to understand their surroundings, learn unfamiliar tasks and adapt without having to be programmed for every job.\nChinese embodied AI companies raised 93.5 billion yuan ($13 billion) across 322 deals in the first half of 2026, five times the amount a year earlier, according to data research firm ITjuzi. Funding is increasingly reaching specialist developers of robot intelligence alongside manufacturers.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
     }
    ]
   },
@@ -6082,6 +6093,106 @@
      "id": "305cc0066f6bef56",
      "published": "2026-11-02T00:00+00:00",
      "text": "The two public record labels are struggling to excite investors"
+    }
+   ]
+  },
+  {
+   "id": "ca48f0d88e2",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Dave Bautista Reveals He’s Gained 20 Pounds of Muscle Ahead of Playing Kratos in ‘God of War’ Series",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/tv/news/dave-bautista-muscle-gain-kratos-god-of-war-1236937038",
+     "title": "Dave Bautista Reveals He’s Gained 20 Pounds of Muscle Ahead of Playing Kratos in ‘God of War’ Series",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/11/dave-bautista.webp?w=999&h=563&crop=1"
+     },
+     "id": "c3eb60f17d7fa295",
+     "published": "2026-11-02T01:05+00:00",
+     "text": "Dave Bautista is once again showing off his muscle gains ahead of stepping into the role of Kratos for the highly anticipated “God of War” series. The “Guardians of the Galaxy” actor last gave fans a glimpse into his transformation two months ago, saying he’d begun weight training again but still had time “to get to where I need to be.”\nThis time, Bautista shared a video on his Instagram story with the text “Gained 20 lbs for GOW” and a “250” sticker, indicating his current weight. Fittingly, the actor is wearing a “God of War” T-shirt in the post.\nIn August, Bautista signed on to play Kratos, replacing Ryan Hurst, who was originally cast and suffered an on-set injury that led Prime Video to replace him. (Hurst tore his bicep on set and required surgery that would have delayed production into 2027.) Filming began in Vancouver in February, but the production will have to reshoot all scenes with Hurst using Bautista.\nThe series will follow the story of the two most recent “God of War” video games, which follow Kratos as he raises his ten-year-old son Atreus (Callum Vinson) while battling gods of the Norse pantheon. Per the logline, “Father and son Kratos and Atreus embark on a journey to spread the ashes of their wife and mother, Faye. Through their adventures, Kratos tries to teach his son to be a better god, while Atreus tries to teach his father how to be a better human.”\nPrime Video gave “God of War” a two-season order, with the two seasons set to shoot back-to-back.\nBautista has starred in films including “My Spy,” “Knock at the Cabin,” “The Wrecking Crew” and more. He will next appear in “Road House 2” and the “Highlander” reboot."
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkxjX2psRXZCWTFvUnY0QVBYNDVYTGVOY002Wl9pdV9iZlhMZ2JHb2h1SnlTRTY5dWJ5UnY2dG5PXzV3WVByb1BOSHNXTHZxcDdvc1lNdzZJdk1CczNRMFl3SmFaWnAwZFR4dkdTYUlwel9WeXVnLU90R0cyS0ZHX2ZqM3BYQVJveGxhX0pCWkxVZw?oc=5",
+     "title": "Dave Bautista Reveals He’s Gained 20 Pounds of Muscle Ahead of Playing Kratos in ‘God of War’ Series",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "a48f0d88e247323f",
+     "published": "2026-11-02T01:05+00:00",
+     "text": "- Dave Bautista Reveals He’s Gained 20 Pounds of Muscle Ahead of Playing Kratos in ‘God of War’ Series Variety\n- 'God of War' TV Show: Release Date, Cast and Everything We Know About Prime Video's Series FanBolt\n- Dave Bautista’s ‘God of War’ Kratos Transformation Just Hit a Major Number Comic Basics\n- Dave Bautista Hits a Major Weight Milestone in His Race to Become Kratos in ‘God of War’ IMDb\n- Dave Bautista Confirms 250-Pound Transformation for Kratos in God of War Series Following Major Cast Reshoots Istituto Impariamo"
+    }
+   ]
+  },
+  {
+   "id": "c5a74816df3",
+   "kind": "news",
+   "score": 13.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Ukraine blames Russia after air alert app sends out false warnings",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/2/ukraine-blames-russia-after-air-alert-app-sends-out-false-warnings?traffic_source=rss",
+     "title": "Ukraine blames Russia after air alert app sends out false warnings",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6adb4c25b56c1-1792756773.jpg?resize=1920%2C1440"
+     },
+     "id": "5a74816df35036bb",
+     "published": "2026-11-02T01:40+00:00",
+     "text": "Ukraine’s Air Force has said its air raid alert app sent erroneous messages after allegedly being hacked by Russia.\nFake alerts warning of nuclear and chemical threats to areas in and around Kyiv were sent on Sunday, along with warnings of potential street combat. An erroneous message also said Russia’s hypersonic Oreshnik missile had been deployed.\nRecommended Stories\nlist of 4 items- list 1 of 4European states pledge to boost air defence support for Ukraine\n- list 2 of 4Kremlin says European countries not included in next Ukraine talks\n- list 3 of 4Russian oil refinery struck as Ukraine renews drone attacks\n- list 4 of 4Kherson braces for return of war as localised Russia-Ukraine truce ends\n“The air alert app appears to have been subjected to enemy influence,” the Ukrainian Air Force said on Telegram on Sunday. “There is no radiation threat! Stay calm and follow our updates on our channel.”\nSPRAVDI, Ukraine’s Centre for Strategic Communications, blamed Russia for the hack in a post on X.\nThe raid alert app is used across Ukraine to warn people in real time of incoming Russian air attacks. A separate app, specifically for the Ukrainian capital, was working normally, according to Kyiv authorities.\nHours later, early on Monday morning, Russia’s Emergencies Ministry said its mobile app had been hit by a “massive cyberattack”.\nThe ministry said on Telegram that the attack led to the spread of “false information”.\nRussia’s and Ukraine’s announcements follow the end of a truce between the two countries in Kherson.\nThe localised ceasefire, which began on Tuesday and ended on Sunday, was the longest of the war so far."
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-02/ukraine-air-force-pubic-air-raid-alert-app-hacked-false-warnings/107336062",
+     "title": "Ukraine's air raid alert app has been hacked",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/78d57b7cab484e35da125e7c1f203c03?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic"
+     },
+     "id": "5e6db32c6b4794e3",
+     "published": "2026-11-02T02:05+00:00",
+     "text": "Ukraine's public alert app sends false warnings after being hacked\nIn short:\nUkraine and Russia say their public air raid alert apps have been hacked.\nThe Ukrainian app sent false alerts warning that some areas of the country were subject to nuclear and chemical threats.\nIn a separate event, the mobile app for Russia's emergencies ministry was hit by a massive cyber attack."
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-02/ukraine-air-force-public-air-raid-alert-app-hacked-false-warning/107336062",
+     "title": "Ukrainian air raid alert app sends false warnings after being hacked",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/78d57b7cab484e35da125e7c1f203c03?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic"
+     },
+     "id": "ebbafa424573b8c9",
+     "published": "2026-11-02T02:05+00:00",
+     "text": "Ukraine's public alert app sends false warnings after being hacked\nIn short:\nUkraine and Russia say their public air raid alert apps have been hacked.\nThe Ukrainian app sent false alerts warning that some areas of the country were subject to nuclear and chemical threats.\nIn a separate event, the mobile app for Russia's emergencies ministry was hit by a massive cyber attack."
+    },
+    {
+     "source": "Gulf News Tech",
+     "trust": 2,
+     "url": "https://gulfnews.com/world/europe/ukraine-reports-cyberattack-on-air-raid-alert-systemrussias-emergency-ministry-app-also-compromised-1.500732163",
+     "title": "Ukraine reports 'cyberattack' on air raid alert system; Russia's emergency ministry app also 'compromised'",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.assettype.com/gulfnews%2F2026-11-02%2Fybjx495j%2FANI_20261102012811.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+     },
+     "id": "30f8eb33ccdf0f9d",
+     "published": "2026-11-02T03:19+00:00",
+     "text": "Cyberattacks disrupt emergency systems as tensions persist in Russia-Ukraine conflict\nKyiv: Ukraine and Russia have reported cyberattacks targeting their respective emergency alert systems, with fake warnings about chemical and radiation threats circulated across Ukraine and false public safety information distributed through a Russian government mobile application amid the continuing war between the two countries.\nAccording to Fox News, Ukraine's air raid alert system was hacked, sending warnings of alleged chemical and radiation threats to mobile phones across the country.\nThe loudspeaker alert system was also compromised, broadcasting similar messages across the streets of Kyiv.\nUkraine's Air Force said the incident appeared to involve external interference, while reassuring residents that there was no radiation threat.\n\"Attention. The Air Alert app has likely been compromised,\" the Air Force said on Telegram, adding that, \"There is no radiation threat! Stay calm and follow our updates on our channel!\"\nHowever, Ukraine's Ministry for Digital Transformation later said in a post on X that the nationwide alert system was functioning normally.\n\"The nationwide alert system is operating in normal mode. All threat signals are transmitted to regional administrations and, accordingly, to street alert systems,\" the ministry said.\nThe development comes as Ukrainian President Volodymyr Zelenskyy called for an energy ceasefire, urging US President Donald Trump to consider the impact of the ongoing conflict on global energy prices.\n\"If the American president thinks that this war has influence on the prices, so he can ask energy ceasefire,\" Zelenskyy told Fox News.\nMeanwhile, Russia's Ministry of Emergency Situations said its mobile application had been targeted in a massive cyberattack, resulting in the circulation of false information about an alleged threat to the public.\n\"The Russian Ministry of Emergency Situations' mobile app was subjected to a massive cyberattack, which allowed the attackers to distribute fake information to the public,\" the ministry said in a statement.\nAccording to TASS, the ministry said efforts were underway to eliminate the vulnerability in the application and restore its normal functioning.\nThe cyber incidents come amid continuing diplomatic and humanitarian efforts surrounding the Russia-Ukraine conflict.\nOn Sunday, US First Lady Melania Trump commended Moscow and Kyiv for their cooperation during a five-day humanitarian ceasefire in Oleshky, in Ukraine's Kherson region, which concluded on November 1.\nIn a post on X, she said the operation had facilitated the delivery of critical humanitarian assistance and enabled the evacuation of nearly 800 people."
     }
    ]
   },
@@ -6365,37 +6476,89 @@
    ]
   },
   {
-   "id": "c36d86bbf7b",
+   "id": "c85e216bdfc",
    "kind": "news",
    "score": 12.5,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "How to access the Pirate Shop and get Tokens in Fortnite",
    "official_image": null,
    "sources": [
     {
      "source": "Steam News",
      "trust": 3,
-     "url": "https://store.steampowered.com/news/group/38509069/view/668380665149917734",
-     "title": "GTA 6 lets you break up Jason and Lucia, and we can thank Red Dead Redemption 2 for that",
+     "url": "https://store.steampowered.com/news/group/38204750/view/719046160957835605",
+     "title": "How to access the Pirate Shop and get Tokens in Fortnite",
      "lang": "en",
      "extra": {},
-     "id": "f6b8abd2ab8d3a04",
-     "published": "2026-11-01T15:30+00:00",
-     "text": "GTA 6 doesn't have to be romantic if you don't choose to engage with it that way, and we can thank the best man in video games, Red Dead Redemption 2's Arthur Morgan, for that.\nWhile Grand Theft Auto 6 follows the two central characters of Jason and Lucia, the game never really forces their relationship in directions that aren't steered by the player. Jason and Lucia can become romantically tangled if you choose or they can remain partners in crime. Or they can become a romantic couple and then break up entirely.\n\"We start them wanting to be together, and wanting to give this relationship of theirs another shot. But, as the game progresses, it's yours to keep or yours to lose,\" co-studio head and lead developer Rob Nelson explained while speaking to the latest issue of Edge Magazine.\nA huge part of GTA 6 is also having these characters feel like they have interiority separate from the player themselves. \"These games, maybe some people think 'oh, they're power fantasies'. Sure,\" Nelson said. \"But what if these characters want something else?\"\nAccording to the developer, that question first popped up during the development of Red Dead Redemption 2. Rockstar Games' huge open worlds almost always throw excessive amounts of in-game money at the player, but the studio's Western sequel made players think a little harder about where they want to spend that cash.\n\"Do I go and spend it on myself, on cool outfits and horses and saddles? Or do I go and give it to my adopted family in the gang?\" Nelson explained that the devs wanted people to feel Arthur Morgan's internal \"selfishness versus selflessness\" struggle wherever they were, even outside of cutscenes - Arthur Morgan can't escape himself, he's Arthur Morgan \"all the time.\"\nAnd that's eventually how Rockstar landed on the push and pull between GTA 6's central couple. You can nudge these characters closer together by holding hands and such, but ignore one too many late-night phone calls from your partner and things may go awry.\nGTA 6 map size is so big it rivals GTA 4, GTA 5, and Red Dead Redemption 2's combined – and Rockstar devs are still discovering places they've never seen\n[/url]"
+     "id": "a6e7d10f3b05f9e9",
+     "published": "2026-11-01T12:30+00:00",
+     "text": "One of the biggest features of the Treasure Hunters season in Fortnite is now live, and we can finally access the Pirate Shop. While it might look like the standard shop, there’s a key difference: everything you find inside is available for free. That’s right, you can pick anything you want without any additional resources.\nBut first, you’ll need to get access to the shop.\nTable of contents\nhttps://embeds.beehiiv.com/a8d62108-86ed-4039-bf49-44877ba62c15 How to access the Pirate Shop in Fortnite Treasure Hunters\nThe Pirate Shop can be obtained between Nov. 1 and Dec. 5, throughout the course of the season. Any item you find inside that requires you to spend V-Bucks can be obtained for free. To gain access, you’ll need to find Pirate Shop Tokens.\nThese are special tokens that are of two types. One of them allows you to activate anytime between now and Dec. 15 of this year. The other one can be activated anything between Jan. 1 and Dec. 15 of next year.\nImage via Epic Games Once you activate a token, you have 14 days to claim everything you can find in the Item Shop. Only bundles and items that cost real-life money will be an exception to this rule, but it’s still a wonderful opportunity.\nHow to get Pirate Shop Tokens in Fortnite Treasure Hunters\nTo find these valuable tokens, you’ll need to watch out for special chests. These chests don’t have fixed locations, and their odds appear to be quite low. Once you manage to find one, open them. If you’re lucky, you’ll receive access to the Pirate Shop as a treasure.\nIf you’re playing as a squad, you just need to find one treasure. Access will be granted to all members of a squad as long as one of them has managed to get the tokens. This also incentivizes you to play the season in squads since you’ll have higher chances (theoretically).\nThe post How to access the Pirate Shop and get Tokens in Fortnite appeared first on Destructoid."
     },
     {
-     "source": "Collider",
+     "source": "Polygon",
      "trust": 2,
-     "url": "https://collider.com/rockstar-new-game-after-grand-theft-auto-6",
-     "title": "Rockstar Needs to Forget Red Dead and GTA for its Next Game",
+     "url": "https://polygon.com/fortnite-pirate-item-shop-access-token-free-how-to-get",
+     "title": "New Fortnite Item Makes Everything on the Item Shop Completely Free",
      "lang": "en",
      "extra": {
-      "page_image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/jason_and_lucia_beach_landscape.jpg?w=1600&h=900&fit=crop"
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fortnite-one-piece-collab.jpg?w=1600&h=900&fit=crop"
      },
-     "id": "36d86bbf7bd59217",
-     "published": "2026-11-01T12:36+00:00",
-     "text": "Rockstar Games’ most anticipated title is releasing in just under a month, and yet speculation on the future of the studio has only skyrocketed. It’s rather unsurprising, since Grand Theft Auto VI is expected to be the most important video game release in the modern gaming industry. Additionally, Grand Theft Auto VI’s existence is projected to negatively impact the U.S. economy through loss of workplace productivity, costing approximately $1 billion a day.\nSo, considering Grand Theft Auto VI’s estimated 2 billion dollar budget, it's safe to say that a lot is riding on the game's success, even if many believe it to be a certifiable hit. What comes after the Grand Theft Auto VI release is another thing entirely, but that game’s success will undeniably influence Rockstar. Still, rumors persist about what Rockstar Games’ next title will be. However, seeing the trends among the current mainstream gaming audience, it might be in Rockstar Games’ best interest to have Grand Theft Auto VI's influence on future titles left to the side.\nRockstar Games Has a New Hurdle To Climb\nThe gaming industry and its audience have changed rapidly in the past ten years alone. Most modern games include some form of live-service features, microtransactions, free-to-play, or heavy reliance on online connectivity. It's a change that many gamers hate, and that can be easily seen in what titles turn out to be successful: AAA single-player games like Resident Evil: Requiem, but also an interesting rise in indie games like Hollow Knight: Silksong. Grand Theft Auto VI feels like a culmination of everything that makes that series so iconic and of what players want AAA single-player games to be like.\nRockstar Games' next new title will no doubt be expected to be another single-player adventure. However, the massive shadow cast by Grand Theft Auto VI could very well lead to their next game being rather low-stakes. A common rumor or wish from dedicated Rockstar Games fans is for the studio to revive its other classic franchises like Max Payne and Bully. This sentiment has persisted since the beginning of Grand Theft Auto VI's development and, while understandable, especially for the older gaming crowd, old franchise revival might not be in Rockstar Games' best interest.\nThe Debatable Firepower of Nostalgic Franchises\nMax Payne as a franchise had done relatively well for itself, with its third installment, Max Payne 3 in 2012, earning only $4 million in revenue in its first year but gradually able to eventually make its break-even goal through the help of digital storefronts like Steam. It was this slow revenue stream that caused its then publisher, Take-Two Interactive, and even certain Rockstar Games executives to consider Max Payne 3 a commercial failure. There is definitely a place for a franchise like Max Payne in the current gaming industry. Well-thought-out noir games have their niche, and the nostalgia factor will certainly give it an audience. The same can be said for Bully, a standalone Rockstar Games title that was successful in its initial PlayStation 2 era. Bully has managed to hang on relatively well in the modern gaming landscape, helped out by Steam and other online storefronts. Additionally, online content creators have also done the series a service in pushing it out to a wider audience and introducing it to a newer generation of players. Like Max Payne, Bully would also have a respectably sized audience who would definitely buy. Unfortunately, these old fr"
+     "id": "f2d79b3d27059d45",
+     "published": "2026-11-01T15:14+00:00",
+     "text": "Fortnite Treasure Hunters is here at last. This season is all about pirates and plundering treasure. Players can look the part using the Straw Hat Pirates skins from One Piece. It can get expensive to purchase cosmetics in Fortnite, but this season, there's an in-game item that makes everything in the Item Shop free. It almost sounds too good to be true, but it's real, and it's out there on the Battle Royale island.\nOne Piece was the perfect crossover for this year's mini-season, as Fortnite Treasure Hunters is all about anime and pirates. The Battle Pass features Ace and Robin, but there are more skins to collect in the Item Shop. The first released bundle includes Luffy, Nami, and Usopp, and it costs 4,000 V-Bucks, about $30. It's already quite expensive, and the number of One Piece skins in the shop will only grow as the season continues. Thankfully, Epic Games has introduced the Pirate Shop Access token, an item that grants players everything in the shop for free.\nHow to get the Pirate Shop Access token in Fortnite and how it works\nThis season, there are Treasure-Hunt chests in Fortnite. These special loot containers grant a free gizmo, a cosmetic item, or a token. The Pirate Shop Access token is a rare reward that can be found in these chests. If players are lucky enough to get it, the entire team will be able to plunder the Item Shop for two weeks, meaning that during this window of time, they can claim every item for free. This means they can get the One Piece bundle and any other skin, emote, or jam track in the shop. Exceptions include sidekicks that have already been purchased once and real-money purchases, such as special bundles and the Fortnite Crew.\nThe Pirate Shop Access token can be activated twice: once before Dec. 15, and once again in 2027. The effect lasts two weeks, so players must choose the right time. Once an item has been claimed, it is added to the player's locker permanently, even after the token expires.\nAlthough the Pirate Shop Access token is rare, there are ways to increase your chances of finding it. Since this item is shared among a team, playing Squads increases search efficiency, thanks to the extra pairs of hands. Visiting named locations with a higher loot concentration increases your chances of coming across Treasure-Hunt chests. Treasure Hours will begin next Sunday and are rumored to increase the spawn rate of the Pirate Shop Access token.\nThere are other items that can be found inside the Treasure-Hunt chests, and they change weekly. For Week 1 of the season, players have the chance to find the Solid Gold A$AP Rocky skin. Next week, the chests may contain the Solid Gold Lil Uzi Vert skin instead."
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get",
+     "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/treasure-chest_fn.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "2db211a17fef7501",
+     "published": "2026-11-01T20:18+00:00",
+     "text": "The Pirate Shop Access Token is a new item introduced in the Fortnite Chapter 7 mini season, and it allows you to get anything from the Shop for free for a 14-day period.\nAnything sold for V-Bucks in the Fortnite item shop can be claimed for free, meaning any outfit, pickaxe, back bling, sidekick, kicks, and more are yours to have forever. The item is too good to be true, so of course, it's extremely difficult to get your hands on.\nHere's how to get the Pirate Shop Token in Fortnite Chapter 7 mini season.\nHow to get the Pirate Shop Token in Fortnite Chapter 7 mini season\nThe process of getting the Pirate Shop Token is just like every other item in Fortnite, you need to open a treasure chest. Regular chests have been transformed into treasure chests in the mini season, so you don't need to be on the hunt for anything special. However, when you open a treasure chest, you have a small chance of finding special loot for yourself and everyone in your party. In most cases, your special loot will be a gizmo, like the Sprite Locator or the Portable Extractor. For the lucky few, your special loot will be a Pirate Shop Access Token.\nIn the tweet above from user Snowslept, you'll see that the chest will have a unique animation featuring a gold explosion, and a banner will appear on your screen saying that you found pirate shop access. You'll gain two Pirate Shop Access Tokens, one for 2026 and the other for 2027. When you activate the token, you'll have 14 days to claim anything from the Fortnite item shop for free. Essentially, any cosmetic is yours for the taking, but you can only claim sidekicks once. The only things you cannot purchase are real money offers (like V-Bucks and bundles), gifts, and pass levels/rewards.\nIf you're hunting for the Pirate Shop Access token, your best bet is to land in any of the following locations:\n- Arlong Park\n- Lantern Landing\n- Rubber Resort\n- Fortune's Fort\n- Loguetown\n- Plunder Port\n- Busy Bay\nWe personally recommend landing at Arlong Park or Lantern Landing as they're fairly close to one another, and you can quickly make your way down to Windmill Village and Loguetown. If you're quick, you can open upwards of 50 chests a game."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQallhSDVqbEZiTFRuLXc4dkM1LUtfUkFKY0NxSTlLMlV0TVlUa0VJWXdTUm90OFF3TGJtZ1owbmg3RHdZUXJJa25NR29TZlVUcUotcFhKY01HNkdRcGRodlk1VC1xNThuNHUwS3MtdVRBSDNZQTdDZ3lCU0ZHOWk1aU5KLU9XbGN4d1l6Q3RxNEpLZw?oc=5",
+     "title": "Fortnite Players Can Get Item Shop Skins For Free with the Pirate Shop Token",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "85e216bdfc5cf05e",
+     "published": "2026-11-01T10:07+00:00",
+     "text": "- Fortnite Players Can Get Item Shop Skins For Free with the Pirate Shop Token GameRant\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- ‘Fortnite’ Treasure Chest Prize Lets You Get Every Store Item For Free Forbes\n- Fortnite is giving free skins if you win big: How to access the Pirate Shop Yahoo Tech\n- Fortnite's rare Pirate Shop: free Item Shop cosmetics for 14 days games.gg"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aYmtEWUtjc2JpTklCaXQzcURYNHlpektTU2N0NE9zQWpGc2hwOHhHUnZMVWZYZ1ZuQ2IzSFczTFlLYWQ1Zm5wT2lualhpODBGR092cTlpZTRoQdIBX0FVX3lxTE9pNG5qT293Y3NOMEtjM3JVbmJNbG1uM0ZrTUhJRmdPQ290QnlBOEJlOWthNnpvakRqQVJWSXk2Vk5vYV91UUJOX3JfZmtUbW54ZU50VmktSzIwOEUxZVQw?oc=5",
+     "title": "Fortnite Pirate Shop Explained: How to Unlock Access and Get Free Items",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "029d2eed83eeec5e",
+     "published": "2026-11-01T10:44+00:00",
+     "text": "- Fortnite Pirate Shop Explained: How to Unlock Access and Get Free Items Beebom\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- Fortnite is giving free skins if you win big: How to access the Pirate Shop Yahoo Tech\n- New Fortnite Item Makes Everything on the Item Shop Completely Free Polygon.com\n- Fortnite Pirate Shop Token Explained - Big Giveaway Hotspawn"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcnc2a04zNXBaZklUOWFaVnhZaTI2WElDRTlCVWZ4YlA0cENHUU52Q01UeFZEN0RteXI4NTA5YWVPdXEwVUZJN2tlbEY2TUlmUXVOV09OSTJFSkJaY2VIM0dxU29OeU9EQlpGamZwTVoxYTQ1Tmo0VFZSM0wxRHd5T2NrNlN2RElrYlRRQlhmNjF4d1pwYjNTUVB1QW8wNFR6?oc=5",
+     "title": "Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "9fce8644c098c3e8",
+     "published": "2026-11-01T23:01+00:00",
+     "text": "- Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free Push Square\n- ‘Fortnite’ Treasure Chest Prize Lets You Get Every Store Item For Free Forbes\n- How to Get a Fortnite Pirate Shop Token and Claim Free Shop Items VICE\n- Fortnite Treasure Hunters Guide: All Pirate Chest Loot & Rewards games.gg\n- How to Unlock Pirate Shop Access - Free Item Shop Explained IGN"
     }
    ]
   },
@@ -6431,28 +6594,6 @@
      "id": "a1fde67e0f8e4bfd",
      "published": "2026-11-01T23:00+00:00",
      "text": "The Elder Scrolls series is in something of a tricky spot at the time of writing due mainly to the ongoing delay with the launch of the next mainline entry, The Elder Scrolls VI. After all, it has been fifteen years since the most recent entry, The Elder Scrolls V: Skyrim, was released, and since then, only The Elder Scrolls IV: Oblivion Remastered has stopped the franchise from fading into the background.\nIt was way back in 2018 that Bethesda first confirmed that The Elder Scrolls VI would be the next installment in the much-loved franchise, but since then, updates and details surrounding its development have remained scarce, leading some fans to worry that it would be canceled altogether.\nWhilst that is not the case, at least at the time of writing, there is at least one The Elder Scrolls-related release on the way, and it is set to launch this November.\nOffering a complete genre change for the franchise, The Elder Scrolls: Betrayal of the Second Era Board Game is an upcoming tabletop experience from Zatu Games. Set to launch on 30 November 2026, it is now available for pre-order, but with a £187.75 price tag, it is quite the investment. The only good news here is that it is currently on offer from its RRP of £188.99.\nRecommended for 1-4 players with each game taking anything from 150-180 minutes, The Elder Scrolls: Betrayal of the Second Era Board Game's official synopsis reads as follows:\nThe Elder Scrolls: Betrayal of the Second Era is a cooperative tabletop adventure set during Tamriel's Second Era - specifically during the events of the Planemeld, as the Order of the Black Worm plots to secure the Amulet of Kings. As the dark cult schemes, however, one of its members is planning an even darker betrayal, one that will tie Tamriel in with Oblivion forever. Adventurers work to uncover her machinations and stop her plot amid a bevy of endlessly replayable content. As in The Elder Scrolls video games, players will travel on an epic journey, balancing exploration, character building, dungeon diving and close quarters combat.\nIn The Elder Scrolls: Betrayal of the Second Era Board Game, each game takes place over the course of three gameplay sessions, \"with sessions being roughly two hours plus an additional half hour per player in length.\" During this, players will be tasked with customizing and controlling a single hero throughout all three sessions as they \"manage multiple skill lines, classes and experience the many regions of Tamriel, each with their own unique flavor and mechanics.\"\nWith experience points handed out throughout the course of the game, players will be encouraged to build interesting and unique characters, each with their own skills and abilities. Luckily, as the description details, \"session to session progression is meaningful, but players are not required to remember complex narrative points or play with the same group forever.\"\nAs such, replayability is a big selling point for this upcoming The Elder Scrolls-inspired board game. So, if you are interested in The Elder Scrolls: Betrayal of the Second Era Board Game ahead of its launch in just over a month's time, make sure to secure your copy by pre-ordering now.\n- Video Game(s)\n- The Elder Scrolls: Arena, The Elder Scrolls II: Daggerfall, The Elder Scrolls III: Morrowind, The Elder Scrolls IV: Oblivion, The Elder Scrolls V: Skyrim, The Elder Scrolls Online, The Elder Scrolls: Legends, The Elder Scrolls: Blades, The Elder Scrolls 6\n- Cast\n- Patrick Stewart, Sean Bea"
-    }
-   ]
-  },
-  {
-   "id": "cae801e16e7",
-   "kind": "news",
-   "score": 12.5,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Antonelli’s dad reflects on son’s ‘important’ title triumph",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Formula 1",
-     "trust": 3,
-     "url": "https://formula1.com/en/latest/article/he-makes-himself-stronger-antonellis-dad-reflects-on-sons-important-title-triumph.2jMjsfdy0bakm0FChw4Qk4",
-     "title": "Antonelli’s dad reflects on son’s ‘important’ title triumph",
-     "lang": "en",
-     "extra": {},
-     "id": "ae801e16e764f253",
-     "published": "2026-11-02T01:40+00:00",
-     "text": "Marco Antonelli has opened up about his son’s historic World Championship success at the Mexico City Grand Prix."
     }
    ]
   },
@@ -6652,39 +6793,6 @@
      "id": "3880c2489c2050ea",
      "published": "2026-11-01T17:07+00:00",
      "text": "Dark Mystery (Epic Games) Giveaway. Worth: $7.99. Platforms: PC, Epic Games Store. Ends: 2026-11-08 23:59:00. Claim Dark Mystery for free on Epic Games Store! Dark Mystery is a 2d platformer game with 35 exciting levels. How to get it: 1. Click the button to visit the giveaway page.\r\n2. Log in to your Epic Games Store account.\r\n3. Click the button to add the game to your library"
-    }
-   ]
-  },
-  {
-   "id": "c6c2dea99aa",
-   "kind": "free",
-   "score": 9.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Free Course: AI Fluency for pK–12 Educators from Anthropic Academy",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Class Central",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYVhhTGhFTzdIcWJQVVFabFQyVWhsNmhZVGpUYXRRcVJhSFVCV1c3UU4xZi1QNHotMHhjc29rRTdMMV9Ub2d1ZFNia29rcWVPUWVodi1PdHZCTl9KNjFqR0VWYlI2UnlWWVRjSDJkQlJWVWJrOTdfS3JaQlk2SUhVYkVabGJCRFZiY2ZtQWVwLTByRGxaOUE?oc=5",
-     "title": "Free Course: AI Fluency for pK–12 Educators from Anthropic Academy",
-     "lang": "en",
-     "extra": {},
-     "id": "6c2dea99aa1a7bb7",
-     "published": "2026-10-31T15:20+00:00",
-     "text": "Free Course: AI Fluency for pK–12 Educators from Anthropic Academy\nClass Central"
-    },
-    {
-     "source": "Class Central",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3BFR1F4QUZKWl9RZXVzbTh6ZW5DWjEzNlVMR3pySm11YllpdzQ1QVhKVGg4aHdfWVctQkFGdDlJUXRoUnBONm00VmNhbklGdFFBaUJWb2JWOW1GSllpQ3Z6UE05RjNvdVVscW9fellNNE1FN1FZTm1qQjBoUkdXeGtTcE5tVXNVX0E4Z2U1TS1RUDlVdnhLNHpnSXBCcnFC?oc=5",
-     "title": "Free Course: AI Fluency for pK-12 Train the Trainer from Anthropic Academy",
-     "lang": "en",
-     "extra": {},
-     "id": "478e50ab456227de",
-     "published": "2026-10-31T15:20+00:00",
-     "text": "Free Course: AI Fluency for pK-12 Train the Trainer from Anthropic Academy\nClass Central"
     }
    ]
   },
@@ -6894,8 +7002,8 @@
       "market": "crypto",
       "day": "2026-11-02"
      },
-     "published": "2026-11-02T03:11+00:00",
-     "text": "Bitcoin: $78,434 (+0.9% 24h)\nEthereum: $2,294 (+1.2% 24h)\nSolana: $94.94 (-0.6% 24h)\nToncoin: $1.21 (+0.6% 24h)"
+     "published": "2026-11-02T03:42+00:00",
+     "text": "Bitcoin: $78,675 (+1.2% 24h)\nEthereum: $2,308 (+1.7% 24h)\nSolana: $95.67 (-0.1% 24h)\nToncoin: $1.21 (+0.8% 24h)"
     }
    ]
   },
