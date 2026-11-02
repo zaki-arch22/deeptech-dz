@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T14:24:06+00:00",
+ "generated_at": "2026-11-02T14:54:48+00:00",
  "clusters": [
   {
    "id": "cfd70ae0972",
@@ -788,6 +788,120 @@
    ]
   },
   {
+   "id": "c2990a5d2e3",
+   "kind": "news",
+   "score": 23.0,
+   "sensitive": true,
+   "distinct_sites": 8,
+   "title_hint": "Cyber attacks hit Russia, Ukraine after truce ends",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/news/2026/11/02/world/politics/cyber-attacks-russia-ukraine-truce",
+     "title": "Cyber attacks hit Russia, Ukraine after truce ends",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571765.jpg?v=3.1"
+     },
+     "id": "2990a5d2e3905bdc",
+     "published": "2026-11-02T02:34+00:00",
+     "text": "Kyiv, Ukraine – Russia said its emergency warnings app came under a “massive cyberattack” on Monday, hours after Ukraine reported a hack in an apparent exchange of blows between the foes, as their longest truce came to an end.\nMoscow’s emergencies ministry said hackers posted “false information” on the app, which is designed to warn the public of incoming drone attacks and other threats.\nHours earlier, Ukraine said it suspected its air raid alert system had been compromised, after baseless alerts of a radiation threat appeared on the app.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/5fe7803ec311",
+     "title": "Russia, Ukraine report cyberattacks on emergency alert apps as ceasefire ends",
+     "lang": "en",
+     "extra": {},
+     "id": "c7a01f65f9399853",
+     "published": "2026-11-02T02:34+00:00",
+     "text": "Both countries report attacks on their emergency warning systems, with Ukraine receiving false radiation alerts and Russia reporting misleading messages as rare humanitarian truce expires."
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/68692531_6.jpg"
+     },
+     "id": "c89834c6abfbec0f",
+     "published": "2026-11-02T02:48+00:00",
+     "text": "What you need to know\n- Russia, Ukraine hit by cyberattacks after humanitarian truce ends in Russian-occupied Oleshky\n- Zelenskyy offers to stop hitting Russian refineries if the US delivers Patriot missiles\nHere are the latest developments from Russia's war in Ukraine on Monday, November 2.\nZelenskyy says Ukraine will stop refinery strikes if US sends Patriot missiles\nUkrainian President Volodymyr Zelensky said that his country would stop hitting Russian oil refineries if Washington provided Kyiv with powerful Patriot interceptor missiles.\nSpeaking to US broadcaster Fox News, Zelenskyy said he had had \"different and several\" conversations with Trump and his team on the issue.\n\"We asked that we can't not respond after Russia's attack on our energy, after Russia is killing our people, attacks on our electricity, gas, refineries, on everything,\" he said.\n\"We said that if you want us not to attack Russia's refineries, they have not to attack our energy system. Another alternative, give us Patriot missiles, we will find money, not just aid,\" Zelenskyy added.\nThe Ukrainian leader said if Washington provided the missile systems for one month Kyiv would cease attacks on Russian refineries for the same period.\nAsked if he was concerned that this would be seen as trying to \"leverage\" Trump, Zelenskyy said: \"I don't have any concerns when I share the truth between partners.\"\nUkrainian authorities have been warning for weeks that their supplies of the Patriot interceptor missiles were dwindling.\nUkraine, Russia report separate hacking attacks\nEmergency alert apps in both Ukraine and Russia have been hacked, officials said.\nUkraine's air force said an air raid alert app was hacked late on Sunday, with fake alerts being sent to smartphones, warning people of nuclear and chemical threats.\nSPRAVDI, Ukraine's Center for Strategic Communications, blamed Russia for the hack in a post on its X account.\nHours later, Moscow said the mobile app of the Russian Emergencies Ministry was hit by \"a massive cyberattack.\"\n\"Attention! The mobile application of the Ministry of Emergencies of Russia has been subjected to a massive cyberattack, enabling attackers to send false information to the public,\" the Emergencies Ministry posted on Telegram.\nIt said authorities were working to fix the issue.\nWelcome to our coverage\nHello and welcome to DW's coverage of the latest developments in Russia's war against Ukraine.\nAs a temporary ceasefire in Russian-occupied Ukrainian town Oleshky ended on Sunday night, Ukraine resumed attacks on Russian oil refineries.\nUkrainian President Volodymyr Zelenskyy said his country would stop targeting Russian refineries if Washington provided Kyiv with powerful Patriot interceptor missiles to defend against Russian missile and drone strikes.\nMeanwhile, Ukraine's air force said it suspected the country's aid raid alert system had been hacked.\nRussia's Emergencies Ministry, for its part, said that a \"massive cyberattack\" hit its application that is designed to warn people of incoming drone attacks and other threats.\nStay tuned for the latest news and analysis from the ongoing war."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/russia-ukraine-war/russia-ukraine-report-cyberattacks-on-emergency-alert-apps/4108270",
+     "title": "Russia, Ukraine report cyberattacks on emergency alert apps",
+     "lang": "en",
+     "extra": {},
+     "id": "9dc9fdae313f3e0e",
+     "published": "2026-11-02T04:17+00:00",
+     "text": "Ukrainian Air Force says Air Alert app likely subjected to 'hostile interference' while Russia reports 'massive cyberattack' on emergency app"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
+     "title": "Live: Russia and Ukraine trade blame for cyber attacks as fragile ceasefire ends",
+     "lang": "en",
+     "extra": {},
+     "id": "b73259a70af43bf7",
+     "published": "2026-11-02T06:19+00:00",
+     "text": "Russia and Ukraine on Monday traded accusations over cyberattacks, with Moscow reporting a hack of its emergency alerts app hours after Kyiv said its own air raid warning system had been compromised. The incidents came as a fragile ceasefire in Ukraine's Kherson region expired, raising fears of renewed fighting. Follow our liveblog for all the latest updates."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/02/ukraine-and-russia-say-air-raid-alert-apps-hit-by-cyberattacks-after-truce-ends",
+     "title": "Ukraine and Russia say air raid alert apps hit by cyberattacks after truce ends",
+     "lang": "en",
+     "extra": {},
+     "id": "153cd086d5ec10ee",
+     "published": "2026-11-02T06:25+00:00",
+     "text": "The cyberattacks came as the longest truce of the war, limited to Ukraine's eastern Kherson region, ended on Sunday after Russia refused the offer of an extension, according to Kyiv."
+    },
+    {
+     "source": "Bloomberg Tech",
+     "trust": 2,
+     "url": "https://bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps",
+     "title": "Ukraine and Russia Report Cyberattacks on Emergency Alert Apps",
+     "lang": "en",
+     "extra": {},
+     "id": "d285901324724ede",
+     "published": "2026-11-02T08:21+00:00",
+     "text": "Ukraine and Russia said they faced cyberattacks on emergency and air raid alert systems."
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/video/20261102-ukraine-and-russia-both-hit-by-cyberattacks-on-emergency-apps",
+     "title": "Ukraine and Russia both hit by cyberattacks on emergency apps",
+     "lang": "en",
+     "extra": {},
+     "id": "eca498b035c84720",
+     "published": "2026-11-02T10:20+00:00",
+     "text": "Authorities in both Ukraine and Russia said that their emergency alert mobile applications were targeted by cyberattacks late Sunday. Residents in Ukraine received messages that there was a high nuclear radiation danger in the capital Kyiv, while Russian officials said hackers had sent fake emergency alerts after gaining access to the mobile app for Russia’s Emergency Ministry."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/ukraine-and-russia-both-report-fake-emergency-alerts-after-cyberattacks-target-apps-as-limited-ceasefire-ends",
+     "title": "Ukraine and Russia both report fake emergency alerts after cyberattacks target apps as limited ceasefire ends",
+     "lang": "en",
+     "extra": {},
+     "id": "bc49a4f5fde2d857",
+     "published": "2026-11-02T14:35+00:00",
+     "text": "It was not clear if the attacks on Russia and Ukraine late Sunday were related."
+    }
+   ]
+  },
+  {
    "id": "c6433dc01fd",
    "kind": "news",
    "score": 22.0,
@@ -1207,105 +1321,98 @@
    ]
   },
   {
-   "id": "c2990a5d2e3",
+   "id": "c339e72aa71",
    "kind": "news",
    "score": 21.0,
    "sensitive": true,
    "distinct_sites": 7,
-   "title_hint": "Cyber attacks hit Russia, Ukraine after truce ends",
+   "title_hint": "Abu Dhabi Crown Prince meets OpenAI's Sam Altman as emirate signs 4 deals in key sectors",
    "official_image": null,
    "sources": [
     {
-     "source": "Japan Times",
+     "source": "Khaleej Times",
      "trust": 2,
-     "url": "https://japantimes.co.jp/news/2026/11/02/world/politics/cyber-attacks-russia-ukraine-truce",
-     "title": "Cyber attacks hit Russia, Ukraine after truce ends",
+     "url": "https://khaleejtimes.com/uae/abu-dhabi-crown-prince-openai-altman-4-deals-key-sectors",
+     "title": "Abu Dhabi Crown Prince meets OpenAI's Sam Altman as emirate signs 4 deals in key sectors",
      "lang": "en",
      "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571765.jpg?v=3.1"
+      "page_image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-02/fmvq6feg/Screenshot-2026-11-02-at-7.27.34-AM.png?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=5,0,1284,856"
      },
-     "id": "2990a5d2e3905bdc",
-     "published": "2026-11-02T02:34+00:00",
-     "text": "Kyiv, Ukraine – Russia said its emergency warnings app came under a “massive cyberattack” on Monday, hours after Ukraine reported a hack in an apparent exchange of blows between the foes, as their longest truce came to an end.\nMoscow’s emergencies ministry said hackers posted “false information” on the app, which is designed to warn the public of incoming drone attacks and other threats.\nHours earlier, Ukraine said it suspected its air raid alert system had been compromised, after baseless alerts of a radiation threat appeared on the app.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
+     "id": "339e72aa712e64d5",
+     "published": "2026-11-02T05:46+00:00",
+     "text": "Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, Abu Dhabi's Crown Prince and Abu Dhabi Executive Council's Chairman, met OpenAI CEO Sam Altman in the capital to discuss opportunities to strengthen cooperation in artificial intelligence (AI) and accelerate its adoption across key sectors.\nThe meeting focused on using advanced AI technologies to drive government transformation and innovation across Abu Dhabi's strategic sectors, in line with the emirate's economic and development priorities.\nDiscussions also covered Abu Dhabi's progress in integrating AI into government services and key industries, supported by investments in digital infrastructure and national talent development.\nStay up to date with the latest news. Follow KT on WhatsApp Channels.\nFollowing the meeting, Sheikh Khaled witnessed the signing of four agreements between Abu Dhabi-based entities and OpenAI, covering the government, energy and investment sectors.\nOpenAI CEO Sam Altman said Abu Dhabi and the UAE were setting a global standard for AI integration across the public and private sectors.\n“Abu Dhabi and the UAE are setting a bold, global standard for AI integration across both the public and private sectors to make sure the benefits of AI reach everyone,” he said, adding that OpenAI was proud to support the UAE's ambitions through a shared commitment to safety, accessibility and responsible innovation.\nADNOC to deploy OpenAI technology\nIn the energy sector, ADNOC, G42 subsidiary Inception42 and OpenAI signed an agreement making ADNOC the first company in the energy industry to deploy OpenAI's frontier technology.\nThe partnership will integrate advanced AI capabilities across ADNOC's operations, supporting more connected operational, investment and commercial decision-making to improve efficiency and productivity.\nThe technology will run on OpenAI's GPT models using in-country inference infrastructure in the UAE, supporting ADNOC's ambition to become the world's most technology- and AI-enabled energy company.\nAbu Dhabi launches AI-native government initiative\nIn the government sector, Abu Dhabi Government and OpenAI launched what they described as the world's first AI-native Machine-Readable Government initiative, marking a step towards the emirate's ambition to become the world's first fully AI-native government.\nThe initiative will convert selected government policies and regulations into machine-readable formats, allowing AI-powered systems to assist officials with routine regulatory compliance assessments, including applications for permits and certificates.\nEach assessment will be traceable to the relevant regulation, while government officials will retain oversight and responsibility for final decisions.\nLed by the Department of Government Enablement – Abu Dhabi (DGE), the initiative's first pilot is already operational with the Abu Dhabi Agriculture and Food Safety Authority (ADAFSA), focusing on food imports.\nAI processing is powered by OpenAI's UAE inference residency, with real-time computing carried out on GPUs within UAE data centres.\nMubadala, Inception42 sign investment agreement\nUnder a separate agreement, Mubadala, Inception42 and OpenAI will apply advanced AI capabilities to investment analysis, identifying opportunities and assessing risks to support informed decision-making and long-term value creation.\nInception42 and OpenAI also signed a five-year agreement to expand the adoption of advanced AI across government, enterprise and education in the UAE"
     },
     {
-     "source": "TRT World",
+     "source": "Gulf News Tech",
      "trust": 2,
-     "url": "https:///article/5fe7803ec311",
-     "title": "Russia, Ukraine report cyberattacks on emergency alert apps as ceasefire ends",
-     "lang": "en",
-     "extra": {},
-     "id": "c7a01f65f9399853",
-     "published": "2026-11-02T02:34+00:00",
-     "text": "Both countries report attacks on their emergency warning systems, with Ukraine receiving false radiation alerts and Russia reporting misleading messages as rare humanitarian truce expires."
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf",
-     "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
+     "url": "https://gulfnews.com/uae/government/sheikh-khaled-meets-sam-altman-witnesses-signing-of-agreements-with-openai-1.500732283",
+     "title": "Sheikh Khaled meets Sam Altman, witnesses signing of agreements with OpenAI",
      "lang": "en",
      "extra": {
-      "page_image": "https://static.dw.com/image/68692531_6.jpg"
+      "page_image": "https://media.assettype.com/gulfnews%2F2026-11-02%2Fthcq315j%2FBranded-Images-0-2064-0-0.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
      },
-     "id": "c89834c6abfbec0f",
-     "published": "2026-11-02T02:48+00:00",
-     "text": "What you need to know\n- Russia, Ukraine hit by cyberattacks after humanitarian truce ends in Russian-occupied Oleshky\n- Zelenskyy offers to stop hitting Russian refineries if the US delivers Patriot missiles\nHere are the latest developments from Russia's war in Ukraine on Monday, November 2.\nZelenskyy says Ukraine will stop refinery strikes if US sends Patriot missiles\nUkrainian President Volodymyr Zelensky said that his country would stop hitting Russian oil refineries if Washington provided Kyiv with powerful Patriot interceptor missiles.\nSpeaking to US broadcaster Fox News, Zelenskyy said he had had \"different and several\" conversations with Trump and his team on the issue.\n\"We asked that we can't not respond after Russia's attack on our energy, after Russia is killing our people, attacks on our electricity, gas, refineries, on everything,\" he said.\n\"We said that if you want us not to attack Russia's refineries, they have not to attack our energy system. Another alternative, give us Patriot missiles, we will find money, not just aid,\" Zelenskyy added.\nThe Ukrainian leader said if Washington provided the missile systems for one month Kyiv would cease attacks on Russian refineries for the same period.\nAsked if he was concerned that this would be seen as trying to \"leverage\" Trump, Zelenskyy said: \"I don't have any concerns when I share the truth between partners.\"\nUkrainian authorities have been warning for weeks that their supplies of the Patriot interceptor missiles were dwindling.\nUkraine, Russia report separate hacking attacks\nEmergency alert apps in both Ukraine and Russia have been hacked, officials said.\nUkraine's air force said an air raid alert app was hacked late on Sunday, with fake alerts being sent to smartphones, warning people of nuclear and chemical threats.\nSPRAVDI, Ukraine's Center for Strategic Communications, blamed Russia for the hack in a post on its X account.\nHours later, Moscow said the mobile app of the Russian Emergencies Ministry was hit by \"a massive cyberattack.\"\n\"Attention! The mobile application of the Ministry of Emergencies of Russia has been subjected to a massive cyberattack, enabling attackers to send false information to the public,\" the Emergencies Ministry posted on Telegram.\nIt said authorities were working to fix the issue.\nWelcome to our coverage\nHello and welcome to DW's coverage of the latest developments in Russia's war against Ukraine.\nAs a temporary ceasefire in Russian-occupied Ukrainian town Oleshky ended on Sunday night, Ukraine resumed attacks on Russian oil refineries.\nUkrainian President Volodymyr Zelenskyy said his country would stop targeting Russian refineries if Washington provided Kyiv with powerful Patriot interceptor missiles to defend against Russian missile and drone strikes.\nMeanwhile, Ukraine's air force said it suspected the country's aid raid alert system had been hacked.\nRussia's Emergencies Ministry, for its part, said that a \"massive cyberattack\" hit its application that is designed to warn people of incoming drone attacks and other threats.\nStay tuned for the latest news and analysis from the ongoing war."
+     "id": "bf1502adfe383021",
+     "published": "2026-11-02T05:51+00:00",
+     "text": "Abu Dhabi explores AI to accelerate government transformation across key sectors\nAbu Dhabi: Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, Crown Prince of Abu Dhabi and Chairman of the Abu Dhabi Executive Council, has met with Sam Altman, CEO of OpenAI, to explore opportunities for advancing cooperation in artificial intelligence (AI).\nThe meeting focused on leveraging advanced AI technologies to accelerate government transformation and drive innovation across Abu Dhabi’s strategic sectors, in line with the emirate’s economic and development priorities and its ambition to strengthen its position as a global hub for AI innovation and deployment.\nDiscussions also highlighted Abu Dhabi’s progress in integrating AI across government services and key economic sectors, supported by continued investment in digital infrastructure and national talent development, as part of its goal to become the world’s first fully AI-native government.\nFollowing the meeting, Sheikh Khaled witnessed the signing of four agreements between Abu Dhabi-based entities and OpenAI, spanning the government, energy and investment sectors.\nSam Altman, CEO of OpenAI, said, “Abu Dhabi and the UAE are setting a bold, global standard for AI integration across both the public and private sectors to make sure the benefits of AI reach everyone. We are proud to support the UAE’s ambition, anchored in a shared commitment to safety, accessibility and responsible innovation.”\nIn the energy sector, ADNOC, G42 (through subsidiary company Inception42) and OpenAI signed a landmark agreement making ADNOC the first company in the energy sector to deploy OpenAI’s frontier technology.\nThe agreement will integrate advanced AI capabilities across ADNOC’s operations, enabling more connected operational, investment and commercial decision-making to enhance efficiency and productivity.\nDeployed on OpenAI’s GPT models using in-country inference infrastructure in the UAE, this partnership marks another important step as ADNOC delivers on its ambition to become the world’s most technology- and AI-enabled energy company.\nIn the government sector, Abu Dhabi Government and OpenAI have launched the world’s first AI-native Machine-Readable Government initiative, a key step towards the emirate’s ambition to become the world’s first AI-native government.\nThe initiative translates a defined set of government policies and regulations into machine-readable form, enabling AI-powered systems to assist officials with routine regulatory compliance assessments, including those related to issuing permits and certificates. Each assessment is traceable to the governing rule, while government officials retain oversight and accountability for final decisions.\nLed and governed by the Department of Government Enablement – Abu Dhabi (DGE), MRG’s first pilot is already in production with the Abu Dhabi Agriculture and Food Safety Authority (ADAFSA), focused on food imports. AI processing is powered by OpenAI’s UAE inference residency, with real-time model computation running on GPUs within UAE data centres.\nIn the investment sector, Mubadala, Inception42 and OpenAI signed an agreement to apply advanced AI capabilities to investment analysis, opportunity identification and risk assessment, supporting more informed investment decisions and long-term value creation.\nIn addition, Inception42 and OpenAI signed a five-year agreement to enable the adoption of frontier AI across government, enterprise and education.\nUnder the agre"
     },
     {
-     "source": "Anadolu",
+     "source": "Reuters Tech",
      "trust": 2,
-     "url": "https://aa.com.tr/en/russia-ukraine-war/russia-ukraine-report-cyberattacks-on-emergency-alert-apps/4108270",
-     "title": "Russia, Ukraine report cyberattacks on emergency alert apps",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
+     "title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE",
      "lang": "en",
-     "extra": {},
-     "id": "9dc9fdae313f3e0e",
-     "published": "2026-11-02T04:17+00:00",
-     "text": "Ukrainian Air Force says Air Alert app likely subjected to 'hostile interference' while Russia reports 'massive cyberattack' on emergency app"
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
-     "title": "Live: Russia and Ukraine trade blame for cyber attacks as fragile ceasefire ends",
-     "lang": "en",
-     "extra": {},
-     "id": "b73259a70af43bf7",
-     "published": "2026-11-02T06:19+00:00",
-     "text": "Russia and Ukraine on Monday traded accusations over cyberattacks, with Moscow reporting a hack of its emergency alerts app hours after Kyiv said its own air raid warning system had been compromised. The incidents came as a fragile ceasefire in Ukraine's Kherson region expired, raising fears of renewed fighting. Follow our liveblog for all the latest updates."
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/02/ukraine-and-russia-say-air-raid-alert-apps-hit-by-cyberattacks-after-truce-ends",
-     "title": "Ukraine and Russia say air raid alert apps hit by cyberattacks after truce ends",
-     "lang": "en",
-     "extra": {},
-     "id": "153cd086d5ec10ee",
-     "published": "2026-11-02T06:25+00:00",
-     "text": "The cyberattacks came as the longest truce of the war, limited to Ukraine's eastern Kherson region, ended on Sunday after Russia refused the offer of an extension, according to Kyiv."
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "5d7e2da58374fb6f",
+     "published": "2026-11-02T06:40+00:00",
+     "text": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE\nReuters"
     },
     {
      "source": "Bloomberg Tech",
      "trust": 2,
-     "url": "https://bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps",
-     "title": "Ukraine and Russia Report Cyberattacks on Emergency Alert Apps",
+     "url": "https://bloomberg.com/news/articles/2026-11-02/openai-s-altman-travels-to-uae-to-sign-energy-investment-deals",
+     "title": "OpenAI’s Altman Travels to UAE to Sign Energy, Investment Deals",
      "lang": "en",
      "extra": {},
-     "id": "d285901324724ede",
-     "published": "2026-11-02T08:21+00:00",
-     "text": "Ukraine and Russia said they faced cyberattacks on emergency and air raid alert systems."
+     "id": "de5edc595df7e373",
+     "published": "2026-11-02T06:52+00:00",
+     "text": "OpenAI signed deals to deploy its technology across energy companies, investment firms and government agencies in the United Arab Emirates, deepening ties as it seeks billions of dollars in funding from the country’s state-backed investors."
     },
     {
-     "source": "France 24 EN",
+     "source": "Investing.com",
      "trust": 2,
-     "url": "https://france24.com/en/video/20261102-ukraine-and-russia-both-hit-by-cyberattacks-on-emergency-apps",
-     "title": "Ukraine and Russia both hit by cyberattacks on emergency apps",
+     "url": "https://investing.com/news/stock-market-news/adnoc-signs-ai-deal-with-openai-as-sam-altman-visits-abu-dhabi-93CH-4990048",
+     "title": "Adnoc signs AI deal with OpenAI as Sam Altman visits Abu Dhabi",
      "lang": "en",
      "extra": {},
-     "id": "eca498b035c84720",
-     "published": "2026-11-02T10:20+00:00",
-     "text": "Authorities in both Ukraine and Russia said that their emergency alert mobile applications were targeted by cyberattacks late Sunday. Residents in Ukraine received messages that there was a high nuclear radiation danger in the capital Kyiv, while Russian officials said hackers had sent fake emergency alerts after gaining access to the mobile app for Russia’s Emergency Ministry."
+     "id": "dbd6a1e49cfcecfe",
+     "published": "2026-11-02T07:26+00:00",
+     "text": ""
+    },
+    {
+     "source": "CNBC Tech",
+     "trust": 2,
+     "url": "https://cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
+     "title": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://image.cnbcfm.com/api/v1/image/108469839-1793120706479-Screenshot_2026-10-27_at_125651_PM.png?v=1793120747&w=1920&h=1080"
+     },
+     "id": "6774ce2f0cbc34a8",
+     "published": "2026-11-02T11:02+00:00",
+     "text": "OpenAI has signed deals across energy, investment and government sectors in the United Arab Emirates as the AI lab works to secure funding from investors in the region as part of a $20 billion round.\nCEO Sam Altman met with Khaled bin Mohamed bin Zayed Al Nahyan, crown prince of Abu Dhabi and Chairman of the Abu Dhabi Executive Council, as the artificial intelligence lab secured arrangements for a number of sectors to use its models, the Abu Dhabi Media Office said on Monday.\nWhile the Middle East has emerged as a key AI hub in recent years, with U.S. big tech companies signing deals to develop huge data centers in the region, ongoing conflict has tested that appeal.\nOpenAI and Anthropic have turned to Middle East investors as they've looked for ever-larger pools of capital to fund growth.\nMGX, an Abu Dhabi-based investment firm, has backed both labs, including co-leading Anthropic's $30 billion raise in February and OpenAI's $122 billion raise in March. OpenAI is currently seeking to raise $20 billion in a new funding round co-led by investors from the United Arab Emirates, CNBC reported on Saturday.\n\"Abu Dhabi and the UAE are setting a bold, global standard for AI integration across both the public and private sectors to make sure the benefits of AI reach everyone,\" Altman said in a statement. \"We are proud to support the UAE's ambition, anchored in a shared commitment to safety, accessibility and responsible innovation.\"\nThe Abu Dhabi National Oil Company, or ADNOC, G42 signed an agreement to deploy OpenAI's frontier technology. Sovereign investor Mubadala, Inception42 and OpenAI signed an agreement to apply advanced AI capabilities to investment analysis.\nThe Abu Dhabi Government announced an initiative with the AI lab to translate government policies and regulations in machine-readable form. Inception42 and OpenAI also signed a five-year agreement to enable the adoption of frontier AI across government, enterprise and education."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/world/openai-signs-4-deals-in-abu-dhabi-spanning-energy-government-investment/4108913",
+     "title": "OpenAI signs 4 deals in Abu Dhabi spanning energy, government, investment",
+     "lang": "en",
+     "extra": {},
+     "id": "9048b7d1dd2f1df9",
+     "published": "2026-11-02T14:25+00:00",
+     "text": "ADNOC to use AI for oilfield planning as Abu Dhabi government launches pilot to check food imports against regulations"
     }
    ]
   },
@@ -2076,6 +2183,61 @@
    ]
   },
   {
+   "id": "c33868a41ad",
+   "kind": "news",
+   "score": 19.0,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Block",
+     "trust": 2,
+     "url": "https://theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+     "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+     "lang": "en",
+     "extra": {},
+     "id": "33868a41ad342a51",
+     "published": "2026-11-01T18:25+00:00",
+     "text": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million."
+    },
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889",
+     "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
+     "lang": "en",
+     "extra": {},
+     "id": "5673f5c0aa84f776",
+     "published": "2026-11-02T11:45+00:00",
+     "text": "The FBI has blamed North Korean hackers for the record-breaking $6.3 billion theft from cryptocurrency exchange Binance, pointing the finger at the notorious Lazarus Group as the exchange scrambles to replace stolen funds and reassure customers.\nIn an alert published Saturday, the agency attributed the October 29 attack to TraderTraitor, a North Korean hacking operation linked to Lazarus, which has made a lucrative career out of relieving crypto exchanges of their digital assets.\nPyongyang was already in the frame before the FBI weighed in. Blockchain intelligence firms TRM Labs and Elliptic had linked the theft to North Korea, with TRM reporting that most of the $6.36 billion haul disappeared in about 20 minutes. Elliptic, which puts the total closer to $6.43 billion, says it has verified that $2.85 billion of the stolen assets have been frozen or seized.\nAccording to the FBI, the hackers have started swapping their loot for Ethereum, with investigators expecting them to move the funds through decentralized finance (DeFi) platforms and instant swap services to make the money harder to trace.\nThe agency has published a list of cryptocurrency wallet addresses linked to the theft and is urging exchanges, blockchain analytics firms, and other virtual asset providers to block transactions involving the stolen funds.\nThe FBI's attribution comes days after Binance admitted that hackers had made off with roughly $6.3 billion in cryptocurrency. According to the exchange, the trouble started with a compromised DevOps engineer's laptop, which gave the intruders access to a service container and allowed them to authorize withdrawals they had no business making.\nBinance has since resumed customer withdrawals, which it suspended after the attack, and says it has now replenished about 95 percent of the stolen assets. The remaining tokens are proving harder to replace because of their limited liquidity.\nThe exchange has committed billions of dollars from its own reserves and emergency funds to cover the losses, with co-CEO Richard Teng promising that customers won't be left footing the bill.\nThat hasn't stopped users from heading for the exits. Binance recorded approximately $3.64 billion in net outflows after withdrawals resumed, although the company said this represented only around 2.1 percent of its reported assets.\nReplacing the stolen cryptocurrency is one thing. Getting it back from North Korea is another, and investigators face the considerable task of tracking billions of dollars as the hackers attempt to move it beyond their reach.\nTraderTraitor has form when it comes to raiding crypto exchanges. The North Korean crew has previously been linked to a string of cryptocurrency thefts, including the $308 million attack on Japan's DMM Bitcoin exchange in 2024. The group has previously used fake job offers and recruitment exercises to trick employees into handing over access to their employers' systems.\nAs we reported here on Friday, crypto exchange Bitget has now confirmed that the cyberattack where hackers drained $387.5 million worth of digital assets from the exchange’s wallets also has all the hallmarks of a North Korean operation. Its CEO did not go into too much detail, but did say that “IP behavioral patterns and on-chain signatures” suggest it was Kim’s cronies at work.\nThis isn’t Binance's first expensive encounter with hackers, either. Back in 2022, attackers exploited its BNB blockchain bridge and made off with roughly $566 million in "
+    },
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVBnYllqUWJId3hGNDBXbm5seS1XcUN4RlVZZzJCZkY5bFdSanNIN3oxeU5PRGVUTnlia0RtWTd4a0lBUFpGVUgyeFlQczN1NzhjQ3ZGbFY2QTFXaW1OU0xsdW5HNVl3RjNWV0hmblVkX29EdHFDTndldUNnQmlWMGphM0xldEZhR0VscERQSG9hVXFmVmdlWEJNWjdNUnJ6a2tqOUQtVVJyTlp0N19ud0VPZw?oc=5",
+     "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
+     "lang": "en",
+     "extra": {},
+     "id": "7ece62e3187f9517",
+     "published": "2026-11-02T11:45+00:00",
+     "text": "FBI pins $6.3B Binance crypto heist on North Korean hackers\nThe Register"
+    },
+    {
+     "source": "CoinDesk",
+     "trust": 2,
+     "url": "https://coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+     "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+     "lang": "en",
+     "extra": {},
+     "id": "05025e246f80bc58",
+     "published": "2026-11-02T11:57+00:00",
+     "text": ""
+    }
+   ]
+  },
+  {
    "id": "c4b820b877d",
    "kind": "news",
    "score": 19.0,
@@ -2175,10 +2337,12 @@
      "url": "https://cbsnews.com/news/marvell-lumentum-acquisition-ai-connectivity",
      "title": "Marvell to acquire Lumentum in $115 billion AI connectivity deal",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/02/087f6308-15ae-459f-b644-18244f9c66ad/thumbnail/1200x630/cde5ec04b83d37f7f5ada3023d8b12e5/gettyimages-2278853720.jpg"
+     },
      "id": "23ce005b64c2e2a5",
      "published": "2026-11-02T14:22+00:00",
-     "text": "Marvell Technology said megadeal for Lumentum will help the merged company serve the growing market for AI data centers."
+     "text": "Marvell Technology announced Monday that it would acquire Lumentum Holdings in a deal valued at $115 billion, one of the biggest tech industry deals ever.\nMarvell said the purchase of Lumentum, which manufactures lasers, circuit switches and other products used for data centers, would make the enlarged company a \"category leader in AI connectivity.\" Marvell, founded in 1995, makes data infrastructure semiconductor products.\n\"AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that comes along once in a generation,\" Marvell CEO Matt Murphy said in a statement. \"The companies that move first and help define this transition will set the standard for decades to come.\"\nNvidia earlier this year said it was buying a $2 billion stake in Lumentum, according to Bloomberg.\nMarvell, despite the aggressive pullback in AI stocks last week, believes the investment is still warranted. Markets appear less certain. Marvell shares slid more than 1% before the opening bell, and Lumentum fell almost 3% after the announcement of the all-stock deal.\nMarvell said that the merger will unite the companies' complementary technologies and engineering expertise, allowing it to create an end-to-end system that meets a broader set of customer needs.\nThe deal, subject to stockholder approval, is expected to close in the first half of 2028. It comes amid a boom in data center construction, which has\nnationwide."
     },
     {
      "source": "Google News Business EN",
@@ -3026,46 +3190,78 @@
    ]
   },
   {
-   "id": "c33868a41ad",
+   "id": "c55498a828e",
    "kind": "news",
    "score": 17.0,
    "sensitive": true,
    "distinct_sites": 3,
-   "title_hint": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+   "title_hint": "Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle »",
    "official_image": null,
    "sources": [
     {
-     "source": "The Block",
+     "source": "Le Monde Pixels",
      "trust": 2,
-     "url": "https://theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
-     "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+     "url": "https://lemonde.fr/pixels/article/2026/11/01/piratage-de-la-plateforme-de-cryptomonnaies-binance-la-plateforme-annonce-rouvrir-les-retraits-le-fbi-accuse-la-coree-du-nord-du-casse-du-siecle_6803867_4408997.html",
+     "title": "Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle »",
      "lang": "en",
-     "extra": {},
-     "id": "33868a41ad342a51",
-     "published": "2026-11-01T18:25+00:00",
-     "text": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million."
+     "extra": {
+      "page_image": "https://img.lemde.fr/2026/10/30/0/0/3999/2666/1440/960/60/0/2be4f59_ftp-1-pajpzgomupyl-2026-10-30t080034z-1706611026-rc2jdoa5uy82-rtrmadp-3-fintech-crypto-binance-hack.JPG"
+     },
+     "id": "c297f674fd77e801",
+     "published": "2026-11-01T10:04+00:00",
+     "text": "La première plateforme d’échange de cryptomonnaies, Binance, a annoncé, dimanche 1er novembre, la reprise progressive des retraits après un piratage record de 6,3 milliards de dollars (soit environ 5,6 milliards d’euros), commis selon le Bureau fédéral d’enquêtes (FBI) par la Corée du Nord.\n« La première série de retraits (…) est désormais ouverte sur le réseau Bitcoin », a écrit la société sur son compte du réseau social X. Précédemment, l’entreprise avait déjà expliqué, toujours sur la même plateforme, qu’elle se préparait à reprendre la première phase des retraits entre 7 heures et 10 heures (heures de France métropolitaine).\n« Nous adoptons une approche par étapes en donnant la priorité aux jetons sur la base des données de demande des utilisateurs de la semaine écoulée, afin que chaque paire réseau-actif puisse être rétablie avec prudence, une fois les contrôles de stabilité et de sécurité effectués avant la réouverture de l’accès », avait-elle alors détaillé, après avoir suspendu les retraits de ses clients pour stopper l’hémorragie.\n« Les fonds des utilisateurs sont en sécurité. Binance assumera l’impact financier des fonds volés, et non nos utilisateurs », a promis la plateforme mondiale. Lors de leurs opérations de retrait, « les utilisateurs peuvent subir des retards temporaires ou des temps de traitement plus longs en raison du volume de trafic », a-t-elle cependant mis en garde.\nLe FBI cible des pirates nord-coréens\nLes enquêteurs américains affirment avoir identifié, derrière ce vol sans précédent, le groupe de pirates informatiques nord-coréens connu sous le nom de TraderTraitor, et constaté que les voleurs étaient en train de convertir les fonds détournés en ether, la cryptomonnaie du réseau Ethereum. « Il est prévu que ces actifs soient ensuite davantage blanchis », a ajouté le FBI, par le biais notamment des « échanges instantanés », qui permettent de convertir rapidement une cryptomonnaie en une autre sans passer par une banque ou un intermédiaire traditionnel.\n« La République populaire démocratique de Corée [Corée du Nord] est responsable du vol de plus de 6 milliards de dollars américains en actifs virtuels auprès de la plateforme d’échange de cryptomonnaies Binance, aux alentours du 29 octobre 2026 », a écrit le FBI dans un communiqué.\nLa police fédérale a publié une liste d’environ 500 adresses Ethereum « que les acteurs de TraiderTraitor sont en train d’utiliser pour blanchir ces actifs volés », et a demandé notamment aux plateformes de cryptomonnaies et aux services DeFi (pour « Decentralized Finance », « finance décentralisée ») de bloquer les transactions liées à ces adresses.\nLe président américain, Donald Trump, qui se vante régulièrement d’entretenir de bonnes relations personnelles avec le dirigeant nord-coréen, Kim Jong-un, a toutefois émis des doutes quant à l’implication de Pyongyang. « Je ne suis pas inquiet. Nous sommes en train d’en apprendre davantage. Nous ne savons pas si c’est la Corée du Nord », a-t-il déclaré à des journalistes dans sa résidence de Mar-a-Lago, en Floride, samedi soir.\nLe montant dérobé représente quatre fois celui que ce même groupe avait siphonné, d’après le FBI, sur la plateforme Bybit en février 2025, soit 1,5 milliard de dollars, à l’époque le vol le plus important en cryptomonnaies.\nAucun client lésé, assure Binance\nCes piratages ont mis en lumière la capacité de la Corée du Nord, frappée de lourdes sanctions internationales en raison de ses programmes nucléaire et de missi"
     },
     {
-     "source": "The Register",
+     "source": "01net",
      "trust": 2,
-     "url": "https://theregister.com/security/2026/11/02/fbi-pins-63b-binance-crypto-heist-on-north-korean-hackers/5306889",
-     "title": "FBI pins $6.3B Binance crypto heist on North Korean hackers",
+     "url": "https://01net.com/actualites/piratage-binance-fbi-accuse-officiellement-coree-du-nord.html",
+     "title": "Hack de Binance : le FBI accuse la Corée du Nord du plus gros vol de l’histoire de la crypto",
      "lang": "en",
-     "extra": {},
-     "id": "5673f5c0aa84f776",
-     "published": "2026-11-02T11:45+00:00",
-     "text": "The FBI has blamed North Korean hackers for the record-breaking $6.3 billion theft from cryptocurrency exchange Binance, pointing the finger at the notorious Lazarus Group as the exchange scrambles to replace stolen funds and reassure customers.\nIn an alert published Saturday, the agency attributed the October 29 attack to TraderTraitor, a North Korean hacking operation linked to Lazarus, which has made a lucrative career out of relieving crypto exchanges of their digital assets.\nPyongyang was already in the frame before the FBI weighed in. Blockchain intelligence firms TRM Labs and Elliptic had linked the theft to North Korea, with TRM reporting that most of the $6.36 billion haul disappeared in about 20 minutes. Elliptic, which puts the total closer to $6.43 billion, says it has verified that $2.85 billion of the stolen assets have been frozen or seized.\nAccording to the FBI, the hackers have started swapping their loot for Ethereum, with investigators expecting them to move the funds through decentralized finance (DeFi) platforms and instant swap services to make the money harder to trace.\nThe agency has published a list of cryptocurrency wallet addresses linked to the theft and is urging exchanges, blockchain analytics firms, and other virtual asset providers to block transactions involving the stolen funds.\nThe FBI's attribution comes days after Binance admitted that hackers had made off with roughly $6.3 billion in cryptocurrency. According to the exchange, the trouble started with a compromised DevOps engineer's laptop, which gave the intruders access to a service container and allowed them to authorize withdrawals they had no business making.\nBinance has since resumed customer withdrawals, which it suspended after the attack, and says it has now replenished about 95 percent of the stolen assets. The remaining tokens are proving harder to replace because of their limited liquidity.\nThe exchange has committed billions of dollars from its own reserves and emergency funds to cover the losses, with co-CEO Richard Teng promising that customers won't be left footing the bill.\nThat hasn't stopped users from heading for the exits. Binance recorded approximately $3.64 billion in net outflows after withdrawals resumed, although the company said this represented only around 2.1 percent of its reported assets.\nReplacing the stolen cryptocurrency is one thing. Getting it back from North Korea is another, and investigators face the considerable task of tracking billions of dollars as the hackers attempt to move it beyond their reach.\nTraderTraitor has form when it comes to raiding crypto exchanges. The North Korean crew has previously been linked to a string of cryptocurrency thefts, including the $308 million attack on Japan's DMM Bitcoin exchange in 2024. The group has previously used fake job offers and recruitment exercises to trick employees into handing over access to their employers' systems.\nAs we reported here on Friday, crypto exchange Bitget has now confirmed that the cyberattack where hackers drained $387.5 million worth of digital assets from the exchange’s wallets also has all the hallmarks of a North Korean operation. Its CEO did not go into too much detail, but did say that “IP behavioral patterns and on-chain signatures” suggest it was Kim’s cronies at work.\nThis isn’t Binance's first expensive encounter with hackers, either. Back in 2022, attackers exploited its BNB blockchain bridge and made off with roughly $566 million in "
+     "extra": {
+      "page_image": "https://www.01net.com/app/uploads/2025/01/binance-france-enquete-blanchiment-1500x900.jpg"
+     },
+     "id": "dbc9ad902ade4f59",
+     "published": "2026-11-02T10:00+00:00",
+     "text": "Ce samedi 31 octobre, deux jours après l’attaque éclair sur Binance, le FBI a officiellement attribué l’opération à la Corée du Nord. Dans un avis publié sur son site, l’agence fédérale américaine pointe du doigt TraderTraitor, une unité de pirates au service du gouvernement nord-coréen, et qui fait partie de l’organisation Lazarus.\n« La République populaire démocratique de Corée (Corée du Nord) est responsable du vol de plus de 6 milliards de dollars d’actifs virtuels sur la plateforme d’échange de cryptomonnaies Binance, aux alentours du 29 octobre 2026 », écrit le FBI.\nLa plupart des experts de la crypto et de la blockchain abondent dans le même sens que le FBI. C’est donc loin d’être une surprise. Dès le lendemain du vol, la société d’analyse TRM Labs attribuait l’attaque à TraderTraitor « avec une confiance élevée ». Chainalysis, autre spécialiste de la blockchain, a d’ailleurs remarqué que les fonds volés à Binance se sont mélangés à ceux dérobés à Bitget le mois dernier. Or, la plateforme avait été victime des pirates de TraiterTraitor.\nThe FBI is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange, Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as “TraderTraitor.”\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\nHow You Can Help:\nFBI, USSS, and IRS-CI are urging private sector entities including THORNode operators, RPC node operators, instant exchanges, DeFi services, blockchain analytics firms, and other virtual asset service providers to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.A list of addresses associated with this activity is available here: https://t.co/g0oIWx0WeD\n— FBI Cyber Branch (@FBICyberBranch) October 31, 2026\nDes centaines d’adresses pour brouiller les pistes\nLe FBI a aussi publié la liste des adresses utilisées par les pirates pour déplacer les cryptomonnaies volées. Les enquêteurs ont débusqué plusieurs centaines d’adresses Ethereum, 19 adresses Bitcoin et une adresse sur la blockchain Solana. Le FBI demande aux géants de l’industrie crypto de bloquer toute transaction liée à ces adresses. Les plateformes d’échange, les services de finance décentralisée (DeFi), les sociétés d’analyse de la blockchain ou encore les opérateurs de THORChain, un service d’échange entre blockchains déjà utilisé par les pirates, sont encouragés à geler les fonds.\nTout le monde risque de ne pas coopérer. C’est le cas de THORChain. Après le hack de Bybit en 2025, les pirates nord-coréens y ont échangé plus d’un milliard de dollars d’ether contre du bitcoin. Les opérateurs ont envisagé de bloquer les transactions pour venir en aide aux autorités, mais un développeur du projet a démissionné en signe de protestation. Environ 2,8 milliards de dollars ont cependant déjà été gelés, selon les investigations menées par Chainalysis.\n« C’est un braquage de banque, à la vitesse d’Internet. Mais nous pouvons aussi suivre ces fonds à la trace en temps réel pour construire des enquêtes. C’est le jeu du chat et de la souris "
     },
     {
-     "source": "CoinDesk",
-     "trust": 2,
-     "url": "https://coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
-     "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+     "source": "Google News World FR",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOa0UxZDZEUDc0MWRWSFRXSk9ZNWx0a0ZYMHZRMHJNdjdsc3Y0TjllTGpIUkdzQWZ6MDZVbEkyekRNazYyYTVWdkdHTWFxdDZsX1FfRTRtZGdzYk5aQTJWZE8xdFd5NlRGUHBkeUtmM0hETnpqaHE0bnNlc2JqbTQtVWlrTTVzQ1hFbTBWQkdhaG9OOG5zX1VVT2dhYUY1RlYtenFNbkRhdTZLN2hLaWE5NldUcnQwV3ZzU1ctUVUyT0ZYRTRMTVM4VzZnV3RVcUR0Q3VxRFdkbUx4UXhKbzdDQk1GLTlqek5fMGJGUlZiNDNRckk4QnUwSW1xbWJ3ZnlSMHRjQTkwTTdaWmhaX2hYetIBlgJBVV95cUxNS0tLQlJtOXFfT1RjSGJ1LWE5Tm8yVG5obDVlZDA1dDZhQVp1WkI1cjRlRWMwRTJaNFB0ZEVOTTA2OVNTbEt4a0ZaSmFKTlkwcTFXbEctZjEzV0lDMV9ON29PblNiNG0xanVpWmtETkY3U3lJQlVtTVZsOTFqUVRGdHpZdnRKOWJZMUc4SXF3MU5RbmFndG9wU19OQWthbUI5UWM5U2JiZDB4MG8yd2YyTDhCVzJqdnpndk9IU0p1RGJVQUs3QVY3Si02X2hSX05XamlIMkZucms2ZUFpRmpLRV9nNU9fMUJ1bXpFeXRMWHBUM1c0R3JVRDB3MXdzM3psTjZKMUNuR1pwSzkwS1pNcldRdDJ3QQ?oc=5",
+     "title": "Piratage de cryptomonnaies chez Binance: reprise des retraits, le FBI accuse la Corée du Nord",
      "lang": "en",
-     "extra": {},
-     "id": "05025e246f80bc58",
-     "published": "2026-11-02T11:57+00:00",
-     "text": ""
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "55498a828e5080d6",
+     "published": "2026-11-01T07:40+00:00",
+     "text": "- Piratage de cryptomonnaies chez Binance: reprise des retraits, le FBI accuse la Corée du Nord Boursorama\n- Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle » Le Monde.fr\n- Après le piratage record de Binance, l'industrie crypto face à l'éternel risque de tout perdre Les Echos\n- Casse du siècle… La Corée du Nord accusée d’un vol record chez Binance 20 Minutes\n- 6,3 milliards de dollars d'actifs numériques dérobés: la plateforme Binance annonce la reprise progressive des retraits pour ses clients, trois jours après le braquage numérique massif mené par la Corée du Nord selon le FBI BFM"
+    },
+    {
+     "source": "Google News World FR",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX2JfaWlkTVJ4UjlQMmpJYUJWUWM1ZHBXaVdYTjNkc3RQMXY4ejR3RUxhb0lmZ1c3VXVuZEtqRU01cVBKbEZWQjlFWEEtUUpFeVVTQ1hJT0dEYXVyZFd0SlhTZXVKNXdPVWUwQ3AwV0pTUGo1ZjNMSWh1VzM3dENsei0zMHZiQ3Jtcl9uelVDcFJfZERoLUtyMmU0eFhkakJIcDlfNE83S1EtcmM3RVlYNDhLd2JLZlozajBWMkxNUDh3U3FHbFF0TG41cjRza3lCOU5Ub0pVN3U?oc=5",
+     "title": "Piratage de cryptomonnaies chez Binance: reprise des retraits, le FBI accuse la Corée du Nord",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "02885ca3d1b874a6",
+     "published": "2026-11-01T07:40+00:00",
+     "text": "- Piratage de cryptomonnaies chez Binance: reprise des retraits, le FBI accuse la Corée du Nord tv5monde\n- Piratage de la plateforme de cryptomonnaies Binance : la plateforme annonce rouvrir les retraits, le FBI accuse la Corée du Nord du « casse du siècle » Le Monde.fr\n- Piratage de cryptomonnaies chez Binance : reprise des retraits, le FBI accuse la Corée du Nord Le Nouvel Obs\n- Cyberattaque de Binance : «On est sans doute en face du plus grand braquage de l'histoire mondiale», estime Claude Moniquet CNews\n- Cyberattaque de Binance : le FBI accuse la Corée du Nord, Donald Trump met en doute Libération"
+    },
+    {
+     "source": "Google News World FR",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeFNRQTZsRVM3NmNBWlV4T3BUWV9uVHFtX2JhZWdLMUZaWmlIMGxpOTRUd1M3dVVUWXZGcTU1Z2lKVDRXZVVPa0NxWHhyQ1BhM3FRUGVVU3loVE1LSkM4NlpHMzVPSTl6d2ZFRFJNZl8wbl9RYURwMmhfZWY0eDIyb0lLU1BzSHVlcmktVVNiUE9qWVNWSEJZZTBUOG10MEtKRlF2ZFg0bERBTExSTVJlMGlNSGUyZ1Vfa3llNmxPM3MzakZuaUlhTQ?oc=5",
+     "title": "Piratage de cryptomonnaies : Binance annonce la reprise des retraits ce dimanche - Le Figaro",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "71e2252376450456",
+     "published": "2026-11-01T08:08+00:00",
+     "text": "- Piratage de cryptomonnaies : Binance annonce la reprise des retraits ce dimanche Le Figaro\n- Piratage de la plateforme de cryptomonnaies Binance : le FBI accuse la Corée du Nord du « casse du siècle » Le Monde.fr\n- Piratage de Binance : le FBI accuse la Corée du Nord du « casse du siècle » La Tribune\n- Piratage de cryptomonnaies chez Binance: reprise des retraits, le FBI accuse la Corée du Nord Boursorama\n- Cyberattaque de Binance : «On est sans doute en face du plus grand braquage de l'histoire mondiale», estime Claude Moniquet CNews"
     }
    ]
   },
@@ -3164,91 +3360,6 @@
    ]
   },
   {
-   "id": "c339e72aa71",
-   "kind": "news",
-   "score": 17.0,
-   "sensitive": true,
-   "distinct_sites": 6,
-   "title_hint": "Abu Dhabi Crown Prince meets OpenAI's Sam Altman as emirate signs 4 deals in key sectors",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Khaleej Times",
-     "trust": 2,
-     "url": "https://khaleejtimes.com/uae/abu-dhabi-crown-prince-openai-altman-4-deals-key-sectors",
-     "title": "Abu Dhabi Crown Prince meets OpenAI's Sam Altman as emirate signs 4 deals in key sectors",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-02/fmvq6feg/Screenshot-2026-11-02-at-7.27.34-AM.png?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=5,0,1284,856"
-     },
-     "id": "339e72aa712e64d5",
-     "published": "2026-11-02T05:46+00:00",
-     "text": "Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, Abu Dhabi's Crown Prince and Abu Dhabi Executive Council's Chairman, met OpenAI CEO Sam Altman in the capital to discuss opportunities to strengthen cooperation in artificial intelligence (AI) and accelerate its adoption across key sectors.\nThe meeting focused on using advanced AI technologies to drive government transformation and innovation across Abu Dhabi's strategic sectors, in line with the emirate's economic and development priorities.\nDiscussions also covered Abu Dhabi's progress in integrating AI into government services and key industries, supported by investments in digital infrastructure and national talent development.\nStay up to date with the latest news. Follow KT on WhatsApp Channels.\nFollowing the meeting, Sheikh Khaled witnessed the signing of four agreements between Abu Dhabi-based entities and OpenAI, covering the government, energy and investment sectors.\nOpenAI CEO Sam Altman said Abu Dhabi and the UAE were setting a global standard for AI integration across the public and private sectors.\n“Abu Dhabi and the UAE are setting a bold, global standard for AI integration across both the public and private sectors to make sure the benefits of AI reach everyone,” he said, adding that OpenAI was proud to support the UAE's ambitions through a shared commitment to safety, accessibility and responsible innovation.\nADNOC to deploy OpenAI technology\nIn the energy sector, ADNOC, G42 subsidiary Inception42 and OpenAI signed an agreement making ADNOC the first company in the energy industry to deploy OpenAI's frontier technology.\nThe partnership will integrate advanced AI capabilities across ADNOC's operations, supporting more connected operational, investment and commercial decision-making to improve efficiency and productivity.\nThe technology will run on OpenAI's GPT models using in-country inference infrastructure in the UAE, supporting ADNOC's ambition to become the world's most technology- and AI-enabled energy company.\nAbu Dhabi launches AI-native government initiative\nIn the government sector, Abu Dhabi Government and OpenAI launched what they described as the world's first AI-native Machine-Readable Government initiative, marking a step towards the emirate's ambition to become the world's first fully AI-native government.\nThe initiative will convert selected government policies and regulations into machine-readable formats, allowing AI-powered systems to assist officials with routine regulatory compliance assessments, including applications for permits and certificates.\nEach assessment will be traceable to the relevant regulation, while government officials will retain oversight and responsibility for final decisions.\nLed by the Department of Government Enablement – Abu Dhabi (DGE), the initiative's first pilot is already operational with the Abu Dhabi Agriculture and Food Safety Authority (ADAFSA), focusing on food imports.\nAI processing is powered by OpenAI's UAE inference residency, with real-time computing carried out on GPUs within UAE data centres.\nMubadala, Inception42 sign investment agreement\nUnder a separate agreement, Mubadala, Inception42 and OpenAI will apply advanced AI capabilities to investment analysis, identifying opportunities and assessing risks to support informed decision-making and long-term value creation.\nInception42 and OpenAI also signed a five-year agreement to expand the adoption of advanced AI across government, enterprise and education in the UAE"
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/uae/government/sheikh-khaled-meets-sam-altman-witnesses-signing-of-agreements-with-openai-1.500732283",
-     "title": "Sheikh Khaled meets Sam Altman, witnesses signing of agreements with OpenAI",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.assettype.com/gulfnews%2F2026-11-02%2Fthcq315j%2FBranded-Images-0-2064-0-0.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
-     },
-     "id": "bf1502adfe383021",
-     "published": "2026-11-02T05:51+00:00",
-     "text": "Abu Dhabi explores AI to accelerate government transformation across key sectors\nAbu Dhabi: Sheikh Khaled bin Mohamed bin Zayed Al Nahyan, Crown Prince of Abu Dhabi and Chairman of the Abu Dhabi Executive Council, has met with Sam Altman, CEO of OpenAI, to explore opportunities for advancing cooperation in artificial intelligence (AI).\nThe meeting focused on leveraging advanced AI technologies to accelerate government transformation and drive innovation across Abu Dhabi’s strategic sectors, in line with the emirate’s economic and development priorities and its ambition to strengthen its position as a global hub for AI innovation and deployment.\nDiscussions also highlighted Abu Dhabi’s progress in integrating AI across government services and key economic sectors, supported by continued investment in digital infrastructure and national talent development, as part of its goal to become the world’s first fully AI-native government.\nFollowing the meeting, Sheikh Khaled witnessed the signing of four agreements between Abu Dhabi-based entities and OpenAI, spanning the government, energy and investment sectors.\nSam Altman, CEO of OpenAI, said, “Abu Dhabi and the UAE are setting a bold, global standard for AI integration across both the public and private sectors to make sure the benefits of AI reach everyone. We are proud to support the UAE’s ambition, anchored in a shared commitment to safety, accessibility and responsible innovation.”\nIn the energy sector, ADNOC, G42 (through subsidiary company Inception42) and OpenAI signed a landmark agreement making ADNOC the first company in the energy sector to deploy OpenAI’s frontier technology.\nThe agreement will integrate advanced AI capabilities across ADNOC’s operations, enabling more connected operational, investment and commercial decision-making to enhance efficiency and productivity.\nDeployed on OpenAI’s GPT models using in-country inference infrastructure in the UAE, this partnership marks another important step as ADNOC delivers on its ambition to become the world’s most technology- and AI-enabled energy company.\nIn the government sector, Abu Dhabi Government and OpenAI have launched the world’s first AI-native Machine-Readable Government initiative, a key step towards the emirate’s ambition to become the world’s first AI-native government.\nThe initiative translates a defined set of government policies and regulations into machine-readable form, enabling AI-powered systems to assist officials with routine regulatory compliance assessments, including those related to issuing permits and certificates. Each assessment is traceable to the governing rule, while government officials retain oversight and accountability for final decisions.\nLed and governed by the Department of Government Enablement – Abu Dhabi (DGE), MRG’s first pilot is already in production with the Abu Dhabi Agriculture and Food Safety Authority (ADAFSA), focused on food imports. AI processing is powered by OpenAI’s UAE inference residency, with real-time model computation running on GPUs within UAE data centres.\nIn the investment sector, Mubadala, Inception42 and OpenAI signed an agreement to apply advanced AI capabilities to investment analysis, opportunity identification and risk assessment, supporting more informed investment decisions and long-term value creation.\nIn addition, Inception42 and OpenAI signed a five-year agreement to enable the adoption of frontier AI across government, enterprise and education.\nUnder the agre"
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWMxZGNac0g1UDJOemxSbHJnU1g4cllCaWZxdzJEWVBIU2R6aG83R2RlMk9HV19ZTmYxSUMzRjBJU19pbXN6QWV6bHJCQXlJYlFRVEdEVFVQRFl3cTREcWlGUU5aOHc1VDRWQTIxZk0wWHo2a1F0MVZhTWp6VXRPUHQ4TjlONXE2LTc1UEVBY1VYYW56V3IyeFJnNWQwUnppaTNYc1ROTTgzZXN3WTg5SXJscm5BOHZD?oc=5",
-     "title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "5d7e2da58374fb6f",
-     "published": "2026-11-02T06:40+00:00",
-     "text": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE\nReuters"
-    },
-    {
-     "source": "Bloomberg Tech",
-     "trust": 2,
-     "url": "https://bloomberg.com/news/articles/2026-11-02/openai-s-altman-travels-to-uae-to-sign-energy-investment-deals",
-     "title": "OpenAI’s Altman Travels to UAE to Sign Energy, Investment Deals",
-     "lang": "en",
-     "extra": {},
-     "id": "de5edc595df7e373",
-     "published": "2026-11-02T06:52+00:00",
-     "text": "OpenAI signed deals to deploy its technology across energy companies, investment firms and government agencies in the United Arab Emirates, deepening ties as it seeks billions of dollars in funding from the country’s state-backed investors."
-    },
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/stock-market-news/adnoc-signs-ai-deal-with-openai-as-sam-altman-visits-abu-dhabi-93CH-4990048",
-     "title": "Adnoc signs AI deal with OpenAI as Sam Altman visits Abu Dhabi",
-     "lang": "en",
-     "extra": {},
-     "id": "dbd6a1e49cfcecfe",
-     "published": "2026-11-02T07:26+00:00",
-     "text": ""
-    },
-    {
-     "source": "CNBC Tech",
-     "trust": 2,
-     "url": "https://cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
-     "title": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://image.cnbcfm.com/api/v1/image/108469839-1793120706479-Screenshot_2026-10-27_at_125651_PM.png?v=1793120747&w=1920&h=1080"
-     },
-     "id": "6774ce2f0cbc34a8",
-     "published": "2026-11-02T11:02+00:00",
-     "text": "OpenAI has signed deals across energy, investment and government sectors in the United Arab Emirates as the AI lab works to secure funding from investors in the region as part of a $20 billion round.\nCEO Sam Altman met with Khaled bin Mohamed bin Zayed Al Nahyan, crown prince of Abu Dhabi and Chairman of the Abu Dhabi Executive Council, as the artificial intelligence lab secured arrangements for a number of sectors to use its models, the Abu Dhabi Media Office said on Monday.\nWhile the Middle East has emerged as a key AI hub in recent years, with U.S. big tech companies signing deals to develop huge data centers in the region, ongoing conflict has tested that appeal.\nOpenAI and Anthropic have turned to Middle East investors as they've looked for ever-larger pools of capital to fund growth.\nMGX, an Abu Dhabi-based investment firm, has backed both labs, including co-leading Anthropic's $30 billion raise in February and OpenAI's $122 billion raise in March. OpenAI is currently seeking to raise $20 billion in a new funding round co-led by investors from the United Arab Emirates, CNBC reported on Saturday.\n\"Abu Dhabi and the UAE are setting a bold, global standard for AI integration across both the public and private sectors to make sure the benefits of AI reach everyone,\" Altman said in a statement. \"We are proud to support the UAE's ambition, anchored in a shared commitment to safety, accessibility and responsible innovation.\"\nThe Abu Dhabi National Oil Company, or ADNOC, G42 signed an agreement to deploy OpenAI's frontier technology. Sovereign investor Mubadala, Inception42 and OpenAI signed an agreement to apply advanced AI capabilities to investment analysis.\nThe Abu Dhabi Government announced an initiative with the AI lab to translate government policies and regulations in machine-readable form. Inception42 and OpenAI also signed a five-year agreement to enable the adoption of frontier AI across government, enterprise and education."
-    }
-   ]
-  },
-  {
    "id": "c22d324bba8",
    "kind": "news",
    "score": 16.5,
@@ -3293,6 +3404,72 @@
      "id": "61e07086ea651591",
      "published": "2026-11-02T10:00+00:00",
      "text": "Inde Navarrette is a name everyone will know by 2027, if they don't already. The horror genre's newest final girl hosted Saturday Night Live on Halloween, and is set to join the Marvel Cinematic Universe as Rogue in the upcoming X-Men reboot. She will star alongside Samara Weaving as Emma Frost, Sadie Sink as Jean Grey, Christopher Abbot as Professor X, Adam Driver as Mr. Sinister, and Kit Connor as Cyclops. As fans eagerly obsess over Navarrette's next career move, the film that launched her to stardom is about to find a new streaming home.\nYouTuber-turned-filmmaker Curry Barker's record-breaking horror film Obsession is coming to Netflix on November 17. After its run on Peacock, Netflix will introduce Freaky Nikki to a whole new audience, keeping the Halloween spirit alive a little longer. While the premise isn't exactly new — there have been many cursed object or wish-gone-wrong horror movies out there — Obsession breathes new life into a tired formula. Beneath the supernatural scares, the real (and timely) horror comes from the so-called \"nice guy,\" whose crush reveals a much nastier, misogynistic side. Barker's nuanced storytelling, especially his use of lighting effects, combined with what Collider's Hannah Hunt calls an Oscar-worthy performance by Navarrette, proves both deserve to be on Hollywood's rising A-list. Critics and audiences agree, both awarding the film highly at 93% and 94%, respectively, on Rotten Tomatoes.\nWhat's Next for Curry Barker?\nCurry Barker, only in his late 20s, is just getting started. On Halloween, the filmmaker returned to his YouTube roots with a short film called Mama Bear. He wrote, directed, and edited the 5-minute horror film, and it's available to watch for free now. In May 2027, Barker will release the horror-comedy Anything But Ghosts, which he says deserves a \"free pass\" after Obsession. The new film reunites Barker with his Obsession co-star Cooper Tomlinson along with heavy-hitters like Breaking Bad's Aaron Paul and Jurassic World's Bryce Dallas Howard. On top of that, Barker is tapped to direct the newest version of Texas Chainsaw Massacre for A24, as well as an untitled horror project from Universal and Blumhouse-Atomic Monster. Clearly both Barker and Navarrette aren't going anywhere anytime soon.\nObsession joins Netflix on November 17. Stay tuned for more updates on Inde Navarrette's and Curry Barker's upcoming projects.\n- Runtime\n- 108 minutes\n- Director\n- Curry Barker\n- Writers\n- Curry Barker\n- Producers\n- Haley Nicole Johnson, Christian Mercuri, James Harris, Roman Viaris"
+    }
+   ]
+  },
+  {
+   "id": "c34d4652744",
+   "kind": "news",
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "'Serious talks’ – Hamilton on costly Leclerc battle",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/we-have-to-have-some-serious-talks-hamilton-reflects-on-costly-ferrari-intra-team-battle-in-mexico.20AlOSmTwJkVVJRtw70vIp",
+     "title": "'Serious talks’ – Hamilton on costly Leclerc battle",
+     "lang": "en",
+     "extra": {},
+     "id": "34d465274450d28b",
+     "published": "2026-11-02T02:41+00:00",
+     "text": "Lewis Hamilton believes Ferrari \"easily had a car to have P1 and P2\" during the Mexico City Grand Prix, as an opening lap battle with team mate Charles Leclerc potentially cost the team victory."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/f1/lewis-hamilton-charles-leclerc-ferrari-kimi-antonelli-italian-b3077287.html",
+     "title": "Lewis Hamilton demands ‘serious talks’ after Charles Leclerc misfire",
+     "lang": "en",
+     "extra": {},
+     "id": "1e9c0b0d873766f5",
+     "published": "2026-11-02T06:00+00:00",
+     "text": "Hamilton’s first pole position in 1,197 days was undone on the opening lap as Leclerc charged through."
+    },
+    {
+     "source": "ANSA EN",
+     "trust": 2,
+     "url": "https://ansa.it/english/news/2026/11/02/f1-hamilton-says-ferrari-need-serious-talks-after-costly-leclerc-attack_8bb244de-cca3-4416-a834-f3a5304f0c2f.html",
+     "title": "F1: Hamilton says Ferrari need 'serious talks' after costly Leclerc attack",
+     "lang": "en",
+     "extra": {},
+     "id": "54325c61d6b59ce1",
+     "published": "2026-11-02T11:26+00:00",
+     "text": "(ANSA) - ROME, 02 NOV - Lewis Hamilton has said Ferrari need some clear-the-air discussions following an attack from his team mate Charles Leclerc that he said cost the team a one-two at Sunday's Mexican Grand Prix.\nLeclerc cut a chicane on the first lap to take the lead from pole-sitter Hamilton, whose loss of momentum meant he also lost another position to eventual race winner Max Verstappen.\nLeclerc lost the lead to Verstappen after serving a five-second penalty for the incident and Hamilton subsequently got back ahead of him after mid-race restart following a red flag.\nLeclerc ended up finishing fourth behind Mercedes' Kimi Antonelli, who became the sport's youngest-ever world champion by finishing third.\n\"I don't really have anything to say about the scenario with Charles. I think you can see what happened and the reason we lost the win,\" said Hamilton.\n\"We easily had a car to have P1 and P2 today.\n\"Ultimately, it was that that lost us the win today.\n\"And I, yeah, I think we have to have some serious talks behind the scenes for sure\".\nThere have been several moments of tension between seven-time world champion Hamilton and Leclerc this season, including the latter pushing the former off at the start of the Italian Grand Prix in September. (ANSA).\nRead article..."
+    },
+    {
+     "source": "ANSA EN",
+     "trust": 2,
+     "url": "https://ansa.it/english/news/sports/2026/11/02/f1-hamilton-says-ferrari-need-serious-talks-after-costly-leclerc-attack_b971db18-f017-4ca7-a214-f987f88c1154.html",
+     "title": "F1: Hamilton says Ferrari need 'serious talks' after costly Leclerc attack",
+     "lang": "en",
+     "extra": {},
+     "id": "7a0672b8c6a175fe",
+     "published": "2026-11-02T11:27+00:00",
+     "text": "(ANSA) - ROME, 02 NOV - Lewis Hamilton has said Ferrari need some clear-the-air discussions following an attack from his team mate Charles Leclerc that he said cost the team a one-two at Sunday's Mexican Grand Prix.\nLeclerc cut a chicane on the first lap to take the lead from pole-sitter Hamilton, whose loss of momentum meant he also lost another position to eventual race winner Max Verstappen.\nLeclerc lost the lead to Verstappen after serving a five-second penalty for the incident and Hamilton subsequently got back ahead of him after mid-race restart following a red flag.\nLeclerc ended up finishing fourth behind Mercedes' Kimi Antonelli, who became the sport's youngest-ever world champion by finishing third.\n\"I don't really have anything to say about the scenario with Charles. I think you can see what happened and the reason we lost the win,\" said Hamilton.\n\"We easily had a car to have P1 and P2 today.\n\"Ultimately, it was that that lost us the win today.\n\"And I, yeah, I think we have to have some serious talks behind the scenes for sure\".\nThere have been several moments of tension between seven-time world champion Hamilton and Leclerc this season, including the latter pushing the former off at the start of the Italian Grand Prix in September. (ANSA).\nRead article..."
+    },
+    {
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/7747337/2026/11/02/ferrari-lewis-hamilton-charles-leclerc-analysis",
+     "title": "Ferrari's Lewis Hamilton and Charles Leclerc are free to race but that has come at a cost",
+     "lang": "en",
+     "extra": {},
+     "id": "d72a61fb384ca531",
+     "published": "2026-11-02T14:51+00:00",
+     "text": "Lewis Hamilton (left) finished second in Mexico on Sunday, with teammate Charles Leclerc (right) fourth"
     }
    ]
   },
@@ -4035,6 +4212,78 @@
    ]
   },
   {
+   "id": "cb8144e6364",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/stock-market-news/spacex-in-talks-to-buy-boost-mobile-or-use-its-network-washington-post-reports-4990666",
+     "title": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports",
+     "lang": "en",
+     "extra": {},
+     "id": "b8144e63646c2e30",
+     "published": "2026-11-02T10:36+00:00",
+     "text": ""
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE5XcHI5ZDVTSTViS05jTG9pTGdTV2UxVUpuZkpLeF9Bc29MSWVza3VXeTQtNEc4VmtpMG02dWduN2dqUXFLT2N6WTZSd2g5S1VXVGY4TDB5dVpkSGZMYUttRm50U040WXJ0emt1dTZkTEFjQnI1YTRuVFpWV09jbGQ5M08tRllhM2hMZWM1ZGN5VVpnR2FpN3QySlZnWGtxYWZGV0JzbGRYR3NpZksycGFfeG5UVFlCUVROYXlqZlh1Snl0NmJOQmhlMA?oc=5",
+     "title": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "103303c5717f2326",
+     "published": "2026-11-02T11:20+00:00",
+     "text": "SpaceX in talks to buy Boost Mobile or use its network, Washington Post reports\nReuters"
+    },
+    {
+     "source": "Wccftech",
+     "trust": 2,
+     "url": "https://wccftech.com/elon-musks-spacex-is-in-talks-to-buy-echostars-boost-mobile-a-way-around-the-mvno-wall-built-by-att-t-mobile-and-verizon-even-amid-a-threat-of-litigation",
+     "title": "Elon Musk’s SpaceX Is In Talks To Buy EchoStar’s Boost Mobile, A Way Around The MVNO Wall Built By AT&T, T-Mobile, And Verizon, Even Amid A Threat Of Litigation",
+     "lang": "en",
+     "extra": {},
+     "id": "16bc90e414d5fb89",
+     "published": "2026-11-02T11:39+00:00",
+     "text": "Elon Musk appears to have found a way to break through the MVNO-led firewall erected by AT&T, T-Mobile, and Verizon against SpaceX, albeit with a high likelihood of prolonged litigation. Even if Boost Mobile's existing MVNO agreements do not port over to SpaceX, EchoStar's bespoke wireless service does bring plenty of bells and whistles to the proverbial table, which should help Starlink Mobile expand its reach across the US. SpaceX and EchoStar already have a long and deep-seated relationship, which only increases the odds of an acquisition agreement for Boost Mobile When regulators approved T-Mobile's acquisition of Sprint, they expected […]\nRead full article at https://wccftech.com/elon-musks-spacex-is-in-talks-to-buy-echostars-boost-mobile-a-way-around-the-mvno-wall-built-by-att-t-mobile-and-verizon-even-amid-a-threat-of-litigation/"
+    },
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/spacex-boost-mobile-echostar-talks",
+     "title": "SpaceX reportedly in talks to buy EchoStar’s Boost Mobile",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.thenextweb.com/2026/10/spacex-logo-sign-office-building.jpg"
+     },
+     "id": "7c524efcd921c1d2",
+     "published": "2026-11-02T11:50+00:00",
+     "text": "SpaceX is in talks to buy Boost Mobile or secure access to its network, as Elon Musk looks to turn Starlink into a direct competitor to the major US mobile carriers, The Washington Post reported on Monday, citing people familiar with the discussions.\nThe potential deal would give SpaceX a way to sell its own mobile service in the US. Neither SpaceX nor EchoStar, Boost Mobile’s parent company, responded to requests for comment.\nAccording to the Post, Musk has been personally involved in the discussions and met EchoStar chairman Charlie Ergen last month. Boost Mobile does not operate its own network of cell towers. Instead, it leases capacity from AT&T and T-Mobile.\nThat arrangement could complicate any agreement. SpaceX may need approval from both carriers to use Boost’s network, since mobile network leases typically cannot be transferred to another company without the carrier’s consent, the Post reported.\nThe talks fit into SpaceX’s broader plans for Starlink Mobile, a service that would combine satellite connectivity with ground-based equipment to compete with AT&T, Verizon and T-Mobile.\nT-Mobile already offers SpaceX’s first satellite-to-phone service in the US, while SpaceX is also looking for cell sites across the country to host the equipment needed for its expansion.\nThe company has been increasingly clear about its ambitions. On SpaceX’s latest earnings call, chief financial officer Bret Johnsen said it wants to become a major mobile carrier in the US, Investing.com reported.\nIn October, SpaceX also agreed to buy low-band spectrum from investment firm Grain Management for around $8bn.\nSpaceX already has a substantial relationship with EchoStar. In September 2025, the companies agreed to a deal worth about $17bn, combining cash and stock, for EchoStar’s AWS-4 and H-block spectrum licences.\nAs part of that agreement, Boost Mobile customers were also expected to gain access to SpaceX’s planned satellite-to-phone service.\nThe market SpaceX wants to enter is worth an estimated $235bn in the US, according to research firm MoffettNathanson, cited by Investing.com.\nEchoStar shares rose around 4% in early trading on Monday following news of the discussions, before US markets opened.\nGet the TNW newsletter\nGet the most important tech news in your inbox each week."
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/11/elon-musk-spacex-echostar-boost-mobile-1237211221",
+     "title": "Elon Musk’s SpaceX Reportedly Talking With EchoStar About A Boost Mobile Deal",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/11/SpaceX.jpg?w=1024"
+     },
+     "id": "61cad27442fce605",
+     "published": "2026-11-02T14:33+00:00",
+     "text": "Elon Musk‘s SpaceX has held talks with EchoStar about acquiring Boost Mobile or using its network, according to a report.\nThe move would bolster the standing of the company’s Starlink subsidiary, which had 13.6 million subscribers at the end of the third quarter, a 90% increase over the same period of 2025.\nThe Washington Post, which reported the negotiations, said SpaceX had also approached Verizon, AT&T and T-Mobile but was rebuffed.\nEchoStar sold wireless spectrum to SpaceX last year, attaining a minority stake in the company ahead of its blockbuster IPO in June.\nWatch on Deadline\nBoost Mobile, which was acquired by EchoStar subsidiary Dish Network in 2020 as part of a broader wireless play, ended 2025 with 7.5 million subscribers. It has historically focused on lower-income customers. As a mobile virtual network operator, or MVNO, it does not own its own wireless equipment but instead rents capacity from AT&T and T-Mobile.\nMusk has vast ambitions for SpaceX, which he is looking to position as a provider of a wide array of services. Starlink internet service has been a popular option in rural areas, but it has been heavily marketed across the U.S. and other countries. The rise of Starlink has put pressure on legacy broadband providers like Charter and Comcast, with the new report about Boost Mobile also rattling wireless carriers.\n“Veterans of the cellular industry look at the chess board of existing pieces and don’t see a solution,” the Post quoted Musk as saying recently. “They don’t understand that SpaceX is developing entirely new pieces that fundamentally alter the strategic landscape.”\nEchoStar shares rose 4% in early trading Monday, with AT&T, Verizon and T-Mobile stocks all losing ground."
+    }
+   ]
+  },
+  {
    "id": "c81ee657bff",
    "kind": "news",
    "score": 16.0,
@@ -4101,6 +4350,52 @@
      "id": "16702a6cb7c89dda",
      "published": "2026-11-02T12:16+00:00",
      "text": "- Boxing: Jake Paul to fight MMA and kickboxing star Cedric Doumbe on 24 December BBC\n- Jake Paul to face former kickboxing champion Cedric Doumbe in return fight ESPN\n- Jake Paul reveals Christmas Eve opponent and makes admission on broken jaw Yahoo Sports\n- Jake Paul to make boxing return on Christmas Eve in Dubai with opponent to be revealed Sky Sports\n- Jake Paul to fight kickboxing champion Cedric Doumbe on Christmas Eve as YouTuber's opponent is revealed Sky Sports"
+    }
+   ]
+  },
+  {
+   "id": "cc93221fb0a",
+   "kind": "news",
+   "score": 15.5,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Zelda: Ocarina Of Time Switch 2 Development Team Has Been Revealed",
+   "official_image": "https://images.nintendolife.com/d387f9a5d8def/large.jpg",
+   "sources": [
+    {
+     "source": "Nintendo News",
+     "trust": 3,
+     "url": "https://nintendolife.com/news/2026/11/zelda-ocarina-of-time-switch-2-development-team-has-been-revealed",
+     "title": "Zelda: Ocarina Of Time Switch 2 Development Team Has Been Revealed",
+     "lang": "en",
+     "extra": {
+      "image": "https://images.nintendolife.com/d387f9a5d8def/large.jpg"
+     },
+     "id": "f6881f259c616e1d",
+     "published": "2026-11-02T14:30+00:00",
+     "text": "Inside job.\nNintendo has just released the first two parts of a new Ask the Developer series all about The Legend of Zelda: Ocarina of Time on Switch 2. Alongside a bunch of interesting insights about the game's development, the interview also finally reveals the development team behind it.\nAs it turns out, the Switch 2 remake was developed internally by Nintendo's Entertainment Planning & Development (EPD) Production Group No. 3 — the team that has handled just about every Zelda entry since the early 2000s.\nRead the full article on nintendolife.com"
+    },
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Zelda-Ocarina-of-Time-uses-2021-upscaler-FSR-1-0-on-Switch-2-not-DLSS.1439907.0.html",
+     "title": "Zelda: Ocarina of Time uses 2021 upscaler FSR 1.0 on Switch 2, not DLSS",
+     "lang": "en",
+     "extra": {},
+     "id": "c93221fb0acdebec",
+     "published": "2026-11-02T06:53+00:00",
+     "text": "Version 1.0.0 licence notices for The Legend of Zelda: Ocarina of Time on Nintendo Switch 2 list AMD’s FidelityFX Super Resolution 1.0, an EASU mobile implementation and SMAA anti-aliasing, with no Nvidia DLSS entry visible. The $59.99 remake launches on November 5, 2026, and joins Donkey Kong Bananza as a first-party Switch 2 title paired with FSR 1.0."
+    },
+    {
+     "source": "Notebookcheck",
+     "trust": 2,
+     "url": "https://notebookcheck.net/Zelda-Ocarina-of-Time-on-Switch-2-appears-to-skip-DLSS-for-AMD-s-2021-upscaler.1439907.0.html",
+     "title": "Zelda: Ocarina of Time on Switch 2 appears to skip DLSS for AMD’s 2021 upscaler",
+     "lang": "en",
+     "extra": {},
+     "id": "297bb35dc0fa0d69",
+     "published": "2026-11-02T06:53+00:00",
+     "text": "Version 1.0.0 licence notices for The Legend of Zelda: Ocarina of Time on Nintendo Switch 2 list AMD’s FidelityFX Super Resolution 1.0, an EASU mobile implementation and SMAA anti-aliasing, with no Nvidia DLSS entry visible. The $59.99 remake launches on November 5, 2026, and joins Donkey Kong Bananza as a first-party Switch 2 title paired with FSR 1.0."
     }
    ]
   },
@@ -4904,74 +5199,6 @@
    ]
   },
   {
-   "id": "c192a1b45d6",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Cointelegraph",
-     "trust": 2,
-     "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack",
-     "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
-     "lang": "en",
-     "extra": {},
-     "id": "192a1b45d6727e96",
-     "published": "2026-11-01T23:59+00:00",
-     "text": "Cointelegraph is committed to providing independent, high-quality journalism across the crypto, blockchain, AI, and fintech industries.\nAll news, reviews, and analyses are produced with full journalistic independence and integrity. For more details on our standards and processes, please read our Editorial Policy."
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/f0de99273e1a",
-     "title": "Binance resumes withdrawals after security incident, reports $3.64B in net outflows",
-     "lang": "en",
-     "extra": {},
-     "id": "77a8877ffb738a6e",
-     "published": "2026-11-02T08:24+00:00",
-     "text": "(FILE) The exchange said market conditions remained stable, while technical teams were testing remaining networks and assets. / Anadolu Agency"
-    }
-   ]
-  },
-  {
-   "id": "c38a91b3add",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Meta builds humanoid robot with Chinese startup Fourier: Report",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/sci-tech/technology/meta-builds-humanoid-robot-with-chinese-startup-fourier-report/article71655217.ece",
-     "title": "Meta builds humanoid robot with Chinese startup Fourier: Report",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://th-i.thgim.com/public/incoming/p8tjbm/article71655312.ece/alternates/LANDSCAPE_1200/2026-10-23T100020Z_1905342705_RC2B6OAK8MNS_RTRMADP_3_META-NEW-MEXICO-FEES.JPG"
-     },
-     "id": "38a91b3add27a874",
-     "published": "2026-11-02T04:52+00:00",
-     "text": "Meta has built a prototype humanoid robot with Chinese startup company Fourier and is working on a second version, The Information reported on Saturday, citing people familiar with the initiative.\nReuters could not immediately verify the report.\nPublished - November 02, 2026 10:22 am IST\nYou are logged in\nLoading...\nYou don’t have any Active Subscription.\nSubscribe nowSubscribed with another email? Logout and Login with that one.\nYour active subscription(s)\nAccount subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription\nProducts you've access to\nAdditional Subscription Benefits\nAccount Settings\nNeed help with your subscription?"
-    },
-    {
-     "source": "Interesting Engineering",
-     "trust": 2,
-     "url": "https://interestingengineering.com/ai-robotics/meta-develops-humanoid-robot",
-     "title": "Meta builds 105-pound humanoid robot prototype to explore future home uses",
-     "lang": "en",
-     "extra": {},
-     "id": "07974d0aa568d461",
-     "published": "2026-11-02T08:41+00:00",
-     "text": "Meta has developed a humanoid robot prototype in partnership with Chinese robotics company Fourier to explore potential applications for home robotics. According to a report, the robot was built in just three months, with development of a second version beginning in September.\nStanding about 4.11 feet (1.5 meters) tall and weighing 105 pounds (48 kilograms), the humanoid reportedly uses NVIDIA’s Jetson Thor computing platform.\nMeta’s requirements focus on human interaction, including voice recognition, gestures, and eye contact, although the company says the collaboration is limited to internal research and experimentation.\nMeta has developed a humanoid robot prototype in collaboration with Chinese robotics company Fourier, marking a step forward in its efforts to explore human-centered robotics.\nInternally named Max, the robot was reportedly developed in three months using customized hardware based on Fourier’s existing robotic platforms. According to The Information, Meta began developing a second version, Max 2, in September, with planned improvements to its hands, torso, and sensing capabilities.\nThe humanoid reportedly uses NVIDIA’s Jetson Thor computing platform, which provides the processing capabilities needed to support its robotic functions. The project combines Fourier’s humanoid hardware experience with Meta’s interest in developing robots that can interact naturally with people.\nAccording to information available, Max incorporates several modifications to Fourier’s existing designs, including changes to its body proportions, head, display, and camera arrangement. The robot also features five-fingered hands designed to manipulate small objects, including bottles and toys. Chest-mounted speakers provide audio output, while its face can display expressions to support communication.\nFourier’s experience with humanoid robots provided a foundation for the project. Its GR-3 humanoid, for example, is designed for close interaction with people and integrates hearing, vision, and touch capabilities. However, Max is not simply a modified GR-3. The Information describes it as a customized platform drawing on hardware and engineering experience from three generations of Fourier robots.\nMeta’s reported design requirements place considerable emphasis on how the robot perceives and communicates with people. These include recognizing spoken commands from a distance of approximately five meters and interpreting gestures, such as waving, from around three meters away.\nThe company also wants the robot to maintain eye contact during interactions and communicate its operating state. This includes indicating whether it is listening, processing information, speaking, or uncertain about a task.\nThese requirements suggest that Meta is exploring ways to make humanoid robots easier to interact with in everyday environments. However, they represent development targets rather than independently verified capabilities Max has demonstrated.\nThe second-generation prototype, Max 2, is expected to incorporate several hardware changes. These reportedly include a redesigned torso, improved hands, and a projector. Additional sensors are also planned to help the robot navigate stairs and better understand its surroundings.\nThe development effort extends beyond the initial prototype. According to The Information, Meta has been recruiting robotics engineers in Shanghai and Shenzhen, with positions covering prototype development and preparations for potential large-"
-    }
-   ]
-  },
-  {
    "id": "cb6cc36a441",
    "kind": "news",
    "score": 15.0,
@@ -5025,6 +5252,63 @@
      "id": "656176a6f097150d",
      "published": "2026-11-02T10:14+00:00",
      "text": "- Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks NBC News\n- Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps CNN\n- Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps CNBC\n- Hackers send fake nuclear threat alert to Ukraine emergency app The Guardian\n- Russia and Ukraine say emergency alert apps were hit by apparent cyber-attacks BBC"
+    }
+   ]
+  },
+  {
+   "id": "c038e188345",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Anthropic Seeks Up to $3.5 Billion in Japan for Its Mega US IPO",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Bloomberg Markets",
+     "trust": 2,
+     "url": "https://bloomberg.com/news/articles/2026-11-02/anthropic-seeks-up-to-3-5-billion-in-japan-for-its-mega-us-ipo",
+     "title": "Anthropic Seeks Up to $3.5 Billion in Japan for Its Mega US IPO",
+     "lang": "en",
+     "extra": {},
+     "id": "038e188345e445a5",
+     "published": "2026-11-02T06:23+00:00",
+     "text": "Anthropic PBC aims to raise up to $3.5 billion from Japanese investors in its initial public offering in the US, bringing the landmark share sale by the artificial-intelligence startup to a market starved of first-time offerings."
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOazUtcTBWVFNLd21jTk9YOFRDRHoyc2ZuV1haZ21JaUdIei1leFkxVVF5V0JpLXJGdV9raXhrV0k0bU1xM0g5TnR6cTA5dWNFZ3VVVUo1UHVyU3pUUWw0YjFreXNTZ3Q4TXdoazBwT1dxRU52bTkxMXlEbG95LVY1eUlLMGZHUk9hQUd4aVZxWkxMUzBMVmhELWNpaUhSaGR3V19UYy00R3UzMUVkWU80ZHl0aW9URGdlQ19RX2dmZHFreHNS?oc=5",
+     "title": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "6c28a8fd965e7eab",
+     "published": "2026-11-02T06:25+00:00",
+     "text": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows\nReuters"
+    },
+    {
+     "source": "Investing.com",
+     "trust": 2,
+     "url": "https://investing.com/news/stock-market-news/anthropic-plans-to-sell-35-billion-of-shares-to-japan-investors-in-ipo-filing-shows-4989963",
+     "title": "Anthropic plans to sell $3.5 billion of shares to Japan investors in IPO, filing shows",
+     "lang": "en",
+     "extra": {},
+     "id": "29c3baf3448f651f",
+     "published": "2026-11-02T06:36+00:00",
+     "text": ""
+    },
+    {
+     "source": "Nikkei Asia",
+     "trust": 2,
+     "url": "https://asia.nikkei.com/business/markets/ipo/anthropic-seeks-to-raise-up-to-3.5bn-from-japanese-investors-in-ipo",
+     "title": "Anthropic seeks to raise up to $3.5bn from Japanese investors in IPO",
+     "lang": "en",
+     "extra": {},
+     "id": "f16ca98b82b39077",
+     "published": "2026-11-02T14:53+00:00",
+     "text": ""
     }
    ]
   },
@@ -5108,6 +5392,50 @@
      "id": "f513da9303c40749",
      "published": "2026-11-02T10:18+00:00",
      "text": "Binance users withdraw $3.4 billion after record crypto heist\nTo display this content from YouTube, you must enable advertisement tracking and audience measurement.\nOne of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.\nIssued on:\nCustomers of cryptocurrency trading platform Binance withdrew some $3.4 billion of their funds on Sunday after Binance reopened trading. The company had suspended all operations after a cyberattack that compromised over $6 billion in digital assets. Also in this edition: the Wall Street Journal reports on a new US plan to restore Russian gas sales to Europe, and we look at Argentina's efforts to capitalise on Patagonia's wide open spaces to attract data centre investment."
+    }
+   ]
+  },
+  {
+   "id": "c058adc9106",
+   "kind": "news",
+   "score": 15.0,
+   "sensitive": false,
+   "distinct_sites": 2,
+   "title_hint": "Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://theregister.com/software/2026/11/02/microsofts-moolah-mountain-is-more-massive-than-ever-it-just-doesnt-want-the-people-who-built-it/5306576",
+     "title": "Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it",
+     "lang": "en",
+     "extra": {},
+     "id": "058adc91066bf7d9",
+     "published": "2026-11-02T10:15+00:00",
+     "text": "Capitalism can seem so perverse. Take Microsoft, which is celebrating record financial performance by inviting 60,000 employees to consider continuing their careers outside the company. Voluntary redundancy may seem to make sense when a company's running out of cash, but Microsoft is dripping with the stuff.\nIt was a very good fiscal '26 at Redmond. Its Azure business is up over 40 percent, it's has 30 million paid seats on CoPilot, revenues are through the roof, and it has so much moolah it returned $10.2 billion to shareholders in the form of dividends and share repurchases.\nThis latter move probably soothed CEO Satya Nadella, who suffered, due to the vagaries of C-suite reimbursement and incentive packages, a 6 percent cut in his pocket money. But as he’s also a stockholder with about 0.01 percent of the company, his share of the cash return presumably eased the pain.\nHe won't have been offered redundo. Jenkins, the large wheelbarrow if you please.\nMicrosoft, then, can afford all its employees, each who contributes about $1.5 million to SatNad's bottom line. The \"massive efficiencies and ROI of AI\" make a great line for a company flogging magic LLM juice, but the evidence remains elusive. AI is, of course, still the reason. Nothing else matters these days. It’s just that it's not today's AI.\nAmong all the fulsome figures, analysts noted that Microsoft's capital expenditure wasn't as spendy as expected. Quite a lot has been pushed into next calendar year, not because it's not there to be spent – Microsoft could build a 1:1 scale model of the Vatican filled with robot priests if it wanted – but because so much it wanted to mash the Buy Now button for was \"Out of stock. More expected soon.\"\nThis is bad. MS added 88 datacenters in its most recent full financial year. That’s not enough datacenters for a cloud business expected to grow by half again in 2027, and hugely not enough to do the other thing. Lags in the cadence of deforestation, dewatering and detonation of the planet can't be tolerated. Thus there are contracts signed to get things back on track PDQ, with mucho, mucho, mucho sponduiks.\nMicrosoft is hinting, those selfsame analysts say, that it will have to go to the debt market and go into \"negative free cash flow\" territory in 2028. In other words, as well as spending its own bank, the company will be taking out massive loans.\nThis is why Billy and Bhavya Dev have to go. The cost of borrowing depends on the financial health of the borrower, and that boils down to how much profit you're making from the money you earn. A big round of redundancies, which are very costly in themselves, sits on the books of the year they happen. The hole in expenditure left by the vanished salaries lives on. The capital must flow.\nWill this work? Last week, we listed the reasons why it might not — price competition between rivals and increasingly powerful local and open weight models, supply side shortages, you know the litany by now. This week is Groundhog week, with fresh stories singing the same songs from different choirs.\nAny sensible soul, especially developers sitting on the sharp end of AI's forcible insertion into their working lives, will know how uncertain the job market is. Voluntary redundancy is a very high stakes bet, and the game is very different if you're in an organization that's going downhill and may need to get rid of you later with far less cash available than if you're nominally making $1.5 million in a place whose biggest p"
+    },
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://theregister.com/columnists/2026/11/02/microsofts-moolah-mountain-is-more-massive-than-ever-it-just-doesnt-want-the-people-who-built-it/5306576",
+     "title": "Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it",
+     "lang": "en",
+     "extra": {},
+     "id": "cd7d36c89654a56a",
+     "published": "2026-11-02T10:15+00:00",
+     "text": "Capitalism can seem so perverse. Take Microsoft, which is celebrating record financial performance by inviting 60,000 employees to consider continuing their careers outside the company. Voluntary redundancy may seem to make sense when a company's running out of cash, but Microsoft is dripping with the stuff.\nIt was a very good fiscal '26 at Redmond. Its Azure business is up over 40 percent, it's has 30 million paid seats on CoPilot, revenues are through the roof, and it has so much moolah it returned $10.2 billion to shareholders in the form of dividends and share repurchases.\nThis latter move probably soothed CEO Satya Nadella, who suffered, due to the vagaries of C-suite reimbursement and incentive packages, a 6 percent cut in his pocket money. But as he’s also a stockholder with about 0.01 percent of the company, his share of the cash return presumably eased the pain.\nHe won't have been offered redundo. Jenkins, the large wheelbarrow if you please.\nMicrosoft, then, can afford all its employees, each who contributes about $1.5 million to SatNad's bottom line. The \"massive efficiencies and ROI of AI\" make a great line for a company flogging magic LLM juice, but the evidence remains elusive. AI is, of course, still the reason. Nothing else matters these days. It’s just that it's not today's AI.\nAmong all the fulsome figures, analysts noted that Microsoft's capital expenditure wasn't as spendy as expected. Quite a lot has been pushed into next calendar year, not because it's not there to be spent – Microsoft could build a 1:1 scale model of the Vatican filled with robot priests if it wanted – but because so much it wanted to mash the Buy Now button for was \"Out of stock. More expected soon.\"\nThis is bad. MS added 88 datacenters in its most recent full financial year. That’s not enough datacenters for a cloud business expected to grow by half again in 2027, and hugely not enough to do the other thing. Lags in the cadence of deforestation, dewatering and detonation of the planet can't be tolerated. Thus there are contracts signed to get things back on track PDQ, with mucho, mucho, mucho sponduiks.\nMicrosoft is hinting, those selfsame analysts say, that it will have to go to the debt market and go into \"negative free cash flow\" territory in 2028. In other words, as well as spending its own bank, the company will be taking out massive loans.\nThis is why Billy and Bhavya Dev have to go. The cost of borrowing depends on the financial health of the borrower, and that boils down to how much profit you're making from the money you earn. A big round of redundancies, which are very costly in themselves, sits on the books of the year they happen. The hole in expenditure left by the vanished salaries lives on. The capital must flow.\nWill this work? Last week, we listed the reasons why it might not — price competition between rivals and increasingly powerful local and open weight models, supply side shortages, you know the litany by now. This week is Groundhog week, with fresh stories singing the same songs from different choirs.\nAny sensible soul, especially developers sitting on the sharp end of AI's forcible insertion into their working lives, will know how uncertain the job market is. Voluntary redundancy is a very high stakes bet, and the game is very different if you're in an organization that's going downhill and may need to get rid of you later with far less cash available than if you're nominally making $1.5 million in a place whose biggest p"
+    },
+    {
+     "source": "The Register",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUXhVd0tOYlF1VXl5Wk91YUR4b1hkdjd6TWRodDFBbm5ZaDdhS1RyYlBSbWFINm11ZG9GWmxuTmVNakNnZU9zMFdFSzYzdzdsMVhMQzM1U3RkTE1HNHBRM2h3Y19EU242UVRXQVZZcHZMcF9OaTRSNm1abFY5bUhUaUpsdmlkd0tDOFRFX0VmNUJNcFdyS185V2tUMlVHX0JySmIzNGRkNy1QZkYxVVliSHlaTllJTXE0LXF4R1BGT3E5NjBsb3VmWUF2d3dXUGlEaEVOd2xnczF4UTJkMzliODEtTGpiY1k?oc=5",
+     "title": "Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it",
+     "lang": "en",
+     "extra": {},
+     "id": "e3308b4c5b6f2dc9",
+     "published": "2026-11-02T10:15+00:00",
+     "text": "Microsoft's moolah mountain is more massive than ever. It just doesn't want the people who built it\nThe Register"
     }
    ]
   },
@@ -5683,176 +6011,6 @@
    ]
   },
   {
-   "id": "ce20f913573",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 7,
-   "title_hint": "Trump says US still has to ‘take care’ of one or two targets in Iran",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/middle-east/trump-says-us-still-has-to-take-care-of-one-or-two-targets-in-iran-3009207",
-     "title": "Trump says US still has to ‘take care’ of one or two targets in Iran",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793500487127-98bd6222afeee0ca.jpg"
-     },
-     "id": "e20f9135737416a3",
-     "published": "2026-11-01T02:36+00:00",
-     "text": "- Trump says Iran’s military had been significantly weakened but the US still needs to address two specific targets, including a suspected nuclear site\n- Iran’s supreme leader has warned the US and Israel against launching new attacks, especially in light of threats following elections\nWASHINGTON: President Donald Trump said on Saturday that the United States has knocked out much of Iran’s military but it still has to “take care of” one or two targets including a suspected nuclear site known as Pickaxe Mountain.\nTrump maintained that negotiations with Iran to end the war that the US and Israel began at the end of February were “going fine but you know they’re not very reliable.”\nThe US president reiterated that the US was not in a hurry to take offensive action because it had decimated Iran’s military and nuclear program.\n“We’ve knocked out their nuclear. We still have to take care of, I would say one or two sites, but we can do that in 10 minutes,” Trump told reporters at his Florida residence.\n“You probably could look at Pickaxe Mountain, and you have to take care of that. We can do that all very quickly,” he added, referring to a suspected underground nuclear complex.\nThe Iranian government has denied any nuclear work is carried out there.\nEarlier Saturday, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the United States would be open to a diplomatic solution.\nIran’s supreme leader on Saturday warned the United States and Israel against launching new attacks, following threats to resume strikes after elections.\nTrump has warned of the potential for fresh military action after US midterms, saying previously that he was weighing up whether to “finish them off.”"
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUdvVkhQajY5cVUxcjZzUUVHWHN0SEcxd3NxdW4zNzZmRnB5M3hCQ1NoV0RHRXpXTmJtQnlkS2tqSjZQc3dtS3lfS3hGa2ZDRS02S3lPMnFvcTV5dHNzLWhIUjg5Y3ZzRlZUY1Q1MWtaMFNlNGxUUVdXb1IyOHpkYkNZYmFVRXRnZTVkck05M1ZNOUVFbHR1Y0d0NlJXMDVHa0pGbVJfSDZlWGU0RGp4Mg?oc=5",
-     "title": "Trump says US still has to ‘take care’ of one or two targets in Iran",
-     "lang": "en",
-     "extra": {},
-     "id": "8b026a20e3950300",
-     "published": "2026-11-01T02:40+00:00",
-     "text": "Trump says US still has to ‘take care’ of one or two targets in Iran\nArab News"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/d429e91d16e1",
-     "title": "US still has to 'take care' of one or two targets in Iran — Trump",
-     "lang": "en",
-     "extra": {},
-     "id": "83db08f94f7a9640",
-     "published": "2026-11-01T03:16+00:00",
-     "text": "US president says Washington can strike remaining Iranian targets within minutes, including a suspected underground nuclear complex, while negotiations with Tehran continue."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/trump-says-us-still-has-one-or-two-targets-in-iran",
-     "title": "Trump says US still has ‘one or two targets’ in Iran",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cassette.sphdigital.com.sg/image/straitstimes/dd8f940959902c61c66752fd312f498ba71402b8603bc14fdb21b187160fa54e?w=1200"
-     },
-     "id": "fabcdeae1f17bc0e",
-     "published": "2026-11-01T04:20+00:00",
-     "text": "Trump says US still has ‘one or two targets’ in Iran\nAI generated\nWASHINGTON – President Donald Trump said on Oct 31 that the United States has knocked out much of Iran’s military but still has to “take care of” one or two targets, as Tehran warned of reprisals if attacked.\nTrump maintained that negotiations with Iran to end the war, which was started by the United States and Israel in February, were “going fine but you know they’re not very reliable”.\nThe Republican president said the United States is not in a hurry to take offensive action because it had already decimated Iran’s military and nuclear programme.\n“We’ve knocked out their nuclear. We still have to take care of, I would say one or two sites, but we can do that in 10 minutes,” Trump told reporters at his Florida residence.\n“You probably could look at Pickaxe Mountain, and you have to take care of that. We can do that all very quickly,” he added, referring to a suspected underground nuclear complex.\nThe Iranian government denied any nuclear work is carried out there.\nEarlier on Oct 31, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the United States would be open to a diplomatic solution.\nIran’s supreme leader on Oct 31 warned the United States and Israel against launching a new offensive, following threats they could resume strikes after crucial elections in both countries.\nTrump had previously warned an attack could come after the US midterms this week, while Israeli Prime Minister Benjamin Netanyahu spoke of a “historic, one-time opportunity” to topple the Iranian government.\nThe elections in both countries could determine the direction of the conflict, with Israel having voted in a general election on Oct 27 but yet to form a new government.\n“Any level or type of threat must be met with an immediate, impactful and geographically unrestricted response,” Iran’s supreme leader Mojtaba Khamenei told top military commanders, according to a statement.\nKhamenei also ordered commanders to update Iran’s target list to include “all types of tangible and intangible assets belonging to the American-Zionist enemy”.\nThis was the first reported meeting between Khamenei and military top brass.\nThe supreme leader has not been seen publicly since before he took the helm in March, after the killing of his father Ayatollah Ali Khamenei in US-Israeli strikes.\nOil price spike\nRubio warned that “we can achieve military objectives if we seek to”, adding that Trump had not made a decision on any fresh strikes.\nSince the recent outbreak of the war, Tehran has restricted shipping through the Strait of Hormuz, which normally carries around one-fifth of global oil consumption.\nIran has previously warned it would also consider severing undersea cables in the Strait of Hormuz.\nA ship traversing the strait struck a mine and caught fire, Iranian state television reported on Oct 31.\nIran’s Revolutionary Guards said on Oct 30 that three oil tankers had been halted after encountering unspecified “incidents” or hitting mines.\nThe blockade has caused a spike in global energy prices, making the war unpopular among the US public ahead of the upcoming polls.\nGains for the opposition Democrats could restrict, to an extent, Trump’s ability to enact policy.\nVoting in Israel has left Netanyahu’s political camp with the most seats in parliament but short of a majority, leaving the make-up of the next administration unclear.\n‘Flames of war’\nFresh diplomatic e"
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmVuZ25GcDZHMWdDQ0NnQUJUZnNOTE1nOEpzN2UtMl9NRTY3SDZwRXdybksyQ1VOQTFFN0VMb0dyYTlrdmlpRmhZdGV6ejA4azRqcENySDZ2S3MzakxEX2hsa29abFRHa1JMZWZCZ051dW45SWxORTN2SlI2UGU3bThIQjF6bjBtcjE4aTNMUTRLQ0VXb0NkaEYxZnNPZGNLUTI1bzNsSXIyYlltLU5XTjlURXDSAccBQVVfeXFMUDdtVEZmY0p4dm9vSWc5aU1iekZINWtEVzVKTzAzY05lX29tTGJRekRkRGl4b3RBWGd3VnlhRWVDZG1CaEdXb2V4Ym5GcWxiZE5sLXRObl9pZGtmdDFGWWxoNS1lY3VwNnpBMkhjMkVXYXNuMUhvelJtdG9femFuNkFwUWpHZmQtX3RqczdyZEVRWUdlMFgxZUx4U2czOU14dW9mTmxTaGhJTURCQW9tZnc0NVBxZ1VkWE5xb2h6RjdVaHBycDJRRQ?oc=5",
-     "title": "Trump says US still has to 'take care' of one or two targets in Iran",
-     "lang": "en",
-     "extra": {},
-     "id": "a173f255c5b1a95a",
-     "published": "2026-11-01T04:39+00:00",
-     "text": "Trump says US still has to 'take care' of one or two targets in Iran\nGulf News"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
-     "title": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793521401.jpg?resize=1920%2C1080&quality=80"
-     },
-     "id": "0339f457e6714896",
-     "published": "2026-11-01T08:24+00:00",
-     "text": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran\nUS President Donald Trump, who says he came to his Mar-a-Lago Halloween costume party dressed as himself, described not being in a hurry to make a decision on striking Iran. Mediators are trying to prevent a new breakout of war, as Trump says ‘one or two sites’ in Iran still need ‘taking care of’."
-    },
-    {
-     "source": "ABC News",
-     "trust": 2,
-     "url": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh?id=137563447",
-     "title": "Iran live updates: Trump says US not in 'a hurry' to agree deal",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.abcnewsfe.com/a/4161f5e6-9712-4816-938b-b2ab59a1a2bb/Trump-DB-261101_1793519536792_hpMain_16x9.jpg?w=1600"
-     },
-     "id": "aa8ef3830b67ac67",
-     "published": "2026-11-01T09:06+00:00",
-     "text": "Trump says US not in 'a hurry' to agree deal\nPresident Donald Trump said on Saturday during a Halloween event at Mar-a-Lago that the U.S. has no hard timetable regarding negotiations with Iran over a possible deal to end the ongoing war with Iran.\n\"We're not in that much of a hurry from the standpoint that we've knocked out their navy,\" Trump said. \"We've knocked out their air force, we've knocked out their anti-aircraft, we've knocked out almost every piece of military equipment they have.\"\nTrump also said the U.S. had \"knocked out\" much of Iran's manufacturing capability and nuclear sites. \"We still have to take care of, I would say, one or two sites, but we can do that in ten minutes.\"\n-ABC News' Nicholas Kerr"
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336210",
-     "title": "Trump Says US Still Has 'One or Two Targets' in Iran",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1858921_0.jpeg.webp?VersionId=1.AY_Q8v3d_IWdtY_y8wbl6TozIyAl98"
-     },
-     "id": "e36be22fa932240a",
-     "published": "2026-11-01T09:35+00:00",
-     "text": "President Donald Trump said on Saturday that the United States has knocked out much of Iran's military but still has to \"take care of\" one or two targets, as Tehran warned of reprisals if attacked.\nTrump maintained that negotiations with Iran to end the war, which was started by the United States and Israel in February, were \"going fine but you know they're not very reliable.\"\nAccording to AFP, the Republican president said the United States is not in a hurry to take offensive action because it had already decimated Iran's military and nuclear program.\n\"We've knocked out their nuclear. We still have to take care of, I would say one or two sites, but we can do that in 10 minutes,\" Trump told reporters at his Florida residence.\n\"You probably could look at Pickaxe Mountain, and you have to take care of that. We can do that all very quickly,\" he added, referring to a suspected underground nuclear complex.\nThe Iranian government denied any nuclear work is carried out there.\nEarlier Saturday, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the United States would be open to a diplomatic solution.\nIran's supreme leader on Saturday warned the United States and Israel against launching a new offensive, following threats they could resume strikes after crucial elections in both countries.\nTrump had previously warned an attack could come after the US midterms this week, while Israeli Prime Minister Benjamin Netanyahu spoke of a \"historic, one-time opportunity\" to topple the Iranian government.\nThe elections in both countries could determine the direction of the conflict, with Israel having voted in a general election on Tuesday but yet to form a new government.\n\"Any level or type of threat must be met with an immediate, impactful and geographically unrestricted response,\" Iran's supreme leader Mojtaba Khamenei told top military commanders, according to a statement.\nKhamenei also ordered commanders to update Iran's target list to include \"all types of tangible and intangible assets belonging to the American-Zionist enemy\".\nThis was the first reported meeting between Khamenei and military top brass.\nThe supreme leader has not been seen publicly since before he took the helm in March, after the killing of his father Ali Khamenei in US-Israeli strikes.\nRubio warned that \"we can achieve military objectives if we seek to\", adding that Trump had not made a decision on any fresh strikes.\nSince the recent outbreak of the war, Tehran has restricted shipping through the Strait of Hormuz, which normally carries around one-fifth of global oil consumption.\nIran has previously warned it would also consider severing undersea cables in the Strait of Hormuz.\nFresh diplomatic efforts are underway to avert any resumption of fighting.\nQatari mediators landed in Tehran on Friday, and US Vice President JD Vance sent a letter to Iran's security chief Mohsen Rezaei.\n\"I read the letter,\" said Rezaei, head of Iran's supreme national security council, in a video broadcast on Iranian television.\n\"I haven't yet responded. Their tone has completely changed,\" he added, describing that as \"a good sign\" without going into more detail.\nIranian Foreign Minister Abbas Araghchi said there were currently no plans for meetings with US officials.\nRezaei insisted Iran would continue to blockade the Strait of Hormuz until its conditions, including releasing frozen assets, were met.\nQatar and Pakistan have been mediating between the "
-    }
-   ]
-  },
-  {
-   "id": "c520c0b146b",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Valkyries defeat Dream in historic Game 7 to capture 1st WNBA title in 2nd season",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "CBC",
-     "trust": 2,
-     "url": "https://cbc.ca/sports/basketball/wnba-finals-valkyries-dream-game-7-october-31-9.7403054?cmp=rss",
-     "title": "Valkyries defeat Dream in historic Game 7 to capture 1st WNBA title in 2nd season",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.cbc.ca/ais/b824268c-90bc-42c3-a493-944efa264c2e,1793501304626/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C6057%2C3407%29%3BResize%3D620"
-     },
-     "id": "520c0b146bb27d89",
-     "published": "2026-11-01T02:48+00:00",
-     "text": "Valkyries defeat Dream in historic Game 7 to capture 1st WNBA title in 2nd season\nGabby Williams leads Golden State to 68-63 victory\nGabby Williams scored her team's final 11 points of the third quarter and dazzled through the fourth on the way to 30 points, and the Golden State Valkyries captured a championship in just their second season by beating the Atlanta Dream 68-63 in a sensational first WNBA Finals Game 7 Saturday night in San Francisco.\nJordin Canada scored 18 points, Allisha Gray 16 and Angel Reese eight points and 12 rebounds for the Dream, denied another championship in the franchise's fourth try.\nGray made two free throws with 11 seconds left then Atlanta forced a jump ball — Gray against Williams — and Veronica Burton corralled it and converted two free throws with 5.1 seconds to go.\nRhyne Howard's layup tied it at 57 with 2:41 left only for Williams to answer once more by making a clutch three-pointer. She converted two free throws with 1:40 remaining, then Kiah Stokes scored a late basket. She pulled down 13 rebounds and blocked two more shots to cap her spectacular post-season.\nWilliams left Seattle with a great feeling about joining Golden State and its close-knit culture, returning to the Bay Area where she played youth basketball to build something special with the Valkyries — and she's now done that. Fans chanted \"Gabby! Gabby!\" throughout the fourth quarter.\nWhen the final buzzer sounded, the violet-clad sellout crowd at Chase Center went into a frenzy as players sprinted onto the floor to hug and celebrate as confetti fell from the rafters.\n\"Ballhalla\" had become \"Boohalla\" for this far-but-haunted Halloween night in the raucous arena. Now, with a women's championship to its name right alongside the one earned by the Golden State Warriors in 2022."
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://arabnews.com/sport/gabby-williams-leads-valkyries-to-wnba-championship-in-second-season-beating-dream-68-63-in-game-7-3009209",
-     "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1793501382169-b3130acace9d521c.jpg"
-     },
-     "id": "b80c85375bf0d174",
-     "published": "2026-11-01T02:57+00:00",
-     "text": "- The Golden State Valkyries won their first WNBA championship in only their second season\n- Gabby Williams led the Valkyries by scoring 30 points in Game 7 against the Atlanta Dream\nSAN FRANCISCO: Gabby Williams scored her team’s final 11 points of the third quarter and dazzled through the fourth on the way to 30 points, and the Golden State Valkyries captured a championship in just their second season by beating the Atlanta Dream 68-63 in a sensational first WNBA Finals Game 7 Saturday night.\nJordin Canada scored 18 points, Allisha Gray 16 and Angel Reese eight points and 12 rebounds for the Dream, denied another championship in the franchise’s fourth try.\nGray made two free throws with 11 seconds left then Atlanta forced a jump ball — Gray against Williams — and Veronica Burton corralled it and converted two free throws with 5.1 seconds to go.\nRhyne Howard’s layup tied it at 57 with 2:41 left only for Williams to answer once more by making a clutch 3-pointer. She converted two free throws with 1:40 remaining, then Kiah Stokes scored a late basket. She pulled down 13 rebounds and blocked two more shots to cap her spectacular postseason.\nWilliams left Seattle with a great feeling about joining Golden State and its close-knit culture, returning to the Bay Area where she played youth basketball to build something special with the Valkyries — and she’s now done that. Fans chanted “Gabby! Gabby!” throughout the fourth quarter.\nWhen the final buzzer sounded, the violet-clad sellout crowd at Chase Center went into a frenzy as players sprinted onto the floor to hug and celebrate as confetti fell from the rafters.\n“Ballhalla” had become “Boohalla” for this far-but-haunted Halloween night in the raucous arena. Now, with a women’s championship to its name right alongside the one earned by the Golden State Warriors in 2022."
-    },
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://newsweek.com/sports/gabby-williams-shines-valkyries-wnba-title-win-dream-12646059",
-     "title": "Gabby Williams Shines in Valkyries WNBA Title Win Over Dream",
-     "lang": "en",
-     "extra": {},
-     "id": "4657ba1e32d906a3",
-     "published": "2026-11-01T03:08+00:00",
-     "text": "The Valkyries became the first WNBA team to win in just their second season as a franchise."
-    },
-    {
-     "source": "ABC News",
-     "trust": 2,
-     "url": "https://abcnews.com/Sports/wireStory/valkyries-dream-set-wnba-finals-game-7-after-137740321",
-     "title": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://i.abcnewsfe.com/a/418d7e00-24c7-4049-9378-7a63ea25febc/wirestory_189aa4b8ecb1d1fd8ddfacde3a9d6ac4_16x9.jpg?w=1600"
-     },
-     "id": "0e0b4fc2288368fe",
-     "published": "2026-11-01T03:13+00:00",
-     "text": "Gabby Williams leads Valkyries to WNBA championship in second season, beating Dream 68-63 in Game 7\nGabby Williams scored her team’s final 11 points of the third quarter and dazzled through the fourth on the way to 30 points, and the Golden State Valkyries captured a championship in just their second season by beating the Atlanta Dream 68-63 in a sen...\nSAN FRANCISCO -- Gabby Williams scored her team's final 11 points of the third quarter and dazzled through the fourth on the way to 30 points, and the Golden State Valkyries captured a championship in just their second season by beating the Atlanta Dream 68-63 in a sensational first WNBA Finals Game 7 on Saturday night.\nJordin Canada scored 18 points, Allisha Gray 16 and Angel Reese had eight points and 12 rebounds for the Dream, denied another championship in the franchise's fourth try.\nGray made two free throws with 11 seconds left then Atlanta forced a jump ball — Gray against Williams — and Veronica Burton corralled it and converted two free throws with 5.1 seconds to go.\n“I'm just so blessed, this is insane!” said Burton, cut by Dallas two years ago.\nRhyne Howard's layup tied it at 57 with 2:41 left only for Williams to answer once more with a clutch 3-pointer. She converted two free throws with 1:40 remaining, then Kiah Stokes scored a late basket. Stokes pulled down 13 rebounds and blocked two more shots to cap her spectacular postseason.\nWilliams left Seattle with a great feeling about joining Golden State and its close-knit culture, returning to the Bay Area where she played youth basketball to build something special with the Valkyries — and she’s now done that. Fans chanted “Gabby! Gabby!” throughout the fourth quarter.\n“All it took was good people,” she said. “All we heard last year was we don’t have no stars. We don’t have no talent. Yeah right! We got good people. We got good people. We got winners. We got people who are ready to put their bodies on the floor to win a game.”\nWhen the final buzzer sounded, the violet-clad sellout crowd at Chase Center went into a frenzy as players sprinted onto the floor to hug and celebrate as confetti fell from the rafters.\n“Ballhalla” had become “Boohalla” for this far-but-haunted Halloween night in the raucous arena. Now, with a women's championship to its name right alongside the one earned by the Golden State Warriors in 2022.\n“We gotta build a bigger trophy case,” co-owner Peter Guber said.\nThe team that led at halftime in the first six matchups had won every game so far, and the Dream were ahead 30-24 at the break. Atlanta also had been 16-0 this season when Reese made at least one 3. The Dream's DeWanna Bonner became the first player in WNBA history to reach 600 career postseason defensive rebounds.\nValkyries coach Natalie Nakase changed her starting lineup in a move that paid huge dividends after Golden State fell behind 2-1, inserting Kaila Charles and Tiffany Hayes and bringing Kayla Thornton and Cecilia Zandalasini off the bench.\nThe 37-year-old Hayes, who came out of retirement two years ago and spent 10 seasons with the Dream, scored 11 points in the winner-take-all Game 7 and brought energy all series that made Nakase want to win for the veteran guard as much as anybody.\nValkyries owner Joe Lacob guaranteed a championship within the first five years for this franchise three years ago when the Bay Area was granted an expansion team, and in improbable, joyful fashion, his team accomplished it in Year 2. That after becoming the "
-    }
-   ]
-  },
-  {
    "id": "cbb59421aee",
    "kind": "news",
    "score": 14.0,
@@ -5899,17 +6057,6 @@
      "text": "Celebrities gathered in New York for Heidi Klum’s 25th annual Halloween party, with the host transforming herself into a gruesome severed hand and guests arriving in an array of elaborate costumes."
     },
     {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/01/heidi-klums-2026-halloween-party-costume-a-giant-bloody-replica-of-her-own-hand",
-     "title": "Heidi Klum's 2026 Halloween party costume: a giant bloody replica of her own hand",
-     "lang": "en",
-     "extra": {},
-     "id": "db7420b86ddf15d9",
-     "published": "2026-11-01T16:05+00:00",
-     "text": "“I looked at my hand and I thought, ‘Hey, I think I could fit my body in this somehow,’” Klum said of the inspiration for the costume, per the Associated Press."
-    },
-    {
      "source": "Reddit wow",
      "trust": 1,
      "url": "https://reddit.com/r/nextfuckinglevel/comments/1xkt45g/heidi_klum_arrives_at_her_annual_halloween_party",
@@ -5919,6 +6066,17 @@
      "id": "db22474003ce79eb",
      "published": "2026-11-01T03:35+00:00",
      "text": "submitted by\n/u/omgfakeusername\nto\nr/nextfuckinglevel\n[link]\n[comments]"
+    },
+    {
+     "source": "Reddit wow",
+     "trust": 1,
+     "url": "https://reddit.com/r/nextfuckinglevel/comments/1xktmds/heidi_klums_incredible_halloween_costume",
+     "title": "Heidi Klum's incredible Halloween costume evolution over the years",
+     "lang": "en",
+     "extra": {},
+     "id": "762e73d875b06b70",
+     "published": "2026-11-01T04:04+00:00",
+     "text": "submitted by\n/u/Main_Locksmith_2543\nto\nr/nextfuckinglevel\n[link]\n[comments]"
     },
     {
      "source": "Google News Entertainment EN",
@@ -5947,6 +6105,19 @@
     {
      "source": "Google News Entertainment EN",
      "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHFUY0puMk0zTDE1Z3BZc2Y0UklsUmNTT3FEUTFTcWFTU21hQ3o3eC04dHdGcUJPeFhsNGxpdE1RR2pCa2g4Umc2UmpjTGR2eUxwQ291RmE2cndyV0xrSjd3MGloNEtuWlRoSjB4dXRBNHdCaG5uSTJCOVNHZW5TRTRfckZwZEtZd0xXaUUwbjQtWmYzcGdUYWg2cUdYRWpt?oc=5",
+     "title": "Heidi Klum reveals Halloween costume as her iconic party marks 25 years - AP News",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+     },
+     "id": "02f8418784aea4be",
+     "published": "2026-11-01T05:19+00:00",
+     "text": "- Heidi Klum reveals Halloween costume as her iconic party marks 25 years AP News\n- Heidi Klum, the 'Queen of Halloween,' reveals 2026 costume WUSA9\n- Taylor Momsen, James Charles & More Celebrities Who Scared Up a Good Time at Heidi Klum’s Halloween Party E! News\n- Heidi Klum kicks off Halloween with her kids, Sofia Vergara, more – Photos USA Today\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times"
+    },
+    {
+     "source": "Google News Entertainment EN",
+     "trust": 1,
      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xU2NoQXJXdllsekJ5aDJPVEVwX1RZamtsRERWRmFTRHUzU0xITERGcnNOQmlwV1Q3UlE5XzdKdzN1U2p4dTdrT0NValVTaHBlSy1WalM2S2hPeE1hd3VhanBfVDk4cld1anNZa0JNcTRWZ1daUl9v?oc=5",
      "title": "Heidi Klum reveals a giant severed hand as 2026 Halloween costume",
      "lang": "en",
@@ -5956,19 +6127,6 @@
      "id": "c707ee0f97efe302",
      "published": "2026-11-01T07:28+00:00",
      "text": "- Heidi Klum reveals a giant severed hand as 2026 Halloween costume CBS News\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times\n- Heidi Klum reveals Halloween costume as her iconic party marks 25 years ABC7 New York\n- Heidi Klum’s 2026 Halloween Party Photos Deadline\n- Heidi Klum Dresses as Her Own Giant Severed Hand for Halloween—Complete With Wedding Rings and Husband’s Name Tattoo Yahoo"
-    },
-    {
-     "source": "Google News Entertainment EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWlIxOUZiWlhFb3hva2o4ZTVjUEFKeDlsejhLNGd1NFhVYTducUZOSTFZbENVdnROTERHLUZNRjNlLXN5alJVUXdjT0hRdjRyVnlXS1BDc0EyWkdpU3lONzVJdmVpMkNvek1JdFNzcjFDYjFsQ0ZWdnhUMndJNlA5Sk5WSDBVZw?oc=5",
-     "title": "How Heidi Klum Transformed Into a Giant Hand For Her 2026 Halloween Costume",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "26c447224ccb5986",
-     "published": "2026-11-01T14:29+00:00",
-     "text": "- How Heidi Klum Transformed Into a Giant Hand For Her 2026 Halloween Costume Vogue\n- Heidi Klum Becomes Her Left Hand for Halloween The New York Times\n- Heidi Klum reveals Halloween costume as her iconic party marks 25 years The Boston Globe\n- Heidi Klum’s 2026 Halloween Party Photos Deadline\n- Taylor Momsen, James Charles & More Celebrities Who Scared Up a Good Time at Heidi Klum’s Halloween Party E! News"
     }
    ]
   },
@@ -6789,48 +6947,124 @@
    ]
   },
   {
-   "id": "cbfc1decae2",
+   "id": "c4ae7939d55",
    "kind": "news",
    "score": 14.0,
    "sensitive": false,
-   "distinct_sites": 3,
-   "title_hint": "Arsenal triumphant in historic Anfield victory",
+   "distinct_sites": 6,
+   "title_hint": "Mike Rogers Wins Haley Stevens’ Backing in Blow to Democrats’ Senate Hopes",
    "official_image": null,
    "sources": [
     {
-     "source": "Sky Sports Football",
+     "source": "Newsweek",
      "trust": 2,
-     "url": "https://skysports.com/watch/video/13606781/liverpool-0-1-arsenal-premier-league-highlights",
-     "title": "Arsenal triumphant in historic Anfield victory",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTRsY3dUbl8yR21fbkFMdW1HUHN0VTl6UjJrZC1sZkJIaDk3YzdMLWprMVM5b2w2ZWZUUEVWOE51UWc5ZldDV0tZamJfNjhfS3dmLVhad1hDME12aXU3UjJHV1ZPSXhnbG9hcnhIQ2JwQ2NxTXZDclFiWUJDd0FDUlNINzFCNHZhR3B1NHk3U29qTkRIZlpDaHlTQzNrR1M4clBocGsweEdPZw?oc=5",
+     "title": "Mike Rogers Wins Haley Stevens’ Backing in Blow to Democrats’ Senate Hopes",
      "lang": "en",
      "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-football-premier-league_7394114.jpg?20261101183652"
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
      },
-     "id": "41d9712d705677ca",
-     "published": "2026-11-01T18:34+00:00",
-     "text": "Liverpool 0-1 Arsenal | Premier League highlights\nSunday 1 November 2026 18:57, UK\nPlease use Chrome browser for a more accessible video player\nSunday 1 November 2026 18:57, UK"
+     "id": "4ae7939d55378fa4",
+     "published": "2026-11-01T18:35+00:00",
+     "text": "Mike Rogers Wins Haley Stevens’ Backing in Blow to Democrats’ Senate Hopes\nNewsweek"
     },
     {
-     "source": "The Independent",
+     "source": "Newsweek",
      "trust": 2,
-     "url": "https://independent.co.uk/sport/football/liverpool-strikers-goals-andoni-iraola-arsenal-isak-wirtz-barcola-b3077316.html",
-     "title": "The concerning Liverpool dilemma exposed by Arsenal’s Anfield victory",
+     "url": "https://newsweek.com/mike-rogers-wins-haley-stevens-backing-in-blow-to-democrats-senate-hopes-12646957",
+     "title": "Mike Rogers Wins Haley Stevens' Backing in Blow to Democrats’ Senate Hopes",
      "lang": "en",
      "extra": {},
-     "id": "04a1febf9b7238fc",
-     "published": "2026-11-02T08:38+00:00",
-     "text": "Liverpool’s expensive forward line continues to fail in decisive games and Andoni Iraola must figure out a solution if they are to become challengers in the Premier League"
+     "id": "3bfb252a5e2e7a4d",
+     "published": "2026-11-01T18:35+00:00",
+     "text": "The endorsement came on Sunday after Stevens appeared with Rogers at a church service in Detroit."
     },
     {
-     "source": "Reddit films, TV, games & football",
-     "trust": 1,
-     "url": "https://reddit.com/r/soccer/comments/1xl8lmn/arsenal_fan_at_anfield_reacting_to_macallisters",
-     "title": "Arsenal fan at Anfield reacting to MacAllister's miss",
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss",
+     "title": "Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-07-28T005746Z_1347388485_RC2NMMABFKA4_RTRMADP_3_USA-ELECTION-MICHIGAN-1785693966.jpg?resize=1920%2C1440"
+     },
+     "id": "303b9b193656dcb9",
+     "published": "2026-11-01T18:51+00:00",
+     "text": "In a blow to Democrat Abdul El-Sayed’s campaign for the United States Senate in Michigan, his former primary opponent, US Representative Haley Stevens, has endorsed Republican candidate Mike Rogers.\nStevens stunned party officials on Sunday by appearing with Rogers at a Detroit church service as tensions between her and El-Sayed boiled over two days before the election that will determine the balance of power on Capitol Hill.\nRecommended Stories\nlist of 4 items- list 1 of 4What polls say as Trump makes his final push before US midterms\n- list 2 of 4Where are the most expensive midterm races and who is funding them?\n- list 3 of 4Michigan race: All you need to know about Abdul El-Sayed v Mike Rogers\n- list 4 of 4More than 50 million votes cast in US midterm elections: What does it mean?\n“I am endorsing Mike Rogers for the US Senate. Today, I do not belong to Abdul’s campaign,” she said in a video posted on X.\nStevens’ surprising support for US President Donald Trump’s endorsed candidate in the tightly contested race comes after she was uninvited to a joint event on the same day with El-Sayed, who defeated her by a slim margin in the August primary.\n“Who we are as Michiganders is not hate, and [that] is not what we are getting out of our Democratic nominee right now,” Stevens said."
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+     "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x4860+0+450/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2Fec%2Fd4ef79ea4b0b9ee9e052fef67bfb%2Fap26305686634346.jpg"
+     },
+     "id": "4bc244a8bbb2b7dd",
+     "published": "2026-11-01T19:49+00:00",
+     "text": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed\nDETROIT — After months of proclaiming support for the Democratic ticket, Rep. Haley Stevens has endorsed GOP Michigan Senate candidate Mike Rogers over her former primary rival Abdul El-Sayed, less than 48 hours before Election Day.\n\"As you may have seen, our Democratic nominee for U.S. Senate, Abdul, said I was no longer welcome in his campaign and that I should stay away, and he's right,\" Stevens said in a video she posted to social media on Sunday. \"And that's why I am endorsing Mike Rogers for the U.S. Senate today.\"\nHer statement followed a surprise appearance with Rogers at a church in Detroit.\nOutside a \"Souls to the Polls\" event at a church in Detroit, El-Sayed told reporters that he doesn't think about Stevens and said voters do not either.\n\"None of this matters,\" El-Sayed said. \"You know what matters. You can go, like, 15 minutes that way, or 15 minutes that way, or 15 minutes that way. And there are families who are preparing to send their kids to schools tomorrow that look like they did 50 years ago. They're worried about what they're going to feed their kids for lunch. They're worried that if one of their kids gets sick, they're not going to be able to pay the bills.\"\nIn her endorsement, Stevens said she does \"not stand with Hasan Piker,\" a streamer that El-Sayed campaigned with during the primary. In August, after Piker implied that Jews' support for Israel puts them at risk of personal violence, El-Sayed sought to distance himself from the controversy, saying Piker did not speak for the campaign. He stopped short of disavowing Piker.\nStevens had been critical that El-Sayed was not doing enough to reassure Jewish and Black voters who supported her during the primary. Even though relations between the pair had been publicly disintegrating for weeks, Stevens' announcement was a surprise.\nTensions accelerated after Stevens' fiance, Jason Turkish, said he planned to vote for Rogers. In a subsequent TV appearance, Stevens maintained she was still planning to support the Democratic nominee. She urged El-Sayed to denounce a recent ad by Cenk Uygur, of Young Turks, that blamed Israel for high grocery prices in the United States.\n\"The ad tells Michigan families they cannot afford groceries because their money has to be set aside 'for killing Palestinians,' and it blames our close ally Israel for everything Michiganders cannot afford,\" she wrote.\nEl-Sayed's campaign had said he had nothing to do with the ad and criticized the contents of the ad on Saturday.\nStevens said she was originally scheduled to attend a different church event in Detroit on Sunday alongside El-Sayed and Rep. James Clyburn, D-S.C. The planned joint appearance was meant to be a unifying event for the party ahead of the election. But on Friday, Stevens set a condition for her participation in the event — that El-Sayed reject the ad and apologize for rhetoric she considered to be inflammatory and offensive.\nThe event with El-Sayed and Clyburn went ahead as planned, without Stevens.\nStevens' announcement has sent shockwaves through the Democratic Party.\nSenate Minority Leader Chuck Schumer, D-N.Y., called it a \"despicable betrayal.\"\n\"Haley Stevens' decision to campaign with Rogers — a man who has repeatedly sold out Michigan's working class, wants to pass a national abortion ban, and has pledged to be a loyal vote for Trump's agenda — shows that she has abandoned everything she cl"
+    },
+    {
+     "source": "Washington Post Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV2VIWjBwNWdIYU1xNlFMQU5TazlOcnNhLS0tcG5aRjVrTVE4azlZUm1YRVJKTzRTSEE1UUZhX2NhLUtnTlVGbjJLREFPS1BYVlJnQWszZklmNndnV2R5MU1LRmg2RVV4dWVsSUFpZGRHT3FSYjVWeS1fS3ZWMVdvaXdMOHdNV0FJeElqMnJfNHlyQ1FXMlRoQ2REQmpzY3BERmRVTjIwLTJhSFp1dVY1SWM1Mk9xTGVvdUNrak9BQWVWZw?oc=5",
+     "title": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "b97ef9c56f4250b4",
+     "published": "2026-11-01T20:00+00:00",
+     "text": "Democrat Haley Stevens endorses Michigan GOP Senate candidate Mike Rogers\nThe Washington Post"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
+     "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6ae79c48-1793563720.jpg?resize=1920%2C1440"
+     },
+     "id": "fff7337b60ac87f2",
+     "published": "2026-11-01T21:00+00:00",
+     "text": "A Democratic congresswoman has thrown her support behind a Republican in one of the most closely watched races in the US midterm elections, just two days before voters head to the polls.\nHaley Stevens, who lost Michigan’s Democratic Senate primary in August, announced on Sunday that she was endorsing Republican Mike Rogers over her own party’s nominee, Abdul El-Sayed.\nRecommended Stories\nlist of 4 items- list 1 of 4Where are the most expensive midterm races and who is funding them?\n- list 2 of 4Michigan race: All you need to know about Abdul El-Sayed vs Mike Rogers\n- list 3 of 4More than 50 million votes cast in US midterm elections: What does it mean?\n- list 4 of 4Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers\nThe decision follows weeks of tension between the two Democrats over Israel and has provoked a backlash within the party as it fights to win control of Congress and limit President Donald Trump’s power.\nHere’s what we know.\nWho is Haley Stevens?\nStevens is a Democratic congresswoman from Michigan who narrowly lost the party’s Senate primary to El-Sayed, a former public health official who could become the first Muslim elected to the US Senate.\nDespite a bitter primary battle, Stevens promised to support El-Sayed and said as recently as Wednesday that she still wanted him to win.\nThat was despite her fiance, Jason Turkish, a Jewish Democrat and civil rights attorney, announcing that he would vote for Rogers. Turkish accused El-Sayed of anti-Semitism, saying his rhetoric about Israel and the war in Gaza had made Jewish voters feel unsafe.\nBut on Sunday, Stevens changed her position.\nWhy did Stevens endorse Republican Mike Rogers?\nThe decision followed weeks of tension over Israel that became increasingly public in the final days of the campaign.\nStevens is a strong supporter of Israel, while El-Sayed has been an outspoken critic of Israel’s war in Gaza and US military aid to the country.\nTheir differences were also a major issue during the Democratic primary, when a super PAC affiliated with the American Israel Public Affairs Committee (AIPAC) spent tens of millions of dollars to back Stevens.\nBut the latest dispute began last week, when an independent group backing El-Sayed, Rebellion PAC, released an advertisement linking US military aid to Israel to Americans’ struggles with the cost of living.\nThe ad shows a couple shopping for groceries who decide to put back a carton of eggs because they need to save that money for “killing Palestinians”.\nStevens called the ad anti-Semitic and demanded that El-Sayed condemn it. She also accused him of making similar arguments by suggesting that money spent on Israel could instead go towards schools, healthcare and childcare.\nEl-Sayed said the ad was not produced by his campaign and that he disagreed with its message, adding that Stevens was trying to relitigate their primary rather than focusing on defeating Rogers.\nThe tensions came to a head on Sunday, when Stevens and El-Sayed were supposed to attend a church service together in a show of Democratic unity, but Stevens was uninvited.\n“Our Democratic nominee for Senate said I was no longer welcome in his campaign and that I should stay away,” she said in a video on X, announcing she was going to endorse Rogers.\n“And he’s right. And that’s why I am endorsing Mike Rogers for the United States Senate today.”\nBut Democratic Congresswoman Debbie Dingell, who helped organise the event, said she was the one who asked St"
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/americas/us-rep-haley-stevens-under-scrutiny-after-endorsing-republican-candidate-in-michigan-senate-race/4108245",
+     "title": "US Rep. Haley Stevens under scrutiny after endorsing Republican candidate in Michigan Senate race",
      "lang": "en",
      "extra": {},
-     "id": "bfc1decae28b4acd",
-     "published": "2026-11-01T17:15+00:00",
-     "text": "submitted by\n/u/siva-pc\nto\nr/soccer\n[link]\n[comments]"
+     "id": "ea9a443f10e7d63c",
+     "published": "2026-11-01T23:18+00:00",
+     "text": "Haley's staff resigns en masse as state party leadership disowns lawmaker ahead of midterm elections"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/2/el-sayed-dismisses-haley-stevens-for-backing-of-republican-rival?traffic_source=rss",
+     "title": "El-Sayed dismisses Stevens’ backing of Republican Senate candidate",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793587293.jpg?resize=1626%2C1080&quality=80"
+     },
+     "id": "50c5c01c3888991c",
+     "published": "2026-11-02T02:41+00:00",
+     "text": "El-Sayed calls out Haley Stevens for backing of Republican rival\nPublished On 2 Nov 2026\nEl-Sayed calls out Haley Stevens for backing of Republican rival"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/video/abdul-el-sayed-reacts-after-haley-stevens-angers-democrats-by-supporting-mike-rogers-in-michigan",
+     "title": "Abdul El-Sayed reacts after Haley Stevens angers Democrats by supporting Mike Rogers in Michigan",
+     "lang": "en",
+     "extra": {},
+     "id": "0fe05836ce03cd39",
+     "published": "2026-11-02T14:18+00:00",
+     "text": "Rep. Haley Stevens, who lost her primary Democratic run in the Michigan Senate race to Abdul El-Sayed, stunned her party by supporting Republican Mike Rogers' campaign ahead of the midterms. CBS News' Aaron Navarro reports."
     }
    ]
   },
@@ -6912,104 +7146,6 @@
      "id": "8506db869c4e339b",
      "published": "2026-11-02T08:56+00:00",
      "text": "20-year-old Italian wins title in only his second Formula One season after replacing seven-time champion Lewis Hamilton at Mercedes"
-    }
-   ]
-  },
-  {
-   "id": "cd20e7d6ce4",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Man Utd eye Barcelona's Balde - Monday's gossip",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC Sport Football",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&at_campaign=rss",
-     "title": "Man Utd eye Barcelona's Balde - Monday's gossip",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png"
-     },
-     "id": "d20e7d6ce4863716",
-     "published": "2026-11-01T23:00+00:00",
-     "text": "- Published\nAlejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool have shortlisted Murillo and Nico Schlotterbeck as Virgil van Dijk replacements, while Real Madrid are eyeing Bart Verbruggen.\nBarcelona left-back Alejandro Balde could leave the club in January, putting Manchester United on alert, who have shown interest in the 23-year-old Spain international. (Record, via Marca - in Portuguese), external\nIf Balde leaves Barcelona, it could free up space for the La Liga club to sign 28-year-old Argentina defender Lisandro Martinez from Manchester United. (Mirror), external\nLiverpool have identified Nottingham Forest's 24-year-old Brazil defender Murillo and Borussia Dortmund's 26-year-old Germany centre-back Nico Schlotterbeck as eventual replacements for 35-year-old Netherlands defender Virgil van Dijjk. (Caught Offside), external\nManchester United could opt to sell 32-year-old Portugal midfielder Bruno Fernandes rather than letting him leave on a free transfer when his contract expires next summer. (Mail - subscription required), external\nReal Madrid are eyeing Brighton's 24-year-old Netherlands goalkeeper Bart Verbruggen as a future replacement for 34-year-old Belgium stopper Thibaut Courtois. (Fichajes - in Spanish), external\nManchester United's 29-year-old England forward Marcus Rashford will explore a move away from the club if he does not get regular starts once he returns from injury. (Football Insider), external\nTottenham are still interested in Nottingham Forest's England midfielder Morgan Gibbs-White and could make a move for the 26-year-old in January. (Football Insider), external\nBarcelona and Real Madrid remain keen on Spain right-back Pedro Porro and are not put off by Tottenham's asking price of around £62m for the 27-year-old. (Sport - in Spanish), external\nMonaco's United States striker Folarin Balogun could leave the club in January with Manchester United among potential destinations for the 25-year-old. (Teamtalk), external\nArsenal face competition from AC Milan, Aston Villa and Roma to sign 20-year-old Brazil forward Endrick from Real Madrid. (Calcio Mercato - in Italian), external\nTottenham, Manchester City and Manchester United are among the clubs tracking Villarreal's 22-year-old United States defender Alex Freeman. (Football Insider), external"
-    },
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
-     "title": "Transfer Centre LIVE! 'Balde could leave Barcelona with Man Utd interested'",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-alejandro-balde-barcelona_7394671.jpg?20261102101749"
-     },
-     "id": "e649486adb4abda9",
-     "published": "2026-11-02T10:15+00:00",
-     "text": "Monday 2 November 2026 10:21, UK"
-    }
-   ]
-  },
-  {
-   "id": "cf0268d6958",
-   "kind": "news",
-   "score": 14.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Galaxy S27 Pro may give Samsung new way to push buyers upmarket",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Korea Herald",
-     "trust": 2,
-     "url": "https://koreaherald.com/article/10922703",
-     "title": "Galaxy S27 Pro may give Samsung new way to push buyers upmarket",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/02/news-p.v1.20261102.1effb18d94c540478459cfe60f40faa6_P1.jpg"
-     },
-     "id": "f0268d69580fff48",
-     "published": "2026-11-02T03:29+00:00",
-     "text": "Samsung Display is reportedly preparing to begin producing advanced organic light-emitting diode panels with built-in privacy technology for the upcoming Galaxy S27 Pro this month, as Samsung Electronics looks to expand its premium smartphone lineup and improve profitability amid rising component costs.\nAccording to a report last week by display industry researcher UBI Research, Samsung Display is expected to produce approximately 700,000 panels for the new model in November, ahead of the Galaxy S27 series' anticipated launch early next year.\nThe Pro is expected to join the standard, Plus and Ultra models, expanding Samsung's flagship lineup to four devices.\nBoth the Pro and Ultra will reportedly feature Samsung Display's latest M16 OLED materials and built-in privacy display technology, while the two lower-tier models will use older M14 materials without the privacy feature.\nIntroduced on the Galaxy S26 Ultra, the technology restricts screen visibility from side angles without requiring a separate privacy film. Users can activate it selectively for certain apps or notifications, making it harder for nearby people to read sensitive information.\nBringing the feature to the Pro would give buyers access to one of Samsung's most distinctive display technologies without purchasing the top-end Ultra.\nThe expansion comes as Samsung faces growing pressure to improve smartphone margins.\nIts Mobile eXperience and Networks divisions reported a combined operating loss of 600 billion won ($447 million) in the third quarter, as rising component costs continued to weigh on profitability.\nIn its latest earnings announcement, Samsung said improving its flagship product mix through differentiated experiences for different customer segments would be a priority in 2027.\nThe rumored Pro model could support that strategy by encouraging customers considering the standard or Plus versions to spend more.\nPricing speculation suggests a narrow gap between the two highest-end models. According to a report last month by US technology publication PhoneArena, citing revised projections from X-based tipster Schroedinger, the Galaxy S27 Pro could start at $1,399, just $100 below the Ultra at $1,499. The standard and Plus models are projected to start at $999 and $1,199, respectively.\nSamsung has already raised existing Galaxy S26 prices amid higher memory costs, with further increases anticipated for the S27 lineup.\nSamsung has not confirmed the S27 Pro's specifications, production schedule or pricing.\nmjh@heraldcorp.com"
-    },
-    {
-     "source": "SamMobile",
-     "trust": 2,
-     "url": "https://sammobile.com/news/galaxy-s27-pro-ultra-improved-privacy-display",
-     "title": "Exclusive: Samsung improves Privacy Display for Galaxy S27 Pro and S27 Ultra",
-     "lang": "en",
-     "extra": {},
-     "id": "c3ecc6bf46f2ca98",
-     "published": "2026-11-02T08:09+00:00",
-     "text": "The Galaxy S26 Ultra introduced the groundbreaking Privacy Display feature earlier this year, and since then, several other brands have implemented similar technology in their high-end phones. Now, Samsung is ready to improve upon it with the upcoming Galaxy S27 series.\nWe can exclusively confirm that the Galaxy S27 Pro and Galaxy S27 Ultra will not only feature Privacy Display, but they will also use an upgraded version of it. It would be the first time Samsung is expanding the feature to non-Ultra models.\nAdditionally, these phones will have enhanced display brightness, making their screens much easier to read in under direct sunlight.\nUnfortunately, the standard Galaxy S27 and Galaxy S27+ will lack this feature. It appears Samsung prefers to reserve Privacy Display for its most premium Galaxy S models.\nPrevious reports indicate that the Galaxy S27 Pro and Galaxy S27 Ultra will sport a 200MP primary rear camera, a 50MP ultrawide camera with autofocus, and a 16MP front-facing camera.\nThe Galaxy S27 Pro will likely include a 10MP or 12MP telephoto lens, while the Galaxy S27 Ultra is expected to feature a 50MP telephoto camera with 5x optical zoom."
-    },
-    {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Samsung-Galaxy-S27-Pro-and-S27-Ultra-said-to-get-significant-Privacy-Display-upgrade.1440102.0.html",
-     "title": "Samsung Galaxy S27 Pro and S27 Ultra said to get significant Privacy Display upgrade",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Galaxy-S27-Ultra66.jpg"
-     },
-     "id": "7112a5e2b97b5250",
-     "published": "2026-11-02T10:56+00:00",
-     "text": "The Privacy Display on the Samsung Galaxy S26 Ultra ($1,349 on Amazon) allows the display's viewing angles to be severely restricted, making it appear black from the side so that people nearby cannot see what is currently being shown on the screen. Cleverly, this feature does not necessarily have to be activated across the entire screen, but can also protect only sensitive data such as phone numbers, for example.\nHowever, the Privacy Display has a major drawback, as our in-depth review of the Galaxy S26 Ultra shows. Activating this feature not only narrows the viewing angles but also reduces the contrast ratio and brightness. For example, if the Privacy Display is activated when the display is set to a brightness of 1,000 nits, the brightness drops to just 636 nits. Since the maximum full-screen brightness that can be set manually is a modest 1,380 nits, this loss of brightness can become a real problem in bright daylight.\nAccording to the latest information from SamMobile, Samsung plans to improve the next-generation Privacy Display. The feature is expected to be supported by both the more compact Galaxy S27 Pro and the Galaxy S27 Ultra. In addition, the displays on both smartphones are expected to achieve significantly higher brightness with privacy protection enabled, which should greatly improve readability. Details on the brightness of these new displays are not yet available. According to SamMobile, the Galaxy S27 and Galaxy S27+ will not have a Privacy Display, contrary to what earlier rumors suggested."
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNanphSGc4MndDa29KbEZXRE5wVzFudlZaUFpYQkx5VTlwa2ZQREdzTlB1SGtHbjhQSzRjbzZpOHJ1R1FzTHh6SEdRY1VxQWxqalRJZXlaaGVhOVZMaHpHZEc1ZVA0LWVWb1FqanJxVFdDb3hTWE42Y2RzZEJveE1xcGUyVQ?oc=5",
-     "title": "Exclusive: Samsung improves Privacy Display for Galaxy S27 Pro and S27 Ultra",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "e385431f7fe2a88e",
-     "published": "2026-11-02T08:18+00:00",
-     "text": "- Exclusive: Samsung improves Privacy Display for Galaxy S27 Pro and S27 Ultra SamMobile\n- The best Galaxy S26 Ultra feature could get even better on both the Galaxy S27 Ultra and S27 Pro PhoneArena\n- Samsung’s Unexpected Strategy for the Galaxy S27 Ultra Geeky Gadgets\n- Why Samsung's Galaxy S27 Ultra Camera Redesign Is Turning Heads Nokiapoweruser\n- Galaxy S27 Pro: 700K Panels, $1,399 Rumored [2026] https://tech-insider.org/"
     }
    ]
   },
@@ -7301,8 +7437,8 @@
       "market": "crypto",
       "day": "2026-11-02"
      },
-     "published": "2026-11-02T14:22+00:00",
-     "text": "Bitcoin: $77,841 (-0.1% 24h)\nEthereum: $2,288 (+0.9% 24h)\nSolana: $93.99 (-1.1% 24h)\nToncoin: $1.19 (-2.6% 24h)"
+     "published": "2026-11-02T14:53+00:00",
+     "text": "Bitcoin: $77,665 (-0.4% 24h)\nEthereum: $2,284 (+0.6% 24h)\nSolana: $94.08 (-1.0% 24h)\nToncoin: $1.20 (-2.3% 24h)"
     }
    ]
   },
