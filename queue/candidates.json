@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T13:17:13+00:00",
+ "generated_at": "2026-11-03T13:47:59+00:00",
  "clusters": [
   {
    "id": "cb74619c98a",
@@ -555,142 +555,6 @@
    ]
   },
   {
-   "id": "c2990a5d2e3",
-   "kind": "news",
-   "score": 25.0,
-   "sensitive": true,
-   "distinct_sites": 9,
-   "title_hint": "Cyber attacks hit Russia, Ukraine after truce ends",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/news/2026/11/02/world/politics/cyber-attacks-russia-ukraine-truce",
-     "title": "Cyber attacks hit Russia, Ukraine after truce ends",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571765.jpg?v=3.1"
-     },
-     "id": "2990a5d2e3905bdc",
-     "published": "2026-11-02T02:34+00:00",
-     "text": "Kyiv, Ukraine – Russia said its emergency warnings app came under a “massive cyberattack” on Monday, hours after Ukraine reported a hack in an apparent exchange of blows between the foes, as their longest truce came to an end.\nMoscow’s emergencies ministry said hackers posted “false information” on the app, which is designed to warn the public of incoming drone attacks and other threats.\nHours earlier, Ukraine said it suspected its air raid alert system had been compromised, after baseless alerts of a radiation threat appeared on the app.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/5fe7803ec311",
-     "title": "Russia, Ukraine report cyberattacks on emergency alert apps as ceasefire ends",
-     "lang": "en",
-     "extra": {},
-     "id": "c7a01f65f9399853",
-     "published": "2026-11-02T02:34+00:00",
-     "text": "Both countries report attacks on their emergency warning systems, with Ukraine receiving false radiation alerts and Russia reporting misleading messages as rare humanitarian truce expires."
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf",
-     "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/68692531_6.jpg"
-     },
-     "id": "c89834c6abfbec0f",
-     "published": "2026-11-02T02:48+00:00",
-     "text": "What you need to know\n- Russia, Ukraine hit by cyberattacks after humanitarian truce ends in Russian-occupied Oleshky\n- Zelenskyy offers to stop hitting Russian refineries if the US delivers Patriot missiles\nHere are the latest developments from Russia's war in Ukraine on Monday, November 2.\nZelenskyy says Ukraine will stop refinery strikes if US sends Patriot missiles\nUkrainian President Volodymyr Zelensky said that his country would stop hitting Russian oil refineries if Washington provided Kyiv with powerful Patriot interceptor missiles.\nSpeaking to US broadcaster Fox News, Zelenskyy said he had had \"different and several\" conversations with Trump and his team on the issue.\n\"We asked that we can't not respond after Russia's attack on our energy, after Russia is killing our people, attacks on our electricity, gas, refineries, on everything,\" he said.\n\"We said that if you want us not to attack Russia's refineries, they have not to attack our energy system. Another alternative, give us Patriot missiles, we will find money, not just aid,\" Zelenskyy added.\nThe Ukrainian leader said if Washington provided the missile systems for one month Kyiv would cease attacks on Russian refineries for the same period.\nAsked if he was concerned that this would be seen as trying to \"leverage\" Trump, Zelenskyy said: \"I don't have any concerns when I share the truth between partners.\"\nUkrainian authorities have been warning for weeks that their supplies of the Patriot interceptor missiles were dwindling.\nUkraine, Russia report separate hacking attacks\nEmergency alert apps in both Ukraine and Russia have been hacked, officials said.\nUkraine's air force said an air raid alert app was hacked late on Sunday, with fake alerts being sent to smartphones, warning people of nuclear and chemical threats.\nSPRAVDI, Ukraine's Center for Strategic Communications, blamed Russia for the hack in a post on its X account.\nHours later, Moscow said the mobile app of the Russian Emergencies Ministry was hit by \"a massive cyberattack.\"\n\"Attention! The mobile application of the Ministry of Emergencies of Russia has been subjected to a massive cyberattack, enabling attackers to send false information to the public,\" the Emergencies Ministry posted on Telegram.\nIt said authorities were working to fix the issue.\nWelcome to our coverage\nHello and welcome to DW's coverage of the latest developments in Russia's war against Ukraine.\nAs a temporary ceasefire in Russian-occupied Ukrainian town Oleshky ended on Sunday night, Ukraine resumed attacks on Russian oil refineries.\nUkrainian President Volodymyr Zelenskyy said his country would stop targeting Russian refineries if Washington provided Kyiv with powerful Patriot interceptor missiles to defend against Russian missile and drone strikes.\nMeanwhile, Ukraine's air force said it suspected the country's aid raid alert system had been hacked.\nRussia's Emergencies Ministry, for its part, said that a \"massive cyberattack\" hit its application that is designed to warn people of incoming drone attacks and other threats.\nStay tuned for the latest news and analysis from the ongoing war."
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/russia-ukraine-war/russia-ukraine-report-cyberattacks-on-emergency-alert-apps/4108270",
-     "title": "Russia, Ukraine report cyberattacks on emergency alert apps",
-     "lang": "en",
-     "extra": {},
-     "id": "9dc9fdae313f3e0e",
-     "published": "2026-11-02T04:17+00:00",
-     "text": "Ukrainian Air Force says Air Alert app likely subjected to 'hostile interference' while Russia reports 'massive cyberattack' on emergency app"
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
-     "title": "Live: Russia and Ukraine trade blame for cyber attacks as fragile ceasefire ends",
-     "lang": "en",
-     "extra": {},
-     "id": "b73259a70af43bf7",
-     "published": "2026-11-02T06:19+00:00",
-     "text": "Russia and Ukraine on Monday traded accusations over cyberattacks, with Moscow reporting a hack of its emergency alerts app hours after Kyiv said its own air raid warning system had been compromised. The incidents came as a fragile ceasefire in Ukraine's Kherson region expired, raising fears of renewed fighting. Follow our liveblog for all the latest updates."
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/02/ukraine-and-russia-say-air-raid-alert-apps-hit-by-cyberattacks-after-truce-ends",
-     "title": "Ukraine and Russia say air raid alert apps hit by cyberattacks after truce ends",
-     "lang": "en",
-     "extra": {},
-     "id": "153cd086d5ec10ee",
-     "published": "2026-11-02T06:25+00:00",
-     "text": "The cyberattacks came as the longest truce of the war, limited to Ukraine's eastern Kherson region, ended on Sunday after Russia refused the offer of an extension, according to Kyiv."
-    },
-    {
-     "source": "Bloomberg Tech",
-     "trust": 2,
-     "url": "https://bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps",
-     "title": "Ukraine and Russia Report Cyberattacks on Emergency Alert Apps",
-     "lang": "en",
-     "extra": {},
-     "id": "d285901324724ede",
-     "published": "2026-11-02T08:21+00:00",
-     "text": "Ukraine and Russia said they faced cyberattacks on emergency and air raid alert systems."
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5336580",
-     "title": "Russia Resumes Attacks on Ukraine's Kherson Region after Local Truce Ends",
-     "lang": "en",
-     "extra": {},
-     "id": "ed71352c2ad7e4a5",
-     "published": "2026-11-02T10:02+00:00",
-     "text": ""
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejRWaWkySkRRbHAwRE13YjBWVTJrVVplVEFuV1hUREhLcW1LOXhqSVdyTm1pdGdINjhkSGdJd0YyTlBNbXE0YU1PeDd6OGxkVG9kOVFSODVmS09RTm91U19LN1lySzdoTUdUd1AzY2EwVnVQaGhXamdGYUtlWWg0RDUtc2htSlJGWkZmVWFWRnB2RUtEWGg2OHJpalpFazIwNnVsVF83UXJRVXBhcE5n?oc=5",
-     "title": "Russia Resumes Attacks on Ukraine's Kherson Region after Local Truce Ends",
-     "lang": "en",
-     "extra": {},
-     "id": "49928398fdcc5649",
-     "published": "2026-11-02T10:02+00:00",
-     "text": "Russia Resumes Attacks on Ukraine's Kherson Region after Local Truce Ends\nASHARQ AL-AWSAT English"
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/02/russia-resumes-attacks-on-ukraines-kherson-region-after-truce-ends-kyiv-says",
-     "title": "Russia resumes attacks on Ukraine's Kherson region after truce ends, Kyiv says",
-     "lang": "en",
-     "extra": {},
-     "id": "e636545c279fae1b",
-     "published": "2026-11-02T10:14+00:00",
-     "text": "The ceasefire enabled a humanitarian mission to the Russian-occupied city of Oleshky and for hundreds of stranded citizens to leave."
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/russia-ukraine-war/russia-ukraine-report-cyberattacks-on-emergency-warnings-apps-after-oleshky-truce/4109445",
-     "title": "Russia, Ukraine report cyberattacks on emergency warnings apps after Oleshky truce",
-     "lang": "en",
-     "extra": {},
-     "id": "65384184e41bbdd1",
-     "published": "2026-11-03T07:51+00:00",
-     "text": "6-day local ceasefire brokered by US first lady Melania Trump ended on Sunday"
-    }
-   ]
-  },
-  {
    "id": "c2ae9110b4f",
    "kind": "news",
    "score": 25.0,
@@ -884,6 +748,131 @@
      "id": "bfa52c388605e641",
      "published": "2026-11-03T05:44+00:00",
      "text": "Apple Inc. has posted stronger-than-expected revenue in the fiscal fourth quarter, giving new CEO John Ternus a positive start to his tenure that began in September"
+    }
+   ]
+  },
+  {
+   "id": "c2990a5d2e3",
+   "kind": "news",
+   "score": 23.0,
+   "sensitive": true,
+   "distinct_sites": 9,
+   "title_hint": "Cyber attacks hit Russia, Ukraine after truce ends",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Japan Times",
+     "trust": 2,
+     "url": "https://japantimes.co.jp/news/2026/11/02/world/politics/cyber-attacks-russia-ukraine-truce",
+     "title": "Cyber attacks hit Russia, Ukraine after truce ends",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/02/571765.jpg?v=3.1"
+     },
+     "id": "2990a5d2e3905bdc",
+     "published": "2026-11-02T02:34+00:00",
+     "text": "Kyiv, Ukraine – Russia said its emergency warnings app came under a “massive cyberattack” on Monday, hours after Ukraine reported a hack in an apparent exchange of blows between the foes, as their longest truce came to an end.\nMoscow’s emergencies ministry said hackers posted “false information” on the app, which is designed to warn the public of incoming drone attacks and other threats.\nHours earlier, Ukraine said it suspected its air raid alert system had been compromised, after baseless alerts of a radiation threat appeared on the app.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/5fe7803ec311",
+     "title": "Russia, Ukraine report cyberattacks on emergency alert apps as ceasefire ends",
+     "lang": "en",
+     "extra": {},
+     "id": "c7a01f65f9399853",
+     "published": "2026-11-02T02:34+00:00",
+     "text": "Both countries report attacks on their emergency warning systems, with Ukraine receiving false radiation alerts and Russia reporting misleading messages as rare humanitarian truce expires."
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-rdf",
+     "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/68692531_6.jpg"
+     },
+     "id": "c89834c6abfbec0f",
+     "published": "2026-11-02T02:48+00:00",
+     "text": "What you need to know\n- Russia, Ukraine hit by cyberattacks after humanitarian truce ends in Russian-occupied Oleshky\n- Zelenskyy offers to stop hitting Russian refineries if the US delivers Patriot missiles\nHere are the latest developments from Russia's war in Ukraine on Monday, November 2.\nZelenskyy says Ukraine will stop refinery strikes if US sends Patriot missiles\nUkrainian President Volodymyr Zelensky said that his country would stop hitting Russian oil refineries if Washington provided Kyiv with powerful Patriot interceptor missiles.\nSpeaking to US broadcaster Fox News, Zelenskyy said he had had \"different and several\" conversations with Trump and his team on the issue.\n\"We asked that we can't not respond after Russia's attack on our energy, after Russia is killing our people, attacks on our electricity, gas, refineries, on everything,\" he said.\n\"We said that if you want us not to attack Russia's refineries, they have not to attack our energy system. Another alternative, give us Patriot missiles, we will find money, not just aid,\" Zelenskyy added.\nThe Ukrainian leader said if Washington provided the missile systems for one month Kyiv would cease attacks on Russian refineries for the same period.\nAsked if he was concerned that this would be seen as trying to \"leverage\" Trump, Zelenskyy said: \"I don't have any concerns when I share the truth between partners.\"\nUkrainian authorities have been warning for weeks that their supplies of the Patriot interceptor missiles were dwindling.\nUkraine, Russia report separate hacking attacks\nEmergency alert apps in both Ukraine and Russia have been hacked, officials said.\nUkraine's air force said an air raid alert app was hacked late on Sunday, with fake alerts being sent to smartphones, warning people of nuclear and chemical threats.\nSPRAVDI, Ukraine's Center for Strategic Communications, blamed Russia for the hack in a post on its X account.\nHours later, Moscow said the mobile app of the Russian Emergencies Ministry was hit by \"a massive cyberattack.\"\n\"Attention! The mobile application of the Ministry of Emergencies of Russia has been subjected to a massive cyberattack, enabling attackers to send false information to the public,\" the Emergencies Ministry posted on Telegram.\nIt said authorities were working to fix the issue.\nWelcome to our coverage\nHello and welcome to DW's coverage of the latest developments in Russia's war against Ukraine.\nAs a temporary ceasefire in Russian-occupied Ukrainian town Oleshky ended on Sunday night, Ukraine resumed attacks on Russian oil refineries.\nUkrainian President Volodymyr Zelenskyy said his country would stop targeting Russian refineries if Washington provided Kyiv with powerful Patriot interceptor missiles to defend against Russian missile and drone strikes.\nMeanwhile, Ukraine's air force said it suspected the country's aid raid alert system had been hacked.\nRussia's Emergencies Ministry, for its part, said that a \"massive cyberattack\" hit its application that is designed to warn people of incoming drone attacks and other threats.\nStay tuned for the latest news and analysis from the ongoing war."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/russia-ukraine-war/russia-ukraine-report-cyberattacks-on-emergency-alert-apps/4108270",
+     "title": "Russia, Ukraine report cyberattacks on emergency alert apps",
+     "lang": "en",
+     "extra": {},
+     "id": "9dc9fdae313f3e0e",
+     "published": "2026-11-02T04:17+00:00",
+     "text": "Ukrainian Air Force says Air Alert app likely subjected to 'hostile interference' while Russia reports 'massive cyberattack' on emergency app"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/europe/20261102-live-russia-and-ukraine-trade-blame-cyber-attacks-fragile-ceasefire-ends",
+     "title": "Live: Russia and Ukraine trade blame for cyber attacks as fragile ceasefire ends",
+     "lang": "en",
+     "extra": {},
+     "id": "b73259a70af43bf7",
+     "published": "2026-11-02T06:19+00:00",
+     "text": "Russia and Ukraine on Monday traded accusations over cyberattacks, with Moscow reporting a hack of its emergency alerts app hours after Kyiv said its own air raid warning system had been compromised. The incidents came as a fragile ceasefire in Ukraine's Kherson region expired, raising fears of renewed fighting. Follow our liveblog for all the latest updates."
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/02/ukraine-and-russia-say-air-raid-alert-apps-hit-by-cyberattacks-after-truce-ends",
+     "title": "Ukraine and Russia say air raid alert apps hit by cyberattacks after truce ends",
+     "lang": "en",
+     "extra": {},
+     "id": "153cd086d5ec10ee",
+     "published": "2026-11-02T06:25+00:00",
+     "text": "The cyberattacks came as the longest truce of the war, limited to Ukraine's eastern Kherson region, ended on Sunday after Russia refused the offer of an extension, according to Kyiv."
+    },
+    {
+     "source": "Bloomberg Tech",
+     "trust": 2,
+     "url": "https://bloomberg.com/news/articles/2026-11-02/ukraine-and-russia-report-cyberattacks-on-emergency-alert-apps",
+     "title": "Ukraine and Russia Report Cyberattacks on Emergency Alert Apps",
+     "lang": "en",
+     "extra": {},
+     "id": "d285901324724ede",
+     "published": "2026-11-02T08:21+00:00",
+     "text": "Ukraine and Russia said they faced cyberattacks on emergency and air raid alert systems."
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336580",
+     "title": "Russia Resumes Attacks on Ukraine's Kherson Region after Local Truce Ends",
+     "lang": "en",
+     "extra": {},
+     "id": "ed71352c2ad7e4a5",
+     "published": "2026-11-02T10:02+00:00",
+     "text": ""
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNejRWaWkySkRRbHAwRE13YjBWVTJrVVplVEFuV1hUREhLcW1LOXhqSVdyTm1pdGdINjhkSGdJd0YyTlBNbXE0YU1PeDd6OGxkVG9kOVFSODVmS09RTm91U19LN1lySzdoTUdUd1AzY2EwVnVQaGhXamdGYUtlWWg0RDUtc2htSlJGWkZmVWFWRnB2RUtEWGg2OHJpalpFazIwNnVsVF83UXJRVXBhcE5n?oc=5",
+     "title": "Russia Resumes Attacks on Ukraine's Kherson Region after Local Truce Ends",
+     "lang": "en",
+     "extra": {},
+     "id": "49928398fdcc5649",
+     "published": "2026-11-02T10:02+00:00",
+     "text": "Russia Resumes Attacks on Ukraine's Kherson Region after Local Truce Ends\nASHARQ AL-AWSAT English"
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/02/russia-resumes-attacks-on-ukraines-kherson-region-after-truce-ends-kyiv-says",
+     "title": "Russia resumes attacks on Ukraine's Kherson region after truce ends, Kyiv says",
+     "lang": "en",
+     "extra": {},
+     "id": "e636545c279fae1b",
+     "published": "2026-11-02T10:14+00:00",
+     "text": "The ceasefire enabled a humanitarian mission to the Russian-occupied city of Oleshky and for hundreds of stranded citizens to leave."
     }
    ]
   },
@@ -1111,17 +1100,50 @@
      "text": "Drivers across the Formula 1 grid gave their reactions to Kimi Antonelli becoming the youngest ever World Champion."
     },
     {
-     "source": "Sky Sports Football",
+     "source": "Khaleej Times",
      "trust": 2,
-     "url": "https://skysports.com/watch/video/13606901/kimi-antonellis-best-moments-of-the-season",
-     "title": "F1's youngest world champion! -  Antonelli's BEST moments of the season",
+     "url": "https://khaleejtimes.com/sports/f1/kimi-antonelli-youngest-f1-champion-20-years-old-mexico-city-grand-prix-formula-one",
+     "title": "Antonelli makes history as youngest F1 champion at 20 years old",
+     "lang": "en",
+     "extra": {},
+     "id": "d56420de59312dd9",
+     "published": "2026-11-02T03:43+00:00",
+     "text": "UPDATE 4-Motor racing-Antonelli makes history as youngest F1 champion at 20 years old"
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf",
+     "title": "Kimi Antonelli makes history as youngest F1 champion",
      "lang": "en",
      "extra": {
-      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-antonelli-kimi_7394434.jpg?20261102003522"
+      "page_image": "https://static.dw.com/image/79825175_6.jpg"
      },
-     "id": "7e41dcd95e39380e",
-     "published": "2026-11-02T06:00+00:00",
-     "text": "Kimi Antonelli's BEST moments of the season\nMonday 2 November 2026 08:43, UK\nPlease use Chrome browser for a more accessible video player\nMonday 2 November 2026 08:43, UK"
+     "id": "1d9d9afd19abf67a",
+     "published": "2026-11-02T05:01+00:00",
+     "text": "Kimi Antonelli became Formula One's youngest world champion at 20 years and 68 days old on Sunday when he finished third in the Mexico City Grand Prix behind race winner Max Verstappen and Lewis Hamilton.\nThe previous recordholder was Germany's Sebastian Vettel, who first became a world champion at age 23 in 2010.\nAntonelli is also the first Italian champion since 1953.\n\"I'm speechless. I’m trying to process what has just happened,\" said Antonelli after finishing the race.\nHis parents and sister were there to embrace him when he stepped out of the car.\nHe was then mobbed by his pit crew.\n'An incredible season'\n\"It's been an incredible season, and to share this podium with Max and Lewis is truly incredible. And looking forward to some more battles in the future,\" the 20-year-old said.\nAntonelli, who secured the title with four races remaining, said the final lap was complicated by the excitement of what he had achieved.\n\"I think I lost two seconds because I could not see ahead, I think I saw two Ferraris,\" he said. \"It was very special, a lot of memories went through my mind at that moment, and I let it all out after achieving one of my biggest dreams.\"\nAntonelli has now risen to 380 points with four races remaining. Verstappen (261) snuck past Hamilton (259) in the standings, but they will be racing for second the rest of the way.\nAntonelli started the race in fourth and needed to finish ninth or better to secure the championship on Sunday no matter what his peers did.\nHe had a relatively smooth run, though the race was interrupted by a red flag around Lap 45 when Valtteri Bottas crashed.\nVerstappen, meanwhile, claimed his sixth victory at the Mexico City Grand Prix, further cementing his affinity with the circuit.\nAfter Mexico, F1 will head to Brazil and then to Las Vegas.\nThe final two Grands Prix are scheduled to be held in Qatar and Abu Dhabi. But it remains uncertain whether they will take place, given the geopolitical instability in the region."
+    },
+    {
+     "source": "ANSA EN",
+     "trust": 2,
+     "url": "https://ansa.it/english/news/2026/11/02/antonelli-becomes-f1s-youngest-ever-champ-italys-first-in-73-years_5a24c986-13c4-477b-bc99-40a88e77838b.html",
+     "title": "Antonelli becomes F1's youngest-ever champ, Italy's first in 73 years",
+     "lang": "en",
+     "extra": {},
+     "id": "ba8b5f64d54611e1",
+     "published": "2026-11-02T05:55+00:00",
+     "text": "(ANSA) - ROME, 02 NOV - Kimi Antonelli has become the youngest-ever Formula 1 world champion and Italy's first since Alberto Ascari in 1953 after wrapping up the title with four grands prix to spare with his third-place finish in Mexico on Sunday.\n\"We did it,\" the tearful 20-year-old said after coming home behind two of the sport's all-time greats, Max Verstappen and Lewis Hamilton, to seal the championship with a podium finish.\n\"I am so grateful for this moment,\" added the Bologna native, who is only in his second season in Formula 1.\n\"I'm speechless, just trying to process what has happened.\n\"It's been an incredible season and to share the podium with Max and Lewis is truly incredible.\n\"I felt more tense this weekend, but I am so happy we got it done.\n\"Thank you so much, Mexico.\" Premier Giorgia Meloni was among the first to pay tribute.\n\"Kimi Antonelli is a world champion!\" Meloni said via social media \"At just 20 years of age, he has reached an extraordinary milestone, becoming the youngest world champion in the history of Formula 1.\n\"This success puts an Italian driver back at the pinnacle of the sport, rewarding his talent, hard work, determination, and dedication.\n\"It is a source of great pride for our nation\".\nItalian tennis sensation Jannik Sinner published a video congratulating Antonelli, saying \"What have you done?\".\nNine-time motorcycling world champion Valentino Rossi predicted that this is just the beginning for Antonelli.\n\"It was incredibly moving; he's truly great, and it was wonderful to follow his journey,\" Rossi told Sky Sport.\n\"It's one of those moments where you remember exactly where you were when it happened.\n\"He was formidable—he stood head and shoulders above everyone else; the gap he opened up over his teammate was impressive.\nMercedes had the best car, but they didn't dominate... A huge part of this championship win is down to him.\n\"I first heard about him partly because of the name 'Kimi'—which brings Kimi Räikkönen to mind—and I started following him back when he was in karts.\n\"He has the potential to become one of the greatest drivers in history.\n\"I enjoy the comparison to myself, and I'm rooting for him\".\n(ANSA).\nRead article..."
+    },
+    {
+     "source": "ANSA EN",
+     "trust": 2,
+     "url": "https://ansa.it/english/news/sports/2026/11/02/antonelli-becomes-f1s-youngest-ever-champ-italys-first-in-73-years_1a3b7007-21f6-45a7-ac7c-deb14d40ad96.html",
+     "title": "Antonelli becomes F1's youngest-ever champ, Italy's first in 73 years",
+     "lang": "en",
+     "extra": {},
+     "id": "6418e2bd6d0cfe5e",
+     "published": "2026-11-02T05:57+00:00",
+     "text": "(ANSA) - ROME, 02 NOV - Kimi Antonelli has become the youngest-ever Formula 1 world champion and Italy's first since Alberto Ascari in 1953 after wrapping up the title with four grands prix to spare with his third-place finish in Mexico on Sunday.\n\"We did it,\" the tearful 20-year-old said after coming home behind two of the sport's all-time greats, Max Verstappen and Lewis Hamilton, to seal the championship with a podium finish.\n\"I am so grateful for this moment,\" added the Bologna native, who is only in his second season in Formula 1.\n\"I'm speechless, just trying to process what has happened.\n\"It's been an incredible season and to share the podium with Max and Lewis is truly incredible.\n\"I felt more tense this weekend, but I am so happy we got it done.\n\"Thank you so much, Mexico.\" Premier Giorgia Meloni was among the first to pay tribute.\n\"Kimi Antonelli is a world champion!\" Meloni said via social media \"At just 20 years of age, he has reached an extraordinary milestone, becoming the youngest world champion in the history of Formula 1.\n\"This success puts an Italian driver back at the pinnacle of the sport, rewarding his talent, hard work, determination, and dedication.\n\"It is a source of great pride for our nation\".\nItalian tennis sensation Jannik Sinner published a video congratulating Antonelli, saying \"What have you done?\".\nNine-time motorcycling world champion Valentino Rossi predicted that this is just the beginning for Antonelli.\n\"It was incredibly moving; he's truly great, and it was wonderful to follow his journey,\" Rossi told Sky Sport.\n\"It's one of those moments where you remember exactly where you were when it happened.\n\"He was formidable—he stood head and shoulders above everyone else; the gap he opened up over his teammate was impressive.\nMercedes had the best car, but they didn't dominate... A huge part of this championship win is down to him.\n\"I first heard about him partly because of the name 'Kimi'—which brings Kimi Räikkönen to mind—and I started following him back when he was in karts.\n\"He has the potential to become one of the greatest drivers in history.\n\"I enjoy the comparison to myself, and I'm rooting for him\".\n(ANSA).\nRead article..."
     },
     {
      "source": "The Independent",
@@ -1144,28 +1166,6 @@
      "id": "6142f795d5eb59a5",
      "published": "2026-11-02T07:59+00:00",
      "text": "As Antonelli, 20, becomes the youngest champion in the 76-year history of Formula 1 – and Italy’s first winner since Alberto Ascari in 1963 – Kieran Jackson reveals just how Italy’s team, Ferrari, contrived to miss out on one of their own to Mercedes"
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/sports/profile-kimi-antonelli-formula-1-s-youngest-world-champion/4108497",
-     "title": "PROFILE – Kimi Antonelli: Formula 1’s youngest world champion",
-     "lang": "en",
-     "extra": {},
-     "id": "8506db869c4e339b",
-     "published": "2026-11-02T08:56+00:00",
-     "text": "20-year-old Italian wins title in only his second Formula One season after replacing seven-time champion Lewis Hamilton at Mercedes"
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/sport/motorsport/five-key-moments-that-defined-kimi-antonellis-f1-season-1.500732651",
-     "title": "Five key moments that defined Kimi Antonelli’s F1 season",
-     "lang": "en",
-     "extra": {},
-     "id": "6a5b764c15313749",
-     "published": "2026-11-02T10:34+00:00",
-     "text": ""
     },
     {
      "source": "Google News Sports EN",
@@ -1934,6 +1934,100 @@
    ]
   },
   {
+   "id": "c1257b1f869",
+   "kind": "news",
+   "score": 21.0,
+   "sensitive": true,
+   "distinct_sites": 7,
+   "title_hint": "SCOTUS rejects Trump's bid over disputed California ballots",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/11/02/supreme-court-california-voter-rolls-doj",
+     "title": "SCOTUS rejects Trump's bid over disputed California ballots",
+     "lang": "en",
+     "extra": {},
+     "id": "1257b1f869133df4",
+     "published": "2026-11-02T23:09+00:00",
+     "text": "The Supreme Court denied the Trump administration's request Monday to hear its case regarding more than 20,000 California ballots that President Trump claims were cast by noncitizens.\nWhy it matters: It's a blow to the administration, which has been tussling with the state in what it says is a fight to ensure all eligible voters can vote and have their ballots counted, as the law requires.\nWhat they're saying: \"The application for injunction pending appeal presented to Justice Kagan and by her referred to the Court is denied,\" an unsigned order from the court read.\nCatch up quick: The Trump administration sued California in mid-October, arguing that it had identified more than 20,000 noncitizens on the state's voter rolls.\nZoom out: The court has often sided with Trump, but has notably broken with him on cases involving voting access.\nThe White House and the Department of Justice did not respond to Axios' request for comment.\nGo deeper: Trump administration turns to SCOTUS in California ballot case"
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/11/supreme-court-trump-california-voting-1237211767",
+     "title": "Trump Loses At SCOTUS As High Court Rejects California Noncitizens Voting Request On Midterms Eve",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2022/11/trump.jpg?w=1000"
+     },
+     "id": "6f5d9e0c4d729f54",
+     "published": "2026-11-02T23:15+00:00",
+     "text": "Donald Trump‘s 11th hour Hail Mary attempt to muddy the midterm waters in blue California has failed.\nThe Supreme Court just rejected the Justice Department’s request for an emergency intervention in the administration’s move to have 20,000 Golden State mail-in ballots cast aside for the time being. Even thought the list contained names that aren’t even registered and people who seem not to live in California the Trump team insisted there were noncitizens galore trying to scam the system.\nLower courts didn’t buy it, and neither did the High Court.\nIn an unsigned order, SCOTUS said: “The application for injunction pending appeal presented to\nJustice Kagan and by her referred to the Court is denied.”\nWatch on Deadline\nThe decision is a big loss for MAGA and big win for Democrats and CA Gov. Gavin Newsom, who have fought the DOJ over reach through the courts for weeks. Today Newsom posted on the legal battle promising “If you interfere with our elections, California will come for you.”\nPutting down a states’ rights line, the outgoing governor and potential 2028 contender added: “No presidential pardon will save you.”\nMORE"
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf",
+     "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79833931_6.jpg"
+     },
+     "id": "b3bb831835f50cd1",
+     "published": "2026-11-02T23:18+00:00",
+     "text": "On the eve of the US midterm elections, the administration of President Donald Trump made a last ditch attempt to sideline over 20,000 mail-in ballots in California, claiming non-US citizens are attempting to vote.\nThe US Justice Department (DoJ), which is run by Trump's former personal attorney Todd Blanche, has claimed to have a list documenting non-US citizens on California's voter rolls.\nIn mid October, the federal government first filed a lawsuit based on the allegations, which was rejected by a California district court.\nOn Monday, the DoJ asked for a \"limited injunction\" directing the state of California to \"stop commingling suspected illegal ballots with legal ones\" pending the verification of voters' status.\nHowever, hours after the appeal was filed, the Supreme Court said it would decline to stop California from counting the votes.\nWhen the initial lawsuit was filed by the Trump administration earlier in October, Los Angeles District Judge David Carter had warned that singling out ballots would \"wreak havoc\" on the election process and harm voters' trust in the democratic process.\n\"If the executive can discount votes and threaten an ongoing election due to unproven allegations, then our democracy is in danger,\" Carter wrote in rejecting the initial suit.\nEarly voting has been underway in California for several weeks, with hundreds of thousands of ballots already processed.\nAnalysis shows thousands of eligible voters on ballot blacklist\nThe voter list had been compiled by the US Department of Homeland Security. In its response to the federal government's lawsuit, California defended its election integrity, and said the process used by the Trump administration to identify non-citizen voters was likely flawed and full of errors.\nLast week, another federal judge ordered the DoJ to share its list with an immigrant rights group, and a voting rights watchdog based out of the University of California Los Angeles (UCLA).\nA legal filing of the analysis found that thousands of US citizens on the list appear to be inexplicably flagged as ineligible to vote. US District Judge Carter said people recently flagged as noncitizens on voter rolls in other states have repeatedly turned out to be naturalised US citizens.\nTrump's fixation on voter fraud\nTrump has made unfounded claims of election fraud for years, despite multiple investigations finding such malfeasance is exceedingly rare.\nFor the current midterm election cycle, Trump has zeroed in on claiming non US citizens are trying to vote, despite these claims being repeatedly debunked by research and investigation.\n\"Never before in American history has the federal government, on the eve of an election, sought to coerce a state and local government to abandon their own constitutional elections procedures and bend to the will of the executive branch,\" US District Judge Carter wrote in October.\nThe most populous US state, California, leans heavily Democratic, and is not expected to be a competitive state for Trump's Republicans in the midterms.\nCalifornia governor Gavin Newsom is an outspoken critic of Trump, and has warned the president's administration against trying to interfere in the state's voting process.\nAhead of the midterm voting on Tuesday, Newsom announced the deployment of election law experts, poll observers and a help line for voters to report any attempts of intimidation or interference at the polls."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/americas/us-supreme-court-rejects-bid-by-trump-administration-to-set-aside-20-000-california-ballots/4109249",
+     "title": "US Supreme Court rejects bid by Trump administration to set aside 20,000 California ballots",
+     "lang": "en",
+     "extra": {},
+     "id": "dbe813ccd7a79c7f",
+     "published": "2026-11-02T23:27+00:00",
+     "text": "Decision comes one day before midterm elections"
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/video/supreme-court-rejects-trump-request-for-california-to-set-aside-20000-ballots",
+     "title": "Supreme Court rejects Trump request for California to set aside ballots from alleged noncitizens",
+     "lang": "en",
+     "extra": {},
+     "id": "843b3044e1f10463",
+     "published": "2026-11-03T01:00+00:00",
+     "text": "The Supreme Court on Monday rejected President Trump's effort to set aside California ballots from 20,000 alleged noncitizens. CBS News' Jessica Levinson has more."
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+     "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg"
+     },
+     "id": "b65e7185a1841b52",
+     "published": "2026-11-03T03:32+00:00",
+     "text": "- Published\nThe US Supreme Court has rejected a last-minute request by the Trump administration asking it to intervene in California's midterm election vote count.\nThe justice department wanted 20,000 ballots to be set aside that it alleged may have been issued to non-US citizens in the state.\nTwo lower courts had already rejected the request. State election officials had questioned the federal government's claims - saying the process used to identify alleged non-citizens was inaccurate.\nThe Monday ruling comes on the eve of the midterms, which will determine which political party controls the US Congress for the last two years of President Donald Trump's second term.\nThe Supreme Court announced its decision in a one-line order, saying it was denying the justice department's request for an injunction.\n\"The application for injunction pending appeal presented to Justice Kagan and by her referred to the Court is denied,\" it reads.\nIts means rulings made in lower courts will stand and essentially ends the Trump administration's bid to disqualify the ballots.\nCalifornia is the most populous state in America with some 23 million people on its voting register. As of Sunday night, more than six million mail-in ballots had already been received, according to the California secretary of state's office.\nThe justice department sent letters to the California secretary of state and Los Angeles County Registrar last month, demanding they set aside the ballots of 20,000 registered voters whom the Trump administration \"believe\" are \"likely\" non-citizens, according to court documents.\nAbout a week later, armed officials from the Department of Homeland Security delivered letters to county officials and employees across California threatening criminal charges if they didn't sequester those ballots.\nIn a 22-page brief reviewed by the BBC, the justice department maintained that ballots cast by non-citizens could \"debase or dilute valid votes\".\nOn Friday, a federal appeals court declined the government's request to segregate the ballots.\nCalifornia election officials have questioned the accuracy of the government's claims, and have said the list of names the government has provided is riddled with inaccuracies.\nThey have expressed concern that eligible voters could be disenfranchised and said segregating ballots whilst voting is underway is unfeasible.\nThe attempts are a part of a years-long campaign by Trump and his administration to fight alleged voter fraud that they believe is widespread, despite research showing that it is extremely rare.\nPresident Trump has repeatedly claimed that Democrats steal elections by allowing immigrants to vote illegally, and he blames much of it on the so-called \"mail-in\" or postal voting that is permitted in many Democratic states.\nLast week in a scathing ruling, district judge David Carter said the government's move in California was indicative of an \"ongoing pattern of attempted election interference\" on the part of the Trump administration.\nThe judge added that \"never before in American history has the federal government, on the eve of an election, sought to coerce a state and local government to abandon their own constitutional elections procedures and bend to the will of the executive branch\".\nWith additional reporting by the BBC's David Willis"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/video/20261103-us-supreme-court-rejects-trump-request-to-set-aside-20-000-california-ballots",
+     "title": "US Supreme court rejects Trump request to set aside 20,000 California ballots",
+     "lang": "en",
+     "extra": {},
+     "id": "85ade14e84d5e5c9",
+     "published": "2026-11-03T13:27+00:00",
+     "text": "The US Supreme Court rejected on Monday, November 3, the Trump administration’s push to force California to set aside 20,000 ballots from people the federal government claims are noncitizens, a decision that came hours before the final day of voting in the pivotal midterm elections. FRANCE 24's correspondent Wassim Cornet reports."
+    }
+   ]
+  },
+  {
    "id": "c567404496e",
    "kind": "news",
    "score": 20.0,
@@ -2278,6 +2372,78 @@
      "id": "43a83e691ab72c58",
      "published": "2026-11-02T18:27+00:00",
      "text": "U.S. President Donald Trump's Justice Department has shown a willingness to intervene directly in Tuesday's midterm elections, raising fears its law enforcement powers are being used in a partisan manner. The Trump administration asked the Supreme Court on Monday to temporarily block California from counting mail-in ballots from 20,000 voters it believes are non-citizens."
+    }
+   ]
+  },
+  {
+   "id": "ca6cf1c47ab",
+   "kind": "news",
+   "score": 20.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Gizmodo",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0JTVC1ReldPRTRVVUhuX01KdXdUWG9MSW14SHhTQzBGUDgxSFU0QTF2NUk1YTNRWnI0di1hUWx4Tm9KWE85U3RJVFNqdzcyY3E0dmx2U0ppbGtYQkYyQnE3LUpOTWNkRDdhajBpRDczbGdKdlg4N245X1lxbHh3LVNJQ0l3R3ZrX05WaGptY3ZidjZvS2dmZUJGRDhyNHFXeUZKakhpNHBqWkxZNWZsU2g4ZzlNRG9j?oc=5",
+     "title": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land",
+     "lang": "en",
+     "extra": {},
+     "id": "a6cf1c47abd52944",
+     "published": "2026-11-02T17:25+00:00",
+     "text": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land\nGizmodo"
+    },
+    {
+     "source": "TechSpot",
+     "trust": 2,
+     "url": "https://techspot.com/news/114412-nasa-swift-space-telescope-set-crash-back-earth.html",
+     "title": "NASA's Swift Space Telescope is set to crash back to Earth this week",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-02-ts3_thumbs-3dc.jpg"
+     },
+     "id": "a900dbb13d6e0a2c",
+     "published": "2026-11-02T19:04+00:00",
+     "text": "Don't Look Up: After spending more than 20 years in space, the Neil Gehrels Swift Observatory is now expected to undergo a \"catastrophic\" reentry into Earth's atmosphere. Most of the telescope should burn up during the process, but a few surviving pieces could eventually reach the ground and pose a risk to people.\nThe Swift Observatory could plunge back to Earth as early as this Friday, US authorities said. The telescope is expected to undergo an uncontrolled reentry after NASA and Katalyst Space Technologies tried – and failed – to correct the spacecraft's orbit using a robotic device in September.\nAccording to US Space Force predictions, the Swift Observatory should burn up in the atmosphere during reentry. A few components, including tungsten-made parts and mirrors, might survive the atmospheric plunge and eventually reach the ground.\nThe Space Force is tracking Swift's orbit to determine where these components could land. Parts of Africa, Australia, India, Southeast Asia, Central America, and South America could potentially be affected. Most likely, however, the surviving debris will end up in the ocean.\nAccording to John Nousek, an astronomer at Pennsylvania State University who is in charge of Swift's control team, the aging telescope is going down with a bang.\n\"We've known this day would come since before Swift was launched. At least in low-Earth orbit, what goes up must come down,\" Nousek said.\nThe Neil Gehrels Swift Observatory launched on November 20, 2004, aboard a Delta II rocket. Led by astrophysicist Neil Gehrels, the mission was tasked with studying extremely energetic events known as gamma-ray bursts. Eventually, the orbiting observatory was also used as a \"general-purpose\" telescope to observe transient events across other parts of the electromagnetic spectrum.\nDespite its catastrophic end, Swift was an extremely successful mission. Its primary mission was expected to last just two years, but the telescope kept operating for 21 years and 11 months. Over the past few years, the spacecraft's orbit had been affected by the expansion of Earth's atmosphere caused by increased solar activity.\nNASA and Katalyst launched the \"Swift boost mission\" in July, sending a robotic probe to try to correct Swift's deteriorating orbit. The mission failed, and the probe returned to Earth in September 2026.\nLike other legendary space observatories, including Hubble and the James Webb Space Telescope, Swift made major contributions to astrophysics research. The telescope observed more than 2,000 gamma-ray bursts, 1,400 exploding stars, as well as comets, asteroids, and black holes."
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476",
+     "title": "NASA's Swift telescope predicted to plummet back to Earth tomorrow",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/f9cdfffb9a33d78ee808ee37b84d3040?impolicy=wcms_watermark_news&cropH=788&cropW=1400&xPos=7&yPos=103&width=862&height=485&imformat=generic"
+     },
+     "id": "211973fc27763f1a",
+     "published": "2026-11-03T00:45+00:00",
+     "text": "A defunct NASA space telescope is expected to plummet back to Earth sometime tomorrow.\nAfter attempts to save it failed earlier this year, the Neil Gehrels Swift Observatory, aka the Swift telescope, was shut down at the end of October.\nThe telescope, about the size of a minibus with solar-panel wings, is expected to re-enter Earth's atmosphere sometime on November 4 (AEDT).\nWhere it will land, and what will survive its fiery re-entry remain unknown.\nWhat is the Swift Observatory?\nThe 1.5-tonne space telescope was launched in 2004 to research the origin of high-energy gamma-ray blasts.\nAstrophysicists, including Brad Tucker of the Australian National University, used it to study cosmic explosions such as supernovas, stellar collisions and stars being ripped apart by black holes.\nIn its lifetime, Swift detected at least 1,400 supernovas.\n\"It may not be as big or as popular as Hubble or James Webb Space Telescopes, but we have used it for ages,\" Dr Tucker said.\nOver the past 22 years, it had been slowly dropping in altitude due to drag from Earth's atmosphere, but increased solar activity over the past two years (the same activity that has been causing spectacular auroras on Earth) hastened its demise.\nBy June, it was about 340 kilometres above Earth.\nLoading...In July, NASA hatched an audacious plan to bump the telescope back up in its orbit. But this failed due to problems orienting the private satellite sent to rescue it.\nOn October 20, the aging telescope had reached the point of no return at 275km and was shut down.\nThis means it no longer has a propulsion system to push it back up or guide it to a controlled landing.\nWhere and when will it crash?\nBecause the space telescope is now uncontrolled, we can't yet predict when or where it will crash.\nIt's now travelling about 8 kilometres a second as it nears re-entry.\nPredicting when and where it might re-enter Earth's atmosphere and land is tricky.\nAt this stage, the NASA-funded Space Weather Operational Readiness Development program predicts it will crash-land about 4:37am AEDT on November 4, give or take a few hours, while the Aerospace Corporation predicts a re-entry time of 8:11pm AEDT on November 4, give or take 12 hours.\nThe re-entry point could be anywhere along its orbit, which extends between 21 degrees North and South, which means it travels across northern Australia as far south as Mackay, Tennant Creek and Marble Bar (although it may not pass over these specific locations).\nDr Tucker said the likelihood was that it would drop in the ocean, but it also travels over northern Australia, Africa, India, South-East Asia, South and Central America.\n\"If 70 per cent of the Earth is ocean, 30 per cent is land. So three out of 10 times it's on land, not ocean,\" he said.\nPredicting where and when it will land becomes more precise over the final couple of orbits, as shown on space telescope track maps below.\nYou can keep track of Swift predictions here.Will I be able to see it?\nEverything depends upon the telescope's final orbit.\n\"The final orbit could be in the middle of the day or over the ocean, and no-one would see it, and we've had those,\" Dr Tucker said.\n\"Or it could be over the night-time over a populated area, and then we'll get some great footage.\"\nWhile we don't know where it will land, we do know its last moments will be fiery.\nOnce it drops to about 120km above Earth's surface, the air surrounding it heats up, making it glow.\n\"For reference, 100 kilometres is where we call spa"
+    },
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact",
+     "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.wired.com/photos/6ae8c770a02f1e9caf32860c/191:100/w_1280,c_limit/swiftnasa.jpg"
+     },
+     "id": "63d6994edd330d3b",
+     "published": "2026-11-03T10:45+00:00",
+     "text": "After 22 years in orbit and a failed rescue mission this summer, it is highly likely that the Neil Gehrels Swift Observatory will crash into Earth sometime next week. It is not known where on the planet the spacecraft—which is roughly as big as a large elevator—will fall. Despite its size, experts say the risk to the public is relatively low.\nWhat is now a useless piece of space junk was for a long time extraordinarily valuable to the scientific community. Launched on November 20, 2004, Swift was a space observatory equipped with three telescopes. It was designed primarily to detect and study gamma-ray bursts, which are among the most energetic explosions in the universe. Swift would locate these events and transmit their positions to observatories around the world for further study.\nThe observatory was designed to operate for a few years in low Earth orbit, but it far exceeded its expected lifespan, helping to make many important discoveries about the evolution of the cosmos, including the study of supernovas and the destruction of stars by black holes. However, in 2024, increased solar activity heated and expanded the upper layers of Earth’s atmosphere, increasing the drag on the satellite and accelerating its descent. Without a propulsion system capable of correcting its orbit, its days were numbered.\nIn July 2026, NASA launched a special $30 million mission to rescue Swift. A robotic spacecraft called LINK was supposed to drag Swift away from Earth by 150 miles, giving it a higher orbit and thus extending its operational life. Unfortunately, LINK failed. In August, NASA administrator Jared Isaacman explained that the difficulties that led to the mission’s cancellation were due to problems with the spacecraft’s control system, which made it impossible to keep it properly oriented and stable in space.\nOn October 26, NASA announced that Swift was less than 170 miles from Earth’s surface—a very low orbit for a satellite. According to the agency, the telescopes on board could no longer maintain stable observations of their astronomical targets. Swift conducted its final observation on October 20, then the operations team based at Pennsylvania State University terminated its operational status.\n“Swift delivered an incredible, lasting return on investment for the nation, designed for a two-year primary mission but productive for more than 10 times as long,” Shawn Domagal-Goldman, director of the Astrophysics Division at NASA headquarters in Washington, said in a statement. “In that time, Swift played a major role in advancing our understanding of the changing universe and was part of a revolution in astrophysics that showed how critical rapid-response observations are to the entire community.”\nIn its lifetime, the satellite observed over 2,000 gamma-ray bursts and nearly as many supernovas, data from which contributed to more than 7,000 research papers. And its contributions are far from over. “Swift leaves us with an extraordinary archive of multiwavelength observations that will fuel new discoveries for decades more,” Domagal-Goldman added.\nWhat to Expect From the Reentry?\nThe US Space Force estimates Swift is likely to crash on or around Friday, November 6—or at least whatever remains of the satellite will. Most of the space observatory is expected to disintegrate as it reenters the atmosphere. However, some pieces made of tungsten and parts of the mirrors could survive that chaotic process, Brad Cenko, NASA’s chief scientist for the mi"
+    },
+    {
+     "source": "El País EN",
+     "trust": 2,
+     "url": "https://english.elpais.com/science-tech/2026-11-03/swift-telescope-to-crash-into-earth-after-nasa-rescue-attempt-fails.html",
+     "title": "‘Swift’ telescope to crash into Earth after NASA rescue attempt fails",
+     "lang": "en",
+     "extra": {},
+     "id": "895a47917f3478af",
+     "published": "2026-11-03T13:16+00:00",
+     "text": "The scientific satellite is expected to re-enter the atmosphere late Tuesday night, in a band near the equator that covers parts of Africa, Asia, and Latin America"
     }
    ]
   },
@@ -3110,63 +3276,6 @@
    ]
   },
   {
-   "id": "c15618e3e9f",
-   "kind": "news",
-   "score": 19.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "US midterm elections 2026: What are they and when will we know the results?",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/video/2026/11/02/us-midterm-elections-2026-what-are-they-and-when-will-we-know-the-results",
-     "title": "US midterm elections 2026: What are they and when will we know the results?",
-     "lang": "en",
-     "extra": {},
-     "id": "15618e3e9f55e219",
-     "published": "2026-11-02T13:20+00:00",
-     "text": "Americans head to the polls on 3 November for midterm elections that will determine control of Congress for the next two years."
-    },
-    {
-     "source": "SCMP China",
-     "trust": 2,
-     "url": "https://scmp.com/news/us/politics/article/3372793/us-midterm-elections-2026-all-you-need-know",
-     "title": "US midterm elections 2026: all you need to know",
-     "lang": "en",
-     "extra": {},
-     "id": "87cc1e671d3980d6",
-     "published": "2026-11-03T00:00+00:00",
-     "text": "Americans go to the polls on Tuesday, November 3, in midterm elections that could reshape the final two years of Donald Trump’s second term as president.\nControl of both chambers of Congress is in play, along with 36 governorships. Polls suggest Democrats go into the vote with an advantage, but the outcome will hinge on a few dozen closely fought races.\nMore than 100 million people are expected to vote if turnout matches the 2022 midterms. By October 12, a record US$3.8 billion had been spent on..."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/when-will-we-know-whos-won-the-us-midterm-elections",
-     "title": "When will we know who’s won the US midterm elections?",
-     "lang": "en",
-     "extra": {},
-     "id": "e0f89d7578b88907",
-     "published": "2026-11-03T03:11+00:00",
-     "text": "The results of each race in the US House of Representatives and the Senate could take anywhere from minutes to weeks to become clear."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
-     "title": "When will we know the US midterm election results?",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T203404Z_1113882976_RC2VFOAHOW5C_RTRMADP_3_USA-ELECTION-CALIFORNIA-1793679076.jpg?resize=1920%2C1440"
-     },
-     "id": "b7cec7c4a6daefb0",
-     "published": "2026-11-03T07:27+00:00",
-     "text": "On Tuesday night, the United States – and many people around the world – will be following one of the country’s most closely contested midterm elections in recent years.\nAll 435 seats in the US House of Representatives and 35 of the 100 Senate seats are up for grabs as Democrats hope to take control of both chambers from President Donald Trump’s Republican Party.\nRecommended Stories\nlist of 4 items- list 1 of 4How the president’s party has fared in every US midterm election since 1946\n- list 2 of 4Trump, Vance campaign with candidates on last day before US midterms\n- list 3 of 4US midterms 2026: What polls reveal about Democratic, Republican voters\n- list 4 of 4Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool\nHere is what we know about the results:\nWhen will the first results come in?\nThe first results should be known on Tuesday after polls begin to close. Voting will end first in some jurisdictions on the East Coast at 6pm (23:00 GMT).\nResults will continue to come in throughout Tuesday evening, and some probably won’t be known until Wednesday or later in some races as more states finish voting and officials start releasing their vote counts.\nBut the first reported results won’t necessarily mean that a winner has been announced.\nElection officials release vote counts as ballots are processed, and news organisations, like The Associated Press, then analyse them to determine how to call a race.\nA closely contested race could take hours to call – or even days. It might not be clear for days whether the Republicans will retain control of Congress or Democrats secure a majority in either or both chambers.\nWhat time do polls close in the US?\nThe first polling stations to close will be in parts of Indiana and Kentucky.\n- 6pm Eastern Standard Time (EST) (23:00 GMT) – parts of Indiana and Kentucky\n- 7pm EST (00:00 GMT) – most of Florida, Georgia, South Carolina, Vermont, Virginia, and the remaining parts of Indiana, Kentucky and most of New Hampshire\n- 7:30pm EST (00:30 GMT on Wednesday) – North Carolina, Ohio, West Virginia\n- 8pm EST (01:00 GMT on Wednesday) – Alabama, Connecticut, Delaware, Illinois, Maine, Maryland, Massachusetts, Mississippi, Missouri, the remaining parts of New Hampshire, New Jersey, Oklahoma, Pennsylvania, Rhode Island, Tennessee, Washington, DC, and parts of Florida, Kansas, Michigan, North Dakota, South Dakota and Texas\n- 8:30pm EST (01:30 GMT on Wednesday) – Arkansas\n- 9pm EST (02:00 GMT on Wednesday) – Arizona, Colorado, Iowa, Louisiana, Minnesota, Nebraska, New Mexico, New York, Wisconsin, Wyoming, and the remaining parts of Kansas, Michigan, North Dakota, South Dakota and Texas\n- 10pm EST (03:00 GMT on Wednesday) – Montana, Nevada, Utah, and parts of Idaho and Oregon\n- 11pm EST (04:00 GMT on Wednesday) – California and Washington, and the remaining parts of Idaho and Oregon\n- 12am EST (05:00 GMT on Wednesday) – Hawaii and most of Alaska\n- 1am EST (06:00 GMT on Wednesday) – the remaining parts of Alaska, including the western Aleutian Islands\nWhich states could take longer to count votes?\n- Alaska: The state uses ranked-choice voting. If no candidate receives more than 50 percent of the vote, extra rounds of counting are needed to determine the winner. And while in-person early and Election Day voting are reported on election night, the mail-in voting results are released in the following days. In 2024, about 75 percent of the votes were counted by the morning after the election with the remaining"
-    }
-   ]
-  },
-  {
    "id": "ca567d0cf06",
    "kind": "news",
    "score": 19.0,
@@ -3620,63 +3729,59 @@
    ]
   },
   {
-   "id": "ca6cf1c47ab",
+   "id": "c15618e3e9f",
    "kind": "news",
    "score": 18.0,
-   "sensitive": true,
+   "sensitive": false,
    "distinct_sites": 4,
-   "title_hint": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land",
+   "title_hint": "US midterm elections 2026: What are they and when will we know the results?",
    "official_image": null,
    "sources": [
     {
-     "source": "Gizmodo",
+     "source": "Euronews",
      "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0JTVC1ReldPRTRVVUhuX01KdXdUWG9MSW14SHhTQzBGUDgxSFU0QTF2NUk1YTNRWnI0di1hUWx4Tm9KWE85U3RJVFNqdzcyY3E0dmx2U0ppbGtYQkYyQnE3LUpOTWNkRDdhajBpRDczbGdKdlg4N245X1lxbHh3LVNJQ0l3R3ZrX05WaGptY3ZidjZvS2dmZUJGRDhyNHFXeUZKakhpNHBqWkxZNWZsU2g4ZzlNRG9j?oc=5",
-     "title": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land",
+     "url": "https://euronews.com/video/2026/11/02/us-midterm-elections-2026-what-are-they-and-when-will-we-know-the-results",
+     "title": "US midterm elections 2026: What are they and when will we know the results?",
      "lang": "en",
      "extra": {},
-     "id": "a6cf1c47abd52944",
-     "published": "2026-11-02T17:25+00:00",
-     "text": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land\nGizmodo"
+     "id": "15618e3e9f55e219",
+     "published": "2026-11-02T13:20+00:00",
+     "text": "Americans head to the polls on 3 November for midterm elections that will determine control of Congress for the next two years."
     },
     {
-     "source": "TechSpot",
+     "source": "SCMP China",
      "trust": 2,
-     "url": "https://techspot.com/news/114412-nasa-swift-space-telescope-set-crash-back-earth.html",
-     "title": "NASA's Swift Space Telescope is set to crash back to Earth this week",
+     "url": "https://scmp.com/news/us/politics/article/3372793/us-midterm-elections-2026-all-you-need-know",
+     "title": "US midterm elections 2026: all you need to know",
      "lang": "en",
-     "extra": {
-      "page_image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-02-ts3_thumbs-3dc.jpg"
-     },
-     "id": "a900dbb13d6e0a2c",
-     "published": "2026-11-02T19:04+00:00",
-     "text": "Don't Look Up: After spending more than 20 years in space, the Neil Gehrels Swift Observatory is now expected to undergo a \"catastrophic\" reentry into Earth's atmosphere. Most of the telescope should burn up during the process, but a few surviving pieces could eventually reach the ground and pose a risk to people.\nThe Swift Observatory could plunge back to Earth as early as this Friday, US authorities said. The telescope is expected to undergo an uncontrolled reentry after NASA and Katalyst Space Technologies tried – and failed – to correct the spacecraft's orbit using a robotic device in September.\nAccording to US Space Force predictions, the Swift Observatory should burn up in the atmosphere during reentry. A few components, including tungsten-made parts and mirrors, might survive the atmospheric plunge and eventually reach the ground.\nThe Space Force is tracking Swift's orbit to determine where these components could land. Parts of Africa, Australia, India, Southeast Asia, Central America, and South America could potentially be affected. Most likely, however, the surviving debris will end up in the ocean.\nAccording to John Nousek, an astronomer at Pennsylvania State University who is in charge of Swift's control team, the aging telescope is going down with a bang.\n\"We've known this day would come since before Swift was launched. At least in low-Earth orbit, what goes up must come down,\" Nousek said.\nThe Neil Gehrels Swift Observatory launched on November 20, 2004, aboard a Delta II rocket. Led by astrophysicist Neil Gehrels, the mission was tasked with studying extremely energetic events known as gamma-ray bursts. Eventually, the orbiting observatory was also used as a \"general-purpose\" telescope to observe transient events across other parts of the electromagnetic spectrum.\nDespite its catastrophic end, Swift was an extremely successful mission. Its primary mission was expected to last just two years, but the telescope kept operating for 21 years and 11 months. Over the past few years, the spacecraft's orbit had been affected by the expansion of Earth's atmosphere caused by increased solar activity.\nNASA and Katalyst launched the \"Swift boost mission\" in July, sending a robotic probe to try to correct Swift's deteriorating orbit. The mission failed, and the probe returned to Earth in September 2026.\nLike other legendary space observatories, including Hubble and the James Webb Space Telescope, Swift made major contributions to astrophysics research. The telescope observed more than 2,000 gamma-ray bursts, 1,400 exploding stars, as well as comets, asteroids, and black holes."
+     "extra": {},
+     "id": "87cc1e671d3980d6",
+     "published": "2026-11-03T00:00+00:00",
+     "text": "Americans go to the polls on Tuesday, November 3, in midterm elections that could reshape the final two years of Donald Trump’s second term as president.\nControl of both chambers of Congress is in play, along with 36 governorships. Polls suggest Democrats go into the vote with an advantage, but the outcome will hinge on a few dozen closely fought races.\nMore than 100 million people are expected to vote if turnout matches the 2022 midterms. By October 12, a record US$3.8 billion had been spent on..."
     },
     {
-     "source": "ABC Australia",
+     "source": "Straits Times",
      "trust": 2,
-     "url": "https://abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476",
-     "title": "NASA's Swift telescope predicted to plummet back to Earth tomorrow",
+     "url": "https://straitstimes.com/world/united-states/when-will-we-know-whos-won-the-us-midterm-elections",
+     "title": "When will we know who’s won the US midterm elections?",
      "lang": "en",
-     "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/f9cdfffb9a33d78ee808ee37b84d3040?impolicy=wcms_watermark_news&cropH=788&cropW=1400&xPos=7&yPos=103&width=862&height=485&imformat=generic"
-     },
-     "id": "211973fc27763f1a",
-     "published": "2026-11-03T00:45+00:00",
-     "text": "A defunct NASA space telescope is expected to plummet back to Earth sometime tomorrow.\nAfter attempts to save it failed earlier this year, the Neil Gehrels Swift Observatory, aka the Swift telescope, was shut down at the end of October.\nThe telescope, about the size of a minibus with solar-panel wings, is expected to re-enter Earth's atmosphere sometime on November 4 (AEDT).\nWhere it will land, and what will survive its fiery re-entry remain unknown.\nWhat is the Swift Observatory?\nThe 1.5-tonne space telescope was launched in 2004 to research the origin of high-energy gamma-ray blasts.\nAstrophysicists, including Brad Tucker of the Australian National University, used it to study cosmic explosions such as supernovas, stellar collisions and stars being ripped apart by black holes.\nIn its lifetime, Swift detected at least 1,400 supernovas.\n\"It may not be as big or as popular as Hubble or James Webb Space Telescopes, but we have used it for ages,\" Dr Tucker said.\nOver the past 22 years, it had been slowly dropping in altitude due to drag from Earth's atmosphere, but increased solar activity over the past two years (the same activity that has been causing spectacular auroras on Earth) hastened its demise.\nBy June, it was about 340 kilometres above Earth.\nLoading...In July, NASA hatched an audacious plan to bump the telescope back up in its orbit. But this failed due to problems orienting the private satellite sent to rescue it.\nOn October 20, the aging telescope had reached the point of no return at 275km and was shut down.\nThis means it no longer has a propulsion system to push it back up or guide it to a controlled landing.\nWhere and when will it crash?\nBecause the space telescope is now uncontrolled, we can't yet predict when or where it will crash.\nIt's now travelling about 8 kilometres a second as it nears re-entry.\nPredicting when and where it might re-enter Earth's atmosphere and land is tricky.\nAt this stage, the NASA-funded Space Weather Operational Readiness Development program predicts it will crash-land about 4:37am AEDT on November 4, give or take a few hours, while the Aerospace Corporation predicts a re-entry time of 8:11pm AEDT on November 4, give or take 12 hours.\nThe re-entry point could be anywhere along its orbit, which extends between 21 degrees North and South, which means it travels across northern Australia as far south as Mackay, Tennant Creek and Marble Bar (although it may not pass over these specific locations).\nDr Tucker said the likelihood was that it would drop in the ocean, but it also travels over northern Australia, Africa, India, South-East Asia, South and Central America.\n\"If 70 per cent of the Earth is ocean, 30 per cent is land. So three out of 10 times it's on land, not ocean,\" he said.\nPredicting where and when it will land becomes more precise over the final couple of orbits, as shown on space telescope track maps below.\nYou can keep track of Swift predictions here.Will I be able to see it?\nEverything depends upon the telescope's final orbit.\n\"The final orbit could be in the middle of the day or over the ocean, and no-one would see it, and we've had those,\" Dr Tucker said.\n\"Or it could be over the night-time over a populated area, and then we'll get some great footage.\"\nWhile we don't know where it will land, we do know its last moments will be fiery.\nOnce it drops to about 120km above Earth's surface, the air surrounding it heats up, making it glow.\n\"For reference, 100 kilometres is where we call spa"
+     "extra": {},
+     "id": "e0f89d7578b88907",
+     "published": "2026-11-03T03:11+00:00",
+     "text": "The results of each race in the US House of Representatives and the Senate could take anywhere from minutes to weeks to become clear."
     },
     {
-     "source": "Wired",
+     "source": "Al Jazeera",
      "trust": 2,
-     "url": "https://wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact",
-     "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
+     "url": "https://aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
+     "title": "When will we know the US midterm election results?",
      "lang": "en",
      "extra": {
-      "page_image": "https://media.wired.com/photos/6ae8c770a02f1e9caf32860c/191:100/w_1280,c_limit/swiftnasa.jpg"
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T203404Z_1113882976_RC2VFOAHOW5C_RTRMADP_3_USA-ELECTION-CALIFORNIA-1793679076.jpg?resize=1920%2C1440"
      },
-     "id": "63d6994edd330d3b",
-     "published": "2026-11-03T10:45+00:00",
-     "text": "After 22 years in orbit and a failed rescue mission this summer, it is highly likely that the Neil Gehrels Swift Observatory will crash into Earth sometime next week. It is not known where on the planet the spacecraft—which is roughly as big as a large elevator—will fall. Despite its size, experts say the risk to the public is relatively low.\nWhat is now a useless piece of space junk was for a long time extraordinarily valuable to the scientific community. Launched on November 20, 2004, Swift was a space observatory equipped with three telescopes. It was designed primarily to detect and study gamma-ray bursts, which are among the most energetic explosions in the universe. Swift would locate these events and transmit their positions to observatories around the world for further study.\nThe observatory was designed to operate for a few years in low Earth orbit, but it far exceeded its expected lifespan, helping to make many important discoveries about the evolution of the cosmos, including the study of supernovas and the destruction of stars by black holes. However, in 2024, increased solar activity heated and expanded the upper layers of Earth’s atmosphere, increasing the drag on the satellite and accelerating its descent. Without a propulsion system capable of correcting its orbit, its days were numbered.\nIn July 2026, NASA launched a special $30 million mission to rescue Swift. A robotic spacecraft called LINK was supposed to drag Swift away from Earth by 150 miles, giving it a higher orbit and thus extending its operational life. Unfortunately, LINK failed. In August, NASA administrator Jared Isaacman explained that the difficulties that led to the mission’s cancellation were due to problems with the spacecraft’s control system, which made it impossible to keep it properly oriented and stable in space.\nOn October 26, NASA announced that Swift was less than 170 miles from Earth’s surface—a very low orbit for a satellite. According to the agency, the telescopes on board could no longer maintain stable observations of their astronomical targets. Swift conducted its final observation on October 20, then the operations team based at Pennsylvania State University terminated its operational status.\n“Swift delivered an incredible, lasting return on investment for the nation, designed for a two-year primary mission but productive for more than 10 times as long,” Shawn Domagal-Goldman, director of the Astrophysics Division at NASA headquarters in Washington, said in a statement. “In that time, Swift played a major role in advancing our understanding of the changing universe and was part of a revolution in astrophysics that showed how critical rapid-response observations are to the entire community.”\nIn its lifetime, the satellite observed over 2,000 gamma-ray bursts and nearly as many supernovas, data from which contributed to more than 7,000 research papers. And its contributions are far from over. “Swift leaves us with an extraordinary archive of multiwavelength observations that will fuel new discoveries for decades more,” Domagal-Goldman added.\nWhat to Expect From the Reentry?\nThe US Space Force estimates Swift is likely to crash on or around Friday, November 6—or at least whatever remains of the satellite will. Most of the space observatory is expected to disintegrate as it reenters the atmosphere. However, some pieces made of tungsten and parts of the mirrors could survive that chaotic process, Brad Cenko, NASA’s chief scientist for the mi"
+     "id": "b7cec7c4a6daefb0",
+     "published": "2026-11-03T07:27+00:00",
+     "text": "On Tuesday night, the United States – and many people around the world – will be following one of the country’s most closely contested midterm elections in recent years.\nAll 435 seats in the US House of Representatives and 35 of the 100 Senate seats are up for grabs as Democrats hope to take control of both chambers from President Donald Trump’s Republican Party.\nRecommended Stories\nlist of 4 items- list 1 of 4How the president’s party has fared in every US midterm election since 1946\n- list 2 of 4Trump, Vance campaign with candidates on last day before US midterms\n- list 3 of 4US midterms 2026: What polls reveal about Democratic, Republican voters\n- list 4 of 4Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool\nHere is what we know about the results:\nWhen will the first results come in?\nThe first results should be known on Tuesday after polls begin to close. Voting will end first in some jurisdictions on the East Coast at 6pm (23:00 GMT).\nResults will continue to come in throughout Tuesday evening, and some probably won’t be known until Wednesday or later in some races as more states finish voting and officials start releasing their vote counts.\nBut the first reported results won’t necessarily mean that a winner has been announced.\nElection officials release vote counts as ballots are processed, and news organisations, like The Associated Press, then analyse them to determine how to call a race.\nA closely contested race could take hours to call – or even days. It might not be clear for days whether the Republicans will retain control of Congress or Democrats secure a majority in either or both chambers.\nWhat time do polls close in the US?\nThe first polling stations to close will be in parts of Indiana and Kentucky.\n- 6pm Eastern Standard Time (EST) (23:00 GMT) – parts of Indiana and Kentucky\n- 7pm EST (00:00 GMT) – most of Florida, Georgia, South Carolina, Vermont, Virginia, and the remaining parts of Indiana, Kentucky and most of New Hampshire\n- 7:30pm EST (00:30 GMT on Wednesday) – North Carolina, Ohio, West Virginia\n- 8pm EST (01:00 GMT on Wednesday) – Alabama, Connecticut, Delaware, Illinois, Maine, Maryland, Massachusetts, Mississippi, Missouri, the remaining parts of New Hampshire, New Jersey, Oklahoma, Pennsylvania, Rhode Island, Tennessee, Washington, DC, and parts of Florida, Kansas, Michigan, North Dakota, South Dakota and Texas\n- 8:30pm EST (01:30 GMT on Wednesday) – Arkansas\n- 9pm EST (02:00 GMT on Wednesday) – Arizona, Colorado, Iowa, Louisiana, Minnesota, Nebraska, New Mexico, New York, Wisconsin, Wyoming, and the remaining parts of Kansas, Michigan, North Dakota, South Dakota and Texas\n- 10pm EST (03:00 GMT on Wednesday) – Montana, Nevada, Utah, and parts of Idaho and Oregon\n- 11pm EST (04:00 GMT on Wednesday) – California and Washington, and the remaining parts of Idaho and Oregon\n- 12am EST (05:00 GMT on Wednesday) – Hawaii and most of Alaska\n- 1am EST (06:00 GMT on Wednesday) – the remaining parts of Alaska, including the western Aleutian Islands\nWhich states could take longer to count votes?\n- Alaska: The state uses ranked-choice voting. If no candidate receives more than 50 percent of the vote, extra rounds of counting are needed to determine the winner. And while in-person early and Election Day voting are reported on election night, the mail-in voting results are released in the following days. In 2024, about 75 percent of the votes were counted by the morning after the election with the remaining"
     }
    ]
   },
@@ -3795,89 +3900,6 @@
      "id": "fef513f6fb0f6dd4",
      "published": "2026-11-03T12:54+00:00",
      "text": "Investors didn’t seem overly happy about yesterday’s Apple earnings call despite the record results. That likely reflects the company’s cautious take on margins in the current quarter, but some have also criticized what they describe as a very “scripted” approach by new CEO John Ternus.\nBloomberg was the biggest critic, describing it as a “timid” performance that left analysts “sorely disappointed” …\nBloomberg’s Dave Lee didn’t hold back.\nApple investors and fans hoping to get an insight into the philosophy of new Chief Executive Officer John Ternus on Monday were left sorely disappointed. The 51-year-old’s first earnings call was a timid affair, with Ternus taking cover behind a carefully written script as analysts peppered him with questions.\nLee acknowledged that the slump in pre-market trading will have been largely driven by Apple’s caution about rising expenses in the current quarter. The company said that memory costs were continuing to rise and that building out Siri AI data centers we’re going to add to the RAM bill. But he argued that Ternus missed an opportunity to talk up the company.\nIn front of Ternus on Monday night was a chance to counteract the gloom and doom by instilling in Wall Street the fundamentals of the Ternus Doctrine — what he sees Apple becoming under his tenure, the “product guy” taking the company to a new era of innovation. Instead, he spoke like a man glancing at the clock and wishing the minutes away.\nFortune’s Sebastian Herrera was less vocal but echoed some of the criticism.\nTernus fielded some questions but also delegated answers to Chief Financial Officer Kevan Parekh and Chief Operating Officer Sabih Khan, who Apple said would participate in earnings calls moving forward, something the company hasn’t done for years. Ternus projected confidence on the call, but he appeared to stick mostly to scripted marketing points.\n9to5Mac’s Take\nIt will of course take Ternus some time to develop his own style when it comes to all of the varied aspects of the role, including addressing analysts in earnings calls, but I thought he took a measured but optimistic approach. Given the famously reticent style of his predecessor, the criticism strikes me as rather odd.\nWhat’s your take? Please share in the comments.\n- meross Smart Garage Door Opener\n- Beats Woven USB-C cables\n- Certified refurbished Apple products 15% off at apple.com\n- Discounted AirPods Pro 3\n- Wireless CarPlay adapter\n- 10-year AirTag battery case\n- Logitech MX Master 4 for Mac\nComments"
-    }
-   ]
-  },
-  {
-   "id": "c1257b1f869",
-   "kind": "news",
-   "score": 18.0,
-   "sensitive": false,
-   "distinct_sites": 6,
-   "title_hint": "SCOTUS rejects Trump's bid over disputed California ballots",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/11/02/supreme-court-california-voter-rolls-doj",
-     "title": "SCOTUS rejects Trump's bid over disputed California ballots",
-     "lang": "en",
-     "extra": {},
-     "id": "1257b1f869133df4",
-     "published": "2026-11-02T23:09+00:00",
-     "text": "The Supreme Court denied the Trump administration's request Monday to hear its case regarding more than 20,000 California ballots that President Trump claims were cast by noncitizens.\nWhy it matters: It's a blow to the administration, which has been tussling with the state in what it says is a fight to ensure all eligible voters can vote and have their ballots counted, as the law requires.\nWhat they're saying: \"The application for injunction pending appeal presented to Justice Kagan and by her referred to the Court is denied,\" an unsigned order from the court read.\nCatch up quick: The Trump administration sued California in mid-October, arguing that it had identified more than 20,000 noncitizens on the state's voter rolls.\nZoom out: The court has often sided with Trump, but has notably broken with him on cases involving voting access.\nThe White House and the Department of Justice did not respond to Axios' request for comment.\nGo deeper: Trump administration turns to SCOTUS in California ballot case"
-    },
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/11/supreme-court-trump-california-voting-1237211767",
-     "title": "Trump Loses At SCOTUS As High Court Rejects California Noncitizens Voting Request On Midterms Eve",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://deadline.com/wp-content/uploads/2022/11/trump.jpg?w=1000"
-     },
-     "id": "6f5d9e0c4d729f54",
-     "published": "2026-11-02T23:15+00:00",
-     "text": "Donald Trump‘s 11th hour Hail Mary attempt to muddy the midterm waters in blue California has failed.\nThe Supreme Court just rejected the Justice Department’s request for an emergency intervention in the administration’s move to have 20,000 Golden State mail-in ballots cast aside for the time being. Even thought the list contained names that aren’t even registered and people who seem not to live in California the Trump team insisted there were noncitizens galore trying to scam the system.\nLower courts didn’t buy it, and neither did the High Court.\nIn an unsigned order, SCOTUS said: “The application for injunction pending appeal presented to\nJustice Kagan and by her referred to the Court is denied.”\nWatch on Deadline\nThe decision is a big loss for MAGA and big win for Democrats and CA Gov. Gavin Newsom, who have fought the DOJ over reach through the courts for weeks. Today Newsom posted on the legal battle promising “If you interfere with our elections, California will come for you.”\nPutting down a states’ rights line, the outgoing governor and potential 2028 contender added: “No presidential pardon will save you.”\nMORE"
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf",
-     "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79833931_6.jpg"
-     },
-     "id": "b3bb831835f50cd1",
-     "published": "2026-11-02T23:18+00:00",
-     "text": "On the eve of the US midterm elections, the administration of President Donald Trump made a last ditch attempt to sideline over 20,000 mail-in ballots in California, claiming non-US citizens are attempting to vote.\nThe US Justice Department (DoJ), which is run by Trump's former personal attorney Todd Blanche, has claimed to have a list documenting non-US citizens on California's voter rolls.\nIn mid October, the federal government first filed a lawsuit based on the allegations, which was rejected by a California district court.\nOn Monday, the DoJ asked for a \"limited injunction\" directing the state of California to \"stop commingling suspected illegal ballots with legal ones\" pending the verification of voters' status.\nHowever, hours after the appeal was filed, the Supreme Court said it would decline to stop California from counting the votes.\nWhen the initial lawsuit was filed by the Trump administration earlier in October, Los Angeles District Judge David Carter had warned that singling out ballots would \"wreak havoc\" on the election process and harm voters' trust in the democratic process.\n\"If the executive can discount votes and threaten an ongoing election due to unproven allegations, then our democracy is in danger,\" Carter wrote in rejecting the initial suit.\nEarly voting has been underway in California for several weeks, with hundreds of thousands of ballots already processed.\nAnalysis shows thousands of eligible voters on ballot blacklist\nThe voter list had been compiled by the US Department of Homeland Security. In its response to the federal government's lawsuit, California defended its election integrity, and said the process used by the Trump administration to identify non-citizen voters was likely flawed and full of errors.\nLast week, another federal judge ordered the DoJ to share its list with an immigrant rights group, and a voting rights watchdog based out of the University of California Los Angeles (UCLA).\nA legal filing of the analysis found that thousands of US citizens on the list appear to be inexplicably flagged as ineligible to vote. US District Judge Carter said people recently flagged as noncitizens on voter rolls in other states have repeatedly turned out to be naturalised US citizens.\nTrump's fixation on voter fraud\nTrump has made unfounded claims of election fraud for years, despite multiple investigations finding such malfeasance is exceedingly rare.\nFor the current midterm election cycle, Trump has zeroed in on claiming non US citizens are trying to vote, despite these claims being repeatedly debunked by research and investigation.\n\"Never before in American history has the federal government, on the eve of an election, sought to coerce a state and local government to abandon their own constitutional elections procedures and bend to the will of the executive branch,\" US District Judge Carter wrote in October.\nThe most populous US state, California, leans heavily Democratic, and is not expected to be a competitive state for Trump's Republicans in the midterms.\nCalifornia governor Gavin Newsom is an outspoken critic of Trump, and has warned the president's administration against trying to interfere in the state's voting process.\nAhead of the midterm voting on Tuesday, Newsom announced the deployment of election law experts, poll observers and a help line for voters to report any attempts of intimidation or interference at the polls."
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/americas/us-supreme-court-rejects-bid-by-trump-administration-to-set-aside-20-000-california-ballots/4109249",
-     "title": "US Supreme Court rejects bid by Trump administration to set aside 20,000 California ballots",
-     "lang": "en",
-     "extra": {},
-     "id": "dbe813ccd7a79c7f",
-     "published": "2026-11-02T23:27+00:00",
-     "text": "Decision comes one day before midterm elections"
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/video/supreme-court-rejects-trump-request-for-california-to-set-aside-20000-ballots",
-     "title": "Supreme Court rejects Trump request for California to set aside ballots from alleged noncitizens",
-     "lang": "en",
-     "extra": {},
-     "id": "843b3044e1f10463",
-     "published": "2026-11-03T01:00+00:00",
-     "text": "The Supreme Court on Monday rejected President Trump's effort to set aside California ballots from 20,000 alleged noncitizens. CBS News' Jessica Levinson has more."
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
-     "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c3e/live/cffa1c00-d726-11f1-b237-93d5595d4291.jpg"
-     },
-     "id": "b65e7185a1841b52",
-     "published": "2026-11-03T03:32+00:00",
-     "text": "- Published\nThe US Supreme Court has rejected a last-minute request by the Trump administration asking it to intervene in California's midterm election vote count.\nThe justice department wanted 20,000 ballots to be set aside that it alleged may have been issued to non-US citizens in the state.\nTwo lower courts had already rejected the request. State election officials had questioned the federal government's claims - saying the process used to identify alleged non-citizens was inaccurate.\nThe Monday ruling comes on the eve of the midterms, which will determine which political party controls the US Congress for the last two years of President Donald Trump's second term.\nThe Supreme Court announced its decision in a one-line order, saying it was denying the justice department's request for an injunction.\n\"The application for injunction pending appeal presented to Justice Kagan and by her referred to the Court is denied,\" it reads.\nIts means rulings made in lower courts will stand and essentially ends the Trump administration's bid to disqualify the ballots.\nCalifornia is the most populous state in America with some 23 million people on its voting register. As of Sunday night, more than six million mail-in ballots had already been received, according to the California secretary of state's office.\nThe justice department sent letters to the California secretary of state and Los Angeles County Registrar last month, demanding they set aside the ballots of 20,000 registered voters whom the Trump administration \"believe\" are \"likely\" non-citizens, according to court documents.\nAbout a week later, armed officials from the Department of Homeland Security delivered letters to county officials and employees across California threatening criminal charges if they didn't sequester those ballots.\nIn a 22-page brief reviewed by the BBC, the justice department maintained that ballots cast by non-citizens could \"debase or dilute valid votes\".\nOn Friday, a federal appeals court declined the government's request to segregate the ballots.\nCalifornia election officials have questioned the accuracy of the government's claims, and have said the list of names the government has provided is riddled with inaccuracies.\nThey have expressed concern that eligible voters could be disenfranchised and said segregating ballots whilst voting is underway is unfeasible.\nThe attempts are a part of a years-long campaign by Trump and his administration to fight alleged voter fraud that they believe is widespread, despite research showing that it is extremely rare.\nPresident Trump has repeatedly claimed that Democrats steal elections by allowing immigrants to vote illegally, and he blames much of it on the so-called \"mail-in\" or postal voting that is permitted in many Democratic states.\nLast week in a scathing ruling, district judge David Carter said the government's move in California was indicative of an \"ongoing pattern of attempted election interference\" on the part of the Trump administration.\nThe judge added that \"never before in American history has the federal government, on the eve of an election, sought to coerce a state and local government to abandon their own constitutional elections procedures and bend to the will of the executive branch\".\nWith additional reporting by the BBC's David Willis"
     }
    ]
   },
@@ -4085,6 +4107,96 @@
    ]
   },
   {
+   "id": "c34d4652744",
+   "kind": "news",
+   "score": 17.5,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "'Serious talks’ – Hamilton on costly Leclerc battle",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Formula 1",
+     "trust": 3,
+     "url": "https://formula1.com/en/latest/article/we-have-to-have-some-serious-talks-hamilton-reflects-on-costly-ferrari-intra-team-battle-in-mexico.20AlOSmTwJkVVJRtw70vIp",
+     "title": "'Serious talks’ – Hamilton on costly Leclerc battle",
+     "lang": "en",
+     "extra": {},
+     "id": "34d465274450d28b",
+     "published": "2026-11-02T02:41+00:00",
+     "text": "Lewis Hamilton believes Ferrari \"easily had a car to have P1 and P2\" during the Mexico City Grand Prix, as an opening lap battle with team mate Charles Leclerc potentially cost the team victory."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/f1/lewis-hamilton-charles-leclerc-ferrari-kimi-antonelli-italian-b3077287.html",
+     "title": "Lewis Hamilton demands ‘serious talks’ after Charles Leclerc misfire",
+     "lang": "en",
+     "extra": {},
+     "id": "1e9c0b0d873766f5",
+     "published": "2026-11-02T06:00+00:00",
+     "text": "Hamilton’s first pole position in 1,197 days was undone on the opening lap as Leclerc charged through."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/f1/lewis-hamilton-ferrari-charles-leclerc-crash-f1-mexican-grand-prix-b3077309.html",
+     "title": "Lewis Hamilton insists ‘serious talks’ needed with Ferrari after Charles Leclerc clash",
+     "lang": "en",
+     "extra": {},
+     "id": "5bac83e62d8a769b",
+     "published": "2026-11-02T07:52+00:00",
+     "text": "The Ferrari drivers came together on lap one in an incident which, ultimately, cost the team a win in Mexico"
+    },
+    {
+     "source": "ANSA EN",
+     "trust": 2,
+     "url": "https://ansa.it/english/news/2026/11/02/f1-hamilton-says-ferrari-need-serious-talks-after-costly-leclerc-attack_8bb244de-cca3-4416-a834-f3a5304f0c2f.html",
+     "title": "F1: Hamilton says Ferrari need 'serious talks' after costly Leclerc attack",
+     "lang": "en",
+     "extra": {},
+     "id": "54325c61d6b59ce1",
+     "published": "2026-11-02T11:26+00:00",
+     "text": "(ANSA) - ROME, 02 NOV - Lewis Hamilton has said Ferrari need some clear-the-air discussions following an attack from his team mate Charles Leclerc that he said cost the team a one-two at Sunday's Mexican Grand Prix.\nLeclerc cut a chicane on the first lap to take the lead from pole-sitter Hamilton, whose loss of momentum meant he also lost another position to eventual race winner Max Verstappen.\nLeclerc lost the lead to Verstappen after serving a five-second penalty for the incident and Hamilton subsequently got back ahead of him after mid-race restart following a red flag.\nLeclerc ended up finishing fourth behind Mercedes' Kimi Antonelli, who became the sport's youngest-ever world champion by finishing third.\n\"I don't really have anything to say about the scenario with Charles. I think you can see what happened and the reason we lost the win,\" said Hamilton.\n\"We easily had a car to have P1 and P2 today.\n\"Ultimately, it was that that lost us the win today.\n\"And I, yeah, I think we have to have some serious talks behind the scenes for sure\".\nThere have been several moments of tension between seven-time world champion Hamilton and Leclerc this season, including the latter pushing the former off at the start of the Italian Grand Prix in September. (ANSA).\nRead article..."
+    },
+    {
+     "source": "ANSA EN",
+     "trust": 2,
+     "url": "https://ansa.it/english/news/sports/2026/11/02/f1-hamilton-says-ferrari-need-serious-talks-after-costly-leclerc-attack_b971db18-f017-4ca7-a214-f987f88c1154.html",
+     "title": "F1: Hamilton says Ferrari need 'serious talks' after costly Leclerc attack",
+     "lang": "en",
+     "extra": {},
+     "id": "7a0672b8c6a175fe",
+     "published": "2026-11-02T11:27+00:00",
+     "text": "(ANSA) - ROME, 02 NOV - Lewis Hamilton has said Ferrari need some clear-the-air discussions following an attack from his team mate Charles Leclerc that he said cost the team a one-two at Sunday's Mexican Grand Prix.\nLeclerc cut a chicane on the first lap to take the lead from pole-sitter Hamilton, whose loss of momentum meant he also lost another position to eventual race winner Max Verstappen.\nLeclerc lost the lead to Verstappen after serving a five-second penalty for the incident and Hamilton subsequently got back ahead of him after mid-race restart following a red flag.\nLeclerc ended up finishing fourth behind Mercedes' Kimi Antonelli, who became the sport's youngest-ever world champion by finishing third.\n\"I don't really have anything to say about the scenario with Charles. I think you can see what happened and the reason we lost the win,\" said Hamilton.\n\"We easily had a car to have P1 and P2 today.\n\"Ultimately, it was that that lost us the win today.\n\"And I, yeah, I think we have to have some serious talks behind the scenes for sure\".\nThere have been several moments of tension between seven-time world champion Hamilton and Leclerc this season, including the latter pushing the former off at the start of the Italian Grand Prix in September. (ANSA).\nRead article..."
+    },
+    {
+     "source": "The Athletic Football",
+     "trust": 2,
+     "url": "https://nytimes.com/athletic/7747337/2026/11/02/ferrari-lewis-hamilton-charles-leclerc-analysis",
+     "title": "Ferrari's Lewis Hamilton and Charles Leclerc are free to race but that has come at a cost",
+     "lang": "en",
+     "extra": {},
+     "id": "d72a61fb384ca531",
+     "published": "2026-11-02T14:51+00:00",
+     "text": "Lewis Hamilton (left) finished second in Mexico on Sunday, with teammate Charles Leclerc (right) fourth"
+    },
+    {
+     "source": "Sky Sports Football",
+     "trust": 2,
+     "url": "https://skysports.com/f1/news/12040/13607145/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-incident-at-mexico-city-grand-prix",
+     "title": "Hamilton calls for 'serious talks' at Ferrari after Leclerc incident",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://e0.365dm.com/26/11/1600x900/skysports-f1-lewis-hamilton_7395057.jpg?20261102160829"
+     },
+     "id": "4ba656038405dc0f",
+     "published": "2026-11-03T06:00+00:00",
+     "text": "Lewis Hamilton demands 'serious talks' at Ferrari after Charles Leclerc incident at Mexico City Grand Prix\nLewis Hamilton reiterated \"something needs to change\" after his latest incident with Ferrari team-mate Charles Leclerc cost the Scuderia victory in Mexico; watch Friday's practice sessions in Brazil from 3.30pm and 7pm, live on Sky Sports F1\nMonday 2 November 2026 18:05, UK\nLewis Hamilton has called for \"serious talks\" at Ferrari after his opening lap incident with Charles Leclerc at the Mexico City Grand Prix, while team principal Frederic Vasseur suggested there was not enough \"respect\" given.\nLeclerc attacked Hamilton around the outside going into Turn 4 but outbraked himself and cut the corner to take the lead, while Hamilton lost out to Red Bull's Max Verstappen after briefly going off track.\nThe stewards gave Leclerc a five-second time penalty which allowed Verstappen to overtake him during the pit stop phase, going on to win the race while Hamilton finished second and Leclerc in fourth.\n- How Mercedes can win Constructors' Championship this Sunday\n- Sao Paulo GP Schedule on Sky | F1 2026 Calendar | F1 2026 Standings\n- Got the Sky Sports app? Sign up for latest F1 alerts📱\n- Not got Sky? Latest Sky Sports deals or stream F1 with no contract 📺\n\"Ultimately, it was that, that lost us the win. I think we have to have some serious talks behind the scenes, for sure,\" said Hamilton.\n\"But the good thing is the team are working really hard. We've really improved our car. We're on the old engine at the weekend as well, so good result, good points. Shame we didn't get a win, some wins, some losses.\"\nOn the team radio during a red flag period for Valtteri Bottas' big crash in his Cadillac, Hamilton stated \"we've got big problems\" in reference to the Lap 1 incident.\nA frustrated Vasseur says his discussion with the drivers ahead of this weekend's Sao Paulo Grand Prix will be \"a matter of respect\".\nWhen asked if he could trust his drivers for not putting their individual objectives above the team's, Vasseur said: \"This is typically what means respect.\n\"They are not working for themselves, they are working for a group. They are working for a lot of sponsors. They are working for the 2,000 people of the company.\n\"The guys, when we had to push for the upgrades, they were working night and day. We have to keep this in mind.\"\nHamilton: Something needs to change\nHamilton and Leclerc have found themselves fighting together several times since becoming Ferrari team-mates at the start of 2025.\nAfter being forced wide by Leclerc at the Italian Grand Prix in September, Hamilton accused Ferrari of having \"no rules\" and demanded \"rules of engagement\" are required, which he had at Mercedes.\nFollowing their latest incident in Mexico, he said: \"I don't know what needs to happen now, how we discuss things when we go back. I'm not quite sure how I want to engage in that.\n\"Of course, the frustrations are.. I'm happy because Kimi just won the championship, so I'm really torn because, on one side, I'm happy, and on the other side, I'm really p*****.\n\"We lost valuable points, and we, as a team, worked so hard. We could have easily had a one-two. Really, we had the pace to do so.\n\"We're going into Turn 4 first and second. If we just hold position, anything can happen in the race, but when your team-mate works against you and then you lose positions like that, it's definitely tough.\n\"We'll just talk about it offline, and it's not really worth saying too much more."
+    }
+   ]
+  },
+  {
    "id": "c43394692d0",
    "kind": "news",
    "score": 17.0,
@@ -4197,6 +4309,85 @@
      "id": "62c83459ed05a602",
      "published": "2026-11-02T15:18+00:00",
      "text": "Anthropic’s new IPO filing puts its computing bill near $900 billion\nYahoo Finance"
+    }
+   ]
+  },
+  {
+   "id": "cba7a7e7446",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
+     "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP23261748916935-1793606256.jpg?resize=1920%2C1440"
+     },
+     "id": "ba7a7e744606694b",
+     "published": "2026-11-02T09:35+00:00",
+     "text": "Ukraine and Russia have accused each other of hacking into systems used to send out emergency alerts to citizens, raising fears of a new escalation of digital and psychological warfare tactics.\nThe systems’ apps sent out radiation alerts on Sunday and Monday to civilians before officials issued public clarifications.\nRecommended Stories\nlist of 4 items- list 1 of 4Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends\n- list 2 of 4Kherson braces for return of war as localised Russia-Ukraine truce ends\n- list 3 of 4US greenlights $2.1bn Patriot missile sale to Ukraine\n- list 4 of 4Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea\nThe fake threats began on the same day as a localised ceasefire in the Russian-occupied Kherson region came to an end on Sunday. The truce, which the United States said was brokered by first lady Melania Trump, is the longest so far in Russia’s more than four-year war on Ukraine. The ceasefire lasted for six days, during which humanitarian aid and evacuations were allowed in the Russian-occupied town of Olekshy.\nAl Jazeera’s Audrey Macalpine, reporting from Kyiv, said many people in Ukraine now expect renewed fighting along the front lines.\nHere’s what we know about the fake notifications:\nWhat happened?\nUkraine’s Air Force said late on Sunday that users of its Air Alert app, which warns people of incoming air attacks, received fake warnings of nuclear and chemical threats to areas in and around Kyiv.\nUsers were also warned of potential street combat and told that Russia’s hypersonic Oreshnik missile had been deployed.\n“The air alert app appears to have been subjected to enemy influence,” the Ukrainian Air Force said on Telegram.\n“There is no radiation threat! Stay calm and follow our updates on our channel.”\nUkraine’s Center for Strategic Communications blamed Russia. In a post on X, the agency pointed to the use of the Russian language in one of the fake messages. The Ukrainian government said a separate app created for the capital city was working normally.\nThe fake alerts came just after 10pm (20:00 GMT), startling a lot of people, Macalpine reported.\n“Even the speakers here in the centre of the city rang out warnings of these attacks,” she said. “But most people here understood within at least half an hour that this was some kind of hacking attack.”\nHours later on Monday morning, similar announcements came from Russia’s Ministry of Civil Defence, Emergencies and Disaster Relief, which said its warnings app came under a “massive cyberattack” and wrongly warned users of imminent drone attacks. The ministry did not name any suspects but said the alerts spread “false information”.\nMedia reports said the hackers warned Russians that “nuclear warheads mounted on P1-Suns [Ukrainian drones] had been launched on all regions” of the country. The alerts also instructed people to “urgently” stock up on food for three weeks and to hide.\nHas this happened before?\nThis appears to be the first time either Ukraine’s or Russia’s official alert apps have been hacked.\nHowever, cyberwarfare has long been a major part of the countries’ previous confrontations.\nRussian hackers have attacked Ukraine’s election systems in the past and in January 2022 attacked Ukrainian government and banking sites. Cyberwarfare tactics have only intensified since February 2022 when Russia launched a full-scale invasion of Ukraine. In late 2023, the Russian hacker group Sandworm took the private telecommunicatio"
+    },
+    {
+     "source": "Newsweek",
+     "trust": 2,
+     "url": "https://newsweek.com/ukraine-and-russia-hit-by-hoax-nuclear-threat-alerts-after-cyberattacks-12648269",
+     "title": "Ukraine and Russia Hit By Hoax Nuclear Threat Alerts After Cyberattacks",
+     "lang": "en",
+     "extra": {},
+     "id": "10c92129660949e7",
+     "published": "2026-11-02T09:37+00:00",
+     "text": "An alert said a nuclear-capable missile had been fired at Ukraine, while in Russia, messages warned of nuclear warheads on drones."
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/video/20261102-ukraine-and-russia-both-hit-by-cyberattacks-on-emergency-apps",
+     "title": "Ukraine and Russia both hit by cyberattacks on emergency apps",
+     "lang": "en",
+     "extra": {},
+     "id": "eca498b035c84720",
+     "published": "2026-11-02T10:20+00:00",
+     "text": "Authorities in both Ukraine and Russia said that their emergency alert mobile applications were targeted by cyberattacks late Sunday. Residents in Ukraine received messages that there was a high nuclear radiation danger in the capital Kyiv, while Russian officials said hackers had sent fake emergency alerts after gaining access to the mobile app for Russia’s Emergency Ministry."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/ukraine-and-russia-both-report-fake-emergency-alerts-after-cyberattacks-target-apps-as-limited-ceasefire-ends",
+     "title": "Ukraine and Russia both report fake emergency alerts after cyberattacks target apps as limited ceasefire ends",
+     "lang": "en",
+     "extra": {},
+     "id": "bc49a4f5fde2d857",
+     "published": "2026-11-02T14:35+00:00",
+     "text": "It was not clear if the attacks on Russia and Ukraine late Sunday were related."
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattacks-target-apps",
+     "title": "Ukraine and Russia report fake emergency alerts after cyberattacks target apps",
+     "lang": "en",
+     "extra": {},
+     "id": "c5189130ac5ed18d",
+     "published": "2026-11-02T15:06+00:00",
+     "text": "Authorities in Ukraine and Russia said their emergency alert mobile apps had been targeted by cyberattacks, with users in Ukraine receiving false warnings of an imminent nuclear threat. Moscow said that hackers had sent fake emergency alerts after gaining access to the Russian Emergency Situations Ministry’s mobile app, and that efforts were ongoing to restore the app's functionality."
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/russia-ukraine-war/russia-ukraine-report-cyberattacks-on-emergency-warnings-apps-after-oleshky-truce/4109445",
+     "title": "Russia, Ukraine report cyberattacks on emergency warnings apps after Oleshky truce",
+     "lang": "en",
+     "extra": {},
+     "id": "65384184e41bbdd1",
+     "published": "2026-11-03T07:51+00:00",
+     "text": "6-day local ceasefire brokered by US first lady Melania Trump ended on Sunday"
     }
    ]
   },
@@ -4540,6 +4731,63 @@
    ]
   },
   {
+   "id": "c90463b975a",
+   "kind": "news",
+   "score": 16.5,
+   "sensitive": true,
+   "distinct_sites": 4,
+   "title_hint": "Dead by Daylight Devs Apologize After TheBurntPeanut Stream Stirs Controversy in Its Community",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535362075724380",
+     "title": "Dead by Daylight Devs Apologize After TheBurntPeanut Stream Stirs Controversy in Its Community",
+     "lang": "en",
+     "extra": {},
+     "id": "f03d486363c279e4",
+     "published": "2026-11-02T09:51+00:00",
+     "text": "Behaviour Interactive has responded after what appeared to be a Dead by Daylight collaboration with controversial streamer TheBurntPeanut caused backlash in its community.\nHalloween weekend may have been more eventful for the team behind the hit multiplayer horror game than they may have expected. What started as a relatively contained negative reaction has since exploded into a full-blown breaking point for players, with some reporting that they've uninstalled Dead by Daylight after seeing its developers work with TheBurntPeanut.\nThe Canadian studio was first put on the hook by the more vocal members in its community when they discovered the streamer, who gained popularity over the last year for playing extraction shooters like Arc Raiders, was dipping his toes into the horror multiplayer game for the first time. The Halloween season was bound to result in a small uptick in attention for Dead by Daylight, but for those who have stuck by it through its 10 years of service, the jump scare arrived when the streamer revealed he had been gifted access to its entire rogues' gallery of Survivors and Killers.\nSome people on Twitter were not happy about TheBurntPeanut getting streamer privileges in Dead by Daylight https://t.co/wk5DsrRFeg\n— yeet (@Awk20000) October 31, 2026\n\"Wow! Wow!\" TheBurntPeanut said while scrolling through dozens of instant unlocks during his Halloween stream. \"Guys! I just got all the guys!\"\nDead by Daylight initially starts players with a small selection of playable characters, with anyone interested in unlocking others required to use in-game currency to purchase them. Costs can range from a somewhat small amount of earnable currency (Iridescent Shards) for original Survivors and Killers, to around $5 of premium currency (Auric Cells) for licensed characters, such as The Walking Dead's Rick Grimes or Alien's Xenomorph. Prices vary further for those looking to purchase cosmetics.\nNo one seemed to bat an eye at TheBurntPeanut's interest in Dead by Daylight, but receiving official support from the developers raised a series of new questions from fans. The nature of this collaboration stream was not previously detailed or promoted in any capacity, leaving many to criticize what the streamer also mocked as \"streamer privilege.\" The real issue for many, though, is with what it means to see Behaviour back this specific creator.\nTheBurntPeanut has been the subject of much controversy in his small amount of time in the spotlight for on-stream behavior many consider to be offensive. While others have defended him as simply \"edgy,\" Dead by Daylight's vibrant group of progressive users have said they feel Behaviour has betrayed those who have otherwise felt safe in the community.\n\"This is why I'm continuing to step further away from Dead by Daylight,\" one popular post on X/Twitter said. \"This is embarrassing, especially since there are still AMAZING creators who you haven't been approved into your program yet who have devoted their careers to DbD.\"\n\"For anyone not in the know,\" one popular Reddit thread posted in the aftermath of yesterday's stream said, \"DBD has added a bigoted creator to their creator platform.\"\nI cannot word how disappointing and disgusted I am.\nI know full well this is just 1 BHVR employee, ive met some amazing people in the space and they would never let this happen.\n@DeadbyDaylight you need to make a response and I'm hoping you don't double down here.\n— PotatoLegion (@PotatoLegionYT) November 1, 2026\nThere w"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/dead-by-daylight-devs-apologize-after-theburntpeanut-stream-stirs-controversy-in-its-community",
+     "title": "Dead by Daylight Devs Apologize After TheBurntPeanut Stream Stirs Controversy in Its Community",
+     "lang": "en",
+     "extra": {},
+     "id": "90463b975a0b987d",
+     "published": "2026-11-02T09:27+00:00",
+     "text": "Behaviour Interactive has responded after what appeared to be a Dead by Daylight collaboration with controversial streamer TheBurntPeanut caused backlash in its community.\nHalloween weekend may have been more eventful for the team behind the hit multiplayer horror game than they may have expected. What started as a relatively contained negative reaction has since exploded into a full-blown breaking point for players, with some reporting that they've uninstalled Dead by Daylight after seeing its developers work with TheBurntPeanut.\nThe Canadian studio was first put on the hook by the more vocal members in its community when they discovered the streamer, who gained popularity over the last year for playing extraction shooters like Arc Raiders, was dipping his toes into the horror multiplayer game for the first time. The Halloween season was bound to result in a small uptick in attention for Dead by Daylight, but for those who have stuck by it through its 10 years of service, the jump scare arrived when the streamer revealed he had been gifted access to its entire rogues' gallery of Survivors and Killers.\nSome people on Twitter were not happy about TheBurntPeanut getting streamer privileges in Dead by Daylight https://t.co/wk5DsrRFeg\n— yeet (@Awk20000) October 31, 2026\n\"Wow! Wow!\" TheBurntPeanut said while scrolling through dozens of instant unlocks during his Halloween stream. \"Guys! I just got all the guys!\"\nDead by Daylight initially starts players with a small selection of playable characters, with anyone interested in unlocking others required to use in-game currency to purchase them. Costs can range from a somewhat small amount of earnable currency (Iridescent Shards) for original Survivors and Killers, to around $5 of premium currency (Auric Cells) for licensed characters, such as The Walking Dead's Rick Grimes or Alien's Xenomorph. Prices vary further for those looking to purchase cosmetics.\nNo one seemed to bat an eye at TheBurntPeanut's interest in Dead by Daylight, but receiving official support from the developers raised a series of new questions from fans. The nature of this collaboration stream was not previously detailed or promoted in any capacity, leaving many to criticize what the streamer also mocked as \"streamer privilege.\" The real issue for many, though, is with what it means to see Behaviour back this specific creator.\nTheBurntPeanut has been the subject of much controversy in his small amount of time in the spotlight for on-stream behavior many consider to be offensive. While others have defended him as simply \"edgy,\" Dead by Daylight's vibrant group of progressive users have said they feel Behaviour has betrayed those who have otherwise felt safe in the community.\n\"This is why I'm continuing to step further away from Dead by Daylight,\" one popular post on X/Twitter said. \"This is embarrassing, especially since there are still AMAZING creators who you haven't been approved into your program yet who have devoted their careers to DbD.\"\n\"For anyone not in the know,\" one popular Reddit thread posted in the aftermath of yesterday's stream said, \"DBD has added a bigoted creator to their creator platform.\"\nI cannot word how disappointing and disgusted I am.\n— PotatoLegion (@PotatoLegionYT) November 1, 2026\nI know full well this is just 1 BHVR employee, ive met some amazing people in the space and they would never let this happen.\n@DeadbyDaylight you need to make a response and I'm hoping you don't double down here.\nThere w"
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/dead-by-daylight-theburntpeanut-controversy-response",
+     "title": "Behaviour Interactive Addresses Dead by Daylight Controversy",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/leatherface-dead-by-daylight.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "e2d97f2a5e50a695",
+     "published": "2026-11-03T11:13+00:00",
+     "text": "Behaviour Interactive is under fire for supporting VTuber TheBurntPeanut following a Halloween stream. Many community members dislike the controversial streamer due to repeated accusations of offensive behavior, alleged viewbotting, and the use of racial and homophobic slurs. This caused dozens of players to uninstall Dead by Daylight and voice their discontent on social media. Behaviour Interactive is doing damage control and has issued a statement addressing the matter.\nTheBurntPeanut is one of the most popular streamers on Twitch right now. To celebrate Halloween, he played Dead by Daylight, an online multiplayer game featuring several horror icons, for the first time. The official Dead by Daylight account tuned into the stream and granted the streamer all paid DLC packs. TheBurntPeanut is a rather divisive streamer in the gaming community, which is why this sparked such a heated discussion online. When the streamer apparently refused the gift, citing the controversy that would follow, the DeadbyDaylight Twitch account answered with \"We can take the heat!\"\nBehaviour Interactive responds to TheBurntPeanut controversy in official statement\nAccording to the statement, Behaviour Interactive gifted free items to TheBurntPeanut after noticing a \"very large\" audience tuning into a Dead by Daylight stream to watch someone who had never played the game before. The post explains that even though it is not unusual for the dev team to grant content creators in-game content to help promote Dead by Daylight to a new audience, it failed to do its due diligence, analyze the streamer's past content, and verify whether he represented the team's values.\nThe content has now been removed from TheBurntPeanut's account. Approval methods for granting free content are being reviewed and updated to prevent similar incidents from occurring in the future. Behaviour Interactive underlines that it values respect and diversity. Its goal is for Dead by Daylight to be a welcoming space where players feel safe being themselves.\nAccording to the official statement, the choice to gift the items was hastily made by an unnamed member of the team rather than being pondered and discussed by the team as a group. Behaviour Interactive promises that action will be taken internally against those involved, but no further details will be shared, as it is a confidential matter. Despite the company's attempt to make amends with the community, the comments section was filled with angry fans. Many players felt that its justification was lacking, and the consequences felt minimal for the disorderly team."
+    },
+    {
+     "source": "Kotaku",
+     "trust": 2,
+     "url": "https://kotaku.com/dead-by-daylight-theburntpeanut-streamer-controversy-behaviour-interactive-2000752726",
+     "title": "Dead By Daylight Developers Launch A Second Lengthy Attempt At Damage Control Following TheBurntPeanut Controversy",
+     "lang": "en",
+     "extra": {},
+     "id": "0d62f3eeec3ff5a1",
+     "published": "2026-11-03T13:30+00:00",
+     "text": "Halloween hangovers continue for Behaviour Interactive"
+    }
+   ]
+  },
+  {
    "id": "c6eaa1b8a94",
    "kind": "news",
    "score": 16.5,
@@ -4736,100 +4984,6 @@
      "id": "faa9d3bed22cc96d",
      "published": "2026-11-02T17:11+00:00",
      "text": "submitted by\n/u/armando_rod\nto\nr/Android\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "c7091c7ad45",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 7,
-   "title_hint": "‘I let it all out’ – Emotional Kimi Antonelli makes F1 history in Mexico",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/f1/mexico-lewis-hamilton-italian-mexico-city-max-verstappen-b3077253.html",
-     "title": "‘I let it all out’ – Emotional Kimi Antonelli makes F1 history in Mexico",
-     "lang": "en",
-     "extra": {},
-     "id": "7091c7ad45a2dbcc",
-     "published": "2026-11-02T01:46+00:00",
-     "text": "The 20-year-old clinched the title by finishing third on Sunday."
-    },
-    {
-     "source": "Khaleej Times",
-     "trust": 2,
-     "url": "https://khaleejtimes.com/sports/f1/kimi-antonelli-youngest-f1-champion-20-years-old-mexico-city-grand-prix-formula-one",
-     "title": "Antonelli makes history as youngest F1 champion at 20 years old",
-     "lang": "en",
-     "extra": {},
-     "id": "d56420de59312dd9",
-     "published": "2026-11-02T03:43+00:00",
-     "text": "UPDATE 4-Motor racing-Antonelli makes history as youngest F1 champion at 20 years old"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
-     "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261101__D64A4UN__v1__HighRes__AutoPrixF1MexRace-1793590846.jpg?resize=1920%2C1440"
-     },
-     "id": "b4312c80d4d377a2",
-     "published": "2026-11-02T03:51+00:00",
-     "text": "Kimi Antonelli has become Formula One’s youngest world champion at 20 years and 68 days old with his third-place finish for Mercedes at the Mexico City Grand Prix.\nThe first Italian champion since 1953 sobbed with joy over the team radio as he took the chequered flag at the high-altitude Autodromo Hermanos Rodriguez on Sunday.\nRed Bull’s Max Verstappen won the red-flagged and restarted race for his second win of the season, but Antonelli’s overall lead reached an unassailable 119 points after finishing third.\nFerrari’s Lewis Hamilton started from pole position and took a close second place – after clashing with teammate Charles Leclerc – on an afternoon of drama with two safety cars, multiple crashes and an agonising 33-minute halt with 25 of the 71 laps remaining.\n“Get in there, Kimi. Champion of the world,” said his race engineer Peter Bonnington, a regular target for the young driver’s practical jokes.\n“We did it thank you so much,” gasped the Italian, whose parents and sister were there to embrace him when he stepped out of the car. He was then mobbed by his pit crew.\nThe previous youngest champion was Germany’s Sebastian Vettel, who took the first of his four with Red Bull at 23 years and 134 days in 2010.\n“I’m speechless. I’m trying to process what has just happened,” said Antonelli in comments to the crowd.\n“It’s been an incredible season, and to share this podium with Max and Lewis is truly incredible. And looking forward to some more battles in the future.\n“This weekend I did feel a bit more tense, but I’m just so happy that we got it done, and now we can enjoy the rest of the season,” he added, with an Italian flag wrapped around his shoulders on the podium and spraying the champagne with abandon.\nThe last Italian champion was Alberto Ascari, 73 years earlier.\n“On the last lap, I just backed off because I just couldn’t see the track. I was getting emotional,” Antonelli told a later news conference.\n“So it was just good to bring it home.”\nVerstappen second in drivers’ standings\nLeclerc finished fourth, McLaren’s outgoing champion Lando Norris was fifth and Antonelli’s teammate George Russell only sixth in a race he had to win to have any chance of staying in contention.\nThat also meant Verstappen went second in the overall standings, with Hamilton third and pre-season favourite Russell plummeting to fourth and 130 points behind Antonelli.\nMercedes have 630 points in the constructors standings to Ferrari’s 504 and could clinch that title in Brazil next weekend.\nThe race was stopped, after a brief safety car deployment, on lap 46 of 71 after Valtteri Bottas suffered a high-speed front-left suspension failure down the straight with his Cadillac pitched uncontrollably into the barriers at turn one.\nBottas received medical attention in the car but then walked to an ambulance, giving a thumbs up, as the rest of the field returned to the pits. He went to the medical centre and was released.\nVerstappen led from the restart, challenged by Hamilton with Antonelli passing Leclerc, and there was then another safety car when Lindblad and Piastri collided – with the field released to race again with nine laps to the chequered flag.\n‘Pushed out by my own teammate’\nHamilton had led away from the original pole position, for the 105th time in his career but first for Ferrari at a full grand prix, with Leclerc slotting in behind from third on the grid.\nThe British driver held him off as they went side by side through the opening corners but Lecle"
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/02/kimi-antonelli-becomes-youngest-f1-champion-as-max-verstappen-wins-race",
-     "title": "Kimi Antonelli becomes youngest F1 champion as Max Verstappen wins race",
-     "lang": "en",
-     "extra": {},
-     "id": "b90bcebc8f658d23",
-     "published": "2026-11-02T04:54+00:00",
-     "text": "Mercedes driver Kimi Antonelli made history and become the youngest Formula 1 world champion. The 20-year-old driver finished third in the Mexico City Grand Prix race behind Max Verstappen and Lewis Hamilton."
-    },
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf",
-     "title": "Kimi Antonelli makes history as youngest F1 champion",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79825175_6.jpg"
-     },
-     "id": "1d9d9afd19abf67a",
-     "published": "2026-11-02T05:01+00:00",
-     "text": "Kimi Antonelli became Formula One's youngest world champion at 20 years and 68 days old on Sunday when he finished third in the Mexico City Grand Prix behind race winner Max Verstappen and Lewis Hamilton.\nThe previous recordholder was Germany's Sebastian Vettel, who first became a world champion at age 23 in 2010.\nAntonelli is also the first Italian champion since 1953.\n\"I'm speechless. I’m trying to process what has just happened,\" said Antonelli after finishing the race.\nHis parents and sister were there to embrace him when he stepped out of the car.\nHe was then mobbed by his pit crew.\n'An incredible season'\n\"It's been an incredible season, and to share this podium with Max and Lewis is truly incredible. And looking forward to some more battles in the future,\" the 20-year-old said.\nAntonelli, who secured the title with four races remaining, said the final lap was complicated by the excitement of what he had achieved.\n\"I think I lost two seconds because I could not see ahead, I think I saw two Ferraris,\" he said. \"It was very special, a lot of memories went through my mind at that moment, and I let it all out after achieving one of my biggest dreams.\"\nAntonelli has now risen to 380 points with four races remaining. Verstappen (261) snuck past Hamilton (259) in the standings, but they will be racing for second the rest of the way.\nAntonelli started the race in fourth and needed to finish ninth or better to secure the championship on Sunday no matter what his peers did.\nHe had a relatively smooth run, though the race was interrupted by a red flag around Lap 45 when Valtteri Bottas crashed.\nVerstappen, meanwhile, claimed his sixth victory at the Mexico City Grand Prix, further cementing his affinity with the circuit.\nAfter Mexico, F1 will head to Brazil and then to Las Vegas.\nThe final two Grands Prix are scheduled to be held in Qatar and Abu Dhabi. But it remains uncertain whether they will take place, given the geopolitical instability in the region."
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/sport/motorsport/champion-of-the-world-listen-to-the-radio-that-made-kimi-antonelli-cry-in-mexico-city-1.500732403",
-     "title": "'Champion of the world!’: Listen to the radio that made Kimi Antonelli cry in Mexico City",
-     "lang": "en",
-     "extra": {},
-     "id": "ffeac1b0422196c2",
-     "published": "2026-11-02T07:17+00:00",
-     "text": ""
-    },
-    {
-     "source": "Google News Sports EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQzZKX3U4WnU1Z20yLXdDYmR2ZEtCZzZXTlVLRUlKS2pBUnhGRzVuOUFKc0x6Z1lHRWEzb0k4V0RQenBSWWZ3d1RSV1pmSno4UFBEWV83TkRpTHlpeUg2VXcxNzdNYlVQMXR0OEVKeHBpS1NPWlFOY2M2S3V2SmFCZi1tMk9LU0MwVEtMY0FaQ0JDbDhUdzNqbld0eHNmYlYtUHM2R0NKT0ZnYUxMRHhXaHd1NVZKdXJy0gG-AUFVX3lxTE52N2h3TzNOM01oQ1YxTEpiRWFlYmk2NjlUZnVVSklRcXJ6Ukx6VlRRLUJiRl9wNFdJWExUdFNOeG8tb0tXTmNnVmJPNDgyVEVPWkR2eUp6OVZYdDBXTUxTRzlackFaX1l4OGx3d2FYTmViLVhTUy1kTW5ab1RRTWhqTWRGOUl1THhmejhRUmRoTktmS3JyY2JEM2MydUE2TUx6c2dtRUt0RHlISldySXJpT2RVcHl3UWFDRFY2Wmc?oc=5",
-     "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "8932d3691c209b7e",
-     "published": "2026-11-02T04:11+00:00",
-     "text": "- Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City Al Jazeera\n- Kimi Antonelli makes F1 history as youngest world champion with maiden title ESPN\n- Italy revels in 20-year-old Kimi Antonelli's Formula One world championship: \"Kimi is one of us\" CBS News\n- Mexican Grand Prix briefing: Antonelli seals F1 title with third place, Verstappen wins - The Athletic The New York Times\n- Kimi Antonelli wants special photo with Lewis Hamilton and Max Verstappen on his wall after F1 title Motorsport.com"
     }
    ]
   },
@@ -5092,6 +5246,89 @@
      "id": "74ba6465fa6797a9",
      "published": "2026-11-02T22:00+00:00",
      "text": "According to The Information, Apple is developing a $1,000 HomeView Ultra smart home hub with a 9-inch touchscreen mounted on a motorized arm that can follow users around a room and autonomously respond to its surroundings. It's also said to be experimenting with more ambitious home robots, including a wheeled robot that follows people, a smart home drone and a machine capable of folding laundry. Notebookcheck reports: According to the report, HomeView Ultra will feature a larger 9-inch touchscreen mounted on a robotic arm. This arm can automatically turn the screen toward the user. With a camera and several sensors, this smart home hub is said to be \"fully aware\" of its surroundings and capable of acting autonomously. This autonomy ranges from turning on the lights when someone enters the room to shooing a cat away when it jumps onto a table. These sensors are also intended to prevent the arm from hitting nearby objects with the display.\nApple is reportedly currently planning to announce this smart home hub in 2027 for around $1,000, but according to The Information, its launch could be delayed until 2028. The reason is allegedly the software, which has not yet been finalized, while the hardware is said to be ready for market already.Read more of this story at Slashdot."
+    }
+   ]
+  },
+  {
+   "id": "c41fe9a0984",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Iran awaits Trump's next moves after the midterm elections. Here's what we know.",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/video/iran-awaits-trumps-next-moves-after-the-midterm-elections-heres-what-we-know",
+     "title": "Iran awaits Trump's next moves after the midterm elections. Here's what we know.",
+     "lang": "en",
+     "extra": {},
+     "id": "41fe9a09848d2b05",
+     "published": "2026-11-02T15:12+00:00",
+     "text": "President Trump may choose to restart operations against Iran after the midterms. CBS News' Courtney Kealy reports."
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
+     "title": "What might Trump have planned for Iran following the midterm election?",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/79828848_6.jpg"
+     },
+     "id": "e9970aeee1f6a0a4",
+     "published": "2026-11-02T15:41+00:00",
+     "text": "The US Republican Party is entering the midterm elections with Donald Trump's administration seemingly unable to either win or diplomatically resolve the Iran war. If the Republicans lose control of the US Congress, the administration will have to navigate an entirely different political landscape for the rest of Trump's second term, but the course of the war is not decided just in Washington — or in Tehran.\nSeeking to identify key factors that could tip the balance towards war or peace in Iran, DW spoke with Omid Memarian of DAWN, a Washington-based think tank focused on reforming the US's Middle East policy; the Finland-based political scientist Leila Morovati; and Babak Rezaeedaryakenari, a professor of international relations at Leiden University in the Netherlands.\n1. US midterms: Is Trump set for more scrutiny?\nA Democratic victory would push Trump to focus more on domestic issues and would likely expose the financial costs of the war in the US Congress, Memarian told DW. However, Trump could continue limited strikes on Iran without formally declaring war.\nMemarian said Trump would seek a way out that \"saves face\" after Tuesday's election.\nWith Trump, Memarian said, Iran is engaged in a \"big gamble with someone who does not behave like a conventional politician.\" This increases the risk of renewed attacks.\nRezaeedaryakenari made a similar point: \"The president has broad authority and freedom of action, especially in foreign policy and the conduct of military operations. A Republican defeat, even with increased pressure from Congress, doesn't necessarily stop new attacks.\"\n2. Deadlock in Israel puts pressure on Netanyahu\nIsrael's October 27 election ended in deadlock. Neither the coalition around incumbent Prime Minister Benjamin Netanyahu, nor the camp supporting former IDF chief Gadi Eisenkot managed to secure an outright majority.\nMemarian said the political uncertainty could push Netanyahu to act on major decisions while he still wields power — making the transition period the \"most fragile and dangerous\" for renewed escalation.\nA change of government in Israel would not fundamentally alter Israel's Iran policy, Memarian said. Netanyahu's main rival, former military chief Gadi Eisenkot, \"may be more deferential to America\" and coordinate more closely with Washington. But ties with Trump are personal, and Eisenkot \"certainly won't be like Netanyahu, who could sell any plan or scenario to Trump.\"\nRezaeedaryakenari said Israel's security concerns about Iran \"are not limited to Netanyahu himself.\" A new government could change the timing of a confrontation and coordination with Washington, but the security establishment and ruling coalition would also shape the risk of an attack, he said.\n3. Nuclear impasse: 'The ladder of tension'\nIran's nuclear program remains the biggest open issue between the governments, with the US rejecting the Iranian narrative that the program is meant only for civilian use.\nBut the two sides are also at odds on how the talks themselves should be set up, Memarian said.\n\"The US wants negotiations to start not only with a focus on Iran's nuclear program, but with concessions right at the outset,\" he said.\nIran seeks the lifting of sanctions and the release of frozen assets before nuclear talks begin. If the sides don't move closer, Memarian warns, the odds of a renewed war rise.\nUntil the sides agree on an agenda, Memarian said, they are likely to keep \"climbing the ladder of tension.\"\nMorovati, a Finland-ba"
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/world/trump-downplays-renewed-us-strikes-on-iran-after-midterm-elections/4109187",
+     "title": "Trump downplays renewed US strikes on Iran after midterm elections",
+     "lang": "en",
+     "extra": {},
+     "id": "4d4fc0f726cf1f2c",
+     "published": "2026-11-02T20:52+00:00",
+     "text": "US president says diplomacy is progressing, urges voters to consider his efforts to prevent Tehran from acquiring nuclear weapons"
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/15bbc4a51d5a",
+     "title": "Trump downplays renewed US strikes on Iran after midterm elections",
+     "lang": "en",
+     "extra": {},
+     "id": "fa280cc59fc70ef0",
+     "published": "2026-11-02T21:14+00:00",
+     "text": "US president rules out any strikes when questioned, citing diplomatic progress while insisting Tehran must never acquire nuclear weapons."
+    },
+    {
+     "source": "BBC World",
+     "trust": 2,
+     "url": "https://bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+     "title": "US strikes Iran ahead of midterm elections",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg"
+     },
+     "id": "18070925b842c3ac",
+     "published": "2026-11-03T03:39+00:00",
+     "text": "- Published\nThe US has launched strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.\nIranian state news agency IRNA reported several explosions on the island on Monday.\nThe US officials described the strikes as limited and said they were in response to the Iran's Islamic Revolutionary Guard Corps (IRGC) firing upon a US aircraft.\nThe BBC has contacted US Central Command (Centcom), the part of the US military responsible for operations in the Middle East, for comment.\nIt comes ahead of the US midterm elections, which will determine whether the Republicans or Democrats control Congress.\nTrump has been facing falling polling numbers and pressure from within his party to end the war, which began when the US and Israel attacked Iran in February.\nEarlier on Monday, he told reporters that he was in \"no rush\" to ramp up strikes on Iran.\n\"One way or the other, we will do something, but there is no rush. We crippled them financially,\" he told news outlet Axios. \"They have no money, no gasoline and their people are getting very tired of it.\"\nHe also said the US \"might need to go after Pickaxe\", a site linked to Iran's nuclear programme, in an interview with Fox News on the eve of the midterm elections.\nThis was \"not a big deal\" and could be done in \"one hour\", Trump added.\nThere has been mounting speculation in the last few days that the US may resume significant strikes in Iran again after the midterms. But asked by a reporter on Monday if that was the case, Trump said \"no\".\nIran's foreign minister Abbas Araghchi told the IRNA earlier that \"very intensive\" talks to try and end the war are under way with the US via mediators.\nHe also said Tehran was prepared for both diplomatic and military scenarios \"more than ever before\" and that it was up to the US to choose between a \"wise path\" of negotiation or the \"mistake of military aggression\"."
+    },
+    {
+     "source": "DW English",
+     "trust": 2,
+     "url": "https://dw.com/en/can-us-midterm-election-really-change-trump-s-iran-policy/a-79840683?maca=en-rss-en-all-1573-rdf",
+     "title": "Can US midterm election really change Trump's Iran policy?",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static.dw.com/image/78060063_6.jpg"
+     },
+     "id": "101cb01bd78632a8",
+     "published": "2026-11-03T12:55+00:00",
+     "text": "The US election this Tuesday is shaping up to be one of the most consequential midterm votes in modern US history, with Washington's relationship with Israel and its war on Iran right at the center of the political standoff.\nMany Democrats, including the party's rising stars such as Ohio Senate nominee Abdul El-Sayed, are outspoken critics of the Iran war, with El-Sayed calling the conflict \"illegal\" and \"stupid.\"\nUS President Donald Trump sought to downplay the effects of the war during the campaign. Last week, he claimed only \"one or two targets\" remained in Iran and that those could be settled in 10 minutes. However, he immediately added that messages are still being exchanged, Tehran shows strong interest in a deal, and the US has plenty of time to deal with the crisis.\nAt the same time, there are reports of the US and Israel preparing to launch a new round of strikes on Iran just after the midterm election and pro-war Republicans such as Senator Ted Cruz are putting pressure on the White House to deal with \"the threat\" posed by Iran.\n\"I have urged arming the Iranian protesters to overthrow the regime,\" Cruz said in an online post after spending a day with Trump.\nBehind the scenes, analysts warn that the Washington political elite may not be as divided on Iran as it appears. Moreover, even a resounding Democrat victory might not give them enough leverage on the Trump administration regarding the Iran war.\nDemocrats and Republicans broadly 'in consensus' on Iran\nTalking to DW, former National Security Advisor John Bolton said the Democrats are likely to secure a majority in the House of Representatives and possibly the Senate, handing them control of the Iran war funding.\nThe US Congress \"can allocate defense budgets or impose restrictions on the use of financial resources,\" Bolton said.\nNevertheless, Bolton points out that the US president can veto congressional legislation, which would then require a two-thirds majority in both assemblies to overcome.\n\"Even if Democrats hold a majority in both houses, their influence will be limited to the legislative and political tools of Congress,\" he said.\nUS diplomat and Iran expert Alan Eyre points to a kind of \"bipartisan consensus\" that Republicans and Democrats have on Iran.\n\"Both major US parties share significant common ground in their opposition to the political structure of the Islamic Republic and in their support for policies aimed at exerting pressure on Tehran to change its behavior,\" he said.\nWhat does Tehran think?\nWhile warning of a \"crushing response\" to any new strikes on underground sites, Tehran has confirmed ongoing indirect communication via Doha and Muscat, keeping its diplomatic option open.\nShahin Modarres, an international security analyst leading the Iran team at ITSS Verona, told DW that Tehran's actions are based on a miscalculation. The regime, he argues, assumes that a Democratic Congress can easily restrain the White House.\nTehran's strategy in dragging out peace talks, pressuring the Strait of Hormuz, and letting fuel prices weigh on US voters, aims to deny Trump a win before November. However, Modarres notes this strategy may backfire after the election, as the Trump administration will no longer have any reason to delay its moves.\nThis approach also ignores the fact that both US parties largely agree on not letting Iranian develop nuclear weapons, he said.\nWill Trump launch new strikes and declare victory?\nTrump's ally-turned-critic John Bolton believes that T"
     }
    ]
   },
@@ -6066,120 +6303,6 @@
    ]
   },
   {
-   "id": "cd507f9b2dd",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 2,
-   "title_hint": "Binance resumes withdrawals after billions stolen in hack",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/02/binance-resumes-withdrawals-after-billions-stolen-in-hack",
-     "title": "Binance resumes withdrawals after billions stolen in hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://images.euronews.com/articles/stories/09/90/47/21/1200x675_cmsv2_9e76da46-563f-58b8-bd23-76e57c3d61f5-9904721.jpg"
-     },
-     "id": "d507f9b2dd766712",
-     "published": "2026-11-02T06:10+00:00",
-     "text": "Binance said it had seen withdrawals of around $4.7 billion (€4.21bn) on Sunday, after more than $6 billion (€5.38bn) in virtual assets were stolen from the cryptocurrency exchange in a major hack for which the FBI said North Korea was responsible.\nBinance is the world's largest cryptocurrency exchange by daily trading volume. News of the hacking attack, which is thought to be the biggest-ever crypto heist, caused the prices of most major cryptocurrencies to fall sharply on Friday.\nThe company has offered reassurances that it will cover the losses from the attack, saying it has used company funds to buy tokens to replenish 90% of what was stolen.\nBinance suspended user withdrawals after the attack but said they would resume in phases, the first of which began on Sunday.\nBetween 0600 GMT (0700 CET) and 1530 GMT (1630 CET), the platform said it had processed $4.65 billion (€4.17bn) in withdrawals and $1.01 billion (€905m) in deposits.\nThe net outflow of $3.64 billion (€3.26bn) amounted to about 2.1% of the total assets managed by the company.\nThe US Federal Bureau of Investigation accused North Korea of being behind the hack in a statement on Saturday, confirming earlier suspicions from private investigators and analysts that a Pyongyang-affiliated group called TraderTraitor was responsible.\nTraderTraitor is the same group blamed for a $1.5 billion (€1.34bn) theft from the Bybit platform in February last year.\n\"The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion (€5.38bn) in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026,\" the statement said.\nThe FBI added that it had observed \"TraderTraitor actors\" converting stolen assets into Ethereum and expected those assets to be laundered further through decentralised finance platforms and instant swap services.\nIt said it was urging private sector entities \"to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.\"\nUS President Donald Trump cast doubt on North Korea's involvement in the hack.\n\"I'm not concerned. We're learning about it. We don't know if it's North Korea,\" Trump told reporters at his residence in Florida late on Saturday.\nThe president often reflects with pride on the summits he held with North Korean leader Kim Jong Un during his first term.\n'Commitment' to cover losses\nBinance said on Saturday that it had set aside more than $6.34 billion (€5.68bn) in company funds to cover losses resulting from the hack.\n\"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident,\" the company said on X.\nIt said it had used company funds to buy tokens to replenish 90% of the stolen assets, while the remaining 10% of tokens were \"less liquid, which means they may take longer to source in the required amounts.\"\nThe attack on Binance came as many observers expressed concerns that the ever-expanding capabilities of artificial intelligence models could compromise cryptography and IT security protocols.\nBitcoin plunged nearly 5% following news of the hack, while Ethereum dropped nearly 6% and BNB, Binance's native cryptocurrency, tumbled nearly 10%.\nThe sheer scale of the hack has put a spotlight on North Korea's capacity to find illicit means of acquiring funds, despite facing extensive international sanctions over its nu"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/cc3ff44bdf95",
-     "title": "Binance covers 95 percent of $6.3B stolen in record crypto hack",
-     "lang": "en",
-     "extra": {},
-     "id": "50c692b0815b7d99",
-     "published": "2026-11-03T07:17+00:00",
-     "text": "The world's largest cryptocurrency exchange says frozen funds, company assets and a strategic bitcoin reserve will be used to cover the losses, as billions of dollars are withdrawn following the breach."
-    }
-   ]
-  },
-  {
-   "id": "cba7a7e7446",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts?traffic_source=rss",
-     "title": "Nuclear radiation in Russia, Ukraine? No, just hacked warning alerts",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP23261748916935-1793606256.jpg?resize=1920%2C1440"
-     },
-     "id": "ba7a7e744606694b",
-     "published": "2026-11-02T09:35+00:00",
-     "text": "Ukraine and Russia have accused each other of hacking into systems used to send out emergency alerts to citizens, raising fears of a new escalation of digital and psychological warfare tactics.\nThe systems’ apps sent out radiation alerts on Sunday and Monday to civilians before officials issued public clarifications.\nRecommended Stories\nlist of 4 items- list 1 of 4Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends\n- list 2 of 4Kherson braces for return of war as localised Russia-Ukraine truce ends\n- list 3 of 4US greenlights $2.1bn Patriot missile sale to Ukraine\n- list 4 of 4Dead dolphins, naval mines: Russia-Ukraine war destroys the Black Sea\nThe fake threats began on the same day as a localised ceasefire in the Russian-occupied Kherson region came to an end on Sunday. The truce, which the United States said was brokered by first lady Melania Trump, is the longest so far in Russia’s more than four-year war on Ukraine. The ceasefire lasted for six days, during which humanitarian aid and evacuations were allowed in the Russian-occupied town of Olekshy.\nAl Jazeera’s Audrey Macalpine, reporting from Kyiv, said many people in Ukraine now expect renewed fighting along the front lines.\nHere’s what we know about the fake notifications:\nWhat happened?\nUkraine’s Air Force said late on Sunday that users of its Air Alert app, which warns people of incoming air attacks, received fake warnings of nuclear and chemical threats to areas in and around Kyiv.\nUsers were also warned of potential street combat and told that Russia’s hypersonic Oreshnik missile had been deployed.\n“The air alert app appears to have been subjected to enemy influence,” the Ukrainian Air Force said on Telegram.\n“There is no radiation threat! Stay calm and follow our updates on our channel.”\nUkraine’s Center for Strategic Communications blamed Russia. In a post on X, the agency pointed to the use of the Russian language in one of the fake messages. The Ukrainian government said a separate app created for the capital city was working normally.\nThe fake alerts came just after 10pm (20:00 GMT), startling a lot of people, Macalpine reported.\n“Even the speakers here in the centre of the city rang out warnings of these attacks,” she said. “But most people here understood within at least half an hour that this was some kind of hacking attack.”\nHours later on Monday morning, similar announcements came from Russia’s Ministry of Civil Defence, Emergencies and Disaster Relief, which said its warnings app came under a “massive cyberattack” and wrongly warned users of imminent drone attacks. The ministry did not name any suspects but said the alerts spread “false information”.\nMedia reports said the hackers warned Russians that “nuclear warheads mounted on P1-Suns [Ukrainian drones] had been launched on all regions” of the country. The alerts also instructed people to “urgently” stock up on food for three weeks and to hide.\nHas this happened before?\nThis appears to be the first time either Ukraine’s or Russia’s official alert apps have been hacked.\nHowever, cyberwarfare has long been a major part of the countries’ previous confrontations.\nRussian hackers have attacked Ukraine’s election systems in the past and in January 2022 attacked Ukrainian government and banking sites. Cyberwarfare tactics have only intensified since February 2022 when Russia launched a full-scale invasion of Ukraine. In late 2023, the Russian hacker group Sandworm took the private telecommunicatio"
-    },
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://newsweek.com/ukraine-and-russia-hit-by-hoax-nuclear-threat-alerts-after-cyberattacks-12648269",
-     "title": "Ukraine and Russia Hit By Hoax Nuclear Threat Alerts After Cyberattacks",
-     "lang": "en",
-     "extra": {},
-     "id": "10c92129660949e7",
-     "published": "2026-11-02T09:37+00:00",
-     "text": "An alert said a nuclear-capable missile had been fired at Ukraine, while in Russia, messages warned of nuclear warheads on drones."
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/video/20261102-ukraine-and-russia-both-hit-by-cyberattacks-on-emergency-apps",
-     "title": "Ukraine and Russia both hit by cyberattacks on emergency apps",
-     "lang": "en",
-     "extra": {},
-     "id": "eca498b035c84720",
-     "published": "2026-11-02T10:20+00:00",
-     "text": "Authorities in both Ukraine and Russia said that their emergency alert mobile applications were targeted by cyberattacks late Sunday. Residents in Ukraine received messages that there was a high nuclear radiation danger in the capital Kyiv, while Russian officials said hackers had sent fake emergency alerts after gaining access to the mobile app for Russia’s Emergency Ministry."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/world/ukraine-and-russia-both-report-fake-emergency-alerts-after-cyberattacks-target-apps-as-limited-ceasefire-ends",
-     "title": "Ukraine and Russia both report fake emergency alerts after cyberattacks target apps as limited ceasefire ends",
-     "lang": "en",
-     "extra": {},
-     "id": "bc49a4f5fde2d857",
-     "published": "2026-11-02T14:35+00:00",
-     "text": "It was not clear if the attacks on Russia and Ukraine late Sunday were related."
-    },
-    {
-     "source": "The Register",
-     "trust": 2,
-     "url": "https://theregister.com/security/2026/11/02/nuclear-threats-and-street-brawls-russia-ukraine-report-attacks-on-their-emergency-alert-apps/5306901",
-     "title": "Nuclear threats and street brawls: Russia, Ukraine report attacks on their emergency alert apps",
-     "lang": "en",
-     "extra": {},
-     "id": "65e9b7c03bef310f",
-     "published": "2026-11-02T14:45+00:00",
-     "text": "Cyberattacks on both Russia’s and Ukraine’s emergency alert apps resulted in fake messages about missile and nuclear strikes broadcast to the public.\nOfficials from both countries confirmed the attacks, which occurred at similar times, on Sunday evening.\nAccording to public statements and messages sent via social media, Ukraine’s alert app was hit first, with the country’s Air Force quick to dispel nuclear fears.\n\"The Air Alert app has likely been compromised,\" it said via Telegram at around 2100 UTC. \"There is no radiation threat! Stay calm, follow our messages on our channel!\"\nAt around 0030 UTC on Monday, Russia's Ministry of Emergency Situations confirmed the country’s app had also been abused, with fake messages sent to citizens' devices.\n\"Attention! The Russian Ministry of Emergency Situations' mobile app has been subjected to a massive cyberattack, allowing attackers to send fake information to the public,\" it said, also via Telegram. \"Work is currently underway to patch the vulnerability and restore normal operation.\"\nThe ministry issued an update around 90 minutes later, saying the app was once again functioning normally, and pointing out that an attack on the app was not the same as a compromise of the state’s national alert system.\n\"Citizens are alerted through primary channels: regional and municipal alert systems (sirens, loudspeakers), communication networks (SMS messaging), and television and radio broadcasts. The mobile app is merely an additional, supporting information service,\" it stated.\nUkraine's Ministry of Digital Affairs also issued a public announcement reminding citizens about how to receive emergency warnings while its “Alarm!” app was down. These include enabling iOS and Android emergency alerts, state-controlled sirens, and other official sources, such as the official social media accounts of Ukraine's government.\nAccording to the messages sent to devices after the compromise of Ukraine's alert app, the fake warnings pertained to various threats, such as street fights in Kyiv, chemical attacks, and radiation hazards.\nAlerts about the threat of nuclear fallout from official government warning systems would normally lead to panic, however, one of the earliest messages sent to citizens was written in Russian and referenced the \"Oreshnik\" missile, which was an immediate signal that the message may not be genuine.\nEquivalent alerts sent to Russian citizens also warned of impending nuclear strikes \"at all regions of Russia,\" referencing \"P1-Sun,\" the name of a Ukrainian attack drone.\nOleksander Merezhko, who chairs the Ukrainian parliament's foreign affairs committee and noted the suspicious Russian-language alert, told the BBC the attack was almost certainly part of Russia's cyber war.\n\"It's a very unpleasant fact but it is part of cyber war and people in Ukraine understand that,\" he said. \"It is possible and we are quite prepared for such possibilities.\"\nRussia has not explicitly blamed Ukraine for the attack on its app, and official sources say the app is running as normal.\nUkraine's announcement of the alert app cyberattack came almost simultaneously with the official conclusion of a six-day ceasefire in Kherson.\nRussia agreed to the rare temporary suspension of conflict to allow hundreds of Ukrainians to evacuate the Russian-occupied city of Olehsky.\nRussia did not agree to a proposed extension of the ceasefire, which officially ended at around 2100 UTC – around the same time Ukrainians began receiving fake w"
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattacks-target-apps",
-     "title": "Ukraine and Russia report fake emergency alerts after cyberattacks target apps",
-     "lang": "en",
-     "extra": {},
-     "id": "c5189130ac5ed18d",
-     "published": "2026-11-02T15:06+00:00",
-     "text": "Authorities in Ukraine and Russia said their emergency alert mobile apps had been targeted by cyberattacks, with users in Ukraine receiving false warnings of an imminent nuclear threat. Moscow said that hackers had sent fake emergency alerts after gaining access to the Russian Emergency Situations Ministry’s mobile app, and that efforts were ongoing to restore the app's functionality."
-    }
-   ]
-  },
-  {
    "id": "cfe3212bcc0",
    "kind": "news",
    "score": 15.0,
@@ -6920,91 +7043,12 @@
      "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
      "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
      "lang": "en",
-     "extra": {},
+     "extra": {
+      "page_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/tom-lee-decrypt-style-03-1-gID_7.jpg"
+     },
      "id": "cca2b4a35e00446e",
      "published": "2026-11-03T13:11+00:00",
-     "text": "Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices."
-    }
-   ]
-  },
-  {
-   "id": "ce9970aeee1",
-   "kind": "news",
-   "score": 15.0,
-   "sensitive": false,
-   "distinct_sites": 6,
-   "title_hint": "What might Trump have planned for Iran following the midterm election?",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "DW English",
-     "trust": 2,
-     "url": "https://dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
-     "title": "What might Trump have planned for Iran following the midterm election?",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.dw.com/image/79828848_6.jpg"
-     },
-     "id": "e9970aeee1f6a0a4",
-     "published": "2026-11-02T15:41+00:00",
-     "text": "The US Republican Party is entering the midterm elections with Donald Trump's administration seemingly unable to either win or diplomatically resolve the Iran war. If the Republicans lose control of the US Congress, the administration will have to navigate an entirely different political landscape for the rest of Trump's second term, but the course of the war is not decided just in Washington — or in Tehran.\nSeeking to identify key factors that could tip the balance towards war or peace in Iran, DW spoke with Omid Memarian of DAWN, a Washington-based think tank focused on reforming the US's Middle East policy; the Finland-based political scientist Leila Morovati; and Babak Rezaeedaryakenari, a professor of international relations at Leiden University in the Netherlands.\n1. US midterms: Is Trump set for more scrutiny?\nA Democratic victory would push Trump to focus more on domestic issues and would likely expose the financial costs of the war in the US Congress, Memarian told DW. However, Trump could continue limited strikes on Iran without formally declaring war.\nMemarian said Trump would seek a way out that \"saves face\" after Tuesday's election.\nWith Trump, Memarian said, Iran is engaged in a \"big gamble with someone who does not behave like a conventional politician.\" This increases the risk of renewed attacks.\nRezaeedaryakenari made a similar point: \"The president has broad authority and freedom of action, especially in foreign policy and the conduct of military operations. A Republican defeat, even with increased pressure from Congress, doesn't necessarily stop new attacks.\"\n2. Deadlock in Israel puts pressure on Netanyahu\nIsrael's October 27 election ended in deadlock. Neither the coalition around incumbent Prime Minister Benjamin Netanyahu, nor the camp supporting former IDF chief Gadi Eisenkot managed to secure an outright majority.\nMemarian said the political uncertainty could push Netanyahu to act on major decisions while he still wields power — making the transition period the \"most fragile and dangerous\" for renewed escalation.\nA change of government in Israel would not fundamentally alter Israel's Iran policy, Memarian said. Netanyahu's main rival, former military chief Gadi Eisenkot, \"may be more deferential to America\" and coordinate more closely with Washington. But ties with Trump are personal, and Eisenkot \"certainly won't be like Netanyahu, who could sell any plan or scenario to Trump.\"\nRezaeedaryakenari said Israel's security concerns about Iran \"are not limited to Netanyahu himself.\" A new government could change the timing of a confrontation and coordination with Washington, but the security establishment and ruling coalition would also shape the risk of an attack, he said.\n3. Nuclear impasse: 'The ladder of tension'\nIran's nuclear program remains the biggest open issue between the governments, with the US rejecting the Iranian narrative that the program is meant only for civilian use.\nBut the two sides are also at odds on how the talks themselves should be set up, Memarian said.\n\"The US wants negotiations to start not only with a focus on Iran's nuclear program, but with concessions right at the outset,\" he said.\nIran seeks the lifting of sanctions and the release of frozen assets before nuclear talks begin. If the sides don't move closer, Memarian warns, the odds of a renewed war rise.\nUntil the sides agree on an agenda, Memarian said, they are likely to keep \"climbing the ladder of tension.\"\nMorovati, a Finland-ba"
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSV82bi14SEhxUHhRd0lFLWVwNkZ6Wk1LQzRGY1h6THZuUWJ5LVBkMUdlUUUzNktjU3RfQVczTlR2THEyRnBfLWJ2eXczb3VCcUFLMmpjUHpaLVV3dHhQSlRsdXBzR3kzTV9Yd05GZ3dqRml0WEtNaGF1dE5zWDVJMHRmTnFPUmV3alZv?oc=5",
-     "title": "Trump says deal with Iran ‘could happen’",
-     "lang": "en",
-     "extra": {},
-     "id": "ccdef506c76178b1",
-     "published": "2026-11-02T19:56+00:00",
-     "text": "Trump says deal with Iran ‘could happen’\nArab News"
-    },
-    {
-     "source": "Anadolu",
-     "trust": 2,
-     "url": "https://aa.com.tr/en/world/trump-downplays-renewed-us-strikes-on-iran-after-midterm-elections/4109187",
-     "title": "Trump downplays renewed US strikes on Iran after midterm elections",
-     "lang": "en",
-     "extra": {},
-     "id": "4d4fc0f726cf1f2c",
-     "published": "2026-11-02T20:52+00:00",
-     "text": "US president says diplomacy is progressing, urges voters to consider his efforts to prevent Tehran from acquiring nuclear weapons"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/15bbc4a51d5a",
-     "title": "Trump downplays renewed US strikes on Iran after midterm elections",
-     "lang": "en",
-     "extra": {},
-     "id": "fa280cc59fc70ef0",
-     "published": "2026-11-02T21:14+00:00",
-     "text": "US president rules out any strikes when questioned, citing diplomatic progress while insisting Tehran must never acquire nuclear weapons."
-    },
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/news/2026/11/03/world/khamenei-talks-trump-iran-deal",
-     "title": "Khamenei empowers talks as Trump says Iran deal could happen",
-     "lang": "en",
-     "extra": {},
-     "id": "d733244657bdb292",
-     "published": "2026-11-03T01:00+00:00",
-     "text": "Iran's president didn't clarify the extent of the authority bestowed by Khamenei or if it signals a broader shift in the Islamic Republic's red lines."
-    },
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-     "title": "US strikes Iran ahead of midterm elections",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg"
-     },
-     "id": "18070925b842c3ac",
-     "published": "2026-11-03T03:39+00:00",
-     "text": "- Published\nThe US has launched strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.\nIranian state news agency IRNA reported several explosions on the island on Monday.\nThe US officials described the strikes as limited and said they were in response to the Iran's Islamic Revolutionary Guard Corps (IRGC) firing upon a US aircraft.\nThe BBC has contacted US Central Command (Centcom), the part of the US military responsible for operations in the Middle East, for comment.\nIt comes ahead of the US midterm elections, which will determine whether the Republicans or Democrats control Congress.\nTrump has been facing falling polling numbers and pressure from within his party to end the war, which began when the US and Israel attacked Iran in February.\nEarlier on Monday, he told reporters that he was in \"no rush\" to ramp up strikes on Iran.\n\"One way or the other, we will do something, but there is no rush. We crippled them financially,\" he told news outlet Axios. \"They have no money, no gasoline and their people are getting very tired of it.\"\nHe also said the US \"might need to go after Pickaxe\", a site linked to Iran's nuclear programme, in an interview with Fox News on the eve of the midterm elections.\nThis was \"not a big deal\" and could be done in \"one hour\", Trump added.\nThere has been mounting speculation in the last few days that the US may resume significant strikes in Iran again after the midterms. But asked by a reporter on Monday if that was the case, Trump said \"no\".\nIran's foreign minister Abbas Araghchi told the IRNA earlier that \"very intensive\" talks to try and end the war are under way with the US via mediators.\nHe also said Tehran was prepared for both diplomatic and military scenarios \"more than ever before\" and that it was up to the US to choose between a \"wise path\" of negotiation or the \"mistake of military aggression\"."
+     "text": "Morning Minute is a daily newsletter written by Tyler Warner. The analysis and opinions expressed are his own and do not necessarily reflect those of Decrypt. And check out our daily news show 'FOMO HOUR' covering all of the top stories and market action.\nGM!\nToday’s top news:\n- Crypto majors fall further as outflows continue; BTC at $77.3k\n- BTC ETFs see another $400M in outflows, now $1B+ since Binance hack\n- Kim Jong Un’s sister says NK not involved in Binance hack and calls allegations a “provocation”\n- Tom Lee calls Binance hack “constructive,” points to no socialized losses & no DeFi blow-ups\n- Strategy buys $65M of BTC last week and $208M of STRC\n🐂 Tom Lee Calls the Binance Hack Bullish for Ethereum\nTom Lee looked at the largest crypto theft ever recorded and called the market’s response “constructive”. His company, BitMine Immersion, bought another 8,573 ETH last week, roughly $19.6 million worth, lifting the treasury to 6,060,506 ETH and about $13.7 billion. That’s 4.9% of the total circulating ETH supply, which makes Lee the most ETH-exposed executive on the planet.\nHis case comes down to one comparison. ETH fell about 4% after the $6.3 billion Binance hack. After the Bybit hack in February 2025, it dropped 8% on day one and 20% over the following week. Lee called that “relatively muted crypto market reaction very constructive” and read it as proof the industry can take a hit this size without cracking.\nHe pointed to four things behind the bullishness:\n- Binance covered the loss from its own balance sheet instead of socializing it\n- Tether and Circle froze the stolen stablecoins within hours\n- No DeFi protocol blew up as collateral damage, and\n- Investigators pinned the attack on North Korea almost immediately.\nEach of those is a thing that went right in 2026 and went badly in 2025.\nThe price read holds up, but there are bigger questions for ETH’s future from a trading perspective. October was the worst month in the history of U.S. spot ETH ETFs, with $1.61 billion in net outflows. ETH is down 19% from its local peak, opposed to 11& for Bitcoin.\nA potential driver of ETH’s weakness is Tom Lee himself. BitMine is now 99% of the way to the 5% supply cap Lee has said the company will stop at, about 49,500 ETH short, roughly six weeks at last week’s pace. ETH has had a large, price-insensitive, weekly corporate buyer for most of a year, and that buyer is nearly finished.\nNow we wait to see what the bid looks like without it. And if Tom Lee’s bullish read is the correct one…\n🌎 Macro Crypto and Markets\n- Crypto majors are slightly red as outflows continue; BTC -0.6% at $77.3k; ETH even at $2,280; SOL -1% at $93; HYPE -1% at $85; ZEC -3% at $1,210\n- STX (+4%), WLFI (+2%), XMR (+3%) and PUMP (+4%) led top alt movers\n- Oil -1% at $98; Gold even at $3,910\n- Stock futures are mixed ahead of midterms; DOW -0.8%, Nasdaq +0.2%\n- Brazil’s largest exchange Mercado Bitcoin halted deposits and withdrawals Monday after a security incident\n- ZachXBT flagged more than $106 million drained from an unnamed EU entity’s exchange accounts on Sunday; he said with high confidence the thief is not Lazarus, and the money moved through ETH, Monero and cross-chain bridges within 24 hours\n- BTCPay Server told merchants to shut down their instances Sunday after reports of attackers sweeping hot wallets with administrator access\n- Kim Yo Jong, sister of North Korean leader Kim Jong Un, denied Pyongyang had any role in the $6.3 billion Binance hack, calling the "
     }
    ]
   },
@@ -7358,28 +7402,6 @@
    ]
   },
   {
-   "id": "c44d1e82345",
-   "kind": "free",
-   "score": 6.0,
-   "sensitive": false,
-   "distinct_sites": 1,
-   "title_hint": "Free Course: Learn Go (Golang) from Coddy",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Class Central",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EMUY4amFJb0VCVXZ0VmZFc1RINko0T1Vva3RNWVZXV3JvWm9vX0daOGxkS196dm8yLXF5SEpONjh6djRPdGIyOTg3cERNWl9vY3NYYnBZQk05R1FFUlVoajVRR2FYYkZ4UzdmaGtBdHh4UQ?oc=5",
-     "title": "Free Course: Learn Go (Golang) from Coddy",
-     "lang": "en",
-     "extra": {},
-     "id": "44d1e8234513e65e",
-     "published": "2026-11-02T01:21+00:00",
-     "text": "Free Course: Learn Go (Golang) from Coddy\nClass Central"
-    }
-   ]
-  },
-  {
    "id": "ca8d553f33f",
    "kind": "free",
    "score": 4.0,
@@ -7519,8 +7541,8 @@
       "market": "crypto",
       "day": "2026-11-03"
      },
-     "published": "2026-11-03T13:15+00:00",
-     "text": "Bitcoin: $77,228 (-0.6% 24h)\nEthereum: $2,277 (-0.2% 24h)\nSolana: $92.70 (-1.2% 24h)\nToncoin: $1.16 (-3.0% 24h)"
+     "published": "2026-11-03T13:46+00:00",
+     "text": "Bitcoin: $77,517 (-0.7% 24h)\nEthereum: $2,292 (-0.2% 24h)\nSolana: $93.11 (-1.7% 24h)\nToncoin: $1.16 (-3.4% 24h)"
     }
    ]
   },
