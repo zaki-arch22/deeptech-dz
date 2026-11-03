@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T18:56:03+00:00",
+ "generated_at": "2026-11-03T19:26:00+00:00",
  "clusters": [
   {
    "id": "cf27cd9b14e",
@@ -1262,6 +1262,17 @@
      "id": "60aea9722f196831",
      "published": "2026-11-03T15:37+00:00",
      "text": "submitted by\n/u/Fun-Garbage-1386\nto\nr/technology\n[link]\n[comments]"
+    },
+    {
+     "source": "Reddit tech & AI",
+     "trust": 1,
+     "url": "https://reddit.com/r/technology/comments/1xn0kag/binance_says_hackers_used_fake_job_interview_to",
+     "title": "Binance says hackers used fake job interview to breach computer before $6.3 billion attack",
+     "lang": "en",
+     "extra": {},
+     "id": "10b4a49c22521f52",
+     "published": "2026-11-03T18:16+00:00",
+     "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
     }
    ]
   },
@@ -2081,6 +2092,74 @@
      "id": "eadd977cc853729e",
      "published": "2026-11-02T16:20+00:00",
      "text": "- The FBI formally attributes $6.7 billion Binance cryptocurrency theft to North Korea’s TraderTraitor group\n- Investigators say the attackers are laundering stolen assets across multiple blockchains and DeFi services\n- The breach highlights ongoing threats from Lazarus-linked campaigns targeting crypto, DevOps, and software professionals\nThe FBI has publicly accused a North Korean state-sponsored threat actor of being behind the recent attack on cryptocurrency exchange Binance.\nOne of the largest cryptocurrency exchange platforms on the planet was forced to freeze deposits and withdrawals, before confirming a threat actor stole around $6.7 billion worth of different cryptocurrencies.\nAnalysts were quick to investigate, with some claiming a known North Korean state-sponsored group called TraderTraitor was behind the heist. TraderTraitor is apparently part of Lazarus Group - a huge cybercriminal operation on North Korea’s payroll, allegedly tasked with stealing money to fund the country’s state apparatus and weapons program.\nTraderTraitor\nNow, the FBI has issued a new statement, official naming TraderTraitor as the attackers.\n“The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as ‘TraderTraitor’.,” the announcement reads.\n“The FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.”\nBinance said one of its DevOps engineers had their laptop compromised which “gave an attacker access to a service container, where they submitted unauthorized withdrawal transactions.” Some speculated the engineer fell to a classic fake job scam, while others argued it was a romance scam.\nSign up to the TechRadar Pro newsletter to get all the top news, opinion, features and guidance your business needs to succeed!\nIn the meantime, Binance resumed operations and has covered most of its losses.\nInitial reports found that the attackers siphoned out money from 10 different chains, including Bitcoin, Ethereum, Solana, XRP, Arbitrum, and others. For Ethereum, they even set up a smart contract that automatically withdrew any new money that was flowing into the account. The silver lining in the attack is that these were not user funds, but rather those of the exchange itself.\nCryptocurrency exchanges are obliged to have two separate wallets - one for their own funds, and one for those of their customers. Binance has a security fund called SAFU (Secure Asset Fund for Users), designed to protect user assets during extreme platform-level incidents, such as this one.\nOperations DreamJob and Contagious Interview\nObviously, North Korea has not commented on these allegations, but the cybersecurity community has logn warned about Lazarus Group targeting organizations in the West, sometimes tasked with stealing money, and sometimes with cyber-espionage and eavesdropping.\nThe group is split into numerous sub-groups, one of them being TraderTraitor, and among other things, the group runs two major scam campaigns: Operation DreamJob, and Con"
+    }
+   ]
+  },
+  {
+   "id": "c15618e3e9f",
+   "kind": "news",
+   "score": 21.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "US midterm elections 2026: What are they and when will we know the results?",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/video/2026/11/02/us-midterm-elections-2026-what-are-they-and-when-will-we-know-the-results",
+     "title": "US midterm elections 2026: What are they and when will we know the results?",
+     "lang": "en",
+     "extra": {},
+     "id": "15618e3e9f55e219",
+     "published": "2026-11-02T13:20+00:00",
+     "text": "Americans head to the polls on 3 November for midterm elections that will determine control of Congress for the next two years."
+    },
+    {
+     "source": "SCMP China",
+     "trust": 2,
+     "url": "https://scmp.com/news/us/politics/article/3372793/us-midterm-elections-2026-all-you-need-know",
+     "title": "US midterm elections 2026: all you need to know",
+     "lang": "en",
+     "extra": {},
+     "id": "87cc1e671d3980d6",
+     "published": "2026-11-03T00:00+00:00",
+     "text": "Americans go to the polls on Tuesday, November 3, in midterm elections that could reshape the final two years of Donald Trump’s second term as president.\nControl of both chambers of Congress is in play, along with 36 governorships. Polls suggest Democrats go into the vote with an advantage, but the outcome will hinge on a few dozen closely fought races.\nMore than 100 million people are expected to vote if turnout matches the 2022 midterms. By October 12, a record US$3.8 billion had been spent on..."
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/united-states/when-will-we-know-whos-won-the-us-midterm-elections",
+     "title": "When will we know who’s won the US midterm elections?",
+     "lang": "en",
+     "extra": {},
+     "id": "e0f89d7578b88907",
+     "published": "2026-11-03T03:11+00:00",
+     "text": "The results of each race in the US House of Representatives and the Senate could take anywhere from minutes to weeks to become clear."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
+     "title": "When will we know the US midterm election results?",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T203404Z_1113882976_RC2VFOAHOW5C_RTRMADP_3_USA-ELECTION-CALIFORNIA-1793679076.jpg?resize=1920%2C1440"
+     },
+     "id": "b7cec7c4a6daefb0",
+     "published": "2026-11-03T07:27+00:00",
+     "text": "On Tuesday night, the United States – and many people around the world – will be following one of the country’s most closely contested midterm elections in recent years.\nAll 435 seats in the US House of Representatives and 35 of the 100 Senate seats are up for grabs as Democrats hope to take control of both chambers from President Donald Trump’s Republican Party.\nRecommended Stories\nlist of 4 items- list 1 of 4How the president’s party has fared in every US midterm election since 1946\n- list 2 of 4Trump, Vance campaign with candidates on last day before US midterms\n- list 3 of 4US midterms 2026: What polls reveal about Democratic, Republican voters\n- list 4 of 4Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool\nHere is what we know about the results:\nWhen will the first results come in?\nThe first results should be known on Tuesday after polls begin to close. Voting will end first in some jurisdictions on the East Coast at 6pm (23:00 GMT).\nResults will continue to come in throughout Tuesday evening, and some probably won’t be known until Wednesday or later in some races as more states finish voting and officials start releasing their vote counts.\nBut the first reported results won’t necessarily mean that a winner has been announced.\nElection officials release vote counts as ballots are processed, and news organisations, like The Associated Press, then analyse them to determine how to call a race.\nA closely contested race could take hours to call – or even days. It might not be clear for days whether the Republicans will retain control of Congress or Democrats secure a majority in either or both chambers.\nWhat time do polls close in the US?\nThe first polling stations to close will be in parts of Indiana and Kentucky.\n- 6pm Eastern Standard Time (EST) (23:00 GMT) – parts of Indiana and Kentucky\n- 7pm EST (00:00 GMT) – most of Florida, Georgia, South Carolina, Vermont, Virginia, and the remaining parts of Indiana, Kentucky and most of New Hampshire\n- 7:30pm EST (00:30 GMT on Wednesday) – North Carolina, Ohio, West Virginia\n- 8pm EST (01:00 GMT on Wednesday) – Alabama, Connecticut, Delaware, Illinois, Maine, Maryland, Massachusetts, Mississippi, Missouri, the remaining parts of New Hampshire, New Jersey, Oklahoma, Pennsylvania, Rhode Island, Tennessee, Washington, DC, and parts of Florida, Kansas, Michigan, North Dakota, South Dakota and Texas\n- 8:30pm EST (01:30 GMT on Wednesday) – Arkansas\n- 9pm EST (02:00 GMT on Wednesday) – Arizona, Colorado, Iowa, Louisiana, Minnesota, Nebraska, New Mexico, New York, Wisconsin, Wyoming, and the remaining parts of Kansas, Michigan, North Dakota, South Dakota and Texas\n- 10pm EST (03:00 GMT on Wednesday) – Montana, Nevada, Utah, and parts of Idaho and Oregon\n- 11pm EST (04:00 GMT on Wednesday) – California and Washington, and the remaining parts of Idaho and Oregon\n- 12am EST (05:00 GMT on Wednesday) – Hawaii and most of Alaska\n- 1am EST (06:00 GMT on Wednesday) – the remaining parts of Alaska, including the western Aleutian Islands\nWhich states could take longer to count votes?\n- Alaska: The state uses ranked-choice voting. If no candidate receives more than 50 percent of the vote, extra rounds of counting are needed to determine the winner. And while in-person early and Election Day voting are reported on election night, the mail-in voting results are released in the following days. In 2024, about 75 percent of the votes were counted by the morning after the election with the remaining"
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/2026-11-04/us-midterm-election-results-2026/107235570",
+     "title": "US midterm election results 2026",
+     "lang": "en",
+     "extra": {},
+     "id": "59f0b6c44a7ffe25",
+     "published": "2026-11-03T19:10+00:00",
+     "text": "See the results of the 2026 US midterm elections and who controls the House and Senate, updated as races are called."
     }
    ]
   },
@@ -3267,93 +3346,6 @@
    ]
   },
   {
-   "id": "ca6cf1c47ab",
-   "kind": "news",
-   "score": 20.0,
-   "sensitive": true,
-   "distinct_sites": 5,
-   "title_hint": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Gizmodo",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0JTVC1ReldPRTRVVUhuX01KdXdUWG9MSW14SHhTQzBGUDgxSFU0QTF2NUk1YTNRWnI0di1hUWx4Tm9KWE85U3RJVFNqdzcyY3E0dmx2U0ppbGtYQkYyQnE3LUpOTWNkRDdhajBpRDczbGdKdlg4N245X1lxbHh3LVNJQ0l3R3ZrX05WaGptY3ZidjZvS2dmZUJGRDhyNHFXeUZKakhpNHBqWkxZNWZsU2g4ZzlNRG9j?oc=5",
-     "title": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land",
-     "lang": "en",
-     "extra": {},
-     "id": "a6cf1c47abd52944",
-     "published": "2026-11-02T17:25+00:00",
-     "text": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land\nGizmodo"
-    },
-    {
-     "source": "TechSpot",
-     "trust": 2,
-     "url": "https://techspot.com/news/114412-nasa-swift-space-telescope-set-crash-back-earth.html",
-     "title": "NASA's Swift Space Telescope is set to crash back to Earth this week",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-02-ts3_thumbs-3dc.jpg"
-     },
-     "id": "a900dbb13d6e0a2c",
-     "published": "2026-11-02T19:04+00:00",
-     "text": "Don't Look Up: After spending more than 20 years in space, the Neil Gehrels Swift Observatory is now expected to undergo a \"catastrophic\" reentry into Earth's atmosphere. Most of the telescope should burn up during the process, but a few surviving pieces could eventually reach the ground and pose a risk to people.\nThe Swift Observatory could plunge back to Earth as early as this Friday, US authorities said. The telescope is expected to undergo an uncontrolled reentry after NASA and Katalyst Space Technologies tried – and failed – to correct the spacecraft's orbit using a robotic device in September.\nAccording to US Space Force predictions, the Swift Observatory should burn up in the atmosphere during reentry. A few components, including tungsten-made parts and mirrors, might survive the atmospheric plunge and eventually reach the ground.\nThe Space Force is tracking Swift's orbit to determine where these components could land. Parts of Africa, Australia, India, Southeast Asia, Central America, and South America could potentially be affected. Most likely, however, the surviving debris will end up in the ocean.\nAccording to John Nousek, an astronomer at Pennsylvania State University who is in charge of Swift's control team, the aging telescope is going down with a bang.\n\"We've known this day would come since before Swift was launched. At least in low-Earth orbit, what goes up must come down,\" Nousek said.\nThe Neil Gehrels Swift Observatory launched on November 20, 2004, aboard a Delta II rocket. Led by astrophysicist Neil Gehrels, the mission was tasked with studying extremely energetic events known as gamma-ray bursts. Eventually, the orbiting observatory was also used as a \"general-purpose\" telescope to observe transient events across other parts of the electromagnetic spectrum.\nDespite its catastrophic end, Swift was an extremely successful mission. Its primary mission was expected to last just two years, but the telescope kept operating for 21 years and 11 months. Over the past few years, the spacecraft's orbit had been affected by the expansion of Earth's atmosphere caused by increased solar activity.\nNASA and Katalyst launched the \"Swift boost mission\" in July, sending a robotic probe to try to correct Swift's deteriorating orbit. The mission failed, and the probe returned to Earth in September 2026.\nLike other legendary space observatories, including Hubble and the James Webb Space Telescope, Swift made major contributions to astrophysics research. The telescope observed more than 2,000 gamma-ray bursts, 1,400 exploding stars, as well as comets, asteroids, and black holes."
-    },
-    {
-     "source": "ABC Australia",
-     "trust": 2,
-     "url": "https://abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476",
-     "title": "NASA's Swift telescope predicted to plummet back to Earth tomorrow",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://live-production.wcms.abc-cdn.net.au/f9cdfffb9a33d78ee808ee37b84d3040?impolicy=wcms_watermark_news&cropH=788&cropW=1400&xPos=7&yPos=103&width=862&height=485&imformat=generic"
-     },
-     "id": "211973fc27763f1a",
-     "published": "2026-11-03T00:45+00:00",
-     "text": "A defunct NASA space telescope is expected to plummet back to Earth sometime tomorrow.\nAfter attempts to save it failed earlier this year, the Neil Gehrels Swift Observatory, aka the Swift telescope, was shut down at the end of October.\nThe telescope, about the size of a minibus with solar-panel wings, is expected to re-enter Earth's atmosphere sometime on November 4 (AEDT).\nWhere it will land, and what will survive its fiery re-entry remain unknown.\nWhat is the Swift Observatory?\nThe 1.5-tonne space telescope was launched in 2004 to research the origin of high-energy gamma-ray blasts.\nAstrophysicists, including Brad Tucker of the Australian National University, used it to study cosmic explosions such as supernovas, stellar collisions and stars being ripped apart by black holes.\nIn its lifetime, Swift detected at least 1,400 supernovas.\n\"It may not be as big or as popular as Hubble or James Webb Space Telescopes, but we have used it for ages,\" Dr Tucker said.\nOver the past 22 years, it had been slowly dropping in altitude due to drag from Earth's atmosphere, but increased solar activity over the past two years (the same activity that has been causing spectacular auroras on Earth) hastened its demise.\nBy June, it was about 340 kilometres above Earth.\nLoading...In July, NASA hatched an audacious plan to bump the telescope back up in its orbit. But this failed due to problems orienting the private satellite sent to rescue it.\nOn October 20, the aging telescope had reached the point of no return at 275km and was shut down.\nThis means it no longer has a propulsion system to push it back up or guide it to a controlled landing.\nWhere and when will it crash?\nBecause the space telescope is now uncontrolled, we can't yet predict when or where it will crash.\nIt's now travelling about 8 kilometres a second as it nears re-entry.\nPredicting when and where it might re-enter Earth's atmosphere and land is tricky.\nAt this stage, the NASA-funded Space Weather Operational Readiness Development program predicts it will crash-land about 4:37am AEDT on November 4, give or take a few hours, while the Aerospace Corporation predicts a re-entry time of 8:11pm AEDT on November 4, give or take 12 hours.\nThe re-entry point could be anywhere along its orbit, which extends between 21 degrees North and South, which means it travels across northern Australia as far south as Mackay, Tennant Creek and Marble Bar (although it may not pass over these specific locations).\nDr Tucker said the likelihood was that it would drop in the ocean, but it also travels over northern Australia, Africa, India, South-East Asia, South and Central America.\n\"If 70 per cent of the Earth is ocean, 30 per cent is land. So three out of 10 times it's on land, not ocean,\" he said.\nPredicting where and when it will land becomes more precise over the final couple of orbits, as shown on space telescope track maps below.\nYou can keep track of Swift predictions here.Will I be able to see it?\nEverything depends upon the telescope's final orbit.\n\"The final orbit could be in the middle of the day or over the ocean, and no-one would see it, and we've had those,\" Dr Tucker said.\n\"Or it could be over the night-time over a populated area, and then we'll get some great footage.\"\nWhile we don't know where it will land, we do know its last moments will be fiery.\nOnce it drops to about 120km above Earth's surface, the air surrounding it heats up, making it glow.\n\"For reference, 100 kilometres is where we call spa"
-    },
-    {
-     "source": "Wired",
-     "trust": 2,
-     "url": "https://wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact",
-     "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.wired.com/photos/6ae8c770a02f1e9caf32860c/191:100/w_1280,c_limit/swiftnasa.jpg"
-     },
-     "id": "63d6994edd330d3b",
-     "published": "2026-11-03T10:45+00:00",
-     "text": "After 22 years in orbit and a failed rescue mission this summer, it is highly likely that the Neil Gehrels Swift Observatory will crash into Earth sometime next week. It is not known where on the planet the spacecraft—which is roughly as big as a large elevator—will fall. Despite its size, experts say the risk to the public is relatively low.\nWhat is now a useless piece of space junk was for a long time extraordinarily valuable to the scientific community. Launched on November 20, 2004, Swift was a space observatory equipped with three telescopes. It was designed primarily to detect and study gamma-ray bursts, which are among the most energetic explosions in the universe. Swift would locate these events and transmit their positions to observatories around the world for further study.\nThe observatory was designed to operate for a few years in low Earth orbit, but it far exceeded its expected lifespan, helping to make many important discoveries about the evolution of the cosmos, including the study of supernovas and the destruction of stars by black holes. However, in 2024, increased solar activity heated and expanded the upper layers of Earth’s atmosphere, increasing the drag on the satellite and accelerating its descent. Without a propulsion system capable of correcting its orbit, its days were numbered.\nIn July 2026, NASA launched a special $30 million mission to rescue Swift. A robotic spacecraft called LINK was supposed to drag Swift away from Earth by 150 miles, giving it a higher orbit and thus extending its operational life. Unfortunately, LINK failed. In August, NASA administrator Jared Isaacman explained that the difficulties that led to the mission’s cancellation were due to problems with the spacecraft’s control system, which made it impossible to keep it properly oriented and stable in space.\nOn October 26, NASA announced that Swift was less than 170 miles from Earth’s surface—a very low orbit for a satellite. According to the agency, the telescopes on board could no longer maintain stable observations of their astronomical targets. Swift conducted its final observation on October 20, then the operations team based at Pennsylvania State University terminated its operational status.\n“Swift delivered an incredible, lasting return on investment for the nation, designed for a two-year primary mission but productive for more than 10 times as long,” Shawn Domagal-Goldman, director of the Astrophysics Division at NASA headquarters in Washington, said in a statement. “In that time, Swift played a major role in advancing our understanding of the changing universe and was part of a revolution in astrophysics that showed how critical rapid-response observations are to the entire community.”\nIn its lifetime, the satellite observed over 2,000 gamma-ray bursts and nearly as many supernovas, data from which contributed to more than 7,000 research papers. And its contributions are far from over. “Swift leaves us with an extraordinary archive of multiwavelength observations that will fuel new discoveries for decades more,” Domagal-Goldman added.\nWhat to Expect From the Reentry?\nThe US Space Force estimates Swift is likely to crash on or around Friday, November 6—or at least whatever remains of the satellite will. Most of the space observatory is expected to disintegrate as it reenters the atmosphere. However, some pieces made of tungsten and parts of the mirrors could survive that chaotic process, Brad Cenko, NASA’s chief scientist for the mi"
-    },
-    {
-     "source": "El País EN",
-     "trust": 2,
-     "url": "https://english.elpais.com/science-tech/2026-11-03/swift-telescope-to-crash-into-earth-after-nasa-rescue-attempt-fails.html",
-     "title": "‘Swift’ telescope to crash into Earth after NASA rescue attempt fails",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://imagenes.elpais.com/resizer/v2/FTBZZQ4KPVPYBIWEQ4YH55P2UM.jpg?auth=faf4e5282d63477230363a91680b789488c38ab307cfdb5c37b7eeb7b442a357&width=1200"
-     },
-     "id": "895a47917f3478af",
-     "published": "2026-11-03T13:16+00:00",
-     "text": "The Swift space telescope is about to be engulfed by Earth’s atmosphere. After nearly 22 years of service, the NASA observatory will re-enter the atmosphere uncontrolled in the coming days, at an unspecified time after sunset on Tuesday. This is the result of the failure of an emergency rescue mission, which the U.S. space agency organized in an unprecedented collaboration with a startup, given the importance this small satellite had acquired for the international astronomical community. With its loss, we are losing a unique tool for detecting the most violent explosions in the universe and alerting other telescopes so they can study them in greater detail.\nSwift had been, since 2025, very close to the altitude at which an object in orbit inevitably falls and disintegrates, pulled down by Earth’s gravity and heated red-hot by friction with the atmosphere. Past the point of no return, the time and place of its fall can only be calculated with reasonable precision shortly before it occurs. In the meantime, only open-ended estimates exist.\nLate on Monday, reentry was expected around 10.00 a.m. Wednesday, peninsular Spanish time (4 a.m. EST), with an uncertainty margin of 12 hours before and after, according to calculations by Aerospace Corporation, one of the main organizations that track decaying space objects. For astronomer Joseph Remis, a specialist in these calculations, Swift’s fall could be brought forward by up to four hours. Remis says a solar storm over the past weekend “has significantly advanced the reentry date.”\nUpdate: obj. 28485 SWIFT decay prediction: November 04, 2026 UTC 05:31 ± 12h\n— Joseph Remis (@jremis) November 1, 2026\nThe October 31 G2 geomagnetic storm increased atmospheric drag, significantly advancing the re-entry date. pic.twitter.com/UpmnA2pO6j\nEvery day, one or two of the more than 10,000 Starlink satellites in Elon Musk’s network fall to Earth; with limited ability to propel themselves and escape, they have an on-orbit life expectancy of about five years. As with them, the precise impact site for Swift cannot yet be determined. Its orbit traces a band roughly between 21 degrees north and south latitude. Although most of that part of Earth is ocean, it also includes territories in Africa, Asia, and Latin America. During reentry most of this roughly 1.5-ton observatory will disintegrate — it is five times heavier than first-generation Starlink satellites that are falling daily. Still, experts expect a few small, charred fragments to reach the surface.\nSwift’s descent had been scheduled for the final weeks of 2026, but it was accelerated by solar activity, which increases friction with the upper atmosphere and slows the satellite. NASA announced the end of its operations a few days ago: on October 20 the telescope had descended to an altitude of about 275 kilometers (170 miles) and entered “survival” mode after being unable to compensate for that drag. The high-value scientific telescope then sent the order to terminate its mission and prepare for reentry from the control center at Pennsylvania State University (U.S.), which had been operating it since 2024.\nA failed rescue\nOn August 19, NASA and Katalyst Space conceded they had lost the chance to save Swift. The robot sent to rescue it, LINK, suffered an orientation problem that prevented an attempt to capture the telescope and raise its orbit. That probe had launched on July 3, just seven weeks earlier, on a mission never before attempted by NASA. With its fa"
-    },
-    {
-     "source": "Google News Science EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWmxYOHZ1aUFOVFhsZlRRZC1aREMtOWRrR2I0MEtfdVJiVEd3X095cDFwT29IbS1rakdqRGNPYUJVY19YWEROc3haalQwYTJrbVdXbkV1UU5TaENrdF9GeWhqcU5XSzFYbnh4ZE1nU2pES2p0a1JleWhCMWJvd3RvUGxKNWFpOEVKbE1QMEd6WWY5TGFmQ2tXWmdyN2pTMWJVbEJwN2U2cTN1cmZMQjJhanBwV244LXRJTmc?oc=5",
-     "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "b06ce582ee734d8f",
-     "published": "2026-11-03T10:45+00:00",
-     "text": "- NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact WIRED\n- NASA’s Swift Observatory to Re-Enter Atmosphere NASA Science (.gov)\n- An aging NASA space telescope is plunging back to Earth. Officials say the \"risk of harm...is unlikely.\" CBS News\n- NASA telescope is on the verge of plunging back to Earth after failed rescue mission AP News\n- NASA's Swift space telescope is about to crash to Earth. Where will it fall? Space"
-    }
-   ]
-  },
-  {
    "id": "cd5685189e5",
    "kind": "news",
    "score": 20.0,
@@ -3937,6 +3929,93 @@
    ]
   },
   {
+   "id": "ca6cf1c47ab",
+   "kind": "news",
+   "score": 19.0,
+   "sensitive": true,
+   "distinct_sites": 5,
+   "title_hint": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Gizmodo",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0JTVC1ReldPRTRVVUhuX01KdXdUWG9MSW14SHhTQzBGUDgxSFU0QTF2NUk1YTNRWnI0di1hUWx4Tm9KWE85U3RJVFNqdzcyY3E0dmx2U0ppbGtYQkYyQnE3LUpOTWNkRDdhajBpRDczbGdKdlg4N245X1lxbHh3LVNJQ0l3R3ZrX05WaGptY3ZidjZvS2dmZUJGRDhyNHFXeUZKakhpNHBqWkxZNWZsU2g4ZzlNRG9j?oc=5",
+     "title": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land",
+     "lang": "en",
+     "extra": {},
+     "id": "a6cf1c47abd52944",
+     "published": "2026-11-02T17:25+00:00",
+     "text": "NASA’s Swift Observatory Will Crash Back to Earth This Week. Here’s Where Pieces May Land\nGizmodo"
+    },
+    {
+     "source": "TechSpot",
+     "trust": 2,
+     "url": "https://techspot.com/news/114412-nasa-swift-space-telescope-set-crash-back-earth.html",
+     "title": "NASA's Swift Space Telescope is set to crash back to Earth this week",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.techspot.com/images2/news/ts3_thumbs/2026/11/2026-11-02-ts3_thumbs-3dc.jpg"
+     },
+     "id": "a900dbb13d6e0a2c",
+     "published": "2026-11-02T19:04+00:00",
+     "text": "Don't Look Up: After spending more than 20 years in space, the Neil Gehrels Swift Observatory is now expected to undergo a \"catastrophic\" reentry into Earth's atmosphere. Most of the telescope should burn up during the process, but a few surviving pieces could eventually reach the ground and pose a risk to people.\nThe Swift Observatory could plunge back to Earth as early as this Friday, US authorities said. The telescope is expected to undergo an uncontrolled reentry after NASA and Katalyst Space Technologies tried – and failed – to correct the spacecraft's orbit using a robotic device in September.\nAccording to US Space Force predictions, the Swift Observatory should burn up in the atmosphere during reentry. A few components, including tungsten-made parts and mirrors, might survive the atmospheric plunge and eventually reach the ground.\nThe Space Force is tracking Swift's orbit to determine where these components could land. Parts of Africa, Australia, India, Southeast Asia, Central America, and South America could potentially be affected. Most likely, however, the surviving debris will end up in the ocean.\nAccording to John Nousek, an astronomer at Pennsylvania State University who is in charge of Swift's control team, the aging telescope is going down with a bang.\n\"We've known this day would come since before Swift was launched. At least in low-Earth orbit, what goes up must come down,\" Nousek said.\nThe Neil Gehrels Swift Observatory launched on November 20, 2004, aboard a Delta II rocket. Led by astrophysicist Neil Gehrels, the mission was tasked with studying extremely energetic events known as gamma-ray bursts. Eventually, the orbiting observatory was also used as a \"general-purpose\" telescope to observe transient events across other parts of the electromagnetic spectrum.\nDespite its catastrophic end, Swift was an extremely successful mission. Its primary mission was expected to last just two years, but the telescope kept operating for 21 years and 11 months. Over the past few years, the spacecraft's orbit had been affected by the expansion of Earth's atmosphere caused by increased solar activity.\nNASA and Katalyst launched the \"Swift boost mission\" in July, sending a robotic probe to try to correct Swift's deteriorating orbit. The mission failed, and the probe returned to Earth in September 2026.\nLike other legendary space observatories, including Hubble and the James Webb Space Telescope, Swift made major contributions to astrophysics research. The telescope observed more than 2,000 gamma-ray bursts, 1,400 exploding stars, as well as comets, asteroids, and black holes."
+    },
+    {
+     "source": "ABC Australia",
+     "trust": 2,
+     "url": "https://abc.net.au/news/science/2026-11-03/nasa-swift-telescope-crash-landing/100018476",
+     "title": "NASA's Swift telescope predicted to plummet back to Earth tomorrow",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://live-production.wcms.abc-cdn.net.au/f9cdfffb9a33d78ee808ee37b84d3040?impolicy=wcms_watermark_news&cropH=788&cropW=1400&xPos=7&yPos=103&width=862&height=485&imformat=generic"
+     },
+     "id": "211973fc27763f1a",
+     "published": "2026-11-03T00:45+00:00",
+     "text": "A defunct NASA space telescope is expected to plummet back to Earth sometime tomorrow.\nAfter attempts to save it failed earlier this year, the Neil Gehrels Swift Observatory, aka the Swift telescope, was shut down at the end of October.\nThe telescope, about the size of a minibus with solar-panel wings, is expected to re-enter Earth's atmosphere sometime on November 4 (AEDT).\nWhere it will land, and what will survive its fiery re-entry remain unknown.\nWhat is the Swift Observatory?\nThe 1.5-tonne space telescope was launched in 2004 to research the origin of high-energy gamma-ray blasts.\nAstrophysicists, including Brad Tucker of the Australian National University, used it to study cosmic explosions such as supernovas, stellar collisions and stars being ripped apart by black holes.\nIn its lifetime, Swift detected at least 1,400 supernovas.\n\"It may not be as big or as popular as Hubble or James Webb Space Telescopes, but we have used it for ages,\" Dr Tucker said.\nOver the past 22 years, it had been slowly dropping in altitude due to drag from Earth's atmosphere, but increased solar activity over the past two years (the same activity that has been causing spectacular auroras on Earth) hastened its demise.\nBy June, it was about 340 kilometres above Earth.\nLoading...In July, NASA hatched an audacious plan to bump the telescope back up in its orbit. But this failed due to problems orienting the private satellite sent to rescue it.\nOn October 20, the aging telescope had reached the point of no return at 275km and was shut down.\nThis means it no longer has a propulsion system to push it back up or guide it to a controlled landing.\nWhere and when will it crash?\nBecause the space telescope is now uncontrolled, we can't yet predict when or where it will crash.\nIt's now travelling about 8 kilometres a second as it nears re-entry.\nPredicting when and where it might re-enter Earth's atmosphere and land is tricky.\nAt this stage, the NASA-funded Space Weather Operational Readiness Development program predicts it will crash-land about 4:37am AEDT on November 4, give or take a few hours, while the Aerospace Corporation predicts a re-entry time of 8:11pm AEDT on November 4, give or take 12 hours.\nThe re-entry point could be anywhere along its orbit, which extends between 21 degrees North and South, which means it travels across northern Australia as far south as Mackay, Tennant Creek and Marble Bar (although it may not pass over these specific locations).\nDr Tucker said the likelihood was that it would drop in the ocean, but it also travels over northern Australia, Africa, India, South-East Asia, South and Central America.\n\"If 70 per cent of the Earth is ocean, 30 per cent is land. So three out of 10 times it's on land, not ocean,\" he said.\nPredicting where and when it will land becomes more precise over the final couple of orbits, as shown on space telescope track maps below.\nYou can keep track of Swift predictions here.Will I be able to see it?\nEverything depends upon the telescope's final orbit.\n\"The final orbit could be in the middle of the day or over the ocean, and no-one would see it, and we've had those,\" Dr Tucker said.\n\"Or it could be over the night-time over a populated area, and then we'll get some great footage.\"\nWhile we don't know where it will land, we do know its last moments will be fiery.\nOnce it drops to about 120km above Earth's surface, the air surrounding it heats up, making it glow.\n\"For reference, 100 kilometres is where we call spa"
+    },
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/nasas-swift-observatory-is-falling-to-earth-heres-what-to-know-about-the-impending-impact",
+     "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.wired.com/photos/6ae8c770a02f1e9caf32860c/191:100/w_1280,c_limit/swiftnasa.jpg"
+     },
+     "id": "63d6994edd330d3b",
+     "published": "2026-11-03T10:45+00:00",
+     "text": "After 22 years in orbit and a failed rescue mission this summer, it is highly likely that the Neil Gehrels Swift Observatory will crash into Earth sometime next week. It is not known where on the planet the spacecraft—which is roughly as big as a large elevator—will fall. Despite its size, experts say the risk to the public is relatively low.\nWhat is now a useless piece of space junk was for a long time extraordinarily valuable to the scientific community. Launched on November 20, 2004, Swift was a space observatory equipped with three telescopes. It was designed primarily to detect and study gamma-ray bursts, which are among the most energetic explosions in the universe. Swift would locate these events and transmit their positions to observatories around the world for further study.\nThe observatory was designed to operate for a few years in low Earth orbit, but it far exceeded its expected lifespan, helping to make many important discoveries about the evolution of the cosmos, including the study of supernovas and the destruction of stars by black holes. However, in 2024, increased solar activity heated and expanded the upper layers of Earth’s atmosphere, increasing the drag on the satellite and accelerating its descent. Without a propulsion system capable of correcting its orbit, its days were numbered.\nIn July 2026, NASA launched a special $30 million mission to rescue Swift. A robotic spacecraft called LINK was supposed to drag Swift away from Earth by 150 miles, giving it a higher orbit and thus extending its operational life. Unfortunately, LINK failed. In August, NASA administrator Jared Isaacman explained that the difficulties that led to the mission’s cancellation were due to problems with the spacecraft’s control system, which made it impossible to keep it properly oriented and stable in space.\nOn October 26, NASA announced that Swift was less than 170 miles from Earth’s surface—a very low orbit for a satellite. According to the agency, the telescopes on board could no longer maintain stable observations of their astronomical targets. Swift conducted its final observation on October 20, then the operations team based at Pennsylvania State University terminated its operational status.\n“Swift delivered an incredible, lasting return on investment for the nation, designed for a two-year primary mission but productive for more than 10 times as long,” Shawn Domagal-Goldman, director of the Astrophysics Division at NASA headquarters in Washington, said in a statement. “In that time, Swift played a major role in advancing our understanding of the changing universe and was part of a revolution in astrophysics that showed how critical rapid-response observations are to the entire community.”\nIn its lifetime, the satellite observed over 2,000 gamma-ray bursts and nearly as many supernovas, data from which contributed to more than 7,000 research papers. And its contributions are far from over. “Swift leaves us with an extraordinary archive of multiwavelength observations that will fuel new discoveries for decades more,” Domagal-Goldman added.\nWhat to Expect From the Reentry?\nThe US Space Force estimates Swift is likely to crash on or around Friday, November 6—or at least whatever remains of the satellite will. Most of the space observatory is expected to disintegrate as it reenters the atmosphere. However, some pieces made of tungsten and parts of the mirrors could survive that chaotic process, Brad Cenko, NASA’s chief scientist for the mi"
+    },
+    {
+     "source": "El País EN",
+     "trust": 2,
+     "url": "https://english.elpais.com/science-tech/2026-11-03/swift-telescope-to-crash-into-earth-after-nasa-rescue-attempt-fails.html",
+     "title": "‘Swift’ telescope to crash into Earth after NASA rescue attempt fails",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://imagenes.elpais.com/resizer/v2/FTBZZQ4KPVPYBIWEQ4YH55P2UM.jpg?auth=faf4e5282d63477230363a91680b789488c38ab307cfdb5c37b7eeb7b442a357&width=1200"
+     },
+     "id": "895a47917f3478af",
+     "published": "2026-11-03T13:16+00:00",
+     "text": "The Swift space telescope is about to be engulfed by Earth’s atmosphere. After nearly 22 years of service, the NASA observatory will re-enter the atmosphere uncontrolled in the coming days, at an unspecified time after sunset on Tuesday. This is the result of the failure of an emergency rescue mission, which the U.S. space agency organized in an unprecedented collaboration with a startup, given the importance this small satellite had acquired for the international astronomical community. With its loss, we are losing a unique tool for detecting the most violent explosions in the universe and alerting other telescopes so they can study them in greater detail.\nSwift had been, since 2025, very close to the altitude at which an object in orbit inevitably falls and disintegrates, pulled down by Earth’s gravity and heated red-hot by friction with the atmosphere. Past the point of no return, the time and place of its fall can only be calculated with reasonable precision shortly before it occurs. In the meantime, only open-ended estimates exist.\nLate on Monday, reentry was expected around 10.00 a.m. Wednesday, peninsular Spanish time (4 a.m. EST), with an uncertainty margin of 12 hours before and after, according to calculations by Aerospace Corporation, one of the main organizations that track decaying space objects. For astronomer Joseph Remis, a specialist in these calculations, Swift’s fall could be brought forward by up to four hours. Remis says a solar storm over the past weekend “has significantly advanced the reentry date.”\nUpdate: obj. 28485 SWIFT decay prediction: November 04, 2026 UTC 05:31 ± 12h\n— Joseph Remis (@jremis) November 1, 2026\nThe October 31 G2 geomagnetic storm increased atmospheric drag, significantly advancing the re-entry date. pic.twitter.com/UpmnA2pO6j\nEvery day, one or two of the more than 10,000 Starlink satellites in Elon Musk’s network fall to Earth; with limited ability to propel themselves and escape, they have an on-orbit life expectancy of about five years. As with them, the precise impact site for Swift cannot yet be determined. Its orbit traces a band roughly between 21 degrees north and south latitude. Although most of that part of Earth is ocean, it also includes territories in Africa, Asia, and Latin America. During reentry most of this roughly 1.5-ton observatory will disintegrate — it is five times heavier than first-generation Starlink satellites that are falling daily. Still, experts expect a few small, charred fragments to reach the surface.\nSwift’s descent had been scheduled for the final weeks of 2026, but it was accelerated by solar activity, which increases friction with the upper atmosphere and slows the satellite. NASA announced the end of its operations a few days ago: on October 20 the telescope had descended to an altitude of about 275 kilometers (170 miles) and entered “survival” mode after being unable to compensate for that drag. The high-value scientific telescope then sent the order to terminate its mission and prepare for reentry from the control center at Pennsylvania State University (U.S.), which had been operating it since 2024.\nA failed rescue\nOn August 19, NASA and Katalyst Space conceded they had lost the chance to save Swift. The robot sent to rescue it, LINK, suffered an orientation problem that prevented an attempt to capture the telescope and raise its orbit. That probe had launched on July 3, just seven weeks earlier, on a mission never before attempted by NASA. With its fa"
+    },
+    {
+     "source": "Google News Science EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWmxYOHZ1aUFOVFhsZlRRZC1aREMtOWRrR2I0MEtfdVJiVEd3X095cDFwT29IbS1rakdqRGNPYUJVY19YWEROc3haalQwYTJrbVdXbkV1UU5TaENrdF9GeWhqcU5XSzFYbnh4ZE1nU2pES2p0a1JleWhCMWJvd3RvUGxKNWFpOEVKbE1QMEd6WWY5TGFmQ2tXWmdyN2pTMWJVbEJwN2U2cTN1cmZMQjJhanBwV244LXRJTmc?oc=5",
+     "title": "NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "b06ce582ee734d8f",
+     "published": "2026-11-03T10:45+00:00",
+     "text": "- NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact WIRED\n- NASA’s Swift Observatory to Re-Enter Atmosphere NASA Science (.gov)\n- An aging NASA space telescope is plunging back to Earth. Officials say the \"risk of harm...is unlikely.\" CBS News\n- NASA telescope is on the verge of plunging back to Earth after failed rescue mission AP News\n- NASA's Swift space telescope is about to crash to Earth. Where will it fall? Space"
+    }
+   ]
+  },
+  {
    "id": "cbef4309d40",
    "kind": "news",
    "score": 19.0,
@@ -4326,6 +4405,54 @@
    ]
   },
   {
+   "id": "c5c551539c4",
+   "kind": "news",
+   "score": 19.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Wired",
+     "trust": 2,
+     "url": "https://wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past",
+     "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media.wired.com/photos/6ae8fe6dbbb2a7fcc242fba1/191:100/w_1280,c_limit/505137454"
+     },
+     "id": "5c551539c4ea6a3a",
+     "published": "2026-11-03T10:15+00:00",
+     "text": "In 2022, a strange rock was found in the Sahara Desert, and now a new analysis reveals that it’s even more valuable to science than it first appeared. This fragment, weighing about two pounds, came from Mars’ crust. It was likely ejected by an impact, flying through space until it eventually reached Earth. The rock is one of the oldest known samples from our neighboring planet, estimated to be at least 4.1 billion years old. At that time, Earth was a young planet with intense geological activity, likely with oceans but no animals, plants, or any other complex life.\nThe location is not what makes this finding surprising. The Sahara has long been a kind of natural archive of the history of Earth and the solar system. Among its sands, scientists have found 40-million-year-old fossils and other meteorites. In 2019, for example, a 4.5-billion-year-old fragment was recovered that, according to recent research, may have come from an ancient, now-vanished protoplanet, possibly as large as the moon.\nThe meteorite, named Teghaza 001, might have remained just another entry in the collection of Martian fragments found on Earth. Although these rocks are extraordinarily useful for studying Mars’ composition and geological history, they often provide limited information about the environmental conditions of its distant past. However, a series of studies published in the journals Science and Science Advances revealed that Teghaza 001 is not like other samples. In addition to being exceptionally old, it has preserved chemical traces of the interaction between materials in the Martian crust and its ancient hydrosphere.\n“One of the paper’s reviewers called it a Rosetta Stone for Mars,” Yang Liu of NASA’s Jet Propulsion Laboratory said in a press release.\nTiny crystals of a mineral called apatite preserves signatures of two sources of hydrogen: one originating from the interior of Mars and the other related to its ancient hydrosphere. In other words, the meteorite contains material that was altered by a water-rich environment. For years, there has been considerable evidence that Mars once harbored liquid water on its surface. Today, some of the big questions about the planet are whether that water allowed microscopic life to emerge and what happened to change this once hospitable environment.\nThis meteorite reveals that there was an exchange of materials between the magma deep within Mars and a watery surface. Since the rock comes from just about 500 million years after Mars and the rest of our solar system formed, this volatility occurred very early in the planet’s existence.\n“This is really our first piece of Martian crust from a part of Mars we’ve never had a sample of before,” added Lee Saper, another NASA scientist who contributed to the research. “It records interactions of water and rock and maybe even an imprint of the Martian atmosphere as it was losing water.”\nToday, Mars is a cold and barren planet, but it was not always that way. Evidence gathered by space missions suggests that it once had rivers, lakes, and possibly large bodies of water. But how that transformation happened over billions of years has remained a mystery. Answering that question is part of the reasoning behind sending probes, rovers, and perhaps, one day, crewed missions to Mars. But sometimes science is about serendipity, and answers arrive in the form of extraordinarily unlikely meteorites.\nThis story originally appeared on WIRED en Español and has been translated from Spani"
+    },
+    {
+     "source": "Reddit science & space",
+     "trust": 1,
+     "url": "https://reddit.com/r/space/comments/1xmpyaj/ancient_meteorite_found_in_the_sahara_holds",
+     "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
+     "lang": "en",
+     "extra": {},
+     "id": "060e3124967364c4",
+     "published": "2026-11-03T10:56+00:00",
+     "text": "submitted by\n/u/wiredmagazine\nto\nr/space\n[link]\n[comments]"
+    },
+    {
+     "source": "Google News Science EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMnVfN18tZGNSM1pfOUZsVHdFcnAwUFZwT2JyTU5jU3JleVZiQ05PSXlvdVRUUGJ2c1YxQ3pWTG03U1RvZHY0MThkbXFILWlLQVpaVjZzN2czdmx6SGVCX19TY29IcmxEX2RkQTBUeWt4WGJEcENJeXVQRFdBSHduTHVzbjBBWHItLTJLSkMzWEc1aDgtbk1IQURhZURua1ZzXzRjRG5QYlhvelZBUVNMeXczMjFlajEzc3FMbDlTa0pDVF9lUVE?oc=5",
+     "title": "Ancient Mars Meteorite From the Sahara Is Over 4 Billion Years Old",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "7b30cebd23d34d7b",
+     "published": "2026-11-03T14:25+00:00",
+     "text": "- Ancient Mars Meteorite From the Sahara Is Over 4 Billion Years Old Gizmodo\n- A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars The New York Times\n- NASA-funded Study Details One of Oldest Mars Meteorites Ever Found NASA (.gov)\n- Rock found in Mali holds a 4.1 billion-year-old clue into how Mars contained a source of life and other igneous minerals Business Insider Africa\n- Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past WIRED"
+    }
+   ]
+  },
+  {
    "id": "c6a6c8e44f4",
    "kind": "news",
    "score": 19.0,
@@ -4674,6 +4801,85 @@
    ]
   },
   {
+   "id": "c6fcbcf31c8",
+   "kind": "news",
+   "score": 18.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "How Ferrari missed out on Italy’s F1 world champion Kimi Antonelli",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSXdfNnoydG9FU0VIRDdTdUppUEpka19peU9NMTlnbG5ka0FpVG9xR0RBeWxybldlTGEtbTJCd19UYlFwYjFSVWRnck1NVHhqa2tEdFc4U1ZjRE1CSVZVcG15bk1zZ25wWUx6N2FFWkQxZUxmT2JCYVRMd3NOYzFIVTNieTNOWERoYjBhRXh4eVhLcy1yNEd6djU4aDhpRkxDWXQ4?oc=5",
+     "title": "How Ferrari missed out on Italy’s F1 world champion Kimi Antonelli",
+     "lang": "en",
+     "extra": {},
+     "id": "6fcbcf31c8c7775a",
+     "published": "2026-11-02T07:59+00:00",
+     "text": "How Ferrari missed out on Italy’s F1 world champion Kimi Antonelli\nThe Independent"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/f1/kimi-antonelli-ferrari-f1-2026-world-champion-mercedes-b3077311.html",
+     "title": "How Ferrari missed out on Italy’s F1 world champion Kimi Antonelli",
+     "lang": "en",
+     "extra": {},
+     "id": "6142f795d5eb59a5",
+     "published": "2026-11-02T07:59+00:00",
+     "text": "As Antonelli, 20, becomes the youngest champion in the 76-year history of Formula 1 – and Italy’s first winner since Alberto Ascari in 1963 – Kieran Jackson reveals just how Italy’s team, Ferrari, contrived to miss out on one of their own to Mercedes"
+    },
+    {
+     "source": "Anadolu",
+     "trust": 2,
+     "url": "https://aa.com.tr/en/sports/profile-kimi-antonelli-formula-1-s-youngest-world-champion/4108497",
+     "title": "PROFILE – Kimi Antonelli: Formula 1’s youngest world champion",
+     "lang": "en",
+     "extra": {},
+     "id": "8506db869c4e339b",
+     "published": "2026-11-02T08:56+00:00",
+     "text": "20-year-old Italian wins title in only his second Formula One season after replacing seven-time champion Lewis Hamilton at Mercedes"
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/video/20261102-how-antonelli-became-formula-one-s-youngest-world-champion",
+     "title": "How Antonelli became Formula One's youngest world champion",
+     "lang": "en",
+     "extra": {},
+     "id": "e9f12c57e12c8d6c",
+     "published": "2026-11-02T11:54+00:00",
+     "text": "A tearful Kimi Antonelli became Formula One's youngest world champion at 20 years and 68 days old on Sunday when he finished third for Mercedes in a red-flagged and restarted Mexico City Grand Prix won by Red Bull's Max Verstappen."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/kimi-antonelli-formula-one-youngest-world-champion-italy-mexico-grand-prix",
+     "title": "Italy revels in 20-year-old Kimi Antonelli's Formula 1 supremacy",
+     "lang": "en",
+     "extra": {},
+     "id": "cdec74df0d857f81",
+     "published": "2026-11-02T15:03+00:00",
+     "text": "In Kimi Antonelli, Formula One racing gets a new champion, and Italy gets a new national hero."
+    },
+    {
+     "source": "Google News Sports EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXBCVkVoalUwWnBQYVZqY1R5amVKb2s1R2w2RmVYSlpnWEl0N2dlWkpCQk16aTlzMWljd2pMRDRGbDEzS0J0NWJGR3VvWElpWkZ4Umx6MDl5S0RyLUI5N0I0U1BZaWZhdUlpZVFGQk53THA2ZlBpOHIzX0VpaloxSk5uOW9WeHdmc0pqamFfOVVtcVJSdTVXSkVlbDNWMkJxenNPRlpfT2s5ZC1pWk1TTzIxdmpQcW56aDdzd3NKdXlPSlBnX1dtUmc4T2FBeVRvZ1BtVk5oMXIwd1k?oc=5",
+     "title": "How Kimi Antonelli saw off the grid to become F1’s youngest world champion",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "459c0c28650d10e9",
+     "published": "2026-11-02T10:56+00:00",
+     "text": "- How Kimi Antonelli saw off the grid to become F1’s youngest world champion The Guardian\n- Wolff hails world champion Antonelli as role model in blast at F1’s ‘entitled moaners’ The Guardian\n- Kimi Antonelli is F1 champion. But why didn't he get his trophy in Mexico City? ESPN\n- Kimi Antonelli becomes youngest champion in F1 history at age 20 CNN\n- Winners and losers from F1's record-breaking Mexico Grand Prix Motorsport.com"
+    }
+   ]
+  },
+  {
    "id": "ce9e51d6abb",
    "kind": "news",
    "score": 18.0,
@@ -4797,63 +5003,6 @@
      "id": "fea25579b359cd6f",
      "published": "2026-11-03T12:47+00:00",
      "text": "<p>Mike Moore is Deputy Editor at TechRadar Pro. He has worked as a B2B and B2C technology journalist for over a decade, including at one of the UK's leading national newspapers and fellow Future title ITProPortal, covering everything from cybersecurity to phone reviews to VR at the Winter Olympics.</p><p><br></p><p>Mike is the main editorial contact for TechRadar Pro, responsible for the news content across the site, as well as managing the contributed content. PRs looking to pitch news stories, bylines/analysis pieces or event invitations should get in contact via the email address mentioned above.</p><p><br></p><p>He has a Masters degree in American Studies from the University of Nottingham, along with a BA in American & English Studies from the same institution. When he's not keeping track of all the latest enterprise and workplace trends, he can most likely be found watching, following or taking part in some kind of sport.</p>"
-    }
-   ]
-  },
-  {
-   "id": "c15618e3e9f",
-   "kind": "news",
-   "score": 18.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "US midterm elections 2026: What are they and when will we know the results?",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/video/2026/11/02/us-midterm-elections-2026-what-are-they-and-when-will-we-know-the-results",
-     "title": "US midterm elections 2026: What are they and when will we know the results?",
-     "lang": "en",
-     "extra": {},
-     "id": "15618e3e9f55e219",
-     "published": "2026-11-02T13:20+00:00",
-     "text": "Americans head to the polls on 3 November for midterm elections that will determine control of Congress for the next two years."
-    },
-    {
-     "source": "SCMP China",
-     "trust": 2,
-     "url": "https://scmp.com/news/us/politics/article/3372793/us-midterm-elections-2026-all-you-need-know",
-     "title": "US midterm elections 2026: all you need to know",
-     "lang": "en",
-     "extra": {},
-     "id": "87cc1e671d3980d6",
-     "published": "2026-11-03T00:00+00:00",
-     "text": "Americans go to the polls on Tuesday, November 3, in midterm elections that could reshape the final two years of Donald Trump’s second term as president.\nControl of both chambers of Congress is in play, along with 36 governorships. Polls suggest Democrats go into the vote with an advantage, but the outcome will hinge on a few dozen closely fought races.\nMore than 100 million people are expected to vote if turnout matches the 2022 midterms. By October 12, a record US$3.8 billion had been spent on..."
-    },
-    {
-     "source": "Straits Times",
-     "trust": 2,
-     "url": "https://straitstimes.com/world/united-states/when-will-we-know-whos-won-the-us-midterm-elections",
-     "title": "When will we know who’s won the US midterm elections?",
-     "lang": "en",
-     "extra": {},
-     "id": "e0f89d7578b88907",
-     "published": "2026-11-03T03:11+00:00",
-     "text": "The results of each race in the US House of Representatives and the Senate could take anywhere from minutes to weeks to become clear."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/3/when-will-we-know-the-us-midterm-election-results?traffic_source=rss",
-     "title": "When will we know the US midterm election results?",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-02T203404Z_1113882976_RC2VFOAHOW5C_RTRMADP_3_USA-ELECTION-CALIFORNIA-1793679076.jpg?resize=1920%2C1440"
-     },
-     "id": "b7cec7c4a6daefb0",
-     "published": "2026-11-03T07:27+00:00",
-     "text": "On Tuesday night, the United States – and many people around the world – will be following one of the country’s most closely contested midterm elections in recent years.\nAll 435 seats in the US House of Representatives and 35 of the 100 Senate seats are up for grabs as Democrats hope to take control of both chambers from President Donald Trump’s Republican Party.\nRecommended Stories\nlist of 4 items- list 1 of 4How the president’s party has fared in every US midterm election since 1946\n- list 2 of 4Trump, Vance campaign with candidates on last day before US midterms\n- list 3 of 4US midterms 2026: What polls reveal about Democratic, Republican voters\n- list 4 of 4Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool\nHere is what we know about the results:\nWhen will the first results come in?\nThe first results should be known on Tuesday after polls begin to close. Voting will end first in some jurisdictions on the East Coast at 6pm (23:00 GMT).\nResults will continue to come in throughout Tuesday evening, and some probably won’t be known until Wednesday or later in some races as more states finish voting and officials start releasing their vote counts.\nBut the first reported results won’t necessarily mean that a winner has been announced.\nElection officials release vote counts as ballots are processed, and news organisations, like The Associated Press, then analyse them to determine how to call a race.\nA closely contested race could take hours to call – or even days. It might not be clear for days whether the Republicans will retain control of Congress or Democrats secure a majority in either or both chambers.\nWhat time do polls close in the US?\nThe first polling stations to close will be in parts of Indiana and Kentucky.\n- 6pm Eastern Standard Time (EST) (23:00 GMT) – parts of Indiana and Kentucky\n- 7pm EST (00:00 GMT) – most of Florida, Georgia, South Carolina, Vermont, Virginia, and the remaining parts of Indiana, Kentucky and most of New Hampshire\n- 7:30pm EST (00:30 GMT on Wednesday) – North Carolina, Ohio, West Virginia\n- 8pm EST (01:00 GMT on Wednesday) – Alabama, Connecticut, Delaware, Illinois, Maine, Maryland, Massachusetts, Mississippi, Missouri, the remaining parts of New Hampshire, New Jersey, Oklahoma, Pennsylvania, Rhode Island, Tennessee, Washington, DC, and parts of Florida, Kansas, Michigan, North Dakota, South Dakota and Texas\n- 8:30pm EST (01:30 GMT on Wednesday) – Arkansas\n- 9pm EST (02:00 GMT on Wednesday) – Arizona, Colorado, Iowa, Louisiana, Minnesota, Nebraska, New Mexico, New York, Wisconsin, Wyoming, and the remaining parts of Kansas, Michigan, North Dakota, South Dakota and Texas\n- 10pm EST (03:00 GMT on Wednesday) – Montana, Nevada, Utah, and parts of Idaho and Oregon\n- 11pm EST (04:00 GMT on Wednesday) – California and Washington, and the remaining parts of Idaho and Oregon\n- 12am EST (05:00 GMT on Wednesday) – Hawaii and most of Alaska\n- 1am EST (06:00 GMT on Wednesday) – the remaining parts of Alaska, including the western Aleutian Islands\nWhich states could take longer to count votes?\n- Alaska: The state uses ranked-choice voting. If no candidate receives more than 50 percent of the vote, extra rounds of counting are needed to determine the winner. And while in-person early and Election Day voting are reported on election night, the mail-in voting results are released in the following days. In 2024, about 75 percent of the votes were counted by the morning after the election with the remaining"
     }
    ]
   },
@@ -5564,6 +5713,50 @@
    ]
   },
   {
+   "id": "c8347dfd1a7",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Election Day is hours away. Here's what to know about the midterms.",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/video/election-day-is-hours-away-heres-what-to-know-about-the-midterms",
+     "title": "Election Day is hours away. Here's what to know about the midterms.",
+     "lang": "en",
+     "extra": {},
+     "id": "8347dfd1a7074400",
+     "published": "2026-11-02T16:27+00:00",
+     "text": "The midterm season is coming to an end, and the balance of power in Congress is up for grabs. Here's what to know before Election Day. CBS News' Nancy Cordes, Fin Gómez and Adriana Diaz have the latest news."
+    },
+    {
+     "source": "Mashable",
+     "trust": 2,
+     "url": "https://mashable.com/tech/ai-industry-reckoning-election-day",
+     "title": "Will the AI industry face a reckoning after Election Day?",
+     "lang": "en",
+     "extra": {},
+     "id": "7eccafd0c1e61b8b",
+     "published": "2026-11-03T09:00+00:00",
+     "text": "The AI industry has spent this midterm cycle pouring record sums into super PACs. Tech executives contributed hundreds of millions to elect friendly, deregulation-minded candidates, even as some of those execs publicly call for federal industry standards on AI.\nWith the public souring on data centers, the massive donations felt like an exercise in terrible timing for the candidates who took the money — and extra clumsy on the donors' part, since Silicon Valley picked a side that most polls say is doomed to fail. And, if the polls are right, a newly empowered Congress could hand the industry the kind of oversight it never intended. Careful what you (publicly) wish for.\nWhile tech billionaires wrote unlimited checks, many voters in most legislative districts were just trying to survive.\nThose dollars had no clear messaging behind them. For example, Silicon Valley's multimillion-dollar midterm blitz imploded when elite tech PACs ran blanket campaigns, assuming struggling Rust Belt towns and rural farming communities cared about \"open-source model parameters\" rather than their own economic survival.\nThe AI industry also spent millions trying to normalize itself through advertising, but the public doesn’t seem to be buying it.\nThere's a bizarre dichotomy in public perception right now. The average person is perfectly happy to ask ChatGPT or Claude how to balance their checkbook, diagnose a weird ache in their knee, and, as I wrote about, ask AI who they should vote for.\nBut zoom out to the bigger picture, and that same person may view the industry with immense anxiety. Half of U.S. adults say the increased use of AI in daily life makes them feel more concerned than excited, according to a 2025 survey.\nOr, as my aunt succinctly warned, \"It's going to kill us all.\"\nYou simply can't buy public trust with ads and super PAC money when your product's underlying infrastructure is driving up local electricity rates, straining regional power grids, and is perceived by some as a humanity eliminator.\nAccording to recent consumer polling, over half of surveyed voters actively oppose data center construction in their areas because of the burden on local resources. The industry spent big on candidates, but it completely lost the narrative.\nThere is a better path. Silicon Valley Congressman Ro Khanna told me in an interview that one of his hopes is to act as a bridge between the tech elite and the very real concerns of working-class districts. That's the mindset Silicon Valley needs to adopt, and it's really the only way to fix their current dilemma moving forward.\nWhich raises the question: Where do we go from here? Experts and pundits are already buzzing with wild theories about how AI will be deployed on a massive scale in the 2028 presidential election. Further, over the next two years, deepfakes could break our information ecosystem, and generative tools could vanquish millions of white-collar and creative jobs.\nWhat's certain is that before pouring more record-breaking capital into future elections, AI billionaires must resolve their in-house liabilities, the existential fears about their technology, and the real-world resource strain from their data centers.\nFor two years, tech executives have asked Washington for guardrails, preferably light ones written by friends. But you can't lobby for rules while bankrolling the people who'd rather not write any. If voters elect a less tech-friendly Congress, the industry may get the rules it asked for, just n"
+    },
+    {
+     "source": "Fast Company",
+     "trust": 2,
+     "url": "https://fastcompany.com/91634972/election-day-could-mean-big-things-for-your-401k-heres-what-history-tells-us",
+     "title": "Election Day could mean big things for your 401(k). Here’s what history tells us",
+     "lang": "en",
+     "extra": {},
+     "id": "bf0488ea94c06192",
+     "published": "2026-11-03T18:42+00:00",
+     "text": "Whether or not Tuesday’s midterm elections deliver a so-called blue wave, one thing is for certain: More volatility will likely ripple through financial markets.\nMidterm years have been historically weak for the U.S. stock market, delivering annual gains of just 7.5% versus an average return of 12.4% during non-midterm years, according to figures compiled by BlackRock. And even though more money has been pumped into this year’s midterm campaign than any other in history—to the tune of nearly $12 billion—your 401(k) portfolio isn’t likely to benefit so much.\nDespite polling that points to Democrats gaining seats, nay the majority, in Congress, investors haven’t been positioning for such an outcome. Rather, a survey of more than 100 institutional investors conducted by Wolfe Research suggests that these key market players haven’t positioned themselves for any particular result, according to CNBC.\n“Investors seem to have a significant dose of skepticism about whether the final outcome is going to be quite as favorable to Democrats as the polling suggests,” Tobin Marcus, the firm’s head of U.S. policy and politics, told the outlet.\nLikewise, veteran market strategist Ed Yardeni warns that the stock market hasn’t fully priced in a blue wave, as such an outcome could lead to “much worse” partisanship in Washington, D.C. “It could be a very cold shower for the market in terms of the gridlock,” Yardeni, president of Yardeni Research, told Bloomberg.\nWHY HISTORY FAVORS INVESTORS\nFor long-term investors, the best course of action is ignoring the election results and staying invested. BlackRock cautions that “letting politics guide investment decisions has come at a significant cost” in recent years, as a $100,000 investment in the S&P 500 Index would have grown to nearly $400,000 at the start of this year, if left untouched, whereas investors who moved money out of the market in that timeframe based on their politics would have resulted in much lower returns.\nWhat’s more, any kneejerk reaction to the election outcomes may not be as dire as some people are warning.\nJPMorgan’s trading desk puts the odds of a Democratic sweep at 66%, which would lead to a rather tepid kneejerk immediate reaction for the S&P 500. Instead, the less-likely outcomes of Republicans retaining control of both the House and Senate (with odds of only 7%) or Democrats taking the House while Republicans maintain control of the Senate (with odds of 26%) could see stocks rise as much as 1.25%.\nAnd any dips or spikes in the stock market are likely to be short-lived. The S&P 500 has risen by an average of 14.1% in the six months following midterm elections since 1970, according to BlackRock, though scenarios where one party lost its majority control in the House and Senate—as polling suggests could happen this year—delivered returns of only 10.4% in that same period.\nComplicating matters for this particular midterm election is the surge in stocks this year that’s been fueled by unprecedented spending to support the AI buildout. Meanwhile, the Treasury market just suffered its worst quarterly selloff since 1994.\nThat’s meant a mixed bag for retirement savers as the classic 60/40 portfolio has delivered lackluster results this year. This allocation model, popularized by the likes of famed investor John Bogle, is made up of 60% stocks and 40% bonds. So far this year, the classic 60/40 portfolio has delivered a return of nearly 7.1%, well below the 10.1% annualized return in the last "
+    }
+   ]
+  },
+  {
    "id": "cafcbb3fa14",
    "kind": "news",
    "score": 17.0,
@@ -5923,78 +6116,6 @@
      "id": "94d54bba7bfa10e0",
      "published": "2026-11-03T12:54+00:00",
      "text": "- Apple CEO John Ternus criticized for ‘scripted’ approach to first earnings call 9to5Mac\n- Apple’s Tight-Lipped CEO John Ternus Fails to Inspire Bloomberg\n- What Apple CEO John Ternus isn’t talking about: “The biggest risk to the Apple ecosystem” Fortune\n- Apple Sidestepped 8 of 21 Questions on CEO Call, Our Count FourWeekMBA\n- Apple CEO Tim Cook's Debut: Overly Cautious, Lacking Boldness, Missed Opportunity to Boost Market Confidence 富途牛牛"
-    }
-   ]
-  },
-  {
-   "id": "c90abc2f273",
-   "kind": "news",
-   "score": 17.0,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Johnny Depp Officially Addresses Potential Jack Sparrow Return In Pirates Of The Caribbean 6",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Screen Rant",
-     "trust": 2,
-     "url": "https://screenrant.com/pirates-of-the-caribbean-6-captain-jack-sparrow-return-condition-johnny-depp",
-     "title": "Johnny Depp Officially Addresses Potential Jack Sparrow Return In Pirates Of The Caribbean 6",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/two-pirates-of-the-caribbean-characters-looking-at-captain-jack-sparrow.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "90abc2f273bd84be",
-     "published": "2026-11-02T22:34+00:00",
-     "text": "Captain Jack Sparrow may sail the seas again, but only under one condition.\nAlthough Pirates of the Caribbean is based on the Disney ride at Magic Kingdom, Johnny Depp made Captain Jack Sparrow an icon in the first movie, The Curse of the Black Pearl. As a result, the dark attraction spawned a major movie franchise that spawned four sequels. However, it's now been nine years since Depp portrayed Jack Sparrow, and hopes for a sixth movie have been in limbo. That attitude changed this past August, when producer Jerry Bruckheimer indicated some movement with the star player.\nIn an interview with Entertainment Weekly, Depp responded when asked whether he and Bruckheimer could set sail again, briefly smiling that \"Well, I don't know if you'll see us set sail. We might do that privately.\" While careful with his words, he indicated that, \"If things are exactly where they need to be with regard to how they're going to top off the Pirates thing, the only involvement I really want to have truly is just to send them off on a better note.\"\nFollowing a quick laugh, he emphasized his close relationship with the producer: \"I'll go to work with Bruckheimer tomorrow for anything. Doesn't matter, if it's Jerry, I trust him and we have deep friendship.\"\nThis is a developing story...\n- Writers\n- Terry Rossio, Ted Elliott, Jeff Nathanson\n- Movie(s)\n- Pirates of the Caribbean: The Curse of the Black Pearl, Pirates of the Caribbean: Dead Man's Chest, Pirates of the Caribbean: At World's End, Pirates of the Caribbean: On Stranger Tides, Pirates of the Caribbean: Dead Men Tell No Tales\n- Cast\n- Johnny Depp, Keira Knightley, Orlando Bloom, Geoffrey Rush, Kevin McNally, Jack Davenport, Stellan Skarsgård, Bill Nighy, Tom Hollander, Naomie Harris, Penélope Cruz, Ian McShane, Javier Bardem, Brenton Thwaites, Kaya Scodelario\n- Character(s)\n- Jack Sparrow, Elizabeth Swann, Will Turner, Barbossa, Mr. Gibbs, Norrington, Bill Turner, Davy Jones, Beckett, Tia Dalma, Angelica, Blackbeard, Captain Salazar, Henry Turner, Carina"
-    },
-    {
-     "source": "Variety",
-     "trust": 2,
-     "url": "https://variety.com/2026/film/news/johnny-depp-explains-pirates-of-the-caribbean-6-return-jack-sparrow-1236937928",
-     "title": "Johnny Depp Says He’d Return as Jack Sparrow in ‘Pirates of the Caribbean 6’ for Only One Reason: ‘I Want to Send Them Off on a Better Note’",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2023/10/Jack-Sparrow.jpg?w=1000&h=563&crop=1"
-     },
-     "id": "d4dec1da009e8716",
-     "published": "2026-11-02T23:08+00:00",
-     "text": "Johnny Depp is finally sounding off about the possibility of returning as Jack Sparrow in “Pirates of the Caribbean 6.” Speaking to Entertainment Tonight on his “Ebenezer” press tour, the Oscar nominee stopped short of confirming he will put the pirate costume on once more. Instead, Depp said he would never turn down a request from friend and franchise producer Jerry Bruckheimer.\n“If things are exactly where they need to be with regard to how they are going to top off the ‘Pirates’ franchise… the only involvement I really want to have, truly, is just to send them off on a better note,” Depp said when asked about being involved with the next installment in the franchise. “I will go to work with [Jerry] Bruckheimer tomorrow for anything. Doesn’t matter… if it’s Jerry, i trust him. We have a deep friendship.”\nBruckheimer confirmed to Entertainment Weekly in summer 2025 that he had spoken to Depp about a new “Pirates” movie. The producer felt optimistic at the time that Jack Sparrow could return, saying: “If he likes the way the part’s written, I think he would do it. It’s all about what’s on the page, as we all know… We are still working on a screenplay. We want to make it. We just got to get the right screenplay. We haven’t quite gotten there yet, but we’re close.”\nDepp headlined five “Pirates” movies from 2003 to 2017, all of which grossed more than $650 million at the worldwide box office. 2006’s “Dead Man’s Chest” and 2011’s “On Stranger Tides” both topped the $1 billion mark. His future with the Disney-backed series has been a question mark since his legal troubles and his 2022 libel trial against Amber Heard, although he’s mounting his Hollywood comeback this month with the Paramount-backed holiday movie “Ebenezer.” With Depp front and center, the “Pirates” movies have collectively grossed $4.5 billion.\nThe road to a sixth “Pirates” movie has been a long one, with Variety reporting in summer 2020 that Disney was in early development on two “Pirates” movies: A reboot led by Margot Robbie and a sixth film in the original franchise. Robbie revealed to Vanity Fair in November 2022 that Disney was not interested in her “more of a female-led” movie. Meanwhile, Bruckheimer told EW in summer 2024 that screenwriter Jeff Nathanson (2017’s “Dead Men Tell No Tales”) had boarded the proper “Pirates 6.”\n“He’s cracked it,” Bruckheimer said at the time of Nathanson’s script. “He’s got an amazing third act. We just gotta clean up the first and second and then we’ll get there. But he wrote a great, great third act.”\nBruckheimer said around the same time that he would be open to bringing Depp back for the Nathanson-penned movie, explaining: “It’s a reboot, but if it was up to me, [Johnny] would be in it. I love him. He’s a good friend. He’s an amazing artist and he’s a unique look. He created Captain Jack. That was not on the page, that was him doing a little Pepé Le Pew and Keith Richards. That was his interpretation of Jack Sparrow.”\nDepp’s last Hollywood studio movie was 2018’s “Fantastic Beasts: The Crimes of Grindelwald,” although he now has two upcoming ones thanks to “Ebenzer” and Lionsgate’s 2028 thriller “Day Drinker.” Warner Bros. asked Depp to exit “Fantastic Beasts: The Secrets of Dumbledore” after he lost his 2020 libel trial against The Sun. The actor sued the U.K. publication for referring to him as a “wife beater,” but the court ruled this characterization of Depp was “substantially true.” Depp was eventually recast in the sequel with M"
-    },
-    {
-     "source": "IGN",
-     "trust": 2,
-     "url": "https://ign.com/articles/johnny-depp-is-open-to-playing-jack-sparrow-again-in-a-new-pirates-of-the-caribbean-movie",
-     "title": "Johnny Depp Is Open to Playing Jack Sparrow Again in a New Pirates of the Caribbean Movie",
-     "lang": "en",
-     "extra": {},
-     "id": "baee6b7b50c9f126",
-     "published": "2026-11-02T23:55+00:00",
-     "text": "Johnny Depp is open to playing Jack Sparrow again in a new Pirates of the Caribbean movie, despite saying he'd never work with Disney on the franchise ever again.\nIn a recent interview with Entertainment Tonight, Depp was asked if he had any interest in playing Sparrow again. He noted that he wanted to send the franchise off on a better note, presumably referring to the last film being a critical disappointment.\n\"If things are exactly where they need to be with regard to how they're going to top off the Pirates [story]. The only involvement I really want to have, truly, is just to send them off on a better note. I'll go to work with [Jerry] Bruckheimer tomorrow for anything. If it's Jerry, I trust him. We have a deep friendship.\"\nDepp had previously stated during his legal battle with Amber Heard that he wouldn't work with Disney on a new Pirates movie, not even for $300 million and a million alpaca. It seems he's softened his stance on the matter, which has reportedly been the case for a while. Producer Jerry Bruckheimer has stated a few times over the last couple of years that he was having conversations with Depp about a new Pirates movie, but nothing has been locked in place. There is, however, a screenplay in the works, and the producer hopes to get a deal signed with Depp.\nThis is the first time Depp has publicly revealed he's open to the idea since swearing off the idea in 2023. Disney had also been exploring a new Pirates of the Caribbean movie with Margot Robbie in the lead role, but that has yet to make any kind of notable progress. Depp hasn't been in many blockbuster roles since his legal battle with Heard, and he was notably forced to step down from his role in the Fantastic Beasts films due to his libel case against UK outlet The Sun. He was replaced by actor Mads Mikkelsen for the third film in the franchise, which also happened to be the last.\nDeep is now set to star in a new take on A Christmas Carol with the film Ebenezer, which releases on November 13. Whether Jack Sparrow will set sail again remains to be seen, but he does appear to be more into the idea than he was before."
-    },
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/11/johnny-depp-reprising-pirates-of-the-caribbean-role-1237211975",
-     "title": "Johnny Depp Open To Reprising ‘Pirates Of The Caribbean’ Role To “Send Them Off On A Better Note”",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://deadline.com/wp-content/uploads/2026/11/johnny-depp-pirates-of-the-caribbean.jpg?w=1024"
-     },
-     "id": "494771cd88d974c2",
-     "published": "2026-11-03T04:29+00:00",
-     "text": "Johnny Depp is open to revisiting the Pirates of the Caribbean universe and reprising his role as Jack Sparrow.\nIn a new interview, Depp revealed that he is open to working with Jerry Bruckheimer again.\n“If things are exactly where they need to be with regard to how they are going to top off the Pirates franchise… the only involvement I really want to have, truly, is just to send them off on a better note,” the actor said in an interview with Entertainment Tonight.\nHe continued, “I will go to work with [Jerry] Bruckheimer tomorrow for anything. Doesn’t matter… if it’s Jerry, I trust him. We have a deep friendship.”\nAt D23 earlier this year, Jerry Bruckheimer gave Deadline an update on Pirates of the Caribbean 6, saying, “We’re talking with Johnny [Depp], we’re working on a screenplay, and hopefully we can get this done.”\nWatch on Deadline\nDepp first played Captain Jack Sparrow in 2003’s Pirates of the Caribbean: The Curse of the Black Pearl. In 2006, the actor reprised his role in Pirates of the Caribbean: Dead Man’s Chest and did the same in 2007’s Pirates of the Caribbean: At World’s End.\nThe actor returned to the role for 2011’s Pirates of the Caribbean: On Stranger Tides and played Jack Sparrow one more time in 2017’s Pirates of the Caribbean: Dead Men Tell No Tales.\nA couple of films expanding the Pirates of the Caribbean franchise are in the works. In 2024, Bruckheimer told EW that the “reboot has Jeff Nathanson doing the script, with the Robbie-centric film being written by Christina Hodson.”\nWatch Depp’s interview in the video below."
-    },
-    {
-     "source": "Collider",
-     "trust": 2,
-     "url": "https://collider.com/pirates-of-the-caribbean-6-johnny-depp-return",
-     "title": "Johnny Depp Officially Confirms 'Pirates of the Caribbean' Return Chances",
-     "lang": "en",
-     "extra": {},
-     "id": "39cc9063eaf0ae85",
-     "published": "2026-11-03T13:03+00:00",
-     "text": "Some franchises just wouldn't be right without certain stars, and it's fair to say that Disney's multi-billion dollar seafaring franchise is one of them. Johnny Depp and Captain Jack Sparrow are undoubtedly, and intrinsically, linked and it may well end up being his defining role at the end of the day but it seemed like, after five movies, billions of dollars at the box office, and a rather spectacular amount of controversy, Captain Jack's days were numbered. Not so."
     }
    ]
   },
@@ -6524,80 +6645,6 @@
    ]
   },
   {
-   "id": "c6eaa1b8a94",
-   "kind": "news",
-   "score": 16.5,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "Feature: Threads Of Time - The Best Ocarina References & Easter Eggs In The Wider Zelda Series",
-   "official_image": "https://images.nintendolife.com/48dceb4c179cb/large.jpg",
-   "sources": [
-    {
-     "source": "Nintendo News",
-     "trust": 3,
-     "url": "https://nintendolife.com/features/threads-of-time-the-best-ocarina-references-and-easter-eggs-in-the-wider-zelda-series",
-     "title": "Feature: Threads Of Time - The Best Ocarina References & Easter Eggs In The Wider Zelda Series",
-     "lang": "en",
-     "extra": {
-      "image": "https://images.nintendolife.com/48dceb4c179cb/large.jpg"
-     },
-     "id": "6eaa1b8a94c0c365",
-     "published": "2026-11-02T16:00+00:00",
-     "text": "Links to the future.\nThe Legend of Zelda: Ocarina of Time is a masterpiece. An enduring classic that set the standard, and often the template, for virtually every single action-adventure game that followed in its footsteps.\nA cultural touchstone for a generation, there are references to it littered throughout its gaming descendants and beyond, but there will now be an entirely new generation of player preparing to embark upon this chapter of the Zelda story - a good chunk of whom will have only experienced a Zelda title post-N64 (or no Zelda at all).\nRead the full article on nintendolife.com"
-    },
-    {
-     "source": "Mashable",
-     "trust": 2,
-     "url": "https://mashable.com/entertainment/zelda-ocarina-of-time-google-easter-eggs",
-     "title": "Zelda fans should Google ‘Ocarina of Time’ if they like fun Easter eggs",
-     "lang": "en",
-     "extra": {},
-     "id": "04a4668377c4479b",
-     "published": "2026-11-02T16:02+00:00",
-     "text": "You may have heard that there's a big, shiny new The Legend of Zelda: Ocarina of Time remake headed to Nintendo Switch 2 this week. In accordance, Google has decided to celebrate with the rest of us.\nAs spotted by various folks on social media who were surely just looking for information about the remake, which launches on Nov. 5, typing \"Ocarina of Time\" into Google's search bar produces a fun new Easter egg. Specifically, the franchise's iconic Master Sword weapon appears in the corner of the screen above its pedestal. Clicking the sword places it in the pedestal, which transports the user back to a version of the Google search page that looks as it would have in 1998, the year the game originally came out.\nThis Tweet is currently unavailable. It might be loading or has been removed.\nFor reference, if this remake will be your first time playing Ocarina, the game is split between two time periods set seven years apart, and placing the Master Sword back on its pedestal is how players travel back to the past. 28 years is obviously a lot more than seven, but it's still a fun trick.\nIt also removes all AI features and other search features from the results page. If you want to return to a world where Google is just a list of relevant links, savor this Easter egg before it gets inevitably removed.\nWant to learn more about getting the best out of your tech? Sign up for Mashable's Top Stories and Deals newsletters or get Mashable push alerts today."
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/google-search-legend-of-zelda-ocarina-of-time-tloz-switch-2-easter-egg",
-     "title": "Google Is Quietly Hiding A New Zelda: Ocarina of Time Easter Egg",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ocarina-of-time-remake-future-of-zelda-games.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "d99d52c389959e7a",
-     "published": "2026-11-02T17:57+00:00",
-     "text": "The official release of the Switch 2 remake of The Legend of Zelda: Ocarina of Time is only a couple of days away, but search engine Google has already started the festivities with a clever nod to Nintendo's landmark adventure game.\nGoogle has created a number of video game homages over the years, like an interactive question mark block from Super Mario in 2015 and its shout-out to Wordle in 2022. The tributes can be pretty elaborate as well: there was that time Google allowed users to play Breakout, or the more recent Pokédex mini-game. The latter, which tasks players with searching for and capturing the compendium of 151 monsters from the original Pokémon Red and Blue, is still active to this day.\nHow to see Google's Zelda: Ocarina of Time Easter egg\nAll you need to do to trigger the Easter egg is to search for something related to the upcoming Switch 2 game. You can input a wide range of popular terms, like \"Zelda,\" \"Ocarina of Time,\" and \"tloz.\" Once you do, a hovering graphic of the iconic Master Sword should appear in the bottom-right corner. Click it, and you should hear Link scream \"Hya!\"\nThe Triforce will then take over most of the screen and transform the page itself. Google's search results will appear as they did in 1998 — the year that Ocarina of Time was originally released on the Nintendo 64. You can click the sword again to go back to modern Google.\nThe Zelda Easter egg is a nice touch, but it's also a depressing reminder of just how much the search engine itself has changed over the years. Remember when Google made it easier to find pages published before 2022? You know, the time before your search results were overtaken by an AI chatbot that doesn't link to its sources half of the time? Those were the days!"
-    },
-    {
-     "source": "9to5Google",
-     "trust": 2,
-     "url": "https://9to5google.com/2026/11/03/googles-ocarina-of-time-easter-egg-is-a-blast-from-the-past",
-     "title": "Google’s Ocarina of Time easter egg is a blast from the past",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-search-zelda-november-2026-02.jpg?quality=82&strip=all&resize=1200,628"
-     },
-     "id": "7cf872e7e04542a8",
-     "published": "2026-11-03T13:05+00:00",
-     "text": "If you’re sick of AI search and all the business of modern Google search, this week’s Google easter egg will take you back 28 years to a simpler time when Ocarina of Time was the pinnacle of gaming, and Google was still a new name.\nIt’s hard to believe I was sitting on a couch in my parents’ living room 28 years ago, playing Ocarina of Time on my Nintendo 64. Apparently, the folks at Google feel just as nostalgic as I do about the upcoming release of The Legend of Zelda: Ocarina of Time on the Nintendo Switch 2.\nCase in point, if you go to Google right now and search for “Zelda” or “Ocarina of Time,” you’ll see a Master Sword appear in the bottom-right corner of your screen. Tap that sword, and you’ll be magically transported back to the way Google looked back in 1998. It’s just seven blue links with short descriptions on a very simple page. Even the “I’m Feeling Lucky” button works!\nUnfortunately, the theme only works for this specific search, so you can’t keep things looking retro if you search for anything else, even if you start from the old-school search box on the 1998-themed page. Bummer. Tapping the Master Sword again brings you back to 2026 Google search, complete with a great little animation and sounds of Link in adult or child form, depending on which way you travel in time. Try it for yourself on desktop or mobile!\nMore on Google Search:\n- Google’s Universal Cart puts a shopping cart everywhere, including Search homepage, Chrome\n- Google AI Mode and AI Overview updates work to elevate links\n- Google rolling out Universal Cart that lets you shop the web and find deals with Gemini, Search\nFollow Nick: YouTube, X (Twitter), Threads, Instagram\nComments"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmctRVBFY2Q3b0tieFB2Yi1SbFEybEVIYmtSaUc2ZHd3OWdCSHg4QnJqOXpDVlRhaF9jTDcxZXdBZlJ5dFpqRC13RkYxWEYzSkNwdGtVcTA2aEdFOXNhS1psVWhKUkRPN3lENTBUOTFvTF9NcU5aeFFPemRuT2YxVTJBUHlYRWJ5TUk3VWJkR2QzM2xUT2RxOVZXRQ?oc=5",
-     "title": "Google Is Quietly Hiding A New Zelda: Ocarina of Time Easter Egg",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "ff751c8150ae88e9",
-     "published": "2026-11-02T17:57+00:00",
-     "text": "- Google Is Quietly Hiding A New Zelda: Ocarina of Time Easter Egg Polygon.com\n- Google's Legend of Zelda Easter egg transports you back to 1998 Ars Technica\n- Google’s Legend of Zelda Easter Egg Will Take You Back in Time. Here’s How to Find It CNET\n- Zelda Ocarina of Time Google search transports you back to 1998 My Nintendo News\n- The Legend of Zelda: Ocarina of Time Quietly Hides Easter Egg On Google OpenCritic"
-    }
-   ]
-  },
-  {
    "id": "c5525c4eab1",
    "kind": "news",
    "score": 16.5,
@@ -6782,159 +6829,72 @@
    ]
   },
   {
-   "id": "c12206a3b83",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": true,
-   "distinct_sites": 3,
-   "title_hint": "A NASA telescope will likely plummet to Earth on Friday",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Popular Science",
-     "trust": 2,
-     "url": "https://popsci.com/science/nasa-swift-observatory-falling-to-earth-estimate",
-     "title": "A NASA telescope will likely plummet to Earth on Friday",
-     "lang": "en",
-     "extra": {},
-     "id": "33f372f7b2fbdc66",
-     "published": "2026-11-02T15:01+00:00",
-     "text": "A revolutionary NASA telescope is making its way back to Earth—but will not survive the journey. The United States Space Force has honed its estimate for the Neil Gehreis Swift Observatory’s fiery atmospheric reentry. According to the latest calculations, the 2,500-pound orbital telescope will largely burn-up during its descent on or around Friday, November 6.\n“We’ve known this day would come since before Swift was launched,” Pennsylvania State University astronomer and Swift control lead John Nousek told AP News. “At least in low-Earth orbit, what goes up must come down. And that end is catastrophic.”\nLaunched in 2004 on what was expected to be a two-year mission, the orbital space telescope ultimately spent nearly 22 years gazing deep into the cosmos. Swift’s contributions to astronomy, particularly the study of gamma-ray bursts (GRBs), cannot be overstated. After more than two decades in space, the observatory examined over 2,000 GRBs and more than 1,400 supernovae. Swift also recorded rarely seen tidal disruption events, in which stars are devoured by a nearby black hole. Most recently, the telescope was instrumental in documenting comet 3I/ATLAS, the third interstellar object ever detected passing through the solar system.\nAn estimated 7,000 published scientific papers contain data collected by Swift, which averages out to roughly six papers per week during its almost 22-year run.\n“Swift leaves us with an extraordinary archive of multiwavelength observations that will fuel new discoveries for decades more,” Shawn Domagal-Goldman, director of NASA’s Astrophysics Division, said in October.\nWhile Swift will ultimately succumb to Earth’s gravitational pull, it nearly received a reprieve that would have extended its mission even longer. In July, NASA and the private space company Katalyst collaborated on an attempt to bump Swift back into a higher orbit using a specially designed robotic satellite. Unfortunately, the device malfunctioned while en route to the observatory, forcing mission engineers to abandon the attempt and leave Swift to its fate.\nThat didn’t mean the telescope was ready to wind down just yet, however. Astronomers continued to utilize Swift in the months since then, and only recently said their farewells to the intrepid, tenacious observatory.\nThe post A NASA telescope will likely plummet to Earth on Friday appeared first on Popular Science."
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/nasa-telescope-swift-observatory-plunging-back-to-earth",
-     "title": "NASA telescope is plunging back to Earth after 22 years in orbit",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/fbcc0008-f8f4-459d-b34b-3af63b2fbd9b/thumbnail/1200x630/37d6f9be233f356b1a623629316a25f2/swift-cq5dam-thumbnail-319-319.png"
-     },
-     "id": "372613852090c976",
-     "published": "2026-11-02T19:00+00:00",
-     "text": "An said Monday it predicts the Swift Observatory will likely come crashing down on Wednesday.\nis barely clinging to space after a failed left it tottering lower and lower. The space agencyMost of the 1 ½-ton telescope is expected to burn up in the atmosphere. But a handful of pieces made of denser-than-lead tungsten and some mirror parts could survive reentry, according to NASA's Brad Cenko, the mission's chief scientist.\n\"As of Monday, the U.S. Space Force predicted that the roughly 3,200-pound spacecraft will re-enter the atmosphere at approximately 3:30 a.m. EST, Nov. 4, with an uncertainty of 11 hours,\" NASA said on Monday.\nAny surviving wreckage will most likely plunge into the ocean. But swaths of Africa, Australia, India, Southeast Asia, and Central and South America are within the reentry zone. The U.S. Space Force is tracking the telescope's dwindling path.\nIn a statement on Monday, NASA said the \"risk of harm coming to anyone on Earth is unlikely\" — roughly 1 in 2,100.\n\"NASA and Space Force will continue to monitor the re-entry and update predictions,\" the agency said.\nIts cosmic cremation has the Swift team mourning, yet full of gratitude, for the observations the telescope made during its 22 years in orbit. Swift blasted off on Nov. 20, 2004, to search for some of the biggest explosions in the universe: gamma-ray bursts and supernovas.\n\"We've known this day would come since before Swift was launched. At least in low-Earth orbit, what goes up must come down. And that end is catastrophic,\" said Pennsylvania State University's John Nousek, an astronomer who led the control team.\nIntense solar activity over the past few years dragged Swift down faster than usual. NASA hired Katalyst Space a year ago to mount a rush rescue. But the company's three-armed robot named Link ran into trouble after launching in July and got no closer than 7 miles to 9 miles to the telescope. Link plunged back to Earth in September.\nSwift resumed observations once the rescue attempt was called off, discovering even more gamma-ray bursts and other ultrahigh-energy events. But by late October, the telescope was too low to remain steady for observations, and its systems were shut down.\nIts final tally: more than 2,000 gamma-ray bursts and 1,400 exploding stars, not to mention a slew of comets, asteroids and star-shredding black holes. The telescope's superpower was its ability to swivel swiftly — thus its name — toward erupting celestial events.\nShawn Domagal-Goldman, Astrophysics Division director at NASA, told \"CBS Mornings\" in June that nothing pinpoints gamma-ray bursts like the Swift Observatory.\n\"A nuclear weapon going off doesn't even compare to the magnitude of energy that comes out of these things and it's literally the biggest explosions in the universe,\" Domagal-Goldman said.\nNASA considered Swift a first responder for the Hubble and Webb space telescopes and others that would follow its alerts and provide deeper investigations. Scientists are still figuring out how to fill the gap.\n\"Our fervent hope is that the lessons learned by the successes of Swift can be applied to new generations of space missions to accelerate our discoveries about the universe,\" Nousek said in an email."
-    },
-    {
-     "source": "Google News Science EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSGVnOE5yc3lMYzFBODlKQlBLeUVSRDFQeEFqZlhldGhuWE0yUGs5Tkh5QW5zVko1Sko3OWpvMUprdlNUV1hhbHZWeXMxekZDZWxxSl95RmRVOWF3MGpaYV80OVppeklvRU1hTTRuWTBLUWJ3ODljMW5TVGNPbDRXRkhmbFhPLWNvRnB3YVVlUlV2a0RYVXZpVDFYdGFHNm10YzNoaFZ5Z2hSMjI1WU02Y2ZldUJUREZaMGl6ZlhGRW1RQWvSAcgBQVVfeXFMTW9jaFFuZ2dpVFFXcUhkY0NoVkkzOFhzODVzQlRyMHBDa3Q4LXVlZ0Y2SExrajBTMTZXUmRqb2REU1B2TlFLMXBPWEU2RmRPdEFxTlhjNWVkN2o4WVFtTWdVTEFEcldOYzFzaVJ5Uy1sMVhQMFdraXhIanMyblJEWUNhR05YY0s0ZGlGLUVzbVFxNnFuQmhyTzhaY1JPeDBHRk5lLW1ySUt3T1pGTU1URTVoTTZfNWNHVzBnWUJkQWxSNVV2cDJyNng?oc=5",
-     "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "12206a3b8385f273",
-     "published": "2026-11-02T12:13+00:00",
-     "text": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission\nKXAN Austin\nSee more headlines & perspectives on Google News"
-    },
-    {
-     "source": "Google News Science EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWURQMWNnT0RZWnlOZ0lpRjBvUjQwX1hHbGVjdWdJWUNKR1hiOUZEaGtTRGZEd0NPcmdOY2MzNkhFdlhjQThxdmt0WmxrUTh3SXVaNG1DYzluVzVvTC11ZXdQRHd5dkN5VHRUbm9pQVFhRmpTdU1ybXRNaGtJRE4zQW0yYVFWR1lEcHUtNVh3?oc=5",
-     "title": "An aging 1.5-ton space telescope is plunging back to Earth. NASA has calculated the risk of harm to people.",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "1e9210b144abb095",
-     "published": "2026-11-02T19:00+00:00",
-     "text": "- An aging 1.5-ton space telescope is plunging back to Earth. NASA has calculated the risk of harm to people. CBS News\n- NASA's Swift space telescope is about to crash to Earth. Where will it fall? Space\n- NASA telescope is on the verge of plunging back to Earth after failed rescue mission ABC News - Breaking News, Latest News and Videos\n- Aging NASA telescope crashing to Earth after rescue mission fails USA Today\n- A NASA telescope will likely plummet to Earth on Wednesday Popular Science"
-    },
-    {
-     "source": "Google News Science EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcS1kX3RpVldFQko5Yk9yTEFuRlVzWjFsS1ZfaXNhMDJlOFJNVWMzNGlVaDBTZ2pvU0VQQzdndzBrdWZ4eEEtellqUEVEWUF0RkZENjdtZDQ4TXdBNVkwZWJMQmc0OXhtLVE4VUFDNnY2U0xCUUpoYVFNU3ljZmtac0JZNFJ4MlpXclNGcFNCdXhHNTlwZ2I5aHFMMXRUYVUtRHhSODJoVlozbUtRZ3JMMQ?oc=5",
-     "title": "Aging NASA telescope crashing to Earth after rescue mission fails",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "e51057ee5528fb3a",
-     "published": "2026-11-03T13:02+00:00",
-     "text": "- Aging NASA telescope crashing to Earth after rescue mission fails USA Today\n- NASA’s Swift Observatory to Re-Enter Atmosphere NASA Science (.gov)\n- An aging NASA space telescope is plunging back to Earth. Officials say the \"risk of harm...is unlikely.\" CBS News\n- NASA's Swift space telescope is about to crash to Earth. Where will it fall? Space\n- NASA’s Swift Observatory Is Falling to Earth. Here’s What to Know About the Impending Impact WIRED"
-    }
-   ]
-  },
-  {
-   "id": "cdc50cc29b2",
+   "id": "ca713a21144",
    "kind": "news",
    "score": 16.0,
    "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "The Boys' Spiritual Prequel Returns In New Release",
+   "distinct_sites": 4,
+   "title_hint": "5 Best New Paramount+ Series To Binge-Watch This Week (Nov 2–6 2026)",
    "official_image": null,
    "sources": [
     {
      "source": "Screen Rant",
      "trust": 2,
-     "url": "https://screenrant.com/preacher-new-edition-release-compendium",
-     "title": "The Boys' Spiritual Prequel Returns In New Release",
+     "url": "https://screenrant.com/best-new-paramount-plus-shows-to-watch-week-november-2-2026",
+     "title": "5 Best New Paramount+ Series To Binge-Watch This Week (Nov 2–6 2026)",
      "lang": "en",
-     "extra": {},
-     "id": "dc50cc29b2a9a79a",
-     "published": "2026-11-02T14:07+00:00",
-     "text": "Before there was The Boys, creator Garth Ennis broke new ground with its predecessor series, Preacher. In fact, the genesis of The Boys was Ennis' desire to \"out-Preacher Preacher.\" To make a series that was even more iconoclastic and sacrilegious, even gorier and more outrageously profane. Now, fans of The Boys who aren't familiar with its spiritual \"prequel\" have a new opportunity to experience the series that made it all possible."
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/tv-binge-guide-2.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "a713a211446a9c5d",
+     "published": "2026-11-02T10:45+00:00",
+     "text": "Paramount+ has five great new series to watch this week, including returning hits, fresh episodes, major franchises, and a brand-new premiere. Some of the most popular new Paramount+ series of the year continue to be top trending hits as well, including Lioness, Marshals, and South Park. These are still great options to binge on Paramount+, but the following five series are all new releases as of this week.\nFor the first week of November 2026, ScreenRant has handpicked five outstanding new series that are actually worth your time this week on Paramount+, whether you're looking for something funny, intense, or easy to binge. Make sure to also check out our new weekly streaming guides for Netflix, Prime Video, and Apple TV. Get ready to discover the best of the best on Paramount+ right now.\nIt Gets Worse\nIt Gets Worse is a brand new comedy series arriving on Paramount+ this Friday, November 6. The series follows three best friends from college who are all struggling to adjust to the adult world, facing everything from getting evicted from their apartment in London to dealing with problematic relationships and unsatisfying jobs. It Gets Worse already debuted to an 86% Rotten Tomatoes score and is worth keeping an eye out for on Paramount+ later this week, especially if you're a fan of coming-of-age drama series like Adults.\nAvatar: Seven Havens\nBook I of the new animated series Avatar: Seven Havens officially concluded on Paramount+ last Friday, October 30, making now the ideal time to binge the whole series from start to finish. Avatar: Seven Havens is a directed sequel to the celebrated series Avatar: The Last Airbender and received a perfect 100% Rotten Tomatoes score. Due to its immersive storytelling, great performances, and fantastic visuals, Avatar: Seven Havens is easily one of the best shows on Paramount+ right now.\nMobLand\nMobLand continues its season 2 rollout this week with only a few episodes left before its season finale drops on November 20. Tom Hardy leads a stellar ensemble cast that also includes Helen Mirren, Pierce Brosnan, and more. MobLand has been one of the most-watched titles on Paramount+ this Fall, currently ranking #1 on the streamer's worldwide viewership chart. If you can't get enough of gritty crime dramas and mob stories, MobLand is a no-brainer to binge-watch on Paramount+ this week. New episodes of MobLand season 2 arrive on Paramount+ every Friday.\nTulsa King\nTulsa King season 4 has already released three of its ten total episodes and has started off on the right foot so far this season. Tulsa King season 4 brings back Sylvester Stallone as Dwight Manfredi, a businessman based in Tulsa, Oklahoma, who has his hands on both legitimate and illegal enterprises. Originally created by Taylor Sheridan, Tulsa King\nis also a massively popular series on Paramount+, so much so that it has been renewed for a fifth season and launched the upcoming spin-off, Frisco King, starring Samuel L. Jackson. Tulsa King is the second most-watched series on Paramount+ right now and deserves its popularity.Dexter: Resurrection\nDexter: Resurrection is officially back on Paramount+ with its second season, which just premiered on Friday, October 30. Placing Michael C. Hall's serial killer protagonist, Dexter Morgan, back on the streets of New York City, Dexter: Resurrection gives the character his biggest threats yet in the form of two new killer foes, the New York Ripper (Brian Cox) and the Five Boroughs Killer (Dan Stevens), as well"
     },
     {
      "source": "Screen Rant",
      "trust": 2,
-     "url": "https://screenrant.com/blue-eye-samurai-prequel-cry-of-the-yurei",
-     "title": "Netflix's Blue Eye Samurai Returns With New Prequel In 3 Months",
+     "url": "https://screenrant.com/best-new-apple-tv-shows-to-watch-week-november-2-2026",
+     "title": "5 Best New Apple TV Series To Binge-Watch This Week (Nov 2–6 2026)",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/tv-binge-guide-3.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "862d5d2444282bd7",
+     "published": "2026-11-02T11:30+00:00",
+     "text": "Apple TV has five acclaimed new series to watch this week, including major returning favorites, fresh premieres, acclaimed sci-fi, and star-driven dramas. Whether you want something to make you laugh or keep you on the edge of your seat, these five Apple TV original series are critically acclaimed and trending worldwide, making each one well worth binge-watching.\nScreenRant's TV experts have selected five of the newest Apple TV series that are either releasing new episodes this week or very recently dropped their finales, making this list a collection of the absolute latest and greatest that the streamer has to offer right now. Also, check out SR's new weekly binge guides for Netflix, Prime Video, and Paramount+ and enjoy what every major platform has to offer during the first official week of November 2026.\nDark Matter\nDark Matter is a celebrated psychological thriller series that just dropped its season 2 finale on Friday, October, 30, making this week the perfect time to start binge-watching if you haven't already. Joel Edgerton and Jennifer Connelly star in the series based on a bestselling novel of the same name. The story follows a man who finds himself in an alternate version of his life and desperately tries to get back to reality as he knows it. Dark Matter earned an 81% Rotten Tomatoes score and currently ranks #4 on Apple TV's worldwide viewership chart.\nBrothers\nBrothers is another popular streaming option on Apple TV this week thanks to its dynamic lead duo of Matthew McConaughey and Woody Harrelson. With the season finale of Brothers arriving this Wednesday, November 4, there's no better time to dive into the feel-good buddy comedy series than this week. Brothers follows McConaughey and Harrelson playing heightened versions of themselves and is based on the premise that the two best friends could actually be blood-related. Brothers ranks #6 on Apple TV's global viewership chart and is a great choice for a casual binge this week.\nAwkwafina: The Unlikely Cook\nOne of the newest series on Apple TV right now is Awkwafina: The Unlikely Cook, a reality series that premieres this Friday, November 6. The series follows actor and comedian Awkwafina as she takes a cross-country journey exploring modern Asian American culture and cuisine. After admitting that she does not know how to cook, Awkwafina challenges herself to learn more about the craft and connect on a deeper level with her heritage and family's personal legacy. If you love unscripted series with cooking elements, don't miss Awkwafina: The Unlikely Cook this week.\nStick\nStick season 2 premieres on Apple TV this Wednesday, November 4, bringing back Owen Wilson, Marc Maron, and Timothy Olyphant in this feel-good golf dramedy. Stick season 2 follows Wilson's protagonist, Pryce Cahill, as he tries to become the oldest professional golfer to ever win a major championship on the PGA Tour. Stick season 2 also features newcomer and Emmy winner Rhea Seehorn and earned a perfect 100% Rotten Tomatoes score at the time of writing. If you're looking for something light and wholesome to watch on Apple TV this week, Stick season 2 is about as good as it gets.\nNocturne\nFollowing its global premiere on Friday, October 30, Nocturne is officially the #1 most-watched series on Apple TV right now and our top pick for shows to stream this week on the platform. The gripping crime thriller has a completely stacked cast led by Liev Schreiber, Stephen Graham, Bill Camp, Zazie Beetz, and more, and h"
+    },
+    {
+     "source": "XDA",
+     "trust": 2,
+     "url": "https://xda-developers.com/grab-the-apple-watch-with-cellular-for-just-300",
+     "title": "This cellular Apple Watch Series 10 is $250 off right now",
      "lang": "en",
      "extra": {},
-     "id": "c64a926c671f65fd",
-     "published": "2026-11-02T18:19+00:00",
-     "text": "After four years of waiting, fans of Netflix’s Blue Eye Samurai have plenty to look forward to in 2027, with two exciting new releases coming to the franchise. While January 2027 is already on fans’ radar for the return of the animated series with Season 2, they can now add February 2027 to the calendar, as Mizu is also set to return in a brand-new, four-part prequel."
+     "id": "08b9c500fadee76e",
+     "published": "2026-11-02T15:58+00:00",
+     "text": "A smartwatch is a great way to stay in the loop on your notifications while staying present in the moment. I've had an Apple Watch for a few years now, and while it's not essential, I do like it, and it does make a difference in my daily workflow."
     },
     {
-     "source": "What's on Netflix",
+     "source": "The Verge",
      "trust": 2,
-     "url": "https://whats-on-netflix.com/news/blue-eye-samurai-season-2-netflix-release-date-january-2027",
-     "title": "‘Blue Eye Samurai’ Season 2 Officially Sets January 19, 2027 Release Date on Netflix",
+     "url": "https://theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+     "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
      "lang": "en",
      "extra": {},
-     "id": "98b4e13419cc976d",
-     "published": "2026-11-03T14:00+00:00",
-     "text": "Three years to the day since Blue Eye Samurai first sliced its way onto Netflix, we finally have an exact date for its return. Netflix has confirmed that the six-episode second season will arrive on January 19, 2027, narrowing down the January window revealed at Anime NYC back in August. Alongside the date, Netflix has shared a new first-look video and a batch of new images of Mizu’s bloody quest continuing in London.\nSeason 1 dropped on November 3, 2023, so by the time season 2 lands, fans will have waited a little over three years and two months for new episodes. It has been a long road. The creators initially targeted a 2026 release before we reported that the season wouldn’t be arriving until 2027.\nHere’s Netflix’s official logline for the new season:\nIn Season 2, Mizu’s bloody quest continues in London, where she faces new friends, old foes, and her own demons. In Japan, Akemi and Taigen navigate Edo Castle under a dangerous new Shogun, while Ringo searches for new purpose.\nWhen we last saw Mizu (Maya Erskine), she was sailing for London to hunt down the two remaining men who might be her father. According to Netflix, that’s exactly where season 2 picks up. Series creators, executive producers, and writers Amber Noizumi and Michael Green return, with Blue Spirit once again handling the animation.\nAs we recently covered, new voices this season include Jonathan Pryce as Old Violet, Joel Kim Booster as Priest Ando, and Sherry Cola as Kuma.\nThe date announcement follows a recent showcase at LightBox Expo, where Noizumi and Green were joined by production designer Toby Wilson and Emily Sasaki for a look at the research and development behind the new season in a panel hosted by social media influencer Brandon Davis. No official recording of the panel has been released, so the details below come from attendee notes shared on r/BlueEyeSamurai. One attendee said the room was packed, with Green noting that it hadn’t even been a third full at the show’s first LightBox panel.\nHere’s some abbreviated notes on the panel and what was learned:\nLightbox Season 2: Mizu pictures!\nbyu/DuchessIronCat inBlueEyeSamurai\nLightBox Panel 2026: Recap and extra pictures\nbyu/DuchessIronCat inBlueEyeSamurai\nThe wait for the conclusion shouldn’t be anywhere near as long. Netflix has already renewed the series for a third and final season, which is slated for 2028. According to the LightBox notes, Mizu’s story will end with season 3, but the creators hope to make spin-offs. An art book is also said to be planned around the release of season 3.\nIf early buzz is anything to go by, the wait should be worth it. Instagram user noonecarespat says they got to eavesdrop on some sound mixing and called season 2 “just jawdropping,” while also confessing to clipping the car next to them after the studio kindly gave them a parking spot.\nFor more on the new season, check out our everything we know guide. Season 1 is streaming on Netflix now if you need a refresher before January.\nAre you excited for the return of Blue Eye Samurai on January 19? Let us know in the comments down below!"
+     "id": "65496afd3bf16b71",
+     "published": "2026-11-02T19:24+00:00",
+     "text": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multiple colors at Amazon, matching its all-time low price.\nPowered by Apple’s new S11 chip (also in the Series 12), the Apple Watch Ultra 4 delivers faster performance than the last-gen version, plus a handful of new Apple Intelligence features. Of note, those include Sound Recognition, which alerts you to noises like alarms and doorbells, and the Live Rewind feature that lets you revisit the last 15 seconds of an in-person conversation. An upcoming Siri Recap feature will be able to create summaries of conversations for later reference.\nThis model has broader health and fitness capabilities than previous models, too. Its sensors promise more accurate EKG measurements, while the watch can track your heart rate as often as every five seconds. The new Readiness feature (not available on the Ultra 3 and earlier models) also analyzes your recent activity, sleep quality, and other health metrics to generate a score from zero to 10, helping you determine whether to push yourself or take it easy.\nOn the hardware front, battery life is perhaps the biggest highlight, with Apple promising up to 50 hours on a charge — twice as long as the Series 12. Like its predecessor, this model features Apple’s brightest watch display and a rugged design that’s water-resistant up to 100 meters and IP6X-rated for dust resistance. It also retains conveniences like the second-generation Ultra Wideband chip for Precision Finding, and helpful gesture controls so you can you can perform actions with a double tap or flick of your wrist."
     },
     {
-     "source": "Variety",
+     "source": "Lifehacker",
      "trust": 2,
-     "url": "https://variety.com/2026/tv/news/blue-eye-samurai-season-2-release-date-netflix-1236938383",
-     "title": "‘Blue Eye Samurai’ Sets Season 2 Release Date at Netflix",
+     "url": "https://lifehacker.com/tech/apple-watch-ultra-4-sale-early-black-friday-2026",
+     "title": "This Apple Watch Ultra 4 Is $100 Off Right Now",
      "lang": "en",
-     "extra": {
-      "page_image": "https://variety.com/wp-content/uploads/2026/11/BLUE_EYE_SAMURAI_n_S2_E3_00_09_39_02_R1.jpg?w=1000&h=563&crop=1"
-     },
-     "id": "b62c9a2b127d3b3f",
-     "published": "2026-11-03T14:23+00:00",
-     "text": "Netflix has announced the Season 2 premiere date for “Blue Eye Samurai.”\nThe second season of the popular adult animated series will debut on the streamer on Jan. 19, 2027. That is more than three years since the first season aired in Nov. 2023.\nThe official logline for Season 2 states, “In Season 2, Mizu’s (Maya Erskine) bloody quest continues in London, where she faces new friends, old foes, and her own demons. In Japan, Akemi (Brenda Song) and Taigen (Darren Barnet) navigate Edo Castle under a dangerous new Shogun, while Ringo (Masi Oka) searches for new purpose.\nAlong with Erskine, Song, Barnet, and Oka, the cast of the series’ second season includes Jonathan Pryce, Joel Kim Booster, Sherry Cola, and more. Season 1 cast members included Kenneth Branagh, George Takei, Randall Park, Stephanie Hsu, and Ming-Na Wen among several others.\nMichael Green and Amber Noizumi are the creators, writers, and executive producers on “Blue Eye Samurai.” Erwin Stoff is also an executive producer. Jane Wu serves as supervising director and producer. Blue Spirit serves as the animation studio.\nIt was announced back in August that “Blue Eye Samurai” has already been renewed for a third season, which will also be the show’s last. The final season is slated to debut in 2028.\nThe first season of “Blue Eye Samurai” ultimately won four Creative Arts Emmy Awards back in 2024, including the award for Outstanding Animated Program, beating out shows like “Scavengers Reign,” “The Simpsons,” “X-Men ‘97,” and “Bob’s Burgers.”"
-    },
-    {
-     "source": "Polygon",
-     "trust": 2,
-     "url": "https://polygon.com/netflix-blue-eye-samurai-season-2-release-date-episode-count-announced",
-     "title": "Netflix Officially Reveals Blue Eye Samurai Season 2 Premiere Date and Episode Count",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mizu-holds-a-sword-in-blue-eye-samurai-season-2.jpg?w=1600&h=900&fit=crop"
-     },
-     "id": "4d301f31749db587",
-     "published": "2026-11-03T15:10+00:00",
-     "text": "The first season of Blue Eye Samurai ended with the perfect teaser for a drastically different season 2. Since then, fans have spent three years waiting for Netflix's animated show to return and pick up where it left off. Thankfully, the long wait is almost over as Netflix has announced the season 2 release date and Mizu's quest for revenge is about to reach new heights.\nAt Anime NYC in August, it was revealed that Season 2 would arrive early next year. Now we know exactly when. Netflix has announced that Blue Eye Samurai will return on Jan. 19, 2027. Unfortunately, the second season will have only six episodes, two fewer than the first's eight. However, the wait for a third season shouldn't be as long, since Netflix has announced plans for the series to conclude in 2028.\nSpoilers for Blue Eye Samurai season 1 ahead\nThe release date trailer mainly serves as a refresher on the events of the show so far. Season 1 introduced audiences to Mizu, a half-white, half-Japanese woman trained in swordsmanship. She disguises herself as a man and embarks on a quest to kill four European men (one of whom is her father). This culminated in a confrontation with one of those men, Abijah Fowler, who attempted to overthrow the ruling shogunate.\nWhat will Blue Eye Samurai season 2 be about?\nAt the end of season 1, Fowler reveals to Mizu that the two remaining men who might be her father are in London, and we then see the pair on a ship leaving Japan. Season 2 will pick up right here, with Mizu on her way to London to finish her revenge quest. Series co-creators Amber Noizumi and Michael Green teased the show's new setting by saying this:\n“London in 1657 had a thriving culture of illicit activity, something that fittingly parallels our story of Japan. Mizu will have to navigate this dark underbelly amid a puritanical society that persecuted women as witches, closed bars and theaters, and even outlawed Christmas. If you know Mizu, she doesn’t take too kindly to repression, especially if it stands in the way of her revenge.”\nMaya Erskine will return to voice Mizu, along with Brenda Song as Akemi, Darren Barnet as Taigen, and Masi Oka as Ringo. As some of these characters were left behind in Japan at the end of season 1, it will be interesting to see how they once again cross paths with Mizu. Newcomers for season 2 include Sherry Cola as Kuma, Joel Kim Booster as Priest Ando, and Jonathan Pryce as Old Violet."
-    },
-    {
-     "source": "Deadline",
-     "trust": 2,
-     "url": "https://deadline.com/2026/11/blue-eye-samurai-season-2-release-date-netflix-1237212165",
-     "title": "‘Blue Eye Samurai’ Sets Season 2 Release Date At Netflix",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://deadline.com/wp-content/uploads/2026/11/BLUE_EYE_SAMURAI_n_S2_E3_00_09_39_02_R1.jpg?w=1024"
-     },
-     "id": "2942acabc8764546",
-     "published": "2026-11-03T15:29+00:00",
-     "text": "We have a date for the Season 2 premiere of Blue Eye Samurai. The second season of the popular adult animated series will launch on January 19, 2027, more than three years after Season 1 aired in 2023.\nNetflix announced in August that it had renewed the series for a third and final season, set for premiere in 2028.\nMaya Erskine returns to star as Mizu, with new cast Jonathan Pryce, Joel Kim Booster and Sherry Cola.\nPer the logline, in Season 2, Mizu’s (Erskine) bloody quest continues in London, where she faces new friends, old foes, and her own demons. In Japan, Akemi (Brenda Song) and Taigen (Darren Barnet) navigate Edo Castle under a dangerous new Shogun, while Ringo (Masi Oka) searches for new purpose.\nCreated by husband-and-wife duo Amber Noizumi and Michael Green, Blue Eye Samurai follows mixed-race Japanese warrior Mizu’s (Erskine) as she seeks vengeance against four white men, including her father, who remained illegally in Japan after the Tokugawa shogunate closed its borders.\nWatch on Deadline\nThe show has won four Creative Arts Emmy Awards, including Outstanding Animated Program for Season 1. It also scored six Annie Awards on six nominations, all for its first season.\nGreen and Noizumi serve as creators, executive producers and writers. Blue Spirit is the animation studio.\nYou can watch a previously released teaser and see new Season 2 images below."
+     "extra": {},
+     "id": "ac9c20153acd60d8",
+     "published": "2026-11-03T19:00+00:00",
+     "text": "We may earn a commission from links on this page. Deal pricing and availability subject to change after time of publication.\nThe Apple Watch Ultra 4 only launched in September, and it’s already seeing an early Black Friday discount of $100 on Amazon, bringing it down to $699.99 (originally $799) and matching its record-low price. This early deal on Apple’s rugged smartwatch includes perks like multi-day battery life and dual-frequency GPS. Note that only the large size is on sale.\nPCMag called it a “battery beast” in its review of the Ultra 4, giving it an “Excellent” rating and citing its “jaw-dropping 74-hour battery life” in testing. Apple rates the watch for up to 50 hours of normal use and up to 84 hours in Low Power Mode. The updated Ultra 4 also has a faster S11 chip and precision health tracking, making it a more capable competitor to rugged outdoor watches from brands like Garmin. It’s designed for people who want a durable companion for adventures and endurance workouts.\nWhile the design and display remain largely unchanged, the S11 chip supports new software and health features, including a Readiness Score that assesses the user’s recent activity, sleep, and health data, then offers a daily recommendation. It also has updated heart-rate monitoring and step counting. This model comes with cellular connectivity and dual-frequency GPS. If you’re an Apple user looking for a rugged watch with multi-day battery life and detailed health tracking, the Apple Watch Ultra 4 could suit everyday users and serious adventurers alike."
     }
    ]
   },
@@ -7099,6 +7059,63 @@
    ]
   },
   {
+   "id": "cabc2f6777e",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Zach Cregger's Resident Evil Streaming Release Date Confirmed",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/resident-evil-2026-digital-streaming-release-date",
+     "title": "Zach Cregger's Resident Evil Streaming Release Date Confirmed",
+     "lang": "en",
+     "extra": {},
+     "id": "abc2f6777e07c06d",
+     "published": "2026-11-02T16:56+00:00",
+     "text": "After hitting theaters in September and quickly becoming a major success, Zach Cregger’s Resident Evil movie now has a digital release date."
+    },
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uSlZsSVZNaWZqMW9UX3BhbzFxeXp6aWZsQnRwTjYzZVFvZldRVFQwSzZOMF9Td3o2QkQ5Q0VZZnRoVFVhQXZJU3QwZlNzdi1sMTVmUW0xdG8wOENyVEwydGV4R3otcUYtaXVXQWJHaDR6YnlYakxESllWdUU2dw?oc=5",
+     "title": "Zach Cregger's Resident Evil Streaming Release Date Confirmed",
+     "lang": "en",
+     "extra": {},
+     "id": "ba73bc1380b92185",
+     "published": "2026-11-02T16:56+00:00",
+     "text": "Zach Cregger's Resident Evil Streaming Release Date Confirmed\nScreenRant"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/zach-cregger-says-he-still-wants-to-have-a-hand-in-future-resident-evil-sequels",
+     "title": "Zach Cregger Says He Still Wants to 'Have a Hand' in Future Resident Evil Sequels",
+     "lang": "en",
+     "extra": {},
+     "id": "e1cf8a3492e80a6e",
+     "published": "2026-11-02T21:32+00:00",
+     "text": "Resident Evil director Zach Cregger says that he’d still want to \"have a hand\" in potential sequels for his hit horror adaptation, despite swearing off future \"franchise\" films.\nZach Cregger’s Resident Evil adaptation was a hit at the box office, but its reception was starkly different among hardcore fans of the original games. Rather than attempting to retell stories players have already experienced, he opted for a different approach by following an average Joe as he navigates the chaos of the Raccoon City Incident — and this rubbed a vocal portion of the fanbase the wrong way.\nAs a result, Cregger has adamantly decided against ever working on a \"franchise\" again, a word he used on an episode of The Town with Matthew Belloni.\n\"If there were five Resident Evil movies that you just produced but didn’t write or direct, would you be okay with that, or not?\" the host asked him.\n\"I would want to have some hand in them,\" Cregger answered. \"I can’t help but have an idea for where that franchise — I’m calling it a franchise — could go. So, certainly.\"\nThis isn’t the first time Cregger has mentioned his vision for a sequel to his Resident Evil movie; he spoke about the possibility with The Playlist in September, saying he \"can’t help thinking about other places this story could go.\"\n\"With Barbarian, I’ve never entertained the idea of a sequel or another movie in that universe because that story is, at its heart, so foul,\" he continued. \"What makes Barbarian interesting is the unfolding of the narrative, not the subject matter. I don’t think I want to write another story about what that movie is about. But this is different. I want to talk about the ending of this movie so badly, because there is a big aspect of it that’s worth discussing. This is a different situation.\"\nAs previously mentioned, however, the idea of remaining with the Resident Evil franchise — at least as far as films are concerned — has put a sour taste in his mouth due to fans' reactions to his take on Capcom's flagship horror franchise.\nIn this same interview, Cregger bemoaned the discourse that surrounded the movie, saying that fans weren’t actually focused on the film itself but instead how well it matched up with the games.\n\"I think I was frustrated at the conversation around Resident Evil and how much of the conversation really didn't have anything to do with the movie,\" he said. “It had everything to do with whether the movie was living up to the different standards that different fans of the games had. Whether it was using the characters or not, or what did I get wrong in the lore? It was just a lot about, 'Why isn't this like the source material, or why is it good that it's not like the source material?' All the conversation just felt like it was about not the movie.\"\nSpeaking with IGN, Cregger admitted he was \"naive\" to think that fans would be gung-ho about his take on the source material; though, despite it all, it seems like he’d still want to be attached to future adaptations of Resident Evil in some shape or form."
+    },
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/resident-evil-zach-cregger-return-future-update",
+     "title": "Zach Cregger’s Resident Evil Return Gets New Update After Record-Breaking Success",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/09/austin-abrams-bryan-looking-shocked-at-a-zombie-with-a-tentacle-coming-out-of-her-cheek-in-resident-evil.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "61cd6cefa911f595",
+     "published": "2026-11-03T18:53+00:00",
+     "text": "Zach Cregger reveals to what extent he will be involved in any Resident Evil sequels.\nThe comedian and actor exploded onto the horror scene by writing and directing big box-office hits in Barbarian (2022) and Weapons (2025), with the latter also winning an Academy Award for Best Supporting Actress (Amy Madigan). Cregger's latest film is the Resident Evil reboot, based on Capcom's video game franchise, which is his biggest hit yet, both critically and commercially.\nWhile Cregger will not return to direct any Resident Evil sequels, he has expressed interest in staying involved behind the scenes as a producer or by sharing ideas. Appearing on The Town with Matthew Belloni, Cregger said he \"would want to have some hand\" in future films by pitching ideas for where the \"franchise could go.\" Read his full comments below:\nI would want to have some hand in them. I can’t help but have an idea for where that franchise — I’m calling it a franchise — could go. So, certainly.\nCregger has stated that he is finished making franchise films after experiencing intense fan backlash over how his Resident Evil reboot handled the video game's lore. Instead, Cregger's next project is an original sci-fi film, The Flood, starring Jennifer Lawrence.\nThough a sequel has not yet been officially greenlit by Sony Pictures, one is widely anticipated following the film's massive box office success, grossing $400 million worldwide against its $75 million budget, becoming both the highest-grossing Resident Evil movie and the highest-grossing Zach Cregger movie after Barbarian ($46.2M) and Weapons $270M).\nResident Evil reviews have also broken records, resulting in a 96% Rotten Tomatoes score and a 79 score on Metacritic, making it the highest-rated video game movie ever. Critics praise the film for capturing a thrilling mix of fear and fun that makes playing a genuinely terrifying video game so exhilarating, with Austin Abrams' sharp comedic timing offering welcome relief.\nThe eighth live-action film in the franchise, Resident Evil stars Austin Abrams as Bryan Hodukavich, a medical courier who must fight through an outbreak of infected monsters in Raccoon City. Zach Cherry, Kali Reis, Paul Walter Hauser, Will Merrick, Karel Dobrý, Griffin Newman, and Jo Martin also star in supporting roles.\nWhile Cregger may not return to the director's chair, his influence could still shape where the Resident Evil franchise goes next.\n- Release Date\n- September 18, 2026\n- Runtime\n- 95 Minutes\n- Director\n- Zach Cregger\n- Writers\n- Shay Hatten, Zach Cregger\n- Producers\n- Asad Qizilbash, Carter Swan, Miri Yoon, Robert Kulzer, Roy Lee, Victor Hadida, Zach Cregger"
+    }
+   ]
+  },
+  {
    "id": "c388d990cdc",
    "kind": "news",
    "score": 16.0,
@@ -7187,6 +7204,89 @@
      "id": "c3af03c21614064b",
      "published": "2026-11-03T15:33+00:00",
      "text": "- King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’ The New York Times\n- King calls slave trade a 'shameful chapter' during Commonwealth address BBC\n- King Charles Addresses Slavery in Keynote Speech: “That Shameful Chapter of History Is One That Fills My Heart with Horror” Town & Country Magazine\n- King Charles Meets Both Joy and Criticism on Caribbean Tour The New York Times\n- As King Charles visits the Caribbean, is the reparations movement approaching a tipping point? The Guardian"
+    }
+   ]
+  },
+  {
+   "id": "cc64a926c67",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Netflix's Blue Eye Samurai Returns With New Prequel In 3 Months",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/blue-eye-samurai-prequel-cry-of-the-yurei",
+     "title": "Netflix's Blue Eye Samurai Returns With New Prequel In 3 Months",
+     "lang": "en",
+     "extra": {},
+     "id": "c64a926c671f65fd",
+     "published": "2026-11-02T18:19+00:00",
+     "text": "After four years of waiting, fans of Netflix’s Blue Eye Samurai have plenty to look forward to in 2027, with two exciting new releases coming to the franchise. While January 2027 is already on fans’ radar for the return of the animated series with Season 2, they can now add February 2027 to the calendar, as Mizu is also set to return in a brand-new, four-part prequel."
+    },
+    {
+     "source": "What's on Netflix",
+     "trust": 2,
+     "url": "https://whats-on-netflix.com/news/blue-eye-samurai-season-2-netflix-release-date-january-2027",
+     "title": "‘Blue Eye Samurai’ Season 2 Officially Sets January 19, 2027 Release Date on Netflix",
+     "lang": "en",
+     "extra": {},
+     "id": "98b4e13419cc976d",
+     "published": "2026-11-03T14:00+00:00",
+     "text": "Three years to the day since Blue Eye Samurai first sliced its way onto Netflix, we finally have an exact date for its return. Netflix has confirmed that the six-episode second season will arrive on January 19, 2027, narrowing down the January window revealed at Anime NYC back in August. Alongside the date, Netflix has shared a new first-look video and a batch of new images of Mizu’s bloody quest continuing in London.\nSeason 1 dropped on November 3, 2023, so by the time season 2 lands, fans will have waited a little over three years and two months for new episodes. It has been a long road. The creators initially targeted a 2026 release before we reported that the season wouldn’t be arriving until 2027.\nHere’s Netflix’s official logline for the new season:\nIn Season 2, Mizu’s bloody quest continues in London, where she faces new friends, old foes, and her own demons. In Japan, Akemi and Taigen navigate Edo Castle under a dangerous new Shogun, while Ringo searches for new purpose.\nWhen we last saw Mizu (Maya Erskine), she was sailing for London to hunt down the two remaining men who might be her father. According to Netflix, that’s exactly where season 2 picks up. Series creators, executive producers, and writers Amber Noizumi and Michael Green return, with Blue Spirit once again handling the animation.\nAs we recently covered, new voices this season include Jonathan Pryce as Old Violet, Joel Kim Booster as Priest Ando, and Sherry Cola as Kuma.\nThe date announcement follows a recent showcase at LightBox Expo, where Noizumi and Green were joined by production designer Toby Wilson and Emily Sasaki for a look at the research and development behind the new season in a panel hosted by social media influencer Brandon Davis. No official recording of the panel has been released, so the details below come from attendee notes shared on r/BlueEyeSamurai. One attendee said the room was packed, with Green noting that it hadn’t even been a third full at the show’s first LightBox panel.\nHere’s some abbreviated notes on the panel and what was learned:\nLightbox Season 2: Mizu pictures!\nbyu/DuchessIronCat inBlueEyeSamurai\nLightBox Panel 2026: Recap and extra pictures\nbyu/DuchessIronCat inBlueEyeSamurai\nThe wait for the conclusion shouldn’t be anywhere near as long. Netflix has already renewed the series for a third and final season, which is slated for 2028. According to the LightBox notes, Mizu’s story will end with season 3, but the creators hope to make spin-offs. An art book is also said to be planned around the release of season 3.\nIf early buzz is anything to go by, the wait should be worth it. Instagram user noonecarespat says they got to eavesdrop on some sound mixing and called season 2 “just jawdropping,” while also confessing to clipping the car next to them after the studio kindly gave them a parking spot.\nFor more on the new season, check out our everything we know guide. Season 1 is streaming on Netflix now if you need a refresher before January.\nAre you excited for the return of Blue Eye Samurai on January 19? Let us know in the comments down below!"
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/tv/news/blue-eye-samurai-season-2-release-date-netflix-1236938383",
+     "title": "‘Blue Eye Samurai’ Sets Season 2 Release Date at Netflix",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2026/11/BLUE_EYE_SAMURAI_n_S2_E3_00_09_39_02_R1.jpg?w=1000&h=563&crop=1"
+     },
+     "id": "b62c9a2b127d3b3f",
+     "published": "2026-11-03T14:23+00:00",
+     "text": "Netflix has announced the Season 2 premiere date for “Blue Eye Samurai.”\nThe second season of the popular adult animated series will debut on the streamer on Jan. 19, 2027. That is more than three years since the first season aired in Nov. 2023.\nThe official logline for Season 2 states, “In Season 2, Mizu’s (Maya Erskine) bloody quest continues in London, where she faces new friends, old foes, and her own demons. In Japan, Akemi (Brenda Song) and Taigen (Darren Barnet) navigate Edo Castle under a dangerous new Shogun, while Ringo (Masi Oka) searches for new purpose.\nAlong with Erskine, Song, Barnet, and Oka, the cast of the series’ second season includes Jonathan Pryce, Joel Kim Booster, Sherry Cola, and more. Season 1 cast members included Kenneth Branagh, George Takei, Randall Park, Stephanie Hsu, and Ming-Na Wen among several others.\nMichael Green and Amber Noizumi are the creators, writers, and executive producers on “Blue Eye Samurai.” Erwin Stoff is also an executive producer. Jane Wu serves as supervising director and producer. Blue Spirit serves as the animation studio.\nIt was announced back in August that “Blue Eye Samurai” has already been renewed for a third season, which will also be the show’s last. The final season is slated to debut in 2028.\nThe first season of “Blue Eye Samurai” ultimately won four Creative Arts Emmy Awards back in 2024, including the award for Outstanding Animated Program, beating out shows like “Scavengers Reign,” “The Simpsons,” “X-Men ‘97,” and “Bob’s Burgers.”"
+    },
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/netflix-blue-eye-samurai-season-2-release-date",
+     "title": "After 3 Years, Netflix's Best Historical Action Series Lands Official Season 2 Release Date",
+     "lang": "en",
+     "extra": {},
+     "id": "e4a0e1c15bf88fab",
+     "published": "2026-11-03T15:09+00:00",
+     "text": "After a 3-year wait, Netflix has finally confirmed that Blue Eye Samurai season 2 is not only launching but will arrive on the streaming giant sooner than anyone expected."
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/netflix-blue-eye-samurai-season-2-release-date-episode-count-announced",
+     "title": "Netflix Officially Reveals Blue Eye Samurai Season 2 Premiere Date and Episode Count",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mizu-holds-a-sword-in-blue-eye-samurai-season-2.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "4d301f31749db587",
+     "published": "2026-11-03T15:10+00:00",
+     "text": "The first season of Blue Eye Samurai ended with the perfect teaser for a drastically different season 2. Since then, fans have spent three years waiting for Netflix's animated show to return and pick up where it left off. Thankfully, the long wait is almost over as Netflix has announced the season 2 release date and Mizu's quest for revenge is about to reach new heights.\nAt Anime NYC in August, it was revealed that Season 2 would arrive early next year. Now we know exactly when. Netflix has announced that Blue Eye Samurai will return on Jan. 19, 2027. Unfortunately, the second season will have only six episodes, two fewer than the first's eight. However, the wait for a third season shouldn't be as long, since Netflix has announced plans for the series to conclude in 2028.\nSpoilers for Blue Eye Samurai season 1 ahead\nThe release date trailer mainly serves as a refresher on the events of the show so far. Season 1 introduced audiences to Mizu, a half-white, half-Japanese woman trained in swordsmanship. She disguises herself as a man and embarks on a quest to kill four European men (one of whom is her father). This culminated in a confrontation with one of those men, Abijah Fowler, who attempted to overthrow the ruling shogunate.\nWhat will Blue Eye Samurai season 2 be about?\nAt the end of season 1, Fowler reveals to Mizu that the two remaining men who might be her father are in London, and we then see the pair on a ship leaving Japan. Season 2 will pick up right here, with Mizu on her way to London to finish her revenge quest. Series co-creators Amber Noizumi and Michael Green teased the show's new setting by saying this:\n“London in 1657 had a thriving culture of illicit activity, something that fittingly parallels our story of Japan. Mizu will have to navigate this dark underbelly amid a puritanical society that persecuted women as witches, closed bars and theaters, and even outlawed Christmas. If you know Mizu, she doesn’t take too kindly to repression, especially if it stands in the way of her revenge.”\nMaya Erskine will return to voice Mizu, along with Brenda Song as Akemi, Darren Barnet as Taigen, and Masi Oka as Ringo. As some of these characters were left behind in Japan at the end of season 1, it will be interesting to see how they once again cross paths with Mizu. Newcomers for season 2 include Sherry Cola as Kuma, Joel Kim Booster as Priest Ando, and Jonathan Pryce as Old Violet."
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/11/blue-eye-samurai-season-2-release-date-netflix-1237212165",
+     "title": "‘Blue Eye Samurai’ Sets Season 2 Release Date At Netflix",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/11/BLUE_EYE_SAMURAI_n_S2_E3_00_09_39_02_R1.jpg?w=1024"
+     },
+     "id": "2942acabc8764546",
+     "published": "2026-11-03T15:29+00:00",
+     "text": "We have a date for the Season 2 premiere of Blue Eye Samurai. The second season of the popular adult animated series will launch on January 19, 2027, more than three years after Season 1 aired in 2023.\nNetflix announced in August that it had renewed the series for a third and final season, set for premiere in 2028.\nMaya Erskine returns to star as Mizu, with new cast Jonathan Pryce, Joel Kim Booster and Sherry Cola.\nPer the logline, in Season 2, Mizu’s (Erskine) bloody quest continues in London, where she faces new friends, old foes, and her own demons. In Japan, Akemi (Brenda Song) and Taigen (Darren Barnet) navigate Edo Castle under a dangerous new Shogun, while Ringo (Masi Oka) searches for new purpose.\nCreated by husband-and-wife duo Amber Noizumi and Michael Green, Blue Eye Samurai follows mixed-race Japanese warrior Mizu’s (Erskine) as she seeks vengeance against four white men, including her father, who remained illegally in Japan after the Tokugawa shogunate closed its borders.\nWatch on Deadline\nThe show has won four Creative Arts Emmy Awards, including Outstanding Animated Program for Season 1. It also scored six Annie Awards on six nominations, all for its first season.\nGreen and Noizumi serve as creators, executive producers and writers. Blue Spirit is the animation studio.\nYou can watch a previously released teaser and see new Season 2 images below."
     }
    ]
   },
@@ -7413,6 +7513,78 @@
      "id": "ff9e8bee2b3a618a",
      "published": "2026-11-03T01:09+00:00",
      "text": "- Neve Campbell Confirms Return for ‘Scream 8’ Variety\n- Neve Campbell Confirms She’s Returning for Scream 8 : It’s ‘in the Pipeline’ People.com\n- 'Scream 8': Neve Campbell Says She's Coming Back Deadline\n- Neve Campbell Returns For \"Scream 8\" Dark Horizons\n- Neve Campbell Drops Major Scream 8 Update Fans Have Been Waiting For Yahoo"
+    }
+   ]
+  },
+  {
+   "id": "c90abc2f273",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "Johnny Depp Officially Addresses Potential Jack Sparrow Return In Pirates Of The Caribbean 6",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Screen Rant",
+     "trust": 2,
+     "url": "https://screenrant.com/pirates-of-the-caribbean-6-captain-jack-sparrow-return-condition-johnny-depp",
+     "title": "Johnny Depp Officially Addresses Potential Jack Sparrow Return In Pirates Of The Caribbean 6",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/11/two-pirates-of-the-caribbean-characters-looking-at-captain-jack-sparrow.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "90abc2f273bd84be",
+     "published": "2026-11-02T22:34+00:00",
+     "text": "Captain Jack Sparrow may sail the seas again, but only under one condition.\nAlthough Pirates of the Caribbean is based on the Disney ride at Magic Kingdom, Johnny Depp made Captain Jack Sparrow an icon in the first movie, The Curse of the Black Pearl. As a result, the dark attraction spawned a major movie franchise that spawned four sequels. However, it's now been nine years since Depp portrayed Jack Sparrow, and hopes for a sixth movie have been in limbo. That attitude changed this past August, when producer Jerry Bruckheimer indicated some movement with the star player.\nIn an interview with Entertainment Weekly, Depp responded when asked whether he and Bruckheimer could set sail again, briefly smiling that \"Well, I don't know if you'll see us set sail. We might do that privately.\" While careful with his words, he indicated that, \"If things are exactly where they need to be with regard to how they're going to top off the Pirates thing, the only involvement I really want to have truly is just to send them off on a better note.\"\nFollowing a quick laugh, he emphasized his close relationship with the producer: \"I'll go to work with Bruckheimer tomorrow for anything. Doesn't matter, if it's Jerry, I trust him and we have deep friendship.\"\nThis is a developing story...\n- Writers\n- Terry Rossio, Ted Elliott, Jeff Nathanson\n- Movie(s)\n- Pirates of the Caribbean: The Curse of the Black Pearl, Pirates of the Caribbean: Dead Man's Chest, Pirates of the Caribbean: At World's End, Pirates of the Caribbean: On Stranger Tides, Pirates of the Caribbean: Dead Men Tell No Tales\n- Cast\n- Johnny Depp, Keira Knightley, Orlando Bloom, Geoffrey Rush, Kevin McNally, Jack Davenport, Stellan Skarsgård, Bill Nighy, Tom Hollander, Naomie Harris, Penélope Cruz, Ian McShane, Javier Bardem, Brenton Thwaites, Kaya Scodelario\n- Character(s)\n- Jack Sparrow, Elizabeth Swann, Will Turner, Barbossa, Mr. Gibbs, Norrington, Bill Turner, Davy Jones, Beckett, Tia Dalma, Angelica, Blackbeard, Captain Salazar, Henry Turner, Carina"
+    },
+    {
+     "source": "Variety",
+     "trust": 2,
+     "url": "https://variety.com/2026/film/news/johnny-depp-explains-pirates-of-the-caribbean-6-return-jack-sparrow-1236937928",
+     "title": "Johnny Depp Says He’d Return as Jack Sparrow in ‘Pirates of the Caribbean 6’ for Only One Reason: ‘I Want to Send Them Off on a Better Note’",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://variety.com/wp-content/uploads/2023/10/Jack-Sparrow.jpg?w=1000&h=563&crop=1"
+     },
+     "id": "d4dec1da009e8716",
+     "published": "2026-11-02T23:08+00:00",
+     "text": "Johnny Depp is finally sounding off about the possibility of returning as Jack Sparrow in “Pirates of the Caribbean 6.” Speaking to Entertainment Tonight on his “Ebenezer” press tour, the Oscar nominee stopped short of confirming he will put the pirate costume on once more. Instead, Depp said he would never turn down a request from friend and franchise producer Jerry Bruckheimer.\n“If things are exactly where they need to be with regard to how they are going to top off the ‘Pirates’ franchise… the only involvement I really want to have, truly, is just to send them off on a better note,” Depp said when asked about being involved with the next installment in the franchise. “I will go to work with [Jerry] Bruckheimer tomorrow for anything. Doesn’t matter… if it’s Jerry, i trust him. We have a deep friendship.”\nBruckheimer confirmed to Entertainment Weekly in summer 2025 that he had spoken to Depp about a new “Pirates” movie. The producer felt optimistic at the time that Jack Sparrow could return, saying: “If he likes the way the part’s written, I think he would do it. It’s all about what’s on the page, as we all know… We are still working on a screenplay. We want to make it. We just got to get the right screenplay. We haven’t quite gotten there yet, but we’re close.”\nDepp headlined five “Pirates” movies from 2003 to 2017, all of which grossed more than $650 million at the worldwide box office. 2006’s “Dead Man’s Chest” and 2011’s “On Stranger Tides” both topped the $1 billion mark. His future with the Disney-backed series has been a question mark since his legal troubles and his 2022 libel trial against Amber Heard, although he’s mounting his Hollywood comeback this month with the Paramount-backed holiday movie “Ebenezer.” With Depp front and center, the “Pirates” movies have collectively grossed $4.5 billion.\nThe road to a sixth “Pirates” movie has been a long one, with Variety reporting in summer 2020 that Disney was in early development on two “Pirates” movies: A reboot led by Margot Robbie and a sixth film in the original franchise. Robbie revealed to Vanity Fair in November 2022 that Disney was not interested in her “more of a female-led” movie. Meanwhile, Bruckheimer told EW in summer 2024 that screenwriter Jeff Nathanson (2017’s “Dead Men Tell No Tales”) had boarded the proper “Pirates 6.”\n“He’s cracked it,” Bruckheimer said at the time of Nathanson’s script. “He’s got an amazing third act. We just gotta clean up the first and second and then we’ll get there. But he wrote a great, great third act.”\nBruckheimer said around the same time that he would be open to bringing Depp back for the Nathanson-penned movie, explaining: “It’s a reboot, but if it was up to me, [Johnny] would be in it. I love him. He’s a good friend. He’s an amazing artist and he’s a unique look. He created Captain Jack. That was not on the page, that was him doing a little Pepé Le Pew and Keith Richards. That was his interpretation of Jack Sparrow.”\nDepp’s last Hollywood studio movie was 2018’s “Fantastic Beasts: The Crimes of Grindelwald,” although he now has two upcoming ones thanks to “Ebenzer” and Lionsgate’s 2028 thriller “Day Drinker.” Warner Bros. asked Depp to exit “Fantastic Beasts: The Secrets of Dumbledore” after he lost his 2020 libel trial against The Sun. The actor sued the U.K. publication for referring to him as a “wife beater,” but the court ruled this characterization of Depp was “substantially true.” Depp was eventually recast in the sequel with M"
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/johnny-depp-is-open-to-playing-jack-sparrow-again-in-a-new-pirates-of-the-caribbean-movie",
+     "title": "Johnny Depp Is Open to Playing Jack Sparrow Again in a New Pirates of the Caribbean Movie",
+     "lang": "en",
+     "extra": {},
+     "id": "baee6b7b50c9f126",
+     "published": "2026-11-02T23:55+00:00",
+     "text": "Johnny Depp is open to playing Jack Sparrow again in a new Pirates of the Caribbean movie, despite saying he'd never work with Disney on the franchise ever again.\nIn a recent interview with Entertainment Tonight, Depp was asked if he had any interest in playing Sparrow again. He noted that he wanted to send the franchise off on a better note, presumably referring to the last film being a critical disappointment.\n\"If things are exactly where they need to be with regard to how they're going to top off the Pirates [story]. The only involvement I really want to have, truly, is just to send them off on a better note. I'll go to work with [Jerry] Bruckheimer tomorrow for anything. If it's Jerry, I trust him. We have a deep friendship.\"\nDepp had previously stated during his legal battle with Amber Heard that he wouldn't work with Disney on a new Pirates movie, not even for $300 million and a million alpaca. It seems he's softened his stance on the matter, which has reportedly been the case for a while. Producer Jerry Bruckheimer has stated a few times over the last couple of years that he was having conversations with Depp about a new Pirates movie, but nothing has been locked in place. There is, however, a screenplay in the works, and the producer hopes to get a deal signed with Depp.\nThis is the first time Depp has publicly revealed he's open to the idea since swearing off the idea in 2023. Disney had also been exploring a new Pirates of the Caribbean movie with Margot Robbie in the lead role, but that has yet to make any kind of notable progress. Depp hasn't been in many blockbuster roles since his legal battle with Heard, and he was notably forced to step down from his role in the Fantastic Beasts films due to his libel case against UK outlet The Sun. He was replaced by actor Mads Mikkelsen for the third film in the franchise, which also happened to be the last.\nDeep is now set to star in a new take on A Christmas Carol with the film Ebenezer, which releases on November 13. Whether Jack Sparrow will set sail again remains to be seen, but he does appear to be more into the idea than he was before."
+    },
+    {
+     "source": "Deadline",
+     "trust": 2,
+     "url": "https://deadline.com/2026/11/johnny-depp-reprising-pirates-of-the-caribbean-role-1237211975",
+     "title": "Johnny Depp Open To Reprising ‘Pirates Of The Caribbean’ Role To “Send Them Off On A Better Note”",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://deadline.com/wp-content/uploads/2026/11/johnny-depp-pirates-of-the-caribbean.jpg?w=1024"
+     },
+     "id": "494771cd88d974c2",
+     "published": "2026-11-03T04:29+00:00",
+     "text": "Johnny Depp is open to revisiting the Pirates of the Caribbean universe and reprising his role as Jack Sparrow.\nIn a new interview, Depp revealed that he is open to working with Jerry Bruckheimer again.\n“If things are exactly where they need to be with regard to how they are going to top off the Pirates franchise… the only involvement I really want to have, truly, is just to send them off on a better note,” the actor said in an interview with Entertainment Tonight.\nHe continued, “I will go to work with [Jerry] Bruckheimer tomorrow for anything. Doesn’t matter… if it’s Jerry, I trust him. We have a deep friendship.”\nAt D23 earlier this year, Jerry Bruckheimer gave Deadline an update on Pirates of the Caribbean 6, saying, “We’re talking with Johnny [Depp], we’re working on a screenplay, and hopefully we can get this done.”\nWatch on Deadline\nDepp first played Captain Jack Sparrow in 2003’s Pirates of the Caribbean: The Curse of the Black Pearl. In 2006, the actor reprised his role in Pirates of the Caribbean: Dead Man’s Chest and did the same in 2007’s Pirates of the Caribbean: At World’s End.\nThe actor returned to the role for 2011’s Pirates of the Caribbean: On Stranger Tides and played Jack Sparrow one more time in 2017’s Pirates of the Caribbean: Dead Men Tell No Tales.\nA couple of films expanding the Pirates of the Caribbean franchise are in the works. In 2024, Bruckheimer told EW that the “reboot has Jeff Nathanson doing the script, with the Robbie-centric film being written by Christina Hodson.”\nWatch Depp’s interview in the video below."
+    },
+    {
+     "source": "Collider",
+     "trust": 2,
+     "url": "https://collider.com/pirates-of-the-caribbean-6-johnny-depp-return",
+     "title": "Johnny Depp Officially Confirms 'Pirates of the Caribbean' Return Chances",
+     "lang": "en",
+     "extra": {},
+     "id": "39cc9063eaf0ae85",
+     "published": "2026-11-03T13:03+00:00",
+     "text": "Some franchises just wouldn't be right without certain stars, and it's fair to say that Disney's multi-billion dollar seafaring franchise is one of them. Johnny Depp and Captain Jack Sparrow are undoubtedly, and intrinsically, linked and it may well end up being his defining role at the end of the day but it seemed like, after five movies, billions of dollars at the box office, and a rather spectacular amount of controversy, Captain Jack's days were numbered. Not so."
     }
    ]
   },
@@ -7659,41 +7831,6 @@
    ]
   },
   {
-   "id": "c5c551539c4",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 2,
-   "title_hint": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Wired",
-     "trust": 2,
-     "url": "https://wired.com/story/ancient-fragment-from-mars-found-in-the-sahara-holds-secrets-about-the-planets-watery-past",
-     "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.wired.com/photos/6ae8fe6dbbb2a7fcc242fba1/191:100/w_1280,c_limit/505137454"
-     },
-     "id": "5c551539c4ea6a3a",
-     "published": "2026-11-03T10:15+00:00",
-     "text": "In 2022, a strange rock was found in the Sahara Desert, and now a new analysis reveals that it’s even more valuable to science than it first appeared. This fragment, weighing about two pounds, came from Mars’ crust. It was likely ejected by an impact, flying through space until it eventually reached Earth. The rock is one of the oldest known samples from our neighboring planet, estimated to be at least 4.1 billion years old. At that time, Earth was a young planet with intense geological activity, likely with oceans but no animals, plants, or any other complex life.\nThe location is not what makes this finding surprising. The Sahara has long been a kind of natural archive of the history of Earth and the solar system. Among its sands, scientists have found 40-million-year-old fossils and other meteorites. In 2019, for example, a 4.5-billion-year-old fragment was recovered that, according to recent research, may have come from an ancient, now-vanished protoplanet, possibly as large as the moon.\nThe meteorite, named Teghaza 001, might have remained just another entry in the collection of Martian fragments found on Earth. Although these rocks are extraordinarily useful for studying Mars’ composition and geological history, they often provide limited information about the environmental conditions of its distant past. However, a series of studies published in the journals Science and Science Advances revealed that Teghaza 001 is not like other samples. In addition to being exceptionally old, it has preserved chemical traces of the interaction between materials in the Martian crust and its ancient hydrosphere.\n“One of the paper’s reviewers called it a Rosetta Stone for Mars,” Yang Liu of NASA’s Jet Propulsion Laboratory said in a press release.\nTiny crystals of a mineral called apatite preserves signatures of two sources of hydrogen: one originating from the interior of Mars and the other related to its ancient hydrosphere. In other words, the meteorite contains material that was altered by a water-rich environment. For years, there has been considerable evidence that Mars once harbored liquid water on its surface. Today, some of the big questions about the planet are whether that water allowed microscopic life to emerge and what happened to change this once hospitable environment.\nThis meteorite reveals that there was an exchange of materials between the magma deep within Mars and a watery surface. Since the rock comes from just about 500 million years after Mars and the rest of our solar system formed, this volatility occurred very early in the planet’s existence.\n“This is really our first piece of Martian crust from a part of Mars we’ve never had a sample of before,” added Lee Saper, another NASA scientist who contributed to the research. “It records interactions of water and rock and maybe even an imprint of the Martian atmosphere as it was losing water.”\nToday, Mars is a cold and barren planet, but it was not always that way. Evidence gathered by space missions suggests that it once had rivers, lakes, and possibly large bodies of water. But how that transformation happened over billions of years has remained a mystery. Answering that question is part of the reasoning behind sending probes, rovers, and perhaps, one day, crewed missions to Mars. But sometimes science is about serendipity, and answers arrive in the form of extraordinarily unlikely meteorites.\nThis story originally appeared on WIRED en Español and has been translated from Spani"
-    },
-    {
-     "source": "Reddit science & space",
-     "trust": 1,
-     "url": "https://reddit.com/r/space/comments/1xmpyaj/ancient_meteorite_found_in_the_sahara_holds",
-     "title": "Ancient Meteorite Found in the Sahara Holds Secrets About Mars’ Watery Past",
-     "lang": "en",
-     "extra": {},
-     "id": "060e3124967364c4",
-     "published": "2026-11-03T10:56+00:00",
-     "text": "submitted by\n/u/wiredmagazine\nto\nr/space\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
    "id": "c7e31443b04",
    "kind": "news",
    "score": 16.0,
@@ -7880,131 +8017,6 @@
    ]
   },
   {
-   "id": "c9540a20d03",
-   "kind": "news",
-   "score": 15.5,
-   "sensitive": false,
-   "distinct_sites": 5,
-   "title_hint": "FIFA Club World Cup 2025™ Trophy Tour in Al Ain",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "FIFA",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCRzBZaHI5WnNFeHpsNnN5Vk5OTWZNVzRLeXlzNTVCYU9xRzAwR2JOSTdqNGZPRXNCdHZIbWstX1g0dGdYaE5kUnJUNDFSd3lpRGpwZEtBWXkzbWRQenFZa2dkVk1EaEs2a1h5RFViamk5amNYUGc?oc=5",
-     "title": "FIFA Club World Cup 2025™ Trophy Tour in Al Ain",
-     "lang": "en",
-     "extra": {},
-     "id": "e443a7599cce7cee",
-     "published": "2026-11-02T15:45+00:00",
-     "text": "FIFA Club World Cup 2025™ Trophy Tour in Al Ain\nFIFA"
-    },
-    {
-     "source": "Sky News World",
-     "trust": 2,
-     "url": "https://news.sky.com/story/fifa-to-partially-release-documents-relating-to-world-cup-sell-off-plan-13605768",
-     "title": "FIFA to partially release documents relating to World Cup sell-off plan",
-     "lang": "en",
-     "extra": {},
-     "id": "9540a20d035f0f62",
-     "published": "2026-11-02T15:11+00:00",
-     "text": "FIFA will give members of its ruling council access to some documents for the first time related to the World Cup sell-off, Sky News understands."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/sport/football/gianni-infantino-latest-world-cup-ffe-fifa-uefa-b3077876.html",
-     "title": "Gianni Infantino’s confidential World Cup sell-off documents to be shared with Fifa members",
-     "lang": "en",
-     "extra": {},
-     "id": "5a5987cbc7588dce",
-     "published": "2026-11-02T19:47+00:00",
-     "text": "Infantino’s Fifa Forward Enterprise (FFE) proposal was rejected by three continental confederations"
-    },
-    {
-     "source": "BBC Sport Football",
-     "trust": 2,
-     "url": "https://bbc.co.uk/sport/football/articles/c6vgj0p4ey17o?at_medium=RSS&at_campaign=rss",
-     "title": "Fifa to share confidential World Cup sell-off plan documents",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3134/live/d6604cd0-d6eb-11f1-a741-236ee91c2e25.jpg"
-     },
-     "id": "9659e69585aa438e",
-     "published": "2026-11-02T20:23+00:00",
-     "text": "- Published\nFifa says \"key documents\" relating to president Gianni Infantino's failed plan to sell off stakes in the World Cup to private investors will be made available to members of its council.\nLast month, Uefa gave football's world governing body until 2 November to release details about the hugely controversial Fifa Forward Enterprise (FFE) proposal, and to answer a list of questions relating to its governance and decision-making.\nThat followed a council meeting at which Infantino apologised for the abandoned sell-off plot but failed to offer a full explanation for how the proposal was devised, asking that questions be submitted in writing.\nJust hours before the deadline from European football's governing body passed, Fifa secretary general Mattias Grafstrom wrote to members of its main decision-making body - saying they will be able to view \"key documents\", but only in person at the organisation's headquarters in Zurich.\nIn his letter - seen by BBC Sport - he says the paperwork will be available \"under strict review protocols to preserve confidentiality\", with council members asked to register to see them within the next two weeks.\nIt is unclear which documents will be made available.\nBBC Sport has been told Fifa viewed Uefa's two-week deadline to respond to more than 100 questions as unfeasible, given their recent focus on organising a new youth World Cup in Azerbaijan and preparations for an extraordinary congress later this month.\nSources have also indicated Fifa's ability to answer some questions is limited by legal action that Uefa launched in October in the US, requesting disclosure of evidence and documents, warning it could lodge a criminal complaint in Switzerland.\nLast month, Uefa told Fifa that it had failed to address \"a number of fundamental questions\".\nThe letter included eight pages of questions covering a number of issues, from FFE and funding to national associations, to the awarding of an inaugural Fifa Peace Prize to US President Donald Trump and the controversial suspended ban given to USA striker Folarin Balogun at the World Cup.\n\"The withdrawal of FFE, the acknowledgement of mistakes and the announcement of 'potential governance reforms' do not answer how the relevant decisions were taken or why the Fifa Council was not involved at the appropriate stage,\" the letter said.\n\"These questions require answers now. They cannot be deferred until the next meeting of the Fifa Council - nor can future governance reforms substitute for scrutiny of decisions already taken and accountability for them.\"\nUefa did not outline what steps it intended to take should Fifa not meet the deadline, but hoped it added to the pressure on Infantino before 18 November - the cut-off date for any candidates to confirm they are standing against him in next year's presidential election.\nUefa has been approached for comment."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/sports/2026/11/3/fifa-to-share-documents-related-to-world-cup-sell-off-plan?traffic_source=rss",
-     "title": "FIFA to share documents related to World Cup sell-off plan",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T193237Z_1186876067_UP1EM9R1IABPA_RTRMADP_3_SOCCER-WORLDCUPU20-ESP-PRK-1790661947.jpg?resize=1920%2C1440"
-     },
-     "id": "c8580ba67dcdc9a3",
-     "published": "2026-11-03T08:27+00:00",
-     "text": "FIFA will release details of President Gianni Infantino’s aborted plan to sell off stakes in future World Cups to private investors, but they will not be shared with the public.\nReports in the British media said members of the FIFA Council, the main decision-making body of football’s world governing body, will be given access to “key documents” related to the proposal, named FIFA Forward Enterprise.\nHowever, they can only view them under “strict protocols to preserve confidentiality”, the reports said. Those include the 37 members of the council having to register for an in-person appointment to view selected paperwork in Zurich, Switzerland, in the next two weeks.\nThe news came out late on Monday, the deadline European football’s governing body, UEFA, had set for FIFA to release details about the $4.2bn scheme and answer questions about how the proposal came about and who approved it before the plans were dropped in July amid a worldwide backlash.\nUEFA set the deadline after a tense council meeting at which Infantino apologised for the proposal but provided no details about how the plan was formed. He asked council members to submit their questions in writing.\nUEFA is leading attempts to remove Infantino before or at the FIFA presidential election on March 18 in Rabat, Morocco. Infantino, who was elected in 2016, is seeking a fourth term through 2031."
-    }
-   ]
-  },
-  {
-   "id": "c1ef9056b40",
-   "kind": "news",
-   "score": 15.5,
-   "sensitive": true,
-   "distinct_sites": 4,
-   "title_hint": "Yakuza creator's studio, and the game it was working on, are now officially gone",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Steam News",
-     "trust": 3,
-     "url": "https://store.steampowered.com/news/group/1850/view/693150463100455842",
-     "title": "Yakuza creator's studio, and the game it was working on, are now officially gone",
-     "lang": "en",
-     "extra": {},
-     "id": "6aabb2875b67859b",
-     "published": "2026-11-02T17:02+00:00",
-     "text": "Six months after the disappearance of Nagoshi Studio's website, a Google-translated\nnotice\nin the Japan government's\nKanpo\nwebsite (via\nGematsu\n) says the company has now officially closed its doors...\nRead more."
-    },
-    {
-     "source": "PC Gamer",
-     "trust": 2,
-     "url": "https://pcgamer.com/gaming-industry/yakuza-creators-studio-and-the-game-it-was-working-on-are-now-officially-gone",
-     "title": "Yakuza creator's studio, and the game it was working on, are now officially gone",
-     "lang": "en",
-     "extra": {},
-     "id": "1ef9056b40846ba5",
-     "published": "2026-11-02T16:59+00:00",
-     "text": "Nagoshi Studio revealed Gang of Dragon less than a year ago, but it ran into trouble just a few months later."
-    },
-    {
-     "source": "Eurogamer",
-     "trust": 2,
-     "url": "https://eurogamer.net/yakuza-creator-new-studio-closed-netease",
-     "title": "Yakuza creator's new studio and its debut game Gang of Dragon are no more after losing funding from NetEase",
-     "lang": "en",
-     "extra": {},
-     "id": "4aa2a880430c46b0",
-     "published": "2026-11-02T20:30+00:00",
-     "text": "Nagoshi Studio has officially shut down and its first game called Gang of Dragon is seemingly no more, months after publisher NetEase pulled funding from the Yakuza-like project.\nRead more"
-    },
-    {
-     "source": "Notebookcheck",
-     "trust": 2,
-     "url": "https://notebookcheck.net/Yakuza-creator-s-studio-officially-dissolved-as-Gang-of-Dragon-s-future-hangs-in-the-balance.1441079.0.html",
-     "title": "Yakuza creator's studio officially dissolved as Gang of Dragon's future hangs in the balance",
-     "lang": "en",
-     "extra": {},
-     "id": "4387e88523742e73",
-     "published": "2026-11-03T11:31+00:00",
-     "text": "Nagoshi Studio, founded by Yakuza creator Toshihiro Nagoshi, has been dissolved following a shareholders' resolution in Japan. The closure comes less than a year after the reveal of Gang of Dragon, with the NetEase-backed game's future still unconfirmed."
-    }
-   ]
-  },
-  {
    "id": "c0fa66e87cd",
    "kind": "free",
    "score": 4.0,
@@ -8104,15 +8116,15 @@
      "id": "crypto",
      "source": "CoinGecko",
      "trust": 3,
-     "url": "https://market.local/crypto/2026-11-03/18",
+     "url": "https://market.local/crypto/2026-11-03/19",
      "title": "Market snapshot crypto 2026-11-03",
      "lang": "en",
      "extra": {
       "market": "crypto",
       "day": "2026-11-03"
      },
-     "published": "2026-11-03T18:54+00:00",
-     "text": "Bitcoin: $77,561 (+0.8% 24h)\nEthereum: $2,292 (+1.9% 24h)\nSolana: $93.34 (+1.5% 24h)\nToncoin: $1.18 (-1.0% 24h)"
+     "published": "2026-11-03T19:24+00:00",
+     "text": "Bitcoin: $77,583 (+0.9% 24h)\nEthereum: $2,291 (+2.0% 24h)\nSolana: $93.32 (+1.8% 24h)\nToncoin: $1.18 (-0.7% 24h)"
     }
    ]
   },
