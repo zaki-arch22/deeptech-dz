@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T15:15:53+00:00",
+ "generated_at": "2026-11-04T15:46:41+00:00",
  "clusters": [
   {
    "id": "cb3d586430e",
@@ -801,6 +801,17 @@
      "id": "3a8366174af61fdf",
      "published": "2026-11-04T08:42+00:00",
      "text": "🇺🇸 Progressive favorite Abdul #El-Sayed has defeated Republican Mike #Rogers in a bitter campaign for #Michigan’s open Senate seat."
+    },
+    {
+     "source": "Arab News",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQTVjSTd6cWowclhZQlRjYW1mYTVmY3dqZFU1VDRVeGxxemFMa2tncEllR29SU21RNlNyeVVEeEw4M0ZUNHZYb1lwN0h1a1NVSUItQUstdi1tclNWZXdFQlNER2NWX2YzZ1JGUTlxZnJNTGJYZHZOUV84eWxRMWJVOGRQU3BnRkNicW9XZE9Ub1dHZ3dkbWxzX3VxVzkxTXI5QUZWWmZaUXVSQ2NpWWU3WDFXdlFGNlU2bUV6dWZWbFRsZFB0Q1F0cE9KLTRjQQ?oc=5",
+     "title": "Progressive Democrat Abdul El-Sayed wins Michigan Senate race, will become first Muslim senator",
+     "lang": "en",
+     "extra": {},
+     "id": "b12e1bc7f626f3e4",
+     "published": "2026-11-04T09:17+00:00",
+     "text": "Progressive Democrat Abdul El-Sayed wins Michigan Senate race, will become first Muslim senator\nArab News"
     },
     {
      "source": "France 24 EN",
@@ -2135,235 +2146,6 @@
    ]
   },
   {
-   "id": "c88071d6e8a",
-   "kind": "news",
-   "score": 21.0,
-   "sensitive": true,
-   "distinct_sites": 6,
-   "title_hint": "North Korea fires unidentified projectile toward East Sea",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Korea Herald",
-     "trust": 2,
-     "url": "https://koreaherald.com/article/10925065",
-     "title": "North Korea fires unidentified projectile toward East Sea",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/04/news-p.v1.20261104.9145885e2d924e108e7c0c88a34da0a2_P1.jpg"
-     },
-     "id": "88071d6e8a4c9718",
-     "published": "2026-11-04T00:59+00:00",
-     "text": "North Korea launched an unidentified projectile toward the East Sea on Wednesday, South Korea's Joint Chiefs of Staff said.\nThe JCS did not immediately disclose the number of projectiles launched, their flight distances or other specifications.\nIf confirmed to be a ballistic missile, the launch would mark North Korea's 19th such launch of the year, following its firing of more than 10 short-range ballistic missiles from the Wonsan area on Oct. 29.\nEarlier Monday, the JCS said it does not publicly disclose every North Korean weapons launch, but acknowledged that it has generally announced ballistic missile launches because they violate UN Security Council resolutions. The remarks followed criticism over its failure to immediately disclose a North Korean ballistic missile launch on Oct. 31.\nThe latest launch also comes amid growing tensions between North Korea and the United States over Washington's accusations that Pyongyang was behind a record-breaking cryptocurrency heist targeting Binance, the world's largest cryptocurrency exchange.\nEarlier Wednesday, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, rejected the US allegations and said Pyongyang saw no need for dialogue with Washington as long as it maintained what she described as its hostile policy toward the North.\n\"The choice for peace includes dialogue of course, but this is not surely equated with national interests for us,\" Kim said in a statement carried by the Korean Central News Agency.\nOn Saturday, the US Federal Bureau of Investigation attributed the theft of more than $6 billion in cryptocurrency from Binance to North Korean hackers, an accusation Pyongyang has dismissed as a political provocation.\nflylikekite@heraldcorp.com"
-    },
-    {
-     "source": "Korea Herald",
-     "trust": 2,
-     "url": "https://koreaherald.com/article/10925149",
-     "title": "N. Korea fires unidentified projectile toward East Sea: JCS",
-     "lang": "en",
-     "extra": {},
-     "id": "c0e2e656c0add7dc",
-     "published": "2026-11-04T01:16+00:00",
-     "text": "North Korea fired an unidentified projectile toward the East Sea on Wednesday, the South Korean military said. The Joint Chiefs of Staff (JCS) said it detected the launch, without elaborating. The latest launch came after the North fired around a dozen short-range ballistic missiles toward the East Sea from the Wonsan area Thursday, less than a week after the South Korean military proposed military talks with Pyongyang over the inter-Korean border. North Korean state media has reported that Pyon"
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/news/north-korea-south-korea-seoul-donald-trump-joint-chiefs-of-staff-b3078709.html",
-     "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
-     "lang": "en",
-     "extra": {},
-     "id": "649840fe80d09ba4",
-     "published": "2026-11-04T01:33+00:00",
-     "text": "South Korea says North Korea has launched an unidentified projectile toward the sea"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/ad585258f63a",
-     "title": "North Korea fires unidentified projectile towards sea amid rising US tensions",
-     "lang": "en",
-     "extra": {},
-     "id": "66b17e82a5db48a3",
-     "published": "2026-11-04T02:13+00:00",
-     "text": "South Korea reports a projectile launch off North Korea's east coast, hours after Kim Yo Jong rejects dialogue with Washington over what she calls its hostile policy."
-    },
-    {
-     "source": "PBS NewsHour",
-     "trust": 2,
-     "url": "https://pbs.org/newshour/world/north-korea-launches-unidentified-projectile-toward-the-sea-south-korea-says",
-     "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/01/2025-01-06T224649Z_714390518_RC2C4CATQ8KW_RTRMADP_3_NORTHKOREA-MISSILES-1024x679.jpg"
-     },
-     "id": "61e4b305e702d1e4",
-     "published": "2026-11-04T02:34+00:00",
-     "text": "The latest launch comes a day after North Korea denied involvement in the recent cryptocurrency heist at Binance."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/asia/east-asia/north-korea-unidentified-projectile-seoul-b3078730.html",
-     "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
-     "lang": "en",
-     "extra": {},
-     "id": "0fe781f8d7b65a93",
-     "published": "2026-11-04T02:59+00:00",
-     "text": "South Korea says North Korea has launched an unidentified projectile toward the sea"
-    },
-    {
-     "source": "SecurityWeek",
-     "trust": 2,
-     "url": "https://securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack",
-     "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.securityweek.com/wp-content/uploads/2023/01/North-Korea-Hackers.jpg"
-     },
-     "id": "bff53d5f4130f088",
-     "published": "2026-11-04T09:23+00:00",
-     "text": "North Korea launched multiple missiles toward the sea on Wednesday, South Korea’s military said, hours after Pyongyang said it saw no need to resume diplomacy with Washington in protest of accusations that North Korean hackers were behind the recent cryptocurrency heist at Binance.\nObservers say North Korea was likely pressuring the U.S. to drop what it calls its hostility against the North and offer concessions if it wants to restore ties between U.S. President Donald Trump and North Korean leader Kim Jong Un.\nSouth Korea’s Joint Chiefs of Staff said it detected the launches of several missiles fired toward North Korea’s eastern waters. It said South Korean and U.S. authorities were analyzing details of the launches. It said South Korea maintains readiness to repel any potential provocations by North Korea.\nEarlier Wednesday, Kim’s sister, senior official Kim Yo Jong, again disputed an FBI announcement that North Korean hackers were responsible for the hack at Binance, calling it “an extension of Washington’s invariable hostile policy toward” Pyongyang.\n“It is our clear stand that we have no need to sit face to face with such unreliable and hostile persons,” she said. “The choice for peace includes dialogue of course, but this is not surely equated with national interests for us.”\nIn a Tuesday statement, she described the FBI announcement as “a trite provocation.”\nBinance, the world’s biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. The FBI later said the theft was orchestrated by North Korean hackers, attributing the attack to a hacking group known as TraderTraitor, which was also behind a $1.5 billion hack of the Bybit exchange last year.\nIn recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the U.S. after Trump expressed his eagerness to restore diplomacy with Kim Jong Un. The news of the latest launches came amid vote counting in the U.S. midterm elections.\nAlso Wednesday, North Korea’s state KCNA news agency released a photo showing parts of a warship under construction that would likely be its biggest naval vessel. KCNA said Kim Jong Un expressed satisfaction this week during a visit to the Nampho Shipyard over the warship that it said “is incomparably huge” relative to its 5,000-ton destroyers. Kim previously said North Korea planned to build a 10,000-ton strategic guided missile cruiser.\nTensions between the two Koreas have also deepened since mine blasts at their border in September wounded three South Korean soldiers. Seoul accused North Korea of burying the mines south of the border and demanded an apology. Pyongyang has denied responsibility for the explosions and warned of retaliation if provoked.\nNorth Korea later threatened to resume propaganda loudspeaker broadcasts and place new weapons systems along the border."
-    },
-    {
-     "source": "Google News World EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTQ2OEJBMGZkOXY0S1pkeEpQU1ZEUTAySjQwekdEM0FNY3JickJzSnZOMnNqM1NtbWFnYkNxMXp4S0dvcER5VHRlcVpZb2lSSlRMUm9JdDJrWGVIOVFlUHlFeGQzUlp0bE9sOVpCWVUzbmZmZU9SUWtzN29DMmxITzBwYllTSlFqWG4zVnRabUJJMjQ?oc=5",
-     "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "7364fe2895121544",
-     "published": "2026-11-04T05:51+00:00",
-     "text": "- North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack AP News\n- North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says Reuters\n- North Korea launches unidentified projectile toward the sea, South Korea says ABC News - Breaking News, Latest News and Videos\n- North Korea Slams US Hostile Policy as Trump Awaits Vote Outcome Bloomberg.com\n- N Korea fires multiple missiles, denies US claims on Binance hack Al Jazeera"
-    }
-   ]
-  },
-  {
-   "id": "c8b021c263d",
-   "kind": "news",
-   "score": 21.0,
-   "sensitive": false,
-   "distinct_sites": 8,
-   "title_hint": "Former Gov. Roy Cooper wins North Carolina’s Senate race, flipping the seat for Democrats",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "NBC News",
-     "trust": 2,
-     "url": "https://nbcnews.com/politics/2026-election/roy-cooper-north-carolina-senate-election-win-democrats-rcna603330",
-     "title": "Former Gov. Roy Cooper wins North Carolina’s Senate race, flipping the seat for Democrats",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-roy-cooper-north-carolina-senate-midterm-vl-1230p-a7171c.jpg"
-     },
-     "id": "8b021c263d0dafef",
-     "published": "2026-11-04T01:23+00:00",
-     "text": "Democratic former Gov. Roy Cooper has defeated former Republican National Committee Chairman Michael Whatley in the contest for North Carolina’s open Senate seat, NBC News projects.\nCooper’s victory secures a crucial flip for Democrats as they try to take control of the Senate. The party must gain a net of four seats to clinch a majority. The result also marks the first time a Democrat has won a Senate seat in North Carolina since 2008.\nCooper will succeed retiring GOP Sen. Thom Tillis, who grew increasingly critical of President Donald Trump during his second term and chose not to seek re-election.\nThe race was initially expected to be one of the most hotly contested across the Senate landscape. But in the closing weeks of the campaign, a top Republican super PAC canceled its ad spending in the race to focus more on protecting seats in more conservative territory as Cooper built a solid lead in the polls.\nThe abandonment of North Carolina as a front-line battleground resulted from several factors. First, Cooper, a popular former two-term governor, enjoyed high name recognition, while Republicans had few attacks to lob his way. A prized recruit for national Democrats, Cooper also avoided a contentious primary and focused his campaign almost entirely on the cost of living, a top voter concern.\nWhatley, who had previously led the state party and earned national recognition as RNC chairman during the 2024 election, had not run for elected office before. Trump, who urged him to launch a bid for the seat, and Vice President JD Vance rallied on several occasions with Whatley down the final stretch to give him a boost.\nBut even Trump signaled in the closing weeks that Cooper was likely to win. “He’s going to become your senator,” Trump said at an October rally in the state. “And it’s crazy.”\nAs voters soured on the economy and the Iran war, Whatley could not escape or distance himself from an increasingly unpopular president in the key battleground state.\nIt was also the first midterm Senate race to take place in North Carolina with Trump in power, an environment that would be tougher for Republicans given traditional backlashes to the party that controls the White House. The state did not hold a Senate contest in 2018, Trump’s last midterm."
-    },
-    {
-     "source": "NPR",
-     "trust": 2,
-     "url": "https://npr.org/2026/11/03/g-s1-150958/north-carolina-senate-results",
-     "title": "Democrat Roy Cooper wins a North Carolina Senate seat",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F50%2F2afbf0934629961ad82585b4641e%2Fgettyimages-2302578106.jpg"
-     },
-     "id": "be98362c11074d0a",
-     "published": "2026-11-04T01:24+00:00",
-     "text": "Democrat Roy Cooper wins a North Carolina Senate seat\nMidterms coverage: Live results | What to know | Stories around the country\nStay connected: NPR Politics Podcast | NPR Politics newsletter | NPR app\nDemocrat Roy Cooper has won North Carolina's open U.S. Senate seat, according to a race call from the Associated Press, providing the party with a key Senate flip.\nThe former governor becomes the first Democrat elected to the Senate from North Carolina since 2008.\nCooper defeated Michael Whatley, a former Republican National Committee chair who President Trump picked to replace retiring GOP Sen. Thom Tillis.\nCooper and national Democratic Party groups significantly outspent Whatley and Republicans. A few weeks before the election, national GOP organizations pulled TV ads from North Carolina and redirected their money to other battlegrounds like Kansas.\nLoading...\nCooper, who served as governor from 2017 to 2024, focused his campaign on affordability issues. Each campaign stop he made across the state was promoted as the \"Make Stuff Cost Less\" tour.\nMeanwhile, Whatley's campaign centered around crime and immigration issues. He criticized Cooper over a COVID-era legal settlement that released inmates from state prisons to address overcrowding during the pandemic. But polls indicated that the economy — not crime — was the top concern for North Carolina voters this year.\nThe race was Whatley's first run for elected office, and Cooper's campaign painted him as a lobbyist for Big Oil who would become a rubber stamp for Trump in the Senate.\nPatrick Sebastian, a Republican strategist who did not work on the Whatley campaign, said his party's candidate should have made the economy a bigger focus.\n\"Really it's the economy is Issue A and then Issue B is probably government corruption, that people are following the most,\" Sebastian said. \"So when we're not talking about those issues, it's going to be hard to connect with people that go to Walmart for their groceries and can only get 80% of what they used to buy because the prices have gone up.\"\nThe North Carolina Senate race was initially expected to be one of the most competitive — and most expensive — in the country, but Whatley never led in polling, and Cooper's lead widened over the course of the race.\nEven as pro-Whatley TV ads largely disappeared in October, Trump and Vice President Vance came to North Carolina for multiple rallies in the final weeks of the campaign. Sebastian says those visits likely helped improve base turnout for GOP voters, but weren't enough to save Whatley's campaign.\nTillis announced in 2025 he wouldn't seek reelection, after Trump threatened him with a primary challenger for failing to support the president's tax cut and spending bill. Rather than campaign for Whatley, he's been promoting his new book criticizing fellow Republicans.\nLoading..."
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbWxYU1dxNU15cVNEVFZaMTM4QUNvcWtmV1J6ZlYxaHI3UU0yRG5naEFkWkRRNEZfUDFTdV9IM0tGN2VWWjc0VnBvT3FCajVMdkFKeVlFSVpCWHJlOC1ncXFCSHRfQXdMOE5GUnk4dFp4ZEtrckJfX05iNXNadEhZbTE1Y1JDX2FTdWxVUzNhZy1YcU9ZLWNfUmwxY0c0Q1FKVXNjRG9qWlhDNXFKaHRXd0FsQXpORHJiVmtGMS1XTEpPQQ?oc=5",
-     "title": "Democrat Roy Cooper flips Republican-held US Senate seat in North Carolina",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "92b6b13208a87d66",
-     "published": "2026-11-04T01:27+00:00",
-     "text": "Democrat Roy Cooper flips Republican-held US Senate seat in North Carolina\nReuters"
-    },
-    {
-     "source": "Axios",
-     "trust": 2,
-     "url": "https://axios.com/2026/11/04/nc-senate-results-cooper-whatley",
-     "title": "Democrat Roy Cooper flips North Carolina Senate seat",
-     "lang": "en",
-     "extra": {},
-     "id": "bad2835be5911370",
-     "published": "2026-11-04T01:28+00:00",
-     "text": "Democrat Roy Cooper has defeated President Trump's handpicked candidate, Michael Whatley, flipping one of North Carolina's two GOP-held U.S. Senate seats.\nWhy it matters: Cooper, the popular two-term governor, delivered Democrats one of their best shots at flipping a Republican-held Senate seat. Even in a state that voted all three times for Trump, Cooper has never lost an election.\nThe big picture: While the race was originally expected to be tight and expensive, Cooper consistently widened his polling lead throughout campaign season.\nCatch up quick: Cooper will succeed Republican Sen. Thom Tillis, who decided not to seek reelection after clashing with Trump over the \"big, beautiful bill\" and its associated Medicaid cuts.\nOn the trail: Cooper focused his campaign on affordability, blaming Republicans for high gas prices and tying GOP policies to inflation.\nWhat's next: Cooper will take office in January. He will be the first Democrat to represent North Carolina in the Senate in over a decade."
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/news/north-carolina-2026-senate-cooper-whatley",
-     "title": "Roy Cooper wins in North Carolina, flipping Senate seat for Democrats",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/04/1e6a2dcd-d1b4-4c8c-a251-62f1fc9a668e/thumbnail/1200x630/86899bae2a0ac9dd161ad8ac6ee8ecea/gettyimages-2302907487.jpg"
-     },
-     "id": "85e1aacc244387bb",
-     "published": "2026-11-04T01:30+00:00",
-     "text": "Washington — Democrat Roy Cooper defeated Michael Whatley in the North Carolina Senate race, CBS News projects, marking a flip for Democrats after GOP Sen. Thom Tillis opted not to seek reelection.\nCooper, 69, is a popular two-term governor and the longest-serving state attorney general in North Carolina's history. His Senate candidacy set up North Carolina as Democrats' best chance to win a Republican-held seat during the 2026 midterm elections.\nCooper faced off against Whatley, the former Republican National Committee chairman who had never previously run for office but was backed by President Trump.\nWhatley, 57, worked in former President George W. Bush's administration and as chief of staff for former North Carolina Sen. Elizabeth Dole before serving as chairman of the state Republican Party. He went on to play a central role in President Trump's reelection effort as RNC chair, and entered the Senate race with the president's encouragement.\nNorth Carolina hasn't elected a Democratic senator since 2008. And even before Tillis decided not to seek reelection, facing a primary threat from the president, the race was expected to be competitive, since Mr. Trump won the state by just three points in 2024.\nWhile Whatley campaigned on helping enact Mr. Trump's agenda and fighting for conservative values, Cooper leaned into the economy, with a \"make stuff cost less\" message. And amid the president's unpopular war with Iran and high gas prices, Whatley's closeness to the president did not appear to help the GOP's chances in the Tar Heel State.\nThe projected victory for Cooper comes as Republicans are fighting to hang on to control of the upper chamber, after competitive races opened up in several states that Mr. Trump comfortably won in 2024. Democrats need to flip four seats, and defend a handful of others."
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
-     "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aea6c87cd67a-1793748103.jpg?resize=1920%2C1440"
-     },
-     "id": "b126f3bbfbae1a47",
-     "published": "2026-11-04T01:36+00:00",
-     "text": "Democrat Roy Cooper has won North Carolina’s United States Senate race, marking a significant pickup for the party as it looks to take back control of the chamber.\nCooper, a moderate former two-term governor, is the first Democrat to be elected to one of the state’s two US Senate seats since 2008, when former President Barack Obama carried it in his first White House bid.\nHe replaces outgoing Republican Senator Thom Tillis, who opted not to seek a third term in office after becoming a frequent critic of US President Donald Trump.\nSince becoming the Democrats’ Senate nominee, Cooper consistently led his Republican opponent, former Republican National Committee chairman Michael Whatley, forcing Republicans to pull funding for Whatley’s campaign.\nCooper’s win is significant in a state that has narrowly voted for Trump three times since 2016."
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///article/75328ffb4737",
-     "title": "Roy Cooper snatches North Carolina's crucial Senate seat from Republicans in Democratic breakthrough",
-     "lang": "en",
-     "extra": {},
-     "id": "81d5fa59e4cc50de",
-     "published": "2026-11-04T01:38+00:00",
-     "text": "Trump's hand-picked candidate falls after a campaign dominated by cost of putting food on the table and keeping lights on, delivering a bruising verdict."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/news/world/americas/us-politics/roy-cooper-flips-north-carolina-senate-seat-b3078711.html",
-     "title": "Democrat Roy Cooper wins North Carolina Senate seat in major blow to Donald Trump",
-     "lang": "en",
-     "extra": {},
-     "id": "e4fa3e35b2e85b38",
-     "published": "2026-11-04T01:51+00:00",
-     "text": "Cooper is the first Democrat elected to the U.S. Senate from North Carolina in 18 years"
-    },
-    {
-     "source": "Al Jazeera",
-     "trust": 2,
-     "url": "https://aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss",
-     "title": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793762456.jpg?resize=1920%2C1080&quality=80"
-     },
-     "id": "b68c3419a8b90d5d",
-     "published": "2026-11-04T03:21+00:00",
-     "text": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat\nFormer North Carolina Governor Roy Cooper celebrated his Senate victory in Raleigh after defeating Republican Michael Whatley and flipping a Republican-held seat for Democrats. Cooper has confirmed that Whatley acknowledged the election result."
-    }
-   ]
-  },
-  {
    "id": "c66647fe695",
    "kind": "news",
    "score": 20.5,
@@ -2415,6 +2197,17 @@
      "id": "b47ec60ee29c19de",
      "published": "2026-11-03T18:35+00:00",
      "text": "Sony is starting the Black Friday festivities early this year. The company has revealed that PlayStation's 2026 Black Friday Sale will start sooner than expected and last longer than usual. That means PlayStation 5 owners have plenty of time to take advantage of countless deals on games, including a handful of this year's GOTY contenders. There may be a downside, though, for anybody hoping for a discount on hardware."
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/playstations-black-friday-sale-is-live",
+     "title": "PlayStation’s Black Friday Sale Is Live With Big Discounts on Digital PS5 Games",
+     "lang": "en",
+     "extra": {},
+     "id": "e2aa15d7b23e11e1",
+     "published": "2026-11-04T14:41+00:00",
+     "text": "It’s official: Black Friday season is upon us. As Sony announced yesterday, the PlayStation Store has kicked off its Black Friday sale (you can see the whole sale here). The sale runs November 4 - 30, dropping prices on thousands of digital PS5 games. These range from older titles you’d expect to get discounts to new 2026 games like Wolverine, Control Resonant, Silent Hill: Townfall, and many more. Let’s take a look.\nBefore we dive in, it’s worth noting that these deals are just the beginning of the Black Friday season, and they may not be the best deals we'll see on these games. With Black Friday coming in just a few weeks, other retailers will certainly have some of these games on sale as well, likely for lower prices as the month progresses. So keep that in mind when planning your purchases.\nAlso, Sony said its Black Friday sale will run November 4 - 30; however, many game pages in this sale say the discounts will only last until November 21. I’m not 100% sure why that is, but I have to assume another wave of discounts will go live as we get closer to Black Friday. With that out of the way, let’s look at what’s on sale.\nThe biggest first-party PS5 game of the fall is Marvel’s Wolverine, from Insomniac, the makers of the Spider-Man PS5 games. It’s a fun (and very gory) single-player action game that tells a good story, though our reviewer scored it a 6/10. Only the digital deluxe edition is on sale, but the discount actually makes it cheaper than the standard edition by $10. In addition to get base game, it includes a host of exclusive suits and claw skins, as well as some in-game help in the form of Technique Points.\nOn the other hand, if you have a PS5 with a disc drive, you can get a pre-owned copy of the standard edition on sale at GameStop for $38.99 right now. That's an example of other retailers possibly offering bigger discounts than you'll find in the PlayStation Store's sale. The more flexible you can be in terms of format and retailer, the better deals you'll be able to score this month.\nAs for other games on sale, Control Resonant is another big new game of the fall. And once again, it’s the digital deluxe edition that’s on sale instead of the standard edition. It comes with an extra outfit, a starter resource bundle, and a digital artbook and soundtrack. The deluxe edition of 007: First Light is on sale for 50% off; it also includes some in-game outfits and extras.\nIf standard editions are more your speed and you dig horror, you can pick up Silent Hill: Townfall for a cool 20% off. Beast of Reincarnation is on sale for 25% off. And a whole lot more games are discounted as well.\nBut once again, if you want the best deals possible, you’ll likely find bigger discounts in the weeks to come. If you want my advice, for now just buy the games you’ll start playing very soon. For everything else, make a list of what games you want and keep an eye out for all the PS5 game sales to come."
     },
     {
      "source": "Google News Technology EN",
@@ -2707,6 +2500,235 @@
      "id": "810636c693a22ac2",
      "published": "2026-11-04T06:20+00:00",
      "text": "submitted by\n/u/Hi_all_hwru\nto\nr/technology\n[link]\n[comments]"
+    }
+   ]
+  },
+  {
+   "id": "c88071d6e8a",
+   "kind": "news",
+   "score": 20.0,
+   "sensitive": true,
+   "distinct_sites": 6,
+   "title_hint": "North Korea fires unidentified projectile toward East Sea",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Korea Herald",
+     "trust": 2,
+     "url": "https://koreaherald.com/article/10925065",
+     "title": "North Korea fires unidentified projectile toward East Sea",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://wimg.heraldcorp.com/news/cms/2026/11/04/news-p.v1.20261104.9145885e2d924e108e7c0c88a34da0a2_P1.jpg"
+     },
+     "id": "88071d6e8a4c9718",
+     "published": "2026-11-04T00:59+00:00",
+     "text": "North Korea launched an unidentified projectile toward the East Sea on Wednesday, South Korea's Joint Chiefs of Staff said.\nThe JCS did not immediately disclose the number of projectiles launched, their flight distances or other specifications.\nIf confirmed to be a ballistic missile, the launch would mark North Korea's 19th such launch of the year, following its firing of more than 10 short-range ballistic missiles from the Wonsan area on Oct. 29.\nEarlier Monday, the JCS said it does not publicly disclose every North Korean weapons launch, but acknowledged that it has generally announced ballistic missile launches because they violate UN Security Council resolutions. The remarks followed criticism over its failure to immediately disclose a North Korean ballistic missile launch on Oct. 31.\nThe latest launch also comes amid growing tensions between North Korea and the United States over Washington's accusations that Pyongyang was behind a record-breaking cryptocurrency heist targeting Binance, the world's largest cryptocurrency exchange.\nEarlier Wednesday, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, rejected the US allegations and said Pyongyang saw no need for dialogue with Washington as long as it maintained what she described as its hostile policy toward the North.\n\"The choice for peace includes dialogue of course, but this is not surely equated with national interests for us,\" Kim said in a statement carried by the Korean Central News Agency.\nOn Saturday, the US Federal Bureau of Investigation attributed the theft of more than $6 billion in cryptocurrency from Binance to North Korean hackers, an accusation Pyongyang has dismissed as a political provocation.\nflylikekite@heraldcorp.com"
+    },
+    {
+     "source": "Korea Herald",
+     "trust": 2,
+     "url": "https://koreaherald.com/article/10925149",
+     "title": "N. Korea fires unidentified projectile toward East Sea: JCS",
+     "lang": "en",
+     "extra": {},
+     "id": "c0e2e656c0add7dc",
+     "published": "2026-11-04T01:16+00:00",
+     "text": "North Korea fired an unidentified projectile toward the East Sea on Wednesday, the South Korean military said. The Joint Chiefs of Staff (JCS) said it detected the launch, without elaborating. The latest launch came after the North fired around a dozen short-range ballistic missiles toward the East Sea from the Wonsan area Thursday, less than a week after the South Korean military proposed military talks with Pyongyang over the inter-Korean border. North Korean state media has reported that Pyon"
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/north-korea-south-korea-seoul-donald-trump-joint-chiefs-of-staff-b3078709.html",
+     "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
+     "lang": "en",
+     "extra": {},
+     "id": "649840fe80d09ba4",
+     "published": "2026-11-04T01:33+00:00",
+     "text": "South Korea says North Korea has launched an unidentified projectile toward the sea"
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/ad585258f63a",
+     "title": "North Korea fires unidentified projectile towards sea amid rising US tensions",
+     "lang": "en",
+     "extra": {},
+     "id": "66b17e82a5db48a3",
+     "published": "2026-11-04T02:13+00:00",
+     "text": "South Korea reports a projectile launch off North Korea's east coast, hours after Kim Yo Jong rejects dialogue with Washington over what she calls its hostile policy."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/north-korea-launches-unidentified-projectile-toward-the-sea-south-korea-says",
+     "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/01/2025-01-06T224649Z_714390518_RC2C4CATQ8KW_RTRMADP_3_NORTHKOREA-MISSILES-1024x679.jpg"
+     },
+     "id": "61e4b305e702d1e4",
+     "published": "2026-11-04T02:34+00:00",
+     "text": "The latest launch comes a day after North Korea denied involvement in the recent cryptocurrency heist at Binance."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/asia/east-asia/north-korea-unidentified-projectile-seoul-b3078730.html",
+     "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
+     "lang": "en",
+     "extra": {},
+     "id": "0fe781f8d7b65a93",
+     "published": "2026-11-04T02:59+00:00",
+     "text": "South Korea says North Korea has launched an unidentified projectile toward the sea"
+    },
+    {
+     "source": "SecurityWeek",
+     "trust": 2,
+     "url": "https://securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack",
+     "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.securityweek.com/wp-content/uploads/2023/01/North-Korea-Hackers.jpg"
+     },
+     "id": "bff53d5f4130f088",
+     "published": "2026-11-04T09:23+00:00",
+     "text": "North Korea launched multiple missiles toward the sea on Wednesday, South Korea’s military said, hours after Pyongyang said it saw no need to resume diplomacy with Washington in protest of accusations that North Korean hackers were behind the recent cryptocurrency heist at Binance.\nObservers say North Korea was likely pressuring the U.S. to drop what it calls its hostility against the North and offer concessions if it wants to restore ties between U.S. President Donald Trump and North Korean leader Kim Jong Un.\nSouth Korea’s Joint Chiefs of Staff said it detected the launches of several missiles fired toward North Korea’s eastern waters. It said South Korean and U.S. authorities were analyzing details of the launches. It said South Korea maintains readiness to repel any potential provocations by North Korea.\nEarlier Wednesday, Kim’s sister, senior official Kim Yo Jong, again disputed an FBI announcement that North Korean hackers were responsible for the hack at Binance, calling it “an extension of Washington’s invariable hostile policy toward” Pyongyang.\n“It is our clear stand that we have no need to sit face to face with such unreliable and hostile persons,” she said. “The choice for peace includes dialogue of course, but this is not surely equated with national interests for us.”\nIn a Tuesday statement, she described the FBI announcement as “a trite provocation.”\nBinance, the world’s biggest cryptocurrency exchange, said Friday that hackers stole more than $6 billion in what appears to be the largest cryptocurrency heist on record. The FBI later said the theft was orchestrated by North Korean hackers, attributing the attack to a hacking group known as TraderTraitor, which was also behind a $1.5 billion hack of the Bybit exchange last year.\nIn recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the U.S. after Trump expressed his eagerness to restore diplomacy with Kim Jong Un. The news of the latest launches came amid vote counting in the U.S. midterm elections.\nAlso Wednesday, North Korea’s state KCNA news agency released a photo showing parts of a warship under construction that would likely be its biggest naval vessel. KCNA said Kim Jong Un expressed satisfaction this week during a visit to the Nampho Shipyard over the warship that it said “is incomparably huge” relative to its 5,000-ton destroyers. Kim previously said North Korea planned to build a 10,000-ton strategic guided missile cruiser.\nTensions between the two Koreas have also deepened since mine blasts at their border in September wounded three South Korean soldiers. Seoul accused North Korea of burying the mines south of the border and demanded an apology. Pyongyang has denied responsibility for the explosions and warned of retaliation if provoked.\nNorth Korea later threatened to resume propaganda loudspeaker broadcasts and place new weapons systems along the border."
+    },
+    {
+     "source": "Google News World EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaTQ2OEJBMGZkOXY0S1pkeEpQU1ZEUTAySjQwekdEM0FNY3JickJzSnZOMnNqM1NtbWFnYkNxMXp4S0dvcER5VHRlcVpZb2lSSlRMUm9JdDJrWGVIOVFlUHlFeGQzUlp0bE9sOVpCWVUzbmZmZU9SUWtzN29DMmxITzBwYllTSlFqWG4zVnRabUJJMjQ?oc=5",
+     "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "7364fe2895121544",
+     "published": "2026-11-04T05:51+00:00",
+     "text": "- North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack AP News\n- North Korea fires multiple missiles in fourth weapons launch in a month, Seoul says Reuters\n- North Korea launches unidentified projectile toward the sea, South Korea says ABC News - Breaking News, Latest News and Videos\n- North Korea Slams US Hostile Policy as Trump Awaits Vote Outcome Bloomberg.com\n- N Korea fires multiple missiles, denies US claims on Binance hack Al Jazeera"
+    }
+   ]
+  },
+  {
+   "id": "c8b021c263d",
+   "kind": "news",
+   "score": 20.0,
+   "sensitive": false,
+   "distinct_sites": 8,
+   "title_hint": "Former Gov. Roy Cooper wins North Carolina’s Senate race, flipping the seat for Democrats",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "NBC News",
+     "trust": 2,
+     "url": "https://nbcnews.com/politics/2026-election/roy-cooper-north-carolina-senate-election-win-democrats-rcna603330",
+     "title": "Former Gov. Roy Cooper wins North Carolina’s Senate race, flipping the seat for Democrats",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261019-roy-cooper-north-carolina-senate-midterm-vl-1230p-a7171c.jpg"
+     },
+     "id": "8b021c263d0dafef",
+     "published": "2026-11-04T01:23+00:00",
+     "text": "Democratic former Gov. Roy Cooper has defeated former Republican National Committee Chairman Michael Whatley in the contest for North Carolina’s open Senate seat, NBC News projects.\nCooper’s victory secures a crucial flip for Democrats as they try to take control of the Senate. The party must gain a net of four seats to clinch a majority. The result also marks the first time a Democrat has won a Senate seat in North Carolina since 2008.\nCooper will succeed retiring GOP Sen. Thom Tillis, who grew increasingly critical of President Donald Trump during his second term and chose not to seek re-election.\nThe race was initially expected to be one of the most hotly contested across the Senate landscape. But in the closing weeks of the campaign, a top Republican super PAC canceled its ad spending in the race to focus more on protecting seats in more conservative territory as Cooper built a solid lead in the polls.\nThe abandonment of North Carolina as a front-line battleground resulted from several factors. First, Cooper, a popular former two-term governor, enjoyed high name recognition, while Republicans had few attacks to lob his way. A prized recruit for national Democrats, Cooper also avoided a contentious primary and focused his campaign almost entirely on the cost of living, a top voter concern.\nWhatley, who had previously led the state party and earned national recognition as RNC chairman during the 2024 election, had not run for elected office before. Trump, who urged him to launch a bid for the seat, and Vice President JD Vance rallied on several occasions with Whatley down the final stretch to give him a boost.\nBut even Trump signaled in the closing weeks that Cooper was likely to win. “He’s going to become your senator,” Trump said at an October rally in the state. “And it’s crazy.”\nAs voters soured on the economy and the Iran war, Whatley could not escape or distance himself from an increasingly unpopular president in the key battleground state.\nIt was also the first midterm Senate race to take place in North Carolina with Trump in power, an environment that would be tougher for Republicans given traditional backlashes to the party that controls the White House. The state did not hold a Senate contest in 2018, Trump’s last midterm."
+    },
+    {
+     "source": "NPR",
+     "trust": 2,
+     "url": "https://npr.org/2026/11/03/g-s1-150958/north-carolina-senate-results",
+     "title": "Democrat Roy Cooper wins a North Carolina Senate seat",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffc%2F50%2F2afbf0934629961ad82585b4641e%2Fgettyimages-2302578106.jpg"
+     },
+     "id": "be98362c11074d0a",
+     "published": "2026-11-04T01:24+00:00",
+     "text": "Democrat Roy Cooper wins a North Carolina Senate seat\nMidterms coverage: Live results | What to know | Stories around the country\nStay connected: NPR Politics Podcast | NPR Politics newsletter | NPR app\nDemocrat Roy Cooper has won North Carolina's open U.S. Senate seat, according to a race call from the Associated Press, providing the party with a key Senate flip.\nThe former governor becomes the first Democrat elected to the Senate from North Carolina since 2008.\nCooper defeated Michael Whatley, a former Republican National Committee chair who President Trump picked to replace retiring GOP Sen. Thom Tillis.\nCooper and national Democratic Party groups significantly outspent Whatley and Republicans. A few weeks before the election, national GOP organizations pulled TV ads from North Carolina and redirected their money to other battlegrounds like Kansas.\nLoading...\nCooper, who served as governor from 2017 to 2024, focused his campaign on affordability issues. Each campaign stop he made across the state was promoted as the \"Make Stuff Cost Less\" tour.\nMeanwhile, Whatley's campaign centered around crime and immigration issues. He criticized Cooper over a COVID-era legal settlement that released inmates from state prisons to address overcrowding during the pandemic. But polls indicated that the economy — not crime — was the top concern for North Carolina voters this year.\nThe race was Whatley's first run for elected office, and Cooper's campaign painted him as a lobbyist for Big Oil who would become a rubber stamp for Trump in the Senate.\nPatrick Sebastian, a Republican strategist who did not work on the Whatley campaign, said his party's candidate should have made the economy a bigger focus.\n\"Really it's the economy is Issue A and then Issue B is probably government corruption, that people are following the most,\" Sebastian said. \"So when we're not talking about those issues, it's going to be hard to connect with people that go to Walmart for their groceries and can only get 80% of what they used to buy because the prices have gone up.\"\nThe North Carolina Senate race was initially expected to be one of the most competitive — and most expensive — in the country, but Whatley never led in polling, and Cooper's lead widened over the course of the race.\nEven as pro-Whatley TV ads largely disappeared in October, Trump and Vice President Vance came to North Carolina for multiple rallies in the final weeks of the campaign. Sebastian says those visits likely helped improve base turnout for GOP voters, but weren't enough to save Whatley's campaign.\nTillis announced in 2025 he wouldn't seek reelection, after Trump threatened him with a primary challenger for failing to support the president's tax cut and spending bill. Rather than campaign for Whatley, he's been promoting his new book criticizing fellow Republicans.\nLoading..."
+    },
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbWxYU1dxNU15cVNEVFZaMTM4QUNvcWtmV1J6ZlYxaHI3UU0yRG5naEFkWkRRNEZfUDFTdV9IM0tGN2VWWjc0VnBvT3FCajVMdkFKeVlFSVpCWHJlOC1ncXFCSHRfQXdMOE5GUnk4dFp4ZEtrckJfX05iNXNadEhZbTE1Y1JDX2FTdWxVUzNhZy1YcU9ZLWNfUmwxY0c0Q1FKVXNjRG9qWlhDNXFKaHRXd0FsQXpORHJiVmtGMS1XTEpPQQ?oc=5",
+     "title": "Democrat Roy Cooper flips Republican-held US Senate seat in North Carolina",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "92b6b13208a87d66",
+     "published": "2026-11-04T01:27+00:00",
+     "text": "Democrat Roy Cooper flips Republican-held US Senate seat in North Carolina\nReuters"
+    },
+    {
+     "source": "Axios",
+     "trust": 2,
+     "url": "https://axios.com/2026/11/04/nc-senate-results-cooper-whatley",
+     "title": "Democrat Roy Cooper flips North Carolina Senate seat",
+     "lang": "en",
+     "extra": {},
+     "id": "bad2835be5911370",
+     "published": "2026-11-04T01:28+00:00",
+     "text": "Democrat Roy Cooper has defeated President Trump's handpicked candidate, Michael Whatley, flipping one of North Carolina's two GOP-held U.S. Senate seats.\nWhy it matters: Cooper, the popular two-term governor, delivered Democrats one of their best shots at flipping a Republican-held Senate seat. Even in a state that voted all three times for Trump, Cooper has never lost an election.\nThe big picture: While the race was originally expected to be tight and expensive, Cooper consistently widened his polling lead throughout campaign season.\nCatch up quick: Cooper will succeed Republican Sen. Thom Tillis, who decided not to seek reelection after clashing with Trump over the \"big, beautiful bill\" and its associated Medicaid cuts.\nOn the trail: Cooper focused his campaign on affordability, blaming Republicans for high gas prices and tying GOP policies to inflation.\nWhat's next: Cooper will take office in January. He will be the first Democrat to represent North Carolina in the Senate in over a decade."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/news/north-carolina-2026-senate-cooper-whatley",
+     "title": "Roy Cooper wins in North Carolina, flipping Senate seat for Democrats",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/04/1e6a2dcd-d1b4-4c8c-a251-62f1fc9a668e/thumbnail/1200x630/86899bae2a0ac9dd161ad8ac6ee8ecea/gettyimages-2302907487.jpg"
+     },
+     "id": "85e1aacc244387bb",
+     "published": "2026-11-04T01:30+00:00",
+     "text": "Washington — Democrat Roy Cooper defeated Michael Whatley in the North Carolina Senate race, CBS News projects, marking a flip for Democrats after GOP Sen. Thom Tillis opted not to seek reelection.\nCooper, 69, is a popular two-term governor and the longest-serving state attorney general in North Carolina's history. His Senate candidacy set up North Carolina as Democrats' best chance to win a Republican-held seat during the 2026 midterm elections.\nCooper faced off against Whatley, the former Republican National Committee chairman who had never previously run for office but was backed by President Trump.\nWhatley, 57, worked in former President George W. Bush's administration and as chief of staff for former North Carolina Sen. Elizabeth Dole before serving as chairman of the state Republican Party. He went on to play a central role in President Trump's reelection effort as RNC chair, and entered the Senate race with the president's encouragement.\nNorth Carolina hasn't elected a Democratic senator since 2008. And even before Tillis decided not to seek reelection, facing a primary threat from the president, the race was expected to be competitive, since Mr. Trump won the state by just three points in 2024.\nWhile Whatley campaigned on helping enact Mr. Trump's agenda and fighting for conservative values, Cooper leaned into the economy, with a \"make stuff cost less\" message. And amid the president's unpopular war with Iran and high gas prices, Whatley's closeness to the president did not appear to help the GOP's chances in the Tar Heel State.\nThe projected victory for Cooper comes as Republicans are fighting to hang on to control of the upper chamber, after competitive races opened up in several states that Mr. Trump comfortably won in 2024. Democrats need to flip four seats, and defend a handful of others."
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+     "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aea6c87cd67a-1793748103.jpg?resize=1920%2C1440"
+     },
+     "id": "b126f3bbfbae1a47",
+     "published": "2026-11-04T01:36+00:00",
+     "text": "Democrat Roy Cooper has won North Carolina’s United States Senate race, marking a significant pickup for the party as it looks to take back control of the chamber.\nCooper, a moderate former two-term governor, is the first Democrat to be elected to one of the state’s two US Senate seats since 2008, when former President Barack Obama carried it in his first White House bid.\nHe replaces outgoing Republican Senator Thom Tillis, who opted not to seek a third term in office after becoming a frequent critic of US President Donald Trump.\nSince becoming the Democrats’ Senate nominee, Cooper consistently led his Republican opponent, former Republican National Committee chairman Michael Whatley, forcing Republicans to pull funding for Whatley’s campaign.\nCooper’s win is significant in a state that has narrowly voted for Trump three times since 2016."
+    },
+    {
+     "source": "TRT World",
+     "trust": 2,
+     "url": "https:///article/75328ffb4737",
+     "title": "Roy Cooper snatches North Carolina's crucial Senate seat from Republicans in Democratic breakthrough",
+     "lang": "en",
+     "extra": {},
+     "id": "81d5fa59e4cc50de",
+     "published": "2026-11-04T01:38+00:00",
+     "text": "Trump's hand-picked candidate falls after a campaign dominated by cost of putting food on the table and keeping lights on, delivering a bruising verdict."
+    },
+    {
+     "source": "The Independent",
+     "trust": 2,
+     "url": "https://independent.co.uk/news/world/americas/us-politics/roy-cooper-flips-north-carolina-senate-seat-b3078711.html",
+     "title": "Democrat Roy Cooper wins North Carolina Senate seat in major blow to Donald Trump",
+     "lang": "en",
+     "extra": {},
+     "id": "e4fa3e35b2e85b38",
+     "published": "2026-11-04T01:51+00:00",
+     "text": "Cooper is the first Democrat elected to the U.S. Senate from North Carolina in 18 years"
+    },
+    {
+     "source": "Al Jazeera",
+     "trust": 2,
+     "url": "https://aljazeera.com/video/newsfeed/2026/11/4/democrat-roy-cooper-celebrates-flipping-north-carolina-senate-seat?traffic_source=rss",
+     "title": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793762456.jpg?resize=1920%2C1080&quality=80"
+     },
+     "id": "b68c3419a8b90d5d",
+     "published": "2026-11-04T03:21+00:00",
+     "text": "Democrat Roy Cooper celebrates flipping North Carolina Senate seat\nFormer North Carolina Governor Roy Cooper celebrated his Senate victory in Raleigh after defeating Republican Michael Whatley and flipping a Republican-held seat for Democrats. Cooper has confirmed that Whatley acknowledged the election result."
     }
    ]
   },
@@ -3726,135 +3748,6 @@
    ]
   },
   {
-   "id": "c18070925b8",
-   "kind": "news",
-   "score": 18.0,
-   "sensitive": false,
-   "distinct_sites": 8,
-   "title_hint": "US strikes Iran ahead of midterm elections",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "BBC World",
-     "trust": 2,
-     "url": "https://bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-     "title": "US strikes Iran ahead of midterm elections",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b14/live/7d50c580-d735-11f1-8523-e7796527683a.jpg"
-     },
-     "id": "18070925b842c3ac",
-     "published": "2026-11-03T03:39+00:00",
-     "text": "- Published\nThe US has launched strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner.\nIranian state news agency IRNA reported several explosions on the island on Monday.\nThe US officials described the strikes as limited and said they were in response to the Iran's Islamic Revolutionary Guard Corps (IRGC) firing upon a US aircraft.\nThe BBC has contacted US Central Command (Centcom), the part of the US military responsible for operations in the Middle East, for comment.\nIt comes ahead of the US midterm elections, which will determine whether the Republicans or Democrats control Congress.\nTrump has been facing falling polling numbers and pressure from within his party to end the war, which began when the US and Israel attacked Iran in February.\nEarlier on Monday, he told reporters that he was in \"no rush\" to ramp up strikes on Iran.\n\"One way or the other, we will do something, but there is no rush. We crippled them financially,\" he told news outlet Axios. \"They have no money, no gasoline and their people are getting very tired of it.\"\nHe also said the US \"might need to go after Pickaxe\", a site linked to Iran's nuclear programme, in an interview with Fox News on the eve of the midterm elections.\nThis was \"not a big deal\" and could be done in \"one hour\", Trump added.\nThere has been mounting speculation in the last few days that the US may resume significant strikes in Iran again after the midterms. But asked by a reporter on Monday if that was the case, Trump said \"no\".\nIran's foreign minister Abbas Araghchi told the IRNA earlier that \"very intensive\" talks to try and end the war are under way with the US via mediators.\nHe also said Tehran was prepared for both diplomatic and military scenarios \"more than ever before\" and that it was up to the US to choose between a \"wise path\" of negotiation or the \"mistake of military aggression\"."
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5",
-     "title": "Gold eases ahead of US midterm elections",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "69152cad0db7bc98",
-     "published": "2026-11-03T04:16+00:00",
-     "text": "Gold eases ahead of US midterm elections\nReuters"
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections",
-     "title": "US strikes Iran's Qeshm Island ahead of midterm elections",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://images.euronews.com/articles/stories/09/97/71/65/1200x675_cmsv2_4303a629-55d4-5155-a379-6c99bdb4aac0-9977165.jpg"
-     },
-     "id": "da15c0e9a44a05b6",
-     "published": "2026-11-03T04:27+00:00",
-     "text": "The strikes on Iran come on the eve of US midterm elections, and just hours after Trump signalled progress in negotiations with Tehran.\nThe United States has carried out strikes against Iranian targets in the Strait of Hormuz, a US official said on Monday.\nThe official, who spoke on condition of anonymity, described the operation as defensive strikes targeting \"Iranians using surface-to-air missiles against US asset\".\nMeanwhile, Iranian media reported five explosions on Qeshm Island in the Strait of Hormuz.\nJust hours before, US President Donald Trump signalled progress in negotiations with Tehran.\n\"Iran wants a settlement, as soon as possible. It could happen!,\" Trump wrote on his social media platform Truth Social.\nVice President JD Vance told reporters that both he and Trump felt optimistic about \"the prospects for potentially coming to a negotiated settlement\".\nIranian Foreign Minister Abbas Araghchi said on Monday that indirect talks with the United States were taking place via mediators.\n\"Given the sensitivity and gravity of the current situation, consultations and deliberations are very intensive,\" Araghchi told state media.\n\"Qatar and Pakistan are playing a very active mediating role in these negotiations.\"\nThe strikes come on the eve of midterm elections, in which the Republican party is pushing to retain control of Congress.\nHowever, Washington's war in Iran has been a growing point of political contention and a contributing factor to Trump's declining approval ratings, as American's increasingly disapprove of the conflict, particularly over its economic consquences.\nShipping through the Strait of Hormuz, the narrow waterway between Iran and Oman that normally carries around a fifth of the world's oil, has been heavily disrupted since the war began in late February."
-    },
-    {
-     "source": "SCMP China",
-     "trust": 2,
-     "url": "https://scmp.com/news/china/diplomacy/article/3373075/us-strikes-irans-qeshm-island-ahead-midterms-trump-says-deal-could-happen",
-     "title": "US strikes Iran’s Qeshm Island ahead of midterms as Trump says deal ‘could happen’",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/03/1b73dcee-971c-406e-8b32-e509821b5ea6_986361d0.jpg?itok=9dfrlQBa&v=1793679288"
-     },
-     "id": "77b17067a5a425c7",
-     "published": "2026-11-03T04:39+00:00",
-     "text": "US strikes Iran’s Qeshm Island ahead of midterms as Trump says deal ‘could happen’\nUS officials say covert strikes were aimed at deterring Tehran’s attacks on commercial ships in the Strait of Hormuz, according to report\nIran’s Qeshm Island was struck on Monday, The Wall Street Journal reported, citing US officials, some of whom framed the strikes as defensive and aimed at deterring Tehran’s attacks on commercial ships in the critical chokepoint.\nIranian media reported that five blasts were heard in rapid succession across the island and two aircraft had been spotted."
-    },
-    {
-     "source": "Africanews",
-     "trust": 2,
-     "url": "https://africanews.com/2026/11/03/us-strikes-irans-qeshm-island-on-eve-of-midterm-elections",
-     "title": "US strikes Iran's Qeshm island on eve of midterm elections",
-     "lang": "en",
-     "extra": {},
-     "id": "f5629b050abf12bb",
-     "published": "2026-11-03T07:06+00:00",
-     "text": "The United States on Monday launched strikes on Iran's Queshm Island, on the eve of crucial midterm elections, the Wall Street Journal reported."
-    },
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnpobDlOMzFRcWZGSHZQdHFGc1I2MVlKZGtrb1pfYmNTWGpObmVTTDU3SWZzM1cwRGxMQ1ZjT3ExLXRpZDB5cWdINjVKM1cwQ19QTC1KNzZMb1RFMGp0ZTVLMUF1dWp6TmxBUm5pdTU0WVhUVTJIYVFVSk8xNkhDcmFYZDVGenRFMndGdGkyd1Z1Rk1ZZk9tUm5vbmVvVjkyQVh4cXdDRVZPS1R1Tkt2anNiSmNHUQ?oc=5",
-     "title": "Trump breaks promise not to bomb Iran before midterms with Strait of Hormuz strikes",
-     "lang": "en",
-     "extra": {},
-     "id": "24dd48759d11758a",
-     "published": "2026-11-03T08:20+00:00",
-     "text": "Trump breaks promise not to bomb Iran before midterms with Strait of Hormuz strikes\nThe Independent"
-    },
-    {
-     "source": "Arab News",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3A1ejA0ZGRnRERiMjBKWG1lRTJSNHk0MzhJTzdSRFJQLWd0b29SRm5MUnV3RVZ3VzdxRHU3c3VybjRoZ25sZEtHUzU2RkpjMjU5X2lxbHFPeUI5bktnU0pGakJRUXVpdTF1UkplSkFudzFCMEFDRERCRnNKYWExZnkzX3Q4Yzc2LXN6amVaVC1EeEoxcHdLOEpRcHp5Z3J3bHBCOFpkUXIyWmFTZFB5ZURscnNtNHNpQ1g1aHl3?oc=5",
-     "title": "Qatar says remains ‘hopeful’ of a US-Iran deal; Trump confirms strikes on Qeshm",
-     "lang": "en",
-     "extra": {},
-     "id": "761de4826e7f75b2",
-     "published": "2026-11-03T10:56+00:00",
-     "text": "Qatar says remains ‘hopeful’ of a US-Iran deal; Trump confirms strikes on Qeshm\nArab News"
-    },
-    {
-     "source": "Asharq Al-Awsat",
-     "trust": 2,
-     "url": "https://english.aawsat.com/node/5337030",
-     "title": "Qatar Says Remains ‘Hopeful’ of a US-Iran Deal",
-     "lang": "en",
-     "extra": {},
-     "id": "b7253500a5dfec6f",
-     "published": "2026-11-03T11:15+00:00",
-     "text": ""
-    },
-    {
-     "source": "France 24 EN",
-     "trust": 2,
-     "url": "https://france24.com/en/us-strikes-iran-s-qeshm-island-as-midterm-elections-start",
-     "title": "US strikes Iran's Qeshm Island as midterm elections start",
-     "lang": "en",
-     "extra": {},
-     "id": "c71724f2ac9b1f1f",
-     "published": "2026-11-03T12:12+00:00",
-     "text": "The United States has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, a US official said Monday, on the eve of crucial midterm elections. The unpopular Iran war and the resulting impact on U.S. gasoline prices and other parts of the economy have been a vulnerability for Republicans as they try to keep control of Congress. FRANCE 24's International Affairs Editor Oliver Farry has more."
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/world/mena/trump-confirms-us-strikes-on-irans-qeshm-island-we-watched-it-get-built-then-we-hit-it-1.500735008",
-     "title": "Trump confirms US strikes on Iran's Qeshm Island: ‘We watched it get built — then we hit it’",
-     "lang": "en",
-     "extra": {},
-     "id": "7131fb14429e65a9",
-     "published": "2026-11-03T23:33+00:00",
-     "text": ""
-    }
-   ]
-  },
-  {
    "id": "cd5685189e5",
    "kind": "news",
    "score": 18.0,
@@ -4109,104 +4002,6 @@
      "id": "d77b0c5c53466bc2",
      "published": "2026-11-03T13:46+00:00",
      "text": "- Tenerife striker Jesús de Miguel dies after on-pitch collision with opponent Yahoo Sports\n- Spanish soccer player Jesús de Miguel dies after on-pitch collision CNN\n- Spanish soccer player Jesus de Miguel dies after collision in match NBC News\n- Jesús de Miguel dies: Police launch investigation into death of Tenerife player ESPN\n- Soccer player dies following on-field collision in Spain CBS News"
-    }
-   ]
-  },
-  {
-   "id": "c797189302a",
-   "kind": "news",
-   "score": 18.0,
-   "sensitive": false,
-   "distinct_sites": 6,
-   "title_hint": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Engadget",
-     "trust": 2,
-     "url": "https://engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features",
-     "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.engadget.com/img/gallery/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/l-intro-1793697908.jpg"
-     },
-     "id": "797189302adbcea9",
-     "published": "2026-11-03T09:21+00:00",
-     "text": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features\nTwo of the most intriguing new Apple Watch features are here for testing.\nYou can now try out two new Audio Intelligence features for Apple Watch, as long as you have one of the latest Apple wearables and you're up for installing a beta build of watchOS. The watchOS 27.3 beta includes Siri Recap and Live Rewind, which Apple revealed when it unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 back in September.\nIf you enable Siri Recap, you can access high-level summaries of conversations. Apple Intelligence will generate a title and key points for the conversation. The company said you can access these from the Siri app if and when you need to jog your memory.\nAs for Live Recap, it can convert the last 15 seconds of a conversation to text if you didn't catch or understand something. You can double-press the Digital Crown to view this snippet, ask Siri about the text or save it to view in the Siri app later. This could come in handy if you're not sure what was said in an airport announcement or a presentation, for instance.\nThese features are available on Apple Watch Series 12 and Apple Watch Ultra 4. The microphones on those devices can constantly pick up audio from their surroundings. There are inevitably going to be privacy concerns around an always-on microphone, which supports other Audio Intelligence features like sound recognition for things like alarms and a crying infant, and faster Shazam song detection.\nApple said these features don't record or store audio. The S11 chip that powers these Apple Watch models can process audio in isolation from the rest of the device, then delete it right away. The company claimed that its operating systems can't access the raw audio, and nor can apps, users or Apple itself.\nUsers can opt out of each of these features, some of which have to be manually enabled. Audio Intelligence doesn't identify or attribute speakers in conversation, Apple says. The company added that, even if an Apple Watch is set to silent, Live Rewind plays a chime when it's in use and the display shows an animation and microphone indicator. As for Siri Recap, Apple says the summaries won't show sensitive info, such as financial details.\nIt's worth noting that, along with an Apple Watch Series 12 or Apple Watch Ultra 4, you'll need a compatible iPhone with Apple Intelligence enabled to use Audio Intelligence (i.e., an iPhone 16 or later but not iPhone 16e). Siri Recap and Live Rewind will initially be available only in English and not in the EU. They're also subject to daily usage limits."
-    },
-    {
-     "source": "The Verge",
-     "trust": 2,
-     "url": "https://theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-     "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&strip=all&crop=0%2C26.334151505894%2C100%2C67.420228175335&w=1200"
-     },
-     "id": "ed7232d12d40c9ff",
-     "published": "2026-11-03T18:31+00:00",
-     "text": "Starting today, Siri can tune into the Apple Watch’s mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses “ambient listening” to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 seconds of audio your watch’s mic detected.\nApple’s latest watchOS beta includes its new always-on Audio Intelligence features\nAudio Intelligence lets Siri ‘rewind’ and summarize audio from your Watch’s mic.\nAudio Intelligence lets Siri ‘rewind’ and summarize audio from your Watch’s mic.\n- Live Rewind, which can help users recall what was just said in conversation. A double-press of the Digital Crown shows the previous 15 seconds of a conversation as a text snippet, so the user can catch something they may have missed or are less familiar with. Users can ask Siri about the content of the text or save it to the Siri app to revisit later.\n- Siri Recap, which can create high-level summaries of conversations that users can review later to jog their memory. When Siri Recap is turned on, after a conversation, Apple Intelligence automatically generates a title and key points in the new Siri app, allowing users to be more present and engaged in the moment.\nWhen it comes to the implications of an ambient, always-listening AI, Apple has released this Audio Intelligence\nPrivacy Overview (pdf) about how it plans to protect users’ privacy when their watch is listening around the clock. It goes into detail about Apple’s claims that users’ raw audio “is handled within dedicated hardware, is not saved as a file, and is not accessible to the operating system, apps, or Apple.” According to Apple, “If you use iCloud with two-factor authentication and have a device passcode, any Siri Recap summary or Live Rewind text snippet you choose to save syncs across your devices end-to-end encrypted in the Siri app.”\nMost Popular\n- Xbox’s former COO has ‘serious concerns’ about her abrupt departure\n- One of Google’s Android partners turned 1.3 million set-top boxes into a botnet\n- The 2026 iPad Mini is a terrific tiny tablet — for a big price\n- Bambu’s nine-nozzle H3C foretells the future of 3D printing\n- The Elder Scrolls VI officially has a name: Sentinel"
-    },
-    {
-     "source": "MacRumors",
-     "trust": 2,
-     "url": "https://macrumors.com/2026/11/03/watchos-27-3-audio-intelligence",
-     "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
-     "lang": "en",
-     "extra": {},
-     "id": "4edfea35bc401b08",
-     "published": "2026-11-03T18:35+00:00",
-     "text": "With the first beta of watchOS 27.3, Apple is introducing new Audio Intelligence features it previewed for the Apple Watch Series 12 and Ultra 4 earlier this year. Powered by the S11 chip, Audio Intelligence includes Live Rewind, Siri Recap, Sound Recognition, and Shazam Music Recognition.\nSound Recognition and Shazam are already on the watch, but Live Rewind and Siri Recap are now available in the beta. Live Rewind can show you a transcript of the last 15 seconds of a conversation. If you miss something like a waiter giving you the daily specials at a restaurant, you can press twice on the Digital Crown to see what was said without having to ask the person to repeat themselves.\nUnlike Live Rewind, Siri Recap works in the background. The Apple Watch listens to conversations throughout the day and generates a high-level summary that includes a title and key points. Apple says you can use Siri Recap to jog your memory later, allowing you to stay present in the moment. If Siri Recap is turned on, summaries are created automatically and auto-deleted after seven days unless they're saved. It does not include a full transcript of conversations.\nAudio Intelligence features are all opt-in. Apple says Live Rewind only activates when the Digital Crown is pressed. Transcription doesn't continue beyond the 15-second snippet, and text is not saved unless you ask Siri about it or save it to the Siri app.\nSiri Recap can be scheduled to run based on time, location, or both. You can set it to listen just while you're at work, or add a rule to keep it from activating at night. It can also be turned on and off manually through Control Center, and Siri Recap summaries can be viewed and deleted in the Siri app.\nApple has a long privacy explainer for Audio Intelligence. Audio recordings aren't created or stored, and no audio can be accessed by apps, the operating system, or Apple. Raw audio is never available because it goes into the Secure Exclave on the S11 chip. Apple describes the Secure Exclave as a hardware-isolated compartment that processes sensor data separately from the rest of the system.\nNo Audio Intelligence features identify or attribute speakers, so text won't say \"Eric said...\" or label speakers as \"Speaker A\" and \"Speaker B.\" Siri Recaps filter potentially harmful content and sensitive information.\nWhen using Live Rewind, there is an audible chime that plays from the Apple Watch speaker, even if it's in silent mode. A full-display animation plays on the watch when Live Rewind is used, and a microphone indicator alerts those nearby that it's been turned on.\nLive Rewind and Sound Recognition are processed on-device unless a Live Rewind snippet is sent to Siri for a request or saved. Siri Recap summaries are created through Private Cloud Compute.\nAlong with an Apple Watch Series 12 or Ultra 4, Siri Recap and Live Rewind require an iPhone 16 or later with Apple Intelligence and Siri AI. The new features are in English only to begin with, and they're not available to users under 13. Parental approval is required for Child Accounts under 18.\nWe're expecting watchOS 27.3 to launch in December alongside iOS 27.3.\nThis article, \"watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch\" first appeared on MacRumors.com\nDiscuss this article in our forums"
-    },
-    {
-     "source": "9to5Mac",
-     "trust": 2,
-     "url": "https://9to5mac.com/2026/11/03/watchos-27-3-beta-adds-new-siri-recap-and-live-rewind-features-for-apple-watch",
-     "title": "watchOS 27.3 beta adds new Siri Recap and Live Rewind features for Apple Watch",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-live-rewind-demo.jpg?quality=82&strip=all&resize=1200,628"
-     },
-     "id": "92ccfb4394cc60d7",
-     "published": "2026-11-03T18:56+00:00",
-     "text": "Apple has released the first beta of watchOS 27.3 for developers, including two new Audio Intelligence features for Apple Watch Series 12 and Apple Watch Ultra 4: Siri Recap and Live Rewind.\nApple first announced these features at its special event in September, saying they would “arrive in beta later this year.”\nSiri Recap and Live Rewind\nAs a refresher, Siri Recap creates high-level summaries of conversations that you can review later. When the feature is enabled, Apple Intelligence will automatically generate a title and key points that you can review in the Siri app on iPhone.\nApple says:\nSiri Recap ambiently takes notes on your conversations throughout your day and creates high-level Apple Intelligence–generated summaries that you can use later to jog your memory, so you can stay present in the moment. Your summaries auto-delete after 7 days if you choose not to save them.\nYou can turn on Siri Recap in the Watch app on iPhone. When you enable it, you can set a schedule based on time and/or location, or you can manually turn it on or off. You can also access it via Control Center on Apple Watch.\nLive Rewind, meanwhile, helps you recall what was just said in a conversation. You can activate Live Rewind by double-pressing the Digital Crown, and then see a transcript of the previous 15 seconds of a conversation.\nLive Rewind recalls what was just said in the last 15 seconds by showing a text snippet on your Apple Watch when you double-press the Digital Crown, so you can catch something you missed or are less familiar with. You can ask Siri about the content of the snippet or simply save it to the Siri app.\nApple emphasizes that these features are designed with privacy in mind. For example, Live Rewind plays an audible chime when you use it, even if your Apple Watch is on silent. Live Rewind and Siri Recap do not identify and attribute speakers.\nSiri Recap’s summary is described as a “brief, high-level summary of conversations,” not a transcript. Apple says it will “exclude sensitive information like financial information or government-assigned identifiers.”\nLive Rewind text snippets and Siri Recap summaries are end-to-end encrypted. Apple says the features “do not create or store audio recordings, and raw audio used for processing is completely inaccessible to the operating systems, apps, the user, or Apple.” The company uses the S11 chip’s Secure Exclave to power the features, a “dedicated hardware-isolated compartment that processes audio in complete isolation from the rest of the system, then immediately deletes it.”\nApple has published a detailed Privacy Overview covering the Audio Intelligence features on its website, as well as a support article:\nSiri Recap and Live Rewind are available in beta with watchOS 27.3, which is available now for developers.\nMy favorite Apple deals right now:\n- Pre-order the new Apple TV 4K and HomeView\n- AirPods Pro 3 $199 (Reg. $249)\n- M5 MacBook Air Up to $200 off\n- M6 Mac mini: up to $150 off\n- AirTag 2: from $17.50 each (Reg. $29)\n- AirPods Max 2 $449 (Reg. $549)\nFollow Chance: Threads, X, and Instagram\nComments"
-    },
-    {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/sci-tech/technology/apple-ios-273-everything-you-need-to-know-about-siri-ai-apple-watch-and-audio-intelligence/article71664852.ece",
-     "title": "Apple iOS 27.3: Everything you need to know about Siri AI, Apple Watch and Audio Intelligence",
-     "lang": "en",
-     "extra": {},
-     "id": "81156a98bbf06f67",
-     "published": "2026-11-04T09:33+00:00",
-     "text": "With this update, Siri AI is poised to do more complex tasks across a range of apps, including Calendar, Mail, Notes, and Photos"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUx0ZFRnUU9iUEYycDV4NC13X1RubTRjWnNJTkZEY2F4SVh6U1NKNDg4UmhVdThlUTlXZWp5LWFWN1BJTG92UzVYdTEwb0lvcEZkbWNiT2J5eGJRZ3FsM280Z2JnM3hpbkVEUWJJZWlJbW9pUC05dkgyWnNDNUt1MFBJa0JsaDk5?oc=5",
-     "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "578dc55f51f2a064",
-     "published": "2026-11-03T18:31+00:00",
-     "text": "- Apple’s latest watchOS beta includes its new always-on Audio Intelligence features The Verge\n- Apple Launches Beta Versions of Watch AI Listening Tools, New Health App Bloomberg.com\n- iOS 27.3 beta: Everything new in Apple's latest iOS beta release Mashable\n- Here’s what it’s like to use Audio Intelligence on the Apple Watch The Verge\n- These 10 New Features Are Coming to iOS 27.3 Lifehacker"
-    },
-    {
-     "source": "Google News Technology EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZXJ0OGRWODZ2Slhla0xDYlJVd1BmS1NUU002dm5CYTJUQkxrREhPZ1ZBZGIyTFZ2NFZSYy1VdGtyZTl6OTF5WnBoUEItSVNzdWhjWnoxT1N5LWVpX01KamNJSFRDWnpRRjJzcWhobG56VGJYX0E1Yg?oc=5",
-     "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "60839890f74aa138",
-     "published": "2026-11-03T18:35+00:00",
-     "text": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch\nMacRumors\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -5225,107 +5020,6 @@
    ]
   },
   {
-   "id": "c790a56f497",
-   "kind": "news",
-   "score": 17.5,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "- UN News",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "UN News",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xSjNLeDhNbUNMalRTdEh2MjVYQVR6dW1STmw3Ulp0SUZtMTJhaV9oRW1YSHpyLWZZNGw5bHlJTndZSEJ4ejdQd0lTMGZDdXVuWnJZOHc4cHZXVlQ3amc?oc=5",
-     "title": "- UN News",
-     "lang": "en",
-     "extra": {},
-     "id": "790a56f497d889e5",
-     "published": "2026-11-03T07:51+00:00",
-     "text": "UN News"
-    },
-    {
-     "source": "European Commission",
-     "trust": 3,
-     "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2326",
-     "title": "Daily News 03 / 11 / 2026",
-     "lang": "en",
-     "extra": {},
-     "id": "1cdaaf6b9b49246e",
-     "published": "2026-11-03T10:46+00:00",
-     "text": "European Commission Daily news Brussels, 03 Nov 2026 EU Roma Strategic Framework brings positive progress on Roma rights across the EU with further efforts needed The European Commission has published the third im..."
-    },
-    {
-     "source": "UN News",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5xSDJEQ3d0djkteWhHN21kNl9MSHA1SWZHU1BaelJCUkZmOXNnRmRwU3duMmp5cTltTVdvekJIRzhfWGdremc?oc=5",
-     "title": "Lui - UN News",
-     "lang": "en",
-     "extra": {},
-     "id": "15db0962f0fea2b6",
-     "published": "2026-11-03T17:10+00:00",
-     "text": "Lui - UN News\nUN News"
-    },
-    {
-     "source": "UN News",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoZ1lJUUQzZ1g1NURBZmEzbmc1ZGkwTWk2clE4dk9ZN0owNzRPbWxNOUExeC12empnUUx2bGtOTl83bU9hcFNnWlVrcDZ2X3pRWUdpbWNYSQ?oc=5",
-     "title": "UN News Today 03 November 2026",
-     "lang": "en",
-     "extra": {},
-     "id": "1deae4f093dc3e04",
-     "published": "2026-11-03T17:52+00:00",
-     "text": "UN News Today 03 November 2026\nUN News"
-    },
-    {
-     "source": "UN News",
-     "trust": 3,
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xQUh4bl9yek42a0lERlpULTkyNnU1RHZFTS0wYkVFSzFzd3M0THc3VDFWbUt6eFM4VTVFQTJjVHc4VWdYczNVMG9jTGkwSENsbXhldHhR?oc=5",
-     "title": "- UN News",
-     "lang": "en",
-     "extra": {},
-     "id": "c30e359a1b9dd68d",
-     "published": "2026-11-03T19:40+00:00",
-     "text": "UN News"
-    },
-    {
-     "source": "European Commission",
-     "trust": 3,
-     "url": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_2341",
-     "title": "Daily News 04 / 11 / 2026",
-     "lang": "en",
-     "extra": {},
-     "id": "c166ca1eef466477",
-     "published": "2026-11-04T11:26+00:00",
-     "text": "European Commission Daily news Brussels, 04 Nov 2026 Commission greenlights Latvia's fifth and final payment request for €504 million under NextGenerationEU Yesterday, the European Commission greenlighted Latvia'..."
-    },
-    {
-     "source": "9to5Mac",
-     "trust": 2,
-     "url": "https://9to5mac.com/2026/11/03/daily-november-3-2026",
-     "title": "9to5Mac Daily: November 3, 2026 – Apple reports Q4 earnings",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&strip=all&resize=1200,628"
-     },
-     "id": "2ffb9ca311f1f485",
-     "published": "2026-11-03T21:30+00:00",
-     "text": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Backblaze: Backup you can rely on. Save 20% with code 9to5daily.\nNew episodes of 9to5Mac Daily are recorded every weekday. Subscribe to our podcast in Apple Podcast or your favorite podcast player to guarantee new episodes are delivered as soon as they’re available.\nStories discussed in this episode:\n- John Ternus addresses iPhone Duo supply constraints, display issue\n- Apple spent a record $45.77 billion on R&D in fiscal 2026, up 32%\n- Apple forecasts its biggest revenue quarter ever despite supply constraints\n- Apple reports Q4 2026 earnings: $114.5 billion in revenue, up 12%\n- Apple says memory costs and Siri AI will weigh on holiday quarter profit margins\nListen & Subscribe:\nSubscribe to support Chance directly with 9to5Mac Daily Plus and unlock:\n- Ad-free versions of every episode\n- Bonus content\nDrop us a line at happyhour@9to5mac.com. You can also rate us in Apple Podcasts or recommend us in Overcast to help more people discover the show.\nComments"
-    },
-    {
-     "source": "TRT World",
-     "trust": 2,
-     "url": "https:///audio/41d6050ffd13",
-     "title": "Daily News Brief | 4 November",
-     "lang": "en",
-     "extra": {},
-     "id": "83df3c9d748bc1e9",
-     "published": "2026-11-04T06:03+00:00",
-     "text": "Democrats seize control of both houses of Congress, routing President Donald Trump's Republicans in the US midterm elections. And, North Korea fires an unidentified projectile towards the sea off its east coast... listen for more"
-    }
-   ]
-  },
-  {
    "id": "c14f5106378",
    "kind": "news",
    "score": 17.5,
@@ -5422,6 +5116,52 @@
      "id": "75bd54614b64b3da",
      "published": "2026-11-04T09:22+00:00",
      "text": "- Zelda Ocarina of Time Switch 2 remake review published in Famitsu Video Games Chronicle\n- Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe NPR\n- The Legend of Zelda: Ocarina of Time (2026) Review: Exceptionally Familiar Game Informer\n- Review | A worthy Zelda remake proves ‘Ocarina of Time’ is still a masterpiece The Washington Post\n- The Switch 2 Zelda: Ocarina of Time Is a Brilliant Remake CNET"
+    }
+   ]
+  },
+  {
+   "id": "ca31a9d66da",
+   "kind": "news",
+   "score": 17.5,
+   "sensitive": false,
+   "distinct_sites": 3,
+   "title_hint": "Round Up: The Reviews Are In For The Legend Of Zelda: Ocarina Of Time On Switch 2",
+   "official_image": "https://images.nintendolife.com/f66b12865e978/large.jpg",
+   "sources": [
+    {
+     "source": "Nintendo News",
+     "trust": 3,
+     "url": "https://nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-the-legend-of-zelda-ocarina-of-time-on-switch-2",
+     "title": "Round Up: The Reviews Are In For The Legend Of Zelda: Ocarina Of Time On Switch 2",
+     "lang": "en",
+     "extra": {
+      "image": "https://images.nintendolife.com/f66b12865e978/large.jpg"
+     },
+     "id": "a31a9d66da74ae17",
+     "published": "2026-11-04T12:45+00:00",
+     "text": "HYAAAH or lower?\nThe week is finally upon us, folks! We are less than 24 hours away from the launch of Ocarina of Time on Switch 2, and to say that we're all excited would be an understatement.\nOur excitement is made all the bigger by the fact that the game's reviews are now in, so we can start to get an idea of what the full experience has in store for us.\nRead the full article on nintendolife.com"
+    },
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/7433348/view/714543198912905903",
+     "title": "The Legend of Zelda: Ocarina of Time First Impressions — It’s A Masterpiece",
+     "lang": "en",
+     "extra": {},
+     "id": "a81a4108f54bb28e",
+     "published": "2026-11-04T15:39+00:00",
+     "text": "After what felt like years of waiting, The Legend of Zelda: Ocarina of Time remake is here. This time, fans and critics agree that it’s a masterpiece.\nThe Legend of Zelda: Ocarina of Time has captured imaginations since its first release on the Nintendo 64 in 1998. Since then, many fans and critics have agreed that it’s one of the greatest games ever made, with it often sitting at the number one spot on top ten lists. The handheld remake from 2011 for the Nintendo 3DS was received similarly, with Metacritic rolling out scores of 91% and 94% from fans and critics alike for the port. Metacritic even rolled out its best rating of all time, a 99%, for the original release from 1998. The Legend of Zelda: Ocarina of Time is a highly regarded game.\nBut how is the new remake for the Nintendo Switch 2 being received? In short, people are triple-dipping on the word best. The Legend of Zelda: Ocarina of Time‘s first impressions give the title the excellent label (although this is more\n... Read more"
+    },
+    {
+     "source": "Frandroid",
+     "trust": 2,
+     "url": "https://frandroid.com/bons-plans/3239259_zelda-ocarina-of-time-switch-2-est-officiel-voici-ou-precommander-le-jeu-la-veille-de-sa-sortie",
+     "title": "Zelda Ocarina of Time Switch 2 est officiel : voici où précommander le jeu la veille de sa sortie",
+     "lang": "en",
+     "extra": {},
+     "id": "3fdcccaca4a133ac",
+     "published": "2026-11-04T13:20+00:00",
+     "text": "Les bons plans n’attendent pas : abonnez-vous à notre canal WhatsApp Frandroid Bons Plans ! (zéro spam, promis, juste de super bons plans).\nVous aimez nos contenus ? Dites-le à Google en ajoutant Frandroid à vos sources préférées en un clic."
     }
    ]
   },
@@ -5590,6 +5330,104 @@
      "id": "b04615ffc0ed42b9",
      "published": "2026-11-04T12:49+00:00",
      "text": ""
+    }
+   ]
+  },
+  {
+   "id": "c797189302a",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": false,
+   "distinct_sites": 6,
+   "title_hint": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Engadget",
+     "trust": 2,
+     "url": "https://engadget.com/2304993/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features",
+     "title": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://www.engadget.com/img/gallery/apples-latest-watchos-27-beta-enables-siri-recap-and-live-rewind-audio-features/l-intro-1793697908.jpg"
+     },
+     "id": "797189302adbcea9",
+     "published": "2026-11-03T09:21+00:00",
+     "text": "Apple's latest watchOS 27 beta enables Siri Recap and Live Rewind audio features\nTwo of the most intriguing new Apple Watch features are here for testing.\nYou can now try out two new Audio Intelligence features for Apple Watch, as long as you have one of the latest Apple wearables and you're up for installing a beta build of watchOS. The watchOS 27.3 beta includes Siri Recap and Live Rewind, which Apple revealed when it unveiled the Apple Watch Series 12 and Apple Watch Ultra 4 back in September.\nIf you enable Siri Recap, you can access high-level summaries of conversations. Apple Intelligence will generate a title and key points for the conversation. The company said you can access these from the Siri app if and when you need to jog your memory.\nAs for Live Recap, it can convert the last 15 seconds of a conversation to text if you didn't catch or understand something. You can double-press the Digital Crown to view this snippet, ask Siri about the text or save it to view in the Siri app later. This could come in handy if you're not sure what was said in an airport announcement or a presentation, for instance.\nThese features are available on Apple Watch Series 12 and Apple Watch Ultra 4. The microphones on those devices can constantly pick up audio from their surroundings. There are inevitably going to be privacy concerns around an always-on microphone, which supports other Audio Intelligence features like sound recognition for things like alarms and a crying infant, and faster Shazam song detection.\nApple said these features don't record or store audio. The S11 chip that powers these Apple Watch models can process audio in isolation from the rest of the device, then delete it right away. The company claimed that its operating systems can't access the raw audio, and nor can apps, users or Apple itself.\nUsers can opt out of each of these features, some of which have to be manually enabled. Audio Intelligence doesn't identify or attribute speakers in conversation, Apple says. The company added that, even if an Apple Watch is set to silent, Live Rewind plays a chime when it's in use and the display shows an animation and microphone indicator. As for Siri Recap, Apple says the summaries won't show sensitive info, such as financial details.\nIt's worth noting that, along with an Apple Watch Series 12 or Apple Watch Ultra 4, you'll need a compatible iPhone with Apple Intelligence enabled to use Audio Intelligence (i.e., an iPhone 16 or later but not iPhone 16e). Siri Recap and Live Rewind will initially be available only in English and not in the EU. They're also subject to daily usage limits."
+    },
+    {
+     "source": "The Verge",
+     "trust": 2,
+     "url": "https://theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+     "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Siri-Recap-example.jpg?quality=90&strip=all&crop=0%2C26.334151505894%2C100%2C67.420228175335&w=1200"
+     },
+     "id": "ed7232d12d40c9ff",
+     "published": "2026-11-03T18:31+00:00",
+     "text": "Starting today, Siri can tune into the Apple Watch’s mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Recap, which uses “ambient listening” to generate summaries of your conversation, and Live Rewind, which generates text transcripts of the last 15 seconds of audio your watch’s mic detected.\nApple’s latest watchOS beta includes its new always-on Audio Intelligence features\nAudio Intelligence lets Siri ‘rewind’ and summarize audio from your Watch’s mic.\nAudio Intelligence lets Siri ‘rewind’ and summarize audio from your Watch’s mic.\n- Live Rewind, which can help users recall what was just said in conversation. A double-press of the Digital Crown shows the previous 15 seconds of a conversation as a text snippet, so the user can catch something they may have missed or are less familiar with. Users can ask Siri about the content of the text or save it to the Siri app to revisit later.\n- Siri Recap, which can create high-level summaries of conversations that users can review later to jog their memory. When Siri Recap is turned on, after a conversation, Apple Intelligence automatically generates a title and key points in the new Siri app, allowing users to be more present and engaged in the moment.\nWhen it comes to the implications of an ambient, always-listening AI, Apple has released this Audio Intelligence\nPrivacy Overview (pdf) about how it plans to protect users’ privacy when their watch is listening around the clock. It goes into detail about Apple’s claims that users’ raw audio “is handled within dedicated hardware, is not saved as a file, and is not accessible to the operating system, apps, or Apple.” According to Apple, “If you use iCloud with two-factor authentication and have a device passcode, any Siri Recap summary or Live Rewind text snippet you choose to save syncs across your devices end-to-end encrypted in the Siri app.”\nMost Popular\n- Xbox’s former COO has ‘serious concerns’ about her abrupt departure\n- One of Google’s Android partners turned 1.3 million set-top boxes into a botnet\n- The 2026 iPad Mini is a terrific tiny tablet — for a big price\n- Bambu’s nine-nozzle H3C foretells the future of 3D printing\n- The Elder Scrolls VI officially has a name: Sentinel"
+    },
+    {
+     "source": "MacRumors",
+     "trust": 2,
+     "url": "https://macrumors.com/2026/11/03/watchos-27-3-audio-intelligence",
+     "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
+     "lang": "en",
+     "extra": {},
+     "id": "4edfea35bc401b08",
+     "published": "2026-11-03T18:35+00:00",
+     "text": "With the first beta of watchOS 27.3, Apple is introducing new Audio Intelligence features it previewed for the Apple Watch Series 12 and Ultra 4 earlier this year. Powered by the S11 chip, Audio Intelligence includes Live Rewind, Siri Recap, Sound Recognition, and Shazam Music Recognition.\nSound Recognition and Shazam are already on the watch, but Live Rewind and Siri Recap are now available in the beta. Live Rewind can show you a transcript of the last 15 seconds of a conversation. If you miss something like a waiter giving you the daily specials at a restaurant, you can press twice on the Digital Crown to see what was said without having to ask the person to repeat themselves.\nUnlike Live Rewind, Siri Recap works in the background. The Apple Watch listens to conversations throughout the day and generates a high-level summary that includes a title and key points. Apple says you can use Siri Recap to jog your memory later, allowing you to stay present in the moment. If Siri Recap is turned on, summaries are created automatically and auto-deleted after seven days unless they're saved. It does not include a full transcript of conversations.\nAudio Intelligence features are all opt-in. Apple says Live Rewind only activates when the Digital Crown is pressed. Transcription doesn't continue beyond the 15-second snippet, and text is not saved unless you ask Siri about it or save it to the Siri app.\nSiri Recap can be scheduled to run based on time, location, or both. You can set it to listen just while you're at work, or add a rule to keep it from activating at night. It can also be turned on and off manually through Control Center, and Siri Recap summaries can be viewed and deleted in the Siri app.\nApple has a long privacy explainer for Audio Intelligence. Audio recordings aren't created or stored, and no audio can be accessed by apps, the operating system, or Apple. Raw audio is never available because it goes into the Secure Exclave on the S11 chip. Apple describes the Secure Exclave as a hardware-isolated compartment that processes sensor data separately from the rest of the system.\nNo Audio Intelligence features identify or attribute speakers, so text won't say \"Eric said...\" or label speakers as \"Speaker A\" and \"Speaker B.\" Siri Recaps filter potentially harmful content and sensitive information.\nWhen using Live Rewind, there is an audible chime that plays from the Apple Watch speaker, even if it's in silent mode. A full-display animation plays on the watch when Live Rewind is used, and a microphone indicator alerts those nearby that it's been turned on.\nLive Rewind and Sound Recognition are processed on-device unless a Live Rewind snippet is sent to Siri for a request or saved. Siri Recap summaries are created through Private Cloud Compute.\nAlong with an Apple Watch Series 12 or Ultra 4, Siri Recap and Live Rewind require an iPhone 16 or later with Apple Intelligence and Siri AI. The new features are in English only to begin with, and they're not available to users under 13. Parental approval is required for Child Accounts under 18.\nWe're expecting watchOS 27.3 to launch in December alongside iOS 27.3.\nThis article, \"watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch\" first appeared on MacRumors.com\nDiscuss this article in our forums"
+    },
+    {
+     "source": "9to5Mac",
+     "trust": 2,
+     "url": "https://9to5mac.com/2026/11/03/watchos-27-3-beta-adds-new-siri-recap-and-live-rewind-features-for-apple-watch",
+     "title": "watchOS 27.3 beta adds new Siri Recap and Live Rewind features for Apple Watch",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-live-rewind-demo.jpg?quality=82&strip=all&resize=1200,628"
+     },
+     "id": "92ccfb4394cc60d7",
+     "published": "2026-11-03T18:56+00:00",
+     "text": "Apple has released the first beta of watchOS 27.3 for developers, including two new Audio Intelligence features for Apple Watch Series 12 and Apple Watch Ultra 4: Siri Recap and Live Rewind.\nApple first announced these features at its special event in September, saying they would “arrive in beta later this year.”\nSiri Recap and Live Rewind\nAs a refresher, Siri Recap creates high-level summaries of conversations that you can review later. When the feature is enabled, Apple Intelligence will automatically generate a title and key points that you can review in the Siri app on iPhone.\nApple says:\nSiri Recap ambiently takes notes on your conversations throughout your day and creates high-level Apple Intelligence–generated summaries that you can use later to jog your memory, so you can stay present in the moment. Your summaries auto-delete after 7 days if you choose not to save them.\nYou can turn on Siri Recap in the Watch app on iPhone. When you enable it, you can set a schedule based on time and/or location, or you can manually turn it on or off. You can also access it via Control Center on Apple Watch.\nLive Rewind, meanwhile, helps you recall what was just said in a conversation. You can activate Live Rewind by double-pressing the Digital Crown, and then see a transcript of the previous 15 seconds of a conversation.\nLive Rewind recalls what was just said in the last 15 seconds by showing a text snippet on your Apple Watch when you double-press the Digital Crown, so you can catch something you missed or are less familiar with. You can ask Siri about the content of the snippet or simply save it to the Siri app.\nApple emphasizes that these features are designed with privacy in mind. For example, Live Rewind plays an audible chime when you use it, even if your Apple Watch is on silent. Live Rewind and Siri Recap do not identify and attribute speakers.\nSiri Recap’s summary is described as a “brief, high-level summary of conversations,” not a transcript. Apple says it will “exclude sensitive information like financial information or government-assigned identifiers.”\nLive Rewind text snippets and Siri Recap summaries are end-to-end encrypted. Apple says the features “do not create or store audio recordings, and raw audio used for processing is completely inaccessible to the operating systems, apps, the user, or Apple.” The company uses the S11 chip’s Secure Exclave to power the features, a “dedicated hardware-isolated compartment that processes audio in complete isolation from the rest of the system, then immediately deletes it.”\nApple has published a detailed Privacy Overview covering the Audio Intelligence features on its website, as well as a support article:\nSiri Recap and Live Rewind are available in beta with watchOS 27.3, which is available now for developers.\nMy favorite Apple deals right now:\n- Pre-order the new Apple TV 4K and HomeView\n- AirPods Pro 3 $199 (Reg. $249)\n- M5 MacBook Air Up to $200 off\n- M6 Mac mini: up to $150 off\n- AirTag 2: from $17.50 each (Reg. $29)\n- AirPods Max 2 $449 (Reg. $549)\nFollow Chance: Threads, X, and Instagram\nComments"
+    },
+    {
+     "source": "The Hindu Sci-Tech",
+     "trust": 2,
+     "url": "https://thehindu.com/sci-tech/technology/apple-ios-273-everything-you-need-to-know-about-siri-ai-apple-watch-and-audio-intelligence/article71664852.ece",
+     "title": "Apple iOS 27.3: Everything you need to know about Siri AI, Apple Watch and Audio Intelligence",
+     "lang": "en",
+     "extra": {},
+     "id": "81156a98bbf06f67",
+     "published": "2026-11-04T09:33+00:00",
+     "text": "With this update, Siri AI is poised to do more complex tasks across a range of apps, including Calendar, Mail, Notes, and Photos"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUx0ZFRnUU9iUEYycDV4NC13X1RubTRjWnNJTkZEY2F4SVh6U1NKNDg4UmhVdThlUTlXZWp5LWFWN1BJTG92UzVYdTEwb0lvcEZkbWNiT2J5eGJRZ3FsM280Z2JnM3hpbkVEUWJJZWlJbW9pUC05dkgyWnNDNUt1MFBJa0JsaDk5?oc=5",
+     "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "578dc55f51f2a064",
+     "published": "2026-11-03T18:31+00:00",
+     "text": "- Apple’s latest watchOS beta includes its new always-on Audio Intelligence features The Verge\n- Apple Launches Beta Versions of Watch AI Listening Tools, New Health App Bloomberg.com\n- iOS 27.3 beta: Everything new in Apple's latest iOS beta release Mashable\n- Here’s what it’s like to use Audio Intelligence on the Apple Watch The Verge\n- These 10 New Features Are Coming to iOS 27.3 Lifehacker"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZXJ0OGRWODZ2Slhla0xDYlJVd1BmS1NUU002dm5CYTJUQkxrREhPZ1ZBZGIyTFZ2NFZSYy1VdGtyZTl6OTF5WnBoUEItSVNzdWhjWnoxT1N5LWVpX01KamNJSFRDWnpRRjJzcWhobG56VGJYX0E1Yg?oc=5",
+     "title": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "60839890f74aa138",
+     "published": "2026-11-03T18:35+00:00",
+     "text": "watchOS 27.3 Brings Live Rewind and Siri Recap to Apple Watch\nMacRumors\nSee more headlines & perspectives on Google News"
     }
    ]
   },
@@ -5903,6 +5741,50 @@
      "id": "f2bb3d9f149a15a6",
      "published": "2026-11-04T06:32+00:00",
      "text": "What you need to know\n- Democratic Party candidates secure control of the US Senate\n- Trump says Democrats 'did a good job' in midterm elections\n- James Talarico wins Democrats' first Senate seat in Texas in decades\n- Annie Andrews stuns Republicans in South Carolina\n- Democrats are also on course to win control of the House of Representatives\n- Democrats also notch wins in gubernatorial contests in Ohio and Georgia\nFollow the latest developments from the US midterm elections on November 3, 2026:\nDemocrats win control of House of Representatives\nDemocrats took control of the House of Representative in the midterm elections, according to projections from the Associated Press.\nLive election results\nWATCH — Voters react to Talarico victory in Texas\nDemocrat James Talarico has flipped a US Senate seat in the state of Texas.\nDW correspondent Misha Komadovsky asked participants of the Democrat watch party in Austin for their reactions.\nFact check: Did Paxton challenge his election loss to Talarico?\nClaim: \"I cannot accept that the result tonight was free or fair. It is simply not possible for somebody with the radical ideology of James Talarico to win an election in Texas fairly,\" reads an alleged statement from Texas Attorney General Ken Paxton shown on NBC News. The X post of the screengrab was viewed more than 600,000 times.\nPaxton, however, did not say this, and this is not an authentic screenshot of an NBC broadcast. In fact, the opposite is true.\nThe Republican Senate candidate conceded his race to Talarico.\n\"Let me start off by congratulating James Talarico. I will commit that I will be praying for him that he will do good for Texas and this nation,\" Paxton said to a party of campaign supporters.\nTalarico won in one of the night's biggest upsets, becoming the first Texan Democrat to win statewide office in three decades.\nCollins concedes defeat in Maine, AP calls race for Jackson\nSusan Collins, the longest-serving female Republican senator in US history, has conceded defeat to Democratic challenger Troy Jackson, local media reported.\nShortly after her concession, the Associated Press also called the race for Jackson.\nAfter two-thirds of the votes were counted, projections had shown Collins at 47.5% to Jackson's 52.4%.\nDespite vowing to only serve two terms when she was first elected, Collins has represented the northeastern state in the Senate since 1997.\nMaine is often called the \"whitest\" state due to its lack of diversity as well as having one of the highest rural populations per capita. Although it usually votes Democratic in other races, it has often sent Republican senators to Washington.\nDespite its relatively small population, Collins' reputation as a moderate Republican who sometimes voted alongside Democrats often gave her outsized power in Washington, where she was sometimes regarded as a swing voter on Senate legislation.\nTexas Democrat Talarico: 'Tonight we defeated Goliath'\nDemocrat James Talarico celebrated with supporters in Austin, saying that \"all the money in the world is no match for the people of Texas.\"\nHis remarks followed a Texas Senate race in which Elon Musk poured more than $160 million into supporting Republican Ken Paxton.\n\"We just sent a message to every billionaire mega-donor, every trillionaire mega-donor, every corrupt defender of this broken political system, in this state, in this country, power belongs to the people,\" Talarico said.\nHe said the message had been sent to “the richest man in the world, "
+    }
+   ]
+  },
+  {
+   "id": "c0465ae77ed",
+   "kind": "news",
+   "score": 17.0,
+   "sensitive": true,
+   "distinct_sites": 3,
+   "title_hint": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Decrypt",
+     "trust": 2,
+     "url": "https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023",
+     "title": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
+     "lang": "en",
+     "extra": {},
+     "id": "0465ae77ed7aac85",
+     "published": "2026-11-03T12:15+00:00",
+     "text": "LUNC holders are waiting for Binance’s November burn, but it hasn’t arrived as the exchange recovers from a record $6.3 billion hack."
+    },
+    {
+     "source": "Bloomberg Tech",
+     "trust": 2,
+     "url": "https://bloomberg.com/news/articles/2026-11-03/shopify-plunges-as-revenue-misses-for-first-time-since-2022",
+     "title": "Shopify Plunges as Revenue Misses for First Time Since 2022",
+     "lang": "en",
+     "extra": {},
+     "id": "3c89035a1745c943",
+     "published": "2026-11-03T12:47+00:00",
+     "text": "Shopify Inc. shares sank after its quarterly revenue missed analysts’ expectations for the first time in four years."
+    },
+    {
+     "source": "The Next Web",
+     "trust": 2,
+     "url": "https://thenextweb.com/news/shopify-earnings-q3-2026-revenue-miss-ai-sidekick-costs",
+     "title": "Shopify misses revenue estimates for the first time since 2022",
+     "lang": "en",
+     "extra": {},
+     "id": "68f74d546105817a",
+     "published": "2026-11-04T15:26+00:00",
+     "text": "Shopify’s revenue rose 32% to $3.74bn in the third quarter, the company said on Tuesday. Analysts had expected $3.75bn, making it Shopify’s first revenue miss since 2022, Ignacio Gonzalez reported for Bloomberg. Shares fell as much as 17% during trading, according to Bloomberg. They closed down 8.7%, CNBC reported. Where Shopify fell short Gross merchandise […]"
     }
    ]
   },
@@ -7322,6 +7204,144 @@
    ]
   },
   {
+   "id": "c5e175299d5",
+   "kind": "news",
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 5,
+   "title_hint": "An Alligator Swallowed an XBOX Series X – You Can Win It",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Xbox Wire",
+     "trust": 3,
+     "url": "https://news.xbox.com/en-us/2026/11/03/xbox-series-x-bite-console-sweepstakes",
+     "title": "An Alligator Swallowed an XBOX Series X – You Can Win It",
+     "lang": "en",
+     "extra": {},
+     "id": "5e175299d571b904",
+     "published": "2026-11-03T17:00+00:00",
+     "text": "This November, XBOX is heading to Florida – home to incredible wildlife, unforgettable places, and every now and then, stories you have to see to believe. That felt like the right inspiration for a custom XBOX Series X unlike anything we’ve made before: the XBOX Series X-BITE.\nThe idea is simple: an alligator swallowed an XBOX Series X whole. And yes, it still works.\nMeasuring more than five feet from snout to tail, the console sits inside a meticulously crafted alligator, visible through an illuminated XBOX Nexus in its body. A custom XBOX Wireless Controller with bite marks rests between its jaws, complete with XBOX-green irises and Nexus-inspired pupils, making the XBOX Series X-BITE ready to play some of the biggest games of the year. The result is part-XBOX Series X, part-creature fabrication.\nTurning the idea into something real required serious craft.\nCreature animatronics specialists John Nolan Studio brought the XBOX Series X-BITE to life through 3D modeling, sculpting and fabrication. The studio has created creatures and animatronics for ‘The Witcher,’ ‘Jurassic World Dominion,’ and HBO’s upcoming ‘Harry Potter’ series.\nEvery detail was considered, from the texture and finish of the alligator to the custom XBOX Wireless Controller and illuminated console within. At the center of it all is a functioning XBOX Series X.\nOnly one XBOX Series X-BITE exists. Starting today, one person will have the chance to own it.\nWant a bite at the prize? The score is simple, there are 3 ways to enter: X, Instagram or TikTok.\nKeep your account public so we can see your entry. That’s it. Choose your platform, make your move and you’re in for a chance to win.\nKeep your notifications on and your eyes open after entering. If you’re the potential winner, you’ll have 48 hours to make your move and claim the prize. Miss the window, and this gator makes a clean getaway.\nThe XBOX Series X-BITE Sweepstakes runs from 9:00 a.m. PT on November 3, 2026, through 11:59 p.m. PT on November 10, 2026.\nNO PURCHASE NECESSARY. Open only to legal residents of the 50 U.S. and D.C., 18+. Sweepstakes ends 11/10/26. For Official Rules, https://rules.XBOXpromotions.com/xbite.\nThe XBOX Series X-Bite is a custom fabrication. No actual alligators were used or harmed in the making of this console. Best as display only.\nThe post An Alligator Swallowed an XBOX Series X – You Can Win It appeared first on XBOX Wire."
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/xbox-made-an-alligator-shaped-series-x-and-you-can-win-it-before-gta-6-launches",
+     "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
+     "lang": "en",
+     "extra": {},
+     "id": "70aa11e8df8aeb10",
+     "published": "2026-11-03T19:20+00:00",
+     "text": "GTA 6 is mere weeks away from launch, and to celebrate, Xbox is bringing the wildlife of Leonida to players’ living rooms with a one-of-a-kind console.\nThe Xbox Series X-Bite, as it’s been affectionately dubbed by the company, is a 5-foot-long, alligator-shaped, fully functional Xbox Series X. It’s quite convincing, actually, and it even looks like a piece of genuine taxidermy. Thankfully, that’s not the case; this life-sized fake alligator was created in partnership with John Nolan Studio, which created special effects for Netflix’s The Witcher series, Jurassic World Dominion, and HBO’s upcoming Harry Potter show.\nTo turn on the console, simply push the Xbox button on the gator’s back; it’s got a controller placed carefully in its jaws, bearing tooth marks as proof of its ravenous appetite. Even the pupils in its eyes are shaped like an X, outlined in green in keeping with Xbox branding.\nThis strange blend of technology and artwork isn’t an avante-garde installation sitting in the Microsoft corporate offices; starting today, November 3, fans can enter a sweepstakes to win the quirky console for themselves. Here’s how to participate:\nThe sweepstakes lasts until 11:59pm PT on November 10, 2026. The lucky winner will have 48 hours to claim the console; if they fail to do so, the gator will “make a clean getaway.” Additionally, the sweepstakes is only open to legal residents of the 50 U.S. and D.C. who are 18 years of age or older.\nWhile Xbox didn’t directly mention GTA 6 in its posts about this unique contest, it’s hard not to see why it was made; the game takes place in a fictional version of Florida, which, as most folks will know, is home to all sorts of critters, including alligators. (It’s unclear if players will be able to wrassle gators bare-handed like they do in real-life Florida, but we figure the X-Bite is the next best thing.)\nGTA 6 launches on November 19 on PS5, PS5 Pro, and Xbox Series X|S. (Or the X-Bite.) Just this morning, its install size and global release times were revealed, with preload dates also confirmed for November 9 and 10.\nGiven that the file size is 212 GB, Rockstar has urged players to preload the game on their consoles as soon as they can. “Make sure you've got ample space to begin pre-loading as soon as possible,” Rockstar said on the game’s official website.\nFans are more keen than ever to get their hands on a copy of GTA 6, to the point where oodles of IGN’s readers are actually calling out of work to play it. A separate survey from Unwind Media even shared some concerning statistics that showed a baffling amount of players are so desperate to play the game early that they would even give up their pets if that meant they could experience it a week before launch."
+    },
+    {
+     "source": "Polygon",
+     "trust": 2,
+     "url": "https://polygon.com/xbox-alligator-console-giveaway-november-2026",
+     "title": "For GTA 6, Xbox Put an Xbox Series X in an Alligator",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/xbox_series_details_eye-ad394b64c37d3a09ed93.jpg?w=1600&h=900&fit=crop"
+     },
+     "id": "cbac94b283e284de",
+     "published": "2026-11-03T19:40+00:00",
+     "text": "Xbox has come up with a rather unusual way to celebrate Florida wildlife ahead of the upcoming Grand Theft Auto 6 launch, unveiling a custom Xbox Series X that looks like it has been swallowed whole by an alligator. Even stranger, the console inside actually works, and one lucky fan could soon have the bizarre gaming accessory sitting in their home.\nDubbed the Xbox Series X-BITE, the custom creation measures more than five feet from snout to tail. Its illuminated Xbox Nexus reveals a functioning Xbox Series X inside the alligator's body, while a specially designed Xbox Wireless Controller, complete with bite marks, sits between its jaws.\nThe creature also features Xbox-green eyes with Nexus-inspired pupils, making it look like it's ready to take a bite out of your gaming backlog.\nBringing the unusual creation to life was John Nolan Studio, a creature and animatronics specialist whose previous work includes The Witcher, Jurassic World Dominion, and HBO's upcoming Harry Potter series. The studio used 3D modeling, sculpting, and fabrication to build the oversized alligator.\nHow to win the Xbox Series X-BITE\nThere is only one Xbox Series X-BITE in existence, and Microsoft is giving fans a chance to win it through a new sweepstakes.\nRunning from November 3 through November 10, 2026, the giveaway is open to legal residents of the United States aged 18 and older. There are three ways to enter, through X, Instagram, or TikTok.\nTo enter, participants must follow @Xbox on their chosen platform, repost the designated sweepstakes post, and include #XbiteSweepstakes with their repost. Accounts must be public for entries to count.\nThe potential winner will have 48 hours to respond and claim the prize after being contacted. No purchase is necessary, and you can find the full official sweepstakes rules here. One important caveat: Microsoft describes the Xbox Series X-BITE as a custom fabrication and recommends it for display purposes only. No actual alligators were used or harmed in its creation."
+    },
+    {
+     "source": "Mashable",
+     "trust": 2,
+     "url": "https://mashable.com/tech/xbox-series-x-bite-how-to-win-limited-edition-console",
+     "title": "Xbox made a five-foot alligator that ate an Xbox Series X: How to win the Xbox Series X-BITE",
+     "lang": "en",
+     "extra": {},
+     "id": "50949485e868bdfe",
+     "published": "2026-11-04T15:28+00:00",
+     "text": "I've covered some seriously weird products over the years. Have I been somewhat numbed by Minion WiFi routers and Pikachu sneakers? Without a doubt, but it's honestly reassuring that I still possess the capacity to be shocked.\nI still take a moment to pause when I come across a fully functioning Xbox Series X console encased inside a five-foot alligator. That pause reminds me that I'm human.\nThe Xbox Series X-BITE is a 1-of-1 console that sits embedded directly in the reptile's torso, visible only through a glowing green Xbox Nexus logo cut into the scales on its flank. A matching bite-marked wireless controller rests between its jaws, and the gator is completed by Xbox-green irises and Nexus-inspired pupils.\nCan we all take a moment to appreciate how simultaneously absurd and epic that is? I want this console intensely. But also, I want to be very far away from it at all times.\nMicrosoft isn't actually selling this beast. Instead, they are giving away the console via a social media sweepstakes running through Nov. 10. To be in with a chance of winning, follow these steps:\nFollow @Xbox on your platform of choice.\nRepost the designated XBOX sweepstakes post.\nManually add #XbiteSweepstakes to your repost.\nEntries close at 11:59 p.m. PT on Nov. 10. If selected, the winner has exactly 48 hours to confirm delivery before a runner-up is drawn."
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamYxZ1BtVU9lWkljdWZuUVZ6bU5taF9nMW5SeE5FbTViWktNTHFJdUN2MTl2WEJ1WnZEdjMybm1HNlZtdHFVd2VsTjRMM2lvR0M3bEF5MGtFelU3ZDdEeWsweXNnQVliUUd5d1FpMDE2MGkxOHE0SUdMLWNYUnlQeWNJdWFsenlTa3ZVT3hEcmxxb3RVeUtaUlJlTC15ZXB5VW85cEVxeFF0Umlw?oc=5",
+     "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "aabfb1b5bbb48f5c",
+     "published": "2026-11-03T19:20+00:00",
+     "text": "- Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches IGN\n- An Alligator Swallowed an XBOX Series X – You Can Win It XBOX Wire\n- Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead Kotaku\n- Microsoft Is Giving Away The Most Insane Xbox Series X Ever Created Pure Xbox\n- This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6 GameSpot"
+    },
+    {
+     "source": "Google News Technology EN",
+     "trust": 1,
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcHR3ODZrRTk4NkNjcE1MYWI1a1p2clJhUnZFSWZPa2FqclQ4VjZheEhHUEdwMXZMVWxSWm1FZ1oxejFFUlFQNEgzVllSVmpuLTdycHBpUm1vZDJJeDBza25MYVNmSEZ2SGN5X0VrZEVwUWNNNWRZWVNuM2Mxa0htWVdCUUhMeTVFcTlnTkk3X0JCUEtRb1A0TzVraGZfNnNwbjFN?oc=5",
+     "title": "Xbox Debuts the Series X-BITE: A Working Console Swallowed by an Alligator",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "ae56a099d9a60d13",
+     "published": "2026-11-04T03:50+00:00",
+     "text": "- Xbox Debuts the Series X-BITE: A Working Console Swallowed by an Alligator Hypebeast\n- An Alligator Swallowed an XBOX Series X – You Can Win It XBOX Wire\n- Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead Kotaku\n- This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6 GameSpot\n- Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches IGN"
+    }
+   ]
+  },
+  {
+   "id": "c741334ab38",
+   "kind": "news",
+   "score": 16.5,
+   "sensitive": false,
+   "distinct_sites": 4,
+   "title_hint": "Democrat Mocks Former Bungie Composer Marty O'Donnell With Halo Monk Chant Tweet After U.S. Midterm Elections Victory",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Steam News",
+     "trust": 3,
+     "url": "https://store.steampowered.com/news/group/9869/view/705535999659213509",
+     "title": "Democrat Mocks Former Bungie Composer Marty O'Donnell With Halo Monk Chant Tweet After U.S. Midterm Elections Victory",
+     "lang": "en",
+     "extra": {},
+     "id": "5405436021b0f3c5",
+     "published": "2026-11-04T14:59+00:00",
+     "text": "Republican Marty O'Donnell has lost his bid for Nevada’s 3rd Congressional District at the U.S. midterm elections despite a last-minute endorsement from Donald Trump, putting his political future in doubt.\nO'Donnell is best-known to gamers as the composer of the original Halo games and Destiny at Bungie, but following his retirement from video games, he launched a career in politics and a bid for Congress. This year, O'Donnell launched a campaign to — with Trump’s support — unseat Nevada's 3rd Congressional District Democrat incumbent Susie Lee.\nUnfortunately for O'Donnell, he lost the vote 38.6% to Lee’s 59.1%. 146,863 voted for Lee, with 95,845 voting for O'Donnell. The result came hot on the heels of a tweet endorsement from Trump himself, viewed 1.8 million times, in which the President called O’Donnell an “America First Patriot.”\nHere’s Trump’s tweet in full:\n“Marty is running against Susie Lee, a true Radical Left Extremist who does not represent the Values of Southern Nevada. Susie Lee wants Open Borders, Men playing in Women’s Sports, Transgender for Everyone, Defund the Police, and she wants to take away your Second Amendment, meaning, your guns. She voted AGAINST the Biggest Tax Cut in History (including NO TAX ON TIPS!), and fought ferociously to knock out Rural Healthcare, a big factor in Nevada’s 3rd Congressional District.\n“In contrast, Marty O’Donnell is a World Class Composer and Entrepreneur who knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Promote NO TAX ON TIPS, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Champion our Nation’s Golden Age. As your next Congressman, Marty will fight tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, and Protect our always under siege Second Amendment.\n“Marty O'Donnell has my Complete and Total Endorsement to be the next Representative from Nevada’s 3rd Congressional District. GET OUT AND VOTE FOR MARTY — HE WILL NEVER LET YOU DOWN!”\nFollowing the win, Lee tagged O'Donnell in a tweet which declared: “Enjoy your retirement.” The tweet includes a video of Halo fans singing the iconic monk chant from the game, with O'Donnell’s tweet, “Well, I never wanted to be a politician and now I don’t have to be. Yay!” from 2024 overlaid. That 2024 tweet followed a similarly bruising political failure at the same Congressional seat, which touches parts of Las Vegas.\nEnjoy your retirement @MartyTheElder https://t.co/vH8KwKWrdl\n— Susie Lee (@SusieLeeNV) November 4, 2026\nO’Donnell, clearly upset by Lee’s tweet, responded: “Susie has a lot of class. And it’s all low.”\nWhat went wrong for O’Donnell this time? Apart from the midterm results being disastrous overall for the Republicans due to what is a clear rejection of Trump’s recent policies, Trump’s tariffs have hit O’Donnell's district hard, with Canadian tourism to Sin City down by 17%.\nCollaborating with Michael Salvatori, O'Donnell composed the score of numerous Bungie games, from 1997's Myth to the classic sounds of Halo: Combat Evolved, in a lengthy tenure that ended with his work for 2014's Destiny.\n2014 also saw O'Donnell fired from Bungie, resulting in a legal tussle over witheld pay. Bungie later initiated its own legal dispute with O'Donnell in 2021, after the composer uploaded unreleased Destiny music to YouTube.\nRecent years have seen O'Donnell demonstrate an increasing interest in politics, after a lengthy "
+    },
+    {
+     "source": "Eurogamer",
+     "trust": 2,
+     "url": "https://eurogamer.net/halo-destiny-composer-martin-o-donnell-projected-lose-us-congress-race",
+     "title": "Halo and Destiny composer Marty O'Donnell loses his race for a seat in the US House of Representatives",
+     "lang": "en",
+     "extra": {},
+     "id": "741334ab38b52c20",
+     "published": "2026-11-04T13:11+00:00",
+     "text": "Halo and Destiny composer Marty O'Donnell's political aspirations have hit a roadblock following last night's US mid-term elections. O'Donnell was campaigning for a seat in the US House of Representatives, running as a Republican candidate in Nevada's Third Congressional District, but is projected to lose."
+    },
+    {
+     "source": "IGN",
+     "trust": 2,
+     "url": "https://ign.com/articles/democrat-mocks-former-bungie-composer-marty-odonnell-with-halo-monk-chant-tweet-after-us-midterm-elections-victory",
+     "title": "Democrat Mocks Former Bungie Composer Marty O'Donnell With Halo Monk Chant Tweet After U.S. Midterm Elections Victory",
+     "lang": "en",
+     "extra": {},
+     "id": "d67f81022c6fbfee",
+     "published": "2026-11-04T14:46+00:00",
+     "text": "Republican Marty O'Donnell has lost his bid for Nevada’s 3rd Congressional District at the U.S. midterm elections despite a last-minute endorsement from Donald Trump, putting his political future in doubt.\nO'Donnell is best-known to gamers as the composer of the original Halo games and Destiny at Bungie, but following his retirement from video games, he launched a career in politics and a bid for Congress. This year, O'Donnell launched a campaign to — with Trump’s support — unseat Nevada's 3rd Congressional District Democrat incumbent Susie Lee.\nUnfortunately for O'Donnell, he lost the vote 38.6% to Lee’s 59.1%. 146,863 voted for Lee, with 95,845 voting for O'Donnell. The result came hot on the heels of a tweet endorsement from Trump himself, viewed 1.8 million times, in which the President called O’Donnell an “America First Patriot.”\nHere’s Trump’s tweet in full:\n“Marty is running against Susie Lee, a true Radical Left Extremist who does not represent the Values of Southern Nevada. Susie Lee wants Open Borders, Men playing in Women’s Sports, Transgender for Everyone, Defund the Police, and she wants to take away your Second Amendment, meaning, your guns. She voted AGAINST the Biggest Tax Cut in History (including NO TAX ON TIPS!), and fought ferociously to knock out Rural Healthcare, a big factor in Nevada’s 3rd Congressional District.\n“In contrast, Marty O’Donnell is a World Class Composer and Entrepreneur who knows the America First Policies required to Create GREAT Jobs, Cut Taxes and Regulations, Promote NO TAX ON TIPS, Advance MADE IN THE U.S.A., Unleash American Energy DOMINANCE, and Champion our Nation’s Golden Age. As your next Congressman, Marty will fight tirelessly to Keep our Border SECURE, Stop Migrant Crime, Ensure LAW AND ORDER, Strengthen our Brave Military/Veterans, and Protect our always under siege Second Amendment.\n“Marty O'Donnell has my Complete and Total Endorsement to be the next Representative from Nevada’s 3rd Congressional District. GET OUT AND VOTE FOR MARTY — HE WILL NEVER LET YOU DOWN!”\nFollowing the win, Lee tagged O'Donnell in a tweet which declared: “Enjoy your retirement.” The tweet includes a video of Halo fans singing the iconic monk chant from the game, with O'Donnell’s tweet, “Well, I never wanted to be a politician and now I don’t have to be. Yay!” from 2024 overlaid. That 2024 tweet followed a similarly bruising political failure at the same Congressional seat, which touches parts of Las Vegas.\nEnjoy your retirement @MartyTheElder https://t.co/vH8KwKWrdl\n— Susie Lee (@SusieLeeNV) November 4, 2026\nO’Donnell, clearly upset by Lee’s tweet, responded: “Susie has a lot of class. And it’s all low.”\nWhat went wrong for O’Donnell this time? Apart from the midterm results being disastrous overall for the Republicans due to what is a clear rejection of Trump’s recent policies, Trump’s tariffs have hit O’Donnell's district hard, with Canadian tourism to Sin City down by 17%.\nCollaborating with Michael Salvatori, O'Donnell composed the score of numerous Bungie games, from 1997's Myth to the classic sounds of Halo: Combat Evolved, in a lengthy tenure that ended with his work for 2014's Destiny.\n2014 also saw O'Donnell fired from Bungie, resulting in a legal tussle over witheld pay. Bungie later initiated its own legal dispute with O'Donnell in 2021, after the composer uploaded unreleased Destiny music to YouTube.\nRecent years have seen O'Donnell demonstrate an increasing interest in politics, after a lengthy "
+    },
+    {
+     "source": "GameSpot",
+     "trust": 2,
+     "url": "https://gamespot.com/articles/former-halo-composer-marty-odonnell-loses-congressional-race-in-nevada",
+     "title": "Former Halo Composer Marty O’Donnell Loses Congressional Race In Nevada",
+     "lang": "en",
+     "extra": {},
+     "id": "8d731fb47b2acd4b",
+     "published": "2026-11-04T15:18+00:00",
+     "text": "One of the minds behind the legendary music of Halo fell short in his mission to pivot to politics. Marty O'Donnell, formerly a composer and audio director for Bungie, lost his bid to join the U.S. House of Representatives by a wide margin.\nWith 86% of votes counted, AP News called the race in Nevada's 3rd congressional district for incumbent Representative Susie Lee, a Democrat. O'Donnell ran as a Republican and had the endorsement of President Donald Trump. The current count has O'Donnell with 38.6% of the vote, trailing Lee's 59.1%. Nevada's 3rd district includes much of Clark County and part of Las Vegas.\nLee, who has held her seat since 2019, has been a target of Republicans in previous election cycles. As it became clear early Wednesday morning that Lee was favored to win re-election, her social media account posted the famous \"Halo theme song performed by 80 guys in 1 bathroom\" video to mock O'Donnell. O'Donnell responded by saying in a post: \"Susie has a lot of class. And it’s all low.\"\nO'Donnell heavily leaned on his video game industry background, hosting a campaign event that doubled as a celebration of early Halo games. At the event, O'Donnell declared that \"gamers are not woke\" and insisted that games, movies, and comics were \"co-opted by left-wing politics.\"\nAs Lee's social media video hints at, this wasn't O'Donnell's first attempt at entering national politics. O'Donnell ran for the same congressional seat in 2024, placing fourth in the Republican primary. He won the Republican nomination in 2026 with the backing of Trump.\nO'Donnell began his career in video game music composition as a freelancer, producing the music for Bungie's Myth and Myth 2. He joined Bungie as a full-time employee starting with 2001's Oni and went on to compose music for all of Bungie's Halo titles and the first Destiny game. O'Donnell was fired from Bungie in 2014; the composer claimed that he was terminated \"without cause\" and pursued legal action against the company afterward. According to his campaign website, O'Donnell is now retired from the game industry."
+    }
+   ]
+  },
+  {
    "id": "c64c22d6e85",
    "kind": "news",
    "score": 16.5,
@@ -7394,111 +7414,6 @@
    ]
   },
   {
-   "id": "c81eb77289c",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": true,
-   "distinct_sites": 7,
-   "title_hint": "Child dies of measles in New York's first such death in 30 years",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/news/new-york-child-kathy-hochul-syracuse-washington-b3077987.html",
-     "title": "Child dies of measles in New York's first such death in 30 years",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://static.independent.co.uk/2026/10/30/10/Measles-Amish_Country_6_436.jpg?width=1200&height=800&crop=1200:800"
-     },
-     "id": "81eb77289c4cec39",
-     "published": "2026-11-03T03:32+00:00",
-     "text": "Become an Independent member to bookmark this article\nWant to bookmark your favourite articles and stories to read or reference later? Start your Independent Membership today.\nJoin todayAlready a member? Log in\nA child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years, state officials announced Monday.\nThe child died in Lewis County, about 93 miles (150 kilometers) north of Syracuse, Gov. Kathy Hochul said.\nThe U.S. stopped the domestic spread of measles in 2000 by maintaining high vaccination rates, but they have fallen in recent years to below the 95% coverage needed to prevent outbreaks of the viral disease.\nHochul, a Democrat, said the child’s death is “a devastating reminder of what’s at stake when Washington deliberately erodes decades of progress in protecting Americans from preventable illnesses.”\nThe Centers for Disease Control and Prevention has confirmed three measles-associated deaths in the U.S. this year, but state health departments have reported higher numbers. Pennsylvania health officials have reported five deaths this year and are investigating a possible sixth.\nHochul declared a disaster emergency in early October because of measles cases in neighboring states and in rural areas of New York. The executive order extended the pool of people who can administer measles vaccines to include paramedics, midwives and others, and it allowed nurses to join doctors in ordering testing.\nBookmark popover\nRemoved from bookmarks"
-    },
-    {
-     "source": "Washington Post Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV291NXFQWFlHbGxhVk94Y0ZSaVQtcl9FUW5hVEFPOFprOTVLS3VJTTNEYk1fVUU5eGc0RHlUTG41Z2lMTTBzbVNwNk1zMmpZeGxmZl9lSTZDd09kR1FzNEdlQ24xM0xsQnNPb09VbjFtMlVmdWZ4U2VlRExWbTkxRnF6dU9OUldvYUJvLWhOU2RKS3NHdFg4SHJNNDYwTmx6c1lPajVGY0F6VU1ZbnNKTUgxdnl5VWhELURNVw?oc=5",
-     "title": "New York reports its first measles-associated death in more than 30 years",
-     "lang": "en",
-     "extra": {},
-     "id": "6cc01402fee39955",
-     "published": "2026-11-03T04:45+00:00",
-     "text": "New York reports its first measles-associated death in more than 30 years\nThe Washington Post"
-    },
-    {
-     "source": "Newsweek",
-     "trust": 2,
-     "url": "https://newsweek.com/new-york-hit-by-first-measles-death-in-30-years-as-child-dies-12653368",
-     "title": "New York Hit by First Measles Death in 30 Years as Virus Takes Child",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-2201750376.jpg?w=1200&crop=1"
-     },
-     "id": "65c54611696d45b3",
-     "published": "2026-11-03T04:51+00:00",
-     "text": "A child in New York has died after contracting measles, marking the state's first measles-associated death in more than 30 years, health officials announced Monday.\nThe news comes as New York remains under a state disaster emergency declared by Governor Kathy Hochul in October in response to rising measles cases in rural communities across New York and neighboring states.\n\"I'm heartbroken to learn that a child in Lewis County has died from measles,\" Hochul wrote on X Monday. \"My heart goes out to their family and everyone who knew and loved them.\"\nRead More on News\nThe Lewis County Public Health Department reported 15 confirmed measles cases in the county as of October 14, including two new cases. All 15 involved unvaccinated individuals, the county notes. It is immediately unclear at the time of publication if the child who died was vaccinated.\nNewsweek reached out to the Lewis County Public Health Department for additional information.\nAs of October 24, New York had reported 178 measles cases this year, according to the state health department. Of those, 170 were reported outside New York City.\nThe state health department said it is working with county health departments and local partners to provide measles, mumps and rubella (MMR) vaccinations to unvaccinated people who request them. Officials are also monitoring reported cases and conducting investigations, including contact tracing, to help prevent further transmission.\nPublic health experts have warned that measles can spread rapidly in communities with low vaccination rates.\n“We have now pockets of unvaccinated children all over the country,” Dr. William Schaffner, professor of preventive medicine at Vanderbilt University Medical Center, previously told Newsweek. “Should the virus find its way into one of those communities, it would rapidly spread to those susceptible children.”\nIn a joint statement, the New York State Department of Health and Lewis County Public Health expressed condolences to the child's family and urged residents to ensure their measles vaccinations are current.\n\"Measles is a highly contagious disease that can cause serious complications and death. Vaccination is the best protection against measles,\" the statement said.\nWhat Are the Symptoms of Measles?\nMeasles is a highly contagious respiratory disease caused by a virus that spreads through the air when an infected person coughs or sneezes. People can become infected by breathing in the virus or, less commonly, by touching a contaminated surface and then touching their eyes, nose or mouth.\nAccording to the New York State Department of Health, symptoms typically develop seven to 14 days after infection, although the incubation period can last up to 21 days.\nEarly symptoms include:\n- High fever\n- Cough\n- Runny nose\n- Red, watery eyes\nA rash can develop three to five days after the initial symptoms appear. It usually begins as flat red spots on the face near the hairline before spreading down the neck and across the body, including the arms, legs and feet. Small, raised bumps may also appear, and the spots can merge as the rash spreads.\nWhen the rash appears, a person's fever can rise to more than 104 degrees Fahrenheit, according to the health department.\nMeasles can cause serious complications, including pneumonia, brain swelling, hospitalization and death. The infection can also weaken the immune system's ability to fight other illnesses.\nPeople with measles can spread the virus to others beginning four days"
-    },
-    {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/news/international/child-dies-of-measles-in-new-yorks-first-such-death-in-30-years/article71659832.ece",
-     "title": "Child dies of measles in New York's first such death in 30 years",
-     "lang": "en",
-     "extra": {},
-     "id": "a50419f57e71a399",
-     "published": "2026-11-03T07:24+00:00",
-     "text": "The U.S. stopped the domestic spread of measles in 2000 by maintaining high vaccination rates, but they have fallen in recent years to below the 95% coverage needed to prevent outbreaks of the viral disease"
-    },
-    {
-     "source": "Euronews",
-     "trust": 2,
-     "url": "https://euronews.com/2026/11/03/child-dies-in-new-yorks-first-measles-linked-death-in-over-30-years",
-     "title": "Child dies in New York’s first measles-linked death in over 30 years",
-     "lang": "en",
-     "extra": {},
-     "id": "4ad5aed6bc115088",
-     "published": "2026-11-03T09:18+00:00",
-     "text": "A child has died from a measles-associated illness in rural northern New York, marking the state’s first known measles-related death in more than three decades, health authorities have confirmed."
-    },
-    {
-     "source": "MedicalXpress",
-     "trust": 2,
-     "url": "https://medicalxpress.com/news/2026-11-child-dies-measles-york-death.html",
-     "title": "Child dies of measles in New York's first such death in 30 years",
-     "lang": "en",
-     "extra": {},
-     "id": "a155a562779565d9",
-     "published": "2026-11-03T09:50+00:00",
-     "text": "A child in rural northern New York has died after contracting measles, marking the state's first death from the disease in 30 years, state officials announced Monday."
-    },
-    {
-     "source": "CBS News",
-     "trust": 2,
-     "url": "https://cbsnews.com/video/child-dies-of-measles-in-new-york-for-first-time-in-30-years",
-     "title": "Child dies of measles in New York for first time in 30 years",
-     "lang": "en",
-     "extra": {},
-     "id": "cdb054f1c649a18b",
-     "published": "2026-11-03T15:27+00:00",
-     "text": "For the first time in 30 years, a child in New York died of measles, which comes amid outbreaks in 45 states and Washington, D.C., according to the Centers for Disease Control and Prevention. Dr. Céline Gounder joins with more."
-    },
-    {
-     "source": "Google News Health EN",
-     "trust": 1,
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUktvLXA4bEZ0cTlYdlM3VGQ1SWtLSnhNaVcwX2tXMkU0OS1hM1pobjh0TVJBQkRZUTBSXzNsUklmWGIyRENicFVseTdpNmpEcS1EdDlRYng0RzZMejJVXzJMOEJOSkpLRkpySFZKM1JPRU1sUFNOVlVLLVFtclpkUkgyQUF6Zzh5eG1qRzViSWRJMFFzdFc2ZGZ3?oc=5",
-     "title": "New York child dies from measles in state’s first fatal case in 30 years",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "54db228914b7b809",
-     "published": "2026-11-03T05:48+00:00",
-     "text": "- New York child dies from measles in state’s first fatal case in 30 years The Guardian\n- Child Dies From Measles in New York State’s First Fatal Case in 30 Years The New York Times\n- New York reports first measles death in more than 30 years NBC News\n- Child in New York dies after contracting measles, the state’s first such death in 30 years CNN\n- New York state reports first measles-linked child death in over 30 years amid outbreak Reuters"
-    }
-   ]
-  },
-  {
    "id": "c04f9915ec1",
    "kind": "news",
    "score": 16.0,
@@ -7521,17 +7436,6 @@
      "text": "The United States conducted defensive strikes on Iranian targets in the Strait of Hormuz on Monday, a US official said, as diplomatic efforts continued to avert another major escalation between Washington and Tehran.\nThe official, who was not authorized to comment publicly and spoke on condition of anonymity, said Iranian forces using surface-to-air missiles against US assets were targeted.\nIranian state television reported explosions on Qeshm Island.\nThe strikes appeared limited rather than a full return to hostilities and came on the eve of US midterm elections. President Donald Trump had previously said the United States would not launch strikes on Iran before the elections.\nVice President JD Vance told reporters earlier Monday that he had spoken with Trump about negotiations with Iran and that \"the president and I both feel pretty good about the prospects for potentially coming to a negotiated settlement.\"\nIran said Monday it had a two-day plan to reopen the Strait of Hormuz and resume nuclear talks with the United States if Washington meets its demands.\nIran previously said the plan could be implemented within a week if the US met seven conditions, including lifting its blockade on Iranian ports. Iran now says ships passing through the reopened strait would have to follow a route agreed upon by Iran and Oman.\nIranian officials have also said the United States must lift sanctions on Iranian oil sales and agree to a ceasefire that would include Lebanon.\nForeign Ministry spokesperson Esmail Baghaei said the proposal remained the basis for negotiations with Washington through mediators despite the shorter implementation timeline.\n\"This once again demonstrates Iran's good-faith approach,\" he said.\nAt the same time, Israeli Prime Minister Benjamin Netanyahu is urging the Trump administration to carry out another wave of strikes on Iran after Tuesday's US midterm elections, according to two regional officials and a third person familiar with the matter.\nThe regional officials said mediators are trying to advance a framework under which Iran would halt its attacks in the Strait of Hormuz in return for the United States lifting its blockade on Iranian ports.\nMore talks are planned this week, they said. The officials spoke on condition of anonymity because they were discussing classified briefings from American and Israeli officials.\nNetanyahu pressed for strikes during a weekend call with Trump, who would not commit to military action, according to a person briefed on the conversation.\nOther US allies in the Middle East are warning against further strikes, saying they would destabilize the region, a regional official said.\nThe Israeli government did not immediately comment. The White House did not directly respond to questions about the weekend discussion.\nA vessel transiting the Strait of Hormuz was struck by an \"unknown projectile\" that left a hole in the vessel, the United Kingdom Maritime Trade Operations center said Monday. All crew members were reported safe.\nIran has claimed attacks on vessels it says took unauthorized routes, while other vessels have reportedly struck mines laid by the Islamic Republic in the early days of the war. The US military denies the naval mine claims, saying all internationally recognized routes have been cleared by US forces.\nElsewhere in the region, Yemen's Iran-backed Houthi rebels accused Saudi Arabia of striking a port along Yemen's Red Sea coast and setting fire to ships.\nThe Houthi-run Health Ministr"
     },
     {
-     "source": "The Independent",
-     "trust": 2,
-     "url": "https://independent.co.uk/news/world/middle-east/us-strikes-iran-qeshm-island-trump-strait-hormuz-b3078007.html",
-     "title": "Explosions heard on Qeshm Island as US conducts ‘defensive strikes’ against Iran in Strait of Hormuz",
-     "lang": "en",
-     "extra": {},
-     "id": "c001a81c02bd56b1",
-     "published": "2026-11-03T06:21+00:00",
-     "text": "Donald Trump had said the US would not resume strikes on Iran before the midterms"
-    },
-    {
      "source": "Asharq Al-Awsat",
      "trust": 2,
      "url": "https://english.aawsat.com/node/5336925",
@@ -7543,17 +7447,15 @@
      "text": ""
     },
     {
-     "source": "Al Jazeera",
+     "source": "The Independent",
      "trust": 2,
-     "url": "https://aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss",
-     "title": "US conducts series of ‘defensive strikes’ against Iran",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnpobDlOMzFRcWZGSHZQdHFGc1I2MVlKZGtrb1pfYmNTWGpObmVTTDU3SWZzM1cwRGxMQ1ZjT3ExLXRpZDB5cWdINjVKM1cwQ19QTC1KNzZMb1RFMGp0ZTVLMUF1dWp6TmxBUm5pdTU0WVhUVTJIYVFVSk8xNkhDcmFYZDVGenRFMndGdGkyd1Z1Rk1ZZk9tUm5vbmVvVjkyQVh4cXdDRVZPS1R1Tkt2anNiSmNHUQ?oc=5",
+     "title": "Trump breaks promise not to bomb Iran before midterms with Strait of Hormuz strikes",
      "lang": "en",
-     "extra": {
-      "page_image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1793702354.jpg?resize=1920%2C1080&quality=80"
-     },
-     "id": "01ef5567f5f09684",
-     "published": "2026-11-03T10:39+00:00",
-     "text": "US conducts series of ‘defensive strikes’ against Iran\nThe US has carried out a series of ‘defensive strikes’ on Iranian locations near Hormuz, with explosions heard on Qeshm Island. The strikes come despite US Vice President JD Vance describing progress in talks with Iran."
+     "extra": {},
+     "id": "24dd48759d11758a",
+     "published": "2026-11-03T08:20+00:00",
+     "text": "Trump breaks promise not to bomb Iran before midterms with Strait of Hormuz strikes\nThe Independent"
     },
     {
      "source": "France 24 EN",
@@ -7576,6 +7478,30 @@
      "id": "5ff1682c3ea8bdef",
      "published": "2026-11-03T14:16+00:00",
      "text": "The U.S. military conducted limited strikes on Iranian targets in the Strait of Hormuz on Monday, officials said. Charlie D'Agata reports."
+    },
+    {
+     "source": "PBS NewsHour",
+     "trust": 2,
+     "url": "https://pbs.org/newshour/world/u-s-launches-new-attacks-on-iranian-targets-days-after-netanyahu-pressed-trump-for-more-strikes",
+     "title": "U.S. launches new attacks on Iranian targets days after Netanyahu pressed Trump for more strikes",
+     "lang": "en",
+     "extra": {},
+     "id": "ff4f29d1bfd6e051",
+     "published": "2026-11-03T15:07+00:00",
+     "text": "Israeli Prime Minister Benjamin Netanyahu has pushed for another wave of strikes on Iran after the U.S. elections, according to two regional officials and a third person familiar with the matter."
+    },
+    {
+     "source": "CBS News",
+     "trust": 2,
+     "url": "https://cbsnews.com/video/trump-launches-iran-strikes-hours-before-midterms-despite-saying-he-wouldnt",
+     "title": "Trump launches Iran strikes hours before midterms despite saying he wouldn't",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/04/3b015467-70da-4ccf-82af-98e92650aa48/thumbnail/1200x630/a849b735a5b67e9ed2fa77e93502329a/gettyimages-2303180094.jpg"
+     },
+     "id": "f0c5a9110c93adb2",
+     "published": "2026-11-04T01:23+00:00",
+     "text": "President Trump launched what officials called \"defensive\" strikes against Iran hours before midterm voting opened on Tuesday. Charlie D'Agata reports."
     }
    ]
   },
@@ -7681,6 +7607,100 @@
      "id": "c337ff84a8302a77",
      "published": "2026-11-03T13:58+00:00",
      "text": "- Death toll hits 31 after Russian strike on Ukrainian aid site, with dozens still missing NBC News\n- At least 33 dead after Russia drops nine bombs on a Ukrainian school building CNN\n- Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest The New York Times\n- Ukraine's rescuers deal with grim aftermath of aid shelter bombings as Moscow pounds energy targets AP News\n- Russian bombing kills 33 in village in southeastern Ukraine, Zelenskiy says Reuters"
+    }
+   ]
+  },
+  {
+   "id": "c69152cad0d",
+   "kind": "news",
+   "score": 16.0,
+   "sensitive": false,
+   "distinct_sites": 7,
+   "title_hint": "Gold eases ahead of US midterm elections",
+   "official_image": null,
+   "sources": [
+    {
+     "source": "Reuters Tech",
+     "trust": 2,
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE01SnNzQnotYkNRamJYejZ1LXh6N0Z0ck5Uc2xfbWFZVmg0MTZSdEhIT2RUNE85bjJUallIcEZIb3l4QVpPeVhoeDVLVjBrNWhWaGxzcy1vdmJVSHI4b0xKRzlvRzdhWWVRZlJBM055cnZQWjUyZnZBRlBrN1ZieFVJV3pOYjktNHNnelBR?oc=5",
+     "title": "Gold eases ahead of US midterm elections",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+     },
+     "id": "69152cad0db7bc98",
+     "published": "2026-11-03T04:16+00:00",
+     "text": "Gold eases ahead of US midterm elections\nReuters"
+    },
+    {
+     "source": "Euronews",
+     "trust": 2,
+     "url": "https://euronews.com/2026/11/03/us-strikes-irans-qeshm-island-ahead-of-midterm-elections",
+     "title": "US strikes Iran's Qeshm Island ahead of midterm elections",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://images.euronews.com/articles/stories/09/97/71/65/1200x675_cmsv2_4303a629-55d4-5155-a379-6c99bdb4aac0-9977165.jpg"
+     },
+     "id": "da15c0e9a44a05b6",
+     "published": "2026-11-03T04:27+00:00",
+     "text": "The strikes on Iran come on the eve of US midterm elections, and just hours after Trump signalled progress in negotiations with Tehran.\nThe United States has carried out strikes against Iranian targets in the Strait of Hormuz, a US official said on Monday.\nThe official, who spoke on condition of anonymity, described the operation as defensive strikes targeting \"Iranians using surface-to-air missiles against US asset\".\nMeanwhile, Iranian media reported five explosions on Qeshm Island in the Strait of Hormuz.\nJust hours before, US President Donald Trump signalled progress in negotiations with Tehran.\n\"Iran wants a settlement, as soon as possible. It could happen!,\" Trump wrote on his social media platform Truth Social.\nVice President JD Vance told reporters that both he and Trump felt optimistic about \"the prospects for potentially coming to a negotiated settlement\".\nIranian Foreign Minister Abbas Araghchi said on Monday that indirect talks with the United States were taking place via mediators.\n\"Given the sensitivity and gravity of the current situation, consultations and deliberations are very intensive,\" Araghchi told state media.\n\"Qatar and Pakistan are playing a very active mediating role in these negotiations.\"\nThe strikes come on the eve of midterm elections, in which the Republican party is pushing to retain control of Congress.\nHowever, Washington's war in Iran has been a growing point of political contention and a contributing factor to Trump's declining approval ratings, as American's increasingly disapprove of the conflict, particularly over its economic consquences.\nShipping through the Strait of Hormuz, the narrow waterway between Iran and Oman that normally carries around a fifth of the world's oil, has been heavily disrupted since the war began in late February."
+    },
+    {
+     "source": "SCMP China",
+     "trust": 2,
+     "url": "https://scmp.com/news/china/diplomacy/article/3373075/us-strikes-irans-qeshm-island-ahead-midterms-trump-says-deal-could-happen",
+     "title": "US strikes Iran’s Qeshm Island ahead of midterms as Trump says deal ‘could happen’",
+     "lang": "en",
+     "extra": {
+      "page_image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/03/1b73dcee-971c-406e-8b32-e509821b5ea6_986361d0.jpg?itok=9dfrlQBa&v=1793679288"
+     },
+     "id": "77b17067a5a425c7",
+     "published": "2026-11-03T04:39+00:00",
+     "text": "US strikes Iran’s Qeshm Island ahead of midterms as Trump says deal ‘could happen’\nUS officials say covert strikes were aimed at deterring Tehran’s attacks on commercial ships in the Strait of Hormuz, according to report\nIran’s Qeshm Island was struck on Monday, The Wall Street Journal reported, citing US officials, some of whom framed the strikes as defensive and aimed at deterring Tehran’s attacks on commercial ships in the critical chokepoint.\nIranian media reported that five blasts were heard in rapid succession across the island and two aircraft had been spotted."
+    },
+    {
+     "source": "Africanews",
+     "trust": 2,
+     "url": "https://africanews.com/2026/11/03/us-strikes-irans-qeshm-island-on-eve-of-midterm-elections",
+     "title": "US strikes Iran's Qeshm island on eve of midterm elections",
+     "lang": "en",
+     "extra": {},
+     "id": "f5629b050abf12bb",
+     "published": "2026-11-03T07:06+00:00",
+     "text": "The United States on Monday launched strikes on Iran's Queshm Island, on the eve of crucial midterm elections, the Wall Street Journal reported."
+    },
+    {
+     "source": "Straits Times",
+     "trust": 2,
+     "url": "https://straitstimes.com/world/middle-east/us-strikes-key-iranian-island-as-trump-talks-up-prospects-of-peace-deal",
+     "title": "US strikes key Iranian island as Trump talks up prospects of peace deal",
+     "lang": "en",
+     "extra": {},
+     "id": "a90c094c7ba9477c",
+     "published": "2026-11-03T08:47+00:00",
+     "text": "Both sides appear keen to move peace talks forward in hopes of bringing the war to an end."
+    },
+    {
+     "source": "Asharq Al-Awsat",
+     "trust": 2,
+     "url": "https://english.aawsat.com/node/5336964",
+     "title": "Oil Rises as Peace Prospects Dim after US Hits Iran's Qeshm Island",
+     "lang": "en",
+     "extra": {},
+     "id": "5fef70d9b70984c8",
+     "published": "2026-11-03T08:52+00:00",
+     "text": ""
+    },
+    {
+     "source": "France 24 EN",
+     "trust": 2,
+     "url": "https://france24.com/en/us-strikes-iran-s-qeshm-island-as-midterm-elections-start",
+     "title": "US strikes Iran's Qeshm Island as midterm elections start",
+     "lang": "en",
+     "extra": {},
+     "id": "c71724f2ac9b1f1f",
+     "published": "2026-11-03T12:12+00:00",
+     "text": "The United States has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, a US official said Monday, on the eve of crucial midterm elections. The unpopular Iran war and the resulting impact on U.S. gasoline prices and other parts of the economy have been a vulnerability for Republicans as they try to keep control of Congress. FRANCE 24's International Affairs Editor Oliver Farry has more."
     }
    ]
   },
@@ -8168,135 +8188,6 @@
    ]
   },
   {
-   "id": "cb3ba9e8285",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "Lamine Yamal starts for Barcelona vs Aston Villa LIVE!",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Sky Sports Football",
-     "trust": 2,
-     "url": "https://skysports.com/football/barcelona-vs-aston-villa/live/577652",
-     "title": "Lamine Yamal starts for Barcelona vs Aston Villa LIVE!",
-     "lang": "en",
-     "extra": {},
-     "id": "b3ba9e8285bfc9fd",
-     "published": "2026-11-03T18:30+00:00",
-     "text": ""
-    },
-    {
-     "source": "The Athletic Football",
-     "trust": 2,
-     "url": "https://nytimes.com/athletic/7741816/2026/11/03/barcelona-3-aston-villa-0-briefing",
-     "title": "Barcelona 3 Aston Villa 0 - Ruthless hosts pour it on at rainswept Camp Nou",
-     "lang": "en",
-     "extra": {},
-     "id": "234790f2210e58f0",
-     "published": "2026-11-03T21:58+00:00",
-     "text": "Raphinha scores twice in comfortable home win for the Spanish champions"
-    },
-    {
-     "source": "Gulf News Tech",
-     "trust": 2,
-     "url": "https://gulfnews.com/sport/football/raphinha-double-yamal-record-end-aston-villas-perfect-start-as-barcelona-win-3-0-1.500735002",
-     "title": "Raphinha double, Yamal record end Aston Villa’s perfect start as Barcelona win 3-0",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://media.assettype.com/gulfnews%2F2026-11-03%2F3g95xr55%2Fnewsml_afp_com_20261103T213508Z_doc_d6c37bj.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
-     },
-     "id": "4e5050487efeaabb",
-     "published": "2026-11-03T23:38+00:00",
-     "text": "Raphinha shines as Barcelona end Aston Villa's unbeaten Champions League run\nBarcelona ended Aston Villa’s perfect start to the Champions League with a dominant 3-0 win at a rain-soaked Camp Nou. Lamine Yamal scored early and Raphinha added a second-half double, giving Hansi Flick’s side nine points.\nBarcelona needed only seven minutes to break through when Yamal pounced on a misplaced Emiliano Buendía pass and curled a finish into the far corner.\nIt was his 14th Champions League goal, making him the highest-scoring teenager in the competition’s history. Villa threatened on the counter, but it stayed 1-0 at the break.\nRaphinha made it 2-0 in the 52nd minute with a deflected effort, then added a third just after the hour mark.\nJoão Cancelo skipped past John McGinn and delivered a perfectly weighted pass for the close-range finish. The brace took Raphinha level with Ronaldinho on 94 goals for Barcelona. Fermín López was denied by a superb save from Zion Suzuki.\nThe numbers show the gap.\nBarcelona had 63% possession and 15 shots, seven on target, while Villa managed eight shots with only one on target. Villa collected three yellow cards in the first half, all before the 44th minute.\nThe result lifts Barcelona to second in the standings, with Villa dropping to third after their first defeat of the league phase.\nLamine Yamal, 7' (1-0)\nRaphinha, 52' (2-0)\nRaphinha, 64' (3-0)\n7': Yamal punishes Buendía’s error.\n11', 31', 44': Villa book three yellow cards.\n52': Raphinha’s deflected goal.\n64': Cancelo’s skill sets up Raphinha’s tap-in.\nThe win ends a run of two defeats for Barcelona, restores momentum in the race for a top-eight finish and automatic last-16 place, and hands Unai Emery’s Villa their first league-phase loss.\nWhat’s next\nBarcelona travel to Sabah in Azerbaijan on Nov. 25, then host Manchester City on Dec. 8.\nStandings come from match reports and may differ slightly from the official UEFA table. Barcelona and Villa are level on nine points, with Barcelona ahead on goal difference."
-    },
-    {
-     "source": "Reddit films, TV, games & football",
-     "trust": 1,
-     "url": "https://reddit.com/r/soccer/comments/1xn3p7g/barcelona_1_0_aston_villa_lamine_yamal_7",
-     "title": "Barcelona [1] - 0 Aston Villa - Lamine Yamal 7'",
-     "lang": "en",
-     "extra": {},
-     "id": "39745fbb905e9120",
-     "published": "2026-11-03T20:09+00:00",
-     "text": "submitted by\n/u/Lazy_Banana_1636\nto\nr/soccer\n[link]\n[comments]"
-    },
-    {
-     "source": "Reddit films, TV, games & football",
-     "trust": 1,
-     "url": "https://reddit.com/r/soccer/comments/1xn5o89/barcelona_3_0_aston_villa_raphinha_64",
-     "title": "Barcelona [3] - 0 Aston Villa - Raphinha 64'",
-     "lang": "en",
-     "extra": {},
-     "id": "0b98b69b6c7f326a",
-     "published": "2026-11-03T21:25+00:00",
-     "text": "submitted by\n/u/Lazy_Banana_1636\nto\nr/soccer\n[link]\n[comments]"
-    }
-   ]
-  },
-  {
-   "id": "c7bc2ac7a25",
-   "kind": "news",
-   "score": 16.0,
-   "sensitive": false,
-   "distinct_sites": 4,
-   "title_hint": "OpenAI employees warned about operational security lapses for years, sources say",
-   "official_image": null,
-   "sources": [
-    {
-     "source": "Investing.com",
-     "trust": 2,
-     "url": "https://investing.com/news/economy-news/openai-employees-warned-about-operational-security-lapses-for-years-sources-say-4996239",
-     "title": "OpenAI employees warned about operational security lapses for years, sources say",
-     "lang": "en",
-     "extra": {},
-     "id": "7bc2ac7a25a16cac",
-     "published": "2026-11-03T19:00+00:00",
-     "text": ""
-    },
-    {
-     "source": "Reuters Tech",
-     "trust": 2,
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
-     "title": "OpenAI employees warned about operational security lapses for years, sources say",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-     },
-     "id": "36883f59ca80de66",
-     "published": "2026-11-03T19:10+00:00",
-     "text": "OpenAI employees warned about operational security lapses for years, sources say\nReuters"
-    },
-    {
-     "source": "Japan Times",
-     "trust": 2,
-     "url": "https://japantimes.co.jp/business/2026/11/04/openai-employees-security-lapses",
-     "title": "OpenAI employees warned about operational security lapses for years, sources say",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/572181.JPG?v=3.1"
-     },
-     "id": "328607f0b0e56485",
-     "published": "2026-11-04T02:13+00:00",
-     "text": "SAN FRANCISCO – When OpenAI disclosed in October that it found a recording device planted in an executive conference room, a number of former employees had the same reaction — they were not surprised.\nEven before OpenAI launched ChatGPT in late 2022, some company staffers raised concerns internally about its security practices, according to five people familiar with the matter. Employees shared their concerns with top OpenAI leaders and the board of directors, the people said, adding that some staffers came away from those interactions concluding that management was more focused on keeping pace with competitors like Google and Anthropic than on security.\nThese workers argued that OpenAI’s controls were so lax that outsiders, including foreign governments, could obtain sensitive information about the artificial intelligence lab’s technology with relative ease, the people said. For example, anybody at OpenAI who could access its code could see the technical details underlying many company projects.\nWith your current subscription plan you can comment on stories. However, before writing your first comment, please create a display name in the Profile section of your subscriber account page."
-    },
-    {
-     "source": "The Hindu Sci-Tech",
-     "trust": 2,
-     "url": "https://thehindu.com/sci-tech/technology/openai-employees-warned-about-operational-security-lapses-for-years-sources-say/article71663807.ece",
-     "title": "OpenAI employees warned about operational security lapses for years, sources say",
-     "lang": "en",
-     "extra": {
-      "page_image": "https://th-i.thgim.com/public/incoming/l9s7ht/article71663811.ece/alternates/LANDSCAPE_1200/2026-11-03T185546Z_741244339_RC2QRLA68YEJ_RTRMADP_3_OPENAI-SPYING-SECURITY.JPG"
-     },
-     "id": "61b1ea91550b5cc2",
-     "published": "2026-11-04T04:20+00:00",
-     "text": "When OpenAI disclosed in October that it found a recording device planted in an executive conference room, a number of former employees had the same reaction — they were not surprised.\nEven before OpenAI launched ChatGPT in late 2022, some company staffers raised concerns internally about its security practices, according to five people familiar with the matter. Employees shared their concerns with top OpenAI leaders and the board of directors, the people said, adding that some staffers came away from those interactions concluding that management was more focused on keeping pace with competitors like Google and Anthropic than on security.\nThese workers argued that OpenAI’s controls were so lax that outsiders, including foreign governments, could obtain sensitive information about the AI lab’s technology with relative ease, the people said. For example, anybody at OpenAI who could access its code could see the technical details underlying many company projects.\nOpenAI has begun to shift strategy to address security issues, according to two people familiar with the matter. Thibault Sottiaux, a senior executive overseeing product development, has recently taken charge of an internal initiative to secure OpenAI’s internal systems, they said. In August, Sottiaux, who goes by “Tibo,” reassigned a quarter of OpenAI’s production engineers to improve its security infrastructure, one of the people said.\nThe internal warnings, including years of employee complaints to leadership about internal vulnerabilities, certain details of which have not been previously reported, shed light on a tension within the AI field. Since ChatGPT launched in late 2022, AI technology has become a strategic asset for the US, putting pressure on American companies to protect their technology from foreign rivals.\nBut adding security layers can also delay the process of advancing AI technology and possibly complicate OpenAI’s and Anthropic’s plans for massive initial public offerings that would make them among the most valuable companies in the world.\nWill DePue, a former OpenAI researcher who resigned from the company in April of this year, wrote in a post on X that with competition so tense, AI leaders “can’t sacrifice velocity for security. It is more important to them to move fast than to be secure, even from our greatest national adversaries.”\nWhen asked about employees’ concerns and their view that management did not act on these issues, OpenAI spokesperson Elana Widmann said that OpenAI is one of the most targeted organisations in the world. As a result, the company invests heavily in its security program to protect against attacks from insiders, cybercriminals and nation-states, she said.\n“Protecting our technology, data, and people is a responsibility we take seriously and a matter of national importance,” Widmann said. “The actions we’ve taken recently show that program doing its job: identifying risks and responding decisively. We’ll keep strengthening our defenses as technology and threats evolve.”\nOn October 13, the Justice Department said US federal agents arrested a Saudi national and charged him with installing a hidden audio recording device, concealed in toilet paper, in an executive conference room. Abdulrahman Alfozan, 35, was an OpenAI engineer at the time.\nAlfozan also used an AI tool meant for OpenAI employees to find internal documentation about executives visiting Saudi Arabia and which OpenAI officials were most likely to attend meetings with Sau"
-    }
-   ]
-  },
-  {
    "id": "cdbfec815f3",
    "kind": "free",
    "score": 6.0,
@@ -8527,8 +8418,8 @@
       "market": "crypto",
       "day": "2026-11-04"
      },
-     "published": "2026-11-04T15:14+00:00",
-     "text": "Bitcoin: $80,590 (+4.2% 24h)\nEthereum: $2,431 (+6.3% 24h)\nSolana: $97.34 (+4.4% 24h)\nToncoin: $1.20 (+2.6% 24h)"
+     "published": "2026-11-04T15:45+00:00",
+     "text": "Bitcoin: $80,330 (+3.6% 24h)\nEthereum: $2,427 (+5.8% 24h)\nSolana: $96.60 (+3.3% 24h)\nToncoin: $1.20 (+2.0% 24h)"
     }
    ]
   },
